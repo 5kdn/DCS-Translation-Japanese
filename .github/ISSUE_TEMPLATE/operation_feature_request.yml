@@ -1,0 +1,48 @@
+name: ✨ [運用]新機能リクエスト
+description: 新しい機能の追加を提案するためのテンプレート
+title: "[Operation Feature]: "
+labels: [operation, feature_request]
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: 概要
+      description: 提案する新規機能の簡潔な説明を書いてください
+      placeholder: "例: PRのマージ前にluaファイルに対して構文チェックを導入したい"
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: 動機・背景
+      description: なぜこの新機能が必要か、解決したい課題を書いてください
+      placeholder: "例: luaファイルが壊れていないか手動でチェックする必要がある"
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: 提案する解決策
+      description: 具体的な挙動・UI・技術的アプローチなどがあれば記載してください
+      placeholder: "例: github workflowでluaの構文チェックを実施する"
+    validations:
+      required: false
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 代替案
+      description: 他に考えた解決方法があれば書いてください
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 補足情報
+      description: 参考資料やスクリーンショット、関連Issue/PRなどがあれば記載してください
+      placeholder: "例: 類似Issue #789、関連PR #101"
+    validations:
+      required: false

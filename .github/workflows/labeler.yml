@@ -1,0 +1,29 @@
+# ------------------------------------------------------------
+# Workflow Name : Labeler
+# Trigger       : pull_request_target (opened/synchronize/edited/reopened)
+# Purpose       :
+#   - 変更パス/ブランチ名に応じた自動ラベル付与
+#   - 設定は .github/labeler.yml を使用
+# ------------------------------------------------------------
+name: Labeler
+
+on:
+  pull_request_target:
+    types:
+      - opened
+      - synchronize
+      - edited
+      - reopened
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - uses: actions/labeler@v5
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          configuration-path: .github/labeler.yml
+          sync-labels: true

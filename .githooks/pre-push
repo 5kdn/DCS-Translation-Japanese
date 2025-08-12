@@ -1,0 +1,60 @@
+#!/usr/bin/env sh
+#
+# summary: master/main ブランチへの push 禁止
+#
+# description:
+#   以下のブランチへの push を禁止します。（PR 経由のみ許可）:
+#   - master
+#   - main
+#
+#   事故復旧など止むを得ない場合のみ、環境変数で一時解除できます:
+#     ALLOW_DIRECT_PUSH_TO_PROTECTED=1 git push origin master
+#
+# notes:
+#   - サーバー側（GitHub）でもブランチ保護を必ず設定してください
+#     （PR 必須 / force-push 禁止 / ステータスチェック必須 / レビュー必須 / 管理者にも適用）。
+#   - Git for Windows でも動作します。チームには以下の設定を周知してください:
+#       git config core.hooksPath .githooks
+#
+
+set -eu
+
+# 緊急オプトアウト（既定はブロック）
+if [ "${ALLOW_DIRECT_PUSH_TO_PROTECTED:-}" = "1" ]; then
+    exit 0
+fi
+
+# pre-push は stdin に複数行流れてくる:
+# <local ref> <local sha> <remote ref> <remote sha>
+blocked=0
+blocked_list=""
+
+while read -r local_ref local_sha remote_ref remote_sha; do
+    case "${remote_ref:-}" in
+    refs/heads/master|refs/heads/main)
+        blocked=1
+        blocked_list="${blocked_list}${remote_ref}\n"
+        ;;
+    *)
+        # refs/tags/*（タグ）は許可
+        :
+        ;;
+    esac
+done
+
+if [ "${blocked}" -eq 1 ]; then
+    {
+        echo "ERROR: master/main ブランチへの push は禁止されています。"
+        echo "別ブランチへ push し、Pull Request を作成してください。"
+        echo
+        echo "ブロック対象の参照:"
+        # 空行を除去し、行頭に箇条書きマーカーを付与
+        printf %b "${blocked_list}" | sed '/^$/d; s/^/  - /'
+        echo
+        echo "※緊急時のみ一時解除可: ALLOW_DIRECT_PUSH_TO_PROTECTED=1 git push <remote> <branch>"
+        echo "※サーバー側のブランチ保護も必ず有効化してください。"
+    } >&2
+    exit 1
+fi
+
+exit 0
