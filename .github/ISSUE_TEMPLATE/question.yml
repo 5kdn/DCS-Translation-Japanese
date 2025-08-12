@@ -1,0 +1,55 @@
+name: ❓ 質問
+description: 使い方や挙動に関する質問を記録するテンプレート（一般的な質問は Discord を推奨）
+title: "[Question]: "
+labels: [question]
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: 質問の概要
+      description: 質問を簡潔に書いてください
+      placeholder: "例: 設定ファイルの保存場所を変更できますか？"
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: 背景・前提
+      description: どのような状況で疑問が生じたかを記載してください
+      placeholder: |
+        例:
+        - ドキュメントを読んだが方法が見つからなかった
+        - 実際に操作してみて挙動が理解できなかった
+    validations:
+      required: true
+
+  - type: textarea
+    id: tried
+    attributes:
+      label: 試したこと
+      description: すでに調べたり試した内容があれば記載してください
+      placeholder: |
+        例:
+        - README の手順を実施した
+        - 設定ファイルを直接編集してみた
+    validations:
+      required: false
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: 知りたいこと / 期待する答え
+      description: どのような情報が得られれば解決するかを記載してください
+      placeholder: "例: 設定ファイルの保存先を環境変数で指定できるかどうか"
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 補足情報
+      description: 参考資料や関連Issue/PR、スクリーンショットなどがあれば記載してください
+      placeholder: "例: 類似Issue #123、公式ドキュメントのリンク"
+    validations:
+      required: false
