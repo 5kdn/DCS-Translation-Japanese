@@ -1,0 +1,236 @@
+dictionary = 
+{
+    ["DictKey_GroupName_138"] = "Batumi-soldier",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_GroupName_124"] = "Target-1-06",
+    ["DictKey_90"] = "ADIのピッチ・バンクステアリングバーが中央になるように飛べ。\
+\
+速度が約120ktsを維持するようモニターしろ。",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_84"] = "オートパイロットがOFFになった。\
+\
+今、Batumiの滑走路が10時の方向に見えるはずだ。滑走路が9時の方向に近づけば、アプローチ・フィックスの近くだ。\
+\
+アンチスキッド・スイッチがONになっているか確認しろ。\
+\
+2,500ftに降下し、230から250ktsの間を維持しろ。",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_UnitName_135"] = "Hawg-11",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_GroupName_132"] = "Target-2-04",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_76"] = " HOTAS Coolie Hat UP commandかUキーを押してHUDをSOIにしろ。",
+    ["DictKey_78"] = "ILSレシーバーがILSの信号を拾うと、ADIにグライドスロープ指示計が現れる。この針が中央にくるように高度を上げ下げしていると、ADIにピッチステアリングバーが現れ、グライドパスを降りる正確なピッチを教えてくれる。バンクステアリングバーもADIに現れ、正確な方向をおしえてくれる。\
+\
+準備ができたらスペースバーを押せ。",
+    ["DictKey_86"] = "グライドスロープ指示計が、グライドスロープより低いことを示している。針が中央になるように高度を上げろ。",
+    ["DictKey_UnitName_145"] = "Batumi-Static-02",
+    ["DictKey_UnitName_121"] = "Target-1-04",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_100"] = "駐機場まで誘導路のラインを追え。チーフクルーがそこへ向かっているようだ。",
+    ["DictKey_UnitName_115"] = "Target-1-03",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_UnitName_123"] = "Target-1-05",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_UnitName_131"] = "Target-2-03",
+    ["DictKey_UnitName_157"] = "Batumi-Static-11",
+    ["DictKey_sortie_170"] = "",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_83"] = "ADIの赤いグライドスロープ・ワーニング・フラグは我々が現在ILS信号を受信していないことを示している。滑走路に近づくとフラグは消え、グライドスロープ指示計が現れる。\
+\
+準備ができたらスペースバーを押せ。オートパイロットを切るから自力で降下できるぞ。",
+    ["DictKey_UnitName_155"] = "Batumi-Static-10",
+    ["DictKey_111"] = "バッテリーを切れ。",
+    ["DictKey_UnitName_125"] = "Target-1-06",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_75"] = "TADマップを少し縮小して、アプローチする基地のステアポイントをマップ上で見てみよう。左MFCDのOSB-15を押してTADをSOIにしろ。それから、HOTAS DMS DOWNかENDキーを2度押せ。",
+    ["DictKey_92"] = "AOAインデクサーが速度が高すぎることを示している。機首を上げるか、パワーを下げてAOAを上げろ。必要であれば、左CTRLとBを押してスピードブレーキを展開しろ。スピードブレーキを格納するには左SHIFTとBキーを押せ。",
+    ["DictKey_60"] = "UFCで「FUNK」の後に「2」（NAV）を押してCDU NAVページを開け。",
+    ["DictKey_GroupName_146"] = "Batumi-Static-04",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_WptName_214"] = "",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_UnitName_159"] = "Batumi-Static-07 #001",
+    ["DictKey_UnitName_137"] = "Batumi-car",
+    ["DictKey_UnitName_162"] = "Unit #1",
+    ["DictKey_GroupName_120"] = "Target-1-04",
+    ["DictKey_UnitName_153"] = "Batumi-Static-09",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_GroupName_165"] = "FARP-Chopper-2",
+    ["DictKey_UnitName_149"] = "Batumi-Static-06",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_79"] = "グライドパスに乗ったら、アングル・オブ・アタック・インデクサーを使ってアプローチ中の速度を維持しろ。今日は軽いので、120kts以下でいいだろう。\
+\
+AOAインデクサーでは「/\\」（上矢印）のライトは速度が速すぎることを示している。「\\/」（下矢印）のライトは速度が遅すぎることを示している。「O」（「ドーナッツ」）のライトは適切な速度であることを示している。ドーナッツと矢印が同時に表示されている場合は、速度が少しだけずれていることを示している。\
+\
+準備ができたらスペースバーを押せ。",
+    ["DictKey_UnitName_133"] = "Target-2-04",
+    ["DictKey_UnitName_151"] = "Batumi-Static-07",
+    ["DictKey_102"] = " ILSレシーバーの左周波数ダイアルノブを右クリックして切れ。",
+    ["DictKey_GroupName_116"] = "Target-1-02",
+    ["DictKey_UnitName_117"] = "Target-1-02",
+    ["DictKey_UnitName_127"] = "Target-2-01",
+    ["DictKey_UnitName_143"] = "Batumi-Static-01",
+    ["DictKey_57"] = "ランディング・トレーニング・ミッションへようこそ。このミッションでは、計器着陸装置（ILS）を使ってBatumi基地に着陸する訓練を行う。\
+\
+オートパイロットで高度と方位を保つようにしておいた。アプローチの準備ができたら、速度を約200ktsに維持しろ。\
+\
+騒音で私の説明が聞き取りづらかったら、ミッションを出て、WORLDとIN-COCKPITの音量を50%に下げろ。",
+    ["DictKey_80"] = " ILSに加え、Batumi基地には進入角指示灯（PAPI）も設置されている。PAPIはファイナルアプローチ中にパイロットがグライドスロープを維持する補助として作られている。滑走路の脇に、4つのライトが横一列に並んでいる。ライトは赤か白のどちらかで示される。目標は、左から、赤2つ白2つの順に見えるようにすることだ。赤が多いときは、グライドスロープより低いことを示している。白が多いときは、グライドスロープより高いことを示している。\
+\
+準備ができたらスペースバーを押せ。",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_GroupName_142"] = "Batumi-Static-01",
+    ["DictKey_UnitName_164"] = "FARP-Chopper-1",
+    ["DictKey_58"] = " ランディングはどんなフライトにおいても難しい作業だ。良いランディングをするには機体のコントロールに注意を払い、基地の航空管制官（ATC）の指示のもと、様々な計器類を駆使して精密なアプローチを行う必要がある。\
+\
+ランディングは次のような順に行われる。TACANかGPSを使って飛行場にナビゲートする。ラジオを飛行場の周波数に合わせる。ILSレシーバーを飛行場のILS周波数に合わせる。ATCの指示に従ってファイナルアプローチ・フィックスにナビゲートする。そして最後にファイナルアプローチを行って、滑走路のタッチダウンポイントに向かうグライドスロープを正確に降りていく。\
+\
+準備ができたらスペースバーを押せ。",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_67"] = "左周波数ホイールを右クリックして、ILSレシーバーの電源を入れよう。",
+    ["DictKey_69"] = "F5を押してATCラジオページを選択し、Batumi approach、そしてF1を押してインバウンドをコールしよう。\
+\
+インバウンドの指示を受けたら覚えておけ。\
+\
+Batumi ATCから、ファイナルアプローチ・フィックスへの方位を受け取ったら、スペースバーを押して進めよう。",
+    ["DictKey_89"] = "もしまだだったら、機体を着陸態勢にしよう。Fキーを2度押して、フラップをDN（ダウン）ポジションにし、左SHIFTとGキーを押してランディングギアを下せ。",
+    ["DictKey_72"] = "As indicated by ATC, the Batumi pressure altimeter reading is 29.88 inHg (inches of mercury). We need to match this setting on the pressure altimeter in the cockpit to ensure the altitude readings in the cockpit are in reference to the altitude of the runway.",
+    ["DictKey_GroupName_148"] = "Batumi-Static-06",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_87"] = "グライドスロープ指示計が、グライドスロープより高いことを示している。針が中央になるように高度を下げろ。",
+    ["DictKey_GroupName_114"] = "Target-1-03",
+    ["DictKey_GroupName_144"] = "Batumi-Static-02",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_108"] = "右ALTとENDキーをおして左エンジンをスプールダウンしろ。\
+\
+EMIパネルで、0コアスピードRPM、ITT200度以下になるまで安全なスプールダウンかチェックしろ。エンジンが止まるとわずかに熱を持つ「ソークバック」がおこる。",
+    ["DictKey_70"] = " ESCキーをおしてラジオメニューを出よう。数分後にまた使うだろう。\
+\
+これでファイナルアプローチ・フィックスへナビゲートすることができる。そこは滑走路から約10nm離れた場所だ。\
+\
+飛行していく高度は、飛行場や状況によって異なってくるが、一般的には2,000-3,000ft. AGL（地面からの高さ）だ。\
+\
+準備ができたらスペースバーを押してくれ。オートパイロットを切って、自力でATCが指示した方位に旋回できるぞ。",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_106"] = "左SHIFTとFキーを2度押してフラップをUPポジションまで引き込め。",
+    ["DictKey_109"] = "右CTRLとENDキーを押して、右エンジンを切れ。",
+    ["DictKey_GroupName_158"] = "Batumi-Static-07 #001",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_104"] = "左右のMFCDを切れ",
+    ["DictKey_GroupName_130"] = "Target-2-03",
+    ["DictKey_59"] = "Because前回TACANナビゲーションをやったので、今回はEGIのGPSを使って目的地にナビゲートしよう。CDU DIVERTページは、ウェイポイントとして選択可能な、最寄りの飛行場4つをリストアップしてくれる。このページに見るには、まず、右MFCDのOSB-13を押してCDUページを開こう。",
+    ["DictKey_GroupName_126"] = "Target-2-01",
+    ["DictKey_68"] = "Batumi approachにチェックインして、我々がインバウンドすることを伝えよう。\
+\
+HOTAS Mic Switch FORWARD command か 左ALTとNum+キーを押して VHF/AMラジオメニューを開け。",
+    ["DictKey_103"] = "AHCPのIFFCCとCICUを切れ。",
+    ["DictKey_112"] = "VHF/AM、UHFとVHF/FMラジオを切れ",
+    ["DictKey_GroupName_136"] = "Batumi-car",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_105"] = "カウンターメジャーシステムを切れ。",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_GroupName_160"] = "Batumi Cars",
+    ["DictKey_98"] = "ラダーか、XとYキーを使って機体に滑走路の中央を走らせろ。Wキーを押してホイールブレーキをかけろ。\
+\
+速度が70kts以下になったら、HOTAS Pinky button か INSERTキーを押してノーズホイールステアリング（NWS)を入れろ。",
+    ["DictKey_82"] = "ファイナルアプローチ・フィックスに近づいている。\
+\
+NMSPでILSモードを選べ。",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_65"] = "よし。これで、Batumi ATCにコンタクトして、イニシャルアプローチの指示を受けることができる。だがその前に、アプローチのためにILSパネルをセットアップしよう。\
+\
+ILSは地上に設置されている正確なアプローチシステムだ。滑走路にアプローチしてくる航空機を、垂直（グライドスロープ）、水平（ローカライザー）電波信号を使って誘導する。\
+\
+ILSビーコンは特定の周波数で発せられているから、アプローチする航空機が合わさなければならない。Batumi ILSは110.30MHzだ。\
+\
+ILSパネルの、左の周波数ホイールの上で、マウスホイールを回して、まず「110」に合わせよう。",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_134"] = "Hawg-1",
+    ["DictKey_81"] = "アプローチ・フィックスにもう少し近づくまでオートパイロットを続ける。\
+\
+時間を早回しにしたければ、左CTRLとZキーを押すといい。左SHIFTとZを押すと元の時間に戻る。",
+    ["DictKey_97"] = " タッチダウン！機首を下げ、ノーズギアをタッチダウンさせろ。",
+    ["DictKey_descriptionRedTask_168"] = "",
+    ["DictKey_77"] = "ファイナルを旋回したら、機体の操縦に集中したいだろうから、ファイナルアプローチ・フィックスに近づくと何が起こるか話しておこう。\
+\
+約2,500ft、230kts対気速度（KIAS）でアプローチ・フィックスに到達したい。\
+\
+ファイナルアプローチ・フィックスに近づくにつれ、HSIのCDIが、コースアローにむかって下がってくる。滑走路の方位に沿ったグライドスロープを拾うためには、2つの線が一直線になるように、滑走路へ向かって旋回する。旋回しながら、着陸に向けて速度を落とし、ランディングギアとフラップを展開する。\
+\
+準備ができたらスペースバーを押せ。",
+    ["DictKey_GroupName_154"] = "Batumi-Static-10",
+    ["DictKey_UnitName_161"] = "Unit #2",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_107"] = "右コンソールのEGIとCDUを切れ。",
+    ["DictKey_UnitName_147"] = "Batumi-Static-04",
+    ["DictKey_96"] = " 滑走路まで数フィートのところまで接近したら、パワーを絞ってアイドルにし、やさしく操縦桿を引き、機体にフレアをかけろ。",
+    ["DictKey_UnitName_139"] = "Batumi-soldier",
+    ["DictKey_GroupName_122"] = "Target-1-05",
+    ["DictKey_64"] = "MHzの1桁目のホイールを1回左クリックして「1」に合わせろ。",
+    ["DictKey_GroupName_140"] = "crew-chief",
+    ["DictKey_66"] = "次に右の周波数ホイールの上で、マウスホイールを回して、小数点以下を「.30」に合わせよう。",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_99"] = "左側の誘導路を使って滑走路からでろ。\
+\
+タキシングをしている間、曲がりながらブレーキをかけるをことはよせ。速度を制御できる範囲に維持して、タイヤやギア装置にダメージを与えたり、機体が傾かないようにしろ。",
+    ["DictKey_UnitName_119"] = "Target-1-01",
+    ["DictKey_GroupName_163"] = "FARP-Chopper-1",
+    ["DictKey_88"] = "Theグライドスロープ指示計が、グライドスロープに乗っていることを示している。ADIのピッチステアリングバーが中央になるようし、グライドスロープを維持しろ。",
+    ["DictKey_101"] = "機体をシャットダウンしよう。\
+\
+まず、アンチスキッドとピトーチューブヒートスイッチをOFFにしろ。",
+    ["DictKey_94"] = " AOAインデクサーが速度が適切であることを示している。アプローチ中、ドーナッツライトを維持しろ。",
+    ["DictKey_74"] = "それから、ファイナルアプローチにおいてCDIから適切な指示を得るために、HSIの方位を滑走路の方位である130度に合わせる必要がある。これをするには、HSI COURSE SETノブの上でマウスホイールを回して、HSIコースアローを130にしろ。左クリックで左右にドラッグしてもノブを回せる。数値はHSIのコースセレクターウィンドウでわかる。",
+    ["DictKey_UnitName_166"] = "FARP-Chopper-2",
+    ["DictKey_61"] = "OSB-10を押してDIVERTページを開け。",
+    ["DictKey_descriptionText_167"] = "",
+    ["DictKey_descriptionBlueTask_169"] = "",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_73"] = "オートパイロットがONになった。\
+\
+滑走路の高度とコックピットの高度が同じになるように、Batumiの高度計に合わせる必要がある。高度計のpressureノブの上で、マウスホイールを回すかクリックしてノブを回し、マウスを左にドラッグしろ。",
+    ["DictKey_110"] = "エレクトリカル・パネルのインバータースイッチをOFFにしろ。",
+    ["DictKey_85"] = " HSIのCDIがコースアローに近づいている。滑走路に向けて左旋回しろ。200kts以下に向けて、徐々に速度が下がるようにパワーを落とせ。\
+\
+滑走路のコースを通り過ぎてしまったら、CDIが再びコースアローと一直線になるように、反対方向にコースを修正しろ。",
+    ["DictKey_63"] = "これで、HUD右下のナビゲーション・データブロックで、「ホームプレート」までの距離とTTGを見ることができる。\
+\
+CDUのFLD INFO（フィールド・インフォ）ページに示されているように、BatumiのATCラジオ周波数は131.000MHzだ。この周波数にVHF/AMラジオを合わせる必要がある。\
+\
+VHF/AMラジオを131.000に合わせたら、スペースバーを押して次に進めよう。",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_62"] = "DIVERTページは最寄りの４つの飛行場と、その方位、距離、Time-To-Go（所要時間）を表示している。\
+\
+OSB-16をおしてBatumi基地をステアポイントにしろ。",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_GroupName_152"] = "Batumi-Static-09",
+    ["DictKey_GroupName_150"] = "Batumi-Static-07",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_UnitName_141"] = "crew-chief",
+    ["DictKey_GroupName_156"] = "Batumi-Static-11",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_UnitName_129"] = "Target-2-02",
+    ["DictKey_93"] = "AOAインデクサーが速度が低すぎることを示している。パワーを上げろ。",
+    ["DictKey_GroupName_128"] = "Target-2-02",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_91"] = "Batumi approachは着陸許可をするため、我々をBatumi terminal controlに移管した。着陸を要請するには、HOTAS Mic Switch FORWARD command か左ALTかNum+キーを押し、VHF/AMラジオメニューを開け。それからF1を押し、着陸許可を要請しろ。\
+\
+許可が下りたら、ESCキーを押してラジオメニューを出ろ。",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_GroupName_118"] = "Target-1-01",
+    ["DictKey_71"] = "オートパイロットがOFFになった。ユーハブコントロール。ATCに支持された方位へ旋回しろ。高度は維持しろ。",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_113"] = "これでランディング・トレーニングを終了する。ESCキーを押してミッションを終了しろ。",
+    ["DictKey_95"] = "滑走路の端に近づくと、ADIのピッチステアリングバーが少しずつ振れ出すかもしれないが、それを追ってはならない。タッチダウンポイントまでグライドスロープを維持しろ。",
+} -- end of dictionary

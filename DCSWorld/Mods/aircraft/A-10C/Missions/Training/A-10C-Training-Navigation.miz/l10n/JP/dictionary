@@ -1,0 +1,314 @@
+dictionary = 
+{
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_90"] = "オートパイロットがOFFになった。ユー・ハブ・コントロール。",
+    ["DictKey_WptName_227"] = "",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_UnitName_156"] = "Batumi-Static-08",
+    ["DictKey_sortie_177"] = "",
+    ["DictKey_84"] = "このページにおける表示は、3列目に表示されているウェイポイントのデータを表示させるために使われる。現在のステアポイントと同じウェイポイントである必要はない。これによって、HUDとフロントダッシュの計器類でアクティブになっているステアポイントの選択を解除することなく、ウェイポイントを閲覧・編集できる。例えば、現在のステアポイントであるウェイポイント-4（「POTI」）のデータを閲覧・編集するには、このウェイポイントの番号かIDをCDUで検索することで選択できる。まず、番号で検索してみよう。UFCで「4」を押せ。HUDの一番下と、MFCDのCDUページに、UFCスクラッチパッドで入力した番号が表示されただろう。では、OSB-19を押して番号を検索にかけよう。",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_WptName_182"] = "KOPITNARI",
+    ["DictKey_UnitName_150"] = "Batumi-Static-05",
+    ["DictKey_UnitName_152"] = "Batumi-Static-06",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_GroupName_137"] = "Batumi-car",
+    ["DictKey_76"] = "HUDの右下の隅にはナビゲーション・データブロックが表示されている。これはステアポイントに関する情報だ。一列目から、次のようなことが表示されている。\
+\
+\
+-レーダー高度（5,000ft. AGLで有効）\
+\
+\
+-ステアポイント番号とID\
+\
+\
+-ステアポイントまでの距離と、ターゲットの高度\
+\
+\
+-ステアポイントまでの所要時間（TTG）とターゲット到着時刻（TOT）\
+\
+\
+-現在の時刻\
+\
+\
+ステアポイントに到着指定時刻（DTOT）があるとき、TTGとTOTの数値を使って時間通りに到着するようにできる。その場合、HUD左側の対気速度の下に最適対気速度を見ることができるだろう。\
+",
+    ["DictKey_63"] = "PTRスイッチは、ADIのピッチステアリングバーとロールステアリングバー、コースワーニングフラグを消すためのものだ。",
+    ["DictKey_86"] = "2ページ目にはウェイポイントの追加情報と、コマンド・ステアリング・インディケーション・スケール、ステアリング・オリジン―デジグネーション・セッティング、指定所要時間、指定到着時刻、バーティカル・ナビゲーション・セッティングなどを含むオプションが表示される。\
+\
+\
+2ページ目を見終わったら、UFCのFUNKキーに続いてDATA UP rockerキーを押して1ページ目に戻ってくれ。",
+    ["DictKey_WptName_241"] = "",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_100"] = "TACAN stationに挑戦してみよう。まず、NMSPでTCNナビゲーションモードをONにしろ。",
+    ["DictKey_GroupName_153"] = "Batumi-Static-07",
+    ["DictKey_UnitName_108"] = "Moving-targets-07",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_GroupName_151"] = "Batumi-Static-06",
+    ["DictKey_UnitName_136"] = "Hawg-11",
+    ["DictKey_WptName_240"] = "",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_GroupName_129"] = "Target-2-02",
+    ["DictKey_UnitName_168"] = "Unit #2",
+    ["DictKey_UnitName_122"] = "Target-1-04",
+    ["DictKey_83"] = "見ての通り、右のMFCDは CDUと同じものを表示している。CDUを直接操作することも、UFCとMFCD commandsを使ってCDUデータを閲覧、編集することもできる。\
+\
+\
+CDUは現在、左上のページタイトルにあるように、ウェイポイント・ページを表示している。一列目は現在アクティブになっているフライトプラン名（この場合は「F1」）、ステアポイントのウェイポイント番号を示している。",
+    ["DictKey_96"] = "TO-TOモードでステアポイントがウェイポイントにセットされたら、CDUのアトリビュート・ページがウェイポイントの指定コースを示すだろう。アトリビュート・ページにアクセスするには、NAV select key を押せ。",
+    ["DictKey_UnitName_130"] = "Target-2-02",
+    ["DictKey_GroupName_115"] = "Target-1-03",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_75"] = "HUDからだ。デスティネーション・インデックスは現在のステアポイントの位置を小さな四角として表示する。何も設定していない場合は、現在のステアポイントがセンサー・ポイント・オブ・インタレスト（SPI）にもなる。TADページ上でSPIは「ウエディングケーキ」シンボルとして表示される。現在はウェイポイント-3がそうなっている。",
+    ["DictKey_92"] = "LSK-3Rを押し、このフライトプランのフライトプラン・ビルドページを開け。",
+    ["DictKey_UnitName_171"] = "FARP-Chopper-1",
+    ["DictKey_60"] = "ナビゲーション情報は、HUD、MFCDのTADとCDUページ、CDUディスプレイ、そしてフロントダッシュのADIとHSIなどのアナログ計器を通してパイロットに伝達される。",
+    ["DictKey_WptName_214"] = "",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_GroupName_157"] = "Batumi-Static-09",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_UnitName_113"] = "Moving-targets-02",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_UnitName_111"] = "Moving-targets-04",
+    ["DictKey_UnitName_162"] = "Batumi-Static-11",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_GroupName_165"] = "FARP-2",
+    ["DictKey_WptName_179"] = "MSN001",
+    ["DictKey_79"] = "デスティネーション・インデックスはいまHUDの左側に固定されている。これは2つの追加情報を教えてくれる。インデックスの上にあるのはステアポイントまでの方位度差で、インデックスの下にあるのはステアポイントまでの距離だ。",
+    ["DictKey_GroupName_170"] = "FARP-Chopper-1",
+    ["DictKey_WptName_223"] = "",
+    ["DictKey_WptName_236"] = "",
+    ["DictKey_95"] = "LSK-5Lを二度押してステアリングモードをTO-TOナビゲーションにセットしろ。",
+    ["DictKey_GroupName_117"] = "Target-1-02",
+    ["DictKey_UnitName_114"] = "Moving-targets-01",
+    ["DictKey_descriptionText_174"] = "",
+    ["DictKey_GroupName_147"] = "Batumi-Static-04",
+    ["DictKey_57"] = "Watch your speed. Stay above 250 kts Indicated.速度に注意しろ。250kts以上だ。",
+    ["DictKey_80"] = "SPIをステアポイントから別の場所に変えれば、HUDのデスティネーション・インデックスは「タッドポール（オタマジャクシ型）」になる。これはターゲット・デジグネーション・キュー（TDC）シンボルとの混同を避けるためだ。\
+\
+\
+この表示を見るには、SPIポイントを地表に指定しよう。HOTAS Slew Control DOWN か「. 」（ピリオド）キーを押し続ければTDUがHUDの下に向かって降りてくる。次にHOTAS TMS UP command か L.CTRL + ↑キーを長押しすればSPIが機体のちょうど前方に指定される。\
+",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_UnitName_169"] = "Unit #1",
+    ["DictKey_GroupName_135"] = "Hawg-1",
+    ["DictKey_102"] = "Right-click the right channel selector knob to switch it from the Xchannel pulse modulation to Y.",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_GroupName_161"] = "Batumi-Static-11",
+    ["DictKey_GroupName_149"] = "Batumi-Static-05",
+    ["DictKey_54"] = "ナビゲーション・トレーニングへようこそ。高度と方位が変わらないようにオートパイロットをONにしておいたから、こちらからの指示以外の入力はしないようしてくれ。\
+\
+今回は、A-10のナビゲーション・システムを紹介し、その操作手順を練習していこう。",
+    ["DictKey_UnitName_140"] = "Batumi-soldier",
+    ["DictKey_UnitName_173"] = "FARP-Chopper-2",
+    ["DictKey_UnitName_164"] = "FARP-1",
+    ["DictKey_GroupName_139"] = "Batumi-soldier",
+    ["DictKey_WptName_235"] = "",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_67"] = "ウェイポイントが何であるか、ということを理解しておくことは重要だ。ウェイポイントとは全てのナビゲーション・ポイントに対する総称であり、現在のステアポイントや、フライトプラン中のすべてのウェイポイント、マークポイント、アンカーポイントのことも含む。\
+\
+\
+普通は、複数のウェイポイントから構成されるフライトプランをたどっていくが、そのうちどれか一つが現在のステアポイントとして選択される。CDUを使えば、フライトプラン・ウェイポイントも、独立したウェイポイントも、編集・作成・消去することができる。",
+    ["DictKey_69"] = "ウェイポイントの切り換えはHOTASコントロールでも行える。行うには、HOTAS Coolie Hat UPか、Uキーを押して、まずHUDをSOIにしなければならない。SOIにできたらHUD左側にアスタリスクが現れるだろう。",
+    ["DictKey_89"] = "ウェイポイント-4（「POTI」）をステアポイントにセットしろ。オートパイロットを解除するから、自力でウェイポイント‐4に旋回できるぞ。",
+    ["DictKey_GroupName_131"] = "Target-2-03",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_62"] = "NMSPの一番下の列からは、目標にするナビゲーション・ポイントのタイプを選択できる。STR PT（ステアポイント）、ANCHR（アンカーポイント）、TCN（TACANベーコン）、ILS（計器着陸装置）などがある。飛行中はステアポイントが最もよく使用されるため、STR PTが好ましい選択だろう。TACANとILSは空港へのアプローチと着陸の際に使われる。アンカーポイントは「ブルズアイ」ミッションのためのものだ。\
+\
+\
+おさらいをすると、上列からはナビゲーション・システムが、下列からはナビゲーション・ポイントが選択される。よって、どのシステムがステアリング・インフォメーションをHUDやADIやHSIに表示するか、そしてどのタイプのナビゲーション・ポイントをその目標とするかが決定される。",
+    ["DictKey_UnitName_128"] = "Target-2-01",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_87"] = "ウェイポイントをIDで検索する方法を試そう。さらにUFCの代わりにCDUを使ってデータを入力してみよう。CDUのキーボードボタンで「KOP」と打ち込んでみろ。ウェイポイント-3（「KOPITNARI」）の最初の3文字だ。それから、Line Select Key (LSK) R3(Right-3)を押して検索にかけよう。",
+    ["DictKey_GroupName_127"] = "Target-2-01",
+    ["DictKey_91"] = "オートパイロットがONになった。\
+\
+\
+フライトプランどおり正確にナビゲートさせるためには、指定されたコースでそれぞれのウェイポイントへ飛ぶ必要がある。そのためには、HSIのコースアローをウェイポイントへの指定されたコースにセットし、HSIのコース逸脱計（CDI）に従えばよい。\
+\
+\
+例えば、フライトプランはWP-4へのコースを270としている。正しいCDI表示を得るためには、HSI COURSE SET ノブを回してコースを270にセットしろ。\
+\
+\
+HSIのコースが270にセットされたらスペースキーを押せ。",
+    ["DictKey_WptName_220"] = "",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_GroupName_155"] = "Batumi-Static-08",
+    ["DictKey_WptName_183"] = "POTI",
+    ["DictKey_UnitName_154"] = "Batumi-Static-07",
+    ["DictKey_UnitName_148"] = "Batumi-Static-04",
+    ["DictKey_WptName_226"] = "",
+    ["DictKey_UnitName_126"] = "Target-1-06",
+    ["DictKey_58"] = "A-10Cには複数の異なるシステムからなる高度なナビゲーションが搭載されている。古いものに、A-10Aの頃から搭載されている姿勢方位測定表示装置（HARS）がある。HARSはジャイロ式のナビゲーション・システムなのだが、機体が運動中のときには大きな誤差を生んでしまう。水平で加速していないときにだけ、精確に作動するのだ。こういった制約のためHARSは、主要なナビゲーション・システムが故障した際のバックアップシステムとして運用されている。\
+\
+\
+A-10Cの主要なナビゲーション・システムは、組み込み式GPS/INS、通称EGI（よく「イギー」と発音される）である。EGIは従来の慣性航法システム（INS）と全地球測位システム（GPS）を統合させたものだ。これらEGIの２つのシステムは本来それぞれ独立して機能することもできるが、精確な位置情報と航法支援を提供するために、同時に働くようになっている。\
+\
+\
+最後に、A-10CはTACAN（戦術航法装置）、ILS（計器着陸装置）、そしてADF（自動方向探知機）という昔ながらの電波式ナビゲーション・システムも備えている。",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_UnitName_158"] = "Batumi-Static-09",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_88"] = "CDUを動かしていたが、補助アヴィオニクス・パネル(AAP)において重要な、STEER PT と PAGE select ダイアルの機能を学ぶ良い機会だ。\
+\
+\
+STEER PT ダイアルはデータベースにあるウェイポイントを選択する。FLT PLANにセットしたら、CDUはフライトプランの中のウェイポイントのみを回し変える。MARKにセットしたら、CDUはマークポイントのみで回し変える。MISSIONにセットしたら、CDUはマークポイント以外すべてのポイントで回し変える。フライトプランは、ダイアルがFLT PLANにセットしてあるときだけ、TADに表示されることを覚えておけ。\
+\
+\
+PAGEダイアルにセットすると、ディスプレイに全てのメインページが表示される。WAYPTにセットすると、ウェイポイントのメインページに、選択されたウェイポイントの情報が表示される。STEERにセットすると、ステアポイントのメインページに、選択されたステアポイントの情報が表示される。POSITIONにセットすると位置のメインページに、自機の現在位置が表示される。OTHERページはCDUでデータを編集するために使われる。OTHERにセットにしないと、他のページはすべて読み取り専用となり、データをCDUに入力することはできない。\
+",
+    ["DictKey_94"] = "ウェイポイント-4（「POTI」）をLSK-5Rで選択しろ。",
+    ["DictKey_UnitName_144"] = "Batumi-Static-02",
+    ["DictKey_WptName_180"] = "MSN002",
+    ["DictKey_106"] = "以上でこの訓練を終わる。このままナビゲーション・システムを使ってフライトプラン・ウェイポイントにナビゲートする練習をしてもよい。\
+\
+",
+    ["DictKey_70"] = "HUDがSOIに設定できたので、HOTAS DMS UPかDOWN commands　を押すことで、同じようにウェイポイントを切り換えることができる。\
+\
+\
+ウェイポイント3（「KOPITNARI」）をステアポイントに選択しろ。",
+    ["DictKey_55"] = "騒音で私の説明が聞き取りにくかったら、オプション・メニューに戻ってWORLDとIN COCKPITの音量を50%に下げるといい。",
+    ["DictKey_101"] = "指定されたTACANチャンネルをセットする必要がある。例えば、Senaki TACAN stationを目標にするには、31Xにセットしなければならない。\
+\
+\
+マウスホイールをleft channel selector ノブ の上で回して2桁目を3にしろ。",
+    ["DictKey_WptName_238"] = "",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_105"] = "よし。HSIのBearing Pointer 1 needleが、選択されたTACAN stationの方向を示している。HSIのrange indicatorは距離を示している。\
+\
+\
+TACAN stationのIDがモールス信号に変換されているのを聞くこともできる。TACAN コントロールパネルのvolume ノブを使って、TACAN ID の音量を下げることもできる。\
+\
+\
+指定された方位でTACANアプローチを行いたいときは、HSI Set Course ノブを指定された方位にセットしろ。するとHSI CDI、そしてADIステアリングバーがTACAN stationへのコースへのステアリング指示を示すだろう。\
+\
+\
+設定ができたらスペースキーを押せ。",
+    ["DictKey_GroupName_107"] = "Moving Targets",
+    ["DictKey_WptName_232"] = "",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_104"] = "TACAN受信機の設定をMode dial からT-R(transmit-receive)に切り替え、電源をつけろ。",
+    ["DictKey_GroupName_163"] = "FARP-1",
+    ["DictKey_93"] = "PAGE DOWN rocker keyを押して2ぺージ目に移れ。",
+    ["DictKey_UnitName_134"] = "Target-2-04",
+    ["DictKey_UnitName_166"] = "FARP-2",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_103"] = "right channel selector ノブのうえでマウスホイールを回し、1に合わせろ",
+    ["DictKey_GroupName_167"] = "Batumi Cars",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_UnitName_124"] = "Target-1-05",
+    ["DictKey_65"] = "OK。これでTADが操作できるようになった。まずマップを縮小し、フライトプランの全体像が見えるようにしてみよう。TADを縮小するにはフライトプランが見えるようになるまでHOTAS DMS DOWN command か ENDキーを押せ。（この場合は3回）\
+",
+    ["DictKey_GroupName_133"] = "Target-2-04",
+    ["DictKey_UnitName_110"] = "Moving-targets-05",
+    ["DictKey_61"] = "では、それぞれのナビゲーション類をより詳しく見ていこう。\
+\
+\
+フロントダッシュの一番下、操縦桿の向こうにあるNMSPは、計器類にデータを供給するナビゲーション・システムの選択や、その目標となるナビゲーション・ポイントのタイプの選択に使われる。例えば一番上の列からはHARS、EGI、TISL（目標認識設定レーザー）が選択できる。EGIが最も頻繁に使われことになる主要なナビゲーション・システムだ。これがデフォルトで設定されているのがわかるだろう。TISLはHARSと同じくA-10A時代に使われていたシステムで、A-10CになってからはAN/AAQ-28 LITENING-Ⅱターゲティングポッドに取って代わられている。",
+    ["DictKey_82"] = "次はCDUについて話そう。まず、右のMFCDをCDUリピーターとしてセットしよう。CDUページを切り替えるためにHOTAS　Coolie Hat RIGHT command を押すか K キーを2回押すか 右のMFCDのCDU OSB-13を押せ。",
+    ["DictKey_56"] = "スロットルを90% core RPM以上にして、機体が250kts以上になるようしておけ。",
+    ["DictKey_71"] = "HUDのステアポイント・データブロックを見ればわかるように、このウェイポイントには「KOPITNARI」というIDが付けられている。次のウェイポイントに切り替えれば、こちらにも「POTI」というIDが付いている。ミッション・ウェイポイントはデフォルトで「MSNxxx」というIDが割り当てられる。「xxx」の部分には001から順番に数字が入れられる。マークポイントにも「A」から順にアルファベットが割り当てられる。任意のウェイポイントのIDはミッション前にミッションプランナーで作成するか、フライト中にCDUのウェイポイント編集機能を使って作成できる。ウェイポイントのIDはCDUデータベースでウェイポイントを検索するときにも使える。",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_141"] = "Batumi-Static-01",
+    ["DictKey_81"] = "HUDはいま、タッドポール型のデスティネーション・インデックスと、トータル・ベロシティ・ベクトルへ延びるラインでSPIロケーションをTDCとして表示している。\
+\
+\
+タッドポールはHUDの、ステアポイントがある側に固定され、タッドポールの「しっぽ」は自機の現在位置に対するステアポイントの角度を示している。",
+    ["DictKey_97"] = "ATTRIBUTES LSK-5Rを押せ。\
+",
+    ["DictKey_WptName_230"] = "",
+    ["DictKey_UnitName_116"] = "Target-1-03",
+    ["DictKey_74"] = "オートパイロットがONになった。\
+\
+\
+パイロットに示されるステアポイントをもう一度見てみよう。",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_GroupName_145"] = "Batumi-Static-03",
+    ["DictKey_72"] = "ウェイポイント-3（KOPITNARI）がステアポイントとして設定されているか確認してくれ。それに向かって北へ旋回し、フライトを続けよう。\
+\
+\
+オートパイロットを切るから、自分で旋回できるぞ。",
+    ["DictKey_59"] = "ナビゲーション・システムの設定をするには主に、フロントダッシュにあるナビゲーション・モード・セレクト・パネル（NMSP）と、右コンソールにあるコントロール・ディスプレイ・ユニット（CDU）が使われる。この訓練では、右コンソールのTACANパネルも使うつもりだ。\
+\
+\
+視線を下げて計器をいじっている時間を最小限にするため、A-10CではHUDの下にアップ・フロント・コントローラ（UFC）が、MFCDにはCDUリピーター・ページが実装された。これにより、CDUそのものに触らずとも、CDUのデータを操作することが出来るようになっている。",
+    ["DictKey_descriptionRedTask_175"] = "",
+    ["DictKey_64"] = "次に見るのはTADページだ。現在、左のMFCDに表示されている。\
+\
+\
+TADには、現在ディスプレイの中央に表示されている自機シンボルや、同じくディスプレイ中央を上下に走っているフライトプラン・コースライン、その他様々な表示がある。それぞれ説明していこう。\
+\
+\
+TADページで操作を行うには、まずこれをセンサー・オブ・インタレスト（SOI）として設定する必要がある。それにはHOTAS Coolie Hat LEFT command かHキーを長押しするだけでよい。もしくは、TAD OSB(15)を押してもよい。SOIに設定されると、ディスプレイが緑線で囲われるはずだ。",
+    ["DictKey_GroupName_121"] = "Target-1-04",
+    ["DictKey_66"] = "我々のフライトプランが６つのウェイポイントから成っているのがわかるだろう。四角形のシンボルがコースラインによって繋がれている。現在選択されているウェイポイントは、ステアポイントと呼ばれる。緑ではなく黄色で表示されている。\
+\
+\
+画面右上には、現在40と表示されているTADレンジと、縮尺が表示されている。レンジの値は外側の円までの距離を示している。",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_WptName_221"] = "",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_GroupName_123"] = "Target-1-05",
+    ["DictKey_descriptionBlueTask_176"] = "",
+    ["DictKey_UnitName_142"] = "Batumi-Static-01",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_WptName_231"] = "",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_UnitName_112"] = "Moving-targets-03",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_UnitName_160"] = "Batumi-Static-10",
+    ["DictKey_73"] = "オートパイロットがOFFになった。ユー・ハブ・コントロール。",
+    ["DictKey_GroupName_125"] = "Target-1-06",
+    ["DictKey_85"] = "CDUにおいてウェイポイント-4（「POTI」）に関する、高度・到着指定時刻・座標などの詳細なデータがわかったはずだ。CDUページの右下にあるように、このページは2ページ中の1ページ目だ。2ページ目の情報を見るためには、UFCのFUNKキーを押し、続いてDATA DOWN rocker キーを押せ。\
+",
+    ["DictKey_UnitName_146"] = "Batumi-Static-03",
+    ["DictKey_78"] = "ステアポイントがHUDの視野外にあるとき、デスティネーション・インデックスはHUDの左右どちらか、ステアポイントがある側に固定される。\
+\
+\
+この表示を見るには、ウェイポイント-4（「POTI」）をステアポイントにすればよい。",
+    ["DictKey_UnitName_120"] = "Target-1-01",
+    ["DictKey_WptName_229"] = "",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_UnitName_132"] = "Target-2-03",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_UnitName_138"] = "Batumi-car",
+    ["DictKey_99"] = "HSI　コース逸脱計（CDI）とADIのステアリングバーが指定されたコースラインを指し示すだろう。指定されたコースにのってウェイポイントに行くには、まずCDIがコースアローと一直線になるまでCDIに向かって飛行し、その後ステアリングバーがADIの中央にくるように飛行しろ。\
+\
+\
+次に進むにはスペースバーを押せ。",
+    ["DictKey_GroupName_143"] = "Batumi-Static-02",
+    ["DictKey_77"] = "HUD中央下には方位計がある。これは現在の方位と、選択されたウェイポイントへの最適な方位をパイロットに教えてくれる。",
+    ["DictKey_UnitName_109"] = "Moving-targets-06",
+    ["DictKey_98"] = "現在のステアポイントへの指定コースがアトリビュート・ページの右下、DIAL HSI TO read outの下に表示される。\
+\
+\
+HSI SET COURSE ノブを回してHSIにこの方位をセットしろ。\
+\
+\
+セットされたらスペースバーを押せ。\
+",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_GroupName_119"] = "Target-1-01",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_GroupName_159"] = "Batumi-Static-10",
+    ["DictKey_WptName_184"] = "BATUMI",
+    ["DictKey_GroupName_172"] = "FARP-Chopper-2",
+    ["DictKey_68"] = "では実際に、最も基本的なナビゲーション機能として、フライトプラン・ウェイポイントを切り換えて現在のステアポイントに選択するということをやってみよう。これは、UFC上のSTEER ロッカーキーか、CDU上のSTEER スイッチのどちらでも行える。２つとも試せるように両方ハイライトしておいた。\
+\
+\
+選択するフライトプラン・ウェイポイントを回し換えるとき、TADディスプレイとHUD右下の隅にあるデータブロックに注目してくれ。\
+\
+\
+ウェイポイントを一通り切り換えてみて、よければ次に進むのでスペースキーを押してくれ。",
+    ["DictKey_UnitName_118"] = "Target-1-02",
+} -- end of dictionary

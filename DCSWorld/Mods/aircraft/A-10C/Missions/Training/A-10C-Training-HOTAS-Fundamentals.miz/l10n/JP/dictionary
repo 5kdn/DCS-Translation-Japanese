@@ -1,0 +1,278 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_UnitName_72"] = "Target-1-01",
+    ["DictKey_GroupName_124"] = "FARP-Chopper-2",
+    ["DictKey_53"] = "今日最後に話すのは、センサー・ポイント・オブ・インタレスト、略してSPIだ。\
+\
+SPIはコンバットセンサーが照準を当てるポイントであり、それは多くの場合、地表のターゲットの位置をマークするポイントである。SPIは常に一つしか設定できない。\
+\
+例えば、衛星誘導のJDAM爆弾を投下する際、ターゲットの位置をSPIに設定しなくてはならない。これによってターゲットの座標が爆弾の誘導システムにダウンロードされ、投下後に自力で目標に向かうことができる。\
+\
+次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_GroupName_67"] = "Target-1-03",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_UnitName_62"] = "Moving-targets-05",
+    ["DictKey_GroupName_77"] = "Target-1-06",
+    ["DictKey_GroupName_79"] = "Target-2-01",
+    ["DictKey_GroupName_73"] = "Target-1-04",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_GroupName_113"] = "Batumi-Static-11",
+    ["DictKey_47"] = "スルーコントロールは、どのセンサーがSOIになっていても基本的に同じような機能をする。しかしHOTASコマンドには特定のSOIにおいて異なる機能をするものもある。\
+\
+例えば、操縦桿にあるデータ・マネジメント・スイッチ（DMS）はSOIによって様々な機能をする。HUDがSOIのとき、DMS UP/DOWNショートコマンドはナビゲーションシステムにロードされているウェイポイントをサイクルさせる。DMS LEFT/RIGHTショートコマンドは搭載されている火器のプロファイルをサイクルさせる。\
+\
+DMS UP/DOWNショートコマンドか、HOMEとENDを押してウェイポイントをサイクルさせろ。次に、DMS LEFT/RIGHTショートコマンドか、DELETEとPAGE-DOWNを押して火器プロファイルをサイクルさせろ。\
+\
+HUD SOI DMSショートコマンド機能に慣れ、次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_UnitName_102"] = "Batumi-Static-05",
+    ["DictKey_52"] = "SOIをHUDに戻そう。\
+\
+クーリースイッチUPショートコマンドかUを押せ。",
+    ["DictKey_UnitName_108"] = "Batumi-Static-08",
+    ["DictKey_UnitName_90"] = "Batumi-car",
+    ["DictKey_GroupName_97"] = "Batumi-Static-03",
+    ["DictKey_32"] = "操縦桿とスロットルで操作可能なHOTASを見ていこう。操縦桿にあるボタンとスイッチは：\
+\
+- 二段階ガン・トリガー\
+- ウェポン・リリース・ボタン\
+- マスター・モード・コントロール・ボタン（MMCB）\
+- ターゲット・マネジメント・スイッチ（TMS）\
+- データ・マネジメント・スイッチ（DMS）\
+- カウンターメジャー・スイッチ（CMS）\
+- ノーズホイール・ステアリング・ボタン（NWS）\
+- 機体トリム・コントロール・ハット\
+\
+デュアル・スロットルにあるボタンとスイッチは：\
+\
+- マイク・スイッチ\
+- スピードブレーキ・スイッチ\
+- ボート・スイッチ\
+- チャイナ・ハット・スイッチ\
+- クーリー・スイッチ\
+- スルー・コントロール\
+- オートパイロット・ボタン\
+- ピンキー・スイッチ\
+\
+この訓練ではこれらのいくつかを扱うだけで、すべてを練習している時間はない。そこでaircraft documentaionを参照してほしい。HOTASの詳細な図解や、全てのコマンドのショートカットキーも載っている。今日の目標は、A-10CにおけるHOTASコントロールの基本的な概念と、すべてのボタンやスイッチの機能のいくつかを理解することだ。\
+\
+次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_UnitName_76"] = "Target-1-05",
+    ["DictKey_45"] = "クーリースイッチDOWNロングコマンドは「DSMSクイックロック」機能を持つ。これは押している間、火器類のステータスをチェックするためのデジタル・ストアズ・マネジメント・システム・ページを見ることができるものだ。\
+\
+クーリースイッチDOWNロングコマンドか、Jを数秒間長押ししてDSMSクイックロックをしてみろ。",
+    ["DictKey_UnitName_123"] = "FARP-Chopper-1",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_UnitName_66"] = "Moving-targets-01",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_30"] = "HOTAS基礎訓練飛行へようこそ。現在オートパイロットで高度と方位を保っている。速度が200knots以上を維持するようにスロットルを操作していてくれ。\
+\
+このフライトでは、様々なフライトで使われるコクピット内の基本的な操作や、A-10Cのコンバットシステムを見ていこう。\
+\
+説明が聞きづらかったら、ミッションを出てWORLDとIN-COCKPITの音量スライダーを50％くらいに下げるといい。\
+\
+ミッション中はいつでもPAUSEを押して一時停止することができる。LSHIFT + LWIN + PAUSEを押してミッションをアクティブポーズにすることもできる。\
+\
+ミッションを出たいときは、いつでもESCを押せばよい。\
+\
+Numpadで視点を動かしたり、Numpad*とNumpad/でズームイン・ズームアウトすることができる。\
+\
+次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_GroupName_115"] = "FARP-1",
+    ["DictKey_UnitName_125"] = "FARP-Chopper-2",
+    ["DictKey_39"] = "よし。「NOT SOI」メッセージが左MFCDから消えて、緑線の四角で囲われた。これはSOIであることを意味している。同時に、HUDからSOIアスタリスクが消えた。\
+\
+もう一度、スルーコントロールを動かしてみてくれ。今度はHUD上のTDCではなく、左MFCD上のTADカーソルを操作しているのがわかるだろう。\
+\
+TADカーソルを動き回してみて、次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_UnitName_104"] = "Batumi-Static-06",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_GroupName_119"] = "Batumi Cars",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_GroupName_91"] = "Batumi-soldier",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_GroupName_103"] = "Batumi-Static-06",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_UnitName_78"] = "Target-1-06",
+    ["DictKey_GroupName_95"] = "Batumi-Static-02",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_GroupName_81"] = "Target-2-02",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_GroupName_117"] = "FARP-2",
+    ["DictKey_GroupName_109"] = "Batumi-Static-09",
+    ["DictKey_49"] = "TADがSOIのとき、DMS UP/DOWNショートコマンドはTADマップの縮尺を操作する。DMS RIGHTショートコマンドは中央マップと前方マップを切り替える。DMS LEFTショートコマンドに機能はない。\
+\
+DMS UP/DOWN/RIGHTショートコマンドか、HOME、END、PAGE-DOWNを押して、TADがSOIのときのDMSショートファンクションを試してみろ。\
+\
+TAD SOI DMSショートコマンド機能に慣れ、次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_UnitName_114"] = "Batumi-Static-11",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_57"] = "これですべてのセンサーがターゲットエリアにフォーカスした。さらにTGPをSOIにすれば、ターゲットを明瞭に見られるだけでなく、ポジティブIDを得たり、TGPクロスヘアを使ってより望ましいターゲットをSPIに設定しSPIの位置をより精密にすることもできる。\
+\
+ではTMS DOWNロングコマンドか、左CTRL＋↓を押して現在のSPIをキャンセルしろ。",
+    ["DictKey_UnitName_84"] = "Target-2-03",
+    ["DictKey_GroupName_89"] = "Batumi-car",
+    ["DictKey_sortie_129"] = "",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_GroupName_83"] = "Target-2-03",
+    ["DictKey_37"] = "HUDがSOIになっているとき、HUDの左側にアスタリスクが表示される。\
+\
+それぞれのセンサーがSOIになっているときのHOTASコマンドをいくつか使ってみよう。まず、HUDがSOIになっているので、スロットルにあるスルーコントロールを動かしてみくれ。キーボードなら、「；」がスルーUP、「.」がスルーDOWN、「,」がスルーLEFT、「/」がスルーRIGHTだ。\
+\
+スルーコントロールを動かしてみると、ターゲット・ディジグネター・キュー（TDC）がHUD上で動くのがわかるだろう。\
+\
+TDCをHUD上で動き回してみて、次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_UnitName_60"] = "Moving-targets-07",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_58"] = "SPIがどこにも設定されていないときは、SPIは現在のステアポイント、すなわちナビゲーションに設定されているウェイポイントに初期化される。\
+\
+これでHOTAS基礎訓練課程を終わる。様々なHOTASコマンドを苦も無く感覚的に操れるようになるまで練習しておけ。戦場では何より強力な武器となるだろう。",
+    ["DictKey_UnitName_80"] = "Target-2-01",
+    ["DictKey_GroupName_111"] = "Batumi-Static-10",
+    ["DictKey_UnitName_94"] = "Batumi-Static-01",
+    ["DictKey_36"] = "これで現在コクピットには3つの主要なセンサーが情報を表示するようになった：HUD、左MFCDにタクティカル・アウェアネス・ディスプレイ（TAD）ページ、そして右MFCDにTGPページだ。\
+\
+両MFCDページに「NOT SOI」のメッセージが表示されているのに注目してほしい。SOIはミッション開始時にデフォルトでHUDに設定されている。\
+\
+次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_UnitName_106"] = "Batumi-Static-07",
+    ["DictKey_GroupName_105"] = "Batumi-Static-07",
+    ["DictKey_GroupName_71"] = "Target-1-01",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_42"] = "先ほども言ったように、HOTASコマンドには単押しか長押しかによって異なる機能を持つものがある。これまで見てきたように、クーリースイッチの場合、長押し（ロング）のLEFT・RIGHTコマンドはMFCDのページをSOIに設定する。一方、単押し（ショート）のLEFT・RIGHTコマンドはMFCDのページをサイクルさせるのに使われる。\
+\
+クーリースイッチRIGHTショートコマンドか、Kを何度か単押しして、右MFCDがTGPページに戻るまでサイクルさせてみろ。",
+    ["DictKey_51"] = "GPがSOIのとき、DMS UP/DOWNショートコマンドはTGPのズームの役割をする。DMS RIGHTショートコマンドはターゲット・デジグネーション・モードをレーザー、IRポインター、両方、に切り替える。DMS LEFTショートコマンドはTGPオートフォーカス機能を入れる。\
+\
+もしTGPの視界が機体で遮られている場合は、機体前方を映すまで視線を上方向に動かしてみろ。\
+\
+DMS UP/DOWN/LEFT/RIGHTショートコマンドかHOME,END,DELETE,PAGE-DOWNを押して、TGPがSOIのときのDMSショートファンクションを試してみろ。\
+\
+TGP SOI DMSショートコマンド機能に慣れ、次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_GroupName_87"] = "Hawg-1",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_46"] = "最後に、クーリースイッチUPショートコマンドはHUDをSOIにするのに使われる。ロングコマンドの機能はない。\
+\
+クーリースイッチUPショートコマンドか、Uを押してHUDをSOIに設定しろ。",
+    ["DictKey_35"] = "右MFCDは現在、ターゲティング・ポッド（TGP）ページを映している。TGPはまだスタンバイモードになっている。HOTAS操作に慣れ親しむ手始めに、TGPをエア・トゥ・グラウンド（A-G）モードにしよう。右MFCDのOSB-2を押してくれ。",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_43"] = " では左MFCDも、クーリースイッチLEFTショートコマンドか、Hを何度も押しして、TADページに戻るまでサイクルさせてみろ。",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_UnitName_88"] = "Hawg-11",
+    ["DictKey_GroupName_101"] = "Batumi-Static-05",
+    ["DictKey_descriptionText_126"] = "",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_descriptionBlueTask_128"] = "",
+    ["DictKey_UnitName_100"] = "Batumi-Static-04",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_54"] = " SPIはSOIによってだけ設定できる。HUDがSOIのとき、TDCでSPIを設定する。TGPかマーヴェリック・ミサイルがSOIのとき、クロスヘアでSPIを設定する。TADがSOIのとき、友軍からデータリンクで送られてきたアイコンを含む全てのTADアイコンの中からTADカーソルによってSPIを設定する。\
+\
+どのセンサーがSOIであるかに関わらず、SPIは常にターゲット・マネジメント・スイッチ（TMS）UPロングコマンドか左CTRL+↑によって設定される。\
+\
+次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_UnitName_92"] = "Batumi-soldier",
+    ["DictKey_GroupName_69"] = "Target-1-02",
+    ["DictKey_UnitName_121"] = "Unit #1",
+    ["DictKey_UnitName_96"] = "Batumi-Static-02",
+    ["DictKey_56"] = "これでSPIがHUD TDCによって設定されたことが、HUD左下の隅に示されている。注意してほしいのは、TDCを使ってSPIを設定するやり方は距離に限界があることだ。つまり、機体の正面遠方に設定しようとしてもできないことがある。\
+\
+いったんSPIが設定されたら、HOTASチャイナハットFORWARDロングコマンドによって、自動的にすべてのコンバットシステムの照準をSPIに合わせることができる。\
+\
+チャイナハットFORWARDロングコマンドか、Vを長押しして全てのセンサーの照準をSPIに向けることをやってみろ。",
+    ["DictKey_31"] = "A-10Cでは、パイロットが操縦桿やスロットルから手を離さずに基本的なアビオニクスを操作することを可能にする、ハンズ・オン・スロットル・アンド・スティック（HOTAS）コントロールを採用している。これはパイロットの手間と労力を軽減したが、一方で操縦桿とスロットルのボタンを大量に増やしたため、使いこなすには練習がいる。他にも、A-10Cのコクピットはパイロットがアビオニクスを操作するのに「頭を下げている」時間が最小限になるように設計されている。多くのディスプレイやアビオニクスがコクピット上半部にあるが、これはパイロットが必要な操作や情報を得るとき、ほんの一瞬目線を下げればいいようにしてあるのだ。\
+\
+次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_40"] = "今度は右MFCDのTGPページをSOIにしてみよう。これをするには、クーリースイッチRIGHTコマンドか、Kを長押しすればよい。",
+    ["DictKey_UnitName_112"] = "Batumi-Static-10",
+    ["DictKey_UnitName_68"] = "Target-1-03",
+    ["DictKey_UnitName_110"] = "Batumi-Static-09",
+    ["DictKey_33"] = "コクピットは主に次の3つのディスプレイからなる：コクピットフレームの一番上にあるヘッド・アップ・ディスプレイ（HUD）、フロントパネルの左右にあるマルチファンクション・カラー・ディスプレイ（MFCD）。MFCDにはそれぞれ20個のオプション・セレクト・ボタン（OSB）が周りを囲むように配置されており、上段左のOSB-1から順に時計回りに並んでいる。それぞれのOSBの機能は画面に表示されるが、画面が映すページによって異なる機能を持つ。MFCDの下段にあるOSB-11から15は画面に映したいページを選択するのに使う。\
+\
+次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_UnitName_63"] = "Moving-targets-04",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_UnitName_116"] = "FARP-1",
+    ["DictKey_UnitName_64"] = "Moving-targets-03",
+    ["DictKey_GroupName_107"] = "Batumi-Static-08",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_UnitName_82"] = "Target-2-02",
+    ["DictKey_GroupName_122"] = "FARP-Chopper-1",
+    ["DictKey_UnitName_86"] = "Target-2-04",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_GroupName_85"] = "Target-2-04",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_55"] = "これからSOIに設定されたHUD上で、TDCを地表のポイントに合わせてSPIに設定してみよう。\
+\
+TDCをHUD上のハイライトされた部分に入れたら、TMS UPロングコマンドか左CTRL+↑を押して、そのポイントをSPIに設定しろ。",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_34"] = "A-10Cのアビオニクス類は非常に複雑で、いくつものシステムを備えているので、操縦桿とスロットルのHOTASにすべてのボタンを再現するのは不可能だ。この問題はセンサー・オブ・インタレスト（SOI）によって克服された。これは、どのセンサーをHOTASで操作したいかパイロットが設定できるようにしたものだ。SOIは必要なときいつでも、スロットルのクーリースイッチを使って、HUDと左右のMFCDのどれかに設定できる。\
+\
+全てのHOTASコマンドはキーボードで代替できる。クーリースイッチの場合、HがクーリーLEFT、KがクーリーRIGHT、UがクーリーUP、JがクーリーDOWNになっている。もう一つ知っておかなければならないのは、クーリースイッチを含むいくつかのHOTASコマンドは、素早く離す（「単押し」）か数秒押し続ける（「長押し」）かによって異なる機能を持っているということだ。\
+\
+次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_48"] = "ではTADがSOIのときのDMSショートコマンドを見ていこう。\
+\
+まず、クーリースイッチLEFTロングコマンドか、Hを長押ししてSOIをHUDからTADに変えよう。",
+    ["DictKey_GroupName_99"] = "Batumi-Static-04",
+    ["DictKey_descriptionRedTask_127"] = "",
+    ["DictKey_UnitName_98"] = "Batumi-Static-03",
+    ["DictKey_UnitName_70"] = "Target-1-02",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_50"] = " ではTGPがSOIのとき、DMSが何をするか見てみよう。\
+\
+クーリースイッチRIGHTロングコマンドか、Kを長押ししてTGPをSOIにしろ。",
+    ["DictKey_UnitName_120"] = "Unit #2",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_GroupName_93"] = "Batumi-Static-01",
+    ["DictKey_41"] = " もう一度スルーコントロールを動かしてみてくれ。今度はTGPの視線を操作しているのがわかるだろう。HUD上とTADページ上でTGPダイアモンドが動くのに気付いたかもしれない。しかしこれは地表のどの地点を見ているかが分かるように補助してくれているだけだ。スルーコントロールは現在TGPを操作しているのであって、TADやHUDを操作しているわけではない。\
+\
+TGPの視線を動かしてみて、次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_GroupName_75"] = "Target-1-05",
+    ["DictKey_UnitName_65"] = "Moving-targets-02",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_UnitName_61"] = "Moving-targets-06",
+    ["DictKey_44"] = "クーリースイッチDOWNショートコマンドは左右のMFCDページを入れ替える。\
+\
+クーリースイッチDOWNショートコマンドか、Jを押してページを入れ替え、もう一度押して元の状態に戻せ。",
+    ["DictKey_GroupName_59"] = "Moving Targets",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_UnitName_74"] = "Target-1-04",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_38"] = "次は左MFCDのTADページをSOIにしてみよう。\
+\
+クーリースイッチLEFTコマンドか、Hを長押ししてくれ。",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_UnitName_118"] = "FARP-2",
+} -- end of dictionary

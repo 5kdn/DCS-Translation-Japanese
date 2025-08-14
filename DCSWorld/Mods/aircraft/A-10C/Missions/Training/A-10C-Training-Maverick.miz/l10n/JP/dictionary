@@ -1,0 +1,200 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "Target-3-01",
+    ["DictKey_UnitName_72"] = "Hawg-11",
+    ["DictKey_53"] = "離脱！もう一度トライしろ。",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_GroupName_67"] = "Target-3-02 #001",
+    ["DictKey_GroupName_65"] = "Target-3-02",
+    ["DictKey_UnitName_62"] = "Target-2-02",
+    ["DictKey_GroupName_77"] = "Batumi-Static-01",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_GroupName_79"] = "Batumi-Static-02",
+    ["DictKey_WptName_114"] = "RWY",
+    ["DictKey_GroupName_73"] = "Batumi-car",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_UnitName_102"] = "FARP-2",
+    ["DictKey_28"] = "AGM-65 Maverickの実戦訓練へようこそ。この訓練では、射爆場のいくつかのターゲットに対する実弾マーヴェリックによる捕捉及び発射を練習する。",
+    ["DictKey_52"] = "2つ目のターゲットに命中した！",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_UnitName_90"] = "Batumi-Static-07",
+    ["DictKey_GroupName_97"] = "Batumi-Static-11",
+    ["DictKey_32"] = "今日は、ステーション3に2発のAGM-65Dと、ステーション9に2発のAGM-65Hを積んでいる。\
+\
+OSB-2を押してミサイル・コントロール・ページを開け。",
+    ["DictKey_UnitName_76"] = "Batumi-soldier",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_UnitName_66"] = "Target-3-02",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_74"] = "Batumi-car",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_39"] = "目標の射爆場をウェイポイント3にマークしてある。ウェイポイント3（「RANGE」）をステアポイントにし、右旋回して目標を12時の方向に捉えろ。",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_UnitName_104"] = "Unit #2",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_descriptionRedTask_111"] = "",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_UnitName_92"] = "Batumi-Static-08",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_GroupName_91"] = "Batumi-Static-08",
+    ["DictKey_GroupName_103"] = "Batumi Cars",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_UnitName_78"] = "Batumi-Static-01",
+    ["DictKey_UnitName_105"] = "Unit #1",
+    ["DictKey_GroupName_95"] = "Batumi-Static-10",
+    ["DictKey_GroupName_108"] = "FARP-Chopper-2",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_GroupName_81"] = "Batumi-Static-03",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_GroupName_75"] = "Batumi-soldier",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_GroupName_93"] = "Batumi-Static-09",
+    ["DictKey_GroupName_89"] = "Batumi-Static-07",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_GroupName_83"] = "Batumi-Static-04",
+    ["DictKey_37"] = "マスター・アーム・スイッチをONにしろ。",
+    ["DictKey_UnitName_60"] = "Target-2-01",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_UnitName_56"] = "Target-1-01",
+    ["DictKey_UnitName_80"] = "Batumi-Static-02",
+    ["DictKey_GroupName_57"] = "Target-1-02",
+    ["DictKey_UnitName_94"] = "Batumi-Static-09",
+    ["DictKey_36"] = "ウェイポイント2をステアポイントにしたら、離陸を開始しろ。6,000ftまで上昇。滑走路の方位を維持しろ。",
+    ["DictKey_descriptionBlueTask_112"] = "",
+    ["DictKey_GroupName_106"] = "FARP-Chopper-1",
+    ["DictKey_50"] = "2つ目のターゲットは、射爆場北東の隅にある2台の防空車両だ。いまREDスモークでマークされた。\
+\
+ウェイポイント3（「RANGE」）がステアポイントになっているのを確認して、射爆場へ戻ろう。",
+    ["DictKey_GroupName_71"] = "Hawg-1",
+    ["DictKey_WptName_115"] = "MSN002",
+    ["DictKey_42"] = "最初のターゲットは射爆場南西の隅の2台のT-72だ。ターゲットがREDスモークでマークされた。\
+\
+ウェイポイント3（「RANGE」）はちょうど射爆場にセットされている。SPIはデフォルトでステアポイントにセットされているから、HOTASチャイナハットFORWARD（ロング）コマンドもしくはVを長押しすれば、瞬時にマーヴェリックをターゲット位置へ向けることが出来る",
+    ["DictKey_51"] = "発射！",
+    ["DictKey_GroupName_87"] = "Batumi-Static-06",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_46"] = "ターゲットに命中した！\
+\
+ターゲットを離れて数マイル飛行し、AGM-65Hで２回目のパスを行おう。\
+\
+6,000ftを維持しろ。",
+    ["DictKey_35"] = "MAVページは、ミサイル・シーカーが立ち上げ中なので、ALIGNと表示している。立ち上げが完了したら、優先度の高いミサイルからの映像がディスプレイに表示される。\
+\
+ディスプレイ左側の「SENSOR」という表示は、マーヴェリックのプロファイルがセレクトされておらず、ミサイルが単にEOセンサーとして使われていることを意味している。\
+\
+マーヴェリックを操作しやすくするため、スルー・レートを下げよう。UFCスクラッチパッドで「2」を入力し、MAVページでOSB-8を押せ。このミッション中、好きなスルー・レートに調整していい。\
+\
+SPACE BARを押して次に進もう。",
+    ["DictKey_43"] = "ディスプレイ中央の周りの4つのフィールド・オブ・ビュー［視野］（FOV）コーナー・マーカーは、ナローFOV設定時に見える範囲を示している。\
+\
+HOTASチャイナハットFORWARD（ショート）コマンドもしくはVを押してMAVのFOVをNARROWにし、ターゲットにズームインしろ。",
+    ["DictKey_UnitName_88"] = "Batumi-Static-06",
+    ["DictKey_GroupName_101"] = "FARP-2",
+    ["DictKey_UnitName_64"] = "Target-3-01",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_UnitName_100"] = "FARP-1",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_GroupName_69"] = "Target-3-02 #002",
+    ["DictKey_UnitName_68"] = "Target-3-02 #001",
+    ["DictKey_33"] = "すべてのタイプのマーヴェリックは、シーカーのジャイロスコープが立ち上がり、シーカーから送られてくる映像の表示と使用が可能になるまで、およそ3分かかる。DSMS訓練でもふれたように、このページでは特定の時刻や特定のウェイポイントから定められた位置に達すると自動的にシーカーが起動するように設定できる。しかし今回は射爆場がすぐ近くなので、今すぐ起動をスタートさせよう。\
+\
+OSB-4を押してEO（エレクトロ・オプティカル）パワーをONにしろ。",
+    ["DictKey_44"] = "クロスヘア中央下のポインティング・クロスは、機首とシーカーLOSとの比較を示している。\
+\
+マーヴェリックで捕捉するには、HOTASスルーコントロールスイッチか、キーボードの「;」「,」「.」「/」を使って、シーカーLOSをターゲットに向けなければならない。シーカーはスルーコントロールスイッチが離されると、高コントラストのターゲットを自動的にロックしようとする。ロック・オン・レンジは非常に変化しやすいので、シーカーがターゲットを見つけるまで少々時間と手間がかかるかもしれない。LOSをターゲットに保つために常にシーカーを動かさなくていいように、HOTAS TMS DOWNコマンドもしくは左CTRL+↓を押してターゲット周辺にミサイルをグラウンド・スタビライズ［地面固定］できる。\
+\
+では2台のT-72のうち１つをターゲットとしてロックしろ。ターゲットが捕捉されると、クロスヘアが固定されポインティング・クロスが点滅し始める。この時点で、ミサイル発射可能だ。",
+    ["DictKey_49"] = " 2回目のパスに入る前に、捕捉手順を確認しておこう：\
+\
+- UFCのSELロッカーキーか、HUDをSOIにした状態でHOTAS DMS LEFT/RIGHTコマンドもしくはPAGE DOWN/DELETEを押して、AGM-65Dをセレクトする。\
+\
+- HOTASチャイナハットFORWARD（ロング）コマンドもしくはVを長押しして、全センサーをSPIに向ける。\
+\
+- HOTASチャイナハットFORWARD（ショート）コマンドもしくはVを長押しして、マーヴェリックをナローFOVに切り替える。\
+\
+- ロックされるまでシーカーをターゲットに合わせる。必要であれば、HOTAS TMS DOWNコマンドもしくは左CTRL+↓を押してグラウンド・スタビライズする。\
+\
+- 射程距離に入ったら発射する。\
+\
+マーヴェリックをボアサイト（HUD中央）にリセットしたければ、HOTASチャイナハットAFT（ショート）コマンドもしくはCを押せ。\
+\
+SPACE BARを押して次に進もう。",
+    ["DictKey_29"] = "TAGM-65 Maverickは、武装したターゲット、防空能力を持つターゲット、強固なターゲットに対し最も有効な精密誘導型の独立した対地ミサイルだ。マーヴェリックはLAU-117シングル・レール・ランチャーか、LAU-88トリプル・レール・ランチャーによって、ステーション3と9にのみ装備できる。マーヴェリックにはシーカーや弾頭の種類の異なるいくつかのバージョンがある。\
+\
+マーヴェリックは打ちっぱなし、すなわち一度発射したら誘導する必要のないタイプの武器だ。マーヴェリックの実用交戦範囲は、シーカーの捕捉距離によるが、一般的に3nmから7nmだ。戦闘空域に入ったら、ターゲットに接近するのに先立って、マーヴェリックで防空ユニットを排除しておくのが望ましい。",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_UnitName_82"] = "Batumi-Static-03",
+    ["DictKey_UnitName_86"] = "Batumi-Static-05",
+    ["DictKey_UnitName_84"] = "Batumi-Static-04",
+    ["DictKey_GroupName_61"] = "Target-2-02",
+    ["DictKey_GroupName_85"] = "Batumi-Static-05",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_GroupName_55"] = "Target-1-01",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_40"] = "現在、MAVページがステーション9に装着されたAGM-65Hからの映像を映している。このタイプのミサイルはCCD（チャージド・カップルド・デバイス）カメラを使用しているので、視認性の低い任務には向いていない。ステーション3のAGM-65DはIR（インフラ・レッド［赤外線］）カメラを使用しているので、そのようなことはない。\
+\
+\
+攻撃準備を整える時間が必要なので、速度を約200ktsに維持してくれ。\
+\
+\
+HUDがSOIになっているので、HOTAS DMS RIGHTコマンドを押してステーション9のAGM-65Hプロファイルをセレクトしろ。",
+    ["DictKey_41"] = "MAVページ左側のSENSOR表示が、ダイナミック・ランチ・ゾーン（DLZ）に置き換わった。DLZは、マーヴェリックの最大最少射程距離、発射可能域、現在のターゲット距離、一番下の予測飛翔時間など様々なインジケーターで構成される。\
+\
+\
+HUDの「ワゴン・ホイール」はミサイルのライン・オブ・サイト［視線］（LOS）を示していて、シーカーと連動して動く。HOTASクーリースイッチRIGHT（ロング）コマンドか、Kを長押ししてマーヴェリックをSOIにしろ。",
+    ["DictKey_34"] = "左MFCD右下のEOタイマーが、EOパワーが有効にされてから経過した時間を表示している。\
+\
+では右MFCDのOSB-14を押してMAVページにセットしよう。",
+    ["DictKey_UnitName_70"] = "Target-3-02 #002",
+    ["DictKey_48"] = "AGM-65Dの使用は、映像が赤外線（IR）である意外は同じだ。HOTASボートスイッチFORWARDとAFTコマンドでMAVを白表示か黒表示にできる。ボートスイッチを中央位置にすると、マーヴェリック・フォース・コレレイト・モードになるが、これは建物など大きなターゲットの特定のポイントを追跡するのに使われる。",
+    ["DictKey_GroupName_99"] = "FARP-1",
+    ["DictKey_UnitName_107"] = "FARP-Chopper-1",
+    ["DictKey_UnitName_98"] = "Batumi-Static-11",
+    ["DictKey_UnitName_109"] = "FARP-Chopper-2",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_30"] = "A-10Cが持ち運べるコンバット・マーヴェリックには次のバージョンがある。\
+\
+\
+- AGM65D。画像赤外線シーカーと125lbの弾頭を備える。LAU-117またはLAU-88に3発装着できる。\
+\
+\
+- AGM-65G。画像赤外線シーカーと300lbの重量貫通弾頭を備える。LAU-117にのみ装着できる。\
+\
+\
+- AGM-65H。電子光学シーカーと125lbsの弾頭を備える。LAU-117またはLAU-88に3発装着できる。\
+\
+\
+- AGM-65K。電子光学シーカーと300lbsの重量貫通弾頭を備える。LAU-117にのみ装着できる。\
+",
+    ["DictKey_descriptionText_110"] = "",
+    ["DictKey_45"] = "発射！",
+    ["DictKey_47"] = "離脱して次のパスをしよう。ターゲットを捕捉する時間を得るため、まず距離をとるのが先だ。",
+    ["DictKey_UnitName_58"] = "Target-1-02",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_sortie_113"] = "",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_WptName_117"] = "RANGE",
+    ["DictKey_GroupName_59"] = "Target-2-01",
+    ["DictKey_UnitName_96"] = "Batumi-Static-10",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_54"] = "これでAGM-65 Maverickミサイルの実戦訓練を終わる。あと2発残っているので、残りのターゲットで練習してみるといい。",
+    ["DictKey_38"] = "マーヴェリックを効率的に運用するには、まずターゲット・エリアにセンサー・ポイント・オブ・インタレスト（SPI）を指定し、全センサーをSPIに集中させるHOTASコマンドで、マーヴェリックをSPIに向けるのが一番だ。それからシーカーをよりターゲットに近づくように動かし、捕捉したら、発射だ。",
+    ["DictKey_31"] = "DSMSページを開いてペイロードを確認しよう。OSB-14を押せ。",
+    ["DictKey_WptName_156"] = "",
+} -- end of dictionary

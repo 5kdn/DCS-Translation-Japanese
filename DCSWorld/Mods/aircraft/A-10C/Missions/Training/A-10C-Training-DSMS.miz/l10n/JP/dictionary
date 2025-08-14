@@ -1,0 +1,244 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_UnitName_89"] = "Moving-targets-02",
+    ["DictKey_UnitName_85"] = "Moving-targets-06",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_GroupName_137"] = "New Helicopter Group",
+    ["DictKey_76"] = "このレッスンの最後として、インベントリー・セレクト・ページを見よう。OSB-5を押してくれ。",
+    ["DictKey_59"] = "プロファイル・メインページに戻ってきた。WTUでやったように、他のプロファイルも選択・編集することができる。OSB-1を押してDSMSステータスページに戻ろう。",
+    ["DictKey_GroupName_113"] = "Batumi-car",
+    ["DictKey_47"] = "現在見えているのはステータスページで、これがDSMSの基本表示となる。このページでは以下の情報をざっと見ることが出来る。\
+\
+- 11のステーションにあるそれぞれの武器のインベントリーとステータス\
+- アクティブ・プロファイルのリリースセッティング\
+- 機銃のステータスと残弾数\
+- EOパワータイマー（マーヴェリックがアクティブのとき）\
+\
+ディスプレイ上側のOSB-1、2と4、5は他のページにアクセスするの使う。\
+\
+しばらくディスプレイを眺めて、この表示の仕方に慣れてくれ。\
+\
+次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_55"] = "プロファイル・コントロール・ページは現在のプロファイルにセットされている武器の設定を表示している。ディスプレイの左右からそのセッティングを変更することが出来る。ディスプレイ中央のプロファイル・テーブルも別のページから変えることが出来る。OSB-19と20は（アクティブにすることなく）プロファイルをサイクルさせる。\
+\
+これらのセッティングをいくつか変えてみよう。\
+\
+ディスプレイの右側を見てくれ。現在のリリース数がSGL（single）になっているのが分かるだろう。これはリリースボタンを押すたびに1発ずつロケットが発射されるということだ。OSB-6を2回押して、これを RIP SGL（ripple single）に変更しよう。\
+\
+設定できたらSPACE BARを押してくれ。",
+    ["DictKey_52"] = "ロードされているすべてのプロファイルのリストを見たいので、OSB-1を押してプロファイル・メイン・ページに入ろう。",
+    ["DictKey_UnitName_108"] = "Target-2-03",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_GroupName_97"] = "Target-1-04",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_UnitName_136"] = "FARP-2",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_GroupName_129"] = "Batumi-Static-10",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_138"] = "Pilot #1",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_UnitName_130"] = "Batumi-Static-10",
+    ["DictKey_GroupName_115"] = "Batumi-soldier",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_UnitName_104"] = "Target-2-01",
+    ["DictKey_75"] = "ジェティソン・セレクト・ページはステータスページに似ているが、ここでは投棄する装備を選択する。OSB-4は信管の種類を設定する。OSB-5は次のジェティソン・モードを選択する：\
+\
+- STR（store）。STRモードでは一つかそれ以上のステーションを選択し、装備を投棄できる。装備は二つ一組でリリースされる。\
+\
+- RACK（station rack）。RACKモードでは、ラックが割り当てられた一つか複数のステーションを選択し、そこに取り付けられたすべての装備を投棄する。ラックが割り当てられたステーションを複数選択した場合、それらは二つ一組でリリースされる。ウェポンリリースボタンを押すたびに、ラックあるいは一組のラックが投棄される。\
+\
+- MSL（missile）。このモードでは、ウェポンリリースボタンを押すたびにLAU-88 TERに割り当てられた、いずれかのマーヴェリックを無誘導／不発の状態で発射する。LAU-117ではMSLの投棄はできない。LAU-88とマーヴェリックか装着されていないステーションを選択すると、ステーション番号が反転して表示されるだけだ。\
+\
+次に進んでよければ、OSB-1を押してステータス・ページに戻ろう。",
+    ["DictKey_60"] = "プロファイルは、マニュアルモードでOSBを使ってステータス・ページから直接アクセスすることもできる。同一の武器が複数搭載されていて、ランチャーやプロファイル・セッティングも同じなら、複数のステーションを同時に選択できる。OSB-7とOSB-19を押して、BRUラックが搭載されているステーション4と8を選択しろ。",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_GroupName_119"] = "Batumi-Static-05",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_GroupName_127"] = "Batumi-Static-09",
+    ["DictKey_GroupName_91"] = "Target-1-03",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_GroupName_103"] = "Target-2-01",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_GroupName_95"] = "Target-1-01",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_79"] = "OSB-18をもう一度押して、武器のクラスとしてMISSILEを選択しろ。",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_68"] = "ミサイル・コントロール・ページではAGM/TGM-65ミサイルとAIM-9ミサイルを設定するのに使う。まずはマーヴェリックミサイルから話そう。\
+\
+OSB-4はマーヴェリックのシーカー・ヘッドを有効・無効化する。シーカー・ヘッドは有効化されてから立ち上がるまで3分かかるので、目標空域に入る前に先立ってやっておくべきだろう。一度有効化されると、EOタイマーがディスプレイの右下のコーナーに現れる。ボタンを押してみてもよいが、TRAININGモードなのでDSMSは実際にはシーカーを立ち上げていない。",
+    ["DictKey_UnitName_140"] = "Unit #1",
+    ["DictKey_GroupName_117"] = "Batumi-Static-04",
+    ["DictKey_GroupName_109"] = "Target-2-04",
+    ["DictKey_49"] = "青の表示はDSMSがTRAININGモードであることを意味している。白の表示はマスターアームがSAFE、緑はマスターアームがARMEDであるという意味だ。\
+\
+見て分かるように、ディスプレイにステーション1から11が左下から時計回りに並んでいる。それぞれのステーションボックスはプロファイルネーム（通常は搭載された武器に指定されたものと同じ）と残弾数を表示している。武器によっては、ランチャーの設定やウェポン・センサー・ステータスなどの追加情報を含むこともある。\
+\
+ディスプレイの中央下には、キャノン・データ・ブロックが弾丸タイプと残弾数を表示している。\
+\
+ディスプレイ中央には現在のHUDモードと、選択されたアクティブプロファイルの詳細が表示される。\
+\
+次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_UnitName_114"] = "Batumi-car",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_57"] = "このページの追加選択としては、OSB-10はデフォルトHUDモードに設定し、OSB-18は現在のプロファイル設定を新しいプロファイルにペーストすることが出来る。\
+\
+OSB-16を押して、ディスプレイのデータ・テーブルのアンダーラインされた設定にアクセスするための、プロファイル・セッティング・サブページに入ろう。",
+    ["DictKey_GroupName_93"] = "Target-1-02",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_80"] = "次は、搭載されている特定のミサイルを選択する。ミサイルの種類をOSB-4で、ミサイルの数量をOSB-5で、ランチャーの設定をOSB-8で選択できるようにもなっている。\
+\
+OSB-18をもう一度押して、AGM-65Dを選択しろ。",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_descriptionText_143"] = "",
+    ["DictKey_GroupName_135"] = "FARP-2",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_GroupName_139"] = "Batumi Cars",
+    ["DictKey_descriptionBlueTask_145"] = "",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_67"] = "次は、ミサイル・コントロール・ページを見てみよう。ステータス・ページからOSB-2を押してアクセスだ。",
+    ["DictKey_GroupName_111"] = "Hawg-1",
+    ["DictKey_UnitName_94"] = "Target-1-02",
+    ["DictKey_GroupName_131"] = "Batumi-Static-11",
+    ["DictKey_UnitName_128"] = "Batumi-Static-09",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_UnitName_106"] = "Target-2-02",
+    ["DictKey_GroupName_105"] = "Target-2-02",
+    ["DictKey_descriptionRedTask_144"] = "",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_42"] = " デジタル・ストアズ・マネジメント・システム／DSMS（よく「ディズマス」と発音される）訓練課程へようこそ。この訓練はこのランプで行うので、私がバッテリーとシステムをいくつか立ち上げておこう。",
+    ["DictKey_UnitName_126"] = "Batumi-Static-08",
+    ["DictKey_UnitName_84"] = "Moving-targets-07",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_46"] = "オーケー。OSB-14を押してDSMSページを選択しよう。",
+    ["DictKey_70"] = "LOCオートマティック・パワー・ファンクションの設定にはいくつかステップがある。まず、OSB-9をおしてウェイポイント・ロータリーを選択しろ。OSBのロータリーの上下矢印がハイライトされたのが分かるだろう。",
+    ["DictKey_78"] = "ステーション3のマーヴェリックをリセットしてみよう。まず、OSB-18を押してステーションを選択しろ。",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_54"] = "これで現在、OSB-6と7を使ってプロファイルをリストの上下に移動させたり、OSB-9を使ってプロファイルを無効にしたり、OSB-17を使ってプロファイルをアクティベートすることができる。しかし、いまはプロファイルのセッティングを見るためにOSB-3を押してプロファイル・コントロール・ページに入ろう。",
+    ["DictKey_43"] = "DSMSはパイロットとペイロード間の主要なインターフェースだ。A-10Cでは、ウェポン・プロファイルは武器の種類を選択したり設定したりするために使われるもので、武器そのものを選んでいるわけではない。武器に割り当てられるプロファイルを選んでいるだけだ。例えば、幅広い戦術シナリオに備えて、一つの武器に複数のプロファイルを作成することが出来る。DSMSでは20近いプロファイルを作成しカスタマイズすることができ、それぞれに固有の名前を付けて保存できる。プロファイルは、MFCDのDSMSコントロール、UFCのSELロッカー、HUDがSOI時のHOTASコントロールでサイクルさせることができる。選択されたプロファイルは「アクティブ・プロファイル」と呼ばれ、HUDの左下のコーナーに表示される。",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_UnitName_88"] = "Moving-targets-03",
+    ["DictKey_UnitName_96"] = "Target-1-01",
+    ["DictKey_GroupName_101"] = "Target-1-06",
+    ["DictKey_45"] = "DTSアップロードページが起動した。左MFCDのOSB-18を押してDSMSデータをアップロードしろ。",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_UnitName_122"] = "Batumi-Static-06",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_UnitName_100"] = "Target-1-05",
+    ["DictKey_51"] = "これでUFCのSELロッカーキーを使ってプロファイルをサイクルさせることができる。他にも、現在HUDがSOIなので、HOTAS DMS LEFT/RIGHTコマンドかDELETとPAGE-DOWNを押してもできる。",
+    ["DictKey_50"] = " 機体左端のステーション1から順に、ALQ-131 ECM ポッド、7発の訓練弾が装填されたLAU-68 2.75インチ ロケットポッド、3発のBDU-33訓練弾が装着されたBRU-42ラック、そしてGBU-38が現在搭載されている。続いて右端へは、GBU-38がもう一つ、BRU-42ラックがもう一つ、AGM-65K、AN/AAQ-28 LITENINGポッド、そして2発のAIM-9Mが装着されたLAU-105ランチャーとなっている。さらに機銃用に1150発の訓練弾も積んでいる。\
+\
+まずはDTSにロードされたデフォルトのプロファイルをサイクルしてみよう。その前にHUDをGUNSモードからCCIPモードかCCRPモードにする必要がある。HOTAS MASTER MODEボタンかMを押せ。",
+    ["DictKey_63"] = "爆弾プロファイルではOSB-7で信管設定が追加選択できる。ここではN/T（nose/tail）、NOSE、TAILの中からサイクルすることができる。先ほどロケットでやったようにOSB-6を2回押して投下設定をRIP SGLに変更しろ。\
+\
+設定できたらSPACE BARを押してくれ。",
+    ["DictKey_UnitName_124"] = "Batumi-Static-07",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_GroupName_107"] = "Target-2-03",
+    ["DictKey_44"] = "DSMSには次のようなページがある：ステータス・ページ、インベントリー・セレクト・ページ、セレクティブ・ジェティソン・ページ、ミサイル・コントロール・ページだ。これらのページにはサブページが付随するものがある。",
+    ["DictKey_82"] = "これでデジタル・ストアズ・マネジメント・システムの訓練課程を終わる。",
+    ["DictKey_56"] = "これでウェポン・リリース・ボタンが押されている間、何発のロケットが連続発射されるか設定することができる。例えば数量を3にするには、UFCで「3」をおして、それからOSB-8を押せば、数値がプロファイルに入力される。\
+\
+設定できたらSPACE BARを押してくれ。",
+    ["DictKey_71"] = "ではUFCのFUNCボタンを押して（HUDのUFCスクラッチパッドの隣に「F」が表示される）、SELロッカーUPを押して次のウェイポイントまでサイクルしろ。ミサイル・コントロール・ページのウェイポイント番号が変わるの分かるだろう。\
+\
+設定できたらSPACE BARを押してくれ。",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_141"] = "FARP-Chopper-2",
+    ["DictKey_81"] = "OSB-1を押してステータス・ページに戻ろう。",
+    ["DictKey_GroupName_133"] = "FARP-1",
+    ["DictKey_UnitName_110"] = "Target-2-04",
+    ["DictKey_sortie_146"] = "",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_UnitName_116"] = "Batumi-soldier",
+    ["DictKey_53"] = "プロファイル・メイン・ページはロードされたすべてのプロファイルを表示している。OSB-19を押して矢印でWTU（ロケット）のプロファイルを選択しろ。",
+    ["DictKey_UnitName_102"] = "Target-1-06",
+    ["DictKey_72"] = "N今度は方位と距離を入力する。UFCで方位の数値（例えば、065）をタイプし、OSB-7を押せ。次に距離の数値（例えば、20）をタイプし、OSB-8を押せ。\
+\
+設定できたらSPACE BARを押してくれ。",
+    ["DictKey_69"] = "OSB-5はEOパワーをMAN（manual）、LOC（location）、TIMEモードの中から選択する。MANモードでは、パイロットがEOパワーOSBを押した時点でシーカーが起動する。LOCモードでは、特定のウェイポイントから設定された距離と方位に到達した時点でシーカーが起動する。TIMEモードでは特定の時刻になった時点でシーカーが起動する。\
+\
+OSB-5でLOCオートマティック・パワー・ファンクションに設定しろ。\
+\
+設定できたらSPACE BARを押してくれ。",
+    ["DictKey_58"] = "これが追加プロファイル設定だ。ディスプレイ左側にあるのは、エスケープ・マニューバ、飛翔時間と最低高度だ。ディスプレイ右側では、水平オフセット、垂直オフセット、武器射出速度、ボム・ラック・ディレイが設定できる。\
+\
+OSB-3を押してプロファイルの変更を保存しろ。",
+    ["DictKey_UnitName_86"] = "Moving-targets-05",
+    ["DictKey_73"] = "これで指定されたウェイポイントから20nm、方位065でアプローチしたとき自動的にEOパワーがマーヴェリックに適用される。有効化される地点の範囲は直径10nm、もしくは設定された距離の25％かそれ以上だ。\
+\
+TIMEモードに設定すると、LOCモードと同じように、OSB-10のTIME EO POWER ファンクションで時刻の数値を入力できる。\
+\
+OSB-6のMAV ADJ （Maverick Boresight Adjust）ファンクションはミサイル・シーカーのボアサイト・ポジションを設定する。\
+\
+ディスプレイの左側のOSB-9はAIM-9ミサイルをOFF、COOL、SELモードに設定する。SELに設定されると、HUDがAIR TO AIRモードに変わる。\
+\
+再びOSB-1を押してDSMSステータス・ページに戻ろう。",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_66"] = "OSB-1でDSMSステータス・ページに戻ろう。",
+    ["DictKey_GroupName_121"] = "Batumi-Static-06",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_GroupName_123"] = "Batumi-Static-07",
+    ["DictKey_UnitName_112"] = "Hawg-11",
+    ["DictKey_UnitName_142"] = "FARP-Chopper-2",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_74"] = "次は、ジェティソン・セレクト・ページを見ていこう。OSB-4を押せ。",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_61"] = "ディスプレイ中央の追加プロファイル情報を見てくれ。HUDのプロファイル名が「M/」から始まっているが、これはマニュアルモードであることを示している。マニュアルモードでのプロファイルの扱いは、デフォルトプロファイルと同じだが、独立しているのでDMSに保存されるまでサイクルすることはできない。",
+    ["DictKey_48"] = "MASTER ARMをトレーニングモードにしよう。スイッチを一回右クリックしてTRAINにしろ。",
+    ["DictKey_GroupName_99"] = "Target-1-05",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_UnitName_98"] = "Target-1-04",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_GroupName_83"] = "Moving Targets",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_UnitName_120"] = "Batumi-Static-05",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_GroupName_125"] = "Batumi-Static-08",
+    ["DictKey_UnitName_132"] = "Batumi-Static-11",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_UnitName_134"] = "FARP-1",
+    ["DictKey_64"] = "爆弾リリースを連続設定にすると、数量と着弾間隔をfeet単位で調整できる。着弾間隔を150feetに変更しよう。UFCでHUDスクラッチパッドに「150」とタイプし、OSB-9をおしてDSMSに入力しよう。\
+\
+設定できたらSPACE BARを押してくれ。",
+    ["DictKey_65"] = "OSB-7で変更を保存しろ。",
+    ["DictKey_UnitName_87"] = "Moving-targets-04",
+    ["DictKey_UnitName_90"] = "Moving-targets-01",
+    ["DictKey_77"] = "インベントリー・ページの主な機能は、特定のステーションに特定の武器を割り当てることだ。これは武器の種類がプロファイルで指定されたものと一致しないというエラーを修正することを可能にし、プロファイル・セッティング・ページでは扱えない追加の武器設定を可能にする。さらにトレーニング・モードでは仮想ペイロードを作成することもできる。\
+\
+DTSカートリッジには機体に装備されたすべての武器のデフォルト・プロファイルが入っているので、エラーとなる機能不全が発生しないかぎり、通常のオペレーションではこのページにアクセスする必要はない。だが今回は一例として、一つのステーションをセットアップしてみよう。\
+\
+次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_62"] = "マニュアルモード中にPROD OSB-1を押すとプロファイル・コントロール・ページが直接開く。爆弾投下に関するプロファイル設定を見てみよう。",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_UnitName_92"] = "Target-1-03",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_UnitName_118"] = "Batumi-Static-04",
+} -- end of dictionary

@@ -1,0 +1,175 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "Target-4-01",
+    ["DictKey_GroupName_83"] = "Batumi-Static-05",
+    ["DictKey_37"] = "我々はステーション4と8にGBU-12を2発、ステーション5と7にGBU-38を2発積んでいる。それから、ステーション2にLITENING-Ⅱターゲティングポッド（TGP）、ステーション11に訓練用AIM-9Mを2発積んでいる。\
+\
+OSB-1を押してプロファイル・メイン・ページを開け。",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_GroupName_89"] = "Batumi-Static-08",
+    ["DictKey_UnitName_84"] = "Batumi-Static-05",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_GroupName_67"] = "Target-1-01",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_38"] = "OSB-19を押してGBU-12プロファイルにサイクルし、OSB-3を押してプロファイル・コントロール・ページを開け。",
+    ["DictKey_54"] = "オートパイロットOFF。ユー・ハブ・コントロール。\
+\
+CCRPレティクルのプロジェクテッド・ボム・インパクト・ライン［予測着弾線］（PBIL）がアジマス・ステアリング・ライン［方位指向線］（ASL）に重なるように機体を操縦しろ。リリース・ポイントまでおよそ20秒になったとき、ソリューション・キューと一緒にタイム・トゥ・リリース・ニューメリック（TTRN）がASLの一番上に現れる。リリース5秒前になると、ソリューション・キューとTTRNがCCRPレティクルに向かってASLを下り始める。この時点でウェポン・リリース・ボタンを押し続けなければならない。すると、ソリューション・キューがレティクルを通過すると同時に爆弾が分離される。",
+    ["DictKey_GroupName_77"] = "Batumi-Static-02",
+    ["DictKey_GroupName_65"] = "Target-3-01",
+    ["DictKey_UnitName_62"] = "Target-2-01",
+    ["DictKey_UnitName_80"] = "Batumi-Static-03",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_35"] = "A-10Cが持ち運べるIAMには、統合直接攻撃弾［ジョイント・ディレクテッド・アタック・ミュニション］（JDAM）と、風向修正弾薬ディスペンサー［ウィンド・コレクテッド・ミュニションズ・ディスペンサー］（WCMD、「ウィクミド」と呼ばれる）がある。\
+\
+Paveway-Ⅱと同じように、JDAMはMk-82及びMk-84無誘導爆弾をGBU化したものだ。JDAMの場合はGPS受信機を使ってターゲットと自分の位置を測定する。衛星ナビゲーションの利点は、光学システムと違って天候状態に左右されないことだ。しかもこれはパッシブ型であり、「打ちっぱなし」が可能なため、複数のターゲットを一度に相手にすることが出来る。\
+\
+A-10CにはGBU-31 2000lbs. JDAMと、GBU-38 500lbs. JDAMが装備できる。\
+\
+SPACE BARを押して次に進もう。",
+    ["DictKey_UnitName_94"] = "Batumi-Static-10",
+    ["DictKey_UnitName_90"] = "Batumi-Static-08",
+    ["DictKey_GroupName_79"] = "Batumi-Static-03",
+    ["DictKey_UnitName_96"] = "Batumi-Static-11",
+    ["DictKey_UnitName_102"] = "Unit #2",
+    ["DictKey_40"] = "OSB-6のAUTO LS（オート・レイズ）ロータリーからは、レーザー照射の自動か手動かを選択できる。ONにセットされていると投下後に自動的にレーザーが照射される。OSB-17のLSTIMEセッティングでは、着弾までレーザー照射を行う秒数を設定する。0にセットされていると、レーザーは照射されない。予測される落下時間よりも大きい数値にセットすると、レーザーは投下直後から照射される。\
+\
+オート・レイズがOFFにセットされている場合、レーザーはHOTASノーズホイール・ステアリング・ボタンまたはINSERTを使ってパイロットによって手動で照射される。TGPのLATCHオプションもOFFにセットされている場合、ノーズホイール・ステアリング・ボタンが押されている間だけレーザーは照射される。\
+\
+OSB-16のSOLN（ソリューション）ロータリーでは、CCRPリリース時のソリューション・キューをORP（オプティカル・リリース・ポイント）とBAL（バリスティック・リリース・ポイント）から選択できる。\
+\
+OSB-6でオート・レイズを入れろ。LSTIMEを10秒にセットしろ。UFCスクラッチパッドで「10」と入力したあとOSB-17を押せばよい。\
+\
+OSB-3を押してこのプロファイルの変更をセーブしろ。",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_59"] = "2つ目のターゲットに命中した！",
+    ["DictKey_45"] = "一般的に、ターゲットを2時か10時の方向に見据えながら交戦準備を行うのがベストだ。でなければ、攻撃設定が整ったころにはターゲットを通り越してしまっているというリスクがある。今回の場合、射爆場はウェイポイント4（「RANGE」）と同じ場所にある。このウェイポイントをTGPをターゲットに向ける目印に使える。\
+\
+ウェイポイント4（「RANGE」）をステアポイントにセットしろ。",
+    ["DictKey_50"] = "最初のターゲットは射爆場の南東の隅にあり、REDスモークでマークされている。HOTAS スルーコントロールか、キーボードの「；」「,」「.」「/」を使ってTGPをターゲットに向けろ。\
+\
+クロスヘアをターゲットに合わせたら、HOTAS TMS UPコマンドか、左CTRL+↑を押してTGPをAREAトラックモードにしろ。同じコマンドでTGPをPOINTトラックモードにできる。",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_GroupName_75"] = "Batumi-Static-01",
+    ["DictKey_GroupName_71"] = "Batumi-car",
+    ["DictKey_47"] = " 目標の射爆場を目視で見てみろ。TGPは長距離を見渡せるが、一般的に目視索敵のためには20マイル以内にいるべきだろう。\
+\
+HOTASクーリーハットRIGHT（ロング）コマンドか、Kを長押ししてTGPをSOIにしろ。",
+    ["DictKey_43"] = "見ての通り、GBU-38のプロファイル・セッティングに特殊なオプションはない。\
+\
+OSB-15を押して左MFCDをTADページにしよう。",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_55"] = "右MFCDの右下のコーナーと、HUD左側の速度の下に表示される予測着弾時間のカウントダウンをモニターしろ。クロスヘアはターゲットに合わせたままだ。",
+    ["DictKey_51"] = "HOTAS TMS UP（ロング）コマンドか、左CTRL+↑を長押しして、ターゲットポイントをSPIにしろ",
+    ["DictKey_52"] = "射爆場へアプローチするにあたって、左MFCDのOSB-14を押してDSMSページを開こう。",
+    ["DictKey_GroupName_87"] = "Batumi-Static-07",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_46"] = "ではHOTASチャイナハットFORWARD（ロング）コマンドか、Vを長押しして全センサーをSPIに集中させろ。",
+    ["DictKey_GroupName_97"] = "FARP-1",
+    ["DictKey_32"] = "Welcome to the training flight on the employment of precision-guided munitions (PGM). In this lesson, we'll practice using the LITENIING-II targeting pod (TGP) to engage ground targets with laser and satellite guided bombs.",
+    ["DictKey_GroupName_93"] = "Batumi-Static-10",
+    ["DictKey_UnitName_76"] = "Batumi-Static-01",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_58"] = " IAMのリリース・インジケーションはLGB CCRPリリースと似ている。最大レンジと最小レンジを示すレンジ・キャレットがレティクル内に表示される。リリース・ポイントに近づくと、ASLがHUDを下りてきて、レティクルのレンジ・バーが縮み始める。レンジ・バーがレティクルの最大レンジ・キャレットと最小レンジ・キャレットの間に来たら、爆弾が分離されるまでウェポン・リリース・ボタンを押し続けろ。ウェポン・リリース・ボタンを早く離しすぎるとハング・ストア・エラーが起きてしまうかもしれない。",
+    ["DictKey_UnitName_88"] = "Batumi-Static-07",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_GroupName_101"] = "Batumi Cars",
+    ["DictKey_30"] = "Welcome to the training flight on the employment of precision-guided munitions (PGM). In this lesson, we'll practice using the LITENIING-II targeting pod (TGP) to engage ground targets with laser and satellite guided bombs.",
+    ["DictKey_UnitName_64"] = "Target-4-01",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_UnitName_100"] = "FARP-2",
+    ["DictKey_GroupName_104"] = "FARP-Chopper-1",
+    ["DictKey_UnitName_72"] = "Batumi-car",
+    ["DictKey_41"] = "OSB-19を押してGBU-38プロファイルにスイッチし、OSB-3でプロファイル・コントロール・ページを見よう。",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_39"] = "OSB-10を押してデフォルトのプロファイルをCCRPに変更しろ。それからOSB-16を押してプロファイル・セッティング・ページを開け。",
+    ["DictKey_GroupName_69"] = "Hawg-1",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_UnitName_68"] = "Target-1-01",
+    ["DictKey_56"] = "ナイス・ヒット！\
+\
+少し距離をとってから、今度はGBU-38を使って2回目のパスを行おう。UFCでもう一度SELロッカーを押し、GBU-38プロファイルをセレクトしろ。",
+    ["DictKey_UnitName_70"] = "Hawg-11",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_60"] = "これで精密誘導弾の使用訓練を終わる。\
+\
+あと1つずつGBU-12とGBU-38が残っているので、練習するといい。",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_UnitName_92"] = "Batumi-Static-09",
+    ["DictKey_33"] = "精密誘導爆弾［プリシション‐ガイデッド・ミュニションズ］（PGM）の実践訓練飛行へようこそ。この訓練ではLITENING-Ⅱターゲティング・ポッド（TGP）を使って、地上ターゲットに対するレーザー誘導及び衛星誘導爆弾による攻撃練習を行う。オートパイロットで高度と方位を維持している。速度が200kts以上を保つようスロットルを管理してくれ。\
+\
+開始準備が整ったらSPACE BARを押してくれ。",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_GroupName_99"] = "FARP-2",
+    ["DictKey_44"] = "A-10CからのPGMの投下は比較的分かりやすい。やらなければいけないことは、ターゲットの位置をセンサー・ポイント・オブ・インタレスト（SPI）に指定し、CCRPモードで投下するだけだ。\
+\
+まずは右MFCDのOSB-2を押して、TGPをエア・トゥ・グラウンド（A-G）モードにセットしろ。",
+    ["DictKey_UnitName_74"] = "Batumi-soldier",
+    ["DictKey_GroupName_106"] = "FARP-Chopper-2",
+    ["DictKey_GroupName_91"] = "Batumi-Static-09",
+    ["DictKey_34"] = "A-10Cには次の2種類のPGMが装備できる：レーザー誘導爆弾［レーザー・ガイデッド・ボム］（LGB）、慣性補助兵器［イナーシャリー・エイデッド・ミュニション］（IAM）だ。\
+\
+LGBはLITENING-Ⅱターゲティング・ポッド（TGP）や、他の陸・空の機器に搭載されたレーザー照射器によって「色付け」されたターゲットが反射した、レーザーエネルギーに狙いを定める。これは友軍同士で一方が照射を行い、一方がそれを利用して攻撃するという「バディ・レイズ」を可能にする。\
+\
+A-10Cが持ち運べるレーザー式GBU（誘導爆弾ユニット）には、GBU-10とGBU-12がある。これらはPaveway-ⅡLGBキットを装着したMk-84及びMk-82無誘導汎用爆弾に必要不可欠だ。Paveway-ⅡLGBキットは爆弾の頭部にレーザー探知機と、後部に展張式コントロール・フィンを追加するものだ。\
+\
+軽い方であるGBU-12の有利な点は、トリプル・イジェクター・ラック（TER）に3発装備したものを、ステーション3、4、8、9に搭載できることだ。\
+\
+SPACE BARを押して次に進もう。",
+    ["DictKey_UnitName_82"] = "Batumi-Static-04",
+    ["DictKey_UnitName_86"] = "Batumi-Static-06",
+    ["DictKey_sortie_111"] = "",
+    ["DictKey_GroupName_61"] = "Target-2-01",
+    ["DictKey_GroupName_85"] = "Batumi-Static-06",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_UnitName_105"] = "FARP-Chopper-1",
+    ["DictKey_UnitName_103"] = "Unit #1",
+    ["DictKey_descriptionRedTask_109"] = "",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_descriptionBlueTask_110"] = "",
+    ["DictKey_UnitName_78"] = "Batumi-Static-02",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_48"] = "HOTASチャイナハットFORWARD（ショート）コマンドか、Vを押してフィールド・オブ・ビュー［視野］（FOV）を狭くしろ。",
+    ["DictKey_GroupName_95"] = "Batumi-Static-11",
+    ["DictKey_UnitName_107"] = "FARP-Chopper-2",
+    ["DictKey_UnitName_98"] = "FARP-1",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_GroupName_81"] = "Batumi-Static-04",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_53"] = "UFCのSEL DOWN ロッカーキーを押してGBU-12プロファイルをセレクトし、HUDがCCRPモードになっていることを確認しろ。",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_GroupName_73"] = "Batumi-soldier",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_36"] = "CBU-103 WCMDは、CBU-87クラスター爆弾をWCMD化したものだ。自律的にターゲットへ誘導できるように、慣性航法システム（INS）が追加されている。JDAMと同じように、パッシブ型の武器であるため、「打ちっぱなし」にできる。\
+\
+では、DSMSで我々のペイロードを確認しておこう。左MFCDのOSB-14を押せ。",
+    ["DictKey_descriptionText_108"] = "",
+    ["DictKey_49"] = "ターゲット・エリアをより大きく見たいときは、HOTAS DMS UPコマンドかHOMEを長押ししてズームすることができる。",
+    ["DictKey_42"] = "もうプロファイル・コントロール・ページは見慣れたものだな。OSB-16でプロファイル・セッティング・ページを見よう。",
+    ["DictKey_WptName_117"] = "RANGE",
+    ["DictKey_UnitName_66"] = "Target-3-01",
+    ["DictKey_WptName_116"] = "MSN003",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_57"] = "2つ目のターゲットは射爆場北西の隅にある。今REDスモークでマークされた。TGPをターゲットに移し、ゆっくりと左旋回して2回目のパスへ準備しろ。\
+\
+ターゲットをSPIにマークし、AREAかPOINTトラックモードで追跡を開始しろ。",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_31"] = "Welcome to the training flight on the employment of precision-guided munitions (PGM). In this lesson, we'll practice using the LITENIING-II targeting pod (TGP) to engage ground targets with laser and satellite guided bombs.",
+    ["DictKey_WptName_154"] = "",
+} -- end of dictionary

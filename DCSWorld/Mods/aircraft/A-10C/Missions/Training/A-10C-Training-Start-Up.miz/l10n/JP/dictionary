@@ -1,0 +1,225 @@
+dictionary = 
+{
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_90"] = "今、IFFCCはGROUND BITメニューをHUD上に表示している。ここで必要に応じて、他の様々なBITを行うことが出来る。このメニューを抜けるには、UFC上のSEL(Select)ロケット・キーをHUDカーソルが再度EXITをポイントするまで繰り返し押す。更にENTを押せば、このメニューを抜けるだろう。",
+    ["DictKey_WptName_227"] = "",
+    ["DictKey_53"] = "お早う! このミッションで我々は、A-10C の始動手続きを行う。やらなければならないことが多いので、いつでも PAUSE キーを押して自由に休憩を取るように。\
+\
+この訓練では私の指示に正確に従うことが重要だ。先走ってスイッチ類をパチパチやらないようにしろ。所要のコントロール・スイッチ類は、フロントのダッシュ・パネルと左右のコンソールを参照させながら、ハイライトで指示する。君はスイッチの場所を探して、View コントロール・キーでコクピット内を自由に見渡すことが出来る。",
+    ["DictKey_UnitName_156"] = "Batumi-Static-10",
+    ["DictKey_84"] = "IFFCCがBITをパスし、EGIシステムがアライメントを終えるのを待つ間、フライト・コントロール・システムのセットアップを行おう。\
+\
+左コンソールのSASパネルにある、左右のヨーとピッチのSASチャンネルをONにセットする。",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_UnitName_152"] = "Batumi-Static-08",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_GroupName_137"] = "Pig-1",
+    ["DictKey_76"] = "左エンジンと同じように、右エンジンのスプール・アップでも計器類を監視する。また、右油圧システムの圧力も確認する。\
+\
+両方のエンジンがアイドル出力で通常通り始動したら、操縦桿とラダーの入力反応を試験することが可能になる。更にスピードブレーキとフラップのテストも行う。\
+\
+全てのチェックが完了したら、スペース・バーを押して次へ進もう。",
+    ["DictKey_WptName_220"] = "",
+    ["DictKey_86"] = "では、データ・カートリッジからデータをアップロードしよう。左MDCDのオプション・セレクト・ボタン10を押して、LOAD　ALLを選択する。",
+    ["DictKey_GroupName_113"] = "Target-1-03",
+    ["DictKey_64"] = "UHF 無線機能ダイヤルをMAINにセットして、UHF 無線に電源を入れる。",
+    ["DictKey_93"] = "これで、フライト・プランがロードされた。AAPパネル上のSTEER PT(steerpoint)スイッチを二度押してフライト・プランを設定する。これで、フライト・ルートがTADディスプレーに現れるだろう。",
+    ["DictKey_100"] = "Radar AltimeterスイッチをNRMにする。",
+    ["DictKey_descriptionText_166"] = "",
+    ["DictKey_GroupName_153"] = "Batumi-Static-09",
+    ["DictKey_UnitName_108"] = "Moving-targets-05",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_UnitName_136"] = "Hawg-31",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_GroupName_129"] = "Target-2-03",
+    ["DictKey_UnitName_138"] = "Pig-11",
+    ["DictKey_99"] = "次に、左コンソールにあるLow Altitude Safety and Targeting Enhancement (LASTE)パネル上にあるEnhanced Attitude Control (EAC) スイッチをARMにする。　注）このスイッチはスロットルの下に隠れているので、スイッチを見るには視線を移動させる必要があるでしょう。しかし、隠れた状態でもマウスでクリックすることができます。",
+    ["DictKey_83"] = "アップフロント・コントローラー(UFC)のENT(enter)ボタンを押して、IFFCC BITを始める。これには約一分かかるだろう。",
+    ["DictKey_96"] = "次に、AHCP上の統合戦術無線システム(Joint Tactical Radio System - JTRS)スイッチをONにする。これは状況認識データリンク(Situational Awareness Datalink - SADL)にパワーを送る。",
+    ["DictKey_UnitName_130"] = "Target-2-03",
+    ["DictKey_GroupName_155"] = "Batumi-Static-10",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_75"] = "では、今度は右エンジンについても同じ手続きを繰り返そう。同じようにエンジン始動のために、スロットルをOFFからIDLE位置に動かすか、今度は RIGHT CTRL + HOME キーを押す。",
+    ["DictKey_92"] = "左MFCDのOSB-15を押して、戦況認識表示(Tactical Awareness Display - TAD)ページに設定する。",
+    ["DictKey_60"] = "酸素レギュレーター・パネル上で、フロー・スイッチをオンにし、フロー・ウィンドウに表示されている酸素フローをチェックする。",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_GroupName_119"] = "Target-1-04",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_GroupName_157"] = "Batumi-Static-11",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_UnitName_111"] = "Moving-targets-02",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_UnitName_162"] = "FARP2",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_79"] = "フロントのダッシュ・パネルの予備水平儀 (SAI) を解放する。マウスでSAIケージ・ノブをポイントし、マウス・ホイールをロールダウンすれば、ノブは左に回転され SAI が解放される。 SAI が解放されたら、マウス・ホイールを逆に戻して、人口水平儀のレベルを水平に調節する。",
+    ["DictKey_WptName_223"] = "",
+    ["DictKey_95"] = "さて、四つのシステム選択スイッチをON(中央位置)にセットする。",
+    ["DictKey_GroupName_117"] = "Target-1-01",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_UnitName_114"] = "Target-1-03",
+    ["DictKey_descriptionBlueTask_168"] = "",
+    ["DictKey_GroupName_147"] = "Batumi-Static-06",
+    ["DictKey_57"] = "よし。今度は、同じパネルのインバーター・スイッチをSTBY(stand by)に倒す。これは、AC電力を多数の計器類に供給させる。これはまた、エンジン点火装置にも電力を送る。",
+    ["DictKey_80"] = "Tそれぞれのマルチファンクション・カラーディスプレイ (MFCD) の電源スイッチの上で左クリックを2回行い電源を入れる。",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_GroupName_135"] = "Hawg-3",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_GroupName_161"] = "FARP2",
+    ["DictKey_UnitName_164"] = "Unit #2",
+    ["DictKey_GroupName_139"] = "Batumi-car",
+    ["DictKey_58"] = "これで電源が入ったので、始動中に何か間違いをしでかした場合にちゃんと警告を受けれらるように、CAUTION/WARNING システムのテストが出来る。\
+\
+これを行うには、左コンソールの補助ライティング・パネル上のランプ・テスト・ボタンを押し続ける。ボタンを押しながらコクピット内を見渡して、全ての CAUTION ランプが点灯し、警報音が聞こえることを確認する。",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_67"] = "次に左コンソールのスロットル・パネルの左右のエンジン燃料フロー・スイッチをNORMにセットする。",
+    ["DictKey_69"] = " さて、再び電源パネルに戻り、APUジェネレーター・スイッチをPWR位置にセットする。これは、機体へAPUの電力を送り、バッテリーの消耗を防ぐためである。これにより、バッテリーは予備電力源として確保されねばならない。",
+    ["DictKey_89"] = "IFFCC BITが終了した。HUDを見ると、HUDカーソルがEXITファンクションをポイントしている。ここで、UFC上のENTキーを押し、HUDメニューを抜ける。",
+    ["DictKey_GroupName_131"] = "Target-2-04",
+    ["DictKey_68"] = "エンジンを始動させる前に、まず補助エンジン・ユニット(APU)を始動させる必要がある。これは、主エンジンの始動のためのブリード・エアを作り出す。\
+\
+APUの始動では、フロントのダッシュ・パネルの右下のエンジン・モニタ計器(Engine Monitoring Instruments - EMI)パネルにあるAPU排気ガス温度計（EGT)とRPMゲージを監視する。\
+\
+では、APUスイッチをSTARTにセットして見よう。",
+    ["DictKey_UnitName_128"] = "Target-2-02",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_UnitName_140"] = "Batumi-car",
+    ["DictKey_87"] = "DTSがカートリッジから機体へデータを転送するのに約15秒かかる。この間、ディスプレーの左側のテータ・タイプに付随するアスタリスク(*)は全て消えるだろう。全てのアスタリスクが再表示されたら、データ転送は成功したことになる。",
+    ["DictKey_UnitName_106"] = "Moving-targets-07",
+    ["DictKey_GroupName_105"] = "Moving Targets",
+    ["DictKey_GroupName_149"] = "Batumi-Static-07",
+    ["DictKey_54"] = "私の指示が周囲の雑音にかき消されて聞き取れない場合は、ミッションを一度、終了して、Option menu で WORLD と IN-COCKPIT のサウンドのスライダーを50%まで下げると良いだろう。",
+    ["DictKey_GroupName_151"] = "Batumi-Static-08",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_55"] = "フライト・マニュアルに記されているように、通常は、航空機が適切な状態にあることを確認するために、飛行前点検が行われる。しかしながらこのレッスンでは全てのミッションと同じように、航空機の初期設定の状態から、そのまま始動手順を開始する。\
+\
+始動手続きは、電源から始まり、APUとそれに続く左右のエンジンの始動、そして最後に主要なアビオニクスの起動と準備で構成される。\
+\
+準備が出来ているなら、スペース・バーを押してくれ。",
+    ["DictKey_UnitName_148"] = "Batumi-Static-06",
+    ["DictKey_WptName_226"] = "",
+    ["DictKey_UnitName_154"] = "Batumi-Static-09",
+    ["DictKey_UnitName_122"] = "Target-1-05",
+    ["DictKey_GroupName_127"] = "Target-2-02",
+    ["DictKey_91"] = "今、IFFCCはHUDにメイン・メニューを表示している。ここで、様々な表示や武器発射パラメーターのセットアップが出来る。\
+\
+もう一度、IFFCCスイッチを左クリックして、テスト・モードを終了し、ONにセットしよう。",
+    ["DictKey_GroupName_115"] = "Target-1-02",
+    ["DictKey_WptName_214"] = "",
+    ["DictKey_70"] = "APUの排気ガス温度はアイドル状態で 400-550-c で安定するが、エンジン・スターターを回す一分間は、一時的に760-c まで上昇する。\
+\
+APUの排気ガス温度とRPMが安定したら、スペース・バーを押してくれ。",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_88"] = "データがロードされたら、右MFCDディスプレーをOSB-13ボタンを押してCDUデータを表示させる。ここで、CDU表示をチェックするのに、頭を下げて見る必要はない。",
+    ["DictKey_UnitName_146"] = "Batumi-Static-05",
+    ["DictKey_78"] = "よろしい、次はコントロール・ディスプレイ・ユニット(CDU)と埋め込み GPS/INS(EGI) システムのパワーを入れる。これでナビゲーション・システムの自動ビルトイン・テストとアライメント・プロセスが始まるので、CDUディスプレイと右コンソールを監視する。",
+    ["DictKey_GroupName_163"] = "Batumi Cars",
+    ["DictKey_104"] = "滑走路へのタキシングにはタワーの許可が必要である。よって、ここでエンジン始動レッスンを終えよう。\
+\
+この続きは明日だ。では後ほど。",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_UnitName_150"] = "Batumi-Static-07",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_WptName_232"] = "",
+    ["DictKey_UnitName_132"] = "Target-2-04",
+    ["DictKey_WptName_229"] = "",
+    ["DictKey_UnitName_109"] = "Moving-targets-04",
+    ["DictKey_UnitName_165"] = "Unit #1",
+    ["DictKey_UnitName_134"] = "Hawg-11",
+    ["DictKey_63"] = "さて、VHF/FM 無線機についてもこのプロセスを繰り返そう。",
+    ["DictKey_WptName_230"] = "",
+    ["DictKey_103"] = "黄色いハンドルをクリックして、イジェクションシートを使用可能にする。",
+    ["DictKey_UnitName_110"] = "Moving-targets-03",
+    ["DictKey_GroupName_125"] = "Target-2-01",
+    ["DictKey_UnitName_124"] = "Target-1-06",
+    ["DictKey_81"] = "CDUのBITとアライメントが終了するのを待つ間に、始動手続きを続けよう。\
+\
+フロント・ダッシュ・パネルのアーマメントHUDコントロール・パネル(AHCP)にあるセントラル・インターフェース・コントロール・ユニット(CICU)をオンにセットする。これは、多数の機体システムについての不可欠なユーザー・インターフェースの制御を提供するためのものである。これには、左右のマルチ・ファンクション・カラー・ディスプレー(MFCD)が含まれる。",
+    ["DictKey_GroupName_133"] = "Hawg-1",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_sortie_169"] = "",
+    ["DictKey_UnitName_160"] = "FARP",
+    ["DictKey_56"] = "最初に、右サイドのコンソールのバッテリー・スイッチをPWR(power)に入れる。これは、DCバスとAPUに電力を供給するためである。\
+\
+画面右下の隅のにスイッチを指示するハイライトに従いたまえ。",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_141"] = "Batumi-Static-03",
+    ["DictKey_GroupName_145"] = "Batumi-Static-05",
+    ["DictKey_97"] = "EGIのアライメントが終えたら、右MFCDにあるOSB-9を押して、CDU NAV モードを選択する。",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_102"] = "コントロール・スティックのピンキー・ボタンか、キーボードのINSERTキーを押して、ノーズホイールのステアリングをONにする。",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_UnitName_116"] = "Target-1-02",
+    ["DictKey_61"] = "OXY IND TEST (Oxygen Indicator Test) ボタンを押して、酸素残量計をテストする。表示が 0.5 リットルを下回ると、警告ライト・パネル上の OXY LOW 警告ライトが点灯することを確かめる。",
+    ["DictKey_GroupName_143"] = "Batumi-Static-04",
+    ["DictKey_74"] = "エンジンのスプール・アップにおいては、エンジン監視計パネルを見回してエンジン・インターステージ・タービン温度計（ITT）、エンジン・コア・スピード、ファン・スピード、及び燃料フロー・ゲージを監視する。コア・ファンRPMが地上でのアイドリング状態の、約60%で安定するのを確認する。\
+\
+更に、左油圧システムの圧が上昇するだろう。これは 2,800 から 3,350 PSI の間で安定するだろう。\
+\
+左エンジンが平常に始動され安定したら、スペース・バーを押して先に進もう。",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_62"] = "また、ATC や任務中の通信のために通信機の電源を入れる必要もある。VHF/AM 周波数モード・ダイヤルを TR (Transceiver) にセットする。",
+    ["DictKey_59"] = "問題はないようだ。さて次は、燃料計が正常に動いているかを確認する。燃料計はフロントのダッシュ・パネルの右サイドにある。テストを行うと、二本の針が 3,000 lbs を指し、デジタル総量計が 6,000 lbs を表示する。",
+    ["DictKey_66"] = "エンジン・スタートには数分を要し、幾つかのステップを踏む。\
+\
+最初に、両翼と胴体の左右のタンクのブースト・ポンプに、パワーを送る必要がある。\
+\
+左コンソールの上にある燃料システム・コントロール・パネルに四つのスイッチがあるだろう。これらのスイッチを全て上にセットする。",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_GroupName_121"] = "Target-1-05",
+    ["DictKey_WptName_221"] = "",
+    ["DictKey_GroupName_123"] = "Target-1-06",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_UnitName_142"] = "Batumi-Static-03",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_WptName_231"] = "",
+    ["DictKey_72"] = "機外ライトを点灯して、地上クルーに機体が「ライブ」になり、エンジン始動が始まったことを知らせよう。機外ライトとコクピットの照明を操作するために右コンソールのライティング・パネルを使用しても良いが、左スロットルのピンキー・スイッチも使用出来る。基本的な機外ライトの点灯には、このスイッチを FORWARD にセットするか、 LEFT ALT + P を押す。",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_101"] = "この時点で滑走路へタキシングする準備ができている。Anti-SkidスイッチをONにしよう。",
+    ["DictKey_UnitName_107"] = "Moving-targets-06",
+    ["DictKey_73"] = "よろしい、左のエンジンを始動させる番だ。これは非常に簡単な操作で、左スロットルをOFFからIDLEにセットするか、RIGHT ALT + HOME キーを押すだけである。これによって、燃料フローが自動で始まり、ファンを回すためにブリード・エアがAPUから送られ、燃焼室の燃料が点火されることになる。",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_85"] = "T/O(Take-off)トリムボタンを押して、フライト・コントロールの離陸トリムをセットする。",
+    ["DictKey_UnitName_144"] = "Batumi-Static-04",
+    ["DictKey_71"] = "更にエンジン始動手続きとして、電源パネル上で左右のACジェネレーターのスイッチをPWRにセットする。エンジンは始動したならACジェネレーターを働かせ、APUに変わって電力を供給し始める。",
+    ["DictKey_UnitName_120"] = "Target-1-04",
+    ["DictKey_82"] = "MFCDが立ち上がった。最初の何秒かは、データ・トランスファー・システム(DTS)のページが表示される。これは、ミッション・プランナーからデータ・カートリッジに記録されたナビゲーションと兵器の設定データを読み込むために使用する。\
+\
+次に、統合航法火器制御コンピューター(IFFCC)スイッチをマウスを一度左クリックして、TESTポジションにセットする。IFFCCは武器発射計算、高度管理、及び、HUD表示を行う。テスト・モードでは、システムは一連の自動BITを行う。これはHUDでモニター出来る。",
+    ["DictKey_UnitName_112"] = "Moving-targets-01",
+    ["DictKey_descriptionRedTask_167"] = "",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_65"] = "これで、エンジン・スタートの開始準備が出来た。しかし、その前に騒音を防ぐためにキャノピーを閉じよう。\
+\
+キャノピー・コントロール・スイッチを右クリックしたままにして、キャノピーを降ろす。キーボードで LCTRL + C を押しても良い。",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_77"] = "両エンジンが始動し、左右のACジェネレーターが電力を供給し始めたら、電源パネルのAPUジェネレーターをオフにし、スロットル・パネルのAPU自体もシャットオフして良い。",
+    ["DictKey_UnitName_158"] = "Batumi-Static-11",
+    ["DictKey_GroupName_159"] = "FARP",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_94"] = "以上、飛行/航法システムの準備が完了したら、任務のための戦闘システムの幾つかを準備出来る。\
+\
+カウンターメージャー（対抗手段）・シグナル処理装置(Countermeasures Signal Processor - CMSP)パネルのCMSPモード・スイッチをSTBY(standby)にセットする。戦闘出撃では、カウンターメージャーのプログラミングが必要だが、これは別のトレーニングで行う。",
+    ["DictKey_98"] = "ナビゲーションモードパネルにて、ナビゲーションシステムにEGIを選択する。",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_UnitName_126"] = "Target-2-01",
+    ["DictKey_UnitName_118"] = "Target-1-01",
+} -- end of dictionary
