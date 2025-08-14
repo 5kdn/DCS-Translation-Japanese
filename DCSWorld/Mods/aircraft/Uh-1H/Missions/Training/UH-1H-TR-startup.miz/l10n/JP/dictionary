@@ -1,0 +1,127 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "static #003",
+    ["DictKey_UnitName_72"] = "static #004",
+    ["DictKey_UnitName_52"] = "Pilot #3",
+    ["DictKey_UnitName_60"] = "static #001",
+    ["DictKey_40"] = "パワースイッチの上で右クリックを１回して　AN/ARN-82 VHF NAV COMM 無線 をつけてください",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_GroupName_67"] = "static #006",
+    ["DictKey_UnitName_56"] = "Pilot #2",
+    ["DictKey_UnitName_62"] = "static #002",
+    ["DictKey_GroupName_57"] = "static",
+    ["DictKey_36"] = "エンジンをかけるには、「Home」キー押し続けエンジントリガーを引かなくてはならない。エンジントリガーはコレクティブコントロールハンドルのスイッチボックスの下にある。\
+エンジン回転数が上がってくるので、ガスタービン計と時計を見てください\
+エンジンスタートボタンは、ガスタービンの速度が40％になるか、４０秒すぎるまで押し続けてください。15％を超えるとローターが回転し始めるでしょう。もしそうでないなら、中止してください。\
+\
+どのような場合であっても、Homeキーを押してエンジン点火を始めたのであれば、時間とカスタービンの計器をチェックするのは忘れないでください。",
+    ["DictKey_50"] = "ヘリコプターを壊す気か！\
+\
+\
+[終了して再度挑戦しなさい]",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_GroupName_71"] = "static #004",
+    ["DictKey_47"] = "エンジンを通常出力まで上げていきましょう。\
+「PAGE UP」キーを断続的に押して、エンジン＆ローター回転数計を見ながらエンジン出力を上げていきます。\
+又は、ゆっくりとコレクティブコントロールのスロットルグリップをゆっくりと左に回しながらパワーを上げてゆきます。最後まで回します\
+エンジン回転数が6600　ローターRPMが324で安定するはずです。",
+    ["DictKey_GroupName_51"] = "New Airplane Group",
+    ["DictKey_42"] = "ファンクションスイッチを T/R (transmit-receive).にして　AN/ARC-51BX UHF 無線を付けてください。",
+    ["DictKey_28"] = "初めに飛行機に電力を共有する必要がある。これはグランドクルーによって済ませてあるが、内部電源で行うこともできる。\
+\
+オーバーヘッドコンソールを見てください。\
+ACパワーコントロールパネルのAC　Phase Vltimater セレクタースイッチをAC Phaseにセット\
+インバータースイッチ（INVTR）をOFF",
+    ["DictKey_UnitName_58"] = "static",
+    ["DictKey_46"] = "オーバーヘッドコンソールの　Starter Generatorをスタンバイ(STBY)にセットしろ",
+    ["DictKey_35"] = "エンジンをかける前にスロットルをアイドルにしなくてはならない。\
+スロットルはパイロットに左足の横のコレクティブコントロールハンドルのグリップ部にある。スロットルを左に回すと（「PAGE UP」）とアップし、右に回すと（「PAGE DOWN」)ダウンする。\
+\
+一度　「PAGE UP」を押してスロットルアップしシャットダウンポジションを抜け出した後、「PAGE DOWN」を押し続けて、スロットルをアイドルストップの位置にセットしてください。\
+\
+サイクリックスティックとペダルはセンター、コレクティブは一番下にあることを確認してください。\
+「RCTRL　＋ ENTER」でコントロールインジケーターを表示できますので、それで確認することもできます。",
+    ["DictKey_32"] = "警告パネルのテストを行います。すべての表示が機能しているか確認してください。\
+TESTスイッチを下に入れている間、全部の警告表示が付きます",
+    ["DictKey_45"] = "AN/ARN-83 ADF 受信機をADFにセットしてください。",
+    ["DictKey_43"] = "インターフォンセレクタースイッチを３にセットしてVHF COMM 無線機を選択してください。これでATCと交信できるようになります。 \
+ウイングマントと交信するには、セレクタースイッチを２にセットし、UHF無線機を選択してください。",
+    ["DictKey_UnitName_54"] = "Player",
+    ["DictKey_UnitName_66"] = "static #005",
+    ["DictKey_30"] = "次に、 Starter Generator　スイッチを　STARTにしバッテリー（BAT)をONにして下さい。",
+    ["DictKey_UnitName_64"] = "static #003",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_39"] = "無線関係を立ち上げていこう。\
+\
+MASTERスイッチの上で右クリックを1回押して、AN/APX-72 トランスポンダーを　スタンバイへ (STBY)にしてください。",
+    ["DictKey_41"] = "Powerスイッチの上で右クリックを１回おしてAN/ARC-134 VHF COMM 無線 をつけてください。",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_UnitName_68"] = "static #006",
+    ["DictKey_29"] = "DC パワーコントロールパネル上ののMain Generator スイッチをONへ、 DC Voltmeter セレクターを ESS BUSへセットしてください。",
+    ["DictKey_33"] = "次に、エンジンコントロールパネル上の Main Fuel スイッチをONへ。\
+GovernorスイッチをAUTOへ。. 他の全ての燃料スイッチをOFFにしてください。",
+    ["DictKey_44"] = "ModeスイッチをT/R (transmit-receive)にセットして AN/ARC-131 VHF FM 無線をつけろ",
+    ["DictKey_26"] = "ようこそ　コールドスタートのレッスンへ。\
+今日は、Hueyのスタートアップをし、飛行可能な状態にすることを練習する。\
+\
+よければ、スペースバーを押してください。",
+    ["DictKey_GroupName_61"] = "static #002",
+    ["DictKey_GroupName_55"] = "New Helicopter Group",
+    ["DictKey_GroupName_53"] = "Player",
+    ["DictKey_descriptionBlueTask_75"] = "",
+    ["DictKey_48"] = "マスターコーションパネルのTESTスイッチの上で右クリックをしてフロントダッシュのマスターコーションライトを消してください。",
+    ["DictKey_UnitName_70"] = "static #007",
+    ["DictKey_descriptionText_73"] = "DCS: UH-1H Huey\
+\
+Training lesson: コールドスタート\
+\
+このレッスンでは、UH-1H　Hueyのスタートアップ手順を練習し、ヘリコプターを飛行可能な状態にします。.\
+\
+NOTES:\
+\
+- 一時停止: [PAUSE]\
+- アクティブポーズ: [LSHIFT + LWIN + PAUSE]\
+- 視点切り替え: キーボート、テンキー / ジョイスティック hat / マウス　ルックモード [LALT + C]で切り替え\
+- ズーム: [Num/] / [Num*]\
+- レッスン終了: [ESC]\
+- 音量調節: MAIN MENU/OPTIONS/AUDIO内の　WORLD と IN-COCKPIT \
+- オートパイロット、武器の状態の表示、非表示: [LCTRL + LSHIFT + H] （オートパイロットは、UH-1H SPECIAL options menuにてオートパイロットを許可している場合）.\
+- コントローラーの状態表示のON,OFF: [RCTRL + ENTER]",
+    ["DictKey_descriptionRedTask_74"] = "",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_sortie_77"] = "UH-1H Training: Cold Start",
+    ["DictKey_37"] = "ローター回転数が上がるまで、しばらくの間、揺れます。 \
+吐きそうなら言ってください。",
+    ["DictKey_34"] = "多目的コントロールパネルで、\
+油圧コントロールスイッチをON\
+フォーストリムスイッチをON\
+あと、チップデテクターシステムをBOTHにしてください。",
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_GroupName_69"] = "static #007",
+    ["DictKey_descriptionNeutralsTask_76"] = "",
+    ["DictKey_GroupName_65"] = "static #005",
+    ["DictKey_49"] = "エンジンRPMが6600から外れたら、コレクティブにあるガバナーRPMスイッチを使っても良い。これは通称「beep」スイッチと呼ばれるもので、RPMを調節するものです。\
+\
+さて、離陸する準備は整いました。\
+コールドスタートのレッスンを終わります。\
+\
+よくできました。",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_27"] = "始める前に、「|RCTRL + C」を押してドアを閉めてください。",
+    ["DictKey_GroupName_59"] = "static #001",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_31"] = "気にしなくていい、単にRPMが低くて警報がなっているだけで、正常だ。\
+わかっている警報なので、LowRPMスイッチを押して消してください。",
+    ["DictKey_38"] = "OK,正常にアイドリングまで行きました。\
+アビオニクスの設定に入りましょう\
+オーバーヘッドパネルに戻って、インバーター（INVTR)をMAIN　ONにセットしてください。",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_WptName_90"] = "",
+} -- end of dictionary
