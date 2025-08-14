@@ -1,0 +1,247 @@
+dictionary = 
+{
+    ["DictKey_GroupName_138"] = "Дом ",
+    ["DictKey_UnitName_72"] = "Якушев",
+    ["DictKey_UnitName_85"] = "morpeh kor 4",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_GroupName_150"] = "HMMWV",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_UnitName_135"] = "Юнит #17",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_GroupName_132"] = "Gr Boec Dom atak",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_UnitName_73"] = "Ельня",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_59"] = "機体が破壊されました。\
+MISSION FAILED!\
+",
+    ["DictKey_UnitName_145"] = "Statik  #005",
+    ["DictKey_47"] = "- 10th, しつこい悪党どもを探してください！　数人が家から森に逃げ出しました。私の側から見て、家の左にある小さな木立に逃げました。右端にやつら集合しています。やつらにロケットか何かをお見舞いしてやってください。",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_52"] = "- 27th, 耐えてください。隊列は見えています。あと少しです。待ってください。",
+    ["DictKey_UnitName_115"] = "Gr Boec3",
+    ["DictKey_UnitName_90"] = "Юнит #4",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_32"] = "- 110th, レントチカ (隊列) は すでにルートを進行中です。急いで離陸してください！",
+    ["DictKey_UnitName_76"] = "Наземная группа #3",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_UnitName_123"] = "Юнит #8",
+    ["DictKey_UnitName_136"] = "Юнит #16",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_UnitName_131"] = "Юнит #11",
+    ["DictKey_UnitName_157"] = "Statik  #001",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_UnitName_69"] = "Резкий",
+    ["DictKey_UnitName_122"] = "Юнит #9",
+    ["DictKey_GroupName_100"] = "zrk senaki",
+    ["DictKey_UnitName_130"] = "Юнит #12",
+    ["DictKey_UnitName_125"] = "Юнит #6",
+    ["DictKey_39"] = "- Amur, こちら 227th... やつらこっちに撃ってきました。回避ダイブ！",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_UnitName_104"] = "Наземная группа #8",
+    ["DictKey_60"] = "パイロットが死にました\
+MISSION FAILED! \
+",
+    ["DictKey_GroupName_146"] = "Statik  #006",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_UnitName_92"] = "Юнит #2",
+    ["DictKey_UnitName_99"] = "Static Ka-27",
+    ["DictKey_UnitName_113"] = "Gr Boec5",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_UnitName_111"] = "Молния 2",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_UnitName_159"] = "Statik  #002",
+    ["DictKey_UnitName_137"] = "Юнит #5",
+    ["DictKey_GroupName_103"] = "zrk kobul",
+    ["DictKey_UnitName_153"] = "Юнит #10",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_UnitName_78"] = "Наземная группа #1",
+    ["DictKey_UnitName_105"] = "Наземная группа #7",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_UnitName_149"] = "Dom Gr",
+    ["DictKey_GroupName_108"] = "Молния 1",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_UnitName_133"] = "Юнит #19",
+    ["DictKey_UnitName_151"] = "HMMWV",
+    ["DictKey_WptName_223"] = "",
+    ["DictKey_UnitName_117"] = "Gr Boec1",
+    ["DictKey_UnitName_81"] = "morpeh kor 8",
+    ["DictKey_UnitName_95"] = "Ka27pilot1",
+    ["DictKey_UnitName_127"] = "Юнит #15",
+    ["DictKey_49"] = "- クソ！ 10th, やつら気が狂ったみたいです。こちらに走ってきます。食い止めてください！　もう弾がありません。レントチカはどこだ。助けて！",
+    ["DictKey_GroupName_66"] = "Moskva",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_UnitName_143"] = "Statik  #004",
+    ["DictKey_57"] = "任務の完了を報告",
+    ["DictKey_GroupName_112"] = "Gr Boec",
+    ["DictKey_31"] = "MISSION SUCCESS! \
+\
+ミッションを終了していただいて結構です。",
+    ["DictKey_GroupName_89"] = "morpeh ohr",
+    ["DictKey_37"] = "- Амур, こちら 110th, 両方の艦を破壊しました。\
+- 110th, 了解、レントチカに合流してください。\
+- 110th 了解、合流します。",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_40"] = "- 被弾！右エンジンに被弾しました！油圧が ... 落ちるぞ！サーニャー、ショックに備えろ！",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_GroupName_142"] = "Statik  #004",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_GroupName_152"] = "Gr Likv",
+    ["DictKey_58"] = "了解",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_UnitName_84"] = "morpeh kor 5",
+    ["DictKey_UnitName_94"] = "Ka27pilot2",
+    ["DictKey_GroupName_93"] = "Ka27pilot",
+    ["DictKey_36"] = "ターゲットの破壊を報告してください。\
+(ラジオメニュー）",
+    ["DictKey_38"] = "ターゲットの破壊を報告",
+    ["DictKey_GroupName_148"] = "Dom Gr",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_54"] = "任務の完了を報告してください。\
+（ラジオメニュー）\
+",
+    ["DictKey_UnitName_79"] = "Наземная группа",
+    ["DictKey_UnitName_106"] = "Наземная группа #6",
+    ["DictKey_50"] = "- オールダウン！　なんとか受け流せたみたいです。もうだめかと思いました。",
+    ["DictKey_45"] = "- Damn! 10th, やつらが攻撃してきています！奴らを近づけないでください！",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_GroupName_71"] = "Кораб. desant",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_WptName_214"] = "",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_42"] = "- 227th, 聞こえますか？ 227th, こちら 110th, 応答せよ \
+- 110th, 助かった！　聞こえてますし、そちらも見えます！\
+- 状況はどうですか？ \
+- 私は足が折れました。副操縦士は負傷、かなり悪い状態です。レントチカがすぐに来ることを祈ります！\
+- 位置をマーキングして下さい。 \
+- 少し待ってください、赤いスモーク信号を焚きます",
+    ["DictKey_51"] = "- 10th, 隊列はどこですか？　そちらから見えますか？なぜこんなに時間がかかるんだ？",
+    ["DictKey_UnitName_114"] = "Gr Boec4",
+    ["DictKey_WptName_220"] = "",
+    ["DictKey_UnitName_128"] = "Юнит #14",
+    ["DictKey_UnitName_129"] = "Юнит #13",
+    ["DictKey_46"] = "-ワオ、すごい攻撃だ！　破片がここまで飛んできています！",
+    ["DictKey_UnitName_97"] = "Стат. объект #016",
+    ["DictKey_UnitName_75"] = "Наземная группа #4",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_UnitName_83"] = "morpeh kor 6",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_43"] = "- 10th, スモークが見えますか？ジョージア軍がまた動き始めました。私の銃はもうすぐ弾切れです。私の位置から数キロの所を見てください。北東、村があります。車がそこから私のところに向かってきています。これを食い止めてください。",
+    ["DictKey_62"] = "戦場から離脱しました。\
+MISSION FAILED! \
+",
+    ["DictKey_GroupName_158"] = "Statik  #002",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_UnitName_88"] = "morpeh kor 1",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_UnitName_109"] = "Молния 1",
+    ["DictKey_descriptionNeutralsTask_163"] = "",
+    ["DictKey_UnitName_64"] = "Vedomyi 111",
+    ["DictKey_UnitName_87"] = "morpeh kor 2",
+    ["DictKey_UnitName_134"] = "Юнит #18",
+    ["DictKey_GroupName_126"] = "Gr Boec 2",
+    ["DictKey_descriptionBlueTask_162"] = "",
+    ["DictKey_UnitName_155"] = "Statik ",
+    ["DictKey_GroupName_96"] = "Стат. объект #016",
+    ["DictKey_sortie_164"] = "MARCH TO THE NORTH",
+    ["DictKey_UnitName_101"] = "zrk suhum #1",
+    ["DictKey_35"] = "ターゲットの破壊を報告",
+    ["DictKey_UnitName_67"] = "Альбатрос",
+    ["DictKey_GroupName_110"] = "Молния 2",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_56"] = "- Amur, こちら 110th. 227th を救出しました。 \
+- 110th, グッジョブ！ レントチカはそこからは自力で進軍できます。離脱して帰還してください。 \
+- 110th 了解、帰還します。",
+    ["DictKey_GroupName_74"] = "zrk gud",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_UnitName_116"] = "Gr Boec2",
+    ["DictKey_34"] = "- 110th, ２隻のミサイル艦が港にいます。これを沈めてください。攻撃を許可します。\
+- 110th 了解",
+    ["DictKey_UnitName_68"] = "Неустрашимый",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_33"] = "- \"Amur\", こちら 227th, 港に２隻のミサイルカッターを確認。確認のため上空を周回します。 \
+- 227th, 了解",
+    ["DictKey_GroupName_154"] = "Statik ",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_UnitName_86"] = "morpeh kor 3",
+    ["DictKey_UnitName_147"] = "Statik  #006",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_UnitName_139"] = "Дом ",
+    ["DictKey_UnitName_82"] = "morpeh kor 7",
+    ["DictKey_GroupName_98"] = "Static Ka-27",
+    ["DictKey_GroupName_140"] = "Statik  #003",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_GroupName_80"] = "morpeh column",
+    ["DictKey_GroupName_121"] = "УАЗ-469 PEH",
+    ["DictKey_UnitName_119"] = "Юнит #1",
+    ["DictKey_GroupName_63"] = "Pilot",
+    ["DictKey_descriptionRedTask_161"] = "A-10C部隊への任務：\
+\
+7月17日　離陸して12：40－14：00の間、機械化部隊の行軍に同行してください。海軍ターゲットの破壊の準備をしておいいてください。\
+\
+離陸：バトゥミ空港　7月17日　12：30\
+着陸：バトゥミ空港\
+\
+指揮と通信：\
+- 空軍全体の指揮ーバトゥミ司令部　コールサインAmur: チャンネル１　周波数 - 257.0. \
+- 機械化中隊指揮官　コールサインLenta-43 (Tape-43): チャンネル３　周波数 - 245.0 \
+\
+燃料と武器： \
+- 燃料 - 100%; 武器：機銃 - 100%, 4x AGM-65H, 2x GBU-38, 42x rockets M151, 2x AIM-9M",
+    ["DictKey_WptName_221"] = "",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_UnitName_91"] = "Юнит #3",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_61"] = "海兵隊のレントチカは大きな損失を受けました。\
+MISSION FAILED! ",
+    ["DictKey_48"] = "- 悪くないです、10th! 。やつらも気に入ったでしょう。私もその素晴らしい機体に惚れました。いつか私もそれに乗りたいのでツバを付けておいて構いませんか？",
+    ["DictKey_UnitName_70"] = "Москва",
+    ["DictKey_UnitName_107"] = "Наземная группа #5",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_44"] = "- グッジョブ、10th! 奴らがどこから撃ったか見ましたか？村の端に2階建ての家があります。私に近い方の村の端です。スティンガーのスモークトレイルがそこからやって来ました。この家を攻撃してください！",
+    ["DictKey_UnitName_124"] = "Юнит #7",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_53"] = "- 何の音だ？味方の隊列ですか？　やった、多分味方だ、やっと来た。 110th,ありがとう！命拾いしました。感謝します。もう周波数を切り替えてもらって構いません。",
+    ["DictKey_UnitName_120"] = "Dom Boec ",
+    ["DictKey_UnitName_141"] = "Statik  #003",
+    ["DictKey_GroupName_144"] = "Statik  #005",
+    ["DictKey_55"] = "任務の完了を報告",
+    ["DictKey_UnitName_102"] = "zrk suhum",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_GroupName_156"] = "Statik  #001",
+    ["DictKey_UnitName_77"] = "Наземная группа #2",
+    ["DictKey_UnitName_65"] = "Pilot",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_descriptionText_160"] = "A-10C部隊の司令官へ\
+\
+スフミ空軍基地司令官からの軍事命令　ナンバー114\
+スフミ司令部　 11.00 17.07. Map 200000, 1986 EDITION \
+\
+上陸作戦の成功により、バトゥミ空港を占領しました。この成功を確固たるものにするために、歩兵１大隊からなるアジャリア民兵は都市に入り、戦略的に重要な建物を確保する共に、抵抗するジョージア軍の小部隊を排除しました。\
+海兵隊の増援中隊が止まることなしに、街を通り抜けます。バトゥミからコブレチ方面に進軍し、ジョージア軍の反撃に備えて防衛線を築きます。\
+\
+部隊と任務：\
+- Ka-27：12：30ー14：00の間で、バトゥミからコブレチに向けてルートを進み、偵察をします。機械化中隊の進路に潜む危険性を確認します。（コールサイン227） \
+\
+驚異：\
+- バトゥミでは軍から外れた小規模部隊の抵抗が予想されます。\
+- ジョージア海軍戦闘カッターが港にまだいるでしょう。",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_GroupName_118"] = "Dom Boec ",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_41"] = "- 110th, 227th が撃墜されました。 彼らとの交信は121.5できます。周波数を合わせてください。あなたの任務は、彼らへの近接航空支援です。レントチカが彼らを救出するまで守ってください。\
+場所は、港から方位 35 距離 12\
+- 110th 了解、周波数を合わせます。 121.5 \
+(VHF AM range) ",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_WptName_179"] = "",
+} -- end of dictionary

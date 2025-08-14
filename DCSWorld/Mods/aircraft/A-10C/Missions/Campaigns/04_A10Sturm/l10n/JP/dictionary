@@ -1,0 +1,302 @@
+dictionary = 
+{
+    ["DictKey_GroupName_138"] = "kom boec",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_UnitName_67"] = "Су-25 121",
+    ["DictKey_WptName_227"] = "",
+    ["DictKey_53"] = "- Dnepr, こちら 110th, ターゲットを破壊しました！\
+- 110th, WP6に2000で離脱してください。着陸をして下さい。 \
+- 110th 了解、WP6に2000で離脱し、着陸",
+    ["DictKey_GroupName_150"] = "Мина2 #007",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_UnitName_135"] = "Юнит #1",
+    ["DictKey_GroupName_65"] = "Су-25 121",
+    ["DictKey_GroupName_77"] = "zrk gud",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_GroupName_166"] = "Стат. объект #018",
+    ["DictKey_59"] = "- 121st, 状態を報告してください。 \
+- Dnepr, こちら 121, 残量 900. \
+- 121, WP4に1400で向かってください。着陸をしてください。\
+- 121st 了解、4thに1200でエングレス",
+    ["DictKey_UnitName_145"] = "Мина2 #004",
+    ["DictKey_WptName_247"] = "",
+    ["DictKey_GroupName_113"] = "Стат. объект #012",
+    ["DictKey_WptName_241"] = "",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_55"] = "指揮部隊は国境を超えました。 \
+Mission failed. \
+",
+    ["DictKey_52"] = "車を発見",
+    ["DictKey_UnitName_108"] = "Стат. объект #009",
+    ["DictKey_UnitName_87"] = "zrk gud #1",
+    ["DictKey_GroupName_97"] = "Стат. объект #004",
+    ["DictKey_32"] = "- 110th, ルートから逸脱しないで下さい！　ウェイポイントIPMへ向かって下さい！",
+    ["DictKey_GroupName_176"] = "Контейнер  #004",
+    ["DictKey_UnitName_76"] = "БОМАН",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_WptName_240"] = "",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_UnitName_131"] = "zrk suhum #2",
+    ["DictKey_UnitName_66"] = "Су-25 122",
+    ["DictKey_30"] = "IPMの通過を報告",
+    ["DictKey_UnitName_69"] = "A-10C 111",
+    ["DictKey_GroupName_172"] = "Контейнер  #002",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_54"] = "- Dnepr, こちら 110th, 車両を破壊しました。 \
+- 110th, 破壊は許可していません！！！　すぐに帰還して下さい。！\
+\
+FAILURE! ",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_UnitName_155"] = "Мина2 #009",
+    ["DictKey_UnitName_130"] = "zrk suhum #3",
+    ["DictKey_GroupName_136"] = "zlodei",
+    ["DictKey_GroupName_115"] = "Стат. объект #013",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_39"] = "- Talon, こちら 110, コース120,1200でウェイポイントを通過。 \
+- 110th, 了解, 1200. ターゲットは 154 - 2. WP４、1200から侵入してください。\
+- 110th, 了解 154 - 2, WP4から1200 で進入",
+    ["DictKey_41"] = "- 110th, 攻撃中止！ 攻撃中止, 左に2000で離脱, 周波数を切り替えてください！ \
+- 110th 了解, 左に2000で離脱, 周波数を切り替えます。",
+    ["DictKey_UnitName_104"] = "Стат. объект #007",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_WptName_260"] = "",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_UnitName_171"] = "Мина2 #002",
+    ["DictKey_60"] = "- Dnepr, こちら 111th タロンから、高度2000、コース295\
+- 111th, あなたの距離は29、4thに600で向かってください。\
+- 111th 了解、4thに600で向かいます。",
+    ["DictKey_GroupName_146"] = "Мина2 #005",
+    ["DictKey_UnitName_96"] = "Стат. объект #003",
+    ["DictKey_UnitName_92"] = "Стат. объект #001",
+    ["DictKey_GroupName_119"] = "Стат. объект #015",
+    ["DictKey_UnitName_79"] = "Наземная группа #3",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_31"] = "IPMの通過を報告してください。\
+(ラジオメニュー) \
+\
+Real radio communications:HOTAS MIC前（LAlt+Num+) - F10 -F1\
+Easy radio communications: \\ - F-10 - F-1",
+    ["DictKey_UnitName_84"] = "zrk gud #4",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_GroupName_91"] = "Стат. объект #001",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_WptName_220"] = "",
+    ["DictKey_WptName_257"] = "",
+    ["DictKey_WptName_248"] = "",
+    ["DictKey_UnitName_157"] = "Мина2 #010",
+    ["DictKey_UnitName_159"] = "Marker1",
+    ["DictKey_UnitName_137"] = "zlodei",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_GroupName_103"] = "Стат. объект #007",
+    ["DictKey_45"] = "車を発見したら、Dneprに報告して下さい。 \
+(ラジオメニュー) \
+\\ - F-10 - F-1",
+    ["DictKey_UnitName_153"] = "Мина2 #008",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_UnitName_78"] = "Наземная группа #4",
+    ["DictKey_UnitName_132"] = "zrk suhum #1",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_GroupName_95"] = "Стат. объект #003",
+    ["DictKey_UnitName_149"] = "Мина2 #006",
+    ["DictKey_UnitName_122"] = "Стат. объект #019",
+    ["DictKey_UnitName_102"] = "Стат. объект #006",
+    ["DictKey_UnitName_175"] = "Контейнер  #003",
+    ["DictKey_WptName_252"] = "",
+    ["DictKey_UnitName_151"] = "Мина2 #007",
+    ["DictKey_WptName_223"] = "",
+    ["DictKey_WptName_236"] = "",
+    ["DictKey_GroupName_125"] = "F-16",
+    ["DictKey_GroupName_109"] = "Стат. объект #010",
+    ["DictKey_GroupName_75"] = "БОМАН",
+    ["DictKey_UnitName_81"] = "Наземная группа #1",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_UnitName_127"] = "F-16 1",
+    ["DictKey_GroupName_111"] = "Стат. объект #011",
+    ["DictKey_WptName_244"] = "",
+    ["DictKey_UnitName_114"] = "Стат. объект #012",
+    ["DictKey_62"] = "- Dnepr, こちら 131st, 敵機を確認 - 方位95距離40、1機\
+- 131st, 無視してください！それは 111thです。 \
+- 131st 了解。 111th.",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_UnitName_143"] = "Мина2 #003",
+    ["DictKey_GroupName_174"] = "Контейнер  #003",
+    ["DictKey_57"] = "Failed",
+    ["DictKey_GroupName_148"] = "Мина2 #006",
+    ["DictKey_GroupName_93"] = "Стат. объект #002",
+    ["DictKey_GroupName_89"] = "Стат. объект",
+    ["DictKey_WptName_261"] = "",
+    ["DictKey_61"] = "- Dnepr, 131st IPMを2000で通過しました、速度600　燃料6300 \
+- 131st, 高度5000、コース120に進んでください。\
+- 131st 了解、コース120、5000",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_GroupName_83"] = "zrk suhum",
+    ["DictKey_37"] = "WP3の通過を報告",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_UnitName_169"] = "Контейнер  #001",
+    ["DictKey_40"] = "- 110th WP4に到着 \
+- 110th, ターゲットを狙ってください。 (攻撃を許可！)",
+    ["DictKey_UnitName_85"] = "zrk gud #3",
+    ["DictKey_GroupName_142"] = "Мина2 #003",
+    ["DictKey_UnitName_72"] = "Су-27 31",
+    ["DictKey_GroupName_63"] = "Pilot",
+    ["DictKey_GroupName_105"] = "Стат. объект #008",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_UnitName_173"] = "Контейнер  #002",
+    ["DictKey_GroupName_152"] = "Мина2 #008",
+    ["DictKey_WptName_226"] = "",
+    ["DictKey_WptName_235"] = "",
+    ["DictKey_UnitName_80"] = "Наземная группа #2",
+    ["DictKey_GroupName_68"] = "A-10C Vedomyi",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_UnitName_94"] = "Стат. объект #002",
+    ["DictKey_GroupName_121"] = "Стат. объект #019",
+    ["DictKey_36"] = "WP3の通過を報告してください。 \
+(ラジオメニュー) \
+",
+    ["DictKey_UnitName_167"] = "Стат. объект #018",
+    ["DictKey_UnitName_141"] = "Мина2 #001",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_WptName_251"] = "",
+    ["DictKey_UnitName_106"] = "Стат. объект #008",
+    ["DictKey_GroupName_160"] = "Мина2",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_WptName_255"] = "",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_35"] = "- Dnepr, こちら 110th, IPM オンコース 95, 1200 \
+- こちら 110th, 了解、合わせます。",
+    ["DictKey_descriptionRedTask_179"] = "離陸：７月４日13：00　スフミ バブシャラ\
+着陸：スフミ バブシャラ\
+\
+試験場に飛んでください。ウェイポイント３を通過後、Talon-23とコンタクトし指示を受けてください。\
+\
+指令、交信：\
+- FD, コールサイン \"Dnepr\", 交信チャンネル - 周波数 251.0; \
+- 試験場FD, コールサイン\"Talon-23\", 交信チャンネル　プリセット５ - 周波数 265.0. \
+\
+燃料と兵器：\
+- 燃料 - 60%, 兵器：機銃 - 100%",
+    ["DictKey_42"] = "無線周波数の変更をしてください。. \
+（251.0) \
+",
+    ["DictKey_UnitName_126"] = "F-16",
+    ["DictKey_UnitName_116"] = "Стат. объект #013",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_WptName_238"] = "",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_46"] = "車を発見",
+    ["DictKey_GroupName_162"] = "Стат. объект #016",
+    ["DictKey_GroupName_101"] = "Стат. объект #006",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_WptName_229"] = "",
+    ["DictKey_WptName_254"] = "",
+    ["DictKey_43"] = "- Dnepr, こちら 110 　Talonから来ました, 高度2000. \
+- 110th, 兵器の報告をして下さい。 \
+- 機銃, 100%. \
+- 110th, イングルゲス（ Ingurges）村の司令部本部が爆破されました。ジョージアの指揮部隊の車両UAZ-469がダムの方向ある北東に向かって移動しています。あなたが最も近い位置にいます。あなたの任務は車を見つけることです。目印の池に向かってください。方位112距離10、池の北東端から道にそって方位52に捜索を開始してください。\
+- 110th 了解、UAZジープの捜索",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_GroupName_158"] = "Marker1",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_UnitName_161"] = "Мина2",
+    ["DictKey_UnitName_88"] = "zrk gud",
+    ["DictKey_WptName_232"] = "",
+    ["DictKey_WptName_258"] = "",
+    ["DictKey_UnitName_71"] = "Су-27 32",
+    ["DictKey_UnitName_64"] = "Pilot",
+    ["DictKey_WptName_256"] = "",
+    ["DictKey_UnitName_165"] = "Стат. объект #017",
+    ["DictKey_UnitName_112"] = "Стат. объект #011",
+    ["DictKey_UnitName_100"] = "Стат. объект #005",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_UnitName_110"] = "Стат. объект #010",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_UnitName_124"] = "komend",
+    ["DictKey_51"] = "ターゲットの破壊を報告してください。\
+（ラジオメニュー）",
+    ["DictKey_GroupName_170"] = "Мина2 #002",
+    ["DictKey_47"] = "WP3の通過を報告",
+    ["DictKey_descriptionNeutralsTask_181"] = "",
+    ["DictKey_descriptionBlueTask_180"] = "",
+    ["DictKey_56"] = "航空機が破壊されました。 \
+MISSION FAILED!\
+",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_WptName_186"] = "IPM",
+    ["DictKey_GroupName_134"] = "zrk senaki #001",
+    ["DictKey_sortie_182"] = " GAU-81機銃の使用",
+    ["DictKey_WptName_250"] = "",
+    ["DictKey_WptName_230"] = "",
+    ["DictKey_33"] = "- Dnepr, こちら 110th, IPM オンコース 95, 1200 \
+- 110th, ５チャンネルに切り替えてください。 \
+- 110th 了解、切り替えます。",
+    ["DictKey_GroupName_154"] = "Мина2 #009",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_44"] = "- 110th, いかなる状況が合っても川にそった国境を超えないで下さい！ \
+- 110th 了解、越境を禁止",
+    ["DictKey_WptName_249"] = "",
+    ["DictKey_UnitName_147"] = "Мина2 #005",
+    ["DictKey_GroupName_107"] = "Стат. объект #009",
+    ["DictKey_UnitName_139"] = "kom boec",
+    ["DictKey_UnitName_82"] = "Наземная группа",
+    ["DictKey_UnitName_86"] = "zrk gud #2",
+    ["DictKey_GroupName_140"] = "Мина2 #001",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_WptName_221"] = "",
+    ["DictKey_GroupName_144"] = "Мина2 #004",
+    ["DictKey_GroupName_123"] = "komend",
+    ["DictKey_50"] = "ターゲットの破壊を報告",
+    ["DictKey_WptName_259"] = "",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_WptName_231"] = "",
+    ["DictKey_34"] = "プリセットチャンネル５に合わせて下さい。 \
+(265.0) ",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_48"] = "- Dnepr, こちら 110th, 車両UAZジープを発見しました。イングリダムに向かって高速で移動中。 \
+- 110th, 車両の前方に警告射撃を行い停止させてください。上空を低空で飛行してください。\
+- 110th 了解、車両を停止させます。",
+    ["DictKey_GroupName_99"] = "Стат. объект #005",
+    ["DictKey_58"] = "MISSION SUCCESS! \
+\
+ミッションを終了していただいて結構です。",
+    ["DictKey_UnitName_98"] = "Стат. объект #004",
+    ["DictKey_GroupName_70"] = "Су-27",
+    ["DictKey_GroupName_73"] = "А-50",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_UnitName_120"] = "Стат. объект #015",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_UnitName_177"] = "Контейнер  #004",
+    ["DictKey_GroupName_168"] = "Контейнер  #001",
+    ["DictKey_UnitName_163"] = "Стат. объект #016",
+    ["DictKey_GroupName_156"] = "Мина2 #010",
+    ["DictKey_UnitName_74"] = "А-50",
+    ["DictKey_UnitName_129"] = "zrk suhum #4",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_GroupName_128"] = "zrk senaki",
+    ["DictKey_descriptionText_178"] = "機銃の性能を調査するための訓練飛行\
+\
+GAU-81A機銃の照準システムと航空システムの動作を確認します。\
+\
+ターゲットは試験場のFDが指定します。\
+訓練場にいるターゲット：\
+Number 123 - 戦車の列 (3X T-55 ); \
+Number 144 - 駐機した航空機 (4X Su-17); \
+Number 154 - ホークSAM ( 4 基)",
+    ["DictKey_WptName_214"] = "",
+    ["DictKey_GroupName_164"] = "Стат. объект #017",
+    ["DictKey_49"] = "- Dnepr, こちら 110th, 車両は停止しません。繰り返します、車両は国境に向かって依然逃走中\
+... \
+- 110th, ターゲットを破壊してください。\
+- 110th 了解、破壊します。",
+    ["DictKey_GroupName_117"] = "Стат. объект #014",
+    ["DictKey_UnitName_133"] = "zrk suhum",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_38"] = "IPMの通過を報告",
+    ["DictKey_UnitName_90"] = "Стат. объект",
+    ["DictKey_UnitName_118"] = "Стат. объект #014",
+} -- end of dictionary

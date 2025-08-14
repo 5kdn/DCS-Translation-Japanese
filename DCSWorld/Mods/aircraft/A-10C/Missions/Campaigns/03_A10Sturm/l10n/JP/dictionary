@@ -1,0 +1,297 @@
+dictionary = 
+{
+    ["DictKey_GroupName_138"] = "Су-17 цель #006",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_GroupName_124"] = "zrk senaki #001",
+    ["DictKey_WptName_227"] = "",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_GroupName_67"] = "БОМАН",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_UnitName_135"] = "Су-17 цель #004",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_GroupName_132"] = "Су-17 цель #003",
+    ["DictKey_GroupName_65"] = "А-50",
+    ["DictKey_UnitName_62"] = "Су-27 31",
+    ["DictKey_UnitName_73"] = "Наземная группа #1",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_WptName_220"] = "",
+    ["DictKey_UnitName_145"] = "Marker1",
+    ["DictKey_UnitName_121"] = "zrk suhum #2",
+    ["DictKey_WptName_241"] = "",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_25"] = "MISSION SUCCESS! \
+\
+ミッションを終了していただいて結構です。",
+    ["DictKey_28"] = "- Dnepr, こちら 110th, IPM オンコース 95, 1200 \
+- 110th, プリセット５チャンネルに合わせてください。 \
+- こちら 110th, 了解、合わせます。",
+    ["DictKey_52"] = "- Dnepr,こちら 131, 敵機を射程に捉えました ... \
+Dnepr, やつら引き返していきます。 \
+- 131st, 確認しました。5000で基地に帰還してください。\
+- 131st 了解, 5000で基地に帰還します。",
+    ["DictKey_UnitName_108"] = "Стат. объект #013",
+    ["DictKey_UnitName_90"] = "Стат. объект #004",
+    ["DictKey_GroupName_97"] = "Стат. объект #008",
+    ["DictKey_32"] = "WP3の通過を報告",
+    ["DictKey_UnitName_76"] = "zrk gud #4",
+    ["DictKey_45"] = "ターゲットを破壊すること無く試験場を離脱しました。\
+MISSION FAILED!\
+",
+    ["DictKey_UnitName_123"] = "zrk suhum",
+    ["DictKey_WptName_240"] = "",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_UnitName_131"] = "Су-17 цель #002",
+    ["DictKey_UnitName_157"] = "Мина10 #002",
+    ["DictKey_30"] = "- Talon-23, 110th IPMを通過しました。コース 95, 1200. \
+- 110th, 了解, 1200. \
+",
+    ["DictKey_UnitName_74"] = "Наземная группа",
+    ["DictKey_UnitName_155"] = "kont",
+    ["DictKey_GroupName_115"] = "F-16",
+    ["DictKey_UnitName_125"] = "Юнит #1",
+    ["DictKey_39"] = "無線周波数の変更をしてください。. \
+(251.0) \
+",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_UnitName_104"] = "Стат. объект #011",
+    ["DictKey_GroupName_146"] = "cely2",
+    ["DictKey_WptName_172"] = "IPM",
+    ["DictKey_29"] = "プリセットチャンネル５に合わせてください。 \
+(265.0) \
+",
+    ["DictKey_descriptionText_164"] = "軍事・政治状況\
+\
+ジョージアはホークSAM大隊を警戒態勢にしました。ロシアの偵察機の飛行が大きく妨げられています。おそらくトルコから購入したであろうF-16戦闘機が、セナキ空港にいます。ロシア司令部は、ジョージアには訓練された乗組員がいないため、しばらくの間はトルコ軍パイロットがこの機を飛ばすであろうと推測しています。\
+米国からの2機の航空機の返還要求に対して、ロシアは、攻撃的なジョージ政権に対しての支援を即時停止するいう態度で答えました。国連安全保障理事会はがこの問題について議論を続けている間は、実験グループの任務はそのまま継続します。技術者と専門家達は IFF（敵味方識別）送信システムを適応させよとしています。その間に、リペツクのA-10Cパイロットはアメリカのシュトルモビク（近接航空支援機）の特徴と兵器使い方の調査を行いました。\
+\
+訓練タスクは、航空機の無誘導ロケットの性能調査です。\
+ロケット使用における、照準システムとの動作と航空機の調査してください。\
+\
+ターゲットは試験場のFDが指定します。\
+試験場のターゲット：\
+Number 120 - 車両の列 (3台のトラック)\
+Number 123 - 戦車の列 (3台の T-55)\
+Number 144 - 駐機している航空機 (4機の Su-17) \
+Number 154 - ホーク SAM (４機設置)",
+    ["DictKey_UnitName_79"] = "zrk gud #1",
+    ["DictKey_UnitName_102"] = "Стат. объект #010",
+    ["DictKey_UnitName_61"] = "Су-27 32",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_GroupName_91"] = "Стат. объект #005",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_38"] = "- 110th, ターゲットの破壊を確認！ \
+- こちら 110th, 攻撃を終了。退出してください。\
+- 110th, 方位265、高度2000へ向かってください。チャンネルの変更を許可します。 \
+- こちら 110th, 了解。方位 265, 2000, チェンネルの変更\
+",
+    ["DictKey_GroupName_136"] = "Су-17 цель #005",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_UnitName_159"] = "kont #001",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_UnitName_57"] = "Су-25 121",
+    ["DictKey_GroupName_103"] = "Стат. объект #011",
+    ["DictKey_WptName_244"] = "",
+    ["DictKey_UnitName_153"] = "Мина10 #015",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_UnitName_78"] = "zrk gud #2",
+    ["DictKey_UnitName_96"] = "Стат. объект #007",
+    ["DictKey_GroupName_81"] = "Стат. объект",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_GroupName_95"] = "Стат. объект #007",
+    ["DictKey_UnitName_149"] = "cely21",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_GroupName_53"] = "Pilot",
+    ["DictKey_UnitName_133"] = "Су-17 цель #003",
+    ["DictKey_UnitName_151"] = "Marker2",
+    ["DictKey_WptName_223"] = "",
+    ["DictKey_WptName_236"] = "",
+    ["DictKey_UnitName_117"] = "F-16",
+    ["DictKey_UnitName_122"] = "zrk suhum #1",
+    ["DictKey_WptName_214"] = "",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_UnitName_92"] = "Стат. объект #005",
+    ["DictKey_WptName_174"] = "3",
+    ["DictKey_sortie_168"] = "ロケットの使用",
+    ["DictKey_GroupName_75"] = "zrk suhum",
+    ["DictKey_UnitName_114"] = "полигон",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_GroupName_93"] = "Стат. объект #006",
+    ["DictKey_UnitName_143"] = "Су-17 цель #008",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_UnitName_84"] = "Стат. объект #001",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_31"] = "WP3の通過を報告してください。 \
+(ラジオメニュー) \
+",
+    ["DictKey_GroupName_89"] = "Стат. объект #004",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_50"] = "- Dnepr, 203rd ウェイポイント２を通過, 任務の許可を願います。 \
+- 203rd, 任務を許可します。 国境を超えないよう警戒してください。\
+- こちら 203rd, 了解、任務を許可",
+    ["DictKey_UnitName_59"] = "A-10C 111",
+    ["DictKey_GroupName_83"] = "Стат. объект #001",
+    ["DictKey_37"] = "- 110th, ターゲットの破壊を確認。攻撃を繰り返してください。ターゲットは - 120, 全てを破壊してください。 \
+- こちら 110th, 了解。ターゲットは 120, 全てを破壊",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_descriptionRedTask_165"] = "離陸予定時刻：7月2日12：00、スフミバブシャラ空港より\
+着陸：スフミバブシャラ\
+\
+試験場に飛んでください。ウェイポイント３通過後、Talon-23の命令に従ってください。\
+\
+指令と交信： \
+- FD, コールサイン「Dnepr」交信周波数： 251.0 \
+- 試験場 FD, コールサイン「Talon-23」, 交信チャンネル：プリセット５，周波数 265.0. \
+\
+燃料と兵器： \
+- 燃料 - 60%, 兵器： 98 M151. \
+\
+*空港からの離着陸は通常の無線交信で行って下さい。",
+    ["DictKey_40"] = "Перейти на рабочий канал",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_GroupName_142"] = "Су-17 цель #008",
+    ["DictKey_GroupName_150"] = "Marker2",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_GroupName_105"] = "Стат. объект #012",
+    ["DictKey_GroupName_60"] = "Су-27",
+    ["DictKey_GroupName_152"] = "Мина10 #015",
+    ["DictKey_UnitName_56"] = "Су-25 122",
+    ["DictKey_WptName_235"] = "",
+    ["DictKey_UnitName_80"] = "zrk gud",
+    ["DictKey_UnitName_70"] = "Наземная группа #4",
+    ["DictKey_GroupName_111"] = "Стат. объект #015",
+    ["DictKey_UnitName_94"] = "Стат. объект #006",
+    ["DictKey_GroupName_58"] = "A-10C Vedomyi",
+    ["DictKey_descriptionNeutralsTask_167"] = "",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_UnitName_141"] = "Су-17 цель #007",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_42"] = "許可なく攻撃を行いました。 \
+MISSION FAILED! \
+",
+    ["DictKey_UnitName_106"] = "Стат. объект #012",
+    ["DictKey_GroupName_160"] = "kont #002",
+    ["DictKey_UnitName_72"] = "Наземная группа #2",
+    ["DictKey_GroupName_63"] = "Су-24МР",
+    ["DictKey_GroupName_144"] = "Marker1",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_27"] = "IMPウェイポイント の通過を報告",
+    ["DictKey_UnitName_148"] = "cely22",
+    ["DictKey_WptName_226"] = "",
+    ["DictKey_51"] = "- Dnepr, こちら 751, 中高度を高速で飛行する敵機を２機発見。,コース 315, 方位 125, 距離 120. \
+- 751, 了解 203rd, 任務を中止して、高度3000で4thに向かってください。 131st,　2機の敵機、方位120,距離100\
+- Dnepr, こちら 131, 了解 2機の敵機、中高度,方位120,距離100\
+- 203rd 了解,任務を中断,高度3000で4thに退避します。",
+    ["DictKey_GroupName_87"] = "Стат. объект #003",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_46"] = "Failed",
+    ["DictKey_35"] = "- 110th WP4に到着 \
+- 110th, ターゲットを狙ってください。 (攻撃を許可！)",
+    ["DictKey_UnitName_88"] = "Стат. объект #003",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_GroupName_85"] = "Стат. объект #002",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_43"] = "友軍を攻撃しました。 \
+MISSION FAILED! \
+",
+    ["DictKey_UnitName_54"] = "Pilot",
+    ["DictKey_WptName_238"] = "",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_WptName_229"] = "",
+    ["DictKey_GroupName_107"] = "Стат. объект #013",
+    ["DictKey_WptName_232"] = "",
+    ["DictKey_GroupName_101"] = "Стат. объект #010",
+    ["DictKey_UnitName_71"] = "Наземная группа #3",
+    ["DictKey_UnitName_64"] = "Су-24МР 203",
+    ["DictKey_GroupName_130"] = "Су-17 цель #002",
+    ["DictKey_GroupName_162"] = "kont #003",
+    ["DictKey_GroupName_126"] = "Су-17 цель",
+    ["DictKey_UnitName_100"] = "Стат. объект #009",
+    ["DictKey_UnitName_163"] = "kont #003",
+    ["DictKey_26"] = "IPMウェイポイントの通過を報告してください。\
+(ラジオメニュー) \
+\
+Real radio communications:HOTAS MIC前（LAlt+Num+) - F10 -F1\
+Easy radio communications: \\ - F-10 - F-1",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_UnitName_110"] = "Стат. объект #014",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_GroupName_69"] = "zrk gud",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_44"] = "航空機が破壊されました。 \
+MISSION FAILED!\
+",
+    ["DictKey_UnitName_161"] = "kont #002",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_134"] = "Су-17 цель #004",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_UnitName_68"] = "БОМАН",
+    ["DictKey_WptName_230"] = "",
+    ["DictKey_33"] = "IMPウェイポイント の通過を報告",
+    ["DictKey_GroupName_154"] = "kont",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_UnitName_112"] = "Стат. объект #015",
+    ["DictKey_UnitName_147"] = "cely23",
+    ["DictKey_UnitName_116"] = "F-161",
+    ["DictKey_UnitName_139"] = "Су-17 цель #006",
+    ["DictKey_UnitName_82"] = "Стат. объект",
+    ["DictKey_UnitName_86"] = "Стат. объект #002",
+    ["DictKey_GroupName_140"] = "Су-17 цель #007",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_WptName_221"] = "",
+    ["DictKey_UnitName_119"] = "zrk suhum #4",
+    ["DictKey_GroupName_158"] = "kont #001",
+    ["DictKey_GroupName_55"] = "Су-25 121",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_WptName_231"] = "",
+    ["DictKey_34"] = "- Talon, こちら 110th, ウェイポイント３を通過しました。コース 120, 1200. \
+- 110th, 了解, 1200. あなたのターゲットは 144 - 1です。 WP4から高度1200で進入してください。\
+- こちら 110th, 了解 144 - 1, WP4から進入 at 1200",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_48"] = "- Dnepr, こちら 111th, IPM オンコース 105, 1200 \
+- 111th, ５番に変更してください。 \
+- こちら 111th, 了解、変更します。",
+    ["DictKey_GroupName_99"] = "Стат. объект #009",
+    ["DictKey_36"] = "WP3の通過を報告",
+    ["DictKey_UnitName_98"] = "Стат. объект #008",
+    ["DictKey_GroupName_113"] = "полигон",
+    ["DictKey_47"] = "- 110th, IPMウェイポイントへのルートから離れないでください！",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_descriptionBlueTask_166"] = "",
+    ["DictKey_UnitName_120"] = "zrk suhum #3",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_UnitName_66"] = "А-50 751",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_41"] = "- Dnepr, こちら110th Talonからきました。高度 2000, 方位 265. \
+- 110th, 距離は40, 600でWP６に向かってください。 \
+- こちら 110th, 了解、WP６に６００で向かいます。",
+    ["DictKey_GroupName_156"] = "Мина10 #002",
+    ["DictKey_UnitName_77"] = "zrk gud #3",
+    ["DictKey_UnitName_129"] = "Су-17 цель #001",
+    ["DictKey_UnitName_137"] = "Су-17 цель #005",
+    ["DictKey_GroupName_128"] = "Су-17 цель #001",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_UnitName_127"] = "Су-17 цель",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_GroupName_118"] = "zrk senaki",
+    ["DictKey_GroupName_109"] = "Стат. объект #014",
+    ["DictKey_49"] = "- Talon, こちら 111th, 任務を終了 \
+- 111th, コース 260, 2000へ向かってください。周波数の変更を許可します。\
+- 111th 了解、コース 260, 2000, 周波数を変更します。\
+",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_WptName_169"] = "",
+} -- end of dictionary
