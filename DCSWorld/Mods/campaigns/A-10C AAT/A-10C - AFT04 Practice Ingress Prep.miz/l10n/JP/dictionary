@@ -1,0 +1,431 @@
+dictionary = 
+{
+    ["DictKey_UnitName_89"] = "Unit #25",
+    ["DictKey_UnitName_212"] = "New Static Object #16",
+    ["DictKey_UnitName_67"] = "Unit #4",
+    ["DictKey_53"] = "機体をシャットダウンさせて下さい。それから評価を伝えます。\
+",
+    ["DictKey_UnitName_156"] = "Unit #86",
+    ["DictKey_GroupName_183"] = "Static F-15E #002",
+    ["DictKey_GroupName_65"] = "Command Post Target",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_WptName_272"] = "",
+    ["DictKey_ActionText_327"] = "では、フェンスアウト コールを行って下さい。残りの飛行隊にフェンスアウトチェックを行うよう知らせます。",
+    ["DictKey_GroupName_137"] = "New Vehicle Group #004",
+    ["DictKey_WptName_269"] = "",
+    ["DictKey_UnitName_145"] = "Unit #84",
+    ["DictKey_GroupName_175"] = "Pilot Humvee",
+    ["DictKey_UnitName_192"] = "Static Humvee",
+    ["DictKey_GroupName_215"] = "New Static Object #021",
+    ["DictKey_WptName_287"] = "",
+    ["DictKey_GroupName_151"] = "New Vehicle Group #009",
+    ["DictKey_UnitName_136"] = "Unit #67",
+    ["DictKey_WptName_240"] = "",
+    ["DictKey_UnitName_163"] = "Lt Arthur Lakey",
+    ["DictKey_UnitName_157"] = "Unit #85",
+    ["DictKey_UnitName_194"] = "Static Predator",
+    ["DictKey_UnitName_74"] = "Unit #10",
+    ["DictKey_WptName_293"] = "",
+    ["DictKey_WptName_289"] = "",
+    ["DictKey_UnitName_79"] = "Unit #22",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_WptName_268"] = "",
+    ["DictKey_UnitName_170"] = "Capt Dale Dresser",
+    ["DictKey_UnitName_216"] = "New Static Object #18",
+    ["DictKey_WptName_286"] = "",
+    ["DictKey_UnitName_103"] = "Unit #49",
+    ["DictKey_UnitName_153"] = "Unit #89",
+    ["DictKey_UnitName_78"] = "Unit #23",
+    ["DictKey_UnitName_105"] = "Unit #47",
+    ["DictKey_GroupName_179"] = "Static A-10C",
+    ["DictKey_WptName_236"] = "",
+    ["DictKey_GroupName_191"] = "Static Humvee",
+    ["DictKey_UnitName_95"] = "Unit #32",
+    ["DictKey_WptName_244"] = "",
+    ["DictKey_UnitName_114"] = "Unit #38",
+    ["DictKey_UnitName_186"] = "Static F-15E #001",
+    ["DictKey_57"] = "がんばりましたが、不十分でした！\
+\
+あなたの評価は不可（U)です。\
+\
+もっと練習に時間をかけて下さい。\
+\
+準備ができたらPOに再挑戦して下さい。",
+    ["DictKey_GroupName_83"] = "New Vehicle Group #014",
+    ["DictKey_UnitName_208"] = "New Static Object #016",
+    ["DictKey_WptName_263"] = "",
+    ["DictKey_WptName_265"] = "",
+    ["DictKey_WptName_279"] = "",
+    ["DictKey_58"] = "機体を損傷させました。",
+    ["DictKey_UnitName_80"] = "Unit #21",
+    ["DictKey_WptName_332"] = "",
+    ["DictKey_36"] = "このミッションを使い検定ミッションの準備をして下さい。\
+\
+オートパイロットの使用を許可します。",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_UnitName_128"] = "Unit #62",
+    ["DictKey_WptName_251"] = "",
+    ["DictKey_UnitName_106"] = "Unit #46",
+    ["DictKey_UnitName_210"] = "New Static Object #15",
+    ["DictKey_ActionText_307"] = "これは訓練飛行設定なので、\
+\
+Master Arm スイッチ - TRAIN\
+LASER スイッチ - TRAIN\
+\
+これで、友軍を傷つけることは有りません。",
+    ["DictKey_UnitName_148"] = "Unit #81",
+    ["DictKey_42"] = "機体を安定させて、CCRP TTRN(Time to Reles Numeric:投下予定時間）を監視して下さい。\
+\
+準備が良ければ爆弾を投下して下さい。",
+    ["DictKey_51"] = "ハードデッキ制限を解除します。\
+\
+機体を着陸させて、シャットダウンする事を許可します。\
+\
+その後で、評価を伝えます。",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_WptName_288"] = "",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_WptName_254"] = "",
+    ["DictKey_43"] = "マスターアームスイッチをTRAINにセットしていますので、爆弾は実際には投下されません。\
+\
+DSMSの爆弾ステーションの一部が消費されているのを確認して下さい。",
+    ["DictKey_ActionRadioText_340"] = "COLT 1-1 タリー",
+    ["DictKey_GroupName_158"] = "COLT 1",
+    ["DictKey_GroupName_187"] = "Static F-15E #003",
+    ["DictKey_sortie_220"] = "AFT04 Practice Target Area Ingress Prep",
+    ["DictKey_WptName_258"] = "",
+    ["DictKey_GroupName_130"] = "New Vehicle Group #003",
+    ["DictKey_UnitName_165"] = "Cpt John Steel",
+    ["DictKey_ActionText_335"] = "COLT 1-1, タリー！",
+    ["DictKey_GroupName_169"] = "F-117A Ford 1",
+    ["DictKey_UnitName_101"] = "Unit #51",
+    ["DictKey_UnitName_202"] = "Static Infantry",
+    ["DictKey_GroupName_69"] = "New Vehicle Group",
+    ["DictKey_UnitName_160"] = "Player",
+    ["DictKey_56"] = "がんばりましたが、不十分でした！\
+\
+あなたの評価は不可（U)です。\
+\
+もっと練習に時間をかけて下さい。\
+\
+準備ができたらPOに再挑戦して下さい。",
+    ["DictKey_UnitName_68"] = "Command Post",
+    ["DictKey_ActionRadioText_341"] = "COLT 1-1 タリー",
+    ["DictKey_UnitName_147"] = "Unit #82",
+    ["DictKey_UnitName_139"] = "Unit #77",
+    ["DictKey_UnitName_86"] = "Unit #28",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_WptName_222"] = "IP",
+    ["DictKey_GroupName_211"] = "New Static Object #019",
+    ["DictKey_UnitName_119"] = "Unit #58",
+    ["DictKey_UnitName_142"] = "Unit #74",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_UnitName_91"] = "Unit #36",
+    ["DictKey_ActionRadioText_320"] = "COLT フェンスイン",
+    ["DictKey_UnitName_70"] = "Unit #14",
+    ["DictKey_UnitName_107"] = "Unit #45",
+    ["DictKey_UnitName_98"] = "Unit #54",
+    ["DictKey_UnitName_120"] = "Unit #57",
+    ["DictKey_WptName_280"] = "",
+    ["DictKey_UnitName_196"] = "Static Humvee #1",
+    ["DictKey_UnitName_77"] = "Unit #24",
+    ["DictKey_UnitName_129"] = "Unit #61",
+    ["DictKey_UnitName_96"] = "Unit #31",
+    ["DictKey_ActionText_312"] = "COLT 1-1, インホット！",
+    ["DictKey_ActionText_315"] = "COLT 1, フェンスアウト",
+    ["DictKey_UnitName_118"] = "Unit #59",
+    ["DictKey_ActionText_325"] = "投下サークル（drop circle)をミスしたら、再度攻撃を試みて下さい。\
+\
+再攻撃を許可します！",
+    ["DictKey_UnitName_85"] = "Unit #29",
+    ["DictKey_WptName_227"] = "",
+    ["DictKey_UnitName_150"] = "Unit #79",
+    ["DictKey_UnitName_152"] = "Unit #90",
+    ["DictKey_GroupName_166"] = "F-15C Dodge 1 2",
+    ["DictKey_GroupName_185"] = "Static F-15E #001",
+    ["DictKey_63"] = "TGPを正しく使用できませんでした。",
+    ["DictKey_WptName_262"] = "",
+    ["DictKey_WptName_273"] = "",
+    ["DictKey_47"] = "COLT 1-2, オフ, グッド パス, クリーン！",
+    ["DictKey_GroupName_76"] = "New Vehicle Group #008",
+    ["DictKey_64"] = "Knock it off!  Knock it off!\
+\
+あなたはターゲットを殺害しました。マスターアームをTRAINにセットしなくてはなりません。\
+\
+このPOを中止します。",
+    ["DictKey_UnitName_102"] = "Unit #50",
+    ["DictKey_52"] = "誘導路を右に進んで下さい。\
+\
+左にある最初のフリーの駐機場に停めて下さい。",
+    ["DictKey_UnitName_115"] = "Unit #37",
+    ["DictKey_UnitName_108"] = "Unit #44",
+    ["DictKey_ActionRadioText_347"] = "オフ",
+    ["DictKey_GroupName_97"] = "Convoy",
+    ["DictKey_45"] = "では、「オフ」とコールしてターゲットエリアから離脱してください。\
+\
+イーグレスチェックリストを確認しましょう。",
+    ["DictKey_WptName_225"] = "EGRESS",
+    ["DictKey_UnitName_131"] = "Unit #72",
+    ["DictKey_UnitName_66"] = "Unit #5",
+    ["DictKey_UnitName_190"] = "Static F-15E #004",
+    ["DictKey_WptName_248"] = "",
+    ["DictKey_UnitName_168"] = "Cpt Greg Berry \"Rasp\"",
+    ["DictKey_UnitName_122"] = "Unit #55",
+    ["DictKey_GroupName_189"] = "Static F-15E #004",
+    ["DictKey_UnitName_155"] = "Unit #87",
+    ["DictKey_WptName_278"] = "",
+    ["DictKey_UnitName_125"] = "Unit #65",
+    ["DictKey_39"] = "Knock it off!  Knock it off!\
+\
+許可なくMOAから退出しました。\
+\
+このPOを中止します。",
+    ["DictKey_41"] = "COLT 1-2, インホット、西から！",
+    ["DictKey_UnitName_104"] = "Unit #48",
+    ["DictKey_ActionRadioText_317"] = "COLT フェンスアウト",
+    ["DictKey_WptName_266"] = "",
+    ["DictKey_descriptionBlueTask_219"] = "1. フェンスイン、フェンスアウトのチェックを完了させて下さい。\
+2. DSMSを効果的に使用して、武器プロファイルを選択、修正して下さい。\
+3. TGPを使用して敵を発見、識別して下さい。\
+4. 模擬攻撃を実行して下さい。",
+    ["DictKey_60"] = "DSMSプロファイルを正しく設定できませんでした。",
+    ["DictKey_UnitName_172"] = "Maj Arthur Nettle",
+    ["DictKey_UnitName_92"] = "Unit #35",
+    ["DictKey_ActionRadioText_339"] = "COLT 1-1 タリー",
+    ["DictKey_WptName_264"] = "",
+    ["DictKey_GroupName_205"] = "New Static Object #014",
+    ["DictKey_UnitName_113"] = "Unit #39",
+    ["DictKey_WptName_267"] = "",
+    ["DictKey_UnitName_111"] = "Unit #41",
+    ["DictKey_WptName_257"] = "",
+    ["DictKey_WptName_250"] = "",
+    ["DictKey_UnitName_188"] = "Static F-15E #003",
+    ["DictKey_WptName_330"] = "フェンスイン",
+    ["DictKey_ActionText_296"] = "COLT 1, フェンスイン",
+    ["DictKey_ActionRadioText_344"] = "タリー",
+    ["DictKey_UnitName_149"] = "Unit #80",
+    ["DictKey_UnitName_176"] = "Unit #15",
+    ["DictKey_WptName_252"] = "",
+    ["DictKey_WptName_223"] = "TARGET",
+    ["DictKey_GroupName_116"] = "New Vehicle Group #001",
+    ["DictKey_UnitName_117"] = "Unit #60",
+    ["DictKey_UnitName_81"] = "Unit #20",
+    ["DictKey_UnitName_127"] = "Unit #63",
+    ["DictKey_49"] = "Master ARM スイッチ - SAFE\
+GUN/PAC スイッチ - SAFE\
+LASER スイッチ - SAFE\
+TGP - OFF\
+CMSP モード - STBY\
+ダメージ - CHECK\
+ナビゲーションライト - ON\
+燃料 - 確認して報告「コールサイン、フェンスアウト、燃料状態」",
+    ["DictKey_GroupName_181"] = "Static Tanker",
+    ["DictKey_ActionRadioText_311"] = "COLT 1-1 フェンスイン",
+    ["DictKey_UnitName_143"] = "Unit #73",
+    ["DictKey_UnitName_84"] = "Unit #30",
+    ["DictKey_WptName_261"] = "",
+    ["DictKey_UnitName_99"] = "Unit #53",
+    ["DictKey_37"] = "このPOに合格するには：\
+\
+1. マスターアームスイッチをTRAINにセットして下さい。\
+\
+2. DSMSで爆弾投下プロファイルをCCRPモードでペア（PRS)で投下するように設定して下さい。\
+\
+3. TGPでAGモードを選択し、ターゲットを発見したら、SOIに指定していることを確認して下さい。",
+    ["DictKey_WptName_274"] = "",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_40"] = "IPにいます。\
+\
+無線コールを行い、攻撃を開始して下さい。\
+\
+インホットを許可します。",
+    ["DictKey_WptName_238"] = "",
+    ["DictKey_WptName_283"] = "",
+    ["DictKey_GroupName_161"] = "A-10C Springfield 1 2",
+    ["DictKey_WptName_277"] = "",
+    ["DictKey_ActionText_318"] = "では、フェンスイン　コールを行ってください。残りの飛行隊にフェンスインチェックを行うよう知らせます。",
+    ["DictKey_ActionText_333"] = "爆弾投下！",
+    ["DictKey_UnitName_134"] = "Unit #69",
+    ["DictKey_UnitName_164"] = "Lt Art Mayor",
+    ["DictKey_ActionText_300"] = "COLT 1-1, オフ",
+    ["DictKey_WptName_285"] = "",
+    ["DictKey_UnitName_140"] = "Unit #76",
+    ["DictKey_WptName_276"] = "",
+    ["DictKey_ActionRadioText_348"] = "フェンスアウト",
+    ["DictKey_UnitName_94"] = "Unit #33",
+    ["DictKey_UnitName_141"] = "Unit #75",
+    ["DictKey_UnitName_198"] = "Static Infantry #002",
+    ["DictKey_UnitName_167"] = "Cpt Henry Hull \"Ship\"",
+    ["DictKey_62"] = "HUDのモードをCCRPにしませんでした。",
+    ["DictKey_UnitName_75"] = "Unit #9",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_GroupName_177"] = "Weapons Truck",
+    ["DictKey_descriptionRedTask_218"] = "",
+    ["DictKey_UnitName_138"] = "Unit #78",
+    ["DictKey_GroupName_201"] = "Static Infantry",
+    ["DictKey_50"] = "COLT 1-2,  フェンスアウト, 36.",
+    ["DictKey_GroupName_144"] = "New Vehicle Group #005",
+    ["DictKey_ActionRadioText_329"] = "COLT フェンスアウト",
+    ["DictKey_ActionRadioText_323"] = "",
+    ["DictKey_UnitName_154"] = "Unit #88",
+    ["DictKey_WptName_226"] = "フェンスアウト",
+    ["DictKey_UnitName_126"] = "Unit #64",
+    ["DictKey_UnitName_146"] = "Unit #83",
+    ["DictKey_ActionRadioText_299"] = "COLT フェンスイン",
+    ["DictKey_ActionText_337"] = "TGPでターゲットをVID（視認、識別）したら「タリー」とコールして下さい。",
+    ["DictKey_GroupName_209"] = "New Static Object #018",
+    ["DictKey_46"] = "方位 - 友軍空域を確認\
+コーションパネル - ライト類を確認\
+操縦系 -　状態と燃料を確認\
+無線 - 必要であれば報告",
+    ["DictKey_ActionText_309"] = "COLT 1-2, フェンスイン、燃料 43.",
+    ["DictKey_GroupName_173"] = "C-130 Chevy 1 1",
+    ["DictKey_55"] = "よくできました！\
+\
+検定チェックライドには合格するでしょう。ただし、もう少し練習してもっと精度を上げて下さい。",
+    ["DictKey_UnitName_206"] = "New Static Object #014",
+    ["DictKey_UnitName_182"] = "Static Tanker",
+    ["DictKey_ActionRadioText_298"] = "COLT 1-1 オフ",
+    ["DictKey_GroupName_193"] = "Static Predator",
+    ["DictKey_WptName_229"] = "",
+    ["DictKey_WptName_281"] = "",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_UnitName_88"] = "Unit #26",
+    ["DictKey_WptName_232"] = "",
+    ["DictKey_ActionRadioText_314"] = "COLT 1-1 インホット",
+    ["DictKey_UnitName_71"] = "Unit #13",
+    ["DictKey_UnitName_109"] = "Unit #43",
+    ["DictKey_WptName_256"] = "",
+    ["DictKey_WptName_260"] = "",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_UnitName_100"] = "Unit #52",
+    ["DictKey_WptName_284"] = "",
+    ["DictKey_UnitName_73"] = "Unit #11",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_UnitName_124"] = "Unit #66",
+    ["DictKey_GroupName_203"] = "New Static Object #004",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_UnitName_121"] = "Unit #56",
+    ["DictKey_WptName_247"] = "",
+    ["DictKey_59"] = "このPOに再トライする前に、フライトマニュアルを学習して、もっと練習飛行をすることをお勧めします。",
+    ["DictKey_ActionRadioText_346"] = "インホット",
+    ["DictKey_UnitName_214"] = "New Static Object #17",
+    ["DictKey_ActionText_305"] = "ナビゲーションライト - OFF\
+CMSP モード - 必要に応じて\
+MWS スイチ - ON\
+JMR スイチ - ON\
+RWR スイチ - ON\
+DISP スイチ - ON\
+Master Arm スイチ - ARM\
+GUN/PAC スイチ - ARM\
+LASER スイチ - ARM\
+TGP スイチ - ON\
+DSMS ウエポンページ - 兵器の設定を確認してください。\
+DSMS ミサイルページ EO Power - ON\
+損傷具合 - CHECK\
+燃料 - 確認して報告「コールサイン、フェンスイン、燃料状態」",
+    ["DictKey_UnitName_159"] = "Major Ryan Baker \"Sabre\"",
+    ["DictKey_UnitName_135"] = "Unit #68",
+    ["DictKey_UnitName_110"] = "Unit #42",
+    ["DictKey_WptName_230"] = "",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_44"] = "爆弾投下！",
+    ["DictKey_WptName_270"] = "",
+    ["DictKey_UnitName_184"] = "Static F-15E #002",
+    ["DictKey_WptName_249"] = "",
+    ["DictKey_ActionRadioText_324"] = "COPY",
+    ["DictKey_GroupName_207"] = "New Static Object #016",
+    ["DictKey_UnitName_200"] = "Static Infantry #001",
+    ["DictKey_UnitName_82"] = "Unit #19",
+    ["DictKey_UnitName_72"] = "Unit #12",
+    ["DictKey_GroupName_199"] = "Static Infantry #001",
+    ["DictKey_UnitName_180"] = "Static A-10C",
+    ["DictKey_UnitName_112"] = "Unit #40",
+    ["DictKey_WptName_221"] = "",
+    ["DictKey_WptName_351"] = "",
+    ["DictKey_GroupName_123"] = "New Vehicle Group #002",
+    ["DictKey_ActionRadioText_342"] = "COLT 1-1 インホット",
+    ["DictKey_WptName_259"] = "",
+    ["DictKey_WptName_241"] = "",
+    ["DictKey_WptName_231"] = "",
+    ["DictKey_UnitName_87"] = "Unit #27",
+    ["DictKey_61"] = "マスターアームスイッチをTRAINにセットしませんでした。",
+    ["DictKey_48"] = "友軍領域に戻りました。\
+\
+フェンスアウト（FENCE OUT）チェックリストを確認しましょう。",
+    ["DictKey_GroupName_171"] = "C-130 Pontiac 1 1",
+    ["DictKey_ActionRadioText_302"] = "COLT 1-1 オフ",
+    ["DictKey_GroupName_213"] = "New Static Object #020",
+    ["DictKey_ActionText_321"] = "COLT 1-1, COPY!",
+    ["DictKey_GroupName_195"] = "Static Humvee #001",
+    ["DictKey_WptName_331"] = "",
+    ["DictKey_GroupName_90"] = "New Vehicle Group #015",
+    ["DictKey_descriptionText_217"] = "この訓練ミッションは検定ミッションに合格するために練習に使って下さい。\
+\
+私はキャプテン ライアン・ベーカーです。コールサインは「セイバー（Sabre）」です。能力目標（PO)を判定するフライト試験官（FE)です。\
+\
+これはAFT04 - ターゲットエリアイングレス準備です。A/OA-10C上級航空機訓練検定コースの4番目のミッションです。\
+\
+このPOでは、模擬攻撃でDSMSとAN/AAQ-28 ライトニングIIターゲティングポッドを使用します。\
+\
+INとOUTのフェンスチェックを行って下さい。DSMS兵器プロファイルの設定を行って下さい。TGPを使用してターゲットエリアを探索して下さい。\
+\
+ターゲットはVID（視認識別）しやすいようにスモークでマーキングします。\
+\
+IP(イニシャルポイント）に到着したら、ターゲットに対してアタックラン（攻撃）を行います。BDU-50LD不活訓練爆弾をCCRP投下モードで模擬攻撃して下さい。\
+\
+アタックランが完了したら、エリアからイーグレス（離脱）して、コブレチに着陸して下さい。\
+\
+着陸のためのパターン高度は2500ftです。\
+\
+ハードデッキ制限は5000ftです。解除されないうちはこの制限を破らないで下さい。\
+\
+私がウイングマンとして同行します。あなたの攻撃手順を監視します。\
+\
+驚異レベル: LOW\
+EMCON: 1\
+コブレチ（Kobuleti）タワー: 133.0Mhz AM\
+訓練生: COLT 1-1: 251.0Mhz AM\
+FE: COLT 1-2: 251.0Mhz AM\
+タンカー: TEXACO 1-1: 251.0Mhz AM タンカーTACAN: 5X TKR\
+\
+代替空港：バトゥミ（Batumi） 131.0 Mhz AM\
+\
+総ミッション時間: ~70 分\
+\
+これは空中スタートです。それに合わせてHOTASを設定しておいて下さい。\
+\
+ラジオメニューのF10を使用して、状況報告、指示を出して下さい。\
+\
+ミッション成功基準：\
+飛行計画を完了させる\
+DSMSとTGPの設定を指示通りに行う。",
+    ["DictKey_UnitName_178"] = "Unit #16",
+    ["DictKey_UnitName_174"] = "Capt Andrew Melnyk \"Mel\" #1",
+    ["DictKey_UnitName_132"] = "Unit #71",
+    ["DictKey_UnitName_133"] = "Unit #70",
+    ["DictKey_UnitName_162"] = "Lt Kam Spoke",
+    ["DictKey_UnitName_93"] = "Unit #34",
+    ["DictKey_WptName_275"] = "",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_ActionText_303"] = "敵対領域に近づきました。\
+\
+フェンスイン（FENCE IN）チェックリストを確認しましょう。",
+    ["DictKey_WptName_235"] = "",
+    ["DictKey_GroupName_197"] = "Static Infantry #002",
+    ["DictKey_ActionRadioText_343"] = "COLT 1-1 オフ",
+    ["DictKey_ActionRadioText_295"] = "COLT 1-1 インホット",
+    ["DictKey_WptName_282"] = "",
+    ["DictKey_WptName_255"] = "",
+    ["DictKey_WptName_271"] = "",
+    ["DictKey_54"] = "素晴らしい！\
+\
+検定チェックライドの準備は整っていると思います。",
+    ["DictKey_38"] = "Knock it off!  Knock it off!\
+\
+ハードデッキ制限を破りました。\
+\
+このPOを中止します。",
+    ["DictKey_ActionRadioText_345"] = "フェンスイン",
+    ["DictKey_UnitName_204"] = "New Static Object #4",
+} -- end of dictionary
