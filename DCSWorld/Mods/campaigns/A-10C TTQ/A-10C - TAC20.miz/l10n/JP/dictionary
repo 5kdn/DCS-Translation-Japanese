@@ -1,0 +1,2039 @@
+dictionary = 
+{
+    ["DictKey_GroupName_647"] = "Target 1 Ammo #017",
+    ["DictKey_WptName_1209"] = "",
+    ["DictKey_UnitName_923"] = "Unit #042",
+    ["DictKey_UnitName_808"] = "CP SKP-11 DEAD",
+    ["DictKey_WptName_1303"] = "",
+    ["DictKey_GroupName_655"] = "New Static Object #016",
+    ["DictKey_UnitName_449"] = "Unit #185",
+    ["DictKey_GroupName_1042"] = "Comms Tower #003",
+    ["DictKey_WptName_1204"] = "",
+    ["DictKey_GroupName_497"] = "T-55 PLATOON #001",
+    ["DictKey_WptName_1187"] = "",
+    ["DictKey_GroupName_773"] = "T-55 DEAD #018",
+    ["DictKey_239"] = "COLT 1-1 UZI 1-1!\
+\
+友軍が移動開始\
+\
+TICからの要請にはすぐに対応して下さい。\
+\
+UZI 1-1 OUT!",
+    ["DictKey_UnitName_398"] = "Unit #145",
+    ["DictKey_UnitName_642"] = "Target 1 Ammo #014",
+    ["DictKey_UnitName_980"] = "BP 8",
+    ["DictKey_WptName_1165"] = "",
+    ["DictKey_298"] = "COLT 1-1, UZI 1-1!\
+\
+ターゲットを破壊\
+\
+現在、これ以上のタスクはありません。\
+\
+UZI 1-1 OUT!",
+    ["DictKey_UnitName_852"] = "Pvt Anthony Sworwick",
+    ["DictKey_WptName_1199"] = "",
+    ["DictKey_188"] = "Gウォーム 90 ライト　開始",
+    ["DictKey_213"] = "COLT 1, FENCE OUT（フェンスアウト）...",
+    ["DictKey_218"] = "おめでとうございます。\
+\
+このPOに合格しました。\
+\
+あなたの評価は優（Qualified：Q)です。\
+\
+よくやりました！\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_WptName_1508"] = "",
+    ["DictKey_GroupName_529"] = "MBT T-55 #015",
+    ["DictKey_UnitName_1049"] = "Convoy 1 LAV #001",
+    ["DictKey_GroupName_1064"] = "New Static Object #013",
+    ["DictKey_WptName_1470"] = "",
+    ["DictKey_257"] = "TIC(TROOPS IN CONTACT:攻撃を受けている部隊）\
+\
+西から攻撃して下さい。\
+（ATTACK FROM THE WEST!\
+\
+武器の制限はなし\
+（NO WEAPONS RESTRICTIONS!）\
+\
+すぐに攻撃\
+\
+EYEBALL 4-1 OUT!",
+    ["DictKey_WptName_1304"] = "",
+    ["DictKey_WptName_1492"] = "",
+    ["DictKey_GroupName_1058"] = "New Static Object #005",
+    ["DictKey_UnitName_867"] = "Unit #006",
+    ["DictKey_WptName_1249"] = "TARGET 2",
+    ["DictKey_GroupName_519"] = "MBT T-55 #005",
+    ["DictKey_236"] = "1, ホイールアップ！",
+    ["DictKey_UnitName_876"] = "MSgt Gord Lever",
+    ["DictKey_WptName_1242"] = "",
+    ["DictKey_WptName_1553"] = "",
+    ["DictKey_WptName_1208"] = "",
+    ["DictKey_WptName_1339"] = "",
+    ["DictKey_WptName_1099"] = "",
+    ["DictKey_WptName_1124"] = "",
+    ["DictKey_UnitName_382"] = "Unit #128",
+    ["DictKey_UnitName_1039"] = "Perth FARP #4",
+    ["DictKey_WptName_1506"] = "",
+    ["DictKey_279"] = "PONTIAC 1, COLT 1-1.\
+\
+予定通りターゲットの攻撃を許可します。",
+    ["DictKey_GroupName_639"] = "Target 1 Ammo #013",
+    ["DictKey_WptName_1220"] = "",
+    ["DictKey_UnitName_355"] = "Unit #103",
+    ["DictKey_WptName_1308"] = "",
+    ["DictKey_descriptionBlueTask_1080"] = "フェーズラインHAMMERに進軍する地上部隊を支援して下さい。\
+FLOTの北とFSCLの南の間にいる、攻撃できるターゲットを破壊してください。\
+BOARと SPRINGFIELDフライトがCAS支援を行う許可を出して下さい。\
+PONTIACフライトにグリッドMM 707 053にいる砲兵部隊への攻撃を許可して下さい。",
+    ["DictKey_ActionText_1566"] = "",
+    ["DictKey_UnitName_618"] = "New Static Object #009",
+    ["DictKey_WptName_1316"] = "",
+    ["DictKey_UnitName_628"] = "Target 1 Ammo #007",
+    ["DictKey_GroupName_1030"] = "Perth FARP #001",
+    ["DictKey_WptName_1092"] = "",
+    ["DictKey_GroupName_477"] = "BMP PLATOON #001",
+    ["DictKey_UnitName_920"] = "Unit #045",
+    ["DictKey_UnitName_380"] = "Unit #123",
+    ["DictKey_196"] = "2, COPY!",
+    ["DictKey_248"] = "TIC（TROOPS IN CONTACT）\
+\
+西から攻撃して下さい。\
+\
+武器の制限なし\
+\
+至急のTOTを要請します。\
+\
+UZI 1-1 OUT!",
+    ["DictKey_WptName_1329"] = "",
+    ["DictKey_UnitName_842"] = "Pilot #006",
+    ["DictKey_GroupName_727"] = "BMP-3 DEAD #019",
+    ["DictKey_WptName_1444"] = "",
+    ["DictKey_UnitName_1035"] = "Perth FARP #2",
+    ["DictKey_WptName_1258"] = "",
+    ["DictKey_WptName_1521"] = "",
+    ["DictKey_UnitName_860"] = "FARP Infantry 2 #1",
+    ["DictKey_WptName_1163"] = "",
+    ["DictKey_WptName_1436"] = "",
+    ["DictKey_GroupName_452"] = "New Vehicle Group #066",
+    ["DictKey_GroupName_1070"] = "FE SCOUT PARKED #002",
+    ["DictKey_UnitName_476"] = "Target 3-1",
+    ["DictKey_UnitName_815"] = "SPRINGFIELD 2-2",
+    ["DictKey_UnitName_507"] = "Unit #192",
+    ["DictKey_UnitName_962"] = "Unit #004",
+    ["DictKey_UnitName_362"] = "Unit #110",
+    ["DictKey_192"] = "3, COPY!",
+    ["DictKey_WptName_1306"] = "",
+    ["DictKey_WptName_1352"] = "",
+    ["DictKey_UnitName_435"] = "Unit #171",
+    ["DictKey_WptName_1301"] = "",
+    ["DictKey_GroupName_850"] = "FARP Infantry 1",
+    ["DictKey_WptName_1333"] = "",
+    ["DictKey_UnitName_482"] = "Unit #070",
+    ["DictKey_UnitName_718"] = "BMP-3 DEAD #014",
+    ["DictKey_UnitName_724"] = "BMP-3 DEAD #017",
+    ["DictKey_UnitName_834"] = "SHELL",
+    ["DictKey_GroupName_485"] = "BMP PLATOON #003",
+    ["DictKey_GroupName_595"] = "Target 1 Ammo #001",
+    ["DictKey_UnitName_578"] = "MBT T-55 #023",
+    ["DictKey_GroupName_613"] = "New Static Object #008",
+    ["DictKey_GroupName_717"] = "BMP-3 DEAD #014",
+    ["DictKey_WptName_1225"] = "Target 5",
+    ["DictKey_WptName_1357"] = "",
+    ["DictKey_UnitName_776"] = "T-55 DEAD #019",
+    ["DictKey_203"] = "COLT 1, UZI 1-1!\
+\
+IP CHEVYに進んで下さい！",
+    ["DictKey_WptName_1351"] = "",
+    ["DictKey_GroupName_681"] = "BMP-3 DEAD #003",
+    ["DictKey_WptName_1418"] = "",
+    ["DictKey_306"] = "1, RAY TARGET!（ターゲットをポイント）",
+    ["DictKey_WptName_1552"] = "",
+    ["DictKey_WptName_1465"] = "",
+    ["DictKey_WptName_1561"] = "",
+    ["DictKey_WptName_1210"] = "",
+    ["DictKey_WptName_1380"] = "Target 3",
+    ["DictKey_UnitName_670"] = "T-55 DEAD #003",
+    ["DictKey_UnitName_790"] = "T-55 DEAD #026",
+    ["DictKey_GroupName_993"] = "C LAV Platoon #001",
+    ["DictKey_UnitName_411"] = "Unit #153",
+    ["DictKey_WptName_1402"] = "",
+    ["DictKey_GroupName_571"] = "MBT T-55 #017",
+    ["DictKey_GroupName_649"] = "Target 1 Ammo #018",
+    ["DictKey_GroupName_741"] = "BMP-3 DEAD #026",
+    ["DictKey_151"] = "あなた達は、FLOTの北にいる友軍が指定した攻撃機会のあるターゲットを攻撃します。\
+\
+敵の攻撃報告と、敵から攻撃を受けている兵士（Troops In Contact）の無線を注意深く聞いてください。\
+\
+他の全てのターゲットよりも、TIC（Troops In Contact）からの要請への支援を優先して下さい。",
+    ["DictKey_288"] = "ENFIELD 2-1, COLT 1-1!\
+\
+ファイヤーミッション（FIRE MISSION）",
+    ["DictKey_243"] = "UZI 1-1 COLT 1-1 READY TO COPY REMARKS",
+    ["DictKey_UnitName_384"] = "Unit #126",
+    ["DictKey_280"] = "BOAR 1 COLT 1-1 攻撃を許可",
+    ["DictKey_WptName_1542"] = "",
+    ["DictKey_WptName_1290"] = "",
+    ["DictKey_GroupName_767"] = "T-55 DEAD #015",
+    ["DictKey_WptName_1544"] = "",
+    ["DictKey_WptName_1323"] = "",
+    ["DictKey_GroupName_801"] = "SPH 2S9 Nona DEAD #001",
+    ["DictKey_WptName_1235"] = "",
+    ["DictKey_UnitName_672"] = "BTR-80 DEAD #001",
+    ["DictKey_WptName_1464"] = "",
+    ["DictKey_UnitName_498"] = "Unit #163",
+    ["DictKey_GroupName_789"] = "T-55 DEAD #026",
+    ["DictKey_WptName_1226"] = "",
+    ["DictKey_WptName_1540"] = "",
+    ["DictKey_GroupName_1050"] = "MBT T-55 #043",
+    ["DictKey_259"] = "UZI 1-1 COLT 1-1 READY TO COPY",
+    ["DictKey_UnitName_592"] = "MBT T-55 #046",
+    ["DictKey_UnitName_570"] = "MBT T-55 #014",
+    ["DictKey_WptName_1312"] = "",
+    ["DictKey_WptName_1281"] = "",
+    ["DictKey_WptName_1186"] = "",
+    ["DictKey_UnitName_778"] = "T-55 DEAD #020",
+    ["DictKey_258"] = "BREAK, BREAK!\
+\
+COLT 1-1, UZI 1-1.\
+\
+至急のCASを要請します！\
+\
+準備が良ければターゲットの指定をしますので連絡下さい\
+（ADVISE WHEN READY FOR TARGET BRIEF!）",
+    ["DictKey_WptName_1362"] = "",
+    ["DictKey_WptName_1271"] = "",
+    ["DictKey_WptName_1374"] = "",
+    ["DictKey_273"] = "CHECKMATE 3-1 COLT 1-1 READY TO COPY REMARKS",
+    ["DictKey_UnitName_732"] = "BMP-3 DEAD #021",
+    ["DictKey_WptName_1519"] = "",
+    ["DictKey_GroupName_862"] = "A HUMVEE PLATOON",
+    ["DictKey_UnitName_1002"] = "Unit #036",
+    ["DictKey_WptName_1261"] = "",
+    ["DictKey_WptName_1160"] = "",
+    ["DictKey_UnitName_865"] = "Sgt Dave Mcneil",
+    ["DictKey_UnitName_780"] = "T-55 DEAD #021",
+    ["DictKey_UnitName_542"] = "MBT T-55 #026",
+    ["DictKey_WptName_1417"] = "",
+    ["DictKey_167"] = "ターゲットの位置は、SADLや同様のデータリンクを介して航空機の兵器システムに送信されます。",
+    ["DictKey_GroupName_653"] = "New Static Object #015",
+    ["DictKey_UnitName_604"] = "MBT T-55 #050",
+    ["DictKey_UnitName_684"] = "BTR-80 DEAD #003",
+    ["DictKey_UnitName_314"] = "Target 5-5",
+    ["DictKey_GroupName_1036"] = "Perth FARP #004",
+    ["DictKey_UnitName_890"] = "Cpl Jerry Spring",
+    ["DictKey_UnitName_624"] = "Target 1 Ammo #005",
+    ["DictKey_206"] = "COLT 1-1, UZI 1-1.\
+\
+プレイタイムは終了です。\
+\
+イーグレスポイントへ向かって下さい。",
+    ["DictKey_WptName_1190"] = "",
+    ["DictKey_UnitName_885"] = "Unit #005",
+    ["DictKey_GroupName_753"] = "T-55 DEAD #008",
+    ["DictKey_GroupName_599"] = "Target 1 Ammo #003",
+    ["DictKey_UnitName_906"] = "Cpt Will Burnet",
+    ["DictKey_WptName_1183"] = "",
+    ["DictKey_WptName_1406"] = "",
+    ["DictKey_WptName_1269"] = "",
+    ["DictKey_ActionText_1601"] = "高度を確認して下さい！",
+    ["DictKey_UnitName_468"] = "EXIT AAA  West 1",
+    ["DictKey_304"] = "ポインターでマーキング！\
+\
+ターゲット　戦車\
+\
+ MM 595 069\
+\
+繰り返す\
+\
+MM 595 069\
+\
+周りはクリア、SAMもAAAも無し！\
+\
+COLT 1-1, OUT!",
+    ["DictKey_WptName_1181"] = "",
+    ["DictKey_GroupName_669"] = "T-55 DEAD #003",
+    ["DictKey_GroupName_713"] = "BMP-3 DEAD #012",
+    ["DictKey_UnitName_550"] = "MBT T-55 #031",
+    ["DictKey_WptName_1513"] = "",
+    ["DictKey_GroupName_549"] = "MBT T-55 #031",
+    ["DictKey_UnitName_934"] = "BP 1",
+    ["DictKey_242"] = "UZI 1-1 COLT 1-1 READY TO COPY",
+    ["DictKey_UnitName_394"] = "Unit #142",
+    ["DictKey_UnitName_634"] = "Target 1 Ammo #010",
+    ["DictKey_GroupName_1026"] = "New Static Object",
+    ["DictKey_WptName_1305"] = "",
+    ["DictKey_UnitName_820"] = "Lt Andre Litovsk",
+    ["DictKey_UnitName_516"] = "MBT T-55 #001",
+    ["DictKey_WptName_1369"] = "",
+    ["DictKey_240"] = "BREAK! BREAK!\
+\
+COLT 1-1, UZI 1-1!\
+\
+至急CASを要請します。\
+\
+ターゲットの指示を出して良ければ連絡して下さい。\
+（ADVISE WHEN READY FOR TARGET BRIEF）",
+    ["DictKey_UnitName_494"] = "Unit #139",
+    ["DictKey_GroupName_543"] = "MBT T-55 #028",
+    ["DictKey_UnitName_847"] = "Col Ryan \"Sabre\" Baker",
+    ["DictKey_UnitName_798"] = "T-55 DEAD #030",
+    ["DictKey_WptName_1441"] = "",
+    ["DictKey_UnitName_941"] = "Unit #056",
+    ["DictKey_GroupName_605"] = "MBT T-55 #051",
+    ["DictKey_WptName_1150"] = "",
+    ["DictKey_UnitName_582"] = "Small House 4",
+    ["DictKey_GroupName_1032"] = "Perth FARP #002",
+    ["DictKey_UnitName_970"] = "Unit #013",
+    ["DictKey_GroupName_541"] = "MBT T-55 #026",
+    ["DictKey_GroupName_597"] = "FARP",
+    ["DictKey_231"] = "RIFLE!",
+    ["DictKey_WptName_1288"] = "",
+    ["DictKey_UnitName_975"] = "Unit #014",
+    ["DictKey_UnitName_354"] = "Unit #104",
+    ["DictKey_WptName_1462"] = "",
+    ["DictKey_UnitName_425"] = "Unit #167",
+    ["DictKey_WptName_1515"] = "",
+    ["DictKey_GroupName_737"] = "BMP-3 DEAD #024",
+    ["DictKey_WptName_1487"] = "",
+    ["DictKey_GroupName_557"] = "MBT T-55 #035",
+    ["DictKey_GroupName_635"] = "Target 1 Ammo #011",
+    ["DictKey_GroupName_875"] = "New Vehicle Group #007",
+    ["DictKey_UnitName_1059"] = "New Static Object #005",
+    ["DictKey_174"] = "SOFガンシップと一緒に活動するときは、ガンシップにidentify colors（敵味方？）を問い合わせないで下さい。\
+\
+何時にいるのかreference（言及） しないで下さい。\
+\
+攻撃パスの方位や、no-fire 方位を通過しないで下さい。\
+（Do not pass run-in headings or no-fire headings.）\
+\
+左右、長短を修正しないで下さい。\
+（Do not correct left/right or short/long.）\
+\
+ 明らかに間違った距離や、間違ったターゲットであった場合、距離（メートルで）と、基本的な方位（東西南北）で知らせることで着弾点を修正してください。",
+    ["DictKey_UnitName_429"] = "Unit #170",
+    ["DictKey_UnitName_338"] = "Unit #092",
+    ["DictKey_GroupName_973"] = "C Bradley Platoon #007",
+    ["DictKey_WptName_1321"] = "",
+    ["DictKey_UnitName_530"] = "MBT T-55 #015",
+    ["DictKey_GroupName_493"] = "BMP PLATOON #005",
+    ["DictKey_WptName_1203"] = "",
+    ["DictKey_WptName_1348"] = "",
+    ["DictKey_UnitName_995"] = "Unit #027",
+    ["DictKey_UnitName_616"] = "New Static Object #008",
+    ["DictKey_GroupName_521"] = "MBT T-55 #006",
+    ["DictKey_296"] = "ENFIELD 2-1, 地上ターゲットを攻撃します。",
+    ["DictKey_UnitName_886"] = "Lt Judy Mizor",
+    ["DictKey_UnitName_760"] = "T-55 DEAD #011",
+    ["DictKey_UnitName_339"] = "Unit #091",
+    ["DictKey_UnitName_484"] = "Unit #068",
+    ["DictKey_WptName_1293"] = "",
+    ["DictKey_WptName_1168"] = "",
+    ["DictKey_UnitName_375"] = "Unit #121",
+    ["DictKey_GroupName_463"] = "Exit SAM",
+    ["DictKey_UnitName_386"] = "Unit #134",
+    ["DictKey_UnitName_706"] = "BTR-80 DEAD #008",
+    ["DictKey_UnitName_457"] = "Unit #188",
+    ["DictKey_UnitName_754"] = "T-55 DEAD #008",
+    ["DictKey_GroupName_517"] = "MBT T-55 #004",
+    ["DictKey_300"] = "ENFIELD 2-1, COLT 1-1!\
+\
+ファイアーミッション（FIRE MISSION）",
+    ["DictKey_WptName_1501"] = "",
+    ["DictKey_178"] = "Gウォーム開始",
+    ["DictKey_ActionRadioText_1579"] = "COLT 1-1, COPY",
+    ["DictKey_WptName_1091"] = "",
+    ["DictKey_GroupName_1034"] = "Perth FARP #003",
+    ["DictKey_GroupName_353"] = "T-55 PLATOON #016",
+    ["DictKey_WptName_1432"] = "",
+    ["DictKey_UnitName_638"] = "Target 1 Ammo #012",
+    ["DictKey_163"] = "CASパイロットと航空FAC共に、味方部隊と敵ターゲットの位置を見つけるのがさらに困難になりやすいです。\
+\
+航空AFCによるCAS航空機の直接管理は、CAS航空機が見えず不可能になる場合があります。\
+\
+通常、夜間CASの実行を成功させるにはより多くの時間を必要とします。そのため、各ミッションの所要時間は長くなります。",
+    ["DictKey_WptName_1214"] = "",
+    ["DictKey_WptName_1558"] = "",
+    ["DictKey_202"] = "COLT 1, VTA  レンジコントロール\
+\
+ALPHAからの進入を許可します。\
+\
+エアスペース（空域）はFL100から１５０です。\
+\
+天候はクリア、全階層で視界は良好\
+\
+グリッドMM80とMM90で低空トラフィックに注意\
+\
+コントロールポイントBRAVOに進んでください。\
+\
+COLT 1-１、コントロールを許可します。",
+    ["DictKey_GroupName_357"] = "T-55 PLATOON #014",
+    ["DictKey_WptName_1299"] = "",
+    ["DictKey_WptName_1244"] = "",
+    ["DictKey_UnitName_389"] = "Unit #131",
+    ["DictKey_UnitName_403"] = "Unit #147",
+    ["DictKey_WptName_1477"] = "",
+    ["DictKey_UnitName_363"] = "Unit #109",
+    ["DictKey_WptName_1505"] = "",
+    ["DictKey_WptName_1228"] = "",
+    ["DictKey_WptName_1223"] = "",
+    ["DictKey_WptName_1389"] = "",
+    ["DictKey_GroupName_897"] = "New Vehicle Group #016",
+    ["DictKey_UnitName_774"] = "T-55 DEAD #018",
+    ["DictKey_UnitName_963"] = "Unit #003",
+    ["DictKey_UnitName_702"] = "BMP-3 DEAD #009",
+    ["DictKey_UnitName_374"] = "Unit #122",
+    ["DictKey_WptName_1188"] = "",
+    ["DictKey_WptName_1292"] = "",
+    ["DictKey_UnitName_837"] = "Pilot #001",
+    ["DictKey_UnitName_360"] = "Unit #105",
+    ["DictKey_UnitName_662"] = "BMP-3 #2 DEAD",
+    ["DictKey_WptName_1336"] = "",
+    ["DictKey_WptName_1103"] = "",
+    ["DictKey_UnitName_329"] = "Unit #083",
+    ["DictKey_WptName_1343"] = "",
+    ["DictKey_GroupName_899"] = "A M1 Platoon",
+    ["DictKey_WptName_1550"] = "",
+    ["DictKey_UnitName_320"] = "Unit #079",
+    ["DictKey_UnitName_682"] = "BMP-3 DEAD #003",
+    ["DictKey_WptName_1504"] = "",
+    ["DictKey_UnitName_716"] = "BMP-3 DEAD #013",
+    ["DictKey_WptName_1425"] = "",
+    ["DictKey_UnitName_406"] = "Unit #151",
+    ["DictKey_260"] = "UZI 1-1 COLT 1-1 READY TO COPY",
+    ["DictKey_GroupName_553"] = "MBT T-55 #033",
+    ["DictKey_ActionText_1595"] = "高度を確認して下さい！",
+    ["DictKey_UnitName_680"] = "BMP-3 DEAD #002",
+    ["DictKey_UnitName_1001"] = "Unit #039",
+    ["DictKey_GroupName_460"] = "Exit AAA East",
+    ["DictKey_GroupName_392"] = "BTR PLATOON",
+    ["DictKey_GroupName_345"] = "T-55 PLATOON",
+    ["DictKey_GroupName_809"] = "Transport UAZ 469 DEAD",
+    ["DictKey_UnitName_315"] = "Target 5-4",
+    ["DictKey_WptName_1536"] = "",
+    ["DictKey_GroupName_617"] = "New Static Object #010",
+    ["DictKey_164"] = "通常、夜間CASではCASパイロットは航空機のシステムに大きく依存します。\
+\
+航空機システムは独立して使用できますが、システムを組み合わせることでミッション成功率が高くなります。",
+    ["DictKey_WptName_1431"] = "",
+    ["DictKey_205"] = "1, RUNNING IN!",
+    ["DictKey_WptName_1367"] = "",
+    ["DictKey_UnitName_917"] = "Unit #037",
+    ["DictKey_WptName_1393"] = "",
+    ["DictKey_GroupName_1018"] = "Fuel Truck",
+    ["DictKey_GroupName_977"] = "C Bradley Platoon #008",
+    ["DictKey_WptName_1283"] = "",
+    ["DictKey_GroupName_893"] = "New Vehicle Group #014",
+    ["DictKey_GroupName_607"] = "MBT T-55 #048",
+    ["DictKey_UnitName_686"] = "BTR-80 DEAD #004",
+    ["DictKey_UnitName_752"] = "T-55 DEAD #007",
+    ["DictKey_194"] = "CHECK IN",
+    ["DictKey_UnitName_316"] = "Target 5-3",
+    ["DictKey_UnitName_1015"] = "FARP Tent #002",
+    ["DictKey_WptName_1180"] = "",
+    ["DictKey_WptName_1481"] = "",
+    ["DictKey_UnitName_467"] = "EXIT AAA West 2",
+    ["DictKey_ActionText_1590"] = "",
+    ["DictKey_WptName_1213"] = "",
+    ["DictKey_GroupName_911"] = "B M1 Platoon #002",
+    ["DictKey_WptName_1350"] = "",
+    ["DictKey_UnitName_904"] = "Unit #029",
+    ["DictKey_UnitName_426"] = "Unit #166",
+    ["DictKey_UnitName_1010"] = "Unit #198",
+    ["DictKey_WptName_1452"] = "",
+    ["DictKey_WptName_1334"] = "",
+    ["DictKey_WptName_1206"] = "",
+    ["DictKey_UnitName_351"] = "Unit #100",
+    ["DictKey_WptName_1438"] = "",
+    ["DictKey_210"] = "FENCE OUT",
+    ["DictKey_WptName_1155"] = "",
+    ["DictKey_244"] = "1, READY TO COPY",
+    ["DictKey_GroupName_835"] = "F-16C DODGE 4",
+    ["DictKey_UnitName_676"] = "BTR-80 #3 DEAD",
+    ["DictKey_UnitName_445"] = "Unit #182",
+    ["DictKey_UnitName_458"] = "Unit #187",
+    ["DictKey_UnitName_664"] = "BMP-3 #3 DEAD",
+    ["DictKey_252"] = "EYEBALL 4-1 COLT 1-1 READY TO COPY REMARKS",
+    ["DictKey_UnitName_430"] = "Unit #169",
+    ["DictKey_UnitName_786"] = "T-55 DEAD #024",
+    ["DictKey_UnitName_921"] = "Unit #044",
+    ["DictKey_WptName_1102"] = "",
+    ["DictKey_WptName_1139"] = "",
+    ["DictKey_UnitName_446"] = "Unit #181",
+    ["DictKey_WptName_1403"] = "",
+    ["DictKey_UnitName_1019"] = "Fuel Truck",
+    ["DictKey_UnitName_978"] = "Unit #017",
+    ["DictKey_WptName_1510"] = "",
+    ["DictKey_UnitName_371"] = "Unit #118",
+    ["DictKey_GroupName_733"] = "BMP-3 DEAD #022",
+    ["DictKey_GroupName_539"] = "MBT T-55 #024",
+    ["DictKey_UnitName_944"] = "Unit #060",
+    ["DictKey_WptName_1520"] = "",
+    ["DictKey_172"] = "SOFガンシップは強くないため、低驚異エリアでのみ活動します。\
+\
+かれらは日中も活動できますが、光学誘導兵器からの驚異をさけるため、夜間活動を好みます。",
+    ["DictKey_WptName_1337"] = "",
+    ["DictKey_UnitName_441"] = "Target 1-3",
+    ["DictKey_UnitName_544"] = "MBT T-55 #028",
+    ["DictKey_UnitName_945"] = "Unit #059",
+    ["DictKey_185"] = "COLT 1 Gウォーム　９０レフト　ゴー！",
+    ["DictKey_UnitName_658"] = "New Static Object #017",
+    ["DictKey_UnitName_810"] = "Transport UAZ 469 DEAD",
+    ["DictKey_UnitName_952"] = "Unit #066",
+    ["DictKey_UnitName_692"] = "BMP-3 DEAD #004",
+    ["DictKey_GroupName_625"] = "Target 1 Ammo #006",
+    ["DictKey_WptName_1528"] = "",
+    ["DictKey_GroupName_1068"] = "FE SCOUT PARKED #001",
+    ["DictKey_UnitName_854"] = "FARP Infantry 2",
+    ["DictKey_147"] = "今日のミッションは、夜間におけるCASミッションマネジメントを行ってもらいます。\
+\
+CASミッションマネジメントは、CAS部隊を管理し、近接航空支援（CAS)の要請に適切に対応する必要があります。",
+    ["DictKey_UnitName_1061"] = "New Static Object #010",
+    ["DictKey_WptName_1200"] = "",
+    ["DictKey_WptName_1115"] = "",
+    ["DictKey_UnitName_1067"] = "FE SCOUT PARKED",
+    ["DictKey_GroupName_889"] = "New Vehicle Group #008",
+    ["DictKey_UnitName_520"] = "MBT T-55 #005",
+    ["DictKey_UnitName_370"] = "Unit #119",
+    ["DictKey_ActionText_1613"] = "1, COPY!",
+    ["DictKey_ActionText_1598"] = "高度を確認して下さい！",
+    ["DictKey_GroupName_955"] = "ADDER Humvee",
+    ["DictKey_295"] = "COLT 1-1, ENFIELD 2-1, ターゲットを確認",
+    ["DictKey_GroupName_377"] = "T-55 PLATOON #006",
+    ["DictKey_225"] = "COLT 1-1 EYEBALL 4-1!\
+\
+ターゲットを破壊しました！\
+\
+もう仕事は有りません。\
+\
+サポートありがとうございます。\
+\
+EYEBALL 4-1 OUT!",
+    ["DictKey_GroupName_777"] = "T-55 DEAD #020",
+    ["DictKey_WptName_1278"] = "",
+    ["DictKey_UnitName_622"] = "Target 1 Ammo #004",
+    ["DictKey_UnitName_574"] = "MBT T-55 #018",
+    ["DictKey_UnitName_422"] = "Target 2-2",
+    ["DictKey_ActionText_1599"] = "高度を確認して下さい！",
+    ["DictKey_WptName_1488"] = "",
+    ["DictKey_GroupName_807"] = "CP SKP-11 DEAD",
+    ["DictKey_UnitName_1013"] = "FARP Tent #1",
+    ["DictKey_WptName_1191"] = "",
+    ["DictKey_WptName_1233"] = "",
+    ["DictKey_WptName_1557"] = "",
+    ["DictKey_UnitName_874"] = "Cpl Fred Stark",
+    ["DictKey_UnitName_948"] = "Unit #063",
+    ["DictKey_GroupName_675"] = "BTR-80 #3 DEAD",
+    ["DictKey_WptName_1524"] = "",
+    ["DictKey_WptName_1404"] = "",
+    ["DictKey_WptName_1392"] = "",
+    ["DictKey_276"] = "ENFIELD 2-1 COLT 1-1 ファイヤーミッション（FIRE MISSION）",
+    ["DictKey_GroupName_663"] = "BMP-3 #3 DEAD",
+    ["DictKey_UnitName_979"] = "Unit #016",
+    ["DictKey_WptName_1153"] = "",
+    ["DictKey_UnitName_949"] = "Unit #062",
+    ["DictKey_GroupName_615"] = "New Static Object #009",
+    ["DictKey_GroupName_591"] = "MBT T-55 #046",
+    ["DictKey_UnitName_471"] = "Target 4-2",
+    ["DictKey_WptName_1499"] = "",
+    ["DictKey_UnitName_744"] = "BMP-3 DEAD #027",
+    ["DictKey_WptName_1331"] = "",
+    ["DictKey_ActionText_1575"] = "",
+    ["DictKey_GroupName_665"] = "T-55 DEAD #001",
+    ["DictKey_ActionText_1594"] = "高度を確認して下さい！",
+    ["DictKey_GroupName_489"] = "BMP PLATOON #004",
+    ["DictKey_UnitName_407"] = "Unit #150",
+    ["DictKey_WptName_1318"] = "",
+    ["DictKey_GroupName_473"] = "Target 3",
+    ["DictKey_WptName_1144"] = "",
+    ["DictKey_GroupName_844"] = "C-130 ENFIELD 2-1",
+    ["DictKey_UnitName_812"] = "Cpt John Mathews",
+    ["DictKey_UnitName_968"] = "Sgt Clive Marson #001",
+    ["DictKey_GroupName_775"] = "T-55 DEAD #019",
+    ["DictKey_UnitName_562"] = "MBT T-55 #037",
+    ["DictKey_WptName_1142"] = "",
+    ["DictKey_201"] = "CHECK OUT",
+    ["DictKey_UnitName_1037"] = "Perth FARP #3",
+    ["DictKey_WptName_1400"] = "",
+    ["DictKey_WptName_1241"] = "",
+    ["DictKey_GroupName_569"] = "MBT T-55 #014",
+    ["DictKey_WptName_1282"] = "",
+    ["DictKey_175"] = "あなたの仕事は、航空AFCとしてCAS部隊のマネジメントを行います。攻撃するターゲットを識別し、TIC（Troops In Contact ：攻撃を受けている部隊）からの要請に対応します。地上司令官の任務の支援を行います。\
+\
+UZI 1-1, OUT!",
+    ["DictKey_ActionRadioText_1608"] = "",
+    ["DictKey_WptName_1083"] = "",
+    ["DictKey_WptName_1215"] = "",
+    ["DictKey_GroupName_523"] = "MBT T-55 #007",
+    ["DictKey_WptName_1179"] = "",
+    ["DictKey_WptName_1512"] = "",
+    ["DictKey_WptName_1275"] = "",
+    ["DictKey_WptName_1617"] = "",
+    ["DictKey_UnitName_666"] = "T-55 DEAD #001",
+    ["DictKey_UnitName_1023"] = "FARP Tent #005",
+    ["DictKey_GroupName_1075"] = "F-16A DODGE 1",
+    ["DictKey_WptName_1251"] = "",
+    ["DictKey_UnitName_502"] = "Unit #178",
+    ["DictKey_WptName_1307"] = "",
+    ["DictKey_UnitName_892"] = "Cpl Lucinda Rand",
+    ["DictKey_UnitName_500"] = "Unit #140",
+    ["DictKey_UnitName_646"] = "Target 1 Ammo #016",
+    ["DictKey_WptName_1319"] = "",
+    ["DictKey_UnitName_987"] = "Unit #020",
+    ["DictKey_WptName_1401"] = "",
+    ["DictKey_WptName_1112"] = "",
+    ["DictKey_GroupName_319"] = "ARTY PLATOON #001",
+    ["DictKey_GroupName_619"] = "Target 1 Ammo #002",
+    ["DictKey_158"] = "KNOCK IT OFF!  KNOCK IT OFF!\
+\
+ハードデッキ制限を破りました！\
+\
+このPOを中止します！",
+    ["DictKey_UnitName_986"] = "Unit #021",
+    ["DictKey_GroupName_547"] = "MBT T-55 #030",
+    ["DictKey_WptName_1460"] = "",
+    ["DictKey_ActionRadioText_1605"] = "COPY",
+    ["DictKey_UnitName_864"] = "Unit #055",
+    ["DictKey_GroupName_535"] = "MBT T-55 #020",
+    ["DictKey_GroupName_931"] = "A Bradley Platoon #001",
+    ["DictKey_GroupName_337"] = "T-55 PLATOON #010",
+    ["DictKey_154"] = "COLT 1-1, COLT 1-2,\
+\
+今からPOを開始します！\
+\
+戦術訓練周波数に合わせてください！",
+    ["DictKey_UnitName_1053"] = "Convoy 1 LAV #007",
+    ["DictKey_GroupName_731"] = "BMP-3 DEAD #021",
+    ["DictKey_GroupName_691"] = "BMP-3 DEAD #004",
+    ["DictKey_255"] = "EYEBALL 4-1 COLT 1-1 READY TO COPY REMARKS",
+    ["DictKey_WptName_1443"] = "",
+    ["DictKey_186"] = "2, COPY!",
+    ["DictKey_GroupName_333"] = "T-55 PLATOON #009",
+    ["DictKey_153"] = "再確認です。\
+\
+これは実弾演習です。\
+\
+発射前に、ターゲットを確認し、注意をして下さい。\
+\
+グッドラック",
+    ["DictKey_UnitName_552"] = "MBT T-55 #032",
+    ["DictKey_WptName_1517"] = "",
+    ["DictKey_GroupName_715"] = "BMP-3 DEAD #013",
+    ["DictKey_235"] = "1, ローリング！",
+    ["DictKey_GroupName_567"] = "Ammunition Depot",
+    ["DictKey_UnitName_1021"] = "FARP Tent #004",
+    ["DictKey_UnitName_909"] = "Unit #031",
+    ["DictKey_UnitName_491"] = "Unit #135",
+    ["DictKey_UnitName_459"] = "Unit #186",
+    ["DictKey_WptName_1172"] = "",
+    ["DictKey_WptName_1391"] = "",
+    ["DictKey_UnitName_999"] = "Unit #049",
+    ["DictKey_190"] = "COLT 1 Gウォーム　９０ライト　ゴー！",
+    ["DictKey_WptName_1548"] = "",
+    ["DictKey_GroupName_424"] = "BMP PLATOON #006",
+    ["DictKey_289"] = "ENFIELD 2-1 COLT 1-1 ターゲット情報を送って下さい。",
+    ["DictKey_UnitName_796"] = "T-55 DEAD #029",
+    ["DictKey_UnitName_958"] = "Jaguar 1-3",
+    ["DictKey_GroupName_428"] = "BMP PLATOON #007",
+    ["DictKey_UnitName_950"] = "BP 3",
+    ["DictKey_WptName_1430"] = "",
+    ["DictKey_291"] = "ENFIELD 2-1 COLT 1-1 ターゲット情報を送って下さい。",
+    ["DictKey_WptName_1325"] = "",
+    ["DictKey_UnitName_1616"] = "",
+    ["DictKey_WptName_1320"] = "",
+    ["DictKey_UnitName_768"] = "T-55 DEAD #015",
+    ["DictKey_WptName_1383"] = "",
+    ["DictKey_WptName_1164"] = "",
+    ["DictKey_UnitName_401"] = "Unit #149",
+    ["DictKey_GroupName_749"] = "T-55 DEAD #006",
+    ["DictKey_WptName_1358"] = "",
+    ["DictKey_WptName_1230"] = "",
+    ["DictKey_GroupName_651"] = "New Static Object #014",
+    ["DictKey_WptName_1373"] = "",
+    ["DictKey_WptName_1398"] = "",
+    ["DictKey_UnitName_474"] = "Target 3-3",
+    ["DictKey_UnitName_480"] = "Unit #061",
+    ["DictKey_GroupName_779"] = "T-55 DEAD #021",
+    ["DictKey_GroupName_585"] = "Small House",
+    ["DictKey_UnitName_630"] = "Target 1 Ammo #008",
+    ["DictKey_UnitName_330"] = "Unit #082",
+    ["DictKey_UnitName_1074"] = "PONTIAC 1-1",
+    ["DictKey_WptName_1116"] = "",
+    ["DictKey_GroupName_381"] = "T-55 PLATOON #005",
+    ["DictKey_WptName_1327"] = "",
+    ["DictKey_UnitName_580"] = "Small House 2",
+    ["DictKey_UnitName_372"] = "Unit #117",
+    ["DictKey_182"] = "3, COPY!",
+    ["DictKey_303"] = "ENFIELD 2-1 COLT 1-1 ターゲット情報を送って下さい。",
+    ["DictKey_UnitName_926"] = "Cpt Mannie Lepaz",
+    ["DictKey_WptName_1132"] = "ALPHA",
+    ["DictKey_UnitName_508"] = "Unit #179",
+    ["DictKey_WptName_1349"] = "",
+    ["DictKey_WptName_1162"] = "",
+    ["DictKey_GroupName_563"] = "MBT T-55 #038",
+    ["DictKey_UnitName_656"] = "New Static Object #016",
+    ["DictKey_GroupName_793"] = "T-55 DEAD #028",
+    ["DictKey_GroupName_537"] = "MBT T-55 #022",
+    ["DictKey_UnitName_913"] = "Unit #034",
+    ["DictKey_WptName_1522"] = "",
+    ["DictKey_UnitName_594"] = "MBT T-55 #047",
+    ["DictKey_UnitName_331"] = "Unit #081",
+    ["DictKey_GroupName_623"] = "Target 1 Ammo #005",
+    ["DictKey_211"] = "COLT 1, VTA レンジコントロール\
+\
+CHARLIEからの退出を許可します。",
+    ["DictKey_WptName_1291"] = "",
+    ["DictKey_WptName_1315"] = "",
+    ["DictKey_293"] = "COLT 1-1, ENFIELD 2-1, COPY!",
+    ["DictKey_WptName_1535"] = "",
+    ["DictKey_UnitName_998"] = "Unit #052",
+    ["DictKey_GroupName_884"] = "New Vehicle Group #012",
+    ["DictKey_UnitName_900"] = "Unit #026",
+    ["DictKey_GroupName_469"] = "Target 4",
+    ["DictKey_WptName_1227"] = "",
+    ["DictKey_268"] = "CHECKMATE 3-1 COLT 1-1 READY TO COPY",
+    ["DictKey_WptName_1110"] = "",
+    ["DictKey_GroupName_903"] = "A M1 Platoon #007",
+    ["DictKey_UnitName_568"] = "MBT T-55 #012",
+    ["DictKey_GroupName_895"] = "New Vehicle Group #015",
+    ["DictKey_UnitName_558"] = "MBT T-55 #035",
+    ["DictKey_WptName_1252"] = "",
+    ["DictKey_UnitName_650"] = "Target 1 Ammo #018",
+    ["DictKey_UnitName_872"] = "Sgt Eric Lestrange",
+    ["DictKey_GroupName_719"] = "BMP-3 DEAD #015",
+    ["DictKey_UnitName_863"] = "Unit #058",
+    ["DictKey_WptName_1146"] = "",
+    ["DictKey_GroupName_709"] = "BMP-3 DEAD #010",
+    ["DictKey_WptName_1416"] = "",
+    ["DictKey_WptName_1562"] = "",
+    ["DictKey_WptName_1201"] = "",
+    ["DictKey_168"] = "NGV（ナイトビジョンゴーグル）は、夜間の航空機システムを補完してくれる最もよく使われるツールですが、適切な天候と照明条件が必要です。NVGだけで敵味方の識別を行い、ターゲットを攻撃することも可能です。",
+    ["DictKey_UnitName_548"] = "MBT T-55 #030",
+    ["DictKey_GroupName_1014"] = "FARP Tent #002",
+    ["DictKey_UnitName_936"] = "Unit #054",
+    ["DictKey_GroupName_1046"] = "Comms Tower #005",
+    ["DictKey_GroupName_689"] = "BTR-80 DEAD #006",
+    ["DictKey_WptName_1415"] = "",
+    ["DictKey_WptName_1286"] = "",
+    ["DictKey_UnitName_556"] = "MBT T-55 #034",
+    ["DictKey_WptName_1433"] = "",
+    ["DictKey_GroupName_833"] = "KC-135 SHELL",
+    ["DictKey_UnitName_358"] = "Unit #107",
+    ["DictKey_WptName_1551"] = "",
+    ["DictKey_UnitName_750"] = "T-55 DEAD #006",
+    ["DictKey_GroupName_685"] = "BTR-80 DEAD #004",
+    ["DictKey_UnitName_648"] = "Target 1 Ammo #017",
+    ["DictKey_UnitName_726"] = "BMP-3 DEAD #018",
+    ["DictKey_WptName_1295"] = "",
+    ["DictKey_GroupName_515"] = "MBT T-55 #001",
+    ["DictKey_UnitName_395"] = "Unit #141",
+    ["DictKey_WptName_1413"] = "",
+    ["DictKey_UnitName_644"] = "Target 1 Ammo #015",
+    ["DictKey_UnitName_849"] = "Sgt Mark Garneau",
+    ["DictKey_WptName_1167"] = "",
+    ["DictKey_WptName_1527"] = "",
+    ["DictKey_UnitName_901"] = "Unit #025",
+    ["DictKey_176"] = "COLT 1-1, UZI 1-1,\
+\
+では、あなたのフライト（飛行隊）に、Gアウェアネステストを行わせて下さい！",
+    ["DictKey_UnitName_572"] = "MBT T-55 #017",
+    ["DictKey_UnitName_1011"] = "Unit #197",
+    ["DictKey_WptName_1229"] = "",
+    ["DictKey_245"] = "高度（ELEVATION） 1706\
+\
+BMPS 　 MM 847 063\
+\
+繰り返す MM  847 063\
+\
+NO MARK!\
+\
+友軍は南\
+\
+東にイーグレス\
+\
+リマーク（追加情報）の用意が良ければ連絡して下さい。\
+（ADVISE WHEN READY FOR REMARKS!）",
+    ["DictKey_WptName_1466"] = "",
+    ["DictKey_215"] = "3, COPY!",
+    ["DictKey_UnitName_612"] = "New Static Object #001",
+    ["DictKey_UnitName_756"] = "T-55 DEAD #009",
+    ["DictKey_WptName_1421"] = "",
+    ["DictKey_UnitName_740"] = "BMP-3 DEAD #025",
+    ["DictKey_UnitName_940"] = "Unit #057",
+    ["DictKey_WptName_1266"] = "",
+    ["DictKey_UnitName_511"] = "Unit #195",
+    ["DictKey_143"] = "機体を始動させて、準備ができたら通信チェックを行います。",
+    ["DictKey_GroupName_527"] = "MBT T-55 #013",
+    ["DictKey_WptName_1507"] = "",
+    ["DictKey_UnitName_340"] = "Unit #090",
+    ["DictKey_UnitName_704"] = "BTR-80 DEAD #007",
+    ["DictKey_UnitName_1033"] = "Perth FARP #1",
+    ["DictKey_GroupName_683"] = "BTR-80 DEAD #003",
+    ["DictKey_UnitName_486"] = "Unit #073",
+    ["DictKey_UnitName_690"] = "BTR-80 DEAD #006",
+    ["DictKey_UnitName_410"] = "Unit #154",
+    ["DictKey_UnitName_318"] = "Target 5-1",
+    ["DictKey_GroupName_873"] = "New Vehicle Group #006",
+    ["DictKey_UnitName_954"] = "Sgt Clive Marson",
+    ["DictKey_UnitName_564"] = "MBT T-55 #038",
+    ["DictKey_WptName_1270"] = "",
+    ["DictKey_262"] = "UZI 1-1 COLT 1-1 READY TO COPY REMARKS",
+    ["DictKey_UnitName_414"] = "Unit #157",
+    ["DictKey_UnitName_566"] = "MBT T-55 #039",
+    ["DictKey_UnitName_383"] = "Unit #127",
+    ["DictKey_UnitName_455"] = "Unit #190",
+    ["DictKey_GroupName_671"] = "BTR-80 DEAD #001",
+    ["DictKey_241"] = "UZI 1-1 COLT 1-1 READY TO COPY",
+    ["DictKey_GroupName_408"] = "BTR PLATOON #006",
+    ["DictKey_WptName_1143"] = "",
+    ["DictKey_WptName_1193"] = "",
+    ["DictKey_WptName_1232"] = "",
+    ["DictKey_ActionText_1563"] = "COLT 1-1, UZI 1-1\
+\
+VUL時間が残り２分ですが、ターゲットがまだ残っています。",
+    ["DictKey_UnitName_933"] = "Unit #050",
+    ["DictKey_GroupName_693"] = "BMP-3 DEAD #005",
+    ["DictKey_UnitName_870"] = "Sgt Charlie Frances",
+    ["DictKey_274"] = "1, READY TO COPY REMARKS!",
+    ["DictKey_WptName_1344"] = "",
+    ["DictKey_UnitName_510"] = "Unit #196",
+    ["DictKey_WptName_1332"] = "",
+    ["DictKey_GroupName_1052"] = "Convoy 1 LAV #007",
+    ["DictKey_UnitName_708"] = "BTR-80 DEAD #009",
+    ["DictKey_GroupName_853"] = "FARP Infantry 2",
+    ["DictKey_ActionText_1600"] = "高度を確認して下さい！",
+    ["DictKey_UnitName_894"] = "MSgt Connie Dark",
+    ["DictKey_157"] = "KNOCK IT OFF!  KNOCK IT OFF!\
+\
+ハードデッキ制限を破りました！\
+\
+このPOを中止します！",
+    ["DictKey_WptName_1500"] = "",
+    ["DictKey_UnitName_922"] = "Unit #043",
+    ["DictKey_GroupName_819"] = "Mi-8 SPRINGFIELD 3-1",
+    ["DictKey_UnitName_466"] = "EXIT AAA West 3",
+    ["DictKey_WptName_1195"] = "",
+    ["DictKey_GroupName_891"] = "New Vehicle Group #013",
+    ["DictKey_232"] = "爆弾投下！（BOMBS AWAY）",
+    ["DictKey_UnitName_328"] = "Unit #084",
+    ["DictKey_UnitName_437"] = "Unit #176",
+    ["DictKey_WptName_1490"] = "",
+    ["DictKey_WptName_1090"] = "",
+    ["DictKey_GroupName_829"] = "COLT 1",
+    ["DictKey_UnitName_343"] = "Unit #094",
+    ["DictKey_WptName_1493"] = "",
+    ["DictKey_WptName_1340"] = "",
+    ["DictKey_WptName_1257"] = "",
+    ["DictKey_152"] = "レンジのハードデッキは100ftAGLです。\
+\
+この高度よりも下回るとPOは不合格になります。",
+    ["DictKey_WptName_1474"] = "",
+    ["DictKey_GroupName_763"] = "T-55 DEAD #013",
+    ["DictKey_WptName_1265"] = "",
+    ["DictKey_WptName_1482"] = "",
+    ["DictKey_UnitName_996"] = "Unit #024",
+    ["DictKey_WptName_1217"] = "",
+    ["DictKey_WptName_1454"] = "",
+    ["DictKey_WptName_1494"] = "",
+    ["DictKey_UnitName_608"] = "MBT T-55 #048",
+    ["DictKey_UnitName_462"] = "Exit AAA East",
+    ["DictKey_UnitName_418"] = "Unit #160",
+    ["DictKey_UnitName_804"] = "SPH 2S9 Nona DEAD #002",
+    ["DictKey_WptName_1516"] = "",
+    ["DictKey_WptName_1192"] = "",
+    ["DictKey_WptName_1178"] = "",
+    ["DictKey_UnitName_928"] = "Unit #048",
+    ["DictKey_180"] = "COLT 1 Gウォーム開始！",
+    ["DictKey_UnitName_387"] = "Unit #133",
+    ["DictKey_UnitName_488"] = "Unit #071",
+    ["DictKey_WptName_1094"] = "",
+    ["DictKey_WptName_1440"] = "",
+    ["DictKey_UnitName_367"] = "Unit #112",
+    ["DictKey_GroupName_432"] = "BMP PLATOON #008",
+    ["DictKey_UnitName_434"] = "Unit #172",
+    ["DictKey_UnitName_700"] = "BMP-3 DEAD #008",
+    ["DictKey_144"] = "COLT 1-1, UZI 1-1, \
+\
+ラジオチェック",
+    ["DictKey_UnitName_415"] = "Unit #156",
+    ["DictKey_WptName_1157"] = "",
+    ["DictKey_WptName_1122"] = "",
+    ["DictKey_199"] = "COLT 1　予定通りチェックイン",
+    ["DictKey_UnitName_905"] = "Unit #028",
+    ["DictKey_WptName_1101"] = "",
+    ["DictKey_UnitName_313"] = "Target 5-6",
+    ["DictKey_UnitName_925"] = "Unit #040",
+    ["DictKey_UnitName_334"] = "Unit #089",
+    ["DictKey_WptName_1412"] = "",
+    ["DictKey_275"] = "TIC（TROOPS IN CONTACT）\
+\
+ガンシップを要請！\
+\
+武器の制限はなし\
+\
+今すぐ助けが必要です。\
+\
+CHECKMATE 3-1 OUT!",
+    ["DictKey_UnitName_596"] = "Target 1 Ammo #001",
+    ["DictKey_WptName_1177"] = "",
+    ["DictKey_177"] = "Gウォーム開始",
+    ["DictKey_UnitName_967"] = "Unit #009",
+    ["DictKey_ActionText_1604"] = "高度を確認して下さい！",
+    ["DictKey_WptName_1382"] = "",
+    ["DictKey_UnitName_487"] = "Unit #072",
+    ["DictKey_WptName_1254"] = "TARGET 1",
+    ["DictKey_GroupName_761"] = "T-55 DEAD #012",
+    ["DictKey_WptName_1238"] = "",
+    ["DictKey_WptName_1175"] = "",
+    ["DictKey_GroupName_1066"] = "FE SCOUT PARKED",
+    ["DictKey_GroupName_677"] = "BMP-3 DEAD #001",
+    ["DictKey_UnitName_888"] = "Cpl Walter Ziv",
+    ["DictKey_WptName_1458"] = "",
+    ["DictKey_195"] = "COLT 1 FENCE IN!",
+    ["DictKey_212"] = "FENCE OUT",
+    ["DictKey_UnitName_640"] = "Target 1 Ammo #013",
+    ["DictKey_282"] = "BOAR 1, COLT 1-1.\
+\
+ターゲットの攻撃を許可します！",
+    ["DictKey_UnitName_898"] = "Cpl Erica Estrange",
+    ["DictKey_UnitName_470"] = "Target 4-3",
+    ["DictKey_GroupName_823"] = "Comms Tower #001",
+    ["DictKey_UnitName_419"] = "Unit #159",
+    ["DictKey_UnitName_540"] = "MBT T-55 #024",
+    ["DictKey_WptName_1127"] = "",
+    ["DictKey_UnitName_674"] = "BTR-80 DEAD #002",
+    ["DictKey_WptName_1277"] = "",
+    ["DictKey_WptName_1309"] = "",
+    ["DictKey_GroupName_947"] = "B Bradley Platoon #003",
+    ["DictKey_UnitName_514"] = "MBT T-55",
+    ["DictKey_WptName_1169"] = "",
+    ["DictKey_UnitName_399"] = "Unit #144",
+    ["DictKey_WptName_1378"] = "",
+    ["DictKey_WptName_1131"] = "Fence Out",
+    ["DictKey_UnitName_560"] = "MBT T-55 #036",
+    ["DictKey_UnitName_782"] = "T-55 DEAD #022",
+    ["DictKey_UnitName_868"] = "Cpl Henry Mackenzie",
+    ["DictKey_183"] = "Gウォーム 90 レフト　開始",
+    ["DictKey_UnitName_762"] = "T-55 DEAD #012",
+    ["DictKey_UnitName_483"] = "Unit #069",
+    ["DictKey_UnitName_324"] = "Unit #075",
+    ["DictKey_WptName_1347"] = "",
+    ["DictKey_WptName_1328"] = "",
+    ["DictKey_GroupName_575"] = "MBT T-55 #021",
+    ["DictKey_WptName_1365"] = "",
+    ["DictKey_GroupName_481"] = "BMP PLATOON #002",
+    ["DictKey_GroupName_735"] = "BMP-3 DEAD #023",
+    ["DictKey_UnitName_736"] = "BMP-3 DEAD #023",
+    ["DictKey_WptName_1523"] = "",
+    ["DictKey_WptName_1246"] = "",
+    ["DictKey_GroupName_879"] = "New Vehicle Group #010",
+    ["DictKey_WptName_1363"] = "",
+    ["DictKey_GroupName_943"] = "A Bradley Platoon",
+    ["DictKey_WptName_1409"] = "",
+    ["DictKey_GroupName_1054"] = "Convoy 1 LAV #002",
+    ["DictKey_216"] = "COLT 1-1, UZI 1-1.\
+\
+帰還を許可します。\
+\
+着陸後に評価を伝えます。",
+    ["DictKey_208"] = "CHECK OUT",
+    ["DictKey_GroupName_581"] = "Small House 4",
+    ["DictKey_WptName_1420"] = "",
+    ["DictKey_WptName_1377"] = "",
+    ["DictKey_GroupName_465"] = "EXIT AAA West",
+    ["DictKey_WptName_1387"] = "",
+    ["DictKey_WptName_1262"] = "",
+    ["DictKey_UnitName_929"] = "Unit #047",
+    ["DictKey_WptName_1426"] = "",
+    ["DictKey_GroupName_817"] = "Mi-8 SPRINGFIELD 4-1",
+    ["DictKey_GroupName_579"] = "Small House 2",
+    ["DictKey_270"] = "1, READY TO COPY",
+    ["DictKey_UnitName_322"] = "Unit #077",
+    ["DictKey_UnitName_379"] = "Unit #124",
+    ["DictKey_UnitName_586"] = "Small House",
+    ["DictKey_217"] = "おかえりなさい！\
+\
+機体をシャットダウンしたら評価を伝えます。",
+    ["DictKey_UnitName_883"] = "Cpl Marnie Frances",
+    ["DictKey_WptName_1473"] = "",
+    ["DictKey_WptName_1263"] = "",
+    ["DictKey_UnitName_450"] = "Unit #184",
+    ["DictKey_WptName_1371"] = "",
+    ["DictKey_UnitName_800"] = "SPH 2S9 Nona DEAD",
+    ["DictKey_UnitName_766"] = "T-55 DEAD #014",
+    ["DictKey_234"] = "1, COPY!",
+    ["DictKey_204"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをCHEVYに留めて、あなたはターゲットの捜索を開始して下さい。\
+\
+IRポインターを使ってターゲットをマーキングして、ウイングマンに攻撃を命じて下さい。\
+\
+あなた自身で攻撃を行っても構いません。\
+\
+プレイタイムは45分間です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_946"] = "Sgt Tom Straight",
+    ["DictKey_UnitName_983"] = "Unit #018",
+    ["DictKey_WptName_1555"] = "",
+    ["DictKey_WptName_1311"] = "",
+    ["DictKey_228"] = "KNOCK IT OFF!  KNOCK IT OFF!\
+\
+許可なくターゲットレンジから退出しました。\
+\
+このPOを中止します！",
+    ["DictKey_WptName_1248"] = "",
+    ["DictKey_WptName_1280"] = "",
+    ["DictKey_WptName_1097"] = "",
+    ["DictKey_GroupName_555"] = "MBT T-55 #034",
+    ["DictKey_UnitName_698"] = "BMP-3 DEAD #007",
+    ["DictKey_GroupName_341"] = "T-55 PLATOON #007",
+    ["DictKey_UnitName_992"] = "Lt Richard Dike #003",
+    ["DictKey_WptName_1376"] = "",
+    ["DictKey_WptName_1170"] = "",
+    ["DictKey_UnitName_504"] = "Unit #164",
+    ["DictKey_ActionText_1611"] = "1, レーザー照射！",
+    ["DictKey_GroupName_687"] = "BTR-80 DEAD #005",
+    ["DictKey_230"] = "GUNS, GUNS, GUNS!",
+    ["DictKey_193"] = "FENCE IN",
+    ["DictKey_GroupName_783"] = "T-55 DEAD #023",
+    ["DictKey_256"] = "1, READY TO COPY REMARKS!",
+    ["DictKey_UnitName_332"] = "Unit #080",
+    ["DictKey_GroupName_603"] = "MBT T-55 #050",
+    ["DictKey_WptName_1397"] = "",
+    ["DictKey_GroupName_769"] = "T-55 DEAD #016",
+    ["DictKey_UnitName_1006"] = "Unit #202",
+    ["DictKey_281"] = "BOAR 1 COLT 1-1 攻撃を許可",
+    ["DictKey_GroupName_420"] = "Target 2",
+    ["DictKey_WptName_1424"] = "",
+    ["DictKey_WptName_1471"] = "",
+    ["DictKey_WptName_1388"] = "",
+    ["DictKey_GroupName_1005"] = "A LAV Platoon #002",
+    ["DictKey_UnitName_914"] = "M1 P2 ",
+    ["DictKey_283"] = "SPRINGFIELD 2 COLT 1-1 攻撃を許可",
+    ["DictKey_WptName_1395"] = "",
+    ["DictKey_UnitName_1009"] = "Unit #199",
+    ["DictKey_WptName_1480"] = "",
+    ["DictKey_148"] = "あなたは、CASの運用を管理する航空前線航空管制官（AFAC)として行動します。",
+    ["DictKey_WptName_1345"] = "",
+    ["DictKey_GroupName_312"] = "Target 5",
+    ["DictKey_UnitName_376"] = "Unit #120",
+    ["DictKey_WptName_1129"] = "Fence In",
+    ["DictKey_UnitName_522"] = "MBT T-55 #006",
+    ["DictKey_GroupName_1020"] = "FARP Tent #004",
+    ["DictKey_UnitName_882"] = "Unit #007",
+    ["DictKey_UnitName_728"] = "BMP-3 DEAD #019",
+    ["DictKey_GroupName_747"] = "T-55 DEAD #005",
+    ["DictKey_WptName_1459"] = "",
+    ["DictKey_GroupName_1016"] = "FARP Tent #003",
+    ["DictKey_GroupName_621"] = "Target 1 Ammo #004",
+    ["DictKey_UnitName_388"] = "Unit #132",
+    ["DictKey_UnitName_722"] = "BMP-3 DEAD #016",
+    ["DictKey_GroupName_951"] = "B Bradley Platoon #004",
+    ["DictKey_WptName_1335"] = "",
+    ["DictKey_WptName_1324"] = "",
+    ["DictKey_285"] = "SPRINGFIELD 2, COLT 1-1,\
+\
+ターゲットの攻撃を許可します！",
+    ["DictKey_181"] = "2, COPY!",
+    ["DictKey_GroupName_627"] = "Target 1 Ammo #007",
+    ["DictKey_ActionText_1576"] = "",
+    ["DictKey_UnitName_588"] = "MBT T-55 #044",
+    ["DictKey_UnitName_490"] = "Unit #136",
+    ["DictKey_GroupName_811"] = "L-39ZA",
+    ["DictKey_WptName_1310"] = "",
+    ["DictKey_GroupName_1044"] = "Comms Tower #004",
+    ["DictKey_GroupName_969"] = "C Bradley Platoon #006",
+    ["DictKey_WptName_1439"] = "",
+    ["DictKey_UnitName_347"] = "Unit #097",
+    ["DictKey_GroupName_825"] = "Comms Tower #002",
+    ["DictKey_UnitName_784"] = "T-55 DEAD #023",
+    ["DictKey_UnitName_366"] = "Unit #113",
+    ["DictKey_UnitName_1025"] = "FARP Tent #006",
+    ["DictKey_UnitName_851"] = "Unit #001",
+    ["DictKey_GroupName_645"] = "Target 1 Ammo #016",
+    ["DictKey_UnitName_528"] = "MBT T-55 #013",
+    ["DictKey_226"] = "飛行後BDA報告で、すべてのTICターゲットを破壊できませんでした。",
+    ["DictKey_WptName_1104"] = "",
+    ["DictKey_GroupName_440"] = "Target 1",
+    ["DictKey_UnitName_554"] = "MBT T-55 #033",
+    ["DictKey_250"] = "EYEBALL 4-1 COLT 1-1 READY TO COPY",
+    ["DictKey_WptName_1224"] = "",
+    ["DictKey_WptName_1539"] = "",
+    ["DictKey_UnitName_974"] = "Unit #015",
+    ["DictKey_149"] = "友軍は北への進軍を継続中です。あなたは0215Zまでに、オンステーションで、ターゲットを攻撃できる体制を整えて下さい。",
+    ["DictKey_WptName_1296"] = "",
+    ["DictKey_WptName_1106"] = "",
+    ["DictKey_WptName_1407"] = "",
+    ["DictKey_WptName_1126"] = "CHEVY",
+    ["DictKey_UnitName_845"] = "ENFIELD 2-1",
+    ["DictKey_WptName_1511"] = "",
+    ["DictKey_GroupName_385"] = "ARTY PLATOON #002",
+    ["DictKey_GroupName_695"] = "BMP-3 DEAD #006",
+    ["DictKey_WptName_1375"] = "",
+    ["DictKey_WptName_1509"] = "",
+    ["DictKey_UnitName_475"] = "Target 3-2",
+    ["DictKey_UnitName_526"] = "MBT T-55 #008",
+    ["DictKey_UnitName_772"] = "T-55 DEAD #017",
+    ["DictKey_WptName_1526"] = "",
+    ["DictKey_GroupName_643"] = "Target 1 Ammo #015",
+    ["DictKey_223"] = "このPOに再トライする前に、フライトマニュアルを学習し、もっと練習することをお勧めします。",
+    ["DictKey_WptName_1483"] = "",
+    ["DictKey_WptName_1525"] = "",
+    ["DictKey_GroupName_859"] = "FARP Infantry 2 #001",
+    ["DictKey_WptName_1554"] = "",
+    ["DictKey_UnitName_391"] = "Unit #129",
+    ["DictKey_310"] = "COLT 1-1, CHECKMATE 3-1 ACTUAL!\
+\
+支援ありがとうございます！\
+\
+これ以上の任務は有りません！\
+\
+次に行ってもらって結構です！\
+\
+CHECKMATE 3-1 OUT!",
+    ["DictKey_WptName_1468"] = "",
+    ["DictKey_GroupName_577"] = "MBT T-55 #023",
+    ["DictKey_WptName_1502"] = "",
+    ["DictKey_WptName_1297"] = "",
+    ["DictKey_UnitName_824"] = "Comms Tower #001",
+    ["DictKey_UnitName_830"] = "Wingman 3",
+    ["DictKey_WptName_1166"] = "",
+    ["DictKey_WptName_1247"] = "",
+    ["DictKey_GroupName_583"] = "Small House 3",
+    ["DictKey_WptName_1234"] = "",
+    ["DictKey_UnitName_966"] = "Unit #010",
+    ["DictKey_UnitName_442"] = "Target 1-2",
+    ["DictKey_GroupName_725"] = "BMP-3 DEAD #018",
+    ["DictKey_WptName_1322"] = "",
+    ["DictKey_264"] = "UZI 1-1 COLT 1-1 READY TO COPY REMARKS",
+    ["DictKey_WptName_1205"] = "",
+    ["DictKey_GroupName_721"] = "BMP-3 DEAD #016",
+    ["DictKey_WptName_1372"] = "",
+    ["DictKey_WptName_1245"] = "",
+    ["DictKey_WptName_1159"] = "",
+    ["DictKey_WptName_1496"] = "",
+    ["DictKey_173"] = "もし計画にないターゲットが存在した場合、航空機は通常、指定された周回エリアに進み、地上部隊や航空AFCとコンタクトし、オンステーションでタスク待ちであることを報告します。",
+    ["DictKey_227"] = "良い知らせです！\
+\
+多くの敵ユニットを破壊したと、飛行後BDA報告がありました。\
+\
+グッジョブ！",
+    ["DictKey_UnitName_839"] = "BOAR 1-2",
+    ["DictKey_UnitName_317"] = "Target 5-2",
+    ["DictKey_169"] = "IRポインターも、ターゲットと味方の位置を識別するのに効果的です。",
+    ["DictKey_WptName_1532"] = "",
+    ["DictKey_WptName_1545"] = "",
+    ["DictKey_GroupName_821"] = "Perth FARP",
+    ["DictKey_170"] = "NVGとIRポインターは近接したIRスペクトラムで動作し、コードレーザーターゲット照準は中域IRスペクトラムで動作するため、夜間CAS時に組み合わせて使用できます。",
+    ["DictKey_GroupName_531"] = "MBT T-55 #016",
+    ["DictKey_UnitName_746"] = "T-55 DEAD #004",
+    ["DictKey_WptName_1360"] = "",
+    ["DictKey_UnitName_350"] = "Unit #101",
+    ["DictKey_184"] = "Gウォーム 90 ライト　開始",
+    ["DictKey_WptName_1152"] = "",
+    ["DictKey_WptName_1384"] = "",
+    ["DictKey_UnitName_479"] = "Unit #064",
+    ["DictKey_GroupName_838"] = "A-10C BOAR 1",
+    ["DictKey_WptName_1185"] = "",
+    ["DictKey_GroupName_1024"] = "FARP Tent #006",
+    ["DictKey_GroupName_633"] = "Target 1 Ammo #010",
+    ["DictKey_WptName_1298"] = "",
+    ["DictKey_GroupName_935"] = "A Bradley Platoon #009",
+    ["DictKey_GroupName_509"] = "T-55 PLATOON #004",
+    ["DictKey_WptName_1294"] = "",
+    ["DictKey_WptName_1198"] = "",
+    ["DictKey_UnitName_831"] = "Wingman 2",
+    ["DictKey_WptName_1538"] = "",
+    ["DictKey_WptName_1537"] = "",
+    ["DictKey_305"] = "COLT 1-1, ENFIELD 2-1, COPY!",
+    ["DictKey_UnitName_902"] = "Cpt Trevor Mace",
+    ["DictKey_WptName_1117"] = "",
+    ["DictKey_UnitName_956"] = "Sgt Lawrence Platt #001",
+    ["DictKey_UnitName_364"] = "Unit #108",
+    ["DictKey_UnitName_857"] = "Unit #002",
+    ["DictKey_WptName_1530"] = "",
+    ["DictKey_GroupName_1022"] = "FARP Tent #005",
+    ["DictKey_266"] = "TIC（TROOPS IN CONTACT）\
+\
+ガンシップのタクスを要請します。\
+\
+武器制限はなし\
+\
+UZI 1-1 OUT!",
+    ["DictKey_WptName_1498"] = "",
+    ["DictKey_GroupName_1028"] = "New Static Object #001",
+    ["DictKey_GroupName_848"] = "FARP Supply Truck",
+    ["DictKey_WptName_1338"] = "",
+    ["DictKey_WptName_1489"] = "",
+    ["DictKey_UnitName_734"] = "BMP-3 DEAD #022",
+    ["DictKey_UnitName_878"] = "Sgt Karl Mozer",
+    ["DictKey_UnitName_710"] = "BMP-3 DEAD #010",
+    ["DictKey_GroupName_1072"] = "TORNADO PONTIAC 1",
+    ["DictKey_UnitName_397"] = "Unit #146",
+    ["DictKey_221"] = "",
+    ["DictKey_WptName_1445"] = "",
+    ["DictKey_WptName_1289"] = "",
+    ["DictKey_UnitName_1077"] = "Pilot #003",
+    ["DictKey_WptName_1446"] = "",
+    ["DictKey_UnitName_433"] = "Unit #173",
+    ["DictKey_UnitName_818"] = "Lt Alex Stranko",
+    ["DictKey_GroupName_593"] = "MBT T-55 #047",
+    ["DictKey_WptName_1243"] = "",
+    ["DictKey_GroupName_799"] = "SPH 2S9 Nona DEAD",
+    ["DictKey_WptName_1560"] = "",
+    ["DictKey_WptName_1118"] = "",
+    ["DictKey_UnitName_378"] = "Unit #125",
+    ["DictKey_237"] = "1, レーザー照射！",
+    ["DictKey_UnitName_342"] = "Unit #095",
+    ["DictKey_UnitName_660"] = "BMP-3 #1 DEAD",
+    ["DictKey_GroupName_513"] = "MBT T-55",
+    ["DictKey_WptName_1084"] = "",
+    ["DictKey_GroupName_373"] = "T-55 PLATOON #008",
+    ["DictKey_WptName_1475"] = "",
+    ["DictKey_UnitName_536"] = "MBT T-55 #020",
+    ["DictKey_UnitName_971"] = "Unit #012",
+    ["DictKey_WptName_1541"] = "",
+    ["DictKey_WptName_1381"] = "",
+    ["DictKey_GroupName_611"] = "New Static Object #007",
+    ["DictKey_301"] = "ENFIELD 2-1 COLT 1-1 ターゲット情報を送って下さい。",
+    ["DictKey_WptName_1385"] = "",
+    ["DictKey_WptName_1221"] = "",
+    ["DictKey_UnitName_1073"] = "PONTIAC 1-2",
+    ["DictKey_UnitName_1065"] = "New Static Object #012",
+    ["DictKey_247"] = "1, READY TO COPY REMARKS!",
+    ["DictKey_WptName_1346"] = "",
+    ["DictKey_WptName_1088"] = "",
+    ["DictKey_307"] = "COLT 1-1, ENFIELD 2-1, ターゲットを確認しました！",
+    ["DictKey_263"] = "高度 2451\
+\
+ターゲット　戦車　 MM 683 055\
+\
+繰り返す TANKS  MM 683 055!\
+\
+NO MARK!\
+\
+友軍は南\
+\
+西にイーグレス\
+\
+リマークの用意ができたら連絡せよ\
+（ADVISE WHEN READY FOR REMARKS!）",
+    ["DictKey_WptName_1410"] = "",
+    ["DictKey_166"] = "GPSの出現により、CAS航空機と航空AFCの双方ともに夜間CAS攻撃の精度が向上しました。\
+\
+航空AFCからの正確なGPS座標により、他の航空機はセンサーを目的のターゲットエリアに向けることができます。\
+\
+これにより、ターゲットの迅速な補足と識別が用意になりました。",
+    ["DictKey_UnitName_453"] = "Unit #008",
+    ["DictKey_UnitName_988"] = "Lt Richard Dike #002",
+    ["DictKey_249"] = "BREAK, BREAK!\
+\
+COLT 1-1, EYEBALL 4-1!\
+\
+空爆を要請します。\
+ターゲットの指示を出してよければ連絡して下さい。\
+（ADVISE WHEN READY FOR TARGET BRIEF）",
+    ["DictKey_GroupName_805"] = "SPH 2S9 Nona DEAD #003",
+    ["DictKey_GroupName_525"] = "MBT T-55 #008",
+    ["DictKey_WptName_1453"] = "",
+    ["DictKey_GroupName_565"] = "MBT T-55 #039",
+    ["DictKey_287"] = "ENFIELD 2-1 COLT 1-1 ファイヤーミッション",
+    ["DictKey_GroupName_869"] = "New Vehicle Group #004",
+    ["DictKey_UnitName_843"] = "Pilot #005",
+    ["DictKey_GroupName_915"] = "B M1 Platoon #003",
+    ["DictKey_WptName_1302"] = "",
+    ["DictKey_UnitName_960"] = "JAGUAR 1-1",
+    ["DictKey_WptName_1141"] = "",
+    ["DictKey_WptName_1184"] = "",
+    ["DictKey_WptName_1154"] = "",
+    ["DictKey_WptName_1529"] = "",
+    ["DictKey_UnitName_654"] = "New Static Object #015",
+    ["DictKey_WptName_1194"] = "",
+    ["DictKey_311"] = "KNOCK IT OFF!  KNOCK IT OFF!\
+\
+ガンシップの高度ブロックに進入しました！\
+\
+このPOを中止します！",
+    ["DictKey_GroupName_961"] = "A LAV Platoon",
+    ["DictKey_302"] = "COLT 1-1, ENFIELD 2-1, COPY.",
+    ["DictKey_UnitName_794"] = "T-55 DEAD #028",
+    ["DictKey_150"] = "必要に応じてウイングマンとチェックインしている他のCAS部隊を使用して下さい。\
+\
+北への進軍を支援するために破壊すべきターゲットはたくさんあります。",
+    ["DictKey_GroupName_907"] = "B M1 Platoon #001",
+    ["DictKey_WptName_1399"] = "",
+    ["DictKey_GroupName_412"] = "BTR PLATOON #002",
+    ["DictKey_GroupName_785"] = "T-55 DEAD #024",
+    ["DictKey_WptName_1355"] = "",
+    ["DictKey_GroupName_631"] = "Target 1 Ammo #009",
+    ["DictKey_WptName_1137"] = "",
+    ["DictKey_WptName_1240"] = "",
+    ["DictKey_WptName_1140"] = "",
+    ["DictKey_WptName_1300"] = "",
+    ["DictKey_WptName_1427"] = "",
+    ["DictKey_UnitName_421"] = "Target 2-3",
+    ["DictKey_WptName_1149"] = "",
+    ["DictKey_WptName_1476"] = "",
+    ["DictKey_UnitName_855"] = "Pvt John Dickson",
+    ["DictKey_WptName_1279"] = "",
+    ["DictKey_GroupName_871"] = "New Vehicle Group #005",
+    ["DictKey_WptName_1447"] = "",
+    ["DictKey_WptName_1151"] = "",
+    ["DictKey_WptName_1414"] = "",
+    ["DictKey_UnitName_964"] = "LAV 1",
+    ["DictKey_UnitName_417"] = "Unit #161",
+    ["DictKey_WptName_1133"] = "",
+    ["DictKey_WptName_1171"] = "",
+    ["DictKey_UnitName_503"] = "Unit #177",
+    ["DictKey_ActionText_1609"] = "よく聞こえています。",
+    ["DictKey_UnitName_576"] = "MBT T-55 #021",
+    ["DictKey_GroupName_939"] = "A Bradley Platoon #010",
+    ["DictKey_UnitName_972"] = "BP 6",
+    ["DictKey_UnitName_626"] = "Target 1 Ammo #006",
+    ["DictKey_219"] = "やりました！　POに合格です。\
+\
+あなたの評価は可（Qualified Minus：Q-)です。\
+\
+スキルを向上させるためにさらに練習をしてください。それがあなたの命を救うことにもなります。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_UnitName_636"] = "Target 1 Ammo #011",
+    ["DictKey_271"] = "CHECKMATE 3-1 COLT 1-1 READY TO COPY REMARKS",
+    ["DictKey_UnitName_336"] = "Unit #087",
+    ["DictKey_UnitName_1045"] = "Comms Tower #004",
+    ["DictKey_WptName_1353"] = "",
+    ["DictKey_GroupName_416"] = "BTR PLATOON #003",
+    ["DictKey_WptName_1456"] = "",
+    ["DictKey_UnitName_1051"] = "MBT T-55 #043",
+    ["DictKey_UnitName_828"] = "New Static Object #003",
+    ["DictKey_179"] = "Gウォーム 90 レフト　開始",
+    ["DictKey_WptName_1264"] = "",
+    ["DictKey_UnitName_464"] = "Exit SAM",
+    ["DictKey_261"] = "1, READY TO COPY",
+    ["DictKey_WptName_1405"] = "",
+    ["DictKey_WptName_1197"] = "",
+    ["DictKey_GroupName_589"] = "MBT T-55 #045",
+    ["DictKey_UnitName_826"] = "Comms Tower #002",
+    ["DictKey_UnitName_402"] = "Unit #148",
+    ["DictKey_UnitName_590"] = "MBT T-55 #045",
+    ["DictKey_265"] = "1, READY TO COPY REMARKS!",
+    ["DictKey_UnitName_534"] = "MBT T-55 #019",
+    ["DictKey_WptName_1503"] = "",
+    ["DictKey_197"] = "3, COPY!",
+    ["DictKey_UnitName_1069"] = "FE SCOUT PARKED #001",
+    ["DictKey_GroupName_997"] = "C Arty Platoon #001",
+    ["DictKey_UnitName_696"] = "BMP-3 DEAD #006",
+    ["DictKey_UnitName_1043"] = "Comms Tower #003",
+    ["DictKey_UnitName_959"] = "Jaguar 1-2",
+    ["DictKey_WptName_1419"] = "",
+    ["DictKey_GroupName_545"] = "MBT T-55 #029",
+    ["DictKey_UnitName_1071"] = "FE SCOUT PARKED #002",
+    ["DictKey_GroupName_919"] = "Arty Platoon",
+    ["DictKey_WptName_1486"] = "",
+    ["DictKey_WptName_1130"] = "CHARLIE",
+    ["DictKey_308"] = "ENFIELD 2-1, 地上ターゲットを攻撃！",
+    ["DictKey_GroupName_866"] = "New Vehicle Group #003",
+    ["DictKey_GroupName_1060"] = "New Static Object #011",
+    ["DictKey_UnitName_758"] = "T-55 DEAD #010",
+    ["DictKey_UnitName_499"] = "Unit #162",
+    ["DictKey_155"] = "COLT 1-1, UZI 1-1, \
+\
+ラジオチェック",
+    ["DictKey_UnitName_584"] = "Small House 3",
+    ["DictKey_253"] = "1, READY TO COPY",
+    ["DictKey_UnitName_492"] = "Unit #086",
+    ["DictKey_UnitName_1003"] = "Unit #033",
+    ["DictKey_WptName_1114"] = "",
+    ["DictKey_UnitName_1076"] = "Pilot #004",
+    ["DictKey_UnitName_910"] = "Cpt Robert Unger",
+    ["DictKey_GroupName_667"] = "T-55 DEAD #002",
+    ["DictKey_GroupName_637"] = "Target 1 Ammo #012",
+    ["DictKey_159"] = "COLT 1-1, UZI 1-1.\
+\
+夜間CASマネジメントの手順について説明しましょう。",
+    ["DictKey_GroupName_561"] = "MBT T-55 #037",
+    ["DictKey_WptName_1274"] = "",
+    ["DictKey_UnitName_546"] = "MBT T-55 #029",
+    ["DictKey_WptName_1105"] = "",
+    ["DictKey_UnitName_816"] = "SPRINGFIELD 2-1",
+    ["DictKey_UnitName_393"] = "Unit #143",
+    ["DictKey_WptName_1111"] = "",
+    ["DictKey_187"] = "3, COPY!",
+    ["DictKey_descriptionRedTask_1079"] = "",
+    ["DictKey_UnitName_443"] = "Target 1-1",
+    ["DictKey_UnitName_730"] = "BMP-3 DEAD #020",
+    ["DictKey_GroupName_759"] = "T-55 DEAD #011",
+    ["DictKey_WptName_1107"] = "",
+    ["DictKey_GroupName_701"] = "BMP-3 DEAD #009",
+    ["DictKey_WptName_1222"] = "",
+    ["DictKey_UnitName_990"] = "Unit #023",
+    ["DictKey_descriptionText_1078"] = "私はライアン・ベーカー大佐です。コールサインは「セイバー（Sabre）」です。能力目標（PO)を判定するフライト試験官（FE)です。\
+\
+これはTAC20 - CASミッション管理（夜間）です。A/OA-10C戦術訓練検定コースの10番めのミッションです。\
+\
+あなたの評価は、A/OA-10搭乗員評価基準：AFI11-2A-OA-10V2:に基づき行われます。\
+\
+3.4 戦術運用\
+3.4.3. Air-to-Surface:\
+3.4.3.1. エリア 81--ターゲットの補足（Acquisition）：\
+3.4.3.1.1. 優（Qualified：Q):  最初の攻撃、または再攻撃ででターゲットを補足しました。\
+3.4.3.1.2. 可（Qualified Minus：Q-): ターゲットの補足が遅れ、最初、再攻撃の精度が下がりました。\
+3.4.3.1.3. 不可（Unqualified：U): ターゲットを補足できませんでした。\
+\
+3.4.7. 前線航空管制（Forward Air Control）：\
+3.4.7.1. エリア 121--ターゲットエリアの識別：\
+3.4.7.1.1. 優（Qualified：Q): ターゲットを補足し、ターゲットと友軍の位置を確実に識別しました。\
+3.4.7.1.2. 可（Qualified Minus：Q-): ターゲットの補足がやや遅れました。ただし、位置の確認は確実でした。ミッションの成否に影響は与えませんでした。\
+3.4.7.1.3. 不可（Unqualified：U): 位置の特定ができなかったか、ターゲットの位置を確実に確認できませんでした。\
+\
+3.4.7.4. エリア 124--ターゲットマーキング/告知、説明：\
+3.4.7.4.1. 優（Qualified：Q): 正確かつタイムリーでマーキングができました。戦闘機は特別なターゲットの位置を理解できました。\
+3.4.7.4.2. 可（Qualified Minus：Q-): 戦闘機が目標を特定できるだけのマーキングでしたが、ターゲットを識別するには、リマークや追加の告知が必要でした。\
+3.4.7.4.3. 不可（Unqualified：U): 戦闘機はリマークしてもターゲットを発見できませんでした。\
+\
+3.4.7.5. エリア 125--監視位置 (シナリオで必要な場合):\
+3.4.7.5.1. 優（Qualified：Q): 攻撃フェーズの間ずっと、ターゲットと攻撃機をはっきりと観測出来る動きをしていました。機体の制御ができていました。\
+3.4.7.5.2. 可（Qualified Minus：Q-): 監視位置は、ターゲットと攻撃機を監視するのに十分な位置でした。時々、機体の制御ができていませんでした。 \
+3.4.7.5.3. 不可（Unqualified：U): ターゲットと攻撃機を十分監視出来る位置にいませんでした。航空機を制御できていませんでした。\
+\
+3.4.7.6. エリア 126--攻撃統制（Attack Control）:\
+3.4.7.6.1. 優（Qualified：Q): ミッションを通して積極的に戦闘機を統制できていました。はっきり地、適時、的確に武器選択指示と攻撃許可を各航空機に出せていました。\
+3.4.7.6.2. 可（Qualified Minus：Q-): 戦闘機の統制と兵器選択は適切で安全でした。各航空機への攻撃許可を出せていました。ただし、統制とクリアランスはもっと積極的、迅速に行えたでしょう。\
+3.4.7.6.3. 不可（Unqualified：U): 統制と指示は適時、的確ではなく、ミッションの質と効果を低下させました。\
+\
+3.4.7.7. エリア 127--攻撃後（Post Attack）\
+3.4.7.7.1. 優（Qualified：Q): 完全で正確な評価（判定、判断）を行えました。戦闘機と該当機関に、統制指示（governing directives：交信ルール？）に従がった簡潔な報告を行いました。\
+3.4.7.7.2. 可（Qualified Minus：Q-):評価が兵器の精度や効果と一致していませんでした。報告において若干のミスや欠落がありました。\
+3.4.7.7.3. 不可（Unqualified：U): 攻撃の現実的な評価が行えませんでした。結果が著しく過大/過小評価されていました。報告に重大な誤りがありました。\
+\
+このPOでは、移動中の地上兵に対するCAS支援を行ってもらいます。ターゲットを破壊するために、A-10CのセカンドエレメントとAC-130ガンシップを与えます。\
+\
+ガンシップはグリッドMM50とMM60でターゲットを攻撃します。ガンシップの高度ブロックに注意を払ってください。さもないとPOに失敗します。\
+\
+私達は、定義されたMOA（軍事作戦エリア）内で活動します。バジアニ訓練エリアと射撃場（VTA)を使用します。\
+\
+着陸のためのパターン高度は2500ftです。\
+\
+ハードデッキ制限は5000ftAGLです。VTAレンジ内ではハードデッキ制限は100ftAGLに下げられます。\
+\
+攻撃禁止ゾーンは解除されます。このゾーンでの兵器の使用を許可します。\
+\
+私はOH-58スカウトで飛行し、通信と攻撃の記録を取ります。\
+\
+これは夜間ミッションなのでNVGを使うと便利でしょう。\
+\
+グッドラック！\
+\
+TAC20 - ミッションブリーフィング\
+\
+政治的/軍事的状況：\
+FLOTはフェーズラインANVILに無事到達できました。更に北へ押上中です。\
+うまく行けば、0300ZまでにFLOTはフェーズラインHAMMERに移動します。\
+FSCLは北に移動し、リッジライン北のTBILISI-KOJORI-TSALKA-NINOTSMINDA HIGHWAY線まで移動しました。\
+友軍特殊部隊チームはFSCLの北に展開し、高価値ターゲットの情報を提供しています。\
+\
+ミッション目標：\
+フェーズラインHAMMERに進軍中の地上部隊を支援してください。\
+FLOTの北からFSCLの南にいるターゲットを破壊してください。\
+BOAR と SPRINGFIELD フライトはCAS支援を行います。\
+PONTIAC フライトにGRID MM 707 053の砲兵ターゲットへの攻撃を許可してください。\
+\
+ミッション驚異レベル：HIGH\
+\
+ワーキングエリア：\
+オペレーションエリア： \
+バジアニ訓練エリア（VTA)　東ジョージア、コーカサス\
+ブルーエアーオペレーション基地： バジアニ空軍基地\
+レッドエアーオペレーション基地：ソガンラグ（SOGANLUG ）空軍基地\
+\
+友軍：\
+米海兵隊、特別目的海兵空地任務部隊（THE SPECIAL PURPOSE MARINE AIR-GROUND TASK FORCE）、黒海ローテーショナル１１ (SPMAGTF BSRF-11)\
+米陸軍、第101航空偵察部隊、第17騎兵隊、第２飛行隊OH-58\
+米陸軍、第101戦闘航空旅団、第５大隊H-60\
+米空軍、第23戦闘機グループ、第74飛行隊A-10C\
+米空軍、第20ファイターウイング、412飛行隊F-16C\
+米空軍、第4オペレーショングループ、第335戦闘飛行隊F-15E\
+米空軍、第2オペレーショングループ、第11爆撃飛行隊B-52\
+米空軍、第916オペレーショングループ、第77空中給油飛行中隊KC-135\
+ジョージア軍、第１GG飛行中隊、SU-25\
+ジョージア軍、第４GG飛行中隊、L-29\
+ジョージア軍、第３AVN飛行中隊、Mi-24\
+ジョージア軍、第４AVN飛行中隊、MI-8\
+英軍、第617飛行中隊、トルネード\
+独軍、第31戦闘爆撃航空団 「BOELCKE」、トルネード\
+RNLAF (オランダ王立空軍)、第313飛行中隊 F-16 \
+アブハジア空軍、L-39\
+\
+友軍位置：GRIDS ML59, ML69, ML79, ML89, ML99, MM80, MM90\
+ブルズアイ： 38 T ML 83726 92673 or 44°48'18\"\"E 41°29'7\"\"N\
+\
+注：オランダ F-16S 決められた作戦期間中CAPを行います。\
+注：タンカーは全ての作戦期間中利用が可能です。\
+敵軍：\
+レッド軍地上と航空防衛部隊は、第2ジョージア軍機械化旅団が行います。\
+レッド軍航空部隊は第１GGと第３AVN飛行中隊が行います。\
+\
+敵軍位置： GRIDS MM50, MM51, MM60, MM61, MM70, MM71, MM80, MM81\
+\
+注：ジョージア軍MIG-29は決められた期間中CAPを行います。\
+注：ジョージア軍MI-24は決められた期間中オンステーションです。\
+\
+無線情報：\
+制限： EMCON LEVEL: 2\
+TAD(TACTICAL AIR DESIGNATORS:戦術的航空無線番号）：\
+08: 243.0 MHZ AM\
+12: 124.0 MHZ AM\
+15: 251.0 MHZ AM\
+60: 30.0 MHZ FM\
+61: 31.0 MHZ FM\
+62: 32.0 MHZ FM\
+\
+戦術訓練周波数： TAD 12\
+ガード： TAD 08 - 常時監視すること\
+\
+航空交信： \
+\
+あなたの飛行隊： (3xA10C)\
+ COLT 1-1: 訓練生 TAD 15\
+ COLT 1-2: ウイングマン TAD 15\
+ COLT 1-3: 第２エレメント TAD 15\
+AFACS: (2xOH58)\
+ UZI 1-1: FE TAD 12\
+ ENFIELD 1-1: TAD 12\
+\
+CAS: (4xA10C,2xSU25)\
+ A10C:BOAR 1-1,1-2: TAD 15\
+ A10C:PIG 1-1,1-2: TAD 15\
+ SU25:SPRINGFIELD 2-1,2-2: TAD 15\
+\
+CAPS: (2xF16C)\
+ DODGE 1-1,1-2: TAD 15\
+\
+TANKER ESCORTS: (2xF16C)\
+ DODGE 4-1,4-2: TAD 15\
+TANKERS: (1xKC135)\
+ SHELL 1-1: TAD 15 AM TACAN: 5X - TANKER\
+\
+MEDEVAC / TROOP TRANSPORT: (3xUH60)\
+ CHEVY 1-1,1-2,1-3: TAD 12\
+\
+爆撃機: (2xF15E,3xB52H,4xTORNADO,2xL39)\
+ F15E: FORD 1-1,1-2: TAD 15\
+ B52H: FORD 2-1,3-1,4-1: TAD 15\
+ トルネード: PONTIAC 3-1,3-2: TAD 15\
+ トルネード: PONTIAC 4-1,4-2: TAD 15\
+ L39: SPRINGFIELD 1-1,1-2: TAD 15\
+\
+地上交信：\
+JTACS: \
+ AXEMAN 1-1 TAD 60\
+ HAMMER 1-1 TAD 61\
+ PLAYBOY 1-1 TAD 60\
+ PINPOINT 1-1 TAD 60\
+ BADGER 1-1 TAD 61\
+ JAGUAR 1-1 TAD 62\
+ MOONBEAM 2-1 TAD 60\
+ DARKNIGHT 1-1 TAD 60\
+ FIREFLY 6-1 TAD 61\
+           \
+フライトプラン：\
+離陸/着陸：バジアニ（VAZIANI） 38 T NM 022087　タワー: 140.0Mhz AM\
+代替 1: SOGANLUG 38 T MM 948107 TOWER: 138.0Mhz AM\
+代替 2: TIBILISI-LOCHINI 38 T MM 962131 TOWER: 139.0Mhz AM\
+パターン高度： 2500 FT AGL\
+\
+イングレス（INGRESS）ルート： TC IRIS\
+ WP X1: 38 T NL 134934\
+ WP X2: 38 T ML 731740\
+\
+イーグレス(EGRESS)ルート： TC OSCAR\
+ WP Z1: 38 T ML 953920\
+ WP Z2: 38 T ML 985891\
+ \
+Gウォームルート： TC GOPHER\
+ WP Y1: 38 T ML 731740\
+ WP Y2: 38 T ML 630851\
+ \
+AAR BIGFOOT TRACK: TC VICTOR\
+ WP W1: 38 T ML 730883\
+ WP W2: 38 T ML 537865\
+ \
+レンジ情報：\
+レンジコントローラー： 124.0 Mhz AM\
+レンジエントリー： ALPHA - 38 T ML 730883\
+レンジイグジット：  CHARLIE - 38 T ML 953920\
+必要に応じて両方からの入退出が可能です。\
+\
+ハードデッキ： \
+MOA: 5000 FT AGL\
+VTA レンジ： 100 FT AGL\
+\
+オペレーション制限ゾーン：\
+1: TSINTSKARO: 38 T ML 684989\
+2: KUMISI: 38 T MM 818070\
+3: SOUTH OF THE KUMISI RESERVOIR: 38 T MM 870027\
+4: ASURETI: 38 T MM 724046\
+5: MARNEULI & SUBURBS: 38 T ML 836922\
+6: ARUHLO & KOLAGIN: 38 T ML 753912\
+7: KIKETI: 38 T MM 709113\
+8: TSKNETI: 38 T MM 747158\
+9: KOJORI: 38 T MM 755120\
+10: TABAKHMELA: 38 T MM 796113\
+11: MTISDZIRI: 38 T MM 926039\
+12: SOGANLUGI & KRTSANISI: 38 T MM 929091\
+\
+コントロールポイント (CP)： \
+ BRAVO: 38 T ML 713935 ARUHLOの北西\
+INITIAL POINTS (IP): \
+ CHEVY: 38 T ML 683989 TSINTSKARO中央上空\
+ ADDER: 38 T ML 822973 MARNEULIの北の線路の交差点\
+ MAZDA: 38 T MM 695056 ASURETIの西\
+ BANKS: 38 T ML 784988  ALGETI AND NALEBISKHEVI川の分岐の北\
+ EDSEL: 38 T MM 624040 TSINTSKAROの北西\
+ TOWEL: 38 T MM 710016  ALGETI AND ENAGETISKHEVI 川の分岐の北\
+\
+レンジチェックイン： 0215Z\
+レンジチェックアウト： 0300Z\
+VUL（作戦）時間： 45分\
+ \
+燃料状態：\
+JOKER: 3000 LBS\
+BINGO: 2500 LBS\
+\
+認証（AUTHENTICATION）：\
+質問（CHALLENGE）： MEMBER \
+応答（RESPONSE）： STATION\
+\
+CSAR 認証（AUTHENTICATION）：\
+SARNEG（Search and Rescue Numerical Encryption Grid：捜索救難数字暗号化グリッド）: MAGIC FORD\
+DURESS: WIZARD\
+WORD:   FOCUS\
+数字（NUMBER）: 42\
+文字（LETTER）: A\
+SARDOT（捜索救助地点）： ARCO\
+\
+注：これはランプスタートランプ終了ミッションです。それに応じでHOTASを設定してください。\
+\
+F10ラジオメニューを使用して、状況の連絡や指示を送信してください。\
+\
+ミッション成功基準：\
+全ての指定ターゲットを破壊して帰還してください。",
+    ["DictKey_WptName_1113"] = "",
+    ["DictKey_WptName_1534"] = "",
+    ["DictKey_WptName_1259"] = "",
+    ["DictKey_GroupName_448"] = "BMP PLATOON #010",
+    ["DictKey_WptName_1314"] = "",
+    ["DictKey_GroupName_1038"] = "Perth FARP #005",
+    ["DictKey_GroupName_787"] = "T-55 DEAD #025",
+    ["DictKey_WptName_1135"] = "",
+    ["DictKey_WptName_1285"] = "",
+    ["DictKey_UnitName_938"] = "Sgt Peter Welsome",
+    ["DictKey_278"] = "PONTIAC 1 COLT 1-1 攻撃を許可します。",
+    ["DictKey_233"] = "ROCKETS AWAY!",
+    ["DictKey_WptName_1485"] = "",
+    ["DictKey_UnitName_431"] = "Unit #168",
+    ["DictKey_GroupName_781"] = "T-55 DEAD #022",
+    ["DictKey_WptName_1354"] = "",
+    ["DictKey_GroupName_985"] = "C M1 Platoon #005",
+    ["DictKey_WptName_1121"] = "",
+    ["DictKey_UnitName_802"] = "SPH 2S9 Nona DEAD #001",
+    ["DictKey_GroupName_765"] = "T-55 DEAD #014",
+    ["DictKey_GroupName_551"] = "MBT T-55 #032",
+    ["DictKey_WptName_1287"] = "",
+    ["DictKey_WptName_1218"] = "",
+    ["DictKey_GroupName_587"] = "MBT T-55 #044",
+    ["DictKey_WptName_1267"] = "",
+    ["DictKey_WptName_1119"] = "",
+    ["DictKey_WptName_1087"] = "",
+    ["DictKey_WptName_1089"] = "",
+    ["DictKey_GroupName_957"] = "A JAGUAR 1",
+    ["DictKey_UnitName_714"] = "BMP-3 DEAD #012",
+    ["DictKey_UnitName_368"] = "Unit #111",
+    ["DictKey_GroupName_404"] = "BTR PLATOON #005",
+    ["DictKey_WptName_1202"] = "",
+    ["DictKey_WptName_1109"] = "",
+    ["DictKey_UnitName_321"] = "Unit #078",
+    ["DictKey_UnitName_1041"] = "New Static Object #002",
+    ["DictKey_WptName_1093"] = "",
+    ["DictKey_WptName_1484"] = "",
+    ["DictKey_UnitName_991"] = "Unit #022",
+    ["DictKey_UnitName_1027"] = "New Static Object",
+    ["DictKey_WptName_1086"] = "",
+    ["DictKey_UnitName_413"] = "Unit #158",
+    ["DictKey_WptName_1317"] = "",
+    ["DictKey_309"] = "COLT 1-1, ENFIELD 2-1.\
+\
+ターゲットを破壊しました！",
+    ["DictKey_UnitName_918"] = "Lt Blair Breaverton",
+    ["DictKey_WptName_1108"] = "",
+    ["DictKey_WptName_1098"] = "",
+    ["DictKey_GroupName_707"] = "BTR-80 DEAD #009",
+    ["DictKey_WptName_1100"] = "",
+    ["DictKey_GroupName_887"] = "New Vehicle Group #002",
+    ["DictKey_WptName_1467"] = "",
+    ["DictKey_WptName_1095"] = "",
+    ["DictKey_GroupName_326"] = "ARTY PLATOON",
+    ["DictKey_GroupName_501"] = "T-55 PLATOON #002",
+    ["DictKey_UnitName_678"] = "BMP-3 DEAD #001",
+    ["DictKey_GroupName_791"] = "T-55 DEAD #027",
+    ["DictKey_200"] = "RUNNING IN",
+    ["DictKey_WptName_1138"] = "",
+    ["DictKey_GroupName_533"] = "MBT T-55 #019",
+    ["DictKey_UnitName_712"] = "BMP-3 DEAD #011",
+    ["DictKey_WptName_1255"] = "",
+    ["DictKey_UnitName_738"] = "BMP-3 DEAD #024",
+    ["DictKey_GroupName_739"] = "BMP-3 DEAD #025",
+    ["DictKey_160"] = "友軍、敵軍共に、日中と同じように夜間も作戦を行います。\
+\
+夜間CASの実行は戦場での最も難しいミッションの一つでしょう。",
+    ["DictKey_GroupName_559"] = "MBT T-55 #036",
+    ["DictKey_WptName_1455"] = "",
+    ["DictKey_UnitName_409"] = "Unit #155",
+    ["DictKey_WptName_1394"] = "",
+    ["DictKey_UnitName_880"] = "Sgt Lawrence Platt",
+    ["DictKey_ActionText_1596"] = "高度を確認して下さい！",
+    ["DictKey_GroupName_841"] = "A-10C PIG 1",
+    ["DictKey_WptName_1428"] = "",
+    ["DictKey_GroupName_877"] = "New Vehicle Group #009",
+    ["DictKey_UnitName_472"] = "Target 4-1",
+    ["DictKey_GroupName_361"] = "T-55 PLATOON #012",
+    ["DictKey_UnitName_1008"] = "Unit #200",
+    ["DictKey_WptName_1082"] = "",
+    ["DictKey_UnitName_495"] = "Unit #138",
+    ["DictKey_UnitName_632"] = "Target 1 Ammo #009",
+    ["DictKey_156"] = "COLT 1-1, UZI 1-1 ROGER!",
+    ["DictKey_UnitName_423"] = "Target 2-1",
+    ["DictKey_UnitName_356"] = "Unit #102",
+    ["DictKey_189"] = "FENCE IN",
+    ["DictKey_WptName_1533"] = "",
+    ["DictKey_WptName_1123"] = "",
+    ["DictKey_WptName_1435"] = "",
+    ["DictKey_WptName_1543"] = "",
+    ["DictKey_GroupName_679"] = "BMP-3 DEAD #002",
+    ["DictKey_297"] = "COLT 1-1, ENFIELD 2-1.\
+\
+ターゲットを破壊しました！",
+    ["DictKey_GroupName_705"] = "BTR-80 DEAD #008",
+    ["DictKey_UnitName_598"] = "FARP",
+    ["DictKey_WptName_1341"] = "",
+    ["DictKey_WptName_1125"] = "",
+    ["DictKey_UnitName_1047"] = "Comms Tower #005",
+    ["DictKey_WptName_1272"] = "",
+    ["DictKey_WptName_1239"] = "",
+    ["DictKey_WptName_1368"] = "",
+    ["DictKey_UnitName_932"] = "Unit #051",
+    ["DictKey_GroupName_1040"] = "New Static Object #002",
+    ["DictKey_WptName_1176"] = "",
+    ["DictKey_161"] = "成功させるためには、詳細なミッション計画、確実な交信、手順規律の遵守が必要です。",
+    ["DictKey_WptName_1134"] = "",
+    ["DictKey_162"] = "夜間の活動は、以前説明したように、明らかな利点がありますが、夜間のCAS部隊のマネジメントに関しては大きな欠点です",
+    ["DictKey_GroupName_711"] = "BMP-3 DEAD #011",
+    ["DictKey_UnitName_496"] = "Unit #137",
+    ["DictKey_WptName_1478"] = "",
+    ["DictKey_GroupName_657"] = "New Static Object #017",
+    ["DictKey_165"] = "ターゲット識別とレーザーによる指定の手順は、夜間CASであっても日中の活動と同じです。",
+    ["DictKey_UnitName_840"] = "BOAR 1-1",
+    ["DictKey_UnitName_916"] = "Unit #038",
+    ["DictKey_GroupName_927"] = "A Bradley Platoon #002",
+    ["DictKey_GroupName_573"] = "MBT T-55 #018",
+    ["DictKey_284"] = "SPRINGFIELD 2 COLT 1-1 攻撃を許可",
+    ["DictKey_UnitName_1063"] = "New Static Object #011",
+    ["DictKey_WptName_1359"] = "",
+    ["DictKey_251"] = "EYEBALL 4-1 COLT 1-1 READY TO COPY",
+    ["DictKey_WptName_1136"] = "CP BRAVO",
+    ["DictKey_UnitName_323"] = "Unit #076",
+    ["DictKey_WptName_1276"] = "",
+    ["DictKey_GroupName_1056"] = "New Static Object #004",
+    ["DictKey_GroupName_814"] = "SU-25 SPRINGFIELD 2",
+    ["DictKey_WptName_1148"] = "",
+    ["DictKey_286"] = "ENFIELD 2-1 COLT 1-1 ファイヤーミッション",
+    ["DictKey_GroupName_369"] = "T-55 PLATOON #011",
+    ["DictKey_UnitName_606"] = "MBT T-55 #051",
+    ["DictKey_WptName_1429"] = "",
+    ["DictKey_UnitName_327"] = "Unit #085",
+    ["DictKey_277"] = "PONTIAC 1 COLT 1-1 攻撃を許可します。",
+    ["DictKey_WptName_1096"] = "",
+    ["DictKey_UnitName_806"] = "SPH 2S9 Nona DEAD #003",
+    ["DictKey_GroupName_846"] = "OH-58D UZI 1-1",
+    ["DictKey_UnitName_1031"] = "Perth FARP #001",
+    ["DictKey_207"] = "RUNNING IN",
+    ["DictKey_WptName_1237"] = "",
+    ["DictKey_WptName_1379"] = "Target 4",
+    ["DictKey_UnitName_764"] = "T-55 DEAD #013",
+    ["DictKey_UnitName_614"] = "New Static Object #007",
+    ["DictKey_UnitName_532"] = "MBT T-55 #016",
+    ["DictKey_WptName_1236"] = "",
+    ["DictKey_UnitName_438"] = "Unit #175",
+    ["DictKey_GroupName_641"] = "Target 1 Ammo #014",
+    ["DictKey_GroupName_1012"] = "FARP Tent #1",
+    ["DictKey_299"] = "ENFIELD 2-1 COLT 1-1 ファイアーミッション（FIRE MISSION）",
+    ["DictKey_UnitName_668"] = "T-55 DEAD #002",
+    ["DictKey_171"] = "SOFガンシップはユニークなCAS機の一つです。\
+\
+精密攻撃、コントロールシステムとセンサー能力、地上SA、飛行プロファイルを持つため、SOFガンシップでは、火器管制のために管制、JTAC、航空AFCのたぐいを必要としません。",
+    ["DictKey_UnitName_506"] = "Unit #193",
+    ["DictKey_UnitName_953"] = "Unit #065",
+    ["DictKey_WptName_1479"] = "",
+    ["DictKey_246"] = "UZI 1-1 COLT 1-1 READY TO COPY REMARKS",
+    ["DictKey_WptName_1196"] = "",
+    ["DictKey_GroupName_743"] = "BMP-3 DEAD #027",
+    ["DictKey_WptName_1313"] = "",
+    ["DictKey_UnitName_688"] = "BTR-80 DEAD #005",
+    ["DictKey_GroupName_661"] = "BMP-3 #2 DEAD",
+    ["DictKey_UnitName_348"] = "Unit #096",
+    ["DictKey_UnitName_720"] = "BMP-3 DEAD #015",
+    ["DictKey_GroupName_703"] = "BTR-80 DEAD #007",
+    ["DictKey_WptName_1422"] = "",
+    ["DictKey_WptName_1173"] = "",
+    ["DictKey_WptName_1342"] = "",
+    ["DictKey_WptName_1147"] = "",
+    ["DictKey_UnitName_858"] = "Cpl Larry Matson",
+    ["DictKey_UnitName_937"] = "Unit #053",
+    ["DictKey_UnitName_346"] = "Unit #098",
+    ["DictKey_UnitName_1055"] = "Convoy 1 LAV #002",
+    ["DictKey_WptName_1212"] = "",
+    ["DictKey_UnitName_461"] = "Unit #011",
+    ["DictKey_WptName_1273"] = "",
+    ["DictKey_UnitName_451"] = "Unit #183",
+    ["DictKey_GroupName_797"] = "T-55 DEAD #030",
+    ["DictKey_WptName_1207"] = "",
+    ["DictKey_UnitName_518"] = "MBT T-55 #004",
+    ["DictKey_GroupName_745"] = "T-55 DEAD #004",
+    ["DictKey_WptName_1559"] = "",
+    ["DictKey_UnitName_742"] = "BMP-3 DEAD #026",
+    ["DictKey_WptName_1451"] = "",
+    ["DictKey_UnitName_788"] = "T-55 DEAD #025",
+    ["DictKey_WptName_1450"] = "",
+    ["DictKey_WptName_1158"] = "",
+    ["DictKey_UnitName_792"] = "T-55 DEAD #027",
+    ["DictKey_WptName_1547"] = "",
+    ["DictKey_220"] = "いまいちです！\
+\
+あなたの評価は不可（Unqualified)です。\
+\
+もっと訓練に時間を費やす必要があります。\
+\
+準備ができたらこのPOに再挑戦してください。\
+\
+MISSION FAILED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_GroupName_349"] = "T-55 PLATOON #017",
+    ["DictKey_272"] = "高度 3186\
+\
+戦車　 MM 595 069\
+\
+繰り返す　 MM 595 069\
+\
+NO MARK!\
+\
+友軍は南\
+\
+西にイーグレス\
+\
+ADVISE WHEN READY FOR REMARKS!",
+    ["DictKey_WptName_1145"] = "",
+    ["DictKey_191"] = "2, COPY!",
+    ["DictKey_229"] = "KNOCK IT OFF!  KNOCK IT OFF!\
+\
+許可なくターゲットレンジから退出しました。\
+\
+このPOを中止します！",
+    ["DictKey_WptName_1469"] = "",
+    ["DictKey_WptName_1284"] = "",
+    ["DictKey_WptName_1442"] = "",
+    ["DictKey_WptName_1268"] = "",
+    ["DictKey_WptName_1495"] = "",
+    ["DictKey_WptName_1174"] = "",
+    ["DictKey_ActionText_1606"] = "よく聞こえています。",
+    ["DictKey_UnitName_912"] = "Unit #035",
+    ["DictKey_UnitName_1004"] = "Cpt Mannie Lepaz #001",
+    ["DictKey_UnitName_610"] = "New Static Object #006",
+    ["DictKey_WptName_1182"] = "",
+    ["DictKey_WptName_1211"] = "",
+    ["DictKey_GroupName_1048"] = "Convoy 1 LAV #001",
+    ["DictKey_WptName_1472"] = "",
+    ["DictKey_WptName_1361"] = "",
+    ["DictKey_GroupName_1062"] = "New Static Object #012",
+    ["DictKey_GroupName_505"] = "T-55 PLATOON #003",
+    ["DictKey_UnitName_538"] = "MBT T-55 #022",
+    ["DictKey_238"] = "COLT 1-1, UZI 1-1.\
+\
+ガスが十分にあると判断したら、切断して帰還して下さい。",
+    ["DictKey_GroupName_881"] = "New Vehicle Group #011",
+    ["DictKey_GroupName_436"] = "BMP PLATOON #009",
+    ["DictKey_UnitName_836"] = "Pilot #002",
+    ["DictKey_WptName_1423"] = "",
+    ["DictKey_GroupName_444"] = "BMP PLATOON",
+    ["DictKey_UnitName_359"] = "Unit #106",
+    ["DictKey_209"] = "COLT 1,\
+\
+私達のVUL時間は終了しました。チェックアウトします。\
+\
+STAY SAFE DOWN THERE",
+    ["DictKey_GroupName_629"] = "Target 1 Ammo #008",
+    ["DictKey_269"] = "CHECKMATE 3-1 COLT 1-1 READY TO COPY",
+    ["DictKey_UnitName_456"] = "Unit #189",
+    ["DictKey_UnitName_832"] = "A Player",
+    ["DictKey_WptName_1514"] = "",
+    ["DictKey_GroupName_1615"] = "Ammunition Depot #001",
+    ["DictKey_WptName_1330"] = "",
+    ["DictKey_WptName_1253"] = "",
+    ["DictKey_UnitName_427"] = "Unit #165",
+    ["DictKey_ActionText_1597"] = "高度を確認して下さい！",
+    ["DictKey_WptName_1390"] = "",
+    ["DictKey_UnitName_1007"] = "Unit #201",
+    ["DictKey_UnitName_994"] = "Unit #030",
+    ["DictKey_WptName_1461"] = "",
+    ["DictKey_292"] = "ポインターでマーキング！\
+\
+ターゲット　戦車　MM 683 055\
+\
+繰り返す\
+\
+MM 683 055\
+\
+周りはクリア、SAMもAAAも無し！\
+\
+COLT 1-1, OUT!",
+    ["DictKey_GroupName_723"] = "BMP-3 DEAD #017",
+    ["DictKey_UnitName_512"] = "Unit #194",
+    ["DictKey_UnitName_896"] = "Cpl Diane Deaver",
+    ["DictKey_ActionText_1572"] = "",
+    ["DictKey_UnitName_1029"] = "New Static Object #1",
+    ["DictKey_GroupName_699"] = "BMP-3 DEAD #008",
+    ["DictKey_UnitName_984"] = "Lt Richard Dike #001",
+    ["DictKey_WptName_1434"] = "",
+    ["DictKey_sortie_1081"] = "TAC20 - CASミッション管理（夜間）",
+    ["DictKey_GroupName_601"] = "MBT T-55 #049",
+    ["DictKey_WptName_1437"] = "",
+    ["DictKey_UnitName_390"] = "Unit #130",
+    ["DictKey_UnitName_454"] = "Unit #191",
+    ["DictKey_GroupName_803"] = "SPH 2S9 Nona DEAD #002",
+    ["DictKey_198"] = "CHECK IN",
+    ["DictKey_UnitName_770"] = "T-55 DEAD #016",
+    ["DictKey_WptName_1356"] = "",
+    ["DictKey_UnitName_942"] = "Capt Sam Robertson",
+    ["DictKey_WptName_1189"] = "",
+    ["DictKey_WptName_1457"] = "",
+    ["DictKey_294"] = "1, RAY TARGET!",
+    ["DictKey_GroupName_965"] = "B Bradley Platoon #005",
+    ["DictKey_UnitName_524"] = "MBT T-55 #007",
+    ["DictKey_146"] = "COLT 1-1 UZI 1-1, ロジャー！\
+",
+    ["DictKey_WptName_1449"] = "",
+    ["DictKey_WptName_1531"] = "",
+    ["DictKey_UnitName_1017"] = "FARP Tent #003",
+    ["DictKey_WptName_1085"] = "",
+    ["DictKey_WptName_1491"] = "",
+    ["DictKey_GroupName_697"] = "BMP-3 DEAD #007",
+    ["DictKey_WptName_1408"] = "",
+    ["DictKey_WptName_1556"] = "",
+    ["DictKey_UnitName_1057"] = "New Static Object #004",
+    ["DictKey_GroupName_755"] = "T-55 DEAD #009",
+    ["DictKey_UnitName_976"] = "BP 7",
+    ["DictKey_WptName_1497"] = "",
+    ["DictKey_224"] = "ターゲット１を処理しました。\
+\
+マーキングがされていない場合は、あなたのIRポインターでターゲットをマーキングして下さい。飛行隊がターゲットのPIDをしやすくなります。",
+    ["DictKey_WptName_1156"] = "",
+    ["DictKey_UnitName_439"] = "Unit #174",
+    ["DictKey_GroupName_981"] = "C M1 Platoon #004",
+    ["DictKey_UnitName_748"] = "T-55 DEAD #005",
+    ["DictKey_GroupName_751"] = "T-55 DEAD #007",
+    ["DictKey_WptName_1250"] = "",
+    ["DictKey_WptName_1370"] = "",
+    ["DictKey_GroupName_795"] = "T-55 DEAD #029",
+    ["DictKey_222"] = "いまいちです！\
+\
+あなたの評価は不可（Unqualified)です。\
+\
+もっと訓練に時間を費やす必要があります。\
+\
+準備ができたらこのPOに再挑戦してください。\
+\
+MISSION FAILED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_UnitName_652"] = "New Static Object #014",
+    ["DictKey_UnitName_602"] = "MBT T-55 #049",
+    ["DictKey_UnitName_908"] = "Unit #032",
+    ["DictKey_UnitName_822"] = "Perth FARP",
+    ["DictKey_WptName_1120"] = "",
+    ["DictKey_UnitName_352"] = "Unit #099",
+    ["DictKey_GroupName_729"] = "BMP-3 DEAD #020",
+    ["DictKey_WptName_1161"] = "",
+    ["DictKey_UnitName_930"] = "Sgt Neil O'Riely",
+    ["DictKey_ActionText_1603"] = "",
+    ["DictKey_UnitName_600"] = "Target 1 Ammo #003",
+    ["DictKey_GroupName_856"] = "FARP Infantry 1 #001",
+    ["DictKey_GroupName_771"] = "T-55 DEAD #017",
+    ["DictKey_WptName_1366"] = "",
+    ["DictKey_UnitName_982"] = "Unit #019",
+    ["DictKey_GroupName_989"] = "C M1 Platoon #006",
+    ["DictKey_ActionText_1602"] = "高度を確認して下さい！",
+    ["DictKey_WptName_1219"] = "",
+    ["DictKey_254"] = "高度（ELEVATION）2044\
+\
+BMPS 　MM 801 047\
+\
+繰り返す MM  801 047\
+\
+NO MARK!\
+\
+友軍は南\
+\
+東にイーグレス\
+\
+リマーク（追加情報）の用意が良ければ連絡して下さい。\
+（ADVISE WHEN READY FOR REMARKS!）",
+    ["DictKey_WptName_1546"] = "",
+    ["DictKey_WptName_1256"] = "",
+    ["DictKey_UnitName_405"] = "Unit #152",
+    ["DictKey_214"] = "2, COPY!",
+    ["DictKey_WptName_1364"] = "",
+    ["DictKey_UnitName_335"] = "Unit #088",
+    ["DictKey_UnitName_447"] = "Unit #180",
+    ["DictKey_UnitName_924"] = "Unit #041",
+    ["DictKey_UnitName_478"] = "Unit #067",
+    ["DictKey_GroupName_827"] = "New Static Object #003",
+    ["DictKey_UnitName_1000"] = "Unit #046",
+    ["DictKey_WptName_1411"] = "",
+    ["DictKey_GroupName_673"] = "BTR-80 DEAD #002",
+    ["DictKey_WptName_1326"] = "",
+    ["DictKey_GroupName_757"] = "T-55 DEAD #010",
+    ["DictKey_GroupName_659"] = "BMP-3 #1 DEAD",
+    ["DictKey_WptName_1128"] = "",
+    ["DictKey_WptName_1216"] = "",
+    ["DictKey_UnitName_344"] = "Unit #093",
+    ["DictKey_267"] = "BREAK, BREAK!\
+\
+COLT 1-1, CHECKMATE 3-1 ACTUAL!\
+\
+至急CASを要請します。\
+\
+ターゲットの指示を出してよければ連絡して下さい。\
+（ADVISE WHEN READY FOR TARGET BRIEF!）",
+    ["DictKey_WptName_1549"] = "",
+    ["DictKey_GroupName_396"] = "BTR PLATOON #001",
+    ["DictKey_UnitName_325"] = "Unit #074",
+    ["DictKey_UnitName_813"] = "Lt Henry Hull",
+    ["DictKey_WptName_1518"] = "",
+    ["DictKey_290"] = "COLT 1-1, ENFIELD 2-1, COPY.",
+    ["DictKey_GroupName_400"] = "BTR PLATOON #004",
+    ["DictKey_WptName_1386"] = "",
+    ["DictKey_WptName_1448"] = "",
+    ["DictKey_WptName_1231"] = "",
+    ["DictKey_UnitName_861"] = "Pvt Andy Rutledge",
+    ["DictKey_WptName_1463"] = "",
+    ["DictKey_UnitName_620"] = "Target 1 Ammo #002",
+    ["DictKey_GroupName_365"] = "T-55 PLATOON #013",
+    ["DictKey_UnitName_694"] = "BMP-3 DEAD #005",
+    ["DictKey_GroupName_609"] = "New Static Object #006",
+    ["DictKey_WptName_1260"] = "",
+    ["DictKey_WptName_1396"] = "",
+    ["DictKey_ActionText_1569"] = "",
+    ["DictKey_145"] = "COLT 1-1 COPY",
+} -- end of dictionary

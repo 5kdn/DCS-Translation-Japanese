@@ -1,0 +1,2813 @@
+dictionary = 
+{
+    ["DictKey_GroupName_647"] = "T-55 DEAD #025",
+    ["DictKey_WptName_1209"] = "",
+    ["DictKey_UnitName_923"] = "Cpl Henry Mackenzie",
+    ["DictKey_UnitName_808"] = "BTR-80 DEAD #020",
+    ["DictKey_ActionText_1742"] = "",
+    ["DictKey_ActionText_1853"] = "",
+    ["DictKey_ActionText_2018"] = "",
+    ["DictKey_WptName_1303"] = "",
+    ["DictKey_GroupName_655"] = "T-55 DEAD #029",
+    ["DictKey_WptName_1583"] = "",
+    ["DictKey_WptName_1204"] = "",
+    ["DictKey_ActionText_1849"] = "",
+    ["DictKey_ActionText_1767"] = "",
+    ["DictKey_ActionText_1971"] = "",
+    ["DictKey_UnitName_226"] = "Unit #074",
+    ["DictKey_ActionText_1890"] = "",
+    ["DictKey_GroupName_773"] = "BMP-3 DEAD #045",
+    ["DictKey_ActionText_2071"] = "",
+    ["DictKey_ActionText_1951"] = "",
+    ["DictKey_UnitName_398"] = "MBT T-55 #022",
+    ["DictKey_UnitName_642"] = "T-55 DEAD #022",
+    ["DictKey_ActionText_1818"] = "",
+    ["DictKey_ActionText_1896"] = "",
+    ["DictKey_ActionText_1806"] = "",
+    ["DictKey_WptName_1165"] = "",
+    ["DictKey_descriptionText_1130"] = "私はライアン・ベーカー大佐です。コールサインは「セイバー（Sabre）」です。能力目標（PO)を判定するフライト試験官（FE)です。\
+\
+これはTAC22 - BAIミッション管理（夜間）です。A/OA-10C戦術訓練検定コースの12番めのミッションです。\
+\
+あなたの評価は、A/OA-10搭乗員評価基準：AFI11-2A-OA-10V2:に基づき行われます\
+\
+3.4 戦術運用\
+3.4.3. Air-to-Surface:\
+3.4.3.1. エリア 81--ターゲットの補足（Acquisition）：\
+3.4.3.1.1. 優（Qualified：Q):  最初の攻撃、または再攻撃ででターゲットを補足しました。\
+3.4.3.1.2. 可（Qualified Minus：Q-): ターゲットの補足が遅れ、最初、再攻撃の精度が下がりました。\
+3.4.3.1.3. 不可（Unqualified：U): ターゲットを補足できませんでした。\
+\
+3.4.7. 前線航空管制（Forward Air Control）：\
+3.4.7.1. エリア 121--ターゲットエリアの識別：\
+3.4.7.1.1. 優（Qualified：Q): ターゲットを補足し、ターゲットと友軍の位置を確実に識別しました。\
+3.4.7.1.2. 可（Qualified Minus：Q-): ターゲットの補足がやや遅れました。ただし、位置の確認は確実でした。ミッションの成否に影響は与えませんでした。\
+3.4.7.1.3. 不可（Unqualified：U): 位置の特定ができなかったか、ターゲットの位置を確実に確認できませんでした。\
+\
+3.4.7.4. エリア 124--ターゲットマーキング/告知、説明：\
+3.4.7.4.1. 優（Qualified：Q): 正確かつタイムリーでマーキングができました。戦闘機は特別なターゲットの位置を理解できました。\
+3.4.7.4.2. 可（Qualified Minus：Q-): 戦闘機が目標を特定できるだけのマーキングでしたが、ターゲットを識別するには、リマークや追加の告知が必要でした。\
+3.4.7.4.3. 不可（Unqualified：U): 戦闘機はリマークしてもターゲットを発見できませんでした。\
+\
+3.4.7.5. エリア 125--監視位置 (シナリオで必要な場合):\
+3.4.7.5.1. 優（Qualified：Q): 攻撃フェーズの間ずっと、ターゲットと攻撃機をはっきりと観測出来る動きをしていました。機体の制御ができていました。\
+3.4.7.5.2. 可（Qualified Minus：Q-): 監視位置は、ターゲットと攻撃機を監視するのに十分な位置でした。時々、機体の制御ができていませんでした。 \
+3.4.7.5.3. 不可（Unqualified：U): ターゲットと攻撃機を十分監視出来る位置にいませんでした。航空機を制御できていませんでした。\
+\
+3.4.7.6. エリア 126--攻撃統制（Attack Control）:\
+3.4.7.6.1. 優（Qualified：Q): ミッションを通して積極的に戦闘機を統制できていました。はっきり地、適時、的確に武器選択指示と攻撃許可を各航空機に出せていました。\
+3.4.7.6.2. 可（Qualified Minus：Q-): 戦闘機の統制と兵器選択は適切で安全でした。各航空機への攻撃許可を出せていました。ただし、統制とクリアランスはもっと積極的、迅速に行えたでしょう。\
+3.4.7.6.3. 不可（Unqualified：U): 統制と指示は適時、的確ではなく、ミッションの質と効果を低下させました。\
+\
+3.4.7.7. エリア 127--攻撃後（Post Attack）\
+3.4.7.7.1. 優（Qualified：Q): 完全で正確な評価（判定、判断）を行えました。戦闘機と該当機関に、統制指示（governing directives：交信ルール？）に従がった簡潔な報告を行いました。\
+3.4.7.7.2. 可（Qualified Minus：Q-):評価が兵器の精度や効果と一致していませんでした。報告において若干のミスや欠落がありました。\
+3.4.7.7.3. 不可（Unqualified：U): 攻撃の現実的な評価が行えませんでした。結果が著しく過大/過小評価されていました。報告に重大な誤りがありました。\
+\
+このPOはキルボックスのパトロールと、攻撃機会のあるターゲットの破壊を行ってもらいます。ターゲットを破壊するためにA-10Cのセカンドエレメントを与えます。\
+\
+このPOに合格するには、キルボックス内にいるターゲット（BMP、装甲車、砲兵など）を少なくとも３つ破壊する必要があります。\
+\
+キルボックス外のターゲットの破壊はしないでください。検定の評価において減点します。\
+\
+キルボックス北端のMOA/レンジの境界に注意してください。許可なくMOA/レンジから退出することは禁じられています。\
+\
+私達は、定義されたMOA（軍事作戦エリア）内で活動します。バジアニ訓練エリアと射撃場（VTA)を使用します。\
+\
+着陸のためのパターン高度は2500ftです。\
+\
+ハードデッキ制限は5000ftAGLです。VTAレンジ内ではハードデッキ制限は100ftAGLに下げられます。\
+\
+攻撃禁止ゾーンは解除されます。このゾーンでの兵器の使用を許可します。\
+\
+私はOH-58スカウトで飛行し、通信と攻撃の記録を取ります。\
+\
+グッドラック！\
+\
+TAC21 - ミッションブリーフィング\
+\
+政治的/軍事的状況：\
+FLOTはフェーズラインHAMMERを維持し、再補給と再武装を行っています。\
+次の24時間以内に北への進軍を継続する予定です。\
+敵の増援がFSCLの北の後方エリアから前線へ移動中です。\
+FSCLはリッジライン北のTBILISI-KOJORI-TSALKA-NINOTSMINDA HIGHWAY線で維持されています。\
+友軍特殊部隊は撤退し、現在は活動していません。\
+\
+ミッション目標：\
+指示に従いキルボックスMM71をパトロールし、攻撃出来るターゲットを破壊してください。\
+\
+ミッション驚異レベル：HIGH\
+\
+ワーキングエリア：\
+オペレーションエリア： \
+バジアニ訓練エリア（VTA)　東ジョージア、コーカサス\
+ブルーエアーオペレーション基地： バジアニ空軍基地\
+レッドエアーオペレーション基地：ソガンラグ（SOGANLUG ）空軍基地\
+\
+友軍：\
+米海兵隊、特別目的海兵空地任務部隊（THE SPECIAL PURPOSE MARINE AIR-GROUND TASK FORCE）、黒海ローテーショナル１１ (SPMAGTF BSRF-11)\
+米陸軍、第101航空偵察部隊、第17騎兵隊、第２飛行隊OH-58\
+米陸軍、第101戦闘航空旅団、第５大隊H-60\
+米空軍、第23戦闘機グループ、第74飛行隊A-10C\
+米空軍、第20ファイターウイング、412飛行隊F-16C\
+米空軍、第4オペレーショングループ、第335戦闘飛行隊F-15E\
+米空軍、第2オペレーショングループ、第11爆撃飛行隊B-52\
+米空軍、第916オペレーショングループ、第77空中給油飛行中隊KC-135\
+ジョージア軍、第１GG飛行中隊、SU-25\
+ジョージア軍、第４GG飛行中隊、L-29\
+ジョージア軍、第３AVN飛行中隊、Mi-24\
+ジョージア軍、第４AVN飛行中隊、MI-8\
+英軍、第617飛行中隊、トルネード\
+独軍、第31戦闘爆撃航空団 「BOELCKE」、トルネード\
+RNLAF (オランダ王立空軍)、第313飛行中隊 F-16 \
+アブハジア空軍、L-39\
+\
+友軍位置：GRIDS ML59, ML69, ML79, ML89, ML99, MM80, MM90\
+ブルズアイ： 38 T ML 83726 92673 or 44°48'18”E 41°29'7”N\
+\
+注：オランダ F-16S 決められた作戦期間中CAPを行います。\
+注：タンカーは全ての作戦期間中利用が可能です。\
+敵軍：\
+レッド軍地上と航空防衛部隊は、第2ジョージア軍機械化旅団が行います。\
+レッド軍航空部隊は第１GGと第３AVN飛行中隊が行います。\
+\
+敵軍位置： GRIDS MM50, MM51, MM60, MM61, MM70, MM71, MM80, MM81\
+\
+注：ジョージア軍MIG-29は決められた期間中CAPを行います。\
+注：ジョージア軍MI-24は決められた期間中オンステーションです。\
+\
+無線情報：\
+制限： EMCON LEVEL: 2\
+TAD(TACTICAL AIR DESIGNATORS:戦術的航空無線番号）：\
+08: 243.0 MHZ AM\
+12: 124.0 MHZ AM\
+15: 251.0 MHZ AM\
+60: 30.0 MHZ FM\
+61: 31.0 MHZ FM\
+62: 32.0 MHZ FM\
+\
+戦術訓練周波数： TAD 12\
+ガード： TAD 08 - 常時監視すること\
+\
+航空交信： \
+\
+あなたの飛行隊： (3xA10C)\
+ COLT 1-1: 訓練生 TAD 15\
+ COLT 1-2: ウイングマン TAD 15\
+ COLT 1-3: 第２エレメント TAD 15\
+AFACS: (2xOH58)\
+ UZI 1-1: FE TAD 12\
+ ENFIELD 1-1: TAD 12\
+\
+CAS: (4xA10C,2xSU25)\
+ A10C:BOAR 1-1,1-2: TAD 15\
+ A10C:PIG 1-1,1-2: TAD 15\
+ SU25:SPRINGFIELD 2-1,2-2: TAD 15\
+\
+CAPS: (2xF16C)\
+ DODGE 1-1,1-2: TAD 15\
+\
+TANKER ESCORTS: (2xF16C)\
+ DODGE 4-1,4-2: TAD 15\
+TANKERS: (1xKC135)\
+ SHELL 1-1: TAD 15 AM TACAN: 5X - TANKER\
+\
+MEDEVAC / TROOP TRANSPORT: (3xUH60)\
+ CHEVY 1-1,1-2,1-3: TAD 12\
+\
+爆撃機: (2xF15E,3xB52H,4xTORNADO,2xL39)\
+ F15E: FORD 1-1,1-2: TAD 15\
+ B52H: FORD 2-1,3-1,4-1: TAD 15\
+ トルネード: PONTIAC 3-1,3-2: TAD 15\
+ トルネード: PONTIAC 4-1,4-2: TAD 15\
+ L39: SPRINGFIELD 1-1,1-2: TAD 15\
+\
+地上交信：\
+JTACS: \
+ AXEMAN 1-1 TAD 60\
+ HAMMER 1-1 TAD 61\
+ PLAYBOY 1-1 TAD 60\
+ PINPOINT 1-1 TAD 60\
+ BADGER 1-1 TAD 61\
+ JAGUAR 1-1 TAD 62\
+ MOONBEAM 2-1 TAD 60\
+ DARKNIGHT 1-1 TAD 60\
+ FIREFLY 6-1 TAD 61\
+           \
+フライトプラン：\
+離陸/着陸：バジアニ（VAZIANI） 38 T NM 022087　タワー: 140.0Mhz AM\
+代替 1: SOGANLUG 38 T MM 948107 TOWER: 138.0Mhz AM\
+代替 2: TIBILISI-LOCHINI 38 T MM 962131 TOWER: 139.0Mhz AM\
+パターン高度： 2500 FT AGL\
+\
+イングレス（INGRESS）ルート： TC IRIS\
+ WP X1: 38 T NL 134934\
+ WP X2: 38 T ML 731740\
+\
+イーグレス(EGRESS)ルート： TC OSCAR\
+ WP Z1: 38 T ML 953920\
+ WP Z2: 38 T ML 985891\
+ \
+Gウォームルート： TC GOPHER\
+ WP Y1: 38 T ML 731740\
+ WP Y2: 38 T ML 630851\
+ \
+AAR BIGFOOT TRACK: TC VICTOR\
+ WP W1: 38 T ML 730883\
+ WP W2: 38 T ML 537865\
+ \
+レンジ情報：\
+レンジコントローラー： 124.0 Mhz AM\
+レンジエントリー： ALPHA - 38 T ML 730883\
+レンジイグジット：  CHARLIE - 38 T ML 953920\
+必要に応じて両方からの入退出が可能です。\
+\
+ハードデッキ： \
+MOA: 5000 FT AGL\
+VTA レンジ： 100 FT AGL\
+\
+オペレーション制限ゾーン：\
+1: TSINTSKARO: 38 T ML 684989\
+2: KUMISI: 38 T MM 818070\
+3: SOUTH OF THE KUMISI RESERVOIR: 38 T MM 870027\
+4: ASURETI: 38 T MM 724046\
+5: MARNEULI & SUBURBS: 38 T ML 836922\
+6: ARUHLO & KOLAGIN: 38 T ML 753912\
+7: KIKETI: 38 T MM 709113\
+8: TSKNETI: 38 T MM 747158\
+9: KOJORI: 38 T MM 755120\
+10: TABAKHMELA: 38 T MM 796113\
+11: MTISDZIRI: 38 T MM 926039\
+12: SOGANLUGI & KRTSANISI: 38 T MM 929091\
+\
+コントロールポイント (CP)： \
+ BRAVO: 38 T ML 713935 ARUHLOの北西\
+INITIAL POINTS (IP): \
+ CHEVY: 38 T ML 683989 TSINTSKARO中央上空\
+ ADDER: 38 T ML 822973 MARNEULIの北の線路の交差点\
+ MAZDA: 38 T MM 695056 ASURETIの西\
+ BANKS: 38 T ML 784988  ALGETI AND NALEBISKHEVI川の分岐の北\
+ EDSEL: 38 T MM 624040 TSINTSKAROの北西\
+ TOWEL: 38 T MM 710016  ALGETI AND ENAGETISKHEVI 川の分岐の北\
+\
+レンジチェックイン： 0215Z\
+レンジチェックアウト： 0245Z\
+VUL（作戦）時間： 30分\
+ \
+キルボックス（KILL BOX）: BKB001JFLCC 71 MM\
+有効（EFFECTIVE）: 0600Z 03 JULY 2011\
+停止（CANCELLED）: 0600Z 05 JULY 2011\
+高度: 100 TO FL150\
+\
+燃料状態：\
+JOKER: 3000 LBS\
+BINGO: 2500 LBS\
+\
+認証（AUTHENTICATION）：\
+質問（CHALLENGE）： MEMBER \
+応答（RESPONSE）： STATION\
+\
+CSAR 認証（AUTHENTICATION）：\
+SARNEG（Search and Rescue Numerical Encryption Grid：捜索救難数字暗号化グリッド）: MAGIC FORD\
+DURESS: WIZARD\
+WORD:   FOCUS\
+数字（NUMBER）: 42\
+文字（LETTER）: A\
+SARDOT（捜索救助地点）： ARCO\
+\
+注：これはランプスタートランプ終了ミッションです。それに応じでHOTASを設定してください。\
+\
+F10ラジオメニューを使用して、状況の連絡や指示を送信してください。\
+\
+ミッション成功基準：\
+キルボックス内の敵を破壊してから帰還してください。\
+キルボックス外の敵を攻撃しないでください。",
+    ["DictKey_UnitName_852"] = "BTR-80 DEAD #024",
+    ["DictKey_ActionText_2118"] = "よく聞こえています。",
+    ["DictKey_ActionText_1974"] = "",
+    ["DictKey_WptName_1199"] = "",
+    ["DictKey_WptName_1607"] = "",
+    ["DictKey_GroupName_499"] = "Target 1 Ammo #013",
+    ["DictKey_188"] = "COLT 1-1, UZI 1-1.\
+\
+帰還を許可します。\
+\
+着陸後に評価を伝えます。",
+    ["DictKey_GroupName_421"] = "MBT T-55 #037",
+    ["DictKey_WptName_1508"] = "",
+    ["DictKey_ActionText_1769"] = "",
+    ["DictKey_UnitName_1049"] = "Unit #030",
+    ["DictKey_WptName_1470"] = "",
+    ["DictKey_ActionText_1972"] = "",
+    ["DictKey_ActionText_1876"] = "",
+    ["DictKey_WptName_1304"] = "",
+    ["DictKey_WptName_1492"] = "",
+    ["DictKey_UnitName_828"] = "NONA DEAD  #003",
+    ["DictKey_UnitName_867"] = "SPRINGFIELD 2-2",
+    ["DictKey_99"] = "COLT 1-1 COPY",
+    ["DictKey_WptName_1667"] = "",
+    ["DictKey_ActionText_1990"] = "",
+    ["DictKey_UnitName_333"] = "OKB BMP 1-1",
+    ["DictKey_UnitName_1078"] = "FARP Tent #005",
+    ["DictKey_111"] = "KNOCK IT OFF!  KNOCK IT OFF!\
+\
+ハードデッキ制限を破りました！\
+\
+このPOを中止します！",
+    ["DictKey_UnitName_876"] = "Comms Tower #001",
+    ["DictKey_WptName_1242"] = "",
+    ["DictKey_UnitName_922"] = "Unit #006",
+    ["DictKey_WptName_1553"] = "",
+    ["DictKey_WptName_1592"] = "",
+    ["DictKey_GroupName_483"] = "Target 1 Ammo #005",
+    ["DictKey_WptName_1396"] = "",
+    ["DictKey_WptName_1208"] = "",
+    ["DictKey_WptName_1339"] = "",
+    ["DictKey_UnitName_584"] = "BMP-3 DEAD #017",
+    ["DictKey_GroupName_849"] = "T-55 DEAD #075",
+    ["DictKey_GroupName_589"] = "BMP-3 DEAD #020",
+    ["DictKey_ActionText_1907"] = "",
+    ["DictKey_UnitName_382"] = "MBT T-55 #006",
+    ["DictKey_GroupName_699"] = "T-55 DEAD #050",
+    ["DictKey_130"] = "Gウォーム開始",
+    ["DictKey_UnitName_1014"] = "Jaguar 1-2",
+    ["DictKey_UnitName_1039"] = "Lt Richard Dike #001",
+    ["DictKey_UnitName_2123"] = "TARGET 4-6",
+    ["DictKey_WptName_1173"] = "",
+    ["DictKey_GroupName_313"] = "Exit AAA East",
+    ["DictKey_GroupName_411"] = "MBT T-55 #032",
+    ["DictKey_GroupName_639"] = "T-55 DEAD #021",
+    ["DictKey_WptName_1220"] = "",
+    ["DictKey_UnitName_355"] = "OKB T-55 2-3",
+    ["DictKey_ActionText_1696"] = "",
+    ["DictKey_WptName_1308"] = "",
+    ["DictKey_UnitName_2128"] = "Unit #072",
+    ["DictKey_UnitName_482"] = "Target 1 Ammo #004",
+    ["DictKey_UnitName_937"] = "Unit #007",
+    ["DictKey_ActionText_1899"] = "",
+    ["DictKey_WptName_1631"] = "",
+    ["DictKey_UnitName_844"] = "BMP-3 DEAD #056",
+    ["DictKey_WptName_1666"] = "",
+    ["DictKey_WptName_1619"] = "",
+    ["DictKey_UnitName_628"] = "T-55 DEAD #015",
+    ["DictKey_UnitName_1004"] = "Unit #062",
+    ["DictKey_ActionText_2047"] = "",
+    ["DictKey_GroupName_477"] = "New Static Object #010",
+    ["DictKey_155"] = "COLT 1-1 UZI 1-1.\
+\
+コールドキルボックス 71 MM、ブルー、活動周波数TAD12\
+での活動を許可します。",
+    ["DictKey_UnitName_1098"] = "Comms Tower #003",
+    ["DictKey_116"] = "パイロットは敵ターゲットの位置を見つけるのがより困難です。\
+\
+通常、夜間BAIの実行を成功させるにはより多くの時間を必要とします。そのため、各ミッションの所要時間は長くなります。",
+    ["DictKey_UnitName_380"] = "MBT T-55 #005",
+    ["DictKey_UnitName_792"] = "BTR-80 DEAD #012",
+    ["DictKey_ActionText_2109"] = "",
+    ["DictKey_ActionText_1916"] = "",
+    ["DictKey_WptName_1364"] = "",
+    ["DictKey_WptName_1329"] = "",
+    ["DictKey_UnitName_842"] = "BMP-3 DEAD #055",
+    ["DictKey_WptName_1540"] = "",
+    ["DictKey_ActionText_1822"] = "",
+    ["DictKey_GroupName_911"] = "FARP Infantry 1 #001",
+    ["DictKey_GroupName_513"] = "New Static Object #015",
+    ["DictKey_UnitName_1035"] = "BP 8",
+    ["DictKey_UnitName_592"] = "BMP-3 DEAD #021",
+    ["DictKey_UnitName_325"] = "TARGET 4-1",
+    ["DictKey_GroupName_837"] = "T-55 DEAD #074",
+    ["DictKey_UnitName_536"] = "BTR-80 #3 DEAD",
+    ["DictKey_UnitName_502"] = "Target 1 Ammo #014",
+    ["DictKey_144"] = "3, COPY!",
+    ["DictKey_UnitName_860"] = "T-55 DEAD #079",
+    ["DictKey_WptName_1163"] = "",
+    ["DictKey_WptName_1436"] = "",
+    ["DictKey_114"] = "夜間BAIを成功させるのは最も難しい戦場でのミッションの一つです。\
+\
+成功させるためには、詳細なミッション計画、確実な交信、手順規律の遵守が必要です。",
+    ["DictKey_ActionText_1980"] = "",
+    ["DictKey_GroupName_246"] = "KB T-55 PLATOON",
+    ["DictKey_WptName_1287"] = "",
+    ["DictKey_ActionText_1792"] = "",
+    ["DictKey_ActionText_1836"] = "",
+    ["DictKey_WptName_1561"] = "",
+    ["DictKey_WptName_1659"] = "",
+    ["DictKey_UnitName_836"] = "T-55 DEAD #073",
+    ["DictKey_ActionText_1705"] = "",
+    ["DictKey_UnitName_476"] = "New Static Object #008",
+    ["DictKey_WptName_1509"] = "",
+    ["DictKey_156"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_574"] = "BMP-3 DEAD #012",
+    ["DictKey_WptName_1557"] = "",
+    ["DictKey_GroupName_451"] = "MBT T-55 #046",
+    ["DictKey_GroupName_591"] = "BMP-3 DEAD #021",
+    ["DictKey_WptName_1625"] = "",
+    ["DictKey_192"] = "いまいちです！\
+\
+あなたの評価は不可（Unqualified)です。\
+\
+もっと訓練に時間を費やす必要があります。\
+\
+準備ができたらこのPOに再挑戦してください。\
+\
+MISSION FAILED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_WptName_1190"] = "",
+    ["DictKey_UnitName_1000"] = "Unit #059",
+    ["DictKey_WptName_1269"] = "",
+    ["DictKey_WptName_1306"] = "",
+    ["DictKey_UnitName_267"] = "OKB ARTY 2-2",
+    ["DictKey_GroupName_285"] = "BTR PLATOON #003",
+    ["DictKey_WptName_1194"] = "",
+    ["DictKey_WptName_1352"] = "",
+    ["DictKey_ActionText_1791"] = "",
+    ["DictKey_WptName_1301"] = "",
+    ["DictKey_ActionText_1831"] = "",
+    ["DictKey_GroupName_342"] = "BMP PLATOON #004",
+    ["DictKey_UnitName_2133"] = "Unit #095",
+    ["DictKey_WptName_1489"] = "",
+    ["DictKey_GroupName_1113"] = "New Static Object #005",
+    ["DictKey_WptName_1333"] = "",
+    ["DictKey_ActionText_1963"] = "",
+    ["DictKey_ActionText_1956"] = "",
+    ["DictKey_212"] = "COLT 1-1, UZI 1-1.\
+\
+あのターゲットはキルボックスの外にいます。",
+    ["DictKey_UnitName_2126"] = "Unit #067",
+    ["DictKey_ActionText_2075"] = "",
+    ["DictKey_UnitName_224"] = "Unit #076",
+    ["DictKey_UnitName_432"] = "MBT T-55 #017",
+    ["DictKey_WptName_1309"] = "",
+    ["DictKey_UnitName_365"] = "OKB T-55 #002",
+    ["DictKey_GroupName_990"] = "Bradley Platoon #009",
+    ["DictKey_UnitName_2139"] = "Unit #104",
+    ["DictKey_WptName_1601"] = "",
+    ["DictKey_ActionText_1848"] = "",
+    ["DictKey_WptName_1572"] = "",
+    ["DictKey_ActionText_2114"] = "高度を確認して下さい！",
+    ["DictKey_UnitName_724"] = "T-55 DEAD #062",
+    ["DictKey_UnitName_294"] = "Unit #167",
+    ["DictKey_UnitName_2132"] = "Unit #094",
+    ["DictKey_GroupName_433"] = "MBT T-55 #018",
+    ["DictKey_UnitName_278"] = "OKB BTR 4-3",
+    ["DictKey_GroupName_485"] = "Target 1 Ammo #006",
+    ["DictKey_UnitName_941"] = "Lt Judy Mizor",
+    ["DictKey_ActionText_1819"] = "",
+    ["DictKey_GroupName_595"] = "BMP-3 DEAD #023",
+    ["DictKey_WptName_1628"] = "CP BRAVO",
+    ["DictKey_UnitName_578"] = "BMP-3 DEAD #014",
+    ["DictKey_ActionText_1821"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_ActionText_1924"] = "",
+    ["DictKey_WptName_1225"] = "",
+    ["DictKey_UnitName_702"] = "T-55 DEAD #051",
+    ["DictKey_GroupName_431"] = "MBT T-55 #017",
+    ["DictKey_UnitName_736"] = "T-55 DEAD #068",
+    ["DictKey_ActionText_1850"] = "",
+    ["DictKey_WptName_1357"] = "",
+    ["DictKey_GroupName_587"] = "BMP-3 DEAD #019",
+    ["DictKey_203"] = "爆弾投下！（BOMBS AWAY）",
+    ["DictKey_UnitName_335"] = "Unit #070",
+    ["DictKey_GroupName_541"] = "BMP-3 DEAD #003",
+    ["DictKey_WptName_1351"] = "",
+    ["DictKey_ActionText_2052"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_WptName_1469"] = "",
+    ["DictKey_UnitName_1096"] = "New Static Object #002",
+    ["DictKey_WptName_1151"] = "",
+    ["DictKey_WptName_1284"] = "",
+    ["DictKey_WptName_1465"] = "",
+    ["DictKey_WptName_1442"] = "",
+    ["DictKey_WptName_1576"] = "",
+    ["DictKey_ActionText_2014"] = "",
+    ["DictKey_WptName_1210"] = "",
+    ["DictKey_GroupName_1123"] = "FE SCOUT PARKED #001",
+    ["DictKey_UnitName_776"] = "BMP-3 DEAD #046",
+    ["DictKey_WptName_1212"] = "",
+    ["DictKey_UnitName_912"] = "Unit #002",
+    ["DictKey_UnitName_790"] = "BTR-80 DEAD #011",
+    ["DictKey_GroupName_377"] = "MBT T-55 #004",
+    ["DictKey_ActionText_1887"] = "",
+    ["DictKey_GroupName_511"] = "New Static Object #014",
+    ["DictKey_UnitName_2136"] = "Unit #101",
+    ["DictKey_GroupName_427"] = "Ammunition Depot",
+    ["DictKey_UnitName_303"] = "Unit #181",
+    ["DictKey_WptName_1402"] = "",
+    ["DictKey_WptName_1610"] = "",
+    ["DictKey_ActionText_2038"] = "",
+    ["DictKey_GroupName_649"] = "T-55 DEAD #026",
+    ["DictKey_ActionText_1942"] = "",
+    ["DictKey_UnitName_452"] = "MBT T-55 #046",
+    ["DictKey_151"] = "COLT 1　予定通りチェックイン",
+    ["DictKey_GroupName_905"] = "FARP Infantry 1",
+    ["DictKey_UnitName_349"] = "Unit #137",
+    ["DictKey_WptName_1656"] = "",
+    ["DictKey_UnitName_384"] = "MBT T-55 #007",
+    ["DictKey_UnitName_832"] = "UAZ DEAD",
+    ["DictKey_ActionText_1739"] = "",
+    ["DictKey_UnitName_2138"] = "Unit #103",
+    ["DictKey_WptName_1542"] = "",
+    ["DictKey_WptName_1665"] = "",
+    ["DictKey_ActionRadioText_2117"] = "COPY",
+    ["DictKey_WptName_1290"] = "",
+    ["DictKey_WptName_1600"] = "",
+    ["DictKey_GroupName_767"] = "BMP-3 DEAD #042",
+    ["DictKey_WptName_1642"] = "",
+    ["DictKey_WptName_1544"] = "",
+    ["DictKey_WptName_1323"] = "",
+    ["DictKey_WptName_1676"] = "",
+    ["DictKey_GroupName_801"] = "BTR-80 DEAD #017",
+    ["DictKey_ActionText_1823"] = "",
+    ["DictKey_GroupName_771"] = "BMP-3 DEAD #044",
+    ["DictKey_ActionText_1933"] = "",
+    ["DictKey_WptName_1235"] = "Target 5",
+    ["DictKey_UnitName_672"] = "T-55 DEAD #036",
+    ["DictKey_GroupName_721"] = "T-55 DEAD #061",
+    ["DictKey_GroupName_751"] = "BMP-3 DEAD #034",
+    ["DictKey_UnitName_357"] = "OKB T-55 2-1",
+    ["DictKey_WptName_1567"] = "",
+    ["DictKey_GroupName_789"] = "BTR-80 DEAD #011",
+    ["DictKey_WptName_1226"] = "",
+    ["DictKey_GroupName_994"] = "Bradley Platoon #010",
+    ["DictKey_ActionText_2112"] = "高度を確認して下さい！",
+    ["DictKey_120"] = "ターゲットの位置は、SADLや同様のデータリンクを介して航空機の兵器システムに送信されます。",
+    ["DictKey_ActionText_1717"] = "",
+    ["DictKey_ActionText_2037"] = "",
+    ["DictKey_97"] = "機体を始動させて、準備ができたら通信チェックを行います。",
+    ["DictKey_WptName_1569"] = "",
+    ["DictKey_UnitName_396"] = "MBT T-55 #020",
+    ["DictKey_ActionText_1938"] = "",
+    ["DictKey_ActionText_1731"] = "",
+    ["DictKey_UnitName_732"] = "T-55 DEAD #066",
+    ["DictKey_ActionText_2004"] = "",
+    ["DictKey_104"] = "友軍は、フェーズラインHAMMERで待機し、補給と再武装を行っています。",
+    ["DictKey_UnitName_1057"] = "Unit #036",
+    ["DictKey_UnitName_570"] = "BMP-3 DEAD #010",
+    ["DictKey_GroupName_1006"] = "Bradley Platoon #004",
+    ["DictKey_WptName_1281"] = "",
+    ["DictKey_WptName_1186"] = "",
+    ["DictKey_ActionText_2070"] = "",
+    ["DictKey_ActionText_2042"] = "",
+    ["DictKey_WptName_1362"] = "",
+    ["DictKey_ActionText_1825"] = "",
+    ["DictKey_WptName_1271"] = "",
+    ["DictKey_ActionText_1834"] = "",
+    ["DictKey_WptName_1374"] = "",
+    ["DictKey_GroupName_697"] = "T-55 DEAD #049",
+    ["DictKey_GroupName_769"] = "BMP-3 DEAD #043",
+    ["DictKey_ActionText_2055"] = "",
+    ["DictKey_GroupName_787"] = "BTR-80 DEAD #010",
+    ["DictKey_UnitName_400"] = "MBT T-55 #024",
+    ["DictKey_UnitName_945"] = "Cpl Jerry Spring",
+    ["DictKey_GroupName_277"] = "BTR PLATOON #004",
+    ["DictKey_186"] = "2, COPY!",
+    ["DictKey_WptName_1526"] = "",
+    ["DictKey_129"] = "Gウォーム開始",
+    ["DictKey_ActionText_2081"] = "",
+    ["DictKey_WptName_1321"] = "",
+    ["DictKey_UnitName_528"] = "T-55 DEAD #002",
+    ["DictKey_ActionText_1703"] = "",
+    ["DictKey_WptName_1622"] = "CHARLIE",
+    ["DictKey_WptName_1261"] = "",
+    ["DictKey_WptName_1160"] = "",
+    ["DictKey_UnitName_865"] = "Lt Henry Hull",
+    ["DictKey_WptName_1388"] = "",
+    ["DictKey_WptName_1247"] = "",
+    ["DictKey_198"] = "良い知らせです！\
+\
+多くの敵ユニットを破壊したと、飛行後BDA報告がありました。\
+\
+グッジョブ！",
+    ["DictKey_UnitName_542"] = "BMP-3 DEAD #003",
+    ["DictKey_ActionText_1918"] = "",
+    ["DictKey_GroupName_475"] = "New Static Object #009",
+    ["DictKey_ActionText_1851"] = "",
+    ["DictKey_UnitName_420"] = "MBT T-55 #036",
+    ["DictKey_GroupName_653"] = "T-55 DEAD #028",
+    ["DictKey_WptName_1389"] = "",
+    ["DictKey_UnitName_1072"] = "FARP Tent #003",
+    ["DictKey_UnitName_604"] = "BMP-3 DEAD #027",
+    ["DictKey_UnitName_684"] = "T-55 DEAD #042",
+    ["DictKey_ActionText_1737"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_GroupName_839"] = "BMP-3 DEAD #054",
+    ["DictKey_UnitName_288"] = "OKB BTR 3-1",
+    ["DictKey_UnitName_678"] = "T-55 DEAD #039",
+    ["DictKey_UnitName_314"] = "Unit #011",
+    ["DictKey_GroupName_439"] = "Small House 2",
+    ["DictKey_GroupName_1036"] = "M1 Platoon #004",
+    ["DictKey_ActionText_1998"] = "",
+    ["DictKey_ActionText_1755"] = "",
+    ["DictKey_ActionText_1734"] = "",
+    ["DictKey_ActionText_2086"] = "",
+    ["DictKey_GroupName_866"] = "SU-25 SPRINGFIELD 2",
+    ["DictKey_ActionText_1697"] = "",
+    ["DictKey_GroupName_1117"] = "New Static Object #012",
+    ["DictKey_WptName_1636"] = "",
+    ["DictKey_206"] = "ROCKETS AWAY!",
+    ["DictKey_UnitName_275"] = "OKB BTR 1-2",
+    ["DictKey_WptName_1275"] = "",
+    ["DictKey_WptName_1437"] = "",
+    ["DictKey_WptName_1296"] = "",
+    ["DictKey_GroupName_753"] = "BMP-3 DEAD #035",
+    ["DictKey_GroupName_599"] = "BMP-3 DEAD #025",
+    ["DictKey_UnitName_906"] = "Unit #001",
+    ["DictKey_WptName_1183"] = "",
+    ["DictKey_WptName_1575"] = "",
+    ["DictKey_WptName_1406"] = "",
+    ["DictKey_ActionText_2005"] = "",
+    ["DictKey_UnitName_1068"] = "FARP Tent #1",
+    ["DictKey_UnitName_468"] = "MBT T-55 #048",
+    ["DictKey_GroupName_601"] = "BMP-3 DEAD #026",
+    ["DictKey_UnitName_1005"] = "BP 3",
+    ["DictKey_ActionText_2032"] = "",
+    ["DictKey_WptName_1590"] = "",
+    ["DictKey_ActionText_2049"] = "",
+    ["DictKey_ActionText_2110"] = "高度を確認して下さい！",
+    ["DictKey_ActionText_1889"] = "",
+    ["DictKey_WptName_1181"] = "",
+    ["DictKey_ActionText_1736"] = "",
+    ["DictKey_GroupName_669"] = "T-55 DEAD #035",
+    ["DictKey_GroupName_713"] = "T-55 DEAD #057",
+    ["DictKey_UnitName_983"] = "Unit #048",
+    ["DictKey_UnitName_550"] = "BTR-80 DEAD #006",
+    ["DictKey_WptName_1513"] = "",
+    ["DictKey_GroupName_1075"] = "FARP Tent #004",
+    ["DictKey_ActionText_2007"] = "",
+    ["DictKey_UnitName_440"] = "Small House 2",
+    ["DictKey_ActionText_1702"] = "",
+    ["DictKey_UnitName_1007"] = "Unit #066",
+    ["DictKey_ActionText_1931"] = "",
+    ["DictKey_ActionText_1817"] = "",
+    ["DictKey_WptName_1550"] = "",
+    ["DictKey_UnitName_634"] = "T-55 DEAD #018",
+    ["DictKey_UnitName_856"] = "T-55 DEAD #077",
+    ["DictKey_UnitName_512"] = "New Static Object #014",
+    ["DictKey_ActionText_1973"] = "",
+    ["DictKey_WptName_1305"] = "",
+    ["DictKey_UnitName_820"] = "BMP-3 DEAD #053",
+    ["DictKey_UnitName_516"] = "New Static Object #016",
+    ["DictKey_WptName_1369"] = "",
+    ["DictKey_GroupName_250"] = "T-55 PLATOON #008",
+    ["DictKey_ActionText_1758"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_494"] = "Target 1 Ammo #010",
+    ["DictKey_GroupName_543"] = "BTR-80 DEAD #003",
+    ["DictKey_138"] = "2, COPY!",
+    ["DictKey_UnitName_236"] = "Unit #088",
+    ["DictKey_UnitName_406"] = "MBT T-55 #029",
+    ["DictKey_UnitName_310"] = "Unit #188",
+    ["DictKey_UnitName_798"] = "BTR-80 DEAD #015",
+    ["DictKey_WptName_1441"] = "",
+    ["DictKey_UnitName_794"] = "BTR-80 DEAD #013",
+    ["DictKey_UnitName_968"] = "Unit #034",
+    ["DictKey_GroupName_958"] = "M1 Platoon #007",
+    ["DictKey_UnitName_728"] = "T-55 DEAD #064",
+    ["DictKey_GroupName_525"] = "T-55 DEAD #001",
+    ["DictKey_WptName_1150"] = "",
+    ["DictKey_ActionText_2084"] = "",
+    ["DictKey_GroupName_1032"] = "Bradley Platoon #008",
+    ["DictKey_UnitName_302"] = "Unit #182",
+    ["DictKey_WptName_1450"] = "",
+    ["DictKey_GroupName_621"] = "T-55 DEAD #012",
+    ["DictKey_WptName_1571"] = "",
+    ["DictKey_ActionText_1686"] = "",
+    ["DictKey_WptName_1139"] = "",
+    ["DictKey_136"] = "Gウォーム 90 ライト　開始",
+    ["DictKey_GroupName_597"] = "BMP-3 DEAD #024",
+    ["DictKey_GroupName_617"] = "T-55 DEAD #010",
+    ["DictKey_GroupName_549"] = "BTR-80 DEAD #006",
+    ["DictKey_WptName_1288"] = "",
+    ["DictKey_ActionText_1869"] = "",
+    ["DictKey_GroupName_479"] = "Target 1 Ammo #002",
+    ["DictKey_WptName_1620"] = "",
+    ["DictKey_ActionText_1911"] = "",
+    ["DictKey_GroupName_407"] = "MBT T-55 #030",
+    ["DictKey_GroupName_445"] = "Small House",
+    ["DictKey_UnitName_975"] = "Unit #045",
+    ["DictKey_UnitName_282"] = "OKB BTR 2-3",
+    ["DictKey_UnitName_895"] = "BOAR 1-1",
+    ["DictKey_ActionText_1893"] = "",
+    ["DictKey_WptName_1462"] = "",
+    ["DictKey_WptName_1599"] = "",
+    ["DictKey_WptName_1515"] = "",
+    ["DictKey_UnitName_369"] = "Unit #206",
+    ["DictKey_GroupName_737"] = "BMP-3 DEAD",
+    ["DictKey_ActionText_2011"] = "",
+    ["DictKey_ActionText_1709"] = "",
+    ["DictKey_WptName_1605"] = "",
+    ["DictKey_WptName_1487"] = "",
+    ["DictKey_UnitName_840"] = "BMP-3 DEAD #054",
+    ["DictKey_GroupName_635"] = "T-55 DEAD #019",
+    ["DictKey_GroupName_875"] = "Comms Tower #001",
+    ["DictKey_UnitName_1059"] = "Cpt Mannie Lepaz #001",
+    ["DictKey_174"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_GroupName_679"] = "T-55 DEAD #040",
+    ["DictKey_GroupName_717"] = "T-55 DEAD #059",
+    ["DictKey_GroupName_723"] = "T-55 DEAD #062",
+    ["DictKey_ActionText_2057"] = "",
+    ["DictKey_UnitName_530"] = "T-55 DEAD #003",
+    ["DictKey_ActionText_1779"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_GroupName_493"] = "Target 1 Ammo #010",
+    ["DictKey_WptName_1594"] = "",
+    ["DictKey_ActionText_1966"] = "",
+    ["DictKey_UnitName_864"] = "Cpt John Mathews",
+    ["DictKey_ActionText_1904"] = "",
+    ["DictKey_WptName_1256"] = "",
+    ["DictKey_WptName_1472"] = "",
+    ["DictKey_GroupName_1048"] = "LAV Platoon #001",
+    ["DictKey_WptName_1348"] = "",
+    ["DictKey_UnitName_995"] = "Unit #057",
+    ["DictKey_UnitName_616"] = "T-55 DEAD #009",
+    ["DictKey_ActionText_1969"] = "",
+    ["DictKey_UnitName_722"] = "T-55 DEAD #061",
+    ["DictKey_WptName_1626"] = "",
+    ["DictKey_WptName_1655"] = "",
+    ["DictKey_GroupName_262"] = "ARTY PLATOON #002",
+    ["DictKey_GroupName_821"] = "NONA DEAD ",
+    ["DictKey_ActionText_2053"] = "",
+    ["DictKey_UnitName_1094"] = "Perth FARP #4",
+    ["DictKey_UnitName_886"] = "FORD 1-2",
+    ["DictKey_ActionText_1770"] = "",
+    ["DictKey_UnitName_760"] = "BMP-3 DEAD #038",
+    ["DictKey_UnitName_339"] = "OKB BMP 3-3",
+    ["DictKey_UnitName_484"] = "Target 1 Ammo #005",
+    ["DictKey_115"] = "夜間の活動は、以前説明したように、明らかな利点がありますが、夜間のBAI部隊のマネジメントに関しては大きな欠点です",
+    ["DictKey_UnitName_720"] = "T-55 DEAD #060",
+    ["DictKey_UnitName_1084"] = "New Static Object #1",
+    ["DictKey_ActionText_1888"] = "",
+    ["DictKey_GroupName_318"] = "EXIT AAA West",
+    ["DictKey_WptName_1654"] = "",
+    ["DictKey_UnitName_985"] = "Sgt Neil O'Riely",
+    ["DictKey_WptName_1293"] = "",
+    ["DictKey_WptName_1168"] = "",
+    ["DictKey_ActionText_1710"] = "",
+    ["DictKey_WptName_1652"] = "",
+    ["DictKey_GroupName_629"] = "T-55 DEAD #016",
+    ["DictKey_GroupName_463"] = "MBT T-55 #050",
+    ["DictKey_ActionText_2050"] = "",
+    ["DictKey_GroupName_896"] = "A-10C PIG 1",
+    ["DictKey_UnitName_386"] = "MBT T-55 #008",
+    ["DictKey_UnitName_706"] = "T-55 DEAD #053",
+    ["DictKey_GroupName_755"] = "BMP-3 DEAD #036",
+    ["DictKey_ActionText_1785"] = "",
+    ["DictKey_WptName_1593"] = "",
+    ["DictKey_GroupName_517"] = "New Static Object #017",
+    ["DictKey_WptName_1245"] = "",
+    ["DictKey_WptName_1501"] = "",
+    ["DictKey_178"] = "COLT 1-1, UZI 1-1.\
+\
+プレイタイムは終了です。\
+\
+イーグレスポイントへ向かって下さい。",
+    ["DictKey_GroupName_893"] = "A-10C BOAR 1",
+    ["DictKey_ActionText_1754"] = "",
+    ["DictKey_WptName_1273"] = "",
+    ["DictKey_WptName_1283"] = "",
+    ["DictKey_UnitName_977"] = "Unit #043",
+    ["DictKey_WptName_1432"] = "",
+    ["DictKey_181"] = "COLT 1,\
+\
+私達のVUL時間は終了しました。チェックアウトします。\
+\
+STAY SAFE DOWN THERE",
+    ["DictKey_WptName_1616"] = "",
+    ["DictKey_163"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_430"] = "MBT T-55 #014",
+    ["DictKey_ActionText_1726"] = "",
+    ["DictKey_GroupName_389"] = "MBT T-55 #015",
+    ["DictKey_WptName_1558"] = "",
+    ["DictKey_UnitName_1038"] = "Unit #018",
+    ["DictKey_202"] = "RIFLE!",
+    ["DictKey_ActionText_1766"] = "",
+    ["DictKey_WptName_1299"] = "",
+    ["DictKey_ActionText_1979"] = "",
+    ["DictKey_UnitName_450"] = "MBT T-55 #045",
+    ["DictKey_WptName_1244"] = "",
+    ["DictKey_98"] = "COLT 1-1, UZI 1-1, \
+\
+ラジオチェック",
+    ["DictKey_GroupName_379"] = "MBT T-55 #005",
+    ["DictKey_UnitName_266"] = "OKB ARTY 2-3",
+    ["DictKey_UnitName_788"] = "BTR-80 DEAD #010",
+    ["DictKey_UnitName_734"] = "T-55 DEAD #067",
+    ["DictKey_WptName_1477"] = "",
+    ["DictKey_UnitName_951"] = "Cpl Diane Deaver",
+    ["DictKey_UnitName_686"] = "T-55 DEAD #043",
+    ["DictKey_UnitName_1009"] = "Sgt Clive Marson",
+    ["DictKey_UnitName_582"] = "BMP-3 DEAD #016",
+    ["DictKey_WptName_1505"] = "",
+    ["DictKey_WptName_1228"] = "",
+    ["DictKey_UnitName_518"] = "New Static Object #017",
+    ["DictKey_GroupName_1079"] = "FARP Tent #006",
+    ["DictKey_WptName_1651"] = "",
+    ["DictKey_UnitName_981"] = "Cpt Mannie Lepaz",
+    ["DictKey_WptName_1312"] = "",
+    ["DictKey_WptName_1223"] = "",
+    ["DictKey_ActionText_2059"] = "",
+    ["DictKey_UnitName_909"] = "FARP Infantry 2",
+    ["DictKey_UnitName_774"] = "BMP-3 DEAD #045",
+    ["DictKey_UnitName_963"] = "Unit #032",
+    ["DictKey_ActionText_2066"] = "",
+    ["DictKey_WptName_1624"] = "ALPHA",
+    ["DictKey_UnitName_374"] = "MBT T-55",
+    ["DictKey_WptName_1188"] = "",
+    ["DictKey_UnitName_304"] = "Unit #180",
+    ["DictKey_ActionText_1858"] = "",
+    ["DictKey_WptName_1292"] = "",
+    ["DictKey_ActionText_1914"] = "",
+    ["DictKey_ActionText_1762"] = "",
+    ["DictKey_ActionText_1874"] = "",
+    ["DictKey_ActionText_1861"] = "",
+    ["DictKey_WptName_1356"] = "",
+    ["DictKey_UnitName_230"] = "Unit #083",
+    ["DictKey_UnitName_329"] = "Target 3-1",
+    ["DictKey_WptName_1343"] = "",
+    ["DictKey_UnitName_1124"] = "FE SCOUT PARKED #001",
+    ["DictKey_GroupName_899"] = "C-130 ENFIELD 2-1",
+    ["DictKey_GroupName_641"] = "T-55 DEAD #022",
+    ["DictKey_GroupName_611"] = "T-55 DEAD #007",
+    ["DictKey_GroupName_393"] = "MBT T-55 #019",
+    ["DictKey_UnitName_320"] = "EXIT AAA West 2",
+    ["DictKey_ActionText_2089"] = "",
+    ["DictKey_UnitName_682"] = "T-55 DEAD #041",
+    ["DictKey_UnitName_1080"] = "FARP Tent #006",
+    ["DictKey_WptName_1504"] = "",
+    ["DictKey_ActionText_2106"] = "高度を確認して下さい！",
+    ["DictKey_GroupName_932"] = "New Vehicle Group #009",
+    ["DictKey_UnitName_716"] = "T-55 DEAD #058",
+    ["DictKey_ActionText_2113"] = "高度を確認して下さい！",
+    ["DictKey_WptName_1425"] = "",
+    ["DictKey_WptName_1424"] = "",
+    ["DictKey_WptName_1611"] = "",
+    ["DictKey_WptName_1147"] = "",
+    ["DictKey_ActionText_1689"] = "",
+    ["DictKey_WptName_1634"] = "",
+    ["DictKey_GroupName_553"] = "BMP-3 DEAD #005",
+    ["DictKey_UnitName_889"] = "SHELL",
+    ["DictKey_ActionText_1752"] = "",
+    ["DictKey_GroupName_354"] = "M T-55 PLATOON #002",
+    ["DictKey_ActionText_1727"] = "",
+    ["DictKey_UnitName_680"] = "T-55 DEAD #040",
+    ["DictKey_UnitName_436"] = "MBT T-55 #021",
+    ["DictKey_WptName_1391"] = "",
+    ["DictKey_UnitName_1001"] = "Sgt Tom Straight",
+    ["DictKey_ActionText_1707"] = "",
+    ["DictKey_GroupName_954"] = "M1 Platoon",
+    ["DictKey_WptName_1189"] = "",
+    ["DictKey_GroupName_1119"] = "New Static Object #013",
+    ["DictKey_GroupName_809"] = "T-55 DEAD #070",
+    ["DictKey_UnitName_1120"] = "New Static Object #012",
+    ["DictKey_UnitName_315"] = "Exit AAA East",
+    ["DictKey_WptName_1536"] = "",
+    ["DictKey_ActionText_1839"] = "",
+    ["DictKey_UnitName_1106"] = "MBT T-55 #043",
+    ["DictKey_WptName_1336"] = "",
+    ["DictKey_ActionText_1842"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_688"] = "T-55 DEAD #044",
+    ["DictKey_GroupName_869"] = "Mi-8 SPRINGFIELD 4-1",
+    ["DictKey_149"] = "3, COPY!",
+    ["DictKey_164"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_662"] = "T-55 DEAD #031",
+    ["DictKey_WptName_1431"] = "",
+    ["DictKey_GroupName_415"] = "MBT T-55 #034",
+    ["DictKey_205"] = "爆弾投下！（BOMBS AWAY）",
+    ["DictKey_WptName_1479"] = "",
+    ["DictKey_WptName_1367"] = "",
+    ["DictKey_WptName_1202"] = "",
+    ["DictKey_WptName_1393"] = "",
+    ["DictKey_ActionText_1759"] = "",
+    ["DictKey_GroupName_358"] = "KB T-55 PLATOON #003",
+    ["DictKey_GroupName_783"] = "BMP-3 DEAD #050",
+    ["DictKey_GroupName_1093"] = "Perth FARP #005",
+    ["DictKey_WptName_1537"] = "",
+    ["DictKey_ActionText_1748"] = "",
+    ["DictKey_WptName_1149"] = "",
+    ["DictKey_137"] = "COLT 1 Gウォーム　９０レフト　ゴー！",
+    ["DictKey_WptName_1649"] = "",
+    ["DictKey_ActionText_2022"] = "",
+    ["DictKey_ActionText_1909"] = "",
+    ["DictKey_WptName_1330"] = "",
+    ["DictKey_ActionText_1690"] = "",
+    ["DictKey_GroupName_607"] = "T-55 DEAD #005",
+    ["DictKey_140"] = "Gウォーム 90 ライト　開始",
+    ["DictKey_UnitName_752"] = "BMP-3 DEAD #034",
+    ["DictKey_ActionText_2082"] = "",
+    ["DictKey_194"] = "いまいちです！\
+\
+あなたの評価は不可（Unqualified)です。\
+\
+もっと訓練に時間を費やす必要があります。\
+\
+準備ができたらこのPOに再挑戦してください。\
+\
+MISSION FAILED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_GroupName_687"] = "T-55 DEAD #044",
+    ["DictKey_WptName_1554"] = "",
+    ["DictKey_UnitName_1015"] = "JAGUAR 1-1",
+    ["DictKey_ActionText_1844"] = "",
+    ["DictKey_WptName_1531"] = "",
+    ["DictKey_UnitName_957"] = "Cpt Trevor Mace",
+    ["DictKey_WptName_1481"] = "",
+    ["DictKey_ActionText_1783"] = "",
+    ["DictKey_167"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_WptName_1213"] = "",
+    ["DictKey_UnitName_233"] = "Unit #080",
+    ["DictKey_ActionText_1723"] = "",
+    ["DictKey_ActionText_1704"] = "",
+    ["DictKey_WptName_1350"] = "",
+    ["DictKey_UnitName_904"] = "Sgt Mark Garneau",
+    ["DictKey_UnitName_426"] = "MBT T-55 #039",
+    ["DictKey_WptName_1408"] = "",
+    ["DictKey_WptName_1452"] = "",
+    ["DictKey_WptName_1334"] = "",
+    ["DictKey_ActionText_1761"] = "",
+    ["DictKey_GroupName_741"] = "BMP-3 DEAD #029",
+    ["DictKey_ActionText_2085"] = "",
+    ["DictKey_WptName_1206"] = "",
+    ["DictKey_UnitName_668"] = "T-55 DEAD #034",
+    ["DictKey_UnitName_351"] = "Unit #163",
+    ["DictKey_WptName_1629"] = "",
+    ["DictKey_UnitName_972"] = "Unit #037",
+    ["DictKey_WptName_1438"] = "",
+    ["DictKey_210"] = "1, レーザー照射！",
+    ["DictKey_WptName_1155"] = "",
+    ["DictKey_ActionText_1722"] = "",
+    ["DictKey_GroupName_835"] = "T-55 DEAD #073",
+    ["DictKey_125"] = "ターゲットへの攻撃をは、同時に１飛行隊にのみ許可してください。彼らの攻撃ルートに他の航空機がいないようにしてください。",
+    ["DictKey_ActionText_2108"] = "高度を確認して下さい！",
+    ["DictKey_ActionText_2016"] = "",
+    ["DictKey_ActionText_1805"] = "",
+    ["DictKey_WptName_1191"] = "",
+    ["DictKey_ActionText_2040"] = "",
+    ["DictKey_ActionText_1970"] = "",
+    ["DictKey_WptName_1156"] = "",
+    ["DictKey_UnitName_664"] = "T-55 DEAD #032",
+    ["DictKey_GroupName_395"] = "MBT T-55 #020",
+    ["DictKey_WptName_1519"] = "",
+    ["DictKey_GroupName_495"] = "Target 1 Ammo #011",
+    ["DictKey_GroupName_555"] = "BMP-3 DEAD #006",
+    ["DictKey_ActionText_1827"] = "",
+    ["DictKey_UnitName_786"] = "BTR-80 DEAD",
+    ["DictKey_ActionText_1883"] = "",
+    ["DictKey_UnitName_927"] = "Sgt Eric Lestrange",
+    ["DictKey_UnitName_287"] = "OKB BTR 3-2",
+    ["DictKey_WptName_1423"] = "",
+    ["DictKey_ActionText_1870"] = "",
+    ["DictKey_WptName_1587"] = "",
+    ["DictKey_WptName_1371"] = "",
+    ["DictKey_UnitName_546"] = "BTR-80 DEAD #004",
+    ["DictKey_ActionText_1996"] = "",
+    ["DictKey_WptName_1392"] = "",
+    ["DictKey_169"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_446"] = "Small House",
+    ["DictKey_WptName_1403"] = "",
+    ["DictKey_UnitName_259"] = "Unit #128",
+    ["DictKey_UnitName_1019"] = "LAV 1",
+    ["DictKey_UnitName_978"] = "Unit #042",
+    ["DictKey_204"] = "爆弾投下！（BOMBS AWAY）",
+    ["DictKey_ActionText_1797"] = "",
+    ["DictKey_GroupName_1016"] = "LAV Platoon",
+    ["DictKey_ActionText_1846"] = "",
+    ["DictKey_UnitName_371"] = "Unit #204",
+    ["DictKey_GroupName_413"] = "MBT T-55 #033",
+    ["DictKey_WptName_1552"] = "",
+    ["DictKey_UnitName_2130"] = "Unit #086",
+    ["DictKey_GroupName_733"] = "T-55 DEAD #067",
+    ["DictKey_ActionText_1967"] = "",
+    ["DictKey_ActionText_1993"] = "",
+    ["DictKey_ActionText_2003"] = "",
+    ["DictKey_GroupName_539"] = "BMP-3 DEAD #002",
+    ["DictKey_ActionText_1814"] = "",
+    ["DictKey_ActionText_1945"] = "",
+    ["DictKey_WptName_1214"] = "",
+    ["DictKey_ActionText_1809"] = "",
+    ["DictKey_ActionText_2065"] = "",
+    ["DictKey_101"] = "今日のミッションは、BAI（Battlefield Air Interdiction：戦場航空インターディクション）のマネジメントを行ってください。",
+    ["DictKey_ActionText_1698"] = "",
+    ["DictKey_WptName_1354"] = "",
+    ["DictKey_UnitName_295"] = "Unit #166",
+    ["DictKey_WptName_1520"] = "",
+    ["DictKey_ActionText_1946"] = "",
+    ["DictKey_GroupName_1125"] = "FE SCOUT PARKED #002",
+    ["DictKey_WptName_1337"] = "",
+    ["DictKey_ActionText_2078"] = "",
+    ["DictKey_GroupName_293"] = "KB BMP PLATOON #006",
+    ["DictKey_UnitName_544"] = "BTR-80 DEAD #003",
+    ["DictKey_ActionText_1789"] = "",
+    ["DictKey_185"] = "COLT 1, FENCE OUT（フェンスアウト）...",
+    ["DictKey_WptName_1134"] = "",
+    ["DictKey_UnitName_989"] = "BP 1",
+    ["DictKey_UnitName_810"] = "T-55 DEAD #070",
+    ["DictKey_UnitName_698"] = "T-55 DEAD #049",
+    ["DictKey_UnitName_496"] = "Target 1 Ammo #011",
+    ["DictKey_ActionText_1852"] = "",
+    ["DictKey_UnitName_692"] = "T-55 DEAD #046",
+    ["DictKey_UnitName_834"] = "T-55 DEAD #072",
+    ["DictKey_ActionText_1881"] = "",
+    ["DictKey_ActionText_2147"] = "1, COPY!",
+    ["DictKey_GroupName_625"] = "T-55 DEAD #014",
+    ["DictKey_GroupName_982"] = "Bradley Platoon #002",
+    ["DictKey_UnitName_730"] = "T-55 DEAD #065",
+    ["DictKey_WptName_1668"] = "",
+    ["DictKey_208"] = "1, ローリング！",
+    ["DictKey_UnitName_524"] = "BMP-3 #3 DEAD",
+    ["DictKey_UnitName_219"] = "Target 5-1",
+    ["DictKey_UnitName_854"] = "T-55 DEAD #076",
+    ["DictKey_147"] = "COLT 1 FENCE IN!",
+    ["DictKey_UnitName_1061"] = "Unit #202",
+    ["DictKey_WptName_1200"] = "",
+    ["DictKey_UnitName_748"] = "BMP-3 DEAD #032",
+    ["DictKey_WptName_1648"] = "",
+    ["DictKey_WptName_1606"] = "",
+    ["DictKey_WptName_1363"] = "",
+    ["DictKey_UnitName_520"] = "BMP-3 #1 DEAD",
+    ["DictKey_UnitName_370"] = "Unit #205",
+    ["DictKey_GroupName_701"] = "T-55 DEAD #051",
+    ["DictKey_WptName_1328"] = "",
+    ["DictKey_ActionText_1941"] = "",
+    ["DictKey_UnitName_514"] = "New Static Object #015",
+    ["DictKey_WptName_1347"] = "",
+    ["DictKey_UnitName_738"] = "BMP-3 DEAD",
+    ["DictKey_UnitName_638"] = "T-55 DEAD #020",
+    ["DictKey_183"] = "COLT 1, VTA レンジコントロール\
+\
+CHARLIEからの退出を許可します。",
+    ["DictKey_UnitName_284"] = "OKB BTR 2-1",
+    ["DictKey_GroupName_777"] = "BMP-3 DEAD #047",
+    ["DictKey_UnitName_306"] = "Unit #008",
+    ["DictKey_ActionText_1832"] = "",
+    ["DictKey_WptName_1278"] = "",
+    ["DictKey_WptName_1639"] = "",
+    ["DictKey_209"] = "1, ホイールアップ！",
+    ["DictKey_UnitName_1023"] = "Sgt Clive Marson #001",
+    ["DictKey_UnitName_422"] = "MBT T-55 #037",
+    ["DictKey_WptName_1341"] = "",
+    ["DictKey_ActionText_1879"] = "",
+    ["DictKey_GroupName_807"] = "BTR-80 DEAD #020",
+    ["DictKey_GroupName_827"] = "NONA DEAD  #003",
+    ["DictKey_WptName_1577"] = "",
+    ["DictKey_GroupName_705"] = "T-55 DEAD #053",
+    ["DictKey_WptName_1621"] = "Fence In",
+    ["DictKey_GroupName_334"] = "KB BMP PLATOON #002",
+    ["DictKey_GroupName_843"] = "BMP-3 DEAD #056",
+    ["DictKey_ActionText_1960"] = "",
+    ["DictKey_WptName_1233"] = "",
+    ["DictKey_UnitName_1086"] = "Perth FARP #001",
+    ["DictKey_UnitName_214"] = "Target 5-6",
+    ["DictKey_WptName_1138"] = "",
+    ["DictKey_ActionText_1862"] = "",
+    ["DictKey_ActionText_1764"] = "",
+    ["DictKey_WptName_1612"] = "",
+    ["DictKey_ActionText_2031"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_ActionText_2104"] = "",
+    ["DictKey_GroupName_675"] = "T-55 DEAD #038",
+    ["DictKey_GroupName_551"] = "BMP-3 DEAD #004",
+    ["DictKey_WptName_1524"] = "",
+    ["DictKey_GroupName_461"] = "MBT T-55 #049",
+    ["DictKey_WptName_1404"] = "",
+    ["DictKey_GroupName_1081"] = "New Static Object",
+    ["DictKey_GroupName_659"] = "T-55 DEAD",
+    ["DictKey_UnitName_1021"] = "Unit #010",
+    ["DictKey_WptName_1495"] = "",
+    ["DictKey_WptName_1263"] = "",
+    ["DictKey_WptName_1319"] = "",
+    ["DictKey_GroupName_663"] = "T-55 DEAD #032",
+    ["DictKey_UnitName_670"] = "T-55 DEAD #035",
+    ["DictKey_ActionText_2036"] = "",
+    ["DictKey_UnitName_979"] = "Unit #041",
+    ["DictKey_UnitName_298"] = "Target 1-3",
+    ["DictKey_WptName_1153"] = "",
+    ["DictKey_UnitName_949"] = "MSgt Connie Dark",
+    ["DictKey_GroupName_615"] = "T-55 DEAD #009",
+    ["DictKey_WptName_1216"] = "",
+    ["DictKey_UnitName_488"] = "Target 1 Ammo #007",
+    ["DictKey_ActionText_1740"] = "",
+    ["DictKey_119"] = "GPSの出現により、BAI航空機と航空AFCの双方ともに夜間BAI攻撃の精度が向上しました。\
+\
+航空AFCからの正確なGPS座標により、他の航空機はセンサーを目的のターゲットエリアに向けることができます。\
+\
+これにより、ターゲットの迅速な補足と識別が用意になりました。",
+    ["DictKey_WptName_1380"] = "",
+    ["DictKey_ActionText_1860"] = "",
+    ["DictKey_UnitName_232"] = "Unit #081",
+    ["DictKey_UnitName_744"] = "BMP-3 DEAD #030",
+    ["DictKey_WptName_1604"] = "",
+    ["DictKey_WptName_1412"] = "",
+    ["DictKey_UnitName_1108"] = "Convoy 1 LAV #007",
+    ["DictKey_ActionText_1829"] = "",
+    ["DictKey_GroupName_1087"] = "Perth FARP #002",
+    ["DictKey_ActionText_1936"] = "",
+    ["DictKey_GroupName_489"] = "Target 1 Ammo #008",
+    ["DictKey_UnitName_700"] = "T-55 DEAD #050",
+    ["DictKey_UnitName_2144"] = "Unit #109",
+    ["DictKey_GroupName_851"] = "BTR-80 DEAD #024",
+    ["DictKey_WptName_1318"] = "",
+    ["DictKey_ActionText_1677"] = "COLT 1-1, UZI 1-1\
+\
+VUL時間が残り２分ですが、ターゲットがまだ残っています。",
+    ["DictKey_GroupName_473"] = "New Static Object #008",
+    ["DictKey_GroupName_775"] = "BMP-3 DEAD #046",
+    ["DictKey_WptName_1144"] = "",
+    ["DictKey_ActionText_2000"] = "",
+    ["DictKey_UnitName_812"] = "T-55 DEAD #069",
+    ["DictKey_WptName_1161"] = "",
+    ["DictKey_ActionText_1798"] = "",
+    ["DictKey_UnitName_418"] = "MBT T-55 #035",
+    ["DictKey_WptName_1418"] = "",
+    ["DictKey_UnitName_562"] = "BMP-3 DEAD #009",
+    ["DictKey_WptName_1142"] = "",
+    ["DictKey_201"] = "GUNS, GUNS, GUNS!",
+    ["DictKey_GroupName_227"] = "KB ARTY PLATOON",
+    ["DictKey_UnitName_1037"] = "Unit #019",
+    ["DictKey_WptName_1633"] = "",
+    ["DictKey_WptName_1400"] = "",
+    ["DictKey_GroupName_521"] = "BMP-3 #2 DEAD",
+    ["DictKey_WptName_1241"] = "",
+    ["DictKey_GroupName_569"] = "BMP-3 DEAD #010",
+    ["DictKey_118"] = "ターゲット識別とレーザーによる指定の手順は、夜間BAIであっても日中の活動と同じです。",
+    ["DictKey_WptName_1282"] = "",
+    ["DictKey_175"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_ActionText_1804"] = "",
+    ["DictKey_GroupName_986"] = "Bradley Platoon #001",
+    ["DictKey_153"] = "CHECK OUT",
+    ["DictKey_ActionText_1919"] = "",
+    ["DictKey_141"] = "FENCE IN",
+    ["DictKey_ActionText_1895"] = "",
+    ["DictKey_GroupName_791"] = "BTR-80 DEAD #012",
+    ["DictKey_WptName_1573"] = "",
+    ["DictKey_200"] = "KNOCK IT OFF!  KNOCK IT OFF!\
+\
+許可なくターゲットレンジから退出しました。\
+\
+このPOを中止します！",
+    ["DictKey_GroupName_533"] = "BTR-80 DEAD #002",
+    ["DictKey_ActionText_1940"] = "",
+    ["DictKey_GroupName_523"] = "BMP-3 #3 DEAD",
+    ["DictKey_ActionText_1777"] = "",
+    ["DictKey_WptName_1179"] = "",
+    ["DictKey_WptName_1512"] = "",
+    ["DictKey_ActionText_1867"] = "",
+    ["DictKey_121"] = "NGV（ナイトビジョンゴーグル）は、夜間BAIの航空機システムを補完してくれる最もよく使われるツールですが、適切な天候と照明条件が必要です。NVGだけで敵味方の識別を行い、ターゲットを攻撃することも可能です。",
+    ["DictKey_GroupName_567"] = "BTR-80 DEAD #009",
+    ["DictKey_ActionText_2035"] = "",
+    ["DictKey_WptName_1617"] = "",
+    ["DictKey_UnitName_666"] = "T-55 DEAD #033",
+    ["DictKey_ActionText_2111"] = "高度を確認して下さい！",
+    ["DictKey_UnitName_255"] = "Unit #125",
+    ["DictKey_GroupName_845"] = "BTR-80 DEAD #021",
+    ["DictKey_ActionText_1999"] = "",
+    ["DictKey_WptName_1591"] = "",
+    ["DictKey_WptName_1251"] = "",
+    ["DictKey_ActionText_1929"] = "",
+    ["DictKey_UnitName_956"] = "Unit #025",
+    ["DictKey_UnitName_892"] = "Pilot #001",
+    ["DictKey_UnitName_500"] = "Target 1 Ammo #013",
+    ["DictKey_ActionText_2074"] = "",
+    ["DictKey_ActionText_1768"] = "",
+    ["DictKey_WptName_1630"] = "",
+    ["DictKey_UnitName_646"] = "T-55 DEAD #024",
+    ["DictKey_GroupName_855"] = "T-55 DEAD #077",
+    ["DictKey_UnitName_987"] = "Unit #051",
+    ["DictKey_WptName_1401"] = "",
+    ["DictKey_UnitName_999"] = "Unit #060",
+    ["DictKey_GroupName_501"] = "Target 1 Ammo #014",
+    ["DictKey_ActionText_2091"] = "",
+    ["DictKey_WptName_1534"] = "",
+    ["DictKey_ActionText_1949"] = "",
+    ["DictKey_139"] = "3, COPY!",
+    ["DictKey_WptName_1467"] = "",
+    ["DictKey_UnitName_694"] = "T-55 DEAD #047",
+    ["DictKey_196"] = "ターゲット１を処理しました。\
+\
+マーキングがされていない場合は、あなたのIRポインターでターゲットをマーキングして下さい。飛行隊がターゲットのPIDをしやすくなります。",
+    ["DictKey_123"] = "NVGとIRポインターは近接したIRスペクトラムで動作し、コードレーザーターゲット照準は中域IRスペクトラムで動作するため、夜間BAI時に組み合わせて使用できます。",
+    ["DictKey_GroupName_998"] = "Bradley Platoon",
+    ["DictKey_GroupName_547"] = "BTR-80 DEAD #005",
+    ["DictKey_WptName_1460"] = "",
+    ["DictKey_UnitName_292"] = "Target 2-1",
+    ["DictKey_WptName_1265"] = "",
+    ["DictKey_WptName_1136"] = "",
+    ["DictKey_GroupName_535"] = "BTR-80 #3 DEAD",
+    ["DictKey_ActionText_1800"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_796"] = "BTR-80 DEAD #014",
+    ["DictKey_154"] = "COLT 1, VTA  レンジコントロール\
+\
+ALPHAからの進入を許可します。\
+\
+エアスペース（空域）はFL100から150です。\
+\
+天候はクリア、全階層で視界は良好\
+\
+コントロールポイントBRAVOに進んでください。\
+\
+COLT 1-1、コントロールを許可します。",
+    ["DictKey_UnitName_1053"] = "Unit #052",
+    ["DictKey_GroupName_731"] = "T-55 DEAD #066",
+    ["DictKey_UnitName_920"] = "Sgt Dave Mcneil",
+    ["DictKey_UnitName_862"] = "T-55 DEAD #080",
+    ["DictKey_GroupName_691"] = "T-55 DEAD #046",
+    ["DictKey_WptName_1254"] = "",
+    ["DictKey_WptName_1443"] = "",
+    ["DictKey_WptName_1219"] = "",
+    ["DictKey_ActionText_1763"] = "",
+    ["DictKey_WptName_1382"] = "",
+    ["DictKey_WptName_1231"] = "",
+    ["DictKey_ActionText_1803"] = "",
+    ["DictKey_GroupName_391"] = "MBT T-55 #016",
+    ["DictKey_ActionText_1930"] = "",
+    ["DictKey_UnitName_552"] = "BMP-3 DEAD #004",
+    ["DictKey_WptName_1517"] = "",
+    ["DictKey_UnitName_237"] = "Unit #087",
+    ["DictKey_GroupName_715"] = "T-55 DEAD #058",
+    ["DictKey_WptName_1317"] = "",
+    ["DictKey_GroupName_1073"] = "Fuel Truck",
+    ["DictKey_ActionText_1992"] = "",
+    ["DictKey_GroupName_1099"] = "Comms Tower #004",
+    ["DictKey_UnitName_696"] = "T-55 DEAD #048",
+    ["DictKey_UnitName_319"] = "EXIT AAA West 3",
+    ["DictKey_GroupName_795"] = "BTR-80 DEAD #014",
+    ["DictKey_GroupName_491"] = "Target 1 Ammo #009",
+    ["DictKey_ActionText_1965"] = "",
+    ["DictKey_ActionText_1730"] = "",
+    ["DictKey_UnitName_935"] = "Sgt Lawrence Platt",
+    ["DictKey_WptName_1497"] = "",
+    ["DictKey_UnitName_1041"] = "Unit #021",
+    ["DictKey_GroupName_1060"] = "LAV Platoon #002",
+    ["DictKey_WptName_1430"] = "",
+    ["DictKey_WptName_1172"] = "",
+    ["DictKey_GroupName_901"] = "OH-58D UZI 1-1",
+    ["DictKey_GroupName_926"] = "New Vehicle Group #005",
+    ["DictKey_UnitName_257"] = "Unit #123",
+    ["DictKey_ActionText_1715"] = "",
+    ["DictKey_190"] = "おめでとうございます。\
+\
+このPOに合格しました。\
+\
+あなたの評価は優（Qualified：Q)です。\
+\
+よくやりました！\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_GroupName_375"] = "MBT T-55 #001",
+    ["DictKey_WptName_1506"] = "",
+    ["DictKey_WptName_1548"] = "",
+    ["DictKey_ActionText_2063"] = "",
+    ["DictKey_GroupName_273"] = "M BTR PLATOON #001",
+    ["DictKey_WptName_1645"] = "",
+    ["DictKey_GroupName_727"] = "T-55 DEAD #064",
+    ["DictKey_UnitName_632"] = "T-55 DEAD #017",
+    ["DictKey_WptName_1670"] = "",
+    ["DictKey_GroupName_417"] = "MBT T-55 #035",
+    ["DictKey_ActionText_1976"] = "",
+    ["DictKey_ActionText_2009"] = "",
+    ["DictKey_WptName_1326"] = "",
+    ["DictKey_ActionText_1901"] = "",
+    ["DictKey_WptName_1218"] = "",
+    ["DictKey_WptName_1637"] = "",
+    ["DictKey_109"] = "COLT 1-1, UZI 1-1, \
+\
+ラジオチェック",
+    ["DictKey_ActionText_1757"] = "",
+    ["DictKey_ActionText_2088"] = "",
+    ["DictKey_WptName_1217"] = "",
+    ["DictKey_GroupName_1002"] = "Bradley Platoon #003",
+    ["DictKey_UnitName_1065"] = "Unit #198",
+    ["DictKey_GroupName_405"] = "MBT T-55 #029",
+    ["DictKey_WptName_1463"] = "",
+    ["DictKey_WptName_1398"] = "",
+    ["DictKey_WptName_1325"] = "",
+    ["DictKey_UnitName_270"] = "Unit #143",
+    ["DictKey_UnitName_590"] = "BMP-3 DEAD #020",
+    ["DictKey_WptName_1320"] = "",
+    ["DictKey_WptName_1523"] = "",
+    ["DictKey_WptName_1383"] = "",
+    ["DictKey_UnitName_618"] = "T-55 DEAD #010",
+    ["DictKey_UnitName_272"] = "Unit #141",
+    ["DictKey_WptName_1164"] = "",
+    ["DictKey_WptName_1249"] = "",
+    ["DictKey_GroupName_749"] = "BMP-3 DEAD #033",
+    ["DictKey_ActionText_2008"] = "",
+    ["DictKey_UnitName_412"] = "MBT T-55 #032",
+    ["DictKey_WptName_1358"] = "",
+    ["DictKey_WptName_1230"] = "",
+    ["DictKey_UnitName_1104"] = "Convoy 1 LAV #001",
+    ["DictKey_UnitName_2125"] = "Unit #064",
+    ["DictKey_GroupName_651"] = "T-55 DEAD #027",
+    ["DictKey_WptName_1595"] = "",
+    ["DictKey_ActionText_1735"] = "",
+    ["DictKey_WptName_1675"] = "",
+    ["DictKey_WptName_1485"] = "",
+    ["DictKey_UnitName_858"] = "T-55 DEAD #078",
+    ["DictKey_WptName_1635"] = "",
+    ["DictKey_WptName_1373"] = "",
+    ["DictKey_ActionText_1750"] = "",
+    ["DictKey_GroupName_362"] = "T-55 PLATOON #004",
+    ["DictKey_ActionText_1875"] = "",
+    ["DictKey_GroupName_952"] = "New Vehicle Group #016",
+    ["DictKey_UnitName_907"] = "Pvt Anthony Sworwick",
+    ["DictKey_UnitName_1066"] = "Unit #197",
+    ["DictKey_UnitName_630"] = "T-55 DEAD #016",
+    ["DictKey_ActionText_1868"] = "",
+    ["DictKey_WptName_1259"] = "",
+    ["DictKey_UnitName_353"] = "Unit #140",
+    ["DictKey_UnitName_474"] = "New Static Object #007",
+    ["DictKey_UnitName_1074"] = "Fuel Truck",
+    ["DictKey_GroupName_2149"] = "Ammunition Depot #001",
+    ["DictKey_122"] = "IRポインターも、ターゲットと味方の位置を識別するのに効果的です。",
+    ["DictKey_UnitName_980"] = "Unit #040",
+    ["DictKey_ActionText_1988"] = "",
+    ["DictKey_UnitName_838"] = "T-55 DEAD #074",
+    ["DictKey_UnitName_480"] = "Target 1 Ammo #002",
+    ["DictKey_GroupName_779"] = "BMP-3 DEAD #048",
+    ["DictKey_ActionText_2048"] = "",
+    ["DictKey_GroupName_585"] = "BMP-3 DEAD #018",
+    ["DictKey_GroupName_519"] = "BMP-3 #1 DEAD",
+    ["DictKey_142"] = "COLT 1 Gウォーム　９０ライト　ゴー！",
+    ["DictKey_ActionText_1957"] = "",
+    ["DictKey_WptName_1280"] = "",
+    ["DictKey_WptName_1222"] = "",
+    ["DictKey_UnitName_448"] = "MBT T-55 #044",
+    ["DictKey_GroupName_503"] = "Target 1 Ammo #015",
+    ["DictKey_ActionText_1937"] = "",
+    ["DictKey_GroupName_381"] = "MBT T-55 #006",
+    ["DictKey_GroupName_497"] = "Target 1 Ammo #012",
+    ["DictKey_ActionText_1866"] = "",
+    ["DictKey_WptName_1327"] = "",
+    ["DictKey_UnitName_580"] = "BMP-3 DEAD #015",
+    ["DictKey_UnitName_372"] = "Unit #203",
+    ["DictKey_GroupName_529"] = "T-55 DEAD #003",
+    ["DictKey_WptName_1669"] = "",
+    ["DictKey_WptName_1490"] = "",
+    ["DictKey_GroupName_793"] = "BTR-80 DEAD #013",
+    ["DictKey_ActionText_1719"] = "",
+    ["DictKey_GroupName_1109"] = "Convoy 1 LAV #002",
+    ["DictKey_UnitName_300"] = "Target 1-1",
+    ["DictKey_GroupName_609"] = "T-55 DEAD #006",
+    ["DictKey_WptName_1564"] = "",
+    ["DictKey_162"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_ActionText_1772"] = "",
+    ["DictKey_ActionText_1915"] = "",
+    ["DictKey_GroupName_467"] = "MBT T-55 #048",
+    ["DictKey_ActionText_1995"] = "",
+    ["DictKey_GroupName_289"] = "KB Target 2",
+    ["DictKey_UnitName_508"] = "Target 1 Ammo #017",
+    ["DictKey_WptName_1349"] = "",
+    ["DictKey_WptName_1162"] = "",
+    ["DictKey_GroupName_563"] = "BTR-80 DEAD #007",
+    ["DictKey_ActionText_1856"] = "",
+    ["DictKey_UnitName_656"] = "T-55 DEAD #029",
+    ["DictKey_UnitName_1128"] = "Pilot #004",
+    ["DictKey_UnitName_283"] = "OKB BTR 2-2",
+    ["DictKey_GroupName_537"] = "BMP-3 DEAD #001",
+    ["DictKey_UnitName_913"] = "Cpl Larry Matson",
+    ["DictKey_WptName_1566"] = "",
+    ["DictKey_WptName_1478"] = "",
+    ["DictKey_WptName_1641"] = "",
+    ["DictKey_WptName_1661"] = "",
+    ["DictKey_WptName_1522"] = "",
+    ["DictKey_UnitName_594"] = "BMP-3 DEAD #022",
+    ["DictKey_GroupName_637"] = "T-55 DEAD #020",
+    ["DictKey_UnitName_331"] = "OKB BMP 1-3",
+    ["DictKey_WptName_1581"] = "",
+    ["DictKey_GroupName_623"] = "T-55 DEAD #013",
+    ["DictKey_ActionText_1793"] = "",
+    ["DictKey_211"] = "COLT 1-1, UZI 1-1.\
+\
+あのターゲットはキルボックスの外にいます。",
+    ["DictKey_WptName_1291"] = "",
+    ["DictKey_WptName_1315"] = "",
+    ["DictKey_WptName_1459"] = "",
+    ["DictKey_WptName_1535"] = "",
+    ["DictKey_165"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_718"] = "T-55 DEAD #059",
+    ["DictKey_WptName_1171"] = "TARGET 2",
+    ["DictKey_WptName_1671"] = "",
+    ["DictKey_GroupName_939"] = "New Vehicle Group #012",
+    ["DictKey_UnitName_218"] = "Target 5-2",
+    ["DictKey_UnitName_388"] = "MBT T-55 #013",
+    ["DictKey_UnitName_568"] = "BTR-80 DEAD #009",
+    ["DictKey_100"] = "COLT 1-1, UZI 1-1 ロジャー！\
+",
+    ["DictKey_WptName_1516"] = "",
+    ["DictKey_UnitName_492"] = "Target 1 Ammo #009",
+    ["DictKey_GroupName_1067"] = "FARP Tent #1",
+    ["DictKey_WptName_1227"] = "",
+    ["DictKey_ActionText_1816"] = "",
+    ["DictKey_UnitName_327"] = "Target 3-3",
+    ["DictKey_134"] = "3, COPY!",
+    ["DictKey_ActionText_2010"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_558"] = "BMP-3 DEAD #007",
+    ["DictKey_WptName_1252"] = "",
+    ["DictKey_ActionText_1751"] = "",
+    ["DictKey_UnitName_274"] = "OKB BTR 1-3",
+    ["DictKey_GroupName_903"] = "FARP Supply Truck",
+    ["DictKey_UnitName_428"] = "MBT T-55 #012",
+    ["DictKey_GroupName_1012"] = "JAGUAR 1",
+    ["DictKey_UnitName_336"] = "Unit #069",
+    ["DictKey_ActionText_1987"] = "",
+    ["DictKey_GroupName_297"] = "KB Target 1",
+    ["DictKey_GroupName_763"] = "BMP-3 DEAD #040",
+    ["DictKey_GroupName_1085"] = "Perth FARP #001",
+    ["DictKey_WptName_1603"] = "",
+    ["DictKey_UnitName_650"] = "T-55 DEAD #026",
+    ["DictKey_UnitName_872"] = "Lt Andre Litovsk",
+    ["DictKey_ActionText_1787"] = "",
+    ["DictKey_GroupName_719"] = "T-55 DEAD #060",
+    ["DictKey_ActionText_1786"] = "",
+    ["DictKey_127"] = "あなたの仕事は、航空FACとしてBAI部隊をマネジメントして、キルボックス内で発見したターゲットの遅延、混乱、破壊をすることです。\
+\
+UZI 1-1, OUT!",
+    ["DictKey_ActionText_1782"] = "",
+    ["DictKey_ActionText_2145"] = "よく聞こえています。",
+    ["DictKey_WptName_1146"] = "",
+    ["DictKey_UnitName_2129"] = "Unit #073",
+    ["DictKey_GroupName_709"] = "T-55 DEAD #055",
+    ["DictKey_WptName_1563"] = "",
+    ["DictKey_UnitName_1043"] = "Lt Richard Dike #002",
+    ["DictKey_WptName_1416"] = "",
+    ["DictKey_WptName_1562"] = "",
+    ["DictKey_WptName_1201"] = "",
+    ["DictKey_WptName_1596"] = "",
+    ["DictKey_168"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_ActionText_1925"] = "",
+    ["DictKey_UnitName_548"] = "BTR-80 DEAD #005",
+    ["DictKey_GroupName_833"] = "T-55 DEAD #072",
+    ["DictKey_UnitName_1064"] = "Unit #199",
+    ["DictKey_ActionText_1959"] = "",
+    ["DictKey_159"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_891"] = "Pilot #002",
+    ["DictKey_WptName_1415"] = "",
+    ["DictKey_WptName_1286"] = "",
+    ["DictKey_UnitName_556"] = "BMP-3 DEAD #006",
+    ["DictKey_WptName_1419"] = "",
+    ["DictKey_GroupName_401"] = "MBT T-55 #026",
+    ["DictKey_WptName_1433"] = "",
+    ["DictKey_GroupName_455"] = "Target 1 Ammo #001",
+    ["DictKey_UnitName_816"] = "BMP-3 DEAD #051",
+    ["DictKey_UnitName_1058"] = "Unit #033",
+    ["DictKey_WptName_1551"] = "",
+    ["DictKey_UnitName_1100"] = "Comms Tower #004",
+    ["DictKey_ActionText_2067"] = "",
+    ["DictKey_ActionText_1922"] = "",
+    ["DictKey_UnitName_750"] = "BMP-3 DEAD #033",
+    ["DictKey_GroupName_685"] = "T-55 DEAD #043",
+    ["DictKey_ActionText_1824"] = "",
+    ["DictKey_UnitName_648"] = "T-55 DEAD #025",
+    ["DictKey_descriptionRedTask_1131"] = "",
+    ["DictKey_UnitName_1112"] = "New Static Object #004",
+    ["DictKey_WptName_1518"] = "",
+    ["DictKey_UnitName_726"] = "T-55 DEAD #063",
+    ["DictKey_WptName_1295"] = "",
+    ["DictKey_ActionText_1714"] = "",
+    ["DictKey_GroupName_383"] = "MBT T-55 #007",
+    ["DictKey_UnitName_534"] = "BTR-80 DEAD #002",
+    ["DictKey_GroupName_515"] = "New Static Object #016",
+    ["DictKey_GroupName_1020"] = "Bradley Platoon #005",
+    ["DictKey_WptName_1527"] = "",
+    ["DictKey_UnitName_402"] = "MBT T-55 #026",
+    ["DictKey_WptName_1413"] = "",
+    ["DictKey_UnitName_1092"] = "Perth FARP #3",
+    ["DictKey_UnitName_644"] = "T-55 DEAD #023",
+    ["DictKey_GroupName_1044"] = "M1 Platoon #006",
+    ["DictKey_ActionText_1753"] = "",
+    ["DictKey_UnitName_919"] = "Unit #055",
+    ["DictKey_ActionText_1749"] = "",
+    ["DictKey_UnitName_830"] = "MCP DEAD",
+    ["DictKey_WptName_1167"] = "",
+    ["DictKey_WptName_1560"] = "",
+    ["DictKey_ActionText_1955"] = "",
+    ["DictKey_UnitName_263"] = "OKB ARTY 2-6",
+    ["DictKey_GroupName_1121"] = "FE SCOUT PARKED",
+    ["DictKey_ActionText_1840"] = "",
+    ["DictKey_UnitName_612"] = "T-55 DEAD #007",
+    ["DictKey_ActionText_1716"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_572"] = "BMP-3 DEAD #011",
+    ["DictKey_WptName_1650"] = "",
+    ["DictKey_ActionText_1878"] = "",
+    ["DictKey_ActionText_2062"] = "",
+    ["DictKey_WptName_1445"] = "",
+    ["DictKey_WptName_1229"] = "",
+    ["DictKey_UnitName_1051"] = "Unit #024",
+    ["DictKey_UnitName_940"] = "Unit #005",
+    ["DictKey_UnitName_309"] = "Unit #189",
+    ["DictKey_UnitName_1118"] = "New Static Object #011",
+    ["DictKey_WptName_1614"] = "",
+    ["DictKey_UnitName_742"] = "BMP-3 DEAD #029",
+    ["DictKey_UnitName_756"] = "BMP-3 DEAD #036",
+    ["DictKey_WptName_1421"] = "",
+    ["DictKey_UnitName_740"] = "BMP-3 DEAD #028",
+    ["DictKey_GroupName_930"] = "New Vehicle Group #007",
+    ["DictKey_GroupName_1095"] = "New Static Object #002",
+    ["DictKey_WptName_1266"] = "",
+    ["DictKey_UnitName_576"] = "BMP-3 DEAD #013",
+    ["DictKey_ActionText_1994"] = "",
+    ["DictKey_ActionText_1900"] = "",
+    ["DictKey_143"] = "2, COPY!",
+    ["DictKey_GroupName_707"] = "T-55 DEAD #054",
+    ["DictKey_GroupName_527"] = "T-55 DEAD #002",
+    ["DictKey_UnitName_404"] = "MBT T-55 #028",
+    ["DictKey_ActionText_1701"] = "",
+    ["DictKey_WptName_1507"] = "",
+    ["DictKey_UnitName_340"] = "OKB BMP 3-2",
+    ["DictKey_UnitName_704"] = "T-55 DEAD #052",
+    ["DictKey_GroupName_934"] = "New Vehicle Group #010",
+    ["DictKey_GroupName_1105"] = "MBT T-55 #043",
+    ["DictKey_UnitName_1033"] = "Unit #017",
+    ["DictKey_UnitName_690"] = "T-55 DEAD #045",
+    ["DictKey_WptName_1148"] = "",
+    ["DictKey_WptName_1262"] = "",
+    ["DictKey_UnitName_764"] = "BMP-3 DEAD #040",
+    ["DictKey_GroupName_258"] = "KB T-55 PLATOON #005",
+    ["DictKey_ActionText_1802"] = "",
+    ["DictKey_UnitName_1034"] = "Unit #016",
+    ["DictKey_ActionText_1913"] = "",
+    ["DictKey_UnitName_308"] = "Unit #190",
+    ["DictKey_UnitName_286"] = "OKB BTR 3-3",
+    ["DictKey_GroupName_683"] = "T-55 DEAD #042",
+    ["DictKey_UnitName_486"] = "Target 1 Ammo #006",
+    ["DictKey_UnitName_1046"] = "Unit #022",
+    ["DictKey_GroupName_559"] = "BMP-3 DEAD #008",
+    ["DictKey_UnitName_410"] = "MBT T-55 #031",
+    ["DictKey_UnitName_215"] = "Target 5-5",
+    ["DictKey_GroupName_861"] = "T-55 DEAD #080",
+    ["DictKey_ActionRadioText_1693"] = "COLT 1-1, COPY",
+    ["DictKey_ActionText_1948"] = "",
+    ["DictKey_ActionText_1724"] = "",
+    ["DictKey_ActionText_1902"] = "",
+    ["DictKey_GroupName_729"] = "T-55 DEAD #065",
+    ["DictKey_UnitName_2127"] = "Unit #071",
+    ["DictKey_UnitName_228"] = "Unit #085",
+    ["DictKey_GroupName_1091"] = "Perth FARP #004",
+    ["DictKey_UnitName_343"] = "OKB BMP 4-3",
+    ["DictKey_ActionText_1864"] = "",
+    ["DictKey_WptName_1240"] = "",
+    ["DictKey_UnitName_1116"] = "New Static Object #010",
+    ["DictKey_WptName_1279"] = "",
+    ["DictKey_GroupName_671"] = "T-55 DEAD #036",
+    ["DictKey_UnitName_244"] = "OKB T-55 7-2",
+    ["DictKey_ActionText_2034"] = "",
+    ["DictKey_UnitName_321"] = "EXIT AAA  West 1",
+    ["DictKey_WptName_1257"] = "",
+    ["DictKey_descriptionBlueTask_1132"] = "キルボックス71 MMのパトロールをして、見つけたターゲット（TARGETS OF OPPORTUNITY：攻撃機会のあるターゲット）を指定して破壊して下さい。",
+    ["DictKey_ActionText_1968"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_WptName_1143"] = "",
+    ["DictKey_WptName_1623"] = "Fence Out",
+    ["DictKey_WptName_1193"] = "",
+    ["DictKey_WptName_1232"] = "",
+    ["DictKey_GroupName_759"] = "BMP-3 DEAD #038",
+    ["DictKey_UnitName_225"] = "Unit #075",
+    ["DictKey_UnitName_933"] = "Sgt Karl Mozer",
+    ["DictKey_GroupName_693"] = "T-55 DEAD #047",
+    ["DictKey_ActionText_2029"] = "",
+    ["DictKey_UnitName_392"] = "MBT T-55 #016",
+    ["DictKey_ActionText_1877"] = "",
+    ["DictKey_UnitName_870"] = "Lt Alex Stranko",
+    ["DictKey_UnitName_299"] = "Target 1-2",
+    ["DictKey_WptName_1300"] = "",
+    ["DictKey_UnitName_2140"] = "Unit #105",
+    ["DictKey_WptName_1344"] = "",
+    ["DictKey_UnitName_510"] = "Target 1 Ammo #018",
+    ["DictKey_WptName_1332"] = "",
+    ["DictKey_GroupName_1052"] = "Arty Platoon #001",
+    ["DictKey_UnitName_216"] = "Target 5-4",
+    ["DictKey_UnitName_708"] = "T-55 DEAD #054",
+    ["DictKey_ActionText_1855"] = "",
+    ["DictKey_GroupName_853"] = "T-55 DEAD #076",
+    ["DictKey_WptName_1355"] = "",
+    ["DictKey_UnitName_894"] = "BOAR 1-2",
+    ["DictKey_157"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_361"] = "Unit #179",
+    ["DictKey_GroupName_397"] = "MBT T-55 #022",
+    ["DictKey_GroupName_819"] = "BMP-3 DEAD #053",
+    ["DictKey_UnitName_264"] = "OKB ARTY 2-5",
+    ["DictKey_WptName_1195"] = "",
+    ["DictKey_WptName_1238"] = "",
+    ["DictKey_UnitName_506"] = "Target 1 Ammo #016",
+    ["DictKey_UnitName_328"] = "Target 3-2",
+    ["DictKey_WptName_1530"] = "",
+    ["DictKey_WptName_1211"] = "",
+    ["DictKey_UnitName_1102"] = "Comms Tower #005",
+    ["DictKey_GroupName_346"] = "KB BMP PLATOON #005",
+    ["DictKey_UnitName_1122"] = "FE SCOUT PARKED",
+    ["DictKey_WptName_1493"] = "",
+    ["DictKey_WptName_1340"] = "",
+    ["DictKey_184"] = "FENCE OUT",
+    ["DictKey_152"] = "RUNNING IN",
+    ["DictKey_WptName_1474"] = "",
+    ["DictKey_UnitName_652"] = "T-55 DEAD #027",
+    ["DictKey_WptName_1494"] = "",
+    ["DictKey_WptName_1482"] = "",
+    ["DictKey_UnitName_996"] = "Unit #056",
+    ["DictKey_UnitName_252"] = "OKB T-55 8-2",
+    ["DictKey_WptName_1454"] = "",
+    ["DictKey_UnitName_848"] = "BTR-80 DEAD #022",
+    ["DictKey_UnitName_608"] = "T-55 DEAD #005",
+    ["DictKey_WptName_1598"] = "",
+    ["DictKey_ActionText_1744"] = "",
+    ["DictKey_UnitName_804"] = "BTR-80 DEAD #018",
+    ["DictKey_WptName_1205"] = "",
+    ["DictKey_112"] = "KNOCK IT OFF!  KNOCK IT OFF!\
+\
+ハードデッキ制限を破りました！\
+\
+このPOを中止します！",
+    ["DictKey_WptName_1178"] = "",
+    ["DictKey_GroupName_1089"] = "Perth FARP #003",
+    ["DictKey_180"] = "CHECK OUT",
+    ["DictKey_ActionText_1947"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_GroupName_471"] = "New Static Object #007",
+    ["DictKey_UnitName_341"] = "OKB BMP 3-1",
+    ["DictKey_WptName_1440"] = "",
+    ["DictKey_WptName_1632"] = "",
+    ["DictKey_WptName_1449"] = "",
+    ["DictKey_UnitName_434"] = "MBT T-55 #018",
+    ["DictKey_UnitName_654"] = "T-55 DEAD #028",
+    ["DictKey_WptName_1582"] = "",
+    ["DictKey_WptName_1187"] = "",
+    ["DictKey_WptName_1157"] = "",
+    ["DictKey_WptName_1196"] = "",
+    ["DictKey_199"] = "KNOCK IT OFF!  KNOCK IT OFF!\
+\
+許可なくターゲットレンジから退出しました。\
+\
+このPOを中止します！",
+    ["DictKey_WptName_1184"] = "",
+    ["DictKey_UnitName_2137"] = "Unit #102",
+    ["DictKey_UnitName_291"] = "Target 2-2",
+    ["DictKey_UnitName_925"] = "Sgt Charlie Frances",
+    ["DictKey_UnitName_348"] = "Unit #138",
+    ["DictKey_ActionText_2023"] = "",
+    ["DictKey_ActionText_1756"] = "",
+    ["DictKey_UnitName_596"] = "BMP-3 DEAD #023",
+    ["DictKey_WptName_1502"] = "",
+    ["DictKey_177"] = "1, RUNNING IN!",
+    ["DictKey_UnitName_967"] = "Unit #035",
+    ["DictKey_ActionText_1838"] = "",
+    ["DictKey_GroupName_677"] = "T-55 DEAD #039",
+    ["DictKey_GroupName_831"] = "UAZ DEAD",
+    ["DictKey_GroupName_338"] = "BMP PLATOON #003",
+    ["DictKey_GroupName_761"] = "BMP-3 DEAD #039",
+    ["DictKey_WptName_1458"] = "",
+    ["DictKey_105"] = "指定されたキルボックス内にいる、発見した敵（targets of opportunity ）を攻撃して下さい。\
+\
+必要であれば、ウイングマンをターゲット攻撃に使用して下さい。",
+    ["DictKey_WptName_1615"] = "",
+    ["DictKey_GroupName_924"] = "New Vehicle Group #004",
+    ["DictKey_WptName_1169"] = "",
+    ["DictKey_sortie_1133"] = "TAC22 - BAI ミッション管理（夜間）",
+    ["DictKey_195"] = "このPOに再トライする前に、フライトマニュアルを学習し、もっと練習することをお勧めします。",
+    ["DictKey_UnitName_235"] = "Unit #089",
+    ["DictKey_UnitName_640"] = "T-55 DEAD #021",
+    ["DictKey_ActionText_2080"] = "",
+    ["DictKey_UnitName_526"] = "T-55 DEAD #001",
+    ["DictKey_GroupName_863"] = "L-39ZA",
+    ["DictKey_WptName_1578"] = "TARGET 1",
+    ["DictKey_ActionText_2076"] = "",
+    ["DictKey_ActionText_2054"] = "",
+    ["DictKey_ActionText_2013"] = "",
+    ["DictKey_GroupName_403"] = "MBT T-55 #028",
+    ["DictKey_UnitName_1027"] = "BP 6",
+    ["DictKey_WptName_1586"] = "",
+    ["DictKey_GroupName_577"] = "BMP-3 DEAD #014",
+    ["DictKey_UnitName_2150"] = "",
+    ["DictKey_UnitName_674"] = "T-55 DEAD #037",
+    ["DictKey_WptName_1514"] = "",
+    ["DictKey_ActionText_1826"] = "",
+    ["DictKey_GroupName_575"] = "BMP-3 DEAD #013",
+    ["DictKey_UnitName_560"] = "BMP-3 DEAD #008",
+    ["DictKey_UnitName_782"] = "BMP-3 DEAD #049",
+    ["DictKey_UnitName_868"] = "SPRINGFIELD 2-1",
+    ["DictKey_GroupName_242"] = "T-55 PLATOON #007",
+    ["DictKey_UnitName_762"] = "BMP-3 DEAD #039",
+    ["DictKey_WptName_1207"] = "",
+    ["DictKey_UnitName_324"] = "TARGET 4-2",
+    ["DictKey_ActionText_1906"] = "",
+    ["DictKey_ActionText_1975"] = "",
+    ["DictKey_ActionText_1978"] = "",
+    ["DictKey_GroupName_254"] = "KB T-55 PLATOON #006",
+    ["DictKey_GroupName_481"] = "Target 1 Ammo #004",
+    ["DictKey_GroupName_735"] = "T-55 DEAD #068",
+    ["DictKey_GroupName_936"] = "New Vehicle Group #011",
+    ["DictKey_ActionText_1728"] = "",
+    ["DictKey_WptName_1246"] = "",
+    ["DictKey_GroupName_879"] = "New Static Object #003",
+    ["DictKey_UnitName_478"] = "New Static Object #009",
+    ["DictKey_UnitName_444"] = "Small House 3",
+    ["DictKey_WptName_1409"] = "",
+    ["DictKey_GroupName_449"] = "MBT T-55 #045",
+    ["DictKey_ActionText_2027"] = "",
+    ["DictKey_ActionText_2033"] = "",
+    ["DictKey_GroupName_581"] = "BMP-3 DEAD #016",
+    ["DictKey_WptName_1420"] = "",
+    ["DictKey_WptName_1377"] = "",
+    ["DictKey_GroupName_465"] = "MBT T-55 #051",
+    ["DictKey_GroupName_815"] = "BMP-3 DEAD #051",
+    ["DictKey_ActionText_1680"] = "",
+    ["DictKey_GroupName_948"] = "New Vehicle Group #014",
+    ["DictKey_GroupName_908"] = "FARP Infantry 2",
+    ["DictKey_ActionText_1873"] = "",
+    ["DictKey_WptName_1426"] = "",
+    ["DictKey_WptName_1237"] = "",
+    ["DictKey_WptName_1258"] = "",
+    ["DictKey_GroupName_817"] = "BMP-3 DEAD #052",
+    ["DictKey_WptName_1243"] = "",
+    ["DictKey_110"] = "COLT 1-1, UZI 1-1 ロジャー！\
+",
+    ["DictKey_UnitName_883"] = "Wingman 2",
+    ["DictKey_WptName_1166"] = "",
+    ["DictKey_UnitName_245"] = "OKB T-55 7-1",
+    ["DictKey_WptName_1368"] = "",
+    ["DictKey_UnitName_240"] = "Unit #091",
+    ["DictKey_ActionText_1774"] = "",
+    ["DictKey_UnitName_766"] = "BMP-3 DEAD #041",
+    ["DictKey_WptName_1192"] = "",
+    ["DictKey_GroupName_487"] = "Target 1 Ammo #007",
+    ["DictKey_WptName_1473"] = "",
+    ["DictKey_UnitName_345"] = "OKB BMP 4-1",
+    ["DictKey_WptName_1324"] = "",
+    ["DictKey_WptName_1311"] = "",
+    ["DictKey_GroupName_681"] = "T-55 DEAD #041",
+    ["DictKey_WptName_1248"] = "",
+    ["DictKey_UnitName_268"] = "OKB ARTY 2-1",
+    ["DictKey_UnitName_947"] = "Cpl Lucinda Rand",
+    ["DictKey_133"] = "2, COPY!",
+    ["DictKey_GroupName_322"] = "KB TARGET 4",
+    ["DictKey_WptName_1170"] = "",
+    ["DictKey_UnitName_955"] = "Unit #026",
+    ["DictKey_WptName_1376"] = "",
+    ["DictKey_GroupName_350"] = "KB T-55 PLATOON #001",
+    ["DictKey_UnitName_992"] = "Unit #053",
+    ["DictKey_UnitName_504"] = "Target 1 Ammo #015",
+    ["DictKey_GroupName_885"] = "F-15E FORD 1",
+    ["DictKey_UnitName_1050"] = "Unit #027",
+    ["DictKey_UnitName_965"] = "Cpt Robert Unger",
+    ["DictKey_WptName_1644"] = "",
+    ["DictKey_WptName_1397"] = "",
+    ["DictKey_GroupName_942"] = "New Vehicle Group #002",
+    ["DictKey_GroupName_603"] = "BMP-3 DEAD #027",
+    ["DictKey_WptName_1589"] = "",
+    ["DictKey_UnitName_424"] = "MBT T-55 #038",
+    ["DictKey_UnitName_2124"] = "Unit #061",
+    ["DictKey_WptName_1584"] = "",
+    ["DictKey_ActionText_1892"] = "",
+    ["DictKey_GroupName_305"] = "New Vehicle Group #066",
+    ["DictKey_ActionText_1711"] = "",
+    ["DictKey_UnitName_265"] = "OKB ARTY 2-4",
+    ["DictKey_WptName_1565"] = "",
+    ["DictKey_UnitName_566"] = "BTR-80 DEAD #008",
+    ["DictKey_148"] = "2, COPY!",
+    ["DictKey_WptName_1395"] = "",
+    ["DictKey_GroupName_917"] = "HUMVEE PLATOON",
+    ["DictKey_ActionText_1706"] = "",
+    ["DictKey_ActionText_1886"] = "",
+    ["DictKey_WptName_1345"] = "",
+    ["DictKey_WptName_1480"] = "",
+    ["DictKey_UnitName_376"] = "MBT T-55 #001",
+    ["DictKey_WptName_1673"] = "",
+    ["DictKey_ActionText_1778"] = "",
+    ["DictKey_GroupName_747"] = "BMP-3 DEAD #032",
+    ["DictKey_WptName_1574"] = "",
+    ["DictKey_UnitName_1126"] = "FE SCOUT PARKED #002",
+    ["DictKey_WptName_1250"] = "",
+    ["DictKey_GroupName_1097"] = "Comms Tower #003",
+    ["DictKey_126"] = "あなたのセンサーを通してターゲットを監視し、BDAを知らせ、必要に応じて再攻撃を命じてください。\
+\
+AAAやその他の驚異に注意を払ってください。攻撃機が危険に陥る可能性がある場合は攻撃を中止してください。",
+    ["DictKey_WptName_1579"] = "",
+    ["DictKey_GroupName_509"] = "Target 1 Ammo #018",
+    ["DictKey_UnitName_1042"] = "Unit #020",
+    ["DictKey_UnitName_260"] = "Unit #127",
+    ["DictKey_WptName_1335"] = "",
+    ["DictKey_ActionText_2073"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_WptName_1310"] = "",
+    ["DictKey_UnitName_878"] = "Comms Tower #002",
+    ["DictKey_GroupName_627"] = "T-55 DEAD #015",
+    ["DictKey_GroupName_1071"] = "FARP Tent #003",
+    ["DictKey_UnitName_588"] = "BMP-3 DEAD #019",
+    ["DictKey_UnitName_347"] = "Unit #139",
+    ["DictKey_GroupName_811"] = "T-55 DEAD #069",
+    ["DictKey_ActionText_2002"] = "",
+    ["DictKey_108"] = "COLT 1-1, COLT 1-2,\
+\
+今からPOを開始します！\
+\
+戦術訓練周波数に合わせてください！",
+    ["DictKey_GroupName_825"] = "NONA DEAD  #002",
+    ["DictKey_UnitName_1090"] = "Perth FARP #2",
+    ["DictKey_GroupName_565"] = "BTR-80 DEAD #008",
+    ["DictKey_GroupName_928"] = "New Vehicle Group #006",
+    ["DictKey_UnitName_784"] = "BMP-3 DEAD #050",
+    ["DictKey_UnitName_221"] = "Unit #079",
+    ["DictKey_UnitName_1025"] = "Unit #013",
+    ["DictKey_ActionText_2046"] = "",
+    ["DictKey_GroupName_645"] = "T-55 DEAD #024",
+    ["DictKey_UnitName_973"] = "Lt Blair Breaverton",
+    ["DictKey_ActionText_1747"] = "",
+    ["DictKey_ActionText_2051"] = "",
+    ["DictKey_WptName_1140"] = "",
+    ["DictKey_UnitName_554"] = "BMP-3 DEAD #005",
+    ["DictKey_UnitName_296"] = "Unit #165",
+    ["DictKey_GroupName_330"] = "BMP PLATOON #001",
+    ["DictKey_ActionText_2030"] = "",
+    ["DictKey_UnitName_902"] = "Col Ryan \"Sabre\" Baker",
+    ["DictKey_GroupName_453"] = "MBT T-55 #047",
+    ["DictKey_WptName_1224"] = "",
+    ["DictKey_UnitName_364"] = "OKB T-55 #001",
+    ["DictKey_WptName_1407"] = "",
+    ["DictKey_WptName_1511"] = "",
+    ["DictKey_GroupName_1010"] = "ADDER Humvee",
+    ["DictKey_WptName_1294"] = "",
+    ["DictKey_GroupName_385"] = "MBT T-55 #008",
+    ["DictKey_UnitName_1003"] = "Unit #063",
+    ["DictKey_UnitName_824"] = "NONA DEAD  #001",
+    ["DictKey_WptName_1588"] = "",
+    ["DictKey_GroupName_316"] = "Exit SAM",
+    ["DictKey_ActionText_1708"] = "",
+    ["DictKey_UnitName_772"] = "BMP-3 DEAD #044",
+    ["DictKey_WptName_1525"] = "",
+    ["DictKey_GroupName_643"] = "T-55 DEAD #023",
+    ["DictKey_WptName_1662"] = "",
+    ["DictKey_WptName_1483"] = "",
+    ["DictKey_ActionText_1771"] = "",
+    ["DictKey_GroupName_859"] = "T-55 DEAD #079",
+    ["DictKey_ActionText_1815"] = "",
+    ["DictKey_GroupName_238"] = "KB T-55 PLATOON #010",
+    ["DictKey_ActionText_2015"] = "",
+    ["DictKey_WptName_1468"] = "",
+    ["DictKey_UnitName_276"] = "OKB BTR 1-1",
+    ["DictKey_WptName_1638"] = "",
+    ["DictKey_GroupName_944"] = "New Vehicle Group #008",
+    ["DictKey_UnitName_997"] = "Capt Sam Robertson",
+    ["DictKey_124"] = "夜間は空中衝突のリスクが高くなります。\
+\
+適切なフォーメーションを組み、必要であればあなたの飛行隊を既知の場所で待機させてください。\
+\
+飛行高度を分ける事は、空中衝突を避けるもうひとつの方法です。",
+    ["DictKey_ActionText_1884"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_253"] = "OKB T-55 8-1",
+    ["DictKey_GroupName_583"] = "BMP-3 DEAD #017",
+    ["DictKey_WptName_1234"] = "",
+    ["DictKey_ActionText_1894"] = "",
+    ["DictKey_UnitName_442"] = "Small House 4",
+    ["DictKey_GroupName_725"] = "T-55 DEAD #063",
+    ["DictKey_UnitName_490"] = "Target 1 Ammo #008",
+    ["DictKey_GroupName_457"] = "FARP",
+    ["DictKey_UnitName_1088"] = "Perth FARP #1",
+    ["DictKey_UnitName_261"] = "Unit #126",
+    ["DictKey_WptName_1372"] = "",
+    ["DictKey_WptName_1175"] = "",
+    ["DictKey_ActionText_2107"] = "高度を確認して下さい！",
+    ["DictKey_WptName_1496"] = "Target 3",
+    ["DictKey_173"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_ActionText_1828"] = "",
+    ["DictKey_WptName_1375"] = "",
+    ["DictKey_UnitName_317"] = "Exit SAM",
+    ["DictKey_GroupName_437"] = "MBT T-55 #023",
+    ["DictKey_WptName_1532"] = "",
+    ["DictKey_WptName_1545"] = "",
+    ["DictKey_WptName_1338"] = "",
+    ["DictKey_170"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_1082"] = "New Static Object",
+    ["DictKey_ActionText_1847"] = "",
+    ["DictKey_WptName_1360"] = "",
+    ["DictKey_WptName_1159"] = "",
+    ["DictKey_GroupName_1040"] = "M1 Platoon #005",
+    ["DictKey_GroupName_946"] = "New Vehicle Group #013",
+    ["DictKey_WptName_1384"] = "",
+    ["DictKey_UnitName_231"] = "Unit #082",
+    ["DictKey_UnitName_984"] = "Unit #047",
+    ["DictKey_WptName_1185"] = "",
+    ["DictKey_ActionText_1932"] = "",
+    ["DictKey_GroupName_633"] = "T-55 DEAD #018",
+    ["DictKey_WptName_1298"] = "",
+    ["DictKey_GroupName_423"] = "MBT T-55 #038",
+    ["DictKey_GroupName_1115"] = "New Static Object #011",
+    ["DictKey_GroupName_1111"] = "New Static Object #004",
+    ["DictKey_ActionText_1898"] = "",
+    ["DictKey_WptName_1177"] = "",
+    ["DictKey_WptName_1538"] = "",
+    ["DictKey_WptName_1646"] = "",
+    ["DictKey_GroupName_695"] = "T-55 DEAD #048",
+    ["DictKey_UnitName_271"] = "Unit #142",
+    ["DictKey_UnitName_1030"] = "Unit #014",
+    ["DictKey_ActionText_1773"] = "",
+    ["DictKey_GroupName_507"] = "Target 1 Ammo #017",
+    ["DictKey_ActionText_1725"] = "",
+    ["DictKey_WptName_1439"] = "",
+    ["DictKey_WptName_1198"] = "",
+    ["DictKey_WptName_1141"] = "",
+    ["DictKey_ActionText_2012"] = "",
+    ["DictKey_UnitName_243"] = "OKB T-55 7-3",
+    ["DictKey_ActionText_1733"] = "",
+    ["DictKey_UnitName_931"] = "MSgt Gord Lever",
+    ["DictKey_WptName_1643"] = "",
+    ["DictKey_GroupName_950"] = "New Vehicle Group #015",
+    ["DictKey_UnitName_456"] = "Target 1 Ammo #001",
+    ["DictKey_UnitName_710"] = "T-55 DEAD #055",
+    ["DictKey_ActionText_1897"] = "",
+    ["DictKey_UnitName_251"] = "OKB T-55 8-3",
+    ["DictKey_ActionText_1835"] = "",
+    ["DictKey_146"] = "CHECK IN",
+    ["DictKey_WptName_1289"] = "",
+    ["DictKey_UnitName_988"] = "Unit #050",
+    ["DictKey_UnitName_522"] = "BMP-3 #2 DEAD",
+    ["DictKey_GroupName_966"] = "M1 Platoon #002",
+    ["DictKey_ActionText_1865"] = "",
+    ["DictKey_GroupName_593"] = "BMP-3 DEAD #022",
+    ["DictKey_WptName_1471"] = "",
+    ["DictKey_GroupName_799"] = "BTR-80 DEAD #016",
+    ["DictKey_ActionText_2077"] = "",
+    ["DictKey_ActionText_1943"] = "",
+    ["DictKey_UnitName_378"] = "MBT T-55 #004",
+    ["DictKey_WptName_1174"] = "",
+    ["DictKey_GroupName_1024"] = "Bradley Platoon #006",
+    ["DictKey_UnitName_660"] = "T-55 DEAD",
+    ["DictKey_UnitName_2134"] = "Unit #099",
+    ["DictKey_WptName_1555"] = "",
+    ["DictKey_GroupName_373"] = "MBT T-55",
+    ["DictKey_WptName_1475"] = "",
+    ["DictKey_UnitName_1013"] = "Jaguar 1-3",
+    ["DictKey_UnitName_971"] = "Unit #038",
+    ["DictKey_ActionText_1989"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_1018"] = "Unit #003",
+    ["DictKey_GroupName_579"] = "BMP-3 DEAD #015",
+    ["DictKey_WptName_1627"] = "",
+    ["DictKey_WptName_1385"] = "",
+    ["DictKey_UnitName_915"] = "FARP Infantry 2 #1",
+    ["DictKey_WptName_1381"] = "",
+    ["DictKey_UnitName_929"] = "Cpl Fred Stark",
+    ["DictKey_WptName_1387"] = "",
+    ["DictKey_WptName_1346"] = "",
+    ["DictKey_UnitName_223"] = "Unit #077",
+    ["DictKey_UnitName_2135"] = "Unit #100",
+    ["DictKey_ActionText_2028"] = "",
+    ["DictKey_ActionText_1780"] = "",
+    ["DictKey_166"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_818"] = "BMP-3 DEAD #052",
+    ["DictKey_GroupName_1103"] = "Convoy 1 LAV #001",
+    ["DictKey_WptName_1378"] = "",
+    ["DictKey_GroupName_805"] = "BTR-80 DEAD #019",
+    ["DictKey_ActionText_1880"] = "",
+    ["DictKey_WptName_1453"] = "",
+    ["DictKey_132"] = "COLT 1 Gウォーム開始！",
+    ["DictKey_UnitName_898"] = "Pilot #005",
+    ["DictKey_UnitName_938"] = "Cpl Marnie Frances",
+    ["DictKey_WptName_1297"] = "",
+    ["DictKey_WptName_2151"] = "",
+    ["DictKey_WptName_1302"] = "",
+    ["DictKey_ActionText_2044"] = "",
+    ["DictKey_ActionText_1794"] = "",
+    ["DictKey_UnitName_1110"] = "Convoy 1 LAV #002",
+    ["DictKey_WptName_1154"] = "",
+    ["DictKey_WptName_1529"] = "",
+    ["DictKey_WptName_1410"] = "",
+    ["DictKey_WptName_1411"] = "",
+    ["DictKey_UnitName_960"] = "Unit #028",
+    ["DictKey_GroupName_366"] = "KB ARTY PLATOON #003",
+    ["DictKey_GroupName_1028"] = "Bradley Platoon #007",
+    ["DictKey_UnitName_850"] = "T-55 DEAD #075",
+    ["DictKey_150"] = "CHECK IN",
+    ["DictKey_ActionRadioText_2120"] = "",
+    ["DictKey_WptName_1399"] = "",
+    ["DictKey_WptName_1657"] = "",
+    ["DictKey_GroupName_785"] = "BTR-80 DEAD",
+    ["DictKey_GroupName_1069"] = "FARP Tent #002",
+    ["DictKey_GroupName_631"] = "T-55 DEAD #017",
+    ["DictKey_WptName_1137"] = "",
+    ["DictKey_171"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_846"] = "BTR-80 DEAD #021",
+    ["DictKey_ActionText_1928"] = "",
+    ["DictKey_WptName_1427"] = "",
+    ["DictKey_ActionText_1983"] = "",
+    ["DictKey_UnitName_1076"] = "FARP Tent #004",
+    ["DictKey_WptName_1476"] = "",
+    ["DictKey_ActionText_2061"] = "",
+    ["DictKey_ActionText_1712"] = "",
+    ["DictKey_GroupName_871"] = "Mi-8 SPRINGFIELD 3-1",
+    ["DictKey_WptName_1447"] = "",
+    ["DictKey_ActionText_1790"] = "",
+    ["DictKey_WptName_1585"] = "",
+    ["DictKey_UnitName_964"] = "Unit #031",
+    ["DictKey_ActionText_2093"] = "",
+    ["DictKey_UnitName_1114"] = "New Static Object #005",
+    ["DictKey_UnitName_368"] = "Unit #207",
+    ["DictKey_UnitName_414"] = "MBT T-55 #033",
+    ["DictKey_WptName_1270"] = "",
+    ["DictKey_102"] = "BAIミッションマネジメントは、BAI部隊（アセット）を管理、運用し、戦闘エリアに移動する敵の部隊や補給を、遅延、混乱、破壊することで、友軍への影響を阻止します。",
+    ["DictKey_UnitName_564"] = "BTR-80 DEAD #007",
+    ["DictKey_GroupName_873"] = "Perth FARP",
+    ["DictKey_GroupName_1077"] = "FARP Tent #005",
+    ["DictKey_ActionText_1905"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_636"] = "T-55 DEAD #019",
+    ["DictKey_ActionText_1859"] = "",
+    ["DictKey_106"] = "レンジのハードデッキは100ftAGLです。\
+\
+この高度よりも下回るとPOは不合格になります。",
+    ["DictKey_UnitName_1045"] = "Unit #023",
+    ["DictKey_WptName_1353"] = "",
+    ["DictKey_GroupName_797"] = "BTR-80 DEAD #015",
+    ["DictKey_WptName_1456"] = "",
+    ["DictKey_GroupName_921"] = "New Vehicle Group #003",
+    ["DictKey_UnitName_408"] = "MBT T-55 #030",
+    ["DictKey_179"] = "RUNNING IN",
+    ["DictKey_WptName_1264"] = "",
+    ["DictKey_UnitName_356"] = "OKB T-55 2-2",
+    ["DictKey_WptName_1466"] = "",
+    ["DictKey_WptName_1405"] = "",
+    ["DictKey_WptName_1197"] = "",
+    ["DictKey_UnitName_1011"] = "Sgt Lawrence Platt #001",
+    ["DictKey_UnitName_826"] = "NONA DEAD  #002",
+    ["DictKey_UnitName_323"] = "TARGET 4-3",
+    ["DictKey_176"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_GroupName_459"] = "Target 1 Ammo #003",
+    ["DictKey_WptName_1618"] = "MM71",
+    ["DictKey_WptName_1503"] = "",
+    ["DictKey_197"] = "飛行後BDAからの報告です。キルボックス内のターゲットを十分破壊できませんでした。",
+    ["DictKey_ActionText_2115"] = "高度を確認して下さい！",
+    ["DictKey_ActionText_1882"] = "",
+    ["DictKey_GroupName_1127"] = "F-16A DODGE 1",
+    ["DictKey_UnitName_1063"] = "Unit #200",
+    ["DictKey_ActionText_2092"] = "",
+    ["DictKey_131"] = "Gウォーム 90 レフト　開始",
+    ["DictKey_GroupName_545"] = "BTR-80 DEAD #004",
+    ["DictKey_GroupName_281"] = "M BTR PLATOON #002",
+    ["DictKey_GroupName_387"] = "MBT T-55 #013",
+    ["DictKey_WptName_1486"] = "",
+    ["DictKey_GroupName_689"] = "T-55 DEAD #045",
+    ["DictKey_ActionText_1912"] = "",
+    ["DictKey_135"] = "Gウォーム 90 レフト　開始",
+    ["DictKey_ActionText_2056"] = "",
+    ["DictKey_UnitName_758"] = "BMP-3 DEAD #037",
+    ["DictKey_ActionText_2045"] = "",
+    ["DictKey_UnitName_626"] = "T-55 DEAD #014",
+    ["DictKey_ActionText_1741"] = "",
+    ["DictKey_ActionText_2058"] = "",
+    ["DictKey_UnitName_416"] = "MBT T-55 #034",
+    ["DictKey_GroupName_469"] = "New Static Object #006",
+    ["DictKey_UnitName_1056"] = "Unit #039",
+    ["DictKey_UnitName_900"] = "ENFIELD 2-1",
+    ["DictKey_UnitName_910"] = "Pvt John Dickson",
+    ["DictKey_ActionText_1833"] = "",
+    ["DictKey_GroupName_657"] = "T-55 DEAD #030",
+    ["DictKey_ActionText_1952"] = "",
+    ["DictKey_GroupName_561"] = "BMP-3 DEAD #009",
+    ["DictKey_WptName_1274"] = "",
+    ["DictKey_GroupName_847"] = "BTR-80 DEAD #022",
+    ["DictKey_GroupName_441"] = "Small House 4",
+    ["DictKey_ActionText_1872"] = "",
+    ["DictKey_UnitName_248"] = "Unit #097",
+    ["DictKey_ActionText_2083"] = "",
+    ["DictKey_187"] = "3, COPY!",
+    ["DictKey_WptName_1647"] = "",
+    ["DictKey_GroupName_399"] = "MBT T-55 #024",
+    ["DictKey_WptName_1414"] = "",
+    ["DictKey_ActionText_1964"] = "",
+    ["DictKey_ActionText_1908"] = "",
+    ["DictKey_UnitName_249"] = "Unit #096",
+    ["DictKey_UnitName_2142"] = "Unit #107",
+    ["DictKey_ActionText_1807"] = "",
+    ["DictKey_ActionText_1775"] = "",
+    ["DictKey_WptName_1422"] = "",
+    ["DictKey_WptName_1580"] = "",
+    ["DictKey_WptName_1221"] = "",
+    ["DictKey_WptName_1239"] = "",
+    ["DictKey_WptName_1314"] = "",
+    ["DictKey_WptName_1541"] = "",
+    ["DictKey_GroupName_419"] = "MBT T-55 #036",
+    ["DictKey_UnitName_470"] = "New Static Object #006",
+    ["DictKey_WptName_1285"] = "",
+    ["DictKey_UnitName_247"] = "Unit #098",
+    ["DictKey_103"] = "あなたは、航空FAC（AFAC：Airborne Forward Air Controller）としてBAIの運用を管理してください。",
+    ["DictKey_ActionText_1795"] = "",
+    ["DictKey_ActionText_1743"] = "",
+    ["DictKey_182"] = "FENCE OUT",
+    ["DictKey_GroupName_781"] = "BMP-3 DEAD #049",
+    ["DictKey_WptName_1613"] = "",
+    ["DictKey_UnitName_884"] = "A Player",
+    ["DictKey_UnitName_969"] = "M1 P2 ",
+    ["DictKey_UnitName_802"] = "BTR-80 DEAD #017",
+    ["DictKey_GroupName_765"] = "BMP-3 DEAD #041",
+    ["DictKey_WptName_1316"] = "",
+    ["DictKey_GroupName_429"] = "MBT T-55 #014",
+    ["DictKey_UnitName_961"] = "Cpt Will Burnet",
+    ["DictKey_ActionText_1950"] = "",
+    ["DictKey_WptName_1267"] = "",
+    ["DictKey_WptName_1549"] = "",
+    ["DictKey_WptName_1664"] = "",
+    ["DictKey_GroupName_234"] = "KB T-55 PLATOON #009",
+    ["DictKey_ActionText_1812"] = "",
+    ["DictKey_UnitName_714"] = "T-55 DEAD #057",
+    ["DictKey_107"] = "再確認です。\
+\
+これは実弾演習です。\
+\
+発射前に、ターゲットを確認し、注意をして下さい。\
+\
+グッドラック",
+    ["DictKey_ActionText_1683"] = "",
+    ["DictKey_WptName_1428"] = "",
+    ["DictKey_WptName_1444"] = "",
+    ["DictKey_ActionText_1820"] = "",
+    ["DictKey_ActionText_1810"] = "",
+    ["DictKey_WptName_1521"] = "",
+    ["DictKey_WptName_1484"] = "",
+    ["DictKey_UnitName_991"] = "Unit #054",
+    ["DictKey_UnitName_2131"] = "Unit #093",
+    ["DictKey_ActionText_2069"] = "",
+    ["DictKey_GroupName_857"] = "T-55 DEAD #078",
+    ["DictKey_WptName_1608"] = "",
+    ["DictKey_UnitName_1055"] = "Unit #046",
+    ["DictKey_UnitName_918"] = "Unit #058",
+    ["DictKey_UnitName_1017"] = "Unit #004",
+    ["DictKey_GroupName_667"] = "T-55 DEAD #034",
+    ["DictKey_UnitName_472"] = "New Static Object #001",
+    ["DictKey_GroupName_829"] = "MCP DEAD",
+    ["DictKey_WptName_1455"] = "",
+    ["DictKey_117"] = "通常、夜間CASではCASパイロットは航空機のシステムに大きく依存します。\
+\
+航空機システムは独立して使用できますが、システムを組み合わせることでミッション成功率が高くなります。",
+    ["DictKey_UnitName_993"] = "Sgt Peter Welsome",
+    ["DictKey_GroupName_326"] = "KB Target 3",
+    ["DictKey_UnitName_337"] = "Unit #068",
+    ["DictKey_WptName_1417"] = "",
+    ["DictKey_UnitName_2143"] = "Unit #108",
+    ["DictKey_ActionText_1781"] = "",
+    ["DictKey_ActionText_1801"] = "",
+    ["DictKey_UnitName_462"] = "MBT T-55 #049",
+    ["DictKey_WptName_1498"] = "",
+    ["DictKey_WptName_1255"] = "",
+    ["DictKey_ActionText_1934"] = "",
+    ["DictKey_GroupName_739"] = "BMP-3 DEAD #028",
+    ["DictKey_160"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_GroupName_665"] = "T-55 DEAD #033",
+    ["DictKey_ActionText_2026"] = "",
+    ["DictKey_GroupName_613"] = "T-55 DEAD #008",
+    ["DictKey_WptName_1394"] = "",
+    ["DictKey_UnitName_880"] = "New Static Object #003",
+    ["DictKey_ActionText_1796"] = "",
+    ["DictKey_GroupName_841"] = "BMP-3 DEAD #055",
+    ["DictKey_GroupName_1107"] = "Convoy 1 LAV #007",
+    ["DictKey_GroupName_877"] = "Comms Tower #002",
+    ["DictKey_ActionText_1808"] = "",
+    ["DictKey_ActionText_1720"] = "",
+    ["DictKey_UnitName_1008"] = "Unit #065",
+    ["DictKey_WptName_1152"] = "",
+    ["DictKey_113"] = "COLT 1-1, UZI 1-1.\
+\
+夜間におけるBAIマネジメントの手順とキルボックス内での活動について説明しましょう。",
+    ["DictKey_GroupName_213"] = "KB Target 5",
+    ["DictKey_UnitName_1054"] = "Unit #049",
+    ["DictKey_WptName_1570"] = "",
+    ["DictKey_GroupName_571"] = "BMP-3 DEAD #011",
+    ["DictKey_189"] = "おかえりなさい！\
+\
+機体をシャットダウンしてください。それから評価を伝えます。",
+    ["DictKey_WptName_1533"] = "",
+    ["DictKey_ActionText_1776"] = "",
+    ["DictKey_WptName_1435"] = "",
+    ["DictKey_WptName_1543"] = "",
+    ["DictKey_ActionText_1738"] = "",
+    ["DictKey_ActionText_1746"] = "",
+    ["DictKey_ActionText_1991"] = "",
+    ["DictKey_UnitName_598"] = "BMP-3 DEAD #024",
+    ["DictKey_GroupName_888"] = "KC-135 SHELL",
+    ["DictKey_UnitName_746"] = "BMP-3 DEAD #031",
+    ["DictKey_UnitName_1047"] = "Lt Richard Dike #003",
+    ["DictKey_WptName_1272"] = "",
+    ["DictKey_GroupName_531"] = "BTR-80 DEAD #001",
+    ["DictKey_ActionText_1997"] = "",
+    ["DictKey_WptName_1609"] = "",
+    ["DictKey_ActionText_1954"] = "",
+    ["DictKey_WptName_1176"] = "",
+    ["DictKey_161"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_WptName_1674"] = "",
+    ["DictKey_WptName_1464"] = "",
+    ["DictKey_GroupName_711"] = "T-55 DEAD #056",
+    ["DictKey_ActionText_1695"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_ActionText_1700"] = "",
+    ["DictKey_UnitName_498"] = "Target 1 Ammo #012",
+    ["DictKey_ActionText_1920"] = "",
+    ["DictKey_ActionText_1841"] = "",
+    ["DictKey_UnitName_916"] = "Pvt Andy Rutledge",
+    ["DictKey_ActionText_1917"] = "",
+    ["DictKey_GroupName_573"] = "BMP-3 DEAD #012",
+    ["DictKey_GroupName_1101"] = "Comms Tower #005",
+    ["DictKey_UnitName_624"] = "T-55 DEAD #013",
+    ["DictKey_WptName_1359"] = "",
+    ["DictKey_ActionText_2090"] = "",
+    ["DictKey_UnitName_768"] = "BMP-3 DEAD #042",
+    ["DictKey_WptName_1322"] = "",
+    ["DictKey_WptName_1276"] = "",
+    ["DictKey_ActionText_2060"] = "",
+    ["DictKey_UnitName_959"] = "Unit #029",
+    ["DictKey_UnitName_778"] = "BMP-3 DEAD #047",
+    ["DictKey_UnitName_466"] = "MBT T-55 #051",
+    ["DictKey_WptName_1434"] = "",
+    ["DictKey_UnitName_606"] = "T-55 DEAD #004",
+    ["DictKey_WptName_1429"] = "",
+    ["DictKey_UnitName_2122"] = "TARGET 4-5",
+    ["DictKey_UnitName_454"] = "MBT T-55 #047",
+    ["DictKey_UnitName_464"] = "MBT T-55 #050",
+    ["DictKey_UnitName_806"] = "BTR-80 DEAD #019",
+    ["DictKey_UnitName_363"] = "OKB T-55 #003",
+    ["DictKey_UnitName_1031"] = "BP 7",
+    ["DictKey_207"] = "1, COPY!",
+    ["DictKey_WptName_1597"] = "",
+    ["DictKey_WptName_1379"] = "",
+    ["DictKey_UnitName_780"] = "BMP-3 DEAD #048",
+    ["DictKey_UnitName_614"] = "T-55 DEAD #008",
+    ["DictKey_UnitName_532"] = "BTR-80 DEAD #001",
+    ["DictKey_WptName_1236"] = "",
+    ["DictKey_UnitName_438"] = "MBT T-55 #023",
+    ["DictKey_ActionText_1939"] = "",
+    ["DictKey_ActionText_1729"] = "",
+    ["DictKey_WptName_1602"] = "",
+    ["DictKey_ActionText_1713"] = "",
+    ["DictKey_GroupName_605"] = "T-55 DEAD #004",
+    ["DictKey_WptName_1539"] = "",
+    ["DictKey_UnitName_953"] = "Cpl Erica Estrange",
+    ["DictKey_WptName_1672"] = "",
+    ["DictKey_UnitName_311"] = "Unit #187",
+    ["DictKey_ActionText_1854"] = "",
+    ["DictKey_GroupName_743"] = "BMP-3 DEAD #030",
+    ["DictKey_WptName_1313"] = "",
+    ["DictKey_ActionText_2039"] = "",
+    ["DictKey_GroupName_661"] = "T-55 DEAD #031",
+    ["DictKey_ActionText_2006"] = "",
+    ["DictKey_UnitName_280"] = "OKB BTR 4-1",
+    ["DictKey_GroupName_703"] = "T-55 DEAD #052",
+    ["DictKey_UnitName_394"] = "MBT T-55 #019",
+    ["DictKey_UnitName_2121"] = "TARGET 4-4",
+    ["DictKey_WptName_1342"] = "",
+    ["DictKey_ActionText_1857"] = "",
+    ["DictKey_GroupName_557"] = "BMP-3 DEAD #007",
+    ["DictKey_ActionText_2025"] = "",
+    ["DictKey_ActionText_1760"] = "",
+    ["DictKey_UnitName_460"] = "Target 1 Ammo #003",
+    ["DictKey_ActionText_1845"] = "",
+    ["DictKey_WptName_1499"] = "",
+    ["DictKey_ActionText_1944"] = "",
+    ["DictKey_ActionText_2019"] = "",
+    ["DictKey_UnitName_279"] = "OKB BTR 4-2",
+    ["DictKey_UnitName_290"] = "Target 2-3",
+    ["DictKey_UnitName_1026"] = "Unit #012",
+    ["DictKey_GroupName_745"] = "BMP-3 DEAD #031",
+    ["DictKey_WptName_1559"] = "",
+    ["DictKey_UnitName_1129"] = "Pilot #003",
+    ["DictKey_WptName_1451"] = "",
+    ["DictKey_ActionText_2024"] = "",
+    ["DictKey_WptName_1500"] = "",
+    ["DictKey_WptName_1158"] = "",
+    ["DictKey_ActionText_2072"] = "",
+    ["DictKey_WptName_1547"] = "",
+    ["DictKey_GroupName_220"] = "KB ARTY PLATOON #001",
+    ["DictKey_ActionText_2079"] = "",
+    ["DictKey_GroupName_443"] = "Small House 3",
+    ["DictKey_WptName_1145"] = "",
+    ["DictKey_191"] = "やりました！　POに合格です。\
+\
+あなたの評価は可（Qualified Minus：Q-)です。\
+\
+スキルを向上させるためにさらに練習をしてください。それがあなたの命を救うことにもなります。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_193"] = "",
+    ["DictKey_UnitName_887"] = "FORD 1-1",
+    ["DictKey_WptName_1203"] = "",
+    ["DictKey_UnitName_239"] = "Unit #092",
+    ["DictKey_WptName_1268"] = "",
+    ["DictKey_ActionText_1699"] = "",
+    ["DictKey_ActionText_2041"] = "",
+    ["DictKey_GroupName_435"] = "MBT T-55 #021",
+    ["DictKey_ActionText_1891"] = "",
+    ["DictKey_ActionText_1961"] = "",
+    ["DictKey_UnitName_610"] = "T-55 DEAD #006",
+    ["DictKey_WptName_1182"] = "",
+    ["DictKey_UnitName_882"] = "Wingman 3",
+    ["DictKey_ActionText_2064"] = "",
+    ["DictKey_ActionText_1837"] = "",
+    ["DictKey_WptName_1361"] = "",
+    ["DictKey_ActionText_1953"] = "",
+    ["DictKey_GroupName_505"] = "Target 1 Ammo #016",
+    ["DictKey_UnitName_538"] = "BMP-3 DEAD #001",
+    ["DictKey_ActionText_2087"] = "",
+    ["DictKey_GroupName_881"] = "COLT 1",
+    ["DictKey_UnitName_458"] = "FARP",
+    ["DictKey_UnitName_754"] = "BMP-3 DEAD #035",
+    ["DictKey_UnitName_1070"] = "FARP Tent #002",
+    ["DictKey_WptName_1446"] = "",
+    ["DictKey_UnitName_359"] = "Unit #193",
+    ["DictKey_UnitName_814"] = "T-55 DEAD #071",
+    ["DictKey_ActionText_1982"] = "",
+    ["DictKey_158"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_GroupName_619"] = "T-55 DEAD #011",
+    ["DictKey_UnitName_229"] = "Unit #084",
+    ["DictKey_ActionText_1721"] = "",
+    ["DictKey_UnitName_943"] = "Cpl Walter Ziv",
+    ["DictKey_UnitName_2141"] = "Unit #106",
+    ["DictKey_WptName_1253"] = "",
+    ["DictKey_UnitName_897"] = "Pilot #006",
+    ["DictKey_WptName_1510"] = "",
+    ["DictKey_WptName_1390"] = "",
+    ["DictKey_WptName_1307"] = "",
+    ["DictKey_ActionText_1871"] = "",
+    ["DictKey_WptName_1461"] = "",
+    ["DictKey_UnitName_360"] = "Unit #192",
+    ["DictKey_UnitName_256"] = "Unit #124",
+    ["DictKey_128"] = "COLT 1-1, UZI 1-1,\
+\
+では、あなたのフライト（飛行隊）に、Gアウェアネステストを行わせて下さい！",
+    ["DictKey_UnitName_312"] = "Unit #186",
+    ["DictKey_ActionText_1799"] = "",
+    ["DictKey_UnitName_1029"] = "Unit #015",
+    ["DictKey_ActionText_1718"] = "",
+    ["DictKey_ActionText_2001"] = "",
+    ["DictKey_UnitName_800"] = "BTR-80 DEAD #016",
+    ["DictKey_UnitName_586"] = "BMP-3 DEAD #018",
+    ["DictKey_WptName_1568"] = "",
+    ["DictKey_ActionText_1923"] = "",
+    ["DictKey_UnitName_390"] = "MBT T-55 #015",
+    ["DictKey_ActionText_1745"] = "",
+    ["DictKey_GroupName_803"] = "BTR-80 DEAD #018",
+    ["DictKey_GroupName_1083"] = "New Static Object #001",
+    ["DictKey_UnitName_770"] = "BMP-3 DEAD #043",
+    ["DictKey_WptName_1457"] = "",
+    ["DictKey_GroupName_974"] = "Arty Platoon",
+    ["DictKey_GroupName_447"] = "MBT T-55 #044",
+    ["DictKey_ActionText_2017"] = "",
+    ["DictKey_ActionText_1788"] = "",
+    ["DictKey_ActionText_2020"] = "",
+    ["DictKey_WptName_1215"] = "",
+    ["DictKey_ActionText_2043"] = "",
+    ["DictKey_WptName_1653"] = "",
+    ["DictKey_ActionText_1962"] = "",
+    ["DictKey_ActionText_1694"] = "",
+    ["DictKey_WptName_1180"] = "",
+    ["DictKey_WptName_1491"] = "",
+    ["DictKey_ActionText_1811"] = "",
+    ["DictKey_GroupName_813"] = "T-55 DEAD #071",
+    ["DictKey_ActionText_1765"] = "",
+    ["DictKey_ActionText_1986"] = "",
+    ["DictKey_WptName_1660"] = "",
+    ["DictKey_UnitName_976"] = "Unit #044",
+    ["DictKey_WptName_1640"] = "",
+    ["DictKey_WptName_1556"] = "",
+    ["DictKey_WptName_1658"] = "",
+    ["DictKey_ActionText_1981"] = "",
+    ["DictKey_UnitName_712"] = "T-55 DEAD #056",
+    ["DictKey_UnitName_676"] = "T-55 DEAD #038",
+    ["DictKey_ActionText_1863"] = "",
+    ["DictKey_ActionText_1903"] = "",
+    ["DictKey_WptName_1370"] = "",
+    ["DictKey_ActionText_1977"] = "",
+    ["DictKey_WptName_1365"] = "",
+    ["DictKey_ActionText_1958"] = "",
+    ["DictKey_ActionText_1843"] = "",
+    ["DictKey_ActionText_1885"] = "",
+    ["DictKey_UnitName_822"] = "NONA DEAD ",
+    ["DictKey_ActionText_2068"] = "",
+    ["DictKey_UnitName_352"] = "Unit #162",
+    ["DictKey_ActionText_1813"] = "",
+    ["DictKey_ActionText_1910"] = "",
+    ["DictKey_GroupName_425"] = "MBT T-55 #039",
+    ["DictKey_UnitName_222"] = "Unit #078",
+    ["DictKey_UnitName_600"] = "BMP-3 DEAD #025",
+    ["DictKey_UnitName_1062"] = "Unit #201",
+    ["DictKey_UnitName_622"] = "T-55 DEAD #012",
+    ["DictKey_WptName_1366"] = "",
+    ["DictKey_ActionText_1830"] = "",
+    ["DictKey_UnitName_217"] = "Target 5-3",
+    ["DictKey_WptName_1135"] = "",
+    ["DictKey_172"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_ActionText_1984"] = "",
+    ["DictKey_WptName_1546"] = "",
+    ["DictKey_ActionText_1921"] = "",
+    ["DictKey_UnitName_658"] = "T-55 DEAD #030",
+    ["DictKey_WptName_1488"] = "TARGET 4",
+    ["DictKey_WptName_1277"] = "",
+    ["DictKey_WptName_1331"] = "",
+    ["DictKey_UnitName_540"] = "BMP-3 DEAD #002",
+    ["DictKey_GroupName_823"] = "NONA DEAD  #001",
+    ["DictKey_GroupName_890"] = "F-16C DODGE 4",
+    ["DictKey_WptName_1528"] = "",
+    ["DictKey_ActionText_1732"] = "",
+    ["DictKey_GroupName_301"] = "KB BMP PLATOON",
+    ["DictKey_GroupName_673"] = "T-55 DEAD #037",
+    ["DictKey_GroupName_269"] = "KB BTR PLATOON",
+    ["DictKey_GroupName_757"] = "BMP-3 DEAD #037",
+    ["DictKey_UnitName_874"] = "Perth FARP",
+    ["DictKey_GroupName_962"] = "M1 Platoon #001",
+    ["DictKey_ActionText_1926"] = "COLT 1-1, UZI 1-1.\
+\
+ウイングマンをキルボックスの南に待機させて、あなたはターゲットの捜索を開始してください。\
+\
+ターゲットをIRポインターでマーキングして、ウイングマンに攻撃を命じてください。\
+\
+あなた自身で攻撃を行うことも許可します。\
+\
+プレイタイムは45分です。\
+\
+グッドラック！",
+    ["DictKey_UnitName_344"] = "OKB BMP 4-2",
+    ["DictKey_UnitName_602"] = "BMP-3 DEAD #026",
+    ["DictKey_ActionText_1927"] = "",
+    ["DictKey_ActionText_2021"] = "",
+    ["DictKey_ActionText_1935"] = "",
+    ["DictKey_ActionText_1784"] = "",
+    ["DictKey_UnitName_1022"] = "Unit #009",
+    ["DictKey_UnitName_367"] = "Unit #208",
+    ["DictKey_GroupName_970"] = "M1 Platoon #003",
+    ["DictKey_WptName_1386"] = "",
+    ["DictKey_WptName_1448"] = "",
+    ["DictKey_GroupName_409"] = "MBT T-55 #031",
+    ["DictKey_UnitName_332"] = "OKB BMP 1-2",
+    ["DictKey_ActionText_2116"] = "高度を確認して下さい！",
+    ["DictKey_UnitName_620"] = "T-55 DEAD #011",
+    ["DictKey_GroupName_914"] = "FARP Infantry 2 #001",
+    ["DictKey_UnitName_307"] = "Unit #191",
+    ["DictKey_UnitName_241"] = "Unit #090",
+    ["DictKey_WptName_1260"] = "",
+    ["DictKey_ActionText_1985"] = "",
+    ["DictKey_WptName_1663"] = "",
+    ["DictKey_145"] = "FENCE IN",
+} -- end of dictionary
