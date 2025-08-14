@@ -1,0 +1,692 @@
+campaign = 
+{
+    ["picture_EN"] = "A-10C - TTQ.jpg",
+    ["directory"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\",
+    ["description"] = "The A-10C Pilot Qualification Course has the following phases\
+\
+Phase 1: Academic Classes and Pre-Flight Training\
+Phase 2: Basic Flight Training Qualification\
+Phase 3: Advanced Aircraft Training Qualification\
+Phase 4: Tactical Training Qualification\
+\
+Phase 1 Academic Classes and Pre-Flight Training: Initial Qualification Training (IQT)\
+Is a pre-requisite for Phase 2. To complete Phase 1 execute the in game training missions and fly some test missions. Read the A-10C Flight Manual to become familiar with the A-10C aircraft systems and instruments.\
+\
+Phase 2 Basic Flight Training Qualification: Basic Aircraft Qualification (BAQ).\
+This qualification phase measures your ability to fly the aircraft and work the navigation systems. It is a pre-requisite for Phase 3.\
+\
+Phase 3 Advanced Aircraft Training Qualification: Basic Mission Capable (BMC).\
+This qualification phase measures your ability to execute basic mission capabilities including air to air refueling and evading threats as well as working all weapons systems. It is a pre-requisite for Phase 4.\
+\
+Phase 4 Tactical Training Qualification: Combat Mission Ready (CMR).\
+This qualification phase measures your ability to execute more advanced mission capabilities including working with JTACS and Airborne FACs, using Wingmen, performing CAS, CSAR and Deep Interdiction mission types.\
+\
+Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.\
+\
+Following each Check Ride flight your Flight Examiner (FE) will rate you using one of the following proficiency levels as directed in A/OA-10 – Aircrew Evaluation Criteria: AFI11-2A-OA-10V2:\
+\
+Qualified (Q): Performance is correct. Quickly recognizes and corrects errors.\
+\
+Qualified Minus (Q-): Performance is safe, but indicates limited proficiency. Makes errors of omission or commission.\
+\
+Unqualified (U): Performance is unsafe or indicates lack of knowledge or ability.\
+\
+In addition for any flight missions:\
+\
+Qualified (Q): Altitude +/- 200 feet, Airspeed +/- 5%, Course +/- 5 degrees / 3 NM (whichever is greater)\
+\
+Qualified Minus (Q-): Altitude +/- 300 feet, Airspeed +/- 10%, Course +/- 10 degrees / 5 NM (whichever is greater)\
+\
+Unqualified (U): Exceeded Q- limits\
+\
+Phase 4: Tactical Training Qualification contains:\
+\
+Close Air Support Tactical Stage:\
+\
+TAC11 - FAC & JTAC Coordination\
+TAC12 - Stationary and Moving Target Tasking\
+TAC13 - Danger Close Tasking\
+TAC14 - SEAD Tasking\
+\
+Battlefield Air Interdiction Tactical Stage:\
+\
+TAC15 - Deep Interdiction Tasking Day\
+TAC16 - Deep Interdiction Tasking Night\
+TAC17 - Deep Interdiction Tasking Special Forces Coordination\
+\
+Airborne Forward Air Controller (AFAC) Tactical Stage:\
+\
+TAC18 - SADL Datalink Engagement\
+TAC19 - CAS Mission Management Day\
+TAC20 - CAS Mission Management Night\
+TAC21 - BAI Mission Management Day\
+TAC22 - BAI Mission Management Night\
+\
+Combat Search and Rescue (CSAR) Tactical Stage:\
+\
+TAC23 - CSAR Management Day\
+TAC24 - CSAR Management Night\
+\
+Tactical Summary Stage:\
+\
+TAC25 - Simulated Combat Mission \
+\
+At the completion of this phase you will be considered Combat Mission Ready (CMR).\
+\
+Good luck!",
+    ["picture"] = "A-10C - TTQ.jpg",
+    ["startStage"] = 1,
+    ["name_JP"] = "戦術訓練検定",
+    ["description_JP"] = "A-10C パイロット検定コースは次のフェーズからなります。\
+\
+フェーズ１：アカデミッククラスとプレフライトトレーニング\
+フェーズ２：基本飛行訓練検定\
+フェーズ３：上級航空機訓練検定\
+フェーズ４：戦術訓練検定（Tactical Training Qualification）\
+\
+フェーズ１は初期認定訓練（IQT: Initial Qualification Training）を行います。また フェーズ２への前提条件となります。A-10Cフライトマニュアルを読んで、A-10Cの航空機システムと計器類に精通してください。 \
+\
+フェーズ２は基本航空機検定（BAQ： Basic Aircraft Qualification）です。\
+この検定フェーズは航空機の操縦とナビゲーションシステムの操作について認定します。これはフェーズ３への前提条件となります\
+\
+Phase 3 は上級航空機訓練検定で基本ミッション能力（BMC）を認定します。\
+この検定フェーズは、基本ミッション能力（空中給油、驚異の回避、全ての兵器システム）があるかどうかを審査します。これはフェーズ４の前提条件となります。\
+\
+Phase 4 戦術訓練検定：戦闘任務準備（CMR: Combat Mission Ready）\
+この検定フェーズは、より高度なミッション能力（JTACや空中FACとの作業、ウイングマンの使用、CASの実行、CSARやDeep Interdiction mission types）があるかどうかを審査します。\
+\
+訓練の各フェーズでは各能力目標（PO： Performance Objectives）があり、コースに合格するためにはこれを満たす必要があります。POを満たしているかの判断のため能力テスト（PC： Performance Check）を行います。\
+\
+各飛行（チェックライド）に続いて、飛行試験官（FE:Flight Examiner ）がA/OA-10 – 搭乗員評価基準：AFI11-2A-OA-10V2:に従って習熟度レベルを評価をします。\
+\
+優 (Q：Qualified): 十分な能力を有しています。素早く判断し、ミスを修正できます。\
+\
+可 (Q-：Qualified Minus): 基準は満たしていますが、 限られています。見落としや、ミスを犯しています。\
+\
+不可（U:Unqualified): 基準を満たしていません。知識と能力が欠如しています。\
+\
+全ての飛行ミッションでの追加事項：\
+\
+優 (Q): 高度 +/- 200 feet, 対気速度 +/- 5%, コース +/- 5度か 3 NM (いずれか大きい方)\
+\
+可 (Q-): 高度 +/- 300 feet, 対気速度 +/- 10%, コース +/- 10度か 5 NM (いずれか大きい方)\
+\
+不可 (U): 可（Q-）の範囲を超えた場合\
+\
+フェーズ 4: 戦術訓練検定内容：\
+\
+近接航空支援（Close Air Support Tactical）ステージ：\
+\
+TAC11 - FAC & JTACとの連携\
+TAC12 - 静止、移動ターゲット任務\
+TAC13 - 危険な近接任務（Danger Close Tasking）\
+TAC14 - SEAD 任務\
+\
+戦場航空阻止（Air Interdiction）戦術ステージ：\
+\
+TAC15 - 深部阻止任務（昼）（Deep Interdiction Tasking Day）\
+TAC16 - 深部阻止任務（夜）（Deep Interdiction Tasking Night）\
+TAC17 - 深部阻止任務（特殊部隊との連携）\
+\
+空中前線航空管制（AFAC:Airborne Forward Air Controller）戦術ステージ：\
+\
+TAC18 - SADL データリンク 攻撃(Datalink Engagement)\
+\
+TAC19 - CAS ミッションマネジメント（昼）\
+TAC20 - CAS ミッションマネジメント（夜）\
+TAC21 - BAI ミッションマネジメント（昼）\
+TAC22 - BAI ミッションマネジメント（夜）\
+\
+戦闘捜索救助（CSAR:Combat Search and Rescue) 戦術ステージ：\
+\
+TAC23 - CSAR マネジメント（昼\
+TAC24 - CSAR マネジメント（夜）\
+\
+戦術概要（Tactical Summary）ステージ：\
+\
+TAC25 - 模擬戦闘ミッション（Simulated Combat Mission） \
+\
+このフェーズを完了すると、戦闘ミッションの準備が整った（CMR:Combat Mission Ready ）とみなします。\
+\
+グッドラック！",
+    ["description_EN"] = "The A-10C Pilot Qualification Course has the following phases\
+\
+Phase 1: Academic Classes and Pre-Flight Training\
+Phase 2: Basic Flight Training Qualification\
+Phase 3: Advanced Aircraft Training Qualification\
+Phase 4: Tactical Training Qualification\
+\
+Phase 1 Academic Classes and Pre-Flight Training: Initial Qualification Training (IQT)\
+Is a pre-requisite for Phase 2. To complete Phase 1 execute the in game training missions and fly some test missions. Read the A-10C Flight Manual to become familiar with the A-10C aircraft systems and instruments.\
+\
+Phase 2 Basic Flight Training Qualification: Basic Aircraft Qualification (BAQ).\
+This qualification phase measures your ability to fly the aircraft and work the navigation systems. It is a pre-requisite for Phase 3.\
+\
+Phase 3 Advanced Aircraft Training Qualification: Basic Mission Capable (BMC).\
+This qualification phase measures your ability to execute basic mission capabilities including air to air refueling and evading threats as well as working all weapons systems. It is a pre-requisite for Phase 4.\
+\
+Phase 4 Tactical Training Qualification: Combat Mission Ready (CMR).\
+This qualification phase measures your ability to execute more advanced mission capabilities including working with JTACS and Airborne FACs, using Wingmen, performing CAS, CSAR and Deep Interdiction mission types.\
+\
+Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.\
+\
+Following each Check Ride flight your Flight Examiner (FE) will rate you using one of the following proficiency levels as directed in A/OA-10 – Aircrew Evaluation Criteria: AFI11-2A-OA-10V2:\
+\
+Qualified (Q): Performance is correct. Quickly recognizes and corrects errors.\
+\
+Qualified Minus (Q-): Performance is safe, but indicates limited proficiency. Makes errors of omission or commission.\
+\
+Unqualified (U): Performance is unsafe or indicates lack of knowledge or ability.\
+\
+In addition for any flight missions:\
+\
+Qualified (Q): Altitude +/- 200 feet, Airspeed +/- 5%, Course +/- 5 degrees / 3 NM (whichever is greater)\
+\
+Qualified Minus (Q-): Altitude +/- 300 feet, Airspeed +/- 10%, Course +/- 10 degrees / 5 NM (whichever is greater)\
+\
+Unqualified (U): Exceeded Q- limits\
+\
+Phase 4: Tactical Training Qualification contains:\
+\
+Close Air Support Tactical Stage:\
+\
+TAC11 - FAC & JTAC Coordination\
+TAC12 - Stationary and Moving Target Tasking\
+TAC13 - Danger Close Tasking\
+TAC14 - SEAD Tasking\
+\
+Battlefield Air Interdiction Tactical Stage:\
+\
+TAC15 - Deep Interdiction Tasking Day\
+TAC16 - Deep Interdiction Tasking Night\
+TAC17 - Deep Interdiction Tasking Special Forces Coordination\
+\
+Airborne Forward Air Controller (AFAC) Tactical Stage:\
+\
+TAC18 - SADL Datalink Engagement\
+TAC19 - CAS Mission Management Day\
+TAC20 - CAS Mission Management Night\
+TAC21 - BAI Mission Management Day\
+TAC22 - BAI Mission Management Night\
+\
+Combat Search and Rescue (CSAR) Tactical Stage:\
+\
+TAC23 - CSAR Management Day\
+TAC24 - CSAR Management Night\
+\
+Tactical Summary Stage:\
+\
+TAC25 - Simulated Combat Mission \
+\
+At the completion of this phase you will be considered Combat Mission Ready (CMR).\
+\
+Good luck!",
+    ["pictureSuccess"] = "Copy of A-10C CMR Badge.jpg",
+    ["pictureSuccess_EN"] = "Copy of A-10C CMR Badge.jpg",
+    ["pictureFailed"] = "Copy of Failed A-10C CMR Badge.jpg",
+    ["name"] = "Tactical Training Qualification",
+    ["version"] = 1,
+    ["name_EN"] = "Tactical Training Qualification",
+    ["stages"] = 
+    {
+        [4] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC13 Practice.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC13 Practice.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC13.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC13.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [13] = 
+        {
+            ["name"] = "Stage 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC22 Practice.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC22 Practice.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC22.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC22.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "Stage 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC16 Practice.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC16 Practice.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC16.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC16.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] = 
+        {
+            ["name"] = "Stage 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TTQ Arrival.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TTQ Arrival.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC11 Practice.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC11 Practice.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC11.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC11.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [15] = 
+        {
+            ["name"] = "Stage 15",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC24 Practice.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC24 Practice.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC24.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC24.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+        [8] = 
+        {
+            ["name"] = "Stage 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC17 Practice.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC17 Practice.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC17.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC17.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [16] = 
+        {
+            ["name"] = "Stage 16",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC25 Practice.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC25 Practice.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC25.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC25.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [16]
+        [9] = 
+        {
+            ["name"] = "Stage 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC18 Practice.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC18 Practice.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC18.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC18.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] = 
+        {
+            ["name"] = "Stage 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC14 Practice.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC14 Practice.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC14.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC14.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Stage 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC19 Practice.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC19 Practice.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC19.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC19.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [3] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC12 Practice.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC12 Practice.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC12.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC12.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [11] = 
+        {
+            ["name"] = "Stage 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC20 Practice.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC20 Practice.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC20.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC20.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [6] = 
+        {
+            ["name"] = "Stage 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC15 Practice.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC15 Practice.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC15.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC15.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Stage 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC21 Practice.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC21 Practice.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC21.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC21.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [14] = 
+        {
+            ["name"] = "Stage 14",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC23 Practice.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC23 Practice.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - TAC23.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - TAC23.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+    }, -- end of ["stages"]
+    ["pictureFailed_EN"] = "Copy of Failed A-10C CMR Badge.jpg",
+    ["fullPath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\TTQ\\Campaign Files - 2.2\\A-10C - Tactical Training Qualification.cmp",
+    ["necessaryUnits"] = 
+    {
+        ["A-10C"] = "A-10C",
+    }, -- end of ["necessaryUnits"]
+} -- end of campaign
