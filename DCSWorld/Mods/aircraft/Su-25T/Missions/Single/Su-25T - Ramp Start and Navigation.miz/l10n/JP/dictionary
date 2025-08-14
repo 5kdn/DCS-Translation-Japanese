@@ -1,0 +1,129 @@
+dictionary = 
+{
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_2"] = "「RAlt+Home」を押して左エンジンをスタートして下さい。",
+    ["DictKey_GroupName_42"] = "New Static Object #012",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_UnitName_29"] = "New Static Object #005",
+    ["DictKey_GroupName_46"] = "New Static Object #014",
+    ["DictKey_UnitName_39"] = "New Static Object #010",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_UnitName_25"] = "New Static Object #003",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_UnitName_45"] = "New Static Object #013",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_GroupName_40"] = "New Static Object #011",
+    ["DictKey_3"] = "「RCtrl+Home」を押して右エンジンをスタートして下さい。",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_GroupName_44"] = "New Static Object #013",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_GroupName_10"] = "New Airplane Group",
+    ["DictKey_UnitName_47"] = "New Static Object #014",
+    ["DictKey_GroupName_28"] = "New Static Object #005",
+    ["DictKey_GroupName_32"] = "New Static Object #007",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_UnitName_13"] = "Unit #1",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_UnitName_43"] = "New Static Object #012",
+    ["DictKey_UnitName_33"] = "New Static Object #007",
+    ["DictKey_GroupName_14"] = "New Vehicle Group #001",
+    ["DictKey_sortie_51"] = "スタートアップとナビゲーション",
+    ["DictKey_4"] = "両方のエンジンが始動し、RPMが安定したら、右にタキシングして滑走路へ進入して下さい。\
+「LCtrl+C」を押してキャノピーを閉じて下さい。\
+「F」を押してフラップを下げて下さい。",
+    ["DictKey_GroupName_24"] = "New Static Object #003",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_descriptionBlueTask_50"] = "",
+    ["DictKey_UnitName_21"] = "New Static Object #001",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_UnitName_31"] = "New Static Object #006",
+    ["DictKey_9"] = "「Rshift+L」を押して電力をONにします。",
+    ["DictKey_UnitName_35"] = "New Static Object #008",
+    ["DictKey_GroupName_20"] = "New Static Object #001",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_descriptionRedTask_49"] = "離陸して目的の空港に着陸して下さい。",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_7"] = "目的の空港に到着しました。着陸の指示に従い着陸して下さい。\
+着陸後は駐機場へタキシングして下さい。\
+\
+「LShift+F」でフラップを展開して下さい。\
+「G」を押してランディングギアを降ろして下さい。\
+\
+必要であればホイールブレーキ「W」を使用して下さい。",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_GroupName_12"] = "New Vehicle Group #002",
+    ["DictKey_UnitName_19"] = "New Static Object",
+    ["DictKey_GroupName_38"] = "New Static Object #010",
+    ["DictKey_UnitName_27"] = "New Static Object #004",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_UnitName_41"] = "New Static Object #011",
+    ["DictKey_UnitName_23"] = "New Static Object #002",
+    ["DictKey_GroupName_18"] = "New Static Object",
+    ["DictKey_5"] = "滑走路に進入して、離陸して下さい。\
+HUDとHSIを使用して最初のウェイポイントへ飛行して下さい。\
+\
+「F」と「G」を押してフラップとランディングギアを収納して下さい。",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_GroupName_34"] = "New Static Object #008",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_UnitName_15"] = "Unit #2",
+    ["DictKey_8"] = "「KP*」,「KP/」でコクピットのズームレベルを調節できます。\
+ズームアウトしてスピード感を増しましょう。\
+\
+どれくらいまで低くできましたか？",
+    ["DictKey_GroupName_36"] = "New Static Object #009",
+    ["DictKey_GroupName_26"] = "New Static Object #004",
+    ["DictKey_UnitName_37"] = "New Static Object #009",
+    ["DictKey_UnitName_17"] = "Unit #3",
+    ["DictKey_GroupName_22"] = "New Static Object #002",
+    ["DictKey_GroupName_16"] = "New Vehicle Group #003",
+    ["DictKey_GroupName_30"] = "New Static Object #006",
+    ["DictKey_6"] = "一連のウェイポイントをたどって目的の空港で着陸します。\
+\
+\
+「1」を押してナビゲーションモードのします。\
+\
+「LCtrl+`」を押してウェイポイントを変更することができます。",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_UnitName_11"] = "Player",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_descriptionText_48"] = "1- 両方のエンジンを始動\
+2- 滑走路までタキシング\
+3- 離陸\
+4- ウェイポイントを航行\
+5- 目的の空港に着陸\
+\
+詳細な手順についてはトレーニングミッションかマニュアルを参照して下さい。\
+\
+使用するキー：\
+\
+左エンジンスタート：RAlt+Home\
+右エンジンスタート：RCtrl+Home\
+キャノピー開閉：LCtrl+C\
+ホイールブレーキ：W\
+ランディングギア展開、収納：G\
+ナビゲーションモード：１\
+ウェイポイント変更：LCtrl+`(日本語キーボードの場合使用不可）\
+ズームイン：KP*\
+ズームアウト：KP/\
+ラダー右：X\
+ラダー左：Z",
+    ["DictKey_WptName_85"] = "",
+} -- end of dictionary

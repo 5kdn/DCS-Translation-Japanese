@@ -1,0 +1,160 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "New Static Object #008",
+    ["DictKey_UnitName_72"] = "New Static Object #012",
+    ["DictKey_UnitName_52"] = "New Static Object #002",
+    ["DictKey_UnitName_60"] = "New Static Object #006",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_GroupName_67"] = "New Static Object #010",
+    ["DictKey_GroupName_49"] = "New Static Object #001",
+    ["DictKey_GroupName_65"] = "New Static Object #009",
+    ["DictKey_UnitName_62"] = "New Static Object #007",
+    ["DictKey_GroupName_77"] = "New Static Object #015",
+    ["DictKey_GroupName_57"] = "New Static Object #005",
+    ["DictKey_GroupName_47"] = "New Static Object",
+    ["DictKey_20"] = "次に、キャノピーを閉めます。「LCtrl + C」",
+    ["DictKey_sortie_82"] = "Su-25T スタートアップ",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_21"] = "次のステップは左右両方のエンジンの始動です。\
+始動前にスロットルが出力ゼロの位置にあることを確認して下さい。\
+\
+左エンジンを指導します。「RAlt + Home」\
+",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_GroupName_71"] = "New Static Object #012",
+    ["DictKey_GroupName_51"] = "New Static Object #002",
+    ["DictKey_27"] = "「F2」を押すと外部視点に切り替わります。「F1」でコクピット視点に戻ります。キーパッドの「＊」「／」でズームイン、ズームアウトできます。\
+キーパッドの方向キーを押すと視点が回転します。",
+    ["DictKey_28"] = "滑走路の端（threshold）に到着しました。\
+滑走路に進入し右旋回し、滑走路に機体を合わせて下さい。",
+    ["DictKey_UnitName_58"] = "New Static Object #005",
+    ["DictKey_UnitName_44"] = "Unit #001",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_32"] = "HUDの真ん中にはピッチ・ロール計があります。\
+HUDの右側はピッチラダーと昇降計が表示されています。\
+\
+フラップを上げて下さい。「LCtrl + F」",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_19"] = "電源が入りました。ヘッドアップディスプレイ（HUD）に命が吹き込まれます。同様に多くの計器とコクピットライトが点灯します。\
+機体を動かす前に、３分以上経過していることを確認して下さい。HSIジャイロを補正するために必要な時間です。\
+\
+電源が入りましたので、ナビゲーションライトをつけて下さい。「RCtrl+L」",
+    ["DictKey_UnitName_54"] = "New Static Object #003",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_GroupName_45"] = "New Vehicle Group #002",
+    ["DictKey_UnitName_66"] = "New Static Object #009",
+    ["DictKey_30"] = "HUD左上隅に表示されている速度が２５０Km/ｈになったら操縦桿を優しく引いて滑走路から離陸します。操縦桿をぐいっと引いて無理やり離陸しようとしないで下さい。",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_UnitName_74"] = "New Static Object #013",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_GroupName_69"] = "New Static Object #011",
+    ["DictKey_UnitName_42"] = "Unit #1",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_GroupName_73"] = "New Static Object #013",
+    ["DictKey_22"] = "左エンジンが始動したら、右エンジンを始動します。「RCtlr + HOME」",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_UnitName_50"] = "New Static Object #001",
+    ["DictKey_UnitName_68"] = "New Static Object #010",
+    ["DictKey_29"] = "滑走路に整列したら、両エンジンを最大出力にします。ラダー（方向舵９「X,Z」を細かに使用して中心線上を滑走するようにします。",
+    ["DictKey_UnitName_48"] = "New Static Object",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_descriptionText_79"] = "ようこそSu-25Tフロッグフットへ。ロシアでは「グラッチ：Grach（ミヤマガラス）」とも呼ばれているフロッグフットは、非常に優秀な地上攻撃機です。\
+このレッスンでは、Su-25Tの始動の手順と滑走路までのタキシング、離陸について学習します。\
+",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_UnitName_38"] = "Pilot #002",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_GroupName_39"] = "New Helicopter Group",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_26"] = "この分岐点で、右に進んで下さい。滑走路があります。",
+    ["DictKey_UnitName_35"] = "Player",
+    ["DictKey_GroupName_59"] = "New Static Object #006",
+    ["DictKey_GroupName_61"] = "New Static Object #007",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_33"] = "Su-25Tの始動、タキシング、離陸のレッスンを終了します。\
+エスケープESCキーを押すとレッスンを終了できます。",
+    ["DictKey_GroupName_55"] = "New Static Object #004",
+    ["DictKey_descriptionRedTask_80"] = "- Su-25Tの始動\
+- 滑走路までのタキシング\
+- 離陸 \
+\
+重要なコマンド:\
+\
+一時停止：Pause\
+電源: RShift ＋　L\
+ナビゲーションライト: RControl ＋ L\
+キャノピー開閉: LControl ＋ C\
+左エンジン始動: RAlt ＋ Home\
+右エンジン始動: RControl ＋Home \
+離着陸フラップ: LShift ＋ F　　　\
+フラップ収納: LCｔｒｌ　＋　F\
+スロットルアップ: Page Up\
+スロットルダウン: Page Down\
+ラダー左: Z\
+ラダー右: X\
+着陸装置: G\
+コントローラーの状態表示：Rshift　＋　Enter　　表示しておくと操作がわかりやすいです。\
+マウスによる視点移動のON/OFF：LAｌｔ＋C　　不意の視点移動を防ぐため通常はOFFにしておきましょう",
+    ["DictKey_GroupName_53"] = "New Static Object #003",
+    ["DictKey_UnitName_78"] = "New Static Object #015",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_70"] = "New Static Object #011",
+    ["DictKey_18"] = "ようこそSu-25Tフロッグフットへ。ロシアでは「グラッチ：Grach（ミヤマガラス）」とも呼ばれています。フロッグフットは非常に優秀な地上攻撃機でで、戦場のいかなるものでも破壊することができます。\
+様々なものを吹き飛ばす前に、まずは機体の始動の仕方と滑走路までのタキシング方法を学びましょう。\
+\
+一番始めに行うことは電源をいれることです。\
+では電源を入れて下さい。「Rshift+L」",
+    ["DictKey_UnitName_37"] = "Pilot #003",
+    ["DictKey_23"] = "TVディスプレイの左下隅の左下にエンジン計があります。１と２と書いてある針は、２つのエンジンを示します。エンジンが始動すると、計器の下にある２つのグリーンライトの内、始動したほうが点灯します。ライトが消灯したら、エンジンが運用可能な状態になったことを示します。\
+\
+ダッシュ（前面計器類）の左下隅に飛行機のシンボルがあります。\
+これはフラップ、着陸装置、エアブレーキの状態を示します。\
+\
+フラップを離陸ポジションにします。「Lshift + F」",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_GroupName_34"] = "Player",
+    ["DictKey_descriptionBlueTask_81"] = "",
+    ["DictKey_UnitName_46"] = "Unit #002",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_GroupName_36"] = "New Airplane Group #001",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_UnitName_40"] = "Pilot #004",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_GroupName_75"] = "New Static Object #014",
+    ["DictKey_GroupName_41"] = "New Vehicle Group",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_24"] = "タキシングの準備が整いました。スロットルコントロールを前進させるか、「Page Up」を押して、スロットル（出力）をゆっくりと上げて下さい。スロットル（出力）を下げるには、スロットルコントロールを後ろに下げるか、「Page Down」を押して下さい。\
+ホイールブレーキをかけるには「W」を押して下さい。\
+\
+前進して誘導路（Taxyway)を左に曲がって下さい。\
+「Z」で左に、「X」で右に曲がります。\
+",
+    ["DictKey_UnitName_56"] = "New Static Object #004",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_GroupName_43"] = "New Vehicle Group #001",
+    ["DictKey_31"] = "前にも言いましたが、HUD左上隅に対気速度（Km/ｈ）が表示されています。\
+HUD右上隅に高度がメートル単位で表示されます。\
+速度と高度表示の間に方位テープがあります。（中心が自機の方位です）\
+\
+確実な上昇に入ったら、着陸装置を上げて下さい。「G」\
+*ギアを上げるのが早すぎると進行が止まります。進まないようならギアの下げ上げを再度行って下さい。*\
+",
+    ["DictKey_25"] = "いいですよ。今あなたは正しい方向へ向かっています。\
+移動速度を１０Km/ｈぐらいに維持して下さい。速度はHUDの左上隅に表示されています。\
+\
+タキシング中、こまめに方向舵で修正して、誘導路の中央を走行して下さい",
+    ["DictKey_UnitName_76"] = "New Static Object #014",
+    ["DictKey_UnitName_64"] = "New Static Object #008",
+} -- end of dictionary

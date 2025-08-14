@@ -1,0 +1,140 @@
+dictionary = 
+{
+    ["DictKey_UnitName_59"] = "New Static Object #015",
+    ["DictKey_18"] = "インナーマーカを通過しました。\
+南から北へ横風が吹いているのに気がついたと思います。（右から左への風）\
+これを補正するために少しだけラダーを左に入れやや右に傾けます。\
+（右へサイドスリップしながら風の影響を打ち消します）\
+機体が滑走路へ向けて飛行するようにします。\
+\
+「W」を押してホイールブレーキをかけて下さい。",
+    ["DictKey_GroupName_42"] = "New Static Object #007",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_GroupName_56"] = "New Static Object #014",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_UnitName_29"] = "New Static Object",
+    ["DictKey_GroupName_46"] = "New Static Object #009",
+    ["DictKey_UnitName_39"] = "New Static Object #005",
+    ["DictKey_20"] = "機体を着陸させることはできたようですが、地上員の仕事を増やしたようで、彼らはあまり嬉しそうではありません。\
+\
+「ESC」を押して終了して下さい。",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_21"] = "ミッション失敗、「ESC」を押して終了して下さい。",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_GroupName_48"] = "New Static Object #010",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_UnitName_45"] = "New Static Object #008",
+    ["DictKey_GroupName_54"] = "New Static Object #013",
+    ["DictKey_GroupName_40"] = "New Static Object #006",
+    ["DictKey_GroupName_44"] = "New Static Object #008",
+    ["DictKey_sortie_63"] = "着陸　（高難易度）",
+    ["DictKey_descriptionRedTask_61"] = "Beslan 空港（２１）まで飛行し着陸して下さい",
+    ["DictKey_UnitName_47"] = "New Static Object #009",
+    ["DictKey_GroupName_28"] = "New Static Object",
+    ["DictKey_GroupName_32"] = "New Static Object #002",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_15"] = "HUDとADIの情報を使い、Beslan空港のアプローチ開始地点へ向かって下さい。\
+\
+降下を始めると、速度が上がりますが、「B」を押してエアブレーキを展開し減速して下さい。",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_12"] = "過去2つのレッスンでは、航法の基本と理想的な条件での着陸について学習しました。\
+このレッスンでは夜間の嵐の中で滑走路を見つけて着陸します。　\
+面白そうでしょ\
+\
+まずはじめにコクピットのライトを点灯しましょう「L」",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_UnitName_43"] = "New Static Object #007",
+    ["DictKey_UnitName_33"] = "New Static Object #002",
+    ["DictKey_GroupName_30"] = "New Static Object #001",
+    ["DictKey_GroupName_24"] = "New Vehicle Group",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_GroupName_50"] = "New Static Object #011",
+    ["DictKey_descriptionText_60"] = "このレッスンでは、空港までの航行と着陸について学習します。今回は夜間で嵐の中を着陸します。この滑走路にはILSはありません。\
+かなり難しいので初心者はこれは後回しにして下さい。\
+\
+重要なキー\
+\
+\
+航法サブモード変更：１\
+次のウェイポイント：LCtrl+` （日本語キーボードの場合は変更必要）\
+　　Next Waypoint, Airfield Or Target\
+前のウェイポイント：LShift+` （日本語キーボードの場合は変更必要）\
+　　Previous Waypoint, Airfield Or Target \
+コクピットライト：L\
+着陸装置（展開・収納）：G\
+エアブレーキ（展開・収納）：B\
+着陸フラップ展開：LShift＋F（ F で代用可能）\
+ラダー左：Z\
+ダラー右：X\
+ブレーキシュート：PKey Commands:\
+ホイールブレーキ：W\
+\
+横風着陸を行いますので、マニュアルのP47-48を参照しておいて下さい。\
+\
+***重要***\
+着陸申請をしないと滑走路に明かりが灯りません。（滑走路が発見できません）\
+ゲームが始まったら着陸モードに入る前に\
+無線通信で\
+\\(￥）-　F1　beslan　-　 inbound　で着陸申請をしておいて下さい。\
+着陸直前になると管制塔から着陸するか聞かれますので\
+request landing　で申請して着陸して下さい。（なくても着陸は可能です。）\
+\
+暗いくて計器類はほとんど見えません。HUDの方向指示円を頼りに飛行して下さい。",
+    ["DictKey_UnitName_35"] = "New Static Object #003",
+    ["DictKey_UnitName_53"] = "New Static Object #012",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_GroupName_38"] = "New Static Object #005",
+    ["DictKey_UnitName_27"] = "Unit #001",
+    ["DictKey_UnitName_41"] = "New Static Object #006",
+    ["DictKey_UnitName_23"] = "Player",
+    ["DictKey_13"] = "現在巡航モードです。しかし、この飛行プランには空港はセットされていません。\
+「１」を押して手動で帰還モードにして下さい。",
+    ["DictKey_GroupName_34"] = "New Static Object #003",
+    ["DictKey_17"] = "グライドスロープバー（水平の実線）が点線よりも下にあるとき、機体はグライドスロープよりも上にいます。\
+逆に点線よりも上にある場合、機体は下にいます。\
+\
+ローカライザーライン（縦の実線）が点線よりも左側にあるとき左へ飛行して下さい。\
+逆に右側に実線がある場合、右に飛行して下さい。\
+\
+常に実線の方へ飛行します。",
+    ["DictKey_UnitName_55"] = "New Static Object #013",
+    ["DictKey_UnitName_25"] = "Unit #1",
+    ["DictKey_GroupName_36"] = "New Static Object #004",
+    ["DictKey_GroupName_26"] = "New Vehicle Group #001",
+    ["DictKey_UnitName_37"] = "New Static Object #004",
+    ["DictKey_descriptionBlueTask_62"] = "",
+    ["DictKey_GroupName_58"] = "New Static Object #015",
+    ["DictKey_14"] = "前回のレッスンで解説したように、飛行場番号はHUDの右下に表示されています。２１はBeslan空港のID番号です。この空港はこのゲーム内で一番小さい空港でILSがありません。\
+他の空港へ着陸したければ、「LCｔｒｌ＋｀」で好きな空港を選択して下さい。\
+空港リストはマニュアルのP62にあります。\
+\
+今は２１のBeslanに挑戦しましょう。\
+\
+スペースキーを押すと次に進みます。",
+    ["DictKey_16"] = "空港に近づきました。前回のレッスンで利用したILSが全ての空港にあるわけではありません。\
+ILSのある空港はMozdok, Krymsk, Maykop, Krasnodar-Centerだけです。\
+BeslanにはILSはありません。\
+なのでHUDにILS情報は表示されません\
+\
+しかし、HSIを見下ろすと、中央に十字の点線があり、垂直と水平の実線があります。\
+点線は固定されています。実線は最適なグライドスロープとローカライザーの位置を表しています。\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_UnitName_49"] = "New Static Object #010",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_GroupName_52"] = "New Static Object #012",
+    ["DictKey_GroupName_22"] = "Player",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_UnitName_31"] = "New Static Object #001",
+    ["DictKey_UnitName_51"] = "New Static Object #011",
+    ["DictKey_UnitName_57"] = "New Static Object #014",
+    ["DictKey_19"] = "機体を無事に着陸させることができました。「ESC」を押して終了してください。",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_WptName_81"] = "",
+} -- end of dictionary

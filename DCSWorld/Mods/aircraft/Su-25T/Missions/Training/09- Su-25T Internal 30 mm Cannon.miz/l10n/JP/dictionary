@@ -1,0 +1,158 @@
+dictionary = 
+{
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_18"] = "とても暗いので、計器やHUDのレーダー高度計に目を近づけたくなるでしょう。\
+非常に低空を飛行中なので、指定高度以下にならないように気をつけて下さい。\
+\
+今までと同じように、ゲートを通過して下さい。\
+目標に近づくまでに機関砲についてもう少し話をしましょう。\
+",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_UnitName_67"] = "Unit #008",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_GroupName_56"] = "New Static Object #011",
+    ["DictKey_GroupName_65"] = "3",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_GroupName_68"] = "1",
+    ["DictKey_UnitName_29"] = "Flare Mule",
+    ["DictKey_GroupName_46"] = "New Static Object #006",
+    ["DictKey_UnitName_39"] = "New Static Object #002",
+    ["DictKey_20"] = "HUDの左下隅には機関砲を示す’GUN’と表示されています。",
+    ["DictKey_descriptionText_71"] = "このレッスンでは、二門の内蔵GSｈ-20　３０mm機関砲の使用方法について学習します。\
+\
+重要なキー\
+\
+空対地モード：\
+コクピットライト：L\
+機関砲選択：C\
+兵器発射：Space\
+\
+注意：ゲートを潜りそこねるとミッションが進まない、機関砲が発射できないなどの不具合が出る可能性があります。\
+　　　　ターゲットを攻撃したらすぐに上昇して下さい。目標が谷底にいるので地面に激突しやすいです。",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_GroupName_60"] = "New Static Object #013",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_GroupName_48"] = "New Static Object #007",
+    ["DictKey_UnitName_45"] = "New Static Object #005",
+    ["DictKey_GroupName_54"] = "New Static Object #010",
+    ["DictKey_25"] = "うまく目標に命中しました。\
+\
+これでレッスンを終了してもらっても構いませんし、\
+緑のスモークでマーキングした残りの目標を照明弾が消える前に攻撃してもらっても構いません。\
+",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_GroupName_40"] = "New Static Object #003",
+    ["DictKey_GroupName_62"] = "2",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_GroupName_44"] = "New Static Object #005",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_19"] = "次のゲートの高度には気をつけて下さい。\
+非常に低いです。",
+    ["DictKey_UnitName_47"] = "New Static Object #006",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_GroupName_28"] = "Flare Mule",
+    ["DictKey_GroupName_32"] = "New Vehicle Group #001",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_UnitName_64"] = "Unit #006",
+    ["DictKey_15"] = "「７」を押して空対地モードにしてください。",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_17"] = "機関砲を選択した状態で武器情報パネルを見て下さい。\
+右下隅に残弾数を示す　”K\"が表示されています。\
+これはフルマガジンを示し、残弾数が減るに連れて　1/2、1/4と変化します。\
+\
+パネルの右上隅の兵器種別にはВПУと表示されています。これは機関砲が選択されていることを意味します。\
+\
+スペースキーを押すと一時停止を解除します。\
+ゲートを通過して下さい。",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_UnitName_55"] = "New Static Object #010",
+    ["DictKey_UnitName_43"] = "New Static Object #004",
+    ["DictKey_sortie_74"] = "内蔵30mm機関砲",
+    ["DictKey_UnitName_33"] = "Unit #001",
+    ["DictKey_21"] = "HUDの右下隅には残弾数を示す四角があり4はフル、1は全体の1/4が残っていることを示します。",
+    ["DictKey_UnitName_69"] = "Unit #013",
+    ["DictKey_descriptionBlueTask_73"] = "",
+    ["DictKey_UnitName_66"] = "Unit #009",
+    ["DictKey_UnitName_49"] = "New Static Object #007",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_UnitName_51"] = "New Static Object #008",
+    ["DictKey_GroupName_52"] = "New Static Object #009",
+    ["DictKey_24"] = "対気速度に注意しながら、照準を目標の一つに重ねて、\
+LAが表示されたら、兵器発射ボタン「Space」を押してください。",
+    ["DictKey_GroupName_58"] = "New Static Object #012",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_UnitName_57"] = "New Static Object #011",
+    ["DictKey_GroupName_50"] = "New Static Object #008",
+    ["DictKey_UnitName_31"] = "Unit #1",
+    ["DictKey_UnitName_61"] = "New Static Object #013",
+    ["DictKey_UnitName_35"] = "New Static Object",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_GroupName_42"] = "New Static Object #004",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_UnitName_53"] = "New Static Object #009",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_GroupName_38"] = "New Static Object #002",
+    ["DictKey_UnitName_27"] = "Player",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_70"] = "Unit #012",
+    ["DictKey_UnitName_41"] = "New Static Object #003",
+    ["DictKey_23"] = "赤いスモークでマーキングした2台のトラックへ向けてダイブして下さい。\
+照明弾を目標エリアに投下しています。\
+\
+目標に狙いとつけながら、ゲートの通過して下さい。",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_GroupName_34"] = "New Static Object",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_GroupName_36"] = "New Static Object #001",
+    ["DictKey_GroupName_26"] = "Player",
+    ["DictKey_UnitName_37"] = "New Static Object #001",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_descriptionRedTask_72"] = "赤いスモークでマーキングした目標を機関砲を使用して破壊して下さい。",
+    ["DictKey_14"] = "このレッスンでは内蔵30mm機関砲の使い方について学習します。\
+\
+現在アクティブポーズになっています。\
+\
+Su-25Tの胴体前部の下に、二門のGSh-20　30mm機関砲（200発装填）を装備しています。\
+\
+30mm弾は装甲を貫通し高爆発です。軽装甲か非装甲の目標に対して最適です。\
+弾には、どこに着弾しているかをわかりやすくするための曳光弾が含まれています。\
+発射速度は初速870m/ｓで毎分3000発を発射可能です。\
+\
+「L」を押すとコクピットライトが点灯します。\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_16"] = "「C」を押して機関砲を選択します。",
+    ["DictKey_UnitName_63"] = "Unit #007",
+    ["DictKey_UnitName_59"] = "New Static Object #012",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_22"] = "ロケットの時と同じように、HUDの左にそって距離計があります。最大、最小射程を横線で示しています。\
+矢印が上下の線の間にある時は機関砲の射程圏内です。\
+\
+射程圏内の時はLAが表示されます。",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_GroupName_30"] = "New Vehicle Group",
+    ["DictKey_WptName_77"] = "",
+} -- end of dictionary

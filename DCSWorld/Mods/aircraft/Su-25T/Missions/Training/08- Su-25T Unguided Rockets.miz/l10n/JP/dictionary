@@ -1,0 +1,167 @@
+dictionary = 
+{
+    ["DictKey_UnitName_59"] = "New Static Object #009",
+    ["DictKey_UnitName_72"] = "Unit #005",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_UnitName_67"] = "New Static Object #013",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_descriptionText_86"] = "このレッスンでは、無誘導ロケットの使用方法について学習します。\
+\
+重要なキー\
+\
+空対地モード：7\
+兵器選択：D",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_GroupName_56"] = "New Static Object #008",
+    ["DictKey_GroupName_58"] = "New Static Object #009",
+    ["DictKey_GroupName_77"] = "1 #003",
+    ["DictKey_UnitName_73"] = "Unit #004",
+    ["DictKey_GroupName_46"] = "New Static Object #003",
+    ["DictKey_UnitName_39"] = "Unit #001",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_GroupName_60"] = "New Static Object #010",
+    ["DictKey_GroupName_48"] = "New Static Object #004",
+    ["DictKey_GroupName_71"] = "1 #001",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_UnitName_45"] = "New Static Object #002",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_25"] = "最後のロケットは S-8 OFP2です。KOMタイプと同しく82mmロケットで、ポッドに20発装填できます。\
+こちらは爆風破片弾頭を搭載しています。\
+\
+「D」を押してS-5ロケットに戻ります。",
+    ["DictKey_28"] = "HUDの中央付近にロケットの照準が表示されています。\
+爆撃照準と同様に発射したミサイルが到達する場所を示します。\
+ただし、距離は選択したロケットの射程圏内（最大射程以下、最小射程以上）でなくてはなりません。",
+    ["DictKey_GroupName_40"] = "New Static Object",
+    ["DictKey_GroupName_62"] = "New Static Object #011",
+    ["DictKey_sortie_89"] = "無誘導ロケット",
+    ["DictKey_32"] = "頂点のゲートを通過する時に機体を回転させて逆さまにして下さい。\
+機首を目標まで引き下げます。\
+目標は赤いスモークでマーキングしています。\
+目標へ照準を合わせたら、そのまま回転して水平に戻します。照準は合わせたままです。\
+HUDにLAが表示されたらロケットを発射します。",
+    ["DictKey_UnitName_76"] = "Unit #006",
+    ["DictKey_19"] = "前部計器の中央下部にある兵器情報パネルを見て下さい。\
+一番外側と内側をのぞいて、全てのステーションにロケットが搭載されています。（黄色のライトが点灯しています。）\
+\
+パネルの右上隅には選択兵器表示部は点線で塗られています。現在、兵器は選択されていません。\
+\
+ロケットを選択しましょう。\
+まず、「7」を押して空対地モードに入ります。",
+    ["DictKey_UnitName_75"] = "Unit #007",
+    ["DictKey_UnitName_47"] = "New Static Object #003",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_UnitName_55"] = "New Static Object #007",
+    ["DictKey_30"] = "照準までの距離が選択したロケットの射程範囲内であれば、HUDに発射許可（LA)が表示されます。",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_GroupName_44"] = "New Static Object #002",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_27"] = "ターゲットへ向かう途中、低空侵入の練習をします。\
+低空で侵入し、目標に近づいたらポップアップ攻撃を開始して下さい。",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_21"] = "次のロケットはS-８KOMです。\
+このロケットはB-8M１ロケットポッドに２０発装填することができます。\
+ロケットの直径は８２mm、射程２Km、成形炸薬弾頭を持ち装甲ユニットに対して有効です。\
+\
+「D」を押して次のロケットを選択して下さい。",
+    ["DictKey_UnitName_43"] = "New Static Object #001",
+    ["DictKey_UnitName_61"] = "New Static Object #010",
+    ["DictKey_31"] = "次のゲートで上昇して下さい、\
+速度は700Km以上であることを確認して下さい。",
+    ["DictKey_GroupName_68"] = "1",
+    ["DictKey_UnitName_51"] = "New Static Object #005",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_24"] = "他の大型ロケットは直径340mm,190Kg弾頭を持つS-25OFMです。\
+このロケットは超射程で３Km先までとどきます。\
+ロケットは発射管に1発のだけ収められいます。\
+\
+「D」を押して次のロケットを選択して下さい。",
+    ["DictKey_UnitName_49"] = "New Static Object #004",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_22"] = "これはS-13OFでB13Lロケットポッドに４発装填できます。このロケットはS-5やS-8よりも大きく、直径１２２mmです。爆風破片弾頭を持ち、射程は２Kmです。高爆発で爆風破片弾頭は非装甲か軽装甲の目標日して最適です。しかし装甲車に対しては直撃する弾頭のサイズに応じて破壊できるかどうかが決まります。\
+\
+「D」を押して次のロケットを選択して下さい。",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_33"] = "目標に命中！\
+\
+ESCを押してレッスンを終了していただいても構いませんし、\
+他のタイプのロケットを試してみても構いません。\
+緑のスモークでマーキングした別の目標を用意しています。",
+    ["DictKey_29"] = "HUDの左の距離計にロケット発射ゾーンが記されます。上の横線が最大射程、下の横線が最小安全射程です。\
+ミサイルの照準位置の距離が矢印で示されます。\
+矢印は照準位置までの距離によって上下に動きます。\
+矢印が射程圏内であれば発射可能です。",
+    ["DictKey_GroupName_64"] = "New Static Object #012",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_UnitName_79"] = "Unit #008",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_UnitName_57"] = "New Static Object #008",
+    ["DictKey_GroupName_52"] = "New Static Object #006",
+    ["DictKey_GroupName_50"] = "New Static Object #005",
+    ["DictKey_GroupName_42"] = "New Static Object #001",
+    ["DictKey_26"] = "スペースキーを押して一時停止を解除し、全てのゲートを通過するように飛行して下さい。",
+    ["DictKey_UnitName_35"] = "Player",
+    ["DictKey_18"] = "無誘導爆弾については習得しましたので、今回は無誘導ロケットの使用方法について学習しましょう。\
+\
+このレッスンではいろいろな種類のロケットを搭載ていますが、全て同じ方法で使用できます。\
+基本は射程内に入ったら発射するだけです。\
+\
+無誘導ロケットについて、説明しますので、\
+今はアクティブポーズになっています。\
+\
+スペースキーを押すと次に進みます。",
+    ["DictKey_UnitName_81"] = "Unit #011",
+    ["DictKey_GroupName_80"] = "1 #004",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_UnitName_82"] = "Unit #010",
+    ["DictKey_GroupName_83"] = "1 #005",
+    ["DictKey_UnitName_53"] = "New Static Object #006",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_UnitName_78"] = "Unit #009",
+    ["DictKey_GroupName_38"] = "New Vehicle Group #001",
+    ["DictKey_descriptionBlueTask_88"] = "",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_70"] = "Unit #002",
+    ["DictKey_UnitName_41"] = "New Static Object",
+    ["DictKey_UnitName_85"] = "Unit #012",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_descriptionRedTask_87"] = "赤いスモークでマーキングした目標を破壊して下さい。",
+    ["DictKey_GroupName_34"] = "Player",
+    ["DictKey_23"] = "S-24Bは直径600mm,235kgの爆風破片弾頭を持つ大型ロケットです。\
+この大きさゆえポッドは使用せず、ステーションに直接取り付けます。\
+\
+「D」を押して次のロケットを選択して下さい。",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_GroupName_36"] = "New Vehicle Group",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_UnitName_37"] = "Unit #1",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_UnitName_65"] = "New Static Object #012",
+    ["DictKey_UnitName_63"] = "New Static Object #011",
+    ["DictKey_GroupName_66"] = "New Static Object #013",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_20"] = "いいでしょう。今、空対地モードになりました。\
+兵器種別の表示がHPCになりました。これはロケットを意味します。\
+兵器ステーション表示で選択されている兵器には緑のライトが点灯しています。\
+今回のケースでは右翼の外側から２番めのステーションが点灯しています。\
+\
+HUDの右下に選択されているロケットの種類が表示されています。S5はUB-32Aロケットポッドに搭載されたS-5ロケットを示します。\
+これは高爆発弾頭をもつ小型のロケットです。\
+\
+「D」を押して次の種類のロケットを選択して下さい。",
+    ["DictKey_UnitName_84"] = "Unit #013",
+    ["DictKey_GroupName_54"] = "New Static Object #007",
+    ["DictKey_GroupName_74"] = "1 #002",
+    ["DictKey_UnitName_69"] = "Unit #003",
+} -- end of dictionary

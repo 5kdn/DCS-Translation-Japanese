@@ -1,0 +1,112 @@
+dictionary = 
+{
+    ["DictKey_UnitName_59"] = "Unit #5",
+    ["DictKey_2"] = "様々な種類の無誘導爆弾の練習にこのミッションを使って下さい。\
+\
+練習用に、WP3にターゲットを並べています。",
+    ["DictKey_UnitName_52"] = "Юнит #1",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_GroupName_15"] = "New Static Object",
+    ["DictKey_GroupName_29"] = "New Static Object #007",
+    ["DictKey_GroupName_23"] = "New Static Object #004",
+    ["DictKey_GroupName_49"] = "New Static Object #017",
+    ["DictKey_GroupName_56"] = "Arty",
+    ["DictKey_UnitName_26"] = "New Static Object #005",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_UnitName_32"] = "New Static Object #008",
+    ["DictKey_GroupName_47"] = "New Static Object #016",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_UnitName_12"] = "Unit #14",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_GroupName_51"] = "Trucks",
+    ["DictKey_UnitName_20"] = "New Static Object #002",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_UnitName_42"] = "New Static Object #013",
+    ["DictKey_3"] = "目標エリアに近づいたら「7」を押して空対地モードにして下さい。\
+\
+「D」を押して好きな兵器を選択して下さい。",
+    ["DictKey_UnitName_44"] = "New Static Object #014",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_UnitName_28"] = "New Static Object #006",
+    ["DictKey_sortie_63"] = "無誘導爆弾の練習",
+    ["DictKey_descriptionRedTask_61"] = "WP3にいる目標を破壊して下さい。",
+    ["DictKey_UnitName_54"] = "Unit #2",
+    ["DictKey_UnitName_36"] = "New Static Object #010",
+    ["DictKey_UnitName_34"] = "New Static Object #009",
+    ["DictKey_UnitName_55"] = "Unit #1",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_GroupName_37"] = "New Static Object #011",
+    ["DictKey_descriptionBlueTask_62"] = "",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_UnitName_14"] = "Unit #15",
+    ["DictKey_6"] = "砲兵グループは破壊されました。",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_GroupName_7"] = "New Airplane Group",
+    ["DictKey_UnitName_48"] = "New Static Object #016",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_UnitName_8"] = "Player",
+    ["DictKey_GroupName_33"] = "New Static Object #009",
+    ["DictKey_GroupName_9"] = "New Vehicle Group #003",
+    ["DictKey_UnitName_57"] = "Unit #7",
+    ["DictKey_descriptionText_60"] = "1- 離陸\
+2- WP3付近の地上目標を発見して下さい。\
+3- 地上目標を破壊して下さい。\
+4- 空港に着陸して下さい。\
+\
+詳細な手順については、トレーニングミッションとマニュアルを参照して下さい。\
+\
+使用するキー：\
+\
+ナビゲーションモード：１\
+ウェイポイント変更：LCtrl+` (日本語キーボードでは入力不可）\
+空対地モード：７\
+爆弾投下：Space",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_GroupName_13"] = "New Vehicle Group #002",
+    ["DictKey_GroupName_39"] = "New Static Object #012",
+    ["DictKey_UnitName_30"] = "New Static Object #007",
+    ["DictKey_GroupName_45"] = "New Static Object #015",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_UnitName_16"] = "New Static Object",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_UnitName_53"] = "Unit #3",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_GroupName_19"] = "New Static Object #002",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_UnitName_18"] = "New Static Object #001",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_58"] = "Unit #6",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_5"] = "トラック軍団は破壊されました。",
+    ["DictKey_GroupName_21"] = "New Static Object #003",
+    ["DictKey_UnitName_38"] = "New Static Object #011",
+    ["DictKey_UnitName_24"] = "New Static Object #004",
+    ["DictKey_UnitName_46"] = "New Static Object #015",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_GroupName_35"] = "New Static Object #010",
+    ["DictKey_GroupName_31"] = "New Static Object #008",
+    ["DictKey_UnitName_40"] = "New Static Object #012",
+    ["DictKey_GroupName_17"] = "New Static Object #001",
+    ["DictKey_GroupName_11"] = "New Vehicle Group #001",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_UnitName_22"] = "New Static Object #003",
+    ["DictKey_UnitName_10"] = "Unit #13",
+    ["DictKey_GroupName_41"] = "New Static Object #013",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_UnitName_50"] = "New Static Object #017",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_GroupName_43"] = "New Static Object #014",
+    ["DictKey_4"] = "ターゲットに向けてダイブを開始します。\
+爆撃照準をターゲットに重ねるように操縦します。\
+照準がターゲット上に重なったら「Space」を押して爆弾を投下します。",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_GroupName_27"] = "New Static Object #006",
+    ["DictKey_GroupName_25"] = "New Static Object #005",
+} -- end of dictionary
