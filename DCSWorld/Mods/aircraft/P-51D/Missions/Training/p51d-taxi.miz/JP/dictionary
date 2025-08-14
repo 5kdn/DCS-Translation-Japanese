@@ -1,0 +1,112 @@
+dictionary = 
+{
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_18"] = "追いつくことができるよう、車は停止している。",
+    ["DictKey_UnitName_52"] = "New Static Object #001",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_GroupName_49"] = "Batumi-static-UH-1-2",
+    ["DictKey_UnitName_56"] = "Batumi-car",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_GroupName_47"] = "Batumi-static-Yak-40-1 #001",
+    ["DictKey_20"] = "「タクシーレッスン」へようこそ\
+\
+今日は、P-51Dでタキシングの訓練を行う。\
+\
+開始するにはスペースバーを押せ。",
+    ["DictKey_22"] = "覚えておくべきもう一つの重要な要素は、操縦桿の位置だ。 \
+操縦桿が中立位置より後方（パイロットに向かって手前）に保持されると、尾輪は左右それぞれ6度の振れ幅に制限される。 \
+これはタキシングと離陸時における操縦桿の標準位置で、方向のコントロール性を確保するのに役立つが、機体の回転半径は制限される。\
+\
+操縦桿が中立位置より前方に押されると、尾輪のロックが解除され、自由に回転するようになる。 \
+この場合、ラダーペダルは尾輪を制御しないため、タイトな旋回を行うことが可能になるが、速度、ブレーキ、エンジン出力、ラダーの位置によっては、機体が急激に回りすぎてしまうなど、制御が非常に難しくなる場合がある。\
+\
+[進むにはスペースバーを押せ]",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_21"] = "尾輪式着陸装置を持つ他のほとんどの機体と同様に、P-51でのタキシングはコツを要する。\
+前方視界はノーズによって妨げられ、ノーズ越しには地面をほとんど捉えられない。\
+\
+前方エリアの認識を確保するために、機体はジグザグまたはS字パターンで左右に回転させながら前進することでタキシングされる。\
+\
+コックピットの両側に頭の位置を動かすと、ノーズの周囲を覗くことができる。\
+これを行うには、[L.ALT + C]を押してマウス・ビュー・モードを有効にし、マウス・ホイールを押しながらマウスを左右にドラッグする。\
+または、[R.CTRL + R.SHIFT + Num4]と[R.CTRL + R.SHIFT + Num6]のコマンドを使用することでも、頭を左右に動かすことができる。\
+\
+[進むにはスペースバーを押せ]",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_GroupName_51"] = "New Static Object #001",
+    ["DictKey_25"] = "中央の操縦桿を手前に引いて保持し、尾輪をタキシング用にロックしたままにしておけ。",
+    ["DictKey_28"] = "車は右側の誘導路に乗る。",
+    ["DictKey_UnitName_42"] = "Batumi-static-bus",
+    ["DictKey_UnitName_44"] = "Batumi-static-car",
+    ["DictKey_descriptionText_57"] = "",
+    ["DictKey_32"] = "エプロンエリアを右折して、滑走路に再び向かうように転回する。\
+ここは狭いので、若干注意が必要だ。\
+このターンを行うため、操縦桿を前方に押し、尾輪のロックを解除する必要があるかもしれない。\
+尾輪がロックされていないときは、差動ブレーキを使用してターンをコントロールする。 \
+[L.CTRL + W]を押して左車輪ブレーキを、[L.ALT + W]を押して右車輪ブレーキを使用できる。",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_19"] = "車は再び動き出している。",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_UnitName_36"] = "Batumi-static-Yak-40-1",
+    ["DictKey_descriptionNeutralsTask_60"] = "",
+    ["DictKey_GroupName_45"] = "Batumi-static-UH-1",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_30"] = "ここで一旦停止するぞ。",
+    ["DictKey_GroupName_37"] = "Batumi-static-An-26-1",
+    ["DictKey_sortie_61"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_29"] = "車は滑走路に先導するため、次の誘導路に向けて左折する。",
+    ["DictKey_33"] = "車はここで止まる。\
+その隣に停めることができるか確認せよ。",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_26"] = "タキシングのコントロールを練習するため、我々は短いタキシングコースを案内する先導車を使用する。\
+車は現在、貴機の左の位置で待機している。\
+\
+開始する準備ができたら、スペースバーを押せ\
+",
+    ["DictKey_GroupName_39"] = "Batumi-static-An-26-2",
+    ["DictKey_GroupName_55"] = "Batumi-car",
+    ["DictKey_GroupName_35"] = "Batumi-static-Yak-40-1",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_GroupName_53"] = "Player",
+    ["DictKey_34"] = "これでタキシングの訓練を終了する。良くやった！",
+    ["DictKey_23"] = "この滑走路のように平坦で滑らかな面をタキシングするときは、エンジンパワーはほとんど必要ない。\
+\
+また、不要な磨耗や過熱を防ぐために、ブレーキの使用は最小限に抑えることが最善だ。 \
+過熱ブレーキは、機体が離陸後、より冷えた気温の高度に上がった際、容易に氷に覆われることがある。\
+\
+[進むにはスペースバーを押せ]",
+    ["DictKey_UnitName_46"] = "Batumi-static-UH-1",
+    ["DictKey_UnitName_40"] = "Batumi-static-An-26-2",
+    ["DictKey_27"] = "先導車は約10mphで前進する。\
+前進を開始するため少しパワーを入れろ。\
+スロットルをコントロールするには、[+]、[ - ]キーを使う。\
+左右のターンのためのラダーペダルのコントロールは[Z]キーと[X]キーだ。\
+必要に応じてホイールブレーキを踏むために[W]キーを使うこと。\
+\
+先導車に追従しながら、コースを左右ジグザグに進め。\
+車からは100-300フィートの距離にとどまるようにすること。\
+心配無用。あまりに遅れると、車は追いつくまで停止する。\
+逆に極端に近づきすぎると、運転手はミンチになることを恐れてパニックになり、停止してしまうぞ。",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_UnitName_48"] = "Batumi-static-Yak-40-1 #001",
+    ["DictKey_GroupName_41"] = "Batumi-static-bus",
+    ["DictKey_UnitName_38"] = "Batumi-static-An-26-1",
+    ["DictKey_UnitName_54"] = "Player",
+    ["DictKey_UnitName_50"] = "Batumi-static-UH-1-2",
+    ["DictKey_descriptionBlueTask_59"] = "",
+    ["DictKey_24"] = "[R.CTRL + ENTER]を押してコントロールインジケーターを開くと、操縦装置類の位置をモニターすることができる。",
+    ["DictKey_GroupName_43"] = "Batumi-static-car",
+    ["DictKey_31"] = "移動し、滑走路上へ左折する。",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_descriptionRedTask_58"] = "",
+} -- end of dictionary
