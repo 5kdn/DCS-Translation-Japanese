@@ -1,0 +1,37 @@
+dictionary = 
+{
+    ["DictKey_UnitName_14"] = "Unit #6",
+    ["DictKey_UnitName_2"] = "Pilot #1",
+    ["DictKey_descriptionText_15"] = "黒海地域上空でのフリーフライト\
+\
+滑走路スタート",
+    ["DictKey_UnitName_12"] = "Unit #5",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_GroupName_7"] = "New Vehicle Group #002",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_UnitName_4"] = "Unit #1",
+    ["DictKey_descriptionRedTask_16"] = "",
+    ["DictKey_GroupName_11"] = "New Vehicle Group #004",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_descriptionBlueTask_17"] = "黒海地域上空でのフリーフライト\
+\
+滑走路スタート",
+    ["DictKey_UnitName_8"] = "Unit #3",
+    ["DictKey_GroupName_13"] = "New Vehicle Group #005",
+    ["DictKey_GroupName_9"] = "New Vehicle Group #003",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_GroupName_1"] = "Player",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_GroupName_3"] = "New Vehicle Group #006",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_UnitName_10"] = "Unit #4",
+    ["DictKey_GroupName_5"] = "New Vehicle Group #001",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_sortie_18"] = "黒海地域上空でのフリーフライト（滑走路スタート）",
+    ["DictKey_UnitName_6"] = "Unit #2",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_WptName_27"] = "",
+} -- end of dictionary
