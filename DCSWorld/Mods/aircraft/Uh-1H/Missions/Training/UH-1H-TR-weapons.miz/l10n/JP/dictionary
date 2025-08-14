@@ -1,0 +1,316 @@
+dictionary = 
+{
+    ["DictKey_GroupName_138"] = "New Static Object #016",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_GroupName_124"] = "New Static Object #009",
+    ["DictKey_UnitName_85"] = "Unit #64",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_GroupName_150"] = "New Static Object #022",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_UnitName_135"] = "New Static Object #014",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_GroupName_132"] = "New Static Object #013",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_UnitName_62"] = "Unit #36",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_GroupName_47"] = "New Vehicle Group #002",
+    ["DictKey_GroupName_73"] = "New Vehicle Group #003",
+    ["DictKey_UnitName_145"] = "New Static Object #019",
+    ["DictKey_UnitName_121"] = "New Static Object #007",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_UnitName_102"] = "Unit #79",
+    ["DictKey_28"] = "今からロケットの手順について説明します。\
+\
+初めに、武器の選択状況などはニーボード「RSHIFT+K」で確認できる。\
+\
+では、、武器選択（Armament Selector)スイッチを2.75へ、又は「　RALT+]　」を押してロケットを選択してください。\
+次に、一度に発射するロケットのペアを選択します。ロケットの発射時に反動があります。今は練習でもあるので１を選択するか「　RCTRL+]　」を１回押してください。これで発射のたびに１組のロケットが発射されます。",
+    ["DictKey_descriptionText_166"] = "DCS: UH-1H Huey\
+\
+Training lesson: 武器練習\
+\
+この練習では、Hueyに搭載されている武器についての解説とその扱い方について説明します。\
+射撃訓練場では実際に射撃も行ってもらいます。\
+\
+NOTES:\
+\
+- 一時停止: [PAUSE]\
+- Active Pause: [LSHIFT + LWIN + PAUSE]\
+- 視点移動: キーボード　テンキー / ジョイスティック　ハットスイッチ/ マウス　 [LALT + C]でマウスルックモードへ\
+- View zoom: テンキー　[/] 、 [*]\
+- ミッション中断、終了: [ESC]\
+- オートパイロット、武器状態表示: [LCTRL + LSHIFT + H] 　（オートパイロットはメニューのスペシャルオプションで 表示をONにしている場合のみ）\
+- コントローラー　状態表示: [RCTRL + ENTER]\
+- ニーボード　　 [RRSHIFT + K]\
+- ニーボード　　 ページ　UP　DOWN　　\"]\", \"[\" ",
+    ["DictKey_UnitName_87"] = "Unit #62",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_32"] = "今から、M134　マシンガンについて説明します。\
+\
+初めに、武器選択スイッチを7.62にするか「　RALT+[　」を押してください。\
+ガンセレクターで、右のみ、左のみも選択することができますが、両方を選択します。",
+    ["DictKey_UnitName_76"] = "Unit #73",
+    ["DictKey_45"] = "ドアガンで射撃するときは、狙撃場所をヘリコプターの進行方向とは反対側に少しだけずらす必要がります。\
+「LALT+A」を押して、オートパイロットをOrbit　(周回）モードに変えることができる。\
+\
+ドアガンナーをどれくらい上手に扱えるか見せてください。",
+    ["DictKey_UnitName_123"] = "New Static Object #008",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_UnitName_131"] = "New Static Object #012",
+    ["DictKey_UnitName_66"] = "Unit #32",
+    ["DictKey_30"] = "[RSHIFT+M」を押して照準器を下ろしてください。\
+「RCTRL+M」を押して照準を表示してください。\
+照準距離を「LCTRL+S」で奥に、「LATL+S」で手前に調整できます。\
+\
+仕様が変わり、「M」キーは左パイロットの照準器のON　OFFのみとなりました。\
+「M」キーを押すと次に進みます。",
+    ["DictKey_UnitName_69"] = "Unit #29",
+    ["DictKey_sortie_170"] = "UH-1H Training: Weapons Training",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_UnitName_155"] = "New Static Object #026",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_39"] = "武器についての説明は終了です。\
+射撃訓練場での地上攻撃を行っていただいて構いません。この先まっすぐ、２キロ先にあります。　\
+訓練場には、いろいろな固定目標と移動車両を用意しています。\
+\
+[RSHIFT+M」を押して照準器を下ろしてください。\
+チュートリアルを進めるために「M」キーを押してください。\
+\
+マスターアームスイッチを　ARMED　にするか、「 RSHIFT+] 」を押してください。\
+\
+準備ができたら、離陸して400フィートまで上昇し南の射撃訓練場へ向かってください。\
+80ノット以下で飛行してください。　そのほうが武器のコントロールが容易です。",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_UnitName_104"] = "Unit #77",
+    ["DictKey_UnitName_49"] = "Unit #49",
+    ["DictKey_GroupName_146"] = "New Static Object #020",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_29"] = "マスターアームスイッチ（Master Arm）スイッチを　SAFE　に、又は「　RSHIFT+]　」一度押してください。\
+これは、ニーボードで確認できます。\
+SAFTYモードなので発射はできません。",
+    ["DictKey_UnitName_48"] = "Unit #50",
+    ["DictKey_UnitName_79"] = "Unit #70",
+    ["DictKey_UnitName_57"] = "Unit #41",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_UnitName_111"] = "New Static Object #002",
+    ["DictKey_GroupName_220"] = "Вертол. группа",
+    ["DictKey_UnitName_159"] = "Player",
+    ["DictKey_UnitName_137"] = "New Static Object #015",
+    ["DictKey_UnitName_103"] = "Unit #78",
+    ["DictKey_GroupName_120"] = "New Static Object #007",
+    ["DictKey_UnitName_153"] = "New Static Object #023",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_UnitName_78"] = "Unit #71",
+    ["DictKey_UnitName_105"] = "Unit #76",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_UnitName_149"] = "New Static Object #021",
+    ["DictKey_GroupName_108"] = "New Static Object #001",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_UnitName_133"] = "New Static Object #013",
+    ["DictKey_UnitName_151"] = "New Static Object #022",
+    ["DictKey_WptName_223"] = "",
+    ["DictKey_UnitName_93"] = "Unit #56",
+    ["DictKey_UnitName_117"] = "New Static Object #005",
+    ["DictKey_UnitName_81"] = "Unit #68",
+    ["DictKey_UnitName_95"] = "Unit #54",
+    ["DictKey_UnitName_127"] = "New Static Object #010",
+    ["DictKey_24"] = "ようこそ、武器トレーニングレッスンへ。\
+ここでは、Hueyに搭載されている武器についての解説と、その扱い方について説明します。\
+射撃訓練場では実際に射撃も行ってもらいます。\
+\
+スペースキーで次に進みます。",
+    ["DictKey_GroupName_112"] = "New Static Object #003",
+    ["DictKey_31"] = "今、照準器に照準が投影されているのがわかると思います。ロッケットでの攻撃ですが、照準器をターゲットにかさねるように、ヘリコプターを操縦します。横滑りなどを抑えて飛行を安定させてから発射します。\
+\
+ロケットはあまり正確ではありません。２キロメートルくらいまでの距離の敵に効果的です。近づくほど正確になりますが、反撃の危険も高まります。通常、攻撃後は速やかにターゲットより離脱してください。また、ターゲットの上空を飛行することは避けましょう。\
+\
+「スペースキー」を押すと次に進みます。",
+    ["DictKey_UnitName_50"] = "Unit #48",
+    ["DictKey_UnitName_59"] = "Unit #39",
+    ["DictKey_UnitName_113"] = "New Static Object #003",
+    ["DictKey_37"] = "左パイロットの位置からドアガンナーの位置に移動すると自動操縦になります。\
+「LWIN＋A」でオートパイロットのON、OFFが　できます。\
+\
+「１」キーを押すと右パイロットの位置に移動します。",
+    ["DictKey_UnitName_60"] = "Unit #38",
+    ["DictKey_38"] = "実地訓練を行いますので、まずは、ロケットを選択してください。\
+武器選択スイッチを2.75にするか、「　RALT+]　」を1回押してください。\
+\
+ロケットペアは先程すでに１を選択しましたので、今は触らなくて結構です",
+    ["DictKey_40"] = "訓練場でターゲットを見つけたら、ターゲットに狙いとつけやすくするために、ヘリコプターを安定させてください。\
+滑り計をみて、横滑りを抑えてください。\
+トリガースイッチ、又は「スペースキー」を押して　1対の組のロケットを発射してください。",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_GroupName_142"] = "New Static Object #018",
+    ["DictKey_GroupName_136"] = "New Static Object #015",
+    ["DictKey_GroupName_116"] = "New Static Object #005",
+    ["DictKey_WptName_214"] = "",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_GroupName_152"] = "New Static Object #023",
+    ["DictKey_UnitName_56"] = "Unit #42",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_UnitName_92"] = "Unit #57",
+    ["DictKey_UnitName_94"] = "Unit #55",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_36"] = "M60DマシンガンのM21照準器を操作します。キーボードのテンキー、ジョイスティックのビューコントロール、マウスルクモード（「LALT+C」）、又は　TrackIRaiming「RSHIFT+T」を使用してください。\
+\
+好きなだけ練習してください。\
+\
+スペースキーを押すと次に進みます。",
+    ["DictKey_UnitName_65"] = "Unit #33",
+    ["DictKey_UnitName_141"] = "New Static Object #017",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_UnitName_77"] = "Unit #72",
+    ["DictKey_GroupName_106"] = "New Static Object",
+    ["DictKey_UnitName_125"] = "New Static Object #009",
+    ["DictKey_GroupName_114"] = "New Static Object #004",
+    ["DictKey_25"] = "Hueyは　M21とM23　武器システムを装備している。\
+\
+M21システムは　両サイド外部にそれぞれ２つの武器装着用ハードポイントを持っている。\
+これは　２．７５インチ無誘導ロケットを７、又は１９発搭載できるロケットポッドと\
+M134　７．６２mm 6連装　高レートマシンガンを搭載可能である。\
+\
+M23システムは、７．６２mm　M60Dマシンガンを搭載できる。\
+これは両サイドのドアガンナーが操作する。\
+\
+「F2」キーを押して外部視点にし、マウスを使い武器システムを観察してください。\
+良ければ「F1」キーを押してコクピット視点に戻してください。\
+\
+スペースキーで次に進みます。",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_GroupName_144"] = "New Static Object #019",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_27"] = "武器はセンターコンソールの火器管制パネルで武器選択と許可をする必要がある。\
+\
+火器管制パネルはマスターアームスイッチとガンセレクタースイッチがある。ガンセレクタースイッチにはLeft、Right、Bothとありマシンガンの発射可能場所を指定する。\
+\
+火器管制パネルのすぐ上（手前）にあるパネル（Intarvalometer Control Paner）に武器選択（Armament Selector)スイッチがある。これで、機銃かロケットかを選択する。\
+このパネルには、ロケットペア選択（Rocket Pair Selector)スイッチもある。一度の発射で、いくつのロケットペアを発射するかを選択できる（１ペアで左右同時に１発づつ発射される）\
+他に、ロケットリセットスイッチと　Lancher　Jettison（武器廃棄）スイッチがある。\
+\
+「スペースキー」で次に進みます。",
+    ["DictKey_42"] = "ターゲットを1キロ先に見据えてから、「２」キーを押して　左パイロットの位置に移動してください。",
+    ["DictKey_UnitName_84"] = "Unit #65",
+    ["DictKey_UnitName_72"] = "Unit #1",
+    ["DictKey_UnitName_58"] = "Unit #40",
+    ["DictKey_UnitName_143"] = "New Static Object #018",
+    ["DictKey_UnitName_97"] = "Unit #52",
+    ["DictKey_46"] = "これで武器に関する練習は終了します。この後は、好きな場所に移動して練習を続けてください。\
+\
+健闘を祈る",
+    ["DictKey_GroupName_162"] = "New Static Object #025",
+    ["DictKey_UnitName_221"] = "Пилот #001",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_UnitName_83"] = "Unit #66",
+    ["DictKey_UnitName_80"] = "Unit #69",
+    ["DictKey_UnitName_75"] = "Unit #74",
+    ["DictKey_UnitName_54"] = "Unit #44",
+    ["DictKey_GroupName_158"] = "New Helicopter Group #001",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_UnitName_88"] = "Unit #61",
+    ["DictKey_UnitName_55"] = "Unit #43",
+    ["DictKey_UnitName_109"] = "New Static Object #001",
+    ["DictKey_UnitName_107"] = "New Static Object",
+    ["DictKey_UnitName_71"] = "Unit #27",
+    ["DictKey_UnitName_64"] = "Unit #34",
+    ["DictKey_GroupName_130"] = "New Static Object #012",
+    ["DictKey_UnitName_165"] = "New Static Object #028",
+    ["DictKey_GroupName_126"] = "New Static Object #010",
+    ["DictKey_UnitName_100"] = "Unit #81",
+    ["DictKey_UnitName_70"] = "Unit #28",
+    ["DictKey_UnitName_74"] = "Unit #75",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_UnitName_101"] = "Unit #80",
+    ["DictKey_descriptionBlueTask_168"] = "",
+    ["DictKey_43"] = "「LWIN＋A」でオートパイロットを解除することもできます。\
+\
+照準器を動かし、トリガー又は、「スペースキー」を押して　機銃掃射してください。",
+    ["DictKey_UnitName_67"] = "Unit #31",
+    ["DictKey_UnitName_157"] = "New Static Object #027",
+    ["DictKey_UnitName_52"] = "Unit #46",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_134"] = "New Static Object #014",
+    ["DictKey_44"] = "ヘリコプター進路をターゲットが10時か2時に見える方向に取り、「３」か「４」キーを押して、右又は左のドアガンナーを選択してください。",
+    ["DictKey_UnitName_68"] = "Unit #30",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_33"] = "右パイロットは固定モードで使用できます。ロケットの時と同様に、ターゲットに照準を合わせるように飛行して攻撃します。\
+それよりも、機銃の一番良い使い方を説明しましょう。　\
+[RSHIFT+M」を押して照準器を上げてください。\
+\
+「２」キーを押して左パイロットに移動してください。",
+    ["DictKey_GroupName_154"] = "New Static Object #026",
+    ["DictKey_UnitName_161"] = "New Static Object #024",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_26"] = "ロケットは右パイロットはM60 Reflex 照準器を使い攻撃を行える。\
+ロケットは非可動式なので、ヘリコプターの操縦によって、照準をつけなくてはならない。\
+\
+M134　マシンガンは固定モードでも可動モードでも使用できる。\
+固定モードでは、機体の前部に固定されており、パイロットがロケットの時と同じようにして使う。可動モードでは左パイロット（co pilot)がM21照準器を使用して攻撃する。\
+可動モードでは、機銃が照準器の動きに追随して動くので、機体のターゲットの方向に向けなくても攻撃することができる。\
+\
+「スペースキー」で次に進みます。",
+    ["DictKey_UnitName_147"] = "New Static Object #020",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_UnitName_139"] = "New Static Object #016",
+    ["DictKey_UnitName_82"] = "Unit #67",
+    ["DictKey_UnitName_86"] = "Unit #63",
+    ["DictKey_GroupName_140"] = "New Static Object #017",
+    ["DictKey_GroupName_122"] = "New Static Object #008",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_UnitName_119"] = "New Static Object #006",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_GroupName_148"] = "New Static Object #021",
+    ["DictKey_UnitName_53"] = "Unit #45",
+    ["DictKey_UnitName_163"] = "New Static Object #025",
+    ["DictKey_UnitName_91"] = "Unit #58",
+    ["DictKey_34"] = "M21照準器に照準が映し出されているのが見えると思います。\
+\
+可動モードでは左パイロットは真正面だけでなく、好きなところを狙って攻撃できます。\
+やってみましょう。キーボードのテンキー、ジョイスティックのビューコントロール、又は、マウスルックモード（　「LALT+C」を押してマウスで視点移動）、TRACKIRaiming 「RSHIFT+T」で照準が動きます。\
+好きなだけ、照準を動かしたら、照準を前方に戻して「M」キーを押して照準器をしまい。固定モードに戻しましょう。",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_UnitName_89"] = "Unit #60",
+    ["DictKey_GroupName_99"] = "New Vehicle Group #004",
+    ["DictKey_GroupName_110"] = "New Static Object #002",
+    ["DictKey_UnitName_98"] = "Unit #51",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_GroupName_160"] = "New Static Object #024",
+    ["DictKey_UnitName_115"] = "New Static Object #004",
+    ["DictKey_35"] = "可動モードで左パイロットの位置にいる時AIパイロットが自動操縦を行います。\
+自動操縦については、オプション設定の　UH-1H　Special option　メニューでAutopilot AvailalityをONにしている場合、次の方法で見ることができます。\
+「RSHIFT＋K」を押して　ニーボードを開いてください。オートバイロット、武器の状態表示ページがあります。　ここでオートバイロットがONかどうか、どの自動操縦かを見ることができます。\
+自動操縦時に「LWIN＋A」を押すと自動操縦を解除します。（自動操縦の種類を変えても解除されます。）\
+\
+次に、ドアガンナーの説明に入りますので、「３」キーを押してドアガンナーの位置に移動してください。",
+    ["DictKey_UnitName_90"] = "Unit #59",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_descriptionRedTask_167"] = "",
+    ["DictKey_UnitName_61"] = "Unit #37",
+    ["DictKey_41"] = "マシンガンに切り替えましょう。\
+\
+武器選択スイッチを　7.62にするか、　「　RALT＋[　」を押してください。",
+    ["DictKey_GroupName_156"] = "New Static Object #027",
+    ["DictKey_descriptionNeutralsTask_169"] = "",
+    ["DictKey_UnitName_129"] = "New Static Object #011",
+    ["DictKey_UnitName_63"] = "Unit #35",
+    ["DictKey_GroupName_128"] = "New Static Object #011",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_GroupName_164"] = "New Static Object #028",
+    ["DictKey_GroupName_118"] = "New Static Object #006",
+    ["DictKey_UnitName_51"] = "Unit #47",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_UnitName_96"] = "Unit #53",
+    ["DictKey_WptName_206"] = "",
+} -- end of dictionary
