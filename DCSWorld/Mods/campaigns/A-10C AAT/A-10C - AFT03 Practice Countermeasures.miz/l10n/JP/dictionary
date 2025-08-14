@@ -1,0 +1,361 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "Fence Out",
+    ["DictKey_UnitName_72"] = "Lt Arthur Lakey",
+    ["DictKey_UnitName_67"] = "Col Harry Peel \"Peeler\"",
+    ["DictKey_GroupName_52"] = "New Vehicle Group #005",
+    ["DictKey_GroupName_125"] = "Static Humvee",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_WptName_272"] = "",
+    ["DictKey_UnitName_39"] = "Unit #10",
+    ["DictKey_GroupName_137"] = "Static Humvee #005",
+    ["DictKey_WptName_220"] = "",
+    ["DictKey_WptName_269"] = "",
+    ["DictKey_WptName_247"] = "",
+    ["DictKey_GroupName_113"] = "Static AH-1W #001",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_25"] = "ナビゲーションライト - OFF\
+CMSP モード - 必要に応じて\
+MWS スイチ - ON\
+JMR スイチ - ON\
+RWR スイチ - ON\
+DISP スイチ - ON\
+Master Arm スイチ - ARM\
+GUN/PAC スイチ - ARM\
+LASER スイチ - ARM\
+TGP スイチ - ON\
+DSMS ウエポンページ - 兵器の設定を確認してください。\
+DSMS ミサイルページ EO Power - ON\
+損傷具合 - CHECK\
+燃料 - 確認して報告「コールサイン、フェンスイン、燃料状態」",
+    ["DictKey_GroupName_40"] = "New Vehicle Group #006",
+    ["DictKey_GroupName_153"] = "New Static Object #021",
+    ["DictKey_UnitName_90"] = "Capt Stacey Major",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_GroupName_44"] = "New Vehicle Group #008",
+    ["DictKey_UnitName_76"] = "Cpt Henry Hull \"Ship\"",
+    ["DictKey_GroupName_302"] = "New Vehicle Group #013",
+    ["DictKey_UnitName_47"] = "Unit #9",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_GroupName_129"] = "Static Humvee #001",
+    ["DictKey_30"] = "方位 - 友軍空域を確認\
+コーションパネル - ライト類を確認\
+操縦系 -　状態と燃料を確認\
+無線 - 必要であれば報告",
+    ["DictKey_UnitName_69"] = "Capt John Lovett",
+    ["DictKey_UnitName_74"] = "Cpt John Steel",
+    ["DictKey_UnitName_130"] = "Static Humvee #1",
+    ["DictKey_UnitName_43"] = "Unit #15",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_ActionText_281"] = "1, COPY!",
+    ["DictKey_29"] = "よくできました！\
+\
+ターゲットエリアから離脱しました。\
+\
+イーグレス（EGRESS）チェックリストを確認しましょう。",
+    ["DictKey_UnitName_79"] = "Capt Dale Dresser",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_GroupName_50"] = "New Vehicle Group #004",
+    ["DictKey_WptName_268"] = "",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_UnitName_299"] = "Unit #002",
+    ["DictKey_descriptionText_155"] = "この訓練ミッションは検定ミッションに合格するために練習に使って下さい。\
+\
+私はキャプテン ライアン・ベーカーです。コールサインは「セイバー（Sabre）」です。能力目標（PO)を判定するフライト試験官（FE)です。\
+\
+これはAFT03 - カウンターメジャーと驚異の回避です。A/OA-10C上級航空機訓練検定コースの3番目のミッションです。\
+\
+このPOでは、高驚異シミュレート環境でのカウンターメジャーの使用と驚異回避テクニックの使用が必要です。\
+\
+私達はMOA（軍事作戦エリア）内で活動します。\
+\
+着陸のためのパターン高度は2500ftです。\
+\
+ハードデッキ制限は5000ftです。解除されないうちはこの制限を破らないで下さい。\
+\
+この飛行には私がウイングマンとして同行します。\
+\
+驚異レベル: HIGH\
+EMCON: 1\
+コブレチ（Kobuleti）タワー: 133.0Mhz AM\
+訓練生: COLT 1-1: 251.0Mhz AM\
+FE: COLT 1-2: 251.0Mhz AM\
+タンカー: TEXACO 1-1: 251.0Mhz AM タンカーTACAN: 5X TKR\
+\
+代替空港：バトゥミ（Batumi） 131.0 Mhz AM\
+\
+これは空中スタートミッションです。\
+それに合わせてHOTASを設定しておいて下さい。\
+\
+ラジオメニューのF10を使用して、状態方向、指示を出して下さい。\
+\
+ミッション成功基準：\
+フライトプランを完了し、コブレチに着陸して下さい。",
+    ["DictKey_ActionRadioText_287"] = "フェンスアウト（FENCE OUT）",
+    ["DictKey_GroupName_38"] = "New Vehicle Group #002",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_23"] = "このミッションを使い検定ミッションの準備をして下さい。\
+\
+オートパイロットの使用を許可します。",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_WptName_236"] = "",
+    ["DictKey_UnitName_95"] = "Unit #3",
+    ["DictKey_WptName_244"] = "",
+    ["DictKey_UnitName_114"] = "Static AH-1W #001",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_UnitName_301"] = "Unit #004",
+    ["DictKey_31"] = "友軍領域に戻りました。\
+\
+フェンスアウト（FENCE OUT）チェックリストを確認しましょう。",
+    ["DictKey_ActionText_290"] = "COLT 1-1 タリー！",
+    ["DictKey_WptName_263"] = "",
+    ["DictKey_WptName_265"] = "",
+    ["DictKey_WptName_279"] = "",
+    ["DictKey_WptName_235"] = "",
+    ["DictKey_GroupName_46"] = "New Vehicle Group #001",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_UnitName_128"] = "Static F-15E #005",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_WptName_251"] = "",
+    ["DictKey_UnitName_106"] = "Sgt John Smith",
+    ["DictKey_UnitName_148"] = "New Static Object #15",
+    ["DictKey_27"] = "AHCP - 設定を確認\
+DSMS ウエポンページ - 適切な武器が選択されているか確認\
+姿勢 - 速度と高度を確認\
+CMSP - 設定を確認\
+IP地点で - 「コールサイン、インホット、進入方位」をコールして下さい。（”CALLSIGN IN HOT FROM THE” YOUR DIRECTION)",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_GroupName_62"] = "COLT 1",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_35"] = "このPOに再トライする前に、フライトマニュアルを学習して、もっと練習飛行をすることをお勧めします。",
+    ["DictKey_WptName_246"] = "RVCP",
+    ["DictKey_WptName_254"] = "",
+    ["DictKey_WptName_238"] = "",
+    ["DictKey_GroupName_107"] = "Static A-10C",
+    ["DictKey_WptName_258"] = "",
+    ["DictKey_UnitName_64"] = "Player",
+    ["DictKey_UnitName_134"] = "Static Humvee #3",
+    ["DictKey_UnitName_101"] = "Unit #5",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_GroupName_145"] = "New Static Object #016",
+    ["DictKey_33"] = "訓練を完了しました。\
+\
+フェンスインWPに戻り、この訓練を繰り返してもらっても構いません。",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_26"] = "IPに近づいてきました。\
+\
+イングレス（Ingress）チェックリストを確認しましょう。",
+    ["DictKey_UnitName_86"] = "Capt John Smith",
+    ["DictKey_GroupName_92"] = "C-130 Chevy 1 1 #001",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_WptName_274"] = "",
+    ["DictKey_UnitName_142"] = "New Static Object #4",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_UnitName_91"] = "Capt Will Arnott",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_ActionText_294"] = "COLT 1-1 オフ！",
+    ["DictKey_UnitName_120"] = "Static F-15E #001",
+    ["DictKey_UnitName_144"] = "New Static Object #014",
+    ["DictKey_UnitName_306"] = "Unit #006",
+    ["DictKey_ActionRadioText_280"] = "COPY",
+    ["DictKey_WptName_307"] = "",
+    ["DictKey_UnitName_77"] = "Cpt Greg Berry \"Rasp\"",
+    ["DictKey_UnitName_63"] = "Major Ryan Baker \"Sabre\"",
+    ["DictKey_UnitName_96"] = "Unit #2",
+    ["DictKey_GroupName_78"] = "F-117A Ford 1",
+    ["DictKey_ActionText_292"] = "COLT 1-1 インホット！",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_UnitName_118"] = "Static F-15E #002",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_UnitName_85"] = "Capt Terry Schofield",
+    ["DictKey_WptName_227"] = "",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_GroupName_56"] = "New Vehicle Group #010",
+    ["DictKey_UnitName_150"] = "New Static Object #16",
+    ["DictKey_UnitName_298"] = "Unit #001",
+    ["DictKey_UnitName_152"] = "New Static Object #17",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_WptName_161"] = "Fence In",
+    ["DictKey_ActionRadioText_286"] = "オフ",
+    ["DictKey_ActionRadioText_284"] = "タリー（TALLY）",
+    ["DictKey_WptName_262"] = "",
+    ["DictKey_WptName_273"] = "",
+    ["DictKey_WptName_241"] = "",
+    ["DictKey_UnitName_102"] = "Unit #4",
+    ["DictKey_28"] = "ガントレットIPです。\
+\
+できるだけ低空を飛行し、テレインマスキングを使用してさい。\
+\
+AAAを避けるために、積極的な機動を行うと共に、SAMから目を離さないで下さい。\
+\
+カウンターメジャーをケチらないで下さい。驚異を回避して下さい。",
+    ["DictKey_descriptionBlueTask_157"] = "1. 必要に応じてカウンターメジャーを使用して下さい。\
+2. 驚異を回避して帰還してください。",
+    ["DictKey_UnitName_108"] = "Static A-10C",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_32"] = "Master ARM スイッチ - SAFE\
+GUN/PAC スイッチ - SAFE\
+LASER スイッチ - SAFE\
+TGP - OFF\
+CMSP モード - STBY\
+ダメージ - CHECK\
+ナビゲーションライト - ON\
+燃料 - 確認して報告「コールサイン、フェンスアウト、燃料状態」",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_ActionText_288"] = "COLT 1-1 フェンスイン！",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_UnitName_66"] = "Capt Sheila Burkett \"Guns\"",
+    ["DictKey_WptName_166"] = "IP",
+    ["DictKey_WptName_248"] = "",
+    ["DictKey_UnitName_138"] = "Static Humvee #5",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_WptName_278"] = "",
+    ["DictKey_GroupName_115"] = "Static Tanker #001",
+    ["DictKey_UnitName_61"] = "Unit #20",
+    ["DictKey_UnitName_104"] = "Cpl Lance McCormick",
+    ["DictKey_WptName_266"] = "",
+    ["DictKey_UnitName_49"] = "Unit #11",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_WptName_214"] = "",
+    ["DictKey_GroupName_127"] = "Static F-15E #005",
+    ["DictKey_WptName_264"] = "",
+    ["DictKey_UnitName_57"] = "Unit #18",
+    ["DictKey_WptName_267"] = "",
+    ["DictKey_WptName_257"] = "",
+    ["DictKey_WptName_250"] = "",
+    ["DictKey_ActionText_296"] = "COLT 1-1 フェンスアウト！",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_WptName_252"] = "",
+    ["DictKey_WptName_223"] = "",
+    ["DictKey_GroupName_36"] = "New Vehicle Group",
+    ["DictKey_UnitName_81"] = "Maj Arthur Nettle",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_GroupName_75"] = "F-15C Dodge 1 2",
+    ["DictKey_24"] = "敵対領域に近づきました。\
+\
+フェンスイン（FENCE IN）チェックリストを確認しましょう。",
+    ["DictKey_GroupName_147"] = "New Static Object #018",
+    ["DictKey_UnitName_84"] = "Pilot #1",
+    ["DictKey_WptName_261"] = "",
+    ["DictKey_UnitName_59"] = "Unit #19",
+    ["DictKey_GroupName_305"] = "New Vehicle Group #014",
+    ["DictKey_GroupName_42"] = "New Vehicle Group #007",
+    ["DictKey_GroupName_135"] = "Static Humvee #004",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_277"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_GroupName_139"] = "Static Humvee #006",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_GroupName_68"] = "Texaco 1 1",
+    ["DictKey_GroupName_111"] = "Static AH-1W",
+    ["DictKey_GroupName_70"] = "A-10C Springfield 1 2",
+    ["DictKey_GroupName_131"] = "Static Humvee #002",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_GroupName_60"] = "New Vehicle Group #012",
+    ["DictKey_GroupName_105"] = "Fuel Truck",
+    ["DictKey_UnitName_51"] = "Unit #12",
+    ["DictKey_GroupName_48"] = "New Vehicle Group #003",
+    ["DictKey_WptName_255"] = "",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_UnitName_45"] = "Unit #16",
+    ["DictKey_GroupName_54"] = "New Vehicle Group #009",
+    ["DictKey_WptName_226"] = "",
+    ["DictKey_UnitName_154"] = "New Static Object #18",
+    ["DictKey_UnitName_55"] = "Unit #17",
+    ["DictKey_GroupName_87"] = "F-15C Ford 2-1",
+    ["DictKey_GroupName_149"] = "New Static Object #019",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_UnitName_89"] = "Capt Frank Dildy",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_GroupName_65"] = "F-16 Chevy 1 2",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_UnitName_83"] = "Pilot #2",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_UnitName_136"] = "Static Humvee #4",
+    ["DictKey_WptName_260"] = "",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_sortie_158"] = "AFT03 カウンタメジャーと驚異からの回避の訓練",
+    ["DictKey_UnitName_88"] = "Maj Arnie Ploeger",
+    ["DictKey_WptName_232"] = "",
+    ["DictKey_WptName_256"] = "",
+    ["DictKey_UnitName_71"] = "Lt Kam Spoke",
+    ["DictKey_WptName_229"] = "",
+    ["DictKey_GroupName_82"] = "F-15C Enfield 1-1",
+    ["DictKey_UnitName_122"] = "Static F-15E #003",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_UnitName_100"] = "Unit #6",
+    ["DictKey_ActionRadioText_283"] = "フェンスイン（FENCE IN）",
+    ["DictKey_UnitName_140"] = "Static Humvee #6",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_UnitName_124"] = "Static F-15E #004",
+    ["DictKey_descriptionRedTask_156"] = "",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_GroupName_143"] = "New Static Object #014",
+    ["DictKey_WptName_230"] = "",
+    ["DictKey_GroupName_119"] = "Static F-15E #001",
+    ["DictKey_GroupName_58"] = "New Vehicle Group #011",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_141"] = "New Static Object #004",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_GroupName_133"] = "Static Humvee #003",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_UnitName_99"] = "Unit #7",
+    ["DictKey_UnitName_146"] = "New Static Object #016",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_WptName_249"] = "",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_UnitName_73"] = "Lt Art Mayor",
+    ["DictKey_GroupName_80"] = "C-130 Pontiac 1 1",
+    ["DictKey_WptName_270"] = "",
+    ["DictKey_GroupName_98"] = "New Ship Group #001",
+    ["DictKey_WptName_221"] = "",
+    ["DictKey_GroupName_151"] = "New Static Object #020",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_GroupName_121"] = "Static F-15E #003",
+    ["DictKey_UnitName_53"] = "Unit #13",
+    ["DictKey_GroupName_123"] = "Static F-15E #004",
+    ["DictKey_GroupName_94"] = "New Ship Group",
+    ["DictKey_WptName_259"] = "",
+    ["DictKey_WptName_240"] = "",
+    ["DictKey_WptName_231"] = "",
+    ["DictKey_34"] = "機体を損傷しました！",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_GroupName_103"] = "Pilot Humvee",
+    ["DictKey_UnitName_41"] = "Unit #14",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_UnitName_116"] = "Static Tanker #001",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_UnitName_112"] = "Static AH-1W",
+    ["DictKey_WptName_304"] = "",
+    ["DictKey_UnitName_93"] = "Capt Andrew Melnyk \"Mel\" #1",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_UnitName_110"] = "Static Tanker",
+    ["DictKey_UnitName_132"] = "Static Humvee #2",
+    ["DictKey_UnitName_37"] = "Unit #8",
+    ["DictKey_GroupName_117"] = "Static F-15E #002",
+    ["DictKey_GroupName_109"] = "Static Tanker",
+    ["DictKey_WptName_275"] = "",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_UnitName_126"] = "Static Humvee",
+    ["DictKey_ActionRadioText_285"] = "インホット（IN HOT）",
+    ["DictKey_WptName_276"] = "",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_UnitName_300"] = "Unit #003",
+    ["DictKey_UnitName_97"] = "Unit #1",
+    ["DictKey_WptName_271"] = "",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_UnitName_303"] = "Unit #005",
+} -- end of dictionary

@@ -1,0 +1,494 @@
+campaign = 
+{
+    ["picture_EN"] = "A-10C - AAT.jpg",
+    ["directory"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\",
+    ["startStage"] = 1,
+    ["picture"] = "A-10C - AAT.jpg",
+    ["pictureSuccess"] = "Copy of A-10C BMC Badge.jpg",
+    ["description_EN"] = "The A-10C Pilot Qualification Course has the following phases\
+\
+Phase 1: Academic Classes and Pre-Flight Training\
+Phase 2: Basic Flight Training Qualification\
+Phase 3: Advanced Aircraft Training Qualification\
+Phase 4: Tactical Training Qualification\
+\
+Phase 1 gives you Initial Qualification Training (IQT) and is a pre-requisite for Phase 2.  Hopefully you have completed Phase 1 and are familiar with the A-10C aircraft systems and instruments. If not, please read the A-10C Flight Manual before continuing.  \
+\
+Phase 2 gives you Basic Aircraft Qualification (BAQ).\
+It is a pre-requisite for Phase 3. It is recommended that you complete that phase before proceeding to Phase 3. \
+\
+Phase 3 makes you Basic Mission Capable (BMC).  It is a pre-requisite for Phase 4.\
+\
+Phase 4 makes you Combat Mission Ready (CMR).  This is necessary before proceeding on any real combat missions.\
+\
+The goal of the A-10C Pilot Qualification Course is to prepare pilots for combat operations flying the A-10C in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield.\
+\
+Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.\
+\
+Following each flight (known as a Check Ride) your Flight Examiner (FE) will rate you using one of the following proficiency levels as directed in A/OA-10 – Aircrew Evaluation Criteria: AFI11-2A-OA-10V2:\
+\
+Qualified (Q): Performance is correct. Quickly recognizes and corrects errors.\
+\
+Qualified Minus (Q-): Performance is safe, but indicates limited proficiency. Makes errors of omission or commission.\
+\
+Unqualified (U): Performance is unsafe or indicates lack of knowledge or ability.\
+\
+In addition for any flight missions:\
+\
+Qualified (Q): Altitude +/- 200 feet, Airspeed +/- 5%, Course +/- 5 degrees / 3 NM (whichever is greater)\
+\
+Qualified Minus (Q-): Altitude +/- 300 feet, Airspeed +/- 10%, Course +/- 10 degrees / 5 NM (whichever is greater)\
+\
+Unqualified (U): Exceeded Q- limits\
+\
+Phase 3 - Advanced Aircraft Training has the following stages:\
+\
+Advanced Flight Training Stage\
+\
+AFT01 - Air to Air Refueling Day \
+AFT02 - Air to Air Refueling Night \
+AFT03 - Countermeasures and Threat Avoidance \
+AFT04 - Target Area Ingress Preparation \
+AFT05 - Illumination Flare Employment\
+\
+Air to Air Combat Stage:\
+\
+AAT06 - AA Gun and Missile Employment\
+\
+Surface Attack Stage:\
+\
+AAT07 - Gun & Rocket Employment \
+AAT08 - Unguided Bomb Employment \
+AAT09 - Guided Bomb Employment\
+AAT10 - Missile Employment\
+\
+At the completion of this phase you will be considered Basic Mission Capable (BMC).\
+\
+Good luck!",
+    ["name_JP"] = "上級航空機訓練検定",
+    ["description_JP"] = "A-10C パイロット検定コースは次のフェーズからなります。\
+\
+フェーズ１：アカデミッククラスとプレフライトトレーニング\
+フェーズ２：基本飛行訓練検定\
+フェーズ３：上級航空機訓練検定（Advanced Aircraft TrainingQualification）\
+フェーズ４：戦術訓練検定\
+\
+フェーズ１は初期認定訓練（IQT: Initial Qualification Training）を行います。また フェーズ２への前提条件となります。フェーズ１は完了し、A-10Cの航空機システムと計器類に精通していることを望みます。そうでない場合は、先にA-10Cフライトマニュアルを読んで下さい。  \
+\
+フェーズ２は基本航空機検定（BAQ： Basic Aircraft Qualification）です。\
+これはフェーズ３への前提条件となります。フェーズ３に進む前にこのフェーズを完了させておくことをお勧めします。\
+\
+フェーズ３では基本ミッション能力（BMC:Basic Mission Capable）を身につけます。これはフェーズ４の前提条件となります。\
+\
+fフェーズ４では戦闘ミッションへの準備（CMR：Combat Mission Ready）を整えます。これは実際の戦闘ミッションに従事するためには必要です。\
+\
+A-10Cパイロット検定コースの目的は、A-10Cのパイロットを様々なミッションに従事できるように育成することです。司令官は戦場で成功を収めるために、訓練とスキルを積んだパイロットを必要としています。\
+\
+トレーニングの各段階で、コースを通過するために、満たさなくてはならない能力目標（PO：Performance Objective )が設定されています。POを満たしているかどうかを判断するために。能力テスト（PC：Performance Check)が行われます。\
+\
+各飛行（チェックライド）に続いて、飛行試験官（FE:Flight Examiner ）がA/OA-10 – 搭乗員評価基準：AFI11-2A-OA-10V2:に従って習熟度レベルを評価をします。\
+\
+優 (Q：Qualified): 十分な能力を有しています。素早く判断し、ミスを修正できます。\
+\
+可 (Q-：Qualified Minus): 基準は満たしていますが、 限られています。見落としや、ミスを犯しています。\
+\
+不可（U:Unqualified): 基準を満たしていません。知識と能力が欠如しています。\
+\
+全ての飛行ミッションでの追加事項：\
+\
+優 (Q): 高度 +/- 200 feet, 対気速度 +/- 5%, コース +/- 5度か 3 NM (いずれか大きい方)\
+\
+可 (Q-): 高度 +/- 300 feet, 対気速度 +/- 10%, コース +/- 10度か 5 NM (いずれか大きい方)\
+\
+不可 (U): 可（Q-）の範囲を超えた場合\
+\
+フェーズ３ - 上級航空機訓練は次の工程で進みます。:\
+\
+上級航空機訓練ステージ：\
+\
+AFT01 - 空中給油（昼） \
+AFT02 - 空中給油（夜） \
+AFT03 - カウンターメジャーと驚異の回避 \
+AFT04 - ターゲットエリアへのイングレス準備 \
+AFT05 - 照明弾の使用\
+\
+空対空戦闘ステージ：\
+\
+AAT06 - 空対空　機銃とミサイルの使用\
+\
+地上攻撃ステージ：\
+\
+AAT07 - 機銃とロケットの使用 \
+AAT08 - 無誘導爆弾の使用 \
+AAT09 - 誘導爆弾の使用\
+AAT10 - ミサイルの使用\
+\
+このフェーズを全て完了させると、BMC（Basic Mission Capable：基本ミッション能力）があると認定されます。\
+\
+グッドラック！",
+
+    ["necessaryUnits"] = 
+    {
+        ["A-10C"] = "A-10C",
+    }, -- end of ["necessaryUnits"]
+    ["pictureSuccess_EN"] = "Copy of A-10C BMC Badge.jpg",
+    ["pictureFailed"] = "Copy of Failed A-10C BMC Badge.jpg",
+    ["name"] = "Advanced Aircraft Training Qualification",
+    ["version"] = 1,
+    ["stages"] = 
+    {
+        [7] = 
+        {
+            ["name"] = "Stage 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AAT07 Practice AG Gun and Rocket Employment.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AAT07 Practice AG Gun and Rocket Employment.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AAT07 AG Gun and Rocket Employment.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AAT07 AG Gun and Rocket Employment.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] = 
+        {
+            ["name"] = "Stage 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AFT01 Practice Air to Air Refueling Day.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AFT01 Practice Air to Air Refueling Day.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AFT01 Air to Air Refueling Day.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AFT01 Air to Air Refueling Day.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AFT02 Practice Air to Air Refueling Night.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AFT02 Practice Air to Air Refueling Night.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AFT02 Air to Air Refueling Night.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AFT02 Air to Air Refueling Night.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AFT04 Practice Ingress Prep.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AFT04 Practice Ingress Prep.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AFT04 Ingress Prep.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AFT04 Ingress Prep.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] = 
+        {
+            ["name"] = "Stage 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AAT08 Practice AG Unguided Bomb Employment.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AAT08 Practice AG Unguided Bomb Employment.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AAT08 AG Unguided Bomb Employment.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AAT08 AG Unguided Bomb Employment.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [9] = 
+        {
+            ["name"] = "Stage 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AAT09 Practice AG Guided Bomb Employment.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AAT09 Practice AG Guided Bomb Employment.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AAT09 AG Guided Bomb Employment.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AAT09 AG Guided Bomb Employment.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] = 
+        {
+            ["name"] = "Stage 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AFT05 Practice Illumination Flare Employment.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AFT05 Practice Illumination Flare Employment.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AFT05 Illumination Flare Employment.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AFT05 Illumination Flare Employment.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Stage 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AAT10 Practice AG Missile Employment.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AAT10 Practice AG Missile Employment.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AAT10 AG Missile Employment.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AAT10 AG Missile Employment.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [3] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AFT03 Practice Countermeasures.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AFT03 Practice Countermeasures.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AFT03 Countermeasures.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AFT03 Countermeasures.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] = 
+        {
+            ["name"] = "Stage 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AAT06 Practice AA Gun and Missile Employment.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AAT06 Practice AA Gun and Missile Employment.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - AAT06 AA Gun and Missile Employment.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - AAT06 AA Gun and Missile Employment.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+    }, -- end of ["stages"]
+    ["name_EN"] = "Advanced Aircraft Training Qualification",
+    ["pictureFailed_EN"] = "Copy of Failed A-10C BMC Badge.jpg",
+    ["fullPath"] = "G:\\MFM Repos\\A-10C\\Campaigns\\AAT\\Campaign Files - 2.5\\A-10C - Advanced Aircraft Training Qualification.cmp",
+    ["description"] = "The A-10C Pilot Qualification Course has the following phases\
+\
+Phase 1: Academic Classes and Pre-Flight Training\
+Phase 2: Basic Flight Training Qualification\
+Phase 3: Advanced Aircraft Training Qualification\
+Phase 4: Tactical Training Qualification\
+\
+Phase 1 gives you Initial Qualification Training (IQT) and is a pre-requisite for Phase 2.  Hopefully you have completed Phase 1 and are familiar with the A-10C aircraft systems and instruments. If not, please read the A-10C Flight Manual before continuing.  \
+\
+Phase 2 gives you Basic Aircraft Qualification (BAQ).\
+It is a pre-requisite for Phase 3. It is recommended that you complete that phase before proceeding to Phase 3. \
+\
+Phase 3 makes you Basic Mission Capable (BMC).  It is a pre-requisite for Phase 4.\
+\
+Phase 4 makes you Combat Mission Ready (CMR).  This is necessary before proceeding on any real combat missions.\
+\
+The goal of the A-10C Pilot Qualification Course is to prepare pilots for combat operations flying the A-10C in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield.\
+\
+Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.\
+\
+Following each flight (known as a Check Ride) your Flight Examiner (FE) will rate you using one of the following proficiency levels as directed in A/OA-10 – Aircrew Evaluation Criteria: AFI11-2A-OA-10V2:\
+\
+Qualified (Q): Performance is correct. Quickly recognizes and corrects errors.\
+\
+Qualified Minus (Q-): Performance is safe, but indicates limited proficiency. Makes errors of omission or commission.\
+\
+Unqualified (U): Performance is unsafe or indicates lack of knowledge or ability.\
+\
+In addition for any flight missions:\
+\
+Qualified (Q): Altitude +/- 200 feet, Airspeed +/- 5%, Course +/- 5 degrees / 3 NM (whichever is greater)\
+\
+Qualified Minus (Q-): Altitude +/- 300 feet, Airspeed +/- 10%, Course +/- 10 degrees / 5 NM (whichever is greater)\
+\
+Unqualified (U): Exceeded Q- limits\
+\
+Phase 3 - Advanced Aircraft Training has the following stages:\
+\
+Advanced Flight Training Stage\
+\
+AFT01 - Air to Air Refueling Day \
+AFT02 - Air to Air Refueling Night \
+AFT03 - Countermeasures and Threat Avoidance \
+AFT04 - Target Area Ingress Preparation \
+AFT05 - Illumination Flare Employment\
+\
+Air to Air Combat Stage:\
+\
+AAT06 - AA Gun and Missile Employment\
+\
+Surface Attack Stage:\
+\
+AAT07 - Gun & Rocket Employment \
+AAT08 - Unguided Bomb Employment \
+AAT09 - Guided Bomb Employment\
+AAT10 - Missile Employment\
+\
+At the completion of this phase you will be considered Basic Mission Capable (BMC).\
+\
+Good luck!",
+} -- end of campaign
