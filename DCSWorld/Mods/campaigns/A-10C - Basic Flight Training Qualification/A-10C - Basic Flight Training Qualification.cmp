@@ -1,0 +1,576 @@
+campaign = 
+{
+    ["picture_EN"] = "A-10C - BFT.jpg",
+    ["directory"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\",
+    ["startStage"] = 1,
+    ["picture"] = "A-10C - BFT.jpg",
+    ["name"] = "Basic Flight Training Qualification",
+    ["description_EN"] = "The A-10C Pilot Qualification Course has the following phases:\
+\
+Phase 1: Academic Classes and Pre-Flight Training\
+Phase 2: Basic Flight Training Qualification\
+Phase 3: Advanced Aircraft Training Qualification\
+\
+Hopefully you have completed Phase 1 and are familiar with the A-10C aircraft systems and instruments. If not, please read the DCS A-10C Flight Manual before continuing.\
+\
+The goal of the A-10C Pilot Qualification Course is to prepare Cadets for combat operations flying the A-10C in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield.\
+\
+Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.\
+\
+Following each flight (known as a Check Ride) your Flight Examiner (FE) will rate you using one of the following proficiency levels as directed in A/OA-10 – Aircrew Evaluation Criteria: AFI11-2A-OA-10V2:\
+\
+Qualified (Q): Performance is correct. Quickly recognizes and corrects errors.\
+\
+Qualified Minus (Q-): Performance is safe, but indicates limited proficiency. Makes errors of omission or commission.\
+\
+Unqualified (U): Performance is unsafe or indicates lack of knowledge or ability.\
+\
+In addition for any flight missions:\
+\
+Qualified (Q): Altitude +/- 200 feet, Airspeed +/- 5%, Course +/- 5 degrees / 3 NM (whichever is greater)\
+\
+Qualified Minus (Q-): Altitude +/- 300 feet, Airspeed +/- 10%, Course +/- 10 degrees / 5 NM (whichever is greater)\
+\
+Unqualified (U): Exceeded Q- limits\
+\
+Basic Flight Training Qualification has the following objectives:\
+\
+Contact Stage (VFR):\
+1. Perform Ground Handling \
+2. Perform Take-Off and EFATO \
+3. Fly Traffic Pattern \
+4. Perform Approach and Landing \
+5. Perform Basic Maneuvers \
+6. Perform Advanced Handling \
+7. Perform Aerobatics \
+8. Respond to Emergencies \
+\
+Instrument / Navigation Stage (IFR):\
+9. Instrument Approach (Landing) \
+10. Instrument Flight Plan Navigation \
+\
+Formation Stage:\
+11. Fly 2 Ship as Wingman \
+\
+Low-Level Stage:\
+12.Fly Low-Level Flight Plan \
+\
+Good luck.  You are going to need it!",
+    ["name_JP"] = "基本飛行訓練と認定",
+    ["description_EN"] = "A-10Cパイロット検定（ Qualification）コースは次の段階（フェーズ）順ですすみます。：\
+\
+フェーズ１: アカデミッククラスとプレフライト訓練\
+フェーズ２: 基本飛行練習と試験\
+フェーズ３：高度な航空機訓練と試験\
+\
+あなたがフェーズ１を完了しており、A-10C航空機のシステムと計器類に精通しているものと期待します。そうでないなら、開始する前に、DCS A-10Cフライトマニュアルを読んで下さい。\
+\
+A-10Cパイロット検定コースの目標は、戦闘任務で多くの役割を担うA-10Cの士官候補生を育てる事です。指揮官はパイロット達にスキルを求めており、戦場で成功するために必要な訓練を行います。\
+\
+トレーニングの各段階で、コースを通過するために、満たさなくてはならない能力目標（PO：Performance Objective )が設定されています。POを満たしているかどうかを判断するために。能力テスト（PC：Performance Check)が行われます。\
+\
+各飛行（チェックライド）に続いて、飛行試験官（FE:Flight Examiner ）がA/OA-10 – 搭乗員評価基準：AFI11-2A-OA-10V2:に従って習熟度レベルを評価をします。\
+\
+優 (Q：Qualified): 十分な能力を有しています。素早く判断し、ミスを修正できます。\
+\
+可 (Q-：Qualified Minus): 基準は満たしていますが、 限られています。見落としや、ミスを犯しています。\
+\
+不可（U:Unqualified): 基準を満たしていません。知識と能力が欠如しています。\
+\
+全ての飛行ミッションでの追加事項：\
+\
+優 (Q): 高度 +/- 200 feet, 対気速度 +/- 5%, コース +/- 5度か 3 NM (いずれか大きい方)\
+\
+可 (Q-): 高度 +/- 300 feet, 対気速度 +/- 10%, コース +/- 10度か 5 NM (いずれか大きい方)\
+\
+不可 (U): 可（Q-）の範囲を超えた場合\
+\
+基本飛行訓練と試験には次の課目があります。：\
+\
+有視界ステージ (VFR):\
+1. 地上操作の実施 \
+2. 離陸とEFATOの実施 \
+3. トラフィックパターンの飛行 \
+4. アプローチと着陸の実地 \
+5. 基本機動の実施 \
+6. 高度なハンドリングの実施 \
+7. アクロバティクスの実施 \
+8. 緊急事態への対応 \
+\
+計器/ナビゲーションステージ (IFR):\
+9. 計器アプローチ (着陸) \
+10. 計器によるフライトプランの航行 \
+\
+フォーメーションステージ：\
+11. ウイングマンとしての２機編隊飛行 \
+\
+低空飛行ステージ：\
+12.低空フライトプランの飛行 \
+\
+グッドラック。これらはあなたにとって必要なものです！",
+
+    ["necessaryUnits"] = 
+    {
+        ["A-10C"] = "A-10C",
+    }, -- end of ["necessaryUnits"]
+    ["pictureSuccess_EN"] = "Copy of A-10C BAQ Badge.jpg",
+    ["pictureFailed"] = "Copy of Failed A-10C BAQ Badge.jpg",
+    ["stages"] = 
+    {
+        [13] = 
+        {
+            ["name"] = "Stage 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT12 Practice Low Level Flight Plan.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT12 Practice Low Level Flight Plan.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT12 Low Level Flight Plan.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT12 Low Level Flight Plan.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "Stage 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT06 Advanced Handling.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT06 Advanced Handling.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT06 Practice Advanced Handling.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT06 Practice Advanced Handling.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] = 
+        {
+            ["name"] = "Stage 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT06 Practice Spiral Dive and Lazy Eight.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT06 Practice Spiral Dive and Lazy Eight.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "Interactive Shutdown Trainer Tester.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\Interactive Shutdown Trainer Tester.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT Arrival.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT Arrival.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "Interactive Startup Trainer Tester.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\Interactive Startup Trainer Tester.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT01 Practice Ground Handling.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT01 Practice Ground Handling.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT01 Ground Handling.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT01 Ground Handling.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT03 Fly Traffic Pattern.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT03 Fly Traffic Pattern.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT03 Practice Fly Traffic Pattern.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT03 Practice Fly Traffic Pattern.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] = 
+        {
+            ["name"] = "Stage 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT07 Aerobatics.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT07 Aerobatics.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT07 Practice Aerobatics.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT07 Practice Aerobatics.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [9] = 
+        {
+            ["name"] = "Stage 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT08 Emergencies.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT08 Emergencies.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT08 Practice Emergencies.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT08 Practice Emergencies.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] = 
+        {
+            ["name"] = "Stage 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT04 Approach and Landing.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT04 Approach and Landing.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT04 Practice Approach and Landing.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT04 Practice Approach and Landing.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Stage 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT09 Instrument Approach and Landing.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT09 Instrument Approach and Landing.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT09 Practice Instrument Approach and Landing.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT09 Practice Instrument Approach and Landing.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [11] = 
+        {
+            ["name"] = "Stage 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT10 Instrument Flight Plan Navigation.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT10 Instrument Flight Plan Navigation.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT10 Practice Instrument Flight Plan Navigation.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT10 Practice Instrument Flight Plan Navigation.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [6] = 
+        {
+            ["name"] = "Stage 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT05 Basic Maneuvers.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT05 Basic Maneuvers.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT05 Practice Basic Maneuvers.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT05 Practice Basic Maneuvers.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Stage 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT11 Fly 2 Ship as Wingman.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT11 Fly 2 Ship as Wingman.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT11 Practice Fly 2 Ship as Wingman.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT11 Practice Fly 2 Ship as Wingman.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [3] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT02 Practice Takeoff and EFATO.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT02 Practice Takeoff and EFATO.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "A-10C - BFT02 Takeoff and EFATO.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - BFT02 Takeoff and EFATO.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+    }, -- end of ["stages"]
+    ["version"] = 1,
+    ["pictureSuccess"] = "Copy of A-10C BAQ Badge.jpg",
+    ["name_EN"] = "Basic Flight Training Qualification",
+    ["pictureFailed_EN"] = "Copy of Failed A-10C BAQ Badge.jpg",
+    ["fullPath"] = "C:\\MFM Repos\\A-10C\\Campaigns\\BFT\\Campaign Files - 2.2\\A-10C - Basic Flight Training Qualification.cmp",
+    ["description"] = "The A-10C Pilot Qualification Course has the following phases:\
+\
+Phase 1: Academic Classes and Pre-Flight Training\
+Phase 2: Basic Flight Training Qualification\
+Phase 3: Advanced Aircraft Training Qualification\
+\
+Hopefully you have completed Phase 1 and are familiar with the A-10C aircraft systems and instruments. If not, please read the DCS A-10C Flight Manual before continuing.\
+\
+The goal of the A-10C Pilot Qualification Course is to prepare Cadets for combat operations flying the A-10C in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield.\
+\
+Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.\
+\
+Following each flight (known as a Check Ride) your Flight Examiner (FE) will rate you using one of the following proficiency levels as directed in A/OA-10 – Aircrew Evaluation Criteria: AFI11-2A-OA-10V2:\
+\
+Qualified (Q): Performance is correct. Quickly recognizes and corrects errors.\
+\
+Qualified Minus (Q-): Performance is safe, but indicates limited proficiency. Makes errors of omission or commission.\
+\
+Unqualified (U): Performance is unsafe or indicates lack of knowledge or ability.\
+\
+In addition for any flight missions:\
+\
+Qualified (Q): Altitude +/- 200 feet, Airspeed +/- 5%, Course +/- 5 degrees / 3 NM (whichever is greater)\
+\
+Qualified Minus (Q-): Altitude +/- 300 feet, Airspeed +/- 10%, Course +/- 10 degrees / 5 NM (whichever is greater)\
+\
+Unqualified (U): Exceeded Q- limits\
+\
+Basic Flight Training Qualification has the following objectives:\
+\
+Contact Stage (VFR):\
+1. Perform Ground Handling \
+2. Perform Take-Off and EFATO \
+3. Fly Traffic Pattern \
+4. Perform Approach and Landing \
+5. Perform Basic Maneuvers \
+6. Perform Advanced Handling \
+7. Perform Aerobatics \
+8. Respond to Emergencies \
+\
+Instrument / Navigation Stage (IFR):\
+9. Instrument Approach (Landing) \
+10. Instrument Flight Plan Navigation \
+\
+Formation Stage:\
+11. Fly 2 Ship as Wingman \
+\
+Low-Level Stage:\
+12.Fly Low-Level Flight Plan \
+\
+Good luck.  You are going to need it!",
+} -- end of campaign

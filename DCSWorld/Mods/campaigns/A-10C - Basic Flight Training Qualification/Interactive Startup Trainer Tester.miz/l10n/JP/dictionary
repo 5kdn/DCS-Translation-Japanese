@@ -1,0 +1,188 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_90"] = "TACAN モードセレクタースイッチ - T/R...",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_GroupName_150"] = "Static Mi-24V #001",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_UnitName_135"] = "Static USA F-15C",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_GroupName_132"] = "Guard #001",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_descriptionText_154"] = "A-10C Warthog用インタラクティブ・スタートアップトレーニング/テストにようこそ。\
+\
+インストラクターパイロット（IP)がスクランブル スタートアップ チェックリストの項目を読み上げます。それを１０秒以内に処理して下さい。\
+\
+１０秒以内に処理できなかった場合、IPがその装置をハイライトで教えます。処理ができたら次のチェックリストの読み上げを再開します。\
+\
+処理をミスするたびに減点されます。\
+\
+最終スコアを確認するには、ミッションの最後で「’」を押して下さい。デブリーフィングのResultsでも確認できます。\
+\
+注意：ボタンを押すときはゲームエンジンが認識できるように１秒間押して下さい。\
+\
+ミッション成功基準：\
+スタータップチェックリスト手順を行う。",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_76"] = "OXY IND TEST ボタン - 押したまま\
+\
+酸素量低下コーションライトが残量0.5L点灯することを確認...\
+\
+待ちますので、マスターコーションライトをクリアしてください。",
+    ["DictKey_78"] = "APU RPM が 100%に達してから\
+\
+APU generator スイッチ - PWR...",
+    ["DictKey_86"] = "右エンジン - 始動...\
+\
+右エンジン始動が完了するのを待ってから、続けます。",
+    ["DictKey_110"] = "APU スイッチ - OFF...",
+    ["DictKey_UnitName_121"] = "Cpt Will Arnott",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_93"] = "Takeoff trim ボタン - 押す...（離陸トリムボタン）",
+    ["DictKey_100"] = "AHCPの CICU スイッチ - ON...",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_UnitName_131"] = "Guard",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_83"] = "VHF/FM - TR...",
+    ["DictKey_96"] = "Nav Mode Select Panel (NMSP) - EGI...",
+    ["DictKey_111"] = "EAC スイッチ - ARM...",
+    ["DictKey_UnitName_125"] = "Cpt Don Malarky",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_75"] = "酸素供給（OXY SUPPLY）レバー - ON...",
+    ["DictKey_92"] = "フラップ - 循環...",
+    ["DictKey_GroupName_146"] = "Power Truck",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_UnitName_137"] = "Static USA F-15C #001",
+    ["DictKey_GroupName_120"] = "A-10C Flight",
+    ["DictKey_UnitName_153"] = "Static Mi-24V #002",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_UnitName_149"] = "Static Mi-24V",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_79"] = "マスターコーションライト（Master Caution Light） - 押す",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_UnitName_133"] = "Guard #001",
+    ["DictKey_UnitName_151"] = "Static Mi-24V #001",
+    ["DictKey_102"] = "MFCD 右 - ON...\
+\
+MFCDの起動が完了するのを待ってから、次に進みます。",
+    ["DictKey_116"] = "ピトーヒート（PITOT heat）スイッチ - PITOT HEAT...",
+    ["DictKey_95"] = "CDU Align ページ - NAV LSKを押す",
+    ["DictKey_UnitName_127"] = "Cpl John Minor",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_UnitName_143"] = "Capt Anzori Beridze",
+    ["DictKey_ActionText_206"] = "EGIアライメントは完了までに約4分かかりますが。正確なナビゲーションには不可欠であり、EACを作動させるためにも必要です。",
+    ["DictKey_80"] = "CDU スイッチ - ON...",
+    ["DictKey_114"] = "インジェクションシート グラウンド セーフティレバー（Ejection seat ground safety lever） - ARMED...",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_GroupName_142"] = "Civil Plane",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_GroupName_152"] = "Static Mi-24V #002",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_67"] = "燃料ブーストポンプ ウイング（Fuel Boost Pumps Wing） - SET...",
+    ["DictKey_69"] = "AC GEN - PWR...（AC発電機）",
+    ["DictKey_89"] = "ILS PWR コントロールノブ - PWR...",
+    ["DictKey_72"] = "火災検知/ブリードエア漏れ　テストボタン（Fire detect / bleed air leak test button） - 押す",
+    ["DictKey_62"] = "私が、スクランブル スタートアップ チェックリストの項目を読み上げます。あなたは１０秒以内にそれを処理して下さい。",
+    ["DictKey_87"] = "CMSP モードスイッチ - STBY",
+    ["DictKey_GroupName_144"] = "Fuel Truck",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_108"] = "AHCPの IFFCC スイッチ - ON...",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_94"] = "EGI INS　アライメントが完了するのを待ってから、続けます。",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_106"] = "SAS - 有効...",
+    ["DictKey_109"] = "APU generator スイッチ - OFF/RESET...",
+    ["DictKey_descriptionRedTask_155"] = "",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_descriptionBlueTask_156"] = "チェックリストを間違うこと無く完了させる",
+    ["DictKey_104"] = "TGP スイッチ - ON...",
+    ["DictKey_GroupName_130"] = "Guard",
+    ["DictKey_GroupName_126"] = "Pilot Jeep ",
+    ["DictKey_115"] = "アンチスキッド（Anti-skid）スイッチ - ANTI-SKID...",
+    ["DictKey_103"] = "MFCD (Load ページ画面) - Load data（データのロード）...",
+    ["DictKey_UnitName_124"] = "Cpt Arnold Spriggs",
+    ["DictKey_68"] = "加速度計（Accelerometer） - リセット",
+    ["DictKey_82"] = "VHF/AM - TR...",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_71"] = "インバーター（Inverter）スイッチ - STBY...",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_134"] = "Static USA F-15C",
+    ["DictKey_81"] = "EGI スイッチ - ON...",
+    ["DictKey_97"] = "AHCPの IFFCC スイッチ - TEST...",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_GroupName_136"] = "Static USA F-15C #001",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_107"] = "Clear IFFCC BIT Faults - UFCの Enter を押す...",
+    ["DictKey_UnitName_147"] = "Unit #1",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_UnitName_139"] = "Static Canada F-18",
+    ["DictKey_65"] = "レーダー高度（Radar Altimeter） - NRM...",
+    ["DictKey_105"] = "SAI（予備姿勢指示器） - アンケージ...",
+    ["DictKey_GroupName_140"] = "Static Canada F-18 #001",
+    ["DictKey_91"] = "シグナルライト（Signal lights） - TEST...",
+    ["DictKey_66"] = "燃料ブーストポンプ　メイン（Fuel Boost Pumps Main） - SET...",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_UnitName_119"] = "Player",
+    ["DictKey_GroupName_123"] = "Blackhawk Group",
+    ["DictKey_GroupName_128"] = "Static USA A-10C",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_74"] = "燃料計（Fuel Quantity） - CHECK...",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_61"] = "A-10C Warthog用インタラクティブ・スタートアップトレーニング/テストにようこそ。",
+    ["DictKey_99"] = "AHCPの JTRS スイッチ - ON...",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_117"] = "おめでとう！\
+\
+スクランブル チェックリストを完了しました。\
+\
+これで空に上ることが可能です。\
+\
+最終スコアを見るにはミッションの最後で「’」を押して下さい。デブリーフィング画面のResultsでも確認することが出来ます。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_73"] = "シグナルライト（Signal lights） - TEST...",
+    ["DictKey_113"] = "キャノピー - ロックするまで閉じる （ライトが消えるのを確認)...",
+    ["DictKey_85"] = "マスターコーションライト（Master Caution Light） - 押す...\
+\
+エンジンスタートサイクル（Eng Start Cycle）ライトが消えるのを待ちます。",
+    ["DictKey_GroupName_138"] = "Static Canada F-18",
+    ["DictKey_88"] = "TISL - CAGE（ケージ）...",
+    ["DictKey_84"] = "左エンジン - 始動...\
+\
+左エンジン始動が完了するのを待ってから、続けます。",
+    ["DictKey_GroupName_148"] = "Static Mi-24V",
+    ["DictKey_UnitName_141"] = "Static Canada F-18 #001",
+    ["DictKey_63"] = "装置の場所を見つけられなかった場足、私がその装置をハイライトして教えます。\
+\
+私の助け無しで、何処まで出来るか見てみまそう…\
+\
+準備はいいですか？　では始めましょう…",
+    ["DictKey_UnitName_145"] = "Sgt Bebur Kapanadze",
+    ["DictKey_101"] = "MFCD 左 - ON...",
+    ["DictKey_64"] = "UHF 無縁 - ON...",
+    ["DictKey_70"] = "バッテリー（Battery） スイッチ - PWR...",
+    ["DictKey_UnitName_129"] = "Static USA A-10C",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_77"] = "APU スイッチ - 始動...",
+    ["DictKey_UnitName_122"] = "Lt John Major",
+    ["DictKey_98"] = "UFCの Enter - 押す...",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_GroupName_118"] = "COLT 1-1",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_112"] = "ランディングライト（Landing light）スイッチ - TAXI...",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_sortie_157"] = "スタートアップ　トレーニング",
+} -- end of dictionary

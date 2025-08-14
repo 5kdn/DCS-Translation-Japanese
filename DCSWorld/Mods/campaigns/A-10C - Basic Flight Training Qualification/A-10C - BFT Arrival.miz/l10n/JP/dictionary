@@ -1,0 +1,213 @@
+dictionary = 
+{
+    ["DictKey_GroupName_138"] = "New Static Object #004",
+    ["DictKey_114"] = "MISSION COMPLETED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_90"] = "７番目のミッションテストは、エアロバティックマニューバの能力をテストします。",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_GroupName_142"] = "New Static Object #006",
+    ["DictKey_84"] = "４番目のミッションテストは、正式なアプローチと着陸を行う能力が有るかをテストします。",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_UnitName_135"] = "New Static Object #002",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_GroupName_152"] = "New Static Object #011",
+    ["DictKey_GroupName_132"] = "New Static Object #001",
+    ["DictKey_67"] = "西ジョージアにようこそ",
+    ["DictKey_69"] = "バトゥミの街は、ここ数年で大きく成長しました。",
+    ["DictKey_89"] = "失速とスピンからの回復、ディフェンシブスパイラルダイブ（防御旋回降下）とレジーエイトをテストします。\
+\
+マニューバについて良く学習しておく必要はありますが、最初は完璧に操縦できなくても構いませんのであまり心配しなくて結構です。",
+    ["DictKey_72"] = "私達は 、軍事作戦エリア（MOA： Military Operations Area）内で活動しし、Syphターゲット訓練場（STTR:Syph Target Training Range）を使用します。\
+STTRはCapt Steve Phillis のコールサイン「SYPH」から名付けられています。彼は1991年の湾岸戦争で戦死しました。",
+    ["DictKey_78"] = "最初のミッションでは、機体の始動、タキシング、シャットダウンができるかテストします。",
+    ["DictKey_88"] = "６番目のテストは、高度な機動（advanced maneuvers.）能力テストを行います。",
+    ["DictKey_UnitName_141"] = "New Static Object #005",
+    ["DictKey_76"] = "軍事作戦エリア内には２つの代替空港があります。\
+\
+コブレチ軍事空港（Kobuleti Military Airbase）はSyphターゲット訓練場での兵器訓練ミッション時に使用します。\
+\
+コブレチの2km北には廃棄された飛行場もあります。滑走路がX字型なので簡単に識別できます。",
+    ["DictKey_GroupName_136"] = "New Static Object #003",
+    ["DictKey_87"] = "対気速度と高度調節のテストを行います。高速と低速での旋回テスト、上昇旋回テストを行います。\
+\
+自動操縦のテストも行います。\
+\
+基本機動飛行テストをクリアするために、航空機がどの様に動くのかをフライトマニュアルで学習しておいてください。",
+    ["DictKey_70"] = "ジョージア空軍はここをNATO軍の中継基地として利用しています。なので、基本的な訓練はここで行います。",
+    ["DictKey_86"] = "５番目のミッションテストは、基本機動（ basic maneuvers）飛行能力をテストします。",
+    ["DictKey_110"] = "あの素晴らしい航空機を見てください、あなたを待っています。",
+    ["DictKey_94"] = "９番目のミッションテストは、夜間の計器を使用してのアプローチと着陸のテストをします。",
+    ["DictKey_GroupName_144"] = "New Static Object #007",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_GroupName_118"] = "Static Yak-40",
+    ["DictKey_101"] = "私は戦闘機乗りになっていなかったら、C-130の様な大型機に乗っていたでしょう。",
+    ["DictKey_93"] = "全てのパイロットが対処できる必要が有る緊急事態に関して、一般的な対処手順について説明します。\
+\
+緊急事態チェックリストの手順について学習してください。機体を安全に帰還させるための事なので苦ではないでしょう。",
+    ["DictKey_100"] = "12番めのミッションは基本飛行訓練の最終ミッションです。\
+\
+Syphターゲット訓練場を低空飛行で通過して、コブレチに向かいます。そこでデブリーフィングと、最終結果を知らせます。\
+\
+グッドラック！",
+    ["DictKey_108"] = "わからないことがあれば、マニュアルを読んでください！",
+    ["DictKey_UnitName_143"] = "New Static Object #006",
+    ["DictKey_91"] = "インメルマン、スプリットS、ループ、バレルロール、クローバーリーフを実行します。あなたの選んだ順番でエアロバティクス飛行を行います。\
+\
+良い戦闘機パイロットは全員これらを暗記していますので、よく学習してください。",
+    ["DictKey_UnitName_145"] = "New Static Object #007",
+    ["DictKey_77"] = "各段階のミッションで定義されている試験項目について説明しましょう。",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_80"] = "2番目のミッションテストは、離陸と、緊急事態のエンジンをシミュレートした状態で着陸を成功させる能力があるかをテストします。",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_106"] = "能力試験ミッションに合学するために必要な情報は全て詰まっています。",
+    ["DictKey_109"] = "士官候補生になるのに必要なものが入っています。",
+    ["DictKey_UnitName_123"] = "Pilot #001",
+    ["DictKey_GroupName_148"] = "New Static Object #009",
+    ["DictKey_105"] = "飛行マニュアルを読んで学習することがどれほど大切かは言い尽くせません。",
+    ["DictKey_UnitName_127"] = "Static Fuel Truck #001",
+    ["DictKey_UnitName_131"] = "New Static Object",
+    ["DictKey_UnitName_157"] = "New Static Object #013",
+    ["DictKey_103"] = "この子は速くないし、機動性もありませんので、戦闘機ほど魅力的ではないかもしれませんが、少なくともまだ飛んでいられます。",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_92"] = "８番目のミッションテストは、緊急事態に対処する能量をテストします。",
+    ["DictKey_104"] = "戦闘機の士官候補生にきっと成れますよ。様々な活躍ができる世界です。特に爆破するのが好きであるならなおさらに。",
+    ["DictKey_GroupName_130"] = "New Static Object",
+    ["DictKey_99"] = "良いウイングマンになるには時間と努力が必要です。\
+\
+編隊飛行はその一部です。\
+\
+リーダー機の近くにいて、彼の動きをフォローしてください。\
+\
+近すぎたり、遠すぎたりすると減点されます。",
+    ["DictKey_GroupName_126"] = "Static Fuel Truck #001",
+    ["DictKey_81"] = "私達は、あなたが機体を空に飛び立たせ、たった１つのエンジンで無事に着陸できることを望んでいます。\
+\
+離陸と緊急着陸の技法について学習しておいてください。",
+    ["DictKey_96"] = "10番目のミッションテストは、夜間ナビゲーションの能力をテストします。",
+    ["DictKey_97"] = "外部が見えない状態で、このPOでは地図を読み、計器を使う能力をテストします。\
+\
+ニーボードを手元に置いて、与えられた座標をすぐに記録して下さい。\
+\
+このミッションでは助けを呼ぶことはできません。",
+    ["DictKey_UnitName_117"] = "Pilot #002",
+    ["DictKey_GroupName_115"] = "Su-25 Flight",
+    ["DictKey_UnitName_125"] = "Static Fuel Truck",
+    ["DictKey_sortie_161"] = "到着",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_68"] = "バトゥミ国際空港はジョージア南西部のバトゥミの街の２Km南にあります。バトゥミの街は黒海沿岸の都市で、自治共和国であるアジャリアの首都です。",
+    ["DictKey_82"] = "３番目のミッションテストは、トラフィックパターンを飛行する能力をテストします。",
+    ["DictKey_75"] = "リオニ川は目立つランドマークで、目印として役に立つでしょう。",
+    ["DictKey_71"] = "空域座標指定とこのエリアの地図を学習して、地形や主要なランドマークを覚えてください。",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_134"] = "New Static Object #002",
+    ["DictKey_GroupName_146"] = "New Static Object #008",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_UnitName_137"] = "New Static Object #003",
+    ["DictKey_GroupName_154"] = "New Static Object #012",
+    ["DictKey_ActionRadioText_187"] = "イントロをスキップ",
+    ["DictKey_UnitName_116"] = "Pilot #003",
+    ["DictKey_107"] = "飛んでいない時は、マニュアルを読んでください！",
+    ["DictKey_UnitName_147"] = "New Static Object #008",
+    ["DictKey_85"] = "今までの着陸とは異なり、ここではグライドスロープ、対気速度、着陸技術を評価します。\
+\
+このPOのために正しい着陸手順を学習しておくことをお勧めします。",
+    ["DictKey_UnitName_139"] = "New Static Object #004",
+    ["DictKey_GroupName_122"] = "Player 2",
+    ["DictKey_79"] = "必ず、チェックリストと地上での取り扱い手順について学習しておいてください。\
+\
+地上で機体を正しく扱えるようなるまでは、空に上ることは許されません。",
+    ["DictKey_GroupName_140"] = "New Static Object #005",
+    ["DictKey_descriptionText_158"] = "黒海上空をUSAF C-130に搭乗中…\
+\
+西ジョージアへようこそ、新人。\
+\
+先の訓練修了おめでとうございます。\
+\
+基本飛行訓練と試験は、戦闘任務で「ホグ使い」になるための最初のステップです。\
+\
+君は、ムーディー空軍基地の第23戦闘機部隊から外れて、第74戦闘機中隊「フライング・タイガース」に配属されました。\
+\
+君の訓練は、6月6日から6月30日の間で計画されている選抜イーグル作戦の一部です。\
+\
+アメリカ、カナダ、イギリス、オランダ、ドイツ、ジョージア、アゼルバイジャン、アルメニアから陸軍兵士、空軍、海兵隊が参加します。\
+\
+合同演習は、地域の安定性を促進しながら、互いの連携を強化し、米国と他の参加者との友好を築くように計画されています。\
+\
+訓練演習を含む6ヶ月間の軍事展開は、黒海、バルカン、コーカサス全体におよびます。\
+\
+私達は、Syphターゲット訓練場（STTR：Syph Target Training Range）を使用し、決められた軍事作戦エリア（MOA:Military Operations Area）内で活動します。\
+\
+MOA範囲は、北はポティ（Poti)、南はバトゥミ（Batumi)、東はクルバフマロ（Kur.Bahmaro）、西は海岸線から10nmと決められています。\
+\
+SSTR範囲は、北はリオニ川（Rioni River）、南はランチフティ（Lanchhuti）、東はSadzhavaho、西はポティ（Poti）と決められています。\
+\
+リオニ川は目立つランドマークで目印として役に立つでしょう。\
+\
+訓練場には特別飛行制限（SFC:Special Flight Control）レベル（最低高度）があります。天井高度はありません。すべての飛行隊に対する高度ブロックを尊重して下さい。\
+\
+トランジットコリドー（TC：Transit Corridors：入退出経路）は 訓練場とAARトラックへの入退出のために設定されています。：\
+INDIA, PAPA, ROMEO - ターゲット訓練場へのインバウンド（進入）とアウトバウンド（退出）\
+KILO - G順応機動（G-Awareness exercises）\
+TANGO - SIERRA AAR トラックへのインバウンドとアウトバウンド\
+\
+ホールディングエリア（待機エリア）は訓練場の西に設定されています。\
+\
+訓練場入口はウェイポイント ALPHAです。訓練場出口はWP BRAVOです。ただし、指示が有れば両方とも入退場に使用できます。\
+\
+この作戦における全てのSPINS（Special Instructions：特別指示）を確認し、常に訓練場での手順を遵守して下さい。\
+\
+着陸のアプローチになったらブリーフィングを続けます。\
+\
+ミッション成功基準：\
+教官の説明を聞いてください。\
+ミッションはいつ終了してもらっても構いません。キャンペーンは次のミッションに進みます。",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_UnitName_119"] = "Static Yak-40",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_GroupName_120"] = "Player",
+    ["DictKey_UnitName_153"] = "New Static Object #011",
+    ["DictKey_73"] = "MOAは、北はポティ（Poti)、南はバトゥミ（Batumi)、東はクルバフマロ（ Kur.Bahmaro）、西は海岸から10NMと定義されています。",
+    ["DictKey_74"] = "Sypsターゲット訓練場は、北はリオニ川（ Rioni River）、南はランフチティ（ Lanchhuti）、東はSadzhavaho、西はポティ（Poti)と定義されています。",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_111"] = "空に出るのが待ちきれません！",
+    ["DictKey_ActionText_188"] = "MISSION COMPLETED.\
+\
+ESCを押してミッションを終了して構いません。",
+    ["DictKey_descriptionRedTask_159"] = "",
+    ["DictKey_UnitName_149"] = "New Static Object #009",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_UnitName_133"] = "New Static Object #001",
+    ["DictKey_UnitName_151"] = "New Static Object #010",
+    ["DictKey_102"] = "こいつは整備のできていない滑走路への離着陸が可能なことを知ってましたか？空中空輸機やガンシップなども含めて40種類ものバリエーションがあります。",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_95"] = "夜間の着陸は、悪天候の場合は特に難しくなります。\
+\
+計器についてよく学習しておいてください。高度、対気速度、姿勢に注意を払ってください。",
+    ["DictKey_113"] = "ギアを集めて、私に付いて来てください。Base Opsに行って、最初のミッションについて説明します。\
+\
+さあ、始めましょう！",
+    ["DictKey_GroupName_124"] = "Static Fuel Truck",
+    ["DictKey_GroupName_150"] = "New Static Object #010",
+    ["DictKey_GroupName_156"] = "New Static Object #013",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_UnitName_129"] = "Static Fuel Truck #002",
+    ["DictKey_83"] = "混雑した空港では、しばらくの間パターン飛行を強いられる事があります。\
+\
+このPOを成功させるために、パターン飛行についてよく学習しておいてください。",
+    ["DictKey_GroupName_128"] = "Static Fuel Truck #002",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_98"] = "11番目のミッションテストは、ウイングマンとしての能力をテストします。",
+    ["DictKey_descriptionBlueTask_160"] = "空軍基地に到着しました。運行審査官（FE：Flight Examiner ）に従ってオペレーションセンターに向かいます。",
+    ["DictKey_ActionText_189"] = "ESCを押してミッションを終了してください。",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_UnitName_121"] = "Player",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_112"] = "私は君に、必要な課題を説明しました。",
+    ["DictKey_UnitName_155"] = "New Static Object #012",
+    ["DictKey_WptName_181"] = "",
+} -- end of dictionary

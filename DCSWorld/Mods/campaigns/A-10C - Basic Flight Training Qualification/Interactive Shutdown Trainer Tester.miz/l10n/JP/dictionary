@@ -1,0 +1,171 @@
+dictionary = 
+{
+    ["DictKey_80"] = "タンカーの隣に停めて下さい。.\
+\
+ブレーキ - チョークがかかるまで保持",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_GroupName_124"] = "Static F-18A",
+    ["DictKey_90"] = "IFFCC スイッチ - OFF",
+    ["DictKey_WptName_138"] = "Landing",
+    ["DictKey_84"] = "LASER スイッチ - SAFE",
+    ["DictKey_58"] = "滑走路から出たら、私はシャットダウンチェックリスト項目を読み上げます。10秒以内に、処理して下さい。",
+    ["DictKey_67"] = "ILS - OFF",
+    ["DictKey_69"] = "MFCD STAT ページ - CHECK AND RECORD MALFUNCTIONS",
+    ["DictKey_89"] = "JTRS - OFF",
+    ["DictKey_72"] = "CMSP モードスイッチ - STBY",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_62"] = "アンチスキッド（Anti-Skid）スイッチ - OFF",
+    ["DictKey_76"] = "ピトーヒート（Pitot Heat） - OFF",
+    ["DictKey_59"] = "処理できなかった場合は、私がその装置の場所をハイライト表示し、教えますので、処理して下さい（ただし減点されます）。\
+\
+グットラック、地上で会いましょう。",
+    ["DictKey_86"] = "ALT SCE - 必要に応じて",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_UnitName_121"] = "Static Infantry",
+    ["DictKey_64"] = "キャノピー - OPEN",
+    ["DictKey_93"] = "EGI スイッチ - OFF",
+    ["DictKey_100"] = "バッテリー（Battery） - OFF",
+    ["DictKey_UnitName_115"] = "Static Guard",
+    ["DictKey_83"] = "GUN / PAC スイッチ - SAFE",
+    ["DictKey_GroupName_162"] = "New Static Object #001",
+    ["DictKey_106"] = "おめでとう！\
+\
+シャットダウンチェックリストを完了しました！\
+\
+最終スコアを確認するには「’」を押して下さい。デブリーフィングのResultsでも確認することが出来ます。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_88"] = "CICU - OFF",
+    ["DictKey_WptName_137"] = "Feet Dry",
+    ["DictKey_UnitName_123"] = "Static Infantry #001",
+    ["DictKey_descriptionRedTask_133"] = "チェックリストを間違うことなく完了させる",
+    ["DictKey_105"] = "ボーディングラダー（Boarding Ladder）を展開",
+    ["DictKey_96"] = "シート（座席） - フルアップ",
+    ["DictKey_UnitName_163"] = "",
+    ["DictKey_98"] = "右スロットル - OFF",
+    ["DictKey_94"] = "CDU スイッチ - OFF",
+    ["DictKey_GroupName_118"] = "Static Tanker",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_104"] = "酸素供給（Oxygen Supply）レバー - OFF",
+    ["DictKey_GroupName_130"] = "Static Mi-24V #001",
+    ["DictKey_99"] = "インバーター（Inverter）スイッチ - OFF",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_UnitName_125"] = "Static F-18A",
+    ["DictKey_103"] = "UHF - OFF",
+    ["DictKey_GroupName_159"] = "New Static Object",
+    ["DictKey_descriptionText_132"] = "A-10C Warthog用インタラクティブ・シャットダウントレーニング/テストにようこそ。\
+\
+あなたは、滑走路のスレッショルドから約5nmの位置にいます。\
+\
+着陸したら、インストラクターパイロット（IP)がシャットダウン・チェックリストの項目を読み上げます。１０秒以内に場所を特定し、操作して下さい。\
+\
+操作を失敗すると、IPはその装置をハイライトで示します。装置を操作すると、次のチェックリスト読み上げに戻ります。\
+\
+対処できなかった装置ごとに減点します。\
+\
+ハイライトされても、「必要に応じて」や「目的に応じて」の場合は、訓練目的のためだけで、減点されません。\
+\
+すでに処理の終わっている物も読み上げますが、ハイライト表示もしませんし、減点もしません。\
+\
+マスターコーションライトは警告をクリアが必要なときは自由に操作して下さい。\
+\
+タキシング速度はアイドル状態から少し出力を上げた程度の低速で行って下さい。\
+\
+最終スコアを見るには、ミッションの最後に「’」キーを押します。\
+スコアはデブリーフィング画面のResultとして表示されます。\
+\
+グッドラック\
+\
+注意：HOTASを空中スタートに合わせてセットして下さい。シャットダウンチェックリストを開始する前にまず着陸する必要があります。\
+\
+ボタンを押すときは、ゲームがその操作を認識できるように１秒間押し続けて下さい。\
+\
+ミッション成功基準：\
+グライドスロープとAOA速度を維持してアプローチと着陸を行う。\
+シャットダウンチェックリストの手順を行う。",
+    ["DictKey_77"] = "ポジション（Position）ライト - BRIGHT / FLASH",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_63"] = "インジェクションシートグラウンドセーフティーレバー（Ejection Seat Ground Safety Lever） - SAFE",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_87"] = "HUD モードスイッチ - 必要に応じて",
+    ["DictKey_UnitName_160"] = "",
+    ["DictKey_56"] = "A-10C Warthog用インタラクティブ・シャットダウントレーニング/テストにようこそ。\
+\
+あなたは滑走路から5nmのファイナルアプローチフィックスにいます。\
+\
+フラップとギアを降ろして、タワーと交信して着陸許可をとって下さい。",
+    ["DictKey_92"] = "右 MFCD - OFF",
+    ["DictKey_78"] = "アンチコリジョン（Anti-collision）ライト - OFF",
+    ["DictKey_60"] = "よく出来ました。\
+\
+ではパーキングエリアに移動して下さい。\
+\
+タンカーの遠い側のスポット１に停めてください。",
+    ["DictKey_81"] = "予備姿勢指示器（Standby Attitude Indicator） - CAGE（ケージ）",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_GroupName_114"] = "Static Guard",
+    ["DictKey_UnitName_109"] = "Player",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_107"] = "訓練生、機体を傷つけましたよ。",
+    ["DictKey_descriptionBlueTask_134"] = "チェックリストを間違うことなく完了させる",
+    ["DictKey_UnitName_113"] = "Static USA A-10C",
+    ["DictKey_82"] = "マスターアーム（MASTER ARM）スイッチ - SAFE",
+    ["DictKey_UnitName_111"] = "Cpl John Minor",
+    ["DictKey_95"] = "TISL - OFF",
+    ["DictKey_70"] = "HUD Night / Day フィルタ - DAY",
+    ["DictKey_102"] = "VHF / FM - OFF",
+    ["DictKey_66"] = "TACAN - OFF",
+    ["DictKey_71"] = "Landing Taxi Lights - TAXI",
+    ["DictKey_UnitName_119"] = "Static Tanker",
+    ["DictKey_GroupName_108"] = "COLT 1-1",
+    ["DictKey_GroupName_120"] = "Static Infantry",
+    ["DictKey_85"] = "TGP - OFF",
+    ["DictKey_79"] = "フラップ - フルアップ",
+    ["DictKey_74"] = "CMSP - OFF",
+    ["DictKey_73"] = "CMSP システムスイッチ - OFF",
+    ["DictKey_61"] = "滑走路をクリアにしました。\
+\
+始めましょう。",
+    ["DictKey_GroupName_126"] = "Static Transport",
+    ["DictKey_GroupName_165"] = "New Static Object #002",
+    ["DictKey_GroupName_110"] = "Pilot Jeep ",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_75"] = "ウインドシールド（Windshield） DEFOG / DEICE スイッチ- OFF",
+    ["DictKey_GroupName_122"] = "Static Infantry #001",
+    ["DictKey_68"] = "IFFCC BIT Fault Display - RECORD Faults（故障を記録） \
+\
+IFFCCスイッチをTESTにして、BITを選択し-BIT FAULT DISPLAYを選択",
+    ["DictKey_GroupName_116"] = "Static Guard #001",
+    ["DictKey_UnitName_117"] = "Static Guard #001",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_sortie_135"] = "A-10C シャットダウントレーニング",
+    ["DictKey_65"] = "CCTVS/DV ADR リモートコントロールパネル - OFF",
+    ["DictKey_97"] = "左スロットル - OFF",
+    ["DictKey_UnitName_127"] = "Static Transport",
+    ["DictKey_UnitName_129"] = "Static Mi-24V",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_GroupName_128"] = "Static Mi-24V",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_91"] = "左 MFCD - OFF",
+    ["DictKey_101"] = "VHF / AM - OFF",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_57"] = "タッチダウン後　チェックリスト：\
+\
+スロットル　-　必要に応じて\
+スピードブレーキ　-　必要に応じて\
+ホイールブレーキ　-　必要に応じて\
+ノーズホイールステアリング　-　必要に応じて\
+\
+",
+    ["DictKey_GroupName_112"] = "Static USA A-10C",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_UnitName_131"] = "Static Mi-24V #001",
+    ["DictKey_UnitName_166"] = "New Static Object #001",
+    ["DictKey_WptName_154"] = "",
+} -- end of dictionary
