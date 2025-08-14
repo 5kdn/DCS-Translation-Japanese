@@ -1,0 +1,384 @@
+campaign = 
+{
+    directory = "E:/Games/DCS A-10C/Missions/Campaigns/",
+    fullPath = "E:/Games/DCS A-10C/Missions/Campaigns/A10C_Sturmovik.cmp",
+    startStage = 1,
+    
+    name = "А-10C - Sturmovik",
+    name_JP = "А-10C - Sturmovik",
+    name_CN = "А-10C - 攻击机",
+    name_RU = "А-10C - штурмовик",
+    
+    picture = "A10C_Sturmovik.png",
+    
+    description = "On the eve of the Sochi Winter Olympics, situation in the Caucasus has escalated dangerously. \
+In Adjara, dissatisfaction with the nationalistic policy of Georgia has led to a coup, local militias seized power in the country. Tied to the official Tbilisi, officials of the state apparatus and the police were forced to flee from Batumi. Deployment of Georgian troops in Adjara was averted by Russia's demand to respect the right of peoples to self-determinate and its promise to support the newly formed republic, including by military means if necessary. Intense discussions about the situation in the UN Security Council has not yet led to any result. \
+After the withdrawal of Georgian administration, a pair of A-10C planes was discovered at the Batumi airport, delivered to Georgia for testing before possible acquisition by Georgian Air Force. The demand of the State Department of the United States to return the aircraft received no reply from Adjara, but a group of specialists and pilots from Lipetsk CBP, Russia, arrived to study the aircrafts' capabilities.",
+
+    description_JP = "ソチ冬季五輪の前夜、コーカサスの状況は危険なまでに高まっていました。\
+アジャリア自治共和国（Adjara）では、ジョージアの国家主義政策に対する不満からクーデターが起き、地元民兵がその国の権力を手にしました。トビリシ公権力に縛られた国家機関の職員や警察はバトゥミから逃げ出すことを余儀なくされました。アジャリアへのジョージア軍の展開は、自治権の尊重を要求するロシアの圧力と、新しく設立された共和国を（必要に応じての軍事手段を含め）支援するという公約によって避けられました。この状況は国連安全保障理事会で激しく議論されていますが、まだ何も結論が出ていません。\
+ジョージア政権の撤退後、一組のA-10C飛行機がバトゥミ空港にいることがわかりました。ジョージア空軍への導入前のテストのためにジョージアに引き渡された機体です。アメリア国防省の航空機の返還要求に対して、アジャリアからの返事はありませんでした。しかし、ロシアの専門家グループと Lipetsk CBPのパイロットが機体の性能を調べるためにバトゥミにやって来ました。",
+
+    description_CN = "索契冬奥会前夕，高加索地区的危险形势突然升级。\
+在阿扎尔，对格鲁吉亚民族主义政策的不满导致了一场政变，武装分子夺取了当地的政权。第比利斯派遣的国家机关官员和警察被迫逃离了巴统。俄罗斯百般阻挠格鲁吉亚在阿扎尔部署军队的计划，要求政府尊重人民自决的权利，并承诺支持新成立的共和国，必要时甚至会采取军事手段。尽管联合国安理会上讨论激烈，但眼下的局势尚未有任何定论。\
+格鲁吉亚政府撤军后，人们在巴统机场发现了两架A-10C攻击机。格鲁吉亚是A-10C潜在的买家，此前美国交付了两架飞机供格鲁吉亚进行测试。美国国务院要求归还飞机的请求还没得到阿扎尔的答复，但来自俄罗斯利佩茨克边防总部的一批专家和飞行员已经到达巴统，开始研究这些飞机的作战能力。",
+
+    description_RU = "В преддверии зимней олимпиады в Сочи обстановка на Кавказе опасно накалилась.\
+В Аджарии из-за недовольства национальной политикой Грузии произошёл переворот, власть в республике захватили местные вооружённые формирования. Назначенные официальным Тбилиси чиновники госаппарата и полицейские подразделения вынуждены были спешно покинуть Батуми. Ввод грузинских войск в Аджарию был предотвращён заявлением России  с требованием уважать право народов на самоопределение и заверением о поддержке новообразованной республики, в том числе, при необходимости, военной. Жаркое обсуждение ситуации в Совбезе ООН пока не привело ни к какому результату.\
+После ухода грузинской администрации на аэродроме Батуми была обнаружена пара самолётов А-10С, доставленных в Грузию для тестирования и изучения возможности приобретения в ВВС Грузии. На требование госдепартамента вернуть самолёты США от Аджарии ответа не последовало но из России прибыла группа специалистов и лётчиков из Липецкого ЦБП для изучения возможностей самолётов.",
+    
+    stages = 
+    {
+        [13] = 
+        {
+            name = "Стадия 13",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 80,
+                    }, -- end of interval
+                    file = "13_A10Sturm1.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/13_A10Sturm1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    interval = 
+                    {
+                        [1] = 81,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "13_A10Sturm.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/13_A10Sturm.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [13]
+        [7] = 
+        {
+            name = "Стадия 7",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 80,
+                    }, -- end of interval
+                    file = "07_A10Sturm1.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/07_A10Sturm1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    interval = 
+                    {
+                        [1] = 81,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "07_A10Sturm.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/07_A10Sturm.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [7]
+        [1] = 
+        {
+            name = "Стадия 1",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "01_A10Sturm.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/01_A10Sturm.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [1]
+        [2] = 
+        {
+            name = "Стадия 2",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "02_A10Sturm.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/02_A10Sturm.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [2]
+        [4] = 
+        {
+            name = "Стадия 4",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "04_A10Sturm.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/04_A10Sturm.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [4]
+        [8] = 
+        {
+            name = "Стадия 8",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 80,
+                    }, -- end of interval
+                    file = "08_A10Sturm1.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/08_A10Sturm1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    interval = 
+                    {
+                        [1] = 81,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "08_A10Sturm.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/08_A10Sturm.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [8]
+        [9] = 
+        {
+            name = "Стадия 9",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 80,
+                    }, -- end of interval
+                    file = "09_A10Sturm1.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/09_A10Sturm1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    interval = 
+                    {
+                        [1] = 81,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "09_A10Sturm.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/09_A10Sturm.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [9]
+        [5] = 
+        {
+            name = "Стадия 5",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "05_A10Sturm.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/05_A10Sturm.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [5]
+        [10] = 
+        {
+            name = "Стадия 10",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 80,
+                    }, -- end of interval
+                    file = "10_A10Sturm1.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/10_A10Sturm1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    interval = 
+                    {
+                        [1] = 81,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "10_A10Sturm.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/10_A10Sturm.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [10]
+        [14] = 
+        {
+            name = "Стадия 14",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 80,
+                    }, -- end of interval
+                    file = "14_A10Sturm1.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/14_A10Sturm1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    interval = 
+                    {
+                        [1] = 81,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "14_A10Sturm.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/14_A10Sturm.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [14]
+        [3] = 
+        {
+            name = "Стадия 3",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "03_A10Sturm.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/03_A10Sturm.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [3]
+        [6] = 
+        {
+            name = "Стадия 6",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 80,
+                    }, -- end of interval
+                    file = "06_A10Sturm1.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/06_A10Sturm1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    interval = 
+                    {
+                        [1] = 81,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "06_A10Sturm.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/06_A10Sturm.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [6]
+        [12] = 
+        {
+            name = "Стадия 12",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 80,
+                    }, -- end of interval
+                    file = "12_A10Sturm1.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/12_A10Sturm1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    interval = 
+                    {
+                        [1] = 81,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "12_A10Sturm.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/12_A10Sturm.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [12]
+        [11] = 
+        {
+            name = "Стадия 11",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 80,
+                    }, -- end of interval
+                    file = "11_A10Sturm1.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/11_A10Sturm1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    interval = 
+                    {
+                        [1] = 81,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "11_A10Sturm.miz",
+                    description = "",
+                    fullpath = "E:/Games/DCS A-10C/Missions/Campaigns/11_A10Sturm.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [11]
+    }, -- end of stages
+} -- end of campaign

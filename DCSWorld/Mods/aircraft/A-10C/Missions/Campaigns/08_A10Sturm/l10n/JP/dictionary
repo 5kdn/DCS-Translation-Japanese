@@ -1,0 +1,413 @@
+dictionary = 
+{
+    ["DictKey_WptName_309"] = "",
+    ["DictKey_UnitName_212"] = "Вертодром #006",
+    ["DictKey_UnitName_67"] = "111",
+    ["DictKey_53"] = "- 110th, 攻撃を受けています！ 迫撃砲で先頭の右側を攻撃してきています！南を確認してください。そこからならクソ砲兵隊が見えるはずです。",
+    ["DictKey_WptName_310"] = "",
+    ["DictKey_UnitName_135"] = "Стат. объект #006",
+    ["DictKey_UnitName_233"] = "Вертодром #008",
+    ["DictKey_UnitName_226"] = "AH-1W2",
+    ["DictKey_WptName_272"] = "",
+    ["DictKey_WptName_269"] = "",
+    ["DictKey_UnitName_145"] = "Стат. объект #011",
+    ["DictKey_WptName_312"] = "",
+    ["DictKey_UnitName_121"] = "Юнит #48",
+    ["DictKey_UnitName_218"] = "Вертодром #012",
+    ["DictKey_GroupName_215"] = "Дом ",
+    ["DictKey_WptName_287"] = "",
+    ["DictKey_UnitName_90"] = "Наземная группа #4",
+    ["DictKey_UnitName_76"] = "121",
+    ["DictKey_WptName_260"] = "",
+    ["DictKey_WptName_336"] = "",
+    ["DictKey_UnitName_157"] = "zrk suh #001",
+    ["DictKey_WptName_347"] = "",
+    ["DictKey_UnitName_194"] = "Юнит #46",
+    ["DictKey_UnitName_74"] = "123",
+    ["DictKey_WptName_293"] = "",
+    ["DictKey_UnitName_171"] = "Юнит #14",
+    ["DictKey_WptName_289"] = "",
+    ["DictKey_GroupName_146"] = "Стат. объект #012",
+    ["DictKey_UnitName_183"] = "Юнит #20",
+    ["DictKey_WptName_268"] = "",
+    ["DictKey_UnitName_170"] = "Юнит #15",
+    ["DictKey_UnitName_216"] = "Дом ",
+    ["DictKey_WptName_286"] = "",
+    ["DictKey_UnitName_103"] = "Юнит #34",
+    ["DictKey_UnitName_153"] = "Стат. объект #015",
+    ["DictKey_UnitName_78"] = "А-50",
+    ["DictKey_WptName_315"] = "",
+    ["DictKey_GroupName_95"] = "zrk suhum",
+    ["DictKey_UnitName_175"] = "Юнит #18",
+    ["DictKey_UnitName_93"] = "Наземная группа #1",
+    ["DictKey_GroupName_201"] = "Вертодром #001",
+    ["DictKey_GroupName_223"] = "Вертодром #015",
+    ["DictKey_UnitName_114"] = "Юнит #2",
+    ["DictKey_UnitName_186"] = "Юнит #26",
+    ["DictKey_57"] = "- 110th, ガリは目の前です。郊外の道路脇に要塞が見えます。BMPと戦車が何台かいます。戦車が真ん中です。交差点の近くにいます。戦車を排除してください。",
+    ["DictKey_31"] = "MISSION SUCCESS! \
+\
+ミッションを終了していただいて結構です。",
+    ["DictKey_GroupName_219"] = "Вертодром #013",
+    ["DictKey_WptName_358"] = "",
+    ["DictKey_WptName_263"] = "",
+    ["DictKey_WptName_333"] = "",
+    ["DictKey_WptName_279"] = "",
+    ["DictKey_GroupName_152"] = "Стат. объект #015",
+    ["DictKey_58"] = "- 110th, グッドヒット！戦車を破壊しました。BMPも片付けてください。",
+    ["DictKey_UnitName_80"] = "Ми-28Н2",
+    ["DictKey_WptName_332"] = "",
+    ["DictKey_36"] = "海兵隊戦術グループが敗北しました。\
+THE ASSIGNMENT IS FAILED!",
+    ["DictKey_GroupName_148"] = "Стат. объект #013",
+    ["DictKey_WptName_251"] = "",
+    ["DictKey_UnitName_106"] = "Юнит #10",
+    ["DictKey_GroupName_173"] = "Zasada gorod",
+    ["DictKey_42"] = "ウェイポイントIPM の通過を報告",
+    ["DictKey_51"] = "- 110th, 2台の破壊を確認しました。しかし、３台目がいます。これも攻撃してください。",
+    ["DictKey_UnitName_224"] = "Вертодром #015",
+    ["DictKey_WptName_288"] = "",
+    ["DictKey_GroupName_221"] = "Вертодром #014",
+    ["DictKey_43"] = "- Dnepr, こちら 110th, WP3を通過　コース 150, 2000. \
+- 110th, 了解、戦闘チャンネルに切り替えてください。\
+",
+    ["DictKey_GroupName_158"] = "zrk suh #002",
+    ["DictKey_WptName_334"] = "",
+    ["DictKey_WptName_258"] = "",
+    ["DictKey_GroupName_130"] = "Стат. объект #004",
+    ["DictKey_UnitName_165"] = "zrk suhum",
+    ["DictKey_GroupName_169"] = "Zasada most",
+    ["DictKey_UnitName_101"] = "Юнит #36",
+    ["DictKey_UnitName_202"] = "Вертодром #001",
+    ["DictKey_GroupName_69"] = "Су-27",
+    ["DictKey_56"] = "- \"Рокот\", 110-й отработал по батарее, цели поражены.\
+- 110-й, принял.",
+    ["DictKey_WptName_354"] = "",
+    ["DictKey_UnitName_68"] = "Pilot",
+    ["DictKey_GroupName_178"] = "Zasada SAU",
+    ["DictKey_33"] = "機体が破壊されました。\
+MISSION FAILED!\
+",
+    ["DictKey_GroupName_234"] = "Вертодром #009",
+    ["DictKey_WptName_328"] = "",
+    ["DictKey_UnitName_147"] = "Стат. объект #012",
+    ["DictKey_UnitName_139"] = "Стат. объект #008",
+    ["DictKey_GroupName_122"] = "Стат. объект",
+    ["DictKey_UnitName_86"] = "Юнит #32",
+    ["DictKey_GroupName_85"] = "Москва",
+    ["DictKey_UnitName_119"] = "Юнит #50",
+    ["DictKey_UnitName_91"] = "Наземная группа #3",
+    ["DictKey_GroupName_217"] = "Вертодром #012",
+    ["DictKey_GroupName_99"] = "zrk batr",
+    ["DictKey_UnitName_107"] = "Юнит #9",
+    ["DictKey_UnitName_98"] = "zrk gud",
+    ["DictKey_GroupName_225"] = "AH-1W",
+    ["DictKey_UnitName_120"] = "Юнит #49",
+    ["DictKey_WptName_280"] = "",
+    ["DictKey_UnitName_196"] = "Юнит #44",
+    ["DictKey_WptName_307"] = "",
+    ["DictKey_UnitName_129"] = "Стат. объект #003",
+    ["DictKey_UnitName_96"] = "zrk gud #2",
+    ["DictKey_UnitName_118"] = "Юнит #51",
+    ["DictKey_GroupName_138"] = "Стат. объект #008",
+    ["DictKey_GroupName_150"] = "Стат. объект #014",
+    ["DictKey_descriptionNeutralsTask_245"] = "",
+    ["DictKey_GroupName_132"] = "Стат. объект #005",
+    ["DictKey_GroupName_184"] = "Zasada SAU #001",
+    ["DictKey_UnitName_193"] = "Юнит #47",
+    ["DictKey_GroupName_79"] = "Ми-28Н",
+    ["DictKey_WptName_335"] = "",
+    ["DictKey_GroupName_166"] = "Zasada 1",
+    ["DictKey_WptName_356"] = "",
+    ["DictKey_GroupName_230"] = "CH-47 2",
+    ["DictKey_WptName_321"] = "",
+    ["DictKey_WptName_273"] = "",
+    ["DictKey_UnitName_197"] = "Юнит #43",
+    ["DictKey_47"] = "- 110th, ターゲットの破壊を確認！ 注意してください、私達は村に入ります。支援を頼みます。",
+    ["DictKey_64"] = "- Dnepr, こちら 121, IPM コース 120, 1200. \
+- 121st, 了解, 1200. 戦闘チャンネルに切り替えて下さい。\
+- 121 了解、戦闘チャンネルに切り替えます。",
+    ["DictKey_UnitName_102"] = "Юнит #35",
+    ["DictKey_52"] = "- ターゲットの破壊を確認、進軍します。",
+    ["DictKey_UnitName_115"] = "Юнит #1",
+    ["DictKey_UnitName_108"] = "Юнит #8",
+    ["DictKey_UnitName_87"] = "Юнит #31",
+    ["DictKey_32"] = "Доложить о прохождении ИПМ.\
+(радиоменю)",
+    ["DictKey_WptName_298"] = "",
+    ["DictKey_45"] = "- Rokot-35, 110th WP3を通過、コース 150, 2000. \
+- 110th, 了解, そちらを確認。進軍を開始します。支援してください。\
+",
+    ["DictKey_UnitName_123"] = "Стат. объект",
+    ["DictKey_UnitName_70"] = "Су-27 32",
+    ["DictKey_UnitName_235"] = "Вертодром #009",
+    ["DictKey_54"] = "САУ уничтожены.",
+    ["DictKey_38"] = "ウェイポイントIPM の通過を報告",
+    ["DictKey_WptName_346"] = "",
+    ["DictKey_WptName_248"] = "",
+    ["DictKey_UnitName_168"] = "Юнит #11",
+    ["DictKey_WptName_338"] = "",
+    ["DictKey_GroupName_136"] = "Стат. объект #007",
+    ["DictKey_descriptionText_242"] = "戦況\
+\
+ジョージア空軍による「スフミ」空軍基地への大胆な攻撃は、新たな進軍を開始する前に、こちらの航空機に壊滅的なダメージを与え、戦場での制空権を確保する事が目的でした。外交手段では取り戻すことができなかった私達のA-10C航空機の破壊も2次的目標として設定されていたようです。幸いなことに、攻撃時には私達は出撃中でした。我軍の長距離レーダーはジョージア軍の航空機を発見できませんでした。渓谷の間を縫って攻撃ラインに潜入してきました。私達の空軍基地は重大な損害を受けましたが、護衛と共に駆けつけた巡洋艦モスクワのおかげで、完全に破壊されることとは免れました。モスクワの防空力で、攻撃を完全に停止させました。\
+ジョージア軍の攻撃戦闘機はおそらく１か２ペアしか残らなかったはずです。彼らは首都を防衛するためにトビリシ空港に配置転換されました。\
+\
+A-10C部隊指揮官へ\
+\
+スフミ空軍基地司令官より軍事指令　　ナンバー079\
+スフミ司令部　04.00 08.07. Map 200000, 1986 EDITION \
+\
+ロシア-アブハジア反撃軍は7月8日08：00に予定されています。\
+\
+偵察により、ガリ地区のジョージア軍の配置が明らかになりました。最大戦力は、街の北西郊外に集結している２機械化大隊、南西郊外に１機械化大隊。臨時ヘリパッドがガリの数km北東に設置されています。おそらくそこにはAH-1Wヘリコプターが１，２ペア駐留しているでしょう。\
+\
+第１０猟団の任務：\
+ジョージア軍の位置への砲兵攻撃と爆撃の後、08：07にACHIGVARAからガリへ向けて進軍を開始します。街には北西から侵入します。目下の目標は、ガリの北西郊外を確保することです。その次に、ガリの南東部を占領し、Pirveli - Akvaga - Chuburkhinji.へと進軍を続けます。\
+\
+海兵隊 揚陸部隊の目標\
+\
+7月8日08：00に、黒海艦隊艦船からMEORE-GUDAVIエリアの海岸に上陸し、HUMMENI-NATOPURI - GALIへと侵攻します。ガリの南東部を制圧し占領します。その後は第10旅団の指揮下に入ります。\
+\
+部隊と任務：\
+- Su-24のペア：7：30ー08：00の間にガリ地区のジョージア軍の位置を攻撃します。（リーダーコールサイン：355）\
+- SU-25飛行隊：08：00－09：00の間で、敵の位置への空襲と第10猟団の攻撃支援を行います。（リーダーコールサイン：221）\
+- Mi-28N飛行隊： 08：00－0900の間で第10旅団への直接支援を行います。（リーダーコールサイン：225）\
+- Su-27飛行隊：07：30ー09：00の間で、戦闘エリアのパトロールを行い、敵の航空攻撃を防衛します。（リーダーコールサイン：131）\
+- A-50：07：30－09：30の間で、AWACS任務を行います。（コールサイン：751）\
+\
+驚異： \
+- SAMホークはSu-34が制圧しましたので、現時点では驚異はありません。\
+- 敵の戦闘隊形から、MANPADなどの短距離防空はあるでしょう。",
+    ["DictKey_GroupName_189"] = "Zasada dom",
+    ["DictKey_UnitName_155"] = "zrk suh",
+    ["DictKey_GroupName_213"] = "Вертодром #007",
+    ["DictKey_UnitName_241"] = "Вертодром #016",
+    ["DictKey_50"] = "- 110th, ターゲットを指定します！村の南の郊外に川を渡る橋がありあます。そこから200ｍ南に戦車がいます。ここからは２台を確認。それがターゲットです。排除してください！",
+    ["DictKey_UnitName_125"] = "Стат. объект #001",
+    ["DictKey_UnitName_182"] = "Юнит #21",
+    ["DictKey_41"] = "ウェイポイント３の通過を報告",
+    ["DictKey_UnitName_104"] = "Юнит #33",
+    ["DictKey_UnitName_75"] = "122",
+    ["DictKey_WptName_331"] = "",
+    ["DictKey_UnitName_97"] = "zrk gud #1",
+    ["DictKey_UnitName_204"] = "Вертодром #002",
+    ["DictKey_descriptionBlueTask_244"] = "",
+    ["DictKey_UnitName_172"] = "Юнит #13",
+    ["DictKey_UnitName_206"] = "Вертодром #003",
+    ["DictKey_UnitName_92"] = "Наземная группа #2",
+    ["DictKey_UnitName_179"] = "Юнит #28",
+    ["DictKey_GroupName_128"] = "Стат. объект #003",
+    ["DictKey_GroupName_236"] = "Вертодром #010",
+    ["DictKey_WptName_317"] = "",
+    ["DictKey_descriptionRedTask_243"] = "A-10C部隊の任務：\
+\
+7月８日、MEORE- GUDAVIへのルートに従い飛んでください。ウェイポイント３を通過後、JTACの指示に従ってください。ガリに侵入する海兵隊を航空支援してください。\
+\
+離陸：スフミ空港　08：00\
+着陸：スフミ空港 \
+\
+指揮と通信：\
+- 空軍全体の指令 - スフミ空軍基地UPC（コールサイン：Dnepr）、チャンネル１　周波数251.0\
+- 戦闘エリアの指揮：海兵隊タスクフォースのJTAC（コールサイン：Rokot-35）チェンネル２　周波数235.0\
+\
+燃料と兵器：\
+- 燃料 - 95%, 兵器：機銃 - 100%,4x AGM-65H, 2x GBU-38, 49x M151, 2x AIM-9M",
+    ["DictKey_GroupName_205"] = "Вертодром #003",
+    ["DictKey_UnitName_113"] = "Юнит #3",
+    ["DictKey_WptName_306"] = "",
+    ["DictKey_UnitName_111"] = "Юнит #5",
+    ["DictKey_WptName_349"] = "",
+    ["DictKey_UnitName_187"] = "Юнит #25",
+    ["DictKey_WptName_274"] = "",
+    ["DictKey_UnitName_159"] = "zrk suh #002",
+    ["DictKey_UnitName_188"] = "Юнит #24",
+    ["DictKey_WptName_254"] = "",
+    ["DictKey_WptName_330"] = "",
+    ["DictKey_GroupName_211"] = "Вертодром #006",
+    ["DictKey_UnitName_199"] = "Юнит #41",
+    ["DictKey_WptName_265"] = "",
+    ["DictKey_GroupName_154"] = "zrk suh",
+    ["DictKey_sortie_246"] = "THE COUNTEROFFENSIVE",
+    ["DictKey_UnitName_191"] = "Юнит #38",
+    ["DictKey_WptName_343"] = "",
+    ["DictKey_WptName_304"] = "",
+    ["DictKey_UnitName_149"] = "Стат. объект #013",
+    ["DictKey_WptName_355"] = "",
+    ["DictKey_UnitName_176"] = "Юнит #17",
+    ["DictKey_WptName_360"] = "",
+    ["DictKey_UnitName_133"] = "Стат. объект #005",
+    ["DictKey_UnitName_151"] = "Стат. объект #014",
+    ["DictKey_WptName_324"] = "",
+    ["DictKey_GroupName_116"] = "mass ros",
+    ["DictKey_UnitName_117"] = "Юнит #52",
+    ["DictKey_49"] = "- 110th, グッドヒット！　私達は進軍を続けます。",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_WptName_340"] = "",
+    ["DictKey_WptName_300"] = "",
+    ["DictKey_UnitName_127"] = "Стат. объект #002",
+    ["DictKey_GroupName_72"] = "Су-25",
+    ["DictKey_GroupName_203"] = "Вертодром #002",
+    ["DictKey_GroupName_66"] = "Pilot",
+    ["DictKey_UnitName_143"] = "Стат. объект #010",
+    ["DictKey_WptName_264"] = "",
+    ["DictKey_WptName_318"] = "",
+    ["DictKey_UnitName_161"] = "zrk suhum #4",
+    ["DictKey_WptName_266"] = "",
+    ["DictKey_WptName_357"] = "",
+    ["DictKey_UnitName_84"] = "Юнит #16",
+    ["DictKey_GroupName_89"] = "zrk gud",
+    ["DictKey_UnitName_239"] = "Вертодром #011",
+    ["DictKey_WptName_284"] = "",
+    ["DictKey_39"] = "- Dnepr, こちら 110th, IPMを通過 コース 148, 1200. \
+- 110th, 了解, 1200. \
+",
+    ["DictKey_WptName_262"] = "",
+    ["DictKey_WptName_327"] = "",
+    ["DictKey_UnitName_190"] = "Юнит #39",
+    ["DictKey_30"] = "- \"Днепр\", я 110-й, цели уничтожены.\
+- 110-й, выход через 708-й на 3000.\
+- 110-й принял выход через 708-й на 3000.",
+    ["DictKey_40"] = "ウェイポイント３の通過を報告してください。\
+(ラジオメニュー） \
+",
+    ["DictKey_UnitName_163"] = "zrk suhum #2",
+    ["DictKey_GroupName_142"] = "Стат. объект #010",
+    ["DictKey_UnitName_181"] = "Юнит #22",
+    ["DictKey_WptName_277"] = "",
+    ["DictKey_WptName_322"] = "",
+    ["DictKey_UnitName_185"] = "Юнит #27",
+    ["DictKey_UnitName_141"] = "Стат. объект #009",
+    ["DictKey_UnitName_164"] = "zrk suhum #1",
+    ["DictKey_WptName_325"] = "",
+    ["DictKey_WptName_285"] = "",
+    ["DictKey_WptName_352"] = "",
+    ["DictKey_WptName_276"] = "",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_UnitName_94"] = "Наземная группа",
+    ["DictKey_WptName_353"] = "",
+    ["DictKey_UnitName_198"] = "Юнит #42",
+    ["DictKey_UnitName_167"] = "Юнит #12",
+    ["DictKey_62"] = "WP3の通過を報告",
+    ["DictKey_WptName_337"] = "",
+    ["DictKey_UnitName_222"] = "Вертодром #014",
+    ["DictKey_GroupName_105"] = "Morpeh",
+    ["DictKey_WptName_247"] = "",
+    ["DictKey_GroupName_160"] = "zrk senaki",
+    ["DictKey_63"] = "- Dnepr, こちら 110th Rokotから切り替えました。, コース300,2000\
+- 110th, そちらの距離は３２、ファイナルにに６００で向かってください。\
+- 110th 了解。ファイナルに６００",
+    ["DictKey_GroupName_207"] = "Вертодром #004",
+    ["DictKey_WptName_255"] = "",
+    ["DictKey_60"] = "- 110th, 街に入ります。これ以上の支援は必要ありません。支援に感謝します。2000で退出してください。チェンネル１に切り替えてください。",
+    ["DictKey_WptName_283"] = "",
+    ["DictKey_44"] = "チャンネル２に切り替えてください。 \
+(235.0) \
+",
+    ["DictKey_GroupName_228"] = "CH-47 1",
+    ["DictKey_WptName_261"] = "",
+    ["DictKey_UnitName_131"] = "Стат. объект #004",
+    ["DictKey_UnitName_112"] = "Юнит #4",
+    ["DictKey_WptName_252"] = "",
+    ["DictKey_46"] = "- 110th, 聞こえますか？ 私達の前方右に村があります。その西側郊外を見てください。私達に近いほうです。BMPが２台。、排除してください。\
+- 110th 了解、BMPを排除\
+",
+    ["DictKey_GroupName_209"] = "Вертодром #005",
+    ["DictKey_WptName_341"] = "",
+    ["DictKey_UnitName_227"] = "AH-1W1",
+    ["DictKey_UnitName_214"] = "Вертодром #007",
+    ["DictKey_UnitName_83"] = "Юнит #29",
+    ["DictKey_UnitName_180"] = "Юнит #23",
+    ["DictKey_WptName_250"] = "IPM",
+    ["DictKey_UnitName_137"] = "Стат. объект #007",
+    ["DictKey_UnitName_109"] = "Юнит #7",
+    ["DictKey_WptName_308"] = "",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_UnitName_88"] = "Юнит #30",
+    ["DictKey_WptName_256"] = "",
+    ["DictKey_UnitName_195"] = "Юнит #45",
+    ["DictKey_UnitName_71"] = "Су-27 31",
+    ["DictKey_WptName_320"] = "",
+    ["DictKey_GroupName_82"] = "Кораб. группа",
+    ["DictKey_WptName_345"] = "",
+    ["DictKey_GroupName_126"] = "Стат. объект #002",
+    ["DictKey_UnitName_100"] = "Юнит #37",
+    ["DictKey_59"] = "- 110th, ターゲットの破壊を確認しました。",
+    ["DictKey_WptName_326"] = "",
+    ["DictKey_WptName_342"] = "",
+    ["DictKey_UnitName_220"] = "Вертодром #013",
+    ["DictKey_UnitName_73"] = "124",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_WptName_296"] = "",
+    ["DictKey_WptName_281"] = "",
+    ["DictKey_GroupName_124"] = "Стат. объект #001",
+    ["DictKey_WptName_314"] = "",
+    ["DictKey_65"] = "- Dnepr, こちら 121 Korshunから切り替えました,高度 2000 コース 300. \
+- 121, そちらの距離は 28, ４ｔｈに 600で進んで下さい。 \
+- 121st 了解、４ｔｈに600",
+    ["DictKey_WptName_348"] = "",
+    ["DictKey_WptName_350"] = "",
+    ["DictKey_WptName_361"] = "",
+    ["DictKey_UnitName_208"] = "Вертодром #004",
+    ["DictKey_UnitName_110"] = "Юнит #6",
+    ["DictKey_35"] = "海兵隊タスクフォースが排除されました。 \
+MISSION FAILED! \
+",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_WptName_297"] = "",
+    ["DictKey_GroupName_232"] = "Вертодром #008",
+    ["DictKey_WptName_249"] = "",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_WptName_344"] = "",
+    ["DictKey_UnitName_200"] = "Юнит #40",
+    ["DictKey_WptName_270"] = "",
+    ["DictKey_55"] = "- Rokot, こちら 110th, 仕事を終えした。砲兵隊を破壊しました。\
+- 110th, 了解",
+    ["DictKey_GroupName_140"] = "Стат. объект #009",
+    ["DictKey_WptName_299"] = "",
+    ["DictKey_GroupName_240"] = "Вертодром #016",
+    ["DictKey_UnitName_210"] = "Вертодром #005",
+    ["DictKey_WptName_351"] = "",
+    ["DictKey_WptName_313"] = "",
+    ["DictKey_GroupName_144"] = "Стат. объект #011",
+    ["DictKey_WptName_259"] = "",
+    ["DictKey_WptName_278"] = "",
+    ["DictKey_WptName_303"] = "",
+    ["DictKey_34"] = "Доложить о прохождении ИПМ.\
+(радиоменю)",
+    ["DictKey_61"] = "チャンネル１に切り替えてください。 \
+（251.0）\
+",
+    ["DictKey_48"] = "- 110th, 隊列の先頭が攻撃を受けている！ 村の入口、右です。一番端にある家にRPGを持った敵がいます。\
+繰り返します。 道の右、私達に一番近い家。攻撃を許可します。私達を攻撃しないように注意してください。かなり近いです。",
+    ["DictKey_UnitName_162"] = "zrk suhum #3",
+    ["DictKey_WptName_305"] = "",
+    ["DictKey_WptName_257"] = "",
+    ["DictKey_37"] = "IPMの通過を報告してください。\
+(ラジオメニュー) \
+",
+    ["DictKey_WptName_359"] = "",
+    ["DictKey_GroupName_192"] = "mass",
+    ["DictKey_WptName_311"] = "",
+    ["DictKey_UnitName_81"] = "Ми-28Н1",
+    ["DictKey_WptName_323"] = "",
+    ["DictKey_UnitName_174"] = "Юнит #19",
+    ["DictKey_UnitName_177"] = "Zasada gorod tank",
+    ["DictKey_UnitName_237"] = "Вертодром #010",
+    ["DictKey_WptName_319"] = "",
+    ["DictKey_GroupName_156"] = "zrk suh #001",
+    ["DictKey_WptName_275"] = "",
+    ["DictKey_WptName_339"] = "",
+    ["DictKey_UnitName_231"] = "CH-47 2",
+    ["DictKey_WptName_302"] = "",
+    ["DictKey_GroupName_77"] = "А-50",
+    ["DictKey_WptName_329"] = "",
+    ["DictKey_WptName_267"] = "",
+    ["DictKey_WptName_282"] = "",
+    ["DictKey_GroupName_134"] = "Стат. объект #006",
+    ["DictKey_WptName_271"] = "",
+    ["DictKey_UnitName_229"] = "CH-47 1",
+    ["DictKey_GroupName_238"] = "Вертодром #011",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_WptName_316"] = "",
+} -- end of dictionary

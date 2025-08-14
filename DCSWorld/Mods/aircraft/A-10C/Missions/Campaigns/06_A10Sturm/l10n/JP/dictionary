@@ -1,0 +1,175 @@
+dictionary = 
+{
+    ["DictKey_UnitName_59"] = "Юнит #8",
+    ["DictKey_UnitName_89"] = "Стат. объект",
+    ["DictKey_UnitName_52"] = "Pilot",
+    ["DictKey_UnitName_67"] = "RP #2",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_WptName_113"] = "IPM",
+    ["DictKey_UnitName_56"] = "203",
+    ["DictKey_UnitName_62"] = "Юнит #2",
+    ["DictKey_UnitName_73"] = "Cely cont #001",
+    ["DictKey_GroupName_57"] = "Кораб. группа",
+    ["DictKey_GroupName_70"] = "Наземная группа",
+    ["DictKey_36"] = "- 110th, ターゲットの破壊を確認しました。攻撃を続けてください。次は遠い方の車です。. \
+- 110th 了解、遠い方",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_descriptionText_104"] = "戦況 \
+\
+ジョージア軍の進軍はCHHORTOLI-Achigvaraの境界で止まりました。ジョージア軍は、この時点でこれ以上進軍を続ける資源が有りませんでした。ロシア軍がトビリシに向けて攻撃してくる驚異があったため、南オセチア国境の２旅団を維持する必要があったからです。アブハジア方面の戦力を増強するために、予備大隊が急遽編成されました。しかし、この部隊には重兵装が欠如していました。\
+\
+ロシアは、南方面軍の兵士を移動させて、アブハジアに兵士を集めました。この後の反撃に向けて準備を行いました。\
+\
+ロストフ・ナ・ドヌ（Rostov-on-Don）空港に、カナダ空軍のC-130「ヘラクレス」が緊急着陸をしました。アフガニスタンへの貨物の空輸中でした。書類では、連合軍のために大量の資材と精密機器を運んでいることになっていましたが、その後の調査（FSBからの報告）で、航空機には、さまざまなヘビーウェポン（誘導式航空機搭載兵器などを含む）を積み込まれていることが判明しました。これらはロシア内を輸送することが禁止されている品々です。フランス側からの抗議を無視して、これらを没収しスフミ空軍基地に送りました。\
+\
+前線では一時的に均衡が保たれていますので、、A-10C調査グループは誘導兵器の使用に関する航空機の能力を調査する機会を得ました。\
+\
+航空機の能力調査を目的とした訓練ミッション\
+\
+任務：誘導マーベリックミサイルと誘導爆弾の運用における航空機の能力の調査。空港からそれほど遠くない場所に臨時試験場を設置しました。ターゲットは試験場のFDが指定します。\
+\
+試験場のターゲット：\
+- エンジンのかかった車２台（ミサイルテスト用）\
+- 輸送用コンテナ",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_50"] = "試験場の進入方向からの鳥瞰",
+    ["DictKey_GroupName_88"] = "Стат. объект",
+    ["DictKey_UnitName_60"] = "Юнит #7",
+    ["DictKey_47"] = "機体が壊れました。. \
+MISSION FAILED!",
+    ["DictKey_GroupName_76"] = "Cely cont #003",
+    ["DictKey_GroupName_51"] = "Pilot",
+    ["DictKey_42"] = "- Dnep, 110th Talonから。コース 295. \
+- 110th, 了解、距離１０　着陸して下さい。\
+- 110th 了解、着陸します。",
+    ["DictKey_28"] = "ターゲットを破壊せずに試験場を離脱しました。\
+MISSION FAILED!\
+",
+    ["DictKey_43"] = "- Dnepr, 203rd ウェイポイント３を通過。攻撃を開始します。\
+- 203rd, 了解、攻撃を許可します。",
+    ["DictKey_UnitName_58"] = "Юнит #9",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_46"] = "Failed",
+    ["DictKey_35"] = "- 110th WP4です。 \
+- 110th, 攻撃を許可します。（兵器の使用を許可します。）\
+",
+    ["DictKey_32"] = "プリセットチャンネル５に合わせて下さい。 \
+(265.0) ",
+    ["DictKey_38"] = "- 110th, ターゲットへの命中を確認。攻撃を続けて下さい。\
+次のターゲットは白いコンテナです。 \
+- 110th 了解、コンテナ",
+    ["DictKey_UnitName_83"] = "Cely cont #006",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_UnitName_75"] = "Cely cont #002",
+    ["DictKey_UnitName_54"] = "Vedomyi",
+    ["DictKey_GroupName_94"] = "Cely",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_31"] = "- Dnepr, こちら 110th, IPM オンコース 84, 1200. \
+- 110th, チャンネル５に切り替えて下さい。 \
+- 110th 了解、消りかえます。",
+    ["DictKey_UnitName_66"] = "RP #3",
+    ["DictKey_UnitName_71"] = "Юнит #10",
+    ["DictKey_GroupName_101"] = "Cely 111",
+    ["DictKey_30"] = "IPMの通過を報告",
+    ["DictKey_UnitName_69"] = "RP",
+    ["DictKey_GroupName_82"] = "Cely cont #006",
+    ["DictKey_GroupName_78"] = "Cely cont #004",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_UnitName_100"] = "Юнит #4",
+    ["DictKey_40"] = "- 110th, 命中を確認！ \
+- 110th, 任務は完了です。 \
+- 110th 1500で退出して下さい。周波数を切り替えて下さい。\
+- 110th 了解、1500。周波数を切り替えます。",
+    ["DictKey_UnitName_96"] = "Cely 1",
+    ["DictKey_UnitName_85"] = "Cely cont #007",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_39"] = "- 110th, 違うターゲットを攻撃しました！ \
+MISSION FAILED! ",
+    ["DictKey_41"] = "無線周波数の変更をしてください。. \
+(251.0)\
+",
+    ["DictKey_descriptionRedTask_105"] = "７月７日\
+離陸：6:45　スフミ バブシャラ\
+着陸：スフミ バブシャラ\
+\
+試験場に飛んでください。ウェイポイント３を通過したらTalon-23の指示を受けて下さい。 \
+\
+指揮と交信： \
+- FD, コールサイン：Dnepr, 周波数251.0; \
+- FD 試験場,コールサインTalon-23, チャンネル５，周波数 265.0. \
+\
+燃料と兵装： \
+- 燃料 - 50%, 兵器：1x AGM-65D, 1x AGM-65K, 1x GBU-38, 1x GBU-12",
+    ["DictKey_49"] = "プレゼントを運んできたカナダの C-130",
+    ["DictKey_GroupName_72"] = "Cely cont #001",
+    ["DictKey_GroupName_74"] = "Cely cont #002",
+    ["DictKey_UnitName_77"] = "Cely cont #003",
+    ["DictKey_44"] = "- Dnepr, こちら 203rd, グラウンドスパイク、方位85. \
+- 203rd, 了解",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_UnitName_68"] = "RP #1",
+    ["DictKey_29"] = "ウェイポイントIPMの通過を報告して下さい。. \
+(ラジオメニュー) \
+",
+    ["DictKey_GroupName_86"] = "Стат. объект #001",
+    ["DictKey_UnitName_81"] = "Cely cont #005",
+    ["DictKey_GroupName_90"] = "RP #002",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_37"] = "-110th, 誰が攻撃を許可しましたか？！すぐに帰還して下さい！\
+MISSION FAILED!\
+",
+    ["DictKey_33"] = "IPMの通過を報告",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_UnitName_87"] = "Стат. объект #001",
+    ["DictKey_GroupName_92"] = "Cely cont",
+    ["DictKey_GroupName_61"] = "RP",
+    ["DictKey_GroupName_80"] = "Cely cont #005",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_27"] = "MISSION SUCCESS! \
+\
+ミッションを終了していただいて結構です。",
+    ["DictKey_UnitName_103"] = "Cely 111 1",
+    ["DictKey_GroupName_55"] = "Су-24",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_GroupName_97"] = "HOK",
+    ["DictKey_UnitName_91"] = "Юнит #3",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_UnitName_99"] = "Юнит #5",
+    ["DictKey_48"] = "- 110th, 準備ができたら離陸して、試験場に向かって下さい。マーベリックを作動させておくのを忘れないようにして下さい。",
+    ["DictKey_UnitName_79"] = "Cely cont #004",
+    ["DictKey_UnitName_102"] = "Cely 111 2",
+    ["DictKey_UnitName_98"] = "Юнит #6",
+    ["DictKey_descriptionNeutralsTask_107"] = "",
+    ["DictKey_34"] = "- Talon-23, 110th IPMを通過しました。コース 115, 1200. \
+- 110th, 了解, 1200. ターゲットは近い方の車です。 WP4から1200での進入を許可します。 \
+- 110th 了解、近い方の車、WP4から1200で進入",
+    ["DictKey_GroupName_53"] = "Vedom",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_UnitName_93"] = "Cely cont",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_sortie_108"] = "GIFTS",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_UnitName_95"] = "Cely 2",
+    ["DictKey_descriptionBlueTask_106"] = "",
+    ["DictKey_UnitName_65"] = "RP #4",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_GroupName_64"] = "RP #001",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_UnitName_63"] = "Юнит #1",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_45"] = "-110th, コースから外れないでください。すぐに、ウェイポイントIPMに戻って下さい！",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_GroupName_84"] = "Cely cont #007",
+} -- end of dictionary

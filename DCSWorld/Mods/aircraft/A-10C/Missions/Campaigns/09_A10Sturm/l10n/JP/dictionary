@@ -1,0 +1,298 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "Стат. объект #002",
+    ["DictKey_UnitName_72"] = "Стат. объект #006",
+    ["DictKey_GroupName_124"] = "Вертодром #007",
+    ["DictKey_WptName_227"] = "",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_UnitName_156"] = "Мина2",
+    ["DictKey_GroupName_96"] = "zrk senaki",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_UnitName_135"] = "Стат. объект #021",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_GroupName_132"] = "Стат. объект #018",
+    ["DictKey_GroupName_65"] = "Стат. объект #003",
+    ["DictKey_UnitName_62"] = "Стат. объект #001",
+    ["DictKey_GroupName_77"] = "Стат. объект #009",
+    ["DictKey_UnitName_152"] = "Вертодром #011",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_GroupName_79"] = "Стат. объект #010",
+    ["DictKey_UnitName_39"] = "751",
+    ["DictKey_20"] = "MISSION SUCCESS! \
+\
+ミッションを終了していただいて結構です。",
+    ["DictKey_GroupName_73"] = "Стат. объект #007",
+    ["DictKey_GroupName_102"] = "Zasada SAU #001",
+    ["DictKey_WptName_247"] = "",
+    ["DictKey_UnitName_121"] = "Вертодром #005",
+    ["DictKey_WptName_241"] = "",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_25"] = "- Dnepr, こちら 751, WP1を通過、コース 215, 8000. 任務を開始します。\
+- 751, 任務を許可します。",
+    ["DictKey_28"] = "Dneprに応答する",
+    ["DictKey_GroupName_40"] = "Su-27",
+    ["DictKey_UnitName_115"] = "Вертодром #002",
+    ["DictKey_GroupName_153"] = "Мина1",
+    ["DictKey_UnitName_108"] = "Юнит #4",
+    ["DictKey_UnitName_90"] = "Стат. объект #015",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_32"] = "- Dnepr, こちら 131, 任務を完了しました。両ターゲットを破壊しました。\
+- 131, 了解、 5000に退避して下さい。. \
+- 131 了解、 5000に退避します。. \
+",
+    ["DictKey_UnitName_76"] = "Стат. объект #008",
+    ["DictKey_GroupName_151"] = "Вертодром #011",
+    ["DictKey_UnitName_123"] = "Вертодром #006",
+    ["DictKey_UnitName_47"] = "Наземная группа #1",
+    ["DictKey_UnitName_36"] = "Су-27 32",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_UnitName_131"] = "Стат. объект #017",
+    ["DictKey_UnitName_66"] = "Стат. объект #003",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_WptName_248"] = "",
+    ["DictKey_UnitName_138"] = "Юнит #7",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_GroupName_143"] = "CH-47 2",
+    ["DictKey_GroupName_155"] = "Мина2",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_UnitName_104"] = "Юнит #26",
+    ["DictKey_19"] = "- \"Днепр\", я 110-й, цели уничтожены.\
+- 110-й, выход через 708-й на 3000.\
+- 110-й принял выход через 708-й на 3000.",
+    ["DictKey_GroupName_149"] = "Вертодром #010",
+    ["DictKey_GroupName_136"] = "Transport",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_UnitName_46"] = "Наземная группа #2",
+    ["DictKey_descriptionBlueTask_161"] = "",
+    ["DictKey_WptName_172"] = "Trgt",
+    ["DictKey_UnitName_92"] = "Стат. объект #019",
+    ["DictKey_UnitName_48"] = "Наземная группа",
+    ["DictKey_UnitName_74"] = "Стат. объект #007",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_GroupName_157"] = "Мина3",
+    ["DictKey_GroupName_33"] = "Pilot",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_GroupName_91"] = "Стат. объект #019",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_UnitName_111"] = "Юнит #1",
+    ["DictKey_GroupName_75"] = "Стат. объект #008",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_UnitName_99"] = "zrk suhum #2",
+    ["DictKey_WptName_250"] = "",
+    ["DictKey_UnitName_137"] = "Юнит #8",
+    ["DictKey_GroupName_53"] = "zrk batr",
+    ["DictKey_UnitName_103"] = "Юнит #27",
+    ["DictKey_GroupName_120"] = "Вертодром #005",
+    ["DictKey_GroupName_35"] = "Су-27",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_UnitName_78"] = "Стат. объект #009",
+    ["DictKey_UnitName_105"] = "Юнит #25",
+    ["DictKey_UnitName_133"] = "Стат. объект #018",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_WptName_240"] = "",
+    ["DictKey_descriptionNeutralsTask_162"] = "",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_23"] = "機体が破壊されました。\
+MISSION FAILED!\
+",
+    ["DictKey_WptName_236"] = "",
+    ["DictKey_GroupName_81"] = "Стат. объект #011",
+    ["DictKey_UnitName_117"] = "Вертодром #003",
+    ["DictKey_WptName_223"] = "",
+    ["DictKey_GroupName_116"] = "Вертодром #003",
+    ["DictKey_UnitName_140"] = "Юнит #5",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_31"] = "- Dnepr, こちら 131, ターゲットを視認 \
+- 131st, 攻撃して下さい。 \
+- 131st 攻撃します。",
+    ["DictKey_UnitName_125"] = "Вертодром #007",
+    ["DictKey_UnitName_95"] = "F-16C 1",
+    ["DictKey_UnitName_127"] = "Himzavod",
+    ["DictKey_24"] = "Failed",
+    ["DictKey_WptName_244"] = "",
+    ["DictKey_30"] = "- Dnepr, こちら 110th, 任務を完了, 荷物を届けました。離脱します。\
+- よくやった！ジョージア軍は戦闘機をスクランブルさせました。低空を維持して下さい。 131 が向かっています。援護させます。\
+",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_GroupName_43"] = "zrk gud",
+    ["DictKey_UnitName_50"] = "zrk gud #2",
+    ["DictKey_GroupName_147"] = "Вертодром #009",
+    ["DictKey_UnitName_84"] = "Стат. объект #012",
+    ["DictKey_GroupName_112"] = "Вертодром #001",
+    ["DictKey_GroupName_93"] = "F-16C",
+    ["DictKey_GroupName_89"] = "Стат. объект #015",
+    ["DictKey_18"] = "- \"Днепр\", я 110-й, цели уничтожены.\
+- 110-й, выход через 708-й на 3000.\
+- 110-й принял выход через 708-й на 3000.",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_UnitName_146"] = "Вертодром #008",
+    ["DictKey_GroupName_83"] = "Стат. объект #012",
+    ["DictKey_WptName_220"] = "",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_UnitName_42"] = "Су-27 33",
+    ["DictKey_GroupName_67"] = "Стат. объект #004",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_GroupName_49"] = "zrk suhum",
+    ["DictKey_UnitName_60"] = "Стат. объект",
+    ["DictKey_UnitName_52"] = "zrk gud",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_UnitName_56"] = "Юнит #35",
+    ["DictKey_WptName_235"] = "",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_21"] = "- Dnepr, こちら 751, 低空を高速で飛行するターゲットを監視中、コース015、方位110、距離180 \
+- 751, 了解\
+... \
+- 110th, ミッション中止！　繰り返します、 110th, ミッションを中止して、帰還して下さい！ \
+ジョージア軍が戦闘機をスクランブルさせました！\
+",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_UnitName_94"] = "F-16C 2",
+    ["DictKey_descriptionText_159"] = "A-10C部隊指揮官へ\
+\
+スフミ空軍基地司令官より軍事司令　ナンバー081\
+スフミ司令部　21.15 08.07. Map 200000, 1986 EDITION \
+\
+情報局がTsageri 集落（クタイシの北40Km）の近くに化学工場があることを発見しました。関連する情報から、化学兵器の製造を開始したもようです。司令部は、アブハジアでの大きな敗北に動揺し、ジョージア軍と政治指導者が我軍に対してWMD（大量破壊兵器）の使用を決定しないか、非常に危惧しています。私達は司令部本郡からこの工場を破壊する命令を受け取りました。我々の意図をジョージア軍に気づかれてはいけません。さもないと攻撃前に、工場から化学物質を運び出されてしまいます。トビリシ地域の監視レーダーが作動していますので、夜間に山岳地帯に隠れて攻撃に向かいます。\
+\
+部隊と任務：\
+- A-50, 1：40ー3：00、AWACS任務を行います。（コールサイン：751）\
+- Su-27飛行隊：2：15ー3：00の間、地上攻撃をする航空機を敵戦闘機から守ります。（コールサイン：131）\
+\
+驚異：\
+- 工場はAAAで防衛されているでしょう。\
+- Kopitnari （クタイシ）空軍基地に2機のF-16が駐屯している可能性があります。そこから工場までの時間は約6-7分間です。",
+    ["DictKey_27"] = "- Dnepr, こちら 751, 低速を高速で飛行すターゲットを監視しています。コース 15, 方位 110, 距離 180. \
+- 751, 了解. 131st, コース 120へ進んで下さい。指示通り進めて下さい。 \
+- 131st 了解、コース 120,指示通り進めます。 \
+... \
+- 110th, Dnepr, 聞こえていますか？110th、応答願います！\
+",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_UnitName_58"] = "Юнит #33",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_22"] = "敵があなたを見つけました。 \
+MISSION FAILED! \
+",
+    ["DictKey_WptName_251"] = "",
+    ["DictKey_UnitName_106"] = "Юнит #24",
+    ["DictKey_GroupName_114"] = "Вертодром #002",
+    ["DictKey_GroupName_85"] = "Стат. объект #013",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_WptName_255"] = "",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_UnitName_45"] = "Наземная группа #3",
+    ["DictKey_UnitName_148"] = "Вертодром #009",
+    ["DictKey_WptName_226"] = "",
+    ["DictKey_UnitName_154"] = "Мина1",
+    ["DictKey_GroupName_61"] = "Стат. объект #001",
+    ["DictKey_GroupName_87"] = "Стат. объект #014",
+    ["DictKey_UnitName_82"] = "Стат. объект #011",
+    ["DictKey_UnitName_44"] = "Наземная группа #4",
+    ["DictKey_UnitName_55"] = "Юнит #36",
+    ["DictKey_UnitName_97"] = "zrk suhum #4",
+    ["DictKey_GroupName_122"] = "Вертодром #006",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_UnitName_88"] = "Стат. объект #014",
+    ["DictKey_WptName_254"] = "",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_UnitName_54"] = "Юнит #37",
+    ["DictKey_WptName_238"] = "",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_UnitName_34"] = "Pilot",
+    ["DictKey_GroupName_107"] = "Zasada PVO",
+    ["DictKey_WptName_232"] = "",
+    ["DictKey_UnitName_109"] = "Юнит #3",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_UnitName_64"] = "Стат. объект #002",
+    ["DictKey_GroupName_130"] = "Стат. объект #017",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_GroupName_126"] = "Himzavod",
+    ["DictKey_UnitName_100"] = "zrk suhum #1",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_UnitName_101"] = "zrk suhum",
+    ["DictKey_UnitName_110"] = "Юнит #2",
+    ["DictKey_WptName_230"] = "",
+    ["DictKey_GroupName_69"] = "Стат. объект #005",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_UnitName_150"] = "Вертодром #010",
+    ["DictKey_GroupName_141"] = "CH-47 1",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_134"] = "Стат. объект #021",
+    ["DictKey_GroupName_145"] = "Вертодром #008",
+    ["DictKey_UnitName_68"] = "Стат. объект #004",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_WptName_249"] = "",
+    ["DictKey_WptName_256"] = "",
+    ["DictKey_WptName_229"] = "",
+    ["DictKey_UnitName_139"] = "Юнит #6",
+    ["DictKey_26"] = "- Dnepr, こちら 131st, IPM コース 80, 2000. \
+- 131st, 了解",
+    ["DictKey_UnitName_86"] = "Стат. объект #013",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_WptName_221"] = "",
+    ["DictKey_UnitName_119"] = "Вертодром #004",
+    ["DictKey_GroupName_71"] = "Стат. объект #006",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_UnitName_142"] = "CH-47 1",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_WptName_231"] = "",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_UnitName_80"] = "Стат. объект #010",
+    ["DictKey_UnitName_70"] = "Стат. объект #005",
+    ["DictKey_UnitName_41"] = "Су-27 34",
+    ["DictKey_UnitName_98"] = "zrk suhum #3",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_UnitName_158"] = "Мина3",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_descriptionRedTask_160"] = "A-10C 110の任務\
+\
+7月9日\
+Tsageri 集落まで飛行ルートに沿って飛びます。ウェイポイント８にある化学工場を発見して破壊して下さい。飛行ルートは山の渓谷にそって飛ぶように設定しています。発見されるリスクを減らすために、山頂より高く飛ばないで下さい。攻撃までは無線送信は行わないで下さい。攻撃前に、WP8からWP9の間で爆撃に必要な高度を確保して下さい。攻撃後は左のWP10に離脱して、ルートに沿って帰還して下さい。\
+\
+離陸：スフミ空港　7月9日 2：00\
+着陸：スフミ空港\
+\
+司令と交信：\
+- 空軍全体の司令 - スフミ空軍基地司令部（コールサイン：Dnepr）:チャンネル１、周波数251.0\
+\
+燃料と兵器：\
+- 燃料 - 100%, 兵器：機銃 - 100%, 2x AIM-9M, 2x GBU-31",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_UnitName_144"] = "CH-47 2",
+    ["DictKey_UnitName_37"] = "Су-27 31",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_WptName_214"] = "",
+    ["DictKey_29"] = "Dneprに応答して下さい。 \
+(ラジオメニュー) \
+",
+    ["DictKey_UnitName_129"] = "Стат. объект #016",
+    ["DictKey_UnitName_57"] = "Юнит #34",
+    ["DictKey_GroupName_128"] = "Стат. объект #016",
+    ["DictKey_GroupName_38"] = "А-50",
+    ["DictKey_GroupName_59"] = "Стат. объект",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_GroupName_118"] = "Вертодром #004",
+    ["DictKey_UnitName_51"] = "zrk gud #1",
+    ["DictKey_WptName_252"] = "",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_sortie_163"] = "THE CHEMICAL PLANT",
+    ["DictKey_UnitName_113"] = "Вертодром #001",
+} -- end of dictionary

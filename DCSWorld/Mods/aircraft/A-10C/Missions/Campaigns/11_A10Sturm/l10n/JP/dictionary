@@ -1,0 +1,250 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_UnitName_212"] = "Скорп1",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_GroupName_67"] = "zrk suhum",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_UnitName_62"] = "Наземная группа #4",
+    ["DictKey_GroupName_77"] = "Стат. объект #010",
+    ["DictKey_UnitName_73"] = "Юнит #36",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_GroupName_47"] = "Су-34",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_UnitName_39"] = "Vedomyi",
+    ["DictKey_GroupName_137"] = "Вертодром #011",
+    ["DictKey_WptName_145"] = "IPM",
+    ["DictKey_UnitName_121"] = "Вертодром #006",
+    ["DictKey_GroupName_51"] = "Су-24 саб",
+    ["DictKey_UnitName_102"] = "Юнит #2",
+    ["DictKey_28"] = "ターゲットの破壊を報告",
+    ["DictKey_sortie_143"] = "NIGHT RAID",
+    ["DictKey_UnitName_115"] = "Вертодром #003",
+    ["DictKey_UnitName_108"] = "Skorp1",
+    ["DictKey_UnitName_90"] = "f161",
+    ["DictKey_GroupName_97"] = "zrk senaki HOK",
+    ["DictKey_32"] = "Proval",
+    ["DictKey_UnitName_76"] = "Юнит #33",
+    ["DictKey_19"] = "- 357th running in on 45 ... 爆弾投下！",
+    ["DictKey_UnitName_123"] = "Вертодром #007",
+    ["DictKey_UnitName_136"] = "Вертодром #010",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_UnitName_66"] = "Наземная группа",
+    ["DictKey_GroupName_129"] = "CH-47 2",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_30"] = "MISSION SUCCESS! \
+\
+ミッションを終了していただいて結構です。",
+    ["DictKey_UnitName_69"] = "zrk gud #1",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_UnitName_130"] = "CH-47 2",
+    ["DictKey_UnitName_43"] = "Су-27 31",
+    ["DictKey_UnitName_125"] = "AH-1W1",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_UnitName_104"] = "Юнит #3",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_29"] = "- Dnepr, こちら 110th, 任務を完了　航空機とヘリコプターを破壊しました。何も残っていません。 \
+- 110th, 了解、3000で退出して下さい。 \
+- 110th 了解、3000で離脱します。",
+    ["DictKey_UnitName_48"] = "371",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_UnitName_99"] = "ПУ",
+    ["DictKey_UnitName_113"] = "Вертодром #002",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_UnitName_111"] = "Вертодром #001",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_descriptionBlueTask_141"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_GroupName_103"] = "Вулкан1 #001",
+    ["DictKey_GroupName_120"] = "Вертодром #006",
+    ["DictKey_UnitName_78"] = "Стат. объект #010",
+    ["DictKey_GroupName_38"] = "Pilot",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_descriptionNeutralsTask_142"] = "",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_23"] = "- Dnepr, 371thへ, ターゲットを破壊しました。 \
+- 371, 了解、良くやった！ \"Kol'co\", アテンション！　任務を開始して下さい！\
+",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_GroupName_81"] = "Стат. объект #012",
+    ["DictKey_UnitName_46"] = "355",
+    ["DictKey_UnitName_93"] = "Юнит #1",
+    ["DictKey_UnitName_117"] = "Вертодром #004",
+    ["DictKey_UnitName_40"] = "Pilot",
+    ["DictKey_UnitName_95"] = "zrk suhum #1",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_GroupName_41"] = "Су-27",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_UnitName_50"] = "357",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_GroupName_112"] = "Вертодром #002",
+    ["DictKey_31"] = "Failed",
+    ["DictKey_GroupName_89"] = "f16",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_GroupName_83"] = "Стат. объект #013",
+    ["DictKey_37"] = "- 110th, まったく、何処にいるのですか？　なぜウェイポイントに時間通り来れないのですか？ \
+MISSION FAILED! ",
+    ["DictKey_UnitName_60"] = "358",
+    ["DictKey_GroupName_135"] = "Вертодром #010",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_GroupName_49"] = "Су-24М",
+    ["DictKey_UnitName_56"] = "Пилот #5",
+    ["DictKey_UnitName_80"] = "Стат. объект #011",
+    ["DictKey_GroupName_57"] = "Су-34 2",
+    ["DictKey_UnitName_94"] = "Вулкан2",
+    ["DictKey_GroupName_131"] = "Вертодром #008",
+    ["DictKey_36"] = "Proval",
+    ["DictKey_24"] = "- 110th, こちら 371th, 滑走路の端にバルカン砲があります。両方の端にあります。これを排除して下さい。 私達の仕事の邪魔です。",
+    ["DictKey_UnitName_128"] = "CH-47 1",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_22"] = "- 371 running in... pusk! (fox2) ",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_UnitName_106"] = "Юнит #4",
+    ["DictKey_GroupName_114"] = "Вертодром #003",
+    ["DictKey_GroupName_87"] = "Стат. объект #015",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_GroupName_71"] = "zrk batr",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_UnitName_45"] = "356",
+    ["DictKey_GroupName_54"] = "Су-17",
+    ["DictKey_27"] = "ターゲットの破壊を報告して下さい。 \
+(ラジオメニュー）",
+    ["DictKey_UnitName_126"] = "AH-1W2",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_UnitName_42"] = "Су-27 32",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_35"] = "あなたは任務を完了せずに、戦場から離脱しました！\
+MISSION FAILED! \
+",
+    ["DictKey_UnitName_96"] = "Вулкан 1",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_GroupName_44"] = "Су-24",
+    ["DictKey_GroupName_127"] = "CH-47 1",
+    ["DictKey_UnitName_75"] = "Юнит #34",
+    ["DictKey_18"] = "- Dnepr, こちら 357, ターゲットまで1分　ターゲットを確認、駐機中の航空機\
+- 357th, 攻撃して下さい、攻撃を許可します。",
+    ["DictKey_UnitName_88"] = "Стат. объект #015",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_GroupName_124"] = "AH-1W",
+    ["DictKey_UnitName_55"] = "Пилот #6",
+    ["DictKey_UnitName_58"] = "372",
+    ["DictKey_GroupName_101"] = "Вулкан1",
+    ["DictKey_descriptionRedTask_140"] = "A-10C部隊の任務：\
+\
+7月10日、セナキ空軍基地エリアへのルートに沿って飛んで下さい。IPMは高度1200で通過し、ルートは高度は2000、速度550km/h(300Knots)で飛行して下さい。ウェイポイント３には1：09に到着して下さい。371がホークSAMを制圧した後、空港にいる残りの驚異を排除してください。その後は近くに待機し、FDからのさらなる指示を待って下さい。\
+\
+離陸：スフミ空港　7月10日　1：00\
+着陸：スフミ空港\
+\
+指揮と通信: \
+- 空軍全体の指揮：スフミ空軍基地司令部　コールサインDnepr　チャンネル１　周波数 - 251.0. \
+- 全部隊へのコールサイン（Circular call sign of all groups） - \"Kol'co\" (the Ring). \
+- 全部隊は、371が攻撃を開始するまで無線交信を禁止します。\
+\
+燃料と武器：\
+- 燃料 - 100%, 武器：機銃 - 100%, 4x AGM-65D, 42x M151, 7x M-257, 2x AIM-9M",
+    ["DictKey_UnitName_109"] = "Skorp2",
+    ["DictKey_25"] = "- Dnepr, 371th, Su-24 は任務を完了しました。滑走路を破壊し、航空機も何機か破壊しました。ヘリコプターがいくつか残っています。\
+- 371, 了解。 355 th と 357thは3000でRTB 110thは駐機場に残った航空機とヘリコプターを破壊して下さい。\
+- 110th 了解、残った航空機とヘリコプターの破壊",
+    ["DictKey_UnitName_134"] = "Вертодром #009",
+    ["DictKey_UnitName_64"] = "Наземная группа #2",
+    ["DictKey_UnitName_100"] = "ОРЛ",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_21"] = "- 355 is running in at 93... 爆弾投下！",
+    ["DictKey_20"] = "- Dnepr, こちら 355, ターゲットまで1分　滑走路が見えました。\
+- 355, 攻撃を許可します。",
+    ["DictKey_UnitName_138"] = "Вертодром #011",
+    ["DictKey_GroupName_116"] = "Вертодром #004",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_descriptionText_139"] = "A-10C部隊の指揮官へ\
+\
+スフミ空軍基地司令官からの軍事命令　ナンバー88\
+スフミ司令部　21.10 09.07. Map 200000, 1986 EDITION \
+\
+反撃攻勢の結果、アブハジアの領土は、完全にロシア-アブハジア軍の支配下に戻りました。ジョージア軍の第2、第3旅団はかなりの損害を受け、イングリ川の向こうに押し戻されました。Djvari 方向からの側面攻撃は空爆と砲兵によって食い止めました。\
+\
+グダウタ空軍基地から飛んだ戦闘機がジョージア国境付近を飛行するトルコのAWACSに対して威嚇飛行を行い追い払いました。その間に、モズドク空軍基地からのSu-34の2機が、トビリシ近郊の監視レーダーを破壊しました。これで、現在のジョージア軍は、空の監視が十分に出来ていな状態となっています。\
+敵の指揮を低下させ、空軍に対してさらなる損害を与えるために、セナキ空港への攻撃を決定しました。\
+滑走路と駐機場への爆撃を行います。\
+\
+部隊と任務：\
+- Su-34のペア：1：10ー1：30の間に、セナキ空軍基地エリアにある中距離SAMを攻撃します。その後、爆撃の結果を監視します。（コールサイン371）\
+- Su-24のペア：1：15ー1：30の間にセナキ空軍基地の滑走路を攻撃します。（コールいサイン355） \
+- Su-24のペア：1：15-1：30の間にセナキ空軍基地の駐機場を攻撃します。（コールサイン357）\
+- Su-24のペア：1：15－1：30の間で、セナキ空港で照明弾を投下し、照明を提供します。（コールサイン353）\
+- Su-27飛行隊：0：45－2：00の間、敵戦闘機に備えて、パトロールを行います。（コールサイン131） \
+- A-50：0：40ー2：30の間、ACWAC任務を行います。（コールサイン751）\
+\
+驚異：\
+- ホークSAM、セナキ近辺にAAAが1基\
+- 飛行場は、短距離防空ユニットにより防衛されています。",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_UnitName_214"] = "Скорп2",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_UnitName_68"] = "zrk gud #2",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_GroupName_133"] = "Вертодром #009",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_33"] = "機体が破壊されました。\
+MISSION FAILED!\
+",
+    ["DictKey_UnitName_72"] = "Юнит #37",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_UnitName_82"] = "Стат. объект #012",
+    ["DictKey_34"] = "Proval",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_GroupName_122"] = "Вертодром #007",
+    ["DictKey_UnitName_86"] = "Стат. объект #014",
+    ["DictKey_GroupName_92"] = "zrk senaki",
+    ["DictKey_GroupName_61"] = "zrk gud",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_GroupName_211"] = "Скорп",
+    ["DictKey_UnitName_119"] = "Вертодром #005",
+    ["DictKey_26"] = "ターゲットの破壊を報告",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_53"] = "Пилот #3",
+    ["DictKey_GroupName_85"] = "Стат. объект #014",
+    ["DictKey_UnitName_91"] = "f162",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_WptName_148"] = "TRGT",
+    ["DictKey_UnitName_52"] = "Пилот #4",
+    ["DictKey_UnitName_70"] = "zrk gud",
+    ["DictKey_GroupName_110"] = "Вертодром #001",
+    ["DictKey_UnitName_98"] = "РПН",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_GroupName_105"] = "Вулкан1 #002",
+    ["DictKey_UnitName_132"] = "Вертодром #008",
+    ["DictKey_GroupName_107"] = "Skorp",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_UnitName_65"] = "Наземная группа #1",
+    ["DictKey_UnitName_63"] = "Наземная группа #3",
+    ["DictKey_GroupName_79"] = "Стат. объект #011",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_GroupName_59"] = "Су-24М2",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_GroupName_118"] = "Вертодром #005",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_UnitName_74"] = "Юнит #35",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_UnitName_84"] = "Стат. объект #013",
+    ["DictKey_WptName_156"] = "",
+} -- end of dictionary
