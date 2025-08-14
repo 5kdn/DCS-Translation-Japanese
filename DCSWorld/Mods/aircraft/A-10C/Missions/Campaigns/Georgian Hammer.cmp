@@ -1,0 +1,559 @@
+campaign = 
+{
+    ["description"] = "For the second time in the beginning of the 21st century, Georgia has been invaded and occupied by hostile forces. Unlike the first instance though, Georgia is now a member of NATO and has pleaded with other NATO members to remove hostile forces from its territory.\
+\
+As part of a small NATO contingent, US Army and Air Force units have been stationed at and north of Batumi with the goal of pushing hostile forces north, back over the Georgian border near Sochi.\
+\
+You will be spearheading this effort.\
+",
+    ["description_KO"] = "For the second time in the beginning of the 21st century, Georgia has been invaded and occupied by hostile forces. Unlike the first instance though, Georgia is now a member of NATO and has pleaded with other NATO members to remove hostile forces from its territory.\
+\
+As part of a small NATO contingent, US Army and Air Force units have been stationed at and north of Batumi with the goal of pushing hostile forces north, back over the Georgian border near Sochi.\
+\
+You will be spearheading this effort.\
+",
+    ["name_KO"] = "A-10C - Georgian Hammer",
+    ["name_RU"] = "Грузинский Удар",
+    ["necessaryUnits"] = 
+    {
+        ["A-10C"] = "A-10C",
+    }, -- end of ["necessaryUnits"]
+    ["stages"] = 
+    {
+        [13] = 
+        {
+            ["name"] = "Stage 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 12-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 12-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 12-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 12-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "Stage 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 6-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 6-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 6-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 6-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] = 
+        {
+            ["name"] = "Stage 15",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 0-0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 0-0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 1-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 1-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 1-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 1-2.miz",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 1-3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 1-3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 3-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 3-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 3-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 3-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] = 
+        {
+            ["name"] = "Stage 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 7-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 7-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 7-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 7-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [15] = 
+        {
+            ["name"] = "Stage 14",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 14-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 14-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 14-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 14-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+        [9] = 
+        {
+            ["name"] = "Stage 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 8-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 8-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 8-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 8-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 4-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 4-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 4-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 4-2.miz",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 4-3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 4-3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Stage 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 9-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 9-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 9-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 9-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [11] = 
+        {
+            ["name"] = "Stage 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 10-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 10-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 10-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 10-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [3] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 2-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 2-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 2-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 2-2.miz",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 2-3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 2-3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] = 
+        {
+            ["name"] = "Stage 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 5-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 5-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 5-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 5-2.miz",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 5-3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 5-3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Stage 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 11-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 11-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 11-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 11-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [14] = 
+        {
+            ["name"] = "Stage 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 13-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 13-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Push - 13-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Push - 13-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+    }, -- end of ["stages"]
+    ["picture_KO"] = "a10c_hammer.png",
+    ["fullPath"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\Georgian Hammer.cmp",
+    ["picture_EN"] = "a10c_hammer.png",
+    ["startStage"] = 1,
+    ["picture"] = "a10c_hammer.png",
+    ["description_EN"] = "For the second time in the beginning of the 21st century, Georgia has been invaded and occupied by hostile forces. Unlike the first instance though, Georgia is now a member of NATO and has pleaded with other NATO members to remove hostile forces from its territory.\
+\
+As part of a small NATO contingent, US Army and Air Force units have been stationed at and north of Batumi with the goal of pushing hostile forces north, back over the Georgian border near Sochi.\
+\
+You will be spearheading this effort.\
+",
+    ["description_ES"] = "Por segunda vez desde el comienzo del siglo 21, Georgia ha sido invadida y ocupada por fuerzas hostiles. Al contrario que la primera vez, ahora Georgia es miembro de la OTAN y está apoyada por otros miembros de la OTAN para eliminar las fuerzas hostiles de su territorio.\
+\
+Como parte de un pequeño contingente de la OTAN, las unidades del ejército de los EEUU y la fuerza aérea se han estacionado al norte de Batumi con el objetivo de empujar a las fuerzas hostiles hacia el norte, de vuelta al otro lado de la frontera de Georgia, cerca de Sochi.\
+\
+Encabezarás este esfuerzo.\
+",
+    ["name_СS"] = "A-10C - Georgian Hammer",
+    ["description_СS"] = "Již podruhé na počátku 21. století, byla Gruzie napadena a obsazena nepřátelskými silami. Na rozdíl od první situace, je Gruzie nyní členem NATO a požádala ostatní členské státy, aby pomohly vyhnat nepřátelské sily ze svého území.\
+\
+V rámci malého kontingentu NATO, byly v okolí Batumi rozmístěny jednotky amerického armádního letectva, které mají za cíl zatlačit nepřátelské síly na sever, zpět přes gruzínskou hranici.\
+\
+Budeš stát v čele tohoto úsilí.\
+",
+    ["name_DE"] = "A-10C - Georgian Hammer",
+    ["name_EN"] = "A-10C - Georgian Hammer",
+    ["description_DE"] = "Georgien wurde zum zweiten mal im 21. Jahrhundert von einer fremden Macht okkupiert. Anders als beim ersten mal gehört Georgien nun zur NATO und bat die anderen NATO Staaten darum, die fremde Macht von Ihrem Territorium zu entfernen.\
+\
+Als Teil eines kleinen NATO Kontingentes wurden US Army und US Airfoce Einheiten in und nördlich von Batumi stationiert. Das Ziel ist es, die feindlichen Truppen zurück nach Norden zu drängen, über die georgische Grenze bei Sochi.\
+\
+Sie gehören zur Speerspitze dieser Aufgabe.\
+",
+    ["directory"] = "E:\\Ian's Documents\\Saved Games\\DCS.Nightly\\Missions\\A-10c\\Campaign\\",
+    ["name_ES"] = "Martillo Georgiano",
+    ["picture_RU"] = "a10c_hammer.png",
+    ["name"] = "A-10C - Georgian Hammer",
+    ["name_CN"] = "格鲁吉亚之锤",
+    ["picture_ES"] = "a10c_hammer.png",
+    ["version"] = 1,
+    ["description_CN"] = "虽然现在还是21世纪初叶，格鲁吉亚却遭到了第二次入侵，领土被敌军占领。与第一次入侵时不同的是，现在格鲁吉亚已经是北约（NATO）成员国，并请求北约协助驱逐侵略者。\
+\
+作为一小支北约特遣队，美国陆军和空军的单位被部署到了巴统北部，随时准备向着格鲁吉亚北部边境的索契市附近推进。\
+\
+而你将带领这一次的行动。\
+",
+    ["picture_FR"] = "a10c_hammer.png",
+    ["name_FR"] = "A-10C - Georgian Hammer",
+    ["picture_СS"] = "a10c_hammer.png",
+    ["picture_CN"] = "a10c_hammer_cn.png",
+    ["description_FR"] = "Pour la seconde fois au début du 21ème siècle, la Géorgie a été envahie et occupée par les forces hostiles. Toutefois contrairement à la première fois, la Géorgie est maintenant membre de l'OTAN et a plaidé avec d'autres membres de l'OTAN pour supprimer les forces hostiles de son territoire.\
+\
+Faisant partie d'un petit contingent de l'OTAN, des unités de l'Armée des États-Unis et de l'Air Force ont été stationnées au nord de Batumi dans le but de pousser les forces hostiles vers le nord, pour retourner à la frontière géorgienne près de Sochi. \
+\
+Vous serez le fer de lance de cet effort.",
+    ["picture_DE"] = "a10c_hammer.png",
+    ["description_RU"] = "Во второй раз в начале 21-го века Грузинские территории были оккупированы вражескими войсками.  В отличие от предыдущего вооружённого конфликта, Грузия сейчас является членом НАТО и планирует при поддержке других членов НАТО удалить вражеские силы со своей территории.\
+\
+В рамках размещения небольшого контингента НАТО в Грузии US Army и Air Force развернули свой контингент севернее Батуми с целю вытеснить вражеские силы на север к границе в районе Сочи.\
+\
+Вы будете на передовом краю этого конфликта.\
+",
+    ["name_JP"] ="A-10C - ジョージアンハンマー",
+    ["description_JP"] = "21世紀初頭にジョージアは敵に二度目の侵略を受け、占領されました。しかし、一度目とは違い、ジョージアは今はNATOの一員です。敵対勢力を領土から追い払うために、他のNATO加盟国に助けを請いました。\
+\
+臨時のNATO小部隊として、アメリカ陸軍、空軍部隊がバトゥミとその北に駐留しました。目標は、敵勢力をジョージアの北の国境、ソチ（Sochi）付近まで押し返すことです。\
+\
+あなたは、この作戦の先頭に立つことになります。",
+} -- end of campaign

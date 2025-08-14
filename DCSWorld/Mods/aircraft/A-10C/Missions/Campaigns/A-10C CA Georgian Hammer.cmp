@@ -1,0 +1,541 @@
+campaign = 
+{
+    ["name_DE"] = "Georgischer Hammer mit CA",
+    ["description"] = "For the second time in the beginning of the 21st century, Georgia has been invaded and occupied by an invading Russia. Although ostensibly for humanitarian reasons to support ethnic Russians, the true cause appears to be more likely a reestablishing of Russia's southern flank against its southern neighbor, Turkey.  Unlike the first instance though, Georgia is now a member of NATO and has pleaded with other NATO members to remove Russian forces from its territory. To date, only the United States has responded with a modest contribution of the 52nd Fighter Wing (A-10C and F-16CJ) and elements of VII Corps. \
+\
+Russian advances to date and have been swift and decisive, and they are now only 46 km north of the remaining Georgian stronghold at Batumi. Russian forces are currently gathering force around Kobuleti, prior to their final push south. Advance Russian forces are mostly comprised of older T-72 and BMP-2 armor, but more advanced systems have been detected  moving toward the front. Not expecting NATO intervention, Russian air defenses and top cover are light at this time and Russian close air support in minimal. \
+\
+VII corp elements are currently dug in between Chakva and Kobuleti in a blocking position, and are using the rough topography to the east to cover the eastern flank and the Black Sea to cover their western flank. The 52nd FW is based out of Batumi, providing short flight times to the FEBA.\
+\
+Assuming US forces can halt the Russian advance, the follow-on goal will be to push north and expel Russian forces out of Georgia.\
+\
+You will be spearheading this effort as a pilot of the 81st Fighter Squadron.  You and your fellow A-10C pilots will play a pivotal role in this campaign termed by NATO as Operation Georgian Hammer.",
+    ["name_EN"] = "Georgian Hammer with CA",
+    ["name_CS"] = "Martillo Georgiano con CA",
+    ["description_DE"] = "Georgien wurde zum zweiten mal im 21. Jahrhundert von einer fremden Macht okkupiert. Anders als beim ersten mal gehГ¶rt Georgien nun zur NATO und bat die anderen NATO Staaten darum, die fremde Macht von Ihrem Territorium zu entfernen.\
+\
+Als Teil eines kleinen NATO Kontingentes wurden US Army und US Airfoce Einheiten in und nГ¶rdlich von Batumi stationiert. Das Ziel ist es, die feindlichen Truppen zurГјck nach Norden zu drГ¤ngen, Гјber die georgische Grenze bei Sochi.\
+\
+Sie gehГ¶ren zur Speerspitze dieser Aufgabe.",
+    ["stages"] = 
+    {
+        [13] = 
+        {
+            ["name"] = "Stage 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 12-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 12-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 12-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 12-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "Stage 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 6-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 6-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 6-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 6-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] = 
+        {
+            ["name"] = "Stage 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 0-0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 0-0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 1-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 1-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 1-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 1-2.miz",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 1-3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 1-3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 3-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 3-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 3-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 3-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] = 
+        {
+            ["name"] = "Stage 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 7-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 7-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 7-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 7-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [15] = 
+        {
+            ["name"] = "Stage 15",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 14-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 14-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 14-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 14-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+        [9] = 
+        {
+            ["name"] = "Stage 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 8-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 8-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 8-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 8-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] = 
+        {
+            ["name"] = "Stage 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 4-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 4-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 4-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 4-2.miz",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 4-3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 4-3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Stage 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 9-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 9-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 9-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 9-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [3] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 2-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 2-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 2-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 2-2.miz",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 2-3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 2-3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [11] = 
+        {
+            ["name"] = "Stage 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 10-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 10-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 10-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 10-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [6] = 
+        {
+            ["name"] = "Stage 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 5-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 5-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 5-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 5-2.miz",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 5-3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 5-3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Stage 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 11-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 11-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 11-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 11-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [14] = 
+        {
+            ["name"] = "Stage 14",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 13-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 13-1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "CA-Push - 13-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\CA-Push - 13-2.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+    }, -- end of ["stages"]
+    ["name_CN"] = "ж јйІЃеђ‰дєљд№‹й”¤ (иЃ”еђ€ж­¦иЈ…)",
+    ["fullPath"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\A-10C CA Georgian Hammer.cmp",
+    ["picture_EN"] = "a10c_hammer.png",
+    ["directory"] = "D:\\DCS World\\Mods\\aircraft\\A-10C\\Missions\\Campaigns\\",
+    ["startStage"] = 1,
+    ["picture"] = "a10c_hammer.png",
+    ["description_EN"] = "For the second time in the beginning of the 21st century, Georgia has been invaded and occupied by an invading Russia. Although ostensibly for humanitarian reasons to support ethnic Russians, the true cause appears to be more likely a reestablishing of Russia's southern flank against its southern neighbor, Turkey.  Unlike the first instance though, Georgia is now a member of NATO and has pleaded with other NATO members to remove Russian forces from its territory. To date, only the United States has responded with a modest contribution of the 52nd Fighter Wing (A-10C and F-16CJ) and elements of VII Corps. \
+\
+Russian advances to date and have been swift and decisive, and they are now only 46 km north of the remaining Georgian stronghold at Batumi. Russian forces are currently gathering force around Kobuleti, prior to their final push south. Advance Russian forces are mostly comprised of older T-72 and BMP-2 armor, but more advanced systems have been detected  moving toward the front. Not expecting NATO intervention, Russian air defenses and top cover are light at this time and Russian close air support in minimal. \
+\
+VII corp elements are currently dug in between Chakva and Kobuleti in a blocking position, and are using the rough topography to the east to cover the eastern flank and the Black Sea to cover their western flank. The 52nd FW is based out of Batumi, providing short flight times to the FEBA.\
+\
+Assuming US forces can halt the Russian advance, the follow-on goal will be to push north and expel Russian forces out of Georgia.\
+\
+You will be spearheading this effort as a pilot of the 81st Fighter Squadron.  You and your fellow A-10C pilots will play a pivotal role in this campaign termed by NATO as Operation Georgian Hammer.",
+    ["necessaryUnits"] = 
+    {
+        ["A-10C"] = "A-10C",
+    }, -- end of ["necessaryUnits"]
+    ["name"] = "Georgian Hammer with CA",
+    ["version"] = 1,
+    ["picture_CN"] = "a10c_hammer_cn.png",
+    ["description_CS"] = "JiЕѕ podruhГ© na poДЌГЎtku 21. stoletГ­, byla Gruzie napadena a obsazena RuskГЅmi jednotkami. AДЌkoli se RusovГ© tvГЎЕ™Г­, Еѕe jsou v Gruzii z humanitГЎrnГ­ch dЕЇvodЕЇ a na podporu etnickГЅch RusЕЇ, ta pravГЎ pЕ™Г­ДЌina spГ­ЕЎe bude to, Еѕe chtД›jГ­ obnovit jiЕѕnГ­ kЕ™Г­dlo proti svГ©mu jiЕѕnГ­mu sousedovi Turecku. Na rozdГ­l od prvnГ­ situace, je Gruzie nynГ­ ДЌlenem NATO a poЕѕГЎdala ostatnГ­ ДЌlenskГ© stГЎty, aby pomohly vyhnat nepЕ™ГЎtelskГ© sГ­ly ze svГ©ho ГєzemГ­. K dneЕЎnГ­mu dni, reagovaly na tento poЕѕadavek pouze SpojenГ© stГЎty, kterГ© vyslali 52. stГ­hacГ­ho kЕ™Г­dlo (A-10C a F-16CJ) a jednotky VII sboru.\
+\
+RuskГ© jednotky rychle a rozhodnД› postupujГ­ a jsou nynГ­ jen 46 km severnД› od poslednГ­ zbГЅvajГ­cГ­ gruzГ­nskГ© pevnosti v Batumi. RuskГ© sГ­ly se v souДЌasnГ© dobД› shromaЕѕДЏujГ­ kolem Kobuleti a pЕ™ipravujГ­ se na koneДЌnou ofenzГ­vu na jih. ГљtoДЌГ­cГ­ ruskГ© sГ­ly se vД›tЕЎinou sklГЎdajГ­ ze starЕЎГ­ch tankЕЇ T-72 a BMP-2, ale bylo zjiЕЎtД›no, Еѕe na frontu se pЕ™esunujГ­ dalЕЎГ­ pokroДЌilejЕЎГ­ zbraЕ€ovГ© systГ©my. Vzhledem k tomu, Еѕe RusovГ© nepЕ™edpoklГЎdali zГЎsah NATO, ruskГ© protileteckГ© jednotky lehkГ© a jejich pЕ™Г­mГЎ leteckГЎ podpora minimГЎlnГ­.\
+\
+Jednotky VII sboru jsou v souДЌasnГ© dobД› zakopanГ© v obrannГЅch pozicГ­ch mezi Chakvou a Kobuleti a vyuЕѕГ­vajГ­ topografie terГ©nu, aby pokryly vГЅchodnГ­ kЕ™Г­dlo a ДЊernГ© moЕ™e pokrГЅvГЎ jejich zГЎpadnГ­ kЕ™Г­dlo. 52. FW operuje z letiЕЎtД› Batumi.\
+\
+Za pЕ™edpokladu, Еѕe se americkГЅm silГЎm podaЕ™Г­ zastavit postup ruskГЅch jednotek, bude nГЎsledujГ­cГ­m cГ­lem Гєtok smД›rem na sever a vyhnГЎnГ­ ruskГЅch sГ­l z Gruzie.\
+\
+Jako pilot 81. stГ­hacГ­ perutД› budeЕЎ stГЎt v ДЌele tohoto ГєsilГ­. Ty a tvoji kolegovГ© z A-10C budete hrГЎt v tГ©to kampani klГ­ДЌovou roli. Tato operace je nazvanГЎ Operace Georgian Hammer.",
+    ["description_ES"] = "Por segunda vez desde el comienzo del siglo 21, Georgia ha sido invadida y ocupada por una Rusia invasora. Aunque en apariencia por razones humanitarias para apoyar la etnia rusa, la verdadera causa parece ser mГЎs probablemente un restablecimiento del flanco sur ruso contra su vecina al sur, TurquГ­a. Al contrario que la primera vez, ahora Georgia es miembro de la OTAN y han suplicado a los demГЎs miembros de la OTAN que se expulsen las fuerzas rusas de su territorio. Hasta la fecha, sГіlo los Estados Unidos han respondido con una modesta contribuciГіn consistente en el Ala de Caza 52 (A-10C y F-16CJ) y elementos del VII Cuerpo.\
+\
+Los rusos han continuado avanzando hasta la fecha de forma expedita y decisiva y en estos momentos se encuentran a sГіlo 46 km al norte del Гєltimo reducto georgiano en Batumi. Las fuerzas rusas estГЎn actualmente haciendo acopio de fuerzas en los alrededores de Kobuleti, antes de su empuje final hacia el sur. Las fuerzas rusas en avance estГЎn compuestas por viejos blindados T-72 y BMP-2, pero se han detectado sistemas mГЎs avanzados desplazГЎndose hacia el frente. Al no esperar la intervenciГіn de la OTAN, las defensas aГ©reas rusas y la cobertura superior son escasas en estos momentos y el apoyo aГ©reo cercano ruso es mГ­nimo. \
+\
+Elementos del VII Cuerpo se encuentran actualmente situados entre Chakva y Kobuleti en posiciГіn de bloqueo, y estГЎn usando la escarpada topografГ­a al este para cubrir el flanco oriental y el mar Negro para cubrir su flanco occidental. El Ala de Caza 52 estГЎ basada en Batumi, proporcionando vuelos de corto tiempo hasta el FEBA.\
+\
+Asumiendo que las fuerzas de los EE.UU. puedan detener el avance ruso, el objetivo serГЎ empujar hacia el norte y expulsar a las fuerzas rusas de Georgia.\
+\
+EncabezarГЎs este esfuerzo como piloto del 81Вє EscuadrГіn de Caza. TГє y tus compaГ±eros pilotos de A-10C jugarГ©is un papel crucial en esta campaГ±a denominada por la OTAN como OperaciГіn Martillo Georgiano.",
+["name_JP"] ="ジョージアンハンマー　with CA",
+["description_JP"] = "21世紀初頭にジョージアはロシアに二度目の侵略を受け、占領されました。表向きはロシア人を支援する人道上の理由からですが、本当の理由は、ロシアの南の隣国であるトルコに対する南側面の再構築が目的です。しかし、最初の侵略時とは異なり、ジョージアは現在はNATOに加盟しており、他のNATO加盟国に自国からのロシア軍の排除を要請しました。現在のところ、アメリカだけが第52戦闘航空団と第7軍団（VII Corps）の僅かな兵力で反応しています。 \
+\
+ロシアの進軍は、これまでのところ、迅速で決断力があります。そしていま現在、バトゥミの残っているジョージアの拠点までわずか46Kmまで迫っています。ロシア軍は、現在南への最後の進軍に備えて、コブレチ周辺に兵力を集結せています。ロシア侵攻軍は古いT-72とBMP-2装甲車でほとんどが構成されています。しかし、より最新のシステムが前線に向かって移動中である事がわかっています。NATOの介入が予想されないので、ロシアの防空と上空カバーは現時点の段階では軽く、ロシアの緊密な航空支援は最小限に留まっています。\
+\
+第7軍の部隊は、現在、チャクバ（Chakva）とコブレチ（Kobuleti）の間で防衛にあたっています。かれらは東側の険しい地形を利用して、東側面をカバーしており、黒海で西側側面をカバーしてます。第52戦闘航空団はバトゥミ（Batumi)に拠点をおいており、短時間でFEBAに到着できます。\
+\
+アメリが軍がロシアの前進を止めることが出来れば、、次の目標はロシア軍を北に押し返して、ジョージアから追い出すことです。\
+\
+あなたは、第81戦闘飛行隊のパイロットとして、この作戦の先頭に立つことになります。あなたと仲間のA-10Cパイロット達は、NATOの「ジョージアンハンマー」作戦において極めて重要な役割を果たします。",
+} -- end of campaign
