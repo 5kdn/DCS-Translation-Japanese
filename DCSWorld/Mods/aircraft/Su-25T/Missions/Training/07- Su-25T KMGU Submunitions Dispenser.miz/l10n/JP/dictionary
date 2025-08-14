@@ -1,0 +1,116 @@
+dictionary = 
+{
+    ["DictKey_UnitName_22"] = "Unit #1",
+    ["DictKey_18"] = "",
+    ["DictKey_UnitName_52"] = "New Static Object #013",
+    ["DictKey_UnitName_60"] = "Unit #013",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_GroupName_29"] = "New Static Object #002",
+    ["DictKey_GroupName_23"] = "New Vehicle Group #001",
+    ["DictKey_GroupName_49"] = "New Static Object #012",
+    ["DictKey_UnitName_56"] = "Unit #009",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_descriptionRedTask_64"] = "赤いスモークで目印を付けた目標を破壊して下さい。",
+    ["DictKey_GroupName_21"] = "New Vehicle Group",
+    ["DictKey_GroupName_47"] = "New Static Object #011",
+    ["DictKey_descriptionText_63"] = "このレッスンではKMGU小型爆弾ディスペンサーの使用方法について学習します。\
+\
+重要なキー\
+\
+空対地モード：７\
+兵器選択：D\
+一回投下量変更：LCtrl+Space\
+投下間隔：V\
+兵器投下：Space",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_descriptionBlueTask_65"] = "",
+    ["DictKey_GroupName_51"] = "New Static Object #013",
+    ["DictKey_UnitName_20"] = "Player",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_17"] = "ナイスワーク！　目標に命中しました。\
+\
+ESCを押して終了していただいても構いませんし、\
+他の緑のスモークでマーキングしたコンボイを攻撃してもらっても構いません。",
+    ["DictKey_UnitName_42"] = "New Static Object #008",
+    ["DictKey_UnitName_44"] = "New Static Object #009",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_UnitName_28"] = "New Static Object #001",
+    ["DictKey_UnitName_54"] = "Unit #003",
+    ["DictKey_UnitName_36"] = "New Static Object #005",
+    ["DictKey_GroupName_45"] = "New Static Object #010",
+    ["DictKey_UnitName_55"] = "Unit #010",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_15"] = "次の2つのゲートの間の道路に赤いスモークでマーキングしたトラックの集団がいます。\
+これが目標です。",
+    ["DictKey_GroupName_37"] = "New Static Object #006",
+    ["DictKey_12"] = "目標への飛行中に「７」を押して空対地モードにして下さい。",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_UnitName_61"] = "Unit #012",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_UnitName_48"] = "New Static Object #011",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_UnitName_38"] = "New Static Object #006",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_UnitName_57"] = "Unit #008",
+    ["DictKey_GroupName_39"] = "New Static Object #007",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_10"] = "前回のレッスンで使用した爆弾に加え、KMGU小型爆弾ディスペンサーも搭載できます。\
+今回は、1基にAO-2.5RT爆風破片型爆弾を12発搭載できるディスペンサーを4基搭載しています。\
+\
+ディスペンサーは線上に破壊する必要がある場合に便利な兵器です。コンボイや滑走路を破壊する時に最適です。\
+\
+現在アクティブポーズ中です。\
+\
+スペースキーを押すと次に進みます。",
+    ["DictKey_GroupName_35"] = "New Static Object #005",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_GroupName_53"] = "1",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_GroupName_43"] = "New Static Object #009",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_34"] = "New Static Object #004",
+    ["DictKey_UnitName_24"] = "Unit #001",
+    ["DictKey_UnitName_62"] = "Unit #011",
+    ["DictKey_GroupName_19"] = "Player",
+    ["DictKey_13"] = "ゲートに沿って飛行して下さい。\
+ただし、スピードは700-750Km/hを維持して下さい。",
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_UnitName_46"] = "New Static Object #010",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_UnitName_26"] = "New Static Object",
+    ["DictKey_UnitName_40"] = "New Static Object #007",
+    ["DictKey_GroupName_31"] = "New Static Object #003",
+    ["DictKey_GroupName_33"] = "New Static Object #004",
+    ["DictKey_UnitName_32"] = "New Static Object #003",
+    ["DictKey_14"] = "空対地モードになると、HUDに爆撃照準が出現します。前のレッスン同様に、照準を目標を並べるように飛行して下さい。速度を高速に保つと、低高度での爆撃も可能になります。\
+\
+爆撃はCCIP,CCRPどちらでも可能です。",
+    ["DictKey_16"] = "目標の列に機体の進行方向を合わせ、爆撃照準をやや手前に合わせます。これはディスペンサーのドアが開く分タイムラグが出るからです。\
+CCIPモードで投下する場合は浅い降下を行う必要があります。",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_GroupName_41"] = "New Static Object #008",
+    ["DictKey_UnitName_59"] = "Unit #002",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_UnitName_50"] = "New Static Object #012",
+    ["DictKey_GroupName_58"] = "2",
+    ["DictKey_sortie_66"] = "KMGU 小型爆弾ディスペンサー",
+    ["DictKey_UnitName_30"] = "New Static Object #002",
+    ["DictKey_11"] = "兵器管理パネルで、「V」で投下間隔ノブを回して、СЕРИЯ КМГУ (SSC-MJM シリーズ)を選択して下さい。 これはKMGU小型爆弾ディスペンサーとMER（多弾段投下ラック）用の特殊投下モードです。\
+KMGUは2秒間隔で、MERでは0.3秒間隔で投下されます。総投下数は投下量ノブ（salvo size switch）で指定された量が投下されます。\
+これにより広範囲にまんべんなく爆弾の散布が可能となります。\
+\
+スペースキーを押すと一時停止を解除します。\
+ゲートに沿って飛んで下さい。\
+",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_GroupName_27"] = "New Static Object #001",
+    ["DictKey_GroupName_25"] = "New Static Object",
+} -- end of dictionary

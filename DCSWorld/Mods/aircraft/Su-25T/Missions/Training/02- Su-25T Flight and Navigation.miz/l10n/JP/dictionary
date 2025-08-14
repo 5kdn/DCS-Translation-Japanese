@@ -1,0 +1,226 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "New Static Object #012",
+    ["DictKey_18"] = "HUDの中央に丸い円があることに気がついたでしょう。これは方向指示円といいます。\
+これは次のウェイポイントへ飛行ルート（コースライン）への方向を示します。\
+\
+飛行ルート（コースライン）とは２つのウェイポイントをつないだ飛行経路のことです。\
+バンク角やピッチ角をこの方向指示円がHUDの中央に来るように操縦すると、飛行ルートへ最短で到達でき、飛行ルート上を航行することができます。\
+\
+注：飛行ルートへの最短経路を示しますので、この方向指示円を中央に置くことにこだわるとふらついた飛行となります。\
+次のウェイポイントの方向へ向かいながら、この方向指示円が徐々に中央に来るように飛行して下さい。\
+\
+スペースキーを押すと次に進みます。",
+    ["DictKey_UnitName_52"] = "New Static Object #006",
+    ["DictKey_UnitName_60"] = "New Static Object #010",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_descriptionText_67"] = "このレッスンでは飛行操作とウェイポイント間の航行の基本を学習します。\
+\
+使用するキーボードキー\
+\
+コクピットライト：L\
+エアブレーキ開閉：B\
+ラダー左：Z\
+ラダー右：X\
+トリム　機首上げ：RCtrl+.　（ピリオド）\
+トリム　機首下げ：RCtrl+；　（セミコロン）\
+オートパイロット\
+　　姿勢維持：LAlt+1\
+　　高度とバンク角維持：LAlt+2\
+　　水平飛行：LAlt+3\
+    気圧高度維持：LAlt+4 か　H\
+　　レーダー高度維持：LAlt+5\
+　　ルート追随：LAlt+6　か　A\
+　　オートパイロット解除：LALT+9\
+\
+マウスルックモードON/OFF：LAlt+C\
+コクピット正面：Num５\
+一時停止：Pause",
+    ["DictKey_UnitName_56"] = "New Static Object #008",
+    ["DictKey_UnitName_62"] = "New Static Object #011",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_sortie_70"] = "飛行とナビゲーション（航法）",
+    ["DictKey_GroupName_57"] = "New Static Object #009",
+    ["DictKey_GroupName_47"] = "New Static Object #004",
+    ["DictKey_20"] = "眼の前にゲート並んでいます。眼の前のゲートをくぐって下さい。\
+操縦桿を前に倒すと機首が下がり、降下します。後ろに引くと機首が上がり上昇します。これはエレベーターを操作しています。\
+\
+スロットルをつかましょう。「Page UP」、「Page Down」でスロットルを操作できます。対気速度を620Km/ｈで維持するように操作して下さい。\
+\
+注意：ゲートを通過しないとミッションが進まなくなる恐れがあります。\
+\
+準備ができたらスペースキーを押して下さい。アクティブポーズを解除します。",
+    ["DictKey_22"] = "次のゲートは左上空にあります。旋回しますのでエルロンを使い機体を傾けます（ロールさせます）。\
+操縦桿を左に倒して、優しく引いて下さい。機体が旋回します。\
+\
+次のゲートの方向を向いたら水平飛行に戻して下さい。",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_21"] = "ゲートを通過すると、遠くにある次のゲートが大きくなります。\
+\
+もし速度が速くなりすぎたら、スロットルを下げて、「B」を押してエアブレーキを展開して下さい。速度が十分に下がったら再度「B」を押して収納するのを忘れないようにして下さい。",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_GroupName_51"] = "New Static Object #006",
+    ["DictKey_25"] = "前方のゲートを通過し続けて下さい。\
+\
+前にレッスンで説明したラダーを使い、機首を左右に動かすこともできます。\
+これはヨーといいます。\
+ヨーを左に動かすには　「Z」、右に動かすには「X」",
+    ["DictKey_28"] = "Su-25Tにはいくつかのオートバイロットモードがあります。\
+\
+これらは長時間の飛行において非常に役に立ちます。\
+\
+オートパイロットには以下のものがあります。\
+\
+　　姿勢維持：LAlt+1 \
+　　高度とバンク角維持：LAlt+2\
+　　水平飛行：LAlt+3\
+　　気圧高度維持：LAlt+4　、H\
+　　レーダー高度維持：LAlt+5\
+　　ルート追随：LAlt+6,　A\
+　　オートパイロット解除：LALT+9\
+\
+ルート追随モード「A」と姿勢維持モード「H」はトグル操作でOn/Offが可能です\
+\
+ルート追随モードを試してみましょう。「LAｌｔ＋６」を押すと、自動で飛行ルートを飛行してくれます。",
+    ["DictKey_17"] = "あなたの高度はHUDの右上のメートルで表示されています。\
+\
+数字の右に[R]の表示がある場合はレーダー高度になります。レーダー高度は地上高度であり気圧高度（海抜高度）ではありません。\
+\
+[R]の表示がない場合は気圧高度を示します。\
+\
+高度表示の上にある少し小さめの数字は現在の飛行ルートに指定されている気圧高度が表示されています。（この高度で飛行して下さい。）\
+\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_UnitName_58"] = "New Static Object #009",
+    ["DictKey_UnitName_44"] = "New Static Object #002",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_19"] = "前面計器盤の中央下部にはコンパスに似た HSI があります。\
+\
+黄色の針（ベアリングポインター）は次のウェイポイントの方向を示します。\
+左上の数字は次のウェイポイントまでの距離を示します。\
+右上の数字は飛行ルート（コースライン）の方位を示します。\
+２本の並行矢印（コースアロウ）は飛行ルートの方位を示します。\
+ベアリングポインターとコースアロウが重なっている時、あなたは飛行ルート上を飛行しています。\
+\
+マニュアルP11参照\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_UnitName_54"] = "New Static Object #007",
+    ["DictKey_UnitName_36"] = "Unit #1",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_GroupName_45"] = "New Static Object #003",
+    ["DictKey_UnitName_66"] = "New Static Object #013",
+    ["DictKey_GroupName_32"] = "Helo",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_UnitName_64"] = "New Static Object #012",
+    ["DictKey_descriptionRedTask_68"] = "ゲートを通過して下さい",
+    ["DictKey_GroupName_37"] = "New Vehicle Group #001",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_UnitName_33"] = "Pilot #002",
+    ["DictKey_UnitName_34"] = "Pilot #001",
+    ["DictKey_UnitName_42"] = "New Static Object #001",
+    ["DictKey_GroupName_30"] = "Player",
+    ["DictKey_27"] = "HUDの右下には次のウェイポイントの番号が表示されています。\
+今の場合、１５が表示されています。",
+    ["DictKey_GroupName_49"] = "New Static Object #005",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_GroupName_65"] = "New Static Object #013",
+    ["DictKey_29"] = "よくできました\
+機体は今、自動操縦で飛行しています。\
+\
+このレッスンはこれで終了です。\
+\
+他のオートパイロットモードを試してみても良いでしょうし、\
+「ESC」を押してレッスンを終了してもらっても構いません。\
+\
+オートパイロットについてはマニュアルP１８を参照して下さい。\
+\
+　　姿勢維持：LAlt+1 \
+　　高度とバンク角維持：LAlt+2\
+　　水平飛行：LAlt+3\
+　　気圧高度維持：LAlt+4　、H\
+　　レーダー高度維持：LAlt+5\
+　　ルート追随：LAlt+6,　A\
+　　オートパイロット解除：LALT+9",
+    ["DictKey_UnitName_48"] = "New Static Object #004",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_UnitName_38"] = "Unit #001",
+    ["DictKey_UnitName_50"] = "New Static Object #005",
+    ["DictKey_24"] = "正面にある次のゲートを通過して下さい。\
+速度を上げると、機首は上を向こうとします。\
+速度を下げると、機首は下を向こうとします。\
+機首が水平になるようにトリムをつかましょう。\
+\
+機首上げトリム：RCｔｒｌ＋．　（ピリオド）\
+機首下げトリム：RCｔｒｌ＋；    （セミコロン）",
+    ["DictKey_UnitName_31"] = "Player",
+    ["DictKey_26"] = "HUDの中央下部には次のウェイポイントまでの距離（Km)が表示されています。",
+    ["DictKey_GroupName_59"] = "New Static Object #010",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_GroupName_39"] = "New Static Object",
+    ["DictKey_GroupName_61"] = "New Static Object #011",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_descriptionBlueTask_69"] = "",
+    ["DictKey_GroupName_55"] = "New Static Object #008",
+    ["DictKey_GroupName_35"] = "New Vehicle Group",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_GroupName_53"] = "New Static Object #007",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_23"] = "次のゲートは右下にあります。\
+今回は機首を下げて降下しつつ、右に機体をロールさせて下さい。\
+次のゲートを目指します。",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_UnitName_46"] = "New Static Object #003",
+    ["DictKey_UnitName_40"] = "New Static Object",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_16"] = "ようこそSu-25Tの飛行と航行の基本レッスンへ\
+このレッスンではA地点からZ地点までの間の全ての通過地点の移動方法を説明します。\
+\
+現在アクティブポーズ中です。（機体は静止していますが、機器の操作は可能です。）\
+\
+必要であれば「L」を押してコクピットライトを点灯して下さい。\
+\
+あなたの対気速度はHUDの左上に表示されています。対気速度のすぐ下に横線と△が表示されていますが、これは機体の加速度を示します。△が左側にある時は機体は減速しています。右側にある時は加速しています。真中にある時は定速です。\
+対気速度の上にある少し小さめの数字は航法モードにおいては現在飛行中の飛行ルートに指定された対気速度です。（この速度で飛行して下さい。）\
+\
+マニュアルのP21に詳しく解説があります。\
+\
+スペースキーを押すと次に進みます。",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_GroupName_41"] = "New Static Object #001",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_GroupName_43"] = "New Static Object #002",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_WptName_81"] = "",
+} -- end of dictionary

@@ -1,0 +1,162 @@
+dictionary = 
+{
+    ["DictKey_18"] = "これらは爆弾投下における基本的な設定事項です。\
+\
+今から、CCIPモードで爆弾を目標の投下する方法を学習しましょう。\
+\
+航法のレッスンで習ったとおり、正面のゲートを通過して下さい。\
+\
+スペースキーを押すと一時停止を解除します。",
+    ["DictKey_UnitName_52"] = "New Static Object #009",
+    ["DictKey_UnitName_67"] = "Unit #006",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_descriptionBlueTask_83"] = "",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_GroupName_49"] = "New Static Object #008",
+    ["DictKey_GroupName_65"] = "2",
+    ["DictKey_UnitName_62"] = "Unit #004",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_UnitName_32"] = "Unit #001",
+    ["DictKey_GroupName_47"] = "New Static Object #007",
+    ["DictKey_20"] = "まだ空対地モードになっていない場合は「７」を押して下さい。",
+    ["DictKey_22"] = "HUDの左サイドに沿って距離計と投下可能範囲を示す横線が表示されます。",
+    ["DictKey_GroupName_73"] = "5",
+    ["DictKey_21"] = "HUDに中心にピパーの点がついた円が見えるでしょう。これは爆撃照準です。これで爆弾投下点に狙いをつけます。\
+爆弾投下に必要な条件が整っていれば、（HUDに発射許可LAの表示がでます。）、爆弾投下時にピパーが示しているところに爆弾は投下されます。",
+    ["DictKey_GroupName_51"] = "New Static Object #009",
+    ["DictKey_25"] = "今、急降下します。\
+50-60度のアングル（HUDで確認）で降下して下さい。\
+爆撃照準を赤いスモークの場所にいる目標に重ねて下さい。\
+\
+HUD上で、上から爆撃照準に線が引かれ、LAが表示されたら「Spase」を押し続けて爆弾を投下します。\
+\
+スロットルを下げ、「B」を押してエアブレーキを展開して速度をコントロールして下さい。",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_17"] = "一回投下量を変更する時には、前面計器の左下部分にある、兵器管理パネルを見て下さい。\
+パネル上には２つのノブがあります。\
+右側のノブにはno1,no2,no4,BCEの表記があり、これはいくつの爆弾を一度に投下するかを示します。（単発、ペア、4発、全弾）\
+\
+武器管理パネルの左側のノブは投下間隔設定ノブで、「V」キーを押すことで投下間隔を設定することができます。\
+これは爆弾の投下間隔時間を決め、大きな間隔だと広範囲に投下することができます。\
+ノブでは　.1、.2、.3、.4、ЗАЛПの表記があります。数字は秒で0.1　0.2　0.3　0.4秒間隔で透過します。最後の ЗАЛП は全てが一斉に投下されます。\
+\
+「V」を押して投下間隔を切り替えてみて下さい。",
+    ["DictKey_UnitName_42"] = "New Static Object #004",
+    ["DictKey_UnitName_44"] = "New Static Object #005",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_UnitName_28"] = "Player",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_19"] = "Those are the basics of configuring your settings for bomb release. Now let's learn how to put those bombs on a target in CCIP mode. \
+\
+Using what you learned in the Navigation lessons, fly through all the gate ahead.\
+\
+Press the space bar to unpause the lesson. \
+",
+    ["DictKey_UnitName_75"] = "Unit #012",
+    ["DictKey_UnitName_54"] = "New Static Object #010",
+    ["DictKey_UnitName_36"] = "New Static Object #001",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_GroupName_45"] = "New Static Object #006",
+    ["DictKey_UnitName_66"] = "Unit #007",
+    ["DictKey_UnitName_71"] = "Unit #009",
+    ["DictKey_UnitName_64"] = "Unit #002",
+    ["DictKey_15"] = "HUD上の殆どの航法関係の情報が消え、爆撃関連のシンボルに置き換わりました。これらについてはすぐに説明します。\
+\
+今は、「D」を押して兵器を切り替えて下さい。",
+    ["DictKey_GroupName_37"] = "New Static Object #002",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_GroupName_69"] = "4",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_UnitName_34"] = "New Static Object",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_UnitName_76"] = "Unit #011",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_UnitName_68"] = "Unit #005",
+    ["DictKey_GroupName_77"] = "1",
+    ["DictKey_UnitName_48"] = "New Static Object #007",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_UnitName_79"] = "Unit #015",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_UnitName_38"] = "New Static Object #002",
+    ["DictKey_GroupName_43"] = "New Static Object #005",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_GroupName_33"] = "New Static Object",
+    ["DictKey_26"] = "よくできました、目標を爆破しました。\
+\
+追加の目標をいくつかセットし、緑のスモークで印をつけました。\
+爆撃練習を続けて頂いても構いませんし、\
+ESCを押して終了していただいても構いません。",
+    ["DictKey_UnitName_50"] = "New Static Object #008",
+    ["DictKey_GroupName_59"] = "New Static Object #013",
+    ["DictKey_GroupName_39"] = "New Static Object #003",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_UnitName_72"] = "Unit #008",
+    ["DictKey_GroupName_29"] = "New Vehicle Group",
+    ["DictKey_GroupName_55"] = "New Static Object #011",
+    ["DictKey_GroupName_35"] = "New Static Object #001",
+    ["DictKey_sortie_84"] = "無誘導爆弾　CCIPモード",
+    ["DictKey_GroupName_53"] = "New Static Object #010",
+    ["DictKey_descriptionText_81"] = "このレッスンでは無誘導爆弾をCCIP（着弾点連続計算方式）で投下する方法を学習します。\
+\
+空対地モード：７\
+１回投下数：LCtrl+Space\
+投下間隔:V\
+エアブレーキ：B\
+兵器投下：Space",
+    ["DictKey_UnitName_56"] = "New Static Object #011",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_70"] = "Unit #010",
+    ["DictKey_UnitName_74"] = "Unit #013",
+    ["DictKey_UnitName_78"] = "Unit #016",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_GroupName_31"] = "New Vehicle Group #001",
+    ["DictKey_GroupName_57"] = "New Static Object #012",
+    ["DictKey_UnitName_60"] = "New Static Object #013",
+    ["DictKey_UnitName_46"] = "New Static Object #006",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_GroupName_61"] = "3",
+    ["DictKey_UnitName_40"] = "New Static Object #003",
+    ["DictKey_23"] = "HUDの左下隅にIP GNDと表示されます。\
+これは目視での爆撃モードであることを示します。\
+\
+右下隅には B と表示されています。\
+これは爆弾が選択されていることを示します。",
+    ["DictKey_UnitName_80"] = "Unit #014",
+    ["DictKey_14"] = "このレッスンでは、着弾点連続計算方式（CCIP)での無誘導爆弾の投下方法を学習します。\
+Su-25Tでの無誘導爆弾には FAB-100, FAB-250, FAB-500, RBKクラスター爆弾, BetAB 貫通爆弾などがあります。\
+今回は、FAB-100ラックが２つとと大型のFAB-500を２発搭載しています。\
+FAB爆弾は高爆発性の弾頭を持ち数字は爆弾の重量（Kg)を示します。\
+\
+現在アクティブポーズ中です。\
+\
+まずはじめに空対地モードにしましょう。\
+「７」を押して下さい。\
+",
+    ["DictKey_16"] = "兵器を切り替えると時に、前面計器の中央下部にある武器情報パネルを見て下さい。\
+翼の形をした黒いパネルです。2列のライトが並んでいます。\
+黄色いライトの上の列は、兵器などが取り付けてあるステーションを示します。\
+緑のライトの下列は、現在選択中の兵器の取り付けてあるステーションを示します。\
+\
+パネルの右上隅には、Б (B) の文字が表示されています。これは選択している兵器の種類を示します。（Bは爆弾です。）、同じものがHUDの右下隅にも表示されています。\
+\
+「LCtrl+Space」を押すと一度に投下する兵器の量を切り替えることができます。言い換えると、発射ボタンを一回押すごとにいくつの兵器を投下するかを設定します。これを切り替えてみて下さい。",
+    ["DictKey_UnitName_63"] = "Unit #003",
+    ["DictKey_GroupName_41"] = "New Static Object #004",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_24"] = "前方、機首の下方に目標のトラックを配置しました。赤いスモークでマーキングしています。\
+これが目標です。\
+\
+次のゲートを通過したら、急いで目標に向けて急降下して下さい。",
+    ["DictKey_descriptionRedTask_82"] = "無誘導爆弾を使用して赤いスモークでマーキングしたターゲットを破壊して下さい。",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_UnitName_30"] = "Unit #1",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_UnitName_58"] = "New Static Object #012",
+    ["DictKey_GroupName_27"] = "Player",
+    ["DictKey_WptName_101"] = "",
+} -- end of dictionary

@@ -1,0 +1,118 @@
+dictionary = 
+{
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_2"] = "レーザー誘導ミサイルの練習にこのミッションを使って下さい。\
+\
+練習用にWP3にターゲットを並べています。",
+    ["DictKey_UnitName_52"] = "Unit #8",
+    ["DictKey_GroupName_42"] = "New Static Object #013",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_UnitName_19"] = "New Static Object #001",
+    ["DictKey_sortie_59"] = "レーザー誘導ミサイルの練習",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_GroupName_8"] = "New Airplane Group",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_UnitName_29"] = "New Static Object #006",
+    ["DictKey_GroupName_46"] = "Trucks",
+    ["DictKey_UnitName_39"] = "New Static Object #011",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_UnitName_25"] = "New Static Object #004",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_UnitName_45"] = "New Static Object #014",
+    ["DictKey_GroupName_51"] = "Arty",
+    ["DictKey_UnitName_9"] = "Player",
+    ["DictKey_3"] = "ターゲットエリアに近づいたら、「7」を押して空対地モードにします。\
+次に「O」を押してシクヴァルセンサーをONにします。\
+\
+「D」を押して好きなミサイルを選択して下さい。",
+    ["DictKey_GroupName_44"] = "New Static Object #014",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_GroupName_10"] = "New Vehicle Group #002",
+    ["DictKey_UnitName_47"] = "Unit #4",
+    ["DictKey_GroupName_28"] = "New Static Object #006",
+    ["DictKey_GroupName_32"] = "New Static Object #008",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_UnitName_13"] = "Unit #10",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_UnitName_43"] = "New Static Object #013",
+    ["DictKey_UnitName_33"] = "New Static Object #008",
+    ["DictKey_GroupName_14"] = "New Vehicle Group #003",
+    ["DictKey_GroupName_30"] = "New Static Object #007",
+    ["DictKey_UnitName_49"] = "Unit #2",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_descriptionRedTask_57"] = "WP4の目標を破壊して下さい。",
+    ["DictKey_UnitName_48"] = "Unit #3",
+    ["DictKey_UnitName_21"] = "New Static Object #002",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_UnitName_31"] = "New Static Object #007",
+    ["DictKey_UnitName_35"] = "New Static Object #009",
+    ["DictKey_GroupName_20"] = "New Static Object #002",
+    ["DictKey_GroupName_40"] = "New Static Object #012",
+    ["DictKey_UnitName_54"] = "Unit #6",
+    ["DictKey_UnitName_55"] = "Unit #5",
+    ["DictKey_UnitName_53"] = "Unit #7",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_GroupName_12"] = "New Vehicle Group #001",
+    ["DictKey_GroupName_38"] = "New Static Object #011",
+    ["DictKey_UnitName_27"] = "New Static Object #005",
+    ["DictKey_7"] = "砲兵部隊は破壊されました。",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_UnitName_41"] = "New Static Object #012",
+    ["DictKey_GroupName_18"] = "New Static Object #001",
+    ["DictKey_5"] = "「＝」,「ー」でズームレベルを調整して、「, . / ;」を使用してターゲットカーソルを移動します。\
+\
+カーソルをターゲットに重ねて「ENTER」を押してカーソルをその位置に固定します。\
+必要であればカーソルサイズを変更してターゲットをロックして下さい。「＝」,「ー」でズームレベルを調整して、「, . / ;」を使用してターゲットカーソルを移動します。",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_GroupName_34"] = "New Static Object #009",
+    ["DictKey_UnitName_50"] = "Unit #1",
+    ["DictKey_UnitName_15"] = "Unit #11",
+    ["DictKey_descriptionText_56"] = "1- 離陸\
+2- WP3付近の地上目標を発見\
+3- 地上目標を破壊\
+4- 空港に着陸\
+\
+詳細な手順については、トレーニングミッションとマニュアルを参照して下さい。\
+\
+使用するキー\
+\
+航法モード：１\
+ウェイポイント変更：LCTrl+` (日本語キーボードでは入力不可）\
+ディスプレイ倍率UP：＝ (日本語キーボードでは入力不可）\
+ディスプレイ倍率UP：ー\
+空対地モード：７\
+レーザー照射：RShift+O\
+兵器選択：D\
+カーソルUP：　；\
+カーソルDOWN：　.\
+カーソル左：　,\
+カーソル右：　/\
+カーソル固定：　Enter\
+兵器発射：Space",
+    ["DictKey_GroupName_36"] = "New Static Object #010",
+    ["DictKey_GroupName_26"] = "New Static Object #005",
+    ["DictKey_UnitName_37"] = "New Static Object #010",
+    ["DictKey_UnitName_17"] = "New Static Object",
+    ["DictKey_descriptionBlueTask_58"] = "",
+    ["DictKey_GroupName_16"] = "New Static Object",
+    ["DictKey_GroupName_24"] = "New Static Object #004",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_GroupName_22"] = "New Static Object #003",
+    ["DictKey_4"] = "射程圏内に入りLAと表示されたら、「RShift+O」を押してレーザーをオンにします。\
+\
+「Space」を押してミサイルを発射してください。",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_UnitName_11"] = "Unit #9",
+    ["DictKey_6"] = "トラックの集団は破壊されました",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_UnitName_23"] = "New Static Object #003",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_WptName_85"] = "",
+} -- end of dictionary

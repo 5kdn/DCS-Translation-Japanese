@@ -1,0 +1,15 @@
+LocalizationTbl = {
+["Su-25T - Anti-Radar Missiles Practice.miz"] = _("アンチレーダーミサイル練習"),
+["Su-25T - Bombing Range.miz"] = _("Bombing Range"),
+["Su-25T - Bridge Busters.miz"] = _("Bridge Busters"),
+["Su-25T - Close Down Kopitnari.miz"] = _("Close Down Kopitnari"),
+["Su-25T - Command post strike.miz"] = _("コマンドポストストライク"),
+["Su-25T - Guns and Rockets Practice.miz"] = _("機関砲とロケット練習"),
+["Su-25T - Laser Guided Missile Practice.miz"] = _("レーザー誘導ミサイル練習"),
+["Su-25T - Long day.miz"] = _("長い一日"),
+["Su-25T - Night Raiders.miz"] = _("Night Raiders"),
+["Su-25T - Presents.miz"] = _("プレゼント"),
+["Su-25T - Ramp Start and Navigation.miz"] = _("スタートアップとナビゲーション"),
+["Su-25T - TV Guided Bombs and Missiles Practice.miz"] = _("TV誘導爆弾とミサイル練習"),
+["Su-25T - Unguided Bombs Practice.miz"] = _("無誘導爆弾練習"),
+}
