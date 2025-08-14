@@ -1,0 +1,439 @@
+dictionary = 
+{
+    ["DictKey_180"] = "方位 210, angels 8 at 280 knotsで飛行してください。.",
+    ["DictKey_WptName_309"] = "",
+    ["DictKey_WptName_314"] = "",
+    ["DictKey_189"] = "良いですよ。レジーエイトの中間点で水平飛行で開始高度以上でした。",
+    ["DictKey_WptName_310"] = "",
+    ["DictKey_199"] = "両方のエンジンが停止しました。\
+\
+では、ブリーフィングで指定した緊急代替飛行場に向かって操縦し、滑走路に着陸してください。\
+\
+私が、現地管制に着陸の許可を取っておきました。\
+\
+ハードデッキ制限を解除します。\
+\
+安全な着陸が不可能と判断した場合の脱出を許可します。\
+\
+グッドラック！",
+    ["DictKey_GroupName_253"] = "FARP-Chopper-1",
+    ["DictKey_WptName_272"] = "",
+    ["DictKey_UnitName_251"] = "Unit #2",
+    ["DictKey_ActionRadioText_328"] = "COLT 1-1, COPY",
+    ["DictKey_177"] = "良いでしょう。. レベルオフ（水平飛行）に戻って結構です。 スパイラルダイブを完了させました。",
+    ["DictKey_GroupName_230"] = "Batumi-Static-04",
+    ["DictKey_WptName_321"] = "",
+    ["DictKey_WptName_273"] = "",
+    ["DictKey_WptName_312"] = "",
+    ["DictKey_UnitName_218"] = "Capt Pat McMillan",
+    ["DictKey_GroupName_215"] = "C130",
+    ["DictKey_GroupName_255"] = "FARP-Chopper-2",
+    ["DictKey_133"] = "方位 040 angels 10 at 220 knots.で飛行して下さい。",
+    ["DictKey_GroupName_224"] = "Batumi-Static-01",
+    ["DictKey_WptName_287"] = "",
+    ["DictKey_GroupName_244"] = "FARP-1",
+    ["DictKey_188"] = "良いですよ。旋回の中間点で90度バンクにしてください。そこから降下を開始して開始高度に戻してください。",
+    ["DictKey_WptName_298"] = "",
+    ["DictKey_120"] = "方位 040, angels 6  200 knotsで飛行してください。",
+    ["DictKey_105"] = "この訓練ミッションを使用して、検定ミッションの準備を行ってください。",
+    ["DictKey_198"] = "緊急事態をシミュレートするために、両方のエンジンを停止させます。そこから航空機を適切な着陸エリアに滑空させてください。\
+\
+では両方のエンジンを停止させてください。",
+    ["DictKey_WptName_323"] = "",
+    ["DictKey_167"] = "ディフェンシブスパイラルは、あなたのエネルギーが無い状態で敵の航空機から攻撃を受けるようなピンチから抜け出すことができます。",
+    ["DictKey_166"] = "この旋回は高度10,000ft、250KIASで行います。航空機をイニシャルポイント（スタート地点）に持っていってください。",
+    ["DictKey_175"] = "操縦桿を自分の方に引いたまま維持して下さい。",
+    ["DictKey_136"] = "次のマニューバの間に、高度と方位が急激に変化します。",
+    ["DictKey_WptName_325"] = "",
+    ["DictKey_127"] = "次のマニューバシリーズに備えて、もう少し高度が必要です。\
+\
+angels 10 まで上昇してください。",
+    ["DictKey_111"] = "方位 300, angels 6  200 knotsで飛行してください。",
+    ["DictKey_141"] = "正しくクリアリングターンを行うことができませんでした。",
+    ["DictKey_WptName_293"] = "",
+    ["DictKey_WptName_284"] = "",
+    ["DictKey_UnitName_249"] = "Capt Yves Stravinnilli",
+    ["DictKey_WptName_268"] = "",
+    ["DictKey_164"] = "方位 040,  angels 15 で速度を 220 knotsまで加速してください。.",
+    ["DictKey_WptName_289"] = "",
+    ["DictKey_UnitName_211"] = "Capt Rick Tooth \"Sabre\"",
+    ["DictKey_168"] = "この旋回は高度10,000ft、250KIASで行います。航空機をイニシャルポイント（スタート地点）に持っていってください。",
+    ["DictKey_206"] = "これが単なるシミュレーターで良かったですね。現実なら死んでしまうところでした。\
+再度POに挑戦する前に、フライトマニュアルを読んでさらに練習をすることをお勧めします。",
+    ["DictKey_121"] = "方位がずれています。040に旋回してください。",
+    ["DictKey_112"] = "方位がずれています。300に旋回してください。",
+    ["DictKey_200"] = "着陸ゾーンを外しました！",
+    ["DictKey_150"] = "予定高度の上でリカバリーできませんでした。",
+    ["DictKey_159"] = "方位 040 angels 10 at 220 knots.で飛行して下さい。",
+    ["DictKey_WptName_299"] = "",
+    ["DictKey_UnitName_241"] = "Batumi-Static-10",
+    ["DictKey_WptName_267"] = "",
+    ["DictKey_UnitName_256"] = "FARP-Chopper-2",
+    ["DictKey_GroupName_250"] = "Batumi Cars",
+    ["DictKey_GroupName_220"] = "Batumi-car",
+    ["DictKey_171"] = "ディフェンシブスパイラルは、下に落ちながら行うローリングシザースです。目的は、地面が危険なほど近くなるまでの間、敵との位置関係をずらし攻撃を受けないようにすることです。",
+    ["DictKey_UnitName_216"] = "Capt Andrew Melnyk",
+    ["DictKey_WptName_300"] = "",
+    ["DictKey_WptName_286"] = "",
+    ["DictKey_149"] = "良いですよ。予定高度の上でリカバリーできました。",
+    ["DictKey_205"] = "あなたは機体を傷付けました。",
+    ["DictKey_WptName_304"] = "",
+    ["DictKey_140"] = "良いですよ。付近の航空機を監視し、必要に応じてマニューバを中止する用意をしておいてください。",
+    ["DictKey_WptName_306"] = "",
+    ["DictKey_123"] = " 200 knotsを維持してください！",
+    ["DictKey_194"] = "最後のマニューバは、不時着（forced landing.）の練習です。",
+    ["DictKey_WptName_315"] = "",
+    ["DictKey_WptName_261"] = "",
+    ["DictKey_ActionText_329"] = "1, COPY!",
+    ["DictKey_UnitName_223"] = "Unit #3",
+    ["DictKey_132"] = "良いですよ。方位 040 angels 10 at 220 knots.を維持してください。",
+    ["DictKey_139"] = "上空と後ろの確認を行いながら90度左旋回を行ってください。（周りの安全を確認してください。）",
+    ["DictKey_160"] = "良いですよ。方位 040 angels 10 at 220 knots.を維持してください。",
+    ["DictKey_155"] = "そのまま、ピッチ角を維持して、対気速度が60knotsを下回るのを待ってください。",
+    ["DictKey_WptName_324"] = "",
+    ["DictKey_191"] = "よくできました！　コースと高度に戻りました。",
+    ["DictKey_descriptionRedTask_258"] = "",
+    ["DictKey_202"] = "すばらしいです！\
+\
+検定チェックライドの準備はできていると思います。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_196"] = "どこにいようと、できるだけ早く着陸することが優先事項です。\
+\
+航空機がまだ飛行可能であっても、いつ不時着が必要になるかは判りません。",
+    ["DictKey_WptName_278"] = "",
+    ["DictKey_134"] = "今、MOA（Miltary Operations Area）に入りました。",
+    ["DictKey_201"] = "よくできました！\
+\
+航空機を安全に着陸させることができました。",
+    ["DictKey_ActionText_326"] = "離陸を許可します。離陸滑走を始めて下さい。\
+\
+グッドラック！",
+    ["DictKey_GroupName_217"] = "F15 Flight",
+    ["DictKey_144"] = "正しくクリアリングターンを行うことができませんでした。",
+    ["DictKey_154"] = "次は、スピンを引き起こして、そこからリカバリーを行ってもらいます。\
+\
+45度の機首上げで、対気速度が60knotsを下回り、失速トーンが聞こえるまで待ってください。\
+\
+右フルラダーをあてて、操縦桿を引きます。\
+\
+ angels 9.までの水平飛行にリカバリーしてください。\
+\
+準備が良ければ始めてください。",
+    ["DictKey_129"] = "angels 10.でレベルアウト  \
+\
+方位 040 のまま、速度を 220 knots.まで上げてください。",
+    ["DictKey_WptName_318"] = "",
+    ["DictKey_179"] = "方位 210, angels 8 at 280 knotsで飛行してください。.",
+    ["DictKey_GroupName_212"] = "A-10A Flight",
+    ["DictKey_descriptionBlueTask_259"] = "1. ディフェンシブ スパイラル ダイブの実行\
+- スパイラルダイブ体制をつくる。\
+- ３週行います。各スパラルにつき2000ft降下するでしょう。\
+- 適切なリカバリ手順に沿って機体をリカバリー\
+- リカバリ後の手順を実行\
+\
+2. レジーエイト（Lazy Eight）マニューバの実行\
+- 安定したピッチとロール操作\
+- 開始と終了の高度、方位を一致させる\
+- 開始と終了の速度を一致させる\
+\
+3. 不時着（forced landing）訓練の実行\
+- 公表されている滑空速度に合わせて、維持する。\
+- 適切な着陸エリア（飛行場）を選択\
+- 選択した着陸エリアに安全に着陸できるように降下率、パターンを調整する。",
+    ["DictKey_110"] = "よくできました！ \
+方位 300, angels 6,  200 knotsを維持してください。",
+    ["DictKey_176"] = "良いですよ。10度機首下げのダイブアングルを維持して下さい。",
+    ["DictKey_186"] = "90度に達したら、降下を開始して水平飛行に戻していきます。\
+\
+このマニューバは最初のターン（左上昇旋回）を開始したときと同じ高度、同じ方向で終了する必要があります。",
+    ["DictKey_WptName_269"] = "",
+    ["DictKey_WptName_262"] = "",
+    ["DictKey_153"] = "方位 040 angels 10 at 220 knots.で飛行して下さい。",
+    ["DictKey_114"] = " 200 knotsを維持してください！",
+    ["DictKey_125"] = "angels 6 (6000ft)を維持して下さい！",
+    ["DictKey_UnitName_208"] = "Cadet John Stillman",
+    ["DictKey_GroupName_222"] = "Pilot Humvee",
+    ["DictKey_197"] = "緊急医療処置を行ったり、重大なシステム障害が発生する前に航空機を地上に降ろし、クラッシュランディングや墜落を回避するために行います。",
+    ["DictKey_UnitName_237"] = "Batumi-Static-08",
+    ["DictKey_WptName_265"] = "",
+    ["DictKey_WptName_277"] = "",
+    ["DictKey_WptName_322"] = "",
+    ["DictKey_148"] = "良いですよ。ではangels 9.までに水平飛行にリカバリーしてください。",
+    ["DictKey_131"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の高度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_117"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の高度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_156"] = "いいでしょう。では右フルラダーをあてて、操縦桿を引いてください。\
+\
+angels 9.までにリカバリーしてください。",
+    ["DictKey_WptName_285"] = "",
+    ["DictKey_173"] = "アドバンテージは、普通はより速く減速できる航空機の方にあります。オーバーシュートをさせるために、出力を切ってスピートブレーキをかけることもできます。\
+\
+もし、上手く行かなくても、ギリギリのタイミングでダイブから抜け出して、敵が地面に衝突するのを誘うことも出来ます。",
+    ["DictKey_WptName_276"] = "",
+    ["DictKey_138"] = "クリアリングターンで、活動しているエリアの安全を確認できます。\
+\
+あなたは、90度のクリアリングターンを2回行います。\
+\
+左に１回、右に１回行います。",
+    ["DictKey_135"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+許可なくMOA（Military Operations Area）から離脱しました。\
+\
+このPOを中止します！",
+    ["DictKey_192"] = "レジーエイトは成功しませんでした。\
+\
+旋回中のバンク角が足りないか、要求された方位や高度から外れました。",
+    ["DictKey_143"] = "良いですよ。付近の航空機を監視し、必要に応じてマニューバを中止する用意をしておいてください。",
+    ["DictKey_178"] = "You failed to make a successful spiral dive.\
+\
+Your bank or pitch angle was not steep enough or you exceeded the maneuver time limit.",
+    ["DictKey_WptName_266"] = "",
+    ["DictKey_128"] = "対気速度が下がりすぎています。\
+\
+ピッチ角を減らして、160knotsでの上昇を維持してください。",
+    ["DictKey_WptName_263"] = "",
+    ["DictKey_GroupName_248"] = "L-39ZA",
+    ["DictKey_126"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の高度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_sortie_260"] = "BFT06 - 高度な操縦の練習 - スパイラルダイブとレジーエイト",
+    ["DictKey_190"] = "Good.",
+    ["DictKey_165"] = "いいでしょう。方位 040,  angels 15 , 220 knotsを維持してください。",
+    ["DictKey_WptName_303"] = "",
+    ["DictKey_WptName_283"] = "",
+    ["DictKey_GroupName_246"] = "FARP-2",
+    ["DictKey_204"] = "フライトをここで終了します。\
+\
+全然だめです。\
+あなたの評価は不可（U)です。\
+\
+もっと訓練に時間をとって下さい。  \
+\
+MISSION FAILED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_descriptionText_257"] = "この訓練ミッションを使用して、検定ミッションの準備を行ってください。\
+\
+私はキャプテン リック・トースです。コールサインは「セイバー（Sabre）」です。能力目標（PO)を判定するフライト試験官（FE)です。\
+\
+これはBFT06 - 上級ハンドリング（Advanced Handling ）です。A/OA-10C基本飛行訓練検定コースの6番めのミッションです。\
+\
+あなたの評価は、A/OA-10搭乗員評価基準：AFI11-2A-OA-10V2:\
+に基づき行われます。\
+\
+エリア1.4.3　一般基準\
+\
+次の一般基準は、記載されている特定のイベントや計器ファイナルアプローチを除き、全ての飛行段階で適用されます。：\
+\
+\
+優（Q:Qualified）: 高度 +/- 200 feet.  対気速度 +/- 5%, コース +/- 5 度か 3 NM (どちらか大きい方), TACAN Arc +/- 2 NM.\
+\
+可（Q-：Qualified Minus): 高度 +/- 300 feet.  対気速度 +/- 10%, コース +/- 10 度か 5 NM (どちらか大きい方), TACAN Arc +/- 3 NM.\
+\
+不可（U:Unqualified): Q- の限界を超えた場合\
+\
+3.2.13 エリア 16 - 空中作業（Airwork） / 上級ハンドリング（Advanced Handling） / 戦術マニューバ（Tactical Maneuvering）:\
+\
+優（Qualified：Q): マニューバ中の航空機はスムーズでコントロールされている。マニューバは指示に従って、戦術状況/環境に応じで行われている。 手順に沿って行われている。\
+\
+可（Qualified Minus：Q-): マニューバ中の航空機は十分では有るが、常にスムーズでコントロールされているとは言えない。若干の手順のミスや、戦術激状況判断の欠落が有る。\
+\
+不可（Unqualified：U): 航空機のコントロールが不安定。マニューバが不十分。可（Q-）の制限を超えている。戦術状況の判断ができていない。航空機のコントロールを一時的に失っています。\
+\
+3.2.14. エリア 17 - 異常姿勢からのリカバリー：\
+\
+優（Qualified：Q): 正しいリカバリー手順で、スムーズでコントロールされた水平飛行への回復。\
+\
+可（Qualified Minus：Q-): 姿勢の判断が遅い、または水平飛行へのリカバリーが不安定。リカバリー手順は正しい。\
+\
+不可（Unqualified：U): 姿勢の判断ができていない。不適切なリカバリー手順を行っている。\
+\
+3.2.17. エリア 20 - 降下:\
+\
+優（Qualified：Q): 指示に従い、全て制限内で降下を行っている。\
+\
+可（Qualified Minus：Q-): 降下時に若干、制限を超えている。\
+\
+不可（Unqualified：U): 降下時、大幅に制限を超えている。\
+\
+3.2.21. エリア 24 - 緊急アプローチや着陸 (ロールアウトからの態勢づくり：configuration through rollout):\
+\
+優（Qualified：Q):音声警告を判断し、適切な位置/高度の確保ができています。（Configured at the appropriate position/altitude）推奨手順に基づいて、適切な対気速度、AOA、グライドパスのファイナルを行うことができます。機体をスムーズにコントールできています。安全に着陸できます。必要に応じて、脱出の準備ができています。接地点は適用するガイダンスに従っており、使用滑走路で安全に停止できています。（Touchdown point was in accordance with applicable guidance and permitted safe stopping in available runway.）\
+ \
+可（Qualified Minus：Q-): 安全は確保されています。安全にアプローチできる姿勢と高度の確保ができています。若干のズレはありますが、安全に着陸できます。\
+\
+不可（Unqualified：U): 推奨される対気速度、AOA、高度から大きく逸脱しています。判断や計画が不十分であっため、角の操縦が必要でした。安全な着陸ができませんでした。接地点が適用するガイダンスに従っておらず、使用滑走路での安全な停止ができないか、出来無さそうでした。（ Touchdown point was not in accordance with applicable guidance and did not allow or would not allow for safe stopping on available runway.）アプローチが失敗したときのために脱出の準備を行いませんでした。\
+\
+このPOは、次の上級操縦技術が必要です。クリアリングターン、異常な姿勢（スピンや失速）からのリカバリー、ディフェンシブスパイラルダイブ（Defensive Spiral Dive）の実行、レイジーエイト（Lazy Eight）の実行、エンジン無しでの着陸の実行。\
+\
+これは、MOA（Military Operations Area：軍事作戦エリア）内で行います。許可なくMOA外に迷い込まなようにしてください。\
+\
+着陸のパターン高度は2500ftです。\
+\
+ハードデッキ制限は5000ftです。制限が解除されないうちはこの制限を破らないでください。\
+\
+これは空中スタートの訓練ミッションです。検定チェックライドの準備に使用してください。\
+\
+HOTASは必要に応じて設定してください。\
+\
+グッドラック！\
+\
+ミッション成功基準：\
+説明された飛行計画に沿って飛んでください。\
+指示に従ってマニューバを完了させてください。\
+グライドスロープとAOA対気速度を維持してアプローチと着陸を行ってください。\
+駐機して、シャットダウンチェックリスト手順を行ってください。",
+    ["DictKey_GroupName_236"] = "Batumi-Static-08",
+    ["DictKey_108"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+ハードデッキ制限を破りました！\
+\
+POを中止します。",
+    ["DictKey_137"] = "このエリアに他の航空機がいないことと、空中衝突の危険性が無いこと素早く確認して警戒する必要があります。",
+    ["DictKey_187"] = "このマニューバは90秒以内に完了させてください。\
+\
+では、開始！",
+    ["DictKey_UnitName_221"] = "Batumi-car",
+    ["DictKey_162"] = "次のマニューバはディフェンシブ スパライルダイブです。\
+高度が必要なので、angels 15 まで上昇してください。",
+    ["DictKey_GroupName_240"] = "Batumi-Static-10",
+    ["DictKey_WptName_288"] = "",
+    ["DictKey_174"] = "機首を下げて、左スパイラルダイブを始めて下さい。\
+\
+60度バンク角と10度機首下げ姿勢を維持して下さい。\
+\
+2分間の間に、この手順を完了させてください。\
+完了の合図は私が出します。\
+\
+それでは、開始！",
+    ["DictKey_106"] = "方位 300, angels 6  200 knotsで飛行してください。",
+    ["DictKey_109"] = "angels 6に近づきました。レベルアウトして 200 knotsを維持してください。",
+    ["DictKey_UnitName_245"] = "FARP-1",
+    ["DictKey_161"] = "方位 040 angels 10 at 220 knots.で飛行して下さい。",
+    ["DictKey_169"] = "このマニューバは旋回しながら機首を下げ、スパイラルダイブに入ります。位置エネルギーを利用して回避行動に必要な速度エネルギーを得ます。",
+    ["DictKey_WptName_308"] = "",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_118"] = "右旋回して 040へ。angels 6 at 200 knotsは維持してください。.",
+    ["DictKey_147"] = "スロットルをIDLEにして、対気速度とエアフロー（airflow ）が増加したらスロットルを上げていきます。",
+    ["DictKey_UnitName_243"] = "Batumi-Static-11",
+    ["DictKey_WptName_281"] = "",
+    ["DictKey_WptName_320"] = "",
+    ["DictKey_UnitName_219"] = "Col John Casey",
+    ["DictKey_172"] = "この旋回は高度10,000ft、250KIASで行います。航空機をイニシャルポイント（スタート地点）に持っていってください。",
+    ["DictKey_115"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の速度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_UnitName_247"] = "FARP-2",
+    ["DictKey_GroupName_242"] = "Batumi-Static-11",
+    ["DictKey_158"] = "予定高度の上でリカバリーできませんでした。",
+    ["DictKey_UnitName_227"] = "Batumi-Static-02",
+    ["DictKey_185"] = "開始時点の高度に戻したら、先程と同じ手順で、右への上昇旋回を開始して下さい。",
+    ["DictKey_GroupName_228"] = "Batumi-Static-03",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_146"] = "そのまま、ピッチ角を維持して、対気速度が60knotsを下回るのを待ってください。",
+    ["DictKey_193"] = "方位 210, angels 10 at 220 knots.で飛行してください。",
+    ["DictKey_119"] = "良いですよ。方位 040, angels 6 at 200 knotsを維持してください。",
+    ["DictKey_113"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）のコース制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_UnitName_214"] = "Lt. George Ramirez",
+    ["DictKey_203"] = "よくできました！\
+\
+検定は通過できるでしょうが、もう少し練習を繰り返して、完璧にすべきでしょう。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_UnitName_233"] = "Batumi-Static-06",
+    ["DictKey_UnitName_225"] = "Batumi-Static-01",
+    ["DictKey_UnitName_235"] = "Batumi-Static-07",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_UnitName_239"] = "Batumi-Static-09",
+    ["DictKey_GroupName_234"] = "Batumi-Static-07",
+    ["DictKey_WptName_297"] = "",
+    ["DictKey_GroupName_232"] = "Batumi-Static-06",
+    ["DictKey_107"] = "ハードデッキ制限が有効です。 \
+\
+制限が解除されないうちは、angels 5 を下回らないでください。",
+    ["DictKey_WptName_296"] = "",
+    ["DictKey_GroupName_207"] = "COLT 1",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_WptName_270"] = "",
+    ["DictKey_GroupName_210"] = "FE",
+    ["DictKey_195"] = "これは、機械的な問題や、体調、天候不良により緊急着陸を余儀なくされた時に行います。",
+    ["DictKey_124"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の速度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_UnitName_213"] = "Capt Frank Simzer",
+    ["DictKey_UnitName_254"] = "FARP-Chopper-1",
+    ["DictKey_WptName_274"] = "",
+    ["DictKey_WptName_313"] = "",
+    ["DictKey_122"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）のコース制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_157"] = "良いですよ。予定高度の上でリカバリーできました。",
+    ["DictKey_GroupName_226"] = "Batumi-Static-02",
+    ["DictKey_WptName_279"] = "",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_UnitName_209"] = "Player",
+    ["DictKey_183"] = "絶えず操縦桿を調整し、マニューバのどの段階にいるのかに絶えず注意してください。",
+    ["DictKey_WptName_316"] = "",
+    ["DictKey_WptName_305"] = "",
+    ["DictKey_142"] = "次は右90度旋回を行い、上空と後ろを確認してください。（周りの安全を確認してください。）",
+    ["DictKey_151"] = "方位 040 angels 10 at 220 knots.で飛行して下さい。",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_181"] = "よくできました。方位 210, angels 8 at 280 knots.を維持してください。",
+    ["DictKey_WptName_311"] = "",
+    ["DictKey_163"] = "対気速度が下がりすぎています。\
+\
+ピッチ角を減らして、160knotsでの上昇を維持してください。",
+    ["DictKey_170"] = "この旋回は高度10,000ft、250KIASで行います。航空機をイニシャルポイント（スタート地点）に持っていってください。",
+    ["DictKey_WptName_280"] = "",
+    ["DictKey_184"] = "直線水平飛行を行います。次に、降下して速度を上げてからマニューバに入ります。\
+\
+操縦桿をやや引いて、左へのロールを開始します。これにより上昇左旋回に入ります。\
+\
+90度旋回するまで、バンク角を徐々に大きくします（90度バンク）。90度旋回したら今度は操縦桿を押して機首を下げ、降下左旋回に入ります。さらに90度旋回（スタートから180度）するまでにバンク角を徐々に戻し、90度旋回（スタートから180度）した所で水平飛行に戻します。",
+    ["DictKey_152"] = "良いですよ。方位 040 angels 10 at 220 knots.を維持してください。",
+    ["DictKey_WptName_319"] = "",
+    ["DictKey_WptName_307"] = "",
+    ["DictKey_WptName_275"] = "",
+    ["DictKey_WptName_282"] = "",
+    ["DictKey_UnitName_231"] = "Batumi-Static-04",
+    ["DictKey_WptName_302"] = "",
+    ["DictKey_WptName_317"] = "",
+    ["DictKey_182"] = "次に行うマニューバはレジーエイト（Lazy Eight）です。\
+\
+機動中に速度変化をしながら、上昇旋回と下降旋回を行います。",
+    ["DictKey_WptName_264"] = "",
+    ["DictKey_UnitName_252"] = "Unit #1",
+    ["DictKey_130"] = "angels 10に上昇してください！",
+    ["DictKey_WptName_271"] = "",
+    ["DictKey_UnitName_229"] = "Batumi-Static-03",
+    ["DictKey_GroupName_238"] = "Batumi-Static-09",
+    ["DictKey_116"] = "angels 6 (6000ft)を維持して下さい！",
+    ["DictKey_145"] = "今から、機体を失速させ、そこからのリカバリーを行います。\
+\
+45度機首上げを行ってください。対気速度が60knotsを下回り、失速トーンが聞こえるまで続けます。\
+\
+ angels 9.に落ちるまでに、水平飛行に戻してください。\
+\
+準備が良ければ始めてください。",
+} -- end of dictionary

@@ -1,0 +1,555 @@
+dictionary = 
+{
+    ["DictKey_WptName_377"] = "",
+    ["DictKey_WptName_309"] = "",
+    ["DictKey_WptName_314"] = "",
+    ["DictKey_WptName_401"] = "",
+    ["DictKey_GroupName_226"] = "Static Soldier #009",
+    ["DictKey_GroupName_198"] = "New Static Object #002",
+    ["DictKey_UnitName_233"] = "Static Yak-40",
+    ["DictKey_descriptionText_236"] = "私はキャプテン リック・トースです。コールサインは「セイバー（Sabre）」です。能力目標（PO)を判定するフライト試験官（FE)です。\
+\
+このPOはBFT01ー地上での取扱（Ground Handling)で、A/OA-10Cの基本飛行訓練検定コースの最初のミッションとなります。\
+\
+あなたの評価は、A/OA-10搭乗員評価基準：AFI11-2A-OA-10V2:\
+に基づき行われます。\
+\
+3.2.3. エリア３離陸前：\
+\
+優（Qualified：Q): ステーションとの交信の確立と継続。エンジン始動、タキシング、離陸開始までのプレフライトチェック（個人装備チェック、クルーとのブリーフィング、など）を行います。機体を正常に飛行できる状態にします。離陸前に承認されたチェックリストにによるチェックと指示に該当する必要手順を全て行います。\
+\
+可（Qualified Minus ：Q-): 上記と同じですが、ミッションの有効性を損なうことのない小さなミスは許容されます。\
+\
+負荷（Unqualified：U): チェックリストの主要な項目を省略、安全なミッション遂行を妨げるような、手順の大きな逸脱。航空機を安全に飛行できる状態にできなかった。ミッションに支障をきたしたり無効にするような、離陸の遅れに直接関与する乗務員エラーを犯した\
+\
+4.2.3. エリア 201 航空機の一般知識：\
+\
+優（Q:Qualified): 航空機のシステム、限界、性能特性に関する知識を持っていることを証明しました。\
+\
+可（Q-：Qualified Minus ）: ミッションを安全に遂行するのに十分な航空機のシステム、限界、性能特性に関する知識を持っていますが、深く理解してはいません。\
+\
+負荷（Unqualified：U): 航空機のシステム、限界、性能特性に関する知識が十分ではありません。\
+\
+始動手順テストに合格するには、チェックリストに次の項目が含まれている必要があります。：\
+バッテリー電源（Battery Power）, バッテリーインバーター（Battery Inverter）をStandby, \
+シグナルライト（Signal Lights）テスト, 燃料テスト, 酸素（O2） On, 酸素（O2）テスト, テイクオフトリム（T/O Trim）テスト, 無線（Radios） On, ブーストポンプ（Boost Pumps） On, APU Off, APUジェネレーター（APU Generator） Off,\
+ACジェネレーター（AC Gen Power） On, CDU On, EGI On, CICU On, IFFCC を GUNSに, SAS On, DTS LOADALLを選択, フラップテスト（Flaps Cycled）, ピトーヒート（Pitot Heat）テスト, フライトプランを選択（Flight Plan Selected）, CMSP On, CMSP MWS On, CMSP JMR On, CMSP RWR On, CMSP DISP On, JTRS On, CDU Navを選択 EAC Armed, レーダー高度（Radar Alt） On, アンチスキッド（Anti-Skid） On, インジェクションシート（Ejection Seat） Armed.\
+\
+シャットダウン手順テストを合格するには、チェックリストに次の項目が含まれている必要があります。：\
+アンチスキッド（Anti-Skid） Off, インジェクションシート解除(Ejection Seat Disarmed), ピトーヒート（Pitot Heat） Off, TACAN Off, ILS Off, IFFCC Off, CICU Off, Left MFCD Off, Right MFCD Off, CMSP Off, Flaps Up, EGI Off, CDU Off, 左エンジンシャットダウン（Left Engine Shutdown）, 右エンジンシャットダウン（Right Engine Shutdown）, 無線（Radios） off, バッテリーインバーター（Battery Inverter） Off, バッテリー（Battery） Off, 酸素供給レバー（Oxygen Supply Lever） Off.\
+\
+機体の始動が完了したら、ハンビーに乗った私について来てください。\
+\
+ハンビーを追いかける時は、車と適切な距離を取り、HUDのピッチラダーの範囲内に収めるように操縦してください。遅れたり、近づきすぎたりすると評価に影響します。\
+\
+正しいチェックリスト手順ができているか、グランドハンドリングの技術があるかなどを検査します。\
+\
+\
+では始めましょう。\
+\
+ミッション成功基準：\
+スタートアップチェックリスト手順が正しく行える。\
+ハンビーに適切な距離でついていく、障害物を避ける\
+シャットダウンチェックリスト手順を正しく行える。",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_WptName_272"] = "",
+    ["DictKey_ActionText_416"] = "この機体には、「Warthog」や「Hog」というニックネームが付けられています。\
+\
+ブサイクですが仕事は完璧に行います。",
+    ["DictKey_GroupName_214"] = "Static Soldier #005",
+    ["DictKey_WptName_446"] = "",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_110"] = "ここでフライトを終了します。\
+\
+おめでとうございます。このPOをパスしました。\
+\
+あなたの評価は優（Q)です。よくやりました。\
+\
+次の検定ミッションに備えてバトゥミに戻りましょう。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_WptName_247"] = "",
+    ["DictKey_sortie_239"] = "BFT01 - グラウンドハンドリング検定",
+    ["DictKey_GroupName_212"] = "Static Soldier #004",
+    ["DictKey_93"] = "スピードアップ！、遅れています！",
+    ["DictKey_100"] = "機体をここに駐機してください。\
+\
+シャットダウン手順を２分で完了させてください。",
+    ["DictKey_GroupName_200"] = "New Static Object #001",
+    ["DictKey_WptName_287"] = "",
+    ["DictKey_ActionText_415"] = "古いA-10Aの全ての機能を継承しつつ、A-10Cには、最新のナビゲーションシステム、精密攻撃武器（マーベリック、JDAM、WCMD、レーザー誘導爆弾）、統合型カウンターメジャーシステムなどを搭載し、真の精密攻撃戦闘機に生まれ変わりました。",
+    ["DictKey_WptName_260"] = "",
+    ["DictKey_WptName_240"] = "",
+    ["DictKey_WptName_456"] = "",
+    ["DictKey_WptName_347"] = "",
+    ["DictKey_WptName_397"] = "",
+    ["DictKey_99"] = "良いでしょう！",
+    ["DictKey_GroupName_392"] = "",
+    ["DictKey_136"] = "チェックリストの項目でミスがあります。\
+\
+CMSP JMR.をONにしませんでした。",
+    ["DictKey_132"] = "チェックリストの項目でミスがあります。\
+\
+フラップのテストを行いませんでした。",
+    ["DictKey_111"] = "",
+    ["DictKey_WptName_293"] = "",
+    ["DictKey_92"] = "上手く行っています！",
+    ["DictKey_GroupName_216"] = "Static Soldier #006",
+    ["DictKey_WptName_289"] = "",
+    ["DictKey_ActionText_372"] = "エンジンが動いたら、フライトコントロール、フラップ、エアブレーキのテストをしてください。ナビゲーションライトのテストも忘れないようにしてください。",
+    ["DictKey_150"] = "チェックリストの項目でミスがあります。\
+\
+CICUをOFFにしませんでした。",
+    ["DictKey_159"] = "チェックリストの項目でミスがあります。\
+\
+バッテリーインバーター（battery inverter）をOFFにしませんでした。 battery inverter.",
+    ["DictKey_UnitName_183"] = "Transport 1",
+    ["DictKey_WptName_268"] = "",
+    ["DictKey_ActionText_366"] = "COLT 1-1, COLT 1-2, 無線チェック！\
+\
+**ラジオメニューF10でCOPYしてください。**",
+    ["DictKey_GroupName_220"] = "Static Soldier #007",
+    ["DictKey_137"] = "チェックリストの項目でミスがあります。\
+\
+CMSP RWR.をONにしませんでした。",
+    ["DictKey_WptName_286"] = "",
+    ["DictKey_WptName_304"] = "",
+    ["DictKey_140"] = "チェックリストの項目でミスがあります。\
+\
+CDU を Nav.にセットしませんでした。",
+    ["DictKey_ActionRadioText_369"] = "COLT 1-1, COPY",
+    ["DictKey_WptName_315"] = "",
+    ["DictKey_GroupName_165"] = "HAWG 1",
+    ["DictKey_UnitName_175"] = "WO Henry Dogget",
+    ["DictKey_155"] = "チェックリストの項目でミスがあります。\
+\
+EGIをOFFにしませんでした。",
+    ["DictKey_102"] = "シャットダウン手順を確認します…",
+    ["DictKey_116"] = "チェックリストの項目でミスがあります。\
+\
+酸素供給（oxygen supply.）をONにしませんでした。",
+    ["DictKey_95"] = "常にランウェイ上の航空機に注意を払ってください。",
+    ["DictKey_WptName_244"] = "",
+    ["DictKey_ActionText_433"] = "準備ができたら知らせてください。検定を始めます。\
+\
+全て終わりまで、私は待ちます。ただし、開始してから１５分間以内にお願いします。",
+    ["DictKey_GroupName_194"] = "Static Fuel Truck 4",
+    ["DictKey_UnitName_201"] = "Static Fuel Truck 3 ",
+    ["DictKey_114"] = "チェックリストの項目でミスがあります。\
+\
+シグナルライト（signal lights）のテストを行いませんでした。",
+    ["DictKey_125"] = "チェックリストの項目でミスがあります。\
+\
+ACジェネレーター（AC Generator）をONにしませんでした。",
+    ["DictKey_UnitName_169"] = "Lt Keith Maxwell",
+    ["DictKey_WptName_263"] = "",
+    ["DictKey_WptName_333"] = "",
+    ["DictKey_descriptionRedTask_237"] = "",
+    ["DictKey_WptName_279"] = "",
+    ["DictKey_131"] = "チェックリストの項目でミスがあります。\
+\
+DTSアップロード（DTS upload）を行いませんでした。.",
+    ["DictKey_WptName_348"] = "",
+    ["DictKey_156"] = "チェックリストの項目でミスがあります。\
+\
+CDUをOFFにしませんでした。",
+    ["DictKey_WptName_350"] = "",
+    ["DictKey_ActionText_408"] = "",
+    ["DictKey_135"] = "チェックリストの項目でミスがあります。\
+\
+CMSP MWSをONにしませんでした。",
+    ["DictKey_143"] = "チェックリストの項目でミスがあります。\
+\
+アンチスキッド（Anti-Skid）をONにしませんでした。",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_WptName_251"] = "",
+    ["DictKey_GroupName_173"] = "AH-1Ws",
+    ["DictKey_GroupName_196"] = "Static Humvee 1",
+    ["DictKey_WptName_404"] = "",
+    ["DictKey_WptName_326"] = "",
+    ["DictKey_UnitName_393"] = "",
+    ["DictKey_UnitName_213"] = "Static Soldier #004",
+    ["DictKey_WptName_288"] = "",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_106"] = "あなたは機体を傷付けました。",
+    ["DictKey_WptName_254"] = "",
+    ["DictKey_WptName_450"] = "",
+    ["DictKey_WptName_334"] = "",
+    ["DictKey_WptName_258"] = "",
+    ["DictKey_GroupName_186"] = "Fuel Truck #003",
+    ["DictKey_ActionText_380"] = "手順通りでなくても心配無用です。\
+\
+全てのボタンとスイッチが正しい位置に有ることを確認するだけです。",
+    ["DictKey_103"] = "シャットダウンはできています。",
+    ["DictKey_WptName_329"] = "",
+    ["DictKey_GroupName_206"] = "Static Soldier #003",
+    ["DictKey_GroupName_208"] = "Static Humvee #001",
+    ["DictKey_UnitName_215"] = "Static Soldier #005",
+    ["DictKey_WptName_354"] = "",
+    ["DictKey_UnitName_225"] = "Static Soldier #008",
+    ["DictKey_97"] = "右に飛行を確認！\
+\
+あのヘリはどこに向かっているのでしょう？",
+    ["DictKey_GroupName_178"] = "FE Humvee",
+    ["DictKey_WptName_440"] = "",
+    ["DictKey_GroupName_234"] = "Static Yak-40 1",
+    ["DictKey_WptName_328"] = "",
+    ["DictKey_GroupName_218"] = "New Static Object",
+    ["DictKey_UnitName_203"] = "Static Soldier #001",
+    ["DictKey_147"] = "チェックリストの項目でミスがあります。\
+\
+TACANをOFFにしませんでした。",
+    ["DictKey_GroupName_228"] = "Static Soldier #010",
+    ["DictKey_ActionRadioText_432"] = "準備ができました。スタートアップを始めましょう。",
+    ["DictKey_ActionRadioText_443"] = "",
+    ["DictKey_WptName_274"] = "",
+    ["DictKey_WptName_452"] = "",
+    ["DictKey_157"] = "チェックリストの項目でミスがあります。\
+\
+左エンジンをシャットダウンしませんでした。",
+    ["DictKey_WptName_316"] = "",
+    ["DictKey_117"] = "チェックリストの項目でミスがあります。\
+\
+酸素計のテスト（oxygen supply test）を行いませんでした。",
+    ["DictKey_151"] = "チェックリストの項目でミスがあります。\
+\
+左MFCDをOFFにしませんでした。",
+    ["DictKey_ActionText_378"] = "飛行前点検のチェックリストを覚えていますか？",
+    ["DictKey_WptName_280"] = "",
+    ["DictKey_152"] = "チェックリストの項目でミスがあります。\
+\
+右MFCDをOFFにしませんでした。",
+    ["DictKey_WptName_307"] = "",
+    ["DictKey_160"] = "チェックリストの項目でミスがあります。\
+\
+バッテリ（battery.）をOFFにしませんでした。",
+    ["DictKey_WptName_282"] = "",
+    ["DictKey_ActionText_370"] = "1, COPY!",
+    ["DictKey_WptName_400"] = "",
+    ["DictKey_112"] = "チェックリストの項目でミスがあります。\
+\
+バッテリー（battery.）をONにしませんでした。",
+    ["DictKey_113"] = "チェックリストの項目でミスがあります。\
+\
+バッテリーインバーター（battery inverter.）をONにしませんでした。",
+    ["DictKey_84"] = "チェックリストは省略しないでください！\
+\
+能力検定をパスするには、機体が完全に任務遂行可能な状態になっている必要があります！",
+    ["DictKey_GroupName_184"] = "Fuel Truck Moving 1",
+    ["DictKey_UnitName_193"] = "Unit #5",
+    ["DictKey_descriptionBlueTask_238"] = "グラウンドハンドリング\
+\
+1. プレフライト検査を実行する。\
+2. スタートアップチェックリスト手順を実行する\
+3. エンジン始動\
+4. 航空機を移動させる\
+5. 計器のチェックを行う\
+6. 機体を駐機させる\
+7. シャットダウンチェックリスト手順を実行する。\
+\
+**バグ？　コーションライトのEACが消えないかも知れません***",
+    ["DictKey_WptName_335"] = "",
+    ["DictKey_161"] = "チェックリストの項目でミスがあります。\
+\
+無線類をOFFにしませんでした。",
+    ["DictKey_WptName_402"] = "",
+    ["DictKey_WptName_356"] = "",
+    ["DictKey_GroupName_230"] = "AN-26B",
+    ["DictKey_86"] = "スタートアップの手順が正しかったかチェックします。",
+    ["DictKey_WptName_273"] = "",
+    ["DictKey_UnitName_197"] = "Static Humvee 1",
+    ["DictKey_WptName_241"] = "",
+    ["DictKey_101"] = "残り 30 秒！",
+    ["DictKey_GroupName_224"] = "Static Soldier #008",
+    ["DictKey_UnitName_207"] = "Static Soldier #003",
+    ["DictKey_WptName_339"] = "",
+    ["DictKey_120"] = "チェックリストの項目でミスがあります。\
+\
+VHF/FM 無線をONにしませんでした",
+    ["DictKey_105"] = "あの燃料トラックに注意して下さい！",
+    ["DictKey_WptName_323"] = "",
+    ["DictKey_WptName_346"] = "",
+    ["DictKey_WptName_248"] = "",
+    ["DictKey_UnitName_168"] = "Capt Jason Johnson",
+    ["DictKey_WptName_338"] = "",
+    ["DictKey_GroupName_180"] = "Vulcan",
+    ["DictKey_96"] = "滑走路がクリアになりました。行きましょう！",
+    ["DictKey_WptName_278"] = "",
+    ["DictKey_WptName_396"] = "",
+    ["DictKey_141"] = "チェックリストの項目でミスがあります。\
+\
+EAC.をONにしませんでした。",
+    ["DictKey_ActionRadioText_407"] = "COPY",
+    ["DictKey_WptName_284"] = "",
+    ["DictKey_WptName_331"] = "",
+    ["DictKey_WptName_403"] = "",
+    ["DictKey_UnitName_223"] = "Static Humvee #002",
+    ["DictKey_WptName_355"] = "",
+    ["DictKey_ActionText_457"] = "",
+    ["DictKey_121"] = "チェックリストの項目でミスがあります。\
+\
+UHF無線をONにしませんでした。",
+    ["DictKey_WptName_264"] = "",
+    ["DictKey_WptName_299"] = "",
+    ["DictKey_WptName_306"] = "",
+    ["DictKey_WptName_349"] = "",
+    ["DictKey_UnitName_187"] = "Unit #2",
+    ["DictKey_WptName_250"] = "",
+    ["DictKey_WptName_300"] = "",
+    ["DictKey_ActionText_444"] = "COLT 1-1, 始動の準備が整いました。",
+    ["DictKey_WptName_330"] = "",
+    ["DictKey_WptName_449"] = "",
+    ["DictKey_149"] = "チェックリストの項目でミスがあります。\
+\
+IFFCCをOFFにしませんでした。",
+    ["DictKey_162"] = "チェックリストの項目でミスがあります。\
+\
+酸素供給レバー（Oxygen Supply Lever.）をOFF（にしませんでした。",
+    ["DictKey_GroupName_190"] = "Soldier Moving #002",
+    ["DictKey_ActionText_412"] = "A-10Cは有名なA-10Cの改良型です。主要な近接航空支援機機として、アメリカ空軍や国防空軍でもう30年近く使用されています。",
+    ["DictKey_UnitName_191"] = "Unit #4",
+    ["DictKey_WptName_343"] = "",
+    ["DictKey_UnitName_199"] = "Static Fuel Truck 1",
+    ["DictKey_GroupName_202"] = "Static Soldier #001",
+    ["DictKey_WptName_332"] = "",
+    ["DictKey_UnitName_189"] = "Unit #3",
+    ["DictKey_158"] = "チェックリストの項目でミスがあります。\
+\
+右エンジンをシャットダウンしませんでした。",
+    ["DictKey_WptName_252"] = "",
+    ["DictKey_WptName_321"] = "",
+    ["DictKey_WptName_324"] = "",
+    ["DictKey_123"] = "チェックリストの項目でミスがあります。\
+\
+APUをOFFにしませんでした。",
+    ["DictKey_91"] = "スピードアップ！、遅れています！",
+    ["DictKey_UnitName_172"] = "Lt Terry Underhill",
+    ["DictKey_ActionText_361"] = "無線の電源を入れてから、タワーに連絡し、スタートアップの許可を取得してください。\
+\
+許可が出たら、スタートアップのチェックリストを実行してください。",
+    ["DictKey_WptName_340"] = "",
+    ["DictKey_UnitName_395"] = "",
+    ["DictKey_107"] = "これがシミュレーターで良かったですね。現実なら本当に死んでいたかもしれません。\
+\
+再度POを受ける前に、フライトマニュアルを学習し、もっと練習することをお勧めします。",
+    ["DictKey_UnitName_211"] = "Static A-10C #001",
+    ["DictKey_UnitName_227"] = "Static Soldier #009",
+    ["DictKey_UnitName_179"] = "Rick \"Sabre\" Tooth",
+    ["DictKey_154"] = "チェックリストの項目でミスがあります。\
+\
+フラップをUPにしませんでした。",
+    ["DictKey_WptName_266"] = "",
+    ["DictKey_WptName_318"] = "",
+    ["DictKey_WptName_325"] = "",
+    ["DictKey_83"] = "あなたの能力検定をいまから開始します。\
+\
+１５分以内に機体を始動を完了してください。",
+    ["DictKey_WptName_357"] = "",
+    ["DictKey_WptName_394"] = "",
+    ["DictKey_ActionText_390"] = "あと６０秒",
+    ["DictKey_WptName_261"] = "",
+    ["DictKey_WptName_454"] = "",
+    ["DictKey_WptName_311"] = "",
+    ["DictKey_153"] = "チェックリストの項目でミスがあります。\
+\
+CMSPをOFFにしませんでした。",
+    ["DictKey_WptName_327"] = "",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_85"] = "あと２分です！",
+    ["DictKey_UnitName_185"] = "Moving Fuel Truck",
+    ["DictKey_GroupName_176"] = "Fuel Truck #001",
+    ["DictKey_WptName_283"] = "",
+    ["DictKey_WptName_265"] = "",
+    ["DictKey_WptName_277"] = "",
+    ["DictKey_WptName_322"] = "",
+    ["DictKey_148"] = "チェックリストの項目でミスがあります。\
+\
+ISLをOFFにしませんでした。",
+    ["DictKey_WptName_455"] = "",
+    ["DictKey_UnitName_164"] = "Player",
+    ["DictKey_UnitName_171"] = "Lt Gerry Alsace",
+    ["DictKey_WptName_285"] = "",
+    ["DictKey_GroupName_192"] = "Soldier Moving #001",
+    ["DictKey_WptName_276"] = "",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_WptName_360"] = "",
+    ["DictKey_WptName_353"] = "",
+    ["DictKey_138"] = "チェックリストの項目でミスがあります。\
+\
+CMSP DISP.をONにしませんでした。",
+    ["DictKey_WptName_453"] = "",
+    ["DictKey_128"] = "チェックリストの項目でミスがあります。\
+\
+CICUをONにしませんでした。",
+    ["DictKey_WptName_337"] = "",
+    ["DictKey_126"] = "チェックリストの項目でミスがあります。\
+\
+CDUをONにしませんでした。",
+    ["DictKey_87"] = "スタートアップは良いでしょう。",
+    ["DictKey_146"] = "チェックリストの項目でミスがあります。\
+\
+ピトーヒートスイッチ（Pitot Heat switch.）をOFFにしませんでした。",
+    ["DictKey_WptName_352"] = "",
+    ["DictKey_ActionText_414"] = "この航空機は、21世紀基準でアップグレードされました。多目的カラーディスプレ（MFCD)、GPS誘兵器、データリンクサポートなどのシステムを搭載しています。",
+    ["DictKey_WptName_255"] = "",
+    ["DictKey_WptName_303"] = "",
+    ["DictKey_GroupName_204"] = "Static Soldier #002",
+    ["DictKey_GroupName_222"] = "Static Humvee #002",
+    ["DictKey_WptName_313"] = "",
+    ["DictKey_WptName_399"] = "",
+    ["DictKey_UnitName_235"] = "Static Yak-40 1",
+    ["DictKey_108"] = "ここでフライトを終了します。\
+\
+不十分でした。\
+あなたの評価は不可（U)です。\
+\
+もっと訓練を積んでください。\
+\
+準備ができたらPOに再挑戦してください。\
+\
+MISSION FAILED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_ActionText_441"] = "COLT 1-1, COLT 1-2!\
+\
+よく聞こえています。（I read you 5 by 5!）",
+    ["DictKey_WptName_336"] = "",
+    ["DictKey_WptName_358"] = "",
+    ["DictKey_GroupName_447"] = "FIRE ENGINE",
+    ["DictKey_94"] = "Ok, 右旋回が近づいてきました。\
+\
+空港は混雑しています。常に注意をしてください。",
+    ["DictKey_UnitName_221"] = "Static Soldier #007",
+    ["DictKey_GroupName_163"] = "COLT 1",
+    ["DictKey_88"] = "グランドハンドリングのテストに移ります、私に付いてきてください！",
+    ["DictKey_109"] = "ここでフライトを終了します。\
+\
+やりましたね、このPOをパスしました。\
+\
+あなたの評価は可（Q-)です。\
+\
+スキルを上げるためにもっと練習してください。あなたの命を救うことにも繋がります。\
+\
+次の検定ミッションに備えてバトゥミに戻りましょう。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_WptName_296"] = "",
+    ["DictKey_GroupName_188"] = "Moving Soldier 1",
+    ["DictKey_WptName_320"] = "",
+    ["DictKey_WptName_308"] = "",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_UnitName_217"] = "Static Soldier #006",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_UnitName_195"] = "Static Fuel Truck 4",
+    ["DictKey_WptName_281"] = "",
+    ["DictKey_104"] = "近すぎます！　速度と間隔をよく見てください！",
+    ["DictKey_WptName_256"] = "",
+    ["DictKey_WptName_345"] = "",
+    ["DictKey_UnitName_166"] = "Capt Neil Gratton",
+    ["DictKey_115"] = "チェックリストの項目でミスがあります。\
+\
+燃料計のテストを行いませんでした。",
+    ["DictKey_UnitName_205"] = "Static Soldier #002",
+    ["DictKey_GroupName_167"] = "A-10C",
+    ["DictKey_WptName_342"] = "",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_89"] = "グランドハンドリングのテストを行います。 \
+\
+ノーズホイールステアリングを有効にして私に付いてきてください！",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_ActionText_422"] = "詳細についてはフライトマニュアルを見てください。\
+\
+フライトマニュアルはきちんんと読みましたか？",
+    ["DictKey_WptName_267"] = "",
+    ["DictKey_90"] = "スピードアップ！、遅れています！",
+    ["DictKey_WptName_317"] = "",
+    ["DictKey_WptName_341"] = "",
+    ["DictKey_WptName_269"] = "",
+    ["DictKey_139"] = "チェックリストの項目でミスがあります。\
+\
+JTRS.をONにしませんでした。",
+    ["DictKey_ActionText_405"] = "",
+    ["DictKey_WptName_310"] = "",
+    ["DictKey_119"] = "チェックリストの項目でミスがあります。\
+\
+VHF/AM 無線をONにしませんでした。",
+    ["DictKey_118"] = "チェックリストの項目でミスがあります。\
+\
+T/Oトリムテスト（T/O Trim test.）を行いませんでした。",
+    ["DictKey_WptName_297"] = "",
+    ["DictKey_GroupName_232"] = "Static Yak-40",
+    ["DictKey_WptName_249"] = "",
+    ["DictKey_ActionText_428"] = "チェックリストの項目でミスがあります。\
+\
+インジェクションシート（Ejection Seat）を解除（disarm)しませんでした。",
+    ["DictKey_WptName_344"] = "",
+    ["DictKey_WptName_451"] = "",
+    ["DictKey_WptName_270"] = "",
+    ["DictKey_GroupName_210"] = "Static A-10C #001",
+    ["DictKey_ActionText_375"] = "全てのチェックが終わったら、タワーにタキシングの許可を申請してください。\
+\
+**タワーにタキシング許可をもらったら、ラジオメニューF10で完了の報告をして下さい。**\
+",
+    ["DictKey_124"] = "チェックリストの項目でミスがあります。\
+\
+APU発電機（APU Generator.）をOFFにしませんでした。",
+    ["DictKey_ActionText_425"] = "チェックリストの項目でミスがあります。\
+\
+アンチスキッド（Anti-Skid）をOFF（にしませんでした。",
+    ["DictKey_ActionRadioText_435"] = "COLT 1-1, 始動の準備が整いました。",
+    ["DictKey_WptName_351"] = "",
+    ["DictKey_UnitName_181"] = "Vulcan",
+    ["DictKey_122"] = "チェックリストの項目でミスがあります。\
+\
+燃料ブーストポンプ（fuel boost pumps）をONにしませんでした。",
+    ["DictKey_WptName_259"] = "",
+    ["DictKey_WptName_262"] = "",
+    ["DictKey_WptName_312"] = "",
+    ["DictKey_GroupName_170"] = "CH-47Ds",
+    ["DictKey_UnitName_209"] = "Static Humvee #001",
+    ["DictKey_ActionText_410"] = "チェックリストが完了するのを待つ間に、この機体について説明しましょう。",
+    ["DictKey_WptName_398"] = "",
+    ["DictKey_WptName_305"] = "",
+    ["DictKey_142"] = "チェックリストの項目でミスがあります。\
+\
+レーダ高度（Radar Altimeter.）をONにしませんでした。",
+    ["DictKey_WptName_298"] = "",
+    ["DictKey_WptName_359"] = "",
+    ["DictKey_134"] = "チェックリストの項目でミスがあります。\
+\
+CMSPをONにしませんでした。",
+    ["DictKey_UnitName_448"] = "Unit #001",
+    ["DictKey_129"] = "チェックリストの項目でミスがあります。\
+\
+IFFCCをGUNSモードにしませんでした",
+    ["DictKey_144"] = "",
+    ["DictKey_UnitName_174"] = "WO Albert Remey",
+    ["DictKey_UnitName_177"] = "Unit #1",
+    ["DictKey_127"] = "チェックリストの項目でミスがあります。\
+\
+EGIをONにしませんでした。",
+    ["DictKey_WptName_319"] = "",
+    ["DictKey_ActionText_385"] = "あと３０秒",
+    ["DictKey_WptName_275"] = "",
+    ["DictKey_133"] = "チェックリストの項目でミスがあります。\
+\
+Pitot Heatスイッチのテストをおこないませんでした。",
+    ["DictKey_UnitName_231"] = "Capt Ivan Petrovik",
+    ["DictKey_WptName_302"] = "",
+    ["DictKey_UnitName_219"] = "Static Fuel Truck 2",
+    ["DictKey_98"] = "左旋回してください。",
+    ["DictKey_GroupName_182"] = "Transport 1",
+    ["DictKey_WptName_257"] = "",
+    ["DictKey_130"] = "チェックリストの項目でミスがあります。\
+\
+SASをONにしませんでした。",
+    ["DictKey_WptName_271"] = "",
+    ["DictKey_UnitName_229"] = "Static Soldier #010",
+    ["DictKey_ActionText_383"] = "空に、出てから慌てたくなければ、チェックリストの全てを行うことが重要です。",
+    ["DictKey_ActionText_427"] = "",
+    ["DictKey_145"] = "チェックリストの項目でミスがあります。\
+\
+エジェクションシート（Ejection Seat）をARMしませんでした。",
+} -- end of dictionary

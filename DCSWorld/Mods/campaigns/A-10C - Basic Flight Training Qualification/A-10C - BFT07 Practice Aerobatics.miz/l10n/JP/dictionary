@@ -1,0 +1,470 @@
+dictionary = 
+{
+    ["DictKey_180"] = "正しく行えませんでした。",
+    ["DictKey_WptName_309"] = "",
+    ["DictKey_WptName_314"] = "",
+    ["DictKey_189"] = "正しく行えませんでした。",
+    ["DictKey_GroupName_229"] = "F16 Flight",
+    ["DictKey_WptName_310"] = "",
+    ["DictKey_UnitName_233"] = "Batumi-car",
+    ["DictKey_UnitName_226"] = "Lt. George Ramirez",
+    ["DictKey_UnitName_251"] = "Batumi-Static-09",
+    ["DictKey_GroupName_222"] = "FE",
+    ["DictKey_211"] = "チェックリストの項目でミスがあります。 \
+\
+battery inverter スイッチをOFFにしませんでした。",
+    ["DictKey_sortie_272"] = "BFT07 - エアロバティクスの訓練",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_WptName_273"] = "",
+    ["DictKey_WptName_312"] = "",
+    ["DictKey_descriptionRedTask_270"] = "",
+    ["DictKey_133"] = " 200 knotsを維持してください！",
+    ["DictKey_GroupName_224"] = "A-10A Flight",
+    ["DictKey_WptName_287"] = "",
+    ["DictKey_ActionText_343"] = "シャットダウンはできています。",
+    ["DictKey_188"] = "十分でしょう。",
+    ["DictKey_213"] = "チェックリストの項目でミスがあります。 \
+\
+酸素供給レバーをOFFにしませんでした。",
+    ["DictKey_218"] = "これが単なるシミュレーターで良かったですね。現実なら死んでしまうところでした。\
+再度POに挑戦する前に、フライトマニュアルを読んでさらに練習をすることをお勧めします。",
+    ["DictKey_ActionText_345"] = "",
+    ["DictKey_WptName_298"] = "",
+    ["DictKey_descriptionBlueTask_271"] = "1. インメルマン（Immelman）マニューバの実行\
+- 一定したピッチレート（変化率）\
+- 開始と終了の方位を揃える（180度反転）（Ensure consistent entry and exit references）\
+- ウイングのズレ（左右差）を最小にする（Ensure minimal wing drop）\
+\
+2. スプリットS（Split-S）マニューバの実行\
+- 一定したピッチレート\
+- 開始と終了の方位を揃える（180度反転）\
+- ウイングのズレ（左右差）を最小にする\
+\
+3. ループ（Loop）マニューバの実行\
+- 一定したピッチレート\
+- 開始と終了の方位を揃える。\
+- 開始と終了の速度を合わせる\
+- ウイングのズレ（左右差）を最小にする\
+\
+4. バレルロール（Barrel Roll）マニューバの実行\
+- 一定したロールレート\
+- 開始と終了の方位を揃える。\
+-開始と終了の速度を合わせる\
+\
+5. クローバーリーフ（Cloverleaf）マニューバの実行\
+- 一定したピッチレート\
+- 一定したロールレート\
+- 反転位置での90度旋回\
+- 各リーフ（葉）での適切な開始と終了方位\
+- 開始と終了の速度を合わせる\
+\
+6. 連続してエアロバティクスを実行\
+- スムーズな操縦の確保\
+- 連続してマニューバを実行",
+    ["DictKey_201"] = "チェックリストの項目でミスがあります。 \
+\
+CICUをOFFにしませんでした。",
+    ["DictKey_GroupName_227"] = "C130",
+    ["DictKey_167"] = "素晴らしい！　正しく行いました。",
+    ["DictKey_166"] = "良いですよ。",
+    ["DictKey_WptName_338"] = "",
+    ["DictKey_175"] = "次のエアロバティクスマニューバは左バレルロール（Barrel Roll）です。\
+\
+方位２２０に旋回して、準備が良ければ始めてください。",
+    ["DictKey_136"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の高度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_WptName_325"] = "",
+    ["DictKey_127"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の高度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_116"] = "方位 300, angels 6  200 knotsで飛行してください。",
+    ["DictKey_141"] = "MOAに入りました。",
+    ["DictKey_GroupName_260"] = "Parked A10",
+    ["DictKey_WptName_293"] = "",
+    ["DictKey_WptName_284"] = "",
+    ["DictKey_193"] = "残り30秒",
+    ["DictKey_UnitName_249"] = "Batumi-Static-08",
+    ["DictKey_GroupName_265"] = "FARP-Chopper-1",
+    ["DictKey_164"] = "次のエアロバティクスマニューバはスプリットSSplit-S）です。\
+\
+準備が良ければ始めてください。",
+    ["DictKey_UnitName_223"] = "Capt Rick Tooth \"Sabre\"",
+    ["DictKey_GroupName_254"] = "Batumi-Static-11",
+    ["DictKey_168"] = "正しく行えませんでした。",
+    ["DictKey_206"] = "チェックリストの項目でミスがあります。 \
+\
+EGIをOFFにしませんでした。",
+    ["DictKey_121"] = "方位 300, angels 6  200 knotsで飛行してください。",
+    ["DictKey_217"] = "あなたは機体を傷付けました。",
+    ["DictKey_ActionRadioText_339"] = "COPY",
+    ["DictKey_WptName_317"] = "",
+    ["DictKey_159"] = "十分でしょう。\
+\
+最初のエアロバティクスマニューバはインメルマンです。\
+\
+スモークを出すのを忘れないようにしてください。カメラでの確認がしやすくなります。\
+\
+\
+速度を上げて、準備ができたら開始して下さい。",
+    ["DictKey_WptName_299"] = "",
+    ["DictKey_WptName_323"] = "",
+    ["DictKey_WptName_306"] = "",
+    ["DictKey_UnitName_253"] = "Batumi-Static-10",
+    ["DictKey_150"] = "すこし、高度と速度を上げましょう。\
+\
+方位 040, angels 7 at 260 knots.で飛んでください。",
+    ["DictKey_UnitName_230"] = "Capt Sheila Burkett",
+    ["DictKey_171"] = "操縦桿を引き続けてください。ウイングを水平に保つのを忘れないようにしてください。",
+    ["DictKey_WptName_304"] = "",
+    ["DictKey_WptName_300"] = "",
+    ["DictKey_WptName_286"] = "",
+    ["DictKey_WptName_330"] = "",
+    ["DictKey_WptName_278"] = "",
+    ["DictKey_149"] = "クリアリングターンを正しく行いませんでした。",
+    ["DictKey_140"] = "Anti-G Straining Maneuver (AGSM)は正しく練習してきましたか？\
+\
+MOAが近づいてきましたので、すぐにわかることですが。",
+    ["DictKey_UnitName_261"] = "Parked A10",
+    ["DictKey_WptName_331"] = "",
+    ["DictKey_194"] = "シャットダウン手順を確認しましょう。",
+    ["DictKey_WptName_315"] = "",
+    ["DictKey_176"] = "バレルロールはロールを伴うループであることに注意してください。\
+\
+上昇しながら、徐々に機体をロールさせて、進行方向に対してコークスクリュー（螺旋起動）を行います。",
+    ["DictKey_160"] = "良いですよ。",
+    ["DictKey_202"] = "チェックリストの項目でミスがあります。 \
+\
+左MFCDをOFFにしませんでした。",
+    ["DictKey_205"] = "チェックリストの項目でミスがあります。 \
+\
+フラップをアップ位置にしませんでした。",
+    ["DictKey_139"] = "Gウォーミングは4Gを超えるマニューバを行うためには必要です。\
+\
+今日はこれを行ってもらいます。",
+    ["DictKey_GroupName_219"] = "COLT 1",
+    ["DictKey_155"] = "260 knotsを維持して下さい！",
+    ["DictKey_WptName_324"] = "",
+    ["DictKey_123"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）のコース制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_184"] = "素晴らしい！　正しく行いました。",
+    ["DictKey_207"] = "チェックリストの項目でミスがあります。 \
+\
+CDUをOFFにしませんでした。",
+    ["DictKey_196"] = "チェックリストの項目でミスがあります。 \
+\
+インジェクションシートを解除しませんでした。",
+    ["DictKey_144"] = "左90度旋回を行い、機体の上空と後方を確認してください。",
+    ["DictKey_129"] = "良いですよ。方位 040, angels 6 at 200 knotsを維持してください。",
+    ["DictKey_UnitName_268"] = "FARP-Chopper-2",
+    ["DictKey_209"] = "チェックリストの項目でミスがあります。 \
+\
+右エンジンの停止をしませんでした。",
+    ["DictKey_134"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の速度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_214"] = "素晴らしい！\
+\
+検定に挑戦する準備は整っているでしょう！\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_154"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の高度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_198"] = "チェックリストの項目でミスがあります。 \
+\
+TACANをOFFにしませんでした。",
+    ["DictKey_WptName_318"] = "",
+    ["DictKey_179"] = "素晴らしい！　正しく行いました。",
+    ["DictKey_UnitName_263"] = "Unit #2",
+    ["DictKey_215"] = "よくできました！\
+\
+検定は通過できるでしょうが、もう少し練習を繰り返して、完璧にすべきでしょう。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_117"] = "ハードデッキ制限が有効です。 \
+\
+制限が解除されないうちは、angels 5 を下回らないでください。",
+    ["DictKey_GroupName_267"] = "FARP-Chopper-2",
+    ["DictKey_186"] = "今から、エアロバティクスを連続で行ってもらいます。\
+\
+好きなマニューバを選んでください。\
+\
+３分間の間にそれらを行ってください。\
+\
+準備が良ければ始めてください。",
+    ["DictKey_210"] = "チェックリストの項目でミスがあります。 \
+\
+無線をOFFにしませんでした。",
+    ["DictKey_173"] = "素晴らしい！　正しく行いました。",
+    ["DictKey_153"] = "angels 7.を維持してください！",
+    ["DictKey_WptName_327"] = "",
+    ["DictKey_125"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の速度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_GroupName_246"] = "Batumi-Static-07",
+    ["DictKey_120"] = "よくできました！ \
+方位 300, angels 6,  200 knotsを維持してください。",
+    ["DictKey_197"] = "チェックリストの項目でミスがあります。 \
+\
+ピトーヒートスイッチをOFFにしませんでした。",
+    ["DictKey_UnitName_237"] = "Batumi-Static-01",
+    ["DictKey_WptName_333"] = "",
+    ["DictKey_WptName_277"] = "",
+    ["DictKey_WptName_322"] = "",
+    ["DictKey_148"] = "良いですよ。付近の航空機に注意を払い、必要に応じてマニューバを中止する準備をしておいてください。",
+    ["DictKey_131"] = "方位がずれています。040に旋回してください。",
+    ["DictKey_GroupName_244"] = "Batumi-Static-06",
+    ["DictKey_156"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の速度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_WptName_285"] = "",
+    ["DictKey_WptName_283"] = "",
+    ["DictKey_WptName_276"] = "",
+    ["DictKey_135"] = "angels 6 (6000ft)を維持して下さい！",
+    ["DictKey_WptName_332"] = "",
+    ["DictKey_192"] = "ここに停めて下さい\
+\
+２分間の間にシャットダウンを完了させて下さい。",
+    ["DictKey_138"] = "MOA（Military Operations Area：活動エリア）に入ったら、クリアリングターンを行い周りの確認をしてから、Gウォーミングを行ってください。",
+    ["DictKey_177"] = "準備が良ければ、始めてください。",
+    ["DictKey_WptName_337"] = "",
+    ["DictKey_128"] = "右旋回して 040へ。angels 6 at 200 knotsは維持してください。.",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_212"] = "チェックリストの項目でミスがあります。 \
+\
+battery スイッチをOFFにしませんでした。",
+    ["DictKey_UnitName_257"] = "FARP-1",
+    ["DictKey_GroupName_236"] = "Batumi-Static-01",
+    ["DictKey_190"] = "このPOの飛行要素は完了しました。\
+\
+ハードデッキ制限を解除します。\
+MOAからの離脱を許可します。\
+\
+バトゥミに戻り、着陸してシャットダウン手順を行ってください。\
+\
+その後で、評価を行います。",
+    ["DictKey_165"] = "最初に反転させるのを忘れないでください。そこから操縦桿を引いて、最後に水平飛行に戻します。",
+    ["DictKey_WptName_303"] = "",
+    ["DictKey_GroupName_248"] = "Batumi-Static-08",
+    ["DictKey_191"] = "タンカーのそばに止めて下さい。",
+    ["DictKey_204"] = "チェックリストの項目でミスがあります。 \
+\
+CMSPをOFFにしませんでした。",
+    ["DictKey_161"] = "反対方向を向いたらすぐに水平飛行にして下さい。\
+\
+これはループでは有りません。",
+    ["DictKey_WptName_326"] = "",
+    ["DictKey_GroupName_252"] = "Batumi-Static-10",
+    ["DictKey_187"] = "良いですよ。",
+    ["DictKey_UnitName_243"] = "Batumi-Static-04",
+    ["DictKey_118"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+ハードデッキ制限を破りました！\
+\
+POを中止します。",
+    ["DictKey_162"] = "素晴らしい！　正しく行いました。",
+    ["DictKey_GroupName_240"] = "Batumi-Static-03",
+    ["DictKey_WptName_288"] = "",
+    ["DictKey_174"] = "正しく行えませんでした。",
+    ["DictKey_descriptionText_269"] = "この訓練ミッションを使用して、試験ミッションの準備を行ってください。\
+\
+私はキャプテン リック・トースです。コールサインは「セイバー（Sabre）」です。能力目標（PO)を判定するフライト試験官（FE)です。\
+\
+これはBFT07 - エアロバティクスです。A/OA-10C基本飛行訓練検定コースの7番めのミッションです。\
+\
+あなたの評価は、A/OA-10搭乗員評価基準：AFI11-2A-OA-10V2:\
+に基づき行われます。\
+\
+エリア1.4.3　一般基準\
+\
+次の一般基準は、記載されている特定のイベントや計器ファイナルアプローチを除き、全ての飛行段階で適用されます。：\
+\
+\
+優（Q:Qualified）: 高度 +/- 200 feet.  対気速度 +/- 5%, コース +/- 5 度か 3 NM (どちらか大きい方), TACAN Arc +/- 2 NM.\
+\
+可（Q-：Qualified Minus): 高度 +/- 300 feet.  対気速度 +/- 10%, コース +/- 10 度か 5 NM (どちらか大きい方), TACAN Arc +/- 3 NM.\
+\
+不可（U:Unqualified): Q- の限界を超えた場合\
+\
+3.2.13 エリア 16 - 空中作業（Airwork） / 上級ハンドリング（Advanced Handling） / 戦術マニューバ（Tactical Maneuvering）:\
+\
+優（Qualified：Q): マニューバ中の航空機はスムーズでコントロールされている。マニューバは指示に従って、戦術状況/環境に応じで行われている。 手順に沿って行われている。\
+\
+可（Qualified Minus：Q-): マニューバ中の航空機は十分では有るが、常にスムーズでコントロールされているとは言えない。若干の手順のミスや、戦術激状況判断の欠落が有る。\
+\
+不可（Unqualified：U): 航空機のコントロールが不安定。マニューバが不十分。可（Q-）の制限を超えている。戦術状況の判断ができていない。航空機のコントロールを一時的に失っています。\
+\
+\
+このPOでは次のエアロバティクスマニューバを行ってもらいます。\
+インメルマン、スプリットS、ループ、バレルロール、クローバーリーフ（Immelman, a Split S, a Loop, a Barrel Roll, a Cloverleaf）と、一連のエアロバティクスを連続実行（これらのいずれかを組み合わせたもの）\
+\
+離陸前に、マニューバについて学習しておくことをお勧めします。\
+\
+あなたの機体にはスモークポッドが装備されています。マスターアームをARMにして、DSMSページでステーション1と11を選択します。兵器発射（pickle ）ボタンでスモークのON/OFFができます。\
+\
+エリアのトラフィックを確認するために行うクリアリングターンに加えて、 G-Awareness test（Gウォーム、G耐性テスト）を行ってください。これはクリアリングターンと似ていますが、３.0G以上のターンを行います。\
+\
+これは、エアロバティクス飛行に備えてG耐性を高めるために必要です。\
+\
+これは、MOA（Military Operations Area：軍事作戦エリア）内で行います。許可なくMOA外に迷い込まなようにしてください。\
+\
+着陸のパターン高度は2500ftです。\
+\
+ハードデッキ制限は5000ftです。制限が解除されないうちはこの制限を破らないでください。\
+\
+これは空中スタートの訓練ミッションです。検定チェックライドの準備に使用してください。\
+\
+HOTASは必要に応じて設定してください。\
+\
+フライトラインで会いましょう。\
+\
+ミッション成功基準：\
+ブリーフィングでの飛行計画に沿って飛行してください。\
+指示に従いマニューバを完了させてください。\
+グライドスロープとAOA速度を維持してアプローチと着陸を行ってください。\
+駐機してシャットダウンチェックリスト手順を行ってください。",
+    ["DictKey_UnitName_221"] = "Player",
+    ["DictKey_WptName_320"] = "",
+    ["DictKey_208"] = "チェックリストの項目でミスがあります。 \
+\
+左エンジンの停止をしませんでした。",
+    ["DictKey_WptName_296"] = "",
+    ["DictKey_UnitName_255"] = "Batumi-Static-11",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_UnitName_220"] = "Cadet John Stillman",
+    ["DictKey_WptName_334"] = "",
+    ["DictKey_WptName_297"] = "",
+    ["DictKey_WptName_281"] = "",
+    ["DictKey_GroupName_258"] = "FARP-2",
+    ["DictKey_143"] = "MOAから出ました。",
+    ["DictKey_172"] = "良いですよ。",
+    ["DictKey_115"] = "この訓練ミッションを使用して、検定ミッションの準備を行ってください。",
+    ["DictKey_ActionText_335"] = "離陸を許可します。離陸滑走を始めて下さい。\
+\
+グッドラック！",
+    ["DictKey_UnitName_235"] = "Unit #3",
+    ["DictKey_119"] = "angels 6に近づきました。レベルアウトして 200 knotsを維持してください。",
+    ["DictKey_132"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）のコース制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_185"] = "正しく行えませんでした。",
+    ["DictKey_WptName_329"] = "",
+    ["DictKey_GroupName_262"] = "Batumi Cars",
+    ["DictKey_GroupName_242"] = "Batumi-Static-04",
+    ["DictKey_137"] = "エアロバティクスは、戦闘機には必要不可欠です。",
+    ["DictKey_199"] = "チェックリストの項目でミスがあります。 \
+\
+ILSをOFFにしませんでした。",
+    ["DictKey_UnitName_239"] = "Batumi-Static-02",
+    ["DictKey_UnitName_259"] = "FARP-2",
+    ["DictKey_203"] = "チェックリストの項目でミスがあります。 \
+\
+右MFCDをOFFにしませんでした",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_UnitName_225"] = "Capt Frank Simzer",
+    ["DictKey_UnitName_245"] = "Batumi-Static-06",
+    ["DictKey_GroupName_256"] = "FARP-1",
+    ["DictKey_UnitName_247"] = "Batumi-Static-07",
+    ["DictKey_GroupName_234"] = "Pilot Humvee",
+    ["DictKey_WptName_328"] = "",
+    ["DictKey_GroupName_232"] = "Batumi-car",
+    ["DictKey_ActionText_340"] = "1, COPY!",
+    ["DictKey_WptName_308"] = "",
+    ["DictKey_147"] = "次は右90度旋回を行い、上空と後ろを確認してください。（周りの安全を確認してください。）",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_169"] = "次のエアロバティクスマニューバはループ（Loop)です。\
+\
+準備が良ければ始めてください。",
+    ["DictKey_216"] = "フライトをここで終了します。\
+\
+全然だめです。\
+あなたの評価は不可（U)です。\
+\
+もっと訓練に時間をとって下さい。  \
+\
+MISSION FAILED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_146"] = "クリアリングターンを正しく行いませんでした。",
+    ["DictKey_124"] = " 200 knotsを維持してください！",
+    ["DictKey_WptName_279"] = "",
+    ["DictKey_UnitName_228"] = "Capt Andrew Melnyk",
+    ["DictKey_WptName_274"] = "",
+    ["DictKey_WptName_313"] = "",
+    ["DictKey_122"] = "方位がずれています。300に旋回してください。",
+    ["DictKey_157"] = "今から、Gウォーミングを行います。４G以上の180度左旋回を２回行ってください。\
+\
+開始時と同じ方位、高度で終了してください。\
+\
+準備が良ければ開始してください。",
+    ["DictKey_126"] = "angels 6 (6000ft)を維持して下さい！",
+    ["DictKey_WptName_321"] = "",
+    ["DictKey_195"] = "チェックリストの項目でミスがあります。 \
+\
+アンチスキッドをOFFにしませんでした。",
+    ["DictKey_178"] = "良いですよ。",
+    ["DictKey_183"] = "良いですよ。",
+    ["DictKey_WptName_316"] = "",
+    ["DictKey_WptName_305"] = "",
+    ["DictKey_142"] = "ターミネイト\
+ターミネイト\
+ターミネイト！\
+\
+許可なくMOAから離脱しました。\
+\
+このPOを中止します。",
+    ["DictKey_151"] = "方位 040, angels 7  260 knots.で飛んで下さい。",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_181"] = "次のエアロバティクスマニューバはクローバーリーフ（Cloverleaf）です。\
+\
+クローバーリーフは、右バレルロールの前半とループの後半を組み合わせます。\
+\
+最終的に、開始方向の270度の方向を向きます。\
+\
+１つのリーフ（葉）だけを実行してもらえれば結構です。\
+\
+準備が良ければ始めてください。",
+    ["DictKey_WptName_311"] = "",
+    ["DictKey_163"] = "正しく行えませんでした。",
+    ["DictKey_170"] = "良いですよ。",
+    ["DictKey_WptName_280"] = "",
+    ["DictKey_UnitName_264"] = "Unit #1",
+    ["DictKey_152"] = "良いですよ。方位 040, angels 7  260 knots.を維持してください。",
+    ["DictKey_WptName_319"] = "",
+    ["DictKey_200"] = "チェックリストの項目でミスがあります。 \
+\
+IFFCCをOFFにしませんでした。",
+    ["DictKey_WptName_275"] = "",
+    ["DictKey_WptName_282"] = "",
+    ["DictKey_UnitName_231"] = "Col Harry Peel",
+    ["DictKey_WptName_302"] = "",
+    ["DictKey_WptName_289"] = "",
+    ["DictKey_182"] = "良いですよ。バレルロールを続けて、開始方位から90度でループに移行してください。",
+    ["DictKey_GroupName_250"] = "Batumi-Static-09",
+    ["DictKey_UnitName_266"] = "FARP-Chopper-1",
+    ["DictKey_130"] = "方位 040, angels 6  200 knotsで飛行してください。",
+    ["DictKey_UnitName_241"] = "Batumi-Static-03",
+    ["DictKey_WptName_307"] = "",
+    ["DictKey_GroupName_238"] = "Batumi-Static-02",
+    ["DictKey_158"] = "Gウォーミングを正しく行いませんでした。",
+    ["DictKey_145"] = "良いですよ。付近の航空機に注意を払い、必要に応じてマニューバを中止する準備をしておいてください。",
+} -- end of dictionary

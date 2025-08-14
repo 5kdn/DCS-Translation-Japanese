@@ -1,0 +1,526 @@
+dictionary = 
+{
+    ["DictKey_WptName_377"] = "",
+    ["DictKey_GroupName_289"] = "Batumi-Static-04",
+    ["DictKey_232"] = "チェックリストの項目でミスがあります。 \
+\
+TACANをOFFにしませんでした。",
+    ["DictKey_WptName_361"] = "",
+    ["DictKey_264"] = "ナビゲーションと機動について、あなたの評価は可（Q-）です。",
+    ["DictKey_219"] = "まあ、良いでしょう",
+    ["DictKey_193"] = "準備が良ければ始めてください。",
+    ["DictKey_261"] = "通信と優先順位の判断についての評価は優（Q)です。",
+    ["DictKey_250"] = "ここでフライトを終了します。\
+\
+やりましたね、このPOをパスしました。\
+\
+あなたの評価は可（Q-)です。\
+\
+スキルを上げるためにもっと練習してください。あなたの命を救うことにも繋がります。\
+\
+次の検定ミッションに備えてバトゥミに戻りましょう。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_258"] = "離陸前と離陸についての評価は優（Q)です。",
+    ["DictKey_259"] = "ナビゲーションと機動についての評価は優（Q)です。",
+    ["DictKey_199"] = "操縦桿を引いて、旋回時の高度を維持してください！",
+    ["DictKey_201"] = "まあ、良いでしょう。\
+\
+次のマニューバは、方位210, angels 8, at 280 knotsへの上昇右旋回です。\
+\
+準備が良ければ始めてください。",
+    ["DictKey_UnitName_298"] = "Batumi-Static-09",
+    ["DictKey_WptName_341"] = "",
+    ["DictKey_WptName_385"] = "",
+    ["DictKey_207"] = " angels 8　を維持して下さい。!",
+    ["DictKey_GroupName_301"] = "Batumi-Static-11",
+    ["DictKey_221"] = "次は、オートパイロットの動作を確認しましょう。\
+\
+この方位、高度、速度を維持して、オートパイロットを作動させます。\
+\
+高度とパス（航路）が維持されているのを確認してください。",
+    ["DictKey_239"] = "チェックリストの項目でミスがあります。 \
+\
+フラップをアップ位置にしませんでした。",
+    ["DictKey_WptName_335"] = "",
+    ["DictKey_177"] = "angels 10を維持してください！",
+    ["DictKey_GroupName_295"] = "Batumi-Static-08",
+    ["DictKey_UnitName_300"] = "Batumi-Static-10",
+    ["DictKey_WptName_356"] = "",
+    ["DictKey_238"] = "チェックリストの項目でミスがあります。 \
+\
+CMSPをOFFにしませんでした。",
+    ["DictKey_WptName_321"] = "",
+    ["DictKey_175"] = "良いですよ。方位 040 angels 10 at 220 knots.を維持してください。",
+    ["DictKey_225"] = "ここに停めて下さい\
+\
+２分間の間にシャットダウンを完了させて下さい。",
+    ["DictKey_ActionText_393"] = "",
+    ["DictKey_GroupName_380"] = "ENFIELD FLIGHT",
+    ["DictKey_237"] = "チェックリストの項目でミスがあります。 \
+\
+右MFCDをOFFにしませんでした",
+    ["DictKey_266"] = "通信と優先順位の判断について、あなたの評価は可（Q-）です。",
+    ["DictKey_163"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の高度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_195"] = "開始座標からかなり離れすぎています。\
+\
+次の挑戦に備えて、方位040、angels 7 and 280 knotsで機体を安定させて下しさい。",
+    ["DictKey_WptName_378"] = "",
+    ["DictKey_WptName_373"] = "",
+    ["DictKey_WptName_387"] = "",
+    ["DictKey_188"] = "220 knotsを維持して下さい！!",
+    ["DictKey_UnitName_311"] = "FARP-Chopper-1",
+    ["DictKey_213"] = "良いでしょう。方位210、angels 8 、160 knots.から360度左旋回を行います。",
+    ["DictKey_218"] = "準備が良ければ始めてください。",
+    ["DictKey_206"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）のコース制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_WptName_339"] = "",
+    ["DictKey_260"] = "アプローチ、ランディング、着陸後についての評価は優（Q)です。",
+    ["DictKey_249"] = "ここでフライトを終了します。\
+\
+おめでとうございます。このPOをパスしました。\
+\
+あなたの評価は優（Q)です。よくやりました。\
+\
+次の検定ミッションに備えてバトゥミに戻りましょう。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_UnitName_274"] = "Cadet John Stillman",
+    ["DictKey_251"] = "フライトをここで終了します。\
+\
+全然だめです。\
+あなたの評価は不可（U)です。\
+\
+もっと訓練に時間をとって下さい。  \
+\
+準備が出来たら再度このPOに挑戦して下さい。\
+\
+MISSION FAILED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_198"] = "準備が良ければ始めてください。",
+    ["DictKey_WptName_336"] = "",
+    ["DictKey_200"] = "まあ、良いでしょう。\
+\
+次のマニューバは、方位210, angels 8, at 280 knotsへの上昇右旋回です。\
+\
+準備が良ければ始めてください。",
+    ["DictKey_GroupName_278"] = "A-10A Flight",
+    ["DictKey_263"] = "離陸前と離陸について、あなたの評価は可（Q-）です。",
+    ["DictKey_167"] = "良いですよ。次は220knotsに加速して下さい。",
+    ["DictKey_166"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の速度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_WptName_338"] = "",
+    ["DictKey_152"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の速度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_222"] = "では、コースか高度を大きく変化させてみて、\
+「Warning Autopilot」の警告が聞こえるのを確認してください。\
+\
+これで、オートパイロットが解除されます。",
+    ["DictKey_269"] = "ナビゲーションと機動について、あなたの評価は不可（U)です。",
+    ["DictKey_WptName_374"] = "",
+    ["DictKey_236"] = "チェックリストの項目でミスがあります。 \
+\
+左MFCDをOFFにしませんでした。",
+    ["DictKey_UnitName_288"] = "Batumi-Static-01",
+    ["DictKey_211"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の速度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_141"] = "チェックリスト項目を省略しないでください！\
+\
+検定をパスするためは、機体が完全な状態である必要があります。",
+    ["DictKey_ActionRadioText_390"] = "",
+    ["DictKey_170"] = "良いですよ。次は angels 10まで上昇してください。\
+\
+上昇中は 160 knotsを維持してください。",
+    ["DictKey_UnitName_290"] = "Batumi-Static-04",
+    ["DictKey_WptName_362"] = "",
+    ["DictKey_WptName_331"] = "",
+    ["DictKey_246"] = "チェックリストの項目でミスがあります。 \
+\
+battery スイッチをOFFにしませんでした。",
+    ["DictKey_164"] = "対気速度を少し変更しましょう。. \
+\
+対気速度を減速して160knots以下にしてください。",
+    ["DictKey_209"] = "低速旋回に挑戦しましょう。\
+\
+速度を 160 knots.まで減速して下さい。",
+    ["DictKey_247"] = "チェックリストの項目でミスがあります。\
+\
+酸素供給レバーをOFFにしませんでした。",
+    ["DictKey_168"] = "220 knotsに加速してください！",
+    ["DictKey_205"] = "コースがずれています。  210.に旋回してください。",
+    ["DictKey_UnitName_275"] = "Player",
+    ["DictKey_UnitName_280"] = "Lt. George Ramirez",
+    ["DictKey_181"] = "次のマニューバはダイブ（降下）です。\
+\
+速度220knotsを維持したまま angels 7 まで降下して下さい。",
+    ["DictKey_150"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）のコース制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_159"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）のコース制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_214"] = "準備が良ければ始めてください。",
+    ["DictKey_GroupName_283"] = "Batumi-car",
+    ["DictKey_GroupName_297"] = "Batumi-Static-09",
+    ["DictKey_UnitName_313"] = "FARP-Chopper-2",
+    ["DictKey_WptName_349"] = "",
+    ["DictKey_WptName_347"] = "",
+    ["DictKey_270"] = "アプローチ、ランディング、着陸後について、あなたの評価は不可（U)です。",
+    ["DictKey_227"] = "残り３０秒！",
+    ["DictKey_UnitName_304"] = "FARP-1",
+    ["DictKey_173"] = "angels 10に上昇してください！",
+    ["DictKey_WptName_330"] = "",
+    ["DictKey_WptName_364"] = "",
+    ["DictKey_149"] = "方位がずれています。300に旋回してください。",
+    ["DictKey_140"] = "COLT 1-1, COLT 2-1, ラジオチェック！",
+    ["DictKey_253"] = "これが単なるシミュレーターで良かったですね。現実なら死んでしまうところでした。\
+再度POに挑戦する前に、フライトマニュアルを読んでさらに練習をすることをお勧めします。",
+    ["DictKey_WptName_340"] = "",
+    ["DictKey_194"] = "操縦桿を引いて、旋回時の高度を維持してください！",
+    ["DictKey_WptName_343"] = "",
+    ["DictKey_234"] = "チェックリストの項目でミスがあります。 \
+\
+IFFCCをOFFにしませんでした。",
+    ["DictKey_UnitName_292"] = "Batumi-Static-06",
+    ["DictKey_UnitName_309"] = "Unit #1",
+    ["DictKey_179"] = "220 knotsを維持して下さい！!",
+    ["DictKey_158"] = "方位がずれています。040に旋回してください。",
+    ["DictKey_157"] = "方位 040, angels 6  200 knotsで飛行してください。",
+    ["DictKey_155"] = "右旋回して 040へ。angels 6 at 200 knotsは維持してください。.",
+    ["DictKey_ActionText_391"] = "よく聞こえています。",
+    ["DictKey_242"] = "チェックリストの項目でミスがあります。 \
+\
+左エンジンの停止をしませんでした。",
+    ["DictKey_GroupName_307"] = "Batumi Cars",
+    ["DictKey_WptName_388"] = "",
+    ["DictKey_196"] = "すばらしい！\
+\
+次のマニューバは、方位210, angels 8, at 280 knotsへの上昇右旋回です。",
+    ["DictKey_248"] = "シャットダウンはできています。",
+    ["DictKey_271"] = "通信と優先順位の判断について、あなたの評価は不可（U)です。",
+    ["DictKey_180"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の速度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_220"] = "まあ、良いでしょう",
+    ["DictKey_272"] = "Ok, あなたの評価を見てましょう。",
+    ["DictKey_WptName_372"] = "",
+    ["DictKey_154"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の高度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_WptName_348"] = "",
+    ["DictKey_WptName_318"] = "",
+    ["DictKey_240"] = "チェックリストの項目でミスがあります。 \
+\
+EGIをOFFにしませんでした。",
+    ["DictKey_256"] = "1, COPY!",
+    ["DictKey_WptName_357"] = "",
+    ["DictKey_255"] = "移動速度に注意して下さい！\
+\
+空港当局と揉め事を起こしたくは無いでしょう。",
+    ["DictKey_176"] = "方位 040 angels 10 at 220 knots.で飛行して下さい。",
+    ["DictKey_186"] = "angels 7.を維持してください！",
+    ["DictKey_210"] = "160 knotsを維持してください！",
+    ["DictKey_WptName_367"] = "",
+    ["DictKey_244"] = "チェックリストの項目でミスがあります。 \
+\
+無線をOFFにしませんでした。",
+    ["DictKey_GroupName_305"] = "FARP-2",
+    ["DictKey_156"] = "良いですよ。方位 040, angels 6 at 200 knotsを維持してください。",
+    ["DictKey_WptName_358"] = "",
+    ["DictKey_254"] = "1, ローリング！（滑走開始）",
+    ["DictKey_245"] = "チェックリストの項目でミスがあります。 \
+\
+battery inverter スイッチをOFFにしませんでした。",
+    ["DictKey_WptName_332"] = "",
+    ["DictKey_WptName_389"] = "",
+    ["DictKey_235"] = "チェックリストの項目でミスがあります。 \
+\
+CICUをOFFにしませんでした。",
+    ["DictKey_WptName_322"] = "",
+    ["DictKey_148"] = "方位 300, angels 6  200 knotsで飛行してください。",
+    ["DictKey_252"] = "あなたは機体を傷付けました。",
+    ["DictKey_GroupName_312"] = "FARP-Chopper-2",
+    ["DictKey_GroupName_281"] = "C130",
+    ["DictKey_WptName_350"] = "",
+    ["DictKey_231"] = "チェックリストの項目でミスがあります。 \
+\
+ピトーヒートスイッチをOFFにしませんでした。",
+    ["DictKey_230"] = "チェックリストの項目でミスがあります。 \
+\
+インジェクションシートを解除しませんでした。",
+    ["DictKey_147"] = "よくできました！ \
+方位 300, angels 6,  200 knotsを維持してください。",
+    ["DictKey_WptName_360"] = "",
+    ["DictKey_192"] = "方位040、angels 7、 280Knotsから360度左旋回を行います。速度を上げててください。",
+    ["DictKey_UnitName_279"] = "Capt Frank Simzer",
+    ["DictKey_GroupName_273"] = "COLT 1",
+    ["DictKey_WptName_365"] = "",
+    ["DictKey_WptName_337"] = "",
+    ["DictKey_descriptionText_314"] = "この訓練ミッションを使用して、試験ミッションの準備を行ってください。\
+\
+私はキャプテン リック・トースです。コールサインは「セイバー（Sabre）」です。能力目標（PO)を判定するフライト試験官（FE)です。\
+\
+これはBFT05 - 基本機動（Basic Maneuvers）です。A/OA-10C基本飛行訓練検定コースの5番めのミッションです。\
+\
+あなたの評価は、A/OA-10搭乗員評価基準：AFI11-2A-OA-10V2:\
+に基づき行われます。\
+\
+エリア1.4.3　一般基準\
+\
+次の一般基準は、記載されている特定のイベントや計器ファイナルアプローチを除き、全ての飛行段階で適用されます。：\
+\
+\
+優（Q:Qualified）: 高度 +/- 200 feet.  対気速度 +/- 5%, コース +/- 5 度か 3 NM (どちらか大きい方), TACAN Arc +/- 2 NM.\
+\
+可（Q-：Qualified Minus): 高度 +/- 300 feet.  対気速度 +/- 10%, コース +/- 10 度か 5 NM (どちらか大きい方), TACAN Arc +/- 3 NM.\
+\
+不可（U:Unqualified): Q- の限界を超えた場合\
+\
+3.2.13 エリア 16 - 空中作業（Airwork） / 高度な操縦（Advanced Handling） /戦術機動（Tactical Maneuvering：タクティカルマニューバ）:\
+\
+優（Qualified：Q): マニューバ中の航空機の操縦はコントロールされておりスムーズです。機動は、指示と戦術状況/環境に応じで実行されています。 確立された手順を身に着けています。\
+\
+可（Qualified Minus：Q-): 基本マニューバ中の機体の操縦は身についていますが、常にスムーズでコントロールされているとは言えません。手順に若干のミスがあります。戦術状況を完全に把握できていません。 \
+\
+不可（Unqualified：U): マニューバが身についておらず、機体の操縦が不安定です。可（Q-）の制限を超えました。戦術状況を考慮できていません。予期せぬ状況で航空機のコントロールを一時的に失っています。\
+\
+このPOは離陸といくつかの基本マニューバを実行してもらいます。コース、スピート、高度が維持されているか、マニューバ中のコントロールを維持できているかを評価します。\
+\
+自動操縦についてもテストを行います。\
+\
+パターン高度は2500ftです。\
+\
+ハードデッキ制限は5000ftです。解除されないうちは制限を破らないでください。\
+\
+このミッションはランプスタート、ランプ終了ミッションです。着陸してシャットダウン手順を行う必要があります。（評価に含まれます。）\
+HOTASを適切に合わせておいてください。\
+\
+フライトラインで会いましょう。\
+\
+無線情報：\
+制限: EMCON LEVEL: 1\
+戦術訓練周波数: 124.0 Mhz AM\
+ガード: 243.0Mhz AM - 常時モニター\
+\
+エアコンタクト： \
+あたなのフライト: (1xA10C)\
+ COLT 1-1: 訓練生（AIRMAN）:  251.0 Mhz AM\
+ COLT 1-2: 訓練生（AIRMAN）:  251.0 Mhz AM\
+FE フライト: (1xA10C)\
+ COLT 2-1: FE:     251.0 Mhz AM\
+\
+ミッション成功基準：\
+始動チェックリスト手順の実行\
+滑走路への移動\
+離陸してフライトプランに沿って飛行\
+予定されているフライトプランに沿って飛行\
+指示に従ってマニューバを実行\
+グライドスロープとAOA速度を維持してアプローチとランディング\
+駐機してシャットダウンチェックリスト手順の実行",
+    ["DictKey_UnitName_302"] = "Batumi-Static-11",
+    ["DictKey_146"] = "angels 6に近づきました。レベルアウトして 200 knotsを維持してください。",
+    ["DictKey_WptName_352"] = "",
+    ["DictKey_190"] = "次のマニューバはレベルターン（水平旋回）です。",
+    ["DictKey_165"] = "160 knotsに減速してくださ！!",
+    ["DictKey_143"] = "方位 300, angels 6  200 knotsで飛行してください。",
+    ["DictKey_208"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の高度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_WptName_369"] = "",
+    ["DictKey_204"] = "よくできました。方位 210, angels 8 at 280 knots.を維持してください。",
+    ["DictKey_GroupName_299"] = "Batumi-Static-10",
+    ["DictKey_WptName_326"] = "",
+    ["DictKey_WptName_325"] = "",
+    ["DictKey_265"] = "アプローチ、ランディング、着陸後について、あなたの評価は可（Q-）です。",
+    ["DictKey_268"] = "離陸前と離陸について、あなたの評価は不可（U)です。",
+    ["DictKey_UnitName_308"] = "Unit #2",
+    ["DictKey_162"] = "angels 6 (6000ft)を維持して下さい！",
+    ["DictKey_153"] = "angels 6 (6000ft)を維持して下さい！",
+    ["DictKey_223"] = "このPOの飛行要素が完了しました。\
+\
+ハードデッキ制限を解除します。\
+\
+バトゥミに戻り、着陸してシャットダウン手順を行ってください。\
+\
+その後で、検定の評価を行います。",
+    ["DictKey_UnitName_277"] = "Capt Rick Tooth \"Sabre\"",
+    ["DictKey_174"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の高度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_UnitName_383"] = "Pilot #002",
+    ["DictKey_GroupName_310"] = "FARP-Chopper-1",
+    ["DictKey_sortie_317"] = "BFT05 - ベーシックマニューバ",
+    ["DictKey_descriptionBlueTask_316"] = "1. Perform climb maintaining constant attitude, power setting and airspeed.\
+\
+2. Perform descent maintaining constant attitude, power setting and airspeed.\
+\
+3. Perform level-off by applying power, attitude and trim, or attitude, power and trim as required to achieve the desired altitude and airspeed.\
+\
+4. Perform straight and level flight maintaining constant heading altitude and airspeed.\
+\
+5. Perform shallow and medium turns while maintaining constant altitude, airspeed and bank angle.\
+\
+6. Perform steep turns while maintaining a constant altitude, airspeed and bank angle.\
+\
+7. Perform airspeed and configuration changes while maintaining straight and level flight.\
+\
+8. Perform slow flying, including turns, while maintaining altitude and airspeed.\
+\
+9. Test autopilot operation.\
+\
+10. Maintain separation from other traffic and obstacles.\
+\
+11. Complete in-flight checks.",
+    ["DictKey_228"] = "シャットダウン手順の確認をしましょう。",
+    ["DictKey_UnitName_286"] = "Unit #3",
+    ["DictKey_UnitName_296"] = "Batumi-Static-08",
+    ["DictKey_UnitName_294"] = "Batumi-Static-07",
+    ["DictKey_WptName_329"] = "",
+    ["DictKey_262"] = "一般知識、飛行技術（airmanship）、安全性について、あなたの評価は可（Q-）です。",
+    ["DictKey_WptName_320"] = "",
+    ["DictKey_WptName_363"] = "",
+    ["DictKey_WptName_345"] = "",
+    ["DictKey_233"] = "チェックリストの項目でミスがあります。 \
+\
+ILSをOFFにしませんでした。",
+    ["DictKey_185"] = "方位 040, angels 7 at 220 knots.を維持してください。",
+    ["DictKey_GroupName_293"] = "Batumi-Static-07",
+    ["DictKey_224"] = "タンカーのそばに止めて下さい。",
+    ["DictKey_WptName_342"] = "",
+    ["DictKey_241"] = "チェックリストの項目でミスがあります。 \
+\
+CDUをOFFにしませんでした。",
+    ["DictKey_172"] = "angels 10.でレベルアウト  \
+\
+方位 040 のまま、速度を 220 knots.まで上げてください。",
+    ["DictKey_WptName_366"] = "",
+    ["DictKey_WptName_386"] = "",
+    ["DictKey_WptName_334"] = "",
+    ["DictKey_WptName_370"] = "",
+    ["DictKey_226"] = "残り６０秒！",
+    ["DictKey_UnitName_381"] = "Pilot #001",
+    ["DictKey_203"] = "方位 210, angels 8 at 280 knotsで飛行してください。.",
+    ["DictKey_WptName_354"] = "",
+    ["DictKey_187"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の高度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_229"] = "チェックリストの項目でミスがあります。 \
+\
+アンチスキッドをOFFにしませんでした。",
+    ["DictKey_WptName_353"] = "",
+    ["DictKey_189"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の速度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_GroupName_291"] = "Batumi-Static-06",
+    ["DictKey_WptName_328"] = "",
+    ["DictKey_WptName_371"] = "",
+    ["DictKey_descriptionRedTask_315"] = "",
+    ["DictKey_138"] = "ようこそ！  \
+\
+機体を空に上げてください。このPOを開始しいましょう。",
+    ["DictKey_WptName_344"] = "",
+    ["DictKey_WptName_375"] = "",
+    ["DictKey_169"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の速度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_216"] = "スタート条件から離れすぎています。\
+\
+次の挑戦に備えて、方位210, angels 8 、 160 knotsに戻し安定させてください。",
+    ["DictKey_GroupName_303"] = "FARP-1",
+    ["DictKey_215"] = "高速での旋回と同じようにはいかないでしょ？",
+    ["DictKey_WptName_333"] = "",
+    ["DictKey_197"] = "準備が良ければ始めてください。",
+    ["DictKey_WptName_351"] = "",
+    ["DictKey_212"] = "この旋回は高度10,000ft、250KIASで行います。航空機をイニシャルポイント（スタート地点）に持っていってください。",
+    ["DictKey_GroupName_276"] = "FE",
+    ["DictKey_GroupName_287"] = "Batumi-Static-01",
+    ["DictKey_UnitName_282"] = "Capt Andrew Melnyk",
+    ["DictKey_GroupName_285"] = "Pilot Humvee",
+    ["DictKey_257"] = "一般知識、飛行技術（airmanship）、安全性についての評価は優（Q)です。",
+    ["DictKey_178"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の高度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_183"] = "angels 7です。　レベルアウトして、 220 knotsを維持してください。",
+    ["DictKey_UnitName_284"] = "Batumi-car",
+    ["DictKey_WptName_376"] = "",
+    ["DictKey_142"] = "今から検定を開始します。",
+    ["DictKey_151"] = " 200 knotsを維持してください！",
+    ["DictKey_WptName_359"] = "",
+    ["DictKey_WptName_368"] = "",
+    ["DictKey_243"] = "チェックリストの項目でミスがあります。 \
+\
+右エンジンの停止をしませんでした。",
+    ["DictKey_267"] = "一般知識、飛行技術（airmanship）、安全性について、あなたの評価は不可（U)です。",
+    ["DictKey_144"] = "ハードデッキ制限が有効です。 \
+\
+制限が解除されないうちは、angels 5 を下回らないでください。",
+    ["DictKey_161"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の速度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_184"] = "よくできました！方位 040 angels 7 at 220 knotsを維持してください。.",
+    ["DictKey_UnitName_306"] = "FARP-2",
+    ["DictKey_WptName_319"] = "",
+    ["DictKey_202"] = "何をしているのですか？\
+\
+040から210への上昇右旋回を行ってください！",
+    ["DictKey_160"] = " 200 knotsを維持してください！",
+    ["DictKey_WptName_384"] = "",
+    ["DictKey_WptName_323"] = "",
+    ["DictKey_WptName_327"] = "",
+    ["DictKey_WptName_346"] = "",
+    ["DictKey_182"] = "対気速度が速すぎます。減速してください。",
+    ["DictKey_191"] = "この旋回は高度10,000ft、250KIASで行います。航空機をイニシャルポイント（スタート地点）に持っていってください。",
+    ["DictKey_WptName_382"] = "",
+    ["DictKey_WptName_324"] = "",
+    ["DictKey_WptName_355"] = "",
+    ["DictKey_139"] = "COPY",
+    ["DictKey_171"] = "対気速度が下がりすぎています。\
+\
+ピッチ角を減らして、160knotsでの上昇を維持してください。",
+    ["DictKey_217"] = "Outstanding!",
+    ["DictKey_145"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+ハードデッキ制限を破りました！\
+\
+POを中止します。",
+} -- end of dictionary

@@ -1,0 +1,822 @@
+dictionary = 
+{
+    ["DictKey_322"] = "チェックリストの項目でミスがあります。\
+\
+APUをOFFにしませんでした。",
+    ["DictKey_WptName_464"] = "",
+    ["DictKey_327"] = "チェックリストの項目でミスがあります。\
+\
+CICUをONにしませんでした。",
+    ["DictKey_WptName_528"] = "",
+    ["DictKey_WptName_467"] = "",
+    ["DictKey_331"] = "チェックリストの項目でミスがあります。\
+\
+フラップのテストを行いませんでした。",
+    ["DictKey_221"] = "APU ジェネレーター（Generator）スイッチ - PWR",
+    ["DictKey_239"] = "IFF - STBY",
+    ["DictKey_281"] = "スピードアップ！、遅れています！",
+    ["DictKey_WptName_512"] = "",
+    ["DictKey_WptName_516"] = "",
+    ["DictKey_238"] = "対Gスーツ（Anti-G Suit） - テスト\
+\
+1秒間押したままにします。",
+    ["DictKey_WptName_488"] = "",
+    ["DictKey_UnitName_378"] = "Capt Rick Tooth \"Sabre\"",
+    ["DictKey_298"] = "インバーター（Inverter）スイッチ - OFF\
+\
+バッテリー（Battery）スイッチ - OFF",
+    ["DictKey_UnitName_388"] = "Unit #3",
+    ["DictKey_WptName_453"] = "",
+    ["DictKey_261"] = "TGP スイッチ - 必要であればON",
+    ["DictKey_347"] = "チェックリストの項目でミスがあります。\
+\
+ISLをOFFにしませんでした。",
+    ["DictKey_268"] = "スティックのマスターモードコントロールボタン（Stick Master Mode Control Button） - 必要に応じて",
+    ["DictKey_GroupName_421"] = "Static Humvee #002",
+    ["DictKey_ActionText_573"] = "チェックリストの項目でミスがあります。\
+\
+アンチスキッド（Anti-Skid）をOFF（にしませんでした。",
+    ["DictKey_WptName_482"] = "",
+    ["DictKey_260"] = "MFCD で STAT ページを選択 - CHECK/Record/Clear MFLs\
+\
+1秒間押したままにしてください。",
+    ["DictKey_249"] = "フライトコントロール の チェック\
+\
+SAS スイッチ - OFF\
+駆動油圧（Hydraulic Pressure） - チェック",
+    ["DictKey_WptName_476"] = "",
+    ["DictKey_WptName_508"] = "",
+    ["DictKey_257"] = "IFFCC スイッチ を TESTにして UFC Enter を1秒間押したままにしてください。\
+\
+JTRS スイッチ - ON\
+\
+CICU スイッチ - ON",
+    ["DictKey_WptName_456"] = "",
+    ["DictKey_263"] = "TACAN - TEST\
+\
+1秒間押したままにしてください。",
+    ["DictKey_WptName_536"] = "",
+    ["DictKey_WptName_527"] = "",
+    ["DictKey_222"] = "AAPのセット\
+\
+CDU スイッチ - ON\
+EGI スイッチ - ON\
+\
+CDUが初期化されるのを待ちます。",
+    ["DictKey_236"] = "AC ジェネレーター（Generators） - チェック\
+\
+計器インバーター（Instrument Inverter） - チェック",
+    ["DictKey_WptName_519"] = "",
+    ["DictKey_287"] = "上手く行っています！",
+    ["DictKey_WptName_468"] = "",
+    ["DictKey_WptName_534"] = "",
+    ["DictKey_UnitName_428"] = "Static Soldier #010",
+    ["DictKey_247"] = "フラップ - 全位置をテスト\
+\
+各位置で1秒間は維持してください。",
+    ["DictKey_205"] = "ILS コントロールパネル - OFF/SET",
+    ["DictKey_302"] = "シャットダウンはできています。",
+    ["DictKey_UnitName_382"] = "Transport 1",
+    ["DictKey_311"] = "チェックリストの項目でミスがあります。\
+\
+バッテリー（battery.）をONにしませんでした。",
+    ["DictKey_WptName_505"] = "",
+    ["DictKey_WptName_520"] = "",
+    ["DictKey_279"] = "グランドハンドリングのテストを行います。 \
+\
+ノーズホイールステアリングを有効にして私に付いてきてください！",
+    ["DictKey_339"] = "チェックリストの項目でミスがあります。\
+\
+CDU を Nav.にセットしませんでした。",
+    ["DictKey_253"] = "スラット動作（Slat operation）, 失速前注意トーン（peak performance tone） と失速警告トーン - チェック",
+    ["DictKey_WptName_500"] = "",
+    ["DictKey_WptName_462"] = "",
+    ["DictKey_357"] = "チェックリストの項目でミスがあります。\
+\
+右エンジンをシャットダウンしませんでした。",
+    ["DictKey_GroupName_383"] = "Fuel Truck Moving 1",
+    ["DictKey_WptName_543"] = "",
+    ["DictKey_UnitName_380"] = "Vulcan",
+    ["DictKey_196"] = "兵器コントロールパネル（Armament Control Panel）のセット\
+\
+マスターアーム（Master ARM）スイッチ - SAFE\
+GUN/PAC ARM スイッチ - SAFE\
+Laser ARM スイッチ - SAFE\
+TGP - OFF\
+\
+ALT SCE - 状況に合わせて\
+HUD モードスイッチ - 状況に合わせて\
+\
+CICU - OFF\
+JTRS - OFF\
+IFFCC スイッチ - OFF\
+",
+    ["DictKey_248"] = "スピードブレーキ - チェック",
+    ["DictKey_271"] = "ラダー（Ladder） - 収納",
+    ["DictKey_UnitName_426"] = "Static Soldier #009",
+    ["DictKey_348"] = "チェックリストの項目でミスがあります。\
+\
+IFFCCをOFFにしませんでした。",
+    ["DictKey_WptName_548"] = "",
+    ["DictKey_UnitName_408"] = "Static Humvee #001",
+    ["DictKey_WptName_457"] = "",
+    ["DictKey_314"] = "チェックリストの項目でミスがあります。\
+\
+燃料計のテストを行いませんでした。",
+    ["DictKey_210"] = "ライトコントロールパネルのセット",
+    ["DictKey_UnitName_402"] = "Static Soldier #001",
+    ["DictKey_197"] = "MFCD (L/R) - OFF",
+    ["DictKey_215"] = "ギアライト - 確認",
+    ["DictKey_GroupName_401"] = "Static Soldier #001",
+    ["DictKey_descriptionRedTask_436"] = "",
+    ["DictKey_GroupName_395"] = "Static Humvee 1",
+    ["DictKey_326"] = "チェックリストの項目でミスがあります。\
+\
+EGIをONにしませんでした。",
+    ["DictKey_GroupName_387"] = "Moving Soldier 1",
+    ["DictKey_UnitName_373"] = "WO Albert Remey",
+    ["DictKey_192"] = "スロットルのマスター外部ライトコントロールスイッチ（Throttle Master Exterior Light Control Switch） - AFT\
+\
+スロットル - OFF\
+\
+フラップレバー - SET\
+\
+スロットルフリクションコントロール（Throttle Friction Control） - SET\
+\
+スピードブレーキコントローラー - 中央にSET\
+\
+APU スイッチ - OFF\
+\
+エンジンオペレーション（Engine Operate）スイッチ - NORM\
+エンジン燃料フロー（Engine Fuel Flow）スイッチ - NORM",
+    ["DictKey_338"] = "チェックリストの項目でミスがあります。\
+\
+JTRS.をONにしませんでした。",
+    ["DictKey_GroupName_379"] = "Vulcan",
+    ["DictKey_UnitName_416"] = "Static Soldier #006",
+    ["DictKey_335"] = "チェックリストの項目でミスがあります。\
+\
+CMSP JMR.をONにしませんでした。",
+    ["DictKey_336"] = "チェックリストの項目でミスがあります。\
+\
+CMSP RWR.をONにしませんでした。",
+    ["DictKey_350"] = "チェックリストの項目でミスがあります。\
+\
+左MFCDをOFFにしませんでした。",
+    ["DictKey_WptName_529"] = "",
+    ["DictKey_WptName_487"] = "",
+    ["DictKey_204"] = "CMSPのセット\
+\
+モード（Mode）スイッチ - OFF\
+システム（System）スイッチ - OFF",
+    ["DictKey_WptName_470"] = "",
+    ["DictKey_WptName_531"] = "",
+    ["DictKey_UnitName_371"] = "Lt Terry Underhill",
+    ["DictKey_187"] = "VHF/FM コントロールパネル - OFF/SET\
+\
+UHF コントロールパネル - ON/SET\
+\
+VHF/AM コントロールパネル - OFF/SET\
+\
+Batumi - 131.0 Mhz",
+    ["DictKey_GroupName_399"] = "New Static Object",
+    ["DictKey_355"] = "チェックリストの項目でミスがあります。\
+\
+CDUをOFFにしませんでした。",
+    ["DictKey_UnitName_410"] = "Static A-10C #001",
+    ["DictKey_337"] = "チェックリストの項目でミスがあります。\
+\
+CMSP DISP.をONにしませんでした。",
+    ["DictKey_WptName_532"] = "",
+    ["DictKey_333"] = "チェックリストの項目でミスがあります。\
+\
+CMSPをONにしませんでした。",
+    ["DictKey_359"] = "チェックリストの項目でミスがあります。\
+\
+バッテリ（battery.）をOFFにしませんでした。",
+    ["DictKey_262"] = "レーダー警戒システム（Radar Warning System） - TEST して必要に応じて設定",
+    ["DictKey_UnitName_414"] = "Static Soldier #005",
+    ["DictKey_320"] = "チェックリストの項目でミスがあります。\
+\
+UHF無線をONにしませんでした。",
+    ["DictKey_233"] = "右スロットルを IDLEにする\
+\
+ITT - チェック\
+油圧（Oil Pressure） - チェック\
+駆動圧（Hydraulic Pressure） - チェック\
+R-GEN ライト - OFFかチェック\
+ENG START CYCLE ライト - OFF\
+\
+エンジンの回転が安定してからライトのチェックをして下さい。",
+    ["DictKey_GroupName_362"] = "COLT 1",
+    ["DictKey_278"] = "グランドハンドリングのテストに移ります、私に付いてきてください！",
+    ["DictKey_UnitName_368"] = "Lt Keith Maxwell",
+    ["DictKey_241"] = "緊急ブレーキハンドル（Emergency Brake Handle） - 一番前",
+    ["DictKey_ActionText_565"] = "インジェクションシートグランドセーフレバー（Ejection seat ground safety lever） - ARMED",
+    ["DictKey_329"] = "チェックリストの項目でミスがあります。\
+\
+SASをONにしませんでした。",
+    ["DictKey_GroupName_431"] = "Static Yak-40",
+    ["DictKey_WptName_526"] = "",
+    ["DictKey_203"] = "電源コントロールパネル（Electrical Power Control Panel）のセット\
+\
+APUジェネレーター（APU Generator） スイッチ - OFF/RESET\
+インバーター（Inverter）スイッチ - OFF\
+ACジェネレーター（AC Generator）スイッチ (L/R) - PWR\
+バッテリ－（Battery）スイッチ - OFF\
+緊急フラッドライト（Emergency Flood Light）スイッチ - 必要に応じて",
+    ["DictKey_229"] = "左エンジン計器類 - チェック\
+\
+アイドル RPM - チェック",
+    ["DictKey_WptName_449"] = "",
+    ["DictKey_WptName_440"] = "",
+    ["DictKey_208"] = "環境コントロール（Environment Control）パネルのセット\
+\
+ウインドシールド（Windshield） デフォグ/デアイス（Defog/Deice）スイッチ - OFF\
+キャノピーデフォグ - OFF\
+レインリムーブ（Rain Removal）スイッチ - OFF\
+ピトーヒーター（Pitot Heat）スイッチ - OFF\
+ブリードエア（Bleed Air）スイッチ - BLEED AIR\
+メインエア（Main Air）スイッチ - SUPPLY\
+温度/気圧（Temperature/Pressure）調節 - NORM\
+フローレベル調節 - 必要に応じて\
+エアコンディショナー調節（Air Conditioner） - OPER AUTO\
+温度レベル調節（Temperature Level） - 必要に応じて",
+    ["DictKey_WptName_493"] = "",
+    ["DictKey_GroupName_364"] = "HAWG 1",
+    ["DictKey_274"] = "ランディング/タキシングライト（Light Landing/Taxi Switch） - セット\
+\
+車輪止め（チョーク：Chocks） - 除去",
+    ["DictKey_216"] = "シグナルライト（Signal Lights） - テスト\
+\
+1秒間押したままにします。",
+    ["DictKey_WptName_580"] = "",
+    ["DictKey_UnitName_370"] = "Lt Gerry Alsace",
+    ["DictKey_WptName_452"] = "",
+    ["DictKey_309"] = "素晴らしい！\
+\
+検定に挑戦する準備は整っているでしょう！\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_GroupName_427"] = "Static Soldier #010",
+    ["DictKey_GroupName_397"] = "New Static Object #001",
+    ["DictKey_WptName_504"] = "",
+    ["DictKey_295"] = "左ストッロル - OFF",
+    ["DictKey_183"] = "兵器地上安全オーバライド（Armament Ground Safety Override） スイッチを - SAFE\
+\
+ユーティリティライト（Utility Light） - 収納（STOWED）",
+    ["DictKey_225"] = "座席シート - 合わせてください",
+    ["DictKey_GroupName_407"] = "Static Humvee #001",
+    ["DictKey_WptName_472"] = "",
+    ["DictKey_214"] = "火災検知/ブリードエア漏れ（Fire Detect/Bleed Air Leak）テストボタン - 押し下げる\
+\
+1秒間押したままにします。",
+    ["DictKey_288"] = "滑走路をクリアしたら、次の手順に従ってチェックしてください。",
+    ["DictKey_UnitName_367"] = "Capt Jason Johnson",
+    ["DictKey_312"] = "チェックリストの項目でミスがあります。\
+\
+バッテリーインバーター（battery inverter.）をONにしませんでした。",
+    ["DictKey_UnitName_422"] = "Static Humvee #002",
+    ["DictKey_280"] = "スピードアップ！、遅れています！",
+    ["DictKey_184"] = "EGI HQ TOD スイッチ - お好みで",
+    ["DictKey_200"] = "火災警報Tハンドル - IN\
+\
+火災消火剤放出スイッチ（Fire Extinguisher Discharge Switch） - 中央",
+    ["DictKey_WptName_518"] = "",
+    ["DictKey_WptName_539"] = "",
+    ["DictKey_GroupName_366"] = "A-10C",
+    ["DictKey_WptName_461"] = "",
+    ["DictKey_descriptionText_435"] = "この練習ミッションは、検定ミッションの訓練用に使用してください。\
+\
+私はキャプテン リック・トースです。コールサインは「セイバー（Sabre）」です。能力目標（PO)を判定するフライト試験官（FE)です。\
+\
+このPOはBFT01ー地上での取扱（Ground Handling)で、A/OA-10Cの基本飛行訓練検定コースの最初のミッションとなります。\
+\
+あなたの評価は、A/OA-10搭乗員評価基準：AFI11-2A-OA-10V2:\
+に基づき行われます。\
+\
+3.2.3. エリア３離陸前：\
+\
+優（Qualified：Q): ステーションとの交信の確立と継続。エンジン始動、タキシング、離陸開始までのプレフライトチェック（個人装備チェック、クルーとのブリーフィング、など）を行います。機体を正常に飛行できる状態にします。離陸前に承認されたチェックリストにによるチェックと指示に該当する必要手順を全て行います。\
+\
+可（Qualified Minus ：Q-): 上記と同じですが、ミッションの有効性を損なうことのない小さなミスは許容されます。\
+\
+負荷（Unqualified：U): チェックリストの主要な項目を省略、安全なミッション遂行を妨げるような、手順の大きな逸脱。航空機を安全に飛行できる状態にできなかった。ミッションに支障をきたしたり無効にするような、離陸の遅れに直接関与する乗務員エラーを犯した\
+\
+4.2.3. エリア 201 航空機の一般知識：\
+\
+優（Q:Qualified): 航空機のシステム、限界、性能特性に関する知識を持っていることを証明しました。\
+\
+可（Q-：Qualified Minus ）: ミッションを安全に遂行するのに十分な航空機のシステム、限界、性能特性に関する知識を持っていますが、深く理解してはいません。\
+\
+負荷（Unqualified：U): 航空機のシステム、限界、性能特性に関する知識が十分ではありません。\
+\
+始動手順テストに合格するには、チェックリストに次の項目が含まれている必要があります。：\
+バッテリー電源（Battery Power）, バッテリーインバーター（Battery Inverter）をStandby, \
+シグナルライト（Signal Lights）テスト, 燃料テスト, 酸素（O2） On, 酸素（O2）テスト, テイクオフトリム（T/O Trim）テスト, 無線（Radios） On, ブーストポンプ（Boost Pumps） On, APU Off, APUジェネレーター（APU Generator） Off,\
+ACジェネレーター（AC Gen Power） On, CDU On, EGI On, CICU On, IFFCC を GUNSに, SAS On, DTS LOADALLを選択, フラップテスト（Flaps Cycled）, ピトーヒート（Pitot Heat）テスト, フライトプランを選択（Flight Plan Selected）, CMSP On, CMSP MWS On, CMSP JMR On, CMSP RWR On, CMSP DISP On, JTRS On, CDU Navを選択 EAC Armed, レーダー高度（Radar Alt） On, アンチスキッド（Anti-Skid） On, インジェクションシート（Ejection Seat） Armed.\
+\
+シャットダウン手順テストを合格するには、チェックリストに次の項目が含まれている必要があります。：\
+アンチスキッド（Anti-Skid） Off, インジェクションシート解除(Ejection Seat Disarmed), ピトーヒート（Pitot Heat） Off, TACAN Off, ILS Off, IFFCC Off, CICU Off, Left MFCD Off, Right MFCD Off, CMSP Off, Flaps Up, EGI Off, CDU Off, 左エンジンシャットダウン（Left Engine Shutdown）, 右エンジンシャットダウン（Right Engine Shutdown）, 無線（Radios） off, バッテリーインバーター（Battery Inverter） Off, バッテリー（Battery） Off, 酸素供給レバー（Oxygen Supply Lever） Off.\
+\
+機体の始動が完了したら、ハンビーに乗った私について来てください。\
+\
+ハンビーを追いかける時は、車と適切な距離を取り、HUDのピッチラダーの範囲内に収めるように操縦してください。遅れたり、近づきすぎたりすると評価に影響します。\
+\
+正しいチェックリスト手順ができているか、グランドハンドリングの技術があるかなどを検査します。\
+\
+\
+では始めましょう。\
+\
+ミッション成功基準：\
+スタートアップチェックリスト手順が正しく行える。\
+ハンビーに適切な距離でついていく、障害物を避ける\
+シャットダウンチェックリスト手順を正しく行える。",
+    ["DictKey_232"] = "右エンジンのスタート\
+\
+エンジンオペレート（Engine Operate）スイッチ - NORM",
+    ["DictKey_264"] = "飛行計器類のチェック\
+\
+ADI - チェック\
+SAI - アンケージ\
+VVI - ゼロ\
+対気速度計 - チェック",
+    ["DictKey_GroupName_393"] = "Static Fuel Truck 4",
+    ["DictKey_UnitName_434"] = "Static Yak-40 1",
+    ["DictKey_WptName_535"] = "",
+    ["DictKey_276"] = "スタートアップの手順が正しかったかチェックします。",
+    ["DictKey_275"] = "タワーと交信してタキシングの許可を取得",
+    ["DictKey_UnitName_396"] = "Static Humvee 1",
+    ["DictKey_199"] = "加速度計（Accelerometer） - リセット",
+    ["DictKey_313"] = "チェックリストの項目でミスがあります。\
+\
+シグナルライト（signal lights）のテストを行いませんでした。",
+    ["DictKey_UnitName_363"] = "Player",
+    ["DictKey_WptName_552"] = "",
+    ["DictKey_209"] = "TACAN コントロール - OFF/SET",
+    ["DictKey_WptName_475"] = "",
+    ["DictKey_251"] = "トリムのチェク\
+\
+テイクオフトリム（Takeoff Trim）ボタン - 押す\
+\
+1秒間押し続けて下さい。",
+    ["DictKey_258"] = "MFCD (L/R) - 必要に応じて\
+\
+MFCDが初期化されるのを待ちます。",
+    ["DictKey_352"] = "チェックリストの項目でミスがあります。\
+\
+CMSPをOFFにしませんでした。",
+    ["DictKey_WptName_499"] = "",
+    ["DictKey_243"] = "TISL - ケージ（CAGE）",
+    ["DictKey_GroupName_419"] = "Static Soldier #007",
+    ["DictKey_WptName_549"] = "",
+    ["DictKey_330"] = "チェックリストの項目でミスがあります。\
+\
+DTSアップロード（DTS upload）を行いませんでした。.",
+    ["DictKey_WptName_495"] = "",
+    ["DictKey_sortie_438"] = "BFT01 - グラウンドハンドリング訓練",
+    ["DictKey_273"] = "EAC スイッチ - 作動（ON)",
+    ["DictKey_266"] = "SAS - 有効（ON)にする",
+    ["DictKey_WptName_541"] = "",
+    ["DictKey_341"] = "チェックリストの項目でミスがあります。\
+\
+レーダ高度（Radar Altimeter.）をONにしませんでした。",
+    ["DictKey_WptName_466"] = "",
+    ["DictKey_WptName_510"] = "",
+    ["DictKey_ActionText_575"] = "",
+    ["DictKey_284"] = "Ok, 右旋回が近づいてきました。\
+\
+空港は混雑しています。常に注意をしてください。",
+    ["DictKey_UnitName_365"] = "Capt Neil Gratton",
+    ["DictKey_WptName_485"] = "",
+    ["DictKey_WptName_542"] = "",
+    ["DictKey_WptName_480"] = "",
+    ["DictKey_WptName_459"] = "",
+    ["DictKey_UnitName_418"] = "Static Fuel Truck 2",
+    ["DictKey_265"] = "IFFCC プレフライトBIT（Preflight BIT）のチェック\
+\
+IFFCC BIT Faults 時は クリア（CLEAR）\
+\
+1秒間押したままにして下さい。",
+    ["DictKey_ActionText_561"] = "キャノピーが閉じてロック  - コーションライトが消えているか確認",
+    ["DictKey_GroupName_403"] = "Static Soldier #002",
+    ["DictKey_201"] = "予備コンパス（Standby Compass） - 確認",
+    ["DictKey_WptName_513"] = "",
+    ["DictKey_WptName_525"] = "",
+    ["DictKey_290"] = "ここで機体を駐機できます。\
+\
+シャットダウン手順を説明しましょう。",
+    ["DictKey_UnitName_384"] = "Moving Fuel Truck",
+    ["DictKey_207"] = "酸素システム（Oxygen System） - 確認",
+    ["DictKey_WptName_469"] = "",
+    ["DictKey_349"] = "チェックリストの項目でミスがあります。\
+\
+CICUをOFFにしませんでした。",
+    ["DictKey_WptName_546"] = "",
+    ["DictKey_WptName_450"] = "",
+    ["DictKey_269"] = "IFFCC データ - VERIFY/ENTER",
+    ["DictKey_WptName_473"] = "",
+    ["DictKey_267"] = "IFFCC スイッチ - ON",
+    ["DictKey_346"] = "チェックリストの項目でミスがあります。\
+\
+TACANをOFFにしませんでした。",
+    ["DictKey_334"] = "チェックリストの項目でミスがあります。\
+\
+CMSP MWSをONにしませんでした。",
+    ["DictKey_GroupName_369"] = "CH-47Ds",
+    ["DictKey_252"] = "ブレーキのチェック\
+\
+アンチスキッドスイッチ - ANTI-SKID\
+アンチスキッドスイッチ - OFF",
+    ["DictKey_324"] = "チェックリストの項目でミスがあります。\
+\
+ACジェネレーター（AC Generator）をONにしませんでした。",
+    ["DictKey_244"] = "ILS PWR コントロールノブ - PWR\
+\
+TACAN モードセレクタースイッチ - T/R",
+    ["DictKey_WptName_521"] = "",
+    ["DictKey_245"] = "ウインドシールド　デフォグ/デアイススイッチ - DEFOG/DEICE (必要であれば)",
+    ["DictKey_WptName_547"] = "",
+    ["DictKey_193"] = "燃料システムコントロールパネルのセット\
+（Fuel System Control Panel - SET）\
+\
+メインブーストポンプ（Main Boost Pump）スイッチ  - MAIN\
+ウイングブーストポンプ（Wing Boost Pump）スイッチ - WING\
+\
+タンクゲート（Tank Gate）スイッチ - CLOSE\
+\
+空中給油コントロール（Air Refuel Control） - CLOSE\
+\
+クロスフィード（Crossfeed）スイッチ - OFF\
+\
+外部タンク（External Tank）スイッチ - OFF\
+\
+シグナルアンプ（Signal Amplifier）スイッチ - NORM",
+    ["DictKey_306"] = "これが単なるシミュレーターで良かったですね。現実なら死んでしまうところでした。\
+再度POに挑戦する前に、フライトマニュアルを読んでさらに練習をすることをお勧めします。",
+    ["DictKey_206"] = "AAPのセット\
+\
+CDU スイッチ - OFF\
+EGI スイッチ - OFF\
+PAGE ノブ - OTHER\
+STEER PT ノブ - MISSION",
+    ["DictKey_351"] = "チェックリストの項目でミスがあります。\
+\
+右MFCDをOFFにしませんでした。",
+    ["DictKey_WptName_465"] = "",
+    ["DictKey_WptName_443"] = "",
+    ["DictKey_194"] = "緊急ブレーキハンドル（Emergency Brake Handle） - PUSH IN",
+    ["DictKey_WptName_507"] = "",
+    ["DictKey_UnitName_420"] = "Static Soldier #007",
+    ["DictKey_GroupName_415"] = "Static Soldier #006",
+    ["DictKey_GroupName_411"] = "Static Soldier #004",
+    ["DictKey_WptName_496"] = "",
+    ["DictKey_WptName_558"] = "",
+    ["DictKey_212"] = "スタートアップチェックリストを説明しましょう。",
+    ["DictKey_340"] = "チェックリストの項目でミスがあります。\
+\
+EAC.をONにしませんでした。",
+    ["DictKey_UnitName_386"] = "Unit #2",
+    ["DictKey_270"] = "APU ジェネレーター（APU Generator) スイッチ - OFF/RESET\
+\
+APU スイッチ - 必要に応じて",
+    ["DictKey_WptName_454"] = "",
+    ["DictKey_WptName_533"] = "",
+    ["DictKey_WptName_544"] = "",
+    ["DictKey_217"] = "時計 - 合わせます",
+    ["DictKey_WptName_497"] = "",
+    ["DictKey_304"] = "あの燃料トラックに注意して下さい！",
+    ["DictKey_211"] = "HARS コントロールパネルのセット",
+    ["DictKey_UnitName_406"] = "Static Soldier #003",
+    ["DictKey_WptName_559"] = "",
+    ["DictKey_UnitName_398"] = "Static Fuel Truck 1",
+    ["DictKey_237"] = "CCTVS/DV ADR コントロールパネル - STBY",
+    ["DictKey_234"] = "右エンジン計器類　-　チェック\
+\
+アイドル　RPM　- チェック",
+    ["DictKey_WptName_477"] = "",
+    ["DictKey_356"] = "チェックリストの項目でミスがあります。\
+\
+左エンジンをシャットダウンしませんでした。",
+    ["DictKey_191"] = "HARS/SARS オーバライド（Override）スイッチ - NORM\
+\
+空中給油、インデクサーライトコントローラー（Refuel Status and Indexer Light Control） - SET\
+\
+NVIS ライトスイッチ - OFF",
+    ["DictKey_328"] = "チェックリストの項目でミスがあります。\
+\
+IFFCCをGUNSモードにしませんでした",
+    ["DictKey_UnitName_394"] = "Static Fuel Truck 4",
+    ["DictKey_WptName_489"] = "",
+    ["DictKey_305"] = "あなたは機体を傷付けました。",
+    ["DictKey_242"] = "CMSP のセット\
+\
+Jettison スイッチ - AFT\
+Mode スイッチ - STBY\
+サブシステム（Subsystem）スイッチ - 必要に応じて",
+    ["DictKey_GroupName_425"] = "Static Soldier #009",
+    ["DictKey_WptName_484"] = "",
+    ["DictKey_WptName_444"] = "",
+    ["DictKey_WptName_545"] = "",
+    ["DictKey_UnitName_432"] = "Static Yak-40",
+    ["DictKey_292"] = "マスターアーム（MASTER ARM）スイッチ - SAFE\
+GUN/PAC スイッチ - SAFE\
+LASER スイッチ - SAFE\
+TGP - OFF\
+ALT SCE - お好みで\
+HUD Mode スイッチ - お好みで\
+CICU - OFF\
+JTRS - OFF\
+IFFCC スイッチ - OFF",
+    ["DictKey_WptName_490"] = "",
+    ["DictKey_WptName_486"] = "",
+    ["DictKey_299"] = "無線機 - OFF",
+    ["DictKey_240"] = "クロフフィード（CROSSFEED） - OFF",
+    ["DictKey_285"] = "常にランウェイ上の航空機に注意を払ってください。",
+    ["DictKey_WptName_481"] = "",
+    ["DictKey_ActionText_581"] = "",
+    ["DictKey_256"] = "ナビゲーションモード選択パネル（Navigation Mode Select Panel） - EGI\
+\
+1秒間押したままにしてください。",
+    ["DictKey_GroupName_417"] = "New Static Object #002",
+    ["DictKey_255"] = "CDU データ - 確認と入力\
+\
+EGI INS アライメント終了後\
+\
+CDU Align ページ -  NAV LSK（ライン選択キー）を押す\
+\
+1秒間押したままにしてください。",
+    ["DictKey_WptName_511"] = "",
+    ["DictKey_186"] = "インターコムコントロール（Intercom Controls） - SET",
+    ["DictKey_198"] = "予備姿勢指示器（Standby Attitude Indicator） - ケージ（CAGE）",
+    ["DictKey_354"] = "チェックリストの項目でミスがあります。\
+\
+EGIをOFFにしませんでした。",
+    ["DictKey_286"] = "滑走路がクリアになりました。行きましょう！",
+    ["DictKey_272"] = "Idle Core RPM - チェック\
+\
+ IDLE-MAX-IDLEテストを2秒以内で実行",
+    ["DictKey_WptName_537"] = "",
+    ["DictKey_WptName_445"] = "",
+    ["DictKey_358"] = "チェックリストの項目でミスがあります。\
+\
+バッテリーインバーター（battery inverter）をOFFにしませんでした。 battery inverter.",
+    ["DictKey_342"] = "チェックリストの項目でミスがあります。\
+\
+アンチスキッド（Anti-Skid）をONにしませんでした。",
+    ["DictKey_WptName_447"] = "",
+    ["DictKey_WptName_471"] = "",
+    ["DictKey_235"] = "フライトコントロール - チェック",
+    ["DictKey_318"] = "チェックリストの項目でミスがあります。\
+\
+VHF/AM 無線をONにしませんでした。",
+    ["DictKey_WptName_442"] = "",
+    ["DictKey_WptName_455"] = "",
+    ["DictKey_UnitName_392"] = "Unit #5",
+    ["DictKey_UnitName_376"] = "Unit #1",
+    ["DictKey_WptName_448"] = "",
+    ["DictKey_WptName_491"] = "",
+    ["DictKey_WptName_474"] = "",
+    ["DictKey_descriptionBlueTask_437"] = "グラウンドハンドリング\
+\
+1. プレフライト検査を実行する。\
+2. スタートアップチェックリスト手順を実行する\
+3. エンジン始動\
+4. 航空機を移動させる\
+5. 計器のチェックを行う\
+6. 機体を駐機させる\
+7. シャットダウンチェックリスト手順を実行する。",
+    ["DictKey_231"] = "フライトコントロール　-　チェック",
+    ["DictKey_230"] = "",
+    ["DictKey_332"] = "チェックリストの項目でミスがあります。\
+\
+Pitot Heatスイッチのテストをおこないませんでした。",
+    ["DictKey_WptName_446"] = "",
+    ["DictKey_WptName_483"] = "",
+    ["DictKey_345"] = "チェックリストの項目でミスがあります。\
+\
+ピトーヒートスイッチ（Pitot Heat switch.）をOFFにしませんでした。",
+    ["DictKey_315"] = "チェックリストの項目でミスがあります。\
+\
+酸素供給（oxygen supply.）をONにしませんでした。",
+    ["DictKey_282"] = "上手く行っています！",
+    ["DictKey_353"] = "チェックリストの項目でミスがあります。\
+\
+フラップをUPにしませんでした。",
+    ["DictKey_343"] = "",
+    ["DictKey_WptName_540"] = "",
+    ["DictKey_GroupName_375"] = "Fuel Truck #001",
+    ["DictKey_WptName_439"] = "",
+    ["DictKey_195"] = "ランディングギアハンドル（Landing Gear Handle） - DOWN\
+\
+レンディングタキシングライト（Landing Taxi Light）スイッチ - OFF",
+    ["DictKey_259"] = "MFCD - LOAD DATA 必要に応じて\
+\
+1秒間押したままにしてください。",
+    ["DictKey_UnitName_390"] = "Unit #4",
+    ["DictKey_316"] = "チェックリストの項目でミスがあります。\
+\
+酸素計のテスト（oxygen supply test）を行いませんでした。",
+    ["DictKey_323"] = "チェックリストの項目でミスがあります。\
+\
+APU発電機（APU Generator.）をOFFにしませんでした。",
+    ["DictKey_188"] = "レーダー高度（RADAR Altimeter） - NRM",
+    ["DictKey_283"] = "スピードアップ！、遅れています！",
+    ["DictKey_GroupName_423"] = "Static Soldier #008",
+    ["DictKey_289"] = "アンチスキッド（Anti-Skid）スイッチ - OFF\
+インジェクションシートグラウンドセーフティレバー（Ejection Seat Ground Safety Lever） - SAFE\
+キャノピー - お好みて\
+CCTVS/DV ADR - OFF\
+TACAN - OFF\
+ILS - OFF\
+HUD Night/Day フィルター - DAY\
+ランディング/タキシングライト（Landing Taxi Lights） - 必要に応じて\
+CMSP モードスイッチ - STBY\
+CMSP システムスイッチ - OFF\
+CMSP - OFF\
+ピトーヒーター（Pitot Heat） - OFF\
+ポジションライト（Position Lights） - BRIGHT/FLASH\
+アンチコリジョンライト（Anti-Collision Lights） - OFF\
+フラップ - フルアップ",
+    ["DictKey_301"] = "シャットダウン手順を確認します…",
+    ["DictKey_UnitName_424"] = "Static Soldier #008",
+    ["DictKey_WptName_530"] = "",
+    ["DictKey_219"] = "酸素残量計（Oxygen Quantity） - チェック\
+\
+供給（Supply） レバー - ON\
+低酸素警告ライト（OXY LOW Caution Light） - OFF\
+酸素残量計（OXY IND）テストボタンを押す\
+\
+警告ライトが点くまで押したままにしてください。",
+    ["DictKey_GroupName_433"] = "Static Yak-40 1",
+    ["DictKey_294"] = "TISL - OFF\
+\
+座席シート - 一番上に（FULL UP）",
+    ["DictKey_GroupName_429"] = "AN-26B",
+    ["DictKey_226"] = "VHF/AM - ATCと交信しエンジンスタートの許可を取得してください。",
+    ["DictKey_UnitName_430"] = "Capt Ivan Petrovik",
+    ["DictKey_189"] = "緊急飛行制御パネル（Emergency Flight Control Panel） - SET",
+    ["DictKey_WptName_441"] = "",
+    ["DictKey_WptName_458"] = "",
+    ["DictKey_WptName_479"] = "",
+    ["DictKey_291"] = "ブレーキ - チョークをかけるまで維持\
+\
+IFF - OFF\
+\
+予備姿勢指示器（Standby Attitude Indicator） - ケージ（CAGE）",
+    ["DictKey_WptName_463"] = "",
+    ["DictKey_190"] = "IFF - OFF/SET",
+    ["DictKey_ActionText_567"] = "ピトーヒーター（Pitot Heat） - PITOT HEAT",
+    ["DictKey_213"] = "バッテリー（Battery）スイッチ - PWR\
+\
+インバーター（Inverter）スイッチ - STBY\
+\
+エンジン計器類 - 確認",
+    ["DictKey_224"] = "VHF/AM - TR\
+\
+VHF/FM - TR\
+\
+",
+    ["DictKey_WptName_494"] = "",
+    ["DictKey_344"] = "チェックリストの項目でミスがあります。\
+\
+エジェクションシート（Ejection Seat）をARMしませんでした。",
+    ["DictKey_GroupName_405"] = "Static Soldier #003",
+    ["DictKey_GroupName_385"] = "Fuel Truck #003",
+    ["DictKey_228"] = "左スロットルをIDLEにする\
+\
+ITT - チェック\
+油圧（Oil Pressure） - チェック\
+駆動圧（Hydraulic Pressure） - チェック\
+L-GEN ライト - OFFかチェック\
+ENG START CYCLE ライト - OFF\
+\
+エンジンの回転が安定してからライトのチェックをして下さい。\
+\
+APU GEN ウォーイング・ライトをクリア",
+    ["DictKey_296"] = "フライトコントロール - チェック",
+    ["DictKey_WptName_550"] = "",
+    ["DictKey_WptName_509"] = "",
+    ["DictKey_UnitName_404"] = "Static Soldier #002",
+    ["DictKey_GroupName_391"] = "Soldier Moving #001",
+    ["DictKey_ActionText_576"] = "チェックリストの項目でミスがあります。\
+\
+インジェクションシート（Ejection Seat）を解除（disarm)しませんでした。",
+    ["DictKey_GroupName_372"] = "UH-1H Flight",
+    ["DictKey_223"] = "CDU - 対応するアライメント方法にセットして下さい。",
+    ["DictKey_360"] = "チェックリストの項目でミスがあります。\
+\
+無線類をOFFにしませんでした。",
+    ["DictKey_WptName_538"] = "",
+    ["DictKey_UnitName_374"] = "WO Henry Dogget",
+    ["DictKey_293"] = "MFCD (L/R) - OFF\
+\
+EGI スイッチ - OFF\
+CDU スイッチ - OFF",
+    ["DictKey_WptName_551"] = "",
+    ["DictKey_310"] = "",
+    ["DictKey_250"] = "SAS の チェック\
+\
+アンチスキッドスイッチ - ANTI-SKID\
+SAS スイッチ - 有効（ON)\
+モニターテスト（Monitor Test）スイッチ - L （で維持）\
+SAS スイッチ - 有効\
+モニターテスト（Monitor Test）スイッチ - R （で維持）\
+SAS スイッチ - 有効\
+ピッチトリムコンペンセイター（Pitch trim compensator） - チェック\
+アンチスキッド（Anti-skid）スイッチ - OFF",
+    ["DictKey_WptName_501"] = "",
+    ["DictKey_325"] = "チェックリストの項目でミスがあります。\
+\
+CDUをONにしませんでした。",
+    ["DictKey_321"] = "チェックリストの項目でミスがあります。\
+\
+燃料ブーストポンプ（fuel boost pumps）をONにしませんでした。",
+    ["DictKey_218"] = "燃料計（Fuel Quantity） - チェック\
+\
+計器テストボタンを押す\
+\
+1秒間押したままにします。",
+    ["DictKey_WptName_451"] = "",
+    ["DictKey_361"] = "チェックリストの項目でミスがあります。\
+\
+酸素供給レバー（Oxygen Supply Lever.）をOFF（にしませんでした。",
+    ["DictKey_307"] = "ここで飛行を終了します。\
+\
+不十分です。\
+あなたの評価は不可（U)です。\
+\
+もっと訓練を行う必要があります。\
+\
+MISSION FAILED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_254"] = "ピトーヒーター - チェック",
+    ["DictKey_WptName_555"] = "",
+    ["DictKey_277"] = "スタートアップは良いでしょう。",
+    ["DictKey_WptName_460"] = "",
+    ["DictKey_220"] = "APU スイッチ - START\
+\
+L-FUEL PRESS Light - OFFかチェック\
+\
+APUが 100% RPM.に達するのを待ちます。",
+    ["DictKey_UnitName_412"] = "Static Soldier #004",
+    ["DictKey_317"] = "チェックリストの項目でミスがあります。\
+\
+T/Oトリムテスト（T/O Trim test.）を行いませんでした。",
+    ["DictKey_WptName_523"] = "",
+    ["DictKey_WptName_498"] = "",
+    ["DictKey_300"] = "酸素供給レバー（Oxygen Supply Lever） - OFF\
+\
+キャノピーコントロールスイッチ（Canopy Control Switch） - HOLD\
+\
+登場ラダー（Boarding Ladder） - 必要に応じて\
+\
+緊急フラッドライト（Emergency Flood Lights）スイッチ - OFF",
+    ["DictKey_WptName_515"] = "",
+    ["DictKey_GroupName_409"] = "Static A-10C #001",
+    ["DictKey_UnitName_400"] = "Static Fuel Truck 3 ",
+    ["DictKey_GroupName_377"] = "FE Humvee",
+    ["DictKey_227"] = "左エンジンのスタート\
+\
+エンジンオペレート（Engine Operate）スイッチ - NORM",
+    ["DictKey_185"] = "CCTVS/DV ADR リモートコントロールパネル - OFF",
+    ["DictKey_246"] = "シグナルライト（Signal Lights）のテスト\
+\
+1秒間押したままにしてください。",
+    ["DictKey_WptName_556"] = "",
+    ["DictKey_181"] = "この練習ミッションは、検定ミッションの訓練用に使用してください。",
+    ["DictKey_WptName_492"] = "",
+    ["DictKey_WptName_502"] = "",
+    ["DictKey_297"] = "右スロットル - OFF",
+    ["DictKey_GroupName_381"] = "Transport 1",
+    ["DictKey_GroupName_389"] = "Soldier Moving #002",
+    ["DictKey_WptName_522"] = "",
+    ["DictKey_WptName_506"] = "",
+    ["DictKey_202"] = "補助着陸装置展開ハンドル（Auxiliary Landing Gear Extension Handle） - IN\
+\
+サーキットブレーカー（Circuit Breakers） - CHECK CLOSED",
+    ["DictKey_WptName_503"] = "",
+    ["DictKey_GroupName_413"] = "Static Soldier #005",
+    ["DictKey_WptName_524"] = "",
+    ["DictKey_WptName_514"] = "",
+    ["DictKey_WptName_478"] = "",
+    ["DictKey_182"] = "プレフライトチェックリストについて説明しましょう。\
+\
+聞きやすくするためにキャノピーは閉じたほうが良いでしょう。",
+    ["DictKey_WptName_553"] = "",
+    ["DictKey_308"] = "よくできました！\
+\
+検定は通過できるでしょうが、もう少し練習を繰り返して、完璧にすべきでしょう。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_WptName_517"] = "",
+    ["DictKey_WptName_554"] = "",
+    ["DictKey_319"] = "チェックリストの項目でミスがあります。\
+\
+VHF/FM 無線をONにしませんでした",
+    ["DictKey_303"] = "近すぎます！　速度と間隔をよく見てください！",
+    ["DictKey_WptName_557"] = "",
+    ["DictKey_ActionText_563"] = "アンチスキッド（Anti-Skid）スイッチ - ANTI-SKID",
+} -- end of dictionary
