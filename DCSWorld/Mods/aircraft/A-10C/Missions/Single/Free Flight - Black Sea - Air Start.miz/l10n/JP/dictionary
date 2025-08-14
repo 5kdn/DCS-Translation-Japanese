@@ -1,0 +1,29 @@
+dictionary = 
+{
+    ["DictKey_descriptionText_9"] = "黒海上空でのフリーフライト\
+\
+空中スタート",
+    ["DictKey_descriptionBlueTask_11"] = "黒海上空でのフリーフライト\
+\
+空中スタート",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_GroupName_7"] = "New Vehicle Group #002",
+    ["DictKey_UnitName_4"] = "Unit #1",
+    ["DictKey_UnitName_2"] = "Pilot #1",
+    ["DictKey_descriptionRedTask_10"] = "",
+    ["DictKey_UnitName_6"] = "Unit #2",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_GroupName_5"] = "New Vehicle Group #001",
+    ["DictKey_GroupName_1"] = "Player",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_sortie_12"] = "黒海上空でのフリーフライト（空中スタート）",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_GroupName_3"] = "New Vehicle Group #003",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_UnitName_8"] = "Unit #3",
+} -- end of dictionary
