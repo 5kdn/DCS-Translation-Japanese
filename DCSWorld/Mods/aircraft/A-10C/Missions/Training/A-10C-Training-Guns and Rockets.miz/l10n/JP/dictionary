@@ -1,0 +1,236 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "RWY",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_53"] = "これでフライトに進む準備が完了した。離陸してウェイポイント2に向かえ。6,000ftまで上昇しろ。",
+    ["DictKey_GroupName_150"] = "FARP-Chopper-1",
+    ["DictKey_GroupName_125"] = "Batumi-Static-03",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_descriptionText_154"] = "",
+    ["DictKey_UnitName_146"] = "FARP-2",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_GroupName_137"] = "Batumi-Static-09",
+    ["DictKey_76"] = "4nmまで接近したら、パワーを絞り、ターゲットに向かってダイブを開始しろ。武器が射程距離に入るとレンジ・バーが縮み始める。ピパーをターゲットに合わせ続け、2nmになったら発射しろ。\
+連射されるように、トリガーは引き続けろ。\
+\
+ターゲットを固視し過ぎるな！攻撃が完了したらすぐに機首を引き起こして、ターゲットから遠ざかるように海へ向かい、上昇して高度を回復しろ。",
+    ["DictKey_63"] = "オートパイロットOFF。ユー・ハブ・コントロール。",
+    ["DictKey_GroupName_113"] = "Target-3-03",
+    ["DictKey_47"] = "これでIFFCCを左クリックし、ONに戻してよい。",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_52"] = "離陸にむけ、TADページを開いておこう。",
+    ["DictKey_UnitName_108"] = "Target-3-01 #002",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_45"] = "もう一度ENTキーを入力し、30mmページに入れ。",
+    ["DictKey_UnitName_136"] = "Batumi-Static-08",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_GroupName_129"] = "Batumi-Static-05",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_UnitName_138"] = "Batumi-Static-09",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_83"] = "お見事、命中だ！3,000ftに上昇し、水平飛行だ。",
+    ["DictKey_GroupName_143"] = "FARP-1",
+    ["DictKey_GroupName_115"] = "Hawg-1",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_UnitName_104"] = "Target-2-02",
+    ["DictKey_75"] = "2度目のトライが必要な場合に備えて、OSB-18を押してステーションの選択を解除しろ。",
+    ["DictKey_60"] = "ガン・ボア・ライン（GBL）クロスがHUDの中央上に表示されている。このクロスは機銃の縦軸を表している。少し横から見ないとGBLクロスが見えないかもしれない。\
+\
+弾種と残弾数はHUD左コーナーのデータ・ブロックに表示されている。現在は「CM/1150」すなわちコンバット・ミックス1150発を示している。",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_WptName_214"] = "",
+    ["DictKey_GroupName_86"] = "Moving Targets",
+    ["DictKey_GroupName_127"] = "Batumi-Static-04",
+    ["DictKey_GroupName_91"] = "Target-1-06",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_GroupName_103"] = "Target-2-02",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_UnitName_153"] = "FARP-Chopper-2",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_GroupName_95"] = "Target-1-01",
+    ["DictKey_UnitName_149"] = "Unit #1",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_79"] = "HOTASマスター・モード・ボタンか、Mキーを押してGUNSモードにスイッチしろ。\
+\
+ターゲット2は静止しているAPCの集団だ。射爆上の北東の隅に配置されている。いまターゲットにREDスモークが焚かれた。ターゲットへ旋回したら、大いなる復讐心と激しい怒りをもって叩きのめせ！",
+    ["DictKey_WptName_162"] = "MSN003",
+    ["DictKey_UnitName_151"] = "FARP-Chopper-1",
+    ["DictKey_WptName_223"] = "",
+    ["DictKey_UnitName_140"] = "Batumi-Static-10",
+    ["DictKey_GroupName_117"] = "Batumi-car",
+    ["DictKey_GroupName_109"] = "Target-1-02",
+    ["DictKey_49"] = "現在、計4つのLAU-68ロケットポッドを積んでいる。これらはステーション2、3と9、10に搭載されている。\
+\
+リリース・パラメーターの調整をいくつか行おう。OSB-1を押してプロファイル・メイン・ページを開け。",
+    ["DictKey_UnitName_114"] = "Target-3-03",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_GroupName_147"] = "Batumi Cars",
+    ["DictKey_57"] = "PACはトリガーが第一段階まで引かれたとき、機体を安定させてくれる。これは機銃掃射中、ピッチとヨーのモーメントを最小化させ、ガン・ピパー内の小範囲に命中させる働きをする。",
+    ["DictKey_GroupName_93"] = "Target-1-04",
+    ["DictKey_GroupName_89"] = "Target-3-02",
+    ["DictKey_80"] = "お見事、命中だ！3,000ftに上昇しろ。最後は、移動目標に対して機銃掃射を行う。",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_GroupName_135"] = "Batumi-Static-08",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_GroupName_152"] = "FARP-Chopper-2",
+    ["DictKey_GroupName_139"] = "Batumi-Static-10",
+    ["DictKey_58"] = "6,000ftで水平飛行し、ウェイポイント2までMAXパワーを維持しろ。",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_67"] = "4,000ftガン・クロス・サイトは距離が4,000ftのときの照準だ。こちらも同じように、CCIPがターゲットの正確な標高データをもとに計算できない場合にのみ使われる。\
+\
+全ての照準は、機がIFFCC 30MMメニューでセットした最低高度の5秒以内にいるとき、ミニマム・レンジ・キュー（MRC）という三角形のインデックスをレティクル右側に表示する。先ほど我々は、これを500ftにセットした。MRCは最低高度の5秒上に入ったときレティクル上部に現れ、最低高度の5秒下へ行くとレティクル下部まで下りる。\
+\
+HOTAS DMS RIGHTコマンドか、PAGE-DOWNをもう一度押してCCIPガン・レティクルに戻せ。",
+    ["DictKey_GroupName_111"] = "Target-2-04",
+    ["DictKey_UnitName_94"] = "Target-1-04",
+    ["DictKey_GroupName_131"] = "Batumi-Static-06",
+    ["DictKey_UnitName_128"] = "Batumi-Static-04",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_UnitName_106"] = "Target-2-03",
+    ["DictKey_GroupName_105"] = "Target-2-03",
+    ["DictKey_68"] = "CCIPモードにして、無誘導ロケット使用時におけるHUDインジケーションを見てみよう。HOTAS マスター・モード・ボタンか、Mを一度押せ。",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_UnitName_148"] = "Unit #2",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_UnitName_126"] = "Batumi-Static-03",
+    ["DictKey_54"] = "上昇中は180ktsを維持しろ。",
+    ["DictKey_64"] = "オートパイロットON。\
+\
+HOTASクーリー・ハットUP（ショート）コマンドか、Uを押して、必ずHUDをSOIにしてくれ。\
+\
+HOTAS DMS RIGHTコマンドかPAGE-DOWNを押して、照準をCCIPガン・クロスにしろ。",
+    ["DictKey_UnitName_87"] = "Moving-targets-02",
+    ["DictKey_WptName_160"] = "MSN002",
+    ["DictKey_46"] = "今日は実弾を積んでいるので、DATAロッカーキーを押してAMMO TYPEをCM（Combat Mix）に設定しろ。それからMIN ALTセッティングにスクロールし、DATAロッカーキーを使って最低高度を500（feet）に設定しろ。\
+\
+終わったらSTOREにスクロールしENTを押してこのメニューから出て、一つ前のメニューからもEXITラインを選んで出ろ。",
+    ["DictKey_70"] = "TロケットCCIPレティクルはCCIPガン・レティクルに似ているが、ムービング・ターゲット・インデックスは利用できない。レティクル下の「RKT」という表示は、これがロケット・サイトであることを示している。\
+\
+ロケットを使っているときも、HUDはCCIPガン・クロス・サイトのガン照準を表示しつづける。これは、同じ軌道中にロケット掃射から機銃掃射へすばやく切り替えることを可能にする。\
+\
+ロケット使用時のHUD表示としては他に、HUD左下のコーナーに数値で表示されるタイム・オブ・フォール（TOF）がある。現在「20」とあるのは20秒を意味している。\
+\
+ウェイポイント4をステアポイントに選択し、射爆場へ向かおう。オートパイロットを切るから自分で旋回してくれ。",
+    ["DictKey_51"] = "OSB-6のロータリーを押して、リリース・タイプをRIP PRSにセットしろ。UFCで「3」を押したあと、OSB-8のRIP QTYロータリーを押して連続発射数を3にセットしろ。\
+\
+OSB-3を押してプロファイルの変更を保存しろ",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_UnitName_96"] = "Target-1-01",
+    ["DictKey_55"] = "マスター・アーム・スイッチとGUN/PACスイッチを、AHCPからARMにセットしよう。\
+\
+フライト・コントロール・システムにプリシジョン・アティチュード・コントロール［高精度姿勢制御］（PAC）が入ったので、操縦桿がわずかに前方に倒れるぞ。",
+    ["DictKey_43"] = "静止目標および移動目標に対する無誘導ロケットおよびGAU-8/Aガン実践訓練飛行へようこそ。この訓練では機銃とロケット使用時におけるHUD表示の解説に続いて地上掃射を行う。\
+\
+離陸の前に、出撃準備の設定をいくつか行おう。まず、IFFCCを一回右クリックしてTESTモードにし、ガン・オプションをセットアップできるようにしよう。",
+    ["DictKey_descriptionRedTask_155"] = "",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_GroupName_101"] = "Target-2-01",
+    ["DictKey_descriptionBlueTask_156"] = "",
+    ["DictKey_50"] = "OSB-19を押してプロファイルを選択し、OSB-3を押してプロファイル・コントロール・ページを開け。",
+    ["DictKey_59"] = "オートパイロットがONになった。\
+\
+機銃掃射に関するHUDインジケーションを見てみよう。\
+\
+もしまだだったら、HOTASマスター・モード・ボタンか、Mを押してHUDをGUNSモードにしろ。",
+    ["DictKey_GroupName_97"] = "Target-1-03",
+    ["DictKey_UnitName_134"] = "Batumi-Static-07",
+    ["DictKey_78"] = "失敗したようだ。上昇したら、ステーション3と9を使ってもう一度挑戦しろ。",
+    ["DictKey_UnitName_100"] = "Target-1-05",
+    ["DictKey_62"] = "CCIPガン・レティクルの主な特徴は、レティクル中心にピパー・ドットがあることと、円周にそって伸縮するレンジ・バーがあることだ。12時、3時、6時、9時の位置にある四つの刻みは、ターゲットまでの直線距離を1,000フィート単位で把握するためのものだ。有効範囲に入ると、レンジ・バーが反時計回りに巻き取られていく。例えば、レンジ・バーがレティクルの底に来ているときは、直線距離は6,000フィートである。\
+\
+数値による直線距離も、レティクルの下に海里単位で表示されている。最後に、レティクルの中にある2つのムービング・ターゲット・インデックスは、ピパーLOSに対して鉛直方向に20ktsで移動する目標を狙う際に必要なリードを示している。現在は、直線距離が大きいため、レティクル3時、9時方向の外側いっぱいの位置に掛っている。\
+\
+ウェイポイント3（「MSN003」）をステアポイントにセット、陸地に向かおう。オートパイロットを切るので自分で旋回してくれ。",
+    ["DictKey_UnitName_144"] = "FARP-1",
+    ["DictKey_UnitName_90"] = "Target-3-02",
+    ["DictKey_UnitName_124"] = "Batumi-Static-02",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_GroupName_145"] = "FARP-2",
+    ["DictKey_UnitName_112"] = "Target-2-04",
+    ["DictKey_82"] = "最後のターゲットは移動している2台のグループだ。ターゲットは周辺を時計回りに周っている。ターゲット位置にREDスモークが焚かれた。攻撃開始！",
+    ["DictKey_56"] = "PNT-TMB-AHCP-GUNPAC",
+    ["DictKey_71"] = "オートパイロットOFF。ユー・ハブ・コントロール。",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_141"] = "Batumi-Static-11",
+    ["DictKey_81"] = "いまのはハズレだったようだな！もう一度挑戦しろ。",
+    ["DictKey_GroupName_133"] = "Batumi-Static-07",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_44"] = "SELロッカーキーでWEAPONページにスクロールし、ENTキーを入力して選択しろ。",
+    ["DictKey_UnitName_116"] = "Hawg-11",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_73"] = "射爆場に近づいてきたので、DSMSを準備しよう。左MFCDのOSB-14を押せ。",
+    ["DictKey_69"] = "HOTAS DMS RIGHTコマンドか、PAGE-DOWNを押して、ロケットをアクティブ・プロファイルとして選択しろ。",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_WptName_163"] = "RANGE",
+    ["DictKey_61"] = "A-10Cには4種類の対地射撃照準レティクルがある。最も情報量の多いレティクルは現在HUDに表示されているCCIPガン・レティクルで、これがデフォルトとなっている。\
+\
+Num*（アスタリスク）を押してHUDにズームし、照準を良く見てみろ。",
+    ["DictKey_66"] = "T 4/8/12ガン・レティクルは、CCIPガン・レティクルのグレードダウンバージョンだ。レティクルの中に4,000ft、8,000ft、12,000ftの3つの決まった距離の着弾点を表示する。\
+\
+通常は、CCIPがターゲットの正確な標高を算出できないときにのみ使う。\
+\
+HOTAS DMS RIGHTコマンドか、PAGE-DOWNを押して、4,000ftガン・クロス・サイトを選択しろ。",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_GroupName_121"] = "Batumi-Static-01",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_GroupName_123"] = "Batumi-Static-02",
+    ["DictKey_84"] = "いまのはハズレだったようだな。もう一度挑戦しろ。",
+    ["DictKey_UnitName_142"] = "Batumi-Static-11",
+    ["DictKey_WptName_221"] = "",
+    ["DictKey_74"] = "最初のターゲットは静止しているトラックの集団だ。射爆場の南西の隅に、ロケット射撃用に配置されている。いまターゲットがREDスモークが焚かれたので、HOTが宣言された！",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_48"] = "DSMSを見て我々のペイロードを確認しておこう。\
+\
+左MFCDのOSB-14を押せ。",
+    ["DictKey_GroupName_99"] = "Target-1-05",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_UnitName_98"] = "Target-1-03",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_85"] = "ロケットはCCRPモードにおいて、HUD TDC、TADカーソル、TGPでSPIを指定することによっても使用できる。この方法は長距離から交戦したり、長距離のターゲットにロフテッド軌道を用いることさえ可能だが、そのような攻撃では正確さは大きく減少してしまう。代わりに、CCRPモードで自由落下弾、精密誘導弾を使うことに挑戦してみよう。\
+\
+これで、地上静止目標および移動目標に対する機銃および無誘導ロケット実践訓練を終わる。",
+    ["DictKey_UnitName_110"] = "Target-1-02",
+    ["DictKey_65"] = "CCIPガン・クロスは、CCIPガン・レティクルのコンパクトバージョンだ。正確さは同じだが、ムービング・マーク・インデックスがないのでHUD上であまり邪魔にならない。\
+\
+もう一度HOTAS DMS RIGHTコマンドか、PAGE-DOWNを押して、4/8/12ガン・レティクルを選択しろ。",
+    ["DictKey_UnitName_120"] = "Batumi-soldier",
+    ["DictKey_GroupName_107"] = "Target-3-01 #002",
+    ["DictKey_72"] = "ウェイポイント4（「RANGE」）が、ターゲット射爆場に設定されている。ロケットと機銃掃射のためにターゲットが配置されている。ターゲットには発煙筒が焚かれる。",
+    ["DictKey_UnitName_132"] = "Batumi-Static-06",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_WptName_220"] = "",
+    ["DictKey_UnitName_88"] = "Moving-targets-01",
+    ["DictKey_UnitName_102"] = "Target-2-01",
+    ["DictKey_UnitName_122"] = "Batumi-Static-01",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_77"] = "お見事、命中だ！進路を西にとって海へ向かい、ターゲットから離れ、3,000ftまで上昇しろ。次は機銃掃射を行う。",
+    ["DictKey_UnitName_130"] = "Batumi-Static-05",
+    ["DictKey_GroupName_119"] = "Batumi-soldier",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_UnitName_92"] = "Target-1-06",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_sortie_157"] = "",
+    ["DictKey_UnitName_118"] = "Batumi-car",
+} -- end of dictionary

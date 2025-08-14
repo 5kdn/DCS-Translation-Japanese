@@ -1,0 +1,301 @@
+dictionary = 
+{
+    ["DictKey_GroupName_138"] = "Target-5-03",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_GroupName_124"] = "Target-4-02",
+    ["DictKey_90"] = "お見事！",
+    ["DictKey_WptName_227"] = "",
+    ["DictKey_53"] = "プロファイル・セッティング・ページでは、OSB-20はセーフ・エスケープ・マニューバ（SEM）をセレクトするのに使われる。現在は、「CLM」（クライム）にセットされている。覚えておいてほしいのは、地上からミッションをスタートするとき、ランプからのコールドスタートか滑走路からのホットスタートかに寄らず、デフォルトでSEMは通常「NONE」にセットされている。その場合、有効なCCIPソリューションは得られない。戦闘空域に入る前に、「CLM」、「TRN」（ターン）、「TLT」（ターン・レベル・ターン）のいずれかにSEMをセットすべきだ。\
+\
+プロファイル・セッティング・ページではさらに、OSB-19でデザイアード・タイム・オブ・フォール［指定落下時間］（「DES TOF」）、OSB-18でミニマム・リリース・アルティチュード［最低投下高度］（「MIN ALT」）をセットできる。これらの設定はCCIPソリューションのミニマム・レンジ・ステープル（MRS）とデザイアード・リリース・キュー（DRS）の位置を決定する。数分後にはこれらを見ることになるだろう。\
+\
+次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_GroupName_96"] = "Target-1-04",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_UnitName_135"] = "Target-5-01",
+    ["DictKey_GroupName_132"] = "Target-3-05",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_GroupName_166"] = "Batumi-Static-08",
+    ["DictKey_76"] = "「3/9」がウェポン・リリース・モードとしてHUDに表示されただろう。\
+\
+オートパイロットを切るからCRモードを練習してみろ。\
+\
+CCIP CR表示をHUDで見るには、機首を約5度下げろ。",
+    ["DictKey_78"] = "インジケーションが実線になった。アジマス・ステアリング・ライン（ASL）と5-milソリューション・キュー、タイム・トゥ・リリース・ニューメリック（TTRN）がHUDに追加された。\
+\
+PBILとASLが一致するように飛行しろ。\
+\
+ターゲットに近づくと、TTRNが投下までのカウントダウンを始め、ソリューション・キューがHUDを下りてくる。お前の目標は、ソリューション・キューがPBILを下りてきて、CCIPレティクルを通過するように機体を飛ばすことだ。\
+\
+CCIR CRモードの練習を続けてくれ。\
+\
+次のトピックに進んでよければSPACE BARを押してくれ。",
+    ["DictKey_86"] = "射爆場に近づいてきた。\
+\
+一般的に言って、ターゲットは10時か2時の方角に維持しながら接近するのがベストだ。ターゲットにロール・インしてダイブするのに最適なタイミングを見計らうことができるからだ。\
+\
+これで解説を終わる。いまターゲットにREDスモークが焚かれ、進入が許可された！",
+    ["DictKey_UnitName_145"] = "Target-5-06",
+    ["DictKey_WptName_247"] = "",
+    ["DictKey_UnitName_121"] = "Target-2-06",
+    ["DictKey_WptName_241"] = "",
+    ["DictKey_64"] = "PBILは現在の飛行状態においてピパーが通る地表を、理論的に予測するものだ。ターゲットがPBILに沿って通るようにすれば、簡単にピパーをターゲットに持っていくことが出来る。\
+\
+レティクルは、中心のピパー・ドット、1000フィート単位で着弾点までの直線距離を表示する伸縮レンジ、そしてミニマム・レンジ・キャレット（MRC）で構成される。\
+\
+PBILに沿ってミニマム・レンジ・ステープル（MRS）があるだろう。有効なCCIPソリューションを得るためには、これが常にレティクルの上になくてはならない。デザイアード・タイム・オブ・フォールがプロファイルに設定されている場合、デザイアード・リリース・キューもPBIL上に表示される。ダイブ時、DRCがターゲットの上にあるように維持すれば、プロファイルに設定された落下時間と一致する投下地点までDRCが導いてくれる。\
+\
+次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_52"] = "OSB-6を押して、リリース・モードを「PRS」（pairs［ペア］）にセットしろ。このセッティングにより、ウェポン・リリース・ボタンを押すたびに両側のTERステーションからそれぞれ1発のMk-82が投下される。\
+\
+リリース・モードが「PRS」にセットできたら、OSB-16をおして、プロファイル・セッティング・ページに入れ。",
+    ["DictKey_UnitName_115"] = "Target-2-04",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_GroupName_176"] = "FARP-2",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_UnitName_123"] = "Target-4-01",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_UnitName_163"] = "Batumi-Static-06",
+    ["DictKey_UnitName_157"] = "Batumi-Static-03",
+    ["DictKey_WptName_248"] = "",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_83"] = "では、実弾を投下するため射爆場へ向かおう。\
+\
+HOTAS TMS DOWNコマンドか、左CTRL+↓を押して、SPIをステアポイントにリセットしろ。\
+\
+マスターアームを2回左クリックしてONにセットしろ。",
+    ["DictKey_GroupName_100"] = "Target-1-03",
+    ["DictKey_UnitName_125"] = "Target-4-02",
+    ["DictKey_UnitName_182"] = "FARP-Chopper-1",
+    ["DictKey_75"] = "「3/9」がウェポン・リリース・モードとしてHUDに表示されただろう。\
+\
+オートパイロットを切るからCRモードを練習してみろ。\
+\
+CCIP CR表示をHUDで見るには、機首を約5度下げろ。",
+    ["DictKey_UnitName_171"] = "Batumi-Static-10",
+    ["DictKey_60"] = "OSB-1を押してDSMSステータス・ページに戻れ。",
+    ["DictKey_GroupName_146"] = "Hawg-1",
+    ["DictKey_WptName_214"] = "",
+    ["DictKey_UnitName_179"] = "Unit #2",
+    ["DictKey_UnitName_99"] = "Target-1-01",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_UnitName_113"] = "Target-1-02",
+    ["DictKey_WptName_190"] = "MSN002",
+    ["DictKey_UnitName_111"] = "Target-3-01",
+    ["DictKey_WptName_250"] = "",
+    ["DictKey_UnitName_137"] = "Target-5-02",
+    ["DictKey_UnitName_103"] = "Target-1-05",
+    ["DictKey_GroupName_120"] = "Target-2-06",
+    ["DictKey_UnitName_153"] = "Batumi-Static-01",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_UnitName_105"] = "Target-2-01",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_UnitName_149"] = "Batumi-car",
+    ["DictKey_GroupName_108"] = "Target-2-03",
+    ["DictKey_79"] = "CCIP CR 5-mil モードは3/9モードと同じように機能するが、5-milソリューション・キューがCCIPレティクルのピパーを直接通過したときのみ投下されるという点が異なる\
+\
+次は、CCRPモードを見ていこう。\
+HOTAS DMS RIGHTコマンドか、PAGE DOWNを押して「MK82AHI」プロファイルをセレクトしろ。HOTASマスター・モード・ボタンかMを押してCCRPモードをセレクトしろ。",
+    ["DictKey_UnitName_175"] = "FARP-1",
+    ["DictKey_WptName_252"] = "",
+    ["DictKey_UnitName_151"] = "Batumi-soldier",
+    ["DictKey_WptName_223"] = "",
+    ["DictKey_UnitName_180"] = "Unit #1",
+    ["DictKey_UnitName_117"] = "Target-3-03",
+    ["DictKey_UnitName_95"] = "Target-1-06",
+    ["DictKey_UnitName_127"] = "Target-4-03",
+    ["DictKey_49"] = "TA-10Cは、Mk-82 500 lbs及びMk-84 2,000 lbs 低抵抗通常［ロー・ドラッグ・ジェネラル・パーパス］（LDGP）自由落下爆弾を装備できる。加えて、Mk-82の高抵抗バージョンであるMk-82AIRは低高度での遅延爆撃に使用できる。さらに、CBU-87 複合効果弾［コンバインド・エフェクツ・ミュニションズ］（CEM）クラスター爆弾は、車両集団など軽武装した面状の標的に対して使用できる。\
+\
+OSB-14を押してDSMSを開き、今回のペイロードを見ておこう。",
+    ["DictKey_GroupName_181"] = "FARP-Chopper-1",
+    ["DictKey_GroupName_116"] = "Target-3-03",
+    ["DictKey_UnitName_159"] = "Batumi-Static-04",
+    ["DictKey_UnitName_143"] = "Target-5-05",
+    ["DictKey_GroupName_174"] = "FARP-1",
+    ["DictKey_57"] = "このプロファイルはいくつか変更を行おう：\
+\
+1） OSB-6を押してリリース・モードを「RIP SGL」にする。これは爆弾を連続的に投下する。\
+2） UFCスクラッチパッドで「2」を押したあとOSB-8を押して、連続投下数を2にセットする。\
+3） OSB-10を押して、このプロファイルのHUDモードをCCRPに変更する。\
+\
+OSB-7の信管設定のデフォルトになっている「N/T」（ノーズ／テール）は高抵抗投下用のシュートを展開するぞ。今回は低高度からの高抵抗CCRP投下をするつもりなのでそのままの設定でよい。Mk-82AIRを低抵抗爆弾として投下したいなら、この信管設定を「NOSE」にしなければならない。\
+\
+また、OSB-9の着弾間隔設定の75ftは、UFCを使って違う数値に変更することができるぞ。\
+\
+OSB-16を押してプロファイル・セッティング・ページに入れ。",
+    ["DictKey_GroupName_112"] = "Target-1-02",
+    ["DictKey_GroupName_172"] = "Batumi-Static-11",
+    ["DictKey_54"] = "最低投下高度を1,500ftにセットしよう。これをするには、まずUFCスクラッチパッドで「1500」を押し、それからOSB-18を押してDSMSに数値を入力する。 ",
+    ["DictKey_UnitName_93"] = "Target-3-02",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_80"] = "CCRPインジケーションはCCIP CRの指定後に似ていて、ASLと5-milソリューション・キューが理想的なリリース・ポイントを指し示してくれる。異なるのは、CCRPモードではターゲットは、使用可能なセンサーどれかを使ってセンサー・ポイント・オブ・インタレスト（SPI）にマークされるという点だ。\
+\
+HUDにおいてターゲット・デジグネーション・キュー（TDC）を使ってSPIを指定してみよう。\
+\
+次に進んでよければSPACE BARを押してくれ。",
+    ["DictKey_GroupName_170"] = "Batumi-Static-10",
+    ["DictKey_UnitName_133"] = "Target-3-05",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_UnitName_169"] = "Batumi-Static-09",
+    ["DictKey_GroupName_114"] = "Target-2-04",
+    ["DictKey_GroupName_94"] = "Target-1-06",
+    ["DictKey_GroupName_142"] = "Target-5-05",
+    ["DictKey_77"] = "破線のCCIP CR表示がHUDに現れた。レティクルは底にかかっている。右CONTROL+右SHIFT+Numpad 8を押せばレティクルが良く見えるように視点を動かすことができるぞ。\
+\
+ピパーを目標地点に置き、ウェポン・リリース・ボタンを長押しすれば、指定後のインジケーションが見られる。",
+    ["DictKey_GroupName_106"] = "Target-2-02",
+    ["DictKey_63"] = "破線のようなCCIPインジケーションがHUDに見えるが、これはプロジェクト・ボム・インパクト・ライン（PBIL）と呼ばれるものだ。破線の表示はピパーがHUD視野の下にあることを意味している。ピパーの照準を見るためにダイブをするつもりだが、その前にいくつか重要なCCIPインジケーションをみておこう。CCIPのイラストが載っているフライト・マニュアルを開いておくといいかもしれない。\
+\
+次に進んでよければSPACE BARを押せ。",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_UnitName_173"] = "Batumi-Static-11",
+    ["DictKey_GroupName_152"] = "Batumi-Static-01",
+    ["DictKey_UnitName_131"] = "Target-3-04",
+    ["DictKey_58"] = "UFCスクラッチパッドで「200」を押したあとOSB-18 を押して、最低投下高度を200ftにセットしろ",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_67"] = "CCIPソリューションの正確性を最も高めるには、加速を最小限にし、一定した軌道を描くことが大切だ。TVVがターゲットより上の、一点にあるよう維持しろ。そうすることによってCCIPピパーが「這うように」ターゲットに近づいていく。CCIPレティクルを一点に維持しようとしてはならない。マイナスGがかかって、ソリューションや爆弾投下に問題を引き起こしてしまうからだ。",
+    ["DictKey_69"] = "やりたければ、もう何度かCCIPを試してみてもいいぞ。だがその前に高度を回復するのが先だ。\
+\
+次のトピックに進んでよければ、SPACE BARを押してくれ。",
+    ["DictKey_89"] = "よくやった。",
+    ["DictKey_72"] = "UFC DATAロッカーキーを押してCCIP CONSENT OPT（オプション）を「OFF」から「3/9」に変更しろ。",
+    ["DictKey_WptName_251"] = "",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_UnitName_141"] = "Target-5-04",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_87"] = "複数のターゲットに命中した！",
+    ["DictKey_WptName_220"] = "",
+    ["DictKey_50"] = "我々は、ステーション3と9のトリプル・イジェクター・ラックス（TER）に6発のMk-82を、ステーション4・5・7・8に4発のMk-82AIRを積んでいる。\
+\
+OSB-1を押してプロファイル・メイン・ページに入れ。",
+    ["DictKey_55"] = "OSB-3でこのプロファイルの変更をセーブしろ。",
+    ["DictKey_62"] = "爆弾はCCIP（コンティニュアスリー・コンピューテッド・インパクト・ポイント）HUDモードとCCRP（コンティニュアスリー・コンピューテッド・リリース・ポイント）HUDモードから使用できる。平たく言えば、CCIPは地表の着弾点を計算して表示し、CCRPは指定された空中の投下地点を表示する。\
+\
+2つのモードのうち、CCIPは最も分かりやすい。パイロットはピパーをターゲットの上に置き、爆弾を放り込めばよい。しかしながらCCIPが厄介なのは、レティクルがHUD上に見えるようになるために、相当な角度でダイブしなければならない点だ。これはより敵に接近することになるし、時には「死ぬほど」地面に接近することになる。\
+\
+CCIPを動かしてみよう。UFCのSEL DOWNロッカーキーを押して「MK-82」プロファイルをセレクトしろ。HOTAS DMS RIGHTコマンドか、PAGE DOWNでもできる。",
+    ["DictKey_GroupName_144"] = "Target-5-06",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_WptName_192"] = "RANGE",
+    ["DictKey_GroupName_150"] = "Batumi-soldier",
+    ["DictKey_WptName_226"] = "",
+    ["DictKey_51"] = "OSB-19で「MK-82」プロファイルをセレクトし、OSB-3でプロファイル・コントロール・ページに入れ。",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_UnitName_167"] = "Batumi-Static-08",
+    ["DictKey_70"] = "次は、CCIP CR（コンセント・トゥ・リリース）モードについてだ。\
+\
+方位をウェイポイント2（「MSN002」）に向けろ。6,000ftまで上昇し、速度を200ノット以上に保て。",
+    ["DictKey_46"] = "CCIP及びCCRPマスターモードを使用した無誘導爆弾の実践訓練へようこそ。\
+\
+オートパイロットで高度と方位を維持している。ミッション中、速度が200knots以上を維持するようにスロットルを管理してくれ。",
+    ["DictKey_UnitName_97"] = "Target-1-04",
+    ["DictKey_84"] = " HOTAS DMS UPコマンドか、HOMEを押してウェイポイント3（「RANGE」）をステアポイントにセットしろ。射爆場へナビゲートしろ。CCIPランを練習するにはいくらか高度が必要だろう。",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_88"] = "命中したようだ！",
+    ["DictKey_WptName_254"] = "",
+    ["DictKey_GroupName_110"] = "Target-3-01",
+    ["DictKey_WptName_238"] = "",
+    ["DictKey_GroupName_158"] = "Batumi-Static-04",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_descriptionRedTask_186"] = "",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_WptName_232"] = "",
+    ["DictKey_61"] = "AHCパネルのマスター・アームを2回右クリックしてTRAINにセットしろ。",
+    ["DictKey_GroupName_130"] = "Target-3-04",
+    ["DictKey_UnitName_109"] = "Target-2-03",
+    ["DictKey_sortie_188"] = "",
+    ["DictKey_UnitName_165"] = "Batumi-Static-07",
+    ["DictKey_GroupName_126"] = "Target-4-03",
+    ["DictKey_74"] = "HOTASマスター・モード・ボタンか、Mを押してHUDをCCIPモードに戻せ。",
+    ["DictKey_GroupName_104"] = "Target-2-01",
+    ["DictKey_GroupName_183"] = "FARP-Chopper-2",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_UnitName_101"] = "Target-1-03",
+    ["DictKey_65"] = "CCIPレティクルが見れるように、ダイブを行おう。\
+\
+ダイブ時はエンジン出力を減らし、必要であればスピードブレーキも展開して加速を最小限に抑えろ。3,000ft以上でリカバーしろ。\
+\
+用意が出来たら、エンジン出力を減らし、SPACE BARを押せ。オートパイロットを切るから自分でダイブを始めてくれ。",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_71"] = "オートパイロットON。\
+\
+CCIPの制約を補うため、A-10Cには2つのCCIP CR（コンセント・トゥ・リリース）モードが実装されている。CRモードでは、CCIPレティクルがHUD上に常に見えている。着弾点がHUDより下にある場合、標準のCCIPではレティクルが消えてしまうのに対して、CRモードではレティクルがHUDの底に残り、破線で表現される。これはピパーをターゲット上に置くことによってターゲットを指定し、ウェポン・リリース・ボタンを長押しすることによって攻撃を行うことを可能にする。これを行うには、理想的な投下地点を教えてくれる追加のHUDインジケーションが必要だ。投下地点を通過する間、ウェポン・リリース・ボタンを押しっぱなしにしていると、自動的に爆弾は投下される。\
+\
+CRモードには2つの種類がある。「3/9」と「5-mil」だ。3/9モードの方がミスが許されるのでこちらを使う。\
+\
+CRモードはIFCC TESTメニューから使用可能にできる。AHCPのIFFCCスイッチを右クリックし、TESTにセットしろ。",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_82"] = "見慣れたアジマス・ステアリング・ラインや5-milソリューション・キューとともに、CCRP表示がHUDで見られるようになった。ターゲットに近づくにつれ、ソリューション・キューとTTRNタイマーがASLを下りてきてCCRPレティクルを通過するが、このときウェポン・リリース・ボタンが押されていると、爆弾は投下される。\
+\
+MK-82AHIのプロファイルを高抵抗爆撃に設定しているので、この場合のリリースポイントは実質ターゲットの真上になるだろう。\
+\
+やりたければ、他の場所にSPIを指定してみてもよい。\
+\
+次のトピックに進んでよければSPACE BARを押してくれ。",
+    ["DictKey_56"] = "次はMk-82AIRの設定をしよう。OSB-19で「MK82APO」プロファイルをセレクトし、OSB-3でプロファイル・コントロール・ページに入れ。",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_UnitName_161"] = "Batumi-Static-05",
+    ["DictKey_GroupName_134"] = "Target-5-01",
+    ["DictKey_81"] = "HOTASスルーコントロールDOWNか、ピリオド「.」を押してHUDのTDCを、HUDのハイライトされた部分に下げろ。HOTAS TMS UPコマンドか、左CTRL+↑を長押ししてこの点をSPIに指定しろ。",
+    ["DictKey_66"] = "オートパイロットOFF。ユー・ハブ・コントロール。機首を-30から-40まで下げろ。",
+    ["DictKey_WptName_230"] = "",
+    ["DictKey_UnitName_184"] = "FARP-Chopper-2",
+    ["DictKey_GroupName_154"] = "Batumi-Static-02",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_WptName_249"] = "",
+    ["DictKey_UnitName_147"] = "Hawg-11",
+    ["DictKey_GroupName_140"] = "Target-5-04",
+    ["DictKey_UnitName_139"] = "Target-5-03",
+    ["DictKey_GroupName_122"] = "Target-4-01",
+    ["DictKey_GroupName_98"] = "Target-1-01",
+    ["DictKey_GroupName_92"] = "Target-3-02",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_WptName_221"] = "",
+    ["DictKey_UnitName_119"] = "Target-2-05",
+    ["DictKey_GroupName_178"] = "Batumi Cars",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_WptName_231"] = "",
+    ["DictKey_WptName_229"] = "",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_48"] = "では、HUDをSOIに戻そう。HOTASクーリーハットUP コマンドか、Uを押せ。",
+    ["DictKey_descriptionBlueTask_187"] = "",
+    ["DictKey_UnitName_107"] = "Target-2-02",
+    ["DictKey_73"] = "IFFCCをONに戻すため、IFFCCを左クリックしろ。",
+    ["DictKey_WptName_235"] = "",
+    ["DictKey_85"] = "射爆場には複数のターゲット・アレーが設置されている。MK-82とMK-82AIRをCCIPモードとCCIP CRモード、そしてCCRPモードで投下する練習を行え。\
+\
+覚えておけ。MK-82AIRのプロファイルを高抵抗爆撃にセットしてあるから、CCRPモードにおいてHUD TDCでターゲットを指定すれば、低高度水平飛行で爆撃を行えるぞ。",
+    ["DictKey_59"] = "OSB-3でこのプロファイルの変更をセーブしろ。",
+    ["DictKey_GroupName_102"] = "Target-1-05",
+    ["DictKey_47"] = "TADレンジを40nmにセットしろ。これをするには、まずOSB-15を押してTADをSOIにし、それからHOTAS DMS DOWN コマンドかENDを3回押せばいい。",
+    ["DictKey_GroupName_162"] = "Batumi-Static-06",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_UnitName_177"] = "FARP-2",
+    ["DictKey_GroupName_168"] = "Batumi-Static-09",
+    ["DictKey_WptName_240"] = "",
+    ["DictKey_GroupName_156"] = "Batumi-Static-03",
+    ["DictKey_UnitName_155"] = "Batumi-Static-02",
+    ["DictKey_UnitName_129"] = "Target-4-04",
+    ["DictKey_GroupName_160"] = "Batumi-Static-05",
+    ["DictKey_GroupName_128"] = "Target-4-04",
+    ["DictKey_GroupName_148"] = "Batumi-car",
+    ["DictKey_91"] = "ナイスラン。",
+    ["DictKey_GroupName_164"] = "Batumi-Static-07",
+    ["DictKey_GroupName_118"] = "Target-2-05",
+    ["DictKey_68"] = "水平飛行。",
+    ["DictKey_descriptionText_185"] = "",
+    ["DictKey_GroupName_136"] = "Target-5-02",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_WptName_244"] = "",
+    ["DictKey_WptName_236"] = "",
+} -- end of dictionary

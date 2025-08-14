@@ -1,0 +1,181 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_UnitName_89"] = "Target-2-02",
+    ["DictKey_UnitName_85"] = "Target-1-02",
+    ["DictKey_53"] = " HUDは現在AIM-9Mレティクルを表示している。この音はAIM-9シーカーの捕捉状態を示している。信号の音が高いほど、シーカーの捕捉度は高い。\
+\
+AIM-9は現在、ボアサイト・モードになっている。これはシーカーがボアサイトに固定されているため、発射するにはレティクルがターゲットに重なるように機体をもっていかなければならないということだ。\
+\
+HOTASチャイナハットFORWARD（ショート）コマンドもしくはVを押して、シーカーを解放しろ。",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_GroupName_96"] = "Batumi-Static-01",
+    ["DictKey_GroupName_125"] = "FARP-Chopper-1",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_76"] = "TAASページはガンサイトとして選択可能な、10のプリセットされた航空機をリストアップしている。加えて、カスタム固定翼機エントリー（MAN-FXD）が1つ、カスタム回転翼機（MAN-RTY）エントリーが1つ作成できる。\
+\
+SELロッカーキーを使ってプロファイルをサイクルし、ENTキーを押してプロファイルをON、OFFにできる。OFFにセットされたプロファイルは、AIR TO AIRモードのターゲット・プロファイルでサイクルすることができなくなる。\
+\
+よければ、IFFCCスイッチを左クリックしてONに戻せ。",
+    ["DictKey_63"] = "HOTASチャイナハットFORWARD（ショート）コマンドもしくはVを押してTGPをワイドFOV（WFOV）に戻せ。",
+    ["DictKey_GroupName_102"] = "Batumi-Static-04",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_GroupName_88"] = "Target-2-02",
+    ["DictKey_UnitName_121"] = "FARP-2",
+    ["DictKey_47"] = "右側のターゲット2がフレア放出をやめた。まだ放出している左側のターゲット1に狙いを定めよう。\
+\
+HOTASスルーコントロールもしくは「;」「,」「.」「/」を使ってTGPのLOSをターゲット1に合わせろ。",
+    ["DictKey_64"] = "TGPをターゲットに合わせ、HOTAS TMS UP（ショート）コマンドか左CTRL+↑を押してPOINTトラックモードを入れろ。",
+    ["DictKey_55"] = "AIM-9シーカーはSCANモードにもできる。これは機体前方のより大きな範囲をカバーするために、ボアサイト・ラインの周りを周回しながらスキャンを行うものだ。\
+\
+HOTAS TMS UP (ショート) か LCTRL ↑を押してSCAN モードに入れ",
+    ["DictKey_52"] = "ではHOTASマスター・モード・ボタンもしくはMを長押ししてHUDをエア・トゥ・エア・モードにしろ。",
+    ["DictKey_UnitName_115"] = "Batumi-Static-10",
+    ["DictKey_sortie_132"] = "",
+    ["DictKey_UnitName_87"] = "Target-2-01",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_UnitName_123"] = "Unit #2",
+    ["DictKey_GroupName_94"] = "Batumi-soldier",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_GroupName_100"] = "Batumi-Static-03",
+    ["DictKey_39"] = "A-10C空対空交戦訓練へようこそ。\
+\
+オートパイロットで高度を維持している。フライト中230-240ktsを保つようパワーを調節してくれ。",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_75"] = "SELロッカーキーでAAS（エア・エア・サブメニュー）ページにスクロールし、ENTキーを押して開け。",
+    ["DictKey_60"] = "まだAIM-9は残っているが、もう一度HOTASチャイナハットAFT（ショート）コマンドもしくはCを押してミサイルを無効にし、ガン・インジケーションを見てみよう。",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_GroupName_86"] = "Target-2-01",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_UnitName_99"] = "Batumi-Static-02",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_UnitName_113"] = "Batumi-Static-09",
+    ["DictKey_UnitName_111"] = "Batumi-Static-08",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_UnitName_103"] = "Batumi-Static-04",
+    ["DictKey_GroupName_120"] = "FARP-2",
+    ["DictKey_UnitName_105"] = "Batumi-Static-05",
+    ["DictKey_GroupName_108"] = "Batumi-Static-07",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_68"] = "ファンネル・ガンサイトを使うには、プリセットされた10のターゲット・プロファイルから1つをセレクトしなければならない。ターゲットであるSu-25のプロファイルをセレクトするには、HOTAS DMS RIGHTコマンドもしくはPAGE-DOWNを4回押せ。HUDのウェポン・プロファイル部分にプロファイル名がサイクルするのを見てみろ。",
+    ["DictKey_UnitName_93"] = "Batumi-car",
+    ["DictKey_UnitName_117"] = "Batumi-Static-11",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_UnitName_81"] = "Air-Target-2B",
+    ["DictKey_UnitName_95"] = "Batumi-soldier",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_49"] = "HOTASチャイナハットFORWARD（ショート）コマンドもしくはVを押してTGPをナロー・フィールド・オブ・ビュー（NFOV）にしろ。",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_57"] = "サイドワインダーの発射は2nm以内で行うのがベストだ。ターゲット1をしっかりロックしていることを確かめたら、ウェポン・リリース・ボタンを押して発射しろ！",
+    ["DictKey_GroupName_112"] = "Batumi-Static-09",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_descriptionText_129"] = "",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_58"] = "フォックス2！",
+    ["DictKey_67"] = "HOTASクーリーハットUP（ショート）コマンドもしくはUを押して、HUDをSOIにしろ。",
+    ["DictKey_69"] = "ファンネル・ガンサイトを使って狙いを定めるには、ターゲットと自機の動きを合わせ、ターゲットの両翼端がちょうどファンネルの縁に触れるように、ターゲットをファンネルの内側に入れろ。この位置はどんな距離においても発射ソリューションとなるように、選択したプロファイルにセットされている翼幅をもとに計算されている。\
+\
+ガン・インジケーションには、ガン・ボア・ライン（GBL）クロスの下の、エア・マス・インパクト・ライン（AMIL）もある。AMILは発射2秒後の弾丸の弾道を表している。ターゲットとの距離が近い場合は、AMILの一番上をターゲットに合わせれば、よい照準となる。",
+    ["DictKey_72"] = "命中！",
+    ["DictKey_62"] = "HOTASチャイナハットAFT（ショート）コマンドもしくはCを押してTGPをボアサイトにしろ。",
+    ["DictKey_GroupName_106"] = "Batumi-Static-06",
+    ["DictKey_GroupName_114"] = "Batumi-Static-10",
+    ["DictKey_descriptionBlueTask_131"] = "",
+    ["DictKey_42"] = "左MFCDでDSMSページを開き、ペイロードを確認しよう。",
+    ["DictKey_51"] = "HOTASクーリーハットUP（ショート）コマンドもしくはUを押して、HUDをSOIにしろ。",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_46"] = "HOTASクーリーハットRIGHT（ロング）コマンドもしくはKを長押しして、TGPをSOIにしろ。",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_descriptionRedTask_130"] = "",
+    ["DictKey_UnitName_83"] = "Target-1-01",
+    ["DictKey_43"] = "ステーション2にLITENING-IIと、ステーション11にAIM-9Mを2発積んでいる。さらにCM弾丸も満載している。",
+    ["DictKey_UnitName_109"] = "Batumi-Static-07",
+    ["DictKey_GroupName_82"] = "Target-1-01",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_GroupName_104"] = "Batumi-Static-05",
+    ["DictKey_UnitName_124"] = "Unit #1",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_56"] = "準備が出来たらいつでもAを押してオートパイロットを切り、直接ターゲット1の背後についてシーカーでロックしろ。",
+    ["DictKey_65"] = "機銃を発射するにはもう少しターゲット2に近づく必要がある。パワーを上げて距離を詰めろ。だがターゲットをオーバーランしないよう気をつけろ。",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_44"] = "We are carrying a LITENING pod on station 2 and 2 AIM-9Ms on station 11. We are also armed with a full payload for the gun.",
+    ["DictKey_GroupName_90"] = "Hawg-1",
+    ["DictKey_GroupName_116"] = "Batumi-Static-11",
+    ["DictKey_GroupName_122"] = "Batumi Cars",
+    ["DictKey_GroupName_98"] = "Batumi-Static-02",
+    ["DictKey_GroupName_92"] = "Batumi-car",
+    ["DictKey_41"] = "約1nm先にエアボーン・ターゲットとして2機のSU-25が準備している。いま視認しやすいようにフレアを放ってくれている。Numpad*（アスタリスク）を押してHUDにズームインすればよく見えるだろう。\
+\
+Numpad ENTER を押せばデフォルトのコクピット視点に戻る。\
+\
+このフライトでは速度に注意を払い、230-240ktsに保つことが肝要だ。でなければターゲットに置いてきぼりにされるか、オーバーランしてしまう。",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_66"] = "ファンネル・ガン射撃のできる距離に近づいた。高度と速度を合わせ、230-240ktsに保て。",
+    ["DictKey_UnitName_119"] = "FARP-1",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_GroupName_127"] = "FARP-Chopper-2",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_UnitName_91"] = "Hawg-11",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_61"] = "それからTGPもボアサイトに戻し、ターゲット2の追跡を開始しろ。現在、視認のためにもう一度フレアを放っている。\
+\
+まず、 HOTAS クーリーハット RIGHT (ロング) コマンド　か「ｋ」キーを押してTGPをSOIにしろ　",
+    ["DictKey_48"] = "TGPディスプレイのクロス・キューはTGPがトラックできる目標を示している。ターゲット1がフレア放出をやめた。\
+\
+HOTAS TMS UPコマンドもしくは左CTRL+↑を押して、ターゲット1の上でTGPをPOINTトラックモードにしろ。",
+    ["DictKey_71"] = "撃て、撃て、撃て！",
+    ["DictKey_UnitName_107"] = "Batumi-Static-06",
+    ["DictKey_73"] = "水平飛行にしろ、この訓練のまとめに入る。",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_UnitName_128"] = "FARP-Chopper-2",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_UnitName_101"] = "Batumi-Static-03",
+    ["DictKey_GroupName_84"] = "Target-1-02",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_GroupName_110"] = "Batumi-Static-08",
+    ["DictKey_45"] = "原則としてA-10で、もつれ合いの空中戦を行うことは避けるべきだが、いつ敵機が襲いかかってくるかは分からない。また戦闘では、地上を低高度で飛び回る敵のヘリや対地攻撃機など、よい獲物が現れてくれる可能性もある。\
+\
+そんな時、奴らを追跡するのにLITENING-II TGPが非常に役に立つ。\
+\
+OSB-4を押してTGPのA-Aページを開け。",
+    ["DictKey_70"] = "ターゲット2への発砲が許可された。",
+    ["DictKey_UnitName_126"] = "FARP-Chopper-1",
+    ["DictKey_50"] = "背景に対してターゲットがくっきり見えるように、FLIRビデオに切り替えるのが賢明だ。\
+\
+HOTASボートスイッチFORWARDコマンドもしくは右ALT+→を押して、TGPをWHOT（ホワイトホット）ビデオにセットしろ。",
+    ["DictKey_59"] = "撃墜！\
+\
+水平飛行を維持しろ",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_77"] = "これでA-10Cの空対空訓練を終わる。",
+    ["DictKey_UnitName_79"] = "Air-Target-1",
+    ["DictKey_UnitName_97"] = "Batumi-Static-01",
+    ["DictKey_74"] = "オートパイロットを入れた。高度を維持する。\
+\
+訓練を終わる前に、IFFCC TESTメニューを見てみよう。ここでファンネルのターゲット設定をいじることができる。\
+\
+AHCPのIFFCCスイッチを1回右クリックし、IFFCCをTESTモードにセットしろ。",
+    ["DictKey_GroupName_118"] = "FARP-1",
+    ["DictKey_GroupName_78"] = "Air-Target-1",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_54"] = "解放されるとシーカーはボアサイト・ラインから離れて自由にスキャン・ゾーンを漂う。ボアサイト・モードでターゲットを攻撃する場合は、発射の前にシーカーを解放し、シーカーがしっかりとロックしているか確かめてみるのが良いだろう。\
+\
+HOTASチャイナハットAFT（ショート）コマンドもしくはCを押してシーカーをボアサイトに戻せ。",
+    ["DictKey_GroupName_80"] = "Air-Target-2B",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_40"] = "A-10Cはジェット戦闘機ではない。しかしドッグファイトにおいて優れた敏捷性と、自己防衛としては充分すぎるほどのパンチ力を発揮する。イボイノシシが吹く30㎜砲の前には、如何なる捕食者も挑戦をためらうだろう。また、AIM-9 Sidewinderでは広い交戦範囲をもってエアボーン・ターゲットに対抗することができる。",
+} -- end of dictionary
