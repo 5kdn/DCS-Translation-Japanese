@@ -1,0 +1,593 @@
+dictionary = 
+{
+    ["DictKey_WptName_377"] = "",
+    ["DictKey_WptName_309"] = "",
+    ["DictKey_WptName_464"] = "",
+    ["DictKey_WptName_401"] = "",
+    ["DictKey_53"] = "[Charger]:\
+\
+ラジャー、 UTAH に進軍開始します。",
+    ["DictKey_UnitName_156"] = "Unit #39",
+    ["DictKey_UnitName_283"] = "Unit #24",
+    ["DictKey_GroupName_198"] = "US SEAD 1",
+    ["DictKey_UnitName_135"] = "Unit #20",
+    ["DictKey_UnitName_233"] = "US SUPP 3 #18",
+    ["DictKey_GroupName_177"] = "RU SA-15 2",
+    ["DictKey_WptName_467"] = "",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_UnitName_146"] = "Unit #34",
+    ["DictKey_UnitName_251"] = "US M2A2 PLT 1-4 Seahawk",
+    ["DictKey_WptName_432"] = "",
+    ["DictKey_WptName_446"] = "",
+    ["DictKey_WptName_422"] = "",
+    ["DictKey_WptName_488"] = "",
+    ["DictKey_WptName_430"] = "",
+    ["DictKey_descriptionRedTask_287"] = "",
+    ["DictKey_UnitName_121"] = "Unit #5",
+    ["DictKey_GroupName_284"] = "US FARP",
+    ["DictKey_GroupName_255"] = "US M2A2 PLT 3",
+    ["DictKey_WptName_453"] = "",
+    ["DictKey_WptName_416"] = "",
+    ["DictKey_GroupName_153"] = "RU AAA 5",
+    ["DictKey_WptName_438"] = "",
+    ["DictKey_WptName_482"] = "",
+    ["DictKey_UnitName_238"] = "US SUPP 3 #22",
+    ["DictKey_UnitName_258"] = "US SUPP 3 #38",
+    ["DictKey_UnitName_158"] = "Unit #40",
+    ["DictKey_WptName_336"] = "TGT 1",
+    ["DictKey_WptName_347"] = "",
+    ["DictKey_UnitName_194"] = "US SEAD 2.1",
+    ["DictKey_WptName_397"] = "",
+    ["DictKey_UnitName_74"] = "RU CAP 1.1",
+    ["DictKey_GroupName_84"] = "RU T-72B PLT 1-1",
+    ["DictKey_WptName_374"] = "",
+    ["DictKey_UnitName_130"] = "Unit #10",
+    ["DictKey_WptName_468"] = "",
+    ["DictKey_WptName_293"] = "",
+    ["DictKey_UnitName_249"] = "US SUPP 3 #29",
+    ["DictKey_29"] = "Enfield 2-1 (SEAD) 任務を行って下さい。",
+    ["DictKey_UnitName_79"] = "RU CAS 1.2",
+    ["DictKey_GroupName_157"] = "RU AAA 7",
+    ["DictKey_GroupName_212"] = "US CAP 3",
+    ["DictKey_UnitName_262"] = "US SUPP 3 #49",
+    ["DictKey_54"] = "Charger 、Utahに進軍してください。",
+    ["DictKey_UnitName_170"] = "Unit #46",
+    ["DictKey_UnitName_216"] = "US AH 1.2",
+    ["DictKey_38"] = "[Boar 7-1]:\
+\
+ラジャー、IPに進みます。\
+",
+    ["DictKey_UnitName_229"] = "US SUPP 3 #3",
+    ["DictKey_WptName_427"] = "",
+    ["DictKey_UnitName_160"] = "Unit #41",
+    ["DictKey_UnitName_227"] = "US SUPP 3 #5",
+    ["DictKey_WptName_408"] = "",
+    ["DictKey_33"] = "Boar 8-1 (CAS) 任務を行って下さい。",
+    ["DictKey_UnitName_105"] = "New Vehicle Group #17",
+    ["DictKey_WptName_462"] = "Charger",
+    ["DictKey_WptName_315"] = "",
+    ["DictKey_GroupName_165"] = "RU SA-13 1",
+    ["DictKey_UnitName_269"] = "Unit #48",
+    ["DictKey_GroupName_159"] = "RU AAA 8",
+    ["DictKey_sortie_289"] = "Push 6-1",
+    ["DictKey_WptName_437"] = "",
+    ["DictKey_UnitName_261"] = "US SUPP 3 #50",
+    ["DictKey_UnitName_213"] = "Pilot #3",
+    ["DictKey_68"] = "Mission Success\
+-----------------------\
+\
+全ての敵軍を破壊しました。\
+\
+地上軍は目的地に到着しました。\
+\
+帰還して下さい。\
+",
+    ["DictKey_UnitName_93"] = "New Vehicle Group #8",
+    ["DictKey_WptName_423"] = "",
+    ["DictKey_GroupName_201"] = "US CAP 1",
+    ["DictKey_WptName_384"] = "",
+    ["DictKey_WptName_435"] = "",
+    ["DictKey_UnitName_95"] = "New Vehicle Group #6",
+    ["DictKey_GroupName_195"] = "US CAS 2",
+    ["DictKey_WptName_418"] = "",
+    ["DictKey_GroupName_119"] = "RU T-72B PLT 3-2",
+    ["DictKey_UnitName_114"] = "New Vehicle Group #20",
+    ["DictKey_WptName_399"] = "",
+    ["DictKey_UnitName_217"] = "US AH 1.1",
+    ["DictKey_WptName_429"] = "",
+    ["DictKey_UnitName_224"] = "US SUPP 3 #8",
+    ["DictKey_57"] = "[Charger]:\
+\
+ラジャー、自軍位置をフレアでマーキングします。\
+",
+    ["DictKey_WptName_473"] = "",
+    ["DictKey_31"] = "Enfield 2-1 (SEAD) 任務を行って下さい。",
+    ["DictKey_GroupName_163"] = "RU ZSU-23-4 2",
+    ["DictKey_WptName_311"] = "",
+    ["DictKey_GroupName_235"] = "US M1A2 PLT 2",
+    ["DictKey_UnitName_285"] = "US FARP",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_42"] = "[Dodge 7-1]:\
+\
+ラジャー、IPに進みます。\
+",
+    ["DictKey_51"] = "Charger - 何処にいますか ???",
+    ["DictKey_UnitName_208"] = "US F15E 1.2",
+    ["DictKey_WptName_305"] = "",
+    ["DictKey_WptName_398"] = "",
+    ["DictKey_WptName_358"] = "",
+    ["DictKey_WptName_393"] = "",
+    ["DictKey_61"] = "[Charger]:\
+\
+ラジャー、進軍開始します。\
+",
+    ["DictKey_WptName_392"] = "",
+    ["DictKey_34"] = "[Boar 8-1]:\
+\
+ラジャー、IPに進みます。\
+",
+    ["DictKey_UnitName_97"] = "New Vehicle Group #11",
+    ["DictKey_WptName_348"] = "",
+    ["DictKey_WptName_480"] = "",
+    ["DictKey_WptName_350"] = "",
+    ["DictKey_UnitName_80"] = "RU CAS 1.1",
+    ["DictKey_67"] = "Mission Failed\
+--------------------\
+\
+進軍部隊を守ることができませんでした。\
+\
+帰還して軍法会議に出席して下さい。\
+",
+    ["DictKey_UnitName_184"] = "US CAS 1.2",
+    ["DictKey_WptName_332"] = "EGRESS",
+    ["DictKey_WptName_375"] = "",
+    ["DictKey_36"] = "[Hawg 1-1, Boar 7-1]:\
+\
+CAS ストライクは、オンステーションで待機中、準備が整いました。\
+",
+    ["DictKey_WptName_304"] = "",
+    ["DictKey_UnitName_128"] = "Unit #14",
+    ["DictKey_GroupName_123"] = "RU T-72B PLT 3-3",
+    ["DictKey_UnitName_267"] = "Unit #47",
+    ["DictKey_WptName_389"] = "",
+    ["DictKey_UnitName_106"] = "New Vehicle Group #16",
+    ["DictKey_GroupName_173"] = "RU SA-11 1",
+    ["DictKey_GroupName_240"] = "US M1A2 PLT 1 Charger",
+    ["DictKey_UnitName_247"] = "US SUPP 3 #31",
+    ["DictKey_UnitName_259"] = "US SUPP 3 #37",
+    ["DictKey_GroupName_151"] = "RU AAA 4",
+    ["DictKey_WptName_487"] = "",
+    ["DictKey_UnitName_148"] = "Unit #35",
+    ["DictKey_WptName_404"] = "Pred - AFAC UZI 1",
+    ["DictKey_WptName_326"] = "",
+    ["DictKey_UnitName_202"] = "US CAP 1.2",
+    ["DictKey_WptName_296"] = "",
+    ["DictKey_UnitName_248"] = "US SUPP 3 #30",
+    ["DictKey_UnitName_175"] = "RU SA-11 1 #1",
+    ["DictKey_UnitName_246"] = "US SUPP 3 #32",
+    ["DictKey_35"] = "Boar 8-1 (CAS) 任務を行って下さい。",
+    ["DictKey_WptName_448"] = "",
+    ["DictKey_UnitName_200"] = "US SEAD 1.1",
+    ["DictKey_GroupName_207"] = "US F15E 1",
+    ["DictKey_58"] = "[Seahawk]:\
+\
+ラジャー、自軍位置をフレアでマーキングします。\
+",
+    ["DictKey_43"] = "Dodge 7-1 (CAP) 任務を行って下さい。",
+    ["DictKey_UnitName_225"] = "US SUPP 3 #7",
+    ["DictKey_UnitName_116"] = "Unit #3",
+    ["DictKey_GroupName_78"] = "RU CAS 1",
+    ["DictKey_WptName_450"] = "",
+    ["DictKey_UnitName_103"] = "New Vehicle Group #12",
+    ["DictKey_WptName_334"] = "IP",
+    ["DictKey_UnitName_178"] = "Unit #12",
+    ["DictKey_WptName_478"] = "",
+    ["DictKey_WptName_390"] = "",
+    ["DictKey_UnitName_110"] = "New Vehicle Group #18",
+    ["DictKey_UnitName_134"] = "Unit #21",
+    ["DictKey_GroupName_186"] = "US F15E 2",
+    ["DictKey_UnitName_234"] = "US SUPP 3 #17",
+    ["DictKey_GroupName_104"] = "RU T-72B PLT 2-1",
+    ["DictKey_WptName_493"] = "",
+    ["DictKey_UnitName_244"] = "US M1A2 PLT 1-1 Charger",
+    ["DictKey_UnitName_101"] = "New Vehicle Group #14",
+    ["DictKey_descriptionBlueTask_288"] = "目的：\
+--------------\
+- Charger と Seahawkが目的地 Utah と Alabamaに進軍するのを支援してください。",
+    ["DictKey_WptName_329"] = "",
+    ["DictKey_WptName_386"] = "",
+    ["DictKey_UnitName_86"] = "New Vehicle Group #1",
+    ["DictKey_WptName_370"] = "",
+    ["DictKey_56"] = "Seahawk 、Utahに進軍してください。",
+    ["DictKey_WptName_387"] = "",
+    ["DictKey_UnitName_214"] = "Pilot #2",
+    ["DictKey_WptName_354"] = "",
+    ["DictKey_GroupName_145"] = "RU AAA 1",
+    ["DictKey_GroupName_260"] = "US SUPP 1",
+    ["DictKey_WptName_449"] = "",
+    ["DictKey_WptName_440"] = "",
+    ["DictKey_UnitName_264"] = "US SUPP 3 #47",
+    ["DictKey_WptName_328"] = "",
+    ["DictKey_GroupName_218"] = "US HQ",
+    ["DictKey_UnitName_203"] = "US CAP 1.1",
+    ["DictKey_UnitName_90"] = "New Vehicle Group #4",
+    ["DictKey_GroupName_278"] = "New Vehicle Group #003",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_26"] = "[Enfield 1-1]:\
+\
+ラジャー、IPに進みます。\
+",
+    ["DictKey_GroupName_266"] = "US LB 1",
+    ["DictKey_GroupName_92"] = "RU T-72B PLT 1-3",
+    ["DictKey_GroupName_171"] = "RU EW",
+    ["DictKey_66"] = "Seahawk 、 Alabamaに進軍してください。",
+    ["DictKey_UnitName_228"] = "US SUPP 3 #4",
+    ["DictKey_WptName_417"] = "",
+    ["DictKey_WptName_373"] = "",
+    ["DictKey_WptName_452"] = "",
+    ["DictKey_UnitName_142"] = "Unit #31",
+    ["DictKey_WptName_300"] = "",
+    ["DictKey_UnitName_91"] = "New Vehicle Group #3",
+    ["DictKey_GroupName_245"] = "US M2A2 PLT 2",
+    ["DictKey_GroupName_270"] = "US LB 3",
+    ["DictKey_UnitName_136"] = "Unit #19",
+    ["DictKey_UnitName_70"] = "RU CAS 2.2",
+    ["DictKey_UnitName_107"] = "New Vehicle Group #15",
+    ["DictKey_UnitName_98"] = "New Vehicle Group #10",
+    ["DictKey_WptName_472"] = "",
+    ["DictKey_WptName_415"] = "",
+    ["DictKey_GroupName_167"] = "RU SA-13 2",
+    ["DictKey_UnitName_205"] = "US CAP 2.2",
+    ["DictKey_UnitName_120"] = "Unit #6",
+    ["DictKey_WptName_421"] = "",
+    ["DictKey_WptName_483"] = "",
+    ["DictKey_UnitName_144"] = "Unit #29",
+    ["DictKey_UnitName_76"] = "RU CAP 2.2",
+    ["DictKey_UnitName_196"] = "US CAS 2.2",
+    ["DictKey_WptName_307"] = "",
+    ["DictKey_UnitName_77"] = "RU CAP 2.1",
+    ["DictKey_UnitName_129"] = "Unit #11",
+    ["DictKey_WptName_298"] = "",
+    ["DictKey_52"] = "Seahawk - 何処にいますか ???",
+    ["DictKey_WptName_320"] = "",
+    ["DictKey_25"] = "Enfield 1-1 (SEAD) 任務を行って下さい。",
+    ["DictKey_UnitName_281"] = "Unit #16",
+    ["DictKey_UnitName_252"] = "US M2A2 PLT 1-3 Seahawk",
+    ["DictKey_WptName_400"] = "",
+    ["DictKey_WptName_475"] = "",
+    ["DictKey_WptName_461"] = "",
+    ["DictKey_WptName_410"] = "",
+    ["DictKey_UnitName_220"] = "US SUPP 3 #1",
+    ["DictKey_UnitName_118"] = "Unit #1",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_WptName_466"] = "",
+    ["DictKey_WptName_445"] = "",
+    ["DictKey_UnitName_85"] = "New Vehicle Group #2",
+    ["DictKey_GroupName_222"] = "US M109 BATT 1",
+    ["DictKey_59"] = "[Hawg 1-1, Charger]:\
+\
+Utahに到着しました。\
+\
+指示があれば、Alabamaに進軍開始します。　\
+",
+    ["DictKey_WptName_495"] = "",
+    ["DictKey_GroupName_274"] = "US JTAC-01 (Whiplash 1)",
+    ["DictKey_55"] = "[Seahawk]:\
+\
+ラジャー、 UTAH に進軍開始します。",
+    ["DictKey_GroupName_96"] = "RU T-72B PLT 2-2",
+    ["DictKey_UnitName_89"] = "New Vehicle Group #5",
+    ["DictKey_WptName_436"] = "",
+    ["DictKey_WptName_364"] = "",
+    ["DictKey_32"] = "[Hawg 1-1, Boar 8-1]:\
+\
+CAS ストライクは、オンステーションで待機中、準備が整いました。\
+",
+    ["DictKey_UnitName_150"] = "Unit #36",
+    ["DictKey_UnitName_172"] = "Unit #51",
+    ["DictKey_WptName_341"] = "",
+    ["DictKey_UnitName_193"] = "US SEAD 2.2",
+    ["DictKey_WptName_339"] = "",
+    ["DictKey_WptName_411"] = "",
+    ["DictKey_UnitName_190"] = "US CAS 3.2",
+    ["DictKey_WptName_469"] = "",
+    ["DictKey_WptName_335"] = "",
+    ["DictKey_GroupName_204"] = "US CAP 2",
+    ["DictKey_WptName_402"] = "",
+    ["DictKey_UnitName_232"] = "US SUPP 3 #19",
+    ["DictKey_63"] = "[Hawg 1-1, Seahawk]:\
+\
+UTAH に到着しました。指示があれば、 ALABAMA に進軍開始します。\
+",
+    ["DictKey_GroupName_230"] = "US M1A2 PLT 3",
+    ["DictKey_WptName_321"] = "",
+    ["DictKey_GroupName_115"] = "RU T-72B PLT 3-1",
+    ["DictKey_GroupName_88"] = "RU T-72B PLT 1-2",
+    ["DictKey_UnitName_197"] = "US CAS 2.1",
+    ["DictKey_47"] = "Dodge 1-1 (CAP) 任務を行って下さい。",
+    ["DictKey_39"] = "Boar 7-1 (CAS) 任務を行って下さい。",
+    ["DictKey_64"] = "Seahawk 、 Alabamaに進軍してください。",
+    ["DictKey_UnitName_102"] = "New Vehicle Group #13",
+    ["DictKey_28"] = "[Hawg 1-1, Enfield 2-1]:\
+\
+SEAD ストライクは、オンステーションで待機中、準備が整いました。\
+",
+    ["DictKey_WptName_378"] = "",
+    ["DictKey_UnitName_126"] = "Unit #7",
+    ["DictKey_WptName_441"] = "",
+    ["DictKey_UnitName_141"] = "Unit #32",
+    ["DictKey_UnitName_87"] = "New Vehicle Group",
+    ["DictKey_WptName_485"] = "",
+    ["DictKey_WptName_406"] = "",
+    ["DictKey_WptName_355"] = "",
+    ["DictKey_WptName_459"] = "",
+    ["DictKey_45"] = "Dodge 1-1 (CAP) 任務を行って下さい。",
+    ["DictKey_UnitName_275"] = "Unit #52",
+    ["DictKey_GroupName_127"] = "RU T-72B CMD 3-1",
+    ["DictKey_WptName_496"] = "",
+    ["DictKey_UnitName_236"] = "US SUPP 3 #24",
+    ["DictKey_WptName_323"] = "",
+    ["DictKey_WptName_424"] = "",
+    ["DictKey_UnitName_137"] = "Unit #18",
+    ["DictKey_WptName_346"] = "",
+    ["DictKey_UnitName_162"] = "Unit #42",
+    ["DictKey_UnitName_138"] = "Unit #17",
+    ["DictKey_WptName_338"] = "",
+    ["DictKey_UnitName_122"] = "Unit #4",
+    ["DictKey_UnitName_143"] = "Unit #30",
+    ["DictKey_WptName_454"] = "",
+    ["DictKey_GroupName_100"] = "RU T-72B PLT 2-3",
+    ["DictKey_WptName_325"] = "",
+    ["DictKey_UnitName_140"] = "Unit #33",
+    ["DictKey_GroupName_155"] = "RU AAA 6",
+    ["DictKey_UnitName_125"] = "Unit #8",
+    ["DictKey_UnitName_182"] = "US AWACS",
+    ["DictKey_41"] = "Dodge 7-1 (CAP) 任務を行って下さい。",
+    ["DictKey_GroupName_280"] = "New Vehicle Group #001",
+    ["DictKey_GroupName_72"] = "RU CAP 1",
+    ["DictKey_WptName_331"] = "",
+    ["DictKey_WptName_403"] = "",
+    ["DictKey_62"] = "Charger 、 Alabamaに進軍進軍してください。",
+    ["DictKey_60"] = "Charger 、 Alabamaに進軍進軍してください。",
+    ["DictKey_WptName_379"] = "",
+    ["DictKey_GroupName_75"] = "RU CAP 2",
+    ["DictKey_WptName_465"] = "",
+    ["DictKey_WptName_443"] = "",
+    ["DictKey_GroupName_81"] = "RU AH 1",
+    ["DictKey_WptName_433"] = "",
+    ["DictKey_WptName_317"] = "",
+    ["DictKey_GroupName_131"] = "RU 2S1 Battery 1",
+    ["DictKey_WptName_299"] = "",
+    ["DictKey_UnitName_113"] = "New Vehicle Group #21",
+    ["DictKey_WptName_306"] = "",
+    ["DictKey_UnitName_256"] = "US SUPP 3 #40",
+    ["DictKey_WptName_349"] = "",
+    ["DictKey_UnitName_187"] = "US F15E 2.2",
+    ["DictKey_WptName_395"] = "",
+    ["DictKey_UnitName_211"] = "Pilot #1",
+    ["DictKey_UnitName_188"] = "US F15E 2.1",
+    ["DictKey_UnitName_94"] = "New Vehicle Group #7",
+    ["DictKey_WptName_330"] = "",
+    ["DictKey_WptName_318"] = "",
+    ["DictKey_UnitName_199"] = "US SEAD 1.2",
+    ["DictKey_WptName_491"] = "",
+    ["DictKey_WptName_324"] = "",
+    ["DictKey_UnitName_117"] = "Unit #2",
+    ["DictKey_UnitName_191"] = "US CAS 3.1",
+    ["DictKey_WptName_343"] = "Seahawk",
+    ["DictKey_WptName_489"] = "",
+    ["DictKey_WptName_477"] = "",
+    ["DictKey_GroupName_108"] = "RU T-72B CMD 2-1",
+    ["DictKey_UnitName_176"] = "RU SA-11 1",
+    ["DictKey_49"] = "Charger 、Utahに進軍してください。",
+    ["DictKey_UnitName_133"] = "Unit #22",
+    ["DictKey_24"] = "[Hawg 1-1, Enfield 1-1]:\
+\
+SEAD ストライクは、オンステーションで待機中、準備が整いました。\
+",
+    ["DictKey_WptName_381"] = "",
+    ["DictKey_UnitName_180"] = "RU FARP",
+    ["DictKey_WptName_431"] = "",
+    ["DictKey_WptName_484"] = "",
+    ["DictKey_WptName_444"] = "",
+    ["DictKey_WptName_340"] = "",
+    ["DictKey_WptName_442"] = "",
+    ["DictKey_GroupName_268"] = "US LB 2",
+    ["DictKey_WptName_490"] = "",
+    ["DictKey_WptName_420"] = "",
+    ["DictKey_GroupName_181"] = "US AWACS",
+    ["DictKey_GroupName_250"] = "US M2A2 PLT 1 Seahawk",
+    ["DictKey_WptName_388"] = "",
+    ["DictKey_UnitName_185"] = "US CAS 1.1",
+    ["DictKey_GroupName_147"] = "RU AAA 2",
+    ["DictKey_GroupName_161"] = "RU ZSU-23-4 1",
+    ["DictKey_WptName_357"] = "",
+    ["DictKey_WptName_394"] = "",
+    ["DictKey_WptName_310"] = "",
+    ["DictKey_UnitName_239"] = "US SUPP 3 #21",
+    ["DictKey_37"] = "Boar 7-1 (CAS) 任務を行って下さい。",
+    ["DictKey_WptName_367"] = "",
+    ["DictKey_UnitName_254"] = "US M2A2 PLT 1-1 Seahawk",
+    ["DictKey_WptName_327"] = "",
+    ["DictKey_UnitName_219"] = "US SUPP 3 #2",
+    ["DictKey_UnitName_265"] = "US SUPP 3 #46",
+    ["DictKey_40"] = "[Hawg 1-1, Dodge 7-1]:\
+\
+CAP ストライクは、オンステーションで待機中、準備が整いました。\
+",
+    ["DictKey_WptName_312"] = "",
+    ["DictKey_UnitName_237"] = "US SUPP 3 #23",
+    ["DictKey_WptName_471"] = "",
+    ["DictKey_WptName_372"] = "",
+    ["DictKey_WptName_322"] = "",
+    ["DictKey_WptName_447"] = "",
+    ["DictKey_WptName_455"] = "",
+    ["DictKey_UnitName_164"] = "Unit #43",
+    ["DictKey_GroupName_139"] = "RU HQ",
+    ["DictKey_WptName_425"] = "",
+    ["DictKey_UnitName_242"] = "US M1A2 PLT 1-3 Charger",
+    ["DictKey_WptName_474"] = "",
+    ["DictKey_GroupName_111"] = "RU T-72B CMD 1-1",
+    ["DictKey_WptName_360"] = "",
+    ["DictKey_GroupName_192"] = "US SEAD 2",
+    ["DictKey_UnitName_279"] = "Unit #15",
+    ["DictKey_WptName_486"] = "",
+    ["DictKey_WptName_365"] = "",
+    ["DictKey_WptName_337"] = "TGT 2",
+    ["DictKey_WptName_380"] = "",
+    ["DictKey_WptName_481"] = "",
+    ["DictKey_UnitName_257"] = "US SUPP 3 #39",
+    ["DictKey_WptName_352"] = "",
+    ["DictKey_WptName_371"] = "",
+    ["DictKey_WptName_353"] = "JTAC - Warrior 1",
+    ["DictKey_WptName_303"] = "",
+    ["DictKey_WptName_428"] = "",
+    ["DictKey_WptName_391"] = "",
+    ["DictKey_UnitName_223"] = "US SUPP 3 #9",
+    ["DictKey_WptName_463"] = "",
+    ["DictKey_UnitName_154"] = "Unit #38",
+    ["DictKey_UnitName_206"] = "US CAP 2.1",
+    ["DictKey_WptName_396"] = "",
+    ["DictKey_GroupName_189"] = "US CAS 3",
+    ["DictKey_UnitName_168"] = "Unit #45",
+    ["DictKey_46"] = "[Dodge 1-1]:\
+\
+ラジャー、IPに進みます。\
+",
+    ["DictKey_UnitName_243"] = "US M1A2 PLT 1-2 Charger",
+    ["DictKey_UnitName_221"] = "US SUPP 3",
+    ["DictKey_UnitName_277"] = "Unit #53",
+    ["DictKey_UnitName_83"] = "RU AH 1.1",
+    ["DictKey_WptName_361"] = "",
+    ["DictKey_GroupName_183"] = "US CAS 1 (Player)",
+    ["DictKey_UnitName_226"] = "US SUPP 3 #6",
+    ["DictKey_UnitName_73"] = "RU CAP 1.2",
+    ["DictKey_WptName_308"] = "",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_WptName_458"] = "",
+    ["DictKey_WptName_479"] = "",
+    ["DictKey_GroupName_215"] = "US AH 1",
+    ["DictKey_UnitName_71"] = "RU CAS 2.1",
+    ["DictKey_UnitName_109"] = "New Vehicle Group #19",
+    ["DictKey_WptName_409"] = "",
+    ["DictKey_WptName_345"] = "",
+    ["DictKey_UnitName_166"] = "Unit #44",
+    ["DictKey_WptName_494"] = "",
+    ["DictKey_WptName_363"] = "",
+    ["DictKey_UnitName_271"] = "Unit #49",
+    ["DictKey_WptName_342"] = "",
+    ["DictKey_UnitName_124"] = "Unit #9",
+    ["DictKey_WptName_456"] = "",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_WptName_356"] = "",
+    ["DictKey_30"] = "[Enfield 2-1]:\
+\
+ラジャー、IPに進みます。\
+",
+    ["DictKey_WptName_385"] = "",
+    ["DictKey_UnitName_273"] = "Unit #50",
+    ["DictKey_65"] = "[Seahawk]:\
+\
+ラジャー、 ALABAMA に進軍開始します。",
+    ["DictKey_WptName_314"] = "",
+    ["DictKey_UnitName_99"] = "New Vehicle Group #9",
+    ["DictKey_GroupName_276"] = "US JTAC-02 (Warrior 1)",
+    ["DictKey_UnitName_152"] = "Unit #37",
+    ["DictKey_UnitName_112"] = "Unit #13",
+    ["DictKey_GroupName_179"] = "RU FARP",
+    ["DictKey_WptName_414"] = "",
+    ["DictKey_WptName_297"] = "",
+    ["DictKey_44"] = "[Hawg 1-1, Dodge 1-1]:\
+\
+CAP ストライクは、オンステーションで待機中、準備が整いました。\
+",
+    ["DictKey_WptName_382"] = "",
+    ["DictKey_GroupName_272"] = "US LB 4",
+    ["DictKey_WptName_344"] = "",
+    ["DictKey_WptName_451"] = "",
+    ["DictKey_UnitName_82"] = "RU AH 1.2",
+    ["DictKey_GroupName_210"] = "US PRED 1- AFAC",
+    ["DictKey_WptName_426"] = "JTAC - Whiplash 1",
+    ["DictKey_WptName_476"] = "",
+    ["DictKey_WptName_439"] = "",
+    ["DictKey_WptName_460"] = "",
+    ["DictKey_WptName_351"] = "",
+    ["DictKey_WptName_313"] = "",
+    ["DictKey_27"] = "Enfield 1-1 (SEAD) 任務を行って下さい。",
+    ["DictKey_WptName_457"] = "",
+    ["DictKey_WptName_470"] = "",
+    ["DictKey_WptName_333"] = "FENCE",
+    ["DictKey_WptName_419"] = "",
+    ["DictKey_UnitName_209"] = "US F15E 1.1",
+    ["DictKey_48"] = "[Hawg 1-1, こちら Charger と Seahawk]:\
+\
+UTAH への進軍準備が整いました。指示を願います。",
+    ["DictKey_descriptionText_286"] = "攻撃的CAS（Offensive CAS）\
+\
+目的：\
+--------------\
+- Charger と Seahawkが目的地 Utah と Alabamaに進軍するのを支援してください。\
+\
+飛行隊: 251.0 AM UHF\
+\
+JTAC West (Whiplash): 30.000 VHF FM\
+JTAC East (Warrior): 40.000 VHF FM\
+JTAC Predator (Uzi 1-1): 50.000 VHF FM\
+\
+連合軍飛行隊と AWACS: 124.00 VHF AM\
+\
+Darkstar 1-1: E-3A AWACS\
+\
+注意：他の飛行隊や地上部隊との交信には、ラジオメニューのF10　Otherを使って下さい。\
+\
+Enfield 1-1: 2xF-16C SEAD\
+Enfield 2-1: 2xF-16C SEAD\
+Hawg 1-1: 2xA-10C CAS\
+Boar 8-1: 2xA-10C CAS\
+Boar 7-1: 2 A-10C CAS\
+Dodge 7-1: 2xF-15C CAP\
+Dodge 1-1: 2xF-15C CAP\
+Pontiac 1-1: 2x F-15E CAS\
+Pontiac 5-1: 2x F-15E CAS\
+Chevy 6-1 2xAH-64D\
+\
+Charger: M1A2 platoon\
+Seahawk: M2A2 platoon\
+\
+目的地：\
+Utah\
+Alabama\
+\
+Bullseye:\
+イングリダム（Inguri dam）\
+42-45-28N 42-42-2E\
+\
+ペイロード（搭載物）、航路、軍の位置についてはミッションプランナーを参照して下さい。",
+    ["DictKey_WptName_376"] = "",
+    ["DictKey_WptName_316"] = "",
+    ["DictKey_WptName_412"] = "",
+    ["DictKey_WptName_359"] = "",
+    ["DictKey_WptName_368"] = "",
+    ["DictKey_WptName_492"] = "",
+    ["DictKey_WptName_362"] = "",
+    ["DictKey_WptName_407"] = "",
+    ["DictKey_UnitName_174"] = "RU SA-11 1 #2",
+    ["DictKey_UnitName_132"] = "Unit #23",
+    ["DictKey_50"] = "Seahawk 、Utahに進軍してください。",
+    ["DictKey_WptName_319"] = "",
+    ["DictKey_WptName_369"] = "",
+    ["DictKey_WptName_434"] = "",
+    ["DictKey_GroupName_169"] = "RU SA-15 1",
+    ["DictKey_UnitName_231"] = "US SUPP 3 #20",
+    ["DictKey_WptName_302"] = "",
+    ["DictKey_WptName_366"] = "",
+    ["DictKey_WptName_383"] = "",
+    ["DictKey_GroupName_282"] = "New Vehicle Group #002",
+    ["DictKey_UnitName_253"] = "US M2A2 PLT 1-2 Seahawk",
+    ["DictKey_GroupName_69"] = "RU CAS 2",
+    ["DictKey_UnitName_241"] = "US M1A2 PLT 1-4 Charger",
+    ["DictKey_WptName_405"] = "",
+    ["DictKey_GroupName_149"] = "RU AAA 3",
+    ["DictKey_WptName_413"] = "",
+    ["DictKey_UnitName_263"] = "US SUPP 3 #48",
+} -- end of dictionary
