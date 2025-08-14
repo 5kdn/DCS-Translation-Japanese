@@ -1,0 +1,20 @@
+dictionary = 
+{
+    ["DictKey_UnitName_9"] = "New Static Object",
+    ["DictKey_GroupName_2"] = "New Ship Group",
+    ["DictKey_descriptionBlueTask_12"] = "",
+    ["DictKey_GroupName_8"] = "New Static Object",
+    ["DictKey_descriptionText_10"] = "着陸スキルをテストします。真正面 ４Km沖にある石油プラットフォームに着陸して下さい。",
+    ["DictKey_GroupName_6"] = "New Vehicle Group",
+    ["DictKey_GroupName_4"] = "New Helicopter Group",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_UnitName_7"] = "Unit #1",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_UnitName_5"] = "Pilot #1",
+    ["DictKey_sortie_13"] = "プラットフォームランディング",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_UnitName_3"] = "Unit #2",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_descriptionRedTask_11"] = "",
+} -- end of dictionary
