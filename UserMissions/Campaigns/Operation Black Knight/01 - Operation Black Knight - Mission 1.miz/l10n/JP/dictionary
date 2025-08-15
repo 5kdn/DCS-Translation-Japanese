@@ -1,0 +1,35 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "ミッション終了",
+    ["DictKey_descriptionText_1"] = "ジョージア共和制国家はここ数週間で内戦を開始し、Khashuri を含む重要な都市を占領し、国と軍を二分した。現在、ジョージア第一旅団は、西側で戦っている第二旅団と合流するために、国の中央部の支配権を取り戻そうと東側から押し寄せている。\
+\
+米国は、第6艦隊からタスクフォース60を派遣し、反乱軍に対する航空支援を行っている。タスクフォースを率いるのは、VFA-192を搭載した空母「CVN-73 USS George Washington」である。\
+\
+私たちの使命は、ジョージア軍が市長の都市と国内の他の地域の支配権を取り戻すのを支援することです。\
+\
+最初の任務では、反政府勢力の支配下にあるKobuletiの空軍基地を攻撃し、L-39Cの小編隊を含む彼らの資産を破壊する。\
+\
+ミッションやコミュニケーションについての詳細は、Kneeboardをチェックすること。\
+\
+Communication info:\
+\
+- USS George Washington - FREQ 251.00 - ICLS 11 - Link 4 336.0\
+- Wizard 1 (AWACS) - FREQ 305.00 - link 16 127\
+\
+IMPORTANT INFO:\
+\
+   - AWACSのデータリンクにアクセスするには、D/Lボタンを2回押すのを忘れないこと。これをオンにすると、デフォルトの周波数でSA内のすべてのAWACSレーダー情報が得られる。",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Operation Black Knight - Mission 1",
+    ["DictKey_ActionText_16"] = "「Operation Black Knight」へようこそ。あなたはキャンペーン中、Colt中隊を率いることになる。\
+\
+最初のミッションでは、Kobuleti 空軍基地に駐機している敵機を破壊しなければならない。\
+\
+離陸し、Kobuleti 上空の攻撃に参加する。\
+\
+ブリーフィングとKneeboardをチェックすること。",
+    ["DictKey_ActionText_8"] = "ミッション完了 RTB",
+    ["DictKey_descriptionBlueTask_3"] = "1. 駐車中のL-39C 4機の破壊",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

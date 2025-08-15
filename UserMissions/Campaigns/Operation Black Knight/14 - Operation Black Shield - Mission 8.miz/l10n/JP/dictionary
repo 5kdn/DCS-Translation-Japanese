@@ -1,0 +1,47 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "ミッション終了",
+    ["DictKey_ActionText_24"] = "",
+    ["DictKey_ActionComment_30"] = "",
+    ["DictKey_sortie_5"] = "Operation Black Shield - Mission 8",
+    ["DictKey_ActionText_13"] = "Colt 1 こちら Axeman 1 VIP到着の可能性。確認待て",
+    ["DictKey_ActionText_28"] = "全機 WP1 で合流し、敵艦隊への攻撃を開始せよ。",
+    ["DictKey_ActionComment_25"] = "",
+    ["DictKey_ActionText_33"] = "3つ目のSAMサイトを破壊した。",
+    ["DictKey_ActionText_16"] = "Colt 1 こちら Axeman 1 ヘリで到着した不明者の確認を待て。",
+    ["DictKey_ActionText_17"] = "Colt 1 こちら Axeman 1 VIPを攻撃する許可を得た。(305MHz無線でAxeman 1と交信しレーザーを依頼)",
+    ["DictKey_ActionText_32"] = "2つ目のSAMサイトを破壊した。",
+    ["DictKey_ActionText_14"] = "ミッション失敗。空母が破壊されました。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_8"] = "ミッション完了 RTB",
+    ["DictKey_ActionText_23"] = "全機 WP1 で合流し、敵艦隊への攻撃を開始せよ。",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_descriptionText_1"] = "連合軍は崩壊寸前で、援軍が向かっているが、到着が手遅れにならないことを願っている。\
+\
+タスクフォース60は特別な任務を任された。石油掘削基地（Oil Rig）を攻撃しなければならないが、ロシア沿岸に駐留するSAMに覆われている。目標に到達するためには、発見されないように低空飛行し、素早く攻撃し、防空隊に迎撃される前に素早く脱出しなければならない。\
+\
+航空哨戒機に出くわしても交戦せず、できるだけ早く空母に戻ること。\
+\
+ミッションやコミュニケーションについての詳細は、Kneeboardをチェックすること。\
+\
+Communication info:\
+\
+- USS George Washington - FREQ 251.00 - ICLS 11 - Link 4 336.0\
+- Wizard 1 (AWACS) - FREQ 305.00 - link 16 127\
+\
+IMPORTANT INFO:\
+\
+   - AWACSのデータリンクにアクセスするには、D/Lボタンを2回押すのを忘れないこと。これをオンにすると、デフォルトの周波数でSA内のすべてのAWACSレーダー情報が得られる。",
+    ["DictKey_descriptionBlueTask_3"] = "1. 石油掘削装置（Oil Rig）の破壊",
+    ["DictKey_ActionText_20"] = "",
+    ["DictKey_ActionText_31"] = "1つ目のSAMサイトを破壊した。",
+    ["DictKey_ActionText_18"] = "目標達成 RTB",
+    ["DictKey_ActionText_29"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_26"] = "全航空部隊、攻撃開始",
+    ["DictKey_ActionText_27"] = "ミッション失敗。空母が撃沈されました。",
+    ["DictKey_ActionText_22"] = "Colt 敵機が接近中、迎撃せよ。増援が向かっている。",
+    ["DictKey_ActionComment_21"] = "",
+    ["DictKey_ActionText_15"] = "Colt 1 こちら Axeman 1 VIPの輸送隊が来る可能性がある。確認を待て。",
+    ["DictKey_ActionText_19"] = "ミッション終了",
+} -- end of dictionary

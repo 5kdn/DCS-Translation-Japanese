@@ -1,0 +1,29 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "敵の迫撃砲陣地は赤い煙でマークされている。Sukhumi を取り囲む敵軍を撃破すればミッション完了となる。給油と再武装はいつでも可能です。\
+\
+標的を見つけられなければ、友軍が対処してくれる。",
+    ["DictKey_ActionText_6"] = "ミッション完了 RTB",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_descriptionText_1"] = "「Operation Black Knight」は成功裏に開始され、拿捕された航空機を破壊し、ジョージア軍がKobuletiと空軍基地の制圧を回復するのを支援したが、まだ休むわけにはいかない。Sukhumi のジョージア海軍特殊作戦中隊を支援する緊急要請がある。反乱軍が Sukhumi を包囲し、ジョージア軍を圧倒している。ジョージア沿岸警備隊と空軍が、地上部隊に砲撃支援とCASを提供するため、今この瞬間にも市内に到着している。\
+\
+我々の任務はCASを提供し、市街地への反乱軍の進軍を阻止するのを助けることで、第2旅団が包囲を破るのに十分な時間を稼ぐ。\
+\
+ミッションやコミュニケーションについての詳細は、Kneeboardをチェックすること。\
+\
+Communication info:\
+\
+- USS George Washington - FREQ 251.00 - ICLS 11 - Link 4 336.0\
+- Wizard 1 (AWACS) - FREQ 305.00 - link 16 127\
+\
+IMPORTANT INFO:\
+\
+   - AWACSのデータリンクにアクセスするには、D/Lボタンを2回押すのを忘れないこと。これをオンにすると、デフォルトの周波数でSA内のすべてのAWACSレーダー情報が得られる。",
+    ["DictKey_ActionText_9"] = "ミッション終了",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Operation Black Knight - Mission 2",
+    ["DictKey_descriptionBlueTask_3"] = "1. 迫撃砲陣地すべての破壊\
+2. ジョージア軍にCASの提供",
+    ["DictKey_ActionComment_8"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

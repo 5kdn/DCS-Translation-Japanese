@@ -1,0 +1,51 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "ミッション終了",
+    ["DictKey_ActionText_34"] = "救助ヘリ墜落。ミッション失敗。",
+    ["DictKey_ActionText_33"] = "3つ目のSAMサイトを破壊した。",
+    ["DictKey_ActionText_24"] = "",
+    ["DictKey_ActionComment_30"] = "",
+    ["DictKey_ActionText_35"] = "敵のヘリコプターが接近中。\
+\
+ヘリをロックできないなら、AMRAAMを目視モードで使って撃てば、勝手にロックしてくれる。",
+    ["DictKey_ActionText_13"] = "Colt 1 こちら Axeman 1 VIP到着の可能性。確認待て",
+    ["DictKey_ActionText_28"] = "全機 WP1 で合流し、敵艦隊への攻撃を開始せよ。",
+    ["DictKey_ActionComment_25"] = "",
+    ["DictKey_sortie_5"] = "Operation Black Shield - Mission 7",
+    ["DictKey_ActionText_16"] = "Colt 1 こちら Axeman 1 ヘリで到着した不明者の確認を待て。",
+    ["DictKey_ActionText_17"] = "Colt 1 こちら Axeman 1 VIPを攻撃する許可を得た。(305MHz無線でAxeman 1と交信しレーザーを依頼)",
+    ["DictKey_ActionText_19"] = "ミッション終了",
+    ["DictKey_ActionText_14"] = "ミッション失敗。空母が破壊されました。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_8"] = "ミッション完了 RTB",
+    ["DictKey_ActionText_23"] = "全機 WP1 で合流し、敵艦隊への攻撃を開始せよ。",
+    ["DictKey_descriptionBlueTask_3"] = "1. 救助隊を、空からの脅威からの防御",
+    ["DictKey_ActionText_22"] = "Colt 敵機が接近中、迎撃せよ。増援が向かっている。",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_20"] = "",
+    ["DictKey_ActionText_31"] = "1つ目のSAMサイトを破壊した。",
+    ["DictKey_ActionText_18"] = "パイロット救出。 RTB.",
+    ["DictKey_ActionText_29"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_26"] = "全航空部隊、攻撃開始",
+    ["DictKey_ActionText_27"] = "ミッション失敗。空母が破壊されました。",
+    ["DictKey_descriptionText_1"] = "我々のA-10パイロットの一人が前線近くで撃墜された。敵軍が彼を捕らえる前に救出するため、救出チームが編成されている。付近に敵の歩兵とヘリコプターを発見した。一刻も早く救出しなければならない。\
+\
+我々の任務は、A-10の飛行中隊が地上部隊を処理する間、空中からの脅威を排除することである。\
+\
+墜落したパイロットは墜落地点に赤い煙で目印をつけている。\
+\
+ミッションやコミュニケーションについての詳細は、Kneeboardをチェックすること。\
+\
+Communication info:\
+\
+- USS George Washington - FREQ 251.00 - ICLS 11 - Link 4 336.0\
+- Overlord 1 (AWACS) - FREQ 305.00 - link 16 127\
+\
+IMPORTANT INFO:\
+\
+   - AWACSのデータリンクにアクセスするには、D/Lボタンを2回押すのを忘れないこと。これをオンにすると、デフォルトの周波数でSA内のすべてのAWACSレーダー情報が得られる。",
+    ["DictKey_ActionComment_21"] = "",
+    ["DictKey_ActionText_15"] = "Colt 1 こちら Axeman 1 VIPの輸送隊が来る可能性がある。確認を待て。",
+    ["DictKey_ActionText_32"] = "2つ目のSAMサイトを破壊した",
+} -- end of dictionary

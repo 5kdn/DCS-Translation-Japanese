@@ -1,0 +1,56 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "ミッション終了",
+    ["DictKey_ActionText_34"] = "Colt タクシーの許可を待て。",
+    ["DictKey_ActionText_17"] = "Colt 1 こちら Axeman 1 VIPを攻撃する許可を得た。(305MHz無線でAxeman 1と交信しレーザーを依頼)",
+    ["DictKey_ActionText_43"] = "WP1 で護衛の抗体を行う。",
+    ["DictKey_ActionText_36"] = "ミッションは失敗し、大統領は死んだ。",
+    ["DictKey_ActionText_33"] = "3つ目のSAMサイトを破壊した。",
+    ["DictKey_ActionText_16"] = "Colt 1 こちら Axeman 1 ヘリで到着した不明者の確認を待て。",
+    ["DictKey_ActionText_19"] = "ミッション終了",
+    ["DictKey_ActionText_14"] = "ミッション失敗。空母が破壊されました。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_23"] = "全機 WP1 で合流し、敵艦隊への攻撃を開始せよ。",
+    ["DictKey_ActionText_31"] = "1つ目のSAMサイトを破壊した。",
+    ["DictKey_ActionComment_21"] = "",
+    ["DictKey_ActionText_15"] = "Colt 1 こちら Axeman 1 VIPの輸送隊が来る可能性がある。確認を待て。",
+    ["DictKey_ActionText_24"] = "",
+    ["DictKey_ActionComment_30"] = "",
+    ["DictKey_ActionText_35"] = "Colt 離陸を許可する。以上",
+    ["DictKey_ActionText_13"] = "Colt 1 こちら Axeman 1 VIP到着の可能性。確認を待て。",
+    ["DictKey_ActionText_28"] = "全機 WP1 で合流し、敵艦隊への攻撃を開始せよ。",
+    ["DictKey_sortie_5"] = "Operation Lasting Peace - Final",
+    ["DictKey_ActionText_18"] = "大統領は目標に到達した。267Mhzで Tiflis-Lochini のタワーに連絡し、着陸して給油するか、給油のために305.0MhzでタンカーTEXACO 1に連絡する。給油が完了したら、251Mhzでマーシャルに連絡し、空母に戻る。",
+    ["DictKey_ActionText_29"] = "",
+    ["DictKey_ActionText_26"] = "全航空部隊、攻撃開始",
+    ["DictKey_ActionText_22"] = "Colt 敵機が接近中、迎撃せよ。増援が向かっている。",
+    ["DictKey_descriptionBlueTask_3"] = "1. あらゆる脅威から大統領の護衛",
+    ["DictKey_ActionText_27"] = "ミッション失敗。空母が撃沈されました。",
+    ["DictKey_ActionText_20"] = "",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_39"] = "大統領は 高度30,000 Feets 速度 320kts で接近する。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionComment_25"] = "",
+    ["DictKey_ActionText_38"] = "あなたは今、大統領を護衛しています。彼と離れすぎるとミッションが失敗します。",
+    ["DictKey_ActionText_32"] = "2つ目のSAMサイトを破壊した。",
+    ["DictKey_ActionText_8"] = "目標達成 RTB",
+    ["DictKey_descriptionText_1"] = "ジョージアのロシア軍は、勇敢な防衛にもかかわらず、戦闘を継続するための弾薬と食料の不足のために降伏を決定した。この大打撃を受け、ロシア政府は停戦交渉と和平交渉の開始に踏み切った。\
+\
+ロシアの外交官はTbilisiに向かっており、ジョージア大統領、NATO、アメリカの代表とともに和平交渉を開始する\
+\
+大統領はこの交渉に自ら参加することを決定し、ジョージアへの旅に出発した。我々は、黒海で彼の護衛を解き、Tbilisiまで護衛するよう要請されている。\
+\
+ミッションやコミュニケーションについての詳細は、Kneeboardをチェックすること。\
+\
+Communication info:\
+\
+- USS George Washington - FREQ 251.00 - ICLS 11 - Link 4 336.0\
+- Overlord 1 (AWACS) - FREQ 305.00 - link 16 127\
+- Texaco 1 (Tanker) - FREQ 305.00\
+\
+IMPORTANT INFO:\
+\
+   - AWACSのデータリンクにアクセスするには、D/Lボタンを2回押すのを忘れないこと。これをオンにすると、デフォルトの周波数でSA内のすべてのAWACSレーダー情報が得られる。\
+   - 給油は味方の空軍基地でも、タンカーでもできる。",
+    ["DictKey_ActionText_37"] = "ミッション失敗。大統領から離れ過ぎた。",
+} -- end of dictionary

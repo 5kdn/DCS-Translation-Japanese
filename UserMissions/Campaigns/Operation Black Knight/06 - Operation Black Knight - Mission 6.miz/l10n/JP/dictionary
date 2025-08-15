@@ -1,0 +1,39 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "ミッション終了",
+    ["DictKey_ActionText_17"] = "Colt 1 こちら Axeman 1 VIPを攻撃する許可を得た。(305MHz無線でAxeman 1と交信しレーザーを依頼)",
+    ["DictKey_ActionText_13"] = "Colt 1 こちら Axeman 1 VIP到着の可能性。確認待て",
+    ["DictKey_sortie_5"] = "Operation Black Knight - Mission 6",
+    ["DictKey_ActionText_16"] = "Colt 1 こちら Axeman 1 ヘリで到着した不明者の確認を待て。",
+    ["DictKey_ActionText_19"] = "ミッション終了",
+    ["DictKey_ActionText_14"] = "ミッション失敗。空母が撃沈されました。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_22"] = "我々は攻撃を受けている！\
+\
+このエリアにいるロシア機はすべて敵機と見なし迎撃せよ。増援が向かっている。",
+    ["DictKey_descriptionBlueTask_3"] = "1. ロシアとの国境のパトロール\
+2. 不審行動の報告",
+    ["DictKey_ActionText_20"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_descriptionText_1"] = "ロシアとの政治的緊張は高まっている。前回のミッションで反乱軍のリーダーを攻撃した際、我々は彼が会談していたロシアの高官を殺害してしまったらしい。この出来事の数日後、ロシア軍の空軍基地のひとつで大規模な爆発が起きたが、緊張をさらに高めるための偽旗攻撃であったことはほぼ間違いない。ロシア政府は、米軍とジョージア軍が国境で不当な攻撃を行っていると非難している。\
+\
+我々の部隊は厳戒態勢を敷き、増援を待っている。\
+\
+本日の任務は、ロシアとの国境付近を巡回し、不審な動きがあれば報告することである。\
+\
+ミッションやコミュニケーションについての詳細は、Kneeboardをチェックすること。\
+\
+Communication info:\
+\
+- USS George Washington - FREQ 251.00 - ICLS 11 - Link 4 336.0\
+- Wizard 1 (AWACS) - FREQ 305.00 - link 16 127\
+\
+IMPORTANT INFO:\
+\
+   - AWACSのデータリンクにアクセスするには、D/Lボタンを2回押すのを忘れないこと。これをオンにすると、デフォルトの周波数でSA内のすべてのAWACSレーダー情報が得られる。",
+    ["DictKey_ActionText_8"] = "ミッション完了 RTB",
+    ["DictKey_ActionComment_21"] = "",
+    ["DictKey_ActionText_15"] = "Colt 1 こちら Axeman 1 VIPの輸送隊が来る可能性がある。確認を待て。",
+    ["DictKey_ActionText_18"] = "敵軍は退却している、RTB",
+} -- end of dictionary

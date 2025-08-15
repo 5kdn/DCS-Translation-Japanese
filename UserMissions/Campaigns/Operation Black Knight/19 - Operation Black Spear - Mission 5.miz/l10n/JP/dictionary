@@ -1,0 +1,51 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "ミッション終了",
+    ["DictKey_ActionText_34"] = "1つ目の目標を破壊した。",
+    ["DictKey_ActionText_17"] = "Colt 1 こちら Axeman 1 VIPを攻撃する許可を得た。(305MHz無線でAxeman 1と交信しレーザーを依頼)",
+    ["DictKey_ActionText_36"] = "3つ目の目標を破壊した。",
+    ["DictKey_ActionText_33"] = "3つ目のSAMサイトを破壊した。",
+    ["DictKey_ActionText_16"] = "Colt 1 こちら Axeman 1 ヘリで到着した不明者の確認を待て。",
+    ["DictKey_ActionText_19"] = "ミッション終了",
+    ["DictKey_ActionText_26"] = "全航空部隊、攻撃開始",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_23"] = "全機 WP1 で合流し、敵艦隊への攻撃を開始せよ。",
+    ["DictKey_ActionText_44"] = "空母発艦前に、通信メニューを使用して地上クルーに、ヘルメットをNVGに変えてもらうのを忘れないこと。",
+    ["DictKey_ActionText_31"] = "1つ目のSAMサイトを破壊した。",
+    ["DictKey_ActionComment_21"] = "",
+    ["DictKey_ActionText_15"] = "Colt 1 こちら Axeman 1 VIPの輸送隊が来る可能性がある。確認を待て。",
+    ["DictKey_ActionText_24"] = "",
+    ["DictKey_ActionComment_30"] = "",
+    ["DictKey_ActionText_35"] = "2つ目の目標を破壊した。",
+    ["DictKey_ActionText_13"] = "Colt 1 こちら Axeman 1 VIP到着の可能性。確認待て",
+    ["DictKey_ActionText_28"] = "全機 WP1 で合流し、敵艦隊への攻撃を開始せよ。",
+    ["DictKey_sortie_5"] = "Operation Black Spear - Mission 5",
+    ["DictKey_ActionText_18"] = "目標達成 RTB",
+    ["DictKey_ActionText_22"] = "Colt 敵機が接近中、迎撃せよ。増援が向かっている。",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_20"] = "",
+    ["DictKey_ActionText_29"] = "",
+    ["DictKey_descriptionText_1"] = "我が艦隊に対する最後の攻撃は、何とか我々に損害を与えたが、十分ではなかった。その代わり、敵は水上艦隊を完全に失い、黒海の支配権は我々のものとなった\
+\
+あとは地上の部隊が壊滅するか、降伏を決断するまで攻撃するだけだ。そのために、燃料や弾薬の多くを貯蔵している3つの補給基地を攻撃する。夜間に攻撃し、相手の対空防衛網に攻撃される可能性を減らす。\
+\
+ミッションやコミュニケーションについての詳細は、Kneeboardをチェックすること。\
+\
+Communication info:\
+\
+- USS George Washington - FREQ 251.00 - ICLS 11 - Link 4 336.0\
+- Overlord 1 (AWACS) - FREQ 305.00 - link 16 127\
+\
+IMPORTANT INFO:\
+\
+   - AWACSのデータリンクにアクセスするには、D/Lボタンを2回押すのを忘れないこと。これをオンにすると、デフォルトの周波数でSA内のすべてのAWACSレーダー情報が得られる。\
+   - 空母発艦前に、通信メニューを使用して地上クルーに、ヘルメットをNVGに変えてもらうのを忘れないこと。",
+    ["DictKey_ActionComment_25"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_32"] = "2つ目のSAMサイトを破壊した。",
+    ["DictKey_ActionText_14"] = "ミッション失敗。空母が破壊されました。",
+    ["DictKey_ActionText_27"] = "ミッション失敗。空母が撃沈されました。",
+    ["DictKey_ActionText_8"] = "ミッション完了 RTB",
+    ["DictKey_descriptionBlueTask_3"] = "1. 敵補給基地への損害",
+    ["DictKey_ActionText_37"] = "このミッションでは補給廠を完全に破壊する必要はなく、廠の中央にあるトラックを攻撃すれば目的は達成されたことになる。",
+} -- end of dictionary

@@ -1,0 +1,38 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "ミッション終了",
+    ["DictKey_ActionText_18"] = "",
+    ["DictKey_descriptionText_1"] = "ジョージア軍が国の支配権を取り戻したが、反乱軍の残党は山中に隠れていた。米国はジョージア軍に安全保障、支援、兵站を提供するため、米陸軍、米空軍、海兵隊からなる小部隊を派遣した。タスクフォース60は、8機のAV-8Bハリアーを搭載した「LHA-1 USS Tarawa」とその護衛艦で強化された。\
+\
+デルタフォースのオペレーターが山奥で反乱軍のリーダーの隠れ家を発見した。この人物はロシアのオリガルヒと政府と密接な関係があり戦争を始めるための資金と武器を調達していた。私たちは、この戦争をきっぱりと終わらせ、すべての黒幕を排除する使命を託されている。我々はロシアとの国境に近いところで活動するため、細心の注意を払わなければならない。\
+\
+デルタフォースのオペレーター コールサイン \"Axeman 1\" が確認を行い、レーザーでターゲットをマークする。\
+\
+ミッションやコミュニケーションについての詳細は、Kneeboardをチェックすること。\
+\
+Communication info:\
+\
+- USS George Washington - FREQ 251.00 - ICLS 11 - Link 4 336.0\
+- Wizard 1 (AWACS) - FREQ 305.00 - link 16 127\
+- Axeman 1 (JTAC) - FREQ 305.00 - Laser code 1688\
+\
+IMPORTANT INFO:\
+\
+   - AWACSのデータリンクにアクセスするには、D/Lボタンを2回押すのを忘れないこと。これをオンにすると、デフォルトの周波数でSA内のすべてのAWACSレーダー情報が得られる。\
+  - 空母発艦前に、通信メニューを使用して地上クルーに、ヘルメットをNVGに変えてもらうのを忘れないこと。",
+    ["DictKey_descriptionBlueTask_3"] = "1. ターゲットエリアに到着し、デルタフォースからの指示まで待機\
+2. 敵リーダーの殺害",
+    ["DictKey_ActionText_17"] = "ターゲットへの攻撃を許可する。\
+\
+(Radio FREQ 305 MHz で JTAC Axeman 1 に連絡。Laserコードは1688)",
+    ["DictKey_ActionText_25"] = "空母発艦前に、通信メニューを使用して地上クルーに、ヘルメットをNVGに変えてもらうのを忘れないこと。",
+    ["DictKey_ActionText_13"] = "目標到着の可能性、確認を待つ。",
+    ["DictKey_ActionText_14"] = "ミッション失敗 発砲の許可を待つ。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Operation Black Knight - Mission 5",
+    ["DictKey_ActionText_16"] = "ヘリで到着した不明者の確認を待て。",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_8"] = "ミッション完了、RTB",
+    ["DictKey_ActionText_15"] = "目標輸送隊が到着、確認を待て。",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

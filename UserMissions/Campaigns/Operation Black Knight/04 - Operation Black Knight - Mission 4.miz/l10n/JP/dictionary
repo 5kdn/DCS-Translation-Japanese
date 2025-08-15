@@ -1,0 +1,29 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "ミッション終了",
+    ["DictKey_descriptionText_1"] = "敵の指揮官は死亡し、反乱軍は崩壊しつつあるが、まだ敗れてはいない。南部の反乱軍は Batumi 市を拠点としている。諜報機関の報告によると、反乱軍はロケットランチャーとL-39Cの小艦隊を掌握しているが、空対空ミサイルも手にしているかどうかは不明である。\
+\
+ジョージア軍は城門に到着したが、反乱軍から激しい銃撃を受けている。友軍の進軍を確保し、南部の反乱軍に終止符を打つため、市内にある敵の重要な大砲陣地を破壊しなければならない。\
+\
+街はAAAが密集しているので気を付けること。夜間は人目を避けて敵の陣地を攻撃するのに有利だ。\
+\
+ミッションやコミュニケーションについての詳細は、Kneeboardをチェックすること。\
+\
+Communication info:\
+\
+- USS George Washington - FREQ 251.00 - ICLS 11 - Link 4 336.0\
+- Wizard 1 (AWACS) - FREQ 305.00 - link 16 127\
+\
+IMPORTANT INFO:\
+\
+   - AWACSのデータリンクにアクセスするには、D/Lボタンを2回押すのを忘れないこと。これをオンにすると、デフォルトの周波数でSA内のすべてのAWACSレーダー情報が得られる。\
+  - 空母発艦前に、通信メニューを使用して地上クルーに、ヘルメットをNVGに変えてもらうのを忘れないこと。",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Operation Black Knight - Mission 4",
+    ["DictKey_ActionText_11"] = "空母発艦前に、通信メニューを使用して地上クルーに、ヘルメットをNVGに変えてもらうのを忘れないこと。",
+    ["DictKey_ActionText_8"] = "ミッション完了 RTB",
+    ["DictKey_descriptionBlueTask_3"] = "1. 敵航空機を発見したら撃墜\
+2. 敵大砲の破壊",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary
