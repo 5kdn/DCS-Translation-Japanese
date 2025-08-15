@@ -1,0 +1,54 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "ミッション終了",
+    ["DictKey_ActionText_34"] = "Colt タクシーの許可を待て。",
+    ["DictKey_ActionText_18"] = "目標達成 RTB",
+    ["DictKey_ActionComment_25"] = "",
+    ["DictKey_ActionText_33"] = "3つ目のSAMサイトを破壊した。",
+    ["DictKey_ActionText_16"] = "Colt 1 こちら Axeman 1 ヘリで到着した不明者の確認を待て。",
+    ["DictKey_ActionText_32"] = "2つ目のSAMサイトを破壊した。",
+    ["DictKey_ActionText_26"] = "全航空部隊、攻撃開始",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_23"] = "全機 WP1 で合流し、敵艦隊への攻撃を開始せよ。",
+    ["DictKey_ActionText_31"] = "1つ目のSAMサイトを破壊した。",
+    ["DictKey_ActionComment_21"] = "",
+    ["DictKey_ActionText_15"] = "Colt 1 こちら Axeman 1 VIPの輸送隊が来る可能性がある。確認を待て。",
+    ["DictKey_ActionText_24"] = "",
+    ["DictKey_ActionComment_30"] = "",
+    ["DictKey_ActionText_35"] = "Colt 離陸を許可する。以上",
+    ["DictKey_ActionText_13"] = "Colt 1 こちら Axeman 1 VIP到着の可能性。確認待て",
+    ["DictKey_ActionText_28"] = "全機 WP1 で合流し、敵艦隊への攻撃を開始せよ。",
+    ["DictKey_sortie_5"] = "Operation Black Spear - Mission 7",
+    ["DictKey_ActionText_29"] = "",
+    ["DictKey_ActionText_27"] = "ミッション失敗。空母が撃沈されました。",
+    ["DictKey_ActionText_22"] = "Colt 敵機が接近中、迎撃せよ。増援が向かっている。",
+    ["DictKey_descriptionBlueTask_3"] = "1. Krymskに駐機しているTU-22 4台への損害",
+    ["DictKey_ActionText_20"] = "",
+    ["DictKey_ActionText_38"] = "攻撃開始",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_17"] = "Colt 1 こちら Axeman 1 VIPを攻撃する許可を得た。(305MHz無線でAxeman 1と交信しレーザーを依頼)",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_36"] = "燃料には注意し、可能であればドッグファイトは避けること。",
+    ["DictKey_ActionText_19"] = "ミッション終了",
+    ["DictKey_ActionText_14"] = "ミッション失敗。空母が破壊されました。",
+    ["DictKey_ActionText_8"] = "目標達成 RTB",
+    ["DictKey_descriptionText_1"] = "ロシア領内の空軍を廃絶させる目的で、ロシア領内に大規模な攻撃を行うことが決定された。これは、「Operation Black Spear」と戦争中に実施される最大の攻撃となり、北、中央、南の3つのグループに分かれた攻撃となる。北と南のグループはアメリカ空軍を担当し、中央のグループはタスクフォース60とアメリカ空軍のいくつかの要素を担当する。\
+\
+この攻撃の標的は、空軍基地とその駐留航空機、そしてSAMである。\
+\
+タスクフォース60は巡航ミサイル攻撃を開始し、我々の航空機が到着する前に敵の防御力を可能な限り低下させる。\
+\
+あなたの目的は、Krymsk空軍基地に駐留する4機のTU-22にダメージを与えることだ。\
+\
+ミッションやコミュニケーションについての詳細は、Kneeboardをチェックすること。\
+\
+Communication info:\
+\
+- USS George Washington - FREQ 251.00 - ICLS 11 - Link 4 336.0\
+- Overlord 1 (AWACS) - FREQ 305.00 - link 16 127\
+\
+IMPORTANT INFO:\
+\
+   - AWACSのデータリンクにアクセスするには、D/Lボタンを2回押すのを忘れないこと。これをオンにすると、デフォルトの周波数でSA内のすべてのAWACSレーダー情報が得られる。",
+    ["DictKey_ActionText_37"] = "攻撃は WP1 に到達した時点で開始される。",
+} -- end of dictionary

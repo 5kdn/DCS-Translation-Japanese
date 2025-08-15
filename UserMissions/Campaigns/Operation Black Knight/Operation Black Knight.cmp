@@ -1,0 +1,478 @@
+campaign = 
+{
+    ["description"] = "ジョージア共和制国家は、ここ数週間で内戦を開始し、重要な都市を占領している。彼らの軍隊は、ロシアのオリガルヒと政府から資金と供給を受けており、彼らの意図は、グルジアの民主的に選出された政府を、トルコ、シリア、中東に到達する新しいガスパイプラインの建設を可能にする親ロシアのものに変えることであると疑われている。\
+\
+反乱軍の進撃はジョージア軍を奇襲し、主要都市を占領することに成功した。ジョージア政府は、NATOと米国に緊急支援を要請した。ジョージアの要請に応え、米国はVFA-192を搭載した「CVN-73 USS George Washington」率いるTASK FORCE 60を派遣した。\
+\
+「Operation Black Knight」が開始され、その目的はジョージア軍の国土回復と反政府勢力の排除を支援することであるが、我々は慎重に行動しなければならず、ロシアを刺激し、国を大規模な戦争に導いてはならない。",
+    ["name_EN"] = "Operation Black Knight",
+    ["necessaryUnits"] = 
+    {
+        ["FA-18C_hornet"] = "FA-18C_hornet",
+    }, -- end of ["necessaryUnits"]
+    ["stages"] = 
+    {
+        [1] = 
+        {
+            ["name"] = "Etapa 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "01 - Operation Black Knight - Mission 1.miz",
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\01 - Operation Black Knight - Mission 1.miz",
+                    ["skipScore"] = 50,
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Etapa 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "02 - Operation Black Knight - Mission 2.miz",
+                    ["skipScore"] = 50,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\02 - Operation Black Knight - Mission 2.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "Etapa 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "04 - Operation Black Knight - Mission 4.miz",
+                    ["skipScore"] = 50,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\04 - Operation Black Knight - Mission 4.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] = 
+        {
+            ["name"] = "Etapa 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "08 - Operation Black Shield - Mission 2.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\08 - Operation Black Shield - Mission 2.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [16] = 
+        {
+            ["name"] = "Etapa 16",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "16 - Operation Black Spear - Mission 2.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\16 - Operation Black Spear - Mission 2.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [16]
+        [17] = 
+        {
+            ["name"] = "Etapa 17",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "17 - Operation Black Spear - Mission 3.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\17 - Operation Black Spear - Mission 3.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [17]
+        [9] = 
+        {
+            ["name"] = "Etapa 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "09 - Operation Black Shield - Mission 3.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\09 - Operation Black Shield - Mission 3.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [18] = 
+        {
+            ["name"] = "Etapa 18",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "18 - Operation Black Spear - Mission 4.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\18 - Operation Black Spear - Mission 4.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [18]
+        [5] = 
+        {
+            ["name"] = "Etapa 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "05 - Operation Black Knight - Mission 5.miz",
+                    ["skipScore"] = 50,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\05 - Operation Black Knight - Mission 5.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Etapa 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "10 - Operation Black Shield - Mission 4.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\10 - Operation Black Shield - Mission 4.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [20] = 
+        {
+            ["name"] = "Etapa 20",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "20 - Operation Black Spear - Mission 6.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\20 - Operation Black Spear - Mission 6.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [20]
+        [21] = 
+        {
+            ["name"] = "Etapa 21",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "21 - Operation Black Spear - Mission 7.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\21 - Operation Black Spear - Mission 7.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [21]
+        [11] = 
+        {
+            ["name"] = "Etapa 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "11 - Operation Black Shield - Mission 5.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\11 - Operation Black Shield - Mission 5.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [22] = 
+        {
+            ["name"] = "Etapa 22",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "22 - Operation Black Spear - Mission 8.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\22 - Operation Black Spear - Mission 8.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [22]
+        [3] = 
+        {
+            ["name"] = "Etapa 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "03 - Operation Black Knight - Mission 3.miz",
+                    ["skipScore"] = 50,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\03 - Operation Black Knight - Mission 3.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] = 
+        {
+            ["name"] = "Etapa 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "06 - Operation Black Knight - Mission 6.miz",
+                    ["skipScore"] = 50,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\06 - Operation Black Knight - Mission 6.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Etapa 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "12 - Operation Black Shield - Mission 6.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\12 - Operation Black Shield - Mission 6.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [13] = 
+        {
+            ["name"] = "Etapa 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "13 - Operation Black Shield - Mission 7.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\13 - Operation Black Shield - Mission 7.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "Etapa 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "07 - Operation Black Shield - Mission 1.miz",
+                    ["skipScore"] = 50,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\07 - Operation Black Shield - Mission 1.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [14] = 
+        {
+            ["name"] = "Etapa 14",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "14 - Operation Black Shield - Mission 8.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\14 - Operation Black Shield - Mission 8.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+        [15] = 
+        {
+            ["name"] = "Etapa 15",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "15 - Operation Black Spear - Mission 1.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\15 - Operation Black Spear - Mission 1.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+        [19] = 
+        {
+            ["name"] = "Etapa 19",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "19 - Operation Black Spear - Mission 5.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\19 - Operation Black Spear - Mission 5.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [19]
+        [23] = 
+        {
+            ["name"] = "Etapa 23",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "23 - Operation Lasting Peace - Final.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\23 - Operation Lasting Peace - Final.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [23]
+    }, -- end of ["stages"]
+    ["fullPath"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\Operation Black Knight.cmp",
+    ["picture_EN"] = "Main.png",
+    ["directory"] = "C:\\Users\\Ignacio\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Operation Black Knight\\",
+    ["startStage"] = 1,
+    ["picture"] = "Main.png",
+    ["pictureSuccess_ES"] = "logo1.png",
+    ["description_EN"] = "ジョージア共和制国家は、ここ数週間で内戦を開始し、重要な都市を占領している。彼らの軍隊は、ロシアのオリガルヒと政府から資金と供給を受けており、彼らの意図は、ジョージアの民主的に選出された政府を、トルコ、シリア、中東に到達する新しいガスパイプラインの建設を可能にする親ロシアのものに変えることであると疑われている。\
+\
+反乱軍の進撃はジョージア軍を奇襲し、主要都市を占領することに成功した。ジョージア政府は、NATOと米国に緊急支援を要請した。ジョージアの要請に応え、米国はVFA-192を搭載した「CVN-73 USS George Washington」率いるTASK FORCE 60を派遣した。\
+\
+「Operation Black Knight」が開始され、その目的はジョージア軍の国土回復と反政府勢力の排除を支援することであるが、我々は慎重に行動しなければならず、ロシアを刺激し、国を大規模な戦争に導いてはならない。",
+    ["pictureFailed_ES"] = "lose.jpg",
+    ["picture_ES"] = "Main.png",
+    ["pictureFailed"] = "lose.jpg",
+    ["description_ES"] = "ジョージア共和制国家は、ここ数週間で内戦を開始し、重要な都市を占領している。彼らの軍隊は、ロシアのオリガルヒと政府から資金と供給を受けており、彼らの意図は、ジョージアの民主的に選出された政府を、トルコ、シリア、中東に到達する新しいガスパイプラインの建設を可能にする親ロシアのものに変えることであると疑われている。\
+\
+反乱軍の進撃はジョージア軍を奇襲し、主要都市を占領することに成功した。ジョージア政府は、NATOと米国に緊急支援を要請した。ジョージアの要請に応え、米国はVFA-192を搭載した「CVN-73 USS George Washington」率いるTASK FORCE 60を派遣した。\
+\
+「Operation Black Knight」が開始され、その目的はジョージア軍の国土回復と反政府勢力の排除を支援することであるが、我々は慎重に行動しなければならず、ロシアを刺激し、国を大規模な戦争に導いてはならない。",
+    ["version"] = 1,
+    ["name_ES"] = "Operation Black Knight",
+    ["pictureSuccess_EN"] = "win.jpg",
+    ["pictureFailed_EN"] = "lose.jpg",
+    ["name"] = "Operation Black Knight",
+    ["pictureSuccess"] = "logo1.png",
+} -- end of campaign

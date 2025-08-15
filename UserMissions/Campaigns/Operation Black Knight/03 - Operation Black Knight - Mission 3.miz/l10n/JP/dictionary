@@ -1,0 +1,47 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "ミッション終了",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionRadioText_21"] = "敵の指揮官をマーク",
+    ["DictKey_ActionText_24"] = "敵輸送隊の位置は照明弾でマークされている。",
+    ["DictKey_ActionText_17"] = "Nebodziri で敵指揮官を発見。",
+    ["DictKey_ActionText_25"] = "ミッション終了",
+    ["DictKey_ActionText_13"] = "Bazaleti で敵指揮官を発見。",
+    ["DictKey_sortie_5"] = "Operation Black Knight - Mission 3",
+    ["DictKey_ActionText_16"] = "Kekhvi で敵指揮官を発見。",
+    ["DictKey_ActionText_19"] = "Tsjinvali で敵指揮官を発見。.",
+    ["DictKey_ActionText_14"] = "Jashuri で敵指揮官を発見。.",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionComment_7"] = "",
+    ["DictKey_ActionComment_11"] = "",
+    ["DictKey_descriptionText_1"] = "ジョージア第2旅団は Sukhumi の包囲網を破り、全戦線で反乱軍を押し返し始めた。一方、同国中部での戦闘は激化している。\
+\
+現場の諜報員が反乱軍指揮官の居場所を突き止めた。我々の諜報員によると、敵の指揮官は Zestafoni からロシアに向かう車列で戦闘地域を離れている。彼がロシア国境に到着すれば、手を出すことはできないだろう。\
+\
+敵の指揮官を倒し、反乱軍に大打撃を与えるのが任務だ。\
+\
+彼らは輸送隊を破壊する火力はないが、輸送隊の位置の最新情報を提供し、必要なら照明弾で正確な位置を知らせることができる。\
+\
+ミッションやコミュニケーションについての詳細は、Kneeboardをチェックすること。\
+\
+Communication info:\
+\
+- USS George Washington - FREQ 251.00 - ICLS 11 - Link 4 336.0\
+- Wizard 1 (AWACS) - FREQ 305.00 - link 16 127\
+\
+IMPORTANT INFO:\
+\
+   - AWACSのデータリンクにアクセスするには、D/Lボタンを2回押すのを忘れないこと。これをオンにすると、デフォルトの周波数でSA内のすべてのAWACSレーダー情報が得られる。",
+    ["DictKey_ActionText_9"] = "敵指揮官の殺害を確認、RTB。",
+    ["DictKey_ActionText_20"] = "Zestafoni で敵指揮官を発見。",
+    ["DictKey_ActionText_26"] = "敵陣に到着したら、無線機（オプションF10）を使って敵の輸送隊位置に照明弾を要請する。",
+    ["DictKey_ActionComment_23"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_22"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "1. 敵輸送隊の捜索\
+2. 反乱軍指揮官を乗せた敵車両の破壊",
+    ["DictKey_ActionText_18"] = "Phvenisi で敵指揮官を発見。",
+    ["DictKey_ActionText_8"] = "作戦は失敗し、敵の司令官は逃走した。",
+    ["DictKey_ActionText_15"] = "Java で敵指揮官を発見。",
+    ["DictKey_ActionText_12"] = "Agara で敵指揮官を発見。",
+} -- end of dictionary

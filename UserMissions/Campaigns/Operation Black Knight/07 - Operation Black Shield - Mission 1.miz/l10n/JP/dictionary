@@ -1,0 +1,46 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "ミッション終了",
+    ["DictKey_ActionText_24"] = "",
+    ["DictKey_ActionText_17"] = "Colt 1 こちら Axeman 1 VIPを攻撃する許可を得た。(305MHz無線でAxeman 1と交信しレーザーを依頼)",
+    ["DictKey_ActionText_13"] = "Colt 1 こちら Axeman 1 VIP到着の可能性。確認待て",
+    ["DictKey_ActionText_28"] = "WP1 に到達すると攻撃が開始される。",
+    ["DictKey_ActionComment_25"] = "",
+    ["DictKey_sortie_5"] = "Operation Black Shield - Mission 1",
+    ["DictKey_ActionText_16"] = "Colt 1 こちら Axeman 1 ヘリで到着した不明者の確認を待て。",
+    ["DictKey_ActionText_19"] = "ミッション終了",
+    ["DictKey_ActionText_14"] = "ミッション失敗。空母が破壊されました。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_23"] = "全機 WP1 で合流し、敵艦隊への攻撃を開始せよ。",
+    ["DictKey_ActionText_22"] = "Colt 敵機が接近中、迎撃せよ。増援が向かっている。",
+    ["DictKey_descriptionBlueTask_3"] = "1. 敵艦隊の撃破",
+    ["DictKey_ActionText_20"] = "",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_26"] = "攻撃開始",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_8"] = "ミッション完了 RTB",
+    ["DictKey_descriptionText_1"] = "ロシアは奇襲攻撃を仕掛け、ジョージア沿岸警備隊は黒海で沈没し、ロシアの装甲車は国境を越え、ジョージア軍は防衛体制の構築を急いでいる。ジョージア国内のわが軍は、ロシア軍と直接戦う権限をまだ与えられていないが、それは変わろうとしている。\
+\
+「Operation Black Shield」が開始され、その目的はロシア軍によるジョージア占領をあらゆる手段で阻止することである。\
+\
+我が潜水艦の1隻が、黒海艦隊の旗艦であるモスクワ級巡洋艦とその護衛艦を発見した。我々は艦隊を攻撃する権限を与えられている。巡洋艦と護衛艦を撃沈できれば、黒海の支配権を確保できる。\
+\
+ロシア艦隊のパワーを過小評価してはならない。おそらく、1隻でもダメージを与えるには数回の攻撃が必要だろう。\
+\
+有効な飛行機とヘリコプターはすべて離陸し、攻撃を開始しなければならない。\
+\
+ミッションやコミュニケーションについての詳細は、Kneeboardをチェックすること。\
+\
+Communication info:\
+\
+- USS George Washington - FREQ 251.00 - ICLS 11 - Link 4 336.0\
+- Wizard 1 (AWACS) - FREQ 305.00 - link 16 127\
+\
+IMPORTANT INFO:\
+\
+   - AWACSのデータリンクにアクセスするには、D/Lボタンを2回押すのを忘れないこと。これをオンにすると、デフォルトの周波数でSA内のすべてのAWACSレーダー情報が得られる。",
+    ["DictKey_ActionText_18"] = "敵艦隊が沈没。RTB",
+    ["DictKey_ActionComment_21"] = "",
+    ["DictKey_ActionText_15"] = "Colt 1 こちら Axeman 1 VIPの輸送隊が来る可能性がある。確認を待て。",
+    ["DictKey_ActionText_27"] = "ミッション失敗。空母が撃沈されました。",
+} -- end of dictionary
