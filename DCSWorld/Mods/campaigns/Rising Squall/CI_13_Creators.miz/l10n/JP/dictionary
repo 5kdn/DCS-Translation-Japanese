@@ -1,0 +1,817 @@
+dictionary = 
+{
+    ["DictKey_ActionText_112"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1350  --水平偏移距离\
+local offset_vertical = 3950    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_WptName_714"] = "",
+    ["DictKey_WptName_464"] = "",
+    ["DictKey_GroupName_563"] = "Ruler-10",
+    ["DictKey_ActionText_584"] = "local basePos = trigger.misc.getZone(\"Mark-5\").point\
+fireworkLine(\"LEAD ARTIST\", basePos, 4000, 290, trigger.flareColor.Red)\
+fireworkLine(\"   FU JIMING\", basePos, 3450, 290, trigger.flareColor.Yellow)",
+    ["DictKey_ActionText_423"] = "",
+    ["DictKey_GroupName_497"] = "Mark-4",
+    ["DictKey_UnitName_753"] = "静态 浓烟-2-1",
+    ["DictKey_ActionText_68"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 800  --水平偏移距离\
+local offset_vertical = 4150    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_116"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1400  --水平偏移距离\
+local offset_vertical = 3800    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_113"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1350  --水平偏移距离\
+local offset_vertical = 3900    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_85"] = "",
+    ["DictKey_WptName_488"] = "",
+    ["DictKey_ActionText_659"] = "",
+    ["DictKey_ActionText_182"] = "",
+    ["DictKey_ActionText_117"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1450  --水平偏移距离\
+local offset_vertical = 3800    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_415"] = "",
+    ["DictKey_GroupName_10"] = "Mark-1",
+    ["DictKey_WptName_476"] = "",
+    ["DictKey_WptName_456"] = "",
+    ["DictKey_ActionText_84"] = "",
+    ["DictKey_ActionText_669"] = "",
+    ["DictKey_ActionText_663"] = "",
+    ["DictKey_GroupName_519"] = "Ruler-4",
+    ["DictKey_WptName_533"] = "",
+    ["DictKey_WptName_534"] = "",
+    ["DictKey_ActionText_126"] = "",
+    ["DictKey_GroupName_709"] = "",
+    ["DictKey_ActionText_255"] = "",
+    ["DictKey_ActionText_622"] = "",
+    ["DictKey_ActionText_87"] = "",
+    ["DictKey_UnitName_548"] = "Ruler-6-1",
+    ["DictKey_ActionText_596"] = "",
+    ["DictKey_UnitName_713"] = "",
+    ["DictKey_UnitName_556"] = "Ruler-8-1",
+    ["DictKey_ActionText_366"] = "",
+    ["DictKey_ActionRadioText_815"] = "",
+    ["DictKey_GroupName_608"] = "Ruler-1",
+    ["DictKey_ActionText_410"] = "",
+    ["DictKey_ActionRadioText_833"] = "",
+    ["DictKey_WptName_500"] = "",
+    ["DictKey_ActionText_677"] = "",
+    ["DictKey_ActionText_47"] = "",
+    ["DictKey_ActionText_667"] = "",
+    ["DictKey_ActionText_391"] = "",
+    ["DictKey_GroupName_515"] = "Ruler-4",
+    ["DictKey_ActionText_123"] = "",
+    ["DictKey_ActionText_51"] = "",
+    ["DictKey_WptName_521"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_242"] = "",
+    ["DictKey_UnitName_536"] = "Ruler-2-1",
+    ["DictKey_ActionText_206"] = "",
+    ["DictKey_ActionText_278"] = "",
+    ["DictKey_UnitName_572"] = "Ruler-12-1",
+    ["DictKey_ActionText_300"] = "",
+    ["DictKey_ActionText_785"] = "【TIPS】\
+\
+[Num 5] キーを押すと、視点のロックが解除されます。",
+    ["DictKey_UnitName_756"] = "静态 浓烟-6-1",
+    ["DictKey_ActionText_632"] = "",
+    ["DictKey_ActionText_310"] = "",
+    ["DictKey_ActionText_90"] = "",
+    ["DictKey_ActionText_683"] = "",
+    ["DictKey_WptName_570"] = "",
+    ["DictKey_GroupName_527"] = "Ruler-4",
+    ["DictKey_ActionText_127"] = "",
+    ["DictKey_ActionText_136"] = "",
+    ["DictKey_WptName_522"] = "",
+    ["DictKey_UnitName_741"] = "静态 浓烟-1",
+    ["DictKey_ActionText_130"] = "",
+    ["DictKey_UnitName_486"] = "Mark-1-1",
+    ["DictKey_GroupName_559"] = "Ruler-9",
+    ["DictKey_UnitName_718"] = "Troops-1-1",
+    ["DictKey_ActionText_620"] = "",
+    ["DictKey_UnitName_724"] = "",
+    ["DictKey_GroupName_485"] = "Mark-1",
+    ["DictKey_ActionText_83"] = "",
+    ["DictKey_ActionText_380"] = "",
+    ["DictKey_ActionText_655"] = "",
+    ["DictKey_ActionText_82"] = "",
+    ["DictKey_GroupName_717"] = "Unknown Troops",
+    ["DictKey_ActionText_248"] = "",
+    ["DictKey_ActionText_134"] = "",
+    ["DictKey_WptName_745"] = "",
+    ["DictKey_ActionText_412"] = "",
+    ["DictKey_ActionText_406"] = "",
+    ["DictKey_ActionText_653"] = "",
+    ["DictKey_ActionText_135"] = "",
+    ["DictKey_ActionText_418"] = "",
+    ["DictKey_ActionText_675"] = "",
+    ["DictKey_WptName_452"] = "",
+    ["DictKey_ActionText_396"] = "",
+    ["DictKey_ActionText_321"] = "",
+    ["DictKey_WptName_504"] = "",
+    ["DictKey_GroupName_571"] = "Ruler-12",
+    ["DictKey_GroupName_461"] = "Ruler-3",
+    ["DictKey_WptName_472"] = "",
+    ["DictKey_WptName_778"] = "",
+    ["DictKey_ActionText_63"] = "",
+    ["DictKey_GroupName_531"] = "Ruler-9",
+    ["DictKey_WptName_518"] = "",
+    ["DictKey_ActionText_177"] = "",
+    ["DictKey_ActionText_320"] = "",
+    ["DictKey_ActionText_312"] = "",
+    ["DictKey_ActionText_634"] = "",
+    ["DictKey_ActionText_828"] = "Version: v2.00 2021.3.22",
+    ["DictKey_UnitName_498"] = "Mark-4-1",
+    ["DictKey_ActionText_308"] = "",
+    ["DictKey_GroupName_698"] = "",
+    ["DictKey_ActionText_162"] = "",
+    ["DictKey_ActionText_49"] = "",
+    ["DictKey_ActionText_132"] = "",
+    ["DictKey_WptName_475"] = "",
+    ["DictKey_WptName_495"] = "",
+    ["DictKey_ActionRadioText_831"] = "",
+    ["DictKey_ActionText_358"] = "",
+    ["DictKey_WptName_549"] = "",
+    ["DictKey_WptName_541"] = "",
+    ["DictKey_ActionText_124"] = "",
+    ["DictKey_WptName_775"] = "",
+    ["DictKey_ActionText_343"] = "",
+    ["DictKey_ActionText_64"] = "",
+    ["DictKey_ActionText_345"] = "",
+    ["DictKey_ActionText_636"] = "",
+    ["DictKey_ActionText_288"] = "",
+    ["DictKey_ActionText_56"] = "",
+    ["DictKey_UnitName_780"] = "静态 浓烟-14-1",
+    ["DictKey_ActionText_100"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1450  --水平偏移距离\
+local offset_vertical = 4200    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_238"] = "",
+    ["DictKey_ActionText_420"] = "",
+    ["DictKey_UnitName_560"] = "Ruler-9-1",
+    ["DictKey_ActionText_371"] = "",
+    ["DictKey_UnitName_762"] = "静态 浓烟-6-1",
+    ["DictKey_WptName_700"] = "",
+    ["DictKey_ActionText_282"] = "",
+    ["DictKey_ActionText_168"] = "",
+    ["DictKey_ActionText_161"] = "",
+    ["DictKey_ActionText_70"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 750  --水平偏移距离\
+local offset_vertical = 4100    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_GroupName_465"] = "Ruler-3",
+    ["DictKey_WptName_496"] = "",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_ActionText_212"] = "",
+    ["DictKey_ActionText_166"] = "",
+    ["DictKey_ActionText_583"] = "local basePos = trigger.misc.getZone(\"Mark-4\").point\
+fireworkLine(\"LEVEL DESIGN\", basePos, 4000, 290, trigger.flareColor.Red)\
+fireworkLine(\"   SHEN JIANCHEN\", basePos, 3450, 290, trigger.flareColor.Yellow)",
+    ["DictKey_ActionText_210"] = "",
+    ["DictKey_WptName_610"] = "",
+    ["DictKey_UnitName_516"] = "Ruler-4-1",
+    ["DictKey_ActionText_581"] = "local basePos = trigger.misc.getZone(\"Mark-2\").point\
+fireworkLine(\"WRITTEN BY\", basePos, 4000, 290, trigger.flareColor.Red)\
+fireworkLine(\"   ZHOU SHIJIE\", basePos, 3450, 290, trigger.flareColor.Yellow)\
+fireworkLine(\"   SUN HAO\", basePos, 2950, 290, trigger.flareColor.Yellow)",
+    ["DictKey_UnitName_494"] = "Mark-4-1",
+    ["DictKey_GroupName_543"] = "Ruler-5",
+    ["DictKey_ActionText_165"] = "",
+    ["DictKey_WptName_537"] = "",
+    ["DictKey_ActionText_361"] = "",
+    ["DictKey_ActionText_215"] = "",
+    ["DictKey_ActionText_73"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 750  --水平偏移距离\
+local offset_vertical = 3950    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_252"] = "",
+    ["DictKey_ActionText_169"] = "",
+    ["DictKey_ActionText_120"] = "",
+    ["DictKey_ActionText_666"] = "",
+    ["DictKey_ActionText_203"] = "",
+    ["DictKey_ActionText_129"] = "",
+    ["DictKey_GroupName_597"] = "",
+    ["DictKey_ActionText_283"] = "",
+    ["DictKey_ActionText_78"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 850  --水平偏移距离\
+local offset_vertical = 3800    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_GroupName_445"] = "Ruler-1",
+    ["DictKey_ActionText_61"] = "",
+    ["DictKey_ActionText_75"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 800  --水平偏移距离\
+local offset_vertical = 3850    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_164"] = "",
+    ["DictKey_ActionText_395"] = "",
+    ["DictKey_WptName_772"] = "",
+    ["DictKey_UnitName_524"] = "Ruler-4-1",
+    ["DictKey_WptName_574"] = "",
+    ["DictKey_WptName_479"] = "",
+    ["DictKey_ActionText_109"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1450  --水平偏移距离\
+local offset_vertical = 4000    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_298"] = "",
+    ["DictKey_ActionText_204"] = "",
+    ["DictKey_ActionText_209"] = "",
+    ["DictKey_ActionText_213"] = "",
+    ["DictKey_GroupName_14"] = "Mark-1",
+    ["DictKey_ActionText_400"] = "",
+    ["DictKey_ActionText_176"] = "",
+    ["DictKey_ActionText_640"] = "",
+    ["DictKey_ActionText_401"] = "",
+    ["DictKey_ActionText_317"] = "",
+    ["DictKey_UnitName_645"] = "地面-1-1",
+    ["DictKey_GroupName_457"] = "Ruler-2",
+    ["DictKey_ActionText_79"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 900  --水平偏移距离\
+local offset_vertical = 3800    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_WptName_719"] = "",
+    ["DictKey_ActionText_48"] = "",
+    ["DictKey_ActionText_179"] = "",
+    ["DictKey_ActionText_111"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1550  --水平偏移距离\
+local offset_vertical = 4000    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_94"] = "",
+    ["DictKey_WptName_492"] = "",
+    ["DictKey_ActionText_393"] = "",
+    ["DictKey_ActionText_216"] = "",
+    ["DictKey_ActionText_295"] = "",
+    ["DictKey_ActionText_303"] = "",
+    ["DictKey_WptName_514"] = "",
+    ["DictKey_WptName_562"] = "",
+    ["DictKey_UnitName_490"] = "Mark-4-1",
+    ["DictKey_UnitName_454"] = "Ruler-2-1",
+    ["DictKey_ActionText_612"] = "",
+    ["DictKey_UnitName_783"] = "静态 浓烟-15-1",
+    ["DictKey_ActionText_170"] = "",
+    ["DictKey_WptName_600"] = "",
+    ["DictKey_GroupName_453"] = "Ruler-2",
+    ["DictKey_ActionText_618"] = "",
+    ["DictKey_UnitName_774"] = "静态 浓烟-6-1",
+    ["DictKey_WptName_467"] = "",
+    ["DictKey_UnitName_710"] = "",
+    ["DictKey_ActionText_101"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1500  --水平偏移距离\
+local offset_vertical = 4200    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_UnitName_747"] = "静态 浓烟-2-1",
+    ["DictKey_ActionText_368"] = "",
+    ["DictKey_WptName_711"] = "",
+    ["DictKey_ActionRadioText_817"] = "",
+    ["DictKey_WptName_578"] = "",
+    ["DictKey_ActionText_338"] = "",
+    ["DictKey_ActionText_271"] = "",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_ActionText_211"] = "",
+    ["DictKey_ActionText_330"] = "",
+    ["DictKey_ActionText_180"] = "",
+    ["DictKey_WptName_468"] = "",
+    ["DictKey_ActionText_626"] = "",
+    ["DictKey_ActionText_323"] = "",
+    ["DictKey_descriptionRedTask_2"] = "\\\\ウェブサイトでは、ストーリーやキャラクターの背景などをより詳しく見ることができ、将来のプロジェクトに関する最新情報を確認できます:\
+\
+www.rising-squall.com\
+\
+\
+ソーシャルメディアから最新情報やお知らせを確認できます:\
+\
+https://www.facebook.com/invertedstudio\
+https://twitter.com/StudioInverted\
+https://www.instagram.com/invertedstudio703\
+\
+\
+このキャンペーンを気に入ってくれましたら、DiscordやEDフォーラムでさらなる議論に参加できます:\
+\
+https://discord.gg/rKunBEMP\
+\
+\
+INVERTED Studio\
+December 2020",
+    ["DictKey_UnitName_450"] = "Ruler-1",
+    ["DictKey_WptName_766"] = "",
+    ["DictKey_ActionText_62"] = "",
+    ["DictKey_WptName_601"] = "",
+    ["DictKey_ActionText_137"] = "",
+    ["DictKey_ActionText_660"] = "",
+    ["DictKey_ActionText_254"] = "",
+    ["DictKey_ActionText_616"] = "",
+    ["DictKey_ActionText_430"] = "准备...........",
+    ["DictKey_UnitName_576"] = "Ruler-13-1",
+    ["DictKey_ActionRadioText_836"] = "",
+    ["DictKey_ActionText_398"] = "",
+    ["DictKey_ActionText_202"] = "",
+    ["DictKey_ActionText_619"] = "local basePos = trigger.misc.getZone(\"Mark-6\").point\
+fireworkLine(\"LEAD ARTIST\", basePos, 3500, 320, trigger.flareColor.Red)\
+fireworkLine(\"   FU JIMING\", basePos, 2950, 320, trigger.flareColor.Yellow)",
+    ["DictKey_ActionRadioText_805"] = "",
+    ["DictKey_ActionText_131"] = "",
+    ["DictKey_UnitName_11"] = "Mark-1-1",
+    ["DictKey_WptName_742"] = "",
+    ["DictKey_ActionText_333"] = "",
+    ["DictKey_ActionText_624"] = "",
+    ["DictKey_WptName_763"] = "",
+    ["DictKey_ActionText_201"] = "",
+    ["DictKey_ActionText_346"] = "",
+    ["DictKey_ActionText_285"] = "",
+    ["DictKey_ActionText_363"] = "",
+    ["DictKey_UnitName_458"] = "Ruler-2-1",
+    ["DictKey_ActionText_66"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 850  --水平偏移距离\
+local offset_vertical = 4200    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_95"] = "",
+    ["DictKey_GroupName_555"] = "Ruler-8",
+    ["DictKey_ActionText_408"] = "",
+    ["DictKey_ActionText_88"] = "",
+    ["DictKey_ActionText_270"] = "",
+    ["DictKey_ActionText_403"] = "",
+    ["DictKey_ActionText_413"] = "",
+    ["DictKey_ActionText_365"] = "",
+    ["DictKey_UnitName_446"] = "Ruler-1",
+    ["DictKey_WptName_529"] = "",
+    ["DictKey_ActionText_110"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1500  --水平偏移距离\
+local offset_vertical = 4000    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_GroupName_441"] = "Video Camera",
+    ["DictKey_ActionText_89"] = "",
+    ["DictKey_ActionText_431"] = "",
+    ["DictKey_WptName_448"] = "",
+    ["DictKey_ActionText_375"] = "",
+    ["DictKey_GroupName_539"] = "Ruler-4",
+    ["DictKey_WptName_781"] = "",
+    ["DictKey_ActionText_340"] = "",
+    ["DictKey_ActionText_106"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1350  --水平偏移距离\
+local offset_vertical = 4000    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_335"] = "",
+    ["DictKey_WptName_819"] = "",
+    ["DictKey_UnitName_544"] = "Ruler-5-1",
+    ["DictKey_ActionText_273"] = "",
+    ["DictKey_WptName_526"] = "",
+    ["DictKey_WptName_760"] = "",
+    ["DictKey_GroupName_24"] = "Mark-1",
+    ["DictKey_ActionText_287"] = "",
+    ["DictKey_ActionText_65"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 800  --水平偏移距离\
+local offset_vertical = 4200    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_52"] = "",
+    ["DictKey_ActionText_664"] = "",
+    ["DictKey_UnitName_520"] = "Ruler-4-1",
+    ["DictKey_ActionText_80"] = "",
+    ["DictKey_UnitName_705"] = "",
+    ["DictKey_ActionText_388"] = "",
+    ["DictKey_ActionText_328"] = "",
+    ["DictKey_WptName_820"] = "",
+    ["DictKey_WptName_510"] = "",
+    ["DictKey_ActionText_378"] = "",
+    ["DictKey_UnitName_738"] = "",
+    ["DictKey_ActionText_582"] = "local basePos = trigger.misc.getZone(\"Mark-3\").point\
+fireworkLine(\"VIDEO BY\", basePos, 4000, 290, trigger.flareColor.Red)\
+fireworkLine(\"   ZHOU JUNPENG\", basePos, 3450, 290, trigger.flareColor.Yellow)",
+    ["DictKey_ActionText_249"] = "",
+    ["DictKey_ActionRadioText_801"] = "",
+    ["DictKey_ActionText_246"] = "",
+    ["DictKey_ActionText_71"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 750  --水平偏移距离\
+local offset_vertical = 4050    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_292"] = "",
+    ["DictKey_ActionText_315"] = "",
+    ["DictKey_ActionText_593"] = "",
+    ["DictKey_ActionText_325"] = "",
+    ["DictKey_WptName_757"] = "",
+    ["DictKey_ActionText_602"] = "",
+    ["DictKey_GroupName_551"] = "Ruler-7",
+    ["DictKey_ActionText_53"] = "",
+    ["DictKey_ActionText_121"] = "",
+    ["DictKey_ActionText_55"] = "",
+    ["DictKey_ActionText_241"] = "",
+    ["DictKey_UnitName_598"] = "",
+    ["DictKey_ActionText_642"] = "",
+    ["DictKey_ActionText_23"] = "local basePos = Unit.getByName(\"Mark-2-1\"):getPoint()\
+basePos.y = basePos.y + 3000\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_WptName_784"] = "",
+    ["DictKey_WptName_499"] = "",
+    ["DictKey_WptName_513"] = "",
+    ["DictKey_WptName_561"] = "",
+    ["DictKey_GroupName_473"] = "Ruler-3",
+    ["DictKey_sortie_5"] = "Rising Squall - The END（Creators）",
+    ["DictKey_WptName_542"] = "",
+    ["DictKey_WptName_459"] = "",
+    ["DictKey_ActionText_247"] = "",
+    ["DictKey_ActionText_104"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1350  --水平偏移距离\
+local offset_vertical = 4100    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_390"] = "",
+    ["DictKey_ActionText_208"] = "",
+    ["DictKey_ActionText_175"] = "",
+    ["DictKey_ActionText_99"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1400  --水平偏移距离\
+local offset_vertical = 4200    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_181"] = "",
+    ["DictKey_UnitName_532"] = "Ruler-9-1",
+    ["DictKey_WptName_447"] = "",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_ActionText_96"] = "",
+    ["DictKey_WptName_739"] = "",
+    ["DictKey_WptName_517"] = "",
+    ["DictKey_ActionText_649"] = "",
+    ["DictKey_WptName_569"] = "",
+    ["DictKey_UnitName_508"] = "Ruler-4-1",
+    ["DictKey_ActionText_67"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 900  --水平偏移距离\
+local offset_vertical = 4200    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_237"] = "",
+    ["DictKey_ActionText_681"] = "",
+    ["DictKey_ActionText_76"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 950  --水平偏移距离\
+local offset_vertical = 3850    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_GroupName_507"] = "Ruler-4",
+    ["DictKey_ActionText_115"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1350  --水平偏移距离\
+local offset_vertical = 3800    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_50"] = "",
+    ["DictKey_ActionText_353"] = "",
+    ["DictKey_ActionText_671"] = "",
+    ["DictKey_UnitName_25"] = "Mark-1-1",
+    ["DictKey_ActionText_326"] = "",
+    ["DictKey_ActionText_280"] = "",
+    ["DictKey_ActionText_416"] = "",
+    ["DictKey_ActionText_355"] = "",
+    ["DictKey_ActionText_174"] = "",
+    ["DictKey_ActionText_638"] = "",
+    ["DictKey_ActionText_614"] = "",
+    ["DictKey_ActionText_125"] = "",
+    ["DictKey_ActionText_651"] = "",
+    ["DictKey_UnitName_502"] = "Mark-2-1",
+    ["DictKey_GroupName_449"] = "Ruler-1",
+    ["DictKey_ActionText_673"] = "",
+    ["DictKey_ActionText_658"] = "",
+    ["DictKey_ActionText_119"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1550  --水平偏移距离\
+local offset_vertical = 3800    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_UnitName_568"] = "Ruler-11-1",
+    ["DictKey_GroupName_469"] = "Ruler-5",
+    ["DictKey_ActionText_253"] = "",
+    ["DictKey_ActionText_173"] = "",
+    ["DictKey_ActionText_178"] = "",
+    ["DictKey_UnitName_734"] = "",
+    ["DictKey_ActionText_342"] = "",
+    ["DictKey_ActionText_114"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1350  --水平偏移距离\
+local offset_vertical = 3850    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_UnitName_771"] = "静态 浓烟-6-1",
+    ["DictKey_ActionText_313"] = "",
+    ["DictKey_WptName_573"] = "",
+    ["DictKey_UnitName_765"] = "静态 浓烟-6-1",
+    ["DictKey_ActionText_628"] = "",
+    ["DictKey_ActionText_60"] = "",
+    ["DictKey_UnitName_540"] = "Ruler-4-1",
+    ["DictKey_ActionText_277"] = "",
+    ["DictKey_ActionText_350"] = "",
+    ["DictKey_GroupName_547"] = "Ruler-6",
+    ["DictKey_ActionText_128"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_ActionText_102"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1550  --水平偏移距离\
+local offset_vertical = 4200    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_UnitName_462"] = "Ruler-3-1",
+    ["DictKey_GroupName_535"] = "Ruler-2",
+    ["DictKey_WptName_545"] = "",
+    ["DictKey_ActionText_32"] = "",
+    ["DictKey_WptName_566"] = "",
+    ["DictKey_GroupName_477"] = "Ruler-4",
+    ["DictKey_ActionText_118"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1500  --水平偏移距离\
+local offset_vertical = 3800    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_205"] = "",
+    ["DictKey_ActionText_133"] = "",
+    ["DictKey_UnitName_442"] = "Video Camera",
+    ["DictKey_ActionText_207"] = "",
+    ["DictKey_ActionRadioText_829"] = "",
+    ["DictKey_GroupName_501"] = "Mark-2",
+    ["DictKey_UnitName_750"] = "静态 浓烟-2-1",
+    ["DictKey_UnitName_528"] = "Ruler-4-1",
+    ["DictKey_ActionText_98"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1350  --水平偏移距离\
+local offset_vertical = 4200    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_UnitName_777"] = "静态 浓烟-6-1",
+    ["DictKey_WptName_577"] = "",
+    ["DictKey_ActionText_244"] = "",
+    ["DictKey_UnitName_552"] = "Ruler-7-1",
+    ["DictKey_ActionText_662"] = "",
+    ["DictKey_ActionText_245"] = "",
+    ["DictKey_WptName_471"] = "",
+    ["DictKey_ActionText_251"] = "",
+    ["DictKey_ActionText_69"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 950  --水平偏移距离\
+local offset_vertical = 4150    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_172"] = "",
+    ["DictKey_GroupName_567"] = "Ruler-11",
+    ["DictKey_ActionText_54"] = "",
+    ["DictKey_ActionText_239"] = "",
+    ["DictKey_ActionText_243"] = "",
+    ["DictKey_UnitName_15"] = "Mark-1-1",
+    ["DictKey_WptName_491"] = "",
+    ["DictKey_ActionText_105"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1350  --水平偏移距离\
+local offset_vertical = 4050    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_ActionText_240"] = "",
+    ["DictKey_ActionText_332"] = "",
+    ["DictKey_WptName_748"] = "",
+    ["DictKey_WptName_487"] = "",
+    ["DictKey_ActionText_74"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 750  --水平偏移距离\
+local offset_vertical = 3900    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_UnitName_512"] = "Ruler-4-1",
+    ["DictKey_ActionText_97"] = "",
+    ["DictKey_ActionText_302"] = "",
+    ["DictKey_UnitName_609"] = "Ruler-1",
+    ["DictKey_WptName_463"] = "",
+    ["DictKey_ActionText_433"] = "准备..........没油料了！！！！！！！",
+    ["DictKey_ActionText_647"] = "",
+    ["DictKey_ActionText_435"] = "准备..........没油料了！！！！！！！",
+    ["DictKey_ActionText_92"] = "",
+    ["DictKey_WptName_701"] = "",
+    ["DictKey_ActionText_250"] = "",
+    ["DictKey_WptName_646"] = "",
+    ["DictKey_UnitName_759"] = "静态 浓烟-6-1",
+    ["DictKey_ActionText_630"] = "",
+    ["DictKey_ActionText_661"] = "",
+    ["DictKey_ActionText_337"] = "",
+    ["DictKey_ActionText_360"] = "",
+    ["DictKey_ActionText_428"] = "",
+    ["DictKey_ActionText_163"] = "",
+    ["DictKey_WptName_530"] = "",
+    ["DictKey_ActionText_687"] = "",
+    ["DictKey_ActionText_685"] = "",
+    ["DictKey_ActionText_383"] = "",
+    ["DictKey_ActionText_307"] = "",
+    ["DictKey_ActionText_318"] = "",
+    ["DictKey_WptName_480"] = "",
+    ["DictKey_WptName_599"] = "",
+    ["DictKey_ActionText_806"] = "Version: v1.02 2021.2.22",
+    ["DictKey_ActionText_256"] = "",
+    ["DictKey_descriptionText_1"] = "おめでとう！Rising Squallキャンペーンを完了しました！\
+\
+バベルタワーの崩壊後、ウリエル空軍はMingを殺そうとした。幸運なことに、BolivarがMingの援護に現れ、脱出を助けた。Mingはルートをたどり、不明な座標への到達を目指した。\
+\
+座標はMingをどこへ連れて行くのだろうか？バベルタワー崩壊の裏には誰がいるのか？脱出の最中、Mingは何と出会うのだろうか？\
+\
+全ての答えはこれから見つかるだろう。キャンペーンの終わりに記録された操作でクレジットを表示します。これでキャンペーンは終わりですので、最後の僅かな飛行を楽しんでください。",
+    ["DictKey_ActionText_108"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1400  --水平偏移距离\
+local offset_vertical = 4000    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_UnitName_564"] = "Ruler-10-1",
+    ["DictKey_ActionText_171"] = "",
+    ["DictKey_WptName_751"] = "",
+    ["DictKey_ActionText_59"] = "",
+    ["DictKey_UnitName_768"] = "静态 浓烟-6-1",
+    ["DictKey_ActionText_637"] = "",
+    ["DictKey_ActionText_293"] = "",
+    ["DictKey_GroupName_489"] = "Mark-4",
+    ["DictKey_ActionText_373"] = "",
+    ["DictKey_ActionText_348"] = "",
+    ["DictKey_WptName_565"] = "",
+    ["DictKey_WptName_553"] = "",
+    ["DictKey_ActionText_679"] = "",
+    ["DictKey_ActionText_167"] = "",
+    ["DictKey_WptName_550"] = "",
+    ["DictKey_ActionText_657"] = "",
+    ["DictKey_GroupName_511"] = "Ruler-4",
+    ["DictKey_ActionText_305"] = "",
+    ["DictKey_WptName_509"] = "",
+    ["DictKey_WptName_538"] = "",
+    ["DictKey_ActionText_405"] = "",
+    ["DictKey_ActionText_58"] = "",
+    ["DictKey_WptName_769"] = "",
+    ["DictKey_WptName_558"] = "",
+    ["DictKey_ActionText_93"] = "",
+    ["DictKey_ActionText_370"] = "",
+    ["DictKey_ActionText_803"] = "",
+    ["DictKey_ActionText_352"] = "",
+    ["DictKey_GroupName_644"] = "地面-1",
+    ["DictKey_WptName_451"] = "",
+    ["DictKey_ActionText_91"] = "",
+    ["DictKey_ActionText_421"] = "",
+    ["DictKey_ActionText_381"] = "",
+    ["DictKey_ActionText_665"] = "",
+    ["DictKey_ActionText_425"] = "",
+    ["DictKey_UnitName_474"] = "Ruler-3-1",
+    ["DictKey_ActionText_214"] = "",
+    ["DictKey_UnitName_470"] = "Ruler-5-1",
+    ["DictKey_ActionText_72"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 750  --水平偏移距离\
+local offset_vertical = 4000    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_WptName_611"] = "",
+    ["DictKey_ActionText_86"] = "",
+    ["DictKey_UnitName_699"] = "",
+    ["DictKey_UnitName_744"] = "静态 浓烟-2-1",
+    ["DictKey_ActionText_107"] = "",
+    ["DictKey_ActionText_103"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 1350  --水平偏移距离\
+local offset_vertical = 4150    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+    ["DictKey_WptName_443"] = "",
+    ["DictKey_ActionText_81"] = "",
+    ["DictKey_GroupName_575"] = "Ruler-13",
+    ["DictKey_ActionText_387"] = "",
+    ["DictKey_WptName_525"] = "",
+    ["DictKey_GroupName_493"] = "Mark-4",
+    ["DictKey_WptName_546"] = "",
+    ["DictKey_ActionText_290"] = "",
+    ["DictKey_ActionText_122"] = "",
+    ["DictKey_ActionText_376"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_GroupName_523"] = "Ruler-4",
+    ["DictKey_WptName_754"] = "",
+    ["DictKey_ActionText_385"] = "",
+    ["DictKey_UnitName_478"] = "Ruler-4-1",
+    ["DictKey_UnitName_725"] = "",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_WptName_460"] = "",
+    ["DictKey_ActionText_356"] = "",
+    ["DictKey_ActionText_297"] = "",
+    ["DictKey_ActionText_57"] = "",
+    ["DictKey_WptName_455"] = "",
+    ["DictKey_WptName_503"] = "",
+    ["DictKey_WptName_554"] = "",
+    ["DictKey_UnitName_466"] = "Ruler-3-1",
+    ["DictKey_ActionText_426"] = "",
+    ["DictKey_WptName_557"] = "",
+    ["DictKey_ActionText_77"] = "local basePos = trigger.misc.getZone(\"Mark-1-1\").point\
+local bearing = math.rad(200)  --角度\
+local offset_horizontal = 800  --水平偏移距离\
+local offset_vertical = 3800    --垂直偏移距离\
+basePos.y = basePos.y + offset_vertical\
+basePos.x = basePos.x + offset_horizontal * math.cos(bearing)\
+basePos.z = basePos.z + offset_horizontal * math.sin(bearing)\
+trigger.action.signalFlare(basePos, trigger.flareColor.Red, 290)",
+} -- end of dictionary
