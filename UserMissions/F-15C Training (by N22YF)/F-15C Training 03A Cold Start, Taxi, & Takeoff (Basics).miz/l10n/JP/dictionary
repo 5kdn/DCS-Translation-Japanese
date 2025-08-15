@@ -1,0 +1,295 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "Vaziani Static #005",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_UnitName_52"] = "Pilot #005",
+    ["DictKey_UnitName_67"] = "",
+    ["DictKey_GroupName_199"] = "Static F-15E-1",
+    ["DictKey_GroupName_15"] = "Vaziani Static #002",
+    ["DictKey_GroupName_23"] = "Tbilisi outbound #001",
+    ["DictKey_GroupName_132"] = "Wingman",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_UnitName_73"] = "Pilot #007",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_ActionText_116"] = "次に水平を出します。先に離陸トリムを設定した場合は、機体が勝手に引き上げようとするので、スティックから手を離して水平になるまで[右Ctrl+;]を押してノーズダウントリムを行います。",
+    ["DictKey_UnitName_39"] = "Pilot #005",
+    ["DictKey_ActionText_113"] = "ホイールブレーキ[W]をかけたまま、エンジンを80%RPMまでゆっくりと進めます。エンジンが80％になったら、ブレーキを解除してスロットルをMIL（アフターバーナーではない）にする。",
+    ["DictKey_ActionText_85"] = "計器盤の左下にあるハイライトされたライトを見てください。「NOSE」、「LEFT」、「RIGHT」と書かれた緑色のランプは、ランディングギアが降りていることを示しています。離陸後、効率よく飛行するためには、ランディングギアを格納する必要があります。ギアが格納されると、これらのランプは消えます。\
+\
+離陸する前には、フラップを下げておきましょう。フラップは翼の可動面で、飛行可能な最低速度を下げ、離着陸を容易にしますが、性能が低下するので、離着陸時にのみ使用してください。\
+\
+ランディングギアランプの左側には何もない黒い部分がありますが、ここがフラップインジケーターランプです。ここには「FLAP」という文字があり、フラップが位置を移動している間は黄色に、フラップが下がっているときは緑色に点灯します。ここで[F]を押すと、フラップの位置がダウンに切り替わります。",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_ActionText_11"] = "F-15Cイーグルへようこそ。\
+\
+しかし、爆破を始める前に、まずこの鳥の始動方法と滑走路へのタキシング方法を学びましょう。\
+\
+まず、[右Shift + L]を押して電源を入れます。",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_GroupName_88"] = "CH-47",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_ActionText_117"] = "350ノットに達したら、速度が350ノットのままになるように上昇角度を調整する。",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_GroupName_153"] = "",
+    ["DictKey_sortie_5"] = "F-15Cトレーニング - 03A - スタートアップ、タクシー、テイクオフ（基礎編）",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_GroupName_6"] = "Player",
+    ["DictKey_ActionText_119"] = "地上速度は、VSDの左下にある「G」の文字の後に表示されます（現在は「G 0」と表示されています）。HUDの対気速度表示ではタクシー速度が遅すぎて信頼できないので、代わりに対地速度表示を参照してください。タキシング中は10ノットを超えないようにしてください。\
+\
+スペースバーを押して続行します。",
+    ["DictKey_UnitName_163"] = "Viggen #002",
+    ["DictKey_GroupName_28"] = "F-15s",
+    ["DictKey_ActionText_84"] = "エンジンが始動すると、インストルメントパネルの右側にあるエンジン関連の文字盤が動き出します。各エンジンの始動は、タコメーター（強調表示）に表示されているように、アイドリング回転数が約65％に達した時点で終了する。\
+\
+各エンジンの始動には約40秒かかります。エンジンがスプールアップしている間、起動チェックリストを続けることができます。スペースバーを押して進めてください。",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_194"] = "Vaziani Static #007",
+    ["DictKey_UnitName_122"] = "Unit #001",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_GroupName_100"] = "Vaziani Static #010",
+    ["DictKey_ActionText_42"] = "電源が入ると、ヘッドアップディスプレイ（HUD）が点灯し、多くの計器やコックピットの照明が点灯するのがわかります。\
+\
+電源が入ったので、エンジン始動を地上のクルーに知らせるために、いくつかの外部照明を点灯させます。\
+\
+アンチコリソンライトは、主翼と尾翼にある赤色の点滅ライトで、[右Alt + 右Ctrl + L]を押して点灯させます。\
+\
+航法灯は、機体の左右を示す赤と緑のライトで、[右Ctrl + L]を押して点灯させます。",
+    ["DictKey_UnitName_61"] = "",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_UnitName_171"] = "Vaziani Static #011",
+    ["DictKey_ActionText_115"] = "垂直速度計が正の上昇率を示していることを確認し、[G]を押してランディングギアを上げます。その後、[F]を押してフラップを格納します。",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_UnitName_31"] = "Pilot #003",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_UnitName_159"] = "Wingman",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_GroupName_12"] = "Vaziani Static #001",
+    ["DictKey_UnitName_191"] = "",
+    ["DictKey_ActionText_114"] = "滑走路をロールダウンするときは、ごく小さなラダー入力で中央にアライメントを保つ。\
+\
+120ノットに達したら、スティックを1/2アフトスティックにして、ノーズが上がってきたら、HUDのピッチラダーを参考にしてピッチ姿勢を10度にして安定させる。",
+    ["DictKey_GroupName_18"] = "New Airplane Group",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_UnitName_133"] = "Wingman",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_GroupName_36"] = "New Airplane Group #002",
+    ["DictKey_UnitName_95"] = "",
+    ["DictKey_UnitName_127"] = "Pilot #010",
+    ["DictKey_GroupName_72"] = "Overflight",
+    ["DictKey_GroupName_66"] = "Vaziani Static #006",
+    ["DictKey_GroupName_193"] = "Vaziani Static #013",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_50"] = "次に、[左Ctrl + C]を押してキャノピーを閉じます。",
+    ["DictKey_GroupName_43"] = "Tbilisi outbound #002",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_UnitName_19"] = "Pilot #001",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_ActionText_120"] = "コールドスタート時には、ナビゲーションモードをウェイポイントに従うように設定する必要があります。今すぐ[1]を1回押してください。",
+    ["DictKey_UnitName_80"] = "Pilot #008",
+    ["DictKey_ActionText_105"] = "次に、空軍基地のATC（航空管制）に起動許可を申請します。\
+1. [\\]を押して、通信メニューを開く。\
+2. [F5]を押してATCを選択する。\
+3. [F1]を押して、現在のエアベースであるVazianiを選択します。\
+4.[ F3]を押して起動をリクエストします。\
+\
+Vazianiが起動を許可したら、[\\]を押して通信メニューを閉じ、スペースバーを押して続行します。",
+    ["DictKey_UnitName_29"] = "Pilot #001",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_GroupName_60"] = "Vaziani Static #004",
+    ["DictKey_GroupName_160"] = "Vaziani #001",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_UnitName_89"] = "Pilot #009",
+    ["DictKey_GroupName_196"] = "Static Tanker M978 HEMTT-1",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_ActionText_166"] = "バジアニ軍事基地へようこそ。\
+\
+今回はコールドスタートを行います。コールドスタートとは、電源の入っていない機体からスタートし、滑走路までタキシングして離陸することです。\
+\
+まず、[右Shift + L]を押して電源を入れます。",
+    ["DictKey_UnitName_154"] = "",
+    ["DictKey_UnitName_9"] = "Wingman",
+    ["DictKey_ActionText_140"] = "エンジンの始動が終わるのを待ちます。",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_UnitName_44"] = "Pilot #004",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_ActionText_104"] = "インストルメントパネルの右上にある赤いランプは、キャノピーが現在ロックされていないことを示しています。離陸する前にこのランプが消えていることを確認してください。今すぐ[左Ctrl + C]を押してキャノピーを閉じてください。",
+    ["DictKey_ActionText_87"] = "次に、ATCにタキシー・クリアランスを申請します。応答があれば、どの滑走路にタキシングすればよいかがわかるので、注意してください。\
+\
+[\\]通信メニューが表示されます。すでにVaziani ATCのメニューに入っているはずです。[F1]を押して、滑走路へのタキシングをリクエストします。\
+\
+タキシング許可が出たら、スペースバーを押して続行します。",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "-コールドスタート（エンジンを切った状態での始動）を行う。\
+-滑走路へのタキシング\
+-離陸",
+    ["DictKey_UnitName_54"] = "Pilot #006",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_descriptionText_1"] = "このトレーニング・レッスンでは、イーグルの起動、タキシング、離陸について学びます。いくつかのミッションでは、冷たくて暗いイーグルに乗って、命を吹き込む必要があります。\
+\
+このレッスンでは、空を飛ぶために必要な基本的なことだけを学ぶ。\
+\
+アルメニアやアゼルバイジャンとの国境に近いグルジア東部、トビリシ近郊のヴァジアニ軍事基地にあるNATOとグルジアの共同訓練センターで実施されます。\
+\
+レッスン時間 5分\
+\
+前提条件\
+01. 導入と基本操作\
+\
+\
+キーコマンドの紹介\
+\
+電源を入れる : [右Shift + L] \
+キャノピーの開閉：[左Ctrl + C]\
+両エンジンの始動 : [右Shift + Home]\
+フラップアップ/ダウンを切り替える : [F]\
+スロットルを上げる : [テンキー＋]\
+スロットルダウン テンキー：[Numpad-]\
+左に舵を切る : [Z]\
+右に舵を切る： [X]\
+ホイールブレーキをかける : [W]\
+ランディングギア： [G]",
+    ["DictKey_GroupName_79"] = "Tbilisi inbound",
+    ["DictKey_UnitName_13"] = "",
+    ["DictKey_ActionText_108"] = "イーグルの操縦には、ノーズギア・ステアリングを使用します。左に曲がるときは[Z]、右に曲がるときは[X]のラダーコントロールを使って操縦する。大きく旋回するので、早めに旋回を開始してください。\
+\
+エンジンの始動が完了したら、スペースバーを押して続行します。",
+    ["DictKey_ActionText_109"] = "",
+    ["DictKey_ActionText_106"] = "道を間違えました。向きを変えるか、[Esc]を押してレッスンを終了し、もう一度やり直してください。",
+    ["DictKey_UnitName_197"] = "",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_ActionText_83"] = "次に、[右Shift + L]を押して電源をオンにします。",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_ActionText_49"] = "ノーズギアストラットには、タキシングライトとランディングライトがあり、ギアがダウンしているときに使用することができます。今日の夕方のように、暗い場所でタキシングするときは、[右Alt+L]を1回押してタキシングライトを点灯させてください。今すぐ実行してください。",
+    ["DictKey_GroupName_167"] = "Vaziani Static #012",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_UnitName_101"] = "",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_GroupName_94"] = "Vaziani Static #008",
+    ["DictKey_GroupName_69"] = "Vaziani Static #007",
+    ["DictKey_ActionText_103"] = "ATCはあなたに滑走路13を離陸するように指示しましたが、これは130度（つまり南東）の方向にある滑走路を意味します。なお、この同じ滑走路を逆方向から使用する場合は、130度から180度回転して310度となるため、「滑走路31」と呼ばれることになる。\
+\
+ほとんどの飛行場では、ATCは風に向かって離陸するように指示しますが、Vazianiでは北西にあるトビリシの街を飛び越えないように、風向きに関係なく常に13番滑走路から離陸します。\
+\
+スペースキーを押して続行します。",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_GroupName_141"] = "Humvee",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_GroupName_202"] = "Static F-15E-2",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_ActionText_86"] = "次に、左コンソールのハイライトされた「T/Oトリム」ボタンとランプを見てください。このボタンを押すと、ピッチ、ロール、ヨーの各トリムが離陸時の標準設定にリセットされます。ランプが点灯するまで[左Alt + T]を押し続けます。\
+\
+(このステップをスキップしても離陸することができます。スティックをもっと引く必要があります。)\
+\
+準備ができたらスペースバーを押してください。",
+    ["DictKey_UnitName_98"] = "",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_UnitName_161"] = "Viggen #001",
+    ["DictKey_UnitName_7"] = "Player",
+    ["DictKey_UnitName_203"] = "Static F-15E-1",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_UnitName_64"] = "",
+    ["DictKey_UnitName_200"] = "",
+    ["DictKey_WptName_10"] = "Takeoff",
+    ["DictKey_GroupName_33"] = "Vaziani Static #003",
+    ["DictKey_ActionText_107"] = "外は暗いので、[L]を押して内部のコックピットライトを点灯させます。",
+    ["DictKey_GroupName_121"] = "Truck",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_UnitName_16"] = "",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_UnitName_142"] = "Humvee",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_UnitName_24"] = "Pilot #002",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_ActionText_48"] = "電源を入れると、HUDが点灯し、多くの計器やコックピットの照明が点灯するのがわかります。\
+\
+スロットルがアイドリング状態になっていることを確認し、[右Shift + Home]を押して両エンジンを始動させます。",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_70"] = "",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_ActionText_111"] = "滑走路の端まで行き、左に大きく曲がって滑走路への誘導路に入ります。スピードが出すぎた場合は、[W]キーでブレーキをかけてください。ハンビーのスピードに合わせてください。",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_GroupName_126"] = "Su-25 landing",
+    ["DictKey_GroupName_97"] = "Vaziani Static #009",
+    ["DictKey_ActionText_112"] = "滑走路に着いたら、センターラインに沿って整列し、「13」の滑走路見出しマーカーの上で停止してください。",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_GroupName_51"] = "Su-25 landing 1",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_UnitName_37"] = "Pilot #004",
+    ["DictKey_ActionText_110"] = "ローリングを開始するには、スロットルコントローラーを前方に移動させるか、[Numpad+]を押して、前方に動きが出るまでスロットルをゆっくりと上げていきますが、75%RPMを超えないようにしてください(必要に応じてスロットルコントローラーを後ろに引くか、[Numpad-]を押してスロットルを下げてください)。\
+\
+すぐに右折を開始し、ハンビーに沿って滑走路まで進みます。\
+\
+スピードが出すぎた場合は、[W]キーを押してホイールブレーキをかけてください。",
+    ["DictKey_GroupName_190"] = "Static HEMTT TFFT-1",
+    ["DictKey_UnitName_168"] = "Vaziani Static #012",
+    ["DictKey_UnitName_129"] = "Pilot #011",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_UnitName_34"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_ActionText_118"] = "おめでとうございます。あなたは今、イーグルで始動し、離陸したところです!\
+\
+離陸は、滑走路の長さや急いでいる状況に応じて、MILまたはMAX（アフターバーナー）のスロットルで行うことができます。\
+\
+これでこのレッスンは終了です。Esc]を押すと、今すぐレッスンを終了できます。",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_GroupName_170"] = "Vaziani Static #011",
+    ["DictKey_ActionText_131"] = "ハイライトされている計器を見てください。これはHSI（水平方向状況表示器）です。これはHSI（水平状況指示器）で、現在の進路は229度（南西）、左に130度が見えています。滑走路13に行くには、右にタキシングして滑走路の始点に合わせ、ランプの端の誘導路で左に曲がり、滑走路に着いたら再び左に曲がり、130度の方位で滑走路に沿って進む必要があります。\
+\
+スペースバーを押して続けてください。",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_GroupName_6"] = "Player",
+    ["DictKey_GroupName_28"] = "F-15s",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_UnitName_129"] = "Pilot #011",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_GroupName_180"] = "Overflight 2",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_ActionText_87"] = "次に、ATCにタキシー・クリアランスを申請します。応答があれば、どの滑走路にタキシングすればよいかがわかるので、注意してください。\
+\
+[\\]を押して、通信メニューを開きます。すでにVaziani ATCのメニューに入っているはずです。[F1]を押して、滑走路へのタキシングをリクエストします。\
+\
+タキシング許可が出たら、スペースバーを押して続行します。",
+    ["DictKey_GroupName_189"] = "B-1s",
+    ["DictKey_ActionText_118"] = "おめでとうございます。あなたは今、イーグルで始動し、離陸したところです!\
+\
+滑走路の長さや急いでいる状況に応じて、スロットルをMILまたはMAX（アフターバーナー）にして離陸することができます。\
+\
+これでこのレッスンは終了です。[Esc]を押すと、レッスンを終了することができます。",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_GroupName_149"] = "New Airplane Group #001",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_WptName_175"] = "",
+} -- end of dictionary

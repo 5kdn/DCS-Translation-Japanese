@@ -1,0 +1,785 @@
+dictionary = 
+{
+    ["DictKey_WptName_377"] = "",
+    ["DictKey_WptName_615"] = "",
+    ["DictKey_UnitName_52"] = "Pilot #005",
+    ["DictKey_WptName_464"] = "",
+    ["DictKey_GroupName_23"] = "Tbilisi outbound #001",
+    ["DictKey_UnitName_73"] = "Pilot #007",
+    ["DictKey_UnitName_331"] = "",
+    ["DictKey_GroupName_623"] = "Target #004",
+    ["DictKey_ActionText_113"] = "ホイールブレーキ[W]をかけたまま、エンジンを80%まで進めます。エンジンが80％になったら、ブレーキを解除し、スロットルをMIL（アフターバーナーではない）に押し込む。",
+    ["DictKey_ActionText_85"] = "レーダーのデータを表示するVSDが登場しました。VSDは、レーダー画像を自機の上から見た平面図として表示します。\
+\
+右上の数字は現在のディスプレイのレンジ設定で、単位は海里です。グリッドラインはレンジとアジマスの基準です。自機の前の空間をパイに見立てて、正方形に引き伸ばして表示しています。一番下の線が自分の位置を表しています。\
+\
+横方向のグリッドラインの間隔は選択したレンジの1/4、縦方向のグリッドラインの間隔はアジマスの30度を表しています。\
+\
+例えば、目標が左端の縦線上にあり、垂直方向に中心がある場合、その目標はあなたの10時の方向にあり、距離は設定したレンジの半分になります。\
+\
+スペースバーを押して続行します。",
+    ["DictKey_WptName_422"] = "",
+    ["DictKey_WptName_488"] = "",
+    ["DictKey_WptName_410"] = "",
+    ["DictKey_UnitName_192"] = "",
+    ["DictKey_UnitName_218"] = "",
+    ["DictKey_UnitName_388"] = "Senaki Static #026",
+    ["DictKey_GroupName_255"] = "New Static Object #001",
+    ["DictKey_GroupName_469"] = "Elevation low",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_GroupName_153"] = "",
+    ["DictKey_WptName_482"] = "",
+    ["DictKey_UnitName_238"] = "Unit #014",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_WptName_476"] = "",
+    ["DictKey_GroupName_28"] = "New Airplane Group",
+    ["DictKey_ActionText_84"] = "エンジンが始動すると、インストルメントパネルの右側にあるエンジン関連の文字盤が動き出します。各エンジンの始動は、タコメーター（強調表示）に表示されているように、アイドリング回転数が約65％に達した時点で終了する。\
+\
+各エンジンの始動には約40秒かかります。エンジンがスプールアップしている間、起動チェックリストを続けることができます。スペースバーを押して進めてください。",
+    ["DictKey_WptName_347"] = "",
+    ["DictKey_WptName_536"] = "",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_WptName_573"] = "",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_GroupName_442"] = "LRS #001",
+    ["DictKey_ActionText_87"] = "次に、ATCにタキシー・クリアランスを申請します。応答があれば、どの滑走路にタキシングすればよいかがわかるので、注意してください。\
+\
+[\\]通信メニューが表示されます。すでにVaziani ATCのメニューに入っているはずです。[F1]を押して、滑走路へのタキシングをリクエストします。\
+\
+タキシング許可が出たら、スペースバーを押して続行します。",
+    ["DictKey_WptName_639"] = "",
+    ["DictKey_UnitName_382"] = "Senaki Static #013",
+    ["DictKey_WptName_613"] = "",
+    ["DictKey_WptName_597"] = "",
+    ["DictKey_WptName_268"] = "",
+    ["DictKey_WptName_505"] = "",
+    ["DictKey_WptName_621"] = "",
+    ["DictKey_GroupName_455"] = "PRF high",
+    ["DictKey_UnitName_355"] = "Senaki Static #010",
+    ["DictKey_UnitName_358"] = "Senaki Static #010",
+    ["DictKey_ActionText_734"] = "接触位置にいるときは、タンカーの前胴体の下にあるディレクタ・ライトがちょうど見えています。このライトは、最適な位置に対する自分の位置を示しています。左側の帯は高度で、後方の赤いランプ（視界の中で最も高い位置にある）が点灯していれば高すぎる、前方の赤いランプ（視界の中で最も低い位置にある）が点灯していれば低すぎることを意味し、中央の緑色のランプが最適であることを示しています。右側の帯は前後の位置を示しており、前方の赤ランプは前方に行き過ぎていることを意味しています。ブリーフィングに掲載されている写真はその一例です。\
+\
+タンカーから「プリコンタクトを返せ」と言われたら、プリコンタクトの位置に戻り、必要に応じて再度無線で「プリコンタクト準備完了」と伝える。",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_ActionText_707"] = "",
+    ["DictKey_WptName_500"] = "",
+    ["DictKey_UnitName_631"] = "Target #003",
+    ["DictKey_UnitName_175"] = "",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_UnitName_95"] = "",
+    ["DictKey_WptName_670"] = "",
+    ["DictKey_GroupName_296"] = "Turkey Hawk",
+    ["DictKey_WptName_244"] = "",
+    ["DictKey_WptName_548"] = "",
+    ["DictKey_UnitName_186"] = "",
+    ["DictKey_UnitName_301"] = "Unit #036",
+    ["DictKey_WptName_457"] = "",
+    ["DictKey_ActionText_708"] = "Good!",
+    ["DictKey_GroupName_378"] = "",
+    ["DictKey_UnitName_201"] = "Unit #003",
+    ["DictKey_UnitName_667"] = "AWACS",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_UnitName_169"] = "",
+    ["DictKey_UnitName_553"] = "Su-24 #002",
+    ["DictKey_WptName_389"] = "",
+    ["DictKey_WptName_392"] = "",
+    ["DictKey_WptName_595"] = "",
+    ["DictKey_WptName_604"] = "",
+    ["DictKey_WptName_332"] = "",
+    ["DictKey_WptName_407"] = "",
+    ["DictKey_WptName_654"] = "",
+    ["DictKey_ActionText_516"] = "これで、LRS、STT、HOJ、TWSの各レーダーモードのレッスンは終了です [Esc]を押して、レッスンを終了します。",
+    ["DictKey_WptName_605"] = "",
+    ["DictKey_UnitName_210"] = "Unit #012",
+    ["DictKey_ActionText_709"] = "約1マイル離れたところで緩やかな上昇を始め、半マイルのところでタンカーの約50フィート下に到着する。半マイル離れた時点で閉鎖速度が30ノット程度になるようにスロットルを調整する。航空機はスロットル入力に反応するのに時間がかかるので、余裕を持って調整を開始することを忘れないでください。",
+    ["DictKey_WptName_506"] = "",
+    ["DictKey_UnitName_308"] = "Unit #043",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_WptName_254"] = "",
+    ["DictKey_descriptionText_1"] = "このレッスンでは、あなたが直面するかもしれない最も困難な操縦作業である、空対空の燃料補給を取り上げます。ジョージアは小さな国なので、空対空の給油が必要になることはないでしょうから、このレッスンは飛ばしても大丈夫でしょう。空中給油のコツをつかむには何時間も練習する必要があるので、すぐに覚えられなくてもイライラしないようにしましょう。\
+\
+まず、タンカーの位置を確認し、給油ブームの真下、50フィート後方のプレコンタクトポジションまで飛行します。ブリーフィング画像にあるタンカーの胴体前部に設置されたディレクターライトを頼りに、適切な場所に移動します。その後、タンクローリーはブームを動かしてお客様の給油口に接触させ、お客様の機体への給油を開始します。\
+\
+レッスン時間 10分以上\
+\
+前提条件\
+01. 導入と基本操作\
+04. ナビゲーション、オートパイロット、燃料管理\
+10. 目視範囲外レーダーモード\
+\
+\
+キーコマンド\
+\
+AWACSの利用可能なタンカーを要請する:[左 Win + I] \
+通信メニューです:[\\]\
+給油ドア/TACANステアリングモードを切り替える:[左 Ctrl + R] 。",
+    ["DictKey_UnitName_178"] = "",
+    ["DictKey_WptName_478"] = "",
+    ["DictKey_UnitName_64"] = "",
+    ["DictKey_UnitName_343"] = "Senaki Static #010",
+    ["DictKey_ActionText_83"] = "次に、[右Shift + L]を押して電源をオンにします。",
+    ["DictKey_UnitName_202"] = "Unit #004",
+    ["DictKey_UnitName_286"] = "Wingman",
+    ["DictKey_GroupName_490"] = "HOJ",
+    ["DictKey_WptName_413"] = "",
+    ["DictKey_UnitName_215"] = "",
+    ["DictKey_WptName_664"] = "",
+    ["DictKey_WptName_440"] = "",
+    ["DictKey_WptName_567"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_UnitName_305"] = "Unit #040",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_WptName_618"] = "",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_WptName_452"] = "",
+    ["DictKey_UnitName_142"] = "Humvee",
+    ["DictKey_ActionText_703"] = "ブームからF-15が1機分くらい離れて安定したら、[右Ctrl＋R]を押して給油口を開きます。そして、通信メニュー[\\]を開き、\"ready pre-contact. \"と宣言します。\
+\
+\
+コックピットの後ろに給油口があるので、承認を得たら、ブームを越えたところにある契約位置まで前進します。ブームに集中しないでください。タンクローリーに集中してください。\
+\
+冷静に、冷静に! 空回りしそうになったら、ブームから50フィートほど離れるまでスロットルを戻して、もう一度やってみてください。練習が必要なので、我慢してください\
+\
+コンタクトポジションにいるときは、タンカーの鼻の下にディレクターライトが見える程度です。ブリーフィングに掲載されている写真はその一例です。このライトは、最適な位置に対する自分の位置を示しています。左の帯は高度で、後方の赤いランプ（視界の中で最も高い位置にある）が点灯していれば高すぎる、前方の赤いランプ（視界の中で最も低い位置にある）が点灯していれば低すぎることを意味し、中央の緑のランプが最適な位置にあることを示しています。右側の帯は前後の位置を示しており、前方の赤ランプは前方に行き過ぎていることを意味しています。",
+    ["DictKey_UnitName_24"] = "Pilot #002",
+    ["DictKey_WptName_165"] = "Approach",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_GroupName_461"] = "PRF low",
+    ["DictKey_UnitName_328"] = "",
+    ["DictKey_WptName_472"] = "",
+    ["DictKey_ActionText_517"] = "空対空給油の訓練飛行にようこそ。自動操縦で水平とコースを保つようにした。スロットルを調整して、325ノット前後の対空速度を維持してください。\
+\
+空対空の給油は難しく、ジョージアは小さな国なので、必要になることはないかもしれません。しかし、このミッションでは基本的なことを学ぶことができる。何時間もかけて練習する必要があるので、最初からうまくいくとは思わないでください。\
+\
+まず、タンカーの速度と高度に合わせてランデブーします。タンカーは燃料補給用のブームを下げます。あなたの任務は、タンカーとの緊密な編隊を組んでまっすぐ水平に飛行することで、タンカーはあなたの胴体の左上にある給油口にブームを誘導します。\
+\
+スペースバーを押して続行します。",
+    ["DictKey_ActionText_689"] = "タンカーからは、給油ブームの50フィート後方、真下のプレコンタクトポジションに進むように言われました。\
+\
+まず、（無線で伝えられた）高度より1000フィート低いところからタンカーに接近を開始し、今すぐその高度まで上昇または下降してください。\
+\
+100ノット程度の閉鎖速度でタンカーに接近する。閉鎖速度はVSDで直接見ることができますが、自分の指示対気速度とタンカーが無線で伝えてきた速度を比較することでおおよその速度がわかります。(閉鎖速度は指示された対気速度ではなく真の対気速度から計算されるので、これはおおよその目安になります）。",
+    ["DictKey_ActionText_701"] = "接触！？キャノピーフレームの「Ready」ランプは、ブームが接続されると消灯し、切断すると再び点灯します。",
+    ["DictKey_UnitName_306"] = "Unit #041",
+    ["DictKey_UnitName_196"] = "",
+    ["DictKey_UnitName_129"] = "Pilot #011",
+    ["DictKey_UnitName_439"] = "Pilot #001",
+    ["DictKey_UnitName_252"] = "",
+    ["DictKey_WptName_663"] = "",
+    ["DictKey_WptName_620"] = "",
+    ["DictKey_GroupName_199"] = "New Vehicle Group #001",
+    ["DictKey_GroupName_393"] = "Senaki Static #024",
+    ["DictKey_UnitName_415"] = "New Static Object #004",
+    ["DictKey_WptName_596"] = "",
+    ["DictKey_GroupName_650"] = "Target #002",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_WptName_655"] = "",
+    ["DictKey_UnitName_193"] = "",
+    ["DictKey_ActionText_49"] = "ノーズギアストラットには、タキシングライトとランディングライトがあり、ギアがダウンしているときに使用することができます。今日の夕方のように、暗い場所でタキシングするときは、[右Alt+L]を1回押してタキシングライトを点灯させてください。今すぐ実行してください。",
+    ["DictKey_WptName_657"] = "",
+    ["DictKey_WptName_335"] = "",
+    ["DictKey_UnitName_7"] = "Player",
+    ["DictKey_WptName_262"] = "",
+    ["DictKey_GroupName_88"] = "New Helicopter Group",
+    ["DictKey_ActionText_107"] = "外は暗いので、[L]を押して内部のコックピットライトを点灯させます。",
+    ["DictKey_UnitName_400"] = "Senaki Static #029",
+    ["DictKey_WptName_466"] = "",
+    ["DictKey_ActionText_691"] = "",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_WptName_602"] = "",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_WptName_629"] = "",
+    ["DictKey_WptName_525"] = "",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_168"] = "",
+    ["DictKey_WptName_338"] = "",
+    ["DictKey_ActionText_42"] = "電源が入ると、ヘッドアップディスプレイ（HUD）が点灯し、多くの計器やコックピットの照明が点灯するのがわかります。\
+\
+電源が入ったので、エンジン始動を地上のクルーに知らせるために、いくつかの外部照明を点灯させます。\
+\
+アンチコリソンライトは、主翼と尾翼にある赤色の点滅ライトで、[右Alt + 右Ctrl + L]を押して点灯させます。\
+\
+航法灯は、機体の左右を示す赤と緑のライトで、[右Ctrl + L]を押して点灯させます。",
+    ["DictKey_UnitName_61"] = "",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_WptName_658"] = "",
+    ["DictKey_WptName_547"] = "",
+    ["DictKey_UnitName_624"] = "Target #004",
+    ["DictKey_WptName_465"] = "",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_GroupName_449"] = "Target #001",
+    ["DictKey_GroupName_599"] = "Target #002",
+    ["DictKey_UnitName_31"] = "Pilot #003",
+    ["DictKey_WptName_257"] = "",
+    ["DictKey_UnitName_187"] = "",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_UnitName_211"] = "Unit #013",
+    ["DictKey_GroupName_630"] = "Target #003",
+    ["DictKey_WptName_645"] = "",
+    ["DictKey_GroupName_474"] = "Elevation high",
+    ["DictKey_UnitName_245"] = "Pilot #003",
+    ["DictKey_UnitName_240"] = "Unit #015",
+    ["DictKey_UnitName_191"] = "",
+    ["DictKey_ActionText_515"] = "新たに指定されたターゲットのシンボルは、中空の長方形に変わりました。これはSDT（Secondary Desginated Target）と呼ばれています。SDTのマークの右にある数字は順番を表しています。表示されるターゲットデータ（方位、レンジ、高度など）はすべてPDTに関連しています。ただし、PDTに向けてミサイルを発射した場合は、最初のSDTが自動的に次のPDTになります。これにより、あらかじめ複数の航空機をターゲットにしておき、ミサイルの射程距離に入ったら、停止して次のターゲットを選択することなく、すべての航空機にミサイルを発射することができるようになります。\
+\
+TWSでは[Backspace]を押すことでターゲットの選択を解除することができます。\
+\
+PDTやSDTの上に獲得マークを置き、再度[Enter]を押すことでSTTに切り替えることができます。これを今すぐ行い、スペースキーを押して続行します。",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_UnitName_176"] = "",
+    ["DictKey_UnitName_133"] = "Wingman",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_WptName_575"] = "",
+    ["DictKey_GroupName_36"] = "New Airplane Group #002",
+    ["DictKey_UnitName_394"] = "Senaki Static #024",
+    ["DictKey_WptName_610"] = "",
+    ["DictKey_WptName_559"] = "",
+    ["DictKey_UnitName_127"] = "Pilot #010",
+    ["DictKey_GroupName_72"] = "Overflight",
+    ["DictKey_UnitName_504"] = "Pilot #010",
+    ["DictKey_ActionText_706"] = "ブームからF-15が1機分くらい離れて安定したら、[右Ctrl＋R]を押して給油口を開きます。そして、通信メニュー[\\]を開き、\"ready pre-contact. \"と宣言します。\
+\
+\
+コックピットの後ろに給油口があるので、承認を得たら、ブームを越えたところにある契約位置まで前進します。ブームに集中しないでください。タンクローリーに集中してください。\
+\
+冷静に、冷静に! 空回りしそうになったら、ブームから50フィートほど離れるまでスロットルを戻して、もう一度やってみてください。練習が必要なので、我慢してください\
+\
+コンタクトポジションにいるときは、タンカーの鼻の下にディレクターライトが見える程度です。ブリーフィングに掲載されている写真はその一例です。このライトは、最適な位置に対する自分の位置を示しています。左の帯は高度で、後方の赤いランプ（視界の中で最も高い位置にある）が点灯していれば高すぎる、前方の赤いランプ（視界の中で最も低い位置にある）が点灯していれば低すぎることを意味し、中央の緑のランプが最適な位置にあることを示しています。右側の帯は前後の位置を示しており、前方の赤ランプは前方に行き過ぎていることを意味しています。",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_ActionText_50"] = "Next, close the canopy by pressing [Left Ctrl + C].",
+    ["DictKey_GroupName_43"] = "Tbilisi outbound #002",
+    ["DictKey_UnitName_424"] = "Senaki Static #034",
+    ["DictKey_ActionText_688"] = "[A]を押すと自動操縦が解除され、タンカーに向かって飛行を開始するが、今は距離を置いておく。\
+\
+15マイル以内に入ったら（現在は入っているはず）、[F6]で通信メニューを開き、タンカーに無線で合流を要請する。F6]を押してタンカーを選択し、[F1]を押して給油の意思を無線で伝える。応答に注意してください。タンカーは指示した対空速度と高度を教えてくれます。\
+\
+通信メニューを終了するには、もう一度[\\]を押します。終了したらスペースバーを押してください。",
+    ["DictKey_WptName_537"] = "",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_WptName_550"] = "",
+    ["DictKey_WptName_447"] = "",
+    ["DictKey_ActionText_120"] = "ボアサイト（BORE）は、垂直走査モードと似ていますが、レーダーがスキャンするのは、HUD上の円で示された前方4度の円錐形だけです。このモードは、視覚範囲内の特定のターゲット（例えば、編隊の中の1機）を素早くロックするのに便利です。\
+\
+続けて[6]を押すと、今はミサイルのシーカーのみの使用に戻ります。\
+\
+準備ができたらスペースバーを押せば、ミッションの一時停止を解除します。",
+    ["DictKey_GroupName_666"] = "AWACS",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_UnitName_29"] = "Pilot #001",
+    ["DictKey_WptName_540"] = "",
+    ["DictKey_WptName_571"] = "",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_ActionText_538"] = "グッドヒット! これで、このトレーニングレッスンは終了です。[Esc]キーを押してレッスンを終了することもできます。",
+    ["DictKey_UnitName_154"] = "",
+    ["DictKey_WptName_609"] = "",
+    ["DictKey_UnitName_243"] = "Pilot #001",
+    ["DictKey_UnitName_221"] = "",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_UnitName_524"] = "AMRAAM #002",
+    ["DictKey_WptName_568"] = "",
+    ["DictKey_WptName_574"] = "",
+    ["DictKey_WptName_458"] = "",
+    ["DictKey_ActionText_109"] = "",
+    ["DictKey_UnitName_13"] = "",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_GroupName_126"] = "Su-25 landing",
+    ["DictKey_WptName_483"] = "",
+    ["DictKey_UnitName_250"] = "Pilot #005",
+    ["DictKey_WptName_591"] = "",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_GroupName_528"] = "AMRAAM #003",
+    ["DictKey_UnitName_529"] = "AMRAAM #003",
+    ["DictKey_WptName_593"] = "",
+    ["DictKey_UnitName_475"] = "Pilot #006",
+    ["DictKey_GroupName_141"] = "Humvee",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_UnitName_391"] = "Senaki Static #024",
+    ["DictKey_GroupName_318"] = "New Static Object #001",
+    ["DictKey_WptName_501"] = "",
+    ["DictKey_WptName_603"] = "",
+    ["DictKey_ActionText_520"] = "HUDの左下、現在のマッハ数の上には、残りのラウンド数（現在は940）が表示されています。この数字はMPCDの左上にも表示されています。\
+\
+HUDの中央には、目盛りのついた円がありますが、これは銃のレティクルで、どこを狙うべきかを示しています。レティクルの内側にある破線の円は、レーダーロックされていない場合に表示されます。この状況では、レティクルは2250フィートの範囲にあるターゲットを表すように固定されます。このモードを使用するには、レティクルの中心にターゲットを置くように飛行し、スティックのトリガーを引くかスペースバーを押して銃を発射します。レーダーロックがあれば、より正確に狙うことができますが。\
+\
+次に、[I]を押してレーダーをオンにします。",
+    ["DictKey_UnitName_200"] = "Unit #002",
+    ["DictKey_WptName_612"] = "",
+    ["DictKey_UnitName_16"] = "",
+    ["DictKey_WptName_652"] = "",
+    ["DictKey_WptName_419"] = "",
+    ["DictKey_ActionText_48"] = "電源が入ると、ヘッドアップディスプレイ（HUD）が表示され、多くの計器やコックピットの照明が点灯するのがわかります。\
+\
+スロットルがアイドリング状態になっていることを確認し、[右Shift + Home]を押すと両エンジンが始動します。",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_ActionText_111"] = "タラップの端までタクシーで行き、誘導路を左折して滑走路に入ります。スピードが出すぎている場合は、ブレーキ[W]を使ってください。",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_WptName_368"] = "",
+    ["DictKey_WptName_492"] = "",
+    ["DictKey_WptName_362"] = "",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_UnitName_174"] = "",
+    ["DictKey_UnitName_177"] = "",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_GroupName_159"] = "MiG-31 #001",
+    ["DictKey_GroupName_438"] = "New Helicopter Group",
+    ["DictKey_UnitName_266"] = "",
+    ["DictKey_WptName_594"] = "",
+    ["DictKey_UnitName_403"] = "Senaki Static #029",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_UnitName_89"] = "Pilot #009",
+    ["DictKey_UnitName_67"] = "",
+    ["DictKey_WptName_401"] = "",
+    ["DictKey_UnitName_364"] = "Senaki Static #019",
+    ["DictKey_WptName_653"] = "",
+    ["DictKey_UnitName_310"] = "Unit #045",
+    ["DictKey_UnitName_233"] = "",
+    ["DictKey_WptName_467"] = "",
+    ["DictKey_UnitName_456"] = "Pilot #003",
+    ["DictKey_UnitName_397"] = "Senaki Static #029",
+    ["DictKey_WptName_644"] = "",
+    ["DictKey_UnitName_39"] = "Pilot #005",
+    ["DictKey_WptName_606"] = "",
+    ["DictKey_UnitName_433"] = "Senaki Static #037",
+    ["DictKey_WptName_578"] = "",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_UnitName_312"] = "Unit #047",
+    ["DictKey_WptName_416"] = "",
+    ["DictKey_UnitName_406"] = "New Static Object #004",
+    ["DictKey_WptName_260"] = "",
+    ["DictKey_GroupName_6"] = "Player",
+    ["DictKey_ActionText_119"] = "地上速度は、VSDの左下、「G」の後に表示されます。(現在は「G 0」と表示されています）。) HUDの対気速度表示ではタクシー速度が遅すぎて信頼できないので、代わりに対地速度表示を参照してください。タキシング中は10ノットを超えないようにしてください。\
+\
+スペースバーを押して続行します。",
+    ["DictKey_GroupName_479"] = "STT",
+    ["DictKey_GroupName_242"] = "F-14s",
+    ["DictKey_UnitName_194"] = "",
+    ["DictKey_WptName_527"] = "",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_WptName_374"] = "",
+    ["DictKey_WptName_293"] = "",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_UnitName_171"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_UnitName_450"] = "MiG-29 #001",
+    ["DictKey_ActionText_732"] = "接触！？キャノピーフレームの「Ready」ランプは、ブームが接続されると消灯し、切断すると再び点灯します。",
+    ["DictKey_WptName_601"] = "",
+    ["DictKey_UnitName_299"] = "Unit #034",
+    ["DictKey_UnitName_316"] = "Unit #014",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_UnitName_636"] = "MiG-29 #002",
+    ["DictKey_ActionText_263"] = "右側を見ると、コルヒ空軍基地があります。西から着陸するので、ここを通過して旋回する必要があります。",
+    ["DictKey_ActionText_131"] = "ハイライトされている計器を見てください。これはHSI（水平方向状況表示器）です。これはHSI（水平状況指示器）で、現在の進路は229度（南西）、左に130度が見えています。滑走路13に行くには、右にタキシングして滑走路の始点に合わせ、ランプの端の誘導路で左に曲がり、滑走路に着いたら再び左に曲がり、130度の方位で滑走路に沿って進む必要があります。\
+\
+スペースバーを押して続けてください。",
+    ["DictKey_WptName_581"] = "",
+    ["DictKey_WptName_634"] = "",
+    ["DictKey_GroupName_498"] = "TWS #003",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_556"] = "",
+    ["DictKey_UnitName_173"] = "",
+    ["DictKey_WptName_350"] = "",
+    ["DictKey_UnitName_80"] = "Pilot #008",
+    ["DictKey_UnitName_373"] = "Senaki Static #018",
+    ["DictKey_WptName_660"] = "",
+    ["DictKey_WptName_473"] = "",
+    ["DictKey_ActionText_699"] = "現在、約半マイル離れており、約30ノットで近づいているはずです。スロットルをゆっくりと下げて、0.2マイルでは10ノット、0.1マイルでは2ノット程度まで接近率を落とします。スピードを正確にコントロールするには、スロットルを細かく調整して、その効果が出るのを待ちます。スピードブレーキを使わない。オーバーシュートしてタンカーが見えなくなってしまうと、リカバリーが難しくなるからです。\
+\
+近づいてきたら、機首をタンカーの右翼の付け根に合わせ、ブームの高度のすぐ下に合わせる。ブームから50フィート（F-15の1機分の長さ）後方、わずかに下方にあるプレコンタクトポジションまで引き上げ、そこで安定するようにする。速度ベクトルを地平線上に置くと、高度が安定することを覚えておきましょう。スティックの入力は非常に小さくスムーズに行い、ピッチとロールを非常にゆっくりと調整します。焦らず、ゆっくりで構いません。",
+    ["DictKey_WptName_641"] = "",
+    ["DictKey_ActionText_110"] = "VSDの中央にある2本の小さな縦線は、獲得マークです。これは、ターゲットを選択するためにスルスルと移動できるカーソルです。キー、[.]、[ /]、[;]キーでカーソルを動かしてみてください。VSDの下部にある2つの円は、スキャンゾーンの端を示しており、スキャンゾーンがアクチュエーションシンボルとともに移動することに注意してください。次に、[右Ctrl + =]を押して、ワイドスキャンゾーンの設定に戻ります。",
+    ["DictKey_WptName_404"] = "",
+    ["DictKey_WptName_560"] = "",
+    ["DictKey_WptName_531"] = "",
+    ["DictKey_ActionText_140"] = "ターゲットをロックアップすると、HUDに新しい情報が表示されます。\
+\
+HUDの中央には、ASE（Allowable Steering Error）の円と呼ばれる実線の円が表示されています。ミサイルが目標に到達する可能性が最も高くなるように、小さなステアリング・ドットを円の内側に、できるだけ中心に近づけるように飛行します。この円の端にある線は、ターゲットのアスペクトを示しています。この線が円の下側にあれば、ターゲットと正面を向いていることになり、左にあればターゲットの左側を向いていることになります。\
+\
+また、HUDにはロックされたターゲットへの視線を示すボックスが表示されます。ターゲットが敵対的でない場合、ボックスには「X」が表示されます。有効な射撃ソリューション（最大ミサイル範囲内にいて、ステアリング・ドットがASEサークル内にあること）があると、このボックスの下に三角形が表示され、キャノピーのフレームに長方形のライトが点灯する。\
+\
+HUDの右側、高度目盛りの隣にある目盛りは、ターゲットレンジの目盛りである。この目盛りの右に太い棒が3本出ています。上が非機動目標に対するミサイルの最大射程距離、中が機動目標に対しても最大射程距離、下が最小射程距離です。この目盛りの左には、目標に対する閉鎖率が表示されています。\
+\
+HUD全体に大きなXが表示されている場合は、ターゲットへの射程がミサイルの最小射程を下回っています。\
+\
+HUDの右下に表示されている3行の文字は\
+-ターゲットまでの距離\
+ターゲットまでの距離 - ミサイルがターゲットに到達するのにかかる時間\
+-ターゲットのアスペクト（例：ヘッドオンは「H」）。\
+\
+スペースバーを押して続行します。",
+    ["DictKey_UnitName_248"] = "Unit #018",
+    ["DictKey_ActionText_729"] = "",
+    ["DictKey_WptName_448"] = "",
+    ["DictKey_UnitName_54"] = "Pilot #006",
+    ["DictKey_UnitName_627"] = "Target #005",
+    ["DictKey_UnitName_436"] = "Senaki Static #006",
+    ["DictKey_ActionText_485"] = "HUDに表示されるターゲティング情報は、プライマリ・ターゲットに関するものです。Sparrowと同様、ボックスが現在のターゲットの位置を示している。有効な発射パラメータが満たされている場合（ターゲットが最大ミサイル範囲内にあり、ステアリングドットがASEサークル内にある場合）、ボックスの下に星が表示される。\
+\
+AMRAAMを初めて発射したとき、AMRAAMは自分のレーダーの範囲内に入るまで、あなたのレーダーを使って目標まで誘導します。レーダーロックを失うと、ミサイルは発射時に目標の位置を推定し、アクティブになる（つまり、自分のレーダーに切り替わる）まで、その地点まで誘導する。HUDの右下の「M」の前の数字は、発射されたミサイルが現在のターゲットに対してアクティブになるまでの時間です。目標までの距離がAMRAAMのレーダーの範囲内（約10マイル）になると、このタイマーは0になり、その後、着弾までの時間の表示に切り替わります。\
+\
+20マイル離れたところで、ミサイルが発射されるまで武器リリースボタン[右Alt + Space]を押し続けてミサイルを発射します。",
+    ["DictKey_ActionText_106"] = "間違った方向に進んでしまった。[Esc]を押してレッスンを終了し、もう一度やり直してください。",
+    ["DictKey_WptName_434"] = "",
+    ["DictKey_UnitName_289"] = "Pilot #006",
+    ["DictKey_WptName_398"] = "",
+    ["DictKey_WptName_617"] = "",
+    ["DictKey_UnitName_101"] = "",
+    ["DictKey_WptName_329"] = "",
+    ["DictKey_WptName_526"] = "",
+    ["DictKey_UnitName_160"] = "MiG-31 #001",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_ActionText_287"] = "ミッション成功![ Esc]を押すと、ミッションを終了することができます。",
+    ["DictKey_ActionText_487"] = "HUD左下のタイマーには、2発目のミサイルの発射時間が表示されます。\
+\
+ミサイルが当たらない場合は、残りのミサイルで再挑戦してください。",
+    ["DictKey_WptName_493"] = "",
+    ["DictKey_WptName_648"] = "",
+    ["DictKey_WptName_10"] = "Climb out",
+    ["DictKey_UnitName_319"] = "",
+    ["DictKey_WptName_580"] = "",
+    ["DictKey_UnitName_204"] = "Unit #006",
+    ["DictKey_UnitName_322"] = "New Static Object #001",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_WptName_616"] = "",
+    ["DictKey_UnitName_70"] = "",
+    ["DictKey_WptName_510"] = "",
+    ["DictKey_UnitName_98"] = "",
+    ["DictKey_UnitName_337"] = "Senaki Static #011",
+    ["DictKey_UnitName_367"] = "Senaki Static #021",
+    ["DictKey_WptName_608"] = "",
+    ["DictKey_GroupName_533"] = "AMRAAM #004",
+    ["DictKey_UnitName_409"] = "New Static Object #005",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_WptName_632"] = "",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_UnitName_509"] = "Sparrow",
+    ["DictKey_ActionText_690"] = "1マイルの距離に近づいたら、スロットルを戻して閉鎖速度を約60ノットに落とします。",
+    ["DictKey_GroupName_237"] = "New Vehicle Group #002",
+    ["DictKey_UnitName_651"] = "MiG-29 #002",
+    ["DictKey_UnitName_241"] = "Unit #016",
+    ["DictKey_WptName_445"] = "",
+    ["DictKey_ActionText_118"] = "おめでとうございます。あなたは今、イーグルで始動し、離陸したところです!\
+\
+滑走路の長さや急いでいる状況に応じて、スロットルをMILまたはMAX（アフターバーナー）のどちらかで離陸することができます。\
+\
+これでこのレッスンは終了です。Esc]を押すと、レッスンを終了することができます。",
+    ["DictKey_WptName_313"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "タンクローリーを見つけ、自機に燃料を完全に補給した後、離脱する。",
+    ["DictKey_GroupName_551"] = "Target #003",
+    ["DictKey_GroupName_79"] = "Tbilisi inbound",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_WptName_512"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_UnitName_589"] = "Pilot #001",
+    ["DictKey_WptName_562"] = "",
+    ["DictKey_GroupName_258"] = "Overflight West",
+    ["DictKey_WptName_665"] = "",
+    ["DictKey_UnitName_298"] = "Unit #033",
+    ["DictKey_WptName_539"] = "",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_GroupName_508"] = "Sparrow",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_WptName_656"] = "",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_ActionText_468"] = "AMRAAMのHUDシンボロジーはスパローと非常によく似ているが、最も明らかな違いはASEの円が実線ではなく破線になっていることだ。\
+\
+AMRAAMでは、スパローと同様にLRSとSTTのレーダーモードが使えるが、TWSモードでは複数のターゲットを同時にロックして交戦することができる。試しに、[右Alt＋I]でTWSに切り替えてみましょう。",
+    ["DictKey_UnitName_443"] = "Pilot #001",
+    ["DictKey_GroupName_185"] = "",
+    ["DictKey_GroupName_503"] = "TWS #001",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_UnitName_376"] = "Senaki Static #013",
+    ["DictKey_ActionText_11"] = "このレッスンでは、F-15に内蔵されているM61 20mmキャノン砲と、レーダーのオートガンスキャンモードの使い方を学びます。キャノン砲は、ミサイルに近づきすぎたときや、ミサイルを使い果たしたときなどに有効です。胴体中央部の右肩部分に搭載されており、毎分6000発の発射が可能で、940発の弾を装填することができます。つまり、トリガーを握っていれば、10秒以内に940発すべてを発射することができるのです。\
+\
+現在、レッスンを一時停止しています。\
+\
+キャノン砲を選択するには、今すぐ[C]を押してください。",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_UnitName_197"] = "",
+    ["DictKey_UnitName_189"] = "",
+    ["DictKey_WptName_513"] = "",
+    ["DictKey_UnitName_370"] = "Senaki Static #020",
+    ["DictKey_WptName_561"] = "",
+    ["DictKey_UnitName_340"] = "Senaki Static #010",
+    ["DictKey_UnitName_334"] = "Senaki Static #010",
+    ["DictKey_ActionText_738"] = "無線で合流の意思を伝えた後、ステアリングモードをNAVからTCN（TACAN、Tactical Air Navigationの意）に切り替えることで、タンカーまでの距離を知ることができます。今すぐ[左Ctrl+R]を押して行ってください。",
+    ["DictKey_WptName_565"] = "",
+    ["DictKey_sortie_5"] = "F-15Cトレーニング - 16 - 空対空給油（上級編）",
+    ["DictKey_WptName_341"] = "",
+    ["DictKey_WptName_558"] = "",
+    ["DictKey_UnitName_385"] = "Senaki Static #024",
+    ["DictKey_UnitName_207"] = "Unit #009",
+    ["DictKey_WptName_459"] = "",
+    ["DictKey_WptName_592"] = "",
+    ["DictKey_UnitName_224"] = "",
+    ["DictKey_WptName_542"] = "",
+    ["DictKey_ActionText_104"] = "レーダーをオンにしてキャノンを選択すると、レーダーはオートガンスキャンモードになります。このモードでは、幅60度（11時から1時まで）、高さ20度のゾーンをスキャンし、10マイル以内で最初にこのゾーンに入ってきたターゲットを自動的にロックします。\
+\
+次に、いくつかのターゲットを起動すると、前方の谷間を飛び始めます。準備ができたら、スペースバーを押してレッスンの一時停止を解除してください。",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_WptName_323"] = "",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_WptName_326"] = "",
+    ["DictKey_UnitName_190"] = "",
+    ["DictKey_UnitName_259"] = "Pilot #005",
+    ["DictKey_WptName_625"] = "",
+    ["DictKey_GroupName_569"] = "Target #002",
+    ["DictKey_WptName_546"] = "",
+    ["DictKey_WptName_213"] = "Transit 30K",
+    ["DictKey_WptName_454"] = "",
+    ["DictKey_UnitName_470"] = "Pilot #005",
+    ["DictKey_UnitName_379"] = "",
+    ["DictKey_WptName_579"] = "",
+    ["DictKey_UnitName_693"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_UnitName_206"] = "Unit #008",
+    ["DictKey_GroupName_321"] = "New Static Object #003",
+    ["DictKey_WptName_549"] = "",
+    ["DictKey_GroupName_167"] = "",
+    ["DictKey_WptName_622"] = "",
+    ["DictKey_UnitName_311"] = "Unit #046",
+    ["DictKey_GroupName_523"] = "AMRAAM #002",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_ActionText_115"] = "垂直速度計が正の上昇率を示していることを確認し、[G]を押してランディングギアを上げます。その後、[F]を押してフラップを格納します。",
+    ["DictKey_GroupName_288"] = "Vzaiani perimeter",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_UnitName_309"] = "Unit #044",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_WptName_507"] = "",
+    ["DictKey_UnitName_541"] = "MiG-29 #002",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_ActionText_514"] = "これでターゲットを第一指定目標（PDT）に指定したことになります。VSDとHUDの表示はSTTと似ていますが、他のコンタクトを追跡し続けることを除いては同じです。PDTはVSDでは星型のシンボルで表示されます。VSDとHUDに表示されているターゲットのアスペクト表示（H、L、T、R）の前には、ターゲットのアスペクト角を示す数字が表示されています（数十度単位）。\
+\
+次に、未選択のターゲットの上に捕捉マークを移動させ、[Enter]キーを1回押します。完了したらスペースキーを押してください。",
+    ["DictKey_UnitName_303"] = "Unit #038",
+    ["DictKey_WptName_267"] = "",
+    ["DictKey_UnitName_256"] = "",
+    ["DictKey_UnitName_346"] = "Senaki Static #010",
+    ["DictKey_UnitName_230"] = "",
+    ["DictKey_WptName_628"] = "",
+    ["DictKey_WptName_590"] = "",
+    ["DictKey_WptName_582"] = "",
+    ["DictKey_WptName_544"] = "",
+    ["DictKey_UnitName_162"] = "Pilot #013",
+    ["DictKey_WptName_437"] = "",
+    ["DictKey_UnitName_518"] = "Pilot #001",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_UnitName_209"] = "Unit #011",
+    ["DictKey_UnitName_227"] = "",
+    ["DictKey_ActionText_566"] = "前方に2つのターゲットがあります。高音のロック音が聞こえるまで、レティクルを片方のターゲットに合わせて飛んでください。ウェポンリリースボタン[右Alt + Space]を押してAIM-9を発射するか、[6]を再度押してシーカーをアンケージして自己追尾を開始することができる。(自己追尾したら、ミサイルを発射してください）。)\
+\
+ミサイルが当たらない場合は、別のミサイルで再挑戦してください。",
+    ["DictKey_ActionText_587"] = "お疲れ様でした。あなたはすべてのターゲットを倒しました。[Esc]キーを押すとミッションが終了します。",
+    ["DictKey_ActionText_114"] = "ナイスヒット! 次は2つ目のターゲットを狙えるかどうか。なお、[Enter]キーを押すと、最初のターゲットのロックが解除されます。",
+    ["DictKey_WptName_477"] = "",
+    ["DictKey_GroupName_18"] = "New Airplane Group",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_ActionText_700"] = "ブームの約50フィート後方で安定したら、通信メニュー[\\]を開き、\"ready pre-contact \"と宣言します。\
+\
+\
+接触の許可が出たら、スペースバーを押す。",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_UnitName_203"] = "Unit #005",
+    ["DictKey_WptName_535"] = "",
+    ["DictKey_WptName_425"] = "",
+    ["DictKey_WptName_431"] = "",
+    ["DictKey_UnitName_534"] = "AMRAAM #004",
+    ["DictKey_WptName_444"] = "",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_ActionText_522"] = "グッドヒット! これでこのトレーニングレッスンは終了です。ウェイポイント2には3つのターゲットがあるので、さらに練習したい場合は[Esc]を押してレッスンを終了してください。",
+    ["DictKey_UnitName_291"] = "Pilot #012",
+    ["DictKey_WptName_489"] = "",
+    ["DictKey_WptName_545"] = "",
+    ["DictKey_GroupName_181"] = "MiG-31 #002",
+    ["DictKey_WptName_395"] = "",
+    ["DictKey_ActionText_743"] = " ",
+    ["DictKey_WptName_481"] = "",
+    ["DictKey_GroupName_132"] = "Wingman",
+    ["DictKey_WptName_647"] = "",
+    ["DictKey_UnitName_205"] = "Unit #007",
+    ["DictKey_UnitName_170"] = "",
+    ["DictKey_WptName_511"] = "",
+    ["DictKey_WptName_261"] = "",
+    ["DictKey_UnitName_172"] = "",
+    ["DictKey_WptName_428"] = "",
+    ["DictKey_ActionText_484"] = "40マイルほど離れたところにいくつかのターゲットを追加しました。VSIで獲得マークを重ねて[Enter]を押し、1つをプライマリー・ターゲットとして選び、もう1つをセカンダリー・ターゲットとして同じように重ねて選ぶ。\
+2つのターゲットを選択したら、スペースバーを押してください。",
+    ["DictKey_WptName_649"] = "",
+    ["DictKey_WptName_383"] = "",
+    ["DictKey_WptName_554"] = "",
+    ["DictKey_UnitName_552"] = "Su-24 #001",
+    ["DictKey_UnitName_19"] = "Pilot #001",
+    ["DictKey_ActionText_108"] = "イーグルの操縦には、ノーズギア・ステアリングを使用します。左に曲がるときは[Z]、右に曲がるときは[X]のラダーコントロールで操縦してください。\
+\
+エンジンの始動が完了したら、スペースバーを押して続行してください。",
+    ["DictKey_WptName_471"] = "",
+    ["DictKey_ActionText_117"] = "HUDに表示されている大きな円は、Allowable Steering Error（ASE）の円です。ミサイルの効果を最大限に発揮するために、小さなステアリング・ドットがこの円の内側、できるだけ中心に近づくように飛行します。\
+\
+STTモードでは、HUDとVSDの右側に目標までの距離が目盛りで表示され、ミサイルの最大射程、RTR（レンジ・ターン・アンド・ラン、機動目標に対する最大射程）、最小射程のマークも表示されることを覚えておいてください。また、HUD上にはターゲットへの視線を示すターゲットデジグネーターボックスと、AIM-9のシーカーの視線を示す円が表示されている。\
+\
+ターゲットがRTRと最小射程の間にあり、ステアリング・ドットがASEの円の中に入ると、キャノピー・フレームのロック／シュート・ライトが点灯し、ターゲット・デジグネーター・ボックスの下に三角形が表示され、有効なショットであることを示す。ウェポンリリースボタンを押して、ミサイルを発射する。",
+    ["DictKey_UnitName_297"] = "Unit #032",
+    ["DictKey_WptName_669"] = "",
+    ["DictKey_UnitName_249"] = "Unit #019",
+    ["DictKey_ActionText_698"] = "まず、ジョイスティックの軸に曲率を追加してください。そうすることで、微調整がしやすくなります。ピッチとロールの値を20にするのが良いスタート地点ですが、自分に合ったものを試してみてください。これは、[Esc]を押して、「コントロールの調整」を選び、「Axis Assign」ボタンをクリックして、該当するジョイスティックの軸をクリックし、「Axis Tune」をクリックすることで行うことができます。\
+\
+タンカーの位置が正確にわからない場合、AWACSのサポートがあれば、AWACSに道を尋ねることができます。AWACSは「ブルズアイ」と呼ばれる任意の点（このミッションではウェイポイント1）に対する方位と距離を教えてくれます。AWACSからの指示を受けるには、[左Win + I]を押します。応答があったらスペースバーを押してください。",
+    ["DictKey_ActionText_745"] = "refuel!!",
+    ["DictKey_UnitName_499"] = "Pilot #009",
+    ["DictKey_UnitName_427"] = "Senaki Static #012",
+    ["DictKey_WptName_380"] = "",
+    ["DictKey_ActionText_105"] = "次に、空軍基地のATC（航空管制）に起動許可を申請します。\
+1. [\\]を押して、通信メニューを開く。\
+2. [F5]を押してATCを選択する。\
+3.[ F1]を押して、現在のエアベースであるVazianiを選択します。\
+4.[ F3]を押して起動をリクエストします。\
+\
+Vazianiが起動を許可したら、[\\]を押して通信メニューを閉じ、スペースバーを押して続行します。",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_WptName_353"] = "",
+    ["DictKey_WptName_696"] = "",
+    ["DictKey_UnitName_491"] = "Pilot #008",
+    ["DictKey_WptName_365"] = "",
+    ["DictKey_GroupName_60"] = "Vaziani Static #004",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_UnitName_302"] = "Unit #037",
+    ["DictKey_WptName_633"] = "",
+    ["DictKey_GroupName_51"] = "New Airplane Group #003",
+    ["DictKey_WptName_371"] = "",
+    ["DictKey_ActionText_731"] = "給油が完了すると、タンカーが接続を解除することを伝えてきます。その後、スロットルを少しだけ下げて、タンカーから離れるように少しだけ降下します。[左Ctrl+R]を押して給油口を閉じます。これでレッスンは終了です。",
+    ["DictKey_WptName_694"] = "",
+    ["DictKey_ActionText_116"] = "次に水平を出します。先に離陸トリムを設定した場合は、機体が勝手に引き上げようとするので、スティックから手を離して水平になるまで[右Ctrl+;]を押してノーズダウントリムを行います。",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_WptName_463"] = "",
+    ["DictKey_WptName_646"] = "",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_UnitName_9"] = "Wingman",
+    ["DictKey_WptName_640"] = "",
+    ["DictKey_WptName_441"] = "",
+    ["DictKey_UnitName_44"] = "Pilot #004",
+    ["DictKey_WptName_638"] = "",
+    ["DictKey_WptName_446"] = "",
+    ["DictKey_WptName_530"] = "",
+    ["DictKey_GroupName_588"] = "New Helicopter Group",
+    ["DictKey_UnitName_34"] = "",
+    ["DictKey_WptName_619"] = "",
+    ["DictKey_UnitName_519"] = "Pilot #003",
+    ["DictKey_WptName_637"] = "",
+    ["DictKey_WptName_564"] = "",
+    ["DictKey_WptName_269"] = "",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_WptName_453"] = "",
+    ["DictKey_WptName_563"] = "",
+    ["DictKey_UnitName_195"] = "",
+    ["DictKey_WptName_598"] = "",
+    ["DictKey_WptName_320"] = "",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_ActionText_112"] = "滑走路に到着したら、機体をセンターラインに合わせ、「13」の滑走路見出しマーカーの上で停止します。",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_494"] = "",
+    ["DictKey_WptName_642"] = "",
+    ["DictKey_GroupName_626"] = "Target #005",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_ActionText_103"] = "ATCはあなたに滑走路13を離陸するように指示しましたが、これは130度（つまり南東）の方向にある滑走路を意味します。なお、この同じ滑走路を逆方向から使用する場合は、130度から180度回転して310度となるため、「滑走路31」と呼ばれることになる。\
+\
+ほとんどの飛行場では、ATCは風に向かって離陸するように指示しますが、Vazianiでは北西にあるトビリシの街を飛び越えないように、風向きに関係なく常に13番滑走路から離陸します。\
+\
+スペースキーを押して続行します。",
+    ["DictKey_ActionText_497"] = "TWSモードでは、レーダーはコントラクトの詳細なターゲットデータを提供しながら、他のターゲットをスキャンすることができます。TWSモードでは、レーダーが他のターゲットをスキャンしながらも、契約書の詳細なターゲットデータを提供します。\
+\
+TWSの欠点は、LRSに比べてターゲットを見失いやすいことで、特にターゲットが方向や速度を素早く変えるような回避行動や高Gのマヌーバをした場合には、レーダーがターゲットを見失ってしまう。また、TWSでは120度の広いアジマスレンジを使用できません。\
+\
+TWSモードに入ると、それまでLRSで使用していたPRFの設定が維持されます。ただし、LRSに戻るまでは現在のPRFは表示されません。\
+\
+高度15,000ft付近の前方に3機の航空機を追加しました。獲得マークを連絡先の1つに合わせ、[Enter]キーを1回押して選択します。選択したらスペースキーを押してください。",
+    ["DictKey_UnitName_317"] = "Unit #015",
+    ["DictKey_WptName_359"] = "",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_ActionText_495"] = "グッドヒット! これで今回のトレーニングレッスンは終了です。[Esc]キーを押してレッスンを終了することもできます。",
+    ["DictKey_WptName_643"] = "",
+    ["DictKey_UnitName_418"] = "Senaki Static #030",
+    ["DictKey_UnitName_349"] = "Senaki Static #010",
+    ["DictKey_ActionText_486"] = "HUDの左下にある点滅するタイマーには2つの数字が表示されています。1つ目はミサイルがアクティブになるまでの時間、2つ目は迎撃までの時間です。ミサイルがアクティブになると、ここには迎撃までの時間のみが表示されます。\
+\
+プライマリターゲットにミサイルを発射したので、HUDのターゲット情報は次のターゲットに切り替わりました。最初のミサイルがプライマリーターゲットに向かっている間に、再度ウェポンリリースボタンを押して、現在のターゲットにミサイルを発射してください。",
+    ["DictKey_UnitName_352"] = "Senaki Static #010",
+    ["DictKey_WptName_543"] = "",
+    ["DictKey_ActionText_86"] = "次に、左コンソールのハイライトされた「T/Oトリム」ボタンとランプを見てください。このボタンを押すと、ピッチ、ロール、ヨーの各トリムが離陸時の標準設定にリセットされます。ランプが点灯するまで[左Alt + T]を押し続けます。\
+\
+(このステップをスキップしても離陸することができます。スティックをもっと引く必要があります。)\
+\
+準備ができたらスペースバーを押してください。",
+    ["DictKey_UnitName_208"] = "Unit #010",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_UnitName_600"] = "MiG-29 #002",
+    ["DictKey_UnitName_188"] = "",
+    ["DictKey_WptName_614"] = "",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_WptName_344"] = "",
+    ["DictKey_WptName_451"] = "",
+    ["DictKey_WptName_270"] = "",
+    ["DictKey_WptName_577"] = "",
+    ["DictKey_UnitName_430"] = "Senaki Static #004",
+    ["DictKey_WptName_555"] = "",
+    ["DictKey_WptName_668"] = "",
+    ["DictKey_UnitName_462"] = "Pilot #004",
+    ["DictKey_WptName_725"] = "",
+    ["DictKey_UnitName_412"] = "Senaki Static #031",
+    ["DictKey_WptName_576"] = "",
+    ["DictKey_WptName_611"] = "",
+    ["DictKey_WptName_659"] = "",
+    ["DictKey_WptName_231"] = "",
+    ["DictKey_UnitName_480"] = "Pilot #007",
+    ["DictKey_WptName_532"] = "",
+    ["DictKey_WptName_460"] = "",
+    ["DictKey_WptName_572"] = "",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_UnitName_247"] = "Unit #017",
+    ["DictKey_ActionText_496"] = "レーダーの表示範囲を40マイルに変更し（[-]と[=]で範囲を調整）、インターリーブPRFに切り替えます（[右Shift + I]でPRFを循環）。\
+\
+次に、TWS（Track While Scan）モードについて説明します。LRSとTWSの切り替えは、[右Alt + I]で行います。今すぐ実行してください。",
+    ["DictKey_UnitName_304"] = "Unit #039",
+    ["DictKey_WptName_386"] = "",
+    ["DictKey_WptName_607"] = "",
+    ["DictKey_WptName_502"] = "",
+    ["DictKey_ActionText_740"] = "HUDの右下の「NAV」が「TCN」に変わり、その下の「T」の後の数字がタンカーまでの距離（マイル）になっています。HUD や HSI に表示される残りのナビゲーション情報は、現在のウェイポイントに適用されます。\
+\
+TACANモードを起動した[左Ctrl+R]コマンドは、キャノピーフレームの緑色の「Ready」ランプで示される給油ドアも開きます。\
+\
+次に、タンカーをレーダーでロックして誘導したいと思います。[I]を押してレーダーをオンにし、お好みのレーダーモード（例えば[4]を押すとボアサイトオートアクイジションモード）をオンにして、タンカーをロックします。視界が良好なときには必要ありませんが、状況を把握するのに役立ちます。\
+\
+レーダーロックができたらスペースバーを押します。",
+    ["DictKey_WptName_724"] = "",
+    ["DictKey_UnitName_325"] = "",
+    ["DictKey_UnitName_37"] = "Pilot #004",
+    ["DictKey_UnitName_361"] = "Senaki Static #019",
+    ["DictKey_ActionText_727"] = "給油口はコックピットの後ろにあるので、ゆっくりとブームのすぐ後ろにあるコンタクトポジションまで進みます。ブームに集中してはいけない。タンクローリーに集中してください。\
+\
+冷静に、冷静に! 空回りしそうになったら、スロットルを戻し、プレコンタクトポジションで安定させてから、もう一度やってみてください。練習が必要なので、我慢してください。",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_WptName_661"] = "",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_UnitName_182"] = "MiG-31 #002",
+    ["DictKey_UnitName_570"] = "MiG-29 #002",
+    ["DictKey_WptName_356"] = "",
+    ["DictKey_UnitName_421"] = "New Static Object #005",
+    ["DictKey_UnitName_300"] = "Unit #035",
+    ["DictKey_UnitName_307"] = "Unit #042",
+    ["DictKey_WptName_271"] = "",
+    ["DictKey_GroupName_692"] = "",
+    ["DictKey_WptName_662"] = "",
+    ["DictKey_WptName_557"] = "",
+    ["DictKey_GroupName_635"] = "Target #002",
+} -- end of dictionary

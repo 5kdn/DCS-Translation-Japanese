@@ -1,0 +1,205 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "Vaziani Static #005",
+    ["DictKey_UnitName_89"] = "Pilot #009",
+    ["DictKey_UnitName_52"] = "Pilot #005",
+    ["DictKey_UnitName_67"] = "",
+    ["DictKey_GroupName_15"] = "Vaziani Static #002",
+    ["DictKey_GroupName_23"] = "Tbilisi outbound #001",
+    ["DictKey_ActionText_121"] = "",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_UnitName_73"] = "Pilot #007",
+    ["DictKey_ActionText_49"] = "RWRは上下45度以上の高度にあるレーダーを検知できないので、例えば脅威から離れてバンクしたときに相手がRWRから消えたとしても、相手が追尾してこなくなったわけではなく、死角になっているだけかもしれません。\
+\
+TEWSは自分を照らしているレーダーの種類を識別することはできますが、そのレーダーが敵か味方かを識別することはできません。\
+\
+では、実際に脅威となっている相手にTEWSを使ってみましょう。スペースバーを押すと、ミッションの一時停止を解除します。",
+    ["DictKey_ActionText_116"] = "オートパイロットがオンになっています。スロットルを約81%RPMに調整し、約250ノットの速度を維持する。",
+    ["DictKey_UnitName_39"] = "Pilot #005",
+    ["DictKey_UnitName_7"] = "Player",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_ActionText_128"] = "[Q]を押すと、チャフとフレアを同時に出すことができます。\
+\
+また、TEWSにチャフとフレアを連続して発射するように設定することもできます。これは、飛来するミサイルを回避しているときに、回避運動をしながら射撃位置を確保するなど、他の作業に集中していて、手動でチャフやフレアを散布することに気を取られているときに便利です。\
+\
+今すぐ[左Shift + Q]を押して、連続対策投薬モードを有効にしてください。",
+    ["DictKey_ActionText_11"] = "F-15Cの対策システムのトレーニングフライトにようこそ。水準器とコースを維持するために、副操縦士を起動した。スロットルを操作して対気速度を200kt以上に維持してください。",
+    ["DictKey_GroupName_88"] = "New Helicopter Group",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_GroupName_51"] = "New Airplane Group #003",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_sortie_5"] = "F-15Cトレーニング - 08 - RWRと対抗策",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_GroupName_94"] = "Vaziani Static #008",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_GroupName_28"] = "New Airplane Group",
+    ["DictKey_ActionText_84"] = "新たな脅威が検出されたことを示す3回の高音の連続音声が流れます。このコンタクトは地上のEWRステーションで、TEWSディスプレイでは「S」と表示されています。(TEWSディスプレイでは、コンタクトの上にある半円は最新のコンタクトであることを、菱形は最も優先度の高い脅威であることを意味しています。\
+\
+断続的なチャープ音は、RWRがサーチモードのレーダーを検出しているが、ロックオンされていないことを意味します。\
+\
+ロックされたレーダーのみを表示するように RWR モードを変更することができます。今すぐ[右Shift + R]を押してお試しください。",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_GroupName_100"] = "Vaziani Static #010",
+    ["DictKey_ActionText_42"] = "TEWSの最初のコンポーネントはRWRです。このシステムは、自機が他のレーダーに照らされていることを受動的に検知し、その情報を計器パネルの右上にあるTEWSディスプレイに表示します（ハイライト）。このシステムは、レーダーとは異なり、自分の存在を知らせることなく脅威を検知することができ、また、レーダーとは異なり、360度の範囲をカバーすることができるという点で有用なシステムです。\
+\
+TEWSは、自分の周囲をトップダウンで表示します。自分が中央にいて、鼻が上を向いている。TEWSディスプレイ上のシンボルは、コンタクトの方向と信号強度（レンジではない）を示しています。\
+\
+TEWSディスプレイはまた、コンタクトをタイプとステータスで分類します。既知の空中および地上レーダーのタイプは、異なるコードで識別されます。(コードの一覧についてはマニュアルを参照してください）。(例えば、帽子のない「15」はSA-15 SAMレーダーを意味しますが、帽子のある「15」はF-15を意味します。最も高い脅威となるコンタクトにはダイヤモンドが刻まれています。最新のコンタクトの上には半円が付けられています。ミサイル発射を支援しているコンタクトには、点滅する半円または円が付加されています。アクティブレーダーミサイル（発射機のレーダーに頼らず、独自のレーダーを搭載したミサイル）は、Mの文字が円で囲まれて表示されます。\
+\
+スペースバーを押して続行します。",
+    ["DictKey_UnitName_61"] = "",
+    ["DictKey_ActionText_126"] = "チャフとフレアの残量は、計器盤の左にあるMPCDの右上に表示されています。チャフは、ミサイルが3時や9時の方向にあるときに有効である。このような状況では、ミサイルと自分のチャフの相対的な速度が似ているので、ミサイルを混乱させることができる。しかし、ミサイルがあなたの前方または後方にある場合は、ミサイルは遅いチャフとあなたを見分けるのにそれほど苦労しません。\
+\
+チャフが放出されると、TEWSディスプレイの右側にあるカウンターメジャー・ディスペンサー・ライトに「CHAFF」の文字が点灯します。\
+\
+[Insert]を押すと、チャフの束を1つだけ放出することができます。今すぐ実行してください。",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_ActionText_115"] = "",
+    ["DictKey_ActionText_87"] = "MiGを無効にしました\
+\
+次の接触は至近距離のSA-15 SAMシステムだ RWRの表示を監視してください。計器パネル上部の「SAM」警告灯が点灯すると、RWRがSAMレーダーを検知していることを示します。",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_153"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_GroupName_33"] = "Vaziani Static #003",
+    ["DictKey_UnitName_113"] = "EWR",
+    ["DictKey_UnitName_31"] = "Pilot #003",
+    ["DictKey_ActionText_125"] = "TEWSディスプレイの中央にXが点滅しています。これはECMがウォームアップ中であることを示しており、約10秒かかります。ECMが動作可能になると、Xが点灯します。\
+\
+TEWSの最後の構成要素として、チャフとフレアという形の消耗品対策について説明します。これらは航空機から放出され、それぞれレーダーや赤外線で誘導されたミサイルをおびき寄せようとするものです。\
+\
+続きはスペースバーを押してください。",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_GroupName_12"] = "Vaziani Static #001",
+    ["DictKey_GroupName_18"] = "New Airplane Group",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_GroupName_36"] = "New Airplane Group #002",
+    ["DictKey_GroupName_117"] = "SA-15",
+    ["DictKey_UnitName_95"] = "",
+    ["DictKey_GroupName_72"] = "Overflight",
+    ["DictKey_GroupName_66"] = "Vaziani Static #006",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_50"] = "次に、[左Ctrl + C]を押してキャノピーを閉じます。",
+    ["DictKey_GroupName_43"] = "Tbilisi outbound #002",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_ActionText_103"] = "SA-15を無効にしました。\
+\
+次にTEWSのもう一つの特徴であるALQ-135内蔵のECM（Electronic Countermeasures）システムについて説明します。このシステムは、他のレーダーを妨害し、あなたを追跡・ロックできないようにします。しかし、このシステムはあなたの存在をすべての人に知らせてしまうので、奇襲をかけたい場合はオフにしておくべきです。\
+\
+ECMの動作を切り替えるには、[E]を押してください。今すぐ実行してください。",
+    ["DictKey_UnitName_19"] = "Pilot #001",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_ActionText_120"] = "",
+    ["DictKey_UnitName_80"] = "Pilot #008",
+    ["DictKey_ActionText_122"] = "検索モードだけだったので、連絡先が表示されなくなりました。もう一度[右Shift + R]を押すと、すべての連絡先の表示に切り替わります。",
+    ["DictKey_UnitName_29"] = "Pilot #001",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_WptName_110"] = "RANGE",
+    ["DictKey_GroupName_60"] = "Vaziani Static #004",
+    ["DictKey_ActionText_127"] = "ミサイルが発射されているのを発見しても、それに対応するRWR警告がない場合は、赤外線誘導ミサイルである可能性が高いです。ミサイルが自分の飛行経路に直角に向かってくるようにして、フレアを散布してください。\
+\
+照明弾が発射されると、カウンターメジャーのディスペンサーライトに「FLARE」の文字が点灯します。(そこに「MINIMUM」という文字が点灯していたら、チャフやフレアが少なくなっていることを意味します) 今すぐ[Delete]を押してフレアを1組放出してください。",
+    ["DictKey_UnitName_9"] = "Wingman",
+    ["DictKey_UnitName_44"] = "Pilot #004",
+    ["DictKey_UnitName_54"] = "Pilot #006",
+    ["DictKey_UnitName_34"] = "",
+    ["DictKey_UnitName_64"] = "",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_ActionText_83"] = "TEWSは、ALQ-135内蔵ECM（Electronic Countermeasures、つまりアクティブジャマー）システム、ALR-56Cレーダー警告受信機（RWR）、チャフやフレアのディスペンサーなど、複数のシステムを組み合わせたものである。\
+\
+TEWSは、空と地上の両方の脅威を検知し、分類し、対処することができます。\
+\
+続きはスペースバーを押してください。",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_UnitName_101"] = "",
+    ["DictKey_GroupName_69"] = "Vaziani Static #007",
+    ["DictKey_ActionText_134"] = "今回のレッスンでは、敵との接触に向けてまっすぐ水平に飛行しましたが、戦闘中にそれが最善の行動でないことは明らかです。最初の防衛線は常に優れたミッション・インテリジェンスと脅威の回避です。飛行前にルートとターゲットエリアを研究し、既知の脅威を水平方向と垂直方向の両方で可能な限り回避するように計画する。交戦中、相手が比較的遠距離にいる場合は、反対側に回って逃げることができるかもしれません。近距離では、TEWSをうまく使って脅威に積極的に対抗し、防御的なマヌーバを行うことが最善の方法です。一般的には、3時または9時の方向にミサイルが来ると、地面に向かってダイブし、ミサイルが近づいてきたときに高Gのターンをして、ミサイルのシーカーロックを解除しようとしたり、単にターンについていくためにエネルギーの可能性を使い果たしたりすることを意味します。\
+\
+以上で、F-15Cの対策システムのトレーニングレッスンを終了します。ミッションを終了するにはキーボードの[Esc]キーを押してください。",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_ActionText_86"] = "MiG-31がレーダー誘導式のミサイルを発射しました。TEWSのディスプレイでは、「31」の周りが点滅して表示され、発射予告の音声が鳴ります。",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_WptName_10"] = "",
+    ["DictKey_ActionText_135"] = "RWRは、レーダー誘導の脅威のみを警告します。赤外線誘導のミサイルは検知できませんので、目視で確認する必要があります。\
+\
+また、脅威から遠く離れている場合は、相手のレーダーに映る前にRWRの表示が出ることもあります。また、脅威から離れている場合は、相手のレーダーに映る前にRWRの表示が出ることがありますが、同様に、自分のレーダーでターゲットを探しているときは、自分のレーダーに映る前に相手のRWRに映ることがあります。\
+\
+続けるにはスペースバーを押してください。",
+    ["DictKey_ActionText_133"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_GroupName_6"] = "Player",
+    ["DictKey_UnitName_16"] = "",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_UnitName_24"] = "Pilot #002",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_ActionText_48"] = "レンジに近づいてきました。",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_70"] = "",
+    ["DictKey_UnitName_98"] = "",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_GroupName_105"] = "Foxhound",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_GroupName_79"] = "Tbilisi inbound",
+    ["DictKey_ActionText_85"] = "現在、追加の連絡がある。MiG-31が南西から目視範囲外に向かってきている。TEWSディスプレイでは「31」と「^」（帽子）で識別されている。(半円と菱形の表示がこのコンタクトに切り替わり、最新かつ最優先の脅威であることを示しています。\
+\
+より速いチャープ音は、RWRがあなたをロックオンしている脅威を検知したことを意味しています。また、「AI」の (これは、現在、航空機のレーダーに照らされていることを示しています（敵か味方かはわかりません）。空中レーダーに照射されていることを「スパイク」といいます。\"\
+\
+そのまま直進してください。",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_UnitName_106"] = "Foxhound",
+    ["DictKey_UnitName_37"] = "Pilot #004",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_GroupName_97"] = "Vaziani Static #009",
+    ["DictKey_descriptionBlueTask_3"] = "RWRと対策システムについてご紹介します。",
+    ["DictKey_ActionText_104"] = "F-15Cのレーダー警告受信機と対策システムのトレーニングフライトへようこそ。F-15CのTEWS（Tactical Electric Warfare System）は強力な内蔵システムで、地表や空中のレーダーの脅威を電子的に検知・識別するとともに、アクティブなレーダー妨害を行います。\
+\
+現在、ミッションは一時停止しています。\
+\
+続行するにはスペースバーを押してください。",
+    ["DictKey_descriptionText_1"] = "このレッスンでは、レーダー警告受信機の解釈と、F-15Cの対策システムの使用方法を学びます。\
+\
+レッスン時間：8分\
+\
+前提条件\
+01. 導入と基本操作\
+04. ナビゲーション、オートパイロット、燃料管理\
+\
+\
+キーコマンドの紹介\
+\
+RWRモード:[右Shift + R]キー\
+ECM：[E]\
+チャフを撒く。チャフを捨てる： [Insert]\
+フレアを撒く:[削除]\
+チャフとフレアを廃棄する:[Q]\
+連続対策投棄モード: [左Shift + Q] 。",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_UnitName_13"] = "",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_ActionText_123"] = "対策品ディスペンサーのランプが点灯するのを見て、チャフやフレアの放出を監視することができます。\
+\
+[左Shift + Q]をもう一度押すと、連続ディスペンサーモードが解除されます。",
+    ["DictKey_GroupName_112"] = "EWR",
+    ["DictKey_UnitName_118"] = "SA-15",
+} -- end of dictionary

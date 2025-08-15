@@ -1,0 +1,472 @@
+dictionary = 
+{
+    ["DictKey_WptName_377"] = "",
+    ["DictKey_ActionText_112"] = "滑走路に到着したら、機体をセンターラインに合わせ、「13」の滑走路見出しマーカーの上で停止してください。\
+滑走路に着いたら、センターラインに機体を合わせ、「13」の滑走路見出しマーカーの上で停止してください。",
+    ["DictKey_UnitName_52"] = "Pilot #005",
+    ["DictKey_UnitName_67"] = "",
+    ["DictKey_WptName_401"] = "",
+    ["DictKey_UnitName_364"] = "Senaki Static #019",
+    ["DictKey_GroupName_23"] = "Tbilisi outbound #001",
+    ["DictKey_UnitName_233"] = "",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_UnitName_73"] = "Pilot #007",
+    ["DictKey_UnitName_331"] = "",
+    ["DictKey_ActionText_116"] = "次に水平を出します。先に離陸トリムを設定した場合は、機体が勝手に引き上げようとするので、スティックから手を離して水平になるまで[右Ctrl+;]を押してノーズダウントリムを行います。",
+    ["DictKey_UnitName_39"] = "Pilot #005",
+    ["DictKey_ActionText_113"] = "ホイールブレーキ[W]をかけたまま、エンジンを80%まで進めます。エンジンが80％になったら、ブレーキを解除し、スロットルをMIL（アフターバーナーではない）に押し込む。",
+    ["DictKey_WptName_446"] = "",
+    ["DictKey_WptName_422"] = "",
+    ["DictKey_WptName_269"] = "",
+    ["DictKey_WptName_410"] = "",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_UnitName_218"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_GroupName_255"] = "New Static Object #001",
+    ["DictKey_WptName_453"] = "",
+    ["DictKey_ActionText_117"] = "350ノットに達したら上昇に転じ、速度が350ノットになるように上昇角を調整する。",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_GroupName_237"] = "New Vehicle Group #002",
+    ["DictKey_UnitName_406"] = "New Static Object #004",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_ActionText_119"] = "地上速度は、VSDの左下、「G」の後に表示されます。(今は \"G 0 \"と表示されています）。) HUDの対気速度表示ではタクシー速度が遅すぎて信頼できないので、代わりに対地速度表示を参照してください。タキシング中は10ノットを超えないようにしてください。\
+\
+スペースバーを押して続行します。",
+    ["DictKey_GroupName_28"] = "New Airplane Group",
+    ["DictKey_ActionText_84"] = "エンジンが始動すると、インストルメントパネルの右側にあるエンジン関連の文字盤が動き出します。各エンジンの始動は、タコメーター（強調表示）に表示されているように、アイドリング回転数が約65％に達した時点で終了する。\
+\
+各エンジンの始動には約40秒かかります。エンジンがスプールアップしている間、起動チェックリストを続けることができます。スペースバーを押して進めてください。",
+    ["DictKey_WptName_347"] = "",
+    ["DictKey_UnitName_194"] = "",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_WptName_374"] = "",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_UnitName_249"] = "Unit #019",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_UnitName_171"] = "",
+    ["DictKey_ActionText_87"] = "次に、ATCにタキシー・クリアランスを申請します。応答があれば、どの滑走路にタキシングすればよいかがわかるので、注意してください。\
+\
+[\\]通信メニューが表示されます。すでにVaziani ATCのメニューに入っているはずです。[F1]を押して、滑走路へのタキシングをリクエストします。\
+\
+タキシング許可が出たら、スペースバーを押して続行します。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_UnitName_382"] = "Senaki Static #013",
+    ["DictKey_ActionComment_513"] = "DictKey_ActionComment_513",
+    ["DictKey_WptName_268"] = "",
+    ["DictKey_UnitName_170"] = "",
+    ["DictKey_UnitName_355"] = "Senaki Static #010",
+    ["DictKey_subtitle_491"] = "AWACS（マジック1-1）。Enfield 1-1, Magic, Senaki 空軍基地が被害を受けた!",
+    ["DictKey_UnitName_227"] = "",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_ActionText_493"] = "x",
+    ["DictKey_subtitle_498"] = "AWACS（マジック1-1）。エンフィールド1-1、マジック1-1、全ての敵機が被弾したか、離脱している!",
+    ["DictKey_WptName_437"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_UnitName_95"] = "",
+    ["DictKey_ActionText_263"] = "右側を見ると、コルヒ空軍基地があります。西から着陸するので、ここを通過して旋回する必要があります。",
+    ["DictKey_ActionText_131"] = "ハイライトされている計器を見てください。これはHSI（水平方向状況表示器）です。これはHSI（水平状況指示器）で、現在の進路は229度（南西）、左に130度が見えています。滑走路13に行くには、右にタキシングして滑走路の始点に合わせ、ランプの端の誘導路で左に曲がり、滑走路に着いたら再び左に曲がり、130度の方位で滑走路に沿って進む必要があります。\
+\
+スペースバーを押して続けてください。",
+    ["DictKey_UnitName_186"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_GroupName_378"] = "",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_UnitName_169"] = "",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_GroupName_369"] = "Senaki Static #023",
+    ["DictKey_WptName_389"] = "",
+    ["DictKey_WptName_392"] = "",
+    ["DictKey_UnitName_173"] = "",
+    ["DictKey_WptName_350"] = "",
+    ["DictKey_UnitName_80"] = "Pilot #008",
+    ["DictKey_WptName_332"] = "",
+    ["DictKey_WptName_407"] = "",
+    ["DictKey_ActionText_516"] = "x",
+    ["DictKey_UnitName_340"] = "Senaki Static #010",
+    ["DictKey_ActionText_110"] = "走り出すには、スロットルコントローラーを前方に移動させるか、[Num+]を押して、前方に動きが出るまでスロットルをゆっくりと上げていきますが、75％RPMを超えないようにしてください（必要に応じてスロットルコントローラーを後ろに引くか、[Num-]を押してスロットルを下げてください）。\
+\
+スピードが出すぎた場合は、[W]を押してホイールブレーキをかけてください。",
+    ["DictKey_WptName_404"] = "",
+    ["DictKey_WptName_326"] = "",
+    ["DictKey_GroupName_441"] = "New Airplane Group",
+    ["DictKey_ActionText_140"] = "エンジンの始動が終わるのを待ちます。",
+    ["DictKey_UnitName_248"] = "Unit #018",
+    ["DictKey_UnitName_224"] = "",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_WptName_254"] = "",
+    ["DictKey_UnitName_54"] = "Pilot #006",
+    ["DictKey_UnitName_436"] = "Senaki Static #006",
+    ["DictKey_descriptionText_1"] = "これは練習用のミッションで、新しいことを学ぶわけではないが、前のレッスンで学んだことを実践する機会となるだろう。\
+\
+ロシアのストライクパッケージが北西からセナキエアベースに向かっているのを検知した。飛行計画（青で表示）に従ってウェイポイント1に向かい、空軍基地にダメージを与える前にストライク機を迎撃してください。\
+\
+ミッションの所要時間は 5分\
+\
+前提条件\
+01. イントロダクションと基本操作\
+04. ナビゲーション、オートパイロット、燃料管理\
+08. RWRとその対策\
+10. 目視範囲外レーダーモード\
+11. 目視範囲外ミサイル\
+12. BVRの基本戦術",
+    ["DictKey_UnitName_178"] = "",
+    ["DictKey_ActionText_523"] = "x",
+    ["DictKey_UnitName_64"] = "",
+    ["DictKey_UnitName_343"] = "Senaki Static #010",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_UnitName_289"] = "Pilot #006",
+    ["DictKey_WptName_398"] = "",
+    ["DictKey_UnitName_101"] = "",
+    ["DictKey_WptName_329"] = "",
+    ["DictKey_WptName_386"] = "",
+    ["DictKey_WptName_413"] = "",
+    ["DictKey_UnitName_215"] = "",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_ActionText_287"] = "ミッション成功![ Esc]を押すと、ミッションを終了することができます。",
+    ["DictKey_ActionText_512"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_WptName_10"] = "Climb out",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_UnitName_370"] = "Senaki Static #020",
+    ["DictKey_UnitName_322"] = "New Static Object #001",
+    ["DictKey_UnitName_142"] = "Humvee",
+    ["DictKey_UnitName_361"] = "Senaki Static #019",
+    ["DictKey_UnitName_24"] = "Pilot #002",
+    ["DictKey_WptName_504"] = "",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_70"] = "",
+    ["DictKey_UnitName_328"] = "",
+    ["DictKey_UnitName_337"] = "Senaki Static #011",
+    ["DictKey_UnitName_367"] = "Senaki Static #021",
+    ["DictKey_UnitName_196"] = "",
+    ["DictKey_UnitName_129"] = "Pilot #011",
+    ["DictKey_UnitName_409"] = "New Static Object #005",
+    ["DictKey_UnitName_439"] = "Su-24 #001",
+    ["DictKey_UnitName_252"] = "",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_WptName_445"] = "",
+    ["DictKey_GroupName_393"] = "Senaki Static #024",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_UnitName_415"] = "New Static Object #004",
+    ["DictKey_GroupName_132"] = "Wingman",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_WptName_341"] = "",
+    ["DictKey_UnitName_193"] = "",
+    ["DictKey_ActionText_49"] = "ノーズギアストラットには、タキシングライトとランディングライトがあり、ギアがダウンしているときに使用することができます。今日の夕方のように、暗い場所でタキシングするときは、[右Alt+L]を1回押してタキシングライトを点灯させてください。今すぐ実行してください。",
+    ["DictKey_GroupName_79"] = "Tbilisi inbound",
+    ["DictKey_WptName_335"] = "",
+    ["DictKey_GroupName_185"] = "",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_ActionText_11"] = "F-15Cイーグルへようこそ。\
+\
+しかし、爆破を始める前に、まずこの鳥の始動方法と滑走路へのタキシング方法を学びましょう。\
+\
+まず、[右Shift + L]を押して電源を入れます。",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_GroupName_88"] = "New Helicopter Group",
+    ["DictKey_UnitName_197"] = "",
+    ["DictKey_ActionText_107"] = "外は暗いので、[L]を押して内部のコックピットライトを点灯させます。",
+    ["DictKey_UnitName_421"] = "New Static Object #005",
+    ["DictKey_sortie_5"] = "F-15Cトレーニング - 13 - インターセプト（練習ミッション）",
+    ["DictKey_UnitName_385"] = "Senaki Static #024",
+    ["DictKey_UnitName_418"] = "Senaki Static #030",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_ActionText_104"] = "[左Ctrl+C]を押してキャノピーを閉じる。",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_WptName_323"] = "",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_UnitName_190"] = "",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_168"] = "",
+    ["DictKey_WptName_338"] = "",
+    ["DictKey_WptName_454"] = "",
+    ["DictKey_UnitName_379"] = "",
+    ["DictKey_ActionText_42"] = "電源が入ると、ヘッドアップディスプレイ（HUD）が点灯し、多くの計器やコックピットの照明が点灯するのがわかります。\
+\
+電源が入ったので、エンジン始動を地上のクルーに知らせるために、いくつかの外部照明を点灯させます。\
+\
+アンチコリソンライトは、主翼と尾翼にある赤色の点滅ライトで、[右Alt + 右Ctrl + L]を押して点灯させます。\
+\
+航法灯は、機体の左右を示す赤と緑のライトで、[右Ctrl + L]を押して点灯させます。",
+    ["DictKey_UnitName_61"] = "",
+    ["DictKey_UnitName_182"] = "MiG-31 #002",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_ActionText_115"] = "垂直速度計が正の上昇率を示していることを確認し、[G]を押してランディングギアを上げます。その後、[F]を押してフラップを格納します。",
+    ["DictKey_WptName_428"] = "",
+    ["DictKey_WptName_443"] = "",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_WptName_267"] = "",
+    ["DictKey_UnitName_256"] = "",
+    ["DictKey_WptName_257"] = "",
+    ["DictKey_UnitName_230"] = "",
+    ["DictKey_WptName_395"] = "",
+    ["DictKey_ActionText_106"] = "間違った方向に進んでしまった。[Esc]を押してレッスンを終了し、もう一度やり直してください。",
+    ["DictKey_UnitName_188"] = "",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_UnitName_162"] = "Pilot #013",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_WptName_271"] = "",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_UnitName_319"] = "",
+    ["DictKey_UnitName_240"] = "Unit #015",
+    ["DictKey_UnitName_191"] = "",
+    ["DictKey_UnitName_412"] = "Senaki Static #031",
+    ["DictKey_ActionText_114"] = "滑走路を転がりながら、ごく小さなラダー入力で中央に整列させる。\
+\
+120ノットに達したら、スティックを1/2アフトスティックにして、ノーズが上がってきたら、ピッチ姿勢10度で安定させる。",
+    ["DictKey_GroupName_159"] = "MiG-31 #001",
+    ["DictKey_GroupName_18"] = "New Airplane Group",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_UnitName_175"] = "",
+    ["DictKey_UnitName_133"] = "Wingman",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_UnitName_160"] = "MiG-31 #001",
+    ["DictKey_WptName_431"] = "",
+    ["DictKey_UnitName_394"] = "Senaki Static #024",
+    ["DictKey_WptName_444"] = "",
+    ["DictKey_UnitName_442"] = "Pilot #001",
+    ["DictKey_UnitName_34"] = "",
+    ["DictKey_UnitName_127"] = "Pilot #010",
+    ["DictKey_GroupName_72"] = "Overflight",
+    ["DictKey_UnitName_177"] = "",
+    ["DictKey_GroupName_181"] = "MiG-31 #002",
+    ["DictKey_UnitName_291"] = "Pilot #012",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_ActionText_50"] = "次に、[左Ctrl + C]を押してキャノピーを閉じます。",
+    ["DictKey_GroupName_43"] = "Tbilisi outbound #002",
+    ["DictKey_UnitName_430"] = "Senaki Static #004",
+    ["DictKey_UnitName_400"] = "Senaki Static #029",
+    ["DictKey_UnitName_424"] = "Senaki Static #034",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_UnitName_373"] = "Senaki Static #018",
+    ["DictKey_UnitName_403"] = "Senaki Static #029",
+    ["DictKey_UnitName_187"] = "",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_ActionText_103"] = "ATCはあなたに滑走路13を離陸するように指示しましたが、これは130度（つまり南東）の方向にある滑走路を意味します。なお、この同じ滑走路を逆方向から使用する場合は、130度から180度回転して310度となるため、「滑走路31」と呼ばれることになる。\
+\
+ほとんどの飛行場では、ATCは風に向かって離陸するように指示しますが、Vazianiでは北西にあるトビリシの街を飛び越えないように、風向きに関係なく常に13番滑走路から離陸します。\
+\
+スペースキーを押して続行します。",
+    ["DictKey_UnitName_19"] = "Pilot #001",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_WptName_470"] = "",
+    ["DictKey_UnitName_462"] = "Su-24 #002",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_ActionText_120"] = "HUDの右下に、「0 NAV」という文字が表示されています。これは、あなたが現在、どのウェイポイントにも設定されていないことを意味します。ウェイポイントに従うようにナビゲーションを設定するには、今すぐ[1]を1回押してください。",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_UnitName_376"] = "Senaki Static #013",
+    ["DictKey_GroupName_288"] = "Vzaiani perimeter",
+    ["DictKey_UnitName_427"] = "Senaki Static #012",
+    ["DictKey_WptName_380"] = "",
+    ["DictKey_ActionText_105"] = "次に、空軍基地のATC（航空管制）に起動許可を申請します。\
+1. [\\]を押して、通信メニューを開く。\
+2. [F5]を押してATCを選択する。\
+3.[ F1]を押して、現在のエアベースであるVazianiを選択します。\
+4.[ F3]を押して起動をリクエストします。\
+\
+Vazianiが起動を許可したら、[\\]を押して通信メニューを閉じ、スペースバーを押して続行します。",
+    ["DictKey_UnitName_29"] = "Pilot #001",
+    ["DictKey_WptName_353"] = "",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_WptName_244"] = "",
+    ["DictKey_WptName_365"] = "",
+    ["DictKey_UnitName_176"] = "",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_GroupName_60"] = "Vaziani Static #004",
+    ["DictKey_UnitName_89"] = "Pilot #009",
+    ["DictKey_WptName_371"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_UnitName_247"] = "Unit #017",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_WptName_293"] = "",
+    ["DictKey_UnitName_154"] = "",
+    ["DictKey_UnitName_9"] = "Wingman",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_ActionText_525"] = "AWACS（マジック1-1）。Enfield 1-1, Magic, Senaki 空軍基地が被害を受けた!",
+    ["DictKey_UnitName_44"] = "Pilot #004",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_UnitName_243"] = "Pilot #001",
+    ["DictKey_UnitName_221"] = "",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_UnitName_250"] = "Pilot #005",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_UnitName_192"] = "",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_WptName_320"] = "",
+    ["DictKey_UnitName_388"] = "Senaki Static #026",
+    ["DictKey_ActionText_108"] = "イーグルの操縦には、ノーズギア・ステアリングを使用します。左に曲がるときは[Z]、右に曲がるときは[X]のラダーコントロールで操縦してください。\
+\
+エンジンの始動が完了したら、スペースバーを押して続行してください。",
+    ["DictKey_WptName_479"] = "",
+    ["DictKey_UnitName_195"] = "",
+    ["DictKey_ActionText_109"] = "",
+    ["DictKey_UnitName_13"] = "",
+    ["DictKey_subtitle_517"] = "AWACS（マジック1-1）。エンフィールド1-1、マジック、ストライクパッケージが迫ってきています",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_GroupName_126"] = "Su-25 landing",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_GroupName_167"] = "",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_ActionText_497"] = "ミッション完了! ここでミッションを終了してもいいし、セナキに戻って着陸してもいい。",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_WptName_356"] = "",
+    ["DictKey_UnitName_172"] = "",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_UnitName_31"] = "Pilot #003",
+    ["DictKey_UnitName_349"] = "Senaki Static #010",
+    ["DictKey_GroupName_141"] = "Humvee",
+    ["DictKey_UnitName_352"] = "Senaki Static #010",
+    ["DictKey_GroupName_242"] = "F-14s",
+    ["DictKey_ActionText_86"] = "次に、左コンソールのハイライトされた「T/Oトリム」ボタンとランプを見てください。このボタンを押すと、ピッチ、ロール、ヨーの各トリムが離陸時の標準設定にリセットされます。ランプが点灯するまで[左Alt + T]を押し続けます。\
+\
+(このステップをスキップしても離陸することができます。スティックをもっと引く必要があります。)\
+\
+準備ができたらスペースバーを押してください。",
+    ["DictKey_UnitName_391"] = "Senaki Static #024",
+    ["DictKey_UnitName_189"] = "",
+    ["DictKey_UnitName_245"] = "Pilot #003",
+    ["DictKey_UnitName_397"] = "Senaki Static #029",
+    ["DictKey_ActionText_514"] = "Mission failed.",
+    ["DictKey_UnitName_433"] = "Senaki Static #037",
+    ["DictKey_WptName_344"] = "",
+    ["DictKey_GroupName_51"] = "New Airplane Group #003",
+    ["DictKey_WptName_270"] = "",
+    ["DictKey_WptName_416"] = "",
+    ["DictKey_GroupName_153"] = "",
+    ["DictKey_UnitName_346"] = "Senaki Static #010",
+    ["DictKey_UnitName_238"] = "Unit #014",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_WptName_425"] = "",
+    ["DictKey_UnitName_16"] = "",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_UnitName_447"] = "Su-24 #002",
+    ["DictKey_GroupName_36"] = "New Airplane Group #002",
+    ["DictKey_WptName_231"] = "",
+    ["DictKey_WptName_419"] = "",
+    ["DictKey_ActionText_48"] = "電源が入ると、ヘッドアップディスプレイ（HUD）が表示され、多くの計器やコックピットの照明が点灯するのがわかります。\
+\
+スロットルがアイドリング状態になっていることを確認し、[右Shift + Home]を押すと両エンジンが始動します。",
+    ["DictKey_ActionText_522"] = "AWACS（マジック1-1）。エンフィールド1-1、マジック、すべての敵機に命中したか、離脱している!",
+    ["DictKey_UnitName_358"] = "Senaki Static #010",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_ActionText_111"] = "タラップの端までタクシーで行き、誘導路を左折して滑走路に入ります。スピードが出すぎている場合は、ブレーキ[W]を使ってください。",
+    ["DictKey_WptName_359"] = "",
+    ["DictKey_WptName_368"] = "",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_WptName_362"] = "",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_UnitName_174"] = "",
+    ["DictKey_UnitName_325"] = "",
+    ["DictKey_UnitName_37"] = "Pilot #004",
+    ["DictKey_WptName_434"] = "",
+    ["DictKey_ActionText_83"] = "次に、[右Shift + L]を押して電源をオンにします。",
+    ["DictKey_ActionText_85"] = "[F]を押すとフラップが下がります。",
+    ["DictKey_subtitle_494"] = "AWACS（マジック1-1）。エンフィールド1-1、マジック1-1、全て敵機が被弾したか、離脱している!",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_WptName_440"] = "",
+    ["DictKey_UnitName_98"] = "",
+    ["DictKey_WptName_383"] = "",
+    ["DictKey_GroupName_438"] = "Su-24 ground attack #002",
+    ["DictKey_UnitName_266"] = "",
+    ["DictKey_ActionText_118"] = "おめでとうございます。あなたは今、イーグルで始動し、離陸したところです!\
+\
+滑走路の長さや急いでいる状況に応じて、スロットルをMILまたはMAX（アフターバーナー）にして離陸することができます。\
+\
+これでこのレッスンは終了です。Esc]を押すと、レッスンを終了することができます。",
+    ["DictKey_UnitName_241"] = "Unit #016",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_WptName_452"] = "",
+    ["DictKey_UnitName_334"] = "Senaki Static #010",
+    ["DictKey_descriptionBlueTask_3"] = "\"YOUR TASK:\
+-----------------\
+インターセプト\
+\
+\
+ミッションの開始時間です。\
+------------------------------\
+07:30 03/09/2020\
+\
+\
+オーバービュー   \
+----------------\
+ウェイポイント1に向かい、ストライクパッケージがセナキ基地にダメージを与える前に迎撃する。\
+\
+\
+Available HVAA:\
+------------------------\
+AWACS。マジック、BULL 80で8\
+\
+\
+LANDING \
+-------------------------\
+SENAKI、滑走路09\
+\
+\
+BULLS-EYE: \
+----------------\
+場所：SENAKI／WP3\
+\
+\
+PACKAGE ELEMENTS:\
+-----------------------------\
+→ エンフィールド-1 2×F-15Cインターセプト <-.\
+\
+\
+STEERPOINTS：\
+--------------------\
+1. インターセプト\
+2. 3,000フィートに接近\
+3. 着陸\
+\
+\
+PAYLOAD\
+--------------\
+8 x AIM-120C\
+100% gun\
+1 x 610 gal.tank\
+\
+\
+EXECUTION: \
+----------------- \
+北西から侵入してきた敵機をWP1付近で迎撃する。\
+\
+\
+脅威の評価\
+-------------------------------\
+攻撃的なBVR武装を持たない攻撃機が予想されます。しかし、彼らはおそらくWVRエンゲージメントが可能であるため、WVRレンジの外にいることが推奨される。\
+\
+\
+ROE。   \
+-------\
+あなたはすべての敵機と交戦するためにクリアしました。\
+\
+北からロシア領、南からトルコ領に入ってはならない。\
+\
+\
+DIVERT: \
+----------\
+Kutaisi",
+} -- end of dictionary
