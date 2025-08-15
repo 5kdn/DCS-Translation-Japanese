@@ -1,0 +1,242 @@
+dictionary = 
+{
+    ["DictKey_UnitName_89"] = "",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_GroupName_67"] = "New Static Object #004",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_GroupName_132"] = "New Static Object #004",
+    ["DictKey_UnitName_62"] = "New Static Object #001",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_GroupName_79"] = "New Static Object #008",
+    ["DictKey_UnitName_7"] = "CVN74",
+    ["DictKey_GroupName_73"] = "New Static Object #006",
+    ["DictKey_GroupName_88"] = "",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_GroupName_76"] = "New Static Object #007",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_WptName_43"] = "",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_sortie_5"] = "Carrier-based Procedures, Case I Departure",
+    ["DictKey_ActionText_146"] = "コントロールワイプアウトを実行します。 ワイプアウトは常に次の順序で行います。操縦桿を前方いっぱい、後方いっぱい、\
+左いっぱい、右いっぱい、ラダーを左いっぱい、そして右いっぱいに。\
+\
+ワイプアウトが完了し、ローンチの準備が整ったら、カタパルトショットを合図するために、シューターに敬礼（左Shift + U）\
+します。",
+    ["DictKey_ActionText_142"] = "ウイングスイープをAutoに設定します。",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_GroupName_6"] = "New Ship Group",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_ActionText_100"] = "",
+    ["DictKey_ActionText_84"] = "ボール",
+    ["DictKey_UnitName_74"] = "New Static Object #005",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_ActionText_143"] = "フラップを下げます。",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_ActionText_144"] = "トリムを約2度ノーズアップに設定します。\
+\
+続行するにはSpaceキーを押します",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_153"] = "ローンチ中の問題を回避するために、あなたは慎重にカタパルトトラックと機体の軸線をそろえる必要があります。\
+\
+舷側の赤いマークに左肩を合わせます。\
+所定の位置についたら、カタパルトに接続するために、ノーズストラットスイッチを下に押してノーズホイールをたたむ\
+必要があります。  \
+\
+カタパルトに接続するために「U」キーを押します。 機体がフックアップされると、後方のジェットブラストデフレクターが\
+上がります。  \
+\
+続行するにはSpaceキーを押します。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_GroupName_91"] = "New Helicopter Group",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_ActionText_137"] = "空母からのCase Iデパーチャーは、晴天時に使用される方法です。\
+\
+ローンチ後は、20度の転針をすることで空母の前方を避けてクリアにし、その後、ヘディングを空母のベースリカバリー\
+コース（BRC）（進行方向）に戻します。\
+\
+高度は500フィート以下を維持し、対気速度は約300ノットです。\
+\
+空母から7海里離れたら、あなたは自由に上昇し任務に進むことができます。 この離艦パターンは、空母周辺で着艦の\
+やり直しや旋回待機をしている他の航空機との衝突回避を可能にします。",
+    ["DictKey_GroupName_120"] = "New Static Object #004",
+    ["DictKey_ActionText_15"] = "テスト",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_UnitName_105"] = "Pilot #002",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_UnitName_133"] = "",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_GroupName_117"] = "New Static Object #003",
+    ["DictKey_ActionComment_101"] = "DictKey_ActionComment_101",
+    ["DictKey_UnitName_127"] = "New Static Object #009",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_UnitName_59"] = "",
+    ["DictKey_ActionText_98"] = "パイロット：\
+ランディングチェックリスト\
+\
+ウィングスイープ：20°、オート\
+ホイール：スリーダウン\
+SAS：オン\
+フラップ：フルダウン\
+DLC：チェック\
+フック：ダウン\
+ハーネス：ロック\
+スピードブレーキ：展張\
+ブレーキ：チェック\
+燃料：4.1\
+\
+RIO：\
+チェックリストコンプリート",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_UnitName_80"] = "New Static Object #007",
+    ["DictKey_GroupName_111"] = "Gunfighter 2-1",
+    ["DictKey_GroupName_70"] = "New Static Object #005",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_ActionText_141"] = "マスターリセットを押すと、スロットルのウィングスイープコントロールが機能します。 \
+手動ウィングスイープレバーを使用した後は毎回これが必要です。",
+    ["DictKey_UnitName_9"] = "Carr",
+    ["DictKey_ActionText_140"] = "ウィングスイープハンドルを中間点付近まで前方に動かしてから、ハンドルを下げてロックします。\
+カバーを閉めます。",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_descriptionText_1"] = "",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_ActionText_139"] = "緊急ウィングスイープハンドルカバーを開きます。",
+    ["DictKey_GroupName_126"] = "New Static Object #003",
+    ["DictKey_UnitName_118"] = "New Static Object #002",
+    ["DictKey_GroupName_104"] = "AI flight",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_ActionText_136"] = "TACANのチャンネルを74Xに調整し、TACANがPDCPのステアリングソースとして選択されていることを確認します。\
+\
+ここで、HSDのコースノブを回して空母のBRCに合わせておきます。これは、出発時に空母からの正しい方位を保つのに\
+役立ちます。 今回の場合、空母のBRCは325°です。\
+\
+HUDとVDIは、BDHIと同様に最大30度の偏差を示すかもしれないことに注意してください。 これは、空母の磁場によって\
+計器が妨害され、艦上でのポジションによって誤差が生じる可能性があるためです。\
+\
+磁気偏差は、テイクオフ後少し経てば、またはコンパスコントロールパネルのHDGノブを押したままにしてまっすぐ水平に\
+飛行すれば解消されます。\
+\
+続行するにはSpaceキーを押します。",
+    ["DictKey_UnitName_124"] = "New Static Object #008",
+    ["DictKey_UnitName_11"] = "Hue",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_GroupName_58"] = "New Static Object #001",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_ActionText_148"] = "空母から7海里の距離に到達したら、高度500フィートを超えて上昇し、個別のナビゲーションを再開することが許されます。\
+\
+これでチュートリアルは終了です。 次のレッスンはケース1ランディングチュートリアルです。 しかし、恐れることはありません、\
+Tomcatはきっとあなたを元気にしてくれます。",
+    ["DictKey_UnitName_68"] = "New Static Object #002",
+    ["DictKey_UnitName_112"] = "Gunfighter 21",
+    ["DictKey_GroupName_64"] = "New Static Object #003",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_UnitName_10"] = "Reuben ",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_UnitName_115"] = "New Static Object #001",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_ActionText_145"] = "スロットルをMIL（最大ドライ推力）まで進めます。 F-14Bの場合、空母からのローンチはミリタリーパワーのみで\
+行います。\
+もし必要がある場合は、トムキャットのローンチの最後にのみアフターバーナーを追加してください。",
+    ["DictKey_GroupName_61"] = "New Static Object #002",
+    ["DictKey_ActionText_102"] = "よくやったパイロット、あなたは空母にTomcatを着陸させた。\
+フックを上げ、フラップアップ、ウィングをスイープしてください。 ノーズホイールステアリングをオンにします。 \
+右にタキシングします。 アプローチの成績と統計については、ゲーム内のニーボードで調べることができます。\
+\
+これでチュートリアルは終了です。 チュートリアルを終了するか、更なるトライアルのために再び離陸することも\
+できます。",
+    ["DictKey_ActionText_135"] = "おはようパイロット！ 今日、あなたは空母からF-14B tomcatを始動する方法を学びます！ 今日の手順は\
+Case Iのデパーチャーパターンに従います。 \
+\
+フライトの前にブリーフィング図を確認してください。",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_GroupName_123"] = "New Static Object #009",
+    ["DictKey_ActionText_97"] = "OK、さあ行きますよ、左旋回し、ターンしながら800フィートを維持してください。",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_UnitName_92"] = "Pilot #001",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_ActionText_166"] = "約20度の転針で、左へのクリアターンを実行し、すぐに右旋回でBRCへ戻します。\
+\
+ランディングギアとフラップを上げます。 300ノットを維持し、500フィート以下にとどまるようにしてください。\
+垂直速度計またはHUDで垂直速度を見てください。",
+    ["DictKey_UnitName_107"] = "Pilot #003",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_GroupName_12"] = "Gunfighter 2-1",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_WptName_31"] = "",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_ActionComment_83"] = "DictKey_ActionComment_83",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_UnitName_71"] = "New Static Object #004",
+    ["DictKey_GroupName_114"] = "New Static Object #002",
+    ["DictKey_UnitName_121"] = "New Static Object #002",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_UnitName_13"] = "111",
+    ["DictKey_UnitName_77"] = "New Static Object #006",
+    ["DictKey_UnitName_65"] = "New Static Object #002",
+    ["DictKey_descriptionBlueTask_3"] = "F-14B 第101戦闘飛行隊「グリムリーパーズ（死神）」\
+111号機、コールサイン「ガンファイター2-1」\
+機内燃料100％、空のドロップタンク\
+\
+本日は、空母からTomcatを始動する方法を学びます。 \
+Case Iのデパーチャーパターンを使用しますので、フライト前にブリーフィング図をよく理解してください。\
+",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_ActionText_99"] = "パイロット：\
+こちら111号機、トムキャット、ボール視認、燃料4.1\
+\
+ワイヤーを捉え損ねて、ゴーアラウンドしなければならない場合に備え、デッキに触れる直前にパワーを入れるのを\
+忘れないでください。",
+    ["DictKey_ActionText_82"] = "",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_ActionText_96"] = "こんにちはパイロット、本日はF-14Bの着艦資格取得訓練1日目です！\
+\
+フライトの前にブリーフィング図を学習してください。 \
+Case Iは、晴天時の有視界ランディングの手順であり、以前に使用したFCLPパターンと非常に似ていますが、\
+着陸エリアのサイズとアレスティングギアが異なります。  \
+あなたのRIOがチェックリストを手伝ってくれるでしょう。\
+\
+あなたは空母へのイニシャル位置に並んでいます。 以前のチュートリアルのように、一連のゲートがあなたを\
+着艦パターンに導く助けになるでしょう。 空母は静止していますが、強い風がデッキに吹き下ろしています。\
+グライドパスを調整するために、DLCが使用できることを忘れないでください。\
+\
+あなたが望むならば、アレステッドランディングのためにフックを下げるか、または複数回タッチアンドゴーを\
+試してみたければそれを上げたままにしてください。",
+    ["DictKey_ActionText_138"] = "左側にいるTomcatと同様に、あなたの機体はデッキ中央のカタパルト3から射出されます。\
+ノーズホイールステアリングをオンにし、カタパルトの後方にタキシングします。 \
+差動ブレーキを使用して回転半径を小さくすることができます。",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_ActionText_147"] = "約20度の転針で、左へのクリアターンを実行し、その後右旋回でBRCへ戻します。\
+\
+ランディングギアとフラップを上げます。 300ノットを維持し、500フィート以下にとどまるようにしてください。\
+垂直速度計またはHUDで垂直速度を見てください。",
+} -- end of dictionary

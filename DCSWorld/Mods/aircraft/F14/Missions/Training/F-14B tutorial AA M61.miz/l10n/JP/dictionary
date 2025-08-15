@@ -1,0 +1,80 @@
+dictionary = 
+{
+    ["DictKey_UnitName_14"] = "Pilot #003",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_ActionText_40"] = "",
+    ["DictKey_GroupName_30"] = "Candid #002",
+    ["DictKey_GroupName_22"] = "Flogger",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_ActionComment_54"] = "DictKey_ActionComment_54",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_GroupName_9"] = "Gunfighter 2-1",
+    ["DictKey_ActionText_49"] = "レーダーを使用して射撃ソリューションを追跡および計算する場合は、ADLクロスをターゲットの上に重ねます。  \
+\
+スロットルのPLMボタンを押してPLMモードを起動します。 WCSはADLクロスの周りの小さな円形の領域で5マイル以内のターゲットを追跡しようとします。  \
+\
+ロックされると、ダイヤモンドがターゲット上または近くに配置されます。 ピパーは現在のターゲットレンジでのインパクトポイントを示します。\
+\
+あと必要なのは、ピパーをターゲット上にっ持って行き、トリガーを引くだけです。\
+\
+スペースバーを押して一時停止を解除し、あなたの目の前の航空機を攻撃してください！",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_UnitName_7"] = "Pilot #001",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_ActionComment_46"] = "DictKey_ActionComment_46",
+    ["DictKey_ActionComment_48"] = "DictKey_ActionComment_48",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_UnitName_27"] = "Pilot #005",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_UnitName_18"] = "Pilot #003",
+    ["DictKey_UnitName_23"] = "Pilot #004",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_ActionText_43"] = "まず、カバーを開けてスイッチをONにすることでマスターアームをオンにします。",
+    ["DictKey_sortie_5"] = "F-14B tutorial Weapons Employments M61",
+    ["DictKey_ActionText_47"] = "スティック上のウェポンセレクタースイッチを1回押してGunを選択します。  \
+\
+GunのシンボルとHUDの下部にある武器の凡例に「G6」が表示されます。 GはGunが選択されていることを示し、6は残りの弾薬を100発単位で示しています。\
+\
+ピパーは1000フィートの距離でのショットの落下を示し、ダイヤモンドは2000フィートの距離でのそれを示します。\
+\
+デフォルトではガンサイトはケージ解除されています、望むならCAGE / SEAMボタンを押すことでそれを固定することができます。",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_ActionComment_52"] = "",
+    ["DictKey_ActionComment_50"] = "DictKey_ActionComment_50",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_UnitName_31"] = "Pilot #006",
+    ["DictKey_GroupName_6"] = "Tiger",
+    ["DictKey_UnitName_17"] = "Drone 1",
+    ["DictKey_UnitName_10"] = "Gunfighter 2-1",
+    ["DictKey_GroupName_16"] = "Candid",
+    ["DictKey_descriptionText_1"] = "F-14Bトムキャット、第101戦闘飛行隊「グリムリーパーズ（死神）」\
+機内燃料100％、空のドロップタンク、20mm弾　676発\
+\
+今日のチュートリアルでは、M61 20mm機関砲の空対空使用について説明します。 また、ボアサイト　パイロットロックオンモード（PLM）の使用についても説明します。 マニュアルの関連セクション、特にWeapons Employment Overviewをよく読んでください。\
+\
+学習目標：\
+空対空機能でのM61ガトリングガンの使用\
+パイロットロックオンモードの使用\
+\
+ターゲット： \
+Il-76「キャンディッド」ドローン：SUKHUMI空港上空10.000フィート旋回 （WP1）\
+F-5E-3「タイガー」ドローン：　GALI貯水池上空15.000フィート旋回（WP2）\
+MiG-23「フロッガー」パッシブディフェンス：グダウタ空軍基地上空20.000フィート旋回（WP3）",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionComment_41"] = "DictKey_ActionComment_41",
+    ["DictKey_ActionText_51"] = "",
+    ["DictKey_ActionComment_44"] = "DictKey_ActionComment_44",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_45"] = "ディスプレイモードをAir-to-Airに設定します。",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_ActionText_53"] = "おめでとうございます、あなたは最初のドローンを撃墜しました！ あなたがより多くの空対空機銃を練習したいならば、ウェイポイント2と3にさらにターゲットがあります。 これでチュートリアルは終了です。",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_ActionText_42"] = "ウェルカム、パイロット！ このレッスンでは、Tomcatの機銃を空対空モードで使用する方法を学びます。 F-14は676発装填可能な胴体の左側にマウントされている1基のM61 20mm機銃を備えています。 しかし、訓練の目的で、あなたは無制限の弾薬を与えられました。 \
+\
+ ガンはACMパネルのガンレートボタンで選択可能な、毎分4または6000ラウンドの2つの射撃レートで射撃できます。 現在あなたの前方に１機のターゲットドローンがあります。",
+} -- end of dictionary
