@@ -1,0 +1,122 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "北西に向かい捜索区域へ向かってください。\
+\
+救助を支援するため、補給船「Ievoli Ivory」およびLNG船「Horizon」がすでに捜索区域に向かっています。爆発の危険性があるため、沈没船から最低1nmの距離を保っています。\
+\
+危険は承知の上で捜索区域に入る必要があります...。",
+    ["DictKey_ActionRadioText_21"] = "LIFEBOAT DELIVERED TO VESSEL",
+    ["DictKey_ActionText_29"] = "",
+    ["DictKey_ActionText_162"] = "救命ボート残り3艘...。",
+    ["DictKey_ActionText_73"] = "メーデー、メーデー、メーデー\
+こちらケミカルタンカー ボウ・プレシジョン \
+\
+メーデー、ボウ・プレシジョン...\
+\
+私の位置はグアムの北西です\
+\
+船は沈んでいる 爆発の危険がある 至急 救助をお願いします\
+\
+18人が乗船しており 数人が深刻な状態です\
+\
+救命ボートを使用中です",
+    ["DictKey_ActionRadioText_158"] = "LIFE RAFT 6",
+    ["DictKey_ActionText_66"] = "患者を搬出しました。 \"Antonio B. Won Pat\"空港に戻ってください。東へ2nm",
+    ["DictKey_ActionText_120"] = "救助者を降ろします... 待機してください。",
+    ["DictKey_ActionText_14"] = "捜索区域に近づいています。LNG船 \"ホライズン \"が白色照明弾を打ち上げ、捜索区域を照らします。\
+\
+ボウ・プレシジョン号の船長から、合計6隻の救命ボートを進水させたと報告がありました。\
+\
+救命ボートの位置を確認し、上空でホバリングして人々をピックアップしてください。。\
+\
+捜索船のヘリポートに着艦し、救助された人を病室に運んで治療を受けさせます。",
+    ["DictKey_ActionText_23"] = "",
+    ["DictKey_ActionText_160"] = "救命ボート残り5艘...。",
+    ["DictKey_ActionRadioText_32"] = "LIFEBOAT 1 PICKED UP",
+    ["DictKey_ActionRadioText_125"] = "Pickup #2",
+    ["DictKey_ActionText_11"] = "",
+    ["DictKey_ActionRadioText_132"] = "Delivered #2",
+    ["DictKey_ActionRadioText_156"] = "113",
+    ["DictKey_ActionRadioText_127"] = "Pickup #4",
+    ["DictKey_ActionText_141"] = "患者を搬出中...",
+    ["DictKey_ActionText_117"] = "全員が搭乗しました。 補給艦に着艦してください。",
+    ["DictKey_ActionText_140"] = "患者を搬入中…",
+    ["DictKey_ActionText_164"] = "救命ボート残り1艘...。",
+    ["DictKey_ActionText_28"] = "負傷した人を乗せて病院に向かう",
+    ["DictKey_ActionText_163"] = "救命ボート残り2艘...。",
+    ["DictKey_ActionRadioText_129"] = "Pickup #6",
+    ["DictKey_ActionRadioText_17"] = "FLAG 5 (LEAVE AFB)",
+    ["DictKey_ActionRadioText_20"] = "FLAG 11.2 (ILL BOMB)",
+    ["DictKey_ActionText_22"] = "救命ボートから全員をピックアップしました。LNG船へ搬送してください。",
+    ["DictKey_ActionText_27"] = "",
+    ["DictKey_ActionText_108"] = "救命ボートから全員をピックアップしました。LNG船へ搬送してください。",
+    ["DictKey_ActionRadioText_81"] = "close to hospital",
+    ["DictKey_ActionText_83"] = "",
+    ["DictKey_ActionText_8"] = "補給船「Ievoli Ivory」は、救助された人々の受け入れ態勢が整っています。同船は、沈没船の西1nmの位置にいます。",
+    ["DictKey_ActionText_82"] = "まもなく病院へ到着します。着陸地点はオレンジのスモークが目印です。",
+    ["DictKey_ActionText_42"] = "",
+    ["DictKey_ActionText_40"] = "",
+    ["DictKey_ActionText_45"] = "全員が搭乗しました。 補給艦に着艦してください。",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_ActionText_76"] = "任務は捜索と救助です。我々の位置から北西にある捜索区域に飛んでください。\
+\
+船は赤色照明弾を発射し、位置の特定を支援します。",
+    ["DictKey_ActionText_161"] = "救命ボート残り4艘...。",
+    ["DictKey_ActionText_33"] = "救助者は降ろし終えて安全な場所にいます。",
+    ["DictKey_ActionText_16"] = "",
+    ["DictKey_ActionText_58"] = "離陸して次の指示を待ってください。",
+    ["DictKey_ActionRadioText_19"] = "FLAG 11.1 (ILL BOMB)",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_52"] = "",
+    ["DictKey_ActionText_62"] = "負傷者を乗せました。グアムの米海軍病院（南東10nm）へ搬送してください。着陸地点はオレンジのスモークが目印です。\
+\
+ヘリコプターは重い荷を積んでいることに注意してください!",
+    ["DictKey_ActionRadioText_133"] = "Delivered #3",
+    ["DictKey_ActionRadioText_63"] = "done and hovering between vessels",
+    ["DictKey_descriptionText_1"] = "ケミカルタンカー \"Bow Precision \"からメーデーコールを受けた。同船は沈没している。\
+\
+捜索区域に飛行し、水中から生存者を救出せよ。救出された人は、捜索活動に加わっている2隻の船に引き渡される。\
+\
+ミッション中はディスパッチから指令を受けることになる。\
+\
+FM40MHzで遭難信号を受信し、沈没船の位置を確認することも可能である。\
+\
+天候: 雲が切れ、北西の風が吹く。明るさに関しては、ミッション中に改善されると思われる。\
+\
+注意：ミッションの初期には、サーチライトや暗視ゴーグルを使用した方が良いだろう。\
+注意事項2：人をピックアップするとき、ヘリコプターは重くなる。",
+    ["DictKey_ActionText_37"] = "救助者を降ろします... 待機してください。",
+    ["DictKey_ActionText_35"] = "救命ボートから全員をピックアップしました。LNG船へ搬送してください。",
+    ["DictKey_ActionRadioText_78"] = "CLOSE TO SEARCH AREA - ILL BOMB",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_7"] = "こちらLNG船 \"ホライズン\"。沈没船の北側の位置にいます。救助者を受け入れる準備はできています。",
+    ["DictKey_ActionRadioText_70"] = "handed at airport",
+    ["DictKey_ActionText_114"] = "全員が搭乗しました。 補給艦に着艦してください。",
+    ["DictKey_ActionRadioText_18"] = "FLAG 10 (CLOSE TO SEARCH AREA)",
+    ["DictKey_ActionRadioText_64"] = "severly injured picked up",
+    ["DictKey_ActionText_111"] = "救助者を降ろします... 待機してください。",
+    ["DictKey_ActionRadioText_166"] = "99",
+    ["DictKey_ActionText_47"] = "救助者を降ろします... 待機してください。",
+    ["DictKey_ActionText_54"] = "",
+    ["DictKey_ActionRadioText_80"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionRadioText_126"] = "Pickup #3",
+    ["DictKey_ActionText_123"] = "救助者を降ろします... 待機してください。",
+    ["DictKey_ActionText_55"] = "",
+    ["DictKey_ActionText_60"] = "",
+    ["DictKey_ActionRadioText_124"] = "Pickup #1",
+    ["DictKey_ActionText_9"] = "救助者を降ろします... 待機してください。",
+    ["DictKey_ActionRadioText_134"] = "Leaving airport - Red flares",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionRadioText_131"] = "Delivered #1",
+    ["DictKey_ActionRadioText_38"] = "LIFEBOAT DELIVERED TO VESSEL",
+    ["DictKey_ActionRadioText_39"] = "LIFEBOAT 2 PICKED UP",
+    ["DictKey_ActionText_71"] = "こんにちは、機長。グアム島沖で沈没した船から 救難信号を受信しました。 通話を再生します",
+    ["DictKey_ActionRadioText_69"] = "handed at hospital",
+    ["DictKey_ActionText_50"] = "救命ボートに乗っていた人は全員救助されました。LNG船「ホライズンに重傷者6名がいます。陸上の病院施設に搬送するため、彼らをピックアップしてください。",
+    ["DictKey_ActionRadioText_128"] = "Pickup #5",
+    ["DictKey_ActionText_67"] = "ミッション完了です。お疲れ様でした！ヘリをシャットダウンして、クルーと一緒にビールを飲みに行きましょう！",
+    ["DictKey_ActionText_165"] = "",
+    ["DictKey_sortie_5"] = "Bow Presision - Search and Rescue",
+    ["DictKey_ActionRadioText_48"] = "LIFEBOAT 3 PICKED UP",
+} -- end of dictionary
