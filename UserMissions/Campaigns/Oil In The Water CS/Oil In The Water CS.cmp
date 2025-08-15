@@ -1,0 +1,320 @@
+campaign = 
+{
+    ["picture_EN"] = "Campaign Splash.png",
+    ["directory"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\",
+    ["startStage"] = 1,
+    ["picture"] = "Campaign Splash.png",
+    ["name_EN"] = "Oil In The Water [Cold Start]",
+    ["description_EN"] = "[これは COLD START 版です。全てのミッションは 空母の上で COLD and DARKで始まります。]\
+\
+新たな核兵器禁止条約の進展が頓挫し、一連の未解決爆破事件がオマーン湾の石油タンカーに被害を与える中、イランと米国の間に緊張が高まっている。2019年5月と6月の出来事と1987年と1988年のタンカー戦争に触発された一連の対立で紛争が全面戦争にエスカレートする中、ペルシャ湾で USS George Washington の空母航空旅団の一員として米海軍の F/A-18C Hornet を操縦する。\
+\
+キャンペーン スコアーリング：撃墜されずにミッションを終了し、END MISSIONを選択した場合、目的を達成したかどうかに関わらず、キャンペーンの次のミッションに進むことになる。すぐにミッションに再挑戦したい場合は、「FLY AGAIN」を選択し、後で戻ってミッションに再挑戦したい場合は、「CLOSE」を選択し、進行状況が失われることを確認してください。目標を達成することなく撃墜された場合、再度ミッションに挑戦することになります。",
+    ["necessaryUnits"] = 
+    {
+        ["FA-18C_hornet"] = "FA-18C_hornet",
+    }, -- end of ["necessaryUnits"]
+    ["pictureSuccess_EN"] = "OitW Campaign Win New.png",
+    ["pictureFailed"] = "OitW Campaign Loss.png",
+    ["pictureSuccess"] = "OitW Campaign Win New.png",
+    ["stages"] = 
+    {
+        [15] = 
+        {
+            ["name"] = "Stage 15",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18_OitW_14_Praying Mantis.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\FA-18_OitW_14_Praying Mantis.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+        [13] = 
+        {
+            ["name"] = "Stage 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18_OitW_12_Silkworm.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\FA-18_OitW_12_Silkworm.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "Stage 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18_OitW_06_Qeshm DEAD.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\FA-18_OitW_06_Qeshm DEAD.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] = 
+        {
+            ["name"] = "Stage 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18_OitW_00_Transit.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\FA-18_OitW_00_Transit.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18_OitW_01_Sea Isle City.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\FA-18_OitW_01_Sea Isle City.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18_OitW_03_Stark.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\FA-18_OitW_03_Stark.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] = 
+        {
+            ["name"] = "Stage 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18_OitW_07_Sub Strike.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\FA-18_OitW_07_Sub Strike.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [16] = 
+        {
+            ["name"] = "Stage 16",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18_OitW_15_Abu Musa.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\FA-18_OitW_15_Abu Musa.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [16]
+        [9] = 
+        {
+            ["name"] = "Stage 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18_OitW_08_S-300.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\FA-18_OitW_08_S-300.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] = 
+        {
+            ["name"] = "Stage 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18_OitW_04_Prime Chance.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\FA-18_OitW_04_Prime Chance.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Stage 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18_OitW_09_Minhad CAP.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\FA-18_OitW_09_Minhad CAP.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [14] = 
+        {
+            ["name"] = "Stage 14",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18_OitW_13_B2Z.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\FA-18_OitW_13_B2Z.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+        [3] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18_OitW_02_Great Prophet.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\FA-18_OitW_02_Great Prophet.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] = 
+        {
+            ["name"] = "Stage 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18_OitW_05_Nimble Archer.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\FA-18_OitW_05_Nimble Archer.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Stage 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18_OitW_11_Desert Cats.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\FA-18_OitW_11_Desert Cats.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [11] = 
+        {
+            ["name"] = "Stage 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18_OitW_10_Peace Ruby.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\FA-18_OitW_10_Peace Ruby.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+    }, -- end of ["stages"]
+    ["version"] = 1,
+    ["name"] = "Oil In The Water [Cold Start]",
+    ["pictureFailed_EN"] = "OitW Campaign Loss.png",
+    ["fullPath"] = "C:\\Users\\Alex_2\\Saved Games\\DCS\\Missions\\Campaigns\\en\\Oil In The Water CS\\Oil In The Water CS.cmp",
+    ["description"] = "[これは COLD START 版です。全てのミッションは 空母の上で COLD and DARKで始まります。]\
+\
+新たな核兵器禁止条約の進展が頓挫し、一連の未解決爆破事件がオマーン湾の石油タンカーに被害を与える中、イランと米国の間に緊張が高まっている。2019年5月と6月の出来事と1987年と1988年のタンカー戦争に触発された一連の対立で紛争が全面戦争にエスカレートする中、ペルシャ湾で USS George Washington の空母航空旅団の一員として米海軍の F/A-18C Hornet を操縦する。\
+\
+キャンペーン スコアーリング：撃墜されずにミッションを終了し、END MISSIONを選択した場合、目的を達成したかどうかに関わらず、キャンペーンの次のミッションに進むことになる。すぐにミッションに再挑戦したい場合は、「FLY AGAIN」を選択し、後で戻ってミッションに再挑戦したい場合は、「CLOSE」を選択し、進行状況が失われることを確認してください。目標を達成することなく撃墜された場合、再度ミッションに挑戦することになります。",
+} -- end of campaign
