@@ -1,0 +1,347 @@
+dictionary = 
+{
+    ["DictKey_ActionText_29"] = "ターゲットを外した\
+\
+3番目のターゲットへ向かえ。",
+    ["DictKey_ActionText_43"] = "TGT 3 撃破 \
+\
+",
+    ["DictKey_ActionText_215"] = "ターゲットはクリムスク空軍基地の駐機場にいるA-50 MAINSTAYです。この早期警戒機は最後の偵察時から移動しています。それを見つけてATFLIRポッドで照準し、ターゲットデータをJSOWに送る必要があります。\
+\
+STA 3になっていることを確認し、PB 5でTOOにセットします。",
+    ["DictKey_ActionText_121"] = "DELETE",
+    ["DictKey_ActionText_169"] = "JDAMが向かっている間、ATFLIRで目標エリアを監視し、ATFLIRポッドから目標エリアが見えるように操縦し続けます。",
+    ["DictKey_ActionText_95"] = "左DDIで、PB 6 J-82を選択してGPS兵器画面を表示し、次にPB 11 JDAM DSPLYを選択します。",
+    ["DictKey_ActionText_19"] = "",
+    ["DictKey_ActionText_26"] = "失敗：少なくとも2つのターゲットに命中させることが出来ませんでした。 再度トライしてください。\
+\
+ESCキーを押してトレーニングを終了してください。",
+    ["DictKey_ActionText_38"] = "JDAMS Away（JDAM投下） - F6",
+    ["DictKey_ActionText_68"] = "AGM-154CをSTA8（デフォルトで最初に表示されている）から始めます、PB 4 MSNを押してください。",
+    ["DictKey_ActionText_155"] = "DELETE",
+    ["DictKey_ActionText_105"] = "この時点であなたの仕事は完了し、あとはJSOWに任せます。\
+\
+400KIAS以下に減速してください。\
+\
+AP HSEL BALTをセットし、WPDSGで WYPT 1を指定して、ATFLIRにターゲットエリアを表示させます。\
+\
+ATFLIRポッドからターゲットエリアが見えるように飛行を続けてください。",
+    ["DictKey_ActionText_91"] = " ",
+    ["DictKey_ActionText_30"] = "",
+    ["DictKey_ActionText_78"] = "左上隅にSTA 2が表示されているはずです。これはPP1にプログラムされます。(すべてのPPスロットは単独のウイングステーションに割り当てられていることを覚えておいてください。) \
+\
+PB 14（UFC TGT）を選択します。",
+    ["DictKey_ActionText_11"] = "Bomb Away（爆弾投下）",
+    ["DictKey_ActionText_22"] = "成功： 3つのターゲット全てに攻撃が成功しました。あなたはJSOWの使い方を習得しました。\
+\
+ESCキーを押してレッスンを終了してもよいし、スペースキーを押して飛行を続けてもかまいません。",
+    ["DictKey_ActionText_189"] = "すぐに左DDIからステップでSTA 2へ切り替える。\
+\
+右のDDIで、2番目のSCUD TELの上にTDCを合わせる。\
+\
+ウェポンリリースボタンを押し、STA2からJDAMを1発投下します。",
+    ["DictKey_ActionText_21"] = "ターゲットを外した\
+",
+    ["DictKey_ActionText_107"] = "JSOWがターゲットエリアに入りました。\
+\
+アクティブポーズはONになっています。\
+\
+ATFLIRで爆撃の結果を確認して、確認が終わったらスペースキーを押して続けてください。",
+    ["DictKey_sortie_5"] = "FA-18C JSOW Employment",
+    ["DictKey_ActionText_141"] = "1.11111111111111E+15",
+    ["DictKey_ActionText_20"] = "少なくとも1つのターゲットに命中しなかった。\
+\
+2番目のターゲットへ向かえ。",
+    ["DictKey_ActionText_24"] = "ターゲットに命中しなかった",
+    ["DictKey_ActionText_117"] = "画面左上で STA 7が選択されていることを確認してください。\
+\
+次にPB 4 MSN を押します。",
+    ["DictKey_ActionText_50"] = "sdgsdfgsdfg",
+    ["DictKey_ActionText_196"] = "Good Luck",
+    ["DictKey_ActionText_211"] = "...そしてPB3のINSTでInstantaneous Detonation（即時起爆）にします。",
+    ["DictKey_ActionText_89"] = "ランディングギアを上げ、フラップをアップにし、MILパワーにスロットルを絞った後、10度から15度の上昇を行い、APをCPLにセットします。\
+\
+この設定が完了したら、スペースキーを押して続けます。",
+    ["DictKey_ActionText_163"] = "sdgsdfgsdfg",
+    ["DictKey_ActionText_93"] = "左DDIでPB 6 J-82を選択してGPS兵器画面を表示し、次にPB 11 JDAM DSPLYを選択します。\
+\
+A/G モードにセット",
+    ["DictKey_ActionComment_31"] = "DictKey_ActionComment_31",
+    ["DictKey_ActionText_142"] = "222222222222222",
+    ["DictKey_ActionText_171"] = "JSOWが向かっている間、ATFLIRで目標エリアを監視し、ATFLIRポッドから目標エリアが見えるように右に機動します。",
+    ["DictKey_ActionText_139"] = "As you continue, set throttle to Full Military power, ensure you are still in AP CPL, cancel AP BALT hold and begin a climb to 20,000 feet MSL. \
+\
+As you steady up on that heading, press the SPACEBAR to resume JDAM configuration.",
+    ["DictKey_ActionText_60"] = "",
+    ["DictKey_ActionText_119"] = "これはウェイポイント2のtarget of opportunity（TOO）です。\
+\
+HSI で WYPT 2 に切り替えます。\
+\
+ウェイポイント2をターゲットに指定します (WPDSG)。\
+\
+続けるには、スペースキーを押してください。",
+    ["DictKey_ActionText_203"] = "\
+(  スペースキーを押して、このレビューを終了する )",
+    ["DictKey_descriptionText_1"] = "このレッスンでは、JSOW(Joint Stand Off Weapon; AGM-154AおよびAGM-154C)をPP(Pre-Planed)モードとTOO(Target of Opportunity)モードの両方で使用することを学ぶ。\
+[ この訓練は、トレーニング・レッスンFA-18C GPS兵器データ入力を学習していることが前提となっている。］",
+    ["DictKey_ActionText_187"] = "ターゲットに向かって旋回し、410KIASを維持します。\
+\
+ATFLIRで目標エリアが見えたら、ATFLIR SOIを行います。(HOTAS SCS 右ショート)\
+\
+ATFLIR SCENEにセットします。 ( 再度 HOTAS SCS 右ショート)\
+\
+ウェイポイント3は 大型機駐機場付近です。TDCを使用して、駐機場にいるターゲット機を探してください。\
+\
+ターゲットを見つけたら、トリガーを短く引いてレーザーを照射し、TDCボタンを押してターゲットを指定します。\
+\
+これでターゲットは指定された状態になりました。\
+\
+射程内に入ったら、JSOWを投下してください。",
+    ["DictKey_ActionText_84"] = "At this point it is good practice to check the entered data one last time. Using STEP, shift back and forth between STA 2 and STA 8, the PP1 and PP2 are both active and set for the proper station. When you are done, set STEP to STA 8.\
+\
+Then press PB 19 RETURN.",
+    ["DictKey_ActionText_183"] = "",
+    ["DictKey_ActionText_109"] = "次の目標は野戦配備の砲兵小隊です。 AGM-154Aを一発使用し、4つの自走榴弾砲の中央を狙います。目標達成には、少なくとも2つの砲を破壊するか、致命的なダメージを与えることが必要です。\
+\
+攻撃目標はWYPT2です。TOO 攻撃を使用します。 \
+\
+左DDIでPB 18 MENUを押し、PB 5 STORESとPB 7 JSAを押します。",
+    ["DictKey_ActionText_173"] = "JSOW がターゲットエリアに入りました。\
+\
+アクティブポーズがオンになっています。\
+\
+ATFLIRで攻撃結果を確認してから、スペースキーを押して続けます。",
+    ["DictKey_ActionText_175"] = "3 番目の攻撃は WYPT 3 付近のターゲットに対して行ないます。\
+\
+HSIで：WTPT3にステップし、それをターゲットに指定します（WPDSG）。\
+\
+HDGバグをターゲットの方位に合わせます。\
+\
+AP HSEL BALTがセットされていることを確認します。\
+\
+(注意：ターゲットに向かって旋回すると、相対方位はドリフトします。時々HDGバグをターゲットの方位に修正してください)。\
+\
+完了したらスペースキーを押してください。",
+    ["DictKey_ActionText_99"] = "Press PB 11 and PB 14 to select STA 8 and STA 2.\
+\
+Note: Only one JDAM will drop from each station for each pickle.\
+",
+    ["DictKey_ActionText_181"] = "DELETE",
+    ["DictKey_ActionText_9"] = "Bomb Away（爆弾投下）",
+    ["DictKey_ActionText_193"] = "BDAを分析中。少し待って下さい。",
+    ["DictKey_ActionText_82"] = "データの入力をチェックして、すべてが正しいことを確認したら（ニーボードJSOWデータカードを使用する）、\
+PB 19 RETURN を押します。",
+    ["DictKey_ActionText_42"] = "TGT 2撃破 \
+\
+ターゲット3の攻撃準備",
+    ["DictKey_ActionText_191"] = "JSOW発射後、ターゲットへの直進をやめてATFLIRの視界にターゲットが入るように飛行します。\
+\
+JSOWが爆散したら、スペースキーを押してください。",
+    ["DictKey_ActionText_213"] = "PB 5 を押してTOOに切り替えます。",
+    ["DictKey_ActionText_153"] = "これでアタックランを開始する準備が整いました。\
+\
+HSIでヘディングバグをターゲットの方位に合わせます。\
+\
+AP HSEL BALTがセットされていることを確認してください。\
+\
+ターゲットがHUDの視野内に入ると、地面の菱形のマークがターゲットを示し、ヘディングテープの小さな菱形がターゲット方位を示します。\
+\
+飛行を再開する準備ができたら、スペースキーを押してください。",
+    ["DictKey_ActionText_157"] = "",
+    ["DictKey_ActionText_143"] = "3.33333333333333E+23",
+    ["DictKey_ActionText_17"] = "Bomb Away（爆弾投下）",
+    ["DictKey_ActionText_144"] = "3.33333333333333E+15",
+    ["DictKey_ActionText_86"] = "You are just about ready to fly. However, there are a couple of \"housekeeping \"steps you may want to accomplish first.\
+\
+HSI (AMCP):\
+    - Clear the Map display (it clutters the JDAM symbology)\
+    - Set SEQ (compare JDAM target with flight plan)\
+    - Set AUTO (sets WP1 as active WP; allow auto WP switching)\
+\
+Right Console \
+    - Set FLIR to STBY (to begin warming up)\
+\
+After launch, begin a climbing left turn towards WP1\
+\
+When ready to launch, press the SPACEBAR and then take off (throttle to 100%).",
+    ["DictKey_ActionText_76"] = "次の手順はSTA 2の設定です。\
+\
+PB 13の STEPを押します。",
+    ["DictKey_ActionText_185"] = "ターゲットの正確な位置を特定するために、 laser target designator and  range finder (LTD/R) を使用します。\
+\
+右サイドパネルで、LTD/R を ARM にセットします。\
+\
+右DDIのATFLIR画面で、PB11のTRIGを押し、LTD/Rを短いトリガープルで作動するように設定します。\
+\
+飛行を再開する準備ができたら、スペースキーを押してください。",
+    ["DictKey_ActionText_115"] = "PB 12のJSOW DSPLYを押します。",
+    ["DictKey_ActionText_32"] = "Winchester（残弾なし） JSOW",
+    ["DictKey_ActionText_58"] = "最初のターゲットは硬化航空機バンカー（HAB）です。最初のステップは、PB3、EFUZを押してAGM-154 Cのelectronic fuseをセットします。\
+",
+    ["DictKey_ActionText_70"] = "これで、このJSOWのすべての詳細が表示さ れました。\
+\
+UFCを使って必要なデータの入力を始めるには、PB 14（TGT UFC）を押します。",
+    ["DictKey_ActionText_113"] = "DELETE",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_101"] = "Press PB 15 RTN to return to the JDAM Display.",
+    ["DictKey_ActionText_197"] = "MSNディスプレイ（PB 4）とTOO UFC（PB 14）を押します。",
+    ["DictKey_ActionText_145"] = "作戦指示にもあるように、最初の2つのターゲットは互いに近くに位置しており、JSOWの一斉投下で攻撃できるほど接近しています。STA 8はHAB 44を、STA 2はHAB 48を目標としています。\
+\
+PB 15 QTYを押してください。",
+    ["DictKey_ActionText_52"] = "PB 6 JSCを押して、すべてのJSOWのパワーをオンにします。",
+    ["DictKey_ActionText_137"] = "DELETE.",
+    ["DictKey_ActionText_200"] = "\
+( このレビューを続けるには、スペースキーを押してください )",
+    ["DictKey_ActionText_125"] = "DELETE",
+    ["DictKey_ActionText_62"] = "そしてPB 2 のDLY1でDelayed Detonation（遅延起爆）にします。",
+    ["DictKey_ActionText_135"] = "MSNページで、ターゲット座標が表示されていることを確認してください。\
+\
+PB 19 RETURN を押して JSOW ディスプレイページに戻ります。",
+    ["DictKey_ActionText_195"] = "Neutral L-76 Damaged - No Strike Violation.",
+    ["DictKey_ActionText_44"] = "このミッションを成功させるためには、オートパイロット(AP)を2つの設定で作動させる必要があります：結合方位/気圧高度保持(AP CPL BALT)と方位選択/気圧高度保持(AP HSEL BALT)です。\
+\
+また、センターAMPCDのHSIも操作する必要があります。 具体的には、ウェイポイント(WYPT)をステップする方法、WYPTをターゲット(WPDSG)として指定する方法、ヘディングバグを設定する方法を知っていなければなりません。これらのトピックは以前のホーネットのトレーニングでカバーされています。\
+\
+次に表示される画面の説明を確認してください。SPACEBARを押すと、APの説明が表示されます。\
+\
+SPACEBARを押してこの復習を始める。",
+    ["DictKey_ActionText_129"] = "",
+    ["DictKey_ActionText_46"] = "",
+    ["DictKey_ActionText_80"] = "STA 2に以下のデータ を入力します（説明はありません）。\
+\
+入力が終わったら、スペースキーを押してください。\
+\
+TERM\
+ANG 65\
+\
+POSN\
+LAT  N 45 00 19.55\
+LON  E 37 19 46.59\
+\
+ELEV\
+FEET 148\
+\
+( スペースキーを押して続ける)",
+    ["DictKey_ActionText_37"] = "JDAMS Away - F6",
+    ["DictKey_ActionText_159"] = "DELETE",
+    ["DictKey_ActionText_97"] = "Since the first two targets are close to each other, you are going to release a single salvo of two JDAM; one from STA8 and one from STA2. Since each station is properly programed with its own pre-planned mission, each bomb should hit its own target. \
+\
+Press PB15 QTY, to bring up the Quantity selection.",
+    ["DictKey_ActionText_6"] = "FA-18C Joint Stand Off Weapon (JSOW) トレーニングへようこそ。\
+ \
+あなたは現在高度16,000フィートで、ターゲットに向かっています。現在アクティブポーズ中です。\
+ \
+機体はJSOWミッションに合わせた設定になっています ： \
+マスターアームはオン。空対地(A/G)モードになっていて、WYPT 1 にセットされています。\
+\
+特に指示がない限り、ハイライトされたボタンや スペースキーを押すと、レッスンはすぐに次のステップに進みます。初めてトレーニングを行う場合は、レッスンを進めるための操作を行う前に、それぞれの指示を最後まで聞くことをお勧めします。\
+ \
+続ける準備ができたら、スペースキーを押してください。",
+    ["DictKey_ActionText_151"] = " ",
+    ["DictKey_ActionText_48"] = "Begin preparing for the PP attack. On the Left DDI, bring up the Stores system by pressing PB 18 MENU and then PB 5 STORES.",
+    ["DictKey_ActionText_167"] = "JSOW 画面 / HSI / HUD が射程距離に入ったことを示したら、武器リリースボタンを押します。",
+    ["DictKey_ActionText_179"] = "DELETE",
+    ["DictKey_ActionText_23"] = "部分的に成功： 少なくとも半分のターゲットに攻撃が成功しました。\
+\
+ESCキーを押してレッスンを終了してもよいし、スペースキーを押して飛行を続けても構いません。",
+    ["DictKey_ActionText_111"] = "PB3、EFUZを押します。",
+    ["DictKey_ActionText_39"] = "",
+    ["DictKey_ActionText_127"] = "As you continue, set throttle to Full Military power, ensure you are still in AP CPL, cancel AP BALT hold and begin a climb to 20,000 feet MSL. \
+\
+As you steady up on that heading, press the SPACEBAR to resume JDAM configuration.",
+    ["DictKey_ActionText_54"] = "",
+    ["DictKey_ActionText_72"] = "STA 8に以下のデータを入力してください（説明はありません）。\
+\
+入力が終わったら、スペースキーを押します。\
+\
+TERM\
+ANG 65\
+\
+POSN\
+LAT N 45 00 18.45\
+LON E 37 19 36.34\
+\
+ELEV\
+FEET 148\
+\
+(スペースキーを押して次に進む)",
+    ["DictKey_ActionText_64"] = "各ターゲットの詳細をプログラムするには、PB 12のJSOW DSPLYを押してJSOW表示画面にします。",
+    ["DictKey_ActionText_123"] = "You will notice that in TOO mode, target position and elevation entry is not available. Your choices are limited to the TERM parameters HDG, ALT and VEL. \
+\
+HDG is non-applicable for this target; set to Undefined with PB 2 HDG UDF.",
+    ["DictKey_ActionText_40"] = "Both Target 1 structures destroyed. \
+\
+Move on to Target 2.",
+    ["DictKey_ActionText_66"] = "この画面は、JSOWの重要な情報を含むGPS兵器画面です。JSOWをプログラムし、監視し、運用するために使用する画面です。\
+\
+左上隅には、現在の兵器ステーション、兵器の準備状況、ミッションモード（PPまたはTOO）、兵器のタイプが表示されています。\
+\
+画面中央には、兵器のアライメント状態が表示されています。そのすぐ下には兵器のリリース設定（タイプと数量）があります。\
+\
+画面の端には重要な機能を示すPBインジケーターがあり、特にミッション・ディスプレイ(MSM; PB 4)、リリース数量(QTY; PB 15)、次の使用可能なステーションに切り替えるためのSTEP(PB 13)があります。\
+\
+ここで少し時間をとって、この表示を確認 してください。\
+\
+続ける準備ができたら、スペースキーを押してください。",
+    ["DictKey_ActionText_209"] = "この目標に対しては、ダメージを集中して与える為に、かなり狭い範囲に子弾を散布することになります。burst height（炸裂高度）を 500 feet AGL に設定するため、以下のように入力してください（説明はありません）。\
+\
+入力が完了したらスペースキーを押してください。\
+\
+HT\
+500\
+ENT\
+\
+(スペースキーを押す)",
+    ["DictKey_ActionText_149"] = "最初のアタックランを開始する準備が整いました。\
+\
+HSIでヘディングバグを060にセットします。\
+(これはJSOW投下後に使用する）。\
+\
+AP CPL BALTに設定します。\
+\
+飛行準備ができたら、スペースキーを押してください。",
+    ["DictKey_ActionText_34"] = "Russian OL-76 Damaged - No Strike Violation.",
+    ["DictKey_ActionText_103"] = "一定の高度でWYPT1に進路を維持し、速度を410KIAS以上に上げます。\
+\
+HUDの最大射程までの時間（TMR）とHSIの表示を見て、JSOW発射可能範囲（LAR）までの位置を確認します。\
+\
+射程内に入ったら、JSOWが二発とも投下されるまで武器リリースボタンを押し続けます。",
+    ["DictKey_descriptionBlueTask_3"] = "ホーネットが搭載するJSOWには、AGM-154AとAGM-154Cの2種類がある。 どちらもスタンドオフ兵器で、射程距離は最大60Nm（高高度・高速で発射）。JSOWは撃ちっ放し能力 （fire-and-forget ）兵器であり、この兵器の適切な使用は、FA-18Cをプログラムされた着弾パラメータ（角度、速度、方位）を考慮して、兵器が目標に到達できるように適切なデリバリー・プロファイル/エンベロープに配置することである。\
+\
+AGM-154Aのクラスター弾の弾頭は、非装甲/軽装甲の車両や 設備、航空機、列車、小規模な施設などを攻撃するのに最適である。\
+\
+AGM-154Cの弾頭は、建物やバンカーなどの固定目標を攻撃するように設計されています。\
+\
+この訓練では、最初に2つのAGM-154Cを設定し、PPモードを使用して、1つのターゲットエリア内の2つの固定ターゲットに対して攻撃します。\
+\
+次に、AGM-154AをTOOモードで使用し、フィールドに配備されたHQサイトを攻撃します。\
+\
+最後に、駐機場にいる航空機を攻撃するが、FLIR照準ポッドを使って正しい駐機場を見つけ、狙う必要がある。\
+\
+この訓練を始める前に、FA-18CのHOTASの機能に習熟しておくこと。\
+    \
+また、DCS FA-18ガイドのJSOWセクションを復習することで、基本的なGPS兵器の機能手順を学ぶことができる。 \
+\
+この訓練は脅威がない環境で行われる。\
+\
+注意：このトレーニングは、あなたのペースに合わせて進められるように設定されています。 ハイライトされたボタンを押したり、スペースバーを押したりすると、すぐに次のステップに進みます。トレーニングを初めて行う場合は、レッスンを進めるための操作を行う前に、それぞれの指示を最後まで聞くことをお勧めします。 その後、このトレーニングミッションを使用する際には、ハイライトされたボタンが表示されたらすぐに押したり、スペースバーが使用可能になったらすぐに押したりすることで、おなじみのセクションを「スピード・スルー」することができます。",
+    ["DictKey_ActionText_131"] = "DELETE",
+    ["DictKey_ActionText_177"] = "DELETE",
+    ["DictKey_ActionText_161"] = "DELETE",
+    ["DictKey_ActionText_74"] = "PB 14 を押して TGT UFC をオフに切り替えます。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_133"] = "The rest of the JDAM preparation will take place as you head for the target.\
+\
+On the center AMCP display, H S I, press PB 12 (waypoint UP arrow) to step to Waypoint 3.\
+\
+When ready to fly, press the SPACEBAR.",
+    ["DictKey_ActionText_13"] = "Bomb Away",
+    ["DictKey_ActionText_207"] = "\
+…and then PB 3 INST for Instant Detonation.",
+    ["DictKey_ActionText_165"] = "機体を攻撃方位に向けて安定させ、JSOW画面/HSI/HUDが射程内にいることを示したら、武器リリースボタンを押します。",
+    ["DictKey_ActionText_56"] = "DELETE\
+",
+    ["DictKey_ActionText_147"] = "PB11 と PB14 を押して、STA 8 と STA 2 を選択します。\
+\
+次に PB 15 RTN を押します。",
+} -- end of dictionary
