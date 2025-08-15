@@ -1,0 +1,412 @@
+dictionary = 
+{
+    ["DictKey_ActionText_103"] = "HSIとHUDに注目してください。HUDの右側でTMR（Time to Max Range）のカウントダウンが始まるはずです。また、HSIにインレンジ（LAR）のサークルが表示されます。\
+\
+HSI上では、自機が外側のLARサークルに入ると、\" pie shape \"（扇形）に変わります。このとき、HUDには \"IN ZONE \"と表示されます。 \
+\
+IN ZONEキューが表示されたら武器リリースボタンを押し続けてください。(JDAMが2発投下される)。",
+    ["DictKey_ActionText_119"] = "これはウェイポイント2にあるtarget of opportunity（TOO）です。\
+\
+\
+HSIで\
+- WYPT 2 にステップ。\
+- WPDSGでウェイポイント2をターゲットに指定する。\
+\
+完了したら、スペースキーを押して続けます。",
+    ["DictKey_ActionText_43"] = "TGT 3 撃破 \
+\
+",
+    ["DictKey_ActionText_196"] = "Good Luck",
+    ["DictKey_ActionText_121"] = "次にPB14（TOO UFC）を押してUFCのターゲット設定を表示させます。",
+    ["DictKey_ActionText_22"] = "成功： 3つの目標すべて攻撃成功。あなたはJDAMの使い方を習得しました。\
+\
+ESCキーを押してレッスンを終了してもよいし、スペースキーを押して飛行を続けてもかまいません。",
+    ["DictKey_ActionText_66"] = "この画面は、JDAMの重要な情報を含むGPSウェポン・ディスプレイです。JDAMをプログラムし、監視し、運用するために使用する画面です。\
+\
+左上隅には、現在の兵器ステーションと準備状況、ミッションモード（PPまたはTOO）、そして兵器の種類が表示されています。\
+\
+画面中央には、兵器のアライメント状態が表示されています。そのすぐ下にはウェポンリリース設定（タイプと数量）があります。\
+\
+画面の端には重要な機能を示すPBインジケーターがあり、例えばMission Display (MSM; PB 4)、Release Quantity (QTY; PB 15)、次の使用可能なステーションに切り替えるためのSTEP (PB 13)などがあります。\
+\
+ここで少し時間をとって、この表示を確認してください。\
+\
+続ける準備ができたら、スペースキーを押してください。",
+    ["DictKey_ActionText_95"] = "左DDIで、PB 6 J-82を選択してGPS兵器画面を表示し、次にPB 11 JDAM DSPLYを選択します。",
+    ["DictKey_ActionText_19"] = "",
+    ["DictKey_ActionText_26"] = "失敗：少なくとも2つの目標に命中しなかった。 再チャレンジしてください。\
+\
+ESCキーを押してトレーニングを終了してください。",
+    ["DictKey_ActionText_38"] = "JDAMS Away - F6",
+    ["DictKey_ActionText_68"] = "STA8のGBU-38（デフォルトで最初に表示されている）から始めます、PB 4 MSNを押してください。",
+    ["DictKey_ActionText_155"] = "TOOターゲット座標を設定するには、HSIでPB12を押してWP2にステップします。\
+\
+次にPB14 WPDSGを押します。",
+    ["DictKey_ActionText_105"] = "この時点であなたの仕事は完了し、あとはJDAMに任せます。\
+\
+400KIASまで減速してください。\
+\
+AP HSEL BALTをセットし、ATFLIRでターゲットエリアを表示させ、WYPT 1をターゲットに指定します（WPDSG）。\
+\
+ATFLIRポッドからターゲットエリアが見えるように操作してください。",
+    ["DictKey_ActionText_101"] = "PB 15 RTN を押して JDAM 画面に戻ります。",
+    ["DictKey_ActionText_64"] = "各ターゲットの詳細をプログラムするには、PB 11 の JDAM DSPLY を押して JDAM 画面を表示させます。",
+    ["DictKey_ActionText_20"] = "ターゲットに命中しませんでした。\
+\
+2番目のターゲットまで移動してください。",
+    ["DictKey_ActionText_30"] = "",
+    ["DictKey_ActionText_74"] = "PB 14 を押して TGT UFC をオフに切り替えます。",
+    ["DictKey_ActionText_50"] = "sdgsdfgsdfg",
+    ["DictKey_ActionText_189"] = "ATFLIRで、2番目のSCUD TELの上にTDCを置いてください。\
+\
+次の兵器ステーションが自動的に選択されていることを確認します。\
+\
+武器リリースボタンを押してJDAMを1発投下してください。",
+    ["DictKey_ActionText_23"] = "部分的に成功： 少なくとも半分のターゲットの攻撃に成功した。\
+\
+ESCキーを押してレッスンを終了してもよいし、スペースバーキーを押して飛行を続けてもかまいません。",
+    ["DictKey_ActionText_13"] = "Bomb Away（爆弾投下）",
+    ["DictKey_ActionText_11"] = "Bomb Away（爆弾投下）",
+    ["DictKey_ActionText_60"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_9"] = "Bomb Away（爆弾投下）",
+    ["DictKey_ActionText_107"] = "JDAMの着弾を確認するため、アクティブポーズ状態になっています。 着弾の確認が終わって次に進む準備ができたら、スペースキーを押してください。",
+    ["DictKey_sortie_5"] = "FA-18C JDAM Employment",
+    ["DictKey_ActionText_141"] = "1.11111111111111E+15",
+    ["DictKey_ActionText_222"] = "JDAM 画面（L MDI）で、STA 7 の ORP 座標が表示されていることを確認してください。\
+\
+次に STEPのPB を押して STA 3 の ORP 座標が正しく表示されていることを確認します。\
+\
+(そのまま STA 3 の表示のままでも、STEP を押して STA 7 に戻ってもどちらでもよい)。",
+    ["DictKey_ActionText_24"] = "ターゲットに命中しませんでした。\
+",
+    ["DictKey_ActionText_224"] = "PB 19の RETURN を押して JDAM ディスプレイページに戻ります。",
+    ["DictKey_ActionText_234"] = "STEP を押して STA 2 TOO をアクティブにします。\
+そしてもう一度同じ操作を繰り返します：\
+- TDC で照準ドットを2番目のTEL上に合わせます。\
+- トリガーを短く引く。\
+- TDCを押す。\
+- JDAM ディスプレイで、OPR データを確認する。\
+完了したら、スペースキーを押してください。",
+    ["DictKey_ActionText_228"] = "PB 11 を押して JDAM DSPLY を表示させます。",
+    ["DictKey_ActionText_203"] = "\
+( スペースキーを押して、このレビューを終了する )",
+    ["DictKey_ActionText_89"] = "ギアを上げ、フラップをアップし、スロットルをMILパワーまで下げた後、10度から15度の上昇を行い、APをCPLに設定します。\
+\
+この設定が完了したら、スペースキーを押して続けます。",
+    ["DictKey_ActionText_163"] = "sdgsdfgsdfg",
+    ["DictKey_ActionText_169"] = "JDAM 投下後、ATFLIR でターゲット・エリアを監視し、ターゲット・エリアが ATFLIR ポッドの視野内に入るように操縦し続けます。\
+",
+    ["DictKey_ActionComment_31"] = "DictKey_ActionComment_31",
+    ["DictKey_ActionText_142"] = "222222222222222",
+    ["DictKey_ActionText_171"] = "JDAM 投下後、ATFLIR でターゲット・エリアを監視し、ターゲット・エリアが ATFLIR ポッドの視野内に入るように操縦し続けます。",
+    ["DictKey_ActionText_139"] = "そのままスロットルをフルミリタリー・パワーに合わせ、AP CPLのままであることを確認し、AP BALTホールドをキャンセルしてMSL20,000フィートまで上昇を開始します。\
+\
+その方位で機体が安定したら、スペースキーを押してJDAMの設定を再開します。",
+    ["DictKey_ActionText_123"] = "TOOモードでは、ターゲット位置と高度の入力ができないことに気づくでしょう。選択肢は TERM パラメータ の HDG、ALT、VEL に限られます。\
+\
+HDGはこのターゲットには適用できません。PB 2 HDG UDFでUndefinedに設定します。",
+    ["DictKey_ActionText_56"] = "PB 13の STEPを使い、STA 3に切り替えます。",
+    ["DictKey_ActionText_191"] = "これで二つのJDAMは目標を捉えました。\
+\
+ゾーンの内側に入ったら、武器リリースボタンを押してJDAMを投下してください。",
+    ["DictKey_descriptionText_1"] = "このレッスンでは、JDAM弾のPre-PlannedモードとTarget Of Opportunityモードでの使用方法と、センサーハンドオフJDAM攻撃の実施方法を学ぶ。[ この訓練には、トレーニング・レッスンFA-18C GPS兵器データ入力を学習することが前提となっている。］",
+    ["DictKey_ActionText_187"] = "ターゲットに向かって旋回してください。\
+\
+ATFLIRを使用する：\
+- TDCを使い、ターゲットのSCUD TELの一つに照準点(ドット)を合わせる。\
+ (JDAMを正確に狙うにはズームインする。）\
+    - トリガーを短く引き、レーザーレンジを得る。\
+- TDCを押して指定する。\
+(JDAMのディスプレイで、OPRデータが入力されていることを確認する。）\
+\
+完了したらスペースキーを押してください。",
+    ["DictKey_ActionText_84"] = "この時点で、入力されたデータを最後にもう一度チェックするのが良いでしょう。STEP を使用して、STA 2 と STA 8 を切り換え、PP1 と PP2 の両方がアクティブで、適切なステーションにセットされていることを確認します。確認が終わったら、STEPでSTA 8に合わせます。\
+\
+その後、PB 19 RETURNを押してください。",
+    ["DictKey_ActionText_183"] = "",
+    ["DictKey_ActionText_109"] = "次のターゲットはWP2にあります。HIS画面でWP2へ切り替えて、WPDSGを押してください。",
+    ["DictKey_ActionText_173"] = "現在アクティブポーズ中 \
+\
+JDAMの着弾を確認しましょう。確認が終わって次に進む準備ができたら、スペースキーを押してください。",
+    ["DictKey_ActionText_175"] = "三番目の標的は、中立国のIL-76輸送機から最近引き渡された2基のSCUDランチャーです。SCUD TELがターゲットであり、輸送機はターゲットではありません。\
+\
+HSI： \
+    - WYPT 3に合わせる。\
+    - WYPTをTGT(WPDSG)に指定する。\
+　- ヘディングバグをターゲットの方位へ合わせる。\
+\
+設定が完了したら、スペースキーを押してください。",
+    ["DictKey_ActionText_99"] = "PB 11 と PB 14 を押して STA 2 と STA 8を選択します。\
+\
+注意：JDAMは各ステーションから1回のピックルで1発しか投下されません。",
+    ["DictKey_ActionText_181"] = "PB 13（STEP）で STA 2 に切り換え、PB 5（PP）で STA 2 JDAM を TOO に切り換えます。\
+\
+次に PB 7 を押して T002 を選択します(T002がボックス化)。",
+    ["DictKey_ActionText_143"] = "3.33333333333333E+23",
+    ["DictKey_ActionText_193"] = "BDAを分析中 - 少しお待ちください。",
+    ["DictKey_ActionText_82"] = "この時点で、入力したデータを最後にもう一度確認するのが良いでしょう。(ニーボード JDAM Targeting Card を使用する。)PB13の STEP を使用して、STA 2 と STA 8 を切り替えて確認します。\
+\
+重要：入力が終わったら、PB13のSTEP を使用して STA 8 に合わせておいてください。\
+(リリース時に全てのターゲットがLAR内にあることを確認するため、常に遠いターゲットの武器を \"最初の \"リリースとして設定する必要がある)。\
+\
+次に PB 19 RETURN を押します。",
+    ["DictKey_ActionText_42"] = "TGT 2を撃破 \
+\
+ターゲット3の準備をしましょう。",
+    ["DictKey_ActionText_217"] = " ",
+    ["DictKey_ActionText_34"] = "ロシアOL-76にダメージ - 攻撃違反には該当しない。",
+    ["DictKey_ActionText_185"] = "この攻撃にはセンサーからJDAMへのハンドオフが2回必要です。 準備のため、以下を完了させて下さい：\
+\
+右サイドパネル:\
+\
+ LTD/RからARMへ切り替える\
+\
+ATFLIR\
+    - PB 11のTRIG を選択し、LTD/R をショート・トリガープルで作動するように設定します。\
+    - HOTAS SCS Right Short を押して ATFLIR を SOI にします（右DDIの右上に小さなひし形が表示される）。\
+    - もう一度 HOTAS SCS Right Short を押して、ATFLIR を SCENE にセットします。\
+\
+UFC：\
+AP HSEL BALT が有効になっていることを確認します。\
+\
+飛行準備ができたら、スペースキーを押して続けます。",
+    ["DictKey_ActionText_157"] = "",
+    ["DictKey_ActionText_40"] = "ターゲット1の建造物を2つとも破壊した。\
+\
+ターゲット2に向かえ。",
+    ["DictKey_ActionText_17"] = "Bomb Away（爆弾投下）",
+    ["DictKey_ActionText_144"] = "3.33333333333333E+15",
+    ["DictKey_ActionText_32"] = "Winchester （残弾なし）JDAM",
+    ["DictKey_ActionText_76"] = "次はSTA 2の設定です。\
+\
+PB 13を押してください。",
+    ["DictKey_ActionText_161"] = "PB 12とPB 13を押して、STA 3とSTA 7を選択します。\
+\
+...次にPB 15 RTNを押してください。",
+    ["DictKey_ActionText_115"] = "次に、PB 11 JDAM DSPLY を押して JDAM 画面を表示します。",
+    ["DictKey_ActionText_70"] = "これで、このステーションのすべての詳細が表示されました。\
+\
+UFC を使って必要なデータの入力を始めるには、PB 14（TGT UFC）を押します。",
+    ["DictKey_ActionText_58"] = "最初にPB3、EFUZを押してGBU-38のelectronic fuseを選択します。",
+    ["DictKey_ActionText_153"] = "アタック・ランを開始するには、ターゲットに向かってアグレッシブ・ターンをし、スロットルをアフター・バーナーに入れ、機首を20〜25度まで上げてMSL20,000フィートまで上昇を開始します。\
+\
+(高度が高いことにより、爆弾が落下する際に運動エネルギーを得ることができ、ターゲットを貫通しやすくなります)。\
+\
+HSIでHDGバグを目標方位にセットします。\
+\
+AP HSELとBALTをOFFにします。\
+\
+飛行の準備ができたら、スペースキーを押してください。",
+    ["DictKey_ActionText_167"] = "水平を保ち、ターゲットへの進路を安定させて下さい。\
+\
+HDGバグを調整し、目標への方位を合わせます。\
+\
+AP HSEL BALTをセットします。\
+\
+400KIAS以上になるまで加速します。\
+\
+IN ZONEに入ったら、翼が水平であることを確認し、両方のJDAMが投下されるまでウェポン・リリースボタンを押し続けてください。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_127"] = "そのままスロットルをフルミリタリー・パワーに合わせ、AP CPLのままであることを確認し、AP BALTホールドをキャンセルしてMSL20,000フィートまで上昇を開始します。\
+\
+その方位で機体が安定したら、スペースキーを押してJDAMの設定を再開します。",
+    ["DictKey_ActionText_232"] = "今回もJDAMを一斉投下する予定です。\
+\
+PB 15 QTY を押し、続いて PB 11 STA2 と PB 14 STA8 を押します。\
+\
+その後、PB 15 RTN で JDAM 画面に戻ります。",
+    ["DictKey_ActionText_145"] = "最初の2つのターゲットは互いの距離が近いので、STA 8から1発、STA 2から1発、合計2発のJDAMを投下します。\
+\
+QTY PB15 を押して、数量を選択します。",
+    ["DictKey_ActionText_52"] = "PB 6 J-82 を押して、JDAM の Power-up/align を行い、GBU-38 のページを表示します。",
+    ["DictKey_ActionText_44"] = "このミッションを成功させるためには、オートパイロット(AP)を2つの設定で作動させる必要があります：結合方位/気圧高度保持(CPL/ BALT)と方位選択/気圧高度保持(HSEL/ BALT)です。\
+\
+また、センターAMPCDのHSIも操作する必要があります。 具体的には、ウェイポイント(WYPT)をステップする方法、WYPTをターゲット(WPDSG)として指定する方法、ヘディングバグを設定する方法を知っていなければなりません。これらのトピックは以前のホーネットのトレーニングでカバーされています。\
+\
+次に表示される画面の説明を確認してください。SPACEBARを押すと、APの説明が表示されます。\
+\
+SPACEBARを押してこの復習を始める。",
+    ["DictKey_ActionText_200"] = "\
+(このレビューを続けるにはスペースキーを押してください)",
+    ["DictKey_ActionText_125"] = "TOOモードでは、選択肢はTERMパラメータのHDG、ANG、VELだけになります。\
+\
+JDAMはターゲットへの貫通力を高めるため、高い着弾角度と着弾速度を必要とします。以下の設定（説明はありません）を入力してください。入力が終わったらスペースキーを押して続けます。\
+\
+ANG\
+80\
+\
+VEL\
+900\
+\
+(スペースキーを押して続ける)",
+    ["DictKey_ActionText_62"] = "そして、次にPB3のINSTを選択します。",
+    ["DictKey_ActionText_135"] = "HIS画面 で WYPT 2 に合わせます。\
+\
+WPDSGでウェイポイント2をターゲットに指定します。\
+\
+続ける準備ができたら、スペースキーを押してください。",
+    ["DictKey_ActionText_195"] = "中立のL-76が破損-攻撃違反には当たらない。",
+    ["DictKey_ActionText_80"] = "STA 2に以下のデータ を入力します（説明はありません）。\
+\
+終了したら、スペースキーを押してください。\
+\
+TERM\
+ANG 45\
+\
+POSN\
+LAT  N 42 55 12.89\
+LON  E 41 32 23.61\
+\
+ELEV\
+FEET 715\
+\
+(スペースキーを押して続ける)",
+    ["DictKey_ActionText_48"] = "PP アタックの準備を始めましょう。左DDIでPB18 MENUを押し、PB5 STORESを押してストアシステムを立ち上げます。",
+    ["DictKey_ActionText_46"] = "",
+    ["DictKey_ActionText_97"] = "最初の2つのターゲットは互いに近い位置にあるので、STA8から1発、STA2から1発、合計2発のJDAMを投下します。各ステーションはpre-planned missionで適切にプログラムされているので、爆弾はそれぞれの目標に命中するはずです。\
+\
+PB15 QTY を押して、数量を選択します",
+    ["DictKey_ActionText_230"] = "",
+    ["DictKey_ActionText_159"] = "このターゲットを確実に破壊するにはGBU-31が2発必要です。\
+\
+PB 15 QTY を押してください。",
+    ["DictKey_ActionText_37"] = "JDAMS Away - F6",
+    ["DictKey_ActionText_6"] = "ホーネットの Joint Direct Attack Munitions（JDAM）のトレーニングへようこそ。このレッスンでは、GBU-38とGBU-31を Pre-Planed （PP）モードとTarget of Opportunity（TOO）モードで使用する方法を学びます。 また、センサーからJDAMへのハンドオフの方法についても学びます。\
+\
+このレッスンは、FA-18のGPS兵器データ入力トレーニングを完了していることを前提としています。\
+\
+アクティブポーズで空中から開始します。機体はこのフライトのための設定になっています。マスターARMはON、空対地（A/G）モードにセットされています。\
+  \
+特に指示がない限り、ハイライトされたボタンを押したり、スペースキーを押すと、レッスンはすぐに次のステップに進みます。初めてトレーニングを受けるときは、レッスンを進めるための操作をする前に、それぞれの指示を最後まで聞くことをお勧めします。\
+ \
+続ける準備ができたら、スペースキーを押してください。",
+    ["DictKey_ActionText_151"] = " ",
+    ["DictKey_ActionText_72"] = "STA 8に以下のデータを入力してください（説明はありません）。\
+\
+入力が終わったら、スペースキーを押してください。\
+\
+TERM\
+ANG 45\
+\
+POSN\
+LAT N 42 55 17.94\
+LON E 41 32 22.18\
+\
+ELEV\
+FEET 731\
+\
+(スペースキーを押して続ける)",
+    ["DictKey_ActionText_137"] = "MSN ページで、ターゲット座標が表示されていることに注目してください。STEP を使用して、STA 3 と STA 7 を切り替え、両方のステーションに同じターゲット座標がロードされていることを確認します。\
+\
+続ける準備ができたら、スペースキーを押してください。",
+    ["DictKey_ActionText_179"] = "PB 5（PP）を押して STA 8 JDAM を TOO に切り替えます。PB6でT001がボックス化されていることを確認してください。",
+    ["DictKey_ActionText_197"] = "STEPを押してSTA 8に戻ります。",
+    ["DictKey_ActionText_111"] = "GBU-38で行ったように、PB 3 EFUZを使い、Electronic Fuseのオプションを表示させます。",
+    ["DictKey_ActionText_39"] = "",
+    ["DictKey_ActionText_86"] = "フライトの準備はほぼ整いました。しかし、その前にやっておきたいことがいくつかあります。\
+\
+HSI（AMCP）：\
+　- 地図表示を消去する（JDAMのシンボルが見づらいため）。\
+　- SEQをセット（JDAMターゲットとフライトプランを比較する）\
+　- AUTO にセット（WP1 をアクティブ WP にし、WP の自動切り替えを有効にする）\
+\
+右コンソール \
+　- FLIRをSTBYにセット（ウォーミングアップ開始）\
+\
+発艦後、WP1に向かって上昇しながら左旋回を開始します。\
+\
+発艦準備ができたら、スペースキーを押してテイクオフ（スロットルを100％にする）。",
+    ["DictKey_ActionText_54"] = "",
+    ["DictKey_ActionText_236"] = "飛行を続け、ATFLIRでターゲットを確認し続けてください。\
+\
+両方のJDAMが着弾するまで待ち、その後スペースキーを押してください。",
+    ["DictKey_ActionText_208"] = "次に左DDIでPB 5 PPを押してTOOに切り替えます。",
+    ["DictKey_ActionText_210"] = "...そして、以下に表示されているパラメータで同じ操作を繰り返します（説明はありません）。入力が終わったら、スペースキーを押して続けます。\
+\
+TOO (PB 5)\
+\
+TOO UC (PB 14)\
+\
+ANG\
+ 80\
+\
+VEL \
+900\
+\
+(完了したら スペースキーを押す)\
+",
+    ["DictKey_ActionText_78"] = "左上隅にSTA 2が表示されているはずです。これはPP1にプログラムされます。(すべてのPPスロットは単独のウイングステーションに割り当てられていることを覚えておいてください。) \
+\
+PB 14（UFC TGT）を選択します。",
+    ["DictKey_ActionText_113"] = "JDAMはバンカーの硬い外壁を貫通して内部で起爆しなければなりません。この貫通のための時間を確保するため、信管を遅延に設定します。 PB 2 DLY1 を押してください。",
+    ["DictKey_ActionText_218"] = "次の目標はバンカーで、貫通兵器を必要とする「ハードターゲット」です。左DDIでPB 7のJ-109を押して2 x GBU-31(V)4/Bを選択します。",
+    ["DictKey_ActionText_149"] = "最初のアタックランを始める準備ができました。\
+\
+AMPCD の左上にある HDGスイッチで方位バグを040にセットします。\
+( これはJDAM投下後に使用する。)\
+\
+APのCPLとBALTをセットします。\
+\
+飛行準備ができたら、スペースキーを押してください。",
+    ["DictKey_ActionText_129"] = "",
+    ["DictKey_ActionText_91"] = " ",
+    ["DictKey_descriptionBlueTask_3"] = "JDAMシリーズのGBU-38とGBU-31はGPS誘導弾である。撃ちっ放し能力 （fire and forget ）兵器であり、与えられた目標に対してホーネットを発射可能領域 (LAR) に配置するだけでよい。機体がLARに入れば、JDAMは（地形や飛行経路に障害物がなければ）目標に向かって機動し、攻撃する。\
+\
+JDAMは、非常に正確な3次元の目標座標を必要とする。緯度と経度は「度-分-秒（Degrees-Minutes-Decimal-Seconds）」、高度は「フィート（Feet）」または「メートル（Meters）」である。これらの目標座標とともに、JDAMは特定のターミナルフェーズ（着弾）プロファイル用にプログラムされている。\
+\
+JDAMは、Pre-Planned (PP)とTarget Of Opportunity (TOO)の2つのモードで使用することができる。どちらのモードも正確な目標座標とターミナルフェーズプロファイルデータを必要とする。\
+\
+米海軍の空母では、事前に計画されたJDAMの標的が空母の情報センター（CVIC）で生成される。通常は、航空機内のデータモジュールに電子的にロードされる。また、ホーネットのUFCを介して手動で入力することもできる。\
+\
+Target Of Opportunityの目標座標は、ホーネットの航法システム（目標（TGT）として指定されたウェイポイント（WPT））か、ホーネットのセンサー（レーダーか照準ポッド）によって指定された目標のいずれかによって提供される。\
+\
+この訓練飛行では、4 x GBU38と2 x GBU-31(V)4/Bハードターゲット貫通弾兵器で武装したFA-18CのCOLT 3- 1となる。そして、3回のJDAM攻撃を行う。\
+      \
+1 - GBU-38を2発使用し、1箇所にある2つのビルを攻撃。敵はレーザー誘導弾の攻撃に対し、これらの標的を覆い隠すために発煙装置を作動させた。 CVICはこれらのターゲットの正確な座標を提供している。ターミナルフェーズのプロファイルが必要である。\
+\
+2 - GBU-31(V)4/B JDAMが必要な堅固な指揮統制(C2)バンカーへの攻撃。(CVICはC2バンカーの目標座標をウェイポイント2として航空機のナビゲーションシステムに入力している。） この標的は貫通を確実にするため、ターミナルフェーズプロファイルと電子信管を遅延起爆に設定する必要がある。\
+\
+3 - 正確な座標が不明な目標への攻撃で、GBU-38を1発使用する。目標は最近飛行場に運ばれたSCUD TELである。TELに命中させるが、近くの輸送機には命中させないことが要求される。この目標には、照準ポッド（TGP）からJDAMへの目標座標のハンドオフが必要である。この場合も、ターミナルフェーズのプロファイルが必要である。\
+\
+Lesson 23-GPS Munitions Programmingはこの訓練ミッションを行う上で事前に学んでおく必要がある。TGT UFCを使用して、プリプラン（PP）ターゲット用にJDAMを正しく設定する方法を知っていることが前提である。\
+\
+この訓練を始める前に、DCS FA-18CガイドのFA-18C HOTAS機能を熟知しておくこと。 \
+\
+また、DCSのFA-18CガイドのJDAMのセクションを復習し、基本的なGPS兵器の機能手順を確認するとよい。 \
+\
+この訓練は脅威のない状況で行われる。\
+\
+注意：この訓練はあなたのペースで進められるように設定されています。 ハイライトされたボタンやスペースバーを押すと、すぐに次のステップに進みます。トレーニングを初めて受講する場合は、レッスンを進めるための行動を起こす前に、各指示を十分に聞くことをお勧めします。 その後、このトレーニングミッションを使用する際には、ハイライトされたボタンが表示されたらすぐに押したり、スペースバーが使用可能になったらすぐに押したりすることで、おなじみのセクションを「スピード・スルー」することができます。",
+    ["DictKey_ActionText_131"] = "PB13の STEPでSTA 7に戻ります。",
+    ["DictKey_ActionText_177"] = "MSNページ（PB 4）を押します。",
+    ["DictKey_ActionText_21"] = "Target Missed\
+\
+",
+    ["DictKey_ActionText_29"] = "Target Missed\
+\
+3番目のターゲットへ向かってください。",
+    ["DictKey_ActionText_93"] = "左DDIでPB 6 J-82を選択してGPS兵器画面を表示し、次にPB 11 JDAM DSPLYを選択します。\
+\
+AG モードにセット",
+    ["DictKey_ActionText_133"] = "JDAM の残りの準備は、ターゲットに向かいながら行います。\
+\
+中央のAMCPディスプレイのH S Iで、PB12（waypoint UP矢印）を押してwaypoint 3に合わせます。\
+\
+飛行準備ができたら、スペースキーを押してください。",
+    ["DictKey_ActionText_220"] = "PB 13の STEPを押してSTA 7に戻ります。",
+    ["DictKey_ActionText_226"] = "次に、左 DDIでPB 18 MENU、PB 5 STORES、PB 6 J-82 の順に押して、GBU-38 を再度アクティブにします。",
+    ["DictKey_ActionText_165"] = "高度2万フィートまで上昇。\
+\
+ターゲットに向かって旋回します。\
+\
+HUDのヘディングテープにはターゲットの方位が小さな菱形で表示されています。",
+    ["DictKey_ActionText_117"] = "左上隅でSTA 7が選択されていることを確認してください。\
+\
+PB 4 MSN を押します。",
+    ["DictKey_ActionText_147"] = "PB11 と PB14 を押して、STA 2 と STA 8 を選択します。\
+\
+(JDAMは各ステーションから1発だけ投下される)。\
+\
+次に RTN PB 15 を押します。",
+} -- end of dictionary
