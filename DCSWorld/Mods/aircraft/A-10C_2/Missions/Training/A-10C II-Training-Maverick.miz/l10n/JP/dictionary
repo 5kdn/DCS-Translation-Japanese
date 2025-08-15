@@ -1,0 +1,152 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "Prep 4 Run 3 - TGT GP 3 が動いています。",
+    ["DictKey_ActionText_67"] = "SA-11 SAM Targets",
+    ["DictKey_ActionText_25"] = "HOTAS Coolie Left Long を使用して、MAV ディスプレイ (左側の MFCD) を SOI にします。\
+\
+次に、HOTAS China Hat FWD Long を使用して MAV センサーを SPI に接続し、China Hat FWD Short を使用してズームインします。\
+\
+MAV を HOTAS Boat Switch CENTER と強制的に相関させるように設定します。\
+\
+最後に、HOTAS TMS AFT Short を使用して MAV シーカーを Ground Stabilize に設定します。\
+\
+これらの手順を完了したら、スペースバーを押して続行します。",
+    ["DictKey_ActionText_43"] = "Maverick Seeker はターゲットの探索に使用できますが、TGP はより優れたセンサーです。この戦術的な状況では、TGP を使用して敵の装甲ターゲットを見つけ、最初にマーベリック シーカーを殺します。次に、MAV センサー (左 MFCD) に切り替えて、ターゲットをロックしてエンゲージします。\
+\
+HOTAS Coolie Right Longを使用してTGP SOIを作成し、次にHOTAS China Hat FWD Longを押してTGPをターゲットエリアに旋回させます。\
+\
+TGP がターゲット領域を指したら、HOTAS ズームとカーソル コントロールを使用して装甲ターゲットを見つけます。\
+(TGP CCD モード (ボート スイッチ中央) を使用すると、最良のビューが得られます)\
+\
+ターゲットを 1 つ選択し、HOTAS TMS FWD Short でポイント ターゲットとして指定し、HOTAS TMS FWD Long でこのポイントを SPI に設定します。\
+\
+これらのタスクを完了したら、スペースバーを押して続行します。",
+    ["DictKey_ActionText_53"] = "Artillart Targets",
+    ["DictKey_ActionText_73"] = " ",
+    ["DictKey_ActionComment_54"] = "",
+    ["DictKey_ActionComment_62"] = "",
+    ["DictKey_ActionText_19"] = "HOTAS Coolie Right Long を使用して、右 MFCD の TGP を SOI として設定します。\
+\
+次に、HOTAS China Hat AFT Long で TGP を STPT 1 に設定します。\
+\
+最後にHOTASボートスイッチAFTでFLIRディスプレイをWHOTに設定します。\
+\
+これらの手順が完了したら、スペースバーを押して続行します。",
+    ["DictKey_ActionText_65"] = "Naval Target",
+    ["DictKey_ActionText_38"] = "次の一連の攻撃に備えて航空機を設定しているときは、アクティブ一時停止状態になります。\
+\
+最初に OSB 14 DSMS … を押して、左側の MFCD に AGM-65 H ディスプレイを表示します。\
+\
+…次に OSB 8 STA 9 を押します…\
+\
+…そして最後にOSB 12 MAVを押します。",
+    ["DictKey_ActionText_23"] = "HOTAS コントロールを使用して、TPG ビューをズームインして調整し、この画像に示すように建物の一部をターゲットにします。\
+\
+次に、HOTAS TMS FWD Short を使用して POINT ターゲットを選択し、次に TMS FWD Long を使用して SOI (TGP) ポインタを SPI にします。\
+\
+これが完了したら、アタックランの準備は完了です。\
+\
+ スペースバーを押して続行し、飛行を開始します。",
+    ["DictKey_ActionText_49"] = "MAV を SOI に設定します。\
+MAV を SPI にスレーブします。\
+MAV を拡大します。\
+\
+範囲 7.8 Nm - MAV シーカーのスルー/ロック。\
+\
+ターゲットはロックされています - 射撃します。",
+    ["DictKey_ActionText_30"] = "マーベリックが目標に向かって進むとき、機首方向約 040 まで左に来て翼を水平にし、オートパイロットを再度作動させます。発射された AGM-65 G の重量の減少を補うために、左翼を少し下にトリミングする必要があります。\
+\
+TGP でストライキを監視します。",
+    ["DictKey_ActionText_57"] = "Convoy Targets",
+    ["DictKey_ActionText_69"] = " ",
+    ["DictKey_ActionText_11"] = "A-10C II AGM-65 トレーニングを正常に完了しました。 ESC を押してトレーニングを終了するか、スペースバーを押して続行します。\
+\
+続行すると、さらにいくつかのターゲットエリアが表示されます。 F10 マップを使用して座標を見つけることができます。それらの座標は、STPT 51 ～ 55 として NAV システムにもあります。\
+\
+Beslan AB (STPT 4 \"HOME\") で再武装することができます。",
+    ["DictKey_ActionText_61"] = "MiG-21 Targets",
+    ["DictKey_ActionText_15"] = "A-10C II AGM-65 マーベリック基礎トレーニングへようこそ。\
+ \
+このレッスンは、HOTAS の基礎、LITENING TGP、および精密誘導弾薬の訓練飛行で教えられたスキルに基づいて行われます。そのため、このレッスンでは、HOTAS 機能とターゲットの検索と指定方法に精通していることを前提としています。\
+ \
+あなたは、自宅の飛行場であるベスラン AB から北西に 50 Nm 離れた高度 8500 フィートの MSL からスタートします。この航空機は空対地戦闘用にセットアップされています。 (TGP は A-G モード、STPT 1 が選択、AP は ON ALT/HDG ホールド)\
+ \
+続行する準備ができたら、スペースバーを押します。",
+    ["DictKey_ActionText_7"] = "Prep 4 Run 2 - Active Pause",
+    ["DictKey_ActionComment_58"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_13"] = "Intro",
+    ["DictKey_ActionText_39"] = "ヘルメットマウントキューイングシステム (HMCS) を使用して、敵の装甲を狙うのを支援します。\
+\
+HOTAS Coolie Down Shortを使用してHMCS SOIを作成し、白煙の中心に頭を向けます。\
+\
+煙マーカーを見つけたら、カーソル コントロールを使用して HMCS ターゲット ボックスをその上で回転させ、HOTAS TMS FWD Long を押して SPI をスレーブします。\
+\
+(HMCS ディスプレイに白い「ウェディング ケーキ」シンボルを重ねて表示する必要があります。)\
+\
+終了したら、スペースバーを押して続行します。",
+    ["DictKey_ActionText_47"] = "Turn to Target Heading.",
+    ["DictKey_sortie_5"] = "A-10C II AGM-65 Maverick Basics",
+    ["DictKey_ActionText_41"] = "",
+    ["DictKey_ActionText_63"] = "MRLS Battery Targets",
+    ["DictKey_subtitle_36"] = "HAWG 2 1;演習コントロール: 次のターゲット - 装甲車両 3 台、11 時。 10マイル。白い煙でマークされています。",
+    ["DictKey_ActionComment_64"] = "",
+    ["DictKey_ActionComment_60"] = "",
+    ["DictKey_descriptionText_1"] = "このレッスンでは、AGM-65 空対地誘導ミサイルの使い方を学びます。 (AGM-65-D/G/H/K)\
+\
+AGM-65 ミサイルファミリーには、赤外線 (IR) 誘導型と電気光学 (CCD) 誘導型の両方に加え、標準弾頭バージョンと重弾頭バージョンが含まれています。標準の125ポンド。通常、弾頭は装甲車両に対して使用されますが、300ポンドの重弾頭は装甲車両に対して使用されます。貫通弾頭は構造物や硬化した目標に対して使用できます。",
+    ["DictKey_ActionComment_66"] = "",
+    ["DictKey_ActionText_21"] = "",
+    ["DictKey_ActionText_51"] = "クイック ドロー - ズームしてターゲットを定め、2 台目の車両と交戦します。",
+    ["DictKey_descriptionBlueTask_3"] = "このトレーニングでは、2 つの戦術シナリオが提示されます。建物への攻撃と敵の装甲に対する戦場阻止。\
+\
+最初のレッスンでは、LITENING ターゲティング ポッド (TGP) を使用して、敵の建物の特定のセクションをターゲットにします。次に、AGM-65G (IIR / 重弾頭) を Force Correlate Track モードで使用して、このセクションを破壊します。\
+\
+2 番目のレッスンでは、Scorpion Helmet Mounted Cuing System (HMCS) を使用して、最大 3 つの AGM-64 H (CCD / 標準弾頭) を敵の装甲ユニットに対してターゲットにするのを支援します。\
+    \
+この訓練を開始する前に、A-10C II HOTAS 機能 (A-10C II 飛行マニュアルに記載) と A-10 の TGP の基本機能をよく理解しておく必要があります。 (まだ行っていない場合は、A-10C II トレーニング、「HOTAS Fundamentals」、「TPG」、および「PGM」レッスンを受講してください。)\
+    \
+注: このトレーニングは、あなたのペースで実行できるように設定されています。最も強調表示されているボタンを押すかスペースバーを押すと、レッスンがすぐに次のステップに進みます。初めてトレーニングを行う場合は、レッスンを進めるためのアクションを実行する前に、各セットの指示をよく聞くことをお勧めします。このトレーニング ミッションをその後使用する場合は、強調表示されたボタンが表示されたらすぐに押すか、スペースバーが使用可能になったらすぐに押して、よく知っているセクションを「スピードスルー」することができます。",
+    ["DictKey_ActionText_27"] = "ダイナミック ローンチ ゾーン (DLZ) をご覧ください。約 7.5 Nm の範囲で、HOTAS TMS FWD Short を押して Maverick をロックします。 MAV クロスヘアはターゲット ゾーンに近づくはずです。\
+\
+武器解放ボタンを押し続けます。\
+\
+(注: MAV 十字線が閉じない/ロックしない場合は、HOTAS TMS AFT Short を押し、少し待ってからもう一度試してください。)",
+    ["DictKey_ActionComment_56"] = "",
+    ["DictKey_ActionText_45"] = "攻撃を開始する準備が整いました。一度開始すると、物事はすぐに起こります。実行する必要がある機能を確認してください。\
+\
+1 つ目: 攻撃方向に向きを変えます。\
+    - HUD の MAV 「ワゴン ホイール」を中心にして、航空機をターゲット エリアに向けて回転させます。\
+    - 対気速度を約 200 ノットに維持します。\
+    - AP HDG/ALT と再接続します。\
+\
+2 番目: フォーカスを MAV ディスプレイに切り替えます。標的を定めてミサイルを発射します。目標は 2 装甲 KIA です。\
+    - MAV を SOI (HOTAS Coolie Left Long) に設定します。\
+    - SPI へのスレーブ MAV (HOTAS チャイナ ハット FWD ロング)。\
+    - ズームイン (HOTAS チャイナハット FWD ショート)。\
+    - 約 7.8 Nm の範囲で、ターゲットをロックします。\
+     (ターゲット全体にわたる HOTAS スルー コントロールおよび HOTAS TMS FWD ショート)。\
+\
+シーカーがロックされると、十字線が縮小/点灯します。\
+    - MAV を発射します (HOTAS 武器リリース)。\
+\
+(注: シーカーが「ブレイク ロック」になった場合、十字線が画面の端まで拡大します。HOTAS TMS AFT Short を押して、シーカーを安定した地面にリセットします。)\
+\
+繰り返します: 残りのターゲットと交戦します。\
+    - 「クイック描画」モードの MAV (次の AGM-65H はターゲット領域を表示します)。\
+    - ターゲットと射撃 (HOTAS ズーム、スルー、TMS FWD ショート、武器解放)。\
+\
+これはやるべきことが多く、時間もスペースもあまりありません。ターゲットに近づきすぎている場合、つまり距離が DLZ の最小射程に近づいている場合は、中断して、周囲を回って再試行してください。\
+\
+飛行を再開して装甲ターゲットを攻撃する準備ができたら、スペースバーを押します。",
+    ["DictKey_ActionText_55"] = "C2 Comand Center Targets",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_59"] = "EW Radar Target",
+    ["DictKey_ActionComment_68"] = "",
+    ["DictKey_ActionText_17"] = "最初に OSB 18… を押して、左側の MFCD に AGM-65 G ディスプレイを表示します。\
+\
+…そしてOSB 12 MAVを押します。",
+    ["DictKey_ActionText_8"] = "Over the river....",
+    ["DictKey_ActionText_32"] = "次の一連の攻撃に備えて航空機を設定しているときは、アクティブ一時停止状態になります。",
+    ["DictKey_ActionText_12"] = " ",
+} -- end of dictionary
