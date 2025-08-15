@@ -1,0 +1,368 @@
+dictionary = 
+{
+    ["DictKey_ActionText_112"] = "滑走路に着いたら、機体をセンターラインに合わせ、「13」の滑走路見出しマーカーの上で停止します。",
+    ["DictKey_UnitName_52"] = "Pilot #005",
+    ["DictKey_UnitName_67"] = "",
+    ["DictKey_GroupName_15"] = "Vaziani Static #002",
+    ["DictKey_GroupName_23"] = "Tbilisi outbound #001",
+    ["DictKey_UnitName_73"] = "Pilot #007",
+    ["DictKey_ActionText_116"] = "次に水平を出します。先に離陸トリムを設定した場合は、機体が勝手に引き上げようとするので、スティックから手を離して水平になるまで[右Ctrl+;]を押してノーズダウントリムを行います。",
+    ["DictKey_UnitName_39"] = "Pilot #005",
+    ["DictKey_ActionText_113"] = "ホイールブレーキ[W]をかけたまま、エンジンを80%まで進めます。エンジンが80％になったら、ブレーキを解除し、スロットルをMIL（アフターバーナーではない）に押し込む。",
+    ["DictKey_ActionText_85"] = "タッチダウンまであと数秒となったところで、速度ベクトルが地平線のすぐ下に来るまでスティックを静かに戻します。スロットルはスムーズにアイドリングまで下げる。\
+\
+タッチダウン後、穏やかなラダー入力でヘディングを調整し、エアロブレーキングのためにノーズを13度ピッチで上げる。15度を超えると尾翼を擦ってしまうので注意してください。",
+    ["DictKey_ActionText_271"] = "タッチダウンレートが600ft/minを超えていたので、ハードランディングでした。",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_GroupName_255"] = "Player",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_ActionText_117"] = "350ノットに達したら、速度が350ノットのままになるように上昇角度を調整する。",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_GroupName_153"] = "",
+    ["DictKey_WptName_260"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_GroupName_6"] = "Player",
+    ["DictKey_ActionText_119"] = "地上速度は、VSDの左下、「G」の後に表示されます（現在は「G 0」と表示されています）。HUDの対気速度表示ではタクシー速度が遅すぎて信頼できないので、代わりに対地速度表示を参照してください。タキシング中は10ノットを超えないようにしてください。\
+\
+スペースバーを押して続行します。",
+    ["DictKey_UnitName_163"] = "Pilot #013",
+    ["DictKey_GroupName_28"] = "New Airplane Group",
+    ["DictKey_ActionText_84"] = "250ノット以下になったら、[G]を押してランディングギアを下げ、[F]を押してフラップを下げます。",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_ActionText_289"] = "100",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_UnitName_171"] = "Pilot #001",
+    ["DictKey_ActionText_87"] = "おめでとうございます！着地に成功しました。[Esc]を押して、レッスンを終了することができます。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_GroupName_33"] = "Vaziani Static #003",
+    ["DictKey_UnitName_183"] = "",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_ActionText_284"] = "おめでとうございます！無事に着陸しました。(25点)",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_GroupName_170"] = "Lochini inbound",
+    ["DictKey_GroupName_179"] = "Static C-130-1",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_GroupName_191"] = "Lochini static #004",
+    ["DictKey_UnitName_95"] = "",
+    ["DictKey_WptName_244"] = "",
+    ["DictKey_ActionText_131"] = "ハイライトされている計器を見てください。これはHSI（水平方向状況表示器）です。これはHSI（水平状況指示器）で、現在の進路は229度（南西）、左に130度が見えています。滑走路13に行くには、右にタキシングして滑走路の始点に合わせ、ランプの端の誘導路で左に曲がり、滑走路に着いたら再び左に曲がり、130度の方位で滑走路に沿って進む必要があります。\
+\
+スペースバーを押して続けてください。",
+    ["DictKey_UnitName_186"] = "Unit #002",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_278"] = "先行するゲートの内側に速度ベクトルを保つことで、先行するゲートを通過します。",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_WptName_263"] = "",
+    ["DictKey_ActionText_269"] = "おめでとうございます！着地に成功しました。[Esc]を押して、レッスンを終了することができます。",
+    ["DictKey_UnitName_80"] = "Pilot #008",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_GroupName_173"] = "Lochini static #001",
+    ["DictKey_GroupName_196"] = "Lochini static #005",
+    ["DictKey_ActionText_140"] = "Wait for your engines to finish starting.",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_GroupName_221"] = "Player",
+    ["DictKey_UnitName_54"] = "Pilot #006",
+    ["DictKey_WptName_238"] = "",
+    ["DictKey_UnitName_34"] = "",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_WptName_258"] = "",
+    ["DictKey_UnitName_64"] = "",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_ActionText_83"] = "次に、[右Shift + L]を押して電源をオンにします。",
+    ["DictKey_UnitName_101"] = "",
+    ["DictKey_ActionText_248"] = "あなたはトビリシ・ロチニ国際空港の滑走路31に着陸します。HUDのピッチスケールから判断して、約3度下の位置で滑走路に向けて降下を開始します。その後、速度ベクトルを滑走路に置くように操縦することで、F-15の着陸では標準的な3度のグライドスロープで滑走路に向かって降下します。\
+\
+スペースバーを押して続行します。",
+    ["DictKey_ActionText_273"] = "タッチダウン速度は約500ft/minでした。(20点)",
+    ["DictKey_GroupName_69"] = "Vaziani Static #007",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_ActionText_250"] = "",
+    ["DictKey_UnitName_161"] = "Pilot #012",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_WptName_10"] = "Takeoff",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_UnitName_204"] = "Pilot #003",
+    ["DictKey_UnitName_142"] = "Humvee",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_UnitName_24"] = "Pilot #002",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_70"] = "",
+    ["DictKey_UnitName_98"] = "",
+    ["DictKey_UnitName_129"] = "Pilot #011",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_ActionText_292"] = ">600",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_GroupName_63"] = "Vaziani Static #005",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_WptName_227"] = "",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_GroupName_132"] = "Wingman",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_GroupName_79"] = "Tbilisi inbound",
+    ["DictKey_UnitName_7"] = "Player",
+    ["DictKey_GroupName_185"] = "Lochini truck",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_WptName_262"] = "",
+    ["DictKey_ActionText_11"] = "F-15Cイーグルへようこそ。\
+\
+しかし、爆破を始める前に、まずこの鳥の始動方法と滑走路へのタキシング方法を学びましょう。\
+\
+まず、[右Shift + L]を押して電源を入れます。",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_GroupName_88"] = "New Helicopter Group",
+    ["DictKey_UnitName_197"] = "",
+    ["DictKey_WptName_241"] = "",
+    ["DictKey_GroupName_97"] = "Vaziani Static #009",
+    ["DictKey_GroupName_176"] = "Lochini static #002",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_ActionText_104"] = "滑走路に十分近づいたので、「ファイナルアプローチ」と呼ばれる状態になりました。HUDにはフライトディレクタークロスと呼ばれる十字が表示されており、それがあなたを導いてくれます。フライト・ディレクター・クロスに向かって速度ベクトルを操縦します。\
+\
+速度が落ちると、F-15は自動的に迎撃角（AOA）を大きくして水平飛行を維持します。HUDの左側にあるAOAの目盛りを見て、20くらいになるまでスロットルを戻します。AOAが高くなると、HUDの左下にデジタルAOAが表示されます。\
+\
+AoAが約20に達し、速度ベクトルをディレクタークロスに合わせたら、スペースバーを押して続行します。",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_122"] = "Unit #001",
+    ["DictKey_GroupName_100"] = "Vaziani Static #010",
+    ["DictKey_ActionText_42"] = "電源が入ると、ヘッドアップディスプレイ（HUD）が点灯し、多くの計器やコックピットの照明が点灯するのがわかります。\
+\
+電源が入ったので、エンジン始動を地上のクルーに知らせるために、いくつかの外部照明を点灯させます。\
+\
+アンチコリソンライトは、主翼と尾翼にある赤色の点滅ライトで、[右Alt + 右Ctrl + L]を押して点灯させます。\
+\
+航法灯は、機体の左右を示す赤と緑のライトで、[右Ctrl + L]を押して点灯させます。",
+    ["DictKey_UnitName_61"] = "",
+    ["DictKey_UnitName_206"] = "Pilot #005",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_WptName_266"] = "",
+    ["DictKey_ActionText_168"] = "このレッスンでは、ビジュアル・ランディングについて説明します。ビジュアル・ランディングとは、晴天の日中、視界が良好な場合に有効なシンプルな着陸方法です。\
+\
+現在、レッスンを一時停止しています。\
+\
+あなたはトビリシ・ロチニ国際空港の31番滑走路に着陸します。HUDのピッチスケールから判断して、約3度下の位置で滑走路に向けて降下を開始します。その後、速度ベクトルを滑走路に置くように操縦することで、F-15の着陸では標準的な3度のグライドスロープで滑走路に向かって降下していきます。\
+\
+スペースバーを押して続行します。",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_UnitName_31"] = "Pilot #003",
+    ["DictKey_UnitName_256"] = "Player",
+    ["DictKey_WptName_257"] = "",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_UnitName_159"] = "Pilot #006",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_GroupName_12"] = "Vaziani Static #001",
+    ["DictKey_UnitName_240"] = "Player",
+    ["DictKey_ActionText_114"] = "滑走路をロールダウンするときは、ごく小さなラダー入力で中央にアラインし続ける。\
+\
+120ノットに達したら、スティックをアフトスティックの半分に動かし、ノーズが上がってきたらピッチ姿勢10度で安定させる。",
+    ["DictKey_GroupName_18"] = "New Airplane Group",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_UnitName_133"] = "Wingman",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_WptName_223"] = "",
+    ["DictKey_UnitName_180"] = "",
+    ["DictKey_ActionText_210"] = "今度はスティックを使ってAOAを20～22に調整します。滑走路までこのAOAを維持し、スロットルを使って高度を調整し、速度ベクトルがディレクタークロスに重なるようにします。高度が高すぎる場合はスロットルを戻し、低すぎる場合はスロットルを上げる。スロットルの反応は遅いので、調整を予測して行うようにしてください。スロットルによる高度制御は直感的ではありませんが、練習すればすぐに慣れるでしょう。",
+    ["DictKey_UnitName_127"] = "Pilot #010",
+    ["DictKey_GroupName_72"] = "Overflight",
+    ["DictKey_GroupName_203"] = "F-15s",
+    ["DictKey_GroupName_66"] = "Vaziani Static #006",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_ActionText_50"] = "次に、[左Ctrl + C]を押してキャノピーを閉じます。",
+    ["DictKey_GroupName_43"] = "Tbilisi outbound #002",
+    ["DictKey_WptName_261"] = "",
+    ["DictKey_ActionText_103"] = "ATCはあなたに滑走路13を離陸するように指示しましたが、これは130度（つまり南東）の方向にある滑走路を意味します。なお、この同じ滑走路を逆方向から使用する場合は、130度から180度回転して310度となるため、「滑走路31」と呼ばれることになる。\
+\
+ほとんどの飛行場では、ATCは風に向かって離陸するように指示しますが、Vazianiでは北西にあるトビリシの街を飛び越えないように、風向きに関係なく常に13番滑走路から離陸します。\
+\
+スペースキーを押して続行します。",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_ActionText_169"] = "まあ、彼女を降ろしたのはいいが、地上職員は満足しないだろうな。(10点)\
+\
+もう一度やってみよう![ Esc]を押すと、このレッスンを終了することができます。",
+    ["DictKey_ActionText_120"] = "100ノット以下になったら、ゆっくりと機首を下げ、[W]キーを押しながらホイールブレーキをかけます。",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_ActionText_283"] = "タッチダウンゾーンの内側にタッチダウンした! (25点)\
+\
+[Esc]を押すと、レッスンを終了することができます。",
+    ["DictKey_UnitName_29"] = "Pilot #001",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_UnitName_302"] = "",
+    ["DictKey_GroupName_60"] = "Vaziani Static #004",
+    ["DictKey_GroupName_160"] = "Vaziani #001",
+    ["DictKey_WptName_303"] = "",
+    ["DictKey_WptName_226"] = "",
+    ["DictKey_UnitName_154"] = "",
+    ["DictKey_UnitName_9"] = "Wingman",
+    ["DictKey_UnitName_44"] = "Pilot #004",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_ActionText_106"] = "道を間違えました。向きを変えるか、[Esc]を押してレッスンを終了し、もう一度やり直してください。",
+    ["DictKey_ActionText_105"] = "次に、空軍基地のATC（航空管制）に起動許可を申請します。\
+1. [\\]を押して、通信メニューを開く。\
+2. [F5]を押してATCを選択する。\
+3.[ F1]を押して、現在のエアベースであるVazianiを選択します。\
+4.[ F3]を押して起動をリクエストします。\
+\
+Vazianiが起動を許可したら、[\\]を押して通信メニューを閉じ、スペースバーを押して続行します。",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_ActionText_291"] = "500",
+    ["DictKey_ActionText_110"] = "走り出すには、スロットルコントローラーを前に出すか、[Num+]を押して、前方に動きが出るまでゆっくりとスロットルを上げていきますが、75%RPMを超えないようにしてください(必要に応じてスロットルコントローラーを後ろに引くか、[Num-]を押してスロットルを下げてください)。\
+\
+ハンビーに続いて滑走路に入ります。\
+\
+スピードが出すぎた場合は、[W]を押してホイールブレーキをかけてください。",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_GroupName_182"] = "",
+    ["DictKey_UnitName_89"] = "Pilot #009",
+    ["DictKey_UnitName_13"] = "",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_WptName_232"] = "",
+    ["DictKey_ActionText_108"] = "イーグルを操縦するには、ノーズギア・ステアリングを使用します。左に曲がるときは[Z]、右に曲がるときは[X]のラダーコントロールで操縦してください。\
+\
+エンジンの始動が完了したら、スペースバーを押して続行します。",
+    ["DictKey_ActionText_109"] = "",
+    ["DictKey_WptName_229"] = "",
+    ["DictKey_UnitName_231"] = "Player",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_GroupName_126"] = "Su-25 landing",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_ActionText_267"] = "200ft/min以下でのタッチダウン、とても素晴らしいですね。(50点)",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_GroupName_301"] = "",
+    ["DictKey_ActionText_167"] = "このレッスンでは、F-15Cの着陸の基本を説明します。ウェイポイント1で前方のゲートに向かって飛行し、300ノットを維持してください。\
+\
+現在はナビゲーションモードになっていますが、ウェイポイント1を通過した後、ウェイポイント2に切り替わると、自動的にILSN（Instrument Landing System Navigation）モードに切り替わります。計器着陸システムは、水平方向と垂直方向のステアリングキューを表示して、あなたを滑走路まで誘導します。",
+    ["DictKey_UnitName_192"] = "",
+    ["DictKey_GroupName_230"] = "Player",
+    ["DictKey_WptName_247"] = "",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_GroupName_141"] = "Humvee",
+    ["DictKey_ActionText_107"] = "外は暗いので、[L]を押して内部のコックピットライトを点灯させます。",
+    ["DictKey_GroupName_51"] = "Su-25 landing 1",
+    ["DictKey_ActionText_86"] = "次に、左コンソールのハイライトされた「T/Oトリム」ボタンとランプを見てください。このボタンを押すと、ピッチ、ロール、ヨーの各トリムが離陸時の標準設定にリセットされます。ランプが点灯するまで[左Alt + T]を押し続けます。\
+\
+(このステップをスキップしても離陸することができます。スティックをもっと引く必要があります。)\
+\
+準備ができたらスペースバーを押してください。",
+    ["DictKey_ActionText_265"] = "滑走路に描かれた平行な白線の最初のペアを目指して、速度ベクトルを白線の間に置きます。",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_sortie_5"] = "F-15Cトレーニング - 05 - ビジュアルランディング",
+    ["DictKey_GroupName_121"] = "New Vehicle Group",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_GroupName_239"] = "Player",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_UnitName_16"] = "",
+    ["DictKey_ActionText_48"] = "HUDの右下にある「ILSN」の文字は、ILSNモードになったことを意味しています。スロットルを戻し、[B]を押してスピードブレーキを伸ばし、200～250ノットまで減速する。",
+    ["DictKey_WptName_259"] = "",
+    ["DictKey_ActionText_281"] = "あなたはタッチダウンゾーンでタッチダウンしませんでした。\
+\
+[Esc]を押してレッスンを終了してください。",
+    ["DictKey_ActionText_115"] = "垂直速度計が正の上昇率を示していることを確認し、[G]を押してランディングギアを上げます。その後、[F]を押してフラップを格納します。",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_GroupName_94"] = "Vaziani Static #008",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_ActionText_111"] = "タラップの端までタクシーで行き、誘導路を左折して滑走路に入ります。スピードが出すぎている場合は、ブレーキ［W］を使用してください。ハンビーのスピードに合わせてください。",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_WptName_236"] = "",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_UnitName_174"] = "",
+    ["DictKey_UnitName_177"] = "",
+    ["DictKey_UnitName_37"] = "Pilot #004",
+    ["DictKey_GroupName_36"] = "New Airplane Group #002",
+    ["DictKey_ActionText_275"] = "タッチダウン速度は約300ft/minでした。(30点)",
+    ["DictKey_ActionText_290"] = "300",
+    ["DictKey_UnitName_19"] = "Pilot #001",
+    ["DictKey_descriptionBlueTask_3"] = "トビリシ-ロチニに無事着陸。以下のようにポイントが付与されます。\
+- 着陸したが機体を損傷した場合 10点\
+- 無傷で着地：25点\
+- タッチダウンゾーン（滑走路の最初の3分の1）にタッチダウンした：25点\
+- 400～600ft/minでタッチダウン：20点\
+- 200-400ft/minでタッチダウン：30点\
+- 200ft/min以下でタッチダウン：50点",
+    ["DictKey_ActionText_251"] = "この時点で、AOAは20～22、滑走路は地平線から約3度下にあるはずです。スロットルを使って、速度ベクトルが滑走路の始点に重なるように調整する。これで、最適な3度のグライドスロープで滑走路に向かって降下することになる。",
+    ["DictKey_WptName_235"] = "",
+    ["DictKey_ActionText_219"] = "HUDの左側にある目盛りに表示されているAOAを見てください。減速していくとAOAは大きくなり、20近くになったらスティックを使って滑走路に着くまで20～22の間を保つようにする。その後、スロットルを使って高度を調整し、速度ベクトルが行きたいところに来るようにする。高すぎる場合はスロットルを戻し、低すぎる場合はスロットルを上げる。スロットルの反応は遅いので、調整を予測して行うようにしてください。\
+\
+速度ベクトルが点滅する場合は、実際の位置がHUDの外に出ているため、自分が思っているよりも早く下降している可能性があります。",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_ActionText_49"] = "ノーズギアストラットには、タキシングライトとランディングライトがあり、ギアがダウンしているときに使用することができます。今日の夕方のように、暗い場所でタキシングするときは、[右Alt+L]を1回押してタキシングライトを点灯させてください。今すぐ実行してください。",
+    ["DictKey_ActionText_118"] = "おめでとうございます。あなたは今、イーグルで始動し、離陸したところです!\
+\
+滑走路の長さや急いでいる状況に応じて、スロットルをMILまたはMAX（アフターバーナー）のどちらかで離陸することができます。\
+\
+これでこのレッスンは終了です。Esc]を押すと、レッスンを終了することができます。",
+    ["DictKey_descriptionText_1"] = "このレッスンでは、イーグルのビジュアル・ランディングについて説明します。目的地であるトビリシ・ローチニ国際空港への直行便で飛行を開始します。\
+\
+ヴィジュアル・ランディングのコンセプトはシンプルです。\
+1. 1.250ノット以下に減速し、ギアとフラップを下げる。\
+2. 2. AOA（迎え角）が約20になったら、スティックで20～22の間に保ち、スロットルで高度をコントロールする。\
+3. 3. 滑走路が地平線から3度下がったところで、スロットルを調整して速度ベクトルを滑走路の始点付近に置き、3度のグライドパスに沿って滑走路に向かうようにする。\
+4. 4. タッチダウンまであと数秒のところでフレアをかけ（速度ベクトルが地平線のすぐ下に来るまでスティックを引き上げ、約半度）、スロットルをアイドルにする。\
+5. 5. タッチダウンしたら、13度のピッチ姿勢に戻してエアロブレーキをかける。\
+6. 6. 100ノット以下になったら、機首を下げ、ホイールブレーキをかけて停止する。\
+\
+レッスン時間 6分\
+\
+前提条件\
+01. 導入と基本操作\
+02. 迎角とGs\
+\
+\
+キーコマンド\
+\
+スピードブレーキ [B]\
+ランディングギア [G]\
+トグルフラップアップ/ダウン [F]\
+ホイールブレーキ [W]",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_UnitName_222"] = "Player",
+    ["DictKey_ActionText_249"] = "スロットルをアイドリング状態にします。\
+\
+レッスンが中止になったら、前方のゲートを通過してください。250ノット以下になったら、ランディングギアとフラップを伸ばしてください。\
+\
+迎え角（AOA）はHUDの左側、対気速度の目盛りのすぐ内側に表示されていることを覚えておいてください。減速すると、F-15は自動的にAOAを増やして新しい飛行条件に適応します。AOAが20程度になったら、スティックを使ってAOAを20～22の間（着陸に最適な範囲）に保ち、スロットルで高度を調整します。スロットルで高度をコントロールするのは直感的ではありませんが、練習すればすぐに慣れるでしょう。\
+\
+準備ができたら、スペースバーを押してレッスンの一時停止を解除します。",
+} -- end of dictionary
