@@ -1,0 +1,332 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "AAA #006",
+    ["DictKey_UnitName_72"] = "Unit #001",
+    ["DictKey_UnitName_212"] = "USS Kauffman",
+    ["DictKey_UnitName_67"] = "Unit #034",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_GroupName_23"] = "AAA #001",
+    ["DictKey_GroupName_125"] = "AAA #019",
+    ["DictKey_UnitName_135"] = "Unit #024",
+    ["DictKey_UnitName_150"] = "Stannis",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_GroupName_47"] = "AAA #001",
+    ["DictKey_GroupName_79"] = "AAA #008",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_GroupName_113"] = "AAA #015",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_UnitName_102"] = "AAA #004",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_UnitName_108"] = "AAA #006",
+    ["DictKey_UnitName_90"] = "Unit #051",
+    ["DictKey_sortie_5"] = "",
+    ["DictKey_GroupName_176"] = "IRSAM #004",
+    ["DictKey_UnitName_76"] = "Unit #005",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_UnitName_123"] = "Unit #019",
+    ["DictKey_GroupName_6"] = "AAA",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_UnitName_163"] = "Unit #062",
+    ["DictKey_UnitName_66"] = "Unit #033",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_UnitName_168"] = "Unit #064",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_UnitName_130"] = "Unit #023",
+    ["DictKey_UnitName_43"] = "Unit #016",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_UnitName_206"] = "Pilot #002",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_UnitName_49"] = "Unit #002",
+    ["DictKey_UnitName_171"] = "Unit #065",
+    ["DictKey_GroupName_146"] = "AAA #023",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_GroupName_119"] = "AAA #017",
+    ["DictKey_UnitName_48"] = "Unit #001",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_GroupName_205"] = "New Airplane Group #001",
+    ["DictKey_UnitName_57"] = "Unit #026",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_UnitName_111"] = "AAA #007",
+    ["DictKey_UnitName_35"] = "Unit #010",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_UnitName_159"] = "Unit #058",
+    ["DictKey_UnitName_188"] = "Pilot #002",
+    ["DictKey_UnitName_162"] = "Unit #061",
+    ["DictKey_UnitName_105"] = "AAA #005",
+    ["DictKey_UnitName_27"] = "Unit #003",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_GroupName_95"] = "AAA #004",
+    ["DictKey_GroupName_18"] = "New Airplane Group",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_GroupName_170"] = "IRSAM #002",
+    ["DictKey_GroupName_179"] = "IRSAM #005",
+    ["DictKey_GroupName_116"] = "AAA #016",
+    ["DictKey_UnitName_117"] = "AAA #009",
+    ["DictKey_GroupName_201"] = "",
+    ["DictKey_ActionText_192"] = "score()",
+    ["DictKey_UnitName_81"] = "Unit #044",
+    ["DictKey_UnitName_40"] = "Unit #013",
+    ["DictKey_UnitName_89"] = "Unit #050",
+    ["DictKey_GroupName_149"] = "Georgian Fleet",
+    ["DictKey_GroupName_31"] = "AAA #002",
+    ["DictKey_UnitName_114"] = "AAA #008",
+    ["DictKey_UnitName_183"] = "player",
+    ["DictKey_UnitName_93"] = "Unit #054",
+    ["DictKey_UnitName_50"] = "Unit #003",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_UnitName_60"] = "Unit #029",
+    ["DictKey_UnitName_30"] = "Unit #006",
+    ["DictKey_UnitName_84"] = "Unit #047",
+    ["DictKey_GroupName_194"] = "New Airplane Group #002",
+    ["DictKey_GroupName_182"] = "TomKitty",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_UnitName_59"] = "Unit #028",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_GroupName_197"] = "New Airplane Group #001",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_UnitName_10"] = "Unit #001",
+    ["DictKey_ActionText_215"] = "score()",
+    ["DictKey_UnitName_19"] = "Pilot #001",
+    ["DictKey_descriptionBlueTask_3"] = "これらの橋はイングリ川を渡るMSRと主要ASRのアクセスを危険にさらすため、橋3-6が優先される。アブハジアの防衛はほとんどがAAA、レーダーと肉眼誘導、およびMANPADで構成されている。しかし、彼らは明らかにドイツ製のGepard SPAAGを獲得したので、ShilkaとZU-23ベースのプラットフォームに加えて、それらのために警戒してくれ。\
+\
+NOTE: ブリッジ4のターゲットは島への北鉄道橋だ。南部の鉄道橋と道路橋は現在ターゲットになっていない。\
+\
+天気はかなり荒れていて雷雨が続いているが、物事は君が爆撃するには十分に晴れ始めている。\
+\
+健闘を祈る。以上。\
+\
+Frequencies: 258 Mhz AM - CVN 74\
+\
+CVN 74 John C Stennis Carrier Group\
+TACAN: 74X\
+ILCS: 4\
+",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_UnitName_129"] = "Unit #022",
+    ["DictKey_GroupName_143"] = "AAA #022",
+    ["DictKey_UnitName_73"] = "Unit #002",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_UnitName_56"] = "Unit #025",
+    ["DictKey_UnitName_132"] = "Pilot #001",
+    ["DictKey_UnitName_80"] = "Unit #043",
+    ["DictKey_UnitName_138"] = "Unit #037",
+    ["DictKey_UnitName_32"] = "Unit #007",
+    ["DictKey_UnitName_29"] = "Unit #005",
+    ["DictKey_GroupName_131"] = "New Airplane Group",
+    ["DictKey_UnitName_198"] = "Pilot #002",
+    ["DictKey_UnitName_128"] = "Unit #021",
+    ["DictKey_UnitName_141"] = "Unit #038",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_UnitName_52"] = "Unit #005",
+    ["DictKey_GroupName_173"] = "IRSAM #003",
+    ["DictKey_UnitName_7"] = "AAA #001",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_GroupName_71"] = "AAA #001",
+    ["DictKey_UnitName_158"] = "Unit #057",
+    ["DictKey_UnitName_45"] = "Unit #018",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_UnitName_41"] = "Unit #014",
+    ["DictKey_UnitName_154"] = "Unit #042",
+    ["DictKey_GroupName_137"] = "AAA #020",
+    ["DictKey_UnitName_42"] = "Unit #015",
+    ["DictKey_UnitName_126"] = "Unit #020",
+    ["DictKey_UnitName_44"] = "Unit #017",
+    ["DictKey_UnitName_213"] = "USS Shiloh",
+    ["DictKey_UnitName_28"] = "Unit #004",
+    ["DictKey_UnitName_144"] = "Unit #039",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_UnitName_83"] = "Unit #046",
+    ["DictKey_UnitName_91"] = "Unit #052",
+    ["DictKey_UnitName_75"] = "Unit #004",
+    ["DictKey_UnitName_88"] = "Unit #049",
+    ["DictKey_UnitName_34"] = "Unit #009",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_descriptionText_1"] = "アブハジア軍と反乱軍が、グルジアへの侵攻を開始した。グルジアを同盟国は支援するために、君達は爆撃任務を行ってもらう。イングリ川を渡るどんな橋でも、壊すことができる。 ",
+    ["DictKey_GroupName_187"] = "New Airplane Group #001",
+    ["DictKey_GroupName_87"] = "AAA #009",
+    ["DictKey_GroupName_101"] = "AAA #011",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_UnitName_64"] = "Unit #031",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_UnitName_165"] = "Unit #063",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_UnitName_156"] = "Unit #055",
+    ["DictKey_GroupName_104"] = "AAA #012",
+    ["DictKey_GroupName_167"] = "IRSAM #001",
+    ["DictKey_UnitName_180"] = "Unit #068",
+    ["DictKey_UnitName_26"] = "Unit #002",
+    ["DictKey_UnitName_85"] = "Unit #048",
+    ["DictKey_UnitName_33"] = "Unit #008",
+    ["DictKey_GroupName_14"] = "",
+    ["DictKey_UnitName_82"] = "Unit #045",
+    ["DictKey_UnitName_160"] = "Unit #059",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_UnitName_58"] = "Unit #027",
+    ["DictKey_UnitName_147"] = "Unit #040",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_UnitName_68"] = "Unit #035",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_GroupName_134"] = "AAA #007",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_UnitName_161"] = "Unit #060",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_UnitName_202"] = "",
+    ["DictKey_GroupName_9"] = "AAA #001",
+    ["DictKey_ActionText_186"] = "    local bridgeObjects = {}\
+    local zones = {'b1','b2','b3','b4','b5','b6'}\
+    local segments = {}\
+\
+    local function addEventHandler(f) \
+        local handler = {}\
+        handler.id = 1\
+        handler.f = f\
+        function handler:onEvent(event)\
+            self.f(event)\
+        end\
+        world.addEventHandler(handler)\
+        return handler.id\
+    end\
+    \
+    local function deadEvent(e)\
+        if e.id == 8 then\
+            if bridgeObjects[Object.getName(e.initiator)] then\
+                bridgeObjects[Object.getName(e.initiator)].status = false\
+                trigger.action.setUserFlag(tostring(bridgeObjects[Object.getName(e.initiator)].bridgeId), true)\
+            end\
+        end    \
+    end\
+    \
+    local ifFound = function(foundItem, val)\
+        local name = foundItem:getName()\
+        if not bridgeObjects[name] then\
+            env.info('added: ' .. name)\
+            bridgeObjects[name] = {p = foundItem:getPosition().p, bridgeId = val, status = true}\
+        end\
+       \
+        return true\
+     end\
+    for i = 1, #zones do\
+        local sphere = trigger.misc.getZone(zones[i])\
+        local volS = {\
+            id = world.VolumeType.SPHERE,\
+            params = {\
+                point = sphere.point,\
+                radius = sphere.radius\
+            }\
+        }\
+        world.searchObjects(Object.Category.SCENERY, volS, ifFound, i)\
+    end\
+    addEventHandler(deadEvent)\
+\
+     function score()\
+        \
+        local msg = {}\
+        local totalObjs = 0\
+        local totalDest = 0\
+        for name, data in pairs(bridgeObjects) do\
+            totalObjs = totalObjs + 1\
+            if data.status == false then \
+                totalDest = totalDest + 1\
+            end\
+        end\
+        \
+        \
+        msg[#msg+1] =  totalDest .. ' of ' .. totalObjs .. ' destroyed \\n'\
+        for i = 1, #segments do\
+            msg[#msg+1] = '  Bridge ' .. i .. ' Status: ' \
+            for j = 1, #segments[i] do\
+                if bridgeObjects[segments[i][j]].status == true then \
+                    msg[#msg+1] = ' A '\
+                else\
+                    msg[#msg+1] = ' D '\
+                end\
+            end\
+            msg[#msg+1] = '\\n'\
+        end\
+        trigger.action.outText(table.concat(msg), 30, true)\
+\
+\
+    end\
+   \
+    \
+    -- populate segment data\
+    local ref = coalition.getMainRefPoint(1)\
+    for name, data in pairs(bridgeObjects) do\
+        if not segments[data.bridgeId] then\
+            segments[data.bridgeId] = {}\
+        end\
+        if #segments[data.bridgeId] == 0 then -- add to first item\
+            table.insert(segments[data.bridgeId], name)\
+        else -- figure out where to insert it into the list\
+            local newDist = ((ref.x + data.p.x)^2 + (ref.z + data.p.z)^2)^0.5\
+            for i = 1, #segments[data.bridgeId] do\
+                -- iterate list of segments\
+                local dist = ((ref.x + bridgeObjects[segments[data.bridgeId][i]].p.x)^2 + (ref.z + bridgeObjects[segments[data.bridgeId][i]].p.z)^2)^0.5\
+                if newDist < dist then\
+                    table.insert(segments[data.bridgeId], i, name)\
+                    break\
+                end\
+                if i == #segments[data.bridgeId] then\
+                    table.insert(segments[data.bridgeId], name)\
+                end\
+            end\
+        end\
+    end",
+    ["DictKey_UnitName_217"] = "Pilot #001",
+    ["DictKey_GroupName_122"] = "AAA #018",
+    ["DictKey_GroupName_98"] = "AAA #010",
+    ["DictKey_GroupName_140"] = "AAA #021",
+    ["DictKey_GroupName_39"] = "AAA #003",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_UnitName_99"] = "AAA #003",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_UnitName_195"] = "Pilot #003",
+    ["DictKey_GroupName_55"] = "AAA #005",
+    ["DictKey_UnitName_53"] = "Unit #006",
+    ["DictKey_GroupName_107"] = "AAA #013",
+    ["DictKey_UnitName_24"] = "Unit #001",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_GroupName_153"] = "SAM",
+    ["DictKey_GroupName_110"] = "AAA #014",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_UnitName_74"] = "Unit #003",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_UnitName_36"] = "Unit #011",
+    ["DictKey_UnitName_120"] = "AAA #010",
+    ["DictKey_UnitName_157"] = "Unit #056",
+    ["DictKey_UnitName_174"] = "Unit #066",
+    ["DictKey_UnitName_177"] = "Unit #067",
+    ["DictKey_UnitName_37"] = "Unit #012",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_UnitName_69"] = "Unit #036",
+    ["DictKey_UnitName_77"] = "Unit #006",
+    ["DictKey_UnitName_65"] = "Unit #032",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_UnitName_61"] = "Unit #030",
+    ["DictKey_ActionRadioText_193"] = "Check Score",
+    ["DictKey_GroupName_216"] = "New Airplane Group",
+    ["DictKey_UnitName_96"] = "AAA #002",
+    ["DictKey_UnitName_92"] = "Unit #053",
+    ["DictKey_UnitName_51"] = "Unit #004",
+    ["DictKey_UnitName_15"] = "",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_GroupName_164"] = "IRSAM",
+    ["DictKey_WptName_8"] = "",
+} -- end of dictionary
