@@ -1,0 +1,80 @@
+dictionary = 
+{
+    ["DictKey_UnitName_14"] = "Pilot #003",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_ActionText_40"] = "",
+    ["DictKey_ActionText_45"] = "まず、ミサイルを却するために、ACMパネルでサイドワインダー冷却を有効にする必要があります。 SW COOLを押して、ONライトが表示されていることを確認してください。  \
+\
+ミサイルはREADYと表示されますが、シーカーの性能を完全に発揮するには冷却に60秒かかります。",
+    ["DictKey_GroupName_22"] = "Flogger",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_GroupName_9"] = "Gunfighter 2-1",
+    ["DictKey_ActionText_52"] = "サイドワインダーを選択するには、スティックのウェポンセレクターボタンを2回押します。 HUDの武装凡例には「SW」と表示されます。\
+\
+ACMパネルのHOT TRIGランプは、ミサイルが発射する準備ができていることを示します。 選択された個々のミサイルはステーションステータスフラグに表示されます。",
+    ["DictKey_UnitName_31"] = "Pilot #006",
+    ["DictKey_ActionText_44"] = "ウェルカムバック、パイロット！今日はAIM-9 Sidewinderミサイルの使い方を学びます。\
+\
+F-14Bは、ウィングステーションで最大4発のサイドワインダーを携行することができます。 サイドワインダーは熱源を追尾する赤外線誘導ミサイルです。",
+    ["DictKey_UnitName_7"] = "Pilot #001",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_ActionText_46"] = "カバーを開き、スイッチをONにしてマスターアームをオンにします。",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_UnitName_27"] = "Pilot #005",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_UnitName_23"] = "Pilot #004",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_UnitName_18"] = "Pilot #003",
+    ["DictKey_ActionText_58"] = "よくやった！ 必要に応じて、ウェイポイント2と3の近くの他のターゲットで練習することができます。これでチュートリアルは終了です。",
+    ["DictKey_ActionText_47"] = "ディスプレイモードをAir-to-Airに設定します。",
+    ["DictKey_sortie_5"] = "F-14B tutorial Weapons Employments AIM-9",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_ActionText_43"] = "Bloop",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_UnitName_17"] = "Target 1",
+    ["DictKey_UnitName_10"] = "Gunfighter 2-1",
+    ["DictKey_GroupName_6"] = "Tiger",
+    ["DictKey_ActionText_56"] = "Tomcatは、Sidewinder Enhanced Acquisition Mode（SEAM）を使用することもできます。このモードでは、シーカーヘッドが4.5秒間ダブル-DシェイプでHUD全体をスイープします。 これは、CAGE SEAMボタンを押して選択します。 検出された熱源のロックをするには、CAGE SEAMをもう一度押します。\
+\
+ミサイルがターゲットを見つけてロックした場合、SEAM LOCKライトは点灯したままになります。 ターゲットが見つからない場合、ミサイルは再度ケージされ、ライトは非アクティブになります。 ロックされると、シーカーヘッドはターゲットを追跡できなくなるかターゲットがシーカーヘッドの領域から外れるまで、ターゲットにロックされたままになります。\
+\
+シーカーモードに関係なく安定したトーンが得られたら、トリガーを絞ってミサイルを発射するだけです。\
+\
+準備ができたらSpaceキーを押します。 正面にいる機体を撃墜してください。",
+    ["DictKey_GroupName_16"] = "Frogfoot",
+    ["DictKey_descriptionText_1"] = "F-14Bトムキャット、第101戦闘飛行隊「グリムリーパーズ（死神）」\
+機内燃料100％、空のドロップタンク、AIM-9M“ Sidewinder”　×4発、20 mm弾×676発\
+\
+今日のチュートリアルでは、AIM-9 Sidewinderの空対空での使用について説明します。 また、CAGE / SEAMシステムの使用についても説明します。 マニュアルの関連セクション、特にWeapons Employment Overviewをよく読んでください。\
+\
+ターゲット：\
+SU-25T「フロッグフット」ドローン：SUKHUMI空港上空10.000フィートを旋回（WP1）\
+F-5E-3「タイガー」ドローン：GALI貯水池上空15.000フィートを旋回 （WP2）\
+MiG-23「フロッガー」パッシブディフェンス：GUDAUTA空軍基地上空20.000フィートを旋回（WP3）",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionComment_41"] = "DictKey_ActionComment_41",
+    ["DictKey_ActionText_60"] = "Tomcatは、Sidewinder Enhanced Acquisition Mode（SEAM）を使用することもできます。このモードでは、シーカーヘッドが4.5秒間ダブル-DシェイプでHUD全体をスイープします。 これは、CAGE SEAMボタンを押して選択します。 検出された熱源のロックをするには、CAGE SEAMをもう一度押します。\
+\
+ミサイルがターゲットを見つけてロックした場合、SEAM LOCKライトは点灯したままになります。 ターゲットが見つからない場合、ミサイルは再度ケージされ、ライトは非アクティブになります。 ロックされると、シーカーヘッドはターゲットを追跡できなくなるかターゲットがシーカーヘッドの領域から外れるまで、ターゲットにロックされたままになります。\
+\
+シーカーモードに関係なく安定したトーンが得られたら、トリガーを絞ってミサイルを発射するだけです。\
+\
+準備ができたらSpaceキーを押します。 正面にいる機体を撃墜してください。",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_GroupName_30"] = "Candid #002",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_54"] = "デフォルトでは、サイドワインダーシーカーはADLクロスの周りをサーチするためにスレーブになっています。 ミサイルが対象を発見すると、生成されたトーンのピッチが上がります。\
+\
+目標がすでにWCSまたはTCSによってロックされている場合、ミサイルシーカーは自動的にその目標に向かって動きます。 PLMまたはパイロットロックオンモード、またはPAL、VSL HI、VSL LOなどの他のACMロックオンモードを使用してターゲットをロックできます。\
+\
+検出されたターゲットのシーカーをアンケージにして、シーカーに自分で熱源を追跡させるには、スロットルのCAGE SEAMボタンを押す必要があります。",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_ActionText_42"] = "",
+} -- end of dictionary

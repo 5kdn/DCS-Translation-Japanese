@@ -1,0 +1,234 @@
+dictionary = 
+{
+    ["DictKey_GroupName_138"] = "New Static Object #010",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_UnitName_67"] = "",
+    ["DictKey_ActionText_53"] = "RIO：\
+ガンファイター2-1、イニシャル。\
+\
+Senakhi タワー：\
+ガンファイター 2-1 ウィンド 290°3ノット。 ランウェイ27へのオーバーヘッドブレイクでのアプローチを許可します。\
+左に基地を確認したら報告してください。",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_ActionText_55"] = "OK、さあ行きますよ、左ブレイク！、ゲートをたどり続けてください。",
+    ["DictKey_GroupName_132"] = "New Static Object #008",
+    ["DictKey_ActionText_49"] = "こんにちは、パイロット。 本日、あなたは飛行場にF-14B Tomcatを着陸させる方法を学びます。 私達は空母への\
+着艦と同じオーバーヘッドブレイクからのランディング手順を使用します。\
+\
+フライトの前に図を確認してください。\
+ | 我々は、左のオーバーヘッドブレイクでSenaki空軍基地に着陸します。 ランウェイに並んでいる状態です。  \
+\
+RIOがすべての通信呼び出しを処理し、LSOがアプローチの各段階をコールします。 残念ながら、この空軍基地には\
+光学着陸誘導装置がありません。\
+\
+あなたが着陸パターンをたどるための一連のゲートが置かれているはずです。 それらはあなたを導くのを助けますが、\
+必ずしもそれらをくぐったりすぐ近くをを飛ぶ必要はありません。\
+\
+目の前のイニシャル地点から最初のゲートに向かって飛行し、350ノットと800フィートAGLを維持します。",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_UnitName_145"] = "New Static Object #010",
+    ["DictKey_UnitName_121"] = "New Static Object #002",
+    ["DictKey_GroupName_40"] = "New Static Object #004",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_ActionText_64"] = "グッドランディング、パイロット。 よくやった。 \
+あなたはパワーアップして離陸し、着陸をもう一度試みるか、先に進んで駐機するかを選択できます。\
+\
+レッスンを終了する場合は、ランウェイに沿って進み、最後にメインエプロンまでタキシングします。 これでレッスンは終了です。\
+\
+ESCキーを押してからEXITを選んでミッションを終了することができます。",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_GroupName_6"] = "Gunfighter 2-1",
+    ["DictKey_ActionText_56"] = "280 ノットでウィングスイープをAUTOに設定します。\
+\
+250ノットでランディングギアを下げます。\
+\
+225ノットで、フラップをDownに設定します。\
+\
+フラップが展張し600フィートまで降下したら、DLCをオンにします。",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_GroupName_28"] = "New Static Object",
+    ["DictKey_GroupName_129"] = "New Static Object #007",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_ActionComment_88"] = "DictKey_ActionComment_88",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_UnitName_130"] = "New Static Object #005",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_ActionText_87"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_153"] = "こんにちは、パイロット。 本日、あなたは飛行場にF-14B Tomcatを着陸させる方法を学びます。 私達は空母への\
+着艦と同じオーバーヘッドブレイクからのランディング手順を使用します。\
+\
+フライトの前に図を確認してください。\
+ | 我々は、左のオーバーヘッドブレイクでGudauta空軍基地に着陸します。 ランウェイに並んでいる状態です。  \
+\
+RIOがすべての通信呼び出しを処理し、LSOがアプローチの各段階をコールします。 残念ながら、この空軍基地には\
+光学着陸誘導装置がありません。\
+\
+あなたが着陸パターンをたどるための一連のゲートが置かれているはずです。 それらはあなたを導くのを助けますが、\
+必ずしもそれらをくぐったりすぐ近くをを飛ぶ必要はありません。\
+\
+目の前のイニシャル地点から最初のゲートに向かって飛行し、350ノットと800フィートAGLを維持します。",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_UnitName_38"] = "New Static Object #002",
+    ["DictKey_UnitName_35"] = "New Static Object",
+    ["DictKey_ActionText_62"] = "さて、パイロット。 あなたはTomcatを海軍に借りているようですね。 でも心配しないでください、練習でマスターできます。\
+私はあなたがすぐにもう一度試すことをお勧めします。",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_GroupName_120"] = "New Static Object #004",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_UnitName_133"] = "New Static Object #007",
+    ["DictKey_ActionText_54"] = "ブレイク地点に近づいています。\
+ブレイクの際にはスピードブレーキを展張します。 45〜60度左にロールして水平旋回、800フィートAGLを維持します。 \
+スロットルをIDLEに戻します。 ゲートをたどるようにしてください。",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_GroupName_31"] = "New Static Object #001",
+    ["DictKey_GroupName_117"] = "New Static Object #003",
+    ["DictKey_UnitName_127"] = "New Static Object #005",
+    ["DictKey_ActionText_51"] = "ウィングを68°まで後方いっぱいにスイープします。\
+\
+あなたはリフトの減少を補うためにノーズアップのトリム調整をしなければならないでしょう。",
+    ["DictKey_GroupName_66"] = "",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_50"] = "着艦フックのワーニングを回避するためフックバイパスをFieldにセットし、アンチスキッドがBothに設定されていることを\
+確認してください。",
+    ["DictKey_GroupName_43"] = "New Static Object #005",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_UnitName_32"] = "New Static Object",
+    ["DictKey_UnitName_29"] = "",
+    ["DictKey_GroupName_46"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_GroupName_114"] = "New Static Object #002",
+    ["DictKey_ActionText_61"] = "LSO：\
+グルーブ\
+\
+DLCを使うことを忘れないでください。 着地までずっと適正速度AoAを維持するようにしてください。 タッチダウン時にはF-14を\
+フレアさせるのではなく、車輪に重量がかかるまで適正速度、適正AOAで機体を安定させます。 \
+タッチダウン後、エレベータを追加のエアブレーキとして使用するためにスティックを後ろいっぱいに引きます。\
+できればノーズホイールステアリングのために十分に減速するまでは、機体の操作はラダーの代わりに横方向のスティック操作\
+を使用してください。",
+    ["DictKey_GroupName_144"] = "New Static Object #012",
+    ["DictKey_UnitName_148"] = "New Static Object #012",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_ActionText_89"] = "RIO：\
+左に基地、ランウェイ33、ギアダウンしてロック、ガンファイター2-1\
+\
+Gudautaタワー：\
+ガンファイター2-1、ウインド320°、3ノット、ランウェイ33への着陸を許可します。\
+\
+RIO：\
+ガンファイター2-1、ランウェイ33に着陸します。",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_descriptionText_1"] = "",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_GroupName_37"] = "New Static Object #003",
+    ["DictKey_GroupName_126"] = "New Static Object #006",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_UnitName_124"] = "New Static Object #002",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_GroupName_141"] = "New Static Object #011",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_UnitName_112"] = "New Static Object",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_ActionText_52"] = "PDCPでランディングモードを選択します。",
+    ["DictKey_UnitName_139"] = "",
+    ["DictKey_WptName_10"] = "",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_GroupName_147"] = "New Static Object #013",
+    ["DictKey_GroupName_123"] = "New Static Object #005",
+    ["DictKey_ActionText_80"] = "",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_UnitName_142"] = "New Static Object #010",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_GroupName_135"] = "New Static Object #009",
+    ["DictKey_ActionText_65"] = "RIO：\
+ガンファイター2-1、イニシャル。\
+\
+Gudautaタワー：\
+ガンファイター2-1、ウインド320°、3ノット。 ランウェイナンバー通過後の左ブレイクでのオーバーヘッドアプローチを\
+許可します。 左に基地を確認、ランウェイ33を確認、ランディングギアを降ろしロックを確認したら報告してください。 \
+\
+RIO：\
+左に基地を確認したら報告します。ガンファイター2-1",
+    ["DictKey_ActionText_58"] = "LSO：\
+ダウンウィンドレグ\
+\
+あなたの翼端が滑走路の端に達するのが見えるまで、ゲートをたどりながら速度を落とし、そして高度600フィートを維持\
+するために必要に応じてパワーを調整してください。  \
+\
+最適速度は15ユニットの迎え角で、HUD左側のAOAインジケータ中央にオレンジ色の円が表示されているか、下のAOA\
+テープが15ユニットを示しており、HUD上のEブラケットが機体基準点の中心にあることで確認できます。\
+\
+繊細なトリム、スロットル、スティック（ピッチ）、およびDLC調整を組み合わせてスピードを維持し、水平飛行を維持します。",
+    ["DictKey_UnitName_41"] = "New Static Object #003",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_UnitName_7"] = "Gunfighter 2-1",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_GroupName_34"] = "New Static Object #002",
+    ["DictKey_UnitName_115"] = "New Static Object #001",
+    ["DictKey_GroupName_111"] = "New Static Object #001",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_ActionText_63"] = "",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_ActionText_57"] = "フラップをDownに設定してください。\
+\
+操縦桿のDLCトグル/カウンターメジャーボタンであなたのDLCをオンしてください。",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_UnitName_136"] = "New Static Object #008",
+    ["DictKey_descriptionBlueTask_3"] = "本日、あなたはトムキャットを着陸させる方法と、空母オペレーションの準備として飛行場で海軍式オーバーヘッド\
+ブレイクを実行する方法を学びます。\
+\
+あなたはGudauta飛行場のランウェイ33に向かって、イニシャル状態にあります。本日は左ブレイクで行います。 \
+風は穏やかでランウェイに向かって吹いています。\
+\
+本日の機体：非武装、空のドロップタンク、40％の燃料、総重量：51000ポンド\
+\
+本日のあなたのコールサイン：ガンファイター2-1、VF-101",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_ActionText_60"] = "LSO：\
+90\
+\
+グライドスロープ、または実際にはグライドスロープのグルーブと呼ばれる部分をつかまえるために、適正速度AOAと同様に、\
+安定した旋回率および下降率を保ってください。",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_UnitName_44"] = "New Static Object #004",
+    ["DictKey_sortie_5"] = "F-14 Tutorial, Shore-based procedures. Field Landing Carrier Practice",
+    ["DictKey_UnitName_47"] = "",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_ActionText_59"] = "LSO：\
+180\
+\
+左旋回を開始し、ポーチを反転、「ベースレグ」に着実に降下します。\
+\
+グライドパスをコントロールするためにDLCを使うことができます。 DLCを展張すると、安定したピッチ、スロットル、および\
+AOAを維持しながら、機体を降下させることができます。\
+DLCスラットを格納すると、安定したピッチ、スロットル、およびAOAを維持しながら機体を上昇させることができます。 \
+引き続きゲートをたどってください。",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_UnitName_118"] = "New Static Object #002",
+} -- end of dictionary

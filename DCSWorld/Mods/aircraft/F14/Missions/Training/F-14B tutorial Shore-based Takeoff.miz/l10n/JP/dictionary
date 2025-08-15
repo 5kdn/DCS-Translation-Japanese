@@ -1,0 +1,188 @@
+dictionary = 
+{
+    ["DictKey_UnitName_59"] = "New Static Object",
+    ["DictKey_GroupName_52"] = "New Static Object",
+    ["DictKey_ActionText_92"] = "F-14Bでは、ランディングギアへの対気速度制限およびアフターバーナーのフレームアウトおよび非対称推力発生の\
+リスクがあるため、離陸はミリタリーパワーのみで行われます。\
+\
+あなたはノーズホイールステアリングの切り離しを選択できます。 これは通常、RIOからの100ノットのコールを受けて\
+行われます。\
+\
+スロットルを100％RPMに進めます。\
+\
+140ノットで機首上げ開始、スティックをしっかりと、しかし優しく手前に引きます。 \
+機体は約150ノットで持ち上がるはずです。",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_GroupName_67"] = "New Static Object #019",
+    ["DictKey_GroupName_49"] = "New Static Object #014",
+    ["DictKey_UnitName_135"] = "New Static Object #002",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_UnitName_62"] = "New Static Object #016",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_UnitName_32"] = "New Static Object #004",
+    ["DictKey_ActionText_91"] = "ランウェイ上に進んでください。\
+\
+***続けるためにスペースバーを押してください***\
+\
+\
+\
+\
+",
+    ["DictKey_GroupName_46"] = "New Static Object #013",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_UnitName_7"] = "Gunfighter 21",
+    ["DictKey_ActionText_85"] = "アンチスキッドをBOTHに設定します。\
+\
+HUDがテイクオフモードに設定されていることを確認してください。  \
+\
+これにより、垂直速度がHUDの左側に表示されます。",
+    ["DictKey_GroupName_73"] = "New Static Object #015",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_GroupName_76"] = "New Static Object #022",
+    ["DictKey_UnitName_20"] = "New Static Object #001",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_GroupName_40"] = "New Static Object #011",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_UnitName_44"] = "New Static Object #011",
+    ["DictKey_ActionText_89"] = "スティックのサムホイールを押して、マニューバフラップを下げます。 翼とフラップインジケーターを目視で確認してください。\
+フラップをいっぱいまで下げることもできますが、マニューバフラップで十分です。\
+\
+***続けるためにスペースバーを押してください***",
+    ["DictKey_sortie_5"] = "F14B Shore-based Takeoff",
+    ["DictKey_UnitName_47"] = "",
+    ["DictKey_GroupName_13"] = "New Static Object #002",
+    ["DictKey_GroupName_10"] = "New Static Object #001",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_GroupName_6"] = "Gunfighter 21",
+    ["DictKey_ActionText_119"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_descriptionText_1"] = "",
+    ["DictKey_GroupName_28"] = "New Static Object #007",
+    ["DictKey_ActionText_84"] = "ブレーキ圧を確認しながら、ブレーキペダルを踏み込んで放してブレーキを確認します。\
+\
+***続けるためにスペースバーを押してください***",
+    ["DictKey_GroupName_101"] = "New Static Object #024",
+    ["DictKey_UnitName_71"] = "New Static Object #015",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_UnitName_50"] = "New Static Object #013",
+    ["DictKey_GroupName_37"] = "New Static Object #010",
+    ["DictKey_ActionText_83"] = "ノーズホイールステアリングをオンにします。 HUDの横にあるオレンジ色のNWS ENGAライトが点灯するはずです。",
+    ["DictKey_ActionText_90"] = "Sukhumi Tower：\
+ガンファイター2-1、風向080、2ノット。 ランウェイ12からの離陸を許可する。\
+\
+RIO：\
+離陸許可、ランウェイ12、ガンファイター2-1了解！",
+    ["DictKey_GroupName_104"] = "New Airplane Group",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_GroupName_58"] = "New Static Object #016",
+    ["DictKey_UnitName_14"] = "New Static Object #001",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_UnitName_29"] = "New Static Object #006",
+    ["DictKey_ActionText_126"] = "何だって？ まだここにいたい？　それでは、楽しみましょう。",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_ActionText_88"] = "ウィングスイープをAUTOに設定します。",
+    ["DictKey_GroupName_16"] = "New Static Object #003",
+    ["DictKey_GroupName_22"] = "New Static Object #005",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_GroupName_134"] = "New Static Object #025",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_UnitName_68"] = "New Static Object",
+    ["DictKey_ActionText_86"] = "ランウェイ12にタキシングします。右方向の誘導路A（alpha）を進んでください。\
+\
+ノーズホイールステアリングが作動していると、ラダーペダルが前輪を左右に操舵します。 差動ブレーキを使用して\
+ステアリングを操作することもできます。\
+\
+ランウェイの直近まで来たら停止してください。",
+    ["DictKey_GroupName_64"] = "New Static Object #018",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_UnitName_99"] = "New Static Object #020",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_UnitName_38"] = "New Static Object #009",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_UnitName_74"] = "New Static Object #015",
+    ["DictKey_UnitName_11"] = "",
+    ["DictKey_UnitName_35"] = "New Static Object #007",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_GroupName_61"] = "New Static Object #017",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_UnitName_56"] = "New Static Object",
+    ["DictKey_GroupName_34"] = "New Static Object #009",
+    ["DictKey_ActionText_87"] = "トリムを0,0,0に設定します。\
+\
+***続けるためにスペースバーを押してください***",
+    ["DictKey_ActionText_79"] = "おはよう、パイロット\
+\
+今日は、トムキャットでのタキシングとテイクオフの方法を学びます。 \
+我々は、非武装で空のドロップタンクしか積んでいない機体に搭乗し、Sukhumi飛行場にいます。\
+機体はすでに始動しており、出発できるじょうたいですので、早速始めましょう。\
+\
+***準備ができたらスペースバーを押してください***",
+    ["DictKey_UnitName_53"] = "",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_GroupName_19"] = "New Static Object #004",
+    ["DictKey_UnitName_105"] = "Pilot #001",
+    ["DictKey_ActionText_82"] = "まず、パーキングブレーキを解除します。",
+    ["DictKey_UnitName_41"] = "New Static Object #009",
+    ["DictKey_GroupName_95"] = "New Static Object #021",
+    ["DictKey_UnitName_23"] = "New Static Object #004",
+    ["DictKey_ActionText_81"] = "Sukhumi Tower：\
+ガンファイター2-1、誘導路A経由でランウェイ12までタキシングし、直近で待機してください。QNH は29.92　です。\
+\
+RIO：\
+誘導路A経由でランウェイ12までタキシング、ガンファイター2-1了解。",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_GroupName_55"] = "New Static Object #015",
+    ["DictKey_ActionText_94"] = "ここで、HUDをクルーズモードに設定できます。",
+    ["DictKey_UnitName_26"] = "New Static Object #005",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_GroupName_98"] = "New Static Object #023",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_GroupName_31"] = "New Static Object #008",
+    ["DictKey_UnitName_17"] = "New Static Object #001",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_UnitName_77"] = "",
+    ["DictKey_UnitName_65"] = "New Static Object #016",
+    ["DictKey_descriptionBlueTask_3"] = "本日の機体状況：武装なし、空のドロップタンク、 100％の燃料、総重量：61000ポンド\
+\
+本日のあなたのコールサイン：ガンファイター2-1、VF-101\
+\
+---\
+離陸パラメーター：\
+フラップ UP、ウィング 20°、トリム0、0、0\
+\
+総重量58.000ポンド、\
+機首上げ速度140ノット\
+離陸速度150ノット\
+\
+総重量65.000ポンド\
+機首上げ速度149ノット\
+離陸速度159ノット\
+---\
+\
+タイヤ保障速度　最大190ノット\
+ギア出し可能速度　最大300ノット",
+    ["DictKey_ActionText_131"] = "よろしい、パイロット。 これでレッスンは終了です。\
+次回は、この赤ん坊を着陸させることを教えます。",
+    ["DictKey_ActionComment_120"] = "DictKey_ActionComment_120",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_UnitName_96"] = "New Static Object #008",
+    ["DictKey_ActionText_93"] = "ランディングギアを上げます。\
+\
+次に機体がそのスケジュール上のセンサートリガーポイントを通過すると、マニューバフラップは自動的にCADCコントロール\
+ポジションに後退します。\
+\
+DLCサムホイールを手前に引いて格納することもできます。 手動で飛行中に展開する場合は、DLCサムホイールを使用して\
+ください。",
+    ["DictKey_UnitName_102"] = "New Static Object #023",
+    ["DictKey_GroupName_43"] = "New Static Object #012",
+    ["DictKey_GroupName_70"] = "New Static Object #020",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_GroupName_25"] = "New Static Object #006",
+} -- end of dictionary

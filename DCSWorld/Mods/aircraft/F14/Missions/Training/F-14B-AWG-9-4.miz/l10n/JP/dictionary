@@ -1,0 +1,96 @@
+dictionary = 
+{
+    ["DictKey_UnitName_22"] = "USS Chosin",
+    ["DictKey_UnitName_33"] = "Unit #004",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_GroupName_52"] = "Enemy 1",
+    ["DictKey_GroupName_15"] = "Stennis CVBG",
+    ["DictKey_GroupName_24"] = "Sigonella - Batumi",
+    ["DictKey_GroupName_56"] = "Friendly 2",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_ActionText_14"] = "後部座席に移動したら、スペースバーを押してください。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_UnitName_38"] = "",
+    ["DictKey_UnitName_32"] = "Unit #003",
+    ["DictKey_UnitName_29"] = "Unit #001",
+    ["DictKey_UnitName_31"] = "Unit #002",
+    ["DictKey_UnitName_21"] = "USS Vella Gulf",
+    ["DictKey_UnitName_35"] = "Unit #006",
+    ["DictKey_UnitName_7"] = "Pilot #001",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_UnitName_49"] = "Pilot #003",
+    ["DictKey_UnitName_16"] = "USS John C. Stennis",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_UnitName_25"] = "Pilot #002",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_UnitName_45"] = "Pilot #002",
+    ["DictKey_UnitName_18"] = "",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_UnitName_23"] = "USS Reuben James",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_ActionText_13"] = "AWG-9チュートリアルの最後のパートへようこそ！\
+\
+後部座席を選択してからスペースバーを押して続行してください。",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_UnitName_11"] = "Pilot #002",
+    ["DictKey_sortie_5"] = "",
+    ["DictKey_GroupName_44"] = "Target 1",
+    ["DictKey_ActionText_40"] = "すべてのサーチモードとSTTモードに加えて、RIOには独自のクイックアクイジションモードがあります。\
+\
+これはマニュアルラピッドロックオンモード（MRL）と呼ばれます。このモードでは、DDDは、レンジや接近率の代わりにアンテナの方位角と仰角を表示するモードに切り替わります。現在の高度は、現在設定されている高度に沿って上下に移動する2本の線で示されます。\
+\
+このモードの最大レンジは5 海里で、パイロットクイックアクイジションモードと同じパルスモードです。\
+\
+このモードのHCUでは、DDD表示に対応して方位角と仰角をコントロールします。\
+\
+MRLモードに入るには、HCUスティックの右側にあるMRLボタンを一瞬押します。スティックでレーダーアンテナをコントロールし、フルアクションを入力するとPulse STTへの移行のためにターゲットロックを試みます。\
+\
+ハーフアクションを入力し離すと、レーダーはPulse Searchに戻ります。\
+\
+目の前5海里以内にターゲットがありますので、MRLを使ってターゲットを捕捉してみてください。\
+\
+完了したら、スペースバーを押して続行します。",
+    ["DictKey_GroupName_10"] = "New Helicopter Group",
+    ["DictKey_ActionText_43"] = "最後に説明するのは、IFF（敵味方識別）システムです。\
+\
+IFFインタロゲータはAWG-9にピギーバックされた独立したレーダーで、通常のレーダーモードに加えて使用されます。\
+\
+IFF問い合わせを有効にするには、RDRとIR DISPLAYモードボタンの隣にあるIFFボタンを押します。これにより、最長10秒、またはボタンを放すまでのいずれか短い方の時間で問い合わせが可能になります。\
+\
+パルスサーチでは、設定したレーダーレンジの間隔で通常のパルス表示の上にIFFリターンを重ねて表示します。\
+\
+パルスドップラーサーチ、RWSおよびTWSでは、DDDは方位とレンジの表示に切り替わり、通常のパルスドップラー画像は表示されず、代わりにIFFリターンのみが表示されます。IFFリターンが表示されている間は、通常どおりレンジボタンを使用してレンジを変更できます。\
+\
+フックされたターゲットを持つSTTモードまたはTWSでは、DDDは代わりにトラックの周りに+/- 10 NMの表示に変わり、フックされたトラックを拡大表示します。これはレンジウィンドウに+/- 10で表示されます。 STTトラックまたはフックされたTWSトラックの自動STTフックの選択が解除されると、通常の方位とレンジのIFF表示に戻ります。\
+\
+友好的なターゲットとして返されるIFF画像は、ターゲットの上下に表示される2本のバーで、レーダーゲートカーソルと似ていますが同じではありません。通常のレーダーリターンは、パルスドップラー画像が IFF に表示されないか、IFF が AWG-9 で検出されなかったターゲットを検出する可能性があるため、常に表示されない場合があります。\
+\
+しかしAWG-9は正しいIFFレスポンスを返すトラックファイルを自動的に更新することはできません。これは、対応するトラックシンボルが存在する場合にはそれをフックし、TGT DATA カテゴリの正しい CAP 機能を使用してフレンドリ ーに設定するという作業を、RIO が手動で行う必要があります。\
+\
+私たちの目の前にあるいくつかのターゲットの中には、正しいIFF応答を返すものもあります。今すぐ練習してみてください。\
+\
+これがこのチュートリアルの最後のトピックでした。練習を続けて、終了したらミッションを終了してください。",
+    ["DictKey_ActionComment_42"] = "DictKey_ActionComment_42",
+    ["DictKey_GroupName_6"] = "New Airplane Group",
+    ["DictKey_UnitName_36"] = "Unit #007",
+    ["DictKey_GroupName_28"] = "Batumi Airfield Defence",
+    ["DictKey_UnitName_34"] = "Unit #005",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_descriptionText_1"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_GroupName_37"] = "",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_ActionText_41"] = "",
+    ["DictKey_UnitName_57"] = "Pilot #005",
+    ["DictKey_GroupName_48"] = "Friendly 1",
+    ["DictKey_UnitName_53"] = "Pilot #004",
+} -- end of dictionary
