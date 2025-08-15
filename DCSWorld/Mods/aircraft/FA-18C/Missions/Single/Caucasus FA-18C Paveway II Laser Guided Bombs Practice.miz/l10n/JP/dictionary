@@ -1,0 +1,47 @@
+dictionary = 
+{
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_ActionText_29"] = "ターゲット破壊！",
+    ["DictKey_UnitName_19"] = "Unit #006",
+    ["DictKey_GroupName_22"] = "JTAC",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_26"] = "ターゲット破壊！",
+    ["DictKey_UnitName_21"] = "",
+    ["DictKey_UnitName_38"] = "Unit #007",
+    ["DictKey_UnitName_32"] = "Unit #001",
+    ["DictKey_WptName_10"] = "",
+    ["DictKey_ActionText_30"] = "",
+    ["DictKey_UnitName_7"] = "Pilot #001",
+    ["DictKey_UnitName_16"] = "3",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_GroupName_12"] = "Target",
+    ["DictKey_UnitName_18"] = "Unit #005",
+    ["DictKey_UnitName_20"] = "",
+    ["DictKey_UnitName_23"] = "JTAC",
+    ["DictKey_ActionText_28"] = "ターゲット破壊！",
+    ["DictKey_sortie_5"] = "Paveway II レーザー誘導爆弾",
+    ["DictKey_UnitName_15"] = "2",
+    ["DictKey_UnitName_37"] = "Unit #006",
+    ["DictKey_GroupName_6"] = "New Airplane Group",
+    ["DictKey_UnitName_36"] = "Unit #005",
+    ["DictKey_UnitName_17"] = "4",
+    ["DictKey_descriptionText_1"] = "砲兵ターゲットのグループがあなたの前方9nmの位置にいます。JTAC Eyeball（131.00）がターゲットをレーザー指定（laser-designate）します。（レーザーコード：1688）\
+\
+機体には、２ｘGBU-12と２ｘGBU-16、Paveway II(ペイブウェイ２)レーザー誘導爆弾が搭載されています。\
+\
+Eyeballに連絡し、ターゲット指定を受けてから、AUTO爆弾投下モードを使用してください。",
+    ["DictKey_descriptionBlueTask_3"] = "レーザー誘導爆弾でターゲットを破壊して下さい。",
+    ["DictKey_ActionText_27"] = "ターゲット破壊！",
+    ["DictKey_UnitName_35"] = "Unit #004",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_UnitName_13"] = "1",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_31"] = "全てのターゲットを破壊しました！\
+\
+Mission complete.",
+    ["DictKey_UnitName_33"] = "Unit #002",
+    ["DictKey_UnitName_34"] = "Unit #003",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_UnitName_39"] = "Unit #008",
+} -- end of dictionary

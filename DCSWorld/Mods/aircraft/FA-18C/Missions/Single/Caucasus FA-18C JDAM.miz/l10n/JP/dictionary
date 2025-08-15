@@ -1,0 +1,127 @@
+dictionary = 
+{
+    ["DictKey_UnitName_22"] = "4",
+    ["DictKey_GroupName_83"] = "Player",
+    ["DictKey_UnitName_52"] = "Unit #029",
+    ["DictKey_UnitName_60"] = "Unit #036",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_ActionText_92"] = "ターゲット１にヒット",
+    ["DictKey_GroupName_49"] = "Arty-1",
+    ["DictKey_ActionText_95"] = "ターゲット４にヒット",
+    ["DictKey_UnitName_26"] = "Unit #011",
+    ["DictKey_UnitName_62"] = "Unit #038",
+    ["DictKey_GroupName_77"] = "New Static Object #004",
+    ["DictKey_GroupName_68"] = "New Static Object #001",
+    ["DictKey_GroupName_21"] = "GRP-4",
+    ["DictKey_UnitName_39"] = "Unit #021",
+    ["DictKey_UnitName_7"] = "3",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_UnitName_12"] = "2",
+    ["DictKey_GroupName_71"] = "New Static Object #002",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_UnitName_9"] = "Unit #002",
+    ["DictKey_UnitName_58"] = "Unit #034",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_UnitName_28"] = "Unit #012",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_UnitName_75"] = "New Static Object #002",
+    ["DictKey_GroupName_6"] = "GRP-1",
+    ["DictKey_UnitName_36"] = "Unit #018",
+    ["DictKey_UnitName_34"] = "Unit #016",
+    ["DictKey_UnitName_55"] = "Unit #032",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_UnitName_13"] = "Unit #005",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_UnitName_14"] = "Unit #006",
+    ["DictKey_UnitName_61"] = "Unit #037",
+    ["DictKey_UnitName_33"] = "Unit #015",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_GroupName_74"] = "New Static Object #003",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_descriptionText_1"] = "このミッションは、GBU-33JDAM（Joint Direct Attack Munition：統合直接攻撃弾）INS/GPS誘導対地攻撃兵器の練習です。他のJDAM型はGBU-38と同じ方法で使用できます。\
+前方のウェイポイント１から４に装甲ターゲットを配置してあります。JDAMで攻撃して下さい。\
+\
+ターゲット：\
+Target 1 (Waypoint 1)\
+N42-35-12.09\
+E41-50-54.54\
+Elevation 407 feet\
+\
+Target 2 (Waypoint 2)\
+N42-34-58.40\
+E41-50-51.07\
+Elevation 404 feet\
+\
+Target 3 (Waypoint 3)\
+N42-34-48.41\
+E41-50-45.77\
+Elevation 397 feet\
+\
+Target 4 (Waypoint 4)\
+N42-34-57.59\
+E41-50-41.83\
+Elevation 410 feet\
+\
+TOO（Target of Opportunity：発見したターゲット）とPP（Pre-Planned：事前計画）モードの両方を練習して下さい。\
+\
+ターゲットエリアはいくつかの防空サイトによって守られています。しかし、高高度、高速で投下することで、JDAMのスタンドオフ能力を活用することが可能です。",
+    ["DictKey_UnitName_43"] = "Unit #025",
+    ["DictKey_UnitName_56"] = "Unit #033",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_UnitName_48"] = "Unit #027",
+    ["DictKey_UnitName_84"] = "Pilot #001",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_UnitName_30"] = "Unit #013",
+    ["DictKey_UnitName_38"] = "Unit #020",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_UnitName_54"] = "Unit #031",
+    ["DictKey_UnitName_35"] = "Unit #017",
+    ["DictKey_UnitName_19"] = "1",
+    ["DictKey_UnitName_10"] = "Unit #003",
+    ["DictKey_GroupName_80"] = "New Static Object #005",
+    ["DictKey_descriptionBlueTask_3"] = "ウェイポイント１から４にあるターゲットをGBU-38JDAMで破壊して下さい。",
+    ["DictKey_sortie_5"] = "JDAM 訓練",
+    ["DictKey_GroupName_11"] = "GRP-2",
+    ["DictKey_ActionText_97"] = "Mission succes. \
+ターゲット４つ全てにヒットしました。ESCを押してミッションを終了してください。",
+    ["DictKey_UnitName_53"] = "Unit #030",
+    ["DictKey_UnitName_40"] = "Unit #022",
+    ["DictKey_UnitName_24"] = "Unit #003",
+    ["DictKey_UnitName_81"] = "New Static Object #003",
+    ["DictKey_UnitName_18"] = "Unit #008",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_37"] = "Unit #019",
+    ["DictKey_UnitName_41"] = "Unit #023",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_UnitName_32"] = "Unit #014",
+    ["DictKey_ActionText_94"] = "ターゲット３にヒット",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_UnitName_46"] = "Unit #026",
+    ["DictKey_UnitName_59"] = "Unit #035",
+    ["DictKey_UnitName_23"] = "Unit #002",
+    ["DictKey_UnitName_72"] = "New Static Object",
+    ["DictKey_GroupName_31"] = "AD-2",
+    ["DictKey_UnitName_17"] = "Unit #007",
+    ["DictKey_UnitName_78"] = "New Static Object #003",
+    ["DictKey_GroupName_16"] = "GRP-3",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_UnitName_63"] = "Unit #039",
+    ["DictKey_GroupName_57"] = "Arty-1 #001",
+    ["DictKey_GroupName_65"] = "New Static Object",
+    ["DictKey_UnitName_66"] = "",
+    ["DictKey_UnitName_50"] = "Unit #028",
+    ["DictKey_ActionText_93"] = "ターゲット２にヒット",
+    ["DictKey_UnitName_42"] = "Unit #024",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_ActionText_96"] = "",
+    ["DictKey_GroupName_45"] = "AD-3",
+    ["DictKey_GroupName_27"] = "AD",
+    ["DictKey_UnitName_69"] = "New Static Object",
+} -- end of dictionary
