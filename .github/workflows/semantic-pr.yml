@@ -1,0 +1,27 @@
+# ------------------------------------------------------------
+# Workflow Name : semantic-pr
+# Trigger       : pull_request_target (opened/edited/reopened/synchronize)
+# Purpose       :
+#   - PRタイトルが Conventional Commits 準拠かを検証
+#   - Squash-and-merge 前提のためタイトル品質=リリースノート品質
+# ------------------------------------------------------------
+name: semantic-pr
+
+on:
+  pull_request_target:
+    types:
+      - opened
+      - edited
+      - reopened
+      - synchronize
+
+jobs:
+  lint-title:
+    name: Validate PR title (Conventional Commits)
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: read
+    steps:
+      - uses: amannn/action-semantic-pull-request@v6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
