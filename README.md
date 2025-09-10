@@ -41,7 +41,7 @@ Windows, Powershell環境を想定しています。
       ※ 取り込まれる前に確認したい場合、https://github.com/5kdn/DCS-Translation-Japanese/pulls から確認することができます
 
 2. Gitを触ったことが有る方向け
-   ※ 詳細は CONTRIBUTING.md を確認してください。
+   ※ 詳細は [CONTRIBUTING.md](.github/CONTRIBUTING.md) を確認してください。
    1. リポジトリの取得
       ```powershell
       git clone git@github.com:5kdn/DCS-Translation-Japanese.git
@@ -116,7 +116,7 @@ Windows, Powershell環境を想定しています。
 
 ## 貢献
 
-私たちは、経験レベルを問わず、あらゆる貢献者の方々を熱心にサポートし、プロジェクトへのご参加を心よりお待ちしております。 まずは [貢献ガイド](./CONTRIBUTING.md) をご覧ください。
+私たちは、経験レベルを問わず、あらゆる貢献者の方々を熱心にサポートし、プロジェクトへのご参加を心よりお待ちしております。 まずは [貢献ガイド](.github/CONTRIBUTING.md) をご覧ください。
 
 ## 行動原則
 
