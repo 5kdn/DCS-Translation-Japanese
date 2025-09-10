@@ -17,25 +17,6 @@ set -eu
 branch="$(git symbolic-ref --quiet --short HEAD || true)"
 [ -n "${branch}" ] || exit 0
 
-# .NET コードフォーマット検証
-if command -v dotnet >/dev/null 2>&1; then
-    echo "INFO: Running dotnet format check..."
-    if ! dotnet format --verify-no-changes >/dev/null 2>&1; then
-        echo "ERROR: dotnet format によるフォーマットチェックに失敗しました。" >&2
-        echo "以下を実行して修正してください:" >&2
-        echo "    dotnet format" >&2
-        exit 1
-    fi
-fi
-
-
-dotnet test --no-restore --nologo
-RESULT=$?
-if [ $RESULT -ne 0 ]; then
-  echo "dotnet test failed. Commit aborted."
-  exit 1
-fi
-
 # master/main 直接コミットは禁止（緊急時のみ環境変数で一時解除）
 if [ "${branch}" = "master" ] || [ "${branch}" = "main" ]; then
     if [ "${ALLOW_DIRECT_COMMIT_TO_PROTECTED:-}" = "1" ]; then

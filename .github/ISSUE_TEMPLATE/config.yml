@@ -1,0 +1,8 @@
+# 空のIssueを作成できるかどうか
+blank_issues_enabled: false
+
+# 外部リンクを追加（DiscussionsやFAQなどに誘導）
+contact_links:
+  - name: 🗨️ Discord コミュニティ
+    url: https://discord.gg/xxxxxxxxxx
+    about: 質問・雑談・サポートはこちらの Discord サーバーでも受け付けています

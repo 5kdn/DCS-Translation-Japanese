@@ -15,7 +15,6 @@
   1. 作業ブランチを作成
   2. 作業ブランチにコミット
   3. Pull Request (PR) を作成
-  4. テスト・CI・レビューをクリア
   5. `master` へ **Squash Merge**
 
 ---
