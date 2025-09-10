@@ -78,7 +78,7 @@ Windows, Powershell環境を想定しています。
 
 ```text
 /
-├─ DCSWorld                   :DCSインストールディレクトリと一致しています
+├─ DCSWorld                  :DCSインストールディレクトリと一致しています
 │ └─ Mods
 │    ├─ aircraft             :機体のデフォルトミッション
 │    │ └─ [機体名]
@@ -87,15 +87,15 @@ Windows, Powershell環境を想定しています。
 │    ├─ tech                 :未対応
 │    └─ terrains             :未対応
 │
-├─ UserContents               :未対応
-│ │                            このディレクトリは `%USERPROFILE%/Saved Games/DCS` または
-│ │                            `%USERPROFILE%/Saved Games/DCS.openbeta` と同じディレクトリ構成です
+├─ UserContents              :未対応
+│ │                           このディレクトリは `%USERPROFILE%/Saved Games/DCS` または
+│ │                           `%USERPROFILE%/Saved Games/DCS.openbeta` と同じディレクトリ構成です
 │ └─ Missions
 │    ├─ Campaigns            :ユーザー作成キャンペーン
-│    └─ [ミッション名].miz   :ユーザー作成ミッション
+│    └─ [ミッション名].miz    :ユーザー作成ミッション
 │
-└─ Extra                      :未対応
-                                 ユーザー作成のオリジナル成果物等を想定
+└─ Extra                     :未対応
+                              ユーザー作成のオリジナル成果物等を想定
 ```
 
 ### ミッションファイルの構成
@@ -120,7 +120,7 @@ Windows, Powershell環境を想定しています。
 
 ## 行動原則
 
-詳しくは [行動原則](./CODE_OF_CONDUCT.md) を御覧ください。
+詳しくは [行動原則](.github/CODE_OF_CONDUCT.md) を御覧ください。
 
 
 ## 免責事項
