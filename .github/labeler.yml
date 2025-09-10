@@ -1,0 +1,46 @@
+# ------------------------------------------------------------
+# .github/labeler.yml
+# Purpose:
+#   - PR の変更ファイルパスに応じて自動ラベル付与
+#   - ラベルは事前にリポジトリ側で作成しておくこと（Settings > Labels）
+# Notes:
+#   - actions/labeler@v5 形式（changed-files / any-glob-to-any-file）
+#   - ここにないラベル（prio/*, status/* など）は人手または他Automationで付与
+#   - パターンは必要に応じて編集してください
+# ------------------------------------------------------------
+
+# =========================================================
+# 翻訳対象のラベル
+# =========================================================
+Translation:
+  - "DCSWorld/**/*"
+
+Aircrafts:
+  - "DCSWorld/Mods/aircraft/**/*"
+
+"DLC Campaigns":
+  - "DCSWorld/Mods/campaigns/**/*"
+
+
+# =========================================================
+# リポジトリ管理用のラベル
+# =========================================================
+Infrastructure:
+  - '**'
+  - '!DCSWorld/**'
+
+Pages:
+  - 'docs/**'
+
+Docs:
+  - 'README.md'
+  - 'LISENCE'
+  - '.github/CODE_OF_CONDUCT.md'
+  - '.github/CONTRIBUTING.md'
+  - '.github/PULL_REQUEST_TEMPLATE.md'
+  - '.github/SECURITY.md'
+  - '.github/ISSUE_TEMPLATE/**'
+
+"CI / GitHub Actions":
+  - '.github/workflows/**'
+  - '.github/labeler.yml'
