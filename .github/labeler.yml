@@ -10,40 +10,40 @@
 # 翻訳対象のラベル
 # =========================================================
 Translation:
-- changed-files:
-  - any-glob-to-any-file: "DCSWorld/**/*"
+  - changed-files:
+    - any-glob-to-any-file: "DCSWorld/**/*"
 
 Aircrafts:
-- changed-files:
-  - any-glob-to-any-file: "DCSWorld/Mods/aircraft/**/*"
+  - changed-files:
+    - any-glob-to-any-file: "DCSWorld/Mods/aircraft/**/*"
 
 "DLC Campaigns":
-- changed-files:
-  - any-glob-to-any-file: "DCSWorld/Mods/campaigns/**/*"
+  - changed-files:
+    - any-glob-to-any-file: "DCSWorld/Mods/campaigns/**/*"
 
 # =========================================================
 # リポジトリ管理用のラベル
 # =========================================================
 Infrastructure:
-- changed-files:
-  - any-glob-to-any-file: '**'
-  - any-glob-to-any-file: '!DCSWorld/**'
+  - changed-files:
+    - any-glob-to-any-file: '**'
+    - any-glob-to-any-file: '!DCSWorld/**'
 
 Pages:
-- changed-files:
-  - any-glob-to-any-file: 'docs/**'
+  - changed-files:
+    - any-glob-to-any-file: 'docs/**'
 
 Docs:
-- changed-files:
-  - any-glob-to-any-file: 'README.md'
-  - any-glob-to-any-file: 'LICENSE'
-  - any-glob-to-any-file: '.github/CODE_OF_CONDUCT.md'
-  - any-glob-to-any-file: '.github/CONTRIBUTING.md'
-  - any-glob-to-any-file: '.github/PULL_REQUEST_TEMPLATE.md'
-  - any-glob-to-any-file: '.github/SECURITY.md'
-  - any-glob-to-any-file: '.github/ISSUE_TEMPLATE/**'
+  - changed-files:
+    - any-glob-to-any-file: 'README.md'
+    - any-glob-to-any-file: 'LICENSE'
+    - any-glob-to-any-file: '.github/CODE_OF_CONDUCT.md'
+    - any-glob-to-any-file: '.github/CONTRIBUTING.md'
+    - any-glob-to-any-file: '.github/PULL_REQUEST_TEMPLATE.md'
+    - any-glob-to-any-file: '.github/SECURITY.md'
+    - any-glob-to-any-file: '.github/ISSUE_TEMPLATE/**'
 
 "CI / GitHub Actions":
-- changed-files:
-  - any-glob-to-any-file: '.github/workflows/**'
-  - any-glob-to-any-file: '.github/labeler.yml'
+  - changed-files:
+    - any-glob-to-any-file: '.github/workflows/**'
+    - any-glob-to-any-file: '.github/labeler.yml'
