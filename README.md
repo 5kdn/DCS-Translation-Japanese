@@ -1,5 +1,7 @@
 # DCS Translation Japanese
 
+Eagle Dynamics社 Digital Combat Simulator Worldのミッション・キャンペーンを日本語化する非公式プロジェクトです。
+
 - ツールが利用できます [DCS Translation Tool](https://github.com/5kdn/DCS-Translation-Tool/releases/latest)
 - ブラウザからファイルをDLする場合は[こちらのページ](https://5kdn.github.io/DCS-Translation-Japanese/)が利用できます
 
