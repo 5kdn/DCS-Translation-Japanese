@@ -7,11 +7,11 @@
 # =========================================================
 # 翻訳対象のラベル
 # =========================================================
-Translation:
+"Translation":
   - changed-files:
     - any-glob-to-any-file: "DCSWorld/**/*"
 
-Aircrafts:
+"Aircrafts":
   - changed-files:
     - any-glob-to-any-file: "DCSWorld/Mods/aircraft/**/*"
 
@@ -22,16 +22,16 @@ Aircrafts:
 # =========================================================
 # リポジトリ管理用のラベル
 # =========================================================
-Infrastructure:
+"Infrastructure":
   - changed-files:
     - any-glob-to-any-file: '**'
     - any-glob-to-any-file: '!DCSWorld/**'
 
-Pages:
+"Pages":
   - changed-files:
     - any-glob-to-any-file: 'docs/**'
 
-Docs:
+"Docs":
   - changed-files:
     - any-glob-to-any-file: 'README.md'
     - any-glob-to-any-file: 'LICENSE'
