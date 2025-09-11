@@ -7,70 +7,84 @@
 
 ### Gitを触ったことがない方向け
 
-1. ツールを使用する
-   1. ツールをダウンロードしてください。 [DCS Translation Tool](https://github.com/5kdn/DCS-Translation-Tool/releases/latest)
-   2. ツール上のダウンロードページで `DL` ボタンを押すとチェックマークの付いたファイルをダウンロードできます。
-   3. ツール上のダウンロードページで `適用` ボタンを押すとミッションファイルに自動で挿入されます。
+#### ツールを使用する
 
-      ※ 適用するにはツールの設定画面でミッションファイルの場所を指定する必要があります。
-2. ツールを使用しない
-   1. [こちらのページ](https://5kdn.github.io/DCS-Translation-Japanese/) からブラウザ上でファイルをDLできます。
-   2. ダウンロードしたzip内の `*.miz` フォルダの内容を同名のDCSのファイルに追加してください。
+1. ツールをダウンロードしてください。 [DCS Translation Tool](https://github.com/5kdn/DCS-Translation-Tool/releases/latest)
+2. ツール上のダウンロードページで `DL` ボタンを押すとチェックマークの付いたファイルをダウンロードできます。
+3. ツール上のダウンロードページで `適用` ボタンを押すとミッションファイルに自動で挿入されます。
 
-      ※ DCSのミッションファイル(`*.miz`)は拡張子をzipに書き換えることでzipファイルとして扱うことが可能です。
+※ 適用するにはツールの設定画面でミッションファイルの場所を指定する必要があります。
+
+#### ツールを使用しない
+
+1. [こちらのページ](https://5kdn.github.io/DCS-Translation-Japanese/) からブラウザ上でファイルをDLできます。
+2. ダウンロードしたzip内の `*.miz` フォルダの内容を同名のDCSのファイルに追加してください。
+
+※ DCSのミッションファイル(`*.miz`)は拡張子をzipに書き換えることでzipファイルとして扱うことが可能です。
 
 ### Git を触ったことが有る方向け
 
 Windows, Powershell環境を想定しています。
 
 1. リポジトリの取得
+
    ``` powershell
    git clone git@github.com:5kdn/DCS-Translation-Japanese.git
    ```
-2. 対象ディレクトリの中身を全てを対象の `*.miz` ファイルに追加してください。\
+
+2. 対象ディレクトリの中身を全てを対象の `*.miz` ファイルに追加してください。 \
    (例: `DCS-Translation-Japanese/DCSWorld/Mods/aircraft/A-10C/Campaigns/01_A10Sturm.miz/*` )
 
 ## 翻訳ファイルのアップロード
 
-1. Gitを触ったことがない方向け
-   1. ツールをダウンロードしてください。 [DCS Translation Tool](https://github.com/5kdn/DCS-Translation-Tool/releases/latest)
-   2. ツールのアップロードページで作成した翻訳ファイルを選択し、 `PRを作成` ボタンを押してください。
-   3. ダイアログに必要な情報を記入して、`PRを作成` ボタンを押してください。
-   4. 確認後、変更が取り込まれます。
+### Gitを触ったことがない方向け
 
-      ※ 取り込まれる前に確認したい場合、https://github.com/5kdn/DCS-Translation-Japanese/pulls から確認することができます
+1. ツールをダウンロードしてください。 [DCS Translation Tool](https://github.com/5kdn/DCS-Translation-Tool/releases/latest)
+2. ツールのアップロードページで作成した翻訳ファイルを選択し、 `PRを作成` ボタンを押してください。
+3. ダイアログに必要な情報を記入して、`PRを作成` ボタンを押してください。
+4. 確認後、変更が取り込まれます。
 
-2. Gitを触ったことが有る方向け
-   ※ 詳細は CONTRIBUTING.md を確認してください。
-   1. リポジトリの取得
-      ```powershell
-      git clone git@github.com:5kdn/DCS-Translation-Japanese.git
-      # git hooksをリポジトリに適用
-      git config --local core.hooksPath .githooks
-      ```
-   2. ブランチを作成します
-      ```powershell
-      # ブランチ名はConventional Commits に準拠した名称としてください。
-      # 参考 Conventional Commits https://www.conventionalcommits.org/ja/v1.0.0/
-      # type: feat|fix|docs|style|refactor|perf|test|build|ci|chore|revert
-      git switch -c <type>/<description>
-      ```
-   3. ローカルでファイルを編集します。
-   4. commit & push
-      ```powershell
-      git add .
-      # コミットメッセージはConventional Commits に準拠してください
-      git commit
-      git push -u origin <type>/<description>
-      ```
-   5. PR作成
-      1. PR名は以下のフォーマットに則ってください
-         - `[Aircraft][機体ディレクトリ名]変更概略`
-         - `[Aircraft][ミッションファイル名.miz]変更概略`
-         - `[DlcCampaign][キャンペーン名]変更概略`
-         - `[DlcCampaign][キャンペーンファイル名.miz]変更概略`
+※ 取り込まれる前に確認したい場合、<https://github.com/5kdn/DCS-Translation-Japanese/pulls> から確認することができます
 
----
+### Gitを触ったことが有る方向け
+
+※ 詳細は CONTRIBUTING.md を確認してください。
+
+1. リポジトリの取得
+
+   ```powershell
+   git clone git@github.com:5kdn/DCS-Translation-Japanese.git
+   # git hooksをリポジトリに適用
+   git config --local core.hooksPath .githooks
+   ```
+
+2. ブランチを作成します
+
+   ```powershell
+   # ブランチ名はConventional Commits に準拠した名称としてください。
+   # 参考 Conventional Commits https://www.conventionalcommits.org/ja/v1.0.0/
+   # type: feat|fix|docs|style|refactor|perf|test|build|ci|chore|revert
+   git switch -c <type>/<description>
+   ```
+
+3. ローカルでファイルを編集します。
+4. commit & push
+
+   ```powershell
+   git add .
+   # コミットメッセージはConventional Commits に準拠してください
+   git commit
+   git push -u origin <type>/<description>
+   ```
+
+5. PR作成
+
+   PR名は以下のフォーマットに則ってください
+
+   - `[Aircraft][機体ディレクトリ名]変更概略`
+   - `[Aircraft][ミッションファイル名.miz]変更概略`
+   - `[DlcCampaign][キャンペーン名]変更概略`
+   - `[DlcCampaign][キャンペーンファイル名.miz]変更概略`
 
 ## ディレクトリ構成
 
@@ -109,11 +123,6 @@ Windows, Powershell環境を想定しています。
       └─ dictionary           :言語ファイル(lua)
 ```
 
-
-
-
----
-
 ## 貢献
 
 私たちは、経験レベルを問わず、あらゆる貢献者の方々を熱心にサポートし、プロジェクトへのご参加を心よりお待ちしております。 まずは [貢献ガイド](./CONTRIBUTING.md) をご覧ください。
@@ -121,7 +130,6 @@ Windows, Powershell環境を想定しています。
 ## 行動原則
 
 詳しくは [行動原則](./CODE_OF_CONDUCT.md) を御覧ください。
-
 
 ## 免責事項
 
