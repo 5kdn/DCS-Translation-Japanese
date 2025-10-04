@@ -1,0 +1,312 @@
+dictionary = 
+{
+    ["DictKey_ActionText_103"] = "トリムシステムをニュートラルにリセットせよ ― 緑色のラダーおよびエルロンニュートラルトリムライトが点灯するのを確認せよ。\
+\
+トリム操作には以下のキーボード操作を使用：\
+[RCtrl]+[ . ]\
+[RCtrl]+[ ; ]\
+[RCtrl]+[ , ]\
+[RCtrl]+[ / ]",
+    ["DictKey_ActionText_43"] = "GYROセレクタスイッチをMAINに戻せ。",
+    ["DictKey_ActionText_53"] = "",
+    ["DictKey_ActionText_73"] = "エンジンが始動し機体が自立電源で稼働したら、地上電源の切断を要請せよ。\
+\
+[ \\ ] – インターコム通信メニュー  \
+[F11] – Parent Menu  \
+[F8] – Ground Crew  \
+[F2] – Ground Electric Power  \
+[F2] – Off  \
+\
+グラウンドクルーチーフが完了を報告したら [Spacebar] を押せ。",
+    ["DictKey_ActionText_66"] = "",
+    ["DictKey_ActionText_120"] = "タキシー中は72〜75％RPMを維持し、最小限のブレーキ操作で快適なタキシースピードを保て。",
+    ["DictKey_ActionText_38"] = "複合圧力計で油圧指示がPak領域内に収まっていることを確認せよ。\
+\
+AEKRAN CALLボタンを押せ。しばらくすると、SELFTESTとAEKRAN READYの2つのメッセージが順に表示されるはずだ。",
+    ["DictKey_ActionText_105"] = "右コンソールの後方へ回り込み、該当スイッチを前方位置に動かしてArmament Control System (ACS) と WEAPONの回路に電源を投入せよ。",
+    ["DictKey_ActionText_49"] = "左後方の水平パネルに視線を向け、酸素フローバルブがOpen、Oxygen MIX-100%がMIX位置にあることを確認せよ。\
+\
+確認したら [Spacebar] を押して続行せよ。",
+    ["DictKey_ActionText_116"] = "",
+    ["DictKey_ActionText_30"] = "",
+    ["DictKey_ActionText_78"] = "速度計を確認せよ：\
+– M 0.2 〜 0.29  \
+– TAS 110 〜 190  \
+\
+調整ノブを回し、高度計をゼロに合わせよ。",
+    ["DictKey_ActionText_85"] = "AFCSのスイッチをON位置に動かし、電源を投入せよ。AFCSの自動BIT進行中はDAMPERライトが点滅する。\
+\
+注意！ BITが終了するまで操縦桿を動かすな。この後の手順で扱うが、今はBITの進行中に他の手順を進める。",
+    ["DictKey_ActionText_128"] = "警告パネル上のFEEL UNIT TAKEOFF–LANDINGランプ点灯状態と、3つの緑色ニュートラルトリムランプの状態を確認せよ。\
+\
+Run-Upブレーキトリガー [LShift]+[ W ] を押し、ホイールブレーキに最大限の圧力をかけよ。",
+    ["DictKey_ActionText_11"] = "よし。次に地上電源を要請せよ。\
+\
+もう一度 [ \\ ] を押し、続けて以下を選択：\
+[F8] – Ground Crew\
+[F2] – Ground Electric Power\
+[F1] – On\
+\
+グラウンドクルーの報告を受けたら、右側壁にあるBAT-GND SUPPLYスイッチをUP位置へ動かせ。",
+    ["DictKey_ActionText_184"] = "",
+    ["DictKey_ActionText_75"] = "トリムシステムをチェックせよ：\
+\
+1. ピッチトリムを前一杯 [RCtrl]+[ ; ] に入れ、操縦桿の動きを確認。次に [RCtrl]+[ . ] で後ろに戻し、警告灯パネル（TLP）のSTAB TRIM NEUTRALライトが点灯するまで調整せよ。\
+\
+2. エルロントリムを右一杯 [RCtrl]+[ / ] に入れ、操縦桿の動きを確認。次に [RCtrl]+[ , ] で左に戻し、TLP上のAIL TRIM NEUTRALライトが点灯するまで調整せよ。\
+\
+3. ラダートリムを右 [RCtrl]+[ X ] に入れ、TLP上のRUD TRIM NEUTRALライトが消灯するまで動かせ。その後 [RCtrl]+[ Z ] でニュートラルに戻せ。\
+\
+確認したら [Spacebar] を押して続行せよ。",
+    ["DictKey_ActionText_107"] = "",
+    ["DictKey_ActionText_136"] = "",
+    ["DictKey_ActionText_141"] = "離陸後はピッチを保持し、8〜10度の範囲に維持せよ。\
+\
+高度32〜50フィートでギアを格納せよ [G]。",
+    ["DictKey_ActionText_24"] = "",
+    ["DictKey_ActionText_117"] = "旋回時は低速を維持せよ。急旋回の直前にノーズホイールステアリングボタン [LAlt]+[ Q ] を押し続け、操舵輪の効きを増したうえでペダルを徐々に踏み込み、希望の方向へ機体を向ける。操作後はボタンを離せ。\
+\
+なお、ノーズホイール支柱は操縦席よりかなり後方にあるため、その位置を意識して旋回せよ。",
+    ["DictKey_ActionText_140"] = "",
+    ["DictKey_ActionText_13"] = "計器盤の時計や他の計器を見やすくするため、操縦桿の根元をクリックして隠せ。\
+\
+電圧計が約28V ±0.5Vを示していることを確認せよ。\
+\
+次に、Electrical Power Panelの全スイッチをON（上）位置に入れよ。\
+\
+各スイッチを個別に操作する必要はなく、専用の金属フレームを使って一括で上に動かすことができる。",
+    ["DictKey_ActionText_130"] = "スロットルを徐々にMAX位置まで押し込め。推力に応じて機体がブレーキに押されて機首を下げるのを確認せよ。\
+\
+EGT指示が黄色セクター内にあり、左右エンジンのRPM差が4％以内であることを確認したら、ブレーキを解除せよ。",
+    ["DictKey_ActionText_89"] = "VOICE WARNシステムをチェックせよ ― テストボタンを押せ。",
+    ["DictKey_sortie_5"] = "Cold Start, Taxiing and Takeoff",
+    ["DictKey_ActionText_56"] = "これでエンジン始動の準備が整った。\
+\
+このレッスンでは無線はすでにATCとの通信に合わせてプリセットされているため、Mozdokタワーにスタートアップの許可を要請できる。\
+\
+[RAlt]+[ \\ ] を押してATC通信メニューを開き、以下を順に選択せよ：\
+[F5] – ATC\
+[F1] – Mozdok\
+[F3] – Request Start-Up\
+\
+肯定応答を受けたら、F12を押してラジオメニューを閉じよ。\
+\
+最後に、RECORDスイッチをON位置に動かし、機載記録システムを起動せよ。",
+    ["DictKey_ActionText_22"] = "ジャイロに通電して30〜40秒経過したら、ヘディングアラインを開始せよ：\
+\
+MAG HDG SLAVEとCOMP ZEROのランプボタンを同時に10〜15秒間押し続けよ。それぞれキーボードの “J” と “9” で操作できる。HSI針が停止している機体の真方位に一致することを確認せよ。",
+    ["DictKey_ActionText_20"] = "右を向き、System Power Panelで以下のスイッチをONにせよ：\
+– NAVIGATION  \
+– GYRO STBY  \
+– GYRO MAIN  \
+– ACFT SYS  \
+\
+時計の右側ボタンを押し、ストップウォッチ針を始動せよ。",
+    ["DictKey_ActionText_108"] = "AEKRANキューに警告が残っていないことを確認せよ。これを行うには、AEKRAN CALLボタンを繰り返し押し、QUEUEインジケータが消灯しMEMORYインジケータが点灯するのを確認する。\
+\
+次に、ホイールチョークを外すよう指示せよ：\
+[ \\ ] を押して通信を開き、以下の順で選択：\
+[F8] – Ground Crew\
+[F5] – Wheel Chocks\
+[F2] – Remove\
+\
+グラウンドチーフの肯定応答を受けたら [Spacebar] を押せ。",
+    ["DictKey_ActionText_139"] = "",
+    ["DictKey_ActionText_99"] = "AFCS BITが正常終了したか確認せよ。確認項目：\
+– DAMPER OFFライトが消灯している  \
+– DAMPERライトが点灯し続けている  \
+\
+もし失敗し、各種ランプが点滅している場合は、以下の手順でBITテストを手動で再実行せよ：\
+\
+– トリムボタンを使って操縦桿をセンターに戻し、ピッチおよびエルロンのニュートラルトリムライトが点灯するまで調整せよ：  \
+[RCtrl]+[ . ]  \
+[RCtrl]+[ ; ]  \
+[RCtrl]+[ , ]  \
+[RCtrl]+[ / ]  \
+\
+– スティック上のAFCS MODES OFFボタンを短く押せ。[LAlt]+[ 9 ] の組み合わせを使用する。  \
+\
+AFCS BITが成功したら、左フラップ操作パネルのいずれかのDOWNボタンを押し、フラップ/スラットの動作を確認せよ。",
+    ["DictKey_ActionText_83"] = "",
+    ["DictKey_ActionText_8"] = "",
+    ["DictKey_ActionText_82"] = "",
+    ["DictKey_ActionText_42"] = "",
+    ["DictKey_ActionText_34"] = "",
+    ["DictKey_ActionText_126"] = "もう一度、ロール・ピッチ・ヘディング・コース各インジケータを確認し、高度計がゼロを示していることを確認せよ。\
+\
+時計のストップウォッチとフライトタイマーを始動せよ。",
+    ["DictKey_ActionText_143"] = "ランディングギアランプが消灯し、複合圧力計で油圧が正常化していることを確認せよ。\
+\
+高度350フィートでフラップを格納せよ [ F ]。その後、インジケータ上の対応するランプが消灯するのを確認せよ。",
+    ["DictKey_ActionText_67"] = "両エンジン同時始動がMiGを起動する最も一般的な方法だ。スタートアップモードスイッチがSTART BOTH位置にあることを確認せよ。\
+\
+スロットルをIDLEに戻せ：\
+– [RAlt]+[Home] で左スロットルをIDLE位置に、[RShift]+[Home] で右スロットルをIDLE位置に設定する。",
+    ["DictKey_ActionText_25"] = "右後方の水平パネルに視線を向け、ナビゲーションOPER / PREPAREスイッチをOPER位置に動かせ。",
+    ["DictKey_ActionText_45"] = "SET COURSEスイッチをMAN位置に押せ。",
+    ["DictKey_ActionText_84"] = "",
+    ["DictKey_ActionText_18"] = "",
+    ["DictKey_ActionText_115"] = "",
+    ["DictKey_ActionText_16"] = "",
+    ["DictKey_ActionText_58"] = "キャノピーを完全にロックされるまで閉じよ。次を確認せよ：\
+– ピン：面一（Flush）になっていること\
+– AEKRAN ： 信号なし  \
+– LOCK CANOPYライト： 消灯  ",
+    ["DictKey_ActionText_32"] = "ILS左側のランプボタンを押し、マスターコーションを消灯せよ。",
+    ["DictKey_ActionText_148"] = "",
+    ["DictKey_descriptionRedTask_2"] = "覚えておくと便利なキーボード操作：\
+\
+コックピット操作ON/OFF: [LAlt]+[ C ]  \
+ズームイン/アウト: [Num*] / [Num/] またはマウスホイール  \
+\
+カメラ視点移動 右 / 左: [RCtrl]+[RShift]+[Num6] / [RCtrl]+[RShift]+[Num4]  \
+カメラ視点移動 上 / 下: [RCtrl]+[RShift]+[Num8] / [RCtrl]+[RShift]+[Num2]  \
+カメラ視点移動 前 / 後: [RCtrl]+[RShift]+[Num*] / [RCtrl]+[RShift]+[Num/]  \
+カメラ視点センター: [Num5]  \
+\
+インターコム、グランド通信: [ \\ ]  \
+マイクボタン、ラジオメニュー呼び出し: [RAlt]+[ \\ ]  \
+操縦桿表示 ON/OFF: [Backspace]  \
+フラップ 上/下: [ F ]  \
+ホイールブレーキ（押し続け）: [ W ]  \
+Run-Upブレーキレバー押下: [LShift]+[ W ]  \
+スロットル 前進 / 後退: [Num+] / [Num-]  \
+アフターバーナーディテント解除（押し続け）: [ 0 ]  \
+ノーズホイールステア高ゲインモード（押し続け）: [LAlt]+[ Q ]  \
+\
+操縦桿トリム操作:  \
+[RCtrl]+[ . ] - 機首上げ  \
+[RCtrl]+[ ; ] - 機首下げ  \
+[RCtrl]+[ , ] - 左バンク  \
+[RCtrl]+[ / ] - 右バンク  \
+\
+ラダートリム操作:  \
+[RCtrl]+[ Z ] - 機首左  \
+[RCtrl]+[ X ] - 機首右  \
+\
+ニーボード ON/OFF: [RShift]+[ K ]",
+    ["DictKey_ActionText_27"] = "",
+    ["DictKey_ActionText_122"] = "ランウェイのスレッショルド（進入端）で停止し、ATCに離陸を要請せよ：\
+\
+[RAlt]+[ \\ ] を押してATCを呼び出し、以下を選択：\
+[F1] – Request take-off\
+\
+ランウェイへ進入し、機体がセンターラインに正しく合う位置で停止せよ。",
+    ["DictKey_ActionText_95"] = "Radar Homing and Warning (RHAW)システムをオンにせよ。RHAWにはSPOと呼ばれるRWRインジケータがある。対応するSPOスイッチをONにし、機体シルエットの機首部分のノッチが点灯するのを確認せよ。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_71"] = "両エンジンが順に始動し、アイドルに安定するはずだ。以下を確認せよ：\
+– RH/LH ENG STARTランプが順に点灯（右エンジンが先行）  \
+– エンジンRPMの上昇  \
+– BOTH HYDRO FAILUREライトの消灯  \
+– 油圧の上昇  \
+– 35％RPMでランプ閉鎖  \
+– RH/LH ENG STARTランプの消灯  \
+– EGTが許容範囲内  \
+\
+アイドル時のRPMは58〜72％に安定する。  ",
+    ["DictKey_ActionText_145"] = "対気速度が270ノットに達したら、エンジンRPMを効率的な83〜85％に調整し、上昇率985〜1480フィート/分を維持せよ。\
+\
+Air Baseの管制空域を離れるまでは270ノットを維持し、その後は自由飛行を継続せよ。\
+\
+レッスンは終了だ。[ESC] を押して終了せよ。",
+    ["DictKey_ActionText_137"] = "",
+    ["DictKey_ActionText_62"] = "",
+    ["DictKey_ActionText_135"] = "",
+    ["DictKey_ActionText_69"] = "GND STARTボタンを押せ。",
+    ["DictKey_ActionText_181"] = "",
+    ["DictKey_ActionText_87"] = "COC ― 飛行包絡線保護システムが正常かを確認せよ。警告パネル（TLP）上のCOC FAILおよびNO COC RESERVEライトが消灯していることを確認する。\
+\
+PITOT HEATをオンにせよ。",
+    ["DictKey_ActionText_9"] = "MiG-29A Fulcrum始動訓練レッスンへようこそ。これから機体に電源を入れ、ランウェイまでタキシーし、最後に大空へ飛び立つ。\
+\
+まずはホイールチョークを確実に設置し、機体が動かないようにせよ。\
+\
+[ \\ ] を押してインターコム通信メニューを開き、以下を選択：\
+[F8] – Ground Crew  \
+[F5] – Wheel Chocks  \
+[F1] – Place  \
+\
+グラウンドクルーチーフがチョーク設置を確認したら [Spacebar] を押して続行せよ。",
+    ["DictKey_ActionText_80"] = "エンジン始動後の手順に進む時間だ。コックピット内の操縦桿の根元をクリックするか [Backspace] を押し、操縦桿モデルを再表示せよ。",
+    ["DictKey_ActionText_15"] = "",
+    ["DictKey_ActionText_183"] = "",
+    ["DictKey_ActionText_17"] = "",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_ActionText_152"] = "ADF / RSBNスイッチをRSBNに戻せ。",
+    ["DictKey_ActionText_36"] = "電波高度計のバグ（指示針）を200フィートに設定せよ。これは標準着陸パターンでの最低高度だ。\
+\
+TESTボタンを押して電波高度計の機能を確認せよ。針が45フィートのテストマークで安定することを確認せよ。",
+    ["DictKey_ActionText_179"] = "",
+    ["DictKey_ActionText_101"] = "可変ダクトランプの作動を確認せよ：\
+\
+a. 左右スロットルを80〜90％RPMまで押し込む [Num+]\
+b. 右後方の水平パネルに視線を向け、左右のINLET CHECKライトが点灯するか確認せよ。\
+\
+スロットルをアイドルまで戻し [Num-]、ライトが消灯することを確認せよ。",
+    ["DictKey_ActionText_111"] = "タキシーを要請せよ：\
+\
+[RAlt]+[ \\ ] を押してATCと通信し、以下を選択：\
+[F5] – ATC\
+[F1] – Mozdok\
+[F1] – Request taxi\
+\
+許可を受けたら [Spacebar] を押せ。",
+    ["DictKey_ActionText_124"] = "離陸は通常、スロットル最大で行う。訓練時や外部兵装を搭載している場合はアフターバーナーの使用も可能だ。必要に応じて [ 0 ] を押すことで、スロットルのアフターバーナーデテントを解除できる。\
+\
+[ F ] を押してフラップを下げ、実際の動きとIP-52複合インジケータ（ギア・フラップ・スラット表示器）で展開を確認せよ。",
+    ["DictKey_ActionText_47"] = "HSIコースセレクタノブを調整し、Mozdok ABの着陸コース262°に設定せよ。\
+\
+その後、SET COURSEスイッチをAUTOに戻せ。",
+    ["DictKey_ActionText_54"] = "右コンソールに視線を向け、FAST PREPランプが点灯していることを確認し、ナビゲーションシステムが高速初期化フェーズを完了したことを確認せよ。\
+\
+System Power PanelにあるRADIOスイッチをON位置に動かし、無線通信装置に電源を投入せよ。",
+    ["DictKey_ActionText_119"] = "",
+    ["DictKey_ActionText_113"] = "タキシー前にホイールブレーキを確認せよ ― [ W ] を押し続けながらRPMを徐々に80％まで上げる [Num+]。機体はその場に留まるはずだが、路面が濡れている場合はわずかに動くことがある。\
+\
+ホイールブレーキを解除せよ。\
+\
+機体が動き出したら、スロットルをアイドルまで戻し [Num-]、機体の惰性でゆっくりと転がす。",
+    ["DictKey_ActionText_63"] = "",
+    ["DictKey_ActionText_97"] = "まずTestスイッチを右のAUTO位置に保持し、セルフテストを実行せよ。この操作で機体シンボルの機首側のファンクションライトは消灯し、他のすべてのライトが点灯する。数秒後にファンクションライトが再点灯したら、スイッチを離せ。\
+\
+BRIGHTノブを調整して、SPOインジケータランプの明るさを設定せよ。\
+\
+確認したら [Spacebar] を押して続行せよ。",
+    ["DictKey_ActionText_134"] = "",
+    ["DictKey_ActionText_40"] = "燃料残量を確認せよ ― 3100〜3700kgであること。\
+\
+ナビゲーションシステムが起動していることを確認せよ ― WP-AD #1およびBEACONS #1のランプボタンが点灯しているはずだ。\
+\
+GYROセレクトスイッチをSTBY位置に動かして一時的にスタンバイジャイロに切り替え、HSI針が同じ方位を示していることを確認せよ。",
+    ["DictKey_ActionText_149"] = "",
+    ["DictKey_ActionText_110"] = "",
+    ["DictKey_ActionText_51"] = "ブレーキレバー [ W ] を押した状態で8.0 ±0.5 kg/cm2、Run-UPブレーキレバー [LShift]+[ W ] を押した状態で11.0 ±1.0 kg/cm2を示すことを確認せよ。\
+\
+両レバーを離した場合は計器がゼロを示すはずだ。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_132"] = "滑走中は操縦桿をニュートラルに保て。\
+\
+速度が125〜130ノットに達したら、操縦桿を引いて機首を上げよ。\
+\
+機首上のIRセンサーのすぐ上に地平線を合わせ、HUDのピッチ指示を8〜10度の範囲に維持せよ。",
+    ["DictKey_ActionText_60"] = "両脚の間にある射出座席アームをArmed位置に設定せよ。アーム中央部分を左クリックして操作する。",
+    ["DictKey_ActionText_65"] = "",
+    ["DictKey_ActionText_77"] = "",
+    ["DictKey_ActionText_93"] = "– 内側ビーコン（INNER）信号を聞き、再度インジケータで方位を確認せよ。  \
+– OUTER / INNERスイッチをOUTER位置に戻せ。  \
+– UHF/VHFラジオパネルでADFモードをオフにせよ。  ",
+    ["DictKey_descriptionText_1"] = "MiG-29A Fulcrum 実技レッスン。",
+    ["DictKey_ActionText_150"] = "フラップとスラットが展開していることを、目視および対応インジケータで確認せよ。その後、フラップパネルのUPボタンを押して格納せよ。\
+\
+注意：フラップ展開時はノーズホイール支柱の操舵効きが制限される。",
+    ["DictKey_ActionText_91"] = "ADF / ラジオコンパスシステムの作動を確認せよ：\
+\
+– ADF / RSBNスイッチをADFに設定せよ。  \
+– UHF/VHFラジオパネルでADFモードをオンにせよ。  \
+– ヘッドホンで飛行場外標識ビーコンのモールス信号を聞き、HSIの針がビーコンの方位を正しく指していることを確認せよ。  \
+– 次に電波高度計のすぐ上を見て、OUTER / INNERスイッチを見つけ、INNER位置に切り替えよ。  ",
+    ["DictKey_ActionText_138"] = "",
+    ["DictKey_ActionText_28"] = "LAMP TESTボタンを押し、すべての警告灯が正常に点灯することを確認せよ。",
+    ["DictKey_ActionText_147"] = "",
+} -- end of dictionary
