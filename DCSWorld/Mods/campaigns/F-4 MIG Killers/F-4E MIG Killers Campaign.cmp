@@ -1,0 +1,324 @@
+campaign = 
+{
+    ["picture_EN"] = "Banner.jpg",
+    ["startStage"] = 1,
+    ["picture"] = "Banner.jpg",
+    ["description_EN"] = "1969年、米海軍は北ベトナム上空での制空権争いに敗れつつあった。\
+撃墜率は2対1という惨憺たる状況に陥り、空の優位は大きく揺らいだ。\
+\
+有名なオルト報告書（Ault Report）を受けて、選び抜かれた海軍エースたちが立ち上がり、\
+状況を打開すべく大学院レベルの訓練プログラムを立案した。\
+彼らは米海軍航空の伝統を蘇らせるという挑戦に直面していた――再び、ドッグファイトを学ぶために。\
+\
+1969年3月3日、TOPGUN（海軍戦闘機兵器学校）第1期生として参加せよ。\
+F-4ファントムの限界、そのさらに先へと押し上げる方法を習得しよう。\
+\
+この綿密に研究されたリアルなシラバスを通じて、実戦的な戦術を鍛え上げるのだ。\
+\
+ようこそーー\
+そして、これからの5週間は君の飛行人生における最高の時間となる。 ",
+    ["pictureSuccess_EN"] = "SUCCESS.jpg",
+    ["necessaryUnits"] = 
+    {
+        ["F-4E-45MC"] = "F-4E-45MC",
+    }, -- end of ["necessaryUnits"]
+    ["pictureFailed"] = "FAILURE.jpg",
+    ["name"] = "F-4E MIG Killers Campaign",
+    ["stages"] = 
+    {
+        [1] = 
+        {
+            ["name"] = "Stage 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MIG Killers - 00 - Intro 1.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\gerge\\Saved Games\\DCS.openbeta\\Missions\\MIG Killers - 00 - Intro 1.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MIG Killers - 00 - Intro 2.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\gerge\\Saved Games\\DCS.openbeta\\Missions\\MIG Killers - 00 - Intro 2.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [3] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MIG Killers - 01 - Fam Flight.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\gerge\\Saved Games\\DCS.openbeta\\Missions\\MIG Killers - 01 - Fam Flight.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [4] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MIG Killers - 02a - Departure.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\gerge\\Saved Games\\DCS.openbeta\\Missions\\MIG Killers - 02a - Departure.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [5] = 
+        {
+            ["name"] = "Stage 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MIG Killers - 03a - Departure.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\gerge\\Saved Games\\DCS.openbeta\\Missions\\MIG Killers - 03a - Departure.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [6] = 
+        {
+            ["name"] = "Stage 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MIG Killers - 04a - Departure.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\gerge\\Saved Games\\DCS.openbeta\\Missions\\MIG Killers - 04a - Departure.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [7] = 
+        {
+            ["name"] = "Stage 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MIG Killers - 05a - Departure.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\gerge\\Saved Games\\DCS.openbeta\\Missions\\MIG Killers - 05a - Departure.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [8] = 
+        {
+            ["name"] = "Stage 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MIG Killers - 06a - Departure.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\gerge\\Saved Games\\DCS.openbeta\\Missions\\MIG Killers - 06a - Departure.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [9] = 
+        {
+            ["name"] = "Stage 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MIG Killers - 07a - Departure.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\gerge\\Saved Games\\DCS.openbeta\\Missions\\MIG Killers - 07a - Departure.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [10] = 
+        {
+            ["name"] = "Stage 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MIG Killers - 08a - Departure.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\gerge\\Saved Games\\DCS.openbeta\\Missions\\MIG Killers - 08a - Departure.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [11] = 
+        {
+            ["name"] = "Stage 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MIG Killers - 09a - Departure.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\gerge\\Saved Games\\DCS.openbeta\\Missions\\MIG Killers - 09a - Departure.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [12] = 
+        {
+            ["name"] = "Stage 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MIG Killers - 10a - Departure.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\gerge\\Saved Games\\DCS.openbeta\\Missions\\MIG Killers - 10a - Departure.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [13] = 
+        {
+            ["name"] = "Stage 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MIG Killers - 11a - Departure.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\gerge\\Saved Games\\DCS.openbeta\\Missions\\MIG Killers - 11a - Departure.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [14] = 
+        {
+            ["name"] = "Stage 14",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MIG Killers - 12a - Departure.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\gerge\\Saved Games\\DCS.openbeta\\Missions\\MIG Killers - 12a - Departure.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+        [15] = 
+        {
+            ["name"] = "Stage 15",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MIG Killers - 13 - Graduation.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\gerge\\Saved Games\\DCS.openbeta\\Missions\\MIG Killers - 13 - Graduation.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+    }, -- end of ["stages"]
+    ["version"] = 1,
+    ["name_EN"] = "F-4 MIG Killers Campaign",
+    ["pictureFailed_EN"] = "FAILURE.jpg",
+    ["description"] = "In 1969 the US Navy found themselves losing the battle for the skies over North Vietnam. Their kill ratio fell to a dismal 2 to 1. Based on the results of the famous Ault report a handful of expert aviators put together a graduate level training program to turn things around. They were being challenged to revive their heritage as naval aviators—to learn how to dogfight again. \
+\
+Join the very first class of the Topgun course on March 3 1969 and learn how to push your F-4 Phantom to the edge of the envelope and beyond. Practice advanced, real life tactics as you go through this well researched, realistic syllabus. \
+\
+Welcome aboard, and welcome to the best five weeks of your flying career. ",
+    ["pictureSuccess"] = "SUCCESS.jpg",
+} -- end of campaign
