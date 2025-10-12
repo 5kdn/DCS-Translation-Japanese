@@ -1,0 +1,53 @@
+name: Deploy GitHub Pages (from external release)
+on:
+  repository_dispatch:
+    types: [pages_release]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+env:
+  NODE_VERSION: 'latest'
+  PNPM_VERSION: 'latest'
+  PAGE_BUILD_REPOSITORY: 'DCS-Translation-Japanese-Downloader'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          repository: ${{ github.repository_owner }}/${{ env.PAGE_BUILD_REPOSITORY }}
+          ref: ${{ github.event.client_payload.tag }}
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: pnpm
+      - uses: pnpm/action-setup@v4
+        with:
+          version: ${{ env.PNPM_VERSION }}
+
+      - run: pnpm i --frozen-lockfile
+      - run: cp docs/index.html docs/404.html || true
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
