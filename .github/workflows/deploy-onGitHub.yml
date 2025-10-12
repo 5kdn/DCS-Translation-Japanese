@@ -35,13 +35,14 @@ jobs:
           ref: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.tag || inputs.tag || 'master' || 'main' }}
           fetch-depth: 1
 
-      - uses: actions/setup-node@v5
-        with:
-          node-version: ${{ env.NODE_VERSION }}
-          cache: pnpm
       - uses: pnpm/action-setup@v4
         with:
           version: ${{ env.PNPM_VERSION }}
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'pnpm'
 
       - run: pnpm i --frozen-lockfile
       - run: cp docs/index.html docs/404.html || true
