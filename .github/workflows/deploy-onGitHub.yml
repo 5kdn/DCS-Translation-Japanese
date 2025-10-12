@@ -21,7 +21,7 @@ concurrency:
 env:
   NODE_VERSION: 'latest'
   PNPM_VERSION: 'latest'
-  PAGE_BUILD_REPOSITORY: 'DCS-Translation-Japanese-Downloader'
+  PAGE_BUILD_REPOSITORY: '5kdn/DCS-Translation-Japanese-Downloader'
 
 jobs:
   build:
@@ -29,7 +29,8 @@ jobs:
     steps:
       - uses: actions/checkout@v5
         with:
-          repository: ${{ github.repository_owner }}/${{ env.PAGE_BUILD_REPOSITORY }}
+          repository: ${{ env.PAGE_BUILD_REPOSITORY }}
+          token: ${{ secrets.PAGES_SOURCE_TOKEN }}
           # repository_dispatch の tag → 手動入力の tag → master → main の順で解決
           ref: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.tag || inputs.tag || 'master' || 'main' }}
           fetch-depth: 1
