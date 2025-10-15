@@ -1,4 +1,5 @@
-name: Deploy GitHub Pages (from external release)
+name: Deploy GitHub Pages from external release
+
 on:
   repository_dispatch:
     types: [pages_release]
@@ -48,7 +49,7 @@ jobs:
       - run: pnpm i --frozen-lockfile
       - run: pnpm build
         env:
-          - VITE_API_SERVER_URL: ${{ API_SERVER_URL }}
+          VITE_API_SERVER_URL: ${{ vars.API_SERVER_URL }}
       - run: cp docs/index.html docs/404.html || true
       - uses: actions/upload-pages-artifact@v4
         with:
