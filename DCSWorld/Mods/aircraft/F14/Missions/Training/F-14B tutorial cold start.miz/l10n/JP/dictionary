@@ -1,0 +1,506 @@
+dictionary = 
+{
+    ["DictKey_GroupName_138"] = "New Static Object #022",
+    ["DictKey_UnitName_52"] = "USS Normandy",
+    ["DictKey_UnitName_67"] = "",
+    ["DictKey_ActionText_29"] = "次に、右エンジンと同じ手順で左エンジンを始動します。\
+（ENG CRANKスイッチを左クリックでLに切り替え、エンジン回転数が20％になったら左スロットルをIアイドル位置に）\
+\
+確認ですが、エンジン計器は次のようになります。\
+\
+RPM  -  62％～78％\
+EGT  - 基準値500℃\
+燃料流量（FF） - 基準値950〜1.400 Pph\
+ノズル（NOZ）位置 -  100％\
+オイル - 基準値25〜35 psi、最小15 psi\
+COMB HYD PRESS  -  3.000 psi",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_ActionText_43"] = "ANTI SKID SPOILER BKスイッチをOFFにします。\
+\
+フラップとスラットを格納します。\
+\
+サムホイールを使用して、マニューバフラップとスラットを完全に展張します。\
+\
+次にWING SWEEP MODEスイッチで50°スイープを選択します。あなたは指示された位置である50°以上に動かすことが\
+できないはずですが、もしできてしまった場合は、すぐにAUTOを選択してください。\
+\
+マニューバフラップとスラットをサムホイールで完全に格納してから、WING SWEEP MODEスイッチでBOMBモードを選択します。 \
+通常のマニューバフラップとスラットの格納を確認してください。\
+\
+完了したらスペースキーを押します。",
+    ["DictKey_GroupName_96"] = "New Static Object #009",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_GroupName_132"] = "New Static Object #020",
+    ["DictKey_ActionText_26"] = "R GENとR FUEL PRESSのコーションライトがそれぞれ59％rpmとアイドル回転数になる前に消えることを確認します。\
+\
+アイドル状態のエンジン計器は次のようになります。\
+\
+RPM  -  62％～78％\
+EGT  - 基準値500℃\
+燃料流量（FF） - 基準値950〜1.400 Pph\
+ノズル（NOZ）位置 -  100％\
+オイル - 基準値25〜35 psi、最小15psi\
+FLT HYD PRESS  -  3.000 psi\
+\
+その後、機付長に外部電源を切断するように指示してください。 （デフォルトのキーコマンド\\、F8、F2、およびF2）\
+\
+完了したら、スペースバーを押して続行します。",
+    ["DictKey_ActionText_155"] = "",
+    ["DictKey_ActionText_30"] = "両エンジンが作動している状態になったら、機付長にスターターエアを切り離すように指示します。\
+（デフォルトのキーコマンド\\、F8、F5、およびF2。）\
+\
+AIR SOURCEスイッチをL ENG、R ENG、BOTH ENGの順に切り替え、3つの位置すべてでコックピットのエアフローを\
+確認の上、BOTH ENG位置にしておきます。\
+\
+次に、HYD TRANSFER PUMPスイッチをNORMALに設定してガードを閉じます。",
+    ["DictKey_GroupName_102"] = "New Static Object #011",
+    ["DictKey_UnitName_145"] = "",
+    ["DictKey_UnitName_121"] = "",
+    ["DictKey_ActionRadioText_44"] = "",
+    ["DictKey_UnitName_115"] = "",
+    ["DictKey_ActionText_13"] = "次にマスターテストスイッチを上げてFIRE DET/EXT位置に動かし、押し下げます。\
+\
+ACMの下のLおよびR FIREライトが点灯し、Master TestパネルのGOライトも点灯することを確認します。\
+\
+準備ができたらスペースキーを押します。",
+    ["DictKey_ActionText_28"] = "左エンジンが再びスプールダウンした状態で、HYD TRANSFER PUMPスイッチをNORMALに切り替えます。\
+\
+これにより、コンバインド側が右エンジンから加圧され、2.400〜2.600 psiの圧力が維持されます。\
+\
+正しい圧力が表示されている場合は、HYD TRANSFER PUMPスイッチをSHUTOFFにしてください。\
+\
+また、コンバインド側が10秒以内に加圧されない場合は、すぐにHYD TRANSFER PUMPスイッチをSHUTOFFに\
+設定してください。\
+\
+完了したら、スペースバーを押して続行します。",
+    ["DictKey_UnitName_76"] = "",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_UnitName_136"] = "",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_ActionText_27"] = "ここで、コンバインドハイドロプレッシャーをチェックするために、ENG CRANKスイッチをLに切り替えますが、まだ\
+左スロットルをアイドル位置にはしません。\
+\
+コンバインドハイドロプレッシャーが3.000 psiに達したら、ENG CRANKをOFFに戻します。\
+\
+完了したらスペースキーを押します。",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_GroupName_84"] = "New Static Object #005",
+    ["DictKey_UnitName_130"] = "",
+    ["DictKey_ActionText_42"] = "MASTER TESTスイッチをSTICK SWに設定します。\
+\
+SPOILERライトが点灯し、すべてのスポイラーが下がります。\
+\
+各方向に1インチ以上スティックを操作すると、GOライトが点灯します。\
+\
+MASTER TESTスイッチをオフにしてください。\
+\
+完了したらスペースキーを押します。",
+    ["DictKey_ActionText_34"] = "次は、推力増強装置ファンの温度制御（AFTC）をチェックします。\
+\
+L ENG SELECTスイッチをSECに設定することから始めます。 L ENG SECライトがコーションパネルで点灯し、左側の\
+NOZポジションインジケータがゼロ以下を指すはずです。\
+\
+そしてスイッチをPRIに戻すと、警告灯が消え、NOZポジションインジケータが100％を表示するはずです。\
+\
+R ENG SELECTスイッチを使用して右エンジンも同様にチェックします。\
+\
+完了したらスペースキーを押します。",
+    ["DictKey_ActionText_40"] = "翼を展開して操縦翼面をチェックする時が来ました。\
+\
+翼を展開する際は、翼の可動範囲に障害物がないことを確認することが絶対に重要です。\
+\
+もし障害物がある場合、またはあなたが空母でのスタートアップをしている場合、翼の展開は後で行ないます。\
+そういうスタートアップをする際に、チェックリストがどのポイントにつながるかについては、後で教えます。\
+\
+今回は空母からのスタートアップですが、スペースがあるので指導目的のためにここで翼の展開を行います。\
+\
+緊急ウィングスイープハンドルを完全に前方の位置（20°）に動かし、ハンドルを押し下げてガードを閉じることによって\
+スパイダーディテントをかみ合わせます。 （スクロールホイールでハンドルを動かし、クリックして押し下げます。さらに\
+ガードをクリックして閉じます。）『繰り返します、これは翼を動かします』\
+\
+翼を完全に前方に展開するため、必要ならwing sweep AUTOを選択してください。\
+\
+翼がオーバースイープから出てきて、スタビライザーがロックを解除すると、HZ TAIL AUTHライトが一瞬点灯します。\
+\
+自動ウイングスィーププログラムを再初期化するには、MASTER RESETボタンを押します。\
+\
+完了したらスペースキーを押します。",
+    ["DictKey_ActionText_45"] = "次にガードを開き、緊急ウィングスイープハンドルを引き上げて68°に動かし、そこで保持します。 OVSWと表示されたら、\
+ハンドルを上に動かしてオーバースイープし、押し込みます。\
+\
+WING SWEEP MODEスイッチのAUTOを選択し、MASTER RESETプッシュボタンを押します。\
+\
+空母に乗っていない場合は、ANTI SKID SPOILER BKスイッチをBOTHに設定しますが、今は空母に乗っているので、\
+OFFのままにします。\
+\
+完了したらスペースキーを押します。",
+    ["DictKey_UnitName_49"] = "USS Stennis",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_ActionText_16"] = "キャノピーを閉じることをRIOに通知し、キャノピーと機体の間に何もないことを確認してからそれを閉じます。\
+\
+スペースバーを押して続行します。",
+    ["DictKey_ActionText_32"] = "MASTER TESTスイッチをEMERG GENに設定すると、GOランプが点灯する前にNO GOランプが約1秒間点灯します。\
+\
+完了したらスペースキーを押します。",
+    ["DictKey_UnitName_79"] = "",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_GroupName_5"] = "F-14 Indoctrination",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_ActionText_46"] = "このポイントで、空母での始動または翼を展開しない始動のためのチェックリストが続きます。\
+\
+レーダー高度計のSETノブを押してBITを開始します。 ディスプレイに100フィートと表示され、緑色のライトが点灯します。\
+手を離すとディスプレイに0フィートが表示され、ALT LOWランプが点灯し、警告音がパイロットとRIOの両方に聞こえる\
+はずです。\
+\
+希望のモードのディスプレイを確認してください。\
+\
+HUD、VDI、HSD、およびBDHIのIMUヘディングを確認しますが、INSのアライメントが完了するまで、これらの表示は\
+正確でないことに注意が必要です。\
+\
+通常の操作については飛行計器をチェックしてください。\
+\
+準備ができたらスペースキーを押します。",
+    ["DictKey_GroupName_120"] = "New Static Object #016",
+    ["DictKey_ActionText_15"] = "MASTER TESTスイッチをOFFにします。\
+\
+左Shift + Eを使って脱出シートをArmポジションにします。Jesterはすでにそうするようにあなたに言っているはずです。\
+そして彼は自分のスタートアップを続けるでしょう。\
+\
+シートをArmポジションにしたら、Jesterはキャノピーを閉じて、それについて警告します。 指を挟まないように注意してください。\
+\
+スペースバーを押して続行します。",
+    ["DictKey_ActionText_152"] = "",
+    ["DictKey_GroupName_108"] = "New Static Object #013",
+    ["DictKey_ActionText_47"] = "機体のスタートアップはこれで完了し、タキシング準備が整いました。 これでこのレッスンは終了です。\
+\
+Jester Assisted Startupを使用して起動手順を練習することもできます。 例えばインスタントアクションのコールドスタート\
+ミッションでそれを試してみてください。 Jesterメニューから「Assisted startup」を選択すると、彼がチェックリストの各項目を\
+読んで手順を案内します。\
+\
+この後はコックピットコントロールの慣熟やタキシングの練習を続けても結構ですし、必要なければESCキーを使用してミッションを\
+終了してください。",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_GroupName_117"] = "New Static Object #015",
+    ["DictKey_UnitName_127"] = "",
+    ["DictKey_GroupName_72"] = "New Static Object #002",
+    ["DictKey_GroupName_75"] = "New Static Object #003",
+    ["DictKey_GroupName_66"] = "",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_GroupName_147"] = "New Static Object #025",
+    ["DictKey_GroupName_93"] = "New Static Object #008",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_sortie_4"] = "",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_UnitName_56"] = "Pilot #001",
+    ["DictKey_ActionText_38"] = "ここでスピードブレーキを部分的に展張して格納、その後完全に展張して格納します。 スピードブレーキ展張時に自動トリムが作動していることを確認するため、スタビライザーの変動をチェックします。\
+\
+また、スイッチをALLに設定して給油プローブを完全に展張してから格納します。 通常動作の確認と、展張位置と格納位置間でトランジションライトが点灯することを確認します。\
+\
+最後にWSHLD AIRスイッチを切り替えます。\
+\
+完了したらスペースキーを押します。",
+    ["DictKey_GroupName_111"] = "New Static Object #013",
+    ["DictKey_UnitName_94"] = "",
+    ["DictKey_ActionText_31"] = "今度は安定増強システム（SAS）をオンにします。3つのSASスイッチすべてをオンにしてください。",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_UnitName_106"] = "",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_GroupName_48"] = "Stennis Carrier Group",
+    ["DictKey_GroupName_144"] = "New Static Object #024",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_UnitName_148"] = "",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_GroupName_87"] = "New Static Object #006",
+    ["DictKey_GroupName_62"] = "New Helicopter Group",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_UnitName_97"] = "",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_UnitName_54"] = "USS Rentz",
+    ["DictKey_ActionText_22"] = "続いてEMERG FLY HYDスイッチをLOWにします。\
+\
+EMER FLT LOW　ウィンドウにONフラグが見えることを確認してください。\
+\
+また、サーフェスポジションインジケーターで水平およびラダー操縦面の管理を確認してください。\
+\
+完了したらスペースキーを押します。",
+    ["DictKey_UnitName_88"] = "",
+    ["DictKey_ActionText_20"] = "では、エンジンを始動する準備ができたことをRIOに通知し、RIOもエンジン始動の準備ができていることを確認します。\
+\
+また、タワーにエンジン始動許可を求めるよう、RIOに指示してください。\
+\
+準備ができたらスペースキーを押します。",
+    ["DictKey_UnitName_109"] = "",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_GroupName_126"] = "New Static Object #018",
+    ["DictKey_UnitName_100"] = "",
+    ["DictKey_ActionText_193"] = "続いて、あなたのマスクへの酸素をオンにします。",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_UnitName_124"] = "",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_UnitName_133"] = "",
+    ["DictKey_GroupName_69"] = "New Static Object #001",
+    ["DictKey_GroupName_81"] = "New Static Object #004",
+    ["DictKey_ActionText_18"] = "ACMパネルで以下を確認して設定します。\
+\
+希望のガンレート（残りのラウンドもチェック）\
+SW COOL  - OFF\
+MSL準備 - OFF\
+MSLモード -  NORM\
+\
+ステーションのロードウィンドウがロードされた武器に対応していることも確認します。\
+\
+準備ができたらスペースキーを押します。",
+    ["DictKey_ActionText_25"] = "エンジンを始動する時が来ました。\
+\
+（まず流れの説明をするので、指示があるまで操作はしなしでください。）\
+\
+ENG CRANKスイッチは、LまたはRエンジン位置に動かすと自動的に固定されます。 エンジン回転数50％で\
+自動的に解除されます。\
+\
+エンジン回転数が20％に達したら、オイルとハイドロプレッシャーをチェックし、START / VALVE　コーションランプが\
+点灯することを確認します。\
+\
+20％になったら、選択したエンジンスロットルをアイドル位置にして、点火システムと燃料フローを作動させます。 \
+エンジンライトは5〜15秒以内に消灯します。 EGTの温度は40〜50％前後でピークに達し、ホットスタートとなる\
+890℃を超えないようにします。\
+\
+50％rpmを過ぎてもENG CRANKスイッチが中央に戻らない場合は、60％rpmになる前に手動でオフにしてください。 \
+START / VALVE警告灯が点灯したままの場合は、機付長にスターターエアを切り離すように伝えてください。\
+\
+（それでは実際に右エンジンからスタートさせます）\
+\
+まず、右エンジンのためにENG CRANKスイッチを右クリックでRに切り替え、エンジン回転数が20％になったら\
+右スロットルをIアイドル位置に動かします。",
+    ["DictKey_UnitName_103"] = "",
+    ["DictKey_GroupName_90"] = "New Static Object #007",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_ActionText_153"] = "それではここで、INSアライメントを開始するようにJESTERに指示します。\
+\
+このプロセスは条件によって最大8分かかることがあるのでエンジン始動後できるだけ早くそれを始めるのが最善です。 \
+それはパーキングブレーキの設定に依存しており、ブレーキが解放されると停止してしまいます。\
+\
+JESTERが何を見ているか、またアライメントがどのように進行しているかを確認するには、HSDをオンにしてTID リピートに\
+設定し、彼がTIDについて何を見ているかを確認します。\
+\
+HSD TIDリピートのデータが表示されたら、JESTER通信ホイールを起動して目的のINSアライメント品質を選択します。\
+この場合はFINEを選択します。 （AそしてCTRL + 3）\
+\
+JESTERがINSアライメントに必要なパラメータを入力してからアライメントモードを選択するのがわかります。\
+\
+INSがアラインメントを開始すると、TIDリピートはシンボルを左から右へ動かしながらステータスバーを表示します。\
+\
+ステータスバーの左側の数字は、分と10分の1分を示しています。\
+\
+我々はチェックリストを続けることができます。\
+\
+スペースバーを押して続行します。",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_UnitName_112"] = "",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_ActionText_8"] = "おはようパイロット！\
+\
+あなたのF-14習熟化パッケージのこの最初のレッスンへようこそ。\
+\
+このレッスンでは、パイロットの観点からチェックリストを見ながらF-14を起動します。\
+\
+このレッスンの前提条件はあなたが機体のマニュアルを研究することから得たはずの\
+パイロットコックピットのコントロールとインジケーターに精通していることです。",
+    ["DictKey_ActionText_14"] = "最後に、MASTER TESTスイッチを上げてINST位置にし、押し下げて飛行計器を確認します。\
+\
+以下の表示になっていることを確認してください：\
+RPM　96％\
+EGT　960℃\
+燃料流量（FF）　10.500 Pph\
+AOA　18±5\
+ウィングスイープ 4°±2.5°\
+燃料量　2.000±200ポンド\
+酸素量　2リットル\
+左右のFUEL FLOWランプ　点灯\
+\
+JESTERは、彼のインジケーターが同じ燃料量を表示していることも確認します。\
+\
+このテスト中は、左右の STALL警告灯も点滅します。\
+\
+準備ができたらスペースキーを押します。",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_GroupName_105"] = "New Static Object #012",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_descriptionText_1"] = "",
+    ["DictKey_UnitName_139"] = "",
+    ["DictKey_UnitName_82"] = "",
+    ["DictKey_UnitName_63"] = "Pilot #002",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_195"] = "",
+    ["DictKey_UnitName_53"] = "USS Hué City",
+    ["DictKey_UnitName_142"] = "",
+    ["DictKey_GroupName_123"] = "New Static Object #017",
+    ["DictKey_GroupName_55"] = "Magic",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_GroupName_114"] = "New Static Object #014",
+    ["DictKey_UnitName_91"] = "",
+    ["DictKey_ActionText_35"] = "今度はWING / EXT TRANSスイッチをOFFにします。\
+\
+UHFファンクションセレクターをBOTHに設定します。\
+\
+TACANファンクションセレクターをT/Rに設定します。\
+\
+以下をONにします：\
+\
+ARA-63のPOWERスイッチ\
+残りのDISPLAYSコントロールスイッチ\
+レーダー高度計のコントロールノブを上にスクロール",
+    ["DictKey_ActionText_151"] = "我々はタキシングを開始する前に、INSのアライメントが完了するのを待たなければなりません。\
+\
+HSD TIDリピーターにINSアライメントページが表示されている間は、それが完了し、Jesterがタキシング準備完了と言って\
+来るまで待ってください。\
+\
+スペースバーを押して続行します。",
+    ["DictKey_GroupName_99"] = "New Static Object #010",
+    ["DictKey_UnitName_70"] = "",
+    ["DictKey_ActionText_24"] = "EMERG FLT HYDスイッチをAUTO（LOW）にします。\
+\
+EMER FLT LOWウィンドウとHIウィンドウの両方にOFFフラグがあることを確認してください。\
+\
+EMERG FLT HYDのガードを閉じます。",
+    ["DictKey_ActionText_21"] = "ジェスターがまだエンジンを始動する準備ができていることを確認していなければ、それを待ちます。\
+\
+AIR SOURCEスイッチがオフになっていることを確認してください。\
+\
+また、HYD TRANSFER PUMPスイッチをオフにしてください。 （ガードは立ち上がっていなければなりません。）\
+\
+スペースバーを押して続行します。",
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_ActionText_39"] = "WING / EXT TRANSスイッチをOFFにしてMASTER RESETプッシュボタンを押します。\
+\
+完了したらスペースキーを押します。",
+    ["DictKey_ActionText_10"] = "次のステップはr翼がオーバースイープ状態にあることを確認することです。\
+\
+ウィングを目視で確認し、緊急ウィングスイープハンドルが一番後方のオーバースイープ位置にあることを\
+確認します。 ウィングスイープ表示灯にもOVERフラグが見えるはずです。\
+\
+スペースバーを押して続行します。",
+    ["DictKey_UnitName_85"] = "",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_ActionText_36"] = "サーフェスポジションインジケーターのピッチトリムが0であることを確認します。コントロール入力がない場合は0度が\
+表示されます。\
+\
+コントロールノブをクリックし、インジケータが現在の姿勢と一致するまでそれを回すことによって、予備の姿勢ジャイロを\
+立ち上げます。\
+\
+予備の姿勢ジャイロは、離陸の少なくとも2分前に立ち上げなければなりません。\
+\
+次にMASTER RESETプッシュボタンを押します。\
+\
+完了したらスペースキーを押します。",
+    ["DictKey_ActionText_19"] = "緊急武装投棄ボタンのランプが消灯していること、およびLADDERランプも消灯していることを確認します。\
+\
+準備ができたらスペースキーを押します。",
+    ["DictKey_UnitName_73"] = "",
+    ["DictKey_ActionText_23"] = "次に、EMERG FLT HYDスイッチをHIGHにします。\
+\
+EMER FLT HI　ウィンドウにONフラグがあることを確認してください。\
+\
+サーフェスポジションインジケーターの操縦面の管理を再確認してください。 \
+デフレクションレートはLOWよりも高くなければなりません。\
+\
+完了したらスペースキーを押します。",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_ActionText_11"] = "それでは、RIOやグランドクルーとのコミュニケーションのためにICSの機能を検証しましょう。\
+\
+後でキャノピーを閉じた状態でグランドクルーと通信できるようにするには、ICSをホットマイクに設定します。\
+\
+JESTER通信ホイールを使用してノンアシストスタートアップを開始するようにジェスターに指示してください。 \
+（デフォルトはAそしてCtrl + 3）\
+彼のリストの最初のステップはコミュニケーションをチェックすることです。\
+\
+JESTER通信ホイールを使用して彼の声が聞こえることを確認してください。 （AそしてCtrl + 4）\
+\
+また、ランディングギアポジションインジケーターがオールダウンを示し、トランジションライトが消灯していることを\
+確認してください。\
+\
+JESTERも後部コックピットでシステムを起動し始め、最終的にはイジェクトシートを準備するように指示しますが、\
+それにはまだ応答しないでください。\
+\
+完了したらスペースキーを押します。",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_GroupName_129"] = "New Static Object #019",
+    ["DictKey_ActionText_9"] = "ご存知かもしれませんが、F-14には空気圧エンジン始動システムがあり、またAPUがないため、\
+機付長にスターターエアを接続するように指示する必要があります。\
+\
+我々は、彼に地上電源も接続するように指示する必要があります。\
+\
+ラジオメニューでグランドクルーカテゴリの下からそれを行ってください。 （デフォルトのキーコマンドは、\
+\\、F8、F2、F1と\\、F8、F5とF1です。）\
+\
+今すぐこれを実行し、続行するためにスペースバーを押してください。",
+    ["DictKey_ActionText_37"] = "サーフェスポジションインジケーターのピッチトリムが0であることを確認します。コントロール入力がない場合は0度が\
+表示されます。\
+\
+コントロールノブをクリックし、インジケータが現在の姿勢と一致するまでそれを回すことによって、予備の姿勢ジャイロを\
+立ち上げます。\
+\
+予備の姿勢ジャイロは、離陸の少なくとも2分前に立ち上げなければなりません。\
+\
+次にMASTER RESETプッシュボタンを押します。\
+\
+完了したらスペースキーを押します。",
+    ["DictKey_ActionText_41"] = "状況に応じて外部照明を右側のパネルでセットし、動作を確認してください。\
+\
+レバーを後方いっぱいに動かして、フラップとスラットを完全に展張します。 完全な展張、翼端のスポイラーモジュールの\
+作動とそのためにスタビライザーの後端が3°上がっていることを確認してください。\
+\
+コントロール面のフルレンジの動作と、それらが通常のスピードで動くことを確認します。\
+\
+DLC入力で水平テールシフトを確認してください。 （DLCボタンでDLCを有効にしてからサムホイールを動かします。）\
+\
+ANTI SKID SPOILER BKスイッチをBOTHに設定します。",
+    ["DictKey_GroupName_141"] = "New Static Object #023",
+    ["DictKey_UnitName_6"] = "Player",
+    ["DictKey_ActionText_33"] = "このあとMASTER TESTスイッチをOFFに戻しますが、その際には電圧モニターコントロールユニットVMCUもチェックします。\
+\
+次のランプが2秒弱点灯します。\
+\
+PITCH STAB　1および2\
+ROLL STAB　1および2\
+YAW STAB OPおよびOUT\
+SPOILERS\
+HZ TAIL AUTH\
+RUDDER AUTH\
+AUTO PILOT\
+MACH TRIM\
+\
+ではMASTER TESTスイッチを今すぐOFFにして、ランプを確認してみてください。\
+\
+RUDDER AUTHランプは、MASTER RESETプッシュボタンでリセットしてPITCHとROLL SASスイッチがオフになるまで、\
+消灯しません。 両方をもう一度オンにします。\
+\
+AHRSライトも一瞬点灯することがあります。\
+\
+完了したらスペースキーを押します。",
+    ["DictKey_GroupName_78"] = "",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_GroupName_135"] = "New Static Object #021",
+    ["DictKey_ActionText_12"] = "MASTER TESTスイッチを引き上げて、LTSの位置に動かしてから押し込み、ワーニングライトを確認します。\
+\
+やり方は、MASTER TESTスイッチを右クリックで引き上げ、左クリックで時計回りに動かし、もう一度右クリックで\
+押し込みです。\
+\
+すべてのワーニング、コーション、およびアドバイザリーライトが点灯することを確認してください。\
+\
+RIOと調整し、彼のライトもチェックさせてください。\
+\
+この機能を使用して、ACMパネルとインデクサーライトの明るさも設定します。\
+これらのコントロールはマスターライトパネルにあります。\
+\
+準備ができたらスペースキーを押します。",
+    ["DictKey_ActionText_154"] = "",
+    ["DictKey_UnitName_118"] = "",
+} -- end of dictionary

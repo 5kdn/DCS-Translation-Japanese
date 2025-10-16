@@ -1,0 +1,66 @@
+name: Deploy GitHub Pages from external release
+
+on:
+  repository_dispatch:
+    types: [pages_release]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Git tag (repository_dispatch 以外の手動実行用)'
+        required: false
+        type: string
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+env:
+  NODE_VERSION: '24'
+  PNPM_VERSION: '10'
+  PAGE_BUILD_REPOSITORY: '5kdn/DCS-Translation-Japanese-Downloader'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          repository: ${{ env.PAGE_BUILD_REPOSITORY }}
+          token: ${{ secrets.PAGES_SOURCE_TOKEN }}
+          # repository_dispatch の tag → 手動入力の tag → master の順で解決
+          ref: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.tag || inputs.tag || 'master' }}
+          fetch-depth: 0
+          fetch-tags: true
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: ${{ env.PNPM_VERSION }}
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'pnpm'
+
+      - run: pnpm i --frozen-lockfile
+      - run: pnpm build
+        env:
+          VITE_API_BASE_URL: ${{ vars.API_SERVER_URL }}
+      - run: cp docs/index.html docs/404.html || true
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

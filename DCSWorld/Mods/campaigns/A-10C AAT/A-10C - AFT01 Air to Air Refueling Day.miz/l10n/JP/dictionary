@@ -1,0 +1,601 @@
+dictionary = 
+{
+    ["DictKey_WptName_377"] = "",
+    ["DictKey_WptName_309"] = "",
+    ["DictKey_WptName_314"] = "",
+    ["DictKey_WptName_401"] = "",
+    ["DictKey_WptName_310"] = "",
+    ["DictKey_UnitName_233"] = "Cpt Henry Hull \"Ship\"",
+    ["DictKey_UnitName_226"] = "Capt John Lovett",
+    ["DictKey_UnitName_251"] = "Unit #2",
+    ["DictKey_211"] = "このPOに再トライする前に、フライトマニュアルを学習して、もっと練習飛行をすることをお勧めします。",
+    ["DictKey_WptName_312"] = "",
+    ["DictKey_UnitName_218"] = "Player",
+    ["DictKey_GroupName_284"] = "Static Humvee #001",
+    ["DictKey_GroupName_247"] = "C-130 Chevy 1 1 #001",
+    ["DictKey_WptName_373"] = "",
+    ["DictKey_WptName_387"] = "",
+    ["DictKey_188"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+アンチスキッドスイッチをOFFにしませんでした。",
+    ["DictKey_213"] = "11時にさらに友軍機！",
+    ["DictKey_UnitName_238"] = "Pilot #2",
+    ["DictKey_WptName_336"] = "",
+    ["DictKey_WptName_347"] = "",
+    ["DictKey_166"] = "いいでしょう。タンカーに近づいて「Pre-Contact」をコールして下さい。\
+",
+    ["DictKey_WptName_397"] = "",
+    ["DictKey_136"] = "タンカーに給油中の機体がいる場合、後方１nmで待機します。\
+\
+AARが実行中で無いことを確認してからアプローチします。",
+    ["DictKey_127"] = "あなたの給油能力で、家に無事に帰れるか、1800万ドルの飛行機の請求書を納税者に送るかが変わってきます。",
+    ["DictKey_164"] = "Ok 後方がクリアになりました。\
+\
+プリコンタクト チェックリストを行いましょう。",
+    ["DictKey_168"] = "ブームではなくタンカーを見て位置を調節して下さい。\
+\
+ブームを追いかけないで下さい。\
+\
+タンカーが安定しているか確認して下さい。",
+    ["DictKey_GroupName_260"] = "Fuel Truck",
+    ["DictKey_150"] = "コネクト（接続）したら給油が完了するまで、静止状態を維持します。\
+\
+インジケーターライトとブームのマーキングを確認して位置を確認してください。",
+    ["DictKey_159"] = "ランデブー（合流）できませんでした！",
+    ["DictKey_171"] = "やりました！コネクト！",
+    ["DictKey_WptName_304"] = "",
+    ["DictKey_140"] = "NMSPのTCNを選択して、タンカーの距離と方位を得てください。",
+    ["DictKey_194"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+左MFCDをOFFにしませんでした。",
+    ["DictKey_WptName_315"] = "",
+    ["DictKey_descriptionRedTask_297"] = "",
+    ["DictKey_155"] = "ではラインチェクを行います。\
+\
+空中給油ドア（Air Refueling Door） - 閉じているかチェック\
+エンジンRPM - 少なくとも１つのエンジンコアRPMが最低 85%\
+空中給油ラインチェックボタン（Air Refueling Line Check Button） - 押し下げます。（DEPRESS）\
+\
+一瞬燃料口が見えることがあります。\
+\
+燃料システムに問題があり、どうしてもドアが開かない場合は、ミッションを中止する必要があります。",
+    ["DictKey_116"] = "今から検定を開始します。",
+    ["DictKey_196"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+ピトーヒートスイッチをOFFにしませんでした。",
+    ["DictKey_179"] = "空中給油口 - CLOSED\
+READY ライト - OFF\
+燃料計 - CHECK\
+INT monitor スイッチ - 必要に応じて\
+HM スイッチ - 必要に応じて\
+TACAN - 必要に応じて\
+外部ライト類 - 必要に応じて",
+    ["DictKey_UnitName_263"] = "Static A-10C",
+    ["DictKey_176"] = "ギブアップですか？\
+\
+そんな姿勢では、この先空軍でやっていけませんよ。",
+    ["DictKey_GroupName_219"] = "A-10A Uzi 1 2",
+    ["DictKey_114"] = "CDUのRVIPとRVCPの目的到着時刻（Desired Time On Target）を修正してください。\
+RV（合流）できないと困ります。",
+    ["DictKey_125"] = "AAR（空中給油）は全ての戦闘機パイロットが習得すべき重量なスキルです。",
+    ["DictKey_WptName_358"] = "",
+    ["DictKey_197"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+フラップをフルアップにしませんでした。",
+    ["DictKey_WptName_393"] = "",
+    ["DictKey_215"] = "1, ホイールアップ！",
+    ["DictKey_WptName_392"] = "",
+    ["DictKey_131"] = "RVIP（ランデブーイニシャルポイント：Rendevous Initial Point）に到着したら、タンカーと交信して、合流を開始してください。\
+\
+指示されたRVCT（ランデブーコントロールタイム：Rendevous Control Time：合流時刻）にRVCP（ランデブーコントロールポイント：Rendevous Control Point：合流地点）にいる必要があります。",
+    ["DictKey_WptName_348"] = "",
+    ["DictKey_156"] = "３分以内に”Ready\"ランプが点灯することを確認して下さい。\
+\
+点灯しない場合は、燃料システムに問題があるため、ミッションを中止する必要があります。",
+    ["DictKey_WptName_350"] = "",
+    ["DictKey_WptName_399"] = "",
+    ["DictKey_135"] = "タンカーが視認できたら、タンカーと交信して次の指示を受けてください。\
+\
+TACANをAA RECにして、タンカーが次の航空機からの距離情報を得られるようにします。",
+    ["DictKey_UnitName_287"] = "Static Humvee #2",
+    ["DictKey_143"] = "もうすぐ angels 14です。レベルオフして適切な速度を維持して下さい。",
+    ["DictKey_UnitName_267"] = "Static AH-1W",
+    ["DictKey_165"] = "内部燃料残量 - CHECK\
+TACAN - AA/REC\
+CMSP - STBY\
+給油ライト - ON\
+外部ライト類 - 必要に応じて\
+INTERCOM モニタースイッチ - 必要位応じて\
+HOT MIC スイッチ - 必要位応じて\
+Signal amplifier switch - NORM\
+Fill disable スイッチ - 必要位応じて\
+空中給油口 - OPEN\
+READY ライトが ONで有ることを確認",
+    ["DictKey_UnitName_259"] = "Cpl Lance McCormick",
+    ["DictKey_WptName_369"] = "RVCP",
+    ["DictKey_WptName_404"] = "",
+    ["DictKey_WptName_326"] = "",
+    ["DictKey_GroupName_264"] = "Static Tanker",
+    ["DictKey_UnitName_248"] = "Capt Andrew Melnyk \"Mel\" #1",
+    ["DictKey_187"] = "シャットダウン手順を確認しましょう。",
+    ["DictKey_UnitName_224"] = "Col Harry Peel \"Peeler\"",
+    ["DictKey_ActionRadioText_412"] = "",
+    ["DictKey_WptName_334"] = "",
+    ["DictKey_GroupName_258"] = "Pilot Humvee",
+    ["DictKey_172"] = "急いで下さい！一日中やるわけにはいきません！",
+    ["DictKey_UnitName_289"] = "Static Humvee #3",
+    ["DictKey_WptName_398"] = "",
+    ["DictKey_UnitName_244"] = "Capt Frank Dildy",
+    ["DictKey_185"] = "2分間でシャットダウン手順を完了させて下さい。",
+    ["DictKey_WptName_366"] = "",
+    ["DictKey_WptName_386"] = "",
+    ["DictKey_WptName_370"] = "",
+    ["DictKey_203"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+バッテリーインバータースイッチをOFFにしませんでした。",
+    ["DictKey_WptName_354"] = "",
+    ["DictKey_WptName_328"] = "",
+    ["DictKey_WptName_390"] = "",
+    ["DictKey_147"] = "次は、コンタクト手順を説明しましょう。",
+    ["DictKey_169"] = "リラックスして下さい。\
+\
+あなたならできます。集中しましょう…",
+    ["DictKey_GroupName_266"] = "Static AH-1W",
+    ["DictKey_UnitName_228"] = "Lt Kam Spoke",
+    ["DictKey_157"] = "私の最初のAARへの挑戦を覚えています。\
+\
+悪夢でしかありませんでした！\
+\
+悪天候での給油は、Delta Sierraになります。\
+\
+今日は天気もよく、あなたはラッキーです。",
+    ["DictKey_GroupName_270"] = "Static Tanker #001",
+    ["DictKey_183"] = "ハードデッキ制限を解除します。\
+\
+機体を着陸させて、シャットダウンする事を許可します。\
+\
+その後で、評価を伝えます。",
+    ["DictKey_WptName_316"] = "",
+    ["DictKey_117"] = "COLT 1-1, COLT 1-2.\
+\
+方位 245, angels 8 ,適切な対気速度を維持して飛んでください。",
+    ["DictKey_151"] = "接続を解除するには、ノーズホイールステアリングボタンを押したままにしてください。\
+\
+ブームと衝突する恐れがありますので、操縦桿は引かないで下さい。\
+\
+このボタンはコネクトが解除された時に、再補給のためにシステムをリセットするためにも使用します。",
+    ["DictKey_214"] = "1, ローリング！（滑走開始）",
+    ["DictKey_209"] = "がんばりましたが、不十分でした！\
+\
+あなたの評価は不可（U)です。\
+\
+もっと練習に時間をかけて下さい。\
+\
+準備ができたらPOに再挑戦して下さい。",
+    ["DictKey_WptName_421"] = "",
+    ["DictKey_184"] = "誘導路を右に進んで下さい。\
+\
+左にある最初のフリーの駐機場に停めて下さい。\
+\
+\
+時間制限はありません。バッテリースイッチを切った時点で評価に入ります。",
+    ["DictKey_152"] = "給油が完了したら、タンカーのウイングラインの右後ろのリフォーム位置（ reform position ）に移動します。",
+    ["DictKey_GroupName_249"] = "New Ship Group",
+    ["DictKey_200"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+左エンジンをOFFにしませんでした。",
+    ["DictKey_160"] = "タンカーを視認\
+\
+タンカーと交信して、こちらから見えていることを知らせて下さい。",
+    ["DictKey_UnitName_281"] = "Static Humvee",
+    ["DictKey_UnitName_252"] = "Unit #1",
+    ["DictKey_WptName_400"] = "",
+    ["DictKey_112"] = "機体を始動させてください。滑走路で会いましょう。\
+\
+出発時刻は0700です。",
+    ["DictKey_descriptionText_296"] = "私はキャプテン ライアン・ベーカーです。コールサインは「セイバー（Sabre）」です。能力目標（PO)を判定するフライト試験官（FE)です。\
+\
+これはAFT01 - 空中給油（昼）です。A/OA-10C上級航空機訓練検定コースの最初のミッションです。\
+\
+あなたの評価は、A/OA-10搭乗員評価基準：AFI11-2A-OA-10V2:\
+に基づき行われます。\
+\
+エリア1.4.3.4　一般基準\
+\
+次の一般基準は、記載されている特定のイベントや計器ファイナルアプローチを除き、全ての飛行段階で適用されます。：\
+\
+\
+優（Q:Qualified）: 高度 +/- 200 feet.  対気速度 +/- 5%, コース +/- 5 度か 3 NM (どちらか大きい方), TACAN Arc +/- 2 NM.\
+\
+可（Q-：Qualified Minus): 高度 +/- 300 feet.  対気速度 +/- 10%, コース +/- 10 度か 5 NM (どちらか大きい方), TACAN Arc +/- 3 NM.\
+\
+不可（U:Unqualified): Q- の限界を超えた場合\
+\
+3.2.16 エリア 19 空中給油\
+3.2.16.1 空中給油ランデブー\
+\
+優（Qualified：Q): ランデブー（合流）は適切な手順で、効果的に達成されました。無線通信を効果的に使用できることを示しました。ブリーフィングで指定したEMCON（Emission Control ：通信、レーダー、ECMなどの電波発進制限）レベルに適した通信手順を行いました。\
+\
+可（Qualified Minus：Q-): 不適切な手順や無線操作、技術不足によりランデブーが遅れました。\
+\
+不可（Unqualified：U): 知識不足、手順を習熟していないため、空中給油を危険にさらしたか、さらす恐れがありました。不適切な手順によりランデブーに失敗しました。（追越した、追跡に時間がかかりすぎ、判断力に低さから飛行の安全性が侵されました。\
+\
+3.2.16.2 空中給油手順/テクニック\
+\
+優（Qualified：Q): 迅速に適切な位置につき、維持できました。適切な手順でした。機体のコントロールができていました。\
+\
+可（Qualified Minus：Q-): 適切な位置につき、維持するための判断、修正が遅い。機体のコントロールがスムーズで常にできているとは言い難いが、必要十分でした。空中給油の手順において正常な完了に影響を与えない範囲でのミスや省略がありました。パイロットの能力が原因で、自らの切断が1回のみでした。\
+\
+不可（Unqualified：U): プリコンタクト/給油位置が不安定です。飛行の安全性、空中給油の正常終了に影響するほどのミスまたは逸脱がありました。手順を大幅に間違えました。接続に時間がかかりすぎてミッションの達成が遅れました。技能不足で1回以上の切断やミッション達成が遅れました。\
+\
+このPOは複数回の空中給油を行ってもらいます。最初の接続でタンクを満タンにしないで下さい。\
+\
+ RV Delta (ポイントパラレル) ランデブー手順を使用します。\
+\
+私達は定義されたMOA（軍事作戦エリア）、及びAARA(空中給油エリア）内で活動します。許可なくMOAまたはAARA外に退出しないで下さい。\
+\
+着陸のためのパターン高度は2500ftです。\
+\
+ハードデッキ制限は5000ftです。解除されないうちはこの制限を破らないで下さい。\
+\
+この飛行には私がウイングマンとして同行します。\
+\
+チェックリストを持って、開始しましょう！\
+\
+驚異レベル: LOW\
+EMCON: 1\
+コブレチ（Kobuleti）タワー: 133.0Mhz AM\
+訓練生: COLT 1-1: 251.0Mhz AM\
+FE: COLT 1-2: 251.0Mhz AM\
+タンカー: TEXACO 1-1: 251.0Mhz AM タンカーTACAN: 5X TKR\
+\
+始動:          WP 0 TOT: 06:45:00\
+離陸:           WP 1 TOT: 07:00:00\
+AARA エントリー:     WP 2 TOT: 07:04:30\
+RVIP:               WP 3 TOT: 07:08:00\
+RVCP:              WP 4 RVCT: 07:23:00\
+旋回ポイント：WP 5 TOT: 07:25:30\
+旋回ポイント：WP 6 TOT: 07:28:30\
+旋回ポイント：WP 7 TOT: 07:43:15\
+AARA 出口:       WP 8 TOT: 07:46:35\
+着陸:         WP 9 TOT: 07:55:00\
+\
+代替空港：バトゥミ（Batumi） 131.0 Mhz AM\
+\
+総ミッション時間: ~70 分\
+\
+これはランプスタート、ランプ終了ミッションです。それに合わせてHOTASを設定しておいて下さい。\
+\
+ラジオメニューのF10を使用して、状況報告、指示を出して下さい。\
+\
+ミッション成功基準：\
+WP7に到着するまでに、10秒以上の空中給油を3回行って下さい。",
+    ["DictKey_180"] = "飛行ミッションのAAR部分を完了しました。",
+    ["DictKey_GroupName_276"] = "Static F-15E #003",
+    ["DictKey_189"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+インジェクションシートレバーを解除しませんでした。",
+    ["DictKey_GroupName_292"] = "Static Humvee #005",
+    ["DictKey_GroupName_274"] = "Static F-15E #001",
+    ["DictKey_WptName_364"] = "",
+    ["DictKey_199"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+CDUをOFFにしませんでした。",
+    ["DictKey_GroupName_253"] = "New Ship Group #001",
+    ["DictKey_WptName_385"] = "",
+    ["DictKey_GroupName_222"] = "F-16 Chevy 1 2",
+    ["DictKey_177"] = "給油の練習を続けるか、帰還できます。\
+\
+選んで下さい。",
+    ["DictKey_WptName_402"] = "",
+    ["DictKey_WptName_356"] = "",
+    ["DictKey_WptName_321"] = "",
+    ["DictKey_UnitName_295"] = "Static Humvee #6",
+    ["DictKey_195"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+右MFCDをOFFにしませんでした。",
+    ["DictKey_WptName_378"] = "",
+    ["DictKey_WptName_339"] = "",
+    ["DictKey_120"] = "Knock it off!  Knock it off!\
+\
+ハードデッキ制限を破りました。\
+\
+このPOを中止します。",
+    ["DictKey_198"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+EGIをOFFにしませんでした。",
+    ["DictKey_WptName_323"] = "",
+    ["DictKey_WptName_346"] = "",
+    ["DictKey_207"] = "やりました。このPOをパスしました。\
+\
+あなたの評価は可（Q-)です。\
+\
+操縦を練習してスキルを上げて下さい。それが命を救うことになります。\
+\
+次の検定ミッションに備えてコブレチに戻りましょう。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_WptName_338"] = "",
+    ["DictKey_175"] = "もう一度トライして下さい。\
+\
+安定させて、スロットルでゆっくり移動、ブームではなくタンカーを見て飛びます。",
+    ["DictKey_WptName_325"] = "",
+    ["DictKey_WptName_396"] = "",
+    ["DictKey_ActionText_407"] = "1, COPY!",
+    ["DictKey_GroupName_280"] = "Static Humvee",
+    ["DictKey_WptName_331"] = "",
+    ["DictKey_WptName_403"] = "",
+    ["DictKey_UnitName_223"] = "Capt Sheila Burkett \"Guns\"",
+    ["DictKey_WptName_355"] = "",
+    ["DictKey_206"] = "おめでとうございます。このPOを合格しました。\
+\
+あなたの評価は優（Q)です。\
+よくやりました！\
+\
+次の検定ミッションに備えてコブレチに戻りましょう。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_121"] = "Knock it off!  Knock it off!\
+\
+許可なくMOAから退出しました。\
+\
+このPOを中止します。",
+    ["DictKey_WptName_317"] = "",
+    ["DictKey_WptName_306"] = "RVCP",
+    ["DictKey_UnitName_256"] = "Unit #5",
+    ["DictKey_WptName_349"] = "",
+    ["DictKey_UnitName_230"] = "Lt Art Mayor",
+    ["DictKey_UnitName_236"] = "Maj Arthur Nettle",
+    ["DictKey_WptName_300"] = "",
+    ["DictKey_WptName_330"] = "",
+    ["DictKey_149"] = "コツは、まずタンカーの後ろで安定させます。それからゆっくりと忍び寄ります。\
+\
+範囲内に入ると、タンカーのオペレーターがブームをレセプタクル（給油口）に挿入します。\
+\
+タンカーとの位置関係を静止させて、接続を維持してください。操縦桿とスロットルを小刻みに動かします。",
+    ["DictKey_UnitName_245"] = "Capt Stacey Major",
+    ["DictKey_UnitName_240"] = "Capt Terry Schofield",
+    ["DictKey_WptName_343"] = "",
+    ["DictKey_158"] = "忘れるところでした。\
+\
+もしタンカーが「Breakaway」とコールしたら、衝突を避けるためにすぐに対気速度を下げて、高度を落としてください。\
+\
+その後で、再度セットアップして燃料補給にトライして下さい。",
+    ["DictKey_WptName_381"] = "",
+    ["DictKey_123"] = "良いですよ。方位 245, angels 8 ,適切な速度を維持して下さい。\
+\
+オートパイロットの使用を許可します。",
+    ["DictKey_GroupName_278"] = "Static F-15E #004",
+    ["DictKey_WptName_340"] = "",
+    ["DictKey_WptName_382"] = "",
+    ["DictKey_GroupName_268"] = "Static AH-1W #001",
+    ["DictKey_GroupName_227"] = "A-10C Springfield 1 2",
+    ["DictKey_UnitName_229"] = "Lt Arthur Lakey",
+    ["DictKey_WptName_329"] = "",
+    ["DictKey_154"] = "Master Arm スイッチ - SAFE\
+GUN/PAC スイッチ - SAFE\
+Laser Arm スイッチ - SAFE\
+DSMS 兵器ステータスページ - 兵器解除\
+DSMS ミサイルページの EO Power - OFF",
+    ["DictKey_167"] = "少し後ろで機体を安定させてから、スロットルを少し開いて、静止状態を保ちながら忍び寄ります。\
+\
+追い越し速度が１か２Knots以上にならないようにして下さい。\
+\
+それで沢山のブームを壊しました。",
+    ["DictKey_WptName_318"] = "",
+    ["DictKey_UnitName_257"] = "Unit #4",
+    ["DictKey_WptName_371"] = "",
+    ["DictKey_WptName_357"] = "",
+    ["DictKey_WptName_394"] = "",
+    ["DictKey_182"] = "高度8000まで降下して、ウェイポイント8へ飛んで下さい。コブレチにに戻ります。",
+    ["DictKey_186"] = "あと３０秒",
+    ["DictKey_WptName_332"] = "",
+    ["DictKey_ActionRadioText_409"] = "COPY",
+    ["DictKey_153"] = "Ok.  AARチェックリストを実行しましょう...",
+    ["DictKey_UnitName_254"] = "Unit #7",
+    ["DictKey_UnitName_261"] = "Sgt John Smith",
+    ["DictKey_UnitName_265"] = "Static Tanker",
+    ["DictKey_129"] = "COLT 1-1, COLT 1-2.\
+\
+方位 300に右旋回、angels 8 ,適切な速度を維持して下さい。",
+    ["DictKey_UnitName_239"] = "Pilot #1",
+    ["DictKey_GroupName_235"] = "C-130 Pontiac 1 1",
+    ["DictKey_WptName_367"] = "",
+    ["DictKey_WptName_372"] = "",
+    ["DictKey_WptName_322"] = "",
+    ["DictKey_148"] = "クリアになったら、後方位置に上昇して近づきます。\
+\
+スロットルをゆっくりと操作して、タンカーのすぐ後ろで静止します。\
+\
+位置に付いたら、「\"pre-contact：プリコンタクト」とコールしてコンタクトを開始します。",
+    ["DictKey_210"] = "機体を損傷しました！",
+    ["DictKey_UnitName_293"] = "Static Humvee #5",
+    ["DictKey_128"] = "このPOでは、WP7に達するまでに、少なくとも10秒以上のコネクトを3回成功させる必要があります。\
+\
+グッドラック！",
+    ["DictKey_181"] = "今日はよくやりました。\
+\
+練習すれば、もっと長く接続を持続できるようになります。",
+    ["DictKey_144"] = "良いですよ。 RVCPにRVCTで到着できるように、方位 270, angels 14 を適切な速度で飛んでください。",
+    ["DictKey_WptName_380"] = "",
+    ["DictKey_163"] = "旋回するタンカーをフォローして下さい。\
+\
+次があなたの番です。",
+    ["DictKey_WptName_360"] = "",
+    ["DictKey_WptName_353"] = "",
+    ["DictKey_138"] = "RVIPにいます。\
+\
+方位 270に旋回、angels 8 , 270 knotsを維持してください。\
+\
+タンカーと交信を開始して、TACANを説明した通りに設定してください。",
+    ["DictKey_UnitName_279"] = "Static F-15E #004",
+    ["DictKey_WptName_365"] = "",
+    ["DictKey_WptName_337"] = "",
+    ["DictKey_WptName_368"] = "",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_126"] = "いろいろな呼び方があるのを知っていると思います。...Tanking, passing gas, getting a poke, putting the thing in the thing.",
+    ["DictKey_WptName_352"] = "",
+    ["DictKey_190"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+ILSをOFFにしませんでした。",
+    ["DictKey_WptName_384"] = "",
+    ["DictKey_WptName_303"] = "RVIP",
+    ["DictKey_193"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+CICUをOFFにしませんでした。",
+    ["DictKey_WptName_391"] = "",
+    ["DictKey_WptName_305"] = "",
+    ["DictKey_137"] = "エリアが空いたら、私が「Clear Astern：後方クリア」とコールしますので、ゆっくりとプリコンタクト（pre-contact ）位置に移動して下さい。",
+    ["DictKey_WptName_388"] = "",
+    ["DictKey_GroupName_225"] = "Texaco 1 1",
+    ["DictKey_141"] = "タンカーの基本高度はangels 15なのでangels 14まで上昇して下さい。\
+\
+タンカーを視認できるまで1000ftの高度差を確保する必要があります。",
+    ["DictKey_WptName_374"] = "",
+    ["DictKey_132"] = "RV Delta(Point Parallel：並列ポイント）手順を使用します。\
+）手順を使用します。\
+\
+他（Alpha, Bravo, Charlie, Echo, Foxtrot , Golf)については学習していると思います。\
+\
+RV DeltaはA-10での一般的な方法です。CAP（Combat Air Patrols）の場合は、RV Echoを使用します。特にEMCON条件の時は。",
+    ["DictKey_174"] = "ディスコネクト（切断）が早すぎです。",
+    ["DictKey_UnitName_243"] = "Maj Arnie Ploeger",
+    ["DictKey_UnitName_221"] = "Lt. George Ramirez \"Spider\"",
+    ["DictKey_UnitName_277"] = "Static F-15E #003",
+    ["DictKey_WptName_395"] = "",
+    ["DictKey_212"] = "11時に友軍機！\
+\
+北に向かう高速機",
+    ["DictKey_descriptionBlueTask_298"] = "1. RVDeltaを完了させて下さい。\
+2. 複数回の給油を完了させて下さい。（10秒間たったら切断して再接続）\
+切断は「よくできました！（切断してOKです）」と言われてから切断するようにしてください。\
+タンカーは給油修了と判断しますので、交信手続きを再度１から行ってください。\
+3. 出発と帰還を行って下さい。",
+    ["DictKey_201"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+右エンジンをOFFにしませんでした。",
+    ["DictKey_WptName_308"] = "",
+    ["DictKey_UnitName_255"] = "Unit #6",
+    ["DictKey_GroupName_290"] = "Static Humvee #004",
+    ["DictKey_UnitName_220"] = "Capt Frank Simzer \"Sims\"",
+    ["DictKey_WptName_389"] = "",
+    ["DictKey_UnitName_246"] = "Capt Will Arnott",
+    ["DictKey_GroupName_237"] = "F-15C Enfield 1-1",
+    ["DictKey_WptName_320"] = "",
+    ["DictKey_118"] = "方位 245を維持してください!",
+    ["DictKey_WptName_345"] = "",
+    ["DictKey_113"] = "COLT 1-1, COLT 1-2.\
+\
+無線チェック",
+    ["DictKey_115"] = "基本訓練で高得点を叩き出したと聞きましたよ。 - Bravo Zulu.\
+\
+しかし、これは上級航空機訓練（Advanced Aircraft Training）です。\
+あなたを本当のホグ乗りに育てることができるかどうかを見ていきます。",
+    ["DictKey_WptName_363"] = "",
+    ["DictKey_UnitName_271"] = "Static Tanker #001",
+    ["DictKey_WptName_342"] = "",
+    ["DictKey_WptName_327"] = "",
+    ["DictKey_WptName_361"] = "",
+    ["DictKey_GroupName_262"] = "Static A-10C",
+    ["DictKey_WptName_324"] = "",
+    ["DictKey_UnitName_283"] = "Static F-15E #005",
+    ["DictKey_WptName_333"] = "",
+    ["DictKey_UnitName_273"] = "Static F-15E #002",
+    ["DictKey_sortie_299"] = "AFT01 空中給油（昼）",
+    ["DictKey_WptName_341"] = "",
+    ["DictKey_WptName_375"] = "",
+    ["DictKey_UnitName_291"] = "Static Humvee #4",
+    ["DictKey_WptName_335"] = "",
+    ["DictKey_161"] = "TACANをAA RECにセットして、タンカーが次の航空機の距離情報を取得できるようにするのを忘れないで下さい。",
+    ["DictKey_GroupName_294"] = "Static Humvee #006",
+    ["DictKey_ActionText_419"] = "がんばりましたが、不十分でした！\
+\
+あなたの評価は不可（U)です。\
+\
+もっと練習に時間をかけて下さい。\
+\
+準備ができたらPOに再挑戦して下さい。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_119"] = "ハードデッキ制限が有効です。 \
+\
+制限が解除されないうちは、angels 5 を下回らないでください。",
+    ["DictKey_GroupName_232"] = "F-15C Dodge 1 2",
+    ["DictKey_GroupName_286"] = "Static Humvee #002",
+    ["DictKey_GroupName_272"] = "Static F-15E #002",
+    ["DictKey_WptName_344"] = "",
+    ["DictKey_UnitName_217"] = "Major Ryan Baker \"Sabre\"",
+    ["DictKey_GroupName_288"] = "Static Humvee #003",
+    ["DictKey_139"] = "TACANは A/A T/Rにするのを忘れないようにしてください。タンカーの距離と方位を知ることができます。",
+    ["DictKey_133"] = "RV DELTA では、 あたなは、合流トラックを維持します。タンカーは周回航路（reciprocal track）を維持します。\
+\
+タンカーはあなたの速度とRVCTに基づいて計算された旋回角であなたの航路（track)上に合わせてきます。",
+    ["DictKey_124"] = " angels 8　を維持して下さい。!",
+    ["DictKey_UnitName_250"] = "Unit #3",
+    ["DictKey_GroupName_242"] = "F-15C Ford 2-1",
+    ["DictKey_WptName_351"] = "",
+    ["DictKey_WptName_313"] = "",
+    ["DictKey_122"] = "angels 8に近づきました。レベルアウトして適切な速度を維持してください。",
+    ["DictKey_GroupName_216"] = "COLT 1",
+    ["DictKey_WptName_379"] = "",
+    ["DictKey_205"] = "シャットダウンはできています。",
+    ["DictKey_UnitName_275"] = "Static F-15E #001",
+    ["DictKey_178"] = "今日はもう十分でしょう。\
+\
+AAR後のチェックリストを行いましょう。",
+    ["DictKey_134"] = "RVIPでタンカーと交信してから、TACANをAA TRで設定してタンカーの方位と距離を取得します。\
+\
+タンカーが視認できるまでは、タンカーの基本高度から1000ft下を飛行してください。",
+    ["DictKey_173"] = "よくできました！（切断してOKです）",
+    ["DictKey_WptName_376"] = "",
+    ["DictKey_142"] = "12時に友軍機",
+    ["DictKey_162"] = "近づきすぎです！\
+\
+１nm後方地点に留まってください。",
+    ["DictKey_WptName_359"] = "",
+    ["DictKey_UnitName_285"] = "Static Humvee #1",
+    ["DictKey_WptName_311"] = "",
+    ["DictKey_WptName_362"] = "",
+    ["DictKey_170"] = "ほんのちょっとだけ…　ほんのちょとだけ操縦桿とスロットルを操作します。",
+    ["DictKey_ActionRadioText_406"] = "COLT 1-1, COPY",
+    ["DictKey_191"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+CMSPをOFFにしませんでした。.",
+    ["DictKey_204"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+バッテリースイッチをOFFにしませんでした。",
+    ["DictKey_WptName_319"] = "",
+    ["DictKey_202"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+無線をOFFにしませんでした。",
+    ["DictKey_UnitName_234"] = "Cpt Greg Berry \"Rasp\"",
+    ["DictKey_192"] = "チェックリスト項目にミスが有りましたよ、カデット\
+\
+IFFCCをOFFにしませんでした。.",
+    ["DictKey_UnitName_231"] = "Cpt John Steel",
+    ["DictKey_WptName_302"] = "",
+    ["DictKey_146"] = "速度を確認して下さい！\
+\
+ RVCPにRVCTで到着できるように、適切な速度を維持してください！",
+    ["DictKey_WptName_383"] = "",
+    ["DictKey_GroupName_282"] = "Static F-15E #005",
+    ["DictKey_WptName_307"] = "",
+    ["DictKey_130"] = "AARの手順を説明しましょう。",
+    ["DictKey_UnitName_241"] = "Capt John Smith",
+    ["DictKey_WptName_405"] = "",
+    ["DictKey_UnitName_269"] = "Static AH-1W #001",
+    ["DictKey_208"] = "がんばりましたが、不十分でした！\
+\
+あなたの評価は不可（U)です。\
+\
+もっと練習に時間をかけて下さい。\
+\
+準備ができたらPOに再挑戦して下さい。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_145"] = "angels 14を維持してください！",
+} -- end of dictionary

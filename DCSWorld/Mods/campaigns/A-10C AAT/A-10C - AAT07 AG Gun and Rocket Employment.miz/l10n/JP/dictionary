@@ -1,0 +1,624 @@
+dictionary = 
+{
+    ["DictKey_WptName_377"] = "",
+    ["DictKey_UnitName_326"] = "Static A-10C",
+    ["DictKey_WptName_401"] = "",
+    ["DictKey_UnitName_297"] = "Unit #80",
+    ["DictKey_GroupName_226"] = "New Vehicle Group #008",
+    ["DictKey_UnitName_310"] = "Player",
+    ["DictKey_UnitName_251"] = "Convoy 4 13",
+    ["DictKey_WptName_432"] = "",
+    ["DictKey_UnitName_360"] = "New Static Object #17",
+    ["DictKey_211"] = "COLT 1-1 フェンスアウト",
+    ["DictKey_WptName_446"] = "",
+    ["DictKey_WptName_422"] = "",
+    ["DictKey_sortie_366"] = "AAT07 対地　機銃とロケットの使用",
+    ["DictKey_WptName_430"] = "",
+    ["DictKey_UnitName_320"] = "Maj Arthur Nettle",
+    ["DictKey_GroupName_215"] = "Command Post Target",
+    ["DictKey_ActionRadioText_450"] = "インホット",
+    ["DictKey_GroupName_247"] = "Convoy",
+    ["DictKey_UnitName_312"] = "Lt Kam Spoke",
+    ["DictKey_WptName_416"] = "",
+    ["DictKey_WptName_387"] = "",
+    ["DictKey_188"] = "グッドパス！\
+\
+再攻撃",
+    ["DictKey_WptName_438"] = "",
+    ["DictKey_213"] = "COLT 1-1 COPY",
+    ["DictKey_UnitName_238"] = "Unit #26",
+    ["DictKey_UnitName_274"] = "Unit #64",
+    ["DictKey_134"] = "COLT 1-1, COLT 1-2,\
+\
+右に旋回、方位 065 、angels 8、適切な速度を維持して下さい。",
+    ["DictKey_GroupName_311"] = "A-10C Springfield 1 2",
+    ["DictKey_GroupName_329"] = "Static F-15E #002",
+    ["DictKey_166"] = "COLT 1-2,SYPH コントロール, \
+BRAVOからの離脱を許可します,\
+お元気で",
+    ["DictKey_WptName_397"] = "",
+    ["DictKey_GroupName_345"] = "Static Infantry #001",
+    ["DictKey_136"] = "COLT 1, Gウォーム、90度左旋回、開始！",
+    ["DictKey_132"] = "これは、あなたのG耐性を評価するのに重要です。あなたのタイミングで耐Gストレスマニューバを行って下さい。\
+\
+Gスーツとコンバットエッジの接続と動作を確認して下さい。\
+\
+機体のGへの対応（開始時）とコントロール（ピークレベル）のを再調節します。\
+\
+心血管系に負荷をかけ、血圧低下に対する反応活性を高めます。\
+\
+反応活性を高めるためには、3から5Gの機動を10秒間行う必要があります。\
+\
+このマニューバは、今日どれくらいのGに耐えられるかをテストするために行うものではありません。 \
+\
+Gウォーム旋回でG-LOC（Gによる意識喪失）を起こさないで下さい！",
+    ["DictKey_111"] = "COLT 1-1, COLT 1-2, \
+\
+方位 245, angels 8 ,適切な速度で飛んで下さい。",
+    ["DictKey_GroupName_331"] = "Static F-15E #001",
+    ["DictKey_UnitName_290"] = "Target 3 2",
+    ["DictKey_UnitName_249"] = "Convoy 4 15",
+    ["DictKey_164"] = "時間終了です。\
+\
+イーグレスに戻る時間です。",
+    ["DictKey_GroupName_351"] = "New Static Object #014",
+    ["DictKey_168"] = "COLT 1-2, OFF, SAFE, VISUAL.",
+    ["DictKey_205"] = "COLT 1-1 インホット",
+    ["DictKey_150"] = "VID（目視での識別）がしやすいように、ターゲットはスモークを出します。",
+    ["DictKey_159"] = "COLT 1-2, タリー...\
+\
+このターゲットには、機銃とロケットの両方を使ってください。",
+    ["DictKey_UnitName_262"] = "Convoy 4 2",
+    ["DictKey_137"] = "COLT 1, Gウォーム、90度右旋回、開始！",
+    ["DictKey_UnitName_216"] = "Unit #5",
+    ["DictKey_UnitName_358"] = "New Static Object #16",
+    ["DictKey_UnitName_227"] = "Unit #24",
+    ["DictKey_140"] = "COLT 1, フェンスイン...",
+    ["DictKey_193"] = "撃破しました。.\
+\
+イーグレスしてください。",
+    ["DictKey_UnitName_270"] = "Unit #55",
+    ["DictKey_WptName_437"] = "",
+    ["DictKey_155"] = "COLT 1-1 インホット",
+    ["DictKey_102"] = "COLT 1-1, COLT 1-2.\
+\
+無線チェック",
+    ["DictKey_116"] = "良いですよ。方位 245, angels 8 ,適切な速度を維持して下さい。\
+\
+オートパイロットの使用を許可します。",
+    ["DictKey_UnitName_332"] = "Static F-15E #001",
+    ["DictKey_196"] = "Knock it off!  Knock it off!\
+\
+許可なくMOAから退出しました。\
+\
+このPOを中止します。",
+    ["DictKey_WptName_435"] = "",
+    ["DictKey_WptName_418"] = "",
+    ["DictKey_WptName_439"] = "",
+    ["DictKey_WptName_429"] = "",
+    ["DictKey_179"] = "機体をシャットダウンさせて下さい。それから評価を伝えます。\
+",
+    ["DictKey_UnitName_263"] = "Convoy 4 1",
+    ["DictKey_176"] = "COLT 1-1 フェンスアウト",
+    ["DictKey_GroupName_219"] = "New Vehicle Group",
+    ["DictKey_114"] = "Knock it off!  Knock it off!\
+\
+ハードデッキ制限を破りました。\
+\
+このPOを中止します。",
+    ["DictKey_125"] = "内装、外装に関わらず実弾を運ぶ場合、外部パイロンで重量のあるものを運ぶ時は、出来る限り人口密集地は避けてください。",
+    ["DictKey_197"] = "高度を確認して下さい！",
+    ["DictKey_ActionRadioText_444"] = "COLT 1-1 インホット",
+    ["DictKey_UnitName_309"] = "Major Ryan Baker \"Sabre\"",
+    ["DictKey_UnitName_356"] = "New Static Object #15",
+    ["DictKey_WptName_392"] = "",
+    ["DictKey_131"] = "マニューバを行いますので、WP2を通過したらすぐにGアウェアネステストを行います。\
+\
+ブレビティコード（略称）は「Gウォーム」です。",
+    ["DictKey_156"] = "IPです。\
+\
+インホットを許可します！\
+\
+",
+    ["DictKey_WptName_399"] = "",
+    ["DictKey_135"] = "COLT 1, Gウォームします、加速してください。",
+    ["DictKey_WptName_375"] = "Egress",
+    ["DictKey_143"] = "COLT 1-2, SYPH レンジコントロール,\
+エントリー ALPHAからの進入を許可します。 \
+YOU HAVE THE AIRSPACE FROM 500 to FL 400.\
+天候はクリア,\
+全高度において視界は良好\
+\
+COLT 1-2, コントロールを承認します。",
+    ["DictKey_UnitName_267"] = "Unit #58",
+    ["DictKey_UnitName_340"] = "Static Predator",
+    ["DictKey_165"] = "SYPH レンジコントロール, \
+COLT 1-2,\
+北のBRABOからの離脱の許可を願います。",
+    ["DictKey_UnitName_259"] = "Convoy 4 5",
+    ["DictKey_204"] = "COLT 1-1 COPY",
+    ["DictKey_WptName_404"] = "",
+    ["DictKey_GroupName_264"] = "New Vehicle Group #001",
+    ["DictKey_UnitName_248"] = "Convoy 4 16",
+    ["DictKey_187"] = "撃破しました。.\
+\
+次のターゲットに進みましょう。",
+    ["DictKey_GroupName_240"] = "New Vehicle Group #015",
+    ["DictKey_106"] = "アタックランを行うときのターゲットは固定しません。\
+\
+攻撃から抜け出して回復するのに十分な高度を確保してください。",
+    ["DictKey_UnitName_318"] = "Cpt Greg Berry \"Rasp\"",
+    ["DictKey_GroupName_347"] = "Static Infantry",
+    ["DictKey_ActionRadioText_451"] = "オフ",
+    ["DictKey_UnitName_294"] = "Unit #83",
+    ["DictKey_WptName_434"] = "",
+    ["DictKey_UnitName_289"] = "Target 3 3",
+    ["DictKey_UnitName_234"] = "Unit #30",
+    ["DictKey_103"] = "COLT 1-1 COPY",
+    ["DictKey_UnitName_244"] = "Unit #33",
+    ["DictKey_185"] = "このPOに再トライする前に、フライトマニュアルを学習して、もっと練習飛行をすることをお勧めします。",
+    ["DictKey_WptName_386"] = "",
+    ["DictKey_WptName_370"] = "",
+    ["DictKey_203"] = "COLT 1-1 フェンスイン！",
+    ["DictKey_GroupName_325"] = "Static A-10C",
+    ["DictKey_UnitName_225"] = "Unit #9",
+    ["DictKey_WptName_440"] = "",
+    ["DictKey_UnitName_269"] = "Unit #56",
+    ["DictKey_WptName_390"] = "",
+    ["DictKey_107"] = "30mmの最低高度を500に設定してください。\
+これはIFFCCテストメニュー内にあります。\
+\
+WEAPONS　ー　30MM　ー　 MIN ALT を選択し、 500にセットしてください。\
+\
+それからSTOREを選択して保存し、メニューから抜けてください。\
+\
+射撃場のハードデッキは５００ftです。",
+    ["DictKey_147"] = "機銃掃射の基本的なルールは「トラック（追跡）ーショットートラック」です。\
+\
+ロールインして、機銃の照準を適切な照準基準に合わせて安定させます。そこからトリガーをファーストデテント（トラック）まで引きます。そこからスムーズにセカンドデテント（ショット）まで引き、そのままトラックを続けます。その後リカバリーします。\
+\
+トラッキングし射撃する時は、ターゲットを見てください。ガンクロスではありません。\
+\
+ほとんどの戦術的状況では２秒間射撃を行います。\
+\
+ミスした場合は、次のパスでそれを修正します。",
+    ["DictKey_169"] = "COLT 1-1 COPY",
+    ["DictKey_UnitName_350"] = "New Static Object #4",
+    ["DictKey_UnitName_228"] = "Unit #23",
+    ["DictKey_WptName_417"] = "",
+    ["DictKey_UnitName_322"] = "Unit #15",
+    ["DictKey_157"] = "COLT 1-2, タリー...\
+\
+このターゲットには機銃を使ってください。",
+    ["DictKey_UnitName_303"] = "Unit #87",
+    ["DictKey_183"] = "がんばりましたが、不十分でした！\
+\
+あなたの評価は不可（U)です。\
+\
+もっと練習に時間をかけて下さい。\
+\
+準備ができたらPOに再挑戦して下さい。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_UnitName_222"] = "Unit #12",
+    ["DictKey_117"] = "ミッションプロファイルを説明します。",
+    ["DictKey_UnitName_328"] = "Static Tanker",
+    ["DictKey_151"] = "ターゲットを視認できたら「タリー」とコールして下さい。\
+\
+攻撃を許可します。",
+    ["DictKey_214"] = "1, COPY!",
+    ["DictKey_209"] = "COLT 1-1 オフ！",
+    ["DictKey_WptName_421"] = "",
+    ["DictKey_184"] = "機体を損傷させました！",
+    ["DictKey_152"] = "ターゲットを発見できない場合、ターゲットエリアを周回して探して下さい。必要であれば再攻撃を許可します。\
+\
+ターゲットレンジとMOAから外に出ないようにして下さい。",
+    ["DictKey_GroupName_278"] = "Target 2",
+    ["DictKey_200"] = "GUNS, GUNS, GUNS!",
+    ["DictKey_160"] = "COLT 1-2,タリー...\
+\
+残っている武器を使ってください。",
+    ["DictKey_UnitName_281"] = "Target 2 4",
+    ["DictKey_UnitName_252"] = "Convoy 4 12",
+    ["DictKey_WptName_400"] = "",
+    ["DictKey_112"] = "ハードデッキ制限が有効です。 \
+\
+制限が解除されないうちは、angels 5 を下回らないでください。",
+    ["DictKey_113"] = "Knock it off!  Knock it off!\
+\
+ハードデッキ制限を破りました。\
+\
+このPOを中止します。",
+    ["DictKey_GroupName_299"] = "New Vehicle Group #009",
+    ["DictKey_189"] = "撃破しました。.\
+\
+次のターゲットに進みましょう。",
+    ["DictKey_GroupName_292"] = "New Vehicle Group #005",
+    ["DictKey_descriptionRedTask_364"] = "",
+    ["DictKey_199"] = "1, ホイールアップ！",
+    ["DictKey_UnitName_298"] = "Unit #79",
+    ["DictKey_UnitName_313"] = "Lt Arthur Lakey",
+    ["DictKey_WptName_385"] = "",
+    ["DictKey_119"] = "最初のターゲットはWP5にいます。\
+\
+機銃による掃射ランを行ってください。",
+    ["DictKey_161"] = "COLT 1-1 COPY",
+    ["DictKey_WptName_402"] = "",
+    ["DictKey_UnitName_232"] = "Unit #19",
+    ["DictKey_descriptionText_363"] = "私はキャプテン ライアン・ベーカーです。コールサインは「セイバー（Sabre）」です。能力目標（PO)を判定するフライト試験官（FE)です。\
+\
+これはAFT07 - 空対地 機銃とロケットの使用です。A/OA-10C上級航空機訓練検定コースの7番目のミッションです。\
+\
+あなたの評価は、A/OA-10搭乗員評価基準：AFI11-2A-OA-10V2: に基づき行われます。\
+\
+3.4.3. 空対地：\
+3.4.3.1. エリア 81--ターゲットの補足、破壊（Acquisition）：\
+3.4.3.1.1. 優（Qualified：Q):  最初の攻撃でターゲットを補足（撃破）しました。または、再攻撃で成功しました。複数のターゲットを攻撃する場面で、全てのターゲットを最初の攻撃、又は再攻撃で補足（破壊）することに成功しました。\
+3.4.3.1.2. 可（Qualified Minus：Q-): ターゲットの補足が遅れ、最初の攻撃、再攻撃の精度が低下しました。複数のターゲットを攻撃する場面で、50％以上のターゲットを最初の攻撃、又は再攻撃で補足（破壊）することに成功しました。\
+3.4.3.1.3. 不可（Unqualified：U): ターゲットが補足（破壊）できませんでした。複数のターゲットを攻撃する場面で、50％未満のターゲットしか最初の攻撃、又は再攻撃で補足（破壊）することができませんでした。\
+\
+3.4.3.2. エリア 82--兵器運用：:\
+注意１：加点エリア。同じミッション中に条件の異なるエリアで兵器の使用を行った時、全てのイベントは評価されます、各エリアでの評価は以下の基準に従います。\
+注意２：非加点エリア。命中/ミスの判定は、FEによって、兵器の着弾点と、パスフローでの兵器の有効性に基づいて決定されます。\
+注意３：模擬の投下やマーベリックパス。命中/ミスの判定は、FEによって、航空機の投下パラメーターや、VTRフィルムに基づいて決定されます。\
+注意４：予期せぬ兵器運用でのミスが起こった場合は、FEは命中/ミスの判定をVTRフィルムを見て判断します。\
+\
+3.4.3.2.1. シングルパス (戦術的攻撃):\
+3.4.3.2.1.1. 優（Qualified：Q): 兵器使用手順、攻撃パラメーター、実行されたイベントの兵器の計算において十分な知識を持っています。\
+3.4.3.2.1.2. 可（Qualified Minus：Q-): 兵器使用手順、攻撃パラメーター、実行されたイベントの兵器の計算において若干にミスがあります。 \
+3.4.3.2.1.3. 不可、兵器使用手順、攻撃パラメーター、イベントの流れにおいての兵器の計算において、知識が不十分です。兵器の使用を失敗したか、パイロットのミスにより勝手な攻撃、再攻撃を行いました。\
+\
+3.4.3.2.2. シングルイベント（シングルターゲット）：\
+3.4.3.2.2.1. 優（Qualified：Q): イベント実行時の兵器使用手順、攻撃パラメーター、実行されたイベントの兵器の計算、エラー分析において十分な知識を持っています。\
+3.4.3.2.2.2. 可（Qualified MInus：Q-):イベント実行時の兵器使用手順、攻撃パラメーター、実行されたイベントの兵器の計算、エラー分析において若干のミスがありました。\
+3.4.3.2.2.3. Unqualified (U): イベントの流れにおいて兵器使用手順、攻撃パラメーター、実行されたイベントの兵器の計算、エラー分析において知識が不十分です。\
+\
+3.4.3.2.3. マルチプルイベント（複数ターゲット）：全てのイベントへの試みが該当する基準内でした。各イベントの投下爆弾の50％以上が命中基準内でした。\
+3.4.3.2.3.2. 可（Qualified Minus：Q-): イベント実行時の兵器使用手順、攻撃パラメーター、実行されたイベントの兵器の計算、エラー分析において若干のミスがありました。\
+3.4.3.2.3.3. Unqualified (U): イイベントの流れにおいて兵器使用手順、攻撃パラメーター、実行されたイベントの兵器の計算、エラー分析において知識が不十分です。\
+\
+\
+このPOではGAU-8Aとロケットで、静止と移動する地上ターゲットの攻撃を行ってもらいます。このPOに合格するためには識別した全てのターゲットを破壊する必要があります。\
+\
+着陸のためのパターン高度は2500ftです。\
+\
+ハードデッキ制限は5000ftです。解除されないうちはこの制限を破らないで下さい。\
+\
+私はウイングマンとして同行し、攻撃手順を監視します。\
+\
+驚異レベル: LOW\
+EMCON: 1\
+コブレチ（Kobuleti）タワー: 133.0Mhz AM\
+訓練生: COLT 1-1: 251.0Mhz AM\
+FE: COLT 1-2: 251.0Mhz AM\
+タンカー: TEXACO 1-1: 251.0Mhz AM タンカーTACAN: 5X TKR\
+\
+代替空港：バトゥミ（Batumi） 131.0 Mhz AM\
+\
+演習時間：40分又は、識別したターゲットを全て破壊するまで。\
+\
+これはランプスタート、ランプ終了ミッションです。それに合わせてHOTASを設定しておいて下さい。\
+\
+ラジオメニューのF10を使用して、状況報告、指示を出して下さい。\
+\
+ミッション成功基準：\
+指定された敵ユニットを破壊する。",
+    ["DictKey_101"] = "出発時刻は1300です。\
+\
+機体を始動させてください。滑走路で会いましょう。",
+    ["DictKey_195"] = "Knock it off!  Knock it off!\
+\
+許可なくターゲットレンジから離脱しました。\
+\
+このPOを中止します。",
+    ["DictKey_WptName_378"] = "Target 1",
+    ["DictKey_ActionRadioText_452"] = "フェンスアウト",
+    ["DictKey_WptName_406"] = "",
+    ["DictKey_WptName_459"] = "",
+    ["DictKey_120"] = "２つめのターゲットはWP6にいます。\
+\
+今ターゲットにはロケットを使ってください。",
+    ["DictKey_105"] = "最後に、A-10が最も得意とする地上攻撃を行う機会があります。\
+\
+うまくやってください！",
+    ["DictKey_198"] = "1, ローリング！（滑走開始）",
+    ["DictKey_UnitName_235"] = "Unit #29",
+    ["DictKey_WptName_424"] = "",
+    ["DictKey_207"] = "COLT 1-1 COPY",
+    ["DictKey_175"] = "COLT 1-1 フェンスイン",
+    ["DictKey_UnitName_324"] = "Unit #16",
+    ["DictKey_UnitName_288"] = "Target 3 4",
+    ["DictKey_WptName_396"] = "",
+    ["DictKey_141"] = "COLT 1-2, フェンスイン, 燃料 43",
+    ["DictKey_145"] = "今日使う武器についての情報を説明します。",
+    ["DictKey_ActionRadioText_445"] = "COLT 1-1 オフ",
+    ["DictKey_WptName_398"] = "",
+    ["DictKey_UnitName_229"] = "Unit #22",
+    ["DictKey_WptName_428"] = "",
+    ["DictKey_WptName_403"] = "",
+    ["DictKey_130"] = "COLT 1-1, COLT 1-2, \
+\
+方位 330に右旋回。angels 8、適切な速度を維持して下さい。\
+",
+    ["DictKey_UnitName_223"] = "Unit #11",
+    ["DictKey_WptName_379"] = "",
+    ["DictKey_UnitName_300"] = "Unit #90",
+    ["DictKey_206"] = "COLT 1-1 タリー！",
+    ["DictKey_UnitName_275"] = "Unit #63",
+    ["DictKey_UnitName_280"] = "Target 2 5",
+    ["DictKey_WptName_433"] = "",
+    ["DictKey_162"] = "COLT 1-1 インホット",
+    ["DictKey_182"] = "がんばりましたが、不十分でした！\
+\
+あなたの評価は不可（U)です。\
+\
+もっと練習に時間をかけて下さい。\
+\
+準備ができたらPOに再挑戦して下さい。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_UnitName_246"] = "Unit #31",
+    ["DictKey_WptName_395"] = "",
+    ["DictKey_UnitName_231"] = "Unit #20",
+    ["DictKey_UnitName_256"] = "Convoy 4 8",
+    ["DictKey_UnitName_346"] = "Static Infantry #001",
+    ["DictKey_UnitName_230"] = "Unit #21",
+    ["DictKey_UnitName_236"] = "Unit #28",
+    ["DictKey_WptName_382"] = "",
+    ["DictKey_UnitName_304"] = "Unit #86",
+    ["DictKey_GroupName_357"] = "New Static Object #019",
+    ["DictKey_UnitName_286"] = "Target 3 6",
+    ["DictKey_UnitName_362"] = "New Static Object #18",
+    ["DictKey_149"] = "良いロケット命中率を得るには、ピパーをターゲットから約半分ほど短めに合わせます。\
+\
+トリムを調節し、正しいG荷重でピッパーがターゲットを追跡しやすいようにします。\
+\
+ターゲットにピパーをずっと重ね続けるのは避けて下さい。チップオフを誘発しまう。（Avoid the tendency to hold the pipper on the target as this will induce tip off.）",
+    ["DictKey_UnitName_245"] = "Unit #32",
+    ["DictKey_WptName_426"] = "",
+    ["DictKey_GroupName_361"] = "New Static Object #021",
+    ["DictKey_WptName_407"] = "",
+    ["DictKey_170"] = "COLT 1-1 オフ",
+    ["DictKey_163"] = "COLT 1-1 オフ",
+    ["DictKey_GroupName_319"] = "C-130 Pontiac 1 1",
+    ["DictKey_GroupName_306"] = "Target 1",
+    ["DictKey_181"] = "やりました。このPOをパスしました。\
+\
+あなたの評価は可（Q-)です。\
+\
+操縦を練習してスキルを上げて下さい。それが命を救うことになります。\
+\
+次の検定ミッションに備えてコブレチに戻りましょう。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_139"] = "COLT 1-1 フェンスイン",
+    ["DictKey_GroupName_359"] = "New Static Object #020",
+    ["DictKey_UnitName_317"] = "Cpt Henry Hull \"Ship\"",
+    ["DictKey_WptName_381"] = "",
+    ["DictKey_191"] = "撃破しました。.\
+\
+次のターゲットに進みましょう。",
+    ["DictKey_ActionText_453"] = "COLT 1-1 インホット！",
+    ["DictKey_180"] = "おめでとうございます。このPOを合格しました。\
+\
+あなたの評価は優（Q)です。\
+よくやりました！\
+\
+次の検定ミッションに備えてコブレチに戻りましょう。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_WptName_425"] = "",
+    ["DictKey_WptName_367"] = "",
+    ["DictKey_153"] = "COLT 1-1 COPY",
+    ["DictKey_UnitName_268"] = "Unit #57",
+    ["DictKey_WptName_411"] = "",
+    ["DictKey_WptName_420"] = "",
+    ["DictKey_GroupName_337"] = "Static Humvee",
+    ["DictKey_154"] = "COLT 1-1 フェンスイン",
+    ["DictKey_194"] = "グッドパス！\
+\
+再攻撃",
+    ["DictKey_GroupName_321"] = "Pilot Humvee",
+    ["DictKey_WptName_423"] = "",
+    ["DictKey_186"] = "ターゲットの破壊に失敗しました！",
+    ["DictKey_WptName_374"] = "IP",
+    ["DictKey_WptName_394"] = "",
+    ["DictKey_210"] = "COLT 1-1 COPY",
+    ["DictKey_UnitName_239"] = "Unit #25",
+    ["DictKey_UnitName_314"] = "Lt Art Mayor",
+    ["DictKey_GroupName_333"] = "Static F-15E #003",
+    ["DictKey_UnitName_293"] = "Unit #84",
+    ["DictKey_UnitName_254"] = "Convoy 4 10",
+    ["DictKey_UnitName_253"] = "Convoy 4 11",
+    ["DictKey_UnitName_265"] = "Unit #60",
+    ["DictKey_WptName_431"] = "",
+    ["DictKey_UnitName_282"] = "Target 2 3",
+    ["DictKey_UnitName_237"] = "Unit #27",
+    ["DictKey_133"] = "耐Gストレス機動について覚えておいて下さい。\
+\
+Gに備えます。\
+\
+全ての下半身、足、尻、腹部の筋肉を同時に緊張させます。（力を入れます。）\
+\
+Gに入る前に大きく息を吸って呼吸を止め、G中は強く力を入れて閉じた気道に深く息を吐きます。\
+\
+Gのピークでは、3.0秒ごとに急いで呼吸をします。\
+\
+交信を最小限に抑えます。\
+\
+Gが抜けるまで、リラックスしてはいけません。",
+    ["DictKey_WptName_372"] = "Target 3",
+    ["DictKey_WptName_373"] = "Target 4",
+    ["DictKey_WptName_442"] = "",
+    ["DictKey_UnitName_315"] = "Cpt John Steel",
+    ["DictKey_GroupName_349"] = "New Static Object #004",
+    ["DictKey_110"] = "今から検定を開始します。",
+    ["DictKey_descriptionBlueTask_365"] = "1. フェンスイン、フェンスアウトのチェックを完了させて下さい。\
+2. 指示に従い、地上ターゲットを攻撃して下さい。",
+    ["DictKey_UnitName_242"] = "Unit #35",
+    ["DictKey_WptName_380"] = "Fence Out",
+    ["DictKey_118"] = "驚異レベルがLOWなので、HIGH,LOW,HIGH高度プロファイルを使用します。",
+    ["DictKey_WptName_415"] = "",
+    ["DictKey_138"] = "COLT 1-1 COPY",
+    ["DictKey_UnitName_279"] = "Target 2 6",
+    ["DictKey_WptName_388"] = "",
+    ["DictKey_126"] = "消耗品（実弾、不活弾、訓練）を運ぶ場合、最初の投下までは、航空機が偶発的な事故が演習場内だけに収まるように、アーミングスイッチは最終までアームにしないようにしてください。",
+    ["DictKey_128"] = "ターゲティング用の”戦闘”レーザーモードの使用は、レーザー使用許可範囲に制限されれています。\
+\
+演習場での全ての空対地レーザー操作は、演習場での計画と操作、現地演習場の手順に従ってください。",
+    ["DictKey_UnitName_257"] = "Convoy 4 7",
+    ["DictKey_UnitName_302"] = "Unit #88",
+    ["DictKey_146"] = "ジェネラル・エレクトリック GAU-8/Aアベンジャーは30mm油圧駆動７バレル・ガトリング機銃です。\
+\
+機銃は非常に性格で、毎分3900発を発射できます。\
+\
+次の弾頭を装填できます。PGU-14/B API(焼夷徹甲弾)(劣化ウラン）、PGU-13/B HEI（焼夷榴弾）、PGU-15/B TP(演習用）\
+\
+テストでは、500メートルで69mm、1,000メートルで38mmの良好な装甲貫通能力があります。",
+    ["DictKey_WptName_371"] = "Fence In",
+    ["DictKey_190"] = "グッドパス！\
+\
+再攻撃",
+    ["DictKey_UnitName_354"] = "New Static Object #016",
+    ["DictKey_WptName_389"] = "",
+    ["DictKey_127"] = "実弾や重い外部搭載不活兵器を用いての、演習場外や人をターゲットにしての模擬攻撃は行わないでください。\
+この制限は、20/30mm弾、BDU-33、2.76インチTP／SPロケットや非消費性訓練武器（TGPなど）には当てはまりません。",
+    ["DictKey_WptName_391"] = "",
+    ["DictKey_UnitName_291"] = "Target 3 1",
+    ["DictKey_WptName_441"] = "",
+    ["DictKey_UnitName_260"] = "Convoy 4 4",
+    ["DictKey_108"] = "ターゲットに向かって、まっすぐダイブしてはいけません。マイナスGがかかりレッドアウトを起こす危険があります。\
+\
+ターゲットを10時または2時の位置に置き、反転してプラスGをかけながら、ダイブを開始します。ターゲットがピッチラダー範囲に入ったら水平にロールアウトします。",
+    ["DictKey_121"] = "３番めのターゲットはWP7にいます。\
+\
+このターゲットには機銃とロケットを組み合わせて攻撃してください。",
+    ["DictKey_UnitName_330"] = "Static F-15E #002",
+    ["DictKey_UnitName_218"] = "Command Post",
+    ["DictKey_UnitName_277"] = "Unit #61",
+    ["DictKey_UnitName_243"] = "Unit #34",
+    ["DictKey_UnitName_221"] = "Unit #13",
+    ["DictKey_174"] = "ハードデッキ制限を解除します。\
+\
+機体を着陸させて、シャットダウンする事を許可します。\
+\
+その後で、評価を伝えます。",
+    ["DictKey_UnitName_338"] = "Static Humvee",
+    ["DictKey_109"] = "何より、ターゲットの識別を確実に行ってください。\
+\
+友軍を殺すようなことはしたくありません。",
+    ["DictKey_129"] = "「Knock-it-off」コールは誰もがコールでき、全員が遵守してください。\
+\
+次のような事に、気づいたら、迷わずコールして下さい。\
+\
+訓練規則違反、SAの喪失、飛行制御不能、無線の故障、ビンゴフューエル、その他危険な状況\
+\
+NORDO（無線の使えない航空機の俗称）な航空は無線の故障を知らせるために翼を揺らしてください。",
+    ["DictKey_WptName_384"] = "",
+    ["DictKey_201"] = "ロケット発射！",
+    ["DictKey_UnitName_255"] = "Convoy 4 9",
+    ["DictKey_UnitName_296"] = "Unit #81",
+    ["DictKey_UnitName_220"] = "Unit #14",
+    ["DictKey_UnitName_258"] = "Convoy 4 6",
+    ["DictKey_UnitName_301"] = "Unit #89",
+    ["DictKey_UnitName_284"] = "Target 2 1",
+    ["DictKey_104"] = "1, COPY!\
+",
+    ["DictKey_WptName_409"] = "",
+    ["DictKey_UnitName_272"] = "Unit #66",
+    ["DictKey_GroupName_341"] = "Static Humvee #001",
+    ["DictKey_115"] = "angels 8に近づきました。レベルアウトして適切な速度を維持してください。",
+    ["DictKey_UnitName_336"] = "Static F-15E #004",
+    ["DictKey_UnitName_250"] = "Convoy 4 14",
+    ["DictKey_GroupName_339"] = "Static Predator",
+    ["DictKey_167"] = "COLT 1-2,\
+ラジャー, \
+BRAVOからの離脱を許可。",
+    ["DictKey_GroupName_335"] = "Static F-15E #004",
+    ["DictKey_WptName_458"] = "",
+    ["DictKey_GroupName_316"] = "F-15E Chevy 1 2",
+    ["DictKey_UnitName_342"] = "Static Humvee #1",
+    ["DictKey_GroupName_327"] = "Static Tanker",
+    ["DictKey_UnitName_273"] = "Unit #65",
+    ["DictKey_WptName_413"] = "",
+    ["DictKey_UnitName_348"] = "Static Infantry",
+    ["DictKey_GroupName_343"] = "Static Infantry #002",
+    ["DictKey_UnitName_352"] = "New Static Object #014",
+    ["DictKey_171"] = "COLT 1-1 フェンスアウト",
+    ["DictKey_123"] = "空対地訓練のルールを説明します。",
+    ["DictKey_UnitName_283"] = "Target 2 2",
+    ["DictKey_WptName_414"] = "",
+    ["DictKey_158"] = "COLT 1-2, タリー...\
+\
+ロケットを使ってください。...",
+    ["DictKey_UnitName_276"] = "Unit #62",
+    ["DictKey_192"] = "グッドパス！\
+\
+再攻撃",
+    ["DictKey_WptName_436"] = "",
+    ["DictKey_WptName_393"] = "",
+    ["DictKey_UnitName_217"] = "Unit #4",
+    ["DictKey_WptName_410"] = "",
+    ["DictKey_UnitName_295"] = "Unit #82",
+    ["DictKey_UnitName_287"] = "Target 3 5",
+    ["DictKey_124"] = "ホット、ドライに関わらず、全てのデリバリー（投下、射撃）パス（投棄パス含めて）を行ってください。実弾使用パラメーターを使用してください。（フューズアーミング（信管有効）、安全な離脱、安全な間隔、衝突回避も考慮してください。",
+    ["DictKey_WptName_408"] = "",
+    ["DictKey_GroupName_308"] = "COLT 1",
+    ["DictKey_WptName_427"] = "",
+    ["DictKey_212"] = "COLT 1-1 フェンスアウト！",
+    ["DictKey_122"] = "最後のターゲットはWP8にいる移動中のコンボイです。\
+\
+これらのターゲットには残っている兵器で攻撃してください。",
+    ["DictKey_148"] = "2.75インチHydra 70 M151ロケットは高爆発折畳式翼の空中ロケット（FFAR：Folding Fin Aerial Rocket）です。\
+\
+他のロケットタイプには、対人、白リン、パラシュート照明、レッドスモーク、不活訓練用などがあります。\
+\
+全てのロケットはMK66ロケットモーターを使用しています。",
+    ["DictKey_WptName_443"] = "",
+    ["DictKey_GroupName_285"] = "Target 3",
+    ["DictKey_WptName_419"] = "",
+    ["DictKey_178"] = "誘導路を右に進んで下さい。\
+\
+左にある最初のフリーの駐機場に停めて下さい。",
+    ["DictKey_WptName_412"] = "",
+    ["DictKey_173"] = "COLT 1-2,  フェンスアウト, 26",
+    ["DictKey_WptName_376"] = "",
+    ["DictKey_142"] = "SYPH レンジコントロール, COLT 1-2,\
+COLT 1への許可を願います, \
+A-10、2機編隊, \
+エントリーALPHAの西,\
+14x M151 と 2000x 30 MM.",
+    ["DictKey_GroupName_353"] = "New Static Object #016",
+    ["DictKey_208"] = "COLT 1-1 オフ",
+    ["DictKey_WptName_368"] = "Target 2",
+    ["DictKey_UnitName_344"] = "Static Infantry #002",
+    ["DictKey_GroupName_271"] = "New Vehicle Group #002",
+    ["DictKey_144"] = "COLT 1-2 コンファーム\
+全高度で快晴\
+ハードデッキ　500\
+\
+アイ ハブ コントロール",
+    ["DictKey_GroupName_355"] = "New Static Object #018",
+    ["DictKey_WptName_369"] = "",
+    ["DictKey_UnitName_334"] = "Static F-15E #003",
+    ["DictKey_UnitName_224"] = "Unit #10",
+    ["DictKey_202"] = "COLT 1-1 フェンスイン",
+    ["DictKey_ActionRadioText_448"] = "フェンスイン",
+    ["DictKey_ActionRadioText_449"] = "タリー",
+    ["DictKey_GroupName_233"] = "New Vehicle Group #014",
+    ["DictKey_UnitName_261"] = "Convoy 4 3",
+    ["DictKey_172"] = "COLT 1-2, フェンスアウト...",
+    ["DictKey_WptName_383"] = "",
+    ["DictKey_177"] = "COLT 1-1 COPY",
+    ["DictKey_UnitName_266"] = "Unit #59",
+    ["DictKey_UnitName_307"] = "Target 1 1",
+    ["DictKey_UnitName_241"] = "Unit #36",
+    ["DictKey_WptName_405"] = "",
+    ["DictKey_UnitName_305"] = "Unit #85",
+    ["DictKey_GroupName_323"] = "Weapons Truck",
+    ["DictKey_ActionRadioText_447"] = "COPY",
+} -- end of dictionary

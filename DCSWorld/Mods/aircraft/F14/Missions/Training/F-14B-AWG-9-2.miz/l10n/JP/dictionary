@@ -1,0 +1,90 @@
+dictionary = 
+{
+    ["DictKey_UnitName_22"] = "USS Chosin",
+    ["DictKey_UnitName_33"] = "Unit #004",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_GroupName_52"] = "Target 3",
+    ["DictKey_GroupName_15"] = "Stennis CVBG",
+    ["DictKey_UnitName_49"] = "Pilot #004",
+    ["DictKey_ActionText_41"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_14"] = "後部座席に移動したら、スペースバーを押してください。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_UnitName_38"] = "",
+    ["DictKey_UnitName_32"] = "Unit #003",
+    ["DictKey_UnitName_29"] = "Unit #001",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_UnitName_35"] = "Unit #006",
+    ["DictKey_UnitName_7"] = "Pilot #001",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_UnitName_16"] = "USS John C. Stennis",
+    ["DictKey_UnitName_25"] = "Pilot #002",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_UnitName_31"] = "Unit #002",
+    ["DictKey_UnitName_45"] = "Pilot #003",
+    ["DictKey_UnitName_18"] = "",
+    ["DictKey_UnitName_21"] = "USS Vella Gulf",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_UnitName_23"] = "USS Reuben James",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_ActionText_13"] = "また会いましたね！\
+\
+RIO席に入ってからスペースバーを押して続行してください。",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_sortie_5"] = "",
+    ["DictKey_GroupName_44"] = "Target 1",
+    ["DictKey_descriptionText_1"] = "",
+    ["DictKey_GroupName_10"] = "New Helicopter Group",
+    ["DictKey_GroupName_28"] = "Batumi Airfield Defence",
+    ["DictKey_ActionComment_42"] = "DictKey_ActionComment_42",
+    ["DictKey_GroupName_6"] = "New Airplane Group",
+    ["DictKey_UnitName_36"] = "Unit #007",
+    ["DictKey_UnitName_11"] = "Pilot #002",
+    ["DictKey_UnitName_34"] = "Unit #005",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_43"] = "シングルターゲットトラックモードに移行しターゲットを取得するには、HCUをRDRモードに設定する必要があります。これにより、イコール記号のように見えるDDDのレーダーレンジゲートをコントロールできるようになります。\
+\
+レーダーがターゲットをスキャンしたら、スティックにハーフアクションを入力してそれを保持します。これにより、DDD上にレーダーレンジゲートが表示されます。\
+\
+さらに、スーパーサーチと呼ばれるモードにレーダーを転送します。これは、シングルターゲットトラック（STT）モードに転送する前にレーダー取得位置を微調整するために使用されます。スーパーサーチは、DDD上のレーダーレンジゲートに沿って1バー+/-10度のスキャンを行います。これで、RIOのレーダー高度バーニアが使いやすくなり、レーダーアンテナの高度を微調整することができるようになります。\
+\
+ターゲットがレンジゲート内にあり、見えている場合は、スティックにフルアクションを入力してトリガーを放します。正常に行われると、ANT TRKとRDROTライトがDDDの上に点灯し、アンテナがターゲットを追跡し、システムがターゲットまでの距離をしっかりと測定していることを示します。 DDDはSTT表示に切り替わりますが、方位とターゲットまでの距離は表示されます。\
+\
+一方TIDはトラックシンボルを表示することでターゲットの位置を表示し、アンテナのスキャンレンジの代わりにターゲット位置までの1本の破線を表示します。\
+\
+STTモードで対空ミサイルを選択した場合、DDDはそのミサイルタイプの攻撃シンボルを追加で表示します。これについてはマニュアルでさ詳しく説明しています。\
+\
+STTモードを終了するには、HCUでハーフアクションを入力するか、WCS MODEボタンを使用して希望のレーダーモードを選択します。\
+\
+ここまでパルスモードについて説明してきました。\
+練習を続けることもできますし、ミッションを終了することもできます。",
+    ["DictKey_ActionText_40"] = "それでは、2つのパルスレーダーモードの説明に移ります。\
+\
+これらのモードはパルスドップラーフィルタリングを使用しないため、レーダーはターゲットの速度に関係なくターゲットを見つけて追跡できます。\
+\
+欠点は、自機の下方にいるターゲットを見下ろすと、レーダーパルスが地面に当たることで発生するレーダーの反射で、ターゲットが地面のクラッタの中に埋もれてしまう可能性が高いことです。\
+\
+WCSスイッチを使用してレーダーをオンにしてXMTに設定し、正しいWCSモードボタンを使用してパルスサーチモードを選択することから始めます。\
+\
+これで、DDDにレーダー画像が表示されます。方位はディスプレイ下部の目盛りで確認できます。また、レンジスケールはDDDの上にあるレンジボタンを使用して設定します。\
+\
+あなたの目の前には、高度の異なる3つの静止したヘリコプターのターゲットがあり、それらはすべて20 海里以内にあるので、今、そのレンジのスケールを選択することができます。\
+\
+レーダーアンテナがアンテナパターンをスキャンしている間に、レーダー画像が変化しているのがわかります。\
+レーダースキャンゾーンを変更し、センサーコントロールパネルのコントロールを使用して移動させてみてください。\
+\
+パルスシングルターゲットトラックでターゲットを取得する準備ができたら、スペースバーを押して続行します。",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_GroupName_37"] = "",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_GroupName_24"] = "Sigonella - Batumi",
+    ["DictKey_GroupName_48"] = "Target 2",
+    ["DictKey_UnitName_53"] = "Pilot #005",
+} -- end of dictionary

@@ -1,0 +1,56 @@
+dictionary = 
+{
+    ["DictKey_ActionText_34"] = "",
+    ["DictKey_ActionText_29"] = "HSDを使用してRIOのTIDをリピート表示させることもできます。これにより、状況をより適切に表示できます。ここでは、HSDモードのままにします。",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_ActionText_36"] = "",
+    ["DictKey_ActionText_33"] = "よくやった！ ステアリングモードセレクタでTACANを選択します。 空母のTACANチャンネル（74 X）はすでに調整されています。",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_32"] = "ウェイポイント3を選択し、Sukhumi空港に向かって西に進みます。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_ActionText_30"] = "前進して離陸し、ウェイポイント1に進んでください。それはヘディング290°、24海里の距離にあるはずです。",
+    ["DictKey_UnitName_7"] = "Gunfighter 2-1",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_UnitName_16"] = "Unit #002",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_UnitName_18"] = "Unit #004",
+    ["DictKey_ActionText_24"] = "「こんにちは、パイロット！今日は、Tomcatでの基本的なナビゲーションについて説明します。ジョージア北部の短いルートを飛行し、その後、空母を少し見学します。\
+気持ちのいい日なので、これらの完璧な飛行条件を使用して、ナビゲーションスキルを磨きます。 」",
+    ["DictKey_UnitName_23"] = "Unit #001",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_ActionText_28"] = "個々のウェイポイントはRIOによってダイヤルで選択されるので、後部座席にジャンプするか、JESTERメニューを使用してウェイポイントを選択する必要があります。\
+\
+今回は、「A」を押してJESTERメニューを表示し、もう一度「A」を押してメインメニューに進み、次に「ctrl + 5」を押してナビゲーションサブメニューを選択します。 次に「Ctrl + 1」を押して「Select Destination Steerpoint」メニューに進みます。 あなたがヘッドトラッキングを使用しているなら、あなたは単にメニューオプションに目線を合わせて、「A」で選択していくことができます。\
+\
+ここでは、さまざまなウェイポイントを選択できます。 HSDがウェイポイントまでの距離と進行方向をどのように表示するかに注意してください。今のところ、Steerpoint 1が選択されていることを確認してください。\
+\
+続行するにはSpaceキーを押します。",
+    ["DictKey_sortie_5"] = "",
+    ["DictKey_ActionComment_26"] = "",
+    ["DictKey_GroupName_10"] = "New Ship Group",
+    ["DictKey_UnitName_17"] = "Unit #003",
+    ["DictKey_descriptionText_1"] = "ガンファイター2-1、F-14Bトムキャット、第101戦闘飛行隊「グリムリーパーズ（死神）」\
+機内燃料100％、ドロップタンク満タン\
+\
+今日は、F-14B Tomcatのナビゲーションシステムの基本について学びます。 基本的なウェイポイントナビゲーション機能とTACAN無線ナビゲーションシステムについて説明します。 \
+フライトの前にマニュアルの関連セクションをよく読んでください。特に、「一般的な設計とシステムの概要」の章の「ナビゲーション」セクションを重視してください。\
+\
+Tomcatには、3つの通常のナビゲーションウェイポイントと、さまざまな目的に使用される他のいくつかのポイントをサポートする慣性ナビゲーションシステムが装備されています。あなたはジョージア北部を通る短いルートを飛行し、TACANビーコンシステムを使って空母に到達します。\
+\
+高度や対気速度に制限はありませんが、割り当てられたルートに従うようにしてください。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_27"] = "まず、ステアリングモードとしてデスティネーションモードを選択します。 これにより、ホリゾンタル・シチュエーション・ディスプレイ（HSD）のステアリング情報に慣性ナビゲーションシステムが選択されます。",
+    ["DictKey_GroupName_6"] = "Gunfighter 2-1",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_UnitName_11"] = "Stennis",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_ActionText_35"] = "これがStennisとその戦闘群です！ ステアリングモードとしてデスティネーションモードを選択します。 HOME BASEウェイポイントを選択します。 それはGudauta空軍基地にあなたを導くでしょう。",
+    ["DictKey_ActionText_31"] = "最初のウェイポイントにたどり着きました。よくできました。ウェイポイント2を選択して、ルートを続行します。ウェイポイント2は、北東の湖のはずです。",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_ActionText_37"] = "TACANの方位と距離は、ベアリング・ディスタンス・ヘディング・インジケータ（BDHI）にも表示されます。 「太い」針は、空母のTACANの方向を示します。空母は西へ約25海里の位置にいるはずです。 空母に向かって進みます。",
+    ["DictKey_ActionText_38"] = "これで、Tomcatでナビゲートできるようになりました。 あなたはグダウタに着陸することも自由に自分で飛行することもできます。 これでチュートリアルは終了です。",
+} -- end of dictionary

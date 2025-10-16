@@ -1,0 +1,50 @@
+dictionary = 
+{
+    ["DictKey_UnitName_14"] = "Unit #13",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_GroupName_15"] = "New Vehicle Group",
+    ["DictKey_UnitName_26"] = "Unit #2",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_UnitName_29"] = "Pilot #001",
+    ["DictKey_GroupName_4"] = "New Vehicle Group #001",
+    ["DictKey_UnitName_7"] = "Unit #20",
+    ["DictKey_descriptionText_31"] = "あなたの左の道路を下る車両グループがいます。別に1時方向の道路の終わりにオレンジスモークでマーキングした静止グループがいます。\
+\
+このフライトではウイングマンが一機つきます。\
+\
+Engage at will　（自由に攻撃して下さい。）",
+    ["DictKey_UnitName_5"] = "Unit #22",
+    ["DictKey_UnitName_16"] = "Unit #12",
+    ["DictKey_UnitName_12"] = "Unit #15",
+    ["DictKey_UnitName_24"] = "Unit #4",
+    ["DictKey_UnitName_18"] = "Unit #10",
+    ["DictKey_UnitName_20"] = "Unit #8",
+    ["DictKey_UnitName_9"] = "Unit #18",
+    ["DictKey_3"] = "あなたの左の道路を下る車両グループがいます。別に1時方向の道路の終わりにオレンジスモークでマーキングした静止グループがいます。\
+\
+このフライトではウイングマンが一機つきます。\
+\
+Engage at will　（自由に攻撃して下さい。）",
+    ["DictKey_UnitName_25"] = "Unit #3",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_UnitName_21"] = "Unit #7",
+    ["DictKey_UnitName_19"] = "Unit #9",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_WptName_37"] = "",
+    ["DictKey_sortie_34"] = "グラウンドアタック　HARD",
+    ["DictKey_descriptionRedTask_32"] = "",
+    ["DictKey_UnitName_10"] = "Unit #17",
+    ["DictKey_GroupName_28"] = "New Helicopter Group",
+    ["DictKey_UnitName_22"] = "Unit #6",
+    ["DictKey_UnitName_11"] = "Unit #16",
+    ["DictKey_UnitName_27"] = "Unit #1",
+    ["DictKey_UnitName_13"] = "Unit #14",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_UnitName_23"] = "Unit #5",
+    ["DictKey_UnitName_30"] = "Pilot #1",
+    ["DictKey_UnitName_17"] = "Unit #11",
+    ["DictKey_UnitName_6"] = "Unit #21",
+    ["DictKey_descriptionBlueTask_33"] = "",
+    ["DictKey_UnitName_8"] = "Unit #19",
+} -- end of dictionary

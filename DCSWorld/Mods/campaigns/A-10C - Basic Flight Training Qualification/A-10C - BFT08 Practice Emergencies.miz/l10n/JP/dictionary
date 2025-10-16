@@ -1,0 +1,452 @@
+dictionary = 
+{
+    ["DictKey_113"] = "良いですよ。付近の航空機を監視し、必要に応じてマニューバを中止する用意をしておいてください。",
+    ["DictKey_90"] = "右旋回して 040へ。angels 6 at 200 knotsは維持してください。.",
+    ["DictKey_WptName_227"] = "",
+    ["DictKey_UnitName_156"] = "Capt Rick Tooth \"Sabre\"",
+    ["DictKey_84"] = "方位がずれています。300に旋回してください。",
+    ["DictKey_GroupName_198"] = "Fire Truck 2",
+    ["DictKey_GroupName_183"] = "Batumi-Static-09",
+    ["DictKey_GroupName_177"] = "Batumi-Static-06",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_WptName_272"] = "",
+    ["DictKey_119"] = "良いですよ。緊急事態に適切に対応できました。",
+    ["DictKey_ActionText_277"] = "離陸を許可します。離陸滑走を始めて下さい。\
+\
+グッドラック！",
+    ["DictKey_GroupName_185"] = "Batumi-Static-10",
+    ["DictKey_78"] = "方位 300, angels 6  200 knotsで飛行してください。",
+    ["DictKey_WptName_262"] = "",
+    ["DictKey_86"] = " 200 knotsを維持してください！",
+    ["DictKey_WptName_273"] = "",
+    ["DictKey_WptName_247"] = "",
+    ["DictKey_UnitName_192"] = "FARP-2",
+    ["DictKey_WptName_241"] = "",
+    ["DictKey_101"] = "angels 10.でレベルアウト  \
+\
+方位 040 のまま、速度を 220 knots.まで上げてください。",
+    ["DictKey_93"] = "方位がずれています。040に旋回してください。",
+    ["DictKey_133"] = "いいですよ。緊急事態に対して適切に対応できました。",
+    ["DictKey_GroupName_200"] = "FARP-Chopper-1",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_120"] = "緊急事態に適切に対応できませんでした。\
+\
+手順：\
+1. 不良エンジンのスロットルをOFFにする。\
+2. APUスイッチをPWRにする。  \
+3. 停止させたエンジンのEngine Operate スイッチをMOTORにする\
+4. 停止させたエンジンの ITT が 100C を下回ったら、スロットルをOFFからIDLEに移動させます。\
+5. Engine Operate スイッチを NORM に戻します。",
+    ["DictKey_ActionText_288"] = "左ジェネレーター（LEFT GENERATOR）故障！\
+\
+手順：\
+1. CROSSFEED（クロスフィード） スイッチを CROSSFEEDにセット。\
+2. 壊れたジェネレータースイッチをOFF/RESETにしてリセットしてから、PWRに戻す。\
+\
+3回試して、回復しないようなら、OFF/RESETにする。\
+\
+3. APUを始動  \
+4. APU Generator スイッチを PWRにセット",
+    ["DictKey_105"] = "方位 040 angels 10 at 220 knots.で飛行して下さい。",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_UnitName_163"] = "Capt Pat McMillan",
+    ["DictKey_UnitName_190"] = "FARP-1",
+    ["DictKey_WptName_248"] = "",
+    ["DictKey_UnitName_168"] = "Unit #3",
+    ["DictKey_99"] = "次のマニューバシリーズに備えて、もう少し高度が必要です。\
+\
+angels 10 まで上昇してください。",
+    ["DictKey_83"] = "方位 300, angels 6  200 knotsで飛行してください。",
+    ["DictKey_GroupName_189"] = "FARP-1",
+    ["DictKey_96"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の速度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_ActionText_286"] = "ジェネレータ（GEN)が故障しました。",
+    ["DictKey_127"] = "良いですよ。緊急事態に適切に対応できました。",
+    ["DictKey_GroupName_155"] = "FE",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_UnitName_182"] = "Batumi-Static-08",
+    ["DictKey_WptName_266"] = "",
+    ["DictKey_92"] = "方位 040, angels 6  200 knotsで飛行してください。",
+    ["DictKey_UnitName_172"] = "Batumi-Static-02",
+    ["DictKey_WptName_214"] = "",
+    ["DictKey_121"] = "方位 040 angels 10 at 220 knots.で飛行して下さい。",
+    ["DictKey_GroupName_157"] = "A-10A Flight",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_WptName_267"] = "",
+    ["DictKey_WptName_257"] = "",
+    ["DictKey_137"] = "この旋回は高度10,000ft、250KIASで行います。航空機をイニシャルポイント（スタート地点）に持っていってください。",
+    ["DictKey_WptName_250"] = "",
+    ["DictKey_ActionRadioText_281"] = "COPY",
+    ["DictKey_UnitName_153"] = "Cadet john Stillman",
+    ["DictKey_140"] = "マニュアルリバージョン着陸は、今日のような理想的な条件でのみ試行が可能です。\
+\
+横風の最大許容量は20Knotsまでです。\
+\
+機体をクリーン（空）の状態にする必要がありますので、まずは外部に搭載しているものを投棄します。",
+    ["DictKey_GroupName_165"] = "Batumi-car",
+    ["DictKey_WptName_236"] = "",
+    ["DictKey_116"] = "良いですよ。ではエンジンをリスタートさせてください。\
+\
+30秒でこの手順を完了させて下さい。\
+\
+手順：\
+1. 不良エンジンのスロットルをOFFにする。\
+2. APUスイッチをPWRにする。  \
+3. 停止させたエンジンのEngine Operate スイッチをMOTORにする\
+4. 停止させたエンジンの ITT が 100C を下回ったら、スロットルをOFFからIDLEに移動させます。\
+5. Engine Operate スイッチを NORM に戻します。",
+    ["DictKey_UnitName_176"] = "Batumi-Static-04",
+    ["DictKey_139"] = "この旋回は高度10,000ft、250KIASで行います。航空機をイニシャルポイント（スタート地点）に持っていってください。",
+    ["DictKey_WptName_252"] = "",
+    ["DictKey_112"] = "次は右90度旋回を行い、上空と後ろを確認してください。（周りの安全を確認してください。）",
+    ["DictKey_GroupName_179"] = "Batumi-Static-07",
+    ["DictKey_123"] = "方位 040 angels 10 at 220 knots.で飛行して下さい。",
+    ["DictKey_95"] = " 200 knotsを維持してください！",
+    ["DictKey_GroupName_191"] = "FARP-2",
+    ["DictKey_102"] = "angels 10に上昇してください！",
+    ["DictKey_WptName_223"] = "",
+    ["DictKey_79"] = "ハードデッキ制限が有効です。 \
+\
+制限が解除されないうちは、angels 5 を下回らないでください。",
+    ["DictKey_UnitName_159"] = "Lt. George Ramirez",
+    ["DictKey_111"] = "正しくクリアリングターンを行うことができませんでした。",
+    ["DictKey_WptName_244"] = "",
+    ["DictKey_GroupName_181"] = "Batumi-Static-08",
+    ["DictKey_91"] = "良いですよ。方位 040, angels 6 at 200 knotsを維持してください。",
+    ["DictKey_GroupName_193"] = "Batumi Cars",
+    ["DictKey_UnitName_186"] = "Batumi-Static-10",
+    ["DictKey_UnitName_170"] = "Batumi-Static-01",
+    ["DictKey_150"] = "あなたは機体を傷付けました。",
+    ["DictKey_132"] = "方位 210, angels 10 at 220 knots.で飛行してください。",
+    ["DictKey_WptName_264"] = "",
+    ["DictKey_134"] = "緊急事態に対して適切に対応できませんでした。\
+\
+正しい手順は：\
+1. EFCPのSP BK EMER RETR スイッチを EMER RETR にセット \
+2. SAS / Anti-Skid パドルをOFF  \
+3. Pitch SAS をOFF",
+    ["DictKey_UnitName_201"] = "FARP-Chopper-1",
+    ["DictKey_descriptionText_204"] = "この訓練ミッションを使用して、試験ミッションの準備を行ってください。\
+\
+私はキャプテン リック・トースです。コールサインは「セイバー（Sabre）」です。能力目標（PO)を判定するフライト試験官（FE)です。\
+\
+これはBFT08 - 緊急事態（Emergencies）です。A/OA-10C基本飛行訓練検定コースの8番めのミッションです。\
+\
+あなたの評価は、A/OA-10搭乗員評価基準：AFI11-2A-OA-10V2:\
+に基づき行われます。\
+\
+エリア1.4.3　一般基準\
+\
+次の一般基準は、記載されている特定のイベントや計器ファイナルアプローチを除き、全ての飛行段階で適用されます。：\
+\
+\
+優（Q:Qualified）: 高度 +/- 200 feet.  対気速度 +/- 5%, コース +/- 5 度か 3 NM (どちらか大きい方), TACAN Arc +/- 2 NM.\
+\
+可（Q-：Qualified Minus): 高度 +/- 300 feet.  対気速度 +/- 10%, コース +/- 10 度か 5 NM (どちらか大きい方), TACAN Arc +/- 3 NM.\
+\
+不可（U:Unqualified): Q- の限界を超えた場合\
+\
+3.2.28.2 緊急時の手順（Emergency Procedures）\
+\
+優（Qualified：Q): 警告表示のある無しに関わらず緊急事態に対して素早い対応を示しました。チェックリストを効果的に使用できています。\
+\
+可（Qualified Minus：Q-): 警告表示のある緊急事態へは100％正しく対応できまが、警告表にのない項目への対応ができていないか、警告表示された項目への対応が遅いか、混乱しています。チェックリストは使用できていますが、必要な情報を見つけるのに時間がかかりすぎています。\
+\
+不可（Unqualified：U): 警告表示のある緊急事態に正しく対応できていません。問題の分析ができていないか、適切な対処ができていません。チェックリストを使用していないか、内容に精通できていません。\
+\
+3.2.21. エリア 24 - 緊急アプローチや着陸 (ロールアウトからの態勢づくり：configuration through rollout):\
+\
+優（Qualified：Q): 音声警告の判断ができています。適切な位置、高度の確保ができています。推奨される手順、AOA対気速度、グライドパスにのってのファイナルアプローチができています。機体をスムーズにコントロールできています。無事に着陸が可能です。必要な時に備えて脱出の準備ができています。接地地点がガイダンスに従っており、滑走路に安全に停止できる位置です。.\
+\
+可（Qualified Minus：Q-): 安全性は確保されています。安全なアプローチが可能な位置と姿勢が取れています。多少のズレはありますが、安全に着陸が可能です。\
+\
+不可（Unqualified：U): 推奨される手順、AOA対気速度、高度から逸脱しています。計画や判断が不十分なため、過度な操縦が必要でした。安全に着陸できませんでした。接地地点がガイダンスに従っておらず、滑走路に安全に停止できないか、できそうにありませんでした。アプローチが失敗したときのために、脱出の準備をしませんでした。\
+\
+このPOでは、緊急事態に対処する必要があります。飛行中エンジンリスタートやマニュアルリバージョン（Manual Reversion：手動回復）操縦での着陸を行ってもらいます。\
+注：マニュアルリバージョン（Manual Reversion）：物理的に結合されているワイヤーでエルロンやラダーを操作します。\
+\
+私達は、MOA（ Military Operations Area ）内で活動を行います。許可なくMOAから離脱しないでください。\
+\
+パターン高度は2500ftです。\
+\
+ハードデッキ制限は5000ftです。解除されないうちはこの制限を破らないで下さい。\
+\
+この訓練は空中スタートミッションです。検定チェックライドの練習に使用してください。\
+HOTASは適宜設定して下さい。\
+\
+グッドラック！\
+\
+ミッション成功基準：\
+ブリーフィングでの飛行計画に従ってください。\
+指示に従い、緊急事態に対応してください。\
+グライドスロープとAOA対気速度を維持してアプローチと着陸を行ってください。\
+駐機して、シャットダウンチェックリスト手順を行ってください。",
+    ["DictKey_80"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+ハードデッキ制限を破りました！\
+\
+POを中止します。",
+    ["DictKey_ActionText_290"] = "左油圧駆動（HYDRO）故障！\
+\
+手順：\
+1. EFCPの FLAP EMER RETR スイッチを EMER RETR にセット\
+2. SAS / Anti-Skid パドルを OFF  \
+3. ピッチ SAS はOFFのまま \
+4. フラップをフルアップ\
+5. マニュアルリバージョンモードを有効にする",
+    ["DictKey_114"] = "正しくクリアリングターンを行うことができませんでした。",
+    ["DictKey_125"] = "良いですよ。緊急事態に適切に対応できました。",
+    ["DictKey_UnitName_194"] = "Unit #2",
+    ["DictKey_136"] = "最後の緊急事態テストは、戦闘中には絶対に起きてほしくないことです。",
+    ["DictKey_ActionText_285"] = "CDU の故障\
+\
+手順：\
+1.  CDUスイッチをOFFにして4秒間は待つ。\
+2. CDUスイッチをONに戻す。",
+    ["DictKey_WptName_263"] = "",
+    ["DictKey_WptName_265"] = "",
+    ["DictKey_UnitName_174"] = "Batumi-Static-03",
+    ["DictKey_WptName_279"] = "",
+    ["DictKey_148"] = "よくできました！\
+\
+検定は通過できるでしょうが、もう少し練習を繰り返して、完璧にすべきでしょう。\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了してください。",
+    ["DictKey_131"] = "良いですよ。方位 210 angels 10 at 220 knots.を維持してください。",
+    ["DictKey_UnitName_164"] = "Col John Casey",
+    ["DictKey_ActionText_289"] = "右油圧駆動（HYDRO）故障！\
+\
+手順：\
+1. EFCPのSP BK EMER RETR スイッチをEMER RETR  \
+2. SAS / Anti-Skid パドルをOFF  \
+3. ピッチSASはOFFのまま",
+    ["DictKey_WptName_235"] = "",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_WptName_276"] = "",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_89"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の高度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_87"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の速度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_143"] = "良いですよ。機体を安定を維持して、着陸させて下さい！",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_146"] = "よくやりました！\
+\
+機体を安全に着陸させました！",
+    ["DictKey_128"] = "良いですよ。緊急事態に適切に対応できました。",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_WptName_251"] = "",
+    ["DictKey_126"] = "緊急事態に適切に対応できませんでした。\
+\
+適切な手順は：\
+１.CDUスイッチを少なくとも4秒間OFFにします。\
+２.CDUスイッチをONにします。",
+    ["DictKey_GroupName_160"] = "C130",
+    ["DictKey_100"] = "対気速度が下がりすぎています。\
+\
+ピッチ角を減らして、160knotsでの上昇を維持してください。",
+    ["DictKey_GroupName_175"] = "Batumi-Static-04",
+    ["DictKey_WptName_255"] = "",
+    ["DictKey_110"] = "良いですよ。付近の航空機を監視し、必要に応じてマニューバを中止する用意をしておいてください。",
+    ["DictKey_GroupName_196"] = "Fire Truck 1",
+    ["DictKey_WptName_269"] = "",
+    ["DictKey_WptName_226"] = "",
+    ["DictKey_UnitName_154"] = "Player",
+    ["DictKey_108"] = "クリアリングターンで、活動しているエリアの安全を確認できます。\
+\
+あなたは、90度のクリアリングターンを2回行います。\
+\
+左に１回、右に１回行います。\
+指示したら開始してください。",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_GroupName_152"] = "COLT 1",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_135"] = "この旋回は高度10,000ft、250KIASで行います。航空機をイニシャルポイント（スタート地点）に持っていってください。",
+    ["DictKey_94"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）のコース制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_WptName_254"] = "",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_88"] = "angels 6 (6000ft)を維持して下さい！",
+    ["DictKey_109"] = "上空と後ろの確認を行いながら90度左旋回を行ってください。（周りの安全を確認してください。）",
+    ["DictKey_GroupName_162"] = "F15 Flight",
+    ["DictKey_GroupName_187"] = "Batumi-Static-11",
+    ["DictKey_WptName_238"] = "",
+    ["DictKey_UnitName_195"] = "Unit #1",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_WptName_232"] = "",
+    ["DictKey_UnitName_178"] = "Batumi-Static-06",
+    ["DictKey_104"] = "良いですよ。方位 040 angels 10 at 220 knots.を維持してください。",
+    ["DictKey_WptName_229"] = "",
+    ["DictKey_WptName_256"] = "",
+    ["DictKey_descriptionBlueTask_206"] = "1. クリアリングターンを行う\
+- MOAテキストエリア内で、左と右への90度ターンを行ってください。\
+- MOAテキストエリア内に予期せぬ航空機がいない事を確認してください。\
+\
+2. 飛行中エンジンリスタート（In flight engine restart）\
+- エンジンをシャットダウン\
+- 飛行中エンジンリスタートを実行\
+\
+3. 飛行中の緊急事態への対応\
+- 緊急事態の内容に応じて、対応するチェックリスト手順を適切に実行\
+\
+4. マニュアルリバージョン（Manual Reversion）着陸を実行\
+- 公表されている滑空対気速度に合わせて維持する。\
+- 適切な着陸エリアを選択 \
+- チェックリスト手順を完了させる\
+- 選択した着陸エリアに着陸させるために降下率やパターンを調節する。",
+    ["DictKey_UnitName_166"] = "Batumi-car",
+    ["DictKey_115"] = "今から、飛行中エンジンリスターテストを行います。\
+\
+左エンジンを停止させてから、チェックリストに従ってリスタートさせてください。\
+\
+60秒以内にテストを完了させてください。\
+\
+準備ができたら開始してください。",
+    ["DictKey_GroupName_169"] = "Batumi-Static-01",
+    ["DictKey_GroupName_167"] = "Pilot Humvee",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_WptName_258"] = "",
+    ["DictKey_sortie_207"] = "BFT08 -緊急事態の訓練",
+    ["DictKey_GroupName_171"] = "Batumi-Static-02",
+    ["DictKey_UnitName_197"] = "Unit #4",
+    ["DictKey_124"] = "今からランダムな緊急事態への対応テストを行います。\
+\
+様々な緊急事態が発生しますので、チェックリストに従って対応してください。\
+\
+各緊急事態に対して30秒以内で対処してください。\
+\
+では始めます。",
+    ["DictKey_82"] = "よくできました！ \
+方位 300, angels 6,  200 knotsを維持してください。",
+    ["DictKey_UnitName_161"] = "Capt Andrew Melnyk",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_WptName_249"] = "",
+    ["DictKey_81"] = "angels 6に近づきました。レベルアウトして 200 knotsを維持してください。",
+    ["DictKey_97"] = "angels 6 (6000ft)を維持して下さい！",
+    ["DictKey_WptName_230"] = "",
+    ["DictKey_ActionText_287"] = "油圧駆動（HYDRO ）が故障しました。",
+    ["DictKey_descriptionRedTask_205"] = "",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_UnitName_184"] = "Batumi-Static-09",
+    ["DictKey_107"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+許可なくMOA（Military Operations Area）から離脱しました。\
+\
+このPOを中止します！",
+    ["DictKey_UnitName_203"] = "FARP-Chopper-2",
+    ["DictKey_147"] = "素晴らしい！\
+\
+検定に挑戦する準備は整っているでしょう！\
+\
+MISSION COMPLETED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_118"] = "指示に従いませんでした。\
+\
+指示に従い左エンジンのシャットダウンを行いませんでした。\
+\
+このPOを中止します。",
+    ["DictKey_WptName_270"] = "",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_GroupName_202"] = "FARP-Chopper-2",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_WptName_221"] = "",
+    ["DictKey_WptName_274"] = "",
+    ["DictKey_103"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の高度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_122"] = "良いですよ。方位 040 angels 10 at 220 knots.を維持してください。",
+    ["DictKey_WptName_259"] = "",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_WptName_231"] = "",
+    ["DictKey_106"] = "今、MOA（Miltary Operations Area）に入りました。",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_138"] = "緊急事態が発生したら、一番近い空港にManual Reversion 着陸を行う必要があります。",
+    ["DictKey_WptName_220"] = "",
+    ["DictKey_117"] = "何をためらっているのですか！？\
+\
+左エンジンをシャットダウンしてください。今すぐ！",
+    ["DictKey_142"] = "コブレチとバトゥミの北にある代替空港の両方のATCにこのテストの許可を取りました。\
+\
+着陸する空港を選択してから、試みてください。\
+\
+ハードデッキ制限を解除します。\
+\
+必要であれば、脱出を許可します。グッドラック！",
+    ["DictKey_151"] = "これが単なるシミュレーターで良かったですね。現実なら死んでしまうところでした。\
+再度POに挑戦する前に、フライトマニュアルを読んでさらに練習をすることをお勧めします。",
+    ["DictKey_85"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）のコース制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_WptName_260"] = "",
+    ["DictKey_WptName_240"] = "",
+    ["DictKey_129"] = "緊急事態に適切に対応できませんでした。\
+\
+正しい手順：\
+1. クロスフィード（CROSSFEED）スイッチを CROSSFEED.\
+2. 故障したジェネレーター（generator）スイッチをOFF/RESET にしてから PWRに戻します。\
+\
+３回試行して成功しなければ、故障したジェネレーターを OFF/RESETにします。\
+\
+3. APUを始動  \
+4.APU Generator スイッチを PWR",
+    ["DictKey_144"] = "緊急事態に対して適切に対応できませんでした。\
+\
+正しい手順：\
+1. EFCPのFLAP EMER RETR スイッチをEMER RETR にセット  \
+2. SAS / Anti-Skid パドルを OFF  \
+3. ピッチSAS はOFFのまま。 \
+4. フラップをフルアップ\
+5. マニュアルリバージョンモードを有効にする。",
+    ["DictKey_WptName_280"] = "",
+    ["DictKey_141"] = "この旋回は高度10,000ft、250KIASで行います。航空機をイニシャルポイント（スタート地点）に持っていってください。",
+    ["DictKey_ActionText_282"] = "1, COPY!",
+    ["DictKey_GroupName_173"] = "Batumi-Static-03",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_WptName_275"] = "",
+    ["DictKey_UnitName_158"] = "Capt Frank Simzer",
+    ["DictKey_WptName_268"] = "",
+    ["DictKey_77"] = "この訓練ミッションを使用して、検定ミッションの準備を行ってください。",
+    ["DictKey_UnitName_188"] = "Batumi-Static-11",
+    ["DictKey_98"] = "ターミネイト、ターミネイト、ターミネイト！\
+\
+可（Q-）の高度制限を超えました。\
+\
+POを中止します。",
+    ["DictKey_UnitName_199"] = "Unit #5",
+    ["DictKey_WptName_261"] = "",
+    ["DictKey_130"] = "方位 210に旋回し angels 10 at 220 knots.で飛んでください。",
+    ["DictKey_WptName_271"] = "",
+    ["DictKey_UnitName_180"] = "Batumi-Static-07",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_149"] = "フライトをここで終了します。\
+\
+全然だめです。\
+あなたの評価は不可（U)です。\
+\
+もっと訓練に時間をとって下さい。  \
+\
+MISSION FAILED!\
+ESCを押してミッションを終了して下さい。",
+    ["DictKey_145"] = "着陸ゾーンを外しました！",
+} -- end of dictionary

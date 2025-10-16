@@ -1,0 +1,67 @@
+#!/usr/bin/env sh
+#
+# summary:
+#   - ブランチ名の命名規則チェック
+#   - lintチェック
+#   - master/main 直接コミット禁止
+#
+# notes:
+#   - 緊急時のみ一時解除: ALLOW_DIRECT_COMMIT_TO_PROTECTED=1
+#   - 許可する種別は BRANCH_TYPES で上書き可能（既定は Conventional Commits に概ね対応）
+#   - 例) git config core.hooksPath .githooks
+#
+
+set -eu
+
+# detached HEAD のときはスキップ
+branch="$(git symbolic-ref --quiet --short HEAD || true)"
+[ -n "${branch}" ] || exit 0
+
+# master/main 直接コミットは禁止（緊急時のみ環境変数で一時解除）
+if [ "${branch}" = "master" ] || [ "${branch}" = "main" ]; then
+    if [ "${ALLOW_DIRECT_COMMIT_TO_PROTECTED:-}" = "1" ]; then
+        echo "WARN: master/main への直接コミットを一時的に許可（環境変数による解除）: ${branch}" >&2
+    else
+        echo "ERROR: master/main ブランチでの直接コミットは禁止されています。" >&2
+    echo "別ブランチで作業し、PR 経由で取り込んでください。" >&2
+    exit 1
+    fi
+fi
+
+# 許可する種別（| 区切り）。必要に応じて BRANCH_TYPES で上書き。
+TYPES="${BRANCH_TYPES:-feat|fix|docs|style|refactor|perf|test|build|ci|chore|revert}"
+
+# 形式:
+# <type>/<optional-issue>-<slug>
+#  - optional-issue は「123-」または「ABC-123/」等も許可
+#  - 例: feat/123-add-login, fix/ABC-456/fix-npe
+PATTERN="^(${TYPES})/(([A-Z]+-[0-9]+|[0-9]+)[-_/])?.+$"
+
+if echo "${branch}" | grep -Eq "${PATTERN}"; then
+    exit 0
+fi
+
+cat >&2 <<EOF
+ERROR: ブランチ名が命名規則に一致しません: ${branch}
+
+許可される形式の例:
+    - feat/123-short-desc
+    - fix/ABC-456/fix-npe
+    - fix/urgent-rollback
+    - docs/update-readme
+    - style/formatting
+    - refactor/simplify-service
+    - perf/optimize-parser
+    - test/add-integration-tests
+    - build/tweak-dockerfile
+    - ci/gha-cache-tuning
+    - chore/dep-bump
+    - revert/revert-abcdef
+
+カスタム種別を許可するには、環境変数 BRANCH_TYPES を設定してください:
+    BRANCH_TYPES="feat|fix|docs|style|refactor|perf|test|build|ci|chore|revert"
+
+ブランチ名の変更:
+    git branch -m <new-branch-name>
+EOF
+exit 1

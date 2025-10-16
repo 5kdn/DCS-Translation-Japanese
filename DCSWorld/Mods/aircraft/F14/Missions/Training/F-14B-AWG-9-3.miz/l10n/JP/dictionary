@@ -1,0 +1,187 @@
+dictionary = 
+{
+    ["DictKey_UnitName_22"] = "USS Chosin",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_GroupName_52"] = "Target 2",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_ActionText_43"] = "",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_GroupName_96"] = "Target 2",
+    ["DictKey_ActionText_14"] = "後部座席に移動したら、スペースバーを押してください。",
+    ["DictKey_UnitName_32"] = "Unit #003",
+    ["DictKey_UnitName_29"] = "Unit #001",
+    ["DictKey_GroupName_47"] = "Target 1",
+    ["DictKey_UnitName_7"] = "Pilot #001",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_UnitName_106"] = "Pilot #005",
+    ["DictKey_GroupName_105"] = "Target 3",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_UnitName_25"] = "Pilot #002",
+    ["DictKey_GroupName_113"] = "Target 6",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_UnitName_102"] = "Pilot #004",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_UnitName_58"] = "Pilot #005",
+    ["DictKey_ActionText_13"] = "\"またもやこんにちは！\
+\
+後部座席の位置を選択してスペースバーを押してください。\"\
+",
+    ["DictKey_ActionText_42"] = "Track While Search（TWS）は、AWG-9によって検出された最大24個のターゲットのトラックファイルを確立および更新するようにWCSコンピュータに指示します。そのうち18トラックがTIDに表示され、最も近いトラックを優先して表示することができます。\
+\
+WCS MODEボタンを使用してTWS MANを選択してください。 TWS ManualはTWS AUTOに対して、RIOがレーダースキャンゾーンのサイズや位置を限定的に制御できる点が異なります。TWSトラック計算の要件により、許容されるスキャンゾーンサイズは、+/-  20度と4bar、または+/- 40度と2barです。\
+\
+方位角スキャンゾーンが40度に設定されている場合、WCSは+/- 40度と2バーを選択し、それ以外は+/- 20度と4バーのスキャンゾーンになります。 TWS AUTOでは、これはWCSによって設定され、検出されたターゲットの最大数を追跡できるようにします。\
+\
+RWSに存在するシンボルに加えて、各ターゲットトラックの速度を表す速度ベクトルが表示されます。これらのシンボルは、HCUをTIDカーソルに設定することでフックすることができ、フックされるとTIDデータのリードアウトに関する追加のトラック情報を表示します。\
+\
+Master Armがオン、Air-to-Airモードとフェニックスが選択されている場合、TWSはさらに、交戦目標の優先順位付けとそれらへの射程距離の表示を行います。これについては、AIM-54チュートリアルで詳しく説明しています。\
+\
+DDDはパルスドップラーサーチと同じ情報を表示し、RWSと同様にTWSモードもパルスドップラーサーチモードと同じ脆弱性と利点を保持しています。\
+\
+さまざまなTWS設定を試してみて、RWSの場合と同様に、TIDとDDDの両方でターゲットを確実に検出して追跡してください。\
+\
+Pulse Doppler STTモードに移行する準備ができたら、スペースバーを押します。",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_sortie_5"] = "",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_GroupName_10"] = "New Helicopter Group",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_GroupName_6"] = "New Airplane Group",
+    ["DictKey_UnitName_36"] = "Unit #007",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_UnitName_34"] = "Unit #005",
+    ["DictKey_GroupName_28"] = "Batumi Airfield Defence",
+    ["DictKey_UnitName_11"] = "Pilot #002",
+    ["DictKey_GroupName_101"] = "New Airplane Group #001",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_GroupName_37"] = "",
+    ["DictKey_ActionText_40"] = "パルスドップラーモードについて説明します。\
+\
+正しいWCS MODEボタンを使用してPD SRCHを選択してください。これにより、レーダーは基本的なパルスドップラーサーチモードになります。\
+\
+DDDはパルスサーチと同様に方位角を表示しますが、垂直方向のスケールはレンジの代わりに接近率を表示するようになります。パルスドップラーサーチでは検出されたターゲットのレンジを読み取ることは不可能です。\
+\
+このモードで近くに見えるターゲットは、実際の距離が近いターゲットではなく、接近率が小さいターゲットであり、これは混乱しやすいので、覚えておくことが重要です。\
+\
+さらに、パルスドップラーモードの特性として、レーダーには2つの盲点となる接近率レンジがあります。\
+\
+1つ目は相対接近率ゼロを中心としたフィルターで、幅は200ノット、つまり相対接近率ゼロから±100ノットとなっています。\
+これは、自機から離れて、自機の対気速度から±100ノット以内にいる目標はレーダーには見えないことを意味します。\
+\
+2つ目は、不要な地上反射を除去するために使用されるフィルタで、幅266ノット、つまり自機の対地速度に対する接近率が+/- 133ノット以内です。これは、対地接近率±133ノット以内の接近率を示すターゲットも見えないことを意味します。これはレーダーをノッチするのに使用できるフィルタです。\
+\
+ノッチに対抗するために、AWG-9はレーダーが地平線から3度以上上がると第2のフィルター、MLCフィルターを無効にする機能を内蔵しています。つまり、ターゲットを見上げている限り、AWG-9をノッチすることは不可能です。また、DDDのMLCスイッチをOUTに設定することで、フィルタを手動で無効にすることもできます。ただし、ターゲットと同じ方位角で多くのレーダー地上反射がある場合、レーダーはいずれにせよターゲットを見失う可能性があり、また、高度なパルスドップラーモードが過負荷になる危険性もあります。\
+\
+2つのパルスドップラーフィルターは不要なレーダー反射の多くを除去するため、ターゲットが2つのフィルター条件から離れている限り、パルスドップラーサーチモードは最大のレンジと最大のターゲット検出率を持つモードです。\
+\
+今あなたの目の前には、あなたに向かって、またはあなたから離れる方向に動いている6つのターゲットがあります。地面に静止しているので両方のフィルタが重なりますが、MLCフィルタを無効にしてみてください。\
+\
+DDD上でできる限り多くのターゲットを見つけてください。\
+\
+準備ができたら、スペースバーを押して続行します。",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_UnitName_77"] = "Pilot #002",
+    ["DictKey_UnitName_33"] = "Unit #004",
+    ["DictKey_GroupName_69"] = "Target 5",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_ActionText_45"] = "パルスドップラーSTT（PD STT）はパルスSTTに非常に似ていますが、他のパルスドップラーモードと同じ長所と短所を保持しています。\
+\
+パルスSTTと同様に、パルスドップラーSTTへの移行は、RDRモードのHCUを使用して行われます。主な違いは、DDDが方位角対接近率を表示するので、捕捉ゲートが代わりにレートゲートになることです。\
+\
+ターゲットを捕捉するには、パルスサーチと同じように動作するスーパーサーチのハーフアクションを入力し、ゲートをターゲットリターンの上に配置してフルアクションを入力します。 捕捉に成功した場合、DDDの上にある同じインジケータライトが点灯しますが、レーダーがパルスドップラーモードであるため、RDROTは点滅します。\
+\
+パルスSTTの場合と同様に、TIDは追跡されたターゲットに続くトラックを表示します。\
+\
+パルスドップラーサーチに戻るには、対応するボタンでハーフアクションまたは希望のWCSモードをコマンドします。\
+RWS、TWS、またはPulse Doppler Searchから入力した場合でも、PD STTトラックはドロップされると必ずPulse Doppler Searchに戻ります。\
+\
+続行する準備ができたら、スペースバーを押します。",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_GroupName_24"] = "Sigonella - Batumi",
+    ["DictKey_ActionComment_44"] = "DictKey_ActionComment_44",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_ActionText_41"] = "ここで、Range While Scan（RWS）モードに進みます。正しいWCS MODEボタンで選択してください。\
+\
+このモードでは、WCSコンピュータがFM測距を使用して、方位と接近率に加えて、検出された目標までの距離を測ることができます。\
+\
+この情報は、瞬間的なコンタクトとしてTIDに自動的に表示されます。 これらのコンタクトは真のトラックではないので、それらはフックすることはできず、大まかな高度の推定値以外に追加の情報を読み出すことはできません。 推定高度は、ターゲットシンボルの左側に表示され、最も近い1万フィート単位に丸められます。\
+\
+選択したTIDのレンジ内であれば、TID上に複数のターゲットが表示されるはずです。 TID上のDDDに存在するすべてのターゲットが見えない場合は、設定されたTIDレンジを変更してみてください。 DDDは、パルスドップラーサーチと同じ情報を表示します。\
+\
+Track While Search に進む準備ができたらスペースバーを押してください。",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_UnitName_48"] = "Pilot #003",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_UnitName_21"] = "USS Vella Gulf",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_UnitName_38"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_UnitName_31"] = "Unit #002",
+    ["DictKey_UnitName_82"] = "Pilot #008",
+    ["DictKey_UnitName_35"] = "Unit #006",
+    ["DictKey_GroupName_92"] = "Target 1",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_UnitName_16"] = "USS John C. Stennis",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_UnitName_53"] = "Pilot #004",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_UnitName_18"] = "",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_70"] = "Pilot #007",
+    ["DictKey_UnitName_23"] = "USS Reuben James",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_GroupName_15"] = "Stennis CVBG",
+    ["DictKey_GroupName_81"] = "Notch",
+    ["DictKey_GroupName_76"] = "Target 6",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_UnitName_93"] = "Pilot #002",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_ActionText_46"] = "サーチモードから手動でトラックを取得するだけでなく、TWS モードから自動的にターゲットを取得することも可能です。\
+\
+これを指令するには、希望するトラックを TID にフックして、WCS MODE ボタンを使って STT モードを直接選択してください。\
+\
+（最初にTWSを再選択する必要があるかもしれません。）\
+\
+このSTTへの移行方法は、ターゲットのTWSトラックファイルの品質に依存するため、RDRのHCUを使用した手動の移行方法ほど確実なものではありません。\
+\
+これでチュートリアルのこの部分は終了です。\
+ご自由にミッションを終了してください。",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_GroupName_109"] = "Target 5",
+    ["DictKey_UnitName_110"] = "Pilot #006",
+    ["DictKey_UnitName_63"] = "Pilot #006",
+    ["DictKey_UnitName_114"] = "Pilot #007",
+    ["DictKey_GroupName_57"] = "New Airplane Group #001",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_GroupName_62"] = "Target 4",
+    ["DictKey_UnitName_97"] = "Pilot #003",
+    ["DictKey_descriptionText_1"] = "",
+} -- end of dictionary
