@@ -50,7 +50,7 @@ Windows, Powershell環境を想定しています。
 
 ### Git を触ったことが有る方向け
 
-※ 詳細は CONTRIBUTING.md を確認してください。
+※ 詳細は [CONTRIBUTING.md](.github/CONTRIBUTING.md) を確認してください。
 
 1. リポジトリの取得
 
@@ -103,12 +103,11 @@ Windows, Powershell環境を想定しています。
 │    ├─ tech                 :未対応
 │    └─ terrains             :未対応
 │
-├─ UserContents               :未対応
-│ │                            このディレクトリは `%USERPROFILE%/Saved Games/DCS` または
-│ │                            `%USERPROFILE%/Saved Games/DCS.openbeta` と同じディレクトリ構成です
+├─ UserMissions              :このディレクトリは `%USERPROFILE%/Saved Games/DCS` または
+│ │                           `%USERPROFILE%/Saved Games/DCS.openbeta` と同じディレクトリ構成です
 │ └─ Missions
 │    ├─ Campaigns            :ユーザー作成キャンペーン
-│    └─ [ミッション名].miz   :ユーザー作成ミッション
+│    └─ [ミッション名].miz    :ユーザー作成ミッション
 │
 └─ Extra                      :未対応
                                  ユーザー作成のオリジナル成果物等を想定
@@ -127,11 +126,11 @@ Windows, Powershell環境を想定しています。
 
 ## 貢献
 
-私たちは、経験レベルを問わず、あらゆる貢献者の方々を熱心にサポートし、プロジェクトへのご参加を心よりお待ちしております。 まずは [貢献ガイド](./CONTRIBUTING.md) をご覧ください。
+私たちは、経験レベルを問わず、あらゆる貢献者の方々を熱心にサポートし、プロジェクトへのご参加を心よりお待ちしております。 まずは [貢献ガイド](.github/CONTRIBUTING.md) をご覧ください。
 
 ## 行動原則
 
-詳しくは [行動原則](./CODE_OF_CONDUCT.md) を御覧ください。
+詳しくは [行動原則](.github/CODE_OF_CONDUCT.md) を御覧ください。
 
 ## 免責事項
 
