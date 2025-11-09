@@ -40,7 +40,6 @@ body:
       description: 実際に確認された動作を具体的に記載してください
       placeholder: "例: 保存ボタンを押しても反応がなく、エラーが表示される"
 
-  # TODO: uv + ruffを想定したpythonプロジェクトの例です。実際のプロジェクトに合わせて変更してください。
   - type: textarea
     id: environment
     attributes:
