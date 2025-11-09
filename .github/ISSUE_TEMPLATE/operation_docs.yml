@@ -1,0 +1,39 @@
+name: 📝 ドキュメント改善
+description: ドキュメント（README/ガイド/APIリファレンスなど）の改善提案や不備報告
+title: "[Operation Docs]: "
+labels: [operation, documentation]
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: 概要
+      description: 改善したいドキュメント内容を簡潔に書いてください
+      placeholder: "例: mizファイルへの手動適用手順を詳しく書いて欲しい"
+    validations:
+      required: true
+
+  - type: input
+    id: doc_path
+    attributes:
+      label: 対象ファイル/URL
+      description: 対象となるドキュメントのパスやURLを記載してください
+      placeholder: "例: README.md（または該当セクションのURL）"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: 現在の記述
+      description: 現状の記載内容や問題点を引用・要約してください
+      placeholder: "例: 記述がありません"
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 提案する修正内容
+      description: 具体的な修正案や追記案、サンプルコードがあれば記載してください
+    validations:
+      required: true
