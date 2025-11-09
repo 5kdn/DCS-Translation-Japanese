@@ -50,7 +50,7 @@ Windows, Powershell環境を想定しています。
 
 ### Git を触ったことが有る方向け
 
-※ 詳細は CONTRIBUTING.md を確認してください。
+※ 詳細は [CONTRIBUTING.md](.github/CONTRIBUTING.md) を確認してください。
 
 1. リポジトリの取得
 
@@ -94,24 +94,21 @@ Windows, Powershell環境を想定しています。
 
 ```text
 /
-├─ DCSWorld                   :DCSインストールディレクトリと一致しています
+├─ DCSWorld                    :DCSインストールディレクトリと一致しています
 │ └─ Mods
-│    ├─ aircraft             :機体のデフォルトミッション
+│    ├─ aircraft              :機体のデフォルトミッション
 │    │ └─ [機体名]
-│    ├─ campaigns            :DLCキャンペーン
+│    ├─ campaigns             :DLCキャンペーン
 │    │ └─ [キャンペーン名]
-│    ├─ tech                 :未対応
-│    └─ terrains             :未対応
+│    ├─ tech                  :未対応
+│    └─ terrains              :未対応
 │
-├─ UserContents               :未対応
-│ │                            このディレクトリは `%USERPROFILE%/Saved Games/DCS` または
-│ │                            `%USERPROFILE%/Saved Games/DCS.openbeta` と同じディレクトリ構成です
-│ └─ Missions
-│    ├─ Campaigns            :ユーザー作成キャンペーン
-│    └─ [ミッション名].miz   :ユーザー作成ミッション
-│
-└─ Extra                      :未対応
-                                 ユーザー作成のオリジナル成果物等を想定
+└─ UserMissions                :このディレクトリは `%USERPROFILE%/Saved Games/DCS` または
+   │                             `%USERPROFILE%/Saved Games/DCS.openbeta` と同じディレクトリ構成です
+   └─ Missions
+      ├─ Campaigns             :ユーザー作成キャンペーン
+      └─ [ミッション名]
+         └─ [ミッション名].miz :ユーザー作成ミッション
 ```
 
 ### ミッションファイルの構成
@@ -127,7 +124,7 @@ Windows, Powershell環境を想定しています。
 
 ## 貢献
 
-私たちは、経験レベルを問わず、あらゆる貢献者の方々を熱心にサポートし、プロジェクトへのご参加を心よりお待ちしております。 まずは [貢献ガイド](./CONTRIBUTING.md) をご覧ください。
+私たちは、経験レベルを問わず、あらゆる貢献者の方々を熱心にサポートし、プロジェクトへのご参加を心よりお待ちしております。 まずは [貢献ガイド](.github/CONTRIBUTING.md) をご覧ください。
 
 ## 行動原則
 
