@@ -51,7 +51,8 @@ body:
         - OS: Windows 11
         - ブラウザ: Chrome 114
         - Node.js: v18.16.0"
-      required: false
+    validations:
+      required: true
 
   - type: textarea
     id: additional
@@ -59,7 +60,8 @@ body:
       label: 補足情報
       description: エラーログやスクリーンショットがあれば貼り付けてください（機微情報は伏せてください）
       placeholder: "例: スタックトレース、コンソールログ、画像URL など"
-      required: false
+    validations:
+      required: true
 
   - type: textarea
     id: notes
