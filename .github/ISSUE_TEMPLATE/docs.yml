@@ -45,5 +45,3 @@ body:
         - uv と ruff を使ったセットアップ例を追加
     validations:
       required: true
-
-  - type: textar
