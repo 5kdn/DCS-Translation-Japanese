@@ -1,0 +1,60 @@
+name: 🐛 [翻訳]バグ報告
+description: 翻訳関係の不具合や予期しない挙動を報告するテンプレート
+title: "[Translation Bug]: "
+labels: [translation, bug]
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: 概要
+      description: バグの簡潔な説明を書いてください
+      placeholder: "例: DCSWorld/Mods/aircraft/A-10C/Missions/Single/CSAR.miz/l10n/JP/dictionary が壊れている"
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期待される動作
+      description: 本来どのように動作すべきかを記載してください
+      placeholder: "例: Mission選択画面で OK を押したときにブリーフィング画面に遷移する"
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: 実際の動作
+      description: 実際に確認された動作を具体的に記載してください
+      placeholder: "例: Mission選択画面で OK を押したときロードが終わらない"
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: 環境情報
+      description: バグが発生した環境をできるだけ詳しく書いてください
+      placeholder: |
+        例:
+        - OS: Windows 11 Pro 25H2
+        - Edition: 本家/Steam
+        - Version: 2.9.21.16552 MT
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 補足情報
+      description: エラーログやスクリーンショットがあれば貼り付けてください（機微情報は伏せてください）
+      placeholder: |
+        例: スタックトレース、コンソールログ、画像URL など
+        xx 行目のテキストに終了のダブルコーテーションが無い
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: 備考
+      description: 回避策、影響範囲、関連Issue/PRなどがあれば記載してください
+      placeholder: "例: 関連 #123"
+    validations:
+      required: false
