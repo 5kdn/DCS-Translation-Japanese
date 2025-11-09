@@ -55,6 +55,7 @@ body:
         - OS: Windows 11 Pro 25H2
         - shell: PowerShell 7.5.4
         - git: git version 2.51.0.windows.1
+    validations:
       required: false
 
   - type: textarea
@@ -63,6 +64,7 @@ body:
       label: 補足情報
       description: エラーログやスクリーンショットがあれば貼り付けてください（機微情報は伏せてください）
       placeholder: "例: スタックトレース、コンソールログ、画像URL など"
+    validations:
       required: false
 
   - type: textarea
