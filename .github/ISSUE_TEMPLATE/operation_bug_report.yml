@@ -1,0 +1,75 @@
+name: 🐛 [運用]バグ報告
+description: 不具合や予期しない挙動を報告するテンプレート
+title: "[Operation Bug]: "
+labels: [operation, bug]
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: 概要
+      description: バグの簡潔な説明を書いてください
+      placeholder: "例: xxx ワークフローのトリガーが不足している"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 再現手順
+      description: バグを再現する手順をステップごとに記載してください
+      placeholder: |
+        例:
+        1. ファイルの作成
+           ```
+           git switch -c new-branch
+           New-Item -Path "path/to/file" -ItemType File -Force
+           git add path/to/file
+           git commit -m "some message"
+           git push origin
+           ```
+        2. PRを作成
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期待される動作
+      description: 本来どのように動作すべきかを記載してください
+      placeholder: "例: xxx ワークフローが発火する"
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: 実際の動作
+      description: 実際に確認された動作を具体的に記載してください
+      placeholder: "例: xxx ワークフローが発火しない"
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: 環境情報
+      description: バグが発生した環境をできるだけ詳しく書いてください
+      placeholder: |
+        例:
+        - OS: Windows 11 Pro 25H2
+        - shell: PowerShell 7.5.4
+        - git: git version 2.51.0.windows.1
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 補足情報
+      description: エラーログやスクリーンショットがあれば貼り付けてください（機微情報は伏せてください）
+      placeholder: "例: スタックトレース、コンソールログ、画像URL など"
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: 備考
+      description: 回避策、影響範囲、関連Issue/PRなどがあれば記載してください
+      placeholder: "例: on に xxx を追加 / 関連 #123"
+    validations:
+      required: false
