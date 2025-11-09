@@ -30,6 +30,7 @@ body:
       label: 改善案
       description: 期待する改善後の状態やアプローチを記載してください
       placeholder: "例: 保存処理を非同期化し、進捗インジケータを表示する"
+    validations:
       required: false
 
   - type: textarea
