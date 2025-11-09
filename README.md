@@ -128,7 +128,7 @@ Windows, Powershell環境を想定しています。
 
 ## 行動原則
 
-詳しくは [行動原則](./CODE_OF_CONDUCT.md) を御覧ください。
+詳しくは [行動原則](.github/CODE_OF_CONDUCT.md) を御覧ください。
 
 ## 免責事項
 
