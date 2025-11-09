@@ -1,0 +1,49 @@
+name: 🔧 改善提案
+description: 既存機能やUI/UXの改善を提案するテンプレート（機能追加は含まない）
+title: "[Operation Enhancement]: "
+labels: [operation, enhancement]
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: 概要
+      description: 改善したい既存機能の簡潔な説明を書いてください
+      placeholder: "例: actions/xxx を actions/yyy に置き換えたい"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: 現状の問題点
+      description: 改善が必要だと思う理由を書いてください
+      placeholder: "例: actions/xxx はメンテナンスされておらず、セキュリティに問題がある"
+    validations:
+      required: true
+
+  - type: textarea
+    id: improvement
+    attributes:
+      label: 改善案
+      description: 期待する改善後の状態やアプローチを記載してください
+      placeholder: "例: 現在も活発にメンテナンスが行われている actions/yyy に切り替える"
+    validations:
+      required: false
+
+  - type: textarea
+    id: impact
+    attributes:
+      label: 影響範囲
+      description: 想定ユーザー、既存機能への影響、リリースリスクなど
+      placeholder: "例: workflow1.yml, workflow2.yml"
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 補足情報
+      description: 参考資料や関連Issue/PR、スクリーンショットなど
+      placeholder: "例: 類似Issue #789、関連PR #101"
+    validations:
+      required: false
