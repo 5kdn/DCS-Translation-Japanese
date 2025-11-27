@@ -1,0 +1,303 @@
+campaign =
+{
+    directory = "C:/Trunk/Mods/aircrafts/A-10C/Missions/EN/Campaigns/",
+    fullPath = "C:/Trunk/Mods/aircrafts/A-10C/Missions/EN/Campaigns/Bear Trap.cmp",
+
+    name = "F-15C - Bear Trap",
+    name_CN = "F-15C - 捕熊夹",
+    name_JP = "F-15C - ベアートラップ",
+    name_CS = "F-15C - Past na Medvěda",
+    name_DE = "F-15C - Bärenfalle",
+    name_ES = "F-15C - Trampa para osos",
+    name_KO = "F-15C - 베어 트랩",
+    name_RU = "F-15C - Капкан на медведя",
+
+    picture = "F-15_bear_trap.png",
+    picture_CN = "F-15_bear_trap_cn.png",
+    picture_RU = "F-15_bear_trap_ru.png",
+
+
+    description = "F-15C - Bear Trap, Spring 2011\
+\
+Tensions between Russia and Georgia have risen again with Georgia’s act of attacking South Ossetia once more to prevent real or imagined secession.  Without a doubt, the conflict threatens to escalate to something more than a border skirmish as Russian armor poured over the border and took up positions to block any Georgian advance into South Ossetia.\
+\
+NATO has decided to render direct military aid to Georgia this time in order to convince the Russian forces to pull back.  Diplomacy is no longer an adequate means of dealing with this conflict, and NATO has a need to show that they will defend allies, territory and resources when and where required.  While some suspect Russia is exacting some retribution for Kosovo, NATO also has a vital oil pipeline running through Georgia that it wishes to protect.\
+\
+The Russian Air Force is expected to perform far better than it did in the 2008 conflict, and air power is believed to be a decisive factor in this particular skirmish.  As a result, you will be deploying as part of the 48th Fighter Wing, 493rd squadron from Lakenheath.  You will lead up to a 4-ship of F-15C’s in the skies over Georgia, and possibly Russia.  Your goal is to create a virtual no-fly zone for Russian aircraft, and show that the USAF and NATO can gain and maintain air superiority against any foe.\
+\
+Stay sharp, this is not the Iraqi Air Force.  The Russians are well trained, they have capable aircraft, and a significant and very dangerous SAM net.  Take care to plan your missions carefully and avoid threats as necessary.  Tactical decisions for air engagements are left to you.   The NATO presence is fairly limited, so try to make your shots count.",
+    description_CN = "F-15C – 捕熊夹，2011年春\
+\
+为了避免真实或可能的分裂，格鲁吉亚再次攻击了南奥塞梯，导致俄罗斯和格鲁吉亚之间的紧张关系急剧上升。毫无疑问，俄罗斯装甲部队已涌过边界并占领阵位，阻止任何格鲁吉亚人进攻南奥塞梯，这场冲突注定要比一般的边境小冲突大得多。\
+\
+为了迫使俄军撤退，这一次北约决定向格鲁吉亚提供直接的军事援助。外交手段已经不能够解决这一冲突，北约有必要显示他们将捍卫盟国领土和资源的决心。尽管担心俄罗斯会在科索沃进行严苛的报复，北约仍然希望保护经过格鲁吉亚的一条重要的石油管道。\
+\
+预计俄罗斯空军出动的规模比2008年那次冲突要大很多，而且相信空中力量在这次冲突中将起决定性的作用。因此，作为部署在莱肯希思第493中队的第48战斗机联队的一员，你将带领四架F-15C战机在格鲁吉亚的天空、甚至可能是俄罗斯的天空进行战斗。你的任务是给俄方飞机划定一个虚拟的禁飞区，显示美国空军和北约有能力获得并保持对敌人的空中优势。\
+\
+保持警惕，对手不是伊拉克空军。俄罗斯人受过良好的训练，他们有优良的飞机，还有大量和非常危险的地空导弹网。谨慎规划你的任务，必要时要小心避开威胁。空战时的战术决定权交给你。在这里北约的存在相当有限，所以要尽量减少出击。",
+    description_JP = "F-15C - Bear Trap(ベアートラップ), 2011春\
+(熊はロシアの象徴であり、ロシアはよく熊とたとえられます）\
+\
+ジョージアが南オセチアの独立、またはその計画を妨害するため、再度攻撃をしました。このためロシアとジョージア間の緊張が再び高まりました。ロシアは国境付近にロシア軍を終結させて、ジョージアの南オセチアへのいかなる干渉も阻止する姿勢を取りました。\
+間違いなく、国境での紛争を超える何かに拡大する恐れがありました。\
+\
+今回、NATOはロシア軍の撤退を促すために、ジョージアに直接軍事支援を行うことを決定しました。\
+外交での紛争解決はもはや期待できませんでした。\
+また、NATOはいかなる時、いかなる場所であっても同盟国の領土と資産を守るということを証明しなくてはなりませんでした。ロシアがコソボに対する報復を激しくすると意見もありましたが、NATOはジョージアを通る重要な石油パイプラインを保有しており、それは守らなくてはなりませんでした。\
+\
+ロシア空軍は２００８年の紛争時よりもはるかに進化していると予想されます。そして、局地戦では空軍力が勝敗を決定的な要因であると考えられています。\
+それゆえ、あなたはLakenheathの第493飛行隊より、第４８戦闘飛行隊の一員として配属されました。ジョージアとロシア（おそらく）の空ではF-15C４機を指揮します。あなたの任務は防空エリアでロシアの航空機が飛行できないようにすることと、USAFとNATOはどのような敵に対しても制空権で優位に立つことを証明することです。\
+\
+注意してください。相手はイラク空軍ではありません。ロシア軍はよく訓練されており、高性能な航空機と非常に危険なSAM網を持っています。慎重にミッションプランを計画してください。必要であれば、脅威は避けてください。空中戦での戦術的決定権はあなたに委ねられています。NATOの\
+兵力は非常に限られていますので、各人の奮闘を期待します。",
+    description_CS = "Past na Medvěda, jaro 2011\
+\
+Poté co Gruzie, aby zabránila skutečnému nebo domnělému odtržení, opět zaútočila na Jižní Osetii, vzrostlo napětí mezi Ruskem a Gruzií. Není pochyb o tom, že tento konflikt hrozí přerůst v něco více než jen v hraniční potyčky. Ruské obrněné jednotky totiž překročily hranice a zaujaly pozice tak, aby zablokoval veškerý gruzínský postup do Jižní Osetie.\
+\
+NATO se rozhodlo poskytnout přímou vojenskou pomoc Gruzii. Jejich cílem je donutit ruské síly stáhnout se zpět. Veškeré diplomatické prostředky již byly vyčerpány a NATO tedy musí ukázat, že v případě potřeby, dokáže bránit své spojence, území a zdroje.\
+\
+Očekáváme, že ruské letectvo je připraveno mnohem lépe, než tomu bylo při konfliktu v roce 2008 a věříme, že letectvo bude v tomto konfliktu rozhodujícím faktorem. Proto budeš nasazen v rámci 48. stíhacího křídla, 493. letky z Lakenheath. Budeš velitelem letky až 4 letadel F-15C, která bude operovat nad Gruzií, a možná i nad Ruskem. Tvým cílem je vytvořit pro ruská letadla virtuální bezletovou zónu a dokázat, že USAF a NATO jsou schopné získat a udržet vzdušnou převahu proti jakémukoliv nepříteli.\
+\
+Buď ve střehu, tohle není irácké letectvo. Rusové jsou dobře vycvičeni, mají dobrá letadla, a výkonnou a velmi nebezpečnou SAM síť. Pamatuj na to, při plánování svých misí. Buď opatrný a pokud možno se vyhýbej hrozbám. Taktická rozhodnutí při leteckých střetnutích jsou ponechána na tobě. NATO má v této oblasti omezený počet jednotek a tak se snaž udržet ztráty co nejníž.",
+    description_DE = "F-15C - Bärenfalle, Frühling 2011\
+\
+Die Spannungen zwischen Russland und Georgien flammen erneut auf, nachdem Georgien einen Angriff auf Südossetien durchführte, um eine, sei es real oder eingebildet, Sezession zu verhindern. Ohne Zweifel droht der Konflikt zu mehr als nur einem Grenzscharmützel zu werden, als russische Panzer die Grenze zu Südossetien blockieren und damit den Einmarsch georgischer Truppen blockieren.\
+\
+Die NATO hat beschlossen, dieses Mal direkte Militärhilfe für Georgien bereitzustellen, um die russischen Streitkräfte zum Rückzug zu bewegen. Diplomatische Bemühungen scheinen kein adäquates Mittel mehr für die Beilegung des Konfliktes zu sein, und die NATO hat das Bedürfnis zu zeigen, dass sie bereit ist, Verbündete, Territorien und Ressourcen, wann und wo auch immer erforderlich, zu verteidigen. Während einige Beobachter mutmaßen, dass Russlands Auftreten auch etwas von Vergeltung für die Kosovokrise hat,  ist unumstritten, dass die NATO auch ein Interesses am Schutz der wichtigen Öl-Pipeline durch Georgien hat.\
+\
+Vermutlich sind die russischen Luftstreitkräfte erheblich besser aufgestellt als noch im Konflikt von 2008, und die Stärke der Luftmacht scheint hier der entscheidende Faktor zum Beherrschen des Geplänkels zu sein.\
+Aus diesem Grund werden Sie als Teil des 48. Fighter Wing, 493. Squadron von Lakenheath verlegt. Sie werden innerhalb einer Viererrotte über Georgien und möglicherweise auch über Russland operieren. Ihr Ziel wird die Einrichtung einer Flugverbotszone für russische Flugzeuge sein. Damit soll auch gezeigt werden, dass die USAF und die NATO die Lufthoheit gegen jeden beliebigen Gegner aufrechterhalten kann.\
+\
+Bleiben Sie wachsam, dies ist nicht die irakische Luftwaffe. Die Russen sind gut ausgebildet, sie haben hervorragende Kampfflugzeuge und ein gefährliches Netz aus Flugabwehrsystemen. Planen Sie Ihre Einsätze sorgfältig und vermeiden Sie, wenn möglich, feindliche Bedrohungen. Die taktischen Entscheidungen bei den bevorstehenden Luftgefechten obliegt Ihnen. Die NATO-Präsenz ist zeitlich begrenzt, schießen Sie also nicht zu oft daneben.",
+
+    description_ES = "F-15C – Trampa para osos, primavera del 2011\
+\
+Las tensiones entre Rusia y Georgia han aumentado de nuevo con el acto por parte de Georgia de atacar Osetia del Sur una vez más para prevenir una secesión real o imaginaria. Sin duda, el conflicto amenaza con escalar hasta algo más que una escaramuza fronteriza ya que las fuerzas terrestres rusas se desplegaron por la frontera y tomaron posiciones para bloquear cualquier avance georgiano hacia Osetia del Sur.\
+\
+La OTAN ha decidido esta vez prestar ayuda militar directa a Georgia para convencer a las fuerzas rusas de que se retiren. La diplomacia ya no es un medio adecuado de tratar con este conflicto, y la OTAN tiene la necesidad de demostrar que defenderán a aliados, territorio y recursos cuándo y dónde se requiera. Mientras algunos sospechan que Rusia está exigiendo cierta recompensa por Kosovo, la OTAN también tiene un oleoducto de vital importancia atravesando Georgia que desea proteger.\
+\
+Se espera que la Fuerza Aérea Rusa actúe mucho mejor de cómo lo hizo en el conflicto de 2008, y el poder aéreo se cree que será un factor decisivo en esta particular escaramuza. Como consecuencia, se te movilizará como parte del Ala 48 de Cazas, escuadrón 493º de Lakenheath.  Liderarás una formación de hasta 4 F-15C sobre los cielos de Georgia, y posiblemente Rusia.  Tu objetivo es crear una zona de no vuelo virtual para las aeronaves rusas, y demostrar que la USAF y la OTAN pueden obtener y mantener la superioridad aérea contra cualquier adversario.\
+\
+Mantente alerta, esta no es la Fuerza Aérea Iraquí. Los rusos están bien entrenados, tienen aeronaves capaces, y una significativa y muy peligrosa red SAM. Planifica tus misiones cuidadosamente y evita las amenazas cuanto sea preciso. Las decisiones tácticas sobre los enfrentamientos aéreos se dejan a tu discreción. La presencia de la OTAN es bastante limitada, así que procura que cada uno de tus disparos cuente.",
+    description_KO = "F-15C - 베어 트랩, 2011년 봄\
+\
+그루지아와 러시아 간의 긴장 관계는 조지아의 현실적이거나 국가 분리를 막기 위해 다시 한 번 남 오세티아를 공격하는 행동으로 다시 증가했다. 의심의 여지없이 분쟁은 국경을 넘은 러시아 군대가 국경을 뚫고 넘어서서 남오세티아로의 그루지야 진출을 막기위한 입장을 취한 것보다 더 심각한 문제로 확대 될 것이라고 위협한다.\
+\
+나토 (NATO)는 이번에 러시아 군이 철수하도록 설득하기 위해, 이번에 조지아에 직접 군사 원조를 제공하기로 결정했다. 외교는 더 이상이 갈등을 다루기위한 적절한 수단이 아니며, NATO는 필요할 때 동맹국, 지역 및 자원을 방어 할 것임을 보여줄 필요가 있다고 판단했다. 러시아가 코소보에 대한 보복을 강요하고있는 것으로 의심되는 와중에 NATO군은 보호해야 할 중요한 석유 파이프 라인이 조지아에 퍼져 있다.\
+\
+러시아 공군은 2008 년 분쟁에서보다 훨씬 좋은 성과를 낼 것으로 예상되며, 공군력은 이 특별한 교전에서 결정적 요인으로 여겨지고 있다. 그 결과, 귀관은 Lakenneath 에 있는 48 전투비행단, 493 비행대대 소속으로써 편재될 것이다. 귀관은 조지아와 가능성있는 러시아의 하늘에서 4대까지의 F-15C 편대를 이끌어 나갈 것이다. 귀관의 목표는 러시아 항공기를 위한 가상의 비행 금지 구역 (non-fly zone)을 만들고, 미 공군과 나토가 어떠한 적과의 조우에도 공중 우위를 확보하고 유지할 수 있는지를 보여주는 것이다.\
+\
+침착하라. 이들은 이라크 공군이 아니다. 러시아군은 훈련이 잘 되어있고 좋은 항공기를 가지고있으며, 매우 위협적인 지대공 미사일망을 가지고 있다. 조심스럽게 귀관의 임무들을 계획하고 필요하다면 위협들을 피하라. 공중 교전에서 전술적 결정은 귀관에게 달려있다. NATO군이  꽤 제한적이여서 한발 한발 소중히 여겨라.",
+    description_RU = "F-15C - капкан на медведя, весна 2011 г.\
+\
+Напряженность между Россией и Грузией опять возросла после предпринятого Грузией нападения на Южную Осетию для повторного предотвращения реальной или воображаемой попытки сепаратизма. Нет никаких сомнений в том, что конфликт грозит перерасти в нечто большее, чем пограничные стычки, так как российские бронесилы пересекли границу и заняли позиции, чтобы заблокировать любое грузинское наступление в Южную Осетию.\
+\
+На этот раз НАТО приняла решение оказать прямую военную помощь Грузии, чтобы убедить российские силы отступить. Дипломатия уже перестала быть эффективным методом решения этого конфликта, и НАТО должна продемонстрировать, что она будет защищать своих союзников, территории и ресурсы, когда и где это требуется.  Тогда  как некоторые подозревают, что Россия хочет взять реванш за Косово, у НАТО тоже есть очень важный нефтепровод, проходящий по территории Грузии, который она хочет защитить. \
+\
+Ожидается, что российские ВВС будут гораздо лучше подготовлены к бою, чем в конфликте 2008 года, и, что авиация будет иметь решающую роль в данном столкновении.  В связи с этим, вы будете действовать в составе 48-го истребительного авиакрыла 493-ей эскадрильи из Лейкенхит. Под вашим командованием будет до 4 самолетов  F-15C в небе над Грузией и, возможно, Россией. Ваша задача – создать зону, фактически закрытую для российской военной авиации, и продемонстрировать, что ВВС США и НАТО могут завоевать и поддерживать превосходство в воздухе против любых противников.\
+\
+Будьте начеку, здесь не иракские ВВС. Русские хорошо подготовлены, у них мощные самолеты и эффективная и очень опасная сеть ЗРК. Следует тщательно готовиться к выполнению миссий и избегать угроз по мере возможности. Тактические решения по открытию огня в воздухе остаются на ваше усмотрение. Присутствие НАТО достаточно ограничено, поэтому старайтесь учитывать количество ваших выстрелов.",
+
+    startStage = 1,
+    stages =
+    {
+        [7] =
+        {
+            name = "Stage 6",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "FC3-F15C-06.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/A-10C/Missions/EN/Campaigns/FC3-F15C-06.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [7]
+        [1] =
+        {
+            name = "Stage 11",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "FC3-F15C-00.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/A-10C/Missions/EN/Campaigns/FC3-F15C-00.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [1]
+        [2] =
+        {
+            name = "Stage 1",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "FC3-F15C-01.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/A-10C/Missions/EN/Campaigns/FC3-F15C-01.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [2]
+        [4] =
+        {
+            name = "Stage 3",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "FC3-F15C-03.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/A-10C/Missions/EN/Campaigns/FC3-F15C-03.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [4]
+        [8] =
+        {
+            name = "Stage 7",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "FC3-F15C-07.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/A-10C/Missions/EN/Campaigns/FC3-F15C-07.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [8]
+        [9] =
+        {
+            name = "Stage 8",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "FC3-F15C-08.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/A-10C/Missions/EN/Campaigns/FC3-F15C-08.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [9]
+        [5] =
+        {
+            name = "Stage 4",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "FC3-F15C-04.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/A-10C/Missions/EN/Campaigns/FC3-F15C-04.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [5]
+        [10] =
+        {
+            name = "Stage 9",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "FC3-F15C-09.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/A-10C/Missions/EN/Campaigns/FC3-F15C-09.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [10]
+        [3] =
+        {
+            name = "Stage 2",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "FC3-F15C-02.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/A-10C/Missions/EN/Campaigns/FC3-F15C-02.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [3]
+        [6] =
+        {
+            name = "Stage 5",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "FC3-F15C-05.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/A-10C/Missions/EN/Campaigns/FC3-F15C-05.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [6]
+        [11] =
+        {
+            name = "Stage 10",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "FC3-F15C-10.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/A-10C/Missions/EN/Campaigns/FC3-F15C-10.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [11]
+    }, -- end of stages
+} -- end of campaign
