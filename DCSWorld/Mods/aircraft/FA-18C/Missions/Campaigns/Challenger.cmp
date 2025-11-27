@@ -1,0 +1,163 @@
+campaign =
+{
+    ["description"] = "10 December 1989\
+The Black Sea\
+Fictional\
+\
+Tensions are high in the Caucasus region, as local government and military leaders contemplate their future under continued Soviet control.  It is the belief of Georgian leadership in Tbilisi that sufficient economic and military autonomy exists to allow self-rule as an independent republic.  \
+\
+One month ago, this new Republic of Georgia declared independence from the Soviet Union.  In response, Red ground and air forces have been amassing on the north side of the Inguri river in preparation for a large-scale crackdown.  Recognizing the hopelessness of their situation, the Georgians have made urgent pleas to the West for aid.  \
+\
+Task Force Challenger, centered around the aircraft carrier USS John C. Stennis, has entered the Black Sea as a show of support.  They are under orders to engage in defensive operations only, but if attacked, to carry out offensive operations in support of Georgian forces.\
+",
+	["name_EN"] = "1989 - Task Force Challenger",
+	["pictureFailed_CN"] = "Fail_CN.jpg",
+    ["pictureSuccess_EN"] = "Success.jpg",
+    ["stages"] =
+    {
+        [2] =
+        {
+            ["name"] = "Stage 2",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+					["file"] = "1989-CAS.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "1989-CAS.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [3] =
+        {
+            ["name"] = "Stage 3",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+					["file"] = "1989-Interdiction.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "1989-Interdiction.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [1] =
+        {
+            ["name"] = "Stage 1",
+            ["missions"] =
+            {
+                [1] =
+                {
+					["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+					["file"] = "1989-Alert 5.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "1989-Alert 5.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [4] =
+        {
+            ["name"] = "Stage 4",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+					["file"] = "1989-Fighter Sweep.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "1989-Fighter Sweep.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [5] =
+        {
+            ["name"] = "Stage 5",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+					["file"] = "1989-OCA.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "1989-OCA.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+	}, -- end of ["stages"]
+	["name_CN"] = "大黄蜂 1989 - 特遣舰队",
+	["fullPath"] = "Challenger.cmp",
+    ["picture_EN"] = "Banner.jpg",
+	["directory"] = "",
+    ["startStage"] = 1,
+    ["picture"] = "Banner.jpg",
+    ["description_EN"] = "10 December 1989\
+The Black Sea\
+Fictional\
+\
+Tensions are high in the Caucasus region, as local government and military leaders contemplate their future under continued Soviet control.  It is the belief of Georgian leadership in Tbilisi that sufficient economic and military autonomy exists to allow self-rule as an independent republic.  \
+\
+One month ago, this new Republic of Georgia declared independence from the Soviet Union.  In response, Red ground and air forces have been amassing on the north side of the Inguri river in preparation for a large-scale crackdown.  Recognizing the hopelessness of their situation, the Georgians have made urgent pleas to the West for aid.  \
+\
+Task Force Challenger, centered around the aircraft carrier USS John C. Stennis, has entered the Black Sea as a show of support.  They are under orders to engage in defensive operations only, but if attacked, to carry out offensive operations in support of Georgian forces.\
+",
+    ["pictureFailed"] = "Fail.jpg",
+    ["necessaryUnits"] =
+    {
+        ["FA-18C_hornet"] = "FA-18C_hornet",
+    }, -- end of ["necessaryUnits"]
+	["name"] = "1989 - Task Force Challenger",
+	["description_CN"] = "1989年12月10日\
+黑海\
+虚构情节\
+\
+随着当地地方政府和军方领导人在苏联的控制下考虑其地区的未来时，高加索的局势日益紧张。我们目前认为在第比利斯的格鲁吉亚领导层拥有足够的经济和军事自治权使格鲁吉亚自治并成为一个独立的共和国。\
+\
+一个月之前，新成立的格鲁吉亚共和国宣布从苏联中独立。作为回应，红军的地面和空中力量在因古里河北岸集结并准备随时进行大规模的镇压行动。认识到了艰难的处境，格鲁吉亚政府向西方请求紧急援助。 \
+\
+以约翰斯坦尼斯号航母为核心的挑战者特遣舰队已经进入黑海以表明对格鲁吉亚的支持。他们被下令仅执行防御任务，但是如果被攻击时，可执行进攻任务以支援格鲁吉亚部队。\
+",
+	["pictureSuccess_CN"] = "Success_CN.jpg",
+    ["pictureFailed_EN"] = "Fail.jpg",
+    ["name_JP"] = "ホーネット 1989 - 機動部隊チャレンジャー",
+    ["description_JP"] = "1989年10月10日\
+黒海\
+フィクション\
+\
+地方政府や軍の指導者たちはソビエト連邦との関係を将来も継続しようと考えていたため、コーカサス地方の緊張が高まりました。\
+トビリシにいるジョージアの指導者は、十分な経済力と独自の軍隊を持てば、特立した共和国としてやっていけると信じていました。\
+\
+1ヶ月前、新しいジョージア共和国はソビエト連邦からの独立を宣言しました。\
+これに対して、ロシア陸軍、空軍はイングリ川（Inguri river ）の北側に集結し、大規模な弾圧を行う準備をはじめました。絶望的な状況におちいった彼らは西側諸国に緊急の援助を求めてきました。\
+\
+空母ジョン・C・ステニスを中心とする機動部隊チャレンジャーは、援助の姿勢を示すために黒海に艦隊を進めました。現在は守備的交戦のみ許可されていますが、もし攻撃を受けるようなことがあれが、ジョージア軍を助けるための攻撃的作戦も許可されます。",
+
+    ["pictureSuccess"] = "Success.jpg",
+    ["version"] = 1,
+} -- end of campaign
