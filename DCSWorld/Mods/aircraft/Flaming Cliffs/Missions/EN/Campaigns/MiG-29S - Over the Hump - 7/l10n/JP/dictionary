@@ -1,0 +1,370 @@
+dictionary = 
+{
+    ["DictKey_UnitName_72"] = "Unit #13",
+    ["DictKey_UnitName_52"] = "Pilot #003",
+    ["DictKey_UnitName_67"] = "Unit #18",
+    ["DictKey_UnitName_156"] = "Hawk-2 TR",
+    ["DictKey_GroupName_125"] = "G AAA-8",
+    ["DictKey_UnitName_135"] = "Pilot #4",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_WptName_272"] = "",
+    ["DictKey_GroupName_47"] = "RU SU-24M (SEAD-1)",
+    ["DictKey_UnitName_39"] = "AWACS",
+    ["DictKey_GroupName_137"] = "TU GAI-5",
+    ["DictKey_WptName_220"] = "",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_UnitName_145"] = "Pilot #11",
+    ["DictKey_WptName_247"] = "",
+    ["DictKey_GroupName_113"] = "G AAA-2",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_25"] = "[717, こちら 101]:\
+\
+ターゲットを爆撃\
+\
+クタイシ空港を無力化しました\
+\
+Out.\
+",
+    ["DictKey_GroupName_40"] = "RU MIG-29S (CAP)",
+    ["DictKey_WptName_287"] = "",
+    ["DictKey_UnitName_90"] = "New Static Object #004",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_UnitName_76"] = "Unit #32",
+    ["DictKey_WptName_260"] = "",
+    ["DictKey_UnitName_136"] = "Pilot #3",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_GroupName_45"] = "RU TU-22M3 (Strike-1)",
+    ["DictKey_UnitName_157"] = "Hawk-2 SR",
+    ["DictKey_GroupName_129"] = "G SA-8 2",
+    ["DictKey_30"] = "",
+    ["DictKey_UnitName_69"] = "Unit #16",
+    ["DictKey_UnitName_74"] = "Unit #31",
+    ["DictKey_12"] = "",
+    ["DictKey_UnitName_130"] = "Unit #30",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_WptName_293"] = "",
+    ["DictKey_WptName_289"] = "",
+    ["DictKey_GroupName_146"] = "TU HAWK-1",
+    ["DictKey_29"] = "Mission Failed\
+-------------------\
+\
+あなたの護衛すべき攻撃隊が撃墜されました。\
+\
+クタイシ空港を無力化することが不可能になりました\
+\
+帰還して下さい。軍法会議を開きます\
+\
+Out.\
+",
+    ["DictKey_UnitName_48"] = "SEAD 1-2",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_GroupName_33"] = "RU MIG-29s (Player)",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_GroupName_50"] = "RU MIG-29S (Escort-1)",
+    ["DictKey_WptName_268"] = "",
+    ["DictKey_sortie_161"] = "Strike Escort - Airfields",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_WptName_286"] = "",
+    ["DictKey_GroupName_103"] = "G CC #001",
+    ["DictKey_UnitName_153"] = "HAWK 1 #4",
+    ["DictKey_UnitName_78"] = "Unit #33",
+    ["DictKey_GroupName_38"] = "RU AWACS",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_GroupName_95"] = "New Static Object #010",
+    ["DictKey_23"] = "[717, こちら 102]:\
+\
+ターゲットを爆撃\
+\
+セナキ空港を無力化しました\
+\
+Out.\
+",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_UnitName_46"] = "Strike 1",
+    ["DictKey_WptName_236"] = "",
+    ["DictKey_WptName_244"] = "",
+    ["DictKey_UnitName_114"] = "Unit #22",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_31"] = "Mission Success\
+----------------------\
+\
+よくやりました！！！\
+\
+セナキ、クタイシ、両方の空港を破壊しました。目標達成です\
+\
+帰還して下さい\
+\
+Out.\
+",
+    ["DictKey_GroupName_83"] = "New Static Object #001",
+    ["DictKey_WptName_263"] = "",
+    ["DictKey_WptName_265"] = "",
+    ["DictKey_WptName_279"] = "",
+    ["DictKey_GroupName_152"] = "TU HAWK-2",
+    ["DictKey_UnitName_56"] = "Strike 2",
+    ["DictKey_WptName_235"] = "",
+    ["DictKey_UnitName_80"] = "Unit #10",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_UnitName_128"] = "Unit #29",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_WptName_251"] = "",
+    ["DictKey_UnitName_106"] = "Unit #2",
+    ["DictKey_UnitName_148"] = "Unit #8",
+    ["DictKey_27"] = "[717, こちら 101]:\
+\
+フェンスアウト。　離脱しました\
+\
+任務完了です\
+\
+エスコートありがとうございます。　離脱して下さい\
+\
+Out.\
+",
+    ["DictKey_UnitName_58"] = "SEAD 2-2",
+    ["DictKey_GroupName_62"] = "RU IL-76MD (Trans)",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_WptName_288"] = "",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_WptName_254"] = "",
+    ["DictKey_UnitName_54"] = "Escort 1",
+    ["DictKey_WptName_238"] = "",
+    ["DictKey_UnitName_34"] = "Pilot #002",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_WptName_258"] = "",
+    ["DictKey_15"] = "[717, こちら 101]:\
+\
+滑走路の爆撃に入ります\
+\
+Out.\
+",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_GroupName_134"] = "TU GAI-1",
+    ["DictKey_UnitName_68"] = "Unit #17",
+    ["DictKey_GroupName_64"] = "RU SA-10C",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_UnitName_147"] = "Unit #9",
+    ["DictKey_UnitName_139"] = "Pilot #6",
+    ["DictKey_26"] = "",
+    ["DictKey_UnitName_86"] = "New Static Object #002",
+    ["DictKey_descriptionText_158"] = "この地域の指揮系統、防空、そして戦闘機にダメージを与えた後、\
+セナキとクタイシの滑走路を破壊する任務が攻撃隊２編隊に与えられました。\
+\
+各攻撃隊の編成:\
+==================\
+ - Tu-22M3　１機　滑走路爆撃\
+ - Su-24M　SEAD\
+ - 戦闘機　　護衛\
+ - Su-24Mr　爆撃被害判定 (BDA) :後続飛行\
+",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_GroupName_85"] = "New Static Object #002",
+    ["DictKey_WptName_274"] = "",
+    ["DictKey_GroupName_55"] = "RU TU-22M3 (Strike-2)",
+    ["DictKey_UnitName_142"] = "Pilot #9",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_GroupName_99"] = "New Static Object #012",
+    ["DictKey_UnitName_98"] = "New Static Object #011",
+    ["DictKey_UnitName_120"] = "Unit #25",
+    ["DictKey_WptName_280"] = "",
+    ["DictKey_UnitName_144"] = "Pilot #12",
+    ["DictKey_16"] = "",
+    ["DictKey_UnitName_63"] = "Pilot #8",
+    ["DictKey_UnitName_96"] = "New Static Object #010",
+    ["DictKey_UnitName_51"] = "Pilot #004",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_UnitName_118"] = "Unit #24",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_WptName_227"] = "",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_UnitName_150"] = "Hawk-1 TR",
+    ["DictKey_GroupName_77"] = "RU EWR 2",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_GroupName_79"] = "AIRPORT SUPORT #001",
+    ["DictKey_WptName_262"] = "",
+    ["DictKey_WptName_273"] = "",
+    ["DictKey_WptName_241"] = "",
+    ["DictKey_UnitName_102"] = "New Static Object #013",
+    ["DictKey_28"] = "",
+    ["DictKey_UnitName_108"] = "Unit #3",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_GroupName_97"] = "New Static Object #011",
+    ["DictKey_32"] = "",
+    ["DictKey_WptName_298"] = "",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_UnitName_66"] = "Unit #19",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_WptName_248"] = "",
+    ["DictKey_UnitName_138"] = "Pilot #7",
+    ["DictKey_UnitName_122"] = "Unit #26",
+    ["DictKey_UnitName_155"] = "HAWK 1 #2",
+    ["DictKey_GroupName_143"] = "TU GAI-3",
+    ["DictKey_GroupName_115"] = "G AAA-3",
+    ["DictKey_UnitName_61"] = "RECON 2",
+    ["DictKey_UnitName_104"] = "Unit #1",
+    ["DictKey_WptName_266"] = "",
+    ["DictKey_UnitName_49"] = "SEAD 1-1",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_UnitName_92"] = "New Static Object #005",
+    ["DictKey_GroupName_127"] = "G SA-8 1",
+    ["DictKey_WptName_264"] = "",
+    ["DictKey_WptName_299"] = "",
+    ["DictKey_GroupName_91"] = "New Static Object #005",
+    ["DictKey_WptName_267"] = "",
+    ["DictKey_UnitName_35"] = "Pilot #001",
+    ["DictKey_WptName_250"] = "",
+    ["DictKey_WptName_300"] = "",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_UnitName_149"] = "Unit #7",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_13"] = "",
+    ["DictKey_UnitName_133"] = "Pilot #1",
+    ["DictKey_UnitName_151"] = "Hawk-1 SR",
+    ["DictKey_WptName_223"] = "",
+    ["DictKey_GroupName_117"] = "G AAA-4",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_GroupName_75"] = "RU EWR 1",
+    ["DictKey_descriptionBlueTask_160"] = "",
+    ["DictKey_GroupName_43"] = "RU SU-24MR (Recon-1)",
+    ["DictKey_UnitName_84"] = "New Static Object #001",
+    ["DictKey_GroupName_89"] = "New Static Object #004",
+    ["DictKey_WptName_261"] = "",
+    ["DictKey_UnitName_59"] = "SEAD 2-1",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_283"] = "",
+    ["DictKey_WptName_277"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_WptName_285"] = "",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_WptName_276"] = "",
+    ["DictKey_GroupName_57"] = "RU SU-24M (SEAD-2)",
+    ["DictKey_UnitName_94"] = "New Static Object #006",
+    ["DictKey_GroupName_131"] = "TU GAI-2",
+    ["DictKey_UnitName_141"] = "Pilot #10",
+    ["DictKey_22"] = "",
+    ["DictKey_GroupName_60"] = "RU SU-24MR (Recon-2)",
+    ["DictKey_GroupName_105"] = "G CC #002",
+    ["DictKey_GroupName_119"] = "G AAA-5",
+    ["DictKey_WptName_255"] = "",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_UnitName_70"] = "Unit #15",
+    ["DictKey_18"] = "",
+    ["DictKey_WptName_226"] = "",
+    ["DictKey_UnitName_126"] = "Unit #28",
+    ["DictKey_17"] = "[717, こちら 110]:\
+\
+セナキ空港周辺のSAMサイトは排除しました\
+\
+Out.\
+",
+    ["DictKey_UnitName_42"] = "BARCAP",
+    ["DictKey_UnitName_154"] = "HAWK 1 #3",
+    ["DictKey_UnitName_44"] = "RECON 1",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_GroupName_93"] = "New Static Object #006",
+    ["DictKey_21"] = "[717, こちら 101]:\
+\
+フェンスイン　国境を超えます\
+\
+Out.\
+",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_19"] = "[717, こちら 115]:\
+\
+クタイシ空港周辺のSAMサイトは排除しました\
+\
+Out.\
+",
+    ["DictKey_WptName_257"] = "",
+    ["DictKey_GroupName_109"] = "G EWR-2",
+    ["DictKey_WptName_281"] = "",
+    ["DictKey_WptName_296"] = "",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_UnitName_88"] = "New Static Object #003",
+    ["DictKey_WptName_232"] = "",
+    ["DictKey_GroupName_101"] = "New Static Object #013",
+    ["DictKey_UnitName_71"] = "Unit #14",
+    ["DictKey_WptName_229"] = "",
+    ["DictKey_WptName_256"] = "",
+    ["DictKey_11"] = "",
+    ["DictKey_24"] = "",
+    ["DictKey_UnitName_100"] = "New Static Object #012",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_GroupName_81"] = "AIRPORT SUPORT #002",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_UnitName_124"] = "Unit #27",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_GroupName_87"] = "New Static Object #003",
+    ["DictKey_WptName_269"] = "",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_WptName_230"] = "",
+    ["DictKey_UnitName_110"] = "Unit #4",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_WptName_297"] = "",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_UnitName_116"] = "Unit #23",
+    ["DictKey_WptName_249"] = "",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_20"] = "",
+    ["DictKey_WptName_270"] = "",
+    ["DictKey_UnitName_82"] = "Unit #11",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_GroupName_140"] = "TU GAI-4",
+    ["DictKey_WptName_221"] = "",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_GroupName_121"] = "G AAA-6",
+    ["DictKey_WptName_240"] = "",
+    ["DictKey_GroupName_123"] = "G AAA-7",
+    ["DictKey_descriptionRedTask_159"] = "東側の編成を護衛して下さい。\
+\
+Tu-22M3　攻撃機のコールサイン：１０１\
+\
+ナリチク上空で合流して下さい",
+    ["DictKey_UnitName_53"] = "Escort 2",
+    ["DictKey_WptName_259"] = "",
+    ["DictKey_WptName_231"] = "",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_GroupName_73"] = "RU SA-15 1",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_UnitName_41"] = "Pilot #5",
+    ["DictKey_UnitName_36"] = "Wingman",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_WptName_284"] = "",
+    ["DictKey_UnitName_112"] = "Unit #21",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_WptName_252"] = "",
+    ["DictKey_UnitName_132"] = "Pilot #2",
+    ["DictKey_UnitName_37"] = "Player",
+    ["DictKey_14"] = "",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_WptName_275"] = "",
+    ["DictKey_UnitName_65"] = "Unit #20",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_WptName_278"] = "",
+    ["DictKey_GroupName_111"] = "G AAA-1",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_WptName_282"] = "",
+    ["DictKey_WptName_271"] = "",
+    ["DictKey_GroupName_107"] = "G EWR-1",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_WptName_214"] = "",
+} -- end of dictionary
