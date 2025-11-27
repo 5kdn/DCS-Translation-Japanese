@@ -1,0 +1,20 @@
+dictionary = 
+{
+    ["DictKey_ActionText_18"] = "Mission Success! 両A-10Aは撃墜されました",
+    ["DictKey_GroupName_11"] = "Target",
+    ["DictKey_sortie_4"] = "Su-25T - ノルマンディ  - 空対空",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_descriptionRedTask_2"] = "両A-10Aを撃墜しました",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_GroupName_5"] = "Player",
+    ["DictKey_UnitName_10"] = "Pilot #002",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_UnitName_13"] = "Pilot #004",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_UnitName_12"] = "Pilot #003",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_descriptionText_1"] = "2機のA10Aが前方にいます。交戦して撃墜して下さい。",
+    ["DictKey_UnitName_6"] = "Pilot #001",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+} -- end of dictionary
