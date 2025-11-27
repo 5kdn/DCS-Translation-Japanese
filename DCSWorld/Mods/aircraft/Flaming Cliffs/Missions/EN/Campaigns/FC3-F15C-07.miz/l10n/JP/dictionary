@@ -1,0 +1,551 @@
+dictionary = 
+{
+    ["DictKey_WptName_377"] = "",
+    ["DictKey_UnitName_72"] = "Unit #57",
+    ["DictKey_UnitName_212"] = "New Static Object #012",
+    ["DictKey_WptName_361"] = "",
+    ["DictKey_WptName_401"] = "",
+    ["DictKey_GroupName_52"] = "RU TANK C2 CMD",
+    ["DictKey_UnitName_156"] = "Pilot #16",
+    ["DictKey_GroupName_29"] = "RU TANK C1 P2",
+    ["DictKey_WptName_310"] = "",
+    ["DictKey_GroupName_125"] = "New Static Object #014",
+    ["DictKey_UnitName_26"] = "Unit #22",
+    ["DictKey_UnitName_62"] = "Unit #45",
+    ["DictKey_UnitName_226"] = "New Static Object #5",
+    ["DictKey_UnitName_146"] = "Pilot #1",
+    ["DictKey_UnitName_251"] = "Unit #70",
+    ["DictKey_WptName_432"] = "",
+    ["DictKey_UnitName_39"] = "Unit #29",
+    ["DictKey_GroupName_137"] = "RU HQ #002",
+    ["DictKey_WptName_422"] = "",
+    ["DictKey_WptName_430"] = "",
+    ["DictKey_UnitName_12"] = "Pilot #3",
+    ["DictKey_GroupName_113"] = "RU SA11 2",
+    ["DictKey_UnitName_218"] = "New Static Object #021",
+    ["DictKey_GroupName_215"] = "New Static Object #020",
+    ["DictKey_GroupName_40"] = "RU TANK C2 P1",
+    ["DictKey_WptName_416"] = "",
+    ["DictKey_WptName_387"] = "",
+    ["DictKey_UnitName_90"] = "Unit #114",
+    ["DictKey_GroupName_44"] = "RU TANK C2 P2",
+    ["DictKey_UnitName_76"] = "Unit #61",
+    ["DictKey_UnitName_238"] = "New Static Object #046",
+    ["DictKey_UnitName_47"] = "Unit #34",
+    ["DictKey_UnitName_36"] = "Unit #26",
+    ["DictKey_WptName_336"] = "",
+    ["DictKey_UnitName_157"] = "Pilot #15",
+    ["DictKey_GroupName_129"] = "New Static Object #016",
+    ["DictKey_WptName_347"] = "",
+    ["DictKey_UnitName_69"] = "Unit #51",
+    ["DictKey_WptName_397"] = "",
+    ["DictKey_WptName_374"] = "",
+    ["DictKey_UnitName_130"] = "New Static Object #10",
+    ["DictKey_UnitName_43"] = "Unit #31",
+    ["DictKey_6"] = "",
+    ["DictKey_UnitName_290"] = "Unit #103",
+    ["DictKey_GroupName_265"] = "G TANK C2 CMD",
+    ["DictKey_UnitName_171"] = "Unit #7",
+    ["DictKey_UnitName_99"] = "Unit #122",
+    ["DictKey_GroupName_33"] = "RU TANK C1 P3",
+    ["DictKey_UnitName_183"] = "Unit #13",
+    ["DictKey_UnitName_262"] = "Unit #80",
+    ["DictKey_UnitName_216"] = "New Static Object #020",
+    ["DictKey_WptName_427"] = "",
+    ["DictKey_GroupName_120"] = "RU SA19 P4",
+    ["DictKey_WptName_304"] = "",
+    ["DictKey_GroupName_241"] = "G TANK C1 P1",
+    ["DictKey_UnitName_78"] = "Unit #59",
+    ["DictKey_UnitName_105"] = "Unit #138",
+    ["DictKey_WptName_315"] = "",
+    ["DictKey_UnitName_270"] = "Unit #83",
+    ["DictKey_UnitName_175"] = "Unit #9",
+    ["DictKey_GroupName_170"] = "Vaziani Fuel #003",
+    ["DictKey_UnitName_46"] = "Unit #35",
+    ["DictKey_GroupName_201"] = "New Static Object #007",
+    ["DictKey_UnitName_95"] = "Unit #126",
+    ["DictKey_GroupName_223"] = "New Static Object #025",
+    ["DictKey_WptName_418"] = "",
+    ["DictKey_UnitName_114"] = "Unit #150",
+    ["DictKey_UnitName_50"] = "Unit #38",
+    ["DictKey_UnitName_263"] = "Unit #79",
+    ["DictKey_GroupName_93"] = "RU SA10 1",
+    ["DictKey_GroupName_219"] = "New Static Object #022",
+    ["DictKey_WptName_358"] = "",
+    ["DictKey_WptName_389"] = "",
+    ["DictKey_WptName_392"] = "",
+    ["DictKey_UnitName_173"] = "Unit #8",
+    ["DictKey_WptName_348"] = "",
+    ["DictKey_UnitName_56"] = "Unit #44",
+    ["DictKey_WptName_350"] = "",
+    ["DictKey_UnitName_80"] = "Unit #110",
+    ["DictKey_WptName_399"] = "",
+    ["DictKey_UnitName_32"] = "Unit #23",
+    ["DictKey_WptName_332"] = "",
+    ["DictKey_WptName_375"] = "",
+    ["DictKey_GroupName_148"] = "US AWACS ESCORT",
+    ["DictKey_UnitName_267"] = "Unit #81",
+    ["DictKey_UnitName_210"] = "New Static Object #011",
+    ["DictKey_UnitName_259"] = "Unit #76",
+    ["DictKey_WptName_369"] = "",
+    ["DictKey_WptName_404"] = "",
+    ["DictKey_WptName_326"] = "",
+    ["DictKey_UnitName_58"] = "Unit #42",
+    ["DictKey_UnitName_248"] = "Unit #66",
+    ["DictKey_UnitName_246"] = "Unit #68",
+    ["DictKey_UnitName_97"] = "Unit #124",
+    ["DictKey_GroupName_221"] = "New Static Object #024",
+    ["DictKey_UnitName_75"] = "Unit #62",
+    ["DictKey_UnitName_54"] = "Unit #40",
+    ["DictKey_GroupName_158"] = "Vaziani Transport #000",
+    ["DictKey_UnitName_34"] = "Unit #28",
+    ["DictKey_GroupName_187"] = "New Static Object",
+    ["DictKey_UnitName_294"] = "Unit #99",
+    ["DictKey_UnitName_178"] = "Unit #18",
+    ["DictKey_UnitName_64"] = "Unit #50",
+    ["DictKey_GroupName_37"] = "RU TANK C1 CMD",
+    ["DictKey_UnitName_289"] = "Unit #104",
+    ["DictKey_WptName_398"] = "",
+    ["DictKey_GroupName_104"] = "RU EWR 2",
+    ["DictKey_UnitName_244"] = "Unit #63",
+    ["DictKey_UnitName_101"] = "Unit #120",
+    ["DictKey_WptName_393"] = "",
+    ["DictKey_WptName_366"] = "",
+    ["DictKey_WptName_386"] = "",
+    ["DictKey_UnitName_186"] = "Unit #10",
+    ["DictKey_WptName_370"] = "",
+    ["DictKey_UnitName_234"] = "New Static Object #044",
+    ["DictKey_GroupName_74"] = "RU C3I",
+    ["DictKey_GroupName_211"] = "New Static Object #012",
+    ["DictKey_WptName_354"] = "",
+    ["DictKey_WptName_426"] = "",
+    ["DictKey_UnitName_68"] = "Unit #52",
+    ["DictKey_UnitName_208"] = "New Static Object #010",
+    ["DictKey_UnitName_147"] = "PLAYER",
+    ["DictKey_UnitName_286"] = "Unit #94",
+    ["DictKey_UnitName_21"] = "Pilot #18",
+    ["DictKey_WptName_390"] = "",
+    ["DictKey_descriptionText_295"] = "ロシアが国内問題であるとみなしているものに対してNATOが介入したことについて、国連上ではロシアとNATOが前後関係についてずっと言い争いを続けている\
+\
+安全保障理事会の多くのメンバーはNATOの空中作戦の実施の速さに驚いており、ロシアの代表は、不満をあらわにしている\
+\
+この時点で、NATOの空の優位はジョージアだけでなく、ロシアの一部にも及んでいる。\
+\
+ロシアは、使用可能な航空機が不足しているため、領土をカバーするためにより多くのSAMを配備中である。先に作戦にて最も危険な物を取り除きはしたのだが。\
+\
+作戦中には、このようなニュースをつかむのは難しく、ほとんどの通信社はまだこのことをリポートしていない。\
+\
+配備は日々進んでいた。",
+    ["DictKey_GroupName_9"] = "RU CAS 1",
+    ["DictKey_WptName_382"] = "",
+    ["DictKey_UnitName_11"] = "Pilot #7",
+    ["DictKey_UnitName_161"] = "Unit #2",
+    ["DictKey_UnitName_10"] = "Pilot #8",
+    ["DictKey_WptName_413"] = "",
+    ["DictKey_UnitName_224"] = "New Static Object #4",
+    ["DictKey_UnitName_24"] = "Pilot #002",
+    ["DictKey_UnitName_228"] = "New Static Object #6",
+    ["DictKey_UnitName_119"] = "Unit #145",
+    ["DictKey_UnitName_17"] = "Pilot #10",
+    ["DictKey_GroupName_55"] = "RU IFV C1 P1",
+    ["DictKey_UnitName_142"] = "RU HQ #3",
+    ["DictKey_UnitName_134"] = "RU HQ",
+    ["DictKey_UnitName_91"] = "Unit #113",
+    ["DictKey_GroupName_245"] = "G TANK C1 P2",
+    ["DictKey_GroupName_217"] = "New Static Object #021",
+    ["DictKey_UnitName_132"] = "New Static Object #11",
+    ["DictKey_WptName_316"] = "",
+    ["DictKey_UnitName_107"] = "Unit #144",
+    ["DictKey_UnitName_98"] = "Unit #123",
+    ["DictKey_UnitName_287"] = "Unit #93",
+    ["DictKey_WptName_415"] = "",
+    ["DictKey_GroupName_235"] = "New Static Object #045",
+    ["DictKey_GroupName_225"] = "New Static Object #026",
+    ["DictKey_GroupName_271"] = "G AD P1",
+    ["DictKey_8"] = "Mission Success\
+----------------------\
+\
+敵航空機は全機撃墜\
+\
+よくやりました！！\
+\
+帰還してください。",
+    ["DictKey_UnitName_51"] = "Unit #37",
+    ["DictKey_UnitName_144"] = "Pilot #23",
+    ["DictKey_UnitName_285"] = "Unit #95",
+    ["DictKey_GroupName_249"] = "G TANK C1 P3",
+    ["DictKey_WptName_307"] = "",
+    ["DictKey_UnitName_77"] = "Unit #60",
+    ["DictKey_GroupName_195"] = "New Static Object #004",
+    ["DictKey_UnitName_16"] = "Pilot #11",
+    ["DictKey_UnitName_247"] = "Unit #67",
+    ["DictKey_UnitName_41"] = "Unit #33",
+    ["DictKey_GroupName_59"] = "RU IFV C1 P2",
+    ["DictKey_UnitName_96"] = "Unit #125",
+    ["DictKey_UnitName_252"] = "Unit #69",
+    ["DictKey_WptName_400"] = "",
+    ["DictKey_UnitName_202"] = "New Static Object #007",
+    ["DictKey_UnitName_258"] = "Unit #77",
+    ["DictKey_GroupName_172"] = "Vaziani Fuel #004",
+    ["DictKey_UnitName_169"] = "Unit #6",
+    ["DictKey_GroupName_25"] = "RU TANK C1 P1",
+    ["DictKey_GroupName_63"] = "RU IFV C1 P3",
+    ["DictKey_WptName_334"] = "",
+    ["DictKey_UnitName_15"] = "Pilot #12",
+    ["DictKey_UnitName_85"] = "Unit #105",
+    ["DictKey_GroupName_199"] = "New Static Object #006",
+    ["DictKey_GroupName_191"] = "New Static Object #002",
+    ["DictKey_GroupName_229"] = "New Static Object #028",
+    ["DictKey_WptName_408"] = "",
+    ["DictKey_GroupName_123"] = "New Static Object #013",
+    ["DictKey_GroupName_67"] = "RU IFV C1 CMD",
+    ["DictKey_UnitName_181"] = "Unit #15",
+    ["DictKey_WptName_410"] = "",
+    ["DictKey_WptName_364"] = "",
+    ["DictKey_UnitName_103"] = "Unit #118",
+    ["DictKey_UnitName_150"] = "Pilot #5",
+    ["DictKey_UnitName_152"] = "Pilot #4",
+    ["DictKey_WptName_341"] = "",
+    ["DictKey_WptName_385"] = "",
+    ["DictKey_WptName_424"] = "",
+    ["DictKey_WptName_314"] = "",
+    ["DictKey_WptName_402"] = "",
+    ["DictKey_GroupName_79"] = "RU ARTY 1",
+    ["DictKey_WptName_335"] = "MOZ",
+    ["DictKey_GroupName_166"] = "Vaziani Fuel #001",
+    ["DictKey_sortie_298"] = "Fighter Sweep",
+    ["DictKey_UnitName_232"] = "New Static Object #8",
+    ["DictKey_WptName_356"] = "",
+    ["DictKey_UnitName_82"] = "Unit #108",
+    ["DictKey_WptName_321"] = "",
+    ["DictKey_UnitName_163"] = "Unit #3",
+    ["DictKey_GroupName_207"] = "New Static Object #010",
+    ["DictKey_UnitName_283"] = "Unit #97",
+    ["DictKey_WptName_312"] = "",
+    ["DictKey_descriptionRedTask_296"] = "",
+    ["DictKey_UnitName_116"] = "Unit #148",
+    ["DictKey_UnitName_20"] = "Pilot #19",
+    ["DictKey_WptName_373"] = "",
+    ["DictKey_WptName_378"] = "",
+    ["DictKey_UnitName_115"] = "Unit #149",
+    ["DictKey_WptName_428"] = "",
+    ["DictKey_UnitName_108"] = "Unit #143",
+    ["DictKey_UnitName_87"] = "Unit #117",
+    ["DictKey_GroupName_261"] = "G TANK C2 P3",
+    ["DictKey_WptName_406"] = "",
+    ["DictKey_GroupName_176"] = "US PATRIOT - LAUNCHERS",
+    ["DictKey_WptName_339"] = "FENCE IN",
+    ["DictKey_UnitName_110"] = "Unit #141",
+    ["DictKey_UnitName_275"] = "Unit #85",
+    ["DictKey_UnitName_192"] = "New Static Object #002",
+    ["DictKey_UnitName_121"] = "Unit #172",
+    ["DictKey_WptName_403"] = "",
+    ["DictKey_GroupName_227"] = "New Static Object #027",
+    ["DictKey_UnitName_66"] = "Unit #48",
+    ["DictKey_GroupName_155"] = "US TANKER ESCORT",
+    ["DictKey_UnitName_190"] = "New Static Object #001",
+    ["DictKey_GroupName_231"] = "New Static Object #029",
+    ["DictKey_UnitName_138"] = "RU HQ #1",
+    ["DictKey_WptName_338"] = "NALC",
+    ["DictKey_UnitName_122"] = "Unit #171",
+    ["DictKey_WptName_346"] = "",
+    ["DictKey_GroupName_189"] = "New Static Object #001",
+    ["DictKey_GroupName_22"] = "RU CAS 2 ESCORT",
+    ["DictKey_GroupName_143"] = "US F-15C (PLAYER)",
+    ["DictKey_WptName_325"] = "",
+    ["DictKey_WptName_396"] = "",
+    ["DictKey_UnitName_61"] = "Unit #46",
+    ["DictKey_UnitName_182"] = "Unit #14",
+    ["DictKey_UnitName_179"] = "Unit #17",
+    ["DictKey_UnitName_31"] = "Unit #24",
+    ["DictKey_UnitName_35"] = "Unit #27",
+    ["DictKey_WptName_331"] = "",
+    ["DictKey_UnitName_49"] = "Unit #39",
+    ["DictKey_7"] = "[司令部]:\
+\
+よくやった、エスコートカバーは排除した！！！\
+\
+Su-25がBeslanを攻撃する前に、やっつけてくれ",
+    ["DictKey_UnitName_250"] = "Unit #71",
+    ["DictKey_WptName_379"] = "",
+    ["DictKey_UnitName_236"] = "New Static Object #045",
+    ["DictKey_UnitName_92"] = "Unit #112",
+    ["DictKey_GroupName_86"] = "RU ARTY 2",
+    ["DictKey_UnitName_280"] = "Unit #89",
+    ["DictKey_GroupName_127"] = "New Static Object #015",
+    ["DictKey_WptName_317"] = "",
+    ["DictKey_UnitName_188"] = "New Static Object",
+    ["DictKey_GroupName_205"] = "New Static Object #009",
+    ["DictKey_UnitName_57"] = "Unit #43",
+    ["DictKey_WptName_306"] = "",
+    ["DictKey_UnitName_256"] = "Unit #72",
+    ["DictKey_WptName_349"] = "",
+    ["DictKey_UnitName_230"] = "New Static Object #7",
+    ["DictKey_WptName_395"] = "",
+    ["DictKey_UnitName_159"] = "Unit #1",
+    ["DictKey_WptName_411"] = "",
+    ["DictKey_UnitName_89"] = "Unit #115",
+    ["DictKey_WptName_330"] = "",
+    ["DictKey_WptName_300"] = "",
+    ["DictKey_WptName_320"] = "",
+    ["DictKey_UnitName_13"] = "Pilot #2",
+    ["DictKey_WptName_305"] = "",
+    ["DictKey_UnitName_240"] = "New Static Object #047",
+    ["DictKey_UnitName_27"] = "Unit #21",
+    ["DictKey_WptName_343"] = "",
+    ["DictKey_UnitName_264"] = "Unit #78",
+    ["DictKey_UnitName_23"] = "Pilot #003",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_UnitName_220"] = "New Static Object #1",
+    ["DictKey_WptName_381"] = "",
+    ["DictKey_UnitName_255"] = "Unit #73",
+    ["DictKey_WptName_431"] = "",
+    ["DictKey_WptName_324"] = "",
+    ["DictKey_UnitName_180"] = "Unit #16",
+    ["DictKey_UnitName_140"] = "RU HQ #2",
+    ["DictKey_UnitName_291"] = "Unit #102",
+    ["DictKey_WptName_425"] = "",
+    ["DictKey_WptName_340"] = "FENCE OUT",
+    ["DictKey_WptName_420"] = "",
+    ["DictKey_GroupName_268"] = "G TANK C1 CMD",
+    ["DictKey_GroupName_193"] = "New Static Object #003",
+    ["DictKey_GroupName_203"] = "New Static Object #008",
+    ["DictKey_UnitName_185"] = "Unit #11",
+    ["DictKey_WptName_357"] = "",
+    ["DictKey_UnitName_84"] = "Unit #106",
+    ["DictKey_WptName_318"] = "",
+    ["DictKey_GroupName_174"] = "US PATRIOT - STR",
+    ["DictKey_UnitName_243"] = "Unit #64",
+    ["DictKey_UnitName_30"] = "Unit #25",
+    ["DictKey_WptName_394"] = "",
+    ["DictKey_GroupName_213"] = "New Static Object #018",
+    ["DictKey_UnitName_269"] = "Unit #84",
+    ["DictKey_UnitName_254"] = "Unit #74",
+    ["DictKey_WptName_367"] = "",
+    ["DictKey_UnitName_293"] = "Unit #100",
+    ["DictKey_GroupName_197"] = "New Static Object #005",
+    ["DictKey_UnitName_60"] = "Unit #47",
+    ["DictKey_UnitName_284"] = "Unit #96",
+    ["DictKey_GroupName_135"] = "RU HQ #001",
+    ["DictKey_UnitName_282"] = "Unit #98",
+    ["DictKey_UnitName_206"] = "New Static Object #009",
+    ["DictKey_UnitName_126"] = "New Static Object #2",
+    ["DictKey_WptName_372"] = "",
+    ["DictKey_WptName_322"] = "",
+    ["DictKey_UnitName_292"] = "Unit #101",
+    ["DictKey_UnitName_278"] = "Unit #91",
+    ["DictKey_UnitName_45"] = "Unit #36",
+    ["DictKey_GroupName_139"] = "RU HQ #003",
+    ["DictKey_GroupName_281"] = "G ARTY 2",
+    ["DictKey_UnitName_242"] = "Unit #65",
+    ["DictKey_WptName_380"] = "",
+    ["DictKey_UnitName_279"] = "Unit #90",
+    ["DictKey_GroupName_70"] = "RU SA19 P2",
+    ["DictKey_WptName_353"] = "",
+    ["DictKey_UnitName_198"] = "New Static Object #005",
+    ["DictKey_UnitName_167"] = "Unit #5",
+    ["DictKey_WptName_365"] = "",
+    ["DictKey_WptName_337"] = "",
+    ["DictKey_GroupName_276"] = "G AD P2",
+    ["DictKey_GroupName_106"] = "RU SA11 1",
+    ["DictKey_GroupName_160"] = "Vaziani Transport #001",
+    ["DictKey_WptName_352"] = "",
+    ["DictKey_WptName_371"] = "",
+    ["DictKey_GroupName_48"] = "RU TANK C2 P3",
+    ["DictKey_WptName_303"] = "",
+    ["DictKey_GroupName_131"] = "New Static Object #017",
+    ["DictKey_WptName_391"] = "",
+    ["DictKey_WptName_360"] = "",
+    ["DictKey_UnitName_94"] = "Unit #127",
+    ["DictKey_UnitName_260"] = "Unit #75",
+    ["DictKey_UnitName_154"] = "Pilot #14",
+    ["DictKey_UnitName_42"] = "Unit #32",
+    ["DictKey_WptName_327"] = "",
+    ["DictKey_GroupName_237"] = "New Static Object #046",
+    ["DictKey_GroupName_209"] = "New Static Object #011",
+    ["DictKey_UnitName_28"] = "Unit #20",
+    ["DictKey_WptName_388"] = "",
+    ["DictKey_UnitName_277"] = "Unit #92",
+    ["DictKey_UnitName_83"] = "Unit #107",
+    ["DictKey_descriptionBlueTask_297"] = "YOUR TASK:\
+-----------------\
+ファイタースイープ\
+\
+MISSION START TIME: \
+------------------------------\
+13:35  05/23/2011\
+\
+\
+OVERVIEW:   \
+----------------\
+Mozdok、Nalchik へファイタースイープを行い、発見した敵航空機を撃墜する\
+\
+AVAILABLE HVAA:\
+------------------------\
+AWACS: Magic, BULL 130 for 80\
+Tanker: Texaco, X1, BULL 130 for 80\
+\
+\
+VULNERABILITY TIME: \
+-----------------------------\
+作戦領域で１５分\
+\
+JOKER / BINGO Fuel: \
+----------------------------\
+6000, 4000\
+\
+\
+T/O AND LANDING: \
+-------------------------\
+VAZIANI AFB, runway 14\
+\
+\
+BULLS-EYE: \
+----------------\
+Located at NALCHIK / WP4.\
+\
+\
+TARGET/STATION: \
+-------------------------\
+WP3 / WP4\
+\
+\
+PACKAGE ELEMENTS:\
+-----------------------------\
+Chevy-4 2 x F-15C HVAA Escort\
+Chevy-6 2 x F-15C HVAA Escort\
+-> Chevy-8 4 x F-15C FIGHTER SWEEP <-\
+\
+\
+STEERPOINTS:\
+---------------------\
+1. 離陸 13:40\
+2. フェンスイン 13:48\
+3. MOZDOK CAP 13:58 30K\
+4. NALCHIK CAP 14:05 30K\
+9. 着陸 14:35  \
+\
+\
+PAYLOAD:\
+--------------\
+6 x AIM-120C\
+2 x AIM-9M\
+100% gun\
+1 x 610 gal. tank\
+\
+\
+作戦手順: \
+-----------------\
+- 指定された武器を搭載してファイタースイープを行い、遭遇した敵機を撃墜する\
+\
+- 脅威を避けるために飛行経路は調整してください。\
+\
+脅威の方角は北西です\
+\
+\
+THREAT ASSESSMENT:\
+-------------------------------\
+Su-27 \"Flanker-B\" CAP/CGI\
+MiG-29S “Fulcrum-C” CAP/CGI\
+\
+MINERALNE VODYの複数のSA-11システムとSA－１０システム\
+複数のSHORADシステムが確認されている\
+\
+\
+ROE: \
+-------\
+任務の脅威に対して攻撃を許可する\
+\
+\
+DIVERT: \
+-----------\
+Tbilisi, Soganlug\
+",
+    ["DictKey_GroupName_257"] = "G TANK C2 P2",
+    ["DictKey_UnitName_81"] = "Unit #109",
+    ["DictKey_UnitName_117"] = "Unit #147",
+    ["DictKey_WptName_308"] = "",
+    ["DictKey_UnitName_165"] = "Unit #4",
+    ["DictKey_UnitName_88"] = "Unit #116",
+    ["DictKey_WptName_299"] = "",
+    ["DictKey_UnitName_149"] = "Pilot #6",
+    ["DictKey_UnitName_71"] = "Unit #58",
+    ["DictKey_UnitName_109"] = "Unit #142",
+    ["DictKey_WptName_409"] = "",
+    ["DictKey_WptName_345"] = "",
+    ["DictKey_UnitName_274"] = "Unit #86",
+    ["DictKey_UnitName_100"] = "Unit #121",
+    ["DictKey_WptName_363"] = "",
+    ["DictKey_UnitName_272"] = "Unit #88",
+    ["DictKey_WptName_342"] = "",
+    ["DictKey_UnitName_124"] = "New Static Object #013",
+    ["DictKey_UnitName_111"] = "Unit #140",
+    ["DictKey_WptName_309"] = "",
+    ["DictKey_GroupName_14"] = "RU CAS 2",
+    ["DictKey_GroupName_162"] = "Vaziani Transport #002",
+    ["DictKey_UnitName_73"] = "Unit #56",
+    ["DictKey_UnitName_273"] = "Unit #87",
+    ["DictKey_UnitName_214"] = "New Static Object #018",
+    ["DictKey_UnitName_145"] = "Pilot #22",
+    ["DictKey_GroupName_141"] = "RU HQ #004",
+    ["DictKey_UnitName_102"] = "Unit #119",
+    ["DictKey_GroupName_133"] = "RU HQ",
+    ["DictKey_UnitName_112"] = "Unit #139",
+    ["DictKey_GroupName_153"] = "US TANKER",
+    ["DictKey_WptName_414"] = "",
+    ["DictKey_GroupName_151"] = "US AWACS",
+    ["DictKey_UnitName_184"] = "Unit #12",
+    ["DictKey_UnitName_136"] = "RU HQ #001",
+    ["DictKey_WptName_355"] = "",
+    ["DictKey_WptName_344"] = "",
+    ["DictKey_UnitName_200"] = "New Static Object #006",
+    ["DictKey_GroupName_288"] = "G ARTY 1",
+    ["DictKey_UnitName_194"] = "New Static Object #003",
+    ["DictKey_UnitName_38"] = "Unit #30",
+    ["DictKey_GroupName_239"] = "New Static Object #047",
+    ["DictKey_GroupName_19"] = "RU CAS 1 ESCORT",
+    ["DictKey_WptName_323"] = "",
+    ["DictKey_WptName_351"] = "",
+    ["DictKey_WptName_313"] = "",
+    ["DictKey_WptName_328"] = "",
+    ["DictKey_UnitName_53"] = "Unit #41",
+    ["DictKey_WptName_429"] = "",
+    ["DictKey_WptName_407"] = "",
+    ["DictKey_WptName_419"] = "",
+    ["DictKey_UnitName_18"] = "Pilot #9",
+    ["DictKey_WptName_423"] = "",
+    ["DictKey_UnitName_128"] = "New Static Object #9",
+    ["DictKey_WptName_376"] = "",
+    ["DictKey_GroupName_253"] = "G TANK C2 P1",
+    ["DictKey_5"] = "[Chevy 8-1, 司令部]:\
+\
+所属不明機が接近中\
+\
+BULLS 330 for 120　ブルズから方位３３０　距離１２０\
+\
+AWACSと通信し、情報を得てください",
+    ["DictKey_WptName_359"] = "",
+    ["DictKey_WptName_368"] = "",
+    ["DictKey_WptName_311"] = "",
+    ["DictKey_WptName_362"] = "",
+    ["DictKey_UnitName_196"] = "New Static Object #004",
+    ["DictKey_WptName_384"] = "",
+    ["DictKey_UnitName_177"] = "Unit #19",
+    ["DictKey_GroupName_168"] = "Vaziani Fuel #002",
+    ["DictKey_WptName_319"] = "",
+    ["DictKey_UnitName_118"] = "Unit #146",
+    ["DictKey_WptName_329"] = "",
+    ["DictKey_UnitName_65"] = "Unit #49",
+    ["DictKey_GroupName_233"] = "New Static Object #044",
+    ["DictKey_WptName_302"] = "",
+    ["DictKey_WptName_333"] = "",
+    ["DictKey_WptName_383"] = "",
+    ["DictKey_GroupName_164"] = "Vaziani Fuel #000",
+    ["DictKey_UnitName_266"] = "Unit #82",
+    ["DictKey_WptName_412"] = "",
+    ["DictKey_UnitName_222"] = "New Static Object #3",
+    ["DictKey_WptName_405"] = "",
+    ["DictKey_UnitName_204"] = "New Static Object #008",
+    ["DictKey_WptName_421"] = "",
+    ["DictKey_WptName_417"] = "",
+} -- end of dictionary
