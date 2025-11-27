@@ -29,7 +29,7 @@ if [ "${branch}" = "master" ] || [ "${branch}" = "main" ]; then
 fi
 
 # 許可する種別（| 区切り）。必要に応じて BRANCH_TYPES で上書き。
-TYPES="${BRANCH_TYPES:-feat|fix|docs|style|refactor|perf|test|build|ci|chore|revert}"
+TYPES="${BRANCH_TYPES:-feature|fix|docs|style|refactor|perf|test|build|ci|chore|revert}"
 
 # 形式:
 # <type>/<optional-issue>-<slug>
