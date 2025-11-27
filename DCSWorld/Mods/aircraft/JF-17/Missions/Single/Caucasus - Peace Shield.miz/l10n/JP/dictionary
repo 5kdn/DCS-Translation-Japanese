@@ -1,0 +1,638 @@
+dictionary = 
+{
+    ["DictKey_WptName_377"] = "",
+    ["DictKey_UnitName_326"] = "单位 #095",
+    ["DictKey_WptName_314"] = "",
+    ["DictKey_GroupName_52"] = "蓝方机场近防",
+    ["DictKey_UnitName_156"] = "单位 #062",
+    ["DictKey_ActionText_423"] = "无法完成编队目标，任务失败",
+    ["DictKey_UnitName_135"] = "单位 #052",
+    ["DictKey_UnitName_310"] = "单位 #091",
+    ["DictKey_UnitName_26"] = "单位 #005",
+    ["DictKey_ActionText_458"] = "- 猎犬，这是 101，打击完成，确认目标大部被毁，你们可以继续前进了。\
+- 这是猎犬，收到，干得好，我们将继续前往机场，兄弟们，我们一定会把他们都救出来！通话结束。",
+    ["DictKey_UnitName_226"] = "单位 #087",
+    ["DictKey_ActionText_464"] = "- 所有部队，这是 20，额……该死的，他们正在处决人质！重复！叛军正在处决人质……天呐！\
+\
+****** 人质被杀，任务失败 ******",
+    ["DictKey_UnitName_331"] = "单位 #100",
+    ["DictKey_ActionText_416"] = "101，这是 22，目视接触良好，我们看到你了，感谢你为我机护航。我们将按时前往任务待命导航点。本机高度 6500，航速 650。",
+    ["DictKey_ActionText_368"] = "",
+    ["DictKey_UnitName_329"] = "单位 #098",
+    ["DictKey_ActionText_470"] = "- 171 呼叫所有单位，人质全部登机，直升机起飞，正在撤离。",
+    ["DictKey_UnitName_25"] = "单位 #004",
+    ["DictKey_UnitName_121"] = "单位 #039",
+    ["DictKey_GroupName_380"] = "野战医院停机坪",
+    ["DictKey_UnitName_218"] = "毒刺射手 #001",
+    ["DictKey_UnitName_342"] = "单位 #110",
+    ["DictKey_UnitName_136"] = "单位 #053",
+    ["DictKey_WptName_43"] = "",
+    ["DictKey_UnitName_312"] = "单位 #093",
+    ["DictKey_UnitName_134"] = "单位 #051",
+    ["DictKey_UnitName_345"] = "单位 #113",
+    ["DictKey_UnitName_224"] = "单位 #085",
+    ["DictKey_WptName_438"] = "0620",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_GroupName_44"] = "蓝方防空导弹阵地",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_GroupName_10"] = "玩家小队",
+    ["DictKey_WptName_260"] = "",
+    ["DictKey_ActionRadioText_274"] = "",
+    ["DictKey_UnitName_47"] = "涅瓦河跟踪雷达",
+    ["DictKey_ActionText_389"] = "",
+    ["DictKey_GroupName_297"] = "红方突击队 #001",
+    ["DictKey_GroupName_354"] = "人质标靶 #002",
+    ["DictKey_UnitName_336"] = "单位 #105",
+    ["DictKey_UnitName_307"] = "单位 #090",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_UnitName_208"] = "飞行员 #007",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_WptName_315"] = "",
+    ["DictKey_WptName_527"] = "",
+    ["DictKey_GroupName_84"] = "停机坪飞机 #002",
+    ["DictKey_UnitName_169"] = "单位 #073",
+    ["DictKey_UnitName_333"] = "单位 #102",
+    ["DictKey_UnitName_130"] = "单位 #047",
+    ["DictKey_WptName_500"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_533"] = "",
+    ["DictKey_ActionText_392"] = "",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_ActionText_324"] = "",
+    ["DictKey_UnitName_249"] = "红方直升机 #001",
+    ["DictKey_ActionText_281"] = "",
+    ["DictKey_GroupName_536"] = "",
+    ["DictKey_WptName_289"] = "",
+    ["DictKey_GroupName_351"] = "人质标靶 #001",
+    ["DictKey_GroupName_191"] = "新飞机群组 #001",
+    ["DictKey_ActionText_372"] = "-20、こちら102、あぁ ...... 101は非常に悪い状態にあるようです。彼はフォーメーションを維持することができませんでした。これ以上ミッションを継続できないと判断します。 \
+-102、20、了解した。すぐに帰投せよ。もう一度言う。全ミッション中止！速やかに帰投せよ。\
+\
+****** ミッション失敗 ******",
+    ["DictKey_UnitName_48"] = "涅瓦河发射架 #001",
+    ["DictKey_UnitName_17"] = "",
+    ["DictKey_descriptionRedTask_2"] = "--------------------------------------- \
+作戦実施要領：\
+---------------------------------------\
+-0620、2機のSu-24Mは、SukhumiのアクティブなSAMサイトに対してSEADを実行し、爆撃の結果を監視します。 Su-24Mは爆撃空域に入るまで無線封鎖します。 （コールサイン214）\
+\
+-BelayaからのTu-22M（コールサイン22）は、0610にAhmetovskaya（RP）の上空を通過し、101ユニットと合流し、（推定）0623でSukhumi空軍基地の滑走路を爆撃します。\
+\
+-Tu-22M（コールサイン355）は、0610から1.30の期間に、Sukhumi空軍基地の滑走路を爆撃します。 到着予定時刻は0623以降です。\
+\
+-0615、2機のJ-11Asが、214と共にSukhumi空軍基地に駐機された航空機を攻撃します。 到着予定は0624以降です。 （コールサイン103）。\
+\
+-0625〜0655の間に2機のJ-11Asが、Sukhumi空域の南で空中警戒を実施し、一時的なタスク要求に対応します。 （コールサイン101、プレーヤー）;\
+\
+-KJ-2000は、0605から0730の間、AWACSとして活動します（コールサイン20）。\
+\
+\
+---------------------------------------\
+101ユニットのミッションタスク：\
+---------------------------------------\
+1）0600、Mblekyan空港から離陸。着陸-Mblekyan。\
+2）0610前に護衛開始点（WP3）へルートに従って、Tu-22M爆撃機との緊密なフォーメーションを完了します（フォーメーション間隔500メートル未満）。\
+3）爆撃機が標的地域に到達し任務完了するまで護衛します。\
+4）WP5とWP6の間でBARCAPを行い、AWACSと連携し敵の空中目標を監視します。\
+5）地上部隊司令官によってあなたに割り当てられた一時的なタスクに応答します。\
+\
+\
+---------------------------------------\
+脅威：\
+---------------------------------------\
+-Sukhumi空港付近に設置されているSA-3 SAMシステム。\
+-近距離防空兵器（MANPAD、AAA）。\
+-反乱軍と民兵。\
+-可能性のある反乱軍の航空機（主に第2世代の戦闘機、トレーナー、ヘリコプター）。\
+\
+\
+---------------------------------------\
+指揮と通信：\
+---------------------------------------\
+-すべての空軍指揮：KJ-2000 AWACS、コールサイン「20」。\
+-地上部隊司令官：特殊部隊「A」、機械化歩兵、コールサイン「ハンター」。\
+-すべてのユニットは、最初に214が攻撃任務を完了するまで待たなければなりません。\
+-代替空港-Sochiは最前線の司令部であり、必要に応じて着陸して再武装することができます。\
+\
+\
+---------------------------------------\
+燃料と兵器：\
+---------------------------------------\
+燃料-100％;機銃-100％; R-77 x4; R-73 x4; B-8M1（x2）ロケットx2\
+",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_UnitName_38"] = "",
+    ["DictKey_GroupName_358"] = "人质标靶 #003",
+    ["DictKey_UnitName_228"] = "单位 #089",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_UnitName_177"] = "",
+    ["DictKey_UnitName_174"] = "单位 #078",
+    ["DictKey_UnitName_370"] = "飞行员 #001",
+    ["DictKey_UnitName_170"] = "单位 #074",
+    ["DictKey_UnitName_216"] = "毒刺指挥官",
+    ["DictKey_UnitName_549"] = "单位 #117",
+    ["DictKey_WptName_286"] = "",
+    ["DictKey_UnitName_103"] = "叛军哨卡 #002",
+    ["DictKey_GroupName_120"] = "蓝方机场守军",
+    ["DictKey_UnitName_153"] = "单位 #059",
+    ["DictKey_UnitName_344"] = "单位 #112",
+    ["DictKey_GroupName_19"] = "红方地面部队",
+    ["DictKey_UnitName_105"] = "叛军哨卡 #001",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_ActionText_284"] = "必要なタスクを完了できず、ミッションが失敗しました。",
+    ["DictKey_UnitName_97"] = "新静态物体 #002",
+    ["DictKey_UnitName_222"] = "单位 #083",
+    ["DictKey_GroupName_162"] = "红方防空 #001",
+    ["DictKey_UnitName_41"] = "飞行员 #001",
+    ["DictKey_UnitName_227"] = "单位 #088",
+    ["DictKey_ActionText_269"] = "-20、こちら22、ランデブーポイントに接近。ETA5分。高度6500、方位242、速度650。PLAAFの101ユニットとの合流まで待機する。 \
+-20、22、計画どおりに実行予定。アウト。",
+    ["DictKey_ActionText_270"] = "",
+    ["DictKey_ActionText_391"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_UnitName_511"] = "单位 #013",
+    ["DictKey_UnitName_332"] = "单位 #101",
+    ["DictKey_UnitName_540"] = "单位 #023",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_UnitName_53"] = "单位 #019",
+    ["DictKey_GroupName_16"] = "",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_WptName_244"] = "",
+    ["DictKey_UnitName_114"] = "单位 #033",
+    ["DictKey_UnitName_181"] = "飞行员 #002",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_UnitName_50"] = "涅瓦河发射架 #004",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_455"] = "- 这是 101，猎犬，收到你们的请求，我们目前正在战区上空，我这里有一大堆火箭弹，有什么可以帮助你们的？\
+- 这是猎犬，很高兴听到你的声音，我们已到达机场北侧两公里，我们在前方的桥梁南侧发现了一个叛军检查站，有重兵把守，这个检查站可能是新设立了，不在我们前期获得的情报中，请求你们迅速对其进行打击，我们将用红色烟雾为你们指示目标。完毕。\
+- 这是 101，明白，红色烟雾，叛军检查站。完毕。\
+- 猎犬呼叫 101，打击已授权，注意，友军位于红色烟雾以北500米处。地面上发现了防空装置，注意你的高度。另外注意机场航展楼为禁射区，我们已确认人质就在那里。通话结束。",
+    ["DictKey_ActionText_294"] = "-20、こちらハンター。すでに空港の北2 km地点に位置している。近接支援攻撃を要求、我々は助けが必要だ。オーバー。 \
+-こちら20。了解。そちらをサポートするため101を送る。待機してくれ。\
+-20から101、20から101、ハンターは空港の北2 kmに接近。彼らはCASを必要としているが、103は弾薬不足らしい。ハンターの支援に向かってくれ。位置についたら、ハンターと連絡をとれ。オーバー。",
+    ["DictKey_GroupName_93"] = "停机坪飞机 #004",
+    ["DictKey_GroupName_194"] = "红方轰炸机",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_ActionText_278"] = ">>>ラジオメニューを使用して爆撃機に連絡します<<< \
+>>>フォーメーション完了後<<<",
+    ["DictKey_UnitName_22"] = "单位 #002",
+    ["DictKey_ActionText_290"] = "",
+    ["DictKey_GroupName_37"] = "",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_UnitName_534"] = "飞行员 #005",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_ActionText_285"] = "-101、20。そちらの位置を報告してくれ。 時間通りに合流できていない。何をしている!\
+\
+****** ミッション失敗 ******",
+    ["DictKey_ActionRadioText_444"] = "Contact Hunter",
+    ["DictKey_UnitName_509"] = "单位 #013",
+    ["DictKey_ActionText_347"] = "-101、こちら102、爆撃機から離れすぎているようです。指示通りの位置関係を維持する必要があります。",
+    ["DictKey_WptName_240"] = "CAP East",
+    ["DictKey_ActionRadioText_436"] = "",
+    ["DictKey_UnitName_173"] = "单位 #077",
+    ["DictKey_UnitName_355"] = "停机坪飞机 #007",
+    ["DictKey_ActionText_442"] = "",
+    ["DictKey_UnitName_537"] = "",
+    ["DictKey_ActionText_466"] = "- 这是猎犬，停火！停火！停火！见鬼，你们轰炸了人质所在的位置！见鬼！！！\
+\
+****** 误伤人质，任务失败 ******",
+    ["DictKey_ActionText_408"] = "",
+    ["DictKey_UnitName_32"] = "单位 #011",
+    ["DictKey_UnitName_362"] = "人质标靶 #003",
+    ["DictKey_ActionText_450"] = "- 我们的空中支援到底在哪里？！敌人的直升机正在屠杀我们！见鬼！战斗机上哪里去了？！\
+\
+****** 地面部队伤亡过大，任务失败 ******",
+    ["DictKey_GroupName_13"] = "蓝方直升机",
+    ["DictKey_ActionText_403"] = "你没有按要求完成任务目标，任务失败了。",
+    ["DictKey_UnitName_523"] = "单位 #116",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_ActionText_404"] = "ミッション成功！すべての人質が救出された。よくやった!!",
+    ["DictKey_WptName_251"] = "",
+    ["DictKey_UnitName_106"] = "叛军哨卡 #003",
+    ["DictKey_GroupName_90"] = "停机坪飞机 #003",
+    ["DictKey_UnitName_165"] = "单位 #069",
+    ["DictKey_UnitName_116"] = "单位 #035",
+    ["DictKey_UnitName_259"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_WptName_320"] = "",
+    ["DictKey_ActionText_265"] = "101ユニット、こちら20。この作戦における航空任務の指令を行う。これは中国とロシア軍の共同作戦である。我々の目的は、反乱軍に誘拐された人質を救うために、地上のアルファグループに協力することである。 \
+\
+機体にはすでに適切な武器を搭載している。エンジンを始動し、すぐに離陸しろ。離陸後は、エスコートポイント（WP3）に時間通りに到着し、ロシア爆撃機との合流を完了せよ。\
+\
+このミッションの概要を十分に理解していると思うが、この作戦は我々の国民生活に直接関連することを忘れるな。したがって、すべての困難を克服し、我々の同胞を救うために使命を全うすることを期待する！以上。",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_UnitName_58"] = "单位 #022",
+    ["DictKey_UnitName_352"] = "",
+    ["DictKey_UnitName_339"] = "单位 #108",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_384"] = "",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_UnitName_365"] = "人质标靶 #004",
+    ["DictKey_GroupName_539"] = "新舰船群组",
+    ["DictKey_UnitName_75"] = "飞行员 #002",
+    ["DictKey_UnitName_214"] = "",
+    ["DictKey_WptName_238"] = "0617 IPM",
+    ["DictKey_UnitName_163"] = "单位 #067",
+    ["DictKey_GroupName_309"] = "红方突击队 #003",
+    ["DictKey_UnitName_55"] = "单位 #020",
+    ["DictKey_ActionText_495"] = "-101、102。データリンクで爆撃機の位置を確認できますか？ WP3の北東、我々の左手前に位置しているはずです。ミッションの要件に応じて、4分以内に編隊を組まないと、ミッションプラン全体が中断されます。 \
+-101、プリフライトプランには必要な対気速度情報が保存されています。ナビゲーションモードでは、HUDにも表示されます。必要な速度を満たしていれば、時間通りに到着できると思います。",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_ActionText_340"] = "-ハンターよりすべての部隊へ。空港と人質の安全を確保した！繰り返す。人質を奪還した！これから避難を開始する。アウト。 \
+-20から171、20から171。君たちは速やかにLZへ移動。繰り返す。人質を避難させるためにLZへ移動しろ。\
+-171了解。アウト。",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_UnitName_343"] = "单位 #111",
+    ["DictKey_ActionText_439"] = "",
+    ["DictKey_UnitName_383"] = "红方直升机 #002",
+    ["DictKey_UnitName_247"] = "叛军固定翼 #002",
+    ["DictKey_UnitName_128"] = "单位 #045",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_UnitName_171"] = "单位 #075",
+    ["DictKey_UnitName_157"] = "单位 #063",
+    ["DictKey_ActionText_267"] = "",
+    ["DictKey_ActionText_273"] = "",
+    ["DictKey_WptName_386"] = "",
+    ["DictKey_ActionText_293"] = "-こちらハンター。我々は発見された......交戦中......敵のガンシップに攻撃されている。戦闘機のサポートをリクエストする。 \
+-101、20、ハンターの場所に直行し、敵を発見せよ。おそらく離陸したばかりの反乱軍のヘリコプターと思われる。できるだけ早く撃墜せよ。\
+-101、了解。そちらに向かう。オーバー。",
+    ["DictKey_UnitName_160"] = "单位 #066",
+    ["DictKey_ActionText_402"] = "-すべての部隊へ。こちら20。171がSochi空域に無事到着。すべての人質は安全だ！繰り返す！人質は安全に救助された！ご苦労！ \
+\
+****** ミッション成功 ******\
+\
+プロデューサー：JG54_NF2",
+    ["DictKey_GroupName_74"] = "新飞机群组",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_GroupName_364"] = "人质标靶 #005",
+    ["DictKey_GroupName_202"] = "新飞机群组 #001",
+    ["DictKey_ActionText_406"] = "",
+    ["DictKey_GroupName_258"] = "",
+    ["DictKey_UnitName_158"] = "单位 #064",
+    ["DictKey_GroupName_6"] = "红方预警机",
+    ["DictKey_ActionText_397"] = "-20、こちら22。機体が破損し制御不能。 \
+-22、こちら20。ミッション中止。中止！中止！！\
+\
+******爆撃機が損傷。ミッション失敗******",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_UnitName_203"] = "飞行员 #005",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_UnitName_305"] = "单位 #080",
+    ["DictKey_UnitName_139"] = "飞行员 #003",
+    ["DictKey_UnitName_510"] = "",
+    ["DictKey_GroupName_40"] = "红方反辐射小队",
+    ["DictKey_GroupName_303"] = "红方突击队 #002",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_UnitName_341"] = "单位 #109",
+    ["DictKey_UnitName_520"] = "防空导弹 #003",
+    ["DictKey_UnitName_119"] = "叛军装甲车 #002",
+    ["DictKey_ActionText_410"] = "-101、22。了解。護衛に感謝する。計画どおりRPに進む。 高度6500、速度650。オーバー。",
+    ["DictKey_WptName_296"] = "",
+    ["DictKey_ActionText_396"] = "-20、こちら101、2機の敵ヘリコプター撃墜を確認。繰り返す、敵ヘリコプター撃墜。 \
+-101、20、よくやった。作戦地域に戻りCAPを継続してくれ。\
+-101了解。",
+    ["DictKey_UnitName_514"] = "单位 #025",
+    ["DictKey_UnitName_91"] = "新静态物体",
+    ["DictKey_UnitName_519"] = "防空导弹 #002",
+    ["DictKey_ActionText_440"] = "-101からハンター。CASリクエストを受け作戦空域に入った。ロケットを持っている。 \
+-こちらハンター。よろしく頼む！我々は空港の北2 kmに位置し、目の前の橋の南側に武装勢力を発見。この敵は、初期の偵察情報には含まれていなかった。直ちにCASを要求する。目標位置にレッドスモークを焚いている。\
+-ハンターから101、攻撃は許可されている。目標をマークしたが、我々はその北500m近くの危険な場所にいる。敵のMANPADがターゲット。空港ターミナルで人質を確認しているので、そこは射撃禁止地帯であることに注意してくれ。オーバー。\
+\
+",
+    ["DictKey_UnitName_195"] = "Tu22M #001",
+    ["DictKey_WptName_316"] = "",
+    ["DictKey_ActionRadioText_279"] = "",
+    ["DictKey_UnitName_328"] = "单位 #097",
+    ["DictKey_ActionText_477"] = "- 101，这是20，注意，我们探测到任务区以南的海面上突现两个快速空中目标，高度正在升高。位于靶眼 157 度，85 公里。目标带有敌意，可能是回航的叛军飞机。\
+- 101，攻击已授权，干掉他们。",
+    ["DictKey_UnitName_337"] = "单位 #106",
+    ["DictKey_ActionText_271"] = "Tu-22M 飞行员：\
+\
+这是22，我们接近会合点，预计抵达时间 5 分钟。本机高度 22000 英尺，速度 350 节，航向 197。",
+    ["DictKey_ActionText_264"] = "",
+    ["DictKey_UnitName_220"] = "毒刺射手 #002",
+    ["DictKey_ActionText_374"] = "-22から101、我々はIPMに到着しました。護衛に感謝します。あなたはとてもプロフェッショナルです。予定通り空港を空爆します。 この先で周回しCAPをお願いします。オーバー。",
+    ["DictKey_GroupName_215"] = "蓝方毒刺",
+    ["DictKey_ActionText_452"] = "- 猎犬呼叫 20，我们已接近机场以北两公里，请求近空支援，我们需要帮助。完毕。\
+- 这是 20，收到，我将指派 101 小队支援你们，请待命。\
+- 20 呼叫 101，20 呼叫 101，猎犬已到达机场以北两公里出，他们需要近空支援，103 和 24 小队的弹药已经用尽，现在由你来回应猎犬的近空支援任务。就位后联络猎犬，通话结束。",
+    ["DictKey_UnitName_306"] = "单位 #081",
+    ["DictKey_ActionRadioText_280"] = "Call for bomber",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_GroupName_531"] = "新飞机群组",
+    ["DictKey_UnitName_129"] = "单位 #046",
+    ["DictKey_UnitName_51"] = "涅瓦河发射架 #005",
+    ["DictKey_ActionText_325"] = "-ハンターからすべての部隊へ。我々は位置についた。我々のショータイムの始まりだ！もう一度言う。地上攻撃作戦を開始する！",
+    ["DictKey_ActionText_421"] = "已回到编队中",
+    ["DictKey_ActionText_481"] = "空域内所有敌军威胁目标均已清除，干得好！返回基地。\
+\
+\
+\
+[任务制作] JG54_NF2",
+    ["DictKey_ActionRadioText_431"] = "",
+    ["DictKey_WptName_382"] = "",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_ActionText_292"] = "-爆撃隊はどこにいる！敵のヘリコプターに攻撃されている！畜生！戦闘機のサポートは！？ \
+\
+******地上部隊が犠牲となった。任務失敗******",
+    ["DictKey_WptName_184"] = "0620 SEAD",
+    ["DictKey_GroupName_361"] = "人质标靶 #004",
+    ["DictKey_ActionText_434"] = "20，这是101，确认两架敌军直升机被击落。",
+    ["DictKey_UnitName_118"] = "叛军装甲车 #001",
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_UnitName_85"] = "",
+    ["DictKey_ActionText_395"] = "",
+    ["DictKey_WptName_185"] = "Egress",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_WptName_530"] = "",
+    ["DictKey_WptName_535"] = "",
+    ["DictKey_GroupName_96"] = "停机坪飞机 #005",
+    ["DictKey_WptName_196"] = "0605",
+    ["DictKey_UnitName_298"] = "单位 #015",
+    ["DictKey_WptName_499"] = "",
+    ["DictKey_WptName_321"] = "",
+    ["DictKey_UnitName_150"] = "单位 #056",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_UnitName_313"] = "单位 #094",
+    ["DictKey_UnitName_152"] = "单位 #058",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_UnitName_532"] = "飞行员 #004",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_WptName_541"] = "",
+    ["DictKey_UnitName_7"] = "预警机 #001",
+    ["DictKey_UnitName_126"] = "单位 #043",
+    ["DictKey_UnitName_232"] = "叛军固定翼 #001",
+    ["DictKey_WptName_356"] = "",
+    ["DictKey_WptName_262"] = "",
+    ["DictKey_GroupName_102"] = "蓝方哨卡",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_UnitName_108"] = "单位 #027",
+    ["DictKey_WptName_323"] = "",
+    ["DictKey_WptName_241"] = "Egress",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_ActionRadioText_445"] = "Contact Hunter",
+    ["DictKey_UnitName_20"] = "单位 #001",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_WptName_378"] = "",
+    ["DictKey_UnitName_115"] = "单位 #034",
+    ["DictKey_ActionText_367"] = "",
+    ["DictKey_UnitName_526"] = "单位 #116",
+    ["DictKey_WptName_212"] = "Egress",
+    ["DictKey_sortie_5"] = "Peace Shield",
+    ["DictKey_WptName_542"] = "",
+    ["DictKey_GroupName_176"] = "",
+    ["DictKey_UnitName_206"] = "飞行员 #006",
+    ["DictKey_WptName_199"] = "0620 BOMBRUD",
+    ["DictKey_UnitName_123"] = "单位 #040",
+    ["DictKey_UnitName_311"] = "单位 #092",
+    ["DictKey_ActionText_427"] = "发现叛军直升机",
+    ["DictKey_WptName_211"] = "0623 CAS",
+    ["DictKey_UnitName_235"] = "叛军固定翼 #002",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_ActionText_390"] = "-171よりすべての部隊へ。人質は搭乗した。避難経路を確保する。",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_168"] = "单位 #072",
+    ["DictKey_ActionText_371"] = "フォーメーションに戻れ",
+    ["DictKey_WptName_546"] = "",
+    ["DictKey_WptName_379"] = "",
+    ["DictKey_GroupName_180"] = "红方防空压制小队",
+    ["DictKey_UnitName_155"] = "单位 #061",
+    ["DictKey_GroupName_548"] = "新舰船群组 #001",
+    ["DictKey_UnitName_288"] = "",
+    ["DictKey_UnitName_14"] = "叛军直升机 #001",
+    ["DictKey_UnitName_125"] = "单位 #042",
+    ["DictKey_ActionText_282"] = "-22、101。そちらを視認した。合流しエスコートする。オーバー。",
+    ["DictKey_UnitName_113"] = "单位 #032",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_WptName_257"] = "",
+    ["DictKey_ActionText_357"] = "",
+    ["DictKey_WptName_547"] = "",
+    ["DictKey_ActionRadioText_276"] = "Call for bomber",
+    ["DictKey_UnitName_223"] = "单位 #084",
+    ["DictKey_UnitName_172"] = "单位 #076",
+    ["DictKey_ActionRadioText_437"] = "Command ground to advance",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_UnitName_179"] = "叛军直升机 #002",
+    ["DictKey_GroupName_522"] = "红方交火单位",
+    ["DictKey_UnitName_230"] = "飞行员 #003",
+    ["DictKey_WptName_317"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_WptName_299"] = "",
+    ["DictKey_UnitName_57"] = "单位 #021",
+    ["DictKey_UnitName_31"] = "单位 #010",
+    ["DictKey_UnitName_111"] = "单位 #030",
+    ["DictKey_UnitName_346"] = "单位 #114",
+    ["DictKey_UnitName_187"] = "飞行员 #003",
+    ["DictKey_UnitName_502"] = "",
+    ["DictKey_WptName_250"] = "",
+    ["DictKey_UnitName_304"] = "单位 #079",
+    ["DictKey_WptName_544"] = "",
+    ["DictKey_WptName_498"] = "",
+    ["DictKey_ActionRadioText_430"] = "Command ground to advance",
+    ["DictKey_UnitName_518"] = "防空导弹 #001",
+    ["DictKey_UnitName_327"] = "单位 #096",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_WptName_360"] = "",
+    ["DictKey_UnitName_27"] = "单位 #006",
+    ["DictKey_UnitName_225"] = "单位 #086",
+    ["DictKey_UnitName_23"] = "单位 #003",
+    ["DictKey_UnitName_149"] = "单位 #055",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_UnitName_189"] = "",
+    ["DictKey_ActionText_462"] = "- 猎犬呼叫所有部队，机场已肃清，人质安全，重复，所有人质安全！等待撤离，完毕。\
+- 20 呼叫 171，20 呼叫 171，立刻进场，重复，立刻前往机场将人质带回。\
+- 171 收到，正在前往。通话结束。",
+    ["DictKey_GroupName_81"] = "",
+    ["DictKey_UnitName_151"] = "单位 #057",
+    ["DictKey_UnitName_515"] = "单位 #037",
+    ["DictKey_UnitName_137"] = "单位 #054",
+    ["DictKey_UnitName_117"] = "单位 #036",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_GroupName_205"] = "红方近空支援小队",
+    ["DictKey_UnitName_94"] = "新静态物体 #003",
+    ["DictKey_UnitName_192"] = "飞行员 #004",
+    ["DictKey_UnitName_127"] = "单位 #044",
+    ["DictKey_ActionRadioText_441"] = "",
+    ["DictKey_WptName_545"] = "",
+    ["DictKey_ActionText_446"] = "-すべてのユニットに告ぐ。214が攻撃を開始。グリーンライト!　繰り返す。グリーンライト! \
+-こちら103、攻撃開始。\
+-こちら22、ターゲット視認。攻撃開始。",
+    ["DictKey_UnitName_516"] = "单位 #038",
+    ["DictKey_ActionText_394"] = "-こちら171。被弾した！救助ヘリを攻撃された！メーデー！メーデー！！ \
+\
+******ヘリコプターが攻撃され、ミッションに失敗しました******",
+    ["DictKey_WptName_318"] = "",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_UnitName_30"] = "单位 #009",
+    ["DictKey_GroupName_525"] = "红方交火单位",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_WptName_261"] = "",
+    ["DictKey_UnitName_359"] = "人质标靶 #001",
+    ["DictKey_UnitName_59"] = "单位 #023",
+    ["DictKey_ActionText_349"] = "",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_UnitName_60"] = "单位 #024",
+    ["DictKey_ActionRadioText_409"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_ActionText_443"] = ">>>ラジオメニューを使用して、地上部隊に連絡します<<<",
+    ["DictKey_UnitName_237"] = "玩家 #002",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_WptName_550"] = "",
+    ["DictKey_WptName_322"] = "",
+    ["DictKey_UnitName_133"] = "单位 #050",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_UnitName_164"] = "单位 #068",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_ActionText_472"] = "救援机抵达安全区，任务成功！\
+\
+\
+\
+[任务制作] JG54_NF2",
+    ["DictKey_WptName_252"] = "",
+    ["DictKey_UnitName_221"] = "单位 #082",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_UnitName_29"] = "单位 #008",
+    ["DictKey_WptName_353"] = "",
+    ["DictKey_UnitName_159"] = "单位 #065",
+    ["DictKey_UnitName_167"] = "单位 #071",
+    ["DictKey_UnitName_513"] = "单位 #024",
+    ["DictKey_UnitName_512"] = "单位 #014",
+    ["DictKey_WptName_239"] = "CAP West",
+    ["DictKey_UnitName_302"] = "单位 #018",
+    ["DictKey_UnitName_49"] = "涅瓦河发射架 #003",
+    ["DictKey_ActionRadioText_283"] = "",
+    ["DictKey_ActionText_414"] = "101 呼叫 22，101 呼叫 22，我已与你建立目视接触，我机奉命加入你机编队，为你提供护航。",
+    ["DictKey_ActionText_407"] = "作戦地域のすべての敵の脅威が排除されました。グッジョブ！基地に戻るか、人質が避難するのを待ちます。",
+    ["DictKey_WptName_255"] = "",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_UnitName_45"] = "涅瓦河搜索雷达",
+    ["DictKey_ActionText_399"] = "クラッシュしました\
+\
+****** ミッション失敗 ******",
+    ["DictKey_UnitName_131"] = "单位 #048",
+    ["DictKey_UnitName_154"] = "单位 #060",
+    ["DictKey_UnitName_385"] = "",
+    ["DictKey_GroupName_87"] = "停机坪飞机 #001",
+    ["DictKey_ActionText_277"] = "",
+    ["DictKey_ActionText_369"] = "",
+    ["DictKey_WptName_198"] = "0617 IPM",
+    ["DictKey_UnitName_28"] = "单位 #007",
+    ["DictKey_ActionText_348"] = "-すべての部隊へ。こちら20。...あぁ、奴らは人質の処刑を実行した！繰り返す！反乱軍は人質の処刑を実行した...神よ！ \
+\
+******人質は殺され、ミッションは失敗しました******",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_ActionText_291"] = "-101、こちら20、......低高度に低速の2つのコンタクト。安定して追跡できない。場所は空港の近く、......北へ移動している可能性が高い。おそらく2機のヘリコプターと思われる。空港の北500メートル以下の低高度空域に特に注意するように。奴らは我々の地上部隊を脅かすかもしれない。発見したら速やかに撃墜するように。作戦地域では友軍が活動している。オーバー。",
+    ["DictKey_UnitName_338"] = "单位 #107",
+    ["DictKey_UnitName_517"] = "单位 #089",
+    ["DictKey_GroupName_188"] = "",
+    ["DictKey_GroupName_138"] = "红方轰炸机",
+    ["DictKey_WptName_308"] = "",
+    ["DictKey_UnitName_521"] = "防空导弹 #004",
+    ["DictKey_UnitName_88"] = "新静态物体",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_ActionText_479"] = "- 101 呼叫 20，确认敌军战斗机已全部被击毁。\
+- 101，这是 20，打的好！",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_WptName_229"] = "",
+    ["DictKey_WptName_256"] = "",
+    ["DictKey_WptName_497"] = "",
+    ["DictKey_UnitName_166"] = "单位 #070",
+    ["DictKey_UnitName_100"] = "新静态物体 #004",
+    ["DictKey_WptName_363"] = "",
+    ["DictKey_UnitName_543"] = "单位 #116",
+    ["DictKey_ActionText_373"] = "",
+    ["DictKey_UnitName_124"] = "单位 #041",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_UnitName_33"] = "单位 #012",
+    ["DictKey_GroupName_528"] = "红方交火单位",
+    ["DictKey_ActionRadioText_275"] = "",
+    ["DictKey_UnitName_529"] = "单位 #116",
+    ["DictKey_GroupName_231"] = "蓝方战斗机",
+    ["DictKey_UnitName_381"] = "",
+    ["DictKey_ActionText_400"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_WptName_538"] = "",
+    ["DictKey_ActionText_405"] = "",
+    ["DictKey_UnitName_110"] = "单位 #029",
+    ["DictKey_WptName_551"] = "",
+    ["DictKey_ActionText_419"] = "101，这是 102，你好像距离轰炸机太远了。我们必须保持良好的编队。",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_ActionText_272"] = "",
+    ["DictKey_ActionText_401"] = "",
+    ["DictKey_UnitName_107"] = "单位 #026",
+    ["DictKey_ActionText_474"] = "- 这是 171，我们中弹了！我们中弹了！救援直升机遭到攻击，我们正在坠落！求救！求救！",
+    ["DictKey_UnitName_82"] = "",
+    ["DictKey_ActionText_476"] = "-101、こちら20。注意しろ。作戦地域の南の海上で2つの空中ターゲットが高速で上昇中。ブルズアイ157で85クリック。射撃管制レーダーの信号を見つけた。ターゲットは敵対的で、反乱軍の飛行機が戻ってくる可能性がある。 \
+-101、交戦許可。発見次第速やかに奴らを破壊せよ。",
+    ["DictKey_UnitName_335"] = "单位 #104",
+    ["DictKey_UnitName_132"] = "单位 #049",
+    ["DictKey_ActionText_425"] = "轰炸机到达IPM导航点，护航任务完成，请前往建立空中巡逻区。",
+    ["DictKey_WptName_200"] = "Egress",
+    ["DictKey_ActionText_429"] = "-ハンター、こちら101。任務完了。ターゲットの破壊を確認。作戦を続行してくれ。 \
+-こちらハンター、了解した。支援ありがとう！我々は引き続き空港を目指し、必ず彼らを救出します！アウト。",
+    ["DictKey_ActionText_350"] = "-こちらハンター。打ち方止め！打ち方止め！やめろ　!!!　くそぉ！お前は人質の場所を爆撃した！くそったれ！！！ \
+\
+******人質は事故により負傷。ミッションは失敗しました******\
+",
+    ["DictKey_ActionText_483"] = "- 22 呼叫 20，我们飞机受损，控制受限，我们正在丧失高度。\
+- 22，20，放弃任务，放弃任务。\
+\
+****** 轰炸机被毁，任务失败 ******",
+    ["DictKey_GroupName_287"] = "",
+    ["DictKey_WptName_35"] = "0610 Escort",
+    ["DictKey_GroupName_99"] = "停机坪飞机 #006",
+    ["DictKey_GroupName_501"] = "",
+    ["DictKey_WptName_236"] = "",
+    ["DictKey_ActionText_388"] = "",
+    ["DictKey_GroupName_248"] = "红方救援直升机",
+    ["DictKey_WptName_376"] = "",
+    ["DictKey_UnitName_109"] = "单位 #028",
+    ["DictKey_UnitName_330"] = "单位 #099",
+    ["DictKey_ActionText_433"] = ">>>ラジオメニューを使用して、地上軍に攻撃を継続するよう通知します<<<",
+    ["DictKey_UnitName_301"] = "单位 #017",
+    ["DictKey_UnitName_448"] = "单位 #115",
+    ["DictKey_UnitName_334"] = "单位 #103",
+    ["DictKey_ActionText_393"] = "",
+    ["DictKey_ActionText_387"] = "-171から20、人質を救助ヘリへ避難させたいが、人質の一部が負傷し移動が困難な状況だ。もっと時間が必要だ！ \
+-こちら20。了解。101、エリアの安全性を確保するまで待機、171はさらに時間が必要だ。\
+-101了解。アウト！",
+    ["DictKey_ActionText_460"] = "- 猎犬呼叫所有部队，我们到达机场，突击行动开始，重复，突击行动开始！",
+    ["DictKey_ActionText_295"] = "哨卡被重创，地面部队继续前进",
+    ["DictKey_WptName_319"] = "",
+    ["DictKey_UnitName_112"] = "单位 #031",
+    ["DictKey_ActionRadioText_432"] = "",
+    ["DictKey_WptName_254"] = "",
+    ["DictKey_WptName_524"] = "",
+    ["DictKey_GroupName_148"] = "红方防空 #002",
+    ["DictKey_descriptionText_1"] = "--------------------------------------- \
+背景：\
+---------------------------------------\
+G国で武装反乱が起こった。反乱軍はSukhumi空軍基地を占領し、基地の建設を支援していた中国とロシアの技術者を拘束した。 G政府からの不当な扱いを訴求するため、反乱軍は人質を処刑すると脅した。\
+\
+情報では、Sukhumi空軍基地の周囲には要塞が築かれており、完全に制圧されている模様。また、G政府の武器と装備は反乱軍に押収され、空港付近のSA-3 SAMサイトもコントロール下におかれているとみられる。地元の諜報員から、占領後に軍用機がSukhumi空軍基地から離陸したのを見たと報告があったが、どこへ向かったかは不明とのこと。したがって、反乱軍は他にも航空機を所有している可能性がある。\
+\
+G政府はこの危機に対処するのに十分な能力を持っておらず、正式に中国とロシア政府に軍事援助を要請した。\
+\
+上海協力機構（SCO）の作戦手順によれば、Mblekyan空港で演習を行っている中国人民解放軍空軍（PLAAF）第2部隊のJ-11A戦闘機隊と地元のロシア航空宇宙軍（ASF）とでSukhumi空港の共同空爆を実施します。目的は、反乱軍の防御能力を弱め、地上の救助隊にエアカバーを提供することです。よく訓練された特殊部隊 \"A\"（アルファグループ）が装甲車両を送り、空港を地上から攻撃します。\
+",
+    ["DictKey_WptName_197"] = "0610",
+    ["DictKey_ActionText_375"] = "-101から20、すべてのボギーを撃墜した。 \
+-101、こちら20。ナイスショット！",
+    ["DictKey_UnitName_300"] = "单位 #016",
+    ["DictKey_WptName_503"] = "",
+    ["DictKey_WptName_366"] = "",
+    ["DictKey_ActionText_468"] = "救援直升机着陆，正在接送人质，部分人质受伤移动不便需要时间。",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_UnitName_11"] = "玩家 #001",
+} -- end of dictionary
