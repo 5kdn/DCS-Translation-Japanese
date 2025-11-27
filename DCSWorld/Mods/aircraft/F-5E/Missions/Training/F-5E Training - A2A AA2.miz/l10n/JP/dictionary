@@ -1,0 +1,186 @@
+dictionary = 
+{
+    ["DictKey_ActionText_98"] = "ターゲットが捕捉レンジに入った！\
+\
+レーダーACQボタンを押せ！[ENTER]",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_ActionText_92"] = "機銃の発砲に使用するスティックのガントリガーは、2段階の動作の違いがある。\
+\
+1. 中間位置 - 発砲。なおその際に機銃のドアが開くが、これは発砲により発生したガスをエンジンの吸気口から引き離すのに役立つ。\
+\
+2. 押し込み – ガンカメラをオンにし、機銃を発砲する\
+\
+ガントリガーを瞬間的に押したとしても、ガス除去システムと機銃ドアとを開くために0.25秒の遅延があることを覚えておこう。\
+\
+>>> 始める準備ができたらスペースキーを押してくれ <<<",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_GroupName_67"] = "RLS",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_ActionText_88"] = "ガンサイトの下にあるガンサイトMODEスイッチを、[3]キーまたはマウス右クリックで回して、A/A2 GUNSモードを選択しろ。",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_ActionText_113"] = "",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_GroupName_71"] = "ART",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_UnitName_44"] = "trg2",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_UnitName_76"] = "art #003",
+    ["DictKey_UnitName_75"] = "art #002",
+    ["DictKey_ActionText_104"] = "ターゲット ヒット！",
+    ["DictKey_descriptionText_1"] = "F-5E トレーニングコース\
+\
+A/A2ガンモードを使用した航空機ターゲットとの戦闘\
+\
+このレッスンを始める前に、以下のコマンドを理解しておいてください。\
+\
+- ポーズ: [PAUSE]\
+- アクティブポーズ: [LSHIFT+LWIN+PAUSE]\
+- Viewコントロール: numpad キー / ジョイスティックハットスイッチ / マウス（フリールックモード） [LALT+C]\
+- ズームイン/ ズームアウト: [Num/] / [Num*]\
+- パイロット視線の動き 上/下/右/左: マウスホイールを押し込んでのマウス操作 もしくは  [RSHIFT+RCTRL ] と [矢印キー] （numpad上の）組み合わせ\
+- パイロット視線の動き 前方/ 後方: マウスホイールの回転 もしくは [RSHIFT + RCTRL] と [ / ] and [ * ]（numpad上の）組み合わせ\
+- 視点初期化: [Num5]\
+- レッスン終了: [ESC]\
+- コントロールインジケーター表示:  [RCTRL+ENTER]\
+- オブジェクトラベル表示On　Off切り替え: [LSHIFT+F10]\
+- ボリュームコントロール: MAIN MENU/OPTIONS/AUDIOにて設定",
+    ["DictKey_UnitName_66"] = "trg2",
+    ["DictKey_ActionText_84"] = "計器パネルの中心にあるレーダーディスプレイには、レーダースキャニングビームのスイープが表示されている。\
+\
+レーダーディスプレイの左側には、レーダーコントロールパネルのRANGEセレクタースイッチで設定されたスキャン距離が表示されている。 \
+A/A2 GUNSモードを有効にする前に、10 nmのレンジでターゲット探索を行うことを推奨されている。\
+\
+レーダーディスプレイ上の横線は全体を５分割しており、ターゲットまでの距離を見定めやすくしている。横線はRANGEセレクタで設定した距離をそれぞれ５分割した距離を示している。例えば、RANGEセレクタで5nmを設定していれば、ディスプレイ上端が5nmで、そこから下の横線が4nm、3nm、2nm、1nmの距離を示しており、RANGEセレクタを40nmに設定していれば、40nm、32nm、24nm、16nm、8nmという距離を示すということだ。\
+\
+マウスか[-]を押して、レーダーRANGEスイッチを10にセットしろ。",
+    ["DictKey_ActionText_108"] = "上出来だ！レッスンを終了する。\
+\
+なお、レーダーが故障している場合でも、目視で機銃を使用することができる。 ターゲットとの距離および射撃可能レンジは、ターゲットの目視でのサイズをレティクルのサイズと比較することによって推定する。 この場合、許容可能なガンの精度は最大1,500フィートの範囲であり、ターゲットとの接近間合い速度差は90ノット以下である。\
+\
+>>> ESCキーを押してレッスンを終了しろ。 <<<",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_UnitName_74"] = "art #001",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_UnitName_6"] = "trg",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_UnitName_68"] = "rls",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_GroupName_5"] = "TRG",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_ActionText_110"] = "機体を傷つけてしまった!\
+\
+このミスに気をつけて、リトライしてくれ。君ならできる!",
+    ["DictKey_WptName_31"] = "",
+    ["DictKey_GroupName_10"] = "Player",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_ActionText_78"] = "ようこそ、このトレーニングミッションは、A/A2ガンモードを使用した航空機ターゲットとの戦闘だ。 \
+\
+現在、ミッションはACTIVE PAUSE状態になっている。\
+\
+このレッスンを始める前に、以下のコマンドを理解しておくように。\
+- ポーズ: [PAUSE]\
+- アクティブポーズ: [LSHIFT+LWIN+PAUSE]\
+- Viewコントロール: numpad キー / ジョイスティックハットスイッチ / マウス（フリールックモード） [LALT+C]\
+- ズームイン/ ズームアウト: [Num/] / [Num*]\
+- パイロット視線の動き 上/下/右/左: マウスホイールを押し込んでのマウス操作 もしくは  [RSHIFT+RCTRL ] と [矢印キー] （numpad上の）組み合わせ\
+- パイロット視線の動き 前方/ 後方: マウスホイールの回転 もしくは [RSHIFT + RCTRL] と [ / ] and [ * ]（numpad上の）組み合わせ\
+- 視点初期化: [Num5]\
+- レッスン終了: [ESC]\
+- コントロールインジケーター表示:  [RCTRL+ENTER]\
+- オブジェクトラベル表示On　Off切り替え: [LSHIFT+F10]\
+- ボリュームコントロール: MAIN MENU/OPTIONS/AUDIOにて設定\
+\
+>>> 始める準備ができたらスペースキーを押してくれ <<<",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_ActionText_80"] = "A/A2 GUNSモードは、近接空戦で機動的な一定速度のターゲットを探索、捕捉、機銃射撃するために使用される。\
+このモードでは、ガンサイトは敵機との相対角や、弾丸の重力による落下を補正してくれる。\
+このミッションでは訓練のため、無制限の弾薬が使用可能になっている。\
+\
+左側コンソールパネルの中央部分に、レーダーコントロールパネルがある。 レーダー探索モードを有効にするには、マウスを右クリックまたは[0]キーを押して、レーダーモード切り替えスイッチをOPERに入れろ。",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_ActionText_102"] = "ガンサイトでは、インレンジバーとレンジマークが表示されている。 \
+レティクルのセンタードット上にターゲットをキープして、射撃しろ！",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_ActionText_94"] = "ターゲットは同高度で君の前方にいる。速度を400ノットにキープしろ。",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_ActionText_90"] = "レティクルは、中心のドットと周囲の円で構成されている。\
+\
+ターゲットが捕捉されると、レティクルとレーダーディスプレイに追加情報が表示される（LK ONが表示される）。\
+\
+ターゲットバーのレンジはレティクルの内側に表示される。 機銃発射モードで、バーが6時の位置にあるとき、それは6000フィートのターゲットレンジに対応する。 レティクルの外側にあるすべてのレンジスケールマークは、1,000フィート区切りになっている。\
+\
+ターゲットが機銃の最大射程距離以内の時、ターゲットインレンジマークがレティクルの右側に表示される。 さらに、レーダーディスプレイの隣にはIN RANGEインジケータが表示される。\
+\
+ターゲットまでの距離が500フィート未満の場合は、ミニマムレンジマークがレティクルの上に表示され、レーダーディスプレイの隣にあるIN RANGEインジケータが点滅する。\
+\
+ターゲットを攻撃を命中させるため、射撃の前にターゲットをレティクルの中央のドット上に捉え続けろ。 結果、君の機体とターゲットの角速度は等しくなるだろう。 \
+最も効果的な砲撃レンジは2,700〜1,000フィートだ。\
+\
+ターゲットへのレーダートラッキングは、ロックオンボタン[ENTER]を押すことによって行われる。 \
+を押すと、ターゲット捕捉リセットとサーチモードへの復帰は[R]キーだ。\
+\
+>>> 続けるにはスペースキーを押してくれ。 <<<",
+    ["DictKey_UnitName_72"] = "art",
+    ["DictKey_WptName_37"] = "",
+    ["DictKey_sortie_4"] = "Engage Aerial Targets in A/A2 GUNS mode.",
+    ["DictKey_ActionText_86"] = "GUNS/MSL＆CAMRスイッチを、右クリックするか[LCTRL+LSHIFT+G]キーを使用して、上に倒しウェポンリリースシステムを有効にしろ。",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_82"] = "",
+    ["DictKey_ActionText_112"] = "",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_UnitName_11"] = "player",
+    ["DictKey_WptName_43"] = "",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_ActionText_96"] = "レーダーでターゲットが捕捉されると、ターゲットマークがレーダーディスプレイに表示される。\
+\
+ターゲットマークをセンター、方位角ゼロの線になるよう機体をコントロールしろ。\
+\
+5,600フィート（0.9 nm）の距離になるまで、接近を続けろ。（ブリーフィング画像[LALT+B]2)\
+\
+ターゲットを追跡し、ガンサイトレティクルの内側にキープしろ。",
+    ["DictKey_ActionText_100"] = "よしっ、ターゲットロックオン！、追尾中だ！\
+\
+ターゲットが回避機動を開始した。 \
+[F]キーを押して、フラップモードをAUTOモードに入れろ。\
+\
+こちらも相対角を推定しながら追尾を開始、交戦レンジまで接近しろ。",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_ActionText_106"] = "",
+} -- end of dictionary
