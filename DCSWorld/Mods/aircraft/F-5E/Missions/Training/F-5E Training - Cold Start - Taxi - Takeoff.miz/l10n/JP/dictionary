@@ -1,0 +1,436 @@
+dictionary = 
+{
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_UnitName_72"] = "",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_ActionText_308"] = "機体を傷つけてしまった!\
+\
+このミスに気をつけて、リトライしてくれ。君ならできる!",
+    ["DictKey_ActionText_237"] = "",
+    ["DictKey_ActionText_186"] = ">>> エンジン各種ゲージのチェック後、スペースキーを押せ。 <<<",
+    ["DictKey_GroupName_330"] = "meh_pl #003",
+    ["DictKey_GroupName_96"] = "",
+    ["DictKey_GroupName_125"] = "p51",
+    ["DictKey_ActionText_276"] = "",
+    ["DictKey_ActionText_241"] = "RPM(エンジン回転数)と 、[W]キーを使って.メインホイールブレーキを調整してタクシー速度を維持しろ。 タキシングの典型的なRPM値は約60％だ。",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_UnitName_331"] = "meh_pl #001",
+    ["DictKey_ActionText_160"] = "左のエンジンを先に始動し、次に右のエンジンを始動する。  右のエンジンは、地上ユニットからの圧縮空気を使用するか、もしくは左のエンジンのコンプレッサーを使用することで始動できる。\
+\
+グラウンドクルーにエンジンローターを回すための指示をだそう。\
+\
+[ \\ ] - ラジオメニュー\
+[F8] - グラウンドクルー\
+[F5] - グラウンドエアーサプライ\
+[F3] - 供給申請",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_WptName_335"] = "",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_WptName_269"] = "",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_GroupName_35"] = "driver_pl",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_ActionText_286"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_ActionText_222"] = "",
+    ["DictKey_WptName_43"] = "",
+    ["DictKey_ActionText_292"] = "機体がまっすぐに加速することを確認したら、 [NUM+] キーでスロットルを全開してアフターバーナーに点火しろ。",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_ActionText_268"] = "離陸の10分前になった。レーダーのウォームアップを開始する必要がある。\
+\
+左コンソールにあるレーダーコントロールパネルのMODEスイッチを、[0]キーでSTBYにセットしろ。",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_GroupName_44"] = "f-5_stat1",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_WptName_260"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_UnitName_136"] = "Пилот #008",
+    ["DictKey_UnitName_36"] = "driver_pl",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_UnitName_66"] = "gen_pl",
+    ["DictKey_GroupName_59"] = "gen_pl #002",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_UnitName_48"] = "Пилот #002",
+    ["DictKey_UnitName_69"] = "",
+    ["DictKey_UnitName_10"] = "uh1_fly",
+    ["DictKey_UnitName_63"] = "gen_pl",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_UnitName_155"] = "",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_ActionText_282"] = "右コンソールにある緊急信号パネルのCANOPYシグナルランプが点灯しているだろう。\
+\
+ [LCTRL+C] キーで、コクピットの右側にあるキャノピーレバーを使用してキャノピーを閉じよう。\
+\
+閉じたらCANOPYシグナルランプが消灯していることを確認するように。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_143"] = "Запуск двигателя обеспечивается только от наземного источника сжатого воздуха. Энергией сжатого воздуха раскручивается компрессор, который в свою очередь обеспечивает подачу воздуха в камеру сгорания для создания топливовоздушной смеси. \
+\
+Работа системы зажигания может обеспечиваться как от наземного источника электрической энергии, так и от бортового аккумулятора.\
+\
+Установи выключатель аккумуляторной батареи в верхнее положение BATT, левой кнопкой мыши или клавишами ||.",
+    ["DictKey_GroupName_30"] = "ham_pl",
+    ["DictKey_ActionText_255"] = "",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_GroupName_327"] = "meh_pl #002",
+    ["DictKey_UnitName_49"] = "Пилот #003",
+    ["DictKey_GroupName_26"] = "f-5_flystat",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_272"] = "",
+    ["DictKey_ActionText_180"] = "補助吸気ドアの位置インジケータにはZEBRAが表示される。(片側のエンジンの吸気ドアが開かれ、片側の吸気ドアが閉じている状態)\
+\
+外部ビュー[F2]を使用すると、外部カメラを使用して補助吸気ドアの状態を見ることができる。\
+\
+>>> 次に進んでよければコックピットビュー[F1]に戻して、スペースキーを押してくれ <<<",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_ActionText_304"] = "",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_UnitName_57"] = "gen_pl",
+    ["DictKey_UnitName_31"] = "ham_pl",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_GroupName_20"] = "gen_pl",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_UnitName_137"] = "Пилот #009",
+    ["DictKey_UnitName_102"] = "meh2",
+    ["DictKey_ActionText_168"] = "排気ガス温度(TEMP)は140℃以上",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_ActionText_296"] = "空中では、ランディングギアを格納する。[G]",
+    ["DictKey_ActionText_253"] = "滑走路を数ヤード前に進む間に、ノーズホイールを離陸方向に合わせろ。",
+    ["DictKey_ActionText_211"] = "",
+    ["DictKey_ActionText_166"] = "アイドルエンジン回転数(パーセントRPM)は 49-52%",
+    ["DictKey_UnitName_27"] = "f-5_flystat",
+    ["DictKey_ActionText_152"] = "各エンジンの燃料システムには、独立したブースターポンプがあり、アフターバーナーポンプを含む燃料システムに燃料を自動的に供給する。\
+\
+[RCTRL+RSHIFT+Y] と [RCTRL+RSHIFT+I]キーで、ブースターポンプの両スイッチを、上側のLEFTとRIGHTにセットしろ。",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_157"] = "Пилот #011",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_ActionText_150"] = "",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_ActionText_192"] = "火器制御システムレーダーの操作をチェックしておこう。\
+\
+左コンソールにレーダーパネルがあるだろう。 [0]キーで、MODEスイッチをSTBYにセットしろ。 ",
+    ["DictKey_WptName_37"] = "",
+    ["DictKey_UnitName_95"] = "Пилот #006",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_ActionText_205"] = "F-5Eには自動翼制御システムが搭載されている。 翼制御システムには、安全な離陸、操縦、長距離飛行、安全な着陸のために使用される最先端スラットと後縁フラップの動作が含まれている。 これはスロットルの後ろにあるFLAPSレバーと右のエンジンスロットルのサムスイッチによって制御される。\
+\
+FLAPSレバーは、以下の位置に設定することができる。\
+　EMER UP    - 完全引込み (サムスイッチの位置とは無関係)\
+　THUMB SW - サムスイッチによって制御\
+　FULL         - 全展開       (サムスイッチの位置とは無関係)\
+\
+サムスイッチには次のモードがある。\
+　UP            - 完全引込み。 すべてのタイプのペイロードとの最大距離飛行に使用\
+　FXD 　　　    - 固定された機械化位置。 低燃費を実現し、低速で翼の揚力を向上し(翼への剪断効果を防止)、外部ストアによる最大距離飛行に使用\
+　AUTO        - 搭載コンピュータによる、迎角と制御信号に応じた自動制御\
+\
+スロットルの後のFLAPSレバーはTHUMB SWの位置にしたまま、右スロットルのサムスイッチを、手前側のAUTOにセットしろ。 [F] ",
+    ["DictKey_GroupName_85"] = "fuel2",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_ActionText_314"] = "左右のエンジンタンク間の燃料差が50-125ポンド以内になると、AUTO BALANCEスイッチは自動的にセンターに戻る。",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_UnitName_50"] = "Пилот #004",
+    ["DictKey_ActionText_266"] = "インストゥルメントパネルの中央にある水平状況インジケータ(HIS)で、[LALT+LSHIFT+4]と[LALT+LSHIFT+3]キーか、マウスホイールでコースノブ(CRS)を使用してコースポインタを88°に設定しろ。 \
+\
+設定したコースがCOURSEウィンドウに表示される。",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_ActionText_207"] = "..",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_ActionText_199"] = "",
+    ["DictKey_GroupName_333"] = "meh_pl #004",
+    ["DictKey_ActionText_290"] = "ブレーキを解除して離陸を開始する。\
+\
+ラダーペダルを調節して、機体が滑走路をまっすぐ走るようにキープしろ。[Z] [X]",
+    ["DictKey_ActionText_145"] = "",
+    ["DictKey_UnitName_60"] = "gen_pl",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_ActionText_306"] = "",
+    ["DictKey_sortie_4"] = "コールドスタート, タキシングと離陸訓練",
+    ["DictKey_ActionText_215"] = "機体の構成(パイロンの状態、ミサイルランチャー、機銃の弾薬)に応じて、離陸のピッチトリムを設定しよう。\
+\
+ピッチトリムが離陸位置に設定されていない場合、強い負のピッチングモーメントが離陸時に発生する。 これは特に機体がかなりの離陸重量を持っている場合に、クラッシュする可能性がある。\
+\
+様々な機体構成のためのピッチトリムインジケーターの最適な値\
+\
+- 機銃弾薬無し、ストア無し - 6\
+- ドロップタンク、機銃弾薬、ミサイル - 7\
+- ドロップタンク、機銃弾薬、ミサイル、爆弾、ロケット弾 - 8\
+- 機銃弾薬、ミサイル、爆弾、ロケット弾、コンテナ - 9\
+\
+トリムインジケーターは、インストルパネルの左最上部に位置するためフードの下となるため見づらいが\
+[RCTRL+.]と[RCTRL+;]キーを使って、トリムの値を6にセットしろ。",
+    ["DictKey_GroupName_56"] = "gen_pl #001",
+    ["DictKey_ActionText_300"] = "機体に完全に給油された状態だと、右側のエンジンタンクには、左側の燃料タンクよりも580ポンド多くの燃料が積まれる。 これは不均衡を引き起こし、機体の飛行ダイナミクスは飛行中に右に変化する。 したがってドロップタンクからの燃料がすべて使用されたとき（ドロップタンクを積んでいれば）、右の燃料系統から燃料が供給されているときは、オートバランシングを有効にする必要がある。\
+\
+君の機体には、ドロップタンクは装備されていない。\
+| RCTRL+RSHIFT+[ |キーで、速やかにAUTO BALANCEスイッチを燃料重量が少ない左の燃料タンクに対応して、左側にセットしよう。",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_ActionText_203"] = "",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_ActionText_239"] = "機体を操作して、先導車両についていけ。\
+\
+急げ!あまり離されるとレッスンは続かない。",
+    ["DictKey_ActionText_243"] = "",
+    ["DictKey_UnitName_52"] = "Пилот #005",
+    ["DictKey_GroupName_68"] = "",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_WptName_332"] = "",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_ActionText_201"] = "胴体の下側には、メインランディングギア装置の前に、2つの油圧式エアブレーキがあり、45°まで偏向させることができる。\
+\
+エアブレーキは、右のエンジンスロットルの3ポジションサムスイッチ(retracted-neutral-extended）によってコントロールされる。\
+\
+ [LCTRL+B]キーで、エアブレーキスイッチを前方に押してretractedにセットし、エアブレーキを格納しろ。",
+    ["DictKey_ActionText_307"] = "",
+    ["DictKey_ActionText_302"] = "ESCキーを押してレッスンを終了しろ。",
+    ["DictKey_ActionText_190"] = "さて両方のエンジンが始動したら、グラウンドクルーにエアコンプレッサーユニットの取り外しを指示する必要がある。\
+\
+[ \\ ] - ラジオメニュー\
+[F8] - グラウンドクルー\
+[F5] - グラウンドエアサプライ\
+[F2] - 取り外し申請\
+\
+>>> ではグラウンドクルーがエアコンプレッサーユニットを取り外したことを報告したら、スペースキーを押してくれ。 <<<",
+    ["DictKey_UnitName_45"] = "Пилот #001",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_ActionText_184"] = "右エンジンRPMが10％に達したら、[LCTRL+LSHIFT+V]キーで左の垂直パネルにある右エンジンのSTARTボタンを押せ。  \
+\
+次に、[RSHIFT+HOME]キーで、右エンジンスロットルをIDLEポジションにセットしろ。  ",
+    ["DictKey_GroupName_71"] = "voz_pl",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_ActionText_280"] = "",
+    ["DictKey_ActionText_141"] = "注意! レッスンを始める前に、スロットルをOFFの位置にセットしておいてくれ。\
+\
+イグニッションシステムは、外部地上電源と搭載バッテリーの両方から動作することがでる。\
+\
+ [RCTRL+RSHIFT+B]キーで、バッテリースイッチを、上側のBATTにセットしろ。 ",
+    ["DictKey_UnitName_126"] = "Пилот #010",
+    ["DictKey_WptName_326"] = "",
+    ["DictKey_ActionText_224"] = "飛行場の高度計規正値(QNH)が高度計に正しく設定されているかチェックする。 \
+\
+[LALT+LSHIFT+A]と[LALT+LSHIFT+S]キーか、マウスホイールでpressureノブを使用して現在の高度をゼロに設定しろ。",
+    ["DictKey_UnitName_135"] = "Пилот #007",
+    ["DictKey_ActionText_164"] = "スロットルがIDLEポジションにセットされると、燃料が供給されエンジンが点火し、35秒以内にアイドリングRPMに達する。",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_UnitName_97"] = "",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_ActionText_182"] = "外部圧縮空気を使う右エンジン始動手順は、左エンジンのスタートとほぼ同じだ。 左エンジンがアイドリングに入ると、グラウンドクルーは自動的に圧縮空気を左のエンジンから右のエンジンに切り替える。\
+\
+グラウンドクルーに右エンジンコンプレッサーを回す指示をだそう\
+\
+[ \\ ] - ラジオメニュー\
+[F8] - グラウンドクルー\
+[F5] - グラウンドエアーサプライ\
+[F3] - 供給申請",
+    ["DictKey_UnitName_75"] = "driver_pl",
+    ["DictKey_ActionText_318"] = "ランディングギアが格納されたことを示す、3つの緑色のギアライトが消えているかチェックしよう。",
+    ["DictKey_ActionText_231"] = "[LALT+LSHIFT+X] と [LALT+LSHIFT+V]キーか、マウスホイールを使って、予備姿勢指示器のPULL TO CAGEノブを回して、-3°（マイナス3）のピッチ値をセットしろ。\
+\
+（ブリーフィング画像の図2で、-3°にセットされた水平儀の拡大を見ることができる）[LALT+B]",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_descriptionText_1"] = "F-5E: トレーニング コース\
+\
+コールドスタート手順学習、タキシングと離陸訓練\
+\
+F-5Eの実践的なレッスン.\
+\
+このレッスンを始める前に、以下のコマンドを理解しておいてください\
+\
+- ポーズ: [PAUSE]\
+- アクティブポーズ: [LSHIFT+LWIN+PAUSE]\
+- Viewコントロール: numpad キー / ジョイスティックハットスイッチ / マウス（Free Lookモード） [LALT+C]\
+- ズームイン/ ズームアウト: [Num/] / [Num*]\
+- パイロット視線の動き 上/下/右/左: マウスホイールを押し込んでのマウス操作 もしくは  [RSHIFT + RCTRL ] と [矢印キー] （numpad上の）組み合わせ\
+- パイロット視線の動き 前方/ 後方: マウスホイールの回転 もしくは [RSHIFT + RCTRL] と [ / ] and [ * ]（numpad上の）組み合わせ\
+- 視点初期化: [Num5]\
+- レッスン終了: [ESC]\
+- コントロールインジケーター表示:  [RCTRL+ENTER]\
+- オブジェクトラベル表示On　Off切り替え: [LSHIFT+F10]\
+- ボリュームコントロール: MAIN MENU/OPTIONS/AUDIOにて設定",
+    ["DictKey_ActionText_316"] = "",
+    ["DictKey_ActionText_233"] = "[LALT+LSHIFT+E] と [LALT+LSHIFT+D]キーか、マウスホイールを使って、 メイン水平儀のHorizonノブを回して同じピッチ値（-3°）にセットしろ。",
+    ["DictKey_GroupName_101"] = "meh2",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_UnitName_109"] = "Пилот #006",
+    ["DictKey_ActionText_139"] = "おはよう新入り!\
+\
+今日は、F-5Eのコールドスタート、タクシング、離陸の手順を学ぼう。\
+\
+このレッスンを始める前に、以下のコマンドを理解しておくように。\
+- ポーズ: [PAUSE]\
+- アクティブポーズ: [LSHIFT+LWIN+PAUSE]\
+- Viewコントロール: numpad キー / ジョイスティックハットスイッチ / マウス（フリールックモード） [LALT+C]\
+- ズームイン/ ズームアウト: [Num/] / [Num*]\
+- パイロット視線の動き 上/下/右/左: マウスホイールを押し込んでのマウス操作 もしくは  [RSHIFT+RCTRL ] と [矢印キー] （numpad上の）組み合わせ\
+- パイロット視線の動き 前方/ 後方: マウスホイールの回転 もしくは [RSHIFT + RCTRL] と [ / ] and [ * ]（numpad上の）組み合わせ\
+- 視点初期化: [Num5]\
+- レッスン終了: [ESC]\
+- コントロールインジケーター表示:  [RCTRL+ENTER]\
+- オブジェクトラベル表示On　Off切り替え: [LSHIFT+F10]\
+- ボリュームコントロール: MAIN MENU/OPTIONS/AUDIOにて設定\
+\
+>>> 始める準備ができたらスペースキーを押してくれ <<<",
+    ["DictKey_ActionText_298"] = "",
+    ["DictKey_GroupName_62"] = "gen_pl #003",
+    ["DictKey_GroupName_82"] = "voz_pl #001",
+    ["DictKey_UnitName_6"] = "player",
+    ["DictKey_ActionText_245"] = "我々は現在、滑走路のすぐ手前で、一時待機の状態だ。 この場所で一時停止して、他の飛行機が着陸または離陸していないことを確認し、管制に滑走路を通過する許可を得なければならない。\
+\
+通信を使用して、管制に離陸許可を申請しろ。",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_ActionText_209"] = "インストゥルメントパネルの左上のウィングコントロールインジケータには、FULLモードが表示されている。 これは、ウィングコントロールがAUTOモードだが機体が停止しているためだ。 離陸およびランディングギアの格納後、コントロールモードは自動的にAUTOに変わりる。\
+\
+安定性向上システム(SAS)は、スタビライザーとラダーを制御することにより、飛行を楽にしてくれる。 ピッチとヨーのブレを自動的に減衰させ、手動のラダートリミングを使用することができる。\
+\
+SASコントロールパネル(左コンソール)には、ピッチチャンネルとヨーチャンネルの各スイッチと、ラダートリミング用のノブがある。 ピッチチャンネルの無効化ボタンは [A]キーだ。\
+\
+搭載コンピュータとダンパーチャンネルをコントロールすることで、あらゆる速度で快適な飛行が可能になる。\
+\
+[LALT+LCTRL+E]キーと[LALT+LCTRL+W] キーで、両スイッチをYAWおよびPITCHの位置にセットして、SASを有効にしろ。",
+    ["DictKey_ActionText_213"] = "",
+    ["DictKey_WptName_329"] = "",
+    ["DictKey_ActionText_257"] = "",
+    ["DictKey_UnitName_54"] = "",
+    ["DictKey_UnitName_83"] = "voz_pl",
+    ["DictKey_ActionText_229"] = "さぁタクシングの準備は全て整った。 離陸を開始するには、 [NUM+]と[NUM-]キーでスロットルを上げてRPMを85％に上げろ。\
+\
+ノーズホイールステアリング機構に接続するためは、[S]キーを使う。\
+押している間だけノーズホイールは、[Z]と[X]キーのラダーペダル操作に反応する。",
+    ["DictKey_GroupName_74"] = "fuel_pl",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_ActionText_172"] = "ノズルポジション（NOZZLE）は 60-79％",
+    ["DictKey_ActionText_176"] = "油圧（OIL PRESS）は 5-20 psi",
+    ["DictKey_ActionText_251"] = "先導車両:\
+“前方に進み滑走路の軸線に合わせて、停止してください。”",
+    ["DictKey_ActionText_170"] = "",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_UnitName_21"] = "",
+    ["DictKey_ActionText_262"] = "F-5Eの前部脚柱には2つの設定がある。 左のコンソールにあるNOSE STRUTスイッチを操作することで、前部脚柱の高さを変えることができ、機体の縦方向のピッチを3°変えることができる。 これにより離陸時間が減少する。 なお格納中に前部脚柱は自動的に収縮する。\
+\
+[LALT+LCTRL+Q]で、NOSE STRUTスイッチを、EXTENDの位置に入れろ。",
+    ["DictKey_ActionText_197"] = "インストゥルメントパネルのレーダーディスプレイで、水平線が表示されるまで30秒待つ。 その後、レーダーはウォームアップモードに切り替わる。\
+\
+警告! オーバーヒートの可能性があるため、地上でのレーダー操作ができるのは10分以内だ。 それ以上地上で待機するには、レーダーモードスイッチをOFFの位置に設定し、離陸の直前にSTBYに戻すように。\
+\
+ [9] キーで、MODEスイッチをOFFに戻せ。",
+    ["DictKey_GroupName_9"] = "uh1_fly",
+    ["DictKey_GroupName_23"] = "meh_pl",
+    ["DictKey_GroupName_5"] = "Player56",
+    ["DictKey_WptName_270"] = "",
+    ["DictKey_UnitName_86"] = "driver_pl #001",
+    ["DictKey_ActionText_162"] = "ではRPMが10％に達したら、[LCTRL+LSHIFT+C]キーで、左の垂直パネルにある左エンジンのSTARTボタンを押せ。\
+\
+それから左エンジンスロットルを、 [RALT+HOME]キーで、IDLEポジションにセットしろ。 ",
+    ["DictKey_GroupName_65"] = "gen_pl #004",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_UnitName_323"] = "Пилот #005",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_ActionText_278"] = "",
+    ["DictKey_ActionText_235"] = "先導車両:\
+“こんにちは、56番機。タキシングを開始して後ろについてきてください。”.",
+    ["DictKey_ActionText_288"] = "[W]キーで、メインホイールブレーキは作動させたまま、\
+[NUM+]キーで、RPM（エンジン回転数）を95％に上昇させろ。",
+    ["DictKey_UnitName_24"] = "",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_ActionText_227"] = "あとは姿勢指示器をセットアップするだけだ。\
+\
+[LALT+LSHIFT+V]キーか、マウスホイールでPULL TO CAGEノブが引っ込むまで、時計回りに回しバックアップ水平儀を有効にしろ。",
+    ["DictKey_ActionText_188"] = "右のエンジンがアイドリングRPMに到達した。 エンジン関連ゲージを監視しろ。\
+\
+- アイドルRPM (パーセントRPM) は 49-52%\
+- 排気ガス温度 (TEMP) は 140°C以下 (短時間なら高温状態でも大丈夫だが、845℃を超えてはいけない)\
+- ノズルポジション (NOZZLE) は 60-79%\
+- 燃料消費量（FUEL FLOW）は約400ポンド/時\
+- 油圧 (OIL PRESS)は 5-20 psi\
+- ブースター油圧システム圧力（FLTCONT）は 2800〜3200 psi\
+- 補助インテークドアポジションインジケータは「OPEN」　（両ドアの吸気口が開いている状態）",
+    ["DictKey_GroupName_51"] = "f-5_stat2",
+    ["DictKey_ActionText_178"] = "左のエンジンの始動を確認したら、次の点をチェックしろ。\
+\
+- ユーティリティ油圧システム圧力(UTILITY)は 2800-3200 psi",
+    ["DictKey_UnitName_328"] = "meh_pl #001",
+    ["DictKey_ActionText_247"] = "先導車両:\
+“OK、許可を受けました。 滑走路に進入できます。”",
+    ["DictKey_ActionText_294"] = "140ノットの速度で、スティックをゆっくりと自分の方に引きテイクオフする。",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_GroupName_324"] = "meh_pl #001",
+    ["DictKey_UnitName_334"] = "meh_pl #001",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_ActionText_174"] = "燃料消費量（FUEL FLOW）は約400ポンド/時",
+    ["DictKey_UnitName_325"] = "",
+    ["DictKey_ActionText_264"] = "До взлета осталось менее 10 минут. Значит пора включить радар на прогрев.\
+\
+Установите на левой горизонтальной консоли переключатель MODE в положение STBY, правой кнопкой мыши или клавишей [0].",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_GroupName_156"] = "p51_stat",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_ActionText_249"] = "",
+    ["DictKey_ActionText_259"] = "先導車両:\
+“OK、許可を受けました。 誘導を終了します。”",
+    ["DictKey_ActionText_154"] = "エンジンは外部のグラウンドスタートユニットによって供給される圧縮空気でのみ始動することができる。 圧縮空気はエンジンコンプレッサーを回し、これが燃焼室に空気を供給して混合気を生成する。\
+\
+圧縮空気供給ユニットを接続しろ\
+\
+[ \\ ] - ラジオメニュー\
+[F8] - グラウンドクルー\
+[F5] - グランドエアーサプライ\
+[F1] - 接続申請\
+\
+>>> では地上クルーがエアコンプレッサーユニットを接続したことを報告したら、スペースキーを押してくれ。 <<<",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_ActionText_274"] = "メインとバックアップの姿勢指示器にピッチの差がないことを確認しよう。\
+\
+ANTI-ICEシステムスイッチを、 [RCTRL+RSHIFT+F] キーでPITOTの位置にセットしてピトーヒートを作動させろ。\
+\
+となりにあるANTI-ICE ENGINEスイッチは、雲の中や寒い時期に飛行するときに有効にする必要がある。",
+    ["DictKey_ActionText_320"] = "スティックから力を抜けるように、[RCTRL+;]と[RCTRL+.]キーで、ピッチのトリムを調整しろ。",
+    ["DictKey_ActionText_312"] = "離陸成功、上出来だ!",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_ActionText_220"] = "",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_ActionText_284"] = "目の前に、警告パネルや緊急信号が発生したときに点灯するマスターCAUTIONパネルライトがインストゥルメントパネル上にあるだろう。 これは、対応するパネルを監視するための注意を促す。\
+\
+マスターCAUTIONライトは押せば消灯し、原因となった信号を無視して「待機」モードに切り替わり、 シグナルパネルで新しい事象が発生したとき、改めて点灯する。\
+\
+>>> 続けるにはCAUTIONパネルライトライトを押して消灯してくれ。 <<<",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_ActionText_147"] = "交流電流(AC)は、左右のエンジンに取り付けられた2つのジェネレータ(エンジン1つにつき1つのジェネレータ)によって供給される。 各ジェネレータは、RPM(エンジン回転数)が48％に達したときに発電を開始し、RPMが43％未満に低下したときには発電を停止する。\
+\
+右の垂直パネルには、L GENとR GEN、それにRESETポジション（パイロットによってジェネレータを手動で電力網に接続するために必要）のマークがついた3-ポジションスイッチが2つある。 下のエマージェンシーシグナルパネルには、L GENERATORとR GENERATORという2つの警告灯がある。 対応するジェネレータが電力網から切断されたときに点灯する。\
+\
+[RCTRL+RSHIFT+H] と[RCTRL+RSHIFT+J]で、両ジェネレータスイッチを、上側のL GENとR GENに入れろ。 ",
+} -- end of dictionary
