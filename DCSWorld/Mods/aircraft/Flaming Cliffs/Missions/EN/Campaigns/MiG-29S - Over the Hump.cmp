@@ -1,0 +1,217 @@
+campaign =
+{
+    ["directory"] = "D:\\E_Drive\\To Wags\\Mig29 temp\\",
+    ["startStage"] = 1,
+
+    ["picture"] = "Hump.png",
+    ["picture_CN"] = "Hump_CN.png",
+    ["picture_ES"] = "Hump_ES.png",
+    ["picture_RU"] = "Hump_RU.png",
+
+    ["name"] = "MiG-29S - Over the Hump",
+    ["name_CN"] = "MiG-29S - 飞越驼峰",
+    ["name_JP"] = "MiG-29S - Over the Hump",
+    ["name_CS"] = "MiG-29S - Přes kopec",
+    ["name_DE"] = "MiG-29S - Über den Berg",
+    ["name_ES"] = "MiG-29S - Cima superada",
+    ["name_KO"] = "MiG-29S - 고비에서 (Over the Hump)",
+    ["name_RU"] = "МиГ-29С - Сложное позади",
+
+    ["description"] = "Operations have begun that will lead to the eventual airborne assault of two key enemy airbases. Separating us and the enemy is a large mountain chain we term \"The Hump\". You will pilot a MiG-29S fighter in support of this operation.",
+    ["description_CN"] = "针对敌方两关键机场的最终空降突袭行动已经开始了。在敌我双方之间隔着的是被称为\"驼峰\"的巨大的山脉。你将驾驶MiG-29S对此次行动进行支援。",
+    ["description_JP"] = "最終的に2つの急所となる敵の空港を占領することを目標とした作戦が開始されました。我々と敵は大きな山脈「ハンプ(こぶ）」によって隔てられています。あなたはMi9-29S戦闘機のパイロットとしてこの作戦に参加します。",
+    ["description_CS"] = "Zahájily jsme operaci, jejímž konečným cílem je vzdušné napadení dvou klíčových nepřátelských základen. Nás a nepřítele dělí velký horský řetěz, který nazýváme \\ \"hrb \\\". Budeš pilotovat MiG-29S a budeš operovat jako stíhací podpora této operace.",
+    ["description_DE"] = "Die Militäroperation hat begonnen und wird möglicherweise zur Einnahme zweier wichtiger Feindflugplätze führen. Zwischen uns und dem Feind zieht sich eine lange Gebiergskette, die einfach \"Der Berg\" genannt wird. Sie werden als MiG-29S Jägerpilot zum Erfolg dieser Operation beitragen.",
+    ["description_ES"] = "Se han iniciado las operaciones que conducirán a un probable asalto aerotransportado de dos bases aéreas enemigas clave. Separándonos a nosotros y al enemigo se encuentra una gran cadena montañosa que denominamos \"La Cima\". Pilotarás un caza MiG-29S en apoyo a esta operación.",
+    ["description_KO"] = "작전이 시작되면 두 개의 주요 적 항공기가 공중 공격을 받게 된다. 우리와 적을 분리 시키는 것은 우리가 \"솟아 오른 곳(The Hump)\"이라고 부르는 서로 연결된 큰 산이다. 귀관은 MiG-29S 전투기의 조종사로서 이 작전 지원을 나가게 될 것이다.",
+    ["description_RU"] = "Начались операции, которые могут привести к высадке воздушного десанта  на две ключевые авибазы противника. От противника нас отделяет большая горная цепь, которую мы называем «Бугор». Вы будете пилотировать истребитель МиГ-29С для поддержки этой операции.",
+
+    ["fullPath"] = "D:\\E_Drive\\To Wags\\Mig29 temp\\MiG-29S - Over the Hump.cmp",
+    ["necessaryUnits"] =
+    {
+        ["MiG-29S"] = "MiG-29S",
+    }, -- end of ["necessaryUnits"]
+    ["stages"] =
+    {
+        [1] =
+        {
+            ["name"] = "Stage 1",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MiG-29S - Over the Hump - 1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\E_Drive\\To Wags\\Mig29 temp\\MiG-29S - Over the Hump - 1.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] =
+        {
+            ["name"] = "Stage 2",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MiG-29S - Over the Hump - 2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\E_Drive\\To Wags\\Mig29 temp\\MiG-29S - Over the Hump - 2.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [3] =
+        {
+            ["name"] = "Stage 3",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MiG-29S - Over the Hump - 3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\E_Drive\\To Wags\\Mig29 temp\\MiG-29S - Over the Hump - 3.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [4] =
+        {
+            ["name"] = "Stage 4",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MiG-29S - Over the Hump - 4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\E_Drive\\To Wags\\Mig29 temp\\MiG-29S - Over the Hump - 4.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [5] =
+        {
+            ["name"] = "Stage 5",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MiG-29S - Over the Hump - 5.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\E_Drive\\To Wags\\Mig29 temp\\MiG-29S - Over the Hump - 5.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [6] =
+        {
+            ["name"] = "Stage 6",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MiG-29S - Over the Hump - 6.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\E_Drive\\To Wags\\Mig29 temp\\MiG-29S - Over the Hump - 6.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [7] =
+        {
+            ["name"] = "Stage 7",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MiG-29S - Over the Hump - 7.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\E_Drive\\To Wags\\Mig29 temp\\MiG-29S - Over the Hump - 7.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [8] =
+        {
+            ["name"] = "Stage 8",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MiG-29S - Over the Hump - 8.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\E_Drive\\To Wags\\Mig29 temp\\MiG-29S - Over the Hump - 8.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [9] =
+        {
+            ["name"] = "Stage 9",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MiG-29S - Over the Hump - 9.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\E_Drive\\To Wags\\Mig29 temp\\MiG-29S - Over the Hump - 9.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [10] =
+        {
+            ["name"] = "Stage 10",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "MiG-29S - Over the Hump - 10.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\E_Drive\\To Wags\\Mig29 temp\\MiG-29S - Over the Hump - 10.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+    }, -- end of ["stages"]
+} -- end of campaign
