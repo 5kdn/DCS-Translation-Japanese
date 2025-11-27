@@ -1,0 +1,405 @@
+campaign =
+{
+    ["fullPath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27.cmp",
+    ["directory"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\",
+    ["version"] = 1,
+
+    ["name"] = "Su-27 - The Ultimate Argument",
+    ["name_RU"] = "Su-27 - The Ultimate Argument",
+    ["name_CN"] = "Su-27 - 最终争执",
+    ["name_JP"] = "Su-27 - The Ultimate Argument",
+
+    ["picture"] = "Camp_image_273x130_EN.png",
+    ["picture_RU"] = "Camp_image_273x130_RU.png",
+    ["picture_CN"] = "Camp_image_273x130_CN.png",
+
+    ["pictureSuccess"] = "Final-EN.png",
+    ["pictureSuccess_RU"] = "Final-RU.png",
+    ["pictureSuccess_CN"] = "Final-CN.png",
+
+    ["description"] = "Warm August evening didn’t seem to hold in store any troubles. Moreover, the president of the adjacent country promised not to use his army and not to adjust the old ethnic conflict by force. \
+However, at night the value of his words became clear: all the TV channels had shown the “Grad” MLRS that bring down fire to sleeping Tskhinvali. Tanks supported by infantry started the assault of the town. Russian peacemakers found themselves blocked in their own camp. Well, since the aggressor is deaf to the reason, there is always the ultimate relevant argument.\
+",
+    ["description_RU"] = "Тёплый августовский вечер не сулил никаких неприятностей. Тем более, что президент сопредельной страны пообещал не применять армию и отказаться от силового решения давнего этнического конфликта. \
+Однако уже ночью стало понятно чего стоят его слова – все телеканалы обошли кадры Градов, обстреливающих спящий Цхинвали. Танки при поддержке пехоты пошли на штурм города. Российские миротворцы оказались заблокированы в своём лагере. Ну что же, если агрессор не желает слушать доводы разума, то всегда найдётся нужный, последний аргумент.\
+",
+    ["description_CN"] = "温暖舒适的八月傍晚如秋水般平静。邻国总统不久前才宣布绝不出动部队并且不再追究以前的民族冲突。\
+然而，夜幕降临后，他的真实意图便暴露无遗：电视里滚动播出着“冰雹”火箭炮袭击夜色中的茨欣瓦利。步兵协同着坦克疯狂涌入这座沉睡着的城市。俄罗斯维和部队刚从睡梦中醒来就绝望地发现自己已经被包围。看吧，那群侵略者毫无顾忌，这该死的冲突总是没完没了。\
+",
+   ["description_JP"] = "暖かい８月の夕方。このときまでは、いつものように何事もなくすぎるように思われました。\
+隣国の大統領は古くからの民族対立を力では解決しないことを、軍隊は使わないことを約束していました。\
+しかしその夜、彼の言葉がまったくの偽りであったことがはっきりとしました。\
+全てのテレビチャンネルで多連装ロケット砲（MLRS）Gradが眠りについたばかりのツヒンヴァリ（Tskhinavali）に砲撃を浴びせかけている映像が流れています。\
+歩兵と共に戦車が町の攻撃を開始しました。\
+和平のために訪れていたロシアの役人たちは、自分たちの宿営地に閉じ込められています。\
+侵略者たちは聞く耳など持ちません、最悪の事態を常に想定しておかなくてはならないでしょう。",
+
+    ["necessaryUnits"] =
+    {
+        ["Su-27"] = "Su-27",
+    }, -- end of ["necessaryUnits"]
+    ["startStage"] = 1,
+    ["stages"] =
+    {
+        [1] =
+        {
+            ["name"] = "Стадия 1",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_01.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_01.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] =
+        {
+            ["name"] = "Стадия 2",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_02.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_02.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] =
+        {
+            ["name"] = "Стадия 4",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_04.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_04.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] =
+        {
+            ["name"] = "Стадия 8",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_08.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_08.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [16] =
+        {
+            ["name"] = "Стадия 16",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_16.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_16.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [16]
+        [17] =
+        {
+            ["name"] = "Стадия 17",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_17.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_17.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [17]
+        [9] =
+        {
+            ["name"] = "Стадия 9",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_09.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_09.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [18] =
+        {
+            ["name"] = "Стадия 18",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_18.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_18.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [18]
+        [5] =
+        {
+            ["name"] = "Стадия 5",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_05.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_05.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] =
+        {
+            ["name"] = "Стадия 10",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_10.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_10.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [20] =
+        {
+            ["name"] = "Стадия 20",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_20.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_20.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [20]
+        [11] =
+        {
+            ["name"] = "Стадия 11",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_11.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_11.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [3] =
+        {
+            ["name"] = "Стадия 3",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_03.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_03.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] =
+        {
+            ["name"] = "Стадия 6",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_06.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_06.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] =
+        {
+            ["name"] = "Стадия 12",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_12.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_12.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [13] =
+        {
+            ["name"] = "Стадия 13",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_13.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_13.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] =
+        {
+            ["name"] = "Стадия 7",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_07.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_07.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [14] =
+        {
+            ["name"] = "Стадия 14",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_14.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_14.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+        [15] =
+        {
+            ["name"] = "Стадия 15",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_15.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_15.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+        [19] =
+        {
+            ["name"] = "Стадия 19",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UltimArgSu-27_19.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Su-27 - The Ultimate Argument\\UltimArgSu-27_19.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [19]
+    }, -- end of ["stages"]
+} -- end of campaign

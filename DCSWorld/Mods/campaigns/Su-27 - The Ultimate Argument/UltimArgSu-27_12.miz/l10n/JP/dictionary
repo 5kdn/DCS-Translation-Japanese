@@ -1,0 +1,169 @@
+dictionary = 
+{
+    ["DictKey_18"] = "任務完了を報告",
+    ["DictKey_UnitName_52"] = "Пилот #027",
+    ["DictKey_UnitName_85"] = "Юнит #010",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_UnitName_26"] = "Su-25 278",
+    ["DictKey_GroupName_58"] = "Бук Gudauta2",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_descriptionText_96"] = "たった今、夜間活動していたUAVの目的が判明しました。A-50が複数のターゲットを発見しました。攻撃隊がスフミに接近中です。おそらく、UAVはスフミ空港襲撃のために防空施設と駐機場の位置を探っていたのだと思われます。\
+\
+我軍の航空機とヘリ部隊が危険にさらされています。\
+\
+１３３飛行隊は離陸準備に入っています。あなたの飛行隊もすぐに離陸して１３３飛行隊と共に敵を食い止めて下さい。",
+    ["DictKey_10"] = "- ラズライト, １３１　離陸しました\
+- １３１, こちら ラズライト, 了解　３０００まで上昇し砲１１５へ飛んで任務を遂行して下さい\
+- １３１, copy.\
+",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_GroupName_51"] = "Ми-26",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_UnitName_90"] = "F-5 1",
+    ["DictKey_GroupName_44"] = "Ми-24",
+    ["DictKey_UnitName_76"] = "Юнит #082",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_UnitName_47"] = "Пилот #016",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_12"] = "MISSION IS SUCCESSFULLY ACCOMPLISHED!\
+\
+ミッションを終了していただいてかまいませ",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_UnitName_43"] = "ДРЛО",
+    ["DictKey_UnitName_61"] = "Юнит #005",
+    ["DictKey_GroupName_30"] = "Су-25",
+    ["DictKey_sortie_99"] = "スクランブル！（Scramble!）",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_UnitName_92"] = "Fantom4",
+    ["DictKey_GroupName_86"] = "Gruz F-5",
+    ["DictKey_UnitName_79"] = "Юнит #009",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_UnitName_38"] = "133",
+    ["DictKey_GroupName_91"] = "Gruz Fantom",
+    ["DictKey_UnitName_31"] = "143",
+    ["DictKey_UnitName_35"] = "151",
+    ["DictKey_GroupName_20"] = "Player",
+    ["DictKey_descriptionBlueTask_98"] = "",
+    ["DictKey_GroupName_53"] = "Бук Gudauta",
+    ["DictKey_UnitName_27"] = "Su-25 277",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_13"] = "航空機が破壊された \
+\
+MISSION IS FAILED!",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_UnitName_46"] = "Пилот #017",
+    ["DictKey_UnitName_93"] = "Fantom3",
+    ["DictKey_GroupName_36"] = "133",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_UnitName_40"] = "260",
+    ["DictKey_UnitName_81"] = "Юнит #007",
+    ["DictKey_UnitName_95"] = "Fantom1",
+    ["DictKey_14"] = "航空機が破壊された \
+\
+MISSION IS FAILED!",
+    ["DictKey_GroupName_72"] = "генератор1",
+    ["DictKey_GroupName_66"] = "Бук Suhum2",
+    ["DictKey_UnitName_50"] = "103",
+    ["DictKey_11"] = "- ラズライト, １３３ 離陸しました\
+- １３３, こちら ラズライト, 了解. ３０００まで上昇し砲１１５へ飛んでください\
+- １３３, copy.",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_UnitName_59"] = "Юнит #004",
+    ["DictKey_GroupName_42"] = "ДРЛО",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_GroupName_49"] = "Ми-8",
+    ["DictKey_UnitName_56"] = "Юнит #001",
+    ["DictKey_UnitName_80"] = "Юнит #008",
+    ["DictKey_GroupName_68"] = "Бук Suhum3",
+    ["DictKey_UnitName_32"] = "142",
+    ["DictKey_GroupName_70"] = "генератор2",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_GroupName_60"] = "Бук Gudauta3",
+    ["DictKey_UnitName_45"] = "Пилот #018",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_17"] = "- ラズライト, こちら １３１, 応答ねがいます！ \
+- １３１, こちら ラズライト, どうぞ\
+- こちら １３１, スフミの敵を攻撃し撃退しました。敵脅威は排除しました。\
+- こちら ラズライト, 了解.  １３１ と １３３, は戦闘を中止し帰還して下さい \
+- １３１, copy, 帰還します",
+    ["DictKey_GroupName_62"] = "Бук Suhum",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_UnitName_28"] = "Su-25 276",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_UnitName_75"] = "Юнит #083",
+    ["DictKey_UnitName_54"] = "Юнит #003",
+    ["DictKey_descriptionRedTask_97"] = "スフミに接近中の敵攻撃隊を迎撃せよ\
+\
+１３３飛行隊と協力して敵機を攻撃して下さい。\
+スフミ空軍基地の爆撃を阻止して下さい。\
+\
+離陸：グダウタ\
+着陸：グダウタ\
+代替：スフミ\
+\
+指揮・管制：\
+あなたのコールサイン：１３１\
+AWACS：５０２\
+戦闘指揮：ラズライト",
+    ["DictKey_UnitName_34"] = "152",
+    ["DictKey_UnitName_88"] = "F-5 3",
+    ["DictKey_UnitName_71"] = "генератор2",
+    ["DictKey_UnitName_64"] = "Юнит #015",
+    ["DictKey_GroupName_82"] = "ГрузПВО Кобулети",
+    ["DictKey_GroupName_74"] = "ГрузПВО Кутаиси",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_UnitName_21"] = "132",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_UnitName_67"] = "Юнит #018",
+    ["DictKey_GroupName_39"] = "Су-24 пво",
+    ["DictKey_UnitName_84"] = "Юнит #011",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_UnitName_57"] = "Юнит #1",
+    ["DictKey_UnitName_22"] = "Player",
+    ["DictKey_UnitName_89"] = "F-5 2",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_UnitName_24"] = "Ил-76",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_GroupName_78"] = "ГрузПВО Сенаки",
+    ["DictKey_GroupName_23"] = "Ил-76",
+    ["DictKey_UnitName_73"] = "генератор1",
+    ["DictKey_UnitName_41"] = "259",
+    ["DictKey_UnitName_94"] = "Fantom2",
+    ["DictKey_UnitName_29"] = "Su-25 275",
+    ["DictKey_UnitName_63"] = "Юнит #016",
+    ["DictKey_UnitName_65"] = "Юнит #006",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_UnitName_87"] = "F-5 4",
+    ["DictKey_19"] = "- １３１, こちら ラズライト！ スクランブル, １３３ だけでは手におえません",
+    ["DictKey_15"] = "敵の脅威は排除しました\
+\
+任務の完了を報告して下さい\
+\
+(ラジオメニュー F10)",
+    ["DictKey_UnitName_37"] = "134",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_UnitName_55"] = "Юнит #002",
+    ["DictKey_UnitName_77"] = "Юнит #081",
+    ["DictKey_16"] = "任務完了を報告",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_UnitName_69"] = "Юнит #019",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_UnitName_83"] = "Юнит #012",
+    ["DictKey_UnitName_48"] = "Пилот #015",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_GroupName_33"] = "Су-24",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_GroupName_25"] = "Su-25",
+} -- end of dictionary
