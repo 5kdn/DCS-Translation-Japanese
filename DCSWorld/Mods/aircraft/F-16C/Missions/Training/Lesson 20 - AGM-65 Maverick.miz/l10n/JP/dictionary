@@ -1,0 +1,898 @@
+dictionary = 
+{
+    ["DictKey_WptName_309"] = "",
+    ["DictKey_UnitName_463"] = "SAM 11-1",
+    ["DictKey_UnitName_449"] = "",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_GroupName_594"] = "TGT FARP -1",
+    ["DictKey_ActionText_680"] = "左MFDでは、FCRの代わりにTGPを使用します。 MFDのページメニューを表示するには、まずOSB 14を押します。",
+    ["DictKey_WptName_432"] = "",
+    ["DictKey_ActionText_85"] = "my_wepfiredcount = 0\
+function myfiredeh:onEvent(event)\
+if event.id == world.event.S_EVENT_SHOT then\
+    local unitid = event.initiator\
+    local gid = Unit.getGroup(unitid)\
+    local gname = gid:getName()\
+    if(gname == \"myaigroup\") then\
+        local wpn = event.weapon\
+        local wpntype = wpn:getTypeName()\
+        if(wpntype == \"AIM-9M\") then\
+            my_wepfiredcount = my_wepfiredcount + 1\
+        end\
+    end\
+end\
+end\
+world.addEventHandler(myfiredeh)",
+    ["DictKey_UnitName_469"] = "SAM 11-7",
+    ["DictKey_WptName_488"] = "",
+    ["DictKey_UnitName_521"] = "SAM 2-11",
+    ["DictKey_UnitName_388"] = "",
+    ["DictKey_GroupName_10"] = "Naval-1",
+    ["DictKey_UnitName_238"] = "AB Obj -31",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_UnitName_417"] = "SAM 3-1",
+    ["DictKey_UnitName_163"] = "AB Obj -10",
+    ["DictKey_GroupName_398"] = "",
+    ["DictKey_UnitName_707"] = "",
+    ["DictKey_UnitName_558"] = "SAM 6-2",
+    ["DictKey_UnitName_611"] = "TGT FARP -3",
+    ["DictKey_ActionText_631"] = "",
+    ["DictKey_UnitName_130"] = "AB Obj -1",
+    ["DictKey_ActionText_324"] = "Good Kill!",
+    ["DictKey_UnitName_428"] = "SAM 3-12",
+    ["DictKey_GroupName_216"] = "Static An-26B-1",
+    ["DictKey_ActionText_87"] = "Winchester AIM-9 Sidewinders",
+    ["DictKey_UnitName_548"] = "",
+    ["DictKey_WptName_639"] = "",
+    ["DictKey_UnitName_382"] = "",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_WptName_505"] = "",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_ActionText_69"] = "",
+    ["DictKey_WptName_750"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_ActionText_684"] = "最後にウェポン（WPN）の表示を出してください。 右MFDでOSB 7を2回押してオープン・スポット表示にします。",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_UnitName_175"] = "AB Obj -15",
+    ["DictKey_ActionText_47"] = "Good job.  Before you begin the next engagement, set the radar search range to 40 Nm using the Left MFD OSB 20.  Also take a look at the AIM-9s remaining using the SMS on the right MFD.\
+",
+    ["DictKey_ActionText_54"] = "FOX-2",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_WptName_236"] = "",
+    ["DictKey_UnitName_395"] = "",
+    ["DictKey_GroupName_296"] = "",
+    ["DictKey_UnitName_114"] = "Extra Target-3-1",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_UnitName_536"] = "",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_UnitName_169"] = "AB Obj -10",
+    ["DictKey_UnitName_553"] = "",
+    ["DictKey_ActionText_646"] = "Good Job. \
+\
+次の2回のトレーニングランでは、TGPは必要ありません、TGPはSTBYにします。\
+\
+次の訓練では、マーベリックのビジュアル（VIS）ターゲティングモードを使用します。このモードは、ターゲットエリアはわかっているものの、そのエリア内の個々のターゲットの正確な位置がわからない場合に有効です。\
+\
+今回のターゲットは、貨物船により保管場所に運ばれたばかりのスカッドランチャー（SCUD TEL）です。貨物船はイングリ川に停泊しています。 ターゲットエリアは船のすぐ東側、川の北岸です。 SCUD TEL以外に2台の車両があります。 ターゲットエリアの西側には赤いスモークマーカーがあります。\
+\
+続ける場合はスペースバーを押してください。",
+    ["DictKey_ActionText_92"] = "You have run out of AIM-9 missiles before you could engage all of the targets.  You may continue to fly, but no more targets will appear. ",
+    ["DictKey_WptName_333"] = "",
+    ["DictKey_ActionText_632"] = "[Silent Reminders]\
+    - TGP: Find the SA-13.\
+    - DLZ inside 7 Nm, designate the target (HOTAS TMS Forward Short).\
+    - Right MFD: Handoff message.  \
+    - Maverick crosshairs closed; \"C\" above STA 3: Shoot the AGM-65D ",
+    ["DictKey_UnitName_537"] = "",
+    ["DictKey_UnitName_507"] = "",
+    ["DictKey_UnitName_495"] = "SPAAA-8",
+    ["DictKey_WptName_332"] = "",
+    ["DictKey_UnitName_511"] = "SAM 2-1",
+    ["DictKey_GroupName_527"] = "",
+    ["DictKey_ActionText_759"] = "VISを設定するとHUDがSOIになります。\
+\
+HUDにはヴェロシティベクター上に配置された小さなターゲティングボックスが追加されており、TCDと一緒にスリューします。 マーベリックのシーカーディスプレイ（右MFD）は、このシーカーボックスに追従します。 HUDに表示されているターゲットエリアにボックスを移動させます。\
+\
+これができたらスペースバーを押してください。\
+",
+    ["DictKey_UnitName_704"] = "",
+    ["DictKey_UnitName_435"] = "",
+    ["DictKey_ActionText_334"] = "Winchester; AIM-120 AMRAM",
+    ["DictKey_ActionText_24"] = "You are now ready to begin a rear-hemisphere AIM-9 engagement.  You will need to accomplish the following steps fairly quickly so take a moment to review them:\
+ \
+1 - Find / Lock the target on the radar.\
+2 - Accelerate and fly towards the target.\
+3 - Uncage the AIM-9 Seeker [C key].\
+4 - Monitor range to the target using the radar MFD and HUD.\
+5 - When in range and the missile is locked (\"Sidewinder Growl\" in your headset) - Shoot the AIM-9.\
+\
+When ready to continue, press the SPACE bar.",
+    ["DictKey_ActionText_647"] = "よくできました。\
+\
+次のトレーニングでは、マーベリックのボアサイト（BORE）デリバリーモードを使用します。 このモードは、かなりの近距離で、臨機目標、特に動いているターゲットを攻撃することを想定しています。 基本的には、HUDでターゲットを定めて攻撃します。\
+今回のターゲティングランでは、東側の赤のスモークマーカーから白のスモークマーカーまでを南下する装甲車輛の隊列を攻撃します。\
+まずはDEDロッカースイッチUPでステアポイント4に移動しましょう。",
+    ["DictKey_WptName_288"] = "",
+    ["DictKey_UnitName_482"] = "2S6-5",
+    ["DictKey_UnitName_410"] = "",
+    ["DictKey_ActionText_257"] = "When ready to continue, press the SPACE bar.",
+    ["DictKey_UnitName_564"] = "",
+    ["DictKey_UnitName_294"] = "",
+    ["DictKey_UnitName_178"] = "AB Obj -15",
+    ["DictKey_WptName_478"] = "",
+    ["DictKey_UnitName_278"] = "AB Obj -8",
+    ["DictKey_UnitName_566"] = "",
+    ["DictKey_GroupName_37"] = "TGT Su17-B",
+    ["DictKey_UnitName_455"] = "",
+    ["DictKey_ActionText_757"] = "次に、ターゲットエリアに向かって旋回します。\
+\
+準備ができたらスペースバーを押してください。",
+    ["DictKey_UnitName_578"] = "",
+    ["DictKey_UnitName_547"] = "",
+    ["DictKey_UnitName_202"] = "AB Obj -19",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_WptName_656"] = "",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_UnitName_708"] = "",
+    ["DictKey_UnitName_119"] = "Extra Target-4-1",
+    ["DictKey_UnitName_561"] = "SAM 6-5",
+    ["DictKey_GroupName_658"] = "",
+    ["DictKey_ActionText_697"] = "右MFDで、WPNがSOIのままであることを確認してください。\
+\
+OSB 2を使用するか、HOTASのスロットル・エネーブル・スイッチを押して、マーベリックのシーカー・モードをBOREに設定します。\
+\
+スペースバーを押して続行してください。",
+    ["DictKey_ActionText_321"] = "Splash the Target",
+    ["DictKey_UnitName_545"] = "",
+    ["DictKey_WptName_415"] = "",
+    ["DictKey_UnitName_392"] = "",
+    ["DictKey_ActionText_63"] = "Very Good.  Now take a moment to inspect the cockpit settings. Reset the radar to an adequate search range (at least 40 Nm) on the left MFD.  You should also step to the next Steerpoint using the DED rocker switch on the UFC. (The next target will be circling near Steerpoint 2.)  Again, use the Right MFD SMS page to check the number of Sidewinders remaining.",
+    ["DictKey_WptName_669"] = "",
+    ["DictKey_UnitName_196"] = "AB Obj -19",
+    ["DictKey_GroupName_286"] = "TGT 1 Su27",
+    ["DictKey_ActionText_589"] = "",
+    ["DictKey_UnitName_439"] = "",
+    ["DictKey_UnitName_608"] = "",
+    ["DictKey_ActionText_312"] = "F-16Cを空対地戦闘モードに設定するには、Master ARMをONにし、LaserをARMにしてA-Gボタンを押します。",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_GroupName_610"] = "TGT FARP -4",
+    ["DictKey_UnitName_387"] = "",
+    ["DictKey_WptName_227"] = "",
+    ["DictKey_ActionText_29"] = "Winchester AIM-9M",
+    ["DictKey_GroupName_56"] = "",
+    ["DictKey_UnitName_396"] = "",
+    ["DictKey_UnitName_668"] = "Static MiG-19P-1",
+    ["DictKey_WptName_732"] = "",
+    ["DictKey_UnitName_193"] = "AB Obj -19",
+    ["DictKey_ActionText_49"] = "Didn't splash any in the second wave - more ractice",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_WptName_475"] = "",
+    ["DictKey_UnitName_487"] = "SPAAA-1",
+    ["DictKey_GroupName_761"] = "Static Mark Flag White-1",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_ActionText_500"] = "Set to HSD",
+    ["DictKey_ActionText_124"] = "Well Done:  You have successfully engaged all of the targets and completed AIM-9 training in the F-16.  You may end the training now or continue to fly.",
+    ["DictKey_WptName_650"] = "",
+    ["DictKey_ActionText_691"] = "SMSディスプレイには3AG65Dと表示されているはずです。\
+\
+OSB 12を使ってWPN表示に戻します。",
+    ["DictKey_ActionText_268"] = "F-16C AGM-65トレーニング へようこそ  \
+ \
+訓練は7,500フィートMSLからスタートします、ホーム飛行場であるクタイシ基地の25Nm西です。オートパイロット(AP)はALT HOLDとSTRG SELになっています。\
+ \
+最初のステップは、空対地戦闘用に機体を設定することです。\
+\
+特に指示がない限り、ハイライトされたボタンやスペースバーを押すと、すぐに次のステップに進みます。初回のトレーニングでは、各項目の説明をよく聞いてからレッスン進行のアクションを行うことをお勧めします。\
+ \
+続ける場合は、スペースバーを押してください。",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_ActionText_64"] = "",
+    ["DictKey_UnitName_419"] = "SAM 3-3",
+    ["DictKey_ActionText_636"] = "Ready Run \
+\
+When ready to begin, press the SPACEBAR.",
+    ["DictKey_ActionText_773"] = "Shack!",
+    ["DictKey_UnitName_431"] = "",
+    ["DictKey_UnitName_235"] = "AB Obj -31",
+    ["DictKey_ActionText_100"] = "Get ready to begin a forward-hemisphere AIM-9 engagement.  Again, you will need to accomplish the following steps fairly quickly so review them now:\
+ \
+1 - Find / Lock the target on the radar.\
+2 - Fly towards the target.\
+3 - Uncage the AIM-9 Seeker (buttons).\
+4 - Monitor range to the target using the radar MFD and/or the HUD.\
+5 - When in range and the missile is locked (\"Sidewinder Growl\" in your headset) - Shoot the AIM-9.\
+ \
+Note: The higher closure rate in a forward-hemisphere - \"nose-on-nose\" - engagement means that things will happen much faster; be ready for it. Likewise the IR seeker will take longer to detect the heat of the target.  The DLZ on the HUD and radar display will be much bigger as the closure rate is much higher.",
+    ["DictKey_ActionText_27"] = "",
+    ["DictKey_UnitName_560"] = "SAM 6-4",
+    ["DictKey_UnitName_762"] = "",
+    ["DictKey_UnitName_483"] = "",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_UnitName_709"] = "",
+    ["DictKey_UnitName_223"] = "AB Obj -27",
+    ["DictKey_ActionText_70"] = "Good Hit! Good Hit!",
+    ["DictKey_UnitName_405"] = "",
+    ["DictKey_UnitName_187"] = "AB Obj -19",
+    ["DictKey_UnitName_468"] = "SAM 11-6",
+    ["DictKey_WptName_411"] = "",
+    ["DictKey_WptName_498"] = "",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_UnitName_550"] = "",
+    ["DictKey_ActionText_682"] = "これでF-16は空対地戦闘モードに入りました。 次の課題は、AGM-65を使用するためのウェポンシステムの設定です。\
+\
+最初の目標は、イングリ川に架かる鉄道橋のスパンです。 これは大型で頑丈な目標であり、AGM-65GやKに搭載されている300ポンドの重量級弾頭を必要とします。 \
+\
+大きな目標なので、特定の部分を狙わなければなりません。そのためには、強制相関モードを使用します。このモードでは、ミサイルがシーカービューの「画像」を作成し、その画像の中の特定のエリアにホームインします。 AGM-65HとAGM-65Kの電子光学シーカーは、強制相関モードに対応しています。\
+\
+このように、大きな弾頭と強制相関モードという条件が揃っていることから、第3ステーションに搭載されたAGM-65Kが最適なウェポンと言えます。\
+\
+続行するにはスペースバーを押してください。",
+    ["DictKey_UnitName_133"] = "AB Obj -1",
+    ["DictKey_UnitName_515"] = "SAM 2-5",
+    ["DictKey_GroupName_307"] = "TGT 3 SU24",
+    ["DictKey_UnitName_394"] = "",
+    ["DictKey_GroupName_530"] = "",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_UnitName_127"] = "",
+    ["DictKey_UnitName_504"] = "",
+    ["DictKey_UnitName_516"] = "SAM 2-6",
+    ["DictKey_ActionText_93"] = "",
+    ["DictKey_UnitName_494"] = "SPAAA-7",
+    ["DictKey_GroupName_486"] = "SPAAA",
+    ["DictKey_UnitName_424"] = "SAM 3-8",
+    ["DictKey_ActionText_688"] = "…それからＷＰＮを押して、「WPN」表示を選択します。",
+    ["DictKey_ActionText_349"] = "You have run out of AMRAM missiles before you could engage all of the targets. You may continue to fly, but no more new targets will appear.",
+    ["DictKey_GroupName_496"] = "SAM 13",
+    ["DictKey_GroupName_42"] = "TGT Su17-C",
+    ["DictKey_ActionText_73"] = "Finally, set the search range on the radar to 20 Nm using the OBS 19 on the Left MFD.",
+    ["DictKey_ActionText_252"] = "When ready to continue, press the SPACE bar.",
+    ["DictKey_WptName_447"] = "",
+    ["DictKey_WptName_728"] = "",
+    ["DictKey_UnitName_522"] = "SAM 2-12",
+    ["DictKey_GroupName_597"] = "TGT  2 Helicopters",
+    ["DictKey_ActionText_31"] = "Good Job - FWD QTR Aspect Shot\
+\
+1 - Radar to 40 Nm\
+2 - Find / Lock air target\
+3 - Accel and fly towards it\
+4 - Uncage AIM-9 seeker\
+5 - Watch range\
+6 - Shoot \
+\
+WR Push Space",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_UnitName_481"] = "2S6-4",
+    ["DictKey_ActionText_75"] = "This time you must decide on the type of engagement – forward-hemisphere or rear-hemisphere - you will attempt.  The target aircraft will continue to circle until you attack it with a missile.  Once you shoot, the target will attempt to evade the missile(s) and decoy with flares.  It will also try to defend itself.  However, it's AAMs are older - rear aspect only - weapons.\
+\
+Good Luck",
+    ["DictKey_UnitName_425"] = "SAM 3-9",
+    ["DictKey_UnitName_154"] = "AB Obj -7",
+    ["DictKey_WptName_609"] = "",
+    ["DictKey_UnitName_528"] = "",
+    ["DictKey_UnitName_605"] = "",
+    ["DictKey_GroupName_699"] = "",
+    ["DictKey_WptName_568"] = "",
+    ["DictKey_UnitName_554"] = "",
+    ["DictKey_GroupName_101"] = "Extra Target-1",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_ActionText_690"] = "…それから、OSB6でアクティブウェポンをAGM-65Dに変更します。",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_UnitName_381"] = "",
+    ["DictKey_ActionText_502"] = "Note Threat rings - \
+\
+\
+Left MFD press OSB 12 x 2",
+    ["DictKey_UnitName_559"] = "SAM 6-3",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_UnitName_391"] = "",
+    ["DictKey_WptName_414"] = "",
+    ["DictKey_UnitName_184"] = "AB Obj -18",
+    ["DictKey_GroupName_207"] = "AB Obj -19",
+    ["DictKey_UnitName_551"] = "",
+    ["DictKey_UnitName_375"] = "",
+    ["DictKey_ActionText_317"] = "Good Kill! ",
+    ["DictKey_WptName_612"] = "",
+    ["DictKey_UnitName_386"] = "",
+    ["DictKey_UnitName_706"] = "",
+    ["DictKey_UnitName_181"] = "AB Obj -6",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_ActionText_48"] = "Good Kill - However used 3 or more missiles  need more practice",
+    ["DictKey_GroupName_195"] = "AB Obj -23",
+    ["DictKey_ActionText_94"] = "",
+    ["DictKey_ActionText_674"] = "SoS",
+    ["DictKey_descriptionBlueTask_3"] = "あなたはCOLT1-1です。F-16C単機で、武装はAGM-65K×1（左翼）、AGM-65D×3（右翼）です。この状態は右翼が左翼よりも重い非対称のペイロードです。最初は左翼を下げるようにトリムをとり、ミサイルを消費するたびにロールトリムを調整していく必要があります。\
+     \
+攻撃が成功した後、一時停止となります。 AGM-65を4発搭載していますが、これは訓練を完了するために十分な量です。 目標の撃破に失敗した場合は、クタイシ基地に戻って再装備することができます。\
+\
+ROE ：\
+ROEはウェポンズ　フリーです。敵のROEはウェポンズ　ホールドです。\
+\
+注：このトレーニングはあなたのペースで進められるように設定されています。  ハイライトされたボタンやスペースバーを押すと、すぐに次のステップに進みます。初回のトレーニングでは、各項目の説明をよく聞いてからレッスン進行のアクションを行うことをお勧めします。２回目以降のトレーニングでは、ボタンやスペースバーをすぐに押して、習熟済みのセクションを \"スピードアップ \"することをお勧めします。",
+    ["DictKey_UnitName_389"] = "",
+    ["DictKey_UnitName_490"] = "SPAAA-3",
+    ["DictKey_UnitName_403"] = "",
+    ["DictKey_UnitName_454"] = "",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_GroupName_510"] = "SAM 2",
+    ["DictKey_WptName_600"] = "",
+    ["DictKey_UnitName_497"] = "SAM 13-1",
+    ["DictKey_UnitName_297"] = "",
+    ["DictKey_WptName_310"] = "",
+    ["DictKey_UnitName_769"] = "",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_UnitName_374"] = "",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_ActionText_327"] = "When you do so, note that the Right MFD should change to the SMS page showing  the AIM-120 missiles are selected. Using the Right MFD OSB 7, you can switch between the four wing mounted AIM-120B (A120B) and two wingtip mounted AIM-120C (A120C).\
+ \
+When ready to continue, press SPACEBAR.",
+    ["DictKey_UnitName_39"] = "TGT 2 -2-2",
+    ["DictKey_UnitName_662"] = "",
+    ["DictKey_WptName_606"] = "",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_UnitName_145"] = "AB Obj -4-1",
+    ["DictKey_ActionText_673"] = "おめでとう。あなたはAGM-65の訓練を無事終了しました。 \
+\
+このまま訓練を終了するか、着陸し、再武装し、ガリ（ブルズアイ）付近で、活動を始めたターゲットに対するプラクティクスを続けることができます。\
+\
+続行するにはスペースバーを押してください。",
+    ["DictKey_GroupName_113"] = "Extra Target-3",
+    ["DictKey_UnitName_378"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_GroupName_648"] = "",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_WptName_702"] = "",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_UnitName_406"] = "",
+    ["DictKey_ActionText_573"] = "",
+    ["DictKey_UnitName_136"] = "AB Obj -1",
+    ["DictKey_WptName_508"] = "",
+    ["DictKey_UnitName_157"] = "AB Obj -7",
+    ["DictKey_UnitName_453"] = "",
+    ["DictKey_UnitName_43"] = "TGT Su17-C",
+    ["DictKey_ActionText_572"] = "Explain process\
+\
+When ready to continue Press SPACEBAR",
+    ["DictKey_ActionText_323"] = "Well Done: Now take a moment to inspect the cockpit settings.\
+\
+Reset the radar to an adequate search range (at least 40 Nm) on the left MFD.\
+ \
+Step to the next Steerpoint using the DED switch on the UFC. \
+ \
+On the Right MFD SMS page to check remaining AIM-120s. For this run, an AIM-120 C is preferable, but not absolutely necessary.\
+ \
+Also on the SMS page, use OSB 19 to set the missile to BORE to force it to use the Bore Sight Mad Dog mode.\
+ \
+When ready to continue, press SPACEBAR.",
+    ["DictKey_WptName_289"] = "",
+    ["DictKey_UnitName_654"] = "TGT 3 SCUD-2",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_UnitName_38"] = "TGT Su17-B",
+    ["DictKey_GroupName_412"] = "",
+    ["DictKey_ActionText_62"] = "",
+    ["DictKey_UnitName_655"] = "TGT 3 SCUD-3",
+    ["DictKey_GroupName_556"] = "SAM 6",
+    ["DictKey_GroupName_607"] = "TGT FARP -3",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_WptName_770"] = "",
+    ["DictKey_UnitName_467"] = "SAM 11-5",
+    ["DictKey_UnitName_404"] = "",
+    ["DictKey_UnitName_641"] = "",
+    ["DictKey_UnitName_426"] = "SAM 3-10",
+    ["DictKey_ActionText_326"] = "The target is now within 20 Nm; visually search for it. Once you have acquired the FENCER, turn off the radar using the RF Master switch. When the target is within 10 Nm, center it on the HUD and shoot an AMRAM. ",
+    ["DictKey_UnitName_377"] = "",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_UnitName_11"] = "Naval-1-1",
+    ["DictKey_UnitName_549"] = "",
+    ["DictKey_UnitName_402"] = "",
+    ["DictKey_WptName_763"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_ActionText_693"] = "マーベリック ビジュアルターゲティング・モードに切り替える前に、ターゲットおよびターゲットエリアを視認すべきでしょう。\
+\
+UFC DEDロッカー・スイッチを使い、ステアポイントを3に設定してください。",
+    ["DictKey_UnitName_445"] = "",
+    ["DictKey_UnitName_458"] = "",
+    ["DictKey_ActionText_66"] = "You failed to shoot down the first target and are out of missiles.  \
+\
+You may start over or continue to fly.",
+    ["DictKey_UnitName_765"] = "Ground-1-1",
+    ["DictKey_UnitName_595"] = "",
+    ["DictKey_ActionText_760"] = "[Turning to Target Area]",
+    ["DictKey_UnitName_373"] = "",
+    ["DictKey_UnitName_287"] = "TGT 1 Su27",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_UnitName_523"] = "SAM 2-13",
+    ["DictKey_WptName_660"] = "",
+    ["DictKey_WptName_729"] = "",
+    ["DictKey_UnitName_446"] = "",
+    ["DictKey_WptName_529"] = "",
+    ["DictKey_UnitName_148"] = "AB Obj -6",
+    ["DictKey_UnitName_371"] = "",
+    ["DictKey_UnitName_393"] = "",
+    ["DictKey_GroupName_384"] = "",
+    ["DictKey_UnitName_533"] = "",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_UnitName_436"] = "",
+    ["DictKey_ActionText_316"] = "Good job. Before you begin the next engagement, set the radar search range to 40 Nm.\
+ \
+Check AIM-120s remaining using the SMS on the right MFD.\
+ \
+Set the Steerpoint to 2 using the UFC DED up switch.\
+ \
+Note: It may help situation awareness to check the HSD. (Switch between Right MFD pages  HOTAS-Stick-DMS Right-Short  presses)\
+ \
+When ready to continue, press SPACEBAR.",
+    ["DictKey_GroupName_448"] = "",
+    ["DictKey_UnitName_441"] = "",
+    ["DictKey_UnitName_544"] = "",
+    ["DictKey_WptName_585"] = "",
+    ["DictKey_WptName_526"] = "",
+    ["DictKey_UnitName_160"] = "AB Obj -10",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_ActionText_250"] = "When ready to continue, press the SPACE bar.",
+    ["DictKey_ActionText_65"] = "",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_ActionText_52"] = "Good Kill!",
+    ["DictKey_UnitName_535"] = "",
+    ["DictKey_UnitName_520"] = "SAM 2-10",
+    ["DictKey_UnitName_705"] = "",
+    ["DictKey_UnitName_514"] = "SAM 2-4",
+    ["DictKey_UnitName_525"] = "SAM 2-15",
+    ["DictKey_ActionText_328"] = "Winchester AIM-120 AMRAM",
+    ["DictKey_UnitName_284"] = "AB Obj -12",
+    ["DictKey_UnitName_489"] = "SPAAA-2",
+    ["DictKey_UnitName_120"] = "Extra Target-4-2",
+    ["DictKey_UnitName_422"] = "SAM 3-6",
+    ["DictKey_WptName_583"] = "",
+    ["DictKey_WptName_282"] = "",
+    ["DictKey_ActionText_687"] = "AGM-65 PREモードでは、TGPを使ってエイムポイントを設定し、ターゲットを指定します。 \
+\
+TGPをSOIにします（HOTAS DMS↓短押し）。TGPの照準マーク（HOTAS TDC）を、スモークマーカーで示された橋梁の中央部に合わせます。 (注：このような鉄桁橋を攻撃する場合は、橋の路盤（デッキ/フロア）の端を狙い、橋桁は狙わないようにしてください。) \
+\
+準備ができたらスペースバーを押してください。",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_ActionText_274"] = "Now look at the Left MFD.  First, We will keep the radar in RWS for this training.\
+\
+Second, use the Left MFD OSB  19 to set the radar search range to 20 Nm.\
+",
+    ["DictKey_ActionText_71"] = "",
+    ["DictKey_UnitName_413"] = "",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_ActionText_352"] = "Congratulations:  You have successfully engaged all of the targets and completed AIM-120 training in the F-16C Viper. You may end the training now or continue to fly.",
+    ["DictKey_WptName_461"] = "",
+    ["DictKey_ActionText_696"] = "アタックランを開始してターゲットエリアに近づく際に、以下の手順を行います。\
+\
+    - HUDを見ながら、赤いスモークマーカーを目視で確認し、ターゲティングボックスをスリューさせてエリアを探索する。\
+    - HUDとWPNディスプレイの交互にみて、ターゲットエリアを確認する。(FOVをNarrowに変更。)\
+    - ターゲティング・ボックスがターゲットエリア上にある状態で、ターゲットをデジグネイトする（HOTAS TMS↑短押し）。\
+    - WPNがSOIになる、マーベリックのクロスヘアでターゲットを絞り込む。\
+        - 射程距離に入ったら、ターゲットをデジグネイトする(HOTAS TMS ↑短押し)。 \
+\
+(マーベリックがロックしない(クロスヘアが閉じない)場合は、デジグネイトを解除して調整し、再度デジグネイトします。) \
+\
+    - ターゲットがロックされたら、マーベリックを撃ちます。\
+\
+アタックランの準備ができたら、スペースバーを押して続行します。",
+    ["DictKey_GroupName_138"] = "AB Obj -1",
+    ["DictKey_GroupName_299"] = "TGT 2 MiG29",
+    ["DictKey_UnitName_423"] = "SAM 3-7",
+    ["DictKey_WptName_221"] = "",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_UnitName_473"] = "",
+    ["DictKey_UnitName_450"] = "",
+    ["DictKey_ActionText_53"] = "Well Done:  You have successfully engaged all of the targets and completed AIM-9 training in the F-16.  You may end the training now or continue to fly.  \
+\
+(A few extra air targets may be found near Sochi - Steerpoint 3).",
+    ["DictKey_ActionText_96"] = "",
+    ["DictKey_UnitName_456"] = "",
+    ["DictKey_ActionText_681"] = "・・・それから、OSB19を押してTGPを表示させます。",
+    ["DictKey_ActionText_26"] = "Welcome to the F-16C AIM-9 Sidewinder training mission:    You are at 12,000 ft MSL, 30 Nm southwest of your home base, Kutaisi AB.  \
+ \
+The first steps will be to set up your aircraft for Air-to-Air combat.\
+ \
+When ready to continue, press the SPACE bar.",
+    ["DictKey_UnitName_598"] = "TGT Helicopter-1",
+    ["DictKey_GroupName_118"] = "Extra Target-4",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_UnitName_407"] = "",
+    ["DictKey_ActionText_23"] = "To set up your F-16C for air-to-air combat, first ensure Master Arm is ON (it should already be in the correct position).  Then press the A-A button on the UFC to put the Viper in air-to-air mode.",
+    ["DictKey_UnitName_534"] = "",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_UnitName_471"] = "SAM 11-9",
+    ["DictKey_ActionText_571"] = "Note Threat rings - \
+\
+\
+Left MFD press OSB 12 x 2",
+    ["DictKey_ActionText_771"] = "  ",
+    ["DictKey_WptName_731"] = "",
+    ["DictKey_ActionText_50"] = "",
+    ["DictKey_UnitName_232"] = "AB Obj -31",
+    ["DictKey_ActionText_95"] = "",
+    ["DictKey_GroupName_416"] = "SAM 3",
+    ["DictKey_ActionText_645"] = "Good Job!\
+AGM-65Kの大型弾頭で橋梁を破壊しました。\
+\
+次の目標はコブレティ基地を守るSA-13です。 ステアポイント2は、ちょうどSAM車輛がある位置に設定されています。\
+\
+UFCロッカースイッチUPでステアポイント2を設定します。 ",
+    ["DictKey_ActionText_587"] = "ターゲットに向かって飛行が始まると、様々なことが一気に起こります。 今からそれらを紹介します。\
+\
+    - 機体は右翼が重いため右に傾きます。左翼ダウン（LWD）のロールトリムを加えて水平を維持してください。\
+    - DLZで目標が見えてきたら、目標をデジグネイトします（TMS↑短押し）。\
+    - WPNにSOIを表示させ（DMS↓ショート）、目標をデジグネイトします（TMS ↑短押し）。 \
+\
+(マーベリック・シーカーのクロスヘア（十字線）が閉じて、強制相関追尾によりロックされたことが示されます。)\
+\
+    - マーベリックのクロスヘアが閉じたら、AGM-65Kを撃ちます。\
+    - マーベリックの重量を補うために再トリムを行います。\
+ \
+          (状況認識（SA）を維持するために、TGPはターゲットを追尾したままにしておくとよいでしょう。)\
+\
+これらの手順を実行する準備ができたら、スペースバーを押してトレーニングランを開始します。",
+    ["DictKey_WptName_713"] = "",
+    ["DictKey_UnitName_112"] = "Extra Target-2-2",
+    ["DictKey_UnitName_372"] = "",
+    ["DictKey_UnitName_513"] = "SAM 2-3",
+    ["DictKey_UnitName_700"] = "",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_GroupName_434"] = "",
+    ["DictKey_GroupName_543"] = "",
+    ["DictKey_ActionText_758"] = "ターゲットエリアはあなたの前方にあります。\
+\
+ターゲットエリアに向かって機首を合わせ、AP ALT HOLDを選択し、スペースバーを押して飛行を一時停止してください。",
+    ["DictKey_ActionText_575"] = "Explain process\
+\
+When ready to continue Press SPACEBAR",
+    ["DictKey_ActionText_314"] = "Splash the Target",
+    ["DictKey_ActionText_574"] = "Message Text",
+    ["DictKey_sortie_5"] = "F-16C - AGM-65 Maverick Training",
+    ["DictKey_UnitName_385"] = "",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_WptName_298"] = "",
+    ["DictKey_UnitName_418"] = "SAM 3-2",
+    ["DictKey_GroupName_503"] = "",
+    ["DictKey_UnitName_562"] = "SAM 6-6",
+    ["DictKey_UnitName_400"] = "",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_UnitName_464"] = "SAM 11-2",
+    ["DictKey_UnitName_703"] = "",
+    ["DictKey_GroupName_768"] = "Static Mark Flag White-1",
+    ["DictKey_UnitName_190"] = "AB Obj -19",
+    ["DictKey_UnitName_567"] = "",
+    ["DictKey_UnitName_102"] = "Extra Target-1-1",
+    ["DictKey_UnitName_477"] = "2S6-1",
+    ["DictKey_ActionText_99"] = "Note that the Dynamic Launch Zone (DLZ) on the right side of the HUD and Radar is fairly small.  This is because both you and the target are traveling in the same direction, producing a low closure rate.  However, notice the IR-seeker's growl, indicating it can readily detect the target's hot engine exhaust.  Regardless of the missile's IR lock, it is best to close to inside the Max Range vs Maneuvering Target bracket on the DLZ.",
+    ["DictKey_GroupName_580"] = "",
+    ["DictKey_UnitName_532"] = "",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_UnitName_438"] = "",
+    ["DictKey_UnitName_451"] = "",
+    ["DictKey_ActionText_634"] = "Ready Run 3\
+\
+When ready to begin, press the SPACEBAR.",
+    ["DictKey_WptName_305"] = "",
+    ["DictKey_ActionText_351"] = "This engagement will be a \"Mad Dog” shot. An AMRAM fired in this mode can and will lock onto the first air target it detects, even friendly aircraft. \
+ \
+Whe ready, will turn towards SP 3 and search for the target using the radar. The target is an SU-24 at approximately 6000 ft / 450 kts heading NE.  \
+ \
+Once detected, do not NOT lock it with the radar, rather maneuver to keep it on the display as you move to intercpt it. \
+ \
+When ready to continue, press the SPACE bar.",
+    ["DictKey_GroupName_213"] = "Static An-26B-1",
+    ["DictKey_GroupName_132"] = "AB Obj -3",
+    ["DictKey_ActionText_67"] = "You failed to shoot down the third target and are out of missiles.  \
+\
+You may start over or continue to fly.",
+    ["DictKey_GroupName_293"] = "",
+    ["DictKey_UnitName_442"] = "",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_UnitName_172"] = "AB Obj -10",
+    ["DictKey_UnitName_409"] = "",
+    ["DictKey_ActionText_501"] = "",
+    ["DictKey_ActionText_22"] = "Intro",
+    ["DictKey_UnitName_569"] = "SAM 6-7",
+    ["DictKey_WptName_433"] = "",
+    ["DictKey_ActionText_350"] = "In this engagement you will attempt to shoot down 2 x MiG-29 in a single pass by using the AMRAM's ability to go active after launch.\
+ \
+The targets are at approximately 16,000 ft, heading NW at 430 knots, in a line abreast formation.\
+ \
+The plan is to lock one target (preferably the closest) in STT and launch an AIM-120 at it while still BVR. You will keep this target locked until the indicator shows the missile as gone active - A counter changes to T counter.\
+ \
+Once the first missile has gone active, you will un-lock the first target, lock the second target and shoot an AIM-120 at it.\
+ \
+If done correctly, you have two AMRAMs in the air against two different targets.\
+ \
+When the second missile goes active, un-lock the second target and be prepared to engage either target should the first shots miss. \
+ \
+When ready to continue, press SPACEBAR.",
+    ["DictKey_WptName_672"] = "",
+    ["DictKey_UnitName_443"] = "",
+    ["DictKey_UnitName_57"] = "",
+    ["DictKey_WptName_306"] = "",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_UnitName_35"] = "TGT 2 -1-2",
+    ["DictKey_UnitName_460"] = "",
+    ["DictKey_UnitName_546"] = "",
+    ["DictKey_ActionText_772"] = "  ",
+    ["DictKey_ActionComment_51"] = "DictKey_ActionComment_51",
+    ["DictKey_ActionText_675"] = "Shack!",
+    ["DictKey_UnitName_142"] = "AB Obj -4-1",
+    ["DictKey_GroupName_430"] = "",
+    ["DictKey_UnitName_199"] = "AB Obj -19",
+    ["DictKey_UnitName_493"] = "SPAAA-6",
+    ["DictKey_GroupName_506"] = "",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_ActionText_499"] = "Next SMS Power On",
+    ["DictKey_WptName_366"] = "",
+    ["DictKey_UnitName_465"] = "SAM 11-3",
+    ["DictKey_UnitName_649"] = "",
+    ["DictKey_GroupName_108"] = "Extra Target-2",
+    ["DictKey_UnitName_603"] = "TGT Helicopter-4",
+    ["DictKey_WptName_429"] = "",
+    ["DictKey_descriptionText_1"] = "F-16C AGM-65トレーニングへようこそ。\
+    \
+AGM-65マーベリックは、精密誘導式のスタンドオフ空対地ミサイルで、装甲部隊、防空部隊、陣地などの目標に最適です。マーベリックシリーズには、シーカーの種類と弾頭タイプが異なる複数のバージョンがあります。  \
+ \
+- AGM-65D. 125ポンドの成形弾頭を持つ赤外線映像シーカー\
+      LAU-117には1発、LAU-88には3発まで搭載可能\
+- AGM-65G. 赤外線映像シーカーと300ポンドの重貫通弾頭\
+      LAU-117にのみ搭載可能\
+- AGM-65H. 125ポンドの成形弾頭を搭載した電子光学シーカー\
+      LAU-117には1発、LAU-88には3発まで搭載可能\
+- AGM-65K. 電子光学シーカーと300ポンドの重貫通弾頭\
+      LAU-117にのみ搭載可能 \
+   \
+このトレーニングを始める前に、DCS F-16Cアーリーアクセスガイド38ページから42ページに記載のF-16CのHOTAS機能に精通している必要があります。\
+\
+また、同ガイドのAGM-65の項も参照してください。\
+    \
+このトレーニングでは、4種類の戦術シナリオが示されます。それぞれのシナリオでは、AGM-65の使用方法のそれぞれ一つについて訓練します。\
+- 重量級弾頭弾/強制相関ターゲティング\
+  (ターゲットのエイムポイントはブリーフィング図2を参照してください。)\
+- TGPからAGM-65Dへのオートハンドオフ・ターゲティング\
+- ビジュアルマーベリックターゲティング\
+- ボアサイトマーベリックターゲティング",
+    ["DictKey_UnitName_151"] = "AB Obj -7",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_UnitName_565"] = "",
+    ["DictKey_ActionText_635"] = "[Silent Reminders]\
+    - Search / ID the target area on the HUD; designate it.\
+    - Refine targeting on WPN.\
+    - Target in range; designate it; shoot AGM-65.",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_ActionText_588"] = " [Silent Reminders]\
+     - Roll trim LWD - wings level.\
+    - When target in range, designate target (TMS Forward Short). \
+    - WPN to SOI (DMS Aft Short) - designate the target (TMS Forward Short).  \
+    - Closed Maverick Crosshairs - Shoot the AGM-65K\
+    - Re-trim roll. ",
+    ["DictKey_WptName_542"] = "",
+    ["DictKey_GroupName_135"] = "AB Obj -4",
+    ["DictKey_UnitName_479"] = "2S6-2",
+    ["DictKey_GroupName_764"] = "Ground-1",
+    ["DictKey_UnitName_472"] = "SAM 11-10",
+    ["DictKey_WptName_767"] = "",
+    ["DictKey_UnitName_281"] = "AB Obj -13",
+    ["DictKey_WptName_279"] = "",
+    ["DictKey_UnitName_379"] = "",
+    ["DictKey_UnitName_139"] = "AB Obj -1",
+    ["DictKey_ActionText_692"] = "TGPをSOIに設定する（HOTAS DMS↓短押し）。 \
+\
+そして、左MFDでOSB2を押して自動ハンドオフを選択します（MANがAUTOに変わる）。",
+    ["DictKey_UnitName_557"] = "SAM 6-1",
+    ["DictKey_ActionText_319"] = "",
+    ["DictKey_UnitName_531"] = "",
+    ["DictKey_UnitName_541"] = "",
+    ["DictKey_UnitName_538"] = "",
+    ["DictKey_UnitName_205"] = "AB Obj -19",
+    ["DictKey_ActionText_694"] = "HUD上のステアポイント／ターゲットエリアのシンボルをメモしてください。続いて、右MFD（WPNディスプレイ）でOSB 2を押してVISモードに変更します。",
+    ["DictKey_ActionText_576"] = "Note Threat rings - \
+\
+\
+Left MFD press OSB 12 x 2",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_GroupName_16"] = "TGT MiG25",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_ActionText_774"] = "  ",
+    ["DictKey_UnitName_452"] = "",
+    ["DictKey_GroupName_59"] = "TGT MiG21",
+    ["DictKey_UnitName_457"] = "",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_ActionText_30"] = "Splash the Target!",
+    ["DictKey_ActionText_686"] = "右翼のAGM-65Kを強制相関状態にするには、OSB 7を押して「WB」、「BW」、「AREA」の順にサイクルさせます。",
+    ["DictKey_ActionText_698"] = "HUD上には、十字のマークがあります。 これがマーベリックの「ボアサイト」です。\
+\
+ボアサイトはTDCで調整することができますが、一般的な方法としては、機体を操縦してHUDのボアの十字マークを目標物の上に置き、素早くデジグネイトしてください。 ボアサイトの十字は地面に対してスタビライズされていないので、地面の一点に「張り付く」ことはなく、機体の操縦に合わせて移動します。(ボアモード使用時は通常、APはOFF）\
+\
+HUD上でボアサイトクロスの左右の中心を保ちつつ、仰角（HUD上の上下位置）を調整して、攻撃姿勢を補うのが良いテクニックです。\
+\
+マーベリックのボアサイトの使い方は、理論的には簡単ですが、少し練習が必要です。\
+    - 機体を操作してボアサイトクロスを目標に向ける。\
+    - 可能であれば、WPNディスプレイを確認してターゲットを絞り込みます。\
+    - ターゲットをデジグネイトする。\
+    - マーベリックのシーカーがロックされていれば、ミサイルを撃つ。\
+    (ロックされていない場合：アンデジグネイト、調整、再デジグネイト） \
+\
+注意：このモードでは、ターゲットがはっきりと見えている必要があります。つまり、ターゲットまでの距離がかなり短く、ミサイルで交戦するには距離が短すぎる場合もあります。状況認識をしっかりと行い、近づきすぎた場合はアタックランを中止します。\
+\
+このトレーニングランを行う準備ができたら、スペースバーを押します。",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_WptName_285"] = "",
+    ["DictKey_UnitName_427"] = "SAM 3-11",
+    ["DictKey_GroupName_32"] = "TGT Su17-A",
+    ["DictKey_UnitName_539"] = "",
+    ["DictKey_ActionText_271"] = "Winchester AIM-9 Sidewinders",
+    ["DictKey_ActionText_804"] = "Good Kill!",
+    ["DictKey_WptName_666"] = "",
+    ["DictKey_UnitName_491"] = "SPAAA-4",
+    ["DictKey_WptName_365"] = "",
+    ["DictKey_UnitName_512"] = "SAM 2-2",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_UnitName_302"] = "TGT 2 MiG29-2",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_397"] = "",
+    ["DictKey_ActionText_689"] = "次に、アクティブなウェポンをAGM-65Dに変更するために、右MFDのOSB14を押してSMSを表示させ、",
+    ["DictKey_WptName_303"] = "",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_WptName_701"] = "",
+    ["DictKey_UnitName_390"] = "",
+    ["DictKey_UnitName_421"] = "SAM 3-5",
+    ["DictKey_UnitName_524"] = "SAM 2-14",
+    ["DictKey_ActionText_813"] = "Riffle!",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_WptName_383"] = "",
+    ["DictKey_UnitName_44"] = "TGT 2 -3-2",
+    ["DictKey_UnitName_226"] = "AB Obj -27",
+    ["DictKey_UnitName_484"] = "2S6-6",
+    ["DictKey_WptName_766"] = "",
+    ["DictKey_UnitName_552"] = "",
+    ["DictKey_ActionText_685"] = "... select the WEP display by pressing OSB 18.",
+    ["DictKey_WptName_304"] = "",
+    ["DictKey_UnitName_517"] = "SAM 2-7",
+    ["DictKey_GroupName_476"] = "2S6",
+    ["DictKey_UnitName_440"] = "",
+    ["DictKey_WptName_599"] = "",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_UnitName_220"] = "AB Obj -24-1",
+    ["DictKey_UnitName_459"] = "",
+    ["DictKey_ActionText_74"] = "Now look at the Left MFD.  First, We will keep the radar in RWS for this training.\
+\
+Second, use the Left MFD OSB  19 to set the radar search range to 20 Nm.\
+",
+    ["DictKey_GroupName_370"] = "",
+    ["DictKey_UnitName_109"] = "Extra Target-2-1",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_UnitName_380"] = "",
+    ["DictKey_UnitName_166"] = "AB Obj -10",
+    ["DictKey_ActionText_637"] = "[Silent Reminders]\
+    - Maneuver to aim the boresight cross.\
+    - Check the WPN display.\
+    - Designate the target.\
+    - If locked, shoot.\
+",
+    ["DictKey_WptName_642"] = "",
+    ["DictKey_UnitName_408"] = "",
+    ["DictKey_WptName_755"] = "",
+    ["DictKey_UnitName_401"] = "",
+    ["DictKey_ActionText_633"] = "ステアポイント2に向けて 旋回する準備が整いました。迅速に旋回するために、目標の大まかな方向に向かうまで、Autopilot Pitch　スイッチをAP OFFに切り替えましょう。その後、AP ALT HOLDに戻して機体を安定させ、ターゲティングに集中します。\
+\
+ターゲティングとアタックの手順は以下の通りです。\
+\
+    - TGPを使って、SA-13のTELを探す。 \
+    \
+注：AGM-65Dは赤外線画像シーカーを使用しているので、TGPの赤外線モードはBHOTまたはWHOTを使用するのがベストです。 これによりマーベリックのシーカーと同様のコントラストが得られます。マーベリックシーカーをロックする際には、「コントラストが王様」であることを忘れないでください。\
+\
+    - 必要に応じてTGPの照準を調整してください。 \
+    - DLZが7Nmを示したら、ターゲットをデジグネイトする（HOTAS TMS ↑短押し）。\
+    - 右MFDに、ハンドオフが行われていることを示すメッセージが表示される。 \
+    - ロックされている場合、マーベリックのクロスヘアは閉じられ、STA3の上に「C」が表示される - AGM-65Dを撃つ。  \
+(ロックされていない場合は、クロスヘアが閉じておらず、「3」の上に「I」が表示されている-デジグネイト解除-調整-再デジグネイト) \
+\
+飛行再開の準備ができたら、スペースバーを押してください。",
+    ["DictKey_UnitName_33"] = "TGT Su17-A",
+    ["DictKey_WptName_616"] = "",
+    ["DictKey_UnitName_229"] = "AB Obj -27",
+    ["DictKey_GroupName_462"] = "SAM 11",
+    ["DictKey_UnitName_581"] = "",
+    ["DictKey_UnitName_214"] = "Static An-26B-1",
+    ["DictKey_UnitName_492"] = "SPAAA-5",
+    ["DictKey_WptName_509"] = "",
+    ["DictKey_UnitName_308"] = "TGT 3 SU24",
+    ["DictKey_GroupName_162"] = "AB Obj -12",
+    ["DictKey_WptName_230"] = "",
+    ["DictKey_ActionText_265"] = "When you do so, note that the right MFD should change to the SMS page. \
+\
+Use the Right MFD OSB 7 to switch between the 4 AIM-9 M that are wing mounted and the 2 AIM-9 L that are wing tip mounted.  (Both nomenclatures use A-9 LM).  \
+\
+Given the engagements planned, it might be better to use the AIM-9Ls against the initial non-maneuvering targets, but the choice is yours, \
+\
+When ready to continue, press the SPACE bar.",
+    ["DictKey_WptName_730"] = "",
+    ["DictKey_ActionText_82"] = "my_wepfiredcount = 0\
+function myfiredeh:onEvent(event)\
+if event.id == world.event.S_EVENT_SHOT then\
+    local unitid = event.initiator\
+    local gid = Unit.getGroup(unitid)\
+    local gname = gid:getName()\
+    if(gname == \"myaigroup\") then\
+        local wpn = event.weapon\
+        local wpntype = wpn:getTypeName()\
+        if(wpntype == \"AIM-9M\") then\
+            my_wepfiredcount = my_wepfiredcount + 1\
+                        trigger.action.outText(\"FOX 2\", 10, false)\
+                      --if (my_wepfiredcount = 4) then\
+                           --  trigger.action.outText(\"Winchester Sidewinders\", 10, false)\
+                           --  trigger.action.setUserFlag(“9”, 1) -- Flag 9 will trip a Go to WP trigger sending the aircraft home \
+                         -- end\
+           end\
+    end\
+end\
+end\
+world.addEventHandler(myfiredeh)",
+    ["DictKey_WptName_485"] = "",
+    ["DictKey_UnitName_211"] = "Static An-26B-1",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_ActionText_683"] = "右MFDで、OSB 7の隣にある「1AG65K」が選択されていることを確認します。\
+\
+この攻撃は事前計画（Pre-Planned）攻撃です。ターゲットの位置はステアポイント1に設定されています。PREが表示されるまで右のMFD OSB 2を押して、「PRE」を設定してください。",
+    ["DictKey_UnitName_217"] = "Static An-26B-1",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_GroupName_210"] = "Static An-26B-1",
+    ["DictKey_UnitName_671"] = "Static MiG-19P-1",
+    ["DictKey_WptName_555"] = "",
+    ["DictKey_UnitName_399"] = "",
+    ["DictKey_UnitName_474"] = "",
+    ["DictKey_WptName_579"] = "",
+    ["DictKey_UnitName_470"] = "SAM 11-8",
+    ["DictKey_ActionText_72"] = "",
+    ["DictKey_UnitName_540"] = "",
+    ["DictKey_WptName_663"] = "",
+    ["DictKey_ActionText_695"] = "Using the UFC DED rocker switch, step the steerpoint to 3.",
+    ["DictKey_UnitName_480"] = "2S6-3",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_UnitName_659"] = "",
+    ["DictKey_WptName_596"] = "",
+    ["DictKey_ActionText_313"] = "On the left MFD, increase the radar search range to 80 Nm. When you do so you should see a target about the middle of the display. It is the first air target.\
+(You can lock t up now or wait until unpaused.)\
+ \
+The first two engagements will follow the same pattern:\
+1 - Lock the target\
+2 - Close the range until at least inside the Max Fly Out range\
+3 - Put the Target Designation Box inside the Allowable Steering Error Circle \
+4 - Fire the missile\
+ \
+When ready to continue, press SPACEBAR.",
+    ["DictKey_UnitName_570"] = "SAM 6-8",
+    ["DictKey_UnitName_518"] = "SAM 2-8",
+    ["DictKey_WptName_657"] = "",
+    ["DictKey_WptName_582"] = "",
+    ["DictKey_WptName_311"] = "",
+    ["DictKey_UnitName_602"] = "TGT Helicopter-3",
+    ["DictKey_UnitName_20"] = "TGT MiG21-2",
+    ["DictKey_UnitName_115"] = "Extra Target-3-2",
+    ["DictKey_UnitName_519"] = "SAM 2-9",
+    ["DictKey_UnitName_420"] = "SAM 3-4",
+    ["DictKey_UnitName_17"] = "TGT MiG25",
+    ["DictKey_UnitName_601"] = "TGT Helicopter-2",
+    ["DictKey_UnitName_437"] = "",
+    ["DictKey_UnitName_444"] = "",
+    ["DictKey_UnitName_563"] = "",
+    ["DictKey_ActionText_591"] = "Good Hit! Good Hit!",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_UnitName_60"] = "TGT MiG21",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_UnitName_300"] = "TGT 2 MiG29-1",
+    ["DictKey_UnitName_376"] = "",
+    ["DictKey_UnitName_665"] = "Static MiG-19P-1",
+    ["DictKey_UnitName_466"] = "SAM 11-4",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_UnitName_208"] = "AB Obj -19",
+    ["DictKey_ActionText_68"] = "You failed to shoot down the second target and are out of missiles.  \
+\
+You may start over or continue to fly.",
+} -- end of dictionary
