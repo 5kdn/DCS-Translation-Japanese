@@ -1,0 +1,1389 @@
+campaign = 
+{
+    ["name_DE"] = "Su-25T - Georgische Ölkrieg",
+    ["name_ES"] = "Su-25T - La Guerra Georgiana del Petróleo",
+    ["name_RU"] = "Су-25T - Битва за нефть",
+    ["name_CS"] = "Su-25T - Gruzinska valka o Ropu",
+    ["picture_СS"] = "Su-25T_GeorgianOilWar.png",
+    ["description"] = "The Georgian Oil War\
+\
+Introduction:\
+\
+With the ever growing demand for oil in world markets, Georgia has taken advantage of its oil-wealth to both improve its infrastructure and its military power.  This became even more important after the Russian invasion of Georgia in 2008. Key to this has been the diversion of oil and natural gas from the South Caucasus and Central Asia regions directly to the West.  In doing so though, Russia has been left out of the economic windfall. Further, both Azerbaijan and Georgia have worked closely together to minimize Russian involvement in oil coming from Baku. \
+\
+To further inflame matters, there exist the oil and gas fields not yet exploited in Kazakhstan.  How this oil will be transported out of Kazakhstan is a matter of contention.  Russia insists that it be routed north through its territory whereas the West would like to see it head West through Georgia. \
+\
+Within this energy/economic environment, both the West and Russia have vital strategic interests in Georgia.  Recognizing this and the insatiable demand for fossil fuels, several western countries and Georgia have created an energy and defense alliance to ensure the uninterrupted flow of oil from the region and to the west and prevent a repeat of the Russian invasion in 2008.  This cooperation has included the granting of western high-technology weaponry and the training of Georgian forces.\
+\
+Recognizing the growing strategic military and economic threat to its south, Russia has taken pre-emptive military action to restore a legitimate government to Georgia and remove western influences from the region.",
+    ["description_DE"] = "Aufgrund der stetig steigenden Öl-Nachfrage auf den Weltmärkten konnte Georgien Vorteile aus seinem Ölreichtum ziehen und seine Infrastruktur und Militärmacht ausbauen. Der Schlüssel dazu liegt in der direkten Lieferung von Öl und Erdgas aus dem Süd-Kaukasus und Zentralasien in den Westen. Auf diese Weise blieb Russland nicht nur von den ökonomischen Profiten ausgeschlossen, mehr noch, Aserbaidschan und Georgien arbeiten eng zusammen, um den russischen Einfluss auf das von Baku kommende Öl zu minimieren.\
+\
+Die Situation wird weiter angeheizt durch die bisher unerschlossenen Öl- und Gasvorkommen in Kasachstan. Wie dieses Öl aus Kasachstan transportiert werden soll, ist Gegenstand von Auseinandersetzungen. Russland besteht darauf, dass die Pipeline im Norden durch russisches Territorium verlaufen soll, während der Westen einen Weg durch Georgien bevorzugen würde.\
+\
+In dieser ökonomisch und energiepolitisch motivierten Situation haben sowohl der Westen als auch Russland vitale Interessen in Georgien. Deshalb und aufgrund der ungestillten Nachfrage nach fossilen Brennstoffen haben mehrere westliche Nationen sowie Georgien ein Energie- und Verteidigungsbündnis geschlossen, um einen ungehinderten Zufluss des Öls aus der Region in den Westen zu gewährleisten. Diese Zusammenarbeit umfasst auch die Lieferung von fortschrittlicher westlicher Waffentechnologie und das Training georgischer Streitkräfte.\
+\
+Im Anbetracht der zunehmenden militär-strategischen und ökonomischen Bedrohung im Süden hat Russland Präventivmaßnahmen ergriffen, um in Georgien eine legitime Regierung wiedereinzusetzen und den westlichen Einfluss in der Region zu minimieren.",
+    ["name_JP"] = "Su-25T - ジョージア石油戦争",
+    ["description_JP"] = "ジョージア石油戦争\
+\
+序章：\
+\
+世界市場での石油需要の高まりに伴い、ジョージアは石油の富を利用してインフラと軍事力を高めようとしました。\
+このことは２００８年にロシアがジョージアへ侵攻してからの最重要課題でした。\
+これを実現する鍵は、石油と天然ガスを南コーカサスと中央アジア地域から西側諸国へ直接送ることのできるパイプラインを引くことでした。しかし、それを行うとロシアは今のような石油による利益を享受できなくなります。さらに、アゼルバイジャンとジョージアは共に協力してバクー（Baku)油田へのロシアの関与を最小限にしようとしていました。\
+\
+さらに問題を深刻化させたのが、カザフスタンで、ここにはまだ未開発の石油とガスの油田がありました。「カザフスタンからの石油をどうやって運び出すか」、これは大きな問題でした。ロシアは自国領を通って北へ送ると主張しましたが、西側諸国はジョージアを通って西に向かうことを望みました。\
+\
+このエネルギー・経済状況の中、西側とロシアは両国共にジョージアの戦略的重要性を認識しています。このことと、化石燃料への飽くなき欲求から、いくつかの西側諸国とジョージアは、石油を西側諸国へ継続的に供給する代わりに、２００８年の侵攻を再び起こさせないための防衛を行う、エネルギー・防衛同盟を締結しました。この同盟には、西側のハイテク兵器の供給と、ジョージア軍との共同訓練も含んでいます。\
+\
+ロシアにとって軍事戦略的、経済戦略的な脅威が増大しています。ロシアはジョージアに正当な政府を取り戻し、この地域への西側の影響力を排除するために、軍事的先制攻撃を仕掛けました。",
+    ["stages"] = 
+    {
+        [1] = 
+        {
+            ["name"] = "A 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P1.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P1.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P1.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P1.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P1.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P1.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P1.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P1.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "A 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P2.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P2.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P2.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P2.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P2.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P2.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P2.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P2.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "A 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P4.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P4.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P4.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P4.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P4.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P4.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P4.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P4.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] = 
+        {
+            ["name"] = "A 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P8.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P8.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P8.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P8.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P8.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P8.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P8.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P8.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [16] = 
+        {
+            ["name"] = "B 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P7.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P7.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P7.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P7.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P7.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P7.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P7.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P7.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [16]
+        [17] = 
+        {
+            ["name"] = "C 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P1.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P1.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P1.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P1.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P1.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P1.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P1.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P1.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [17]
+        [9] = 
+        {
+            ["name"] = "A 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P9.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P9.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P9.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P9.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P9.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P9.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P9.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P9.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [18] = 
+        {
+            ["name"] = "C 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P2.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P2.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P2.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P2.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P2.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P2.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P2.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P2.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [18]
+        [5] = 
+        {
+            ["name"] = "A 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P5.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P5.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P5.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P5.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P5.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P5.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P5.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P5.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "B 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P1.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P1.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P1.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P1.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P1.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P1.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P1.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P1.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [20] = 
+        {
+            ["name"] = "C 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P4.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P4.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P4.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P4.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P4.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P4.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P4.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P4.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [20]
+        [21] = 
+        {
+            ["name"] = "C 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P5.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P5.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P5.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P5.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P5.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P5.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P5.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P5.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [21]
+        [11] = 
+        {
+            ["name"] = "B 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P2.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P2.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P2.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P2.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P2.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P2.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P2.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P2.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [22] = 
+        {
+            ["name"] = "C 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P6.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P6.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P6.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P6.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P6.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P6.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P6.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P6.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [22]
+        [3] = 
+        {
+            ["name"] = "A 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P3.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P3.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P3.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P3.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P3.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P3.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P3.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P3.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] = 
+        {
+            ["name"] = "A 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P6.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P6.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P6.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P6.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P6.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P6.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P6.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P6.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "B 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P3.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P3.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P3.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P3.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P3.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P3.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P3.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P3.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [24] = 
+        {
+            ["name"] = "C 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P8.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P8.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P8.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P8.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P8.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P8.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P8.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P8.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [24]
+        [25] = 
+        {
+            ["name"] = "C 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P9.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P9.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P9.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P9.3.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P9.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P9.2.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P9.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P9.4.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [25]
+        [13] = 
+        {
+            ["name"] = "B 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P4.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P4.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P4.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P4.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P4.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P4.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P4.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P4.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "A 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P7.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P7.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P7.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P7.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P7.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P7.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-A-P7.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-A-P7.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [14] = 
+        {
+            ["name"] = "B 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P5.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P5.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P5.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P5.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P5.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P5.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P5.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P5.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+        [23] = 
+        {
+            ["name"] = "C 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P7.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P7.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P7.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P7.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P7.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P7.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P7.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P7.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [23]
+        [19] = 
+        {
+            ["name"] = "C 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P3.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P3.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P3.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P3.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P3.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P3.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-C-P3.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-C-P3.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [19]
+        [15] = 
+        {
+            ["name"] = "B 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P6.1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P6.1.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P6.2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P6.2.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P6.4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P6.4.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "ATO-B-P6.3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\ATO-B-P6.3.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+    }, -- end of ["stages"]
+    ["name_CN"] = "Su-25T - 格鲁吉亚石油战争",
+    ["version"] = 1,
+    ["fullPath"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\Georgian Oil War - Grand Campaign.cmp",
+    ["picture_RU"] = "Su-25T_GeorgianOilWar_ru.png",
+    ["necessaryUnits"] = 
+    {
+        ["Su-25T"] = "Su-25T",
+    }, -- end of ["necessaryUnits"]
+    ["directory"] = "D:\\DCS\\trunk\\LockOnExe\\Mods\\aircraft\\Su-25T\\Missions\\Campaigns\\",
+    ["startStage"] = 3,
+    ["picture"] = "Su-25T_GeorgianOilWar.png",
+    ["name_FR"] = "Su-25T - Georgian Oil War",
+    ["description_FR"] = "The Georgian Oil War\
+\
+Introduction:\
+\
+Avec la demande toujours croissante des marchés mondiaux du pétrole, la Géorgie a tiré avantage de ses ressources pétrolières pour améliorer à la fois ses infrastructures et sa puissance militaire. Ceci était devenu encore plus crucial après l'invasion de la Géorgie par la Russie en 2008. La cause de tout ceci a été la redirection du pétrole et du gaz naturel des régions du Sud Caucase et d'Asie Centrale, directement vers l'ouest. De ce fait, la Russie a été privée de cette manne économique. En outre, l'Azerbaïdjan et la Géorgie ont travaillé en étroite collaboration afin de minimiser l'implication russe dans l'huile en provenance de Bakou. \
+\
+Pour enflammer encore plus les choses, il existe des champs de pétrole et de gaz non encore exploités au Kazakhstan. La manière dont ce pétrole sera transporté hors du Kazakhstan est un sujet de discorde. La Russie insiste pour qu'il soit acheminé au nord à travers son territoire alors que l'Occident voudrait le voir \"passer à l'Ouest\" à travers la Géorgie. \
+\
+Dans ce contexte énergico-économique, l'Occident et la Russie ont chacun des intérêts stratégiques vitaux en Géorgie. Conscient de ce et de la demande insatiable pour les combustibles fossiles, plusieurs pays occidentaux et la Géorgie ont créé une alliance pour la défense et l'énergie pour assurer le flux ininterrompu de pétrole de la région vers l'ouest, et à prévenir une répétition de l'invasion russe de 2008. Cette coopération a inclu l'octroi d'armement occidental de haute technologie et l'entrainement des forces géorgiennes. \
+\
+Consciente de la montée de la menace stratégique militaire et économique au Sud, la Russie a pris des mesures militaires préventives pour rétablir un gouvernement légitime en Géorgie et supprimer les influences occidentales dans la région.",
+    ["description_CN"] = "格鲁吉亚石油战争\
+\
+随着世界市场对石油不断增长的需求，格鲁吉亚不仅利用其石油财富改善了基础设施，同时还提升了其军事力量。这种改善在2008年俄罗斯入侵格鲁吉亚之后显得更加重要了。这里的关键在于从南高加索和中亚地区直接向西方输送石油和天然气。这样做使得俄罗斯已经不再能发石油横财。此外，阿塞拜疆和格鲁吉亚已展开紧密合作，以减少俄罗斯插手Baku地区的石油问题。\
+\
+哈萨克斯坦拥有的尚未开采的石油和天然气进一步激化了矛盾。如何将石油运出哈萨克斯坦成了争论的焦点。俄罗斯坚持输送管道应由北通过其领土，而西方国家则希望看到它向西通过格鲁吉亚。\
+\
+在当前能源/经济环境下，西方和俄罗斯在格鲁吉亚都存在重要的战略利益。基于这些，以及对化石燃料无尽的需求，一些西方国家和格鲁吉亚已经创立了一个在能源和防务方面的联盟，以确保石油能从此地区不间断地输送到西方，并同时防止2008年俄罗斯入侵事件的重演。这种合作包括西方提供高技术武器装备并训练格鲁吉亚的军队。\
+\
+认识到自身南部正受到不断增长的军事和经济方面的威胁，俄罗斯已经采取先发制人的军事行动来让格鲁吉亚重新拥有一个合法的政府，并同时消除西方在该地区的影响。",
+    ["description_ES"] = "La Guerra Georgiana del Petróleo\
+\
+Introducción:\
+\
+Con la creciente demanda de petróleo en los mercados mundiales, Georgia ha tomado ventaja de sus reservas de petróleo tanto para mejorar su infraestructura como su poder militar. La clave de esto ha sido el transporte del petróleo y del gas natural desde las regiones del sur del Cáucaso y Asia Central directamente hacia Occidente. Sin embargo al hacer eso, Rusia se ha salido del círculo económico. Además, tanto Azerbaijan como Georgia han estado trabajando muy de cerca de forma conjunta para reducir la implicación de Rusia en el petróleo proveniente de Baku. \
+\
+Para acrecentar aún más los problemas, existen en Kazakhstan campos petrolíferos y de gas todavía no explotados. La forma en la que será transportado este petróleo fuera de Kazakhstan es un problema de contención. Rusia insiste en que será dirigido al norte a través de su territorio mientras que a Occidente le gustaría que fuera hacia el oeste a través de Georgia. \
+\
+Dentro de este ambiente económico-energético, tanto Occidente como Rusia tienen intereses estratégicos vitales en Georgia. Reconociendo esto y la insaciable demanda de combustible fósil, muchos países occidentales, junto con Georgia, han creado una alianza de defensa y energía para asegurar un flujo ininterrumpido de petróleo desde la región hacia el oeste. Esta cooperación ha incluido la concesión de armamento occidental de tecnología punta y el entrenamiento de las fuerzas georgianas.\
+\
+Tras reconocer la creciente amenaza estratégica militar y económica al sur de su frontera, Rusia ha tomado medidas militares preventivas para restaurar un gobierno legítimo en Georgia y eliminar de la región influencias occidentales.",
+    ["name"] = "Su-25T - Georgian Oil War",
+    ["name_СS"] = "Su-25T - Georgian Oil War",
+    ["picture_CN"] = "Su-25T_GeorgianOilWar_cn.png",
+    ["description_СS"] = "Gruzie se rozhodla využit svého ropného bohatství a stále rostoucí poptávky po ropě na světových trzích, ke zlepšení své infrastruktury a vojenské síly. Toto rozhodnutí se stalo ještě akutnější po ruské invazi do Gruzie v roce 2008. Klíčem ke splnění tohoto cíle je přesměrování toku ropy a zemního plynu z jižního Kavkazu a Střední Asie přímo na západ. Tak by bylo Rusko odříznuto od tohoto ekonomického zdroje. Dalším krokem je úzká spolupráce Gruzie s Azerbajdžánem a minimalizace ruských přijmu z ropných polí v Baku.\
+\
+Dalším sporným bodem Rusko Gruzínských vztahů se stala doprava ropy a zemního plynu z dosud nevyužívaných ropných polí v Kazachstánu. Zatímco Rusko trvá na tom, že tento plyn a ropa bude směřovat na sever, přes ruské území, tak západní státy by byly raději, aby se tyto suroviny přepravovaly na západ přes Gruzii.\
+\
+V rámci této energeticko-ekonomické situace, kdy jak západ, tak Rusko mají zásadní strategické zájmy v Gruzii, vznikla obranná koalice Gruzie a několika západních zemí, které se přidaly pro svou nenasytnost po ropě. Tato koalice má zajistit plynulý tok ropy z regionu na západ a zabránit opakování ruské invaze z roku 2008. Tato spolupráce zahrnuje poskytnutí západních high-tech zbraní a výcviku gruzínské armády.\
+\
+Rusko, které se cítilo ohroženo rostoucí strategickou, vojenskou a hospodářskou mocí svého jižního souseda, zahájilo preventivní vojenskou akci, která má za cíl obnovit legitimní Gruzínskou vládu a odstranit z Gruzie západní vlivy.",
+    ["description_CS"] = "Gruzie se rozhodla využit svého ropného bohatství a stále rostoucí poptávky po ropě na světových trzích, ke zlepšení své infrastruktury a vojenské síly. Toto rozhodnutí se stalo ještě akutnější po ruské invazi do Gruzie v roce 2008. Klíčem ke splnění tohoto cíle je přesměrování toku ropy a zemního plynu z jižního Kavkazu a Střední Asie přímo na západ. Tak by bylo Rusko odříznuto od tohoto ekonomického zdroje. Dalším krokem je úzká spolupráce Gruzie s Azerbajdžánem a minimalizace ruských přijmu z ropných polí v Baku.\
+\
+Dalším sporným bodem Rusko Gruzínských vztahů se stala doprava ropy a zemního plynu z dosud nevyužívaných ropných polí v Kazachstánu. Zatímco Rusko trvá na tom, že tento plyn a ropa bude směřovat na sever, přes ruské území, tak západní státy by byly raději, aby se tyto suroviny přepravovaly na západ přes Gruzii.\
+\
+V rámci této energeticko-ekonomické situace, kdy jak západ, tak Rusko mají zásadní strategické zájmy v Gruzii, vznikla obranná koalice Gruzie a několika západních zemí, které se přidaly pro svou nenasytnost po ropě. Tato koalice má zajistit plynulý tok ropy z regionu na západ a zabránit opakování ruské invaze z roku 2008. Tato spolupráce zahrnuje poskytnutí západních high-tech zbraní a výcviku gruzínské armády.\
+\
+Rusko, které se cítilo ohroženo rostoucí strategickou, vojenskou a hospodářskou mocí svého jižního souseda, zahájilo preventivní vojenskou akci, která má za cíl obnovit legitimní Gruzínskou vládu a odstranit z Gruzie západní vlivy.",
+    ["description_RU"] = "Битва за нефть\
+\
+Введение:\
+\
+Хорошая конъюнктура на рынке нефти позволила Грузии выручить дополнительные средства на развитие своих инфраструктурных и военных проектов. Для Грузии это было очень актуально после августовского конфликта 2008 года. Причиной укрепления финансового благополучия Грузии стала газотранспортная сеть, идущая из Южного Кавказа и Средней Азии в обход России. Усилилось и сотрудничество Азербайджана и Грузии в нефтяных проектах, целю которого было вытеснение России с рынков данного региона. \
+\
+На повестке дня остро стоит вопрос, о разработке нефтяных месторождений в Казахстане и дальнейших способах транспортировки нефти. Российская сторона предлагает пустить нефть по её территории, в то время как запад хотел бы видеть Грузию в качестве поставщика энергоресурсов на запад. \
+\
+Исходя из этих экономических и энергетических фактов, Грузия является камнем преткновения в геополитических играх Запада и России. Осознавая это, Грузия заключила различные энергетические и военные соглашения со странами запада, что позволило организовать бесперебойные поставки энергоресурсов на запад, а взамен получать современные вооружения и инструкторов.\
+\
+Осознавая растущую военно-политическую и эконмическую угрозу на юге, Россия решила осуществить превентивные действия военного характера для восстановления легитимного правительства Грузии и устранения западного влияния в регионе.",
+} -- end of campaign
