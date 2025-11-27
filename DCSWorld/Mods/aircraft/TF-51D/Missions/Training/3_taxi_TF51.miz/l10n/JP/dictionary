@@ -1,0 +1,107 @@
+dictionary = 
+{
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_18"] = "車が止まったので追いつきましょう。",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_GroupName_49"] = "Batumi-static-UH-1-2",
+    ["DictKey_UnitName_56"] = "Batumi-car",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_GroupName_47"] = "Batumi-static-Yak-40-1 #001",
+    ["DictKey_20"] = "タキシングのレッスンへ、ようこそ\
+\
+スペースキーを押して開始します。",
+    ["DictKey_22"] = "もう一つ重要なのは、操縦桿の位置です。操縦桿を中心より後方に持っていく（パイロット側に引く）と、尾輪の旋回は左右6度に制限されます。これが、タキシングや離陸時の標準的な操縦桿の位置になります。方向を保つのに役立ちますが、機体の旋回が制限されます。\
+\
+操縦桿を中心より前に倒すと、尾輪のロックが解除され、自由な旋回ができるようになります。このとき、ラダーペダルは尾輪を制御しません。このため、タイトなターンが可能になりますが、速度、ブレーキのかけ方、エンジンパワー、ラダーの位置によって機体の旋回が急に激しくなることがあり、コントロールが非常に難しくなります。\
+\
+スペースキーを押して続行します。",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_21"] = "尾輪式を採用した他の機体と同様、本機でもタキシングの操縦は難しいです。前方視界が機首上げ姿勢によって妨げられ、強いブレーキを掛けてしまうと、頭から地面に突っ込んでしまうことも少なくありません。\
+\
+前方の視界を確保するため、機体をジグザグに蛇行し、S字を描くようなタキシングを行います。\
+\
+コックピット内で頭の位置を左右どちらかに動かして、機首付近を覗き込むことができます。そのためには、[左ALT + C]を押してマウスビューモードを有効にし、マウスホイールを押しながらマウスを左右にドラッグしてください。また、[右CTRL + 右SHIFT + Num4] と [右CTRL + 右SHIFT + Num6]のコマンドで頭を左右に移動させることも可能です。\
+\
+スペースキーを押して続行します。",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_GroupName_51"] = "New Static Object #001",
+    ["DictKey_25"] = "操縦桿を中心より後方に引き、尾輪をロックした状態でタキシングします。",
+    ["DictKey_28"] = "車が右側の誘導路に入ります。",
+    ["DictKey_UnitName_42"] = "Batumi-static-bus",
+    ["DictKey_UnitName_44"] = "Batumi-static-car",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_descriptionText_57"] = "",
+    ["DictKey_32"] = "これから右折して駐機場に入り、再び滑走路に向かいます。ここは狭いので、少し注意が必要です。操縦桿を前に押して尾輪のロックを解除する必要があるかもしれません。尾輪のロックが解除されたら、差動ブレーキで旋回をコントロールします。[左CTRL＋W]で左ホイールブレーキ、[左ALT＋W]で右ホイールブレーキが使用できます。",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_19"] = "車が再び動き出します。",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_UnitName_36"] = "Batumi-static-Yak-40-1",
+    ["DictKey_descriptionNeutralsTask_60"] = "",
+    ["DictKey_GroupName_45"] = "Batumi-static-UH-1",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_30"] = "ここで一旦ストップします。",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_GroupName_37"] = "Batumi-static-An-26-1",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_sortie_61"] = "",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_29"] = "車が右折して次の誘導路に入り、滑走路に戻ります。",
+    ["DictKey_33"] = "車はここで停まります。その横に停められるかどうか見てみましょう。",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_26"] = "タキシングの練習のために、誘導車が短いコースを案内します。車は左側の位置で待機しています。\
+\
+準備ができましたら、スペースキーを押してください。",
+    ["DictKey_GroupName_39"] = "Batumi-static-An-26-2",
+    ["DictKey_27"] = "時速10マイル程の速さで移動します。始動時に少しパワーを加えて移動を開始します。テンキーの [+] と [-] でスロットルを操作します。 [Z] と [X] でラダーペダルを操作して、左右に旋回します。必要に応じて、[W] でホイールブレーキを踏みます。\
+\
+ジグザグに走りながら、車の後を追ってコースを走ります。車から30メートル以上離れないようにしましょう。離れすぎた場合、車は止まりますのでご心配なく。あまり近づきすぎても、車は止まってしまいます。絶対にぶつからないよう注意しましょう。",
+    ["DictKey_GroupName_55"] = "Batumi-car",
+    ["DictKey_GroupName_35"] = "Batumi-static-Yak-40-1",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_GroupName_53"] = "Player",
+    ["DictKey_34"] = "これでタキシングレッスンは終了です。お疲れ様でした。",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_UnitName_98"] = "",
+    ["DictKey_23"] = "この滑走路のように滑らかで平坦な路面を走行する場合、エンジンパワーはほとんど必要ありません。\
+\
+また、不必要な摩耗や発熱を防ぐために、ブレーキの使用は最小限に抑えたほうがよいでしょう。離陸後、気温が下がってくると、高温のブレーキは簡単に凍結してしまいます。\
+\
+スペースキーを押して続行します。",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_UnitName_48"] = "Batumi-static-Yak-40-1 #001",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_UnitName_46"] = "Batumi-static-UH-1",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_24"] = "[右CTRL + ENTER]を押すと、「Controls Indicator」が表示され、フライトコントロールの位置を確認することができます。",
+    ["DictKey_UnitName_38"] = "Batumi-static-An-26-1",
+    ["DictKey_UnitName_40"] = "Batumi-static-An-26-2",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_descriptionRedTask_58"] = "",
+    ["DictKey_UnitName_52"] = "New Static Object #001",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_GroupName_41"] = "Batumi-static-bus",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_UnitName_50"] = "Batumi-static-UH-1-2",
+    ["DictKey_descriptionBlueTask_59"] = "",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_GroupName_43"] = "Batumi-static-car",
+    ["DictKey_31"] = "次に、左折して滑走路に入ります。",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_GroupName_97"] = "",
+    ["DictKey_UnitName_54"] = "Player",
+} -- end of dictionary
