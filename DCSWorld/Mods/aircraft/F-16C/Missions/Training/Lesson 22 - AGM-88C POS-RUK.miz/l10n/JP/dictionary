@@ -1,0 +1,1238 @@
+dictionary = 
+{
+    ["DictKey_WptName_309"] = "",
+    ["DictKey_WptName_740"] = "",
+    ["DictKey_ActionText_584"] = "To return to the HAS display, press OSB 1 (HAS)",
+    ["DictKey_ActionText_1025"] = "リストの2番目（T2）にはP-19「FLAT FACE B」が登録されています。通常、SA-3に搭載されているSR（捜索レーダー）です。 これは今回、脅威となるレーダーではないので、55G6「TALL RACK」コードの102と置き換えます。 (また、両レーダーのHARM表示は「S」なので、これを置き換えることで混乱を避けることができます。)\
+\
+ドバー↓でT2を選択してください。",
+    ["DictKey_UnitName_463"] = "SAM 11-1",
+    ["DictKey_UnitName_449"] = "",
+    ["DictKey_UnitName_913"] = "",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_UnitName_753"] = "SAM Roland-11",
+    ["DictKey_ActionText_68"] = "You failed to shoot down the second target and are out of missiles.  \
+\
+You may start over or continue to fly.",
+    ["DictKey_UnitName_594"] = "",
+    ["DictKey_WptName_432"] = "",
+    ["DictKey_ActionText_85"] = "my_wepfiredcount = 0\
+function myfiredeh:onEvent(event)\
+if event.id == world.event.S_EVENT_SHOT then\
+    local unitid = event.initiator\
+    local gid = Unit.getGroup(unitid)\
+    local gname = gid:getName()\
+    if(gname == \"myaigroup\") then\
+        local wpn = event.weapon\
+        local wpntype = wpn:getTypeName()\
+        if(wpntype == \"AIM-9M\") then\
+            my_wepfiredcount = my_wepfiredcount + 1\
+        end\
+    end\
+end\
+end\
+world.addEventHandler(myfiredeh)",
+    ["DictKey_UnitName_469"] = "SAM 11-7",
+    ["DictKey_WptName_488"] = "",
+    ["DictKey_UnitName_980"] = "",
+    ["DictKey_WptName_919"] = "",
+    ["DictKey_ActionText_1014"] = "N 43 06.634 / E 040 34.516;  ELEV 69 feet. ",
+    ["DictKey_UnitName_852"] = "",
+    ["DictKey_ActionText_1072"] = "... テンキーで2（N）、4、3、0、6、6、3、4と入力してください。\
+(数字はハイライトされていません)\
+\
+スペースバーを押して続けてください。",
+    ["DictKey_ActionText_1059"] = "ドバー↓でLNG行へ移ります。",
+    ["DictKey_GroupName_10"] = "Naval-1",
+    ["DictKey_UnitName_238"] = "AB Obj -31",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_UnitName_417"] = "SAM 3-1",
+    ["DictKey_UnitName_163"] = "AB Obj -10",
+    ["DictKey_GroupName_398"] = "",
+    ["DictKey_UnitName_558"] = "SAM 6-2",
+    ["DictKey_UnitName_828"] = "",
+    ["DictKey_UnitName_611"] = "",
+    ["DictKey_ActionText_652"] = "Back on the Left MFD, do as you did for the first training run - \"optimize\" the HAS setting to reduce the search time.  (Use CTR for search area and SRCH to reduce the number of emitters.)\
+\
+If you did this quickly enough, you should still be outside the HAWK's engagement range (as shown on the Right MFD HSD).  \
+\
+When the HAWK begins to track you, designate the HKT symbol and engage the target.  \
+\
+(Remember, this is a live-WEAPONS FREE-training run.  Execute a evasion maneuvers and employ ECM to avoid incoming missiles.)",
+    ["DictKey_ActionText_1024"] = "DEDにはHARM TBL1が表示されています。\
+\
+SA-2エミッター（Fan Song）はテーブル3（TBL3）にあります。 ここでは、早期警戒レーダー55G6をそのテーブルに加えましょう。\
+\
+UFC DEDのロッカー・スイッチを使って、DEDをTBL3にサイクルさせます。",
+    ["DictKey_UnitName_130"] = "AB Obj -1",
+    ["DictKey_ActionText_324"] = "Good Kill!",
+    ["DictKey_UnitName_428"] = "SAM 3-12",
+    ["DictKey_GroupName_216"] = "Static An-26B-1",
+    ["DictKey_ActionText_87"] = "Winchester AIM-9 Sidewinders",
+    ["DictKey_UnitName_548"] = "",
+    ["DictKey_UnitName_382"] = "",
+    ["DictKey_WptName_726"] = "",
+    ["DictKey_UnitName_713"] = "",
+    ["DictKey_WptName_505"] = "",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_UnitName_841"] = "",
+    ["DictKey_UnitName_663"] = "",
+    ["DictKey_WptName_704"] = "",
+    ["DictKey_UnitName_858"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_UnitName_691"] = "HAWK SAM-1",
+    ["DictKey_UnitName_750"] = "SAM Roland-8",
+    ["DictKey_UnitName_618"] = "SAM Roland-10",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_UnitName_696"] = "HAWK SAM-6",
+    ["DictKey_ActionText_47"] = "Good job.  Before you begin the next engagement, set the radar search range to 40 Nm using the Left MFD OSB 20.  Also take a look at the AIM-9s remaining using the SMS on the right MFD.\
+",
+    ["DictKey_ActionText_54"] = "FOX-2",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_WptName_236"] = "",
+    ["DictKey_UnitName_380"] = "",
+    ["DictKey_GroupName_670"] = "",
+    ["DictKey_UnitName_849"] = "",
+    ["DictKey_UnitName_114"] = "Extra Target-3-1",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_WptName_723"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_UnitName_719"] = "",
+    ["DictKey_WptName_720"] = "",
+    ["DictKey_UnitName_860"] = "",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_UnitName_169"] = "AB Obj -10",
+    ["DictKey_UnitName_553"] = "",
+    ["DictKey_ActionText_646"] = "",
+    ["DictKey_ActionText_92"] = "You have run out of AIM-9 missiles before you could engage all of the targets.  You may continue to fly, but no more targets will appear. ",
+    ["DictKey_WptName_333"] = "",
+    ["DictKey_UnitName_612"] = "",
+    ["DictKey_UnitName_756"] = "SAM 8 AAA-1",
+    ["DictKey_ActionText_632"] = "When Ready + Press SPACEBAR to resume flight + turn towards SP 2 and set the AP  flight",
+    ["DictKey_UnitName_537"] = "",
+    ["DictKey_UnitName_507"] = "",
+    ["DictKey_UnitName_495"] = "SPAAA-8",
+    ["DictKey_WptName_332"] = "",
+    ["DictKey_UnitName_511"] = "SAM 2-1",
+    ["DictKey_GroupName_940"] = "Sukhumi ACFT -1",
+    ["DictKey_UnitName_742"] = "SAM Roland-1",
+    ["DictKey_UnitName_607"] = "",
+    ["DictKey_UnitName_435"] = "",
+    ["DictKey_ActionText_334"] = "Winchester; AIM-120 AMRAM",
+    ["DictKey_ActionText_630"] = "Turn to SP 2\
+\
+Press SPACEBAR to continue",
+    ["DictKey_UnitName_859"] = "",
+    ["DictKey_ActionText_24"] = "You are now ready to begin a rear-hemisphere AIM-9 engagement.  You will need to accomplish the following steps fairly quickly so take a moment to review them:\
+ \
+1 - Find / Lock the target on the radar.\
+2 - Accelerate and fly towards the target.\
+3 - Uncage the AIM-9 Seeker [C key].\
+4 - Monitor range to the target using the radar MFD and HUD.\
+5 - When in range and the missile is locked (\"Sidewinder Growl\" in your headset) - Shoot the AIM-9.\
+\
+When ready to continue, press the SPACE bar.",
+    ["DictKey_UnitName_735"] = "SAM 11-8",
+    ["DictKey_UnitName_853"] = "",
+    ["DictKey_WptName_288"] = "",
+    ["DictKey_UnitName_482"] = "2S6-5",
+    ["DictKey_UnitName_410"] = "",
+    ["DictKey_ActionText_1061"] = "ドバー←RTNでもどります。",
+    ["DictKey_GroupName_861"] = "",
+    ["DictKey_ActionText_620"] = "",
+    ["DictKey_UnitName_564"] = "",
+    ["DictKey_UnitName_834"] = "",
+    ["DictKey_UnitName_178"] = "AB Obj -15",
+    ["DictKey_WptName_478"] = "",
+    ["DictKey_UnitName_278"] = "AB Obj -8",
+    ["DictKey_UnitName_566"] = "",
+    ["DictKey_GroupName_37"] = "TGT Su17-B",
+    ["DictKey_UnitName_455"] = "",
+    ["DictKey_ActionText_655"] = "",
+    ["DictKey_ActionText_82"] = "my_wepfiredcount = 0\
+function myfiredeh:onEvent(event)\
+if event.id == world.event.S_EVENT_SHOT then\
+    local unitid = event.initiator\
+    local gid = Unit.getGroup(unitid)\
+    local gname = gid:getName()\
+    if(gname == \"myaigroup\") then\
+        local wpn = event.weapon\
+        local wpntype = wpn:getTypeName()\
+        if(wpntype == \"AIM-9M\") then\
+            my_wepfiredcount = my_wepfiredcount + 1\
+                        trigger.action.outText(\"FOX 2\", 10, false)\
+                      --if (my_wepfiredcount = 4) then\
+                           --  trigger.action.outText(\"Winchester Sidewinders\", 10, false)\
+                           --  trigger.action.setUserFlag(“9”, 1) -- Flag 9 will trip a Go to WP trigger sending the aircraft home \
+                         -- end\
+           end\
+    end\
+end\
+end\
+world.addEventHandler(myfiredeh)",
+    ["DictKey_UnitName_547"] = "",
+    ["DictKey_UnitName_202"] = "AB Obj -19",
+    ["DictKey_WptName_904"] = "",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_UnitName_933"] = "Gudauta ACFT -5-1",
+    ["DictKey_WptName_682"] = "",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_ActionText_653"] = "Tidy Up HAS\
+\
+Search  to CTR ; SRCH for HK  only\
+\
+Wait till HKT - designate and engage",
+    ["DictKey_UnitName_493"] = "SPAAA-6",
+    ["DictKey_ActionText_1071"] = "",
+    ["DictKey_UnitName_708"] = "",
+    ["DictKey_UnitName_119"] = "Extra Target-4-1",
+    ["DictKey_UnitName_561"] = "SAM 6-5",
+    ["DictKey_UnitName_142"] = "AB Obj -4-1",
+    ["DictKey_ActionText_321"] = "Splash the Target",
+    ["DictKey_ActionText_1031"] = "左MFD OSB12（TEST）を2回押してウェポン（WPN）ページを表示させます。",
+    ["DictKey_ActionText_578"] = "",
+    ["DictKey_UnitName_546"] = "",
+    ["DictKey_GroupName_741"] = "SAM Roland",
+    ["DictKey_ActionText_1129"] = "使用できるAGM-88Cがありません。：\
+\
+トレーニングは失敗しました。レッスンを再開することを勧めます。",
+    ["DictKey_UnitName_392"] = "",
+    ["DictKey_ActionText_63"] = "Very Good.  Now take a moment to inspect the cockpit settings. Reset the radar to an adequate search range (at least 40 Nm) on the left MFD.  You should also step to the next Steerpoint using the DED rocker switch on the UFC. (The next target will be circling near Steerpoint 2.)  Again, use the Right MFD SMS page to check the number of Sidewinders remaining.",
+    ["DictKey_WptName_669"] = "",
+    ["DictKey_WptName_863"] = "",
+    ["DictKey_UnitName_196"] = "AB Obj -19",
+    ["DictKey_GroupName_286"] = "TGT 1 Su27",
+    ["DictKey_ActionText_1055"] = "POS RUKでHARMを採用する手順は非常にシンプルです。 実際のところ、最初の目標に向けてミサイルを発射するための準備はすでに整っています。 \
+\
+アタックランを開始したら、HUDの右側にあるDLZ（Dynamic Launch Zone）を見ているだけです。 レンジカラットが最大/最小レンジ表示の中に入ると、HARM BOXが点滅し始めます。 あとはウェポンリリースボタンでミサイルを撃つだけです。\
+\
+(ただし、確実に命中させるためには、レンジカラットを最大射程の80%～90%にした方が良い場合もあります)\
+\
+SIMが一時停止しませんので、TALL RACKレーダーの攻撃に続いて、ステアポイントを「2」に変更し、2つ目のターゲットを攻撃します。2つ目のターゲットを攻撃する際には、コーチングが行われます。\
+\
+トレーニングランを開始する準備ができたら、スペースバーを押してください。",
+    ["DictKey_UnitName_996"] = "",
+    ["DictKey_UnitName_439"] = "",
+    ["DictKey_UnitName_281"] = "AB Obj -13",
+    ["DictKey_ActionText_312"] = "最初のターゲットは55G6 TALL RACK EWレーダーとSA-2 FANSONG FCレーダーです  この訓練は、戦域SAMを破壊する前に、敵の早期警戒体制を「盲目化」することを目的としたSEADミッションを想定しています。 \
+\
+SA-2レーダーは、HARM脅威テーブル3(TBL3)のデフォルト項目に含まれています。TALL RACKレーダーは追加する必要があります。\
+\
+UFCのA-Gボタンを押してください。 ",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_UnitName_821"] = "",
+    ["DictKey_ActionText_1040"] = "  ",
+    ["DictKey_UnitName_672"] = "",
+    ["DictKey_GroupName_988"] = "",
+    ["DictKey_UnitName_715"] = "",
+    ["DictKey_UnitName_387"] = "",
+    ["DictKey_WptName_227"] = "",
+    ["DictKey_UnitName_567"] = "",
+    ["DictKey_ActionComment_1015"] = "",
+    ["DictKey_UnitName_589"] = "SAM Roland-1 EWR",
+    ["DictKey_GroupName_56"] = "",
+    ["DictKey_UnitName_396"] = "",
+    ["DictKey_UnitName_592"] = "SAM Roland-3 ADS",
+    ["DictKey_UnitName_193"] = "AB Obj -19",
+    ["DictKey_ActionText_49"] = "Didn't splash any in the second wave - more ractice",
+    ["DictKey_ActionText_779"] = "  ",
+    ["DictKey_WptName_475"] = "",
+    ["DictKey_UnitName_967"] = "",
+    ["DictKey_UnitName_487"] = "SPAAA-1",
+    ["DictKey_UnitName_836"] = "",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_ActionText_500"] = "You will not really need the SMS for anything else and having good situational awareness (SA) will be important. To provide this SA, set the Right MFD to the Horizontal Situation Display (HSD) with OSB 13.",
+    ["DictKey_UnitName_938"] = "",
+    ["DictKey_ActionText_268"] = "F-16C AGM-88C HARM POS RUKモードのトレーニングへようこそ。 \
+ \
+15,000フィートMSLからスタートして黒海上空で最初のターゲットへ向かいます。機体はAP ALT HOLD/STRG SEL。アクティブポーズとなっています。\
+ \
+最初のステップは、指定ターゲットをHARMシステムに設定することです。この準備は通常、地上かターゲットエリアへのルート飛行中に行います。今回の訓練では、最初のアタックランを開始する前に、アクティブポーズの状態でこのセットアップを行いますが、より穏やかな脅威下で通常行われる手順（マスターARMオフ、AGM-88電源オフ）で行います。\
+\
+このフライトはオートパイロット（AP）で飛行するように設計されており、HARMミサイルの設定と射撃に集中できるようになっています。\
+\
+特に指示がない限り、ハイライトされたボタンを押したり、スペースバーを押したりすれば、すぐに次のステップに進みます。初回のトレーニングでは、各説明を十分に聞いてから、レッスンを進めるためのアクションを行うことをお勧めします。\
+ \
+続ける場合は、スペースバーを押してください。",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_ActionText_64"] = "",
+    ["DictKey_UnitName_419"] = "SAM 3-3",
+    ["DictKey_ActionText_648"] = "To exit the HARM UFC page, Dobber Left \"RTN\".",
+    ["DictKey_UnitName_431"] = "",
+    ["DictKey_UnitName_235"] = "AB Obj -31",
+    ["DictKey_ActionText_100"] = "Get ready to begin a forward-hemisphere AIM-9 engagement.  Again, you will need to accomplish the following steps fairly quickly so review them now:\
+ \
+1 - Find / Lock the target on the radar.\
+2 - Fly towards the target.\
+3 - Uncage the AIM-9 Seeker (buttons).\
+4 - Monitor range to the target using the radar MFD and/or the HUD.\
+5 - When in range and the missile is locked (\"Sidewinder Growl\" in your headset) - Shoot the AIM-9.\
+ \
+Note: The higher closure rate in a forward-hemisphere - \"nose-on-nose\" - engagement means that things will happen much faster; be ready for it. Likewise the IR seeker will take longer to detect the heat of the target.  The DLZ on the HUD and radar display will be much bigger as the closure rate is much higher.",
+    ["DictKey_ActionText_1064"] = "Good Hit! Good Hit!\
+[DOG EAR radar]",
+    ["DictKey_UnitName_420"] = "SAM 3-4",
+    ["DictKey_UnitName_762"] = "",
+    ["DictKey_UnitName_483"] = "",
+    ["DictKey_ActionText_1080"] = " ",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_WptName_700"] = "",
+    ["DictKey_WptName_954"] = "",
+    ["DictKey_UnitName_832"] = "",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_UnitName_709"] = "",
+    ["DictKey_UnitName_444"] = "",
+    ["DictKey_UnitName_593"] = "",
+    ["DictKey_ActionText_70"] = "Good Hit! Good Hit!",
+    ["DictKey_UnitName_405"] = "",
+    ["DictKey_ActionText_1077"] = "このランのトレーニング目標は、少なくとも1つのレーダー（DOG EARまたはSA-15）をキルすることです。\
+\
+レーダーが作動しているときにミサイルを発射すれば命中する可能性が高くなります。 SA-15の方が脅威ですが、DOG EARのレーダーはより頻繁に、より長く活動している可能性が高いでしょう。 \
+\
+戦術的な状況に応じて、攻撃するレーダーを選択してください。間違った答えはありません...ただし、撃墜されてしまうという結果は別です。\
+\
+一つの戦術は、DOG EARが射程距離に入ったらすぐに交戦し、その後、SA-15を追撃することです。もう一つの戦術は、SA-15に向かって射撃し、最初の射撃がうまくいかなかった場合、最後のミサイルを温存するというものです。いずれにしても、SA-15が追尾モードに切り替わったら、すぐに交戦したいところです。 \
+\
+大切なのは、事前に作戦を決めておくことです。\
+\
+アタックランを続けるときは、スペースバーを押してください。",
+    ["DictKey_UnitName_613"] = "",
+    ["DictKey_UnitName_187"] = "AB Obj -19",
+    ["DictKey_UnitName_211"] = "Static An-26B-1",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_UnitName_687"] = "",
+    ["DictKey_UnitName_883"] = "SA-15 RUS -4",
+    ["DictKey_ActionText_1029"] = "これでHARM POSを設定し、戦闘を行う準備が整いました。\
+\
+右MFD OSB7でAGM-88ミサイルの電源を入れます。",
+    ["DictKey_UnitName_388"] = "",
+    ["DictKey_WptName_743"] = "",
+    ["DictKey_UnitName_468"] = "SAM 11-6",
+    ["DictKey_UnitName_381"] = "",
+    ["DictKey_UnitName_466"] = "SAM 11-4",
+    ["DictKey_UnitName_893"] = "",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_ActionText_574"] = "Next select Master ARM to ON.",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_UnitName_133"] = "AB Obj -1",
+    ["DictKey_UnitName_424"] = "SAM 3-8",
+    ["DictKey_UnitName_515"] = "SAM 2-5",
+    ["DictKey_ActionText_583"] = "All five radars in the table are highlighted.  To unselect SA-3 and SA-13, press OSB 16 and OSB 20.",
+    ["DictKey_GroupName_307"] = "TGT 3 SU24",
+    ["DictKey_UnitName_394"] = "",
+    ["DictKey_GroupName_530"] = "",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_UnitName_300"] = "TGT 2 MiG29-1",
+    ["DictKey_UnitName_127"] = "",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_UnitName_992"] = "",
+    ["DictKey_UnitName_820"] = "",
+    ["DictKey_UnitName_516"] = "SAM 2-6",
+    ["DictKey_GroupName_496"] = "SAM 13",
+    ["DictKey_ActionText_1069"] = "1発目のHARMで最初のターゲットを処理できたはずです。UFC DEDのロッカースイッチでステアポイントを「2」に移し、第2のターゲットへの攻撃を開始します。",
+    ["DictKey_WptName_894"] = "",
+    ["DictKey_ActionText_50"] = "",
+    ["DictKey_GroupName_486"] = "SPAAA",
+    ["DictKey_UnitName_851"] = "",
+    ["DictKey_UnitName_563"] = "",
+    ["DictKey_ActionText_777"] = "",
+    ["DictKey_UnitName_675"] = "",
+    ["DictKey_WptName_922"] = "",
+    ["DictKey_ActionText_349"] = "You have run out of AMRAM missiles before you could engage all of the targets. You may continue to fly, but no more new targets will appear.",
+    ["DictKey_UnitName_941"] = "Sukhumi ACFT -1",
+    ["DictKey_UnitName_60"] = "TGT MiG21",
+    ["DictKey_UnitName_677"] = "",
+    ["DictKey_GroupName_207"] = "AB Obj -19",
+    ["DictKey_UnitName_372"] = "",
+    ["DictKey_UnitName_761"] = "",
+    ["DictKey_ActionText_635"] = "Nicely Done!\
+\
+Next engage a Roland nerar Kobuleti AB.\
+\
+Press SPACEBAR When ready to continue.",
+    ["DictKey_ActionText_73"] = "Finally, set the search range on the radar to 20 Nm using the OBS 19 on the Left MFD.",
+    ["DictKey_ActionText_252"] = "When ready to continue, press the SPACE bar.",
+    ["DictKey_WptName_447"] = "",
+    ["DictKey_UnitName_457"] = "",
+    ["DictKey_ActionText_93"] = "",
+    ["DictKey_UnitName_376"] = "",
+    ["DictKey_GroupName_132"] = "AB Obj -3",
+    ["DictKey_UnitName_522"] = "SAM 2-12",
+    ["DictKey_ActionText_1028"] = "",
+    ["DictKey_UnitName_601"] = "",
+    ["DictKey_GroupName_503"] = "",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_UnitName_699"] = "HAWK SAM-9",
+    ["DictKey_ActionText_31"] = "Good Job - FWD QTR Aspect Shot\
+\
+1 - Radar to 40 Nm\
+2 - Find / Lock air target\
+3 - Accel and fly towards it\
+4 - Uncage AIM-9 seeker\
+5 - Watch range\
+6 - Shoot \
+\
+WR Push Space",
+    ["DictKey_ActionText_1126"] = "POS RUK（Range Un-Known）モードになりました。OSB3の下にRUKと表示されます。\
+\
+あなたが使う脅威はテーブル3（TBL3）にあります。\
+\
+OSB2を使ってTBL3にサイクルしてください。",
+    ["DictKey_GroupName_42"] = "TGT Su17-C",
+    ["DictKey_UnitName_481"] = "2S6-4",
+    ["DictKey_WptName_1001"] = "",
+    ["DictKey_UnitName_975"] = "",
+    ["DictKey_UnitName_825"] = "",
+    ["DictKey_WptName_305"] = "",
+    ["DictKey_UnitName_824"] = "",
+    ["DictKey_ActionText_75"] = "This time you must decide on the type of engagement – forward-hemisphere or rear-hemisphere - you will attempt.  The target aircraft will continue to circle until you attack it with a missile.  Once you shoot, the target will attempt to evade the missile(s) and decoy with flares.  It will also try to defend itself.  However, it's AAMs are older - rear aspect only - weapons.\
+\
+Good Luck",
+    ["DictKey_UnitName_425"] = "SAM 3-9",
+    ["DictKey_ActionText_585"] = "The search time has now been reduced to an acceptable 7 seconds.  \
+\
+You should see an \"S\"(search radar) and \"6\" (SA-6) appear in the Detected Target Status Box (DTSB). Below the DTSB, in the HARM FOV display, you should see an \"SA\" and a \"6A\"; \"A\" indicates a radar in acquisition/search mode.  \
+\
+(The S is a P-19 (\"Flat Face B\") search radar associated with the SA-2 site.  The 6 is the SA-6 \"Strait Flush\" radar in acquisition mode.)\
+\
+When you are ready to continue, press the SPACEBAR.",
+    ["DictKey_UnitName_1000"] = "",
+    ["DictKey_UnitName_480"] = "2S6-3",
+    ["DictKey_UnitName_154"] = "AB Obj -7",
+    ["DictKey_ActionText_628"] = "",
+    ["DictKey_UnitName_229"] = "AB Obj -27",
+    ["DictKey_UnitName_847"] = "",
+    ["DictKey_GroupName_543"] = "",
+    ["DictKey_UnitName_763"] = "SAM 8 AAA-4",
+    ["DictKey_UnitName_470"] = "SAM 11-8",
+    ["DictKey_GroupName_213"] = "Static An-26B-1",
+    ["DictKey_UnitName_528"] = "",
+    ["DictKey_ActionText_581"] = "Note Search Time is reduced to approximately 12 seconds.\
+\
+Next, select the applicable Table for the threat.  Since we are well above the AAA threat altitude, we can ignore them.  The remaining threat radars are on the default Table 3 (TBL3).  \
+\
+Pressing the Left MFD OSB 2 to cycle cycles the Threat Tables.  Cycle to TBL3. ",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_UnitName_389"] = "",
+    ["DictKey_UnitName_605"] = "",
+    ["DictKey_UnitName_524"] = "SAM 2-14",
+    ["DictKey_WptName_568"] = "",
+    ["DictKey_UnitName_554"] = "",
+    ["DictKey_UnitName_966"] = "",
+    ["DictKey_UnitName_947"] = "Sukhumi ACFT -1",
+    ["DictKey_GroupName_101"] = "Extra Target-1",
+    ["DictKey_ActionText_781"] = "Heading towards SP 2",
+    ["DictKey_UnitName_217"] = "Static An-26B-1",
+    ["DictKey_UnitName_982"] = "",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_WptName_411"] = "",
+    ["DictKey_UnitName_995"] = "",
+    ["DictKey_UnitName_616"] = "SAM Roland-8",
+    ["DictKey_WptName_414"] = "",
+    ["DictKey_UnitName_722"] = "",
+    ["DictKey_UnitName_597"] = "SAM Roland-4",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_WptName_703"] = "",
+    ["DictKey_UnitName_600"] = "",
+    ["DictKey_UnitName_223"] = "AB Obj -27",
+    ["DictKey_WptName_498"] = "",
+    ["DictKey_WptName_818"] = "",
+    ["DictKey_WptName_688"] = "",
+    ["DictKey_UnitName_760"] = "SAM 8 AAA-3",
+    ["DictKey_GroupName_840"] = "",
+    ["DictKey_UnitName_484"] = "2S6-6",
+    ["DictKey_UnitName_559"] = "SAM 6-3",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_UnitName_391"] = "",
+    ["DictKey_ActionText_640"] = "Next, you will turn towards steerpoint 2. Leave the Auto Pilot in ALT HOLD; STRG SEL and the aircraft will fly the turn by itself.\
+\
+When you are ready to do this, press the SPACEBAR.",
+    ["DictKey_UnitName_386"] = "",
+    ["DictKey_UnitName_184"] = "AB Obj -18",
+    ["DictKey_UnitName_890"] = "",
+    ["DictKey_WptName_1003"] = "",
+    ["DictKey_UnitName_997"] = "",
+    ["DictKey_UnitName_551"] = "",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_UnitName_375"] = "",
+    ["DictKey_ActionText_317"] = "Good Kill! ",
+    ["DictKey_UnitName_599"] = "",
+    ["DictKey_UnitName_214"] = "Static An-26B-1",
+    ["DictKey_WptName_221"] = "",
+    ["DictKey_ActionText_27"] = "",
+    ["DictKey_UnitName_181"] = "AB Obj -6",
+    ["DictKey_WptName_1002"] = "",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_UnitName_695"] = "HAWK SAM-5",
+    ["DictKey_UnitName_604"] = "",
+    ["DictKey_ActionText_636"] = "Set SP to 2",
+    ["DictKey_ActionText_48"] = "Good Kill - However used 3 or more missiles  need more practice",
+    ["DictKey_ActionText_654"] = "Sound silence",
+    ["DictKey_UnitName_421"] = "SAM 3-5",
+    ["DictKey_ActionText_1026"] = "「TALL RACK」の3桁のHARMコードは「102」です。\
+\
+UFCのキーパッドで、1、0、2、そしてENTを押してください。",
+    ["DictKey_ActionText_319"] = "",
+    ["DictKey_UnitName_977"] = "",
+    ["DictKey_GroupName_195"] = "AB Obj -23",
+    ["DictKey_ActionText_94"] = "",
+    ["DictKey_ActionText_271"] = "Winchester AIM-9 Sidewinders",
+    ["DictKey_ActionText_1022"] = "Good Kill!\
+[SA-2 FANSONG ]",
+    ["DictKey_ActionText_1070"] = "AP RollをSTRG SELに戻して、脅威のエリアに向かいます。\
+\
+その後、SP4（DED ロッカースイッチ UP）に切り替え、SP3（DED ロッカースイッチ DOWN）に戻すことで、ステアポイントを「サイクル」させます。\
+\
+これにより、機体は「新しい」SP3 に向かうようになります。\
+\
+(オートパイロットをオーバーライドして、目標地点への旋回を促進させることもできます。「AP ROLL STRG SEL」と「PITCH ALT HOLD」がオンになっていることを確認してください。）\
+\
+ヘディングが定まったら、RWRディスプレイをモニターし、オーディオキューに注意してください。",
+    ["DictKey_UnitName_823"] = "",
+    ["DictKey_UnitName_674"] = "",
+    ["DictKey_WptName_925"] = "",
+    ["DictKey_ActionText_124"] = "Well Done:  You have successfully engaged all of the targets and completed AIM-9 training in the F-16.  You may end the training now or continue to fly.",
+    ["DictKey_UnitName_166"] = "AB Obj -10",
+    ["DictKey_UnitName_731"] = "SAM 11-4",
+    ["DictKey_ActionText_769"] = "Changing the emitters in the tables is done via the UFC.  Press Left MFD OSB 5 to access the HARM UFC pages.",
+    ["DictKey_descriptionBlueTask_3"] = "あなたはCOLT4-1、F-16C単機で、AGM-88C×2（”弾薬制限なし”が設定されており、HARMは4発まで使用可能）を装備しています。また、120発のChaffを装備しています。\
+     \
+他のトレーニングミッションとは異なり、各トレーニングランには複数のターゲットが含まれ。 1つのターゲットへの攻撃から次のターゲットへの攻撃へと間髪入れずに移行します。ただし、2回のトレーニングランの間には休止時間が設けられています。 \
+\
+トレーニングランではおそらく4発のAGM-88すべてを使用することになるでしょう。\
+\
+このトレーニングの焦点はHARMウェポンシステムなので、フライトはオートパイロット（AP）で飛行するように設計されており、HARMミサイルの設定と射撃に集中できるようになっています。\
+\
+注：訓練のなかでHARMウェポンシステムモードの重要な機能を十分に紹介するために「弾薬無制限」オプションが設定されています。この訓練は、AGM-88を4発以上使用せずに終了するように設計されています。4発以上のHARMを使用した場合、トレーニングは失敗となります。\
+\
+ROE \
+\
+あなたのROEはWEAONS FREEです。\
+\
+敵のROEはWEAONS FREEですが、訓練を支援するために一定の制限があります。現実の世界ではよくあることですだが、あなたはその制限が何であるかを知りません。\
+\
+注：このトレーニングは、あなたのペースで進められるように設定されています。  ハイライトされたボタンを押したり、スペースバーを押したりすれば、すぐに次のステップに進みます。初回のトレーニングでは、各項目の説明をよく聞いてから、レッスンを進めるためのアクションを行うことをお勧めします。次回以降のトレーニングでは、ボタンのハイライトが表示されたらすぐにそれを押したり、スペースバーが表示されたらすぐにそれを押したりして、習熟したセクションをスピードアップ することをお勧めします。",
+    ["DictKey_UnitName_984"] = "",
+    ["DictKey_UnitName_570"] = "SAM 6-8",
+    ["DictKey_WptName_383"] = "",
+    ["DictKey_UnitName_490"] = "SPAAA-3",
+    ["DictKey_WptName_1004"] = "",
+    ["DictKey_UnitName_668"] = "",
+    ["DictKey_UnitName_403"] = "",
+    ["DictKey_UnitName_454"] = "",
+    ["DictKey_ActionText_1047"] = "",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_UnitName_981"] = "",
+    ["DictKey_UnitName_220"] = "AB Obj -24-1",
+    ["DictKey_GroupName_510"] = "SAM 2",
+    ["DictKey_UnitName_914"] = "",
+    ["DictKey_UnitName_608"] = "SAM Roland-5",
+    ["DictKey_GroupName_707"] = "",
+    ["DictKey_WptName_945"] = "",
+    ["DictKey_UnitName_497"] = "SAM 13-1",
+    ["DictKey_UnitName_297"] = "",
+    ["DictKey_UnitName_728"] = "SAM 11-1",
+    ["DictKey_WptName_310"] = "",
+    ["DictKey_UnitName_308"] = "TGT 3 SU24",
+    ["DictKey_WptName_365"] = "",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_UnitName_702"] = "KRIVAK FFG",
+    ["DictKey_WptName_415"] = "",
+    ["DictKey_UnitName_374"] = "",
+    ["DictKey_UnitName_456"] = "",
+    ["DictKey_GroupName_690"] = "HAWK SAM",
+    ["DictKey_ActionText_327"] = "When you do so, note that the Right MFD should change to the SMS page showing  the AIM-120 missiles are selected. Using the Right MFD OSB 7, you can switch between the four wing mounted AIM-120B (A120B) and two wingtip mounted AIM-120C (A120C).\
+ \
+When ready to continue, press SPACEBAR.",
+    ["DictKey_ActionText_767"] = "Good Kill!",
+    ["DictKey_UnitName_747"] = "SAM Roland-5",
+    ["DictKey_UnitName_837"] = "",
+    ["DictKey_UnitName_39"] = "TGT 2 -2-2",
+    ["DictKey_UnitName_662"] = "",
+    ["DictKey_WptName_928"] = "",
+    ["DictKey_UnitName_603"] = "",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_ActionText_1050"] = "  ",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_ActionText_638"] = "Next turn towards SP 2 - engage AP",
+    ["DictKey_UnitName_882"] = "SA-15 RUS -3",
+    ["DictKey_GroupName_113"] = "Extra Target-3",
+    ["DictKey_UnitName_378"] = "",
+    ["DictKey_UnitName_596"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_UnitName_660"] = "",
+    ["DictKey_ActionText_621"] = "UFC ",
+    ["DictKey_ActionText_1056"] = "最後にMaster ARMをONにしてください。",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_ActionText_1030"] = "次に、SMSは状況認識（SA）の維持よりも重要ではないので、右MFD OSB 13 HSDを押します。",
+    ["DictKey_UnitName_716"] = "",
+    ["DictKey_UnitName_971"] = "",
+    ["DictKey_GroupName_974"] = "",
+    ["DictKey_UnitName_406"] = "",
+    ["DictKey_ActionText_573"] = "",
+    ["DictKey_descriptionText_1"] = "状況：\
+F-16C AGM-88C HARMのPOSモードトレーニングにようこそ。  \
+    \
+POSモードは、、F-16Cで使用されるAGM-88Cミサイルの3つの運用モードの1つです。このモードでは、ステアポイントに防空レーダーを割り当てたフライトプランを使用します。防空レーダーのエミッター（脅威テーブルから判別される)は、アクティブなステアポイントと組み合わされ、ミサイルのターゲティングに使用されます(「Range Unknown」表示は、ターゲットレーダーまでの実際の距離が不確定であることを示し、ステアポイントまでの距離で代用しています)  。\
+\
+POSモードでは、指定された脅威のエミッターが発振しているかどうかに関わらず、ミサイルを発射することができます。レーダーが作動していれば、HARMはその信号に向けて”ホームイン”します。 レーダーが停止している場合（または電源が切れている場合）、HARMはステアポイントの位置、またはエミッターが最後に検出された位置に追尾します。アクティブなレーダーにホーミングするHARMの方がはるかに正確です。\
+  \
+このトレーニングを始める前に、DCS F-16Cアーリーアクセスガイドの38ページから42ページに記載されているF-16CのHOTAS機能に精通している必要があります。\
+    \
+また、DCS F-16CアーリーアクセスガイドのAGM-88 HARMセクション(244-251ページ)では、HARMの基本機能とHASの手順が説明されていますので、確認しておいてください。 \
+\
+また、この訓練には実際の「敵」からの攻撃が含まれているため、F-16のRWR（Radar Warning Receiver）の表示と音声による警告およびECM（Chaff）機能に精通している必要があります。\
+\
+最後に、このモードはステアポイントに依存するため、UFC STPTページ機能を復習することをお勧めします。\
+\
+このトレーニングでは、2種類の戦術的なシナリオが提示されます。",
+    ["DictKey_UnitName_681"] = "",
+    ["DictKey_UnitName_915"] = "",
+    ["DictKey_UnitName_136"] = "AB Obj -1",
+    ["DictKey_WptName_508"] = "",
+    ["DictKey_UnitName_453"] = "",
+    ["DictKey_WptName_973"] = "",
+    ["DictKey_UnitName_157"] = "AB Obj -7",
+    ["DictKey_UnitName_680"] = "",
+    ["DictKey_WptName_366"] = "",
+    ["DictKey_UnitName_759"] = "",
+    ["DictKey_GroupName_721"] = "",
+    ["DictKey_WptName_397"] = "",
+    ["DictKey_UnitName_390"] = "",
+    ["DictKey_UnitName_536"] = "",
+    ["DictKey_ActionText_634"] = "Start UFC",
+    ["DictKey_ActionText_1062"] = "SA-15(15)とDOG EAR(DE)のレーダーは共にTBL2(Threat Table 2)にあることに留意してください。\
+\
+左MFD OSB2でTBL2に切り替えてください。",
+    ["DictKey_WptName_934"] = "",
+    ["DictKey_ActionText_22"] = "Intro",
+    ["DictKey_UnitName_43"] = "TGT Su17-C",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_WptName_948"] = "",
+    ["DictKey_ActionText_626"] = "Nicely Done!\
+\
+Next set up for Run 2.\
+\
+Set SP to 2 using UFC",
+    ["DictKey_ActionText_323"] = "Well Done: Now take a moment to inspect the cockpit settings.\
+\
+Reset the radar to an adequate search range (at least 40 Nm) on the left MFD.\
+ \
+Step to the next Steerpoint using the DED switch on the UFC. \
+ \
+On the Right MFD SMS page to check remaining AIM-120s. For this run, an AIM-120 C is preferable, but not absolutely necessary.\
+ \
+Also on the SMS page, use OSB 19 to set the missile to BORE to force it to use the Bore Sight Mad Dog mode.\
+ \
+When ready to continue, press SPACEBAR.",
+    ["DictKey_UnitName_831"] = "",
+    ["DictKey_ActionText_29"] = "Winchester AIM-9M",
+    ["DictKey_UnitName_718"] = "",
+    ["DictKey_UnitName_302"] = "TGT 2 MiG29-2",
+    ["DictKey_WptName_289"] = "",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_ActionText_647"] = "Roland SR is next\
+\
+Enter 2 0 5  then ENTR",
+    ["DictKey_ActionText_74"] = "Now look at the Left MFD.  First, We will keep the radar in RWS for this training.\
+\
+Second, use the Left MFD OSB  19 to set the radar search range to 20 Nm.\
+",
+    ["DictKey_GroupName_416"] = "SAM 3",
+    ["DictKey_WptName_855"] = "",
+    ["DictKey_UnitName_850"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_WptName_766"] = "",
+    ["DictKey_ActionText_1057"] = "UFCの数字パッドでSTPT（4）を押して始めます。",
+    ["DictKey_GroupName_412"] = "",
+    ["DictKey_UnitName_994"] = "",
+    ["DictKey_WptName_754"] = "",
+    ["DictKey_GroupName_527"] = "",
+    ["DictKey_ActionText_62"] = "",
+    ["DictKey_UnitName_962"] = "",
+    ["DictKey_GroupName_724"] = "",
+    ["DictKey_UnitName_830"] = "",
+    ["DictKey_WptName_942"] = "",
+    ["DictKey_UnitName_175"] = "AB Obj -15",
+    ["DictKey_GroupName_556"] = "SAM 6",
+    ["DictKey_ActionText_1033"] = "HARM システムのデフォルトはHASモードです。 POS RUKモードに変更するには、まず OSB 1 を押します。",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_UnitName_752"] = "SAM Roland-10",
+    ["DictKey_ActionText_1065"] = "Shack!\
+[SA-15 TELAR]",
+    ["DictKey_ActionText_1058"] = "ドバー↓でLATラインに降りて...。",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_WptName_848"] = "",
+    ["DictKey_UnitName_964"] = "",
+    ["DictKey_UnitName_395"] = "",
+    ["DictKey_WptName_590"] = "",
+    ["DictKey_ActionText_1076"] = "…それｋらENTRを押します。",
+    ["DictKey_UnitName_552"] = "",
+    ["DictKey_UnitName_467"] = "SAM 11-5",
+    ["DictKey_UnitName_764"] = "SAM 8 AAA-5",
+    ["DictKey_UnitName_961"] = "",
+    ["DictKey_UnitName_817"] = "",
+    ["DictKey_ActionText_326"] = "The target is now within 20 Nm; visually search for it. Once you have acquired the FENCER, turn off the radar using the RF Master switch. When the target is within 10 Nm, center it on the HUD and shoot an AMRAM. ",
+    ["DictKey_GroupName_135"] = "AB Obj -4",
+    ["DictKey_ActionText_580"] = "...and then press OSB 12 a second time.",
+    ["DictKey_ActionText_619"] = "",
+    ["DictKey_UnitName_426"] = "SAM 3-10",
+    ["DictKey_UnitName_835"] = "",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_UnitName_377"] = "",
+    ["DictKey_UnitName_531"] = "",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_UnitName_408"] = "",
+    ["DictKey_ActionText_1066"] = "それからLISTボタンを押してください。",
+    ["DictKey_GroupName_476"] = "2S6",
+    ["DictKey_GroupName_32"] = "TGT Su17-A",
+    ["DictKey_subtitle_1012"] = "COLT 4-1; TRAINING CONTROL: Pop up air defense targets at Guduata Air Base.  One SA-15 TELAR; one DOG EAR radar; several support vehicles.  \
+\
+Location N 43 06.634 / E 040 34.516;  Elevation 69 feet.  \
+\
+You are WEAPONS FREE on the targets.",
+    ["DictKey_ActionText_631"] = "While  heading to SP 2, add Roland to TBL 1\
+\
+Press List",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_UnitName_965"] = "",
+    ["DictKey_ActionText_624"] = "Good Hit! Good Hit!",
+    ["DictKey_UnitName_402"] = "",
+    ["DictKey_GroupName_755"] = "SAM 8 AAA",
+    ["DictKey_ActionText_656"] = "DEBUG:  Flag250",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_ActionText_1032"] = "…それからOSB 18 WPNを押します。",
+    ["DictKey_UnitName_749"] = "SAM Roland-7",
+    ["DictKey_UnitName_751"] = "SAM Roland-9",
+    ["DictKey_ActionText_1042"] = "One HARM should take care of the first target.  Begin the attack on the second target by stepping to Steerpoint 2  with the UFC DED rocker switch.",
+    ["DictKey_UnitName_445"] = "",
+    ["DictKey_WptName_279"] = "",
+    ["DictKey_ActionText_66"] = "You failed to shoot down the first target and are out of missiles.  \
+\
+You may start over or continue to fly.",
+    ["DictKey_ActionText_95"] = "",
+    ["DictKey_UnitName_595"] = "",
+    ["DictKey_UnitName_11"] = "Naval-1-1",
+    ["DictKey_ActionText_1038"] = "最初のターゲットはステアポイント1の55G6 TALL RACK EWレーダーです。 \
+\
+左MFD OSB19を押してSearch Radar（S）を選択します。",
+    ["DictKey_UnitName_226"] = "AB Obj -27",
+    ["DictKey_UnitName_737"] = "SAM 11-10",
+    ["DictKey_UnitName_673"] = "",
+    ["DictKey_UnitName_927"] = "Gudauta ACFT -1",
+    ["DictKey_UnitName_748"] = "SAM Roland-6",
+    ["DictKey_UnitName_758"] = "SAM 8 AAA-2",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_UnitName_523"] = "SAM 2-13",
+    ["DictKey_ActionText_1044"] = "次に、左MFD OSB17を押してターゲット・エミッターをSA-2（2）に設定します。",
+    ["DictKey_UnitName_963"] = "",
+    ["DictKey_ActionComment_778"] = "DictKey_ActionComment_778",
+    ["DictKey_ActionText_572"] = "This will bring up the AGM-88 HAS display.  The default setting is a WIDE seeker SCAN using the Table 1 (TBL1)  threat radars.  This configuration gives you a scan time of approximately 49 seconds.  A lower scan time is desired in order to detect threats more quickly.  \
+\
+Additionally, the HSD shows that the nearest threats present are an SA-2, an SA-6, and several AAA. None of these threats are in Table 1; currently they are not targetable.  \
+\
+In the next steps you will reduce the scan volume and select the threat radars that the HARM seeker will look for.  This will greatly reduce the scan time as well as highlight active threats.\
+\
+When you are ready to continue, press the SPACEBAR.",
+    ["DictKey_UnitName_936"] = "Sukhumi AAA-5",
+    ["DictKey_UnitName_446"] = "",
+    ["DictKey_UnitName_910"] = "",
+    ["DictKey_WptName_1018"] = "",
+    ["DictKey_GroupName_657"] = "",
+    ["DictKey_UnitName_978"] = "",
+    ["DictKey_UnitName_148"] = "AB Obj -6",
+    ["DictKey_UnitName_683"] = "",
+    ["DictKey_UnitName_458"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_UnitName_371"] = "",
+    ["DictKey_UnitName_393"] = "",
+    ["DictKey_GroupName_162"] = "AB Obj -12",
+    ["DictKey_UnitName_565"] = "",
+    ["DictKey_GroupName_384"] = "",
+    ["DictKey_ActionText_1037"] = "",
+    ["DictKey_UnitName_533"] = "",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_ActionText_1036"] = "You are now in POS RUK (Range Un-Known) mode. RUK is visible under OSB 3.\
+\
+The threat you are going after are on Table Three (TBL3). \
+\
+Using OSB 2, cycle to TBL3.",
+    ["DictKey_UnitName_944"] = "Sukhumi ACFT -1",
+    ["DictKey_WptName_891"] = "",
+    ["DictKey_UnitName_990"] = "",
+    ["DictKey_UnitName_436"] = "",
+    ["DictKey_UnitName_541"] = "",
+    ["DictKey_ActionText_316"] = "Good job.\
+\
+Next add threat to a table.  \
+\
+Enemy Roland SAM vic Kobuleti AB\
+\
+Set SP to 2\
+\
+Set AP to ALT HLD and SPG",
+    ["DictKey_ActionText_644"] = "The UFC HARM display will now show the five emitters in Table 1 with a 3-digit code for each.  \
+\
+The first entry (T1) shows a highlighted \"110\" (SA-10 FCR). Since there are no SA-10s in the area, we can safely overwrite this entry with the code for HAWK TR.  You use the UFC keypad to do this.  (Note: If you make an error entering the code, use RCL to go back.)\
+\
+Enter 2 0 4 and press ENTR.",
+    ["DictKey_GroupName_448"] = "",
+    ["DictKey_WptName_529"] = "",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_UnitName_465"] = "SAM 11-3",
+    ["DictKey_UnitName_404"] = "",
+    ["DictKey_UnitName_921"] = "Gudauta ACFT -1",
+    ["DictKey_UnitName_698"] = "HAWK SAM-8",
+    ["DictKey_GroupName_293"] = "",
+    ["DictKey_UnitName_544"] = "",
+    ["DictKey_UnitName_844"] = "",
+    ["DictKey_UnitName_734"] = "SAM 11-7",
+    ["DictKey_UnitName_989"] = "",
+    ["DictKey_UnitName_658"] = "",
+    ["DictKey_ActionText_1073"] = "",
+    ["DictKey_UnitName_969"] = "",
+    ["DictKey_UnitName_160"] = "AB Obj -10",
+    ["DictKey_WptName_429"] = "",
+    ["DictKey_UnitName_692"] = "HAWK SAM-2",
+    ["DictKey_UnitName_518"] = "SAM 2-8",
+    ["DictKey_UnitName_534"] = "",
+    ["DictKey_WptName_939"] = "",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_UnitName_745"] = "SAM Roland-3",
+    ["DictKey_ActionText_250"] = "When ready to continue, press the SPACE bar.",
+    ["DictKey_ActionText_641"] = "As you are turning towards Steerpoint 2, you have some time to configure HAS.  \
+\
+First, on the Left MFD, cycle to Table 1 using OSB 2.\
+",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_UnitName_714"] = "",
+    ["DictKey_GroupName_430"] = "",
+    ["DictKey_UnitName_854"] = "",
+    ["DictKey_ActionText_586"] = "The next steps are fairly simple but will often need to be performed quickly.  Take a few seconds to review the procedure before starting the training run:  \
+\
+- Using the HOTAS controls, you will make HAS the SOI (DMS Down)\
+- Move the Target Designator Cursor (TDC) over the \"6A\" symbol\
+- Designate the target (TMS up short).\
+\
+Once locked the HARM \"box\" on the HUD will flash; fire the missile with the Weapon Release button.\
+\
+When you are ready to begin the training run, press the SPACEBAR.",
+    ["DictKey_UnitName_535"] = "",
+    ["DictKey_UnitName_676"] = "",
+    ["DictKey_UnitName_679"] = "",
+    ["DictKey_ActionText_651"] = "おめでとう。あなたはAGM-88C POS RUKのトレーニングを無事終了しました。 \
+\
+今すぐトレーニングを終了するか、または飛行を続けてください。",
+    ["DictKey_UnitName_664"] = "",
+    ["DictKey_UnitName_991"] = "",
+    ["DictKey_UnitName_520"] = "SAM 2-10",
+    ["DictKey_GroupName_826"] = "",
+    ["DictKey_UnitName_667"] = "",
+    ["DictKey_UnitName_514"] = "SAM 2-4",
+    ["DictKey_UnitName_525"] = "SAM 2-15",
+    ["DictKey_UnitName_918"] = "",
+    ["DictKey_GroupName_887"] = "",
+    ["DictKey_UnitName_671"] = "",
+    ["DictKey_UnitName_666"] = "",
+    ["DictKey_ActionText_328"] = "Winchester AIM-120 AMRAM",
+    ["DictKey_UnitName_284"] = "AB Obj -12",
+    ["DictKey_UnitName_829"] = "",
+    ["DictKey_UnitName_993"] = "",
+    ["DictKey_ActionText_1045"] = "前回と同様にHUD右側にあるDLZを確認してください。\
+\
+レンジカラットが最大/最小レンジ表示の中に入り、HARM BOXが点滅したら、ミサイルを撃ちます。",
+    ["DictKey_UnitName_489"] = "SPAAA-2",
+    ["DictKey_WptName_526"] = "",
+    ["DictKey_UnitName_665"] = "",
+    ["DictKey_UnitName_120"] = "Extra Target-4-2",
+    ["DictKey_UnitName_422"] = "SAM 3-6",
+    ["DictKey_UnitName_678"] = "",
+    ["DictKey_ActionText_643"] = "From MISC, select 0 gaian for HARM ",
+    ["DictKey_UnitName_712"] = "",
+    ["DictKey_UnitName_738"] = "SAM 11-11",
+    ["DictKey_UnitName_172"] = "AB Obj -10",
+    ["DictKey_WptName_1020"] = "",
+    ["DictKey_WptName_282"] = "",
+    ["DictKey_GroupName_299"] = "TGT 2 MiG29",
+    ["DictKey_UnitName_409"] = "",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_GroupName_59"] = "TGT MiG21",
+    ["DictKey_ActionText_71"] = "",
+    ["DictKey_UnitName_413"] = "",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_ActionText_352"] = "Congratulations:  You have successfully engaged all of the targets and completed AIM-120 training in the F-16C Viper. You may end the training now or continue to fly.",
+    ["DictKey_WptName_461"] = "",
+    ["DictKey_WptName_839"] = "",
+    ["DictKey_GroupName_686"] = "",
+    ["DictKey_ActionText_1034"] = "モードディスプレイで OSB 20 POS を押します。",
+    ["DictKey_WptName_987"] = "",
+    ["DictKey_ActionText_639"] = "Nicely Done!\
+\
+For the second training run, you will be attacking a HAWK SAM site. HAWK emitters are not in the default tables. The HAWK Tracking radar (AN/MPQ-46) will have to be entered manually.\
+\
+Begin the training run by stepping to steerpoint 2 with the UFC DED Up rocker switch.\
+",
+    ["DictKey_WptName_757"] = "",
+    ["DictKey_UnitName_423"] = "SAM 3-7",
+    ["DictKey_ActionText_1060"] = "ドバー↓でELE（エレベーション）へ、 \
+ 6,9と入力し、ENTRを押します。",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_GroupName_588"] = "SAM Roland",
+    ["DictKey_ActionText_642"] = "Then 0 for MISC",
+    ["DictKey_ActionText_53"] = "Well Done:  You have successfully engaged all of the targets and completed AIM-9 training in the F-16.  You may end the training now or continue to fly.  \
+\
+(A few extra air targets may be found near Sochi - Steerpoint 3).",
+    ["DictKey_ActionText_67"] = "You failed to shoot down the third target and are out of missiles.  \
+\
+You may start over or continue to fly.",
+    ["DictKey_GroupName_843"] = "",
+    ["DictKey_GroupName_701"] = "SA-N-4",
+    ["DictKey_ActionText_771"] = "Magnum!",
+    ["DictKey_UnitName_598"] = "",
+    ["DictKey_UnitName_979"] = "",
+    ["DictKey_WptName_1019"] = "",
+    ["DictKey_UnitName_379"] = "",
+    ["DictKey_ActionText_23"] = "To set up your F-16C for air-to-air combat, first ensure Master Arm is ON (it should already be in the correct position).  Then press the A-A button on the UFC to put the Viper in air-to-air mode.",
+    ["DictKey_UnitName_102"] = "Extra Target-1-1",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_UnitName_471"] = "SAM 11-9",
+    ["DictKey_ActionText_571"] = "Note Threat rings - \
+\
+\
+Left MFD press OSB 12 x 2",
+    ["DictKey_UnitName_730"] = "SAM 11-3",
+    ["DictKey_UnitName_443"] = "",
+    ["DictKey_WptName_845"] = "",
+    ["DictKey_UnitName_232"] = "AB Obj -31",
+    ["DictKey_UnitName_744"] = "SAM Roland-2",
+    ["DictKey_ActionComment_1048"] = "DictKey_ActionComment_1048",
+    ["DictKey_ActionText_645"] = "Dobber down",
+    ["DictKey_ActionText_587"] = "  ",
+    ["DictKey_UnitName_452"] = "",
+    ["DictKey_WptName_706"] = "",
+    ["DictKey_UnitName_916"] = "",
+    ["DictKey_subtitle_1052"] = "COLT 4-1; OVERLORD:  Pop up air defense targets at Guduata Air Base.  One SA-13 TELAR, one DOG EAR radar vehicle, two 2S6 SAM/AAA.  \
+\
+Location N 43 06.596 E 040 14 324.  \
+\
+You are weapons free on the targets.",
+    ["DictKey_UnitName_407"] = "",
+    ["DictKey_UnitName_20"] = "TGT MiG21-2",
+    ["DictKey_sortie_5"] = "F-16C - AGM-88C POS RUK Training",
+    ["DictKey_UnitName_385"] = "",
+    ["DictKey_UnitName_115"] = "Extra Target-3-2",
+    ["DictKey_ActionText_575"] = "The HSD shows that the threats are located just ahead of your aircraft's nose.  Therefore, you can safely change the scan area to Center.\
+\
+On the Left MFD, press OSB 3 once to set the scan area to CTR. ",
+    ["DictKey_UnitName_930"] = "Gudauta ACFT -1",
+    ["DictKey_ActionText_577"] = "yesssssss",
+    ["DictKey_WptName_485"] = "",
+    ["DictKey_WptName_542"] = "",
+    ["DictKey_UnitName_968"] = "",
+    ["DictKey_WptName_298"] = "",
+    ["DictKey_UnitName_418"] = "SAM 3-2",
+    ["DictKey_UnitName_606"] = "",
+    ["DictKey_UnitName_562"] = "SAM 6-6",
+    ["DictKey_ActionText_99"] = "Note that the Dynamic Launch Zone (DLZ) on the right side of the HUD and Radar is fairly small.  This is because both you and the target are traveling in the same direction, producing a low closure rate.  However, notice the IR-seeker's growl, indicating it can readily detect the target's hot engine exhaust.  Regardless of the missile's IR lock, it is best to close to inside the Max Range vs Maneuvering Target bracket on the DLZ.",
+    ["DictKey_UnitName_139"] = "AB Obj -1",
+    ["DictKey_UnitName_464"] = "SAM 11-2",
+    ["DictKey_ActionText_52"] = "Good Kill!",
+    ["DictKey_GroupName_846"] = "",
+    ["DictKey_UnitName_190"] = "AB Obj -19",
+    ["DictKey_ActionText_30"] = "Splash the Target!",
+    ["DictKey_UnitName_972"] = "",
+    ["DictKey_UnitName_477"] = "2S6-1",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_UnitName_614"] = "",
+    ["DictKey_UnitName_532"] = "",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_UnitName_438"] = "",
+    ["DictKey_UnitName_451"] = "",
+    ["DictKey_UnitName_693"] = "HAWK SAM-3",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_ActionText_351"] = "This engagement will be a \"Mad Dog” shot. An AMRAM fired in this mode can and will lock onto the first air target it detects, even friendly aircraft. \
+ \
+Whe ready, will turn towards SP 3 and search for the target using the radar. The target is an SU-24 at approximately 6000 ft / 450 kts heading NE.  \
+ \
+Once detected, do not NOT lock it with the radar, rather maneuver to keep it on the display as you move to intercpt it. \
+ \
+When ready to continue, press the SPACE bar.",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_GroupName_434"] = "",
+    ["DictKey_UnitName_953"] = "Sukhumi ACFT -1",
+    ["DictKey_UnitName_717"] = "",
+    ["DictKey_GroupName_138"] = "AB Obj -1",
+    ["DictKey_UnitName_739"] = "SAM 11-12",
+    ["DictKey_ActionText_274"] = "Now look at the Left MFD.  First, We will keep the radar in RWS for this training.\
+\
+Second, use the Left MFD OSB  19 to set the radar search range to 20 Nm.\
+",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_ActionText_582"] = "Now notice that Table 3 includes two SAM radars that are not currently a known threat; SA-3 (3) and SA-13 (13).\
+\
+To ignore these radars, first bring up the Table 3 Search display by pressing OSB 4 SRCH.",
+    ["DictKey_ActionText_501"] = "",
+    ["DictKey_ActionText_1067"] = "  ",
+    ["DictKey_UnitName_569"] = "SAM 6-7",
+    ["DictKey_WptName_433"] = "",
+    ["DictKey_WptName_842"] = "",
+    ["DictKey_ActionText_1027"] = "DEDのT4行目にはSA-2のコード(126)が既に入力されています。\
+\
+通常のDEDに戻るには、ドバー←RTNです。",
+    ["DictKey_UnitName_519"] = "SAM 2-9",
+    ["DictKey_UnitName_57"] = "",
+    ["DictKey_WptName_306"] = "",
+    ["DictKey_ActionText_65"] = "",
+    ["DictKey_UnitName_35"] = "TGT 2 -1-2",
+    ["DictKey_UnitName_460"] = "",
+    ["DictKey_UnitName_441"] = "",
+    ["DictKey_ActionText_772"] = "Winchester AGM-88 HARM",
+    ["DictKey_ActionComment_51"] = "DictKey_ActionComment_51",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_UnitName_199"] = "AB Obj -19",
+    ["DictKey_UnitName_983"] = "",
+    ["DictKey_GroupName_816"] = "",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_GroupName_506"] = "",
+    ["DictKey_UnitName_473"] = "",
+    ["DictKey_ActionText_499"] = "Next SMS Power On",
+    ["DictKey_WptName_819"] = "",
+    ["DictKey_UnitName_697"] = "HAWK SAM-7",
+    ["DictKey_GroupName_960"] = "",
+    ["DictKey_GroupName_108"] = "Extra Target-2",
+    ["DictKey_UnitName_857"] = "",
+    ["DictKey_UnitName_765"] = "SAM 8 AAA-6",
+    ["DictKey_WptName_889"] = "",
+    ["DictKey_UnitName_151"] = "AB Obj -7",
+    ["DictKey_UnitName_287"] = "TGT 1 Su27",
+    ["DictKey_UnitName_986"] = "",
+    ["DictKey_UnitName_591"] = "SAM Roland-2 ",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_ActionText_774"] = "  ",
+    ["DictKey_UnitName_539"] = "",
+    ["DictKey_UnitName_985"] = "",
+    ["DictKey_UnitName_479"] = "2S6-2",
+    ["DictKey_GroupName_892"] = "",
+    ["DictKey_WptName_951"] = "",
+    ["DictKey_ActionText_26"] = "Welcome to the F-16C AIM-9 Sidewinder training mission:    You are at 12,000 ft MSL, 30 Nm southwest of your home base, Kutaisi AB.  \
+ \
+The first steps will be to set up your aircraft for Air-to-Air combat.\
+ \
+When ready to continue, press the SPACE bar.",
+    ["DictKey_UnitName_746"] = "SAM Roland-4",
+    ["DictKey_UnitName_610"] = "SAM Roland-7",
+    ["DictKey_UnitName_492"] = "SPAAA-5",
+    ["DictKey_UnitName_998"] = "",
+    ["DictKey_UnitName_521"] = "SAM 2-11",
+    ["DictKey_UnitName_557"] = "SAM 6-1",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_UnitName_615"] = "",
+    ["DictKey_UnitName_617"] = "SAM Roland-9",
+    ["DictKey_UnitName_538"] = "",
+    ["DictKey_UnitName_373"] = "",
+    ["DictKey_ActionText_1074"] = "…それからENTRを押します。\
+",
+    ["DictKey_ActionText_576"] = "You should now see the Page Selection Menu.  Press OSB-18 to select WPN.",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_ActionText_69"] = "",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_WptName_304"] = "",
+    ["DictKey_ActionText_1039"] = "The procedure for employing a HARM in POS RUK are very simple.  You are already set up to fire at your first target.  \
+\
+Once you begin the attack run, you will simply watch the DLZ at the right side of the HUD.  When the range carat is inside the max/min range indicator, the HARM BOX will start to flash.  You can then shoot the missile with the Weapon Release Button. (That said, it may sometimes be advisable to let the range carat get about 3/4 max range to better ensure a hit.)\
+\
+Following the attack on the 55G6 radar, you will change to steer point 2 and attack the second target.  Without sim pausing, you will be coached through the second target run\
+\
+When you are ready to begin the training run, press the SPACEBAR.\
+",
+    ["DictKey_GroupName_16"] = "TGT MiG25",
+    ["DictKey_GroupName_296"] = "",
+    ["DictKey_GroupName_727"] = "SAM 11",
+    ["DictKey_UnitName_549"] = "",
+    ["DictKey_ActionText_633"] = "When ready, turn to SP 2 and engage AP",
+    ["DictKey_UnitName_208"] = "AB Obj -19",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_WptName_285"] = "",
+    ["DictKey_UnitName_427"] = "SAM 3-11",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_UnitName_909"] = "",
+    ["DictKey_UnitName_935"] = "Sukhumi AAA-4",
+    ["DictKey_ActionText_1079"] = "  ",
+    ["DictKey_WptName_1005"] = "",
+    ["DictKey_UnitName_491"] = "SPAAA-4",
+    ["DictKey_UnitName_459"] = "",
+    ["DictKey_UnitName_512"] = "SAM 2-2",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_UnitName_440"] = "",
+    ["DictKey_UnitName_609"] = "SAM Roland-6",
+    ["DictKey_UnitName_999"] = "",
+    ["DictKey_ActionText_257"] = "When ready to continue, press the SPACE bar.",
+    ["DictKey_UnitName_294"] = "",
+    ["DictKey_WptName_303"] = "",
+    ["DictKey_ActionText_1035"] = "",
+    ["DictKey_UnitName_685"] = "",
+    ["DictKey_ActionText_627"] = "Next set up for Run 2.\
+\
+Set SP to 2 using UFC",
+    ["DictKey_UnitName_729"] = "SAM 11-2",
+    ["DictKey_GroupName_1016"] = "AWACS",
+    ["DictKey_UnitName_870"] = "",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_UnitName_472"] = "SAM 11-10",
+    ["DictKey_UnitName_44"] = "TGT 2 -3-2",
+    ["DictKey_ActionText_1021"] = "Shack!\
+[TALL RACK EWR]",
+    ["DictKey_ActionText_782"] = "[Silent Reminder]\
+\
+HAWK missile inbound.\
+\
+AP OFF - Chaff - Evasive Manuevers",
+    ["DictKey_UnitName_545"] = "",
+    ["DictKey_UnitName_38"] = "TGT Su17-B",
+    ["DictKey_UnitName_450"] = "",
+    ["DictKey_WptName_959"] = "",
+    ["DictKey_UnitName_517"] = "SAM 2-7",
+    ["DictKey_ActionText_1046"] = "Now that you have fired on the second target, move away from threat.  \
+\
+Step to SP 3 using the DED rocker switch Up.\
+",
+    ["DictKey_UnitName_950"] = "Sukhumi ACFT -1",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_UnitName_862"] = "",
+    ["DictKey_UnitName_550"] = "",
+    ["DictKey_WptName_705"] = "",
+    ["DictKey_GroupName_370"] = "",
+    ["DictKey_UnitName_109"] = "Extra Target-2-1",
+    ["DictKey_UnitName_976"] = "",
+    ["DictKey_UnitName_833"] = "",
+    ["DictKey_WptName_689"] = "",
+    ["DictKey_ActionText_637"] = "Start Flying",
+    ["DictKey_UnitName_205"] = "AB Obj -19",
+    ["DictKey_ActionText_1075"] = "テンキーで「6(E)」「0,4,0,3,4,5,1,6」と入力してください。\
+(数字はハイライトされていません)\
+\
+スペースバーを押して続けてください。",
+    ["DictKey_ActionText_1063"] = "The training goal for this run is to kill at least one radar (DOG EAR or SA-15).\
+\
+As indicated, a shot against an active radar is more likely to achieve a hit.  While the 15 radar(s) are a greater threat, the DOG EAR radar is likely to be active more often/longer.  \
+\
+Choose the radar(s) to attack based on the tactical situation. There is no \"wrong\" answer…except \"the answer\" that gets you shot down.\
+\
+One tactic might be engage the DOG EAR as soon as in range; engage the SA-15 within a minute or immediately when it goes active in any mode. Another tactic may be to fire at the SA-15 first and save your last missile if the first shot doesn't work. The important thing is to decide what you are going to do ahead of time.\
+\
+When ready to continue the attack run, press the SPACEBAR.\
+",
+    ["DictKey_UnitName_401"] = "",
+    ["DictKey_UnitName_145"] = "AB Obj -4-1",
+    ["DictKey_UnitName_33"] = "TGT Su17-A",
+    ["DictKey_UnitName_560"] = "SAM 6-4",
+    ["DictKey_UnitName_684"] = "",
+    ["DictKey_GroupName_462"] = "SAM 11",
+    ["DictKey_UnitName_710"] = "",
+    ["DictKey_UnitName_908"] = "",
+    ["DictKey_UnitName_822"] = "",
+    ["DictKey_WptName_509"] = "",
+    ["DictKey_ActionText_1049"] = "Nicely Done!\
+\
+前述の通り、POS RUKモードでは脅威エミッターをロックしてもしなくてもHARMを発射することができます。 \
+\
+2回目のアタックランでは、新たに確認された脅威からターゲティングを受けることになります。この脅威はまだエミッションを行っていませんが、おそらく近いうちにエミッションを行うでしょう。 GEOCORDS（緯度、経度、標高）を受信してステアポイントを編集し、そのステアポイントをPOS RUK攻撃に使用します。\
+\
+準備ができたらスペースバーを押してください。",
+    ["DictKey_ActionText_1078"] = "2番目のターゲットにミサイルを発射したので 脅威から離れてください  \
+\
+DEDロッカースイッチを上に押してSP3にステップしてください。",
+    ["DictKey_WptName_230"] = "",
+    ["DictKey_ActionText_265"] = "When you do so, note that the right MFD should change to the SMS page. \
+\
+Use the Right MFD OSB 7 to switch between the 4 AIM-9 M that are wing mounted and the 2 AIM-9 L that are wing tip mounted.  (Both nomenclatures use A-9 LM).  \
+\
+Given the engagements planned, it might be better to use the AIM-9Ls against the initial non-maneuvering targets, but the choice is yours, \
+\
+When ready to continue, press the SPACE bar.",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_UnitName_827"] = "",
+    ["DictKey_WptName_856"] = "",
+    ["DictKey_UnitName_733"] = "SAM 11-6",
+    ["DictKey_UnitName_732"] = "SAM 11-5",
+    ["DictKey_ActionComment_579"] = "DictKey_ActionComment_579",
+    ["DictKey_UnitName_736"] = "SAM 11-9",
+    ["DictKey_UnitName_504"] = "",
+    ["DictKey_GroupName_210"] = "Static An-26B-1",
+    ["DictKey_ActionText_314"] = "Splash the Target",
+    ["DictKey_WptName_555"] = "",
+    ["DictKey_UnitName_399"] = "",
+    ["DictKey_UnitName_474"] = "",
+    ["DictKey_UnitName_494"] = "SPAAA-7",
+    ["DictKey_ActionText_350"] = "In this engagement you will attempt to shoot down 2 x MiG-29 in a single pass by using the AMRAM's ability to go active after launch.\
+ \
+The targets are at approximately 16,000 ft, heading NW at 430 knots, in a line abreast formation.\
+ \
+The plan is to lock one target (preferably the closest) in STT and launch an AIM-120 at it while still BVR. You will keep this target locked until the indicator shows the missile as gone active - A counter changes to T counter.\
+ \
+Once the first missile has gone active, you will un-lock the first target, lock the second target and shoot an AIM-120 at it.\
+ \
+If done correctly, you have two AMRAMs in the air against two different targets.\
+ \
+When the second missile goes active, un-lock the second target and be prepared to engage either target should the first shots miss. \
+ \
+When ready to continue, press SPACEBAR.",
+    ["DictKey_ActionText_72"] = "",
+    ["DictKey_UnitName_540"] = "",
+    ["DictKey_UnitName_924"] = "Gudauta ACFT -1",
+    ["DictKey_UnitName_838"] = "",
+    ["DictKey_UnitName_694"] = "HAWK SAM-4 FC",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_UnitName_659"] = "",
+    ["DictKey_UnitName_970"] = "",
+    ["DictKey_ActionText_313"] = "On the left MFD, increase the radar search range to 80 Nm. When you do so you should see a target about the middle of the display. It is the first air target.\
+(You can lock t up now or wait until unpaused.)\
+ \
+The first two engagements will follow the same pattern:\
+1 - Lock the target\
+2 - Close the range until at least inside the Max Fly Out range\
+3 - Put the Target Designation Box inside the Allowable Steering Error Circle \
+4 - Fire the missile\
+ \
+When ready to continue, press SPACEBAR.",
+    ["DictKey_UnitName_1017"] = "AWACS-1",
+    ["DictKey_WptName_895"] = "",
+    ["DictKey_UnitName_888"] = "",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_WptName_311"] = "",
+    ["DictKey_UnitName_602"] = "",
+    ["DictKey_ActionText_502"] = "Moving on with HAS configuration, on the Left MFD you need to see the WPN (Weapon) display. First press OSB 12 (TEST)...",
+    ["DictKey_UnitName_711"] = "",
+    ["DictKey_UnitName_400"] = "",
+    ["DictKey_ActionText_1023"] = "DEDにはMISCオプションが表示されているはずです。 \
+\
+0-HARMを押してください。",
+    ["DictKey_UnitName_17"] = "TGT MiG25",
+    ["DictKey_UnitName_442"] = "",
+    ["DictKey_UnitName_437"] = "",
+    ["DictKey_UnitName_725"] = "",
+    ["DictKey_UnitName_661"] = "",
+    ["DictKey_ActionText_1054"] = "最初に行うべきタスクがあります。 まず、SP3を新しい脅威の場所に変更する必要があります。\
+\
+APコントロールを使って、ROLL HDG SELをセットしてください。\
+(これでAPのヘディングが240に変更され、ステアポイントを調整している間、機体が安定したヘディングを維持できるようになります）",
+    ["DictKey_ActionText_629"] = "Next set AP to ALT HOLD and STRG SEL \
+\
+",
+    ["DictKey_ActionText_623"] = "The F-16 is now set for air-to ground combat.  The next task is to configure the AGM-88C HAS mode.\
+\
+On the Right Multi-Function Display (MFD) you should see the Stores Management System (SMS) display.  Using OSB 7, turn the AGM-88C power ON.",
+    ["DictKey_ActionText_776"] = "右MFDはSMSとAGM-88(4AG88)が選択されているはずです。\
+\
+UFC DEDにはLISTオプションが表示されているはずです。 \
+\
+0-MISCを押してください。",
+    ["DictKey_GroupName_118"] = "Extra Target-4",
+    ["DictKey_ActionText_649"] = "Shack",
+    ["DictKey_UnitName_112"] = "Extra Target-2-2",
+    ["DictKey_ActionText_96"] = "",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_WptName_931"] = "",
+    ["DictKey_UnitName_513"] = "SAM 2-3",
+} -- end of dictionary
