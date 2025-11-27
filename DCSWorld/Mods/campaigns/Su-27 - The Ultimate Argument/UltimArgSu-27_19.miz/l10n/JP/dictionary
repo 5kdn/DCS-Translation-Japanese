@@ -1,0 +1,185 @@
+dictionary = 
+{
+    ["DictKey_UnitName_72"] = "Юнит #004",
+    ["DictKey_UnitName_67"] = "Юнит #003",
+    ["DictKey_GroupName_52"] = "Су-24 пво",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_GroupName_96"] = "ГрузПВО Кутаиси",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_GroupName_79"] = "Бук Suhum2",
+    ["DictKey_UnitName_39"] = "Su-25 278",
+    ["DictKey_20"] = "できるだけたくさん船を破壊して下さい。終了したら報告して下さい。\
+\
+(ラジオメニュー F10)",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_GroupName_73"] = "Бук Gudauta3",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_UnitName_102"] = "Юнит #011",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_UnitName_108"] = "Юнит #025",
+    ["DictKey_UnitName_76"] = "Юнит #016",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_UnitName_47"] = "156",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_69"] = "Юнит #001",
+    ["DictKey_UnitName_74"] = "Юнит #005",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_12"] = "- ラズライト, １３１ 離陸しました\
+- １３１, こちらラズライト, 了解. ３０００まで上昇し、方位１１５へ向かって下さい\
+- １３１, copy.",
+    ["DictKey_GroupName_100"] = "ГрузПВО Кобулети",
+    ["DictKey_UnitName_61"] = "105",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_UnitName_48"] = "155",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_GroupName_90"] = "TRGT 3",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_GroupName_33"] = "Player",
+    ["DictKey_UnitName_31"] = "Юнит #033",
+    ["DictKey_UnitName_35"] = "Player",
+    ["DictKey_UnitName_103"] = "Юнит #010",
+    ["DictKey_UnitName_78"] = "Юнит #006",
+    ["DictKey_GroupName_38"] = "Su-25",
+    ["DictKey_UnitName_27"] = "Юнит #037",
+    ["DictKey_23"] = "ターゲットを全て破壊しました。任務完了を報告して下さい\
+\
+(ラジオメニュー F10)",
+    ["DictKey_13"] = "MISSION IS SUCCESSFULLY ACCOMPLISHED!\
+\
+\
+ミッションを終了していただいてけっこうです",
+    ["DictKey_GroupName_81"] = "Бук Suhum3",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_UnitName_93"] = "Юнит #080",
+    ["DictKey_GroupName_36"] = "Ил-76",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_UnitName_40"] = "Su-25 277",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_UnitName_95"] = "Юнит #078",
+    ["DictKey_14"] = "航空機は破壊されました \
+\
+\
+MISSION IS FAILED!",
+    ["DictKey_GroupName_75"] = "Бук Suhum",
+    ["DictKey_GroupName_66"] = "Бук Gudauta",
+    ["DictKey_UnitName_50"] = "134",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_GroupName_43"] = "Су-25",
+    ["DictKey_UnitName_84"] = "генератор2",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_UnitName_59"] = "Пилот #017",
+    ["DictKey_GroupName_83"] = "генератор2",
+    ["DictKey_UnitName_60"] = "106",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_GroupName_49"] = "133",
+    ["DictKey_UnitName_56"] = "ДРЛО",
+    ["DictKey_UnitName_80"] = "Юнит #018",
+    ["DictKey_UnitName_32"] = "Юнит #032",
+    ["DictKey_UnitName_29"] = "Юнит #035",
+    ["DictKey_GroupName_46"] = "Су-24",
+    ["DictKey_22"] = "任務完了を報告",
+    ["DictKey_UnitName_106"] = "Юнит #027",
+    ["DictKey_GroupName_71"] = "Бук Gudauta2",
+    ["DictKey_UnitName_45"] = "142",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_17"] = "目的地接近を報告",
+    ["DictKey_UnitName_58"] = "Пилот #018",
+    ["DictKey_GroupName_62"] = "Ми-8",
+    ["DictKey_UnitName_44"] = "143",
+    ["DictKey_UnitName_97"] = "Юнит #083",
+    ["DictKey_UnitName_54"] = "259",
+    ["DictKey_UnitName_34"] = "132",
+    ["DictKey_UnitName_88"] = "TRGT 2",
+    ["DictKey_UnitName_109"] = "Юнит #024",
+    ["DictKey_15"] = "航空機は破壊されました \
+\
+\
+MISSION IS FAILED!",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_GroupName_104"] = "T 2",
+    ["DictKey_UnitName_101"] = "Юнит #012",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_UnitName_30"] = "Юнит #034",
+    ["DictKey_24"] = "- ラズライト, こちら１３１.艦船を攻撃、撃沈しました。　帰還します\
+- １３１, こちらラズライト, 了解. 高度３０００で帰還して下さい\
+- こちら１３１, copy, 帰還します",
+    ["DictKey_UnitName_68"] = "Юнит #002",
+    ["DictKey_UnitName_110"] = "Юнит #023",
+    ["DictKey_GroupName_64"] = "Ми-26",
+    ["DictKey_GroupName_87"] = "TRGT",
+    ["DictKey_UnitName_105"] = "Юнит #028",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_UnitName_99"] = "Юнит #081",
+    ["DictKey_descriptionText_111"] = "私達の偵察部隊と妨害グループがすでにポチ（Poti)で活動しています。\
+沿岸警備のコルベットが破壊される恐れがあるため、敵はそれを港から出港させてバツミ（Batumi)に移動させるつもりです。これらのコルベットは確実に脅威となるでしょうし、実際に、これらの一つが海軍機動部隊を攻撃しようとしました。\
+\
+コルベットの破壊が必要であり、海岸からあまり離れていないうちに急いで実行しなくてはなりません。でないと見失い破壊できなくなります。\
+\
+港に停泊中の船舶は地上軍が破壊します。\
+あなたは航行中の船を攻撃して下さい。",
+    ["DictKey_UnitName_28"] = "Юнит #036",
+    ["DictKey_sortie_114"] = "艦船攻撃（Naval deal）",
+    ["DictKey_UnitName_82"] = "Юнит #019",
+    ["DictKey_UnitName_86"] = "генератор1",
+    ["DictKey_GroupName_92"] = "ГрузБук Тбилиси",
+    ["DictKey_19"] = "目的地接近を報告",
+    ["DictKey_GroupName_57"] = "Ми-24",
+    ["DictKey_GroupName_85"] = "генератор1",
+    ["DictKey_UnitName_63"] = "Пилот #019",
+    ["DictKey_16"] = "目的地に近づいたことを報告して下さい.\
+\
+(ラジオメニュー F10)",
+    ["DictKey_GroupName_55"] = "ДРЛО",
+    ["DictKey_UnitName_53"] = "260",
+    ["DictKey_descriptionRedTask_112"] = "飛行隊で出撃して下さい\
+WP2のポチ港（port of Poti ）付近で敵コルベットを発見し、攻撃して下さい。\
+\
+離陸：グダウタ\
+着陸：グダウタ\
+代替：スフミ\
+\
+指揮・管制：\
+あなたのコールサイン：１３１\
+AWACS：５０２\
+戦闘指揮：ラズライト",
+    ["DictKey_UnitName_91"] = "TRGT 3",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_UnitName_107"] = "Юнит #026",
+    ["DictKey_descriptionBlueTask_113"] = "",
+    ["DictKey_UnitName_70"] = "Юнит #1",
+    ["DictKey_UnitName_41"] = "Su-25 276",
+    ["DictKey_UnitName_98"] = "Юнит #082",
+    ["DictKey_18"] = "- ラズライト, こちら１３１. 目的地に到着、攻撃許可をねがいます\
+- こちらラズライト. １３１ 攻撃を許可します\
+- こちら１３１, copy, 攻撃を開始します",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_UnitName_89"] = "TRGT 1",
+    ["DictKey_25"] = "任務完了を報告",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_UnitName_42"] = "Su-25 275",
+    ["DictKey_GroupName_26"] = "A 2",
+    ["DictKey_UnitName_37"] = "Ил-76",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_UnitName_94"] = "Юнит #079",
+    ["DictKey_UnitName_77"] = "Юнит #015",
+    ["DictKey_UnitName_65"] = "Пилот #027",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_21"] = "１隻　撃沈",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_UnitName_51"] = "133",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_WptName_148"] = "",
+} -- end of dictionary

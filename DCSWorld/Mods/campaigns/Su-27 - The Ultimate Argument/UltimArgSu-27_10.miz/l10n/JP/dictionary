@@ -1,0 +1,204 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "Бук Mozd",
+    ["DictKey_UnitName_89"] = "Gr Mi-8 3",
+    ["DictKey_UnitName_67"] = "Юнит #1",
+    ["DictKey_GroupName_52"] = "ДРЛО",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_GroupName_96"] = "ГрузБук Тбилиси2",
+    ["DictKey_UnitName_26"] = "Юнит #023",
+    ["DictKey_UnitName_62"] = "Пилот #027",
+    ["DictKey_GroupName_77"] = "Бук Besl2",
+    ["DictKey_UnitName_73"] = "Юнит #017",
+    ["DictKey_GroupName_79"] = "Бук Besl3",
+    ["DictKey_UnitName_39"] = "Su-25 275",
+    ["DictKey_20"] = "任務の完了を報告して下さい\
+\
+(ラジオメニュー F10)",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_GroupName_88"] = "Gr Mi-8",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_UnitName_102"] = "Юнит #021",
+    ["DictKey_GroupName_40"] = "Су-25",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_UnitName_108"] = "Юнит #007",
+    ["DictKey_UnitName_90"] = "Gr Mi-8 2",
+    ["DictKey_UnitName_76"] = "Юнит #006",
+    ["DictKey_19"] = "敵ヘリコプターを発見し、できるだけたくさん撃墜して下さい\
+任務が完了したらラズライトに報告して下さい\
+\
+(ラジオメニュー F10)\
+",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_UnitName_47"] = "134",
+    ["DictKey_UnitName_36"] = "Su-25 278",
+    ["DictKey_UnitName_66"] = "Юнит #001",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_69"] = "Юнит #004",
+    ["DictKey_UnitName_74"] = "Юнит #016",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_12"] = "MISSION IS SUCCESSFULLY ACCOMPLISHED!\
+\
+ミッションを終了していただいてけっこうです",
+    ["DictKey_GroupName_100"] = "Gruz trgt",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_UnitName_104"] = "Юнит #011",
+    ["DictKey_GroupName_30"] = "Player",
+    ["DictKey_descriptionRedTask_116"] = "コドリ渓谷からの要請です\
+WP1ーWP2間にいる敵ヘリコプターを発見して撃墜して下さい\
+\
+離陸：グダウタ\
+着陸：グダウタ\
+代替：スフミ\
+\
+指揮・管制：\
+あなたのコールサイン：１３１\
+AWACS：５０２\
+戦闘指揮：ラズライト",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_UnitName_48"] = "133",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_UnitName_99"] = "Юнит #081",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_UnitName_38"] = "Su-25 276",
+    ["DictKey_UnitName_57"] = "106",
+    ["DictKey_UnitName_31"] = "132",
+    ["DictKey_UnitName_111"] = "F-5 1",
+    ["DictKey_UnitName_103"] = "Юнит #020",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_GroupName_35"] = "Su-25",
+    ["DictKey_UnitName_78"] = "Юнит #018",
+    ["DictKey_UnitName_105"] = "Юнит #010",
+    ["DictKey_UnitName_27"] = "Юнит #014",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_23"] = "- ラズライト, こちら１３１,応答ねがいます\
+- こちら ラズライト, どうぞ\
+- こちら １３１, 敵ヘリコプターを発見、撃墜しました。任務を完了しましたので帰還します。\
+- １３１, こちら ラズライト, 了解, 高度３０００で帰還して下さい\
+- １３１, copy, 帰還します",
+    ["DictKey_13"] = "航空機は破壊された \
+\
+MISSION IS FAILED!",
+    ["DictKey_GroupName_81"] = "генератор2",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_UnitName_93"] = "Юнит #080",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_UnitName_95"] = "Юнит #078",
+    ["DictKey_14"] = "航空機は破壊された \
+\
+MISSION IS FAILED!",
+    ["DictKey_GroupName_72"] = "Бук Suhum",
+    ["DictKey_UnitName_114"] = "Fantom1",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_UnitName_50"] = "260",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_GroupName_43"] = "Су-24",
+    ["DictKey_11"] = "- ラズライト, １３１ 離陸しました.\
+- １３１, こちら ラズライト, 了解. ３０００まで上昇し　方位８５へ向かって下さい\
+- １３１, copy.",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_GroupName_83"] = "генератор1",
+    ["DictKey_UnitName_60"] = "Пилот #019",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_GroupName_49"] = "Су-24 пво",
+    ["DictKey_UnitName_56"] = "147",
+    ["DictKey_UnitName_80"] = "Юнит #019",
+    ["DictKey_GroupName_68"] = "Бук Mozd2",
+    ["DictKey_UnitName_32"] = "Player",
+    ["DictKey_UnitName_94"] = "Юнит #079",
+    ["DictKey_GroupName_46"] = "133",
+    ["DictKey_sortie_118"] = "ヘリコプター狩り（Choppers hunters）",
+    ["DictKey_22"] = "任務の完了を報告",
+    ["DictKey_UnitName_106"] = "Юнит #009",
+    ["DictKey_UnitName_45"] = "151",
+    ["DictKey_GroupName_54"] = "Ми-24",
+    ["DictKey_17"] = "- ラズライト, こちら １３１. WP2を通過しました,探索を開始します\
+- １３１, こちら ラズライト, 了解. 任務を開始して下さい",
+    ["DictKey_UnitName_42"] = "142",
+    ["DictKey_UnitName_44"] = "152",
+    ["DictKey_UnitName_28"] = "Юнит #013",
+    ["DictKey_descriptionText_115"] = "コドリ渓谷でアブハジア軍はジョージア軍を川の上流まで激しく追い立ててました。細くて通行しづらい道は自国の領土へすばやく撤退するのを阻みました。ジョージア軍は輸送ヘリを脱出のために送り込みました。\
+\
+アブハジア軍は兵士が撤退することは気にしませんでしたが、戦闘ヘリが輸送ヘリに随行していました。\
+\
+我軍の歩兵から、ジョージア軍のヘリから攻撃を受けているので、助けてほしいと連絡が入りました。\
+\
+あなたの任務は、コドリ渓谷の敵ヘリコプターを発見して撃墜することです",
+    ["DictKey_UnitName_75"] = "Юнит #015",
+    ["DictKey_UnitName_34"] = "Ил-76",
+    ["DictKey_UnitName_55"] = "148",
+    ["DictKey_UnitName_71"] = "Юнит #005",
+    ["DictKey_UnitName_64"] = "Юнит #003",
+    ["DictKey_15"] = "任務地に到着したことを報告して下さい\
+\
+(ラジオメニュー F10)\
+",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_UnitName_101"] = "Юнит #022",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_UnitName_84"] = "генератор1",
+    ["DictKey_GroupName_109"] = "Gruz F-5",
+    ["DictKey_GroupName_24"] = "Column",
+    ["DictKey_GroupName_112"] = "Gruz Fantom",
+    ["DictKey_UnitName_97"] = "Юнит #083",
+    ["DictKey_UnitName_113"] = "Fantom2",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_UnitName_110"] = "F-5 2",
+    ["DictKey_GroupName_33"] = "Ил-76",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_GroupName_70"] = "Бук Mozd3",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_descriptionBlueTask_117"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_16"] = "到着を報告",
+    ["DictKey_UnitName_82"] = "генератор2",
+    ["DictKey_UnitName_86"] = "Gr Mi-24 2",
+    ["DictKey_GroupName_92"] = "ГрузБук Тбилиси",
+    ["DictKey_GroupName_61"] = "Ми-26",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_GroupName_85"] = "Gr Mi-24",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_21"] = "任務の完了を報告",
+    ["DictKey_UnitName_53"] = "ДРЛО",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_UnitName_91"] = "Gr Mi-8 1",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_UnitName_29"] = "Юнит #012",
+    ["DictKey_UnitName_41"] = "143",
+    ["DictKey_UnitName_107"] = "Юнит #008",
+    ["DictKey_UnitName_98"] = "Юнит #082",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_UnitName_58"] = "105",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_18"] = "到着を報告",
+    ["DictKey_UnitName_87"] = "Gr Mi-24 1",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_UnitName_37"] = "Su-25 277",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_UnitName_65"] = "Юнит #002",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_UnitName_25"] = "Юнит #024",
+    ["DictKey_GroupName_59"] = "Ми-8",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_UnitName_51"] = "259",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_WptName_173"] = "",
+} -- end of dictionary

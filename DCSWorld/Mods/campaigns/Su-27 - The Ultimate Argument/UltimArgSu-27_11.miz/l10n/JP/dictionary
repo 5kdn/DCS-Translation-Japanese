@@ -1,0 +1,147 @@
+dictionary = 
+{
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_descriptionBlueTask_84"] = "",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_UnitName_26"] = "Su-25 275",
+    ["DictKey_UnitName_62"] = "Юнит #017",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_GroupName_68"] = "Бук Besl3",
+    ["DictKey_UnitName_32"] = "151",
+    ["DictKey_UnitName_29"] = "142",
+    ["DictKey_GroupName_79"] = "Gruz Fantom",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_10"] = "MISSION IS SUCCESSFULLY ACCOMPLISHED!\
+\
+ミッションを終了していただいてけっこうです",
+    ["DictKey_GroupName_48"] = "Ми-8",
+    ["DictKey_UnitName_25"] = "Su-25 276",
+    ["DictKey_UnitName_45"] = "Пилот #017",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_UnitName_58"] = "Юнит #004",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_17"] = "任務完了を報告する",
+    ["DictKey_UnitName_42"] = "Пилот #001",
+    ["DictKey_GroupName_57"] = "Бук Mozd2",
+    ["DictKey_UnitName_44"] = "Пилот #018",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_UnitName_28"] = "143",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_UnitName_75"] = "Predator",
+    ["DictKey_UnitName_47"] = "Пилот #015",
+    ["DictKey_UnitName_51"] = "Пилот #027",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_UnitName_34"] = "134",
+    ["DictKey_UnitName_55"] = "Юнит #001",
+    ["DictKey_sortie_85"] = "プレデター（Predator）",
+    ["DictKey_UnitName_54"] = "Юнит #002",
+    ["DictKey_UnitName_71"] = "генератор2",
+    ["DictKey_UnitName_64"] = "Юнит #015",
+    ["DictKey_15"] = "任務完了を報告する",
+    ["DictKey_UnitName_69"] = "Юнит #019",
+    ["DictKey_GroupName_59"] = "Бук Mozd3",
+    ["DictKey_12"] = "敵UAVは国境を超えました\
+\
+MISSION IS FAILED!",
+    ["DictKey_UnitName_19"] = "Player",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_GroupName_41"] = "Самолетная группа",
+    ["DictKey_GroupName_52"] = "Бук Mozd",
+    ["DictKey_16"] = "- ラズライト, こちら １３１, 応答ねがいます\
+- ラズライト, どうぞ\
+- こちら １３１, UAVを攻撃、撃破しました\
+- こちら ラズライト, 了解, 帰還して下さい\
+- １３１, copy, 帰還します",
+    ["DictKey_14"] = "任務完了を報告して下さい\
+\
+(ラジオメニュー F10)",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_UnitName_81"] = "Fantom1",
+    ["DictKey_GroupName_30"] = "Су-24",
+    ["DictKey_UnitName_37"] = "260",
+    ["DictKey_UnitName_49"] = "Пилот #019",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_GroupName_70"] = "генератор2",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_UnitName_46"] = "Пилот #016",
+    ["DictKey_GroupName_33"] = "133",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_UnitName_21"] = "Ил-76",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_UnitName_38"] = "259",
+    ["DictKey_GroupName_22"] = "Su-25",
+    ["DictKey_GroupName_50"] = "Ми-26",
+    ["DictKey_UnitName_31"] = "152",
+    ["DictKey_9"] = "- ラズライト, １３１ 離陸しました\
+- １３１, こちら ラズライト, 了解 ３０００まで上昇して捜索、撃墜して下さい\
+- １３１, copy.",
+    ["DictKey_UnitName_35"] = "133",
+    ["DictKey_GroupName_20"] = "Ил-76",
+    ["DictKey_descriptionText_82"] = "長い間、MO-1 プレデターのような敵の無人航空機（UAV)が戦闘エリアで活動していました。今日は特殊なケースで、プレデターが私達の領土に深く入り込んで来ており、今現在スフミに近づいています。\
+\
+敵が何を偵察しようとしているかはわかりませんが、おそらく町の空港や軍事施設の偵察でしょう。とにかくUAVは撃ち落とさなくてはなりません。\
+\
+あなたの任務は、敵UAVを見つけて撃墜することです。UAVは視界の悪い夜に出現することがほとんどです。AWACSが敵の情報を知らせます。スフミ上空には友軍機は飛行していません。任務遂行のためには何をしてもらっても構いません。\
+",
+    ["DictKey_UnitName_67"] = "Юнит #018",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_descriptionRedTask_83"] = "スフミ地域へ飛行し\
+敵UAVを探して撃墜して下さい\
+\
+離陸：グダウタ\
+着陸：グダウタ\
+代替：スフミ\
+\
+指揮・管制：\
+あなたのコールサイン：１３１\
+AWACS：５０２\
+戦闘指揮：ラズライト",
+    ["DictKey_GroupName_76"] = "Gruz F-5",
+    ["DictKey_GroupName_74"] = "Predator",
+    ["DictKey_UnitName_53"] = "Юнит #003",
+    ["DictKey_UnitName_24"] = "Su-25 277",
+    ["DictKey_UnitName_78"] = "F-5 1",
+    ["DictKey_UnitName_60"] = "Юнит #005",
+    ["DictKey_GroupName_72"] = "генератор1",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_73"] = "генератор1",
+    ["DictKey_UnitName_23"] = "Su-25 278",
+    ["DictKey_GroupName_18"] = "Player",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_13"] = "MISSION IS FAILED!",
+    ["DictKey_GroupName_61"] = "Бук Suhum",
+    ["DictKey_GroupName_39"] = "ДРЛО",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_GroupName_36"] = "Су-24 пво",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_UnitName_40"] = "ДРЛО",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_UnitName_56"] = "Юнит #1",
+    ["DictKey_UnitName_77"] = "F-5 2",
+    ["DictKey_UnitName_65"] = "Юнит #006",
+    ["DictKey_UnitName_63"] = "Юнит #016",
+    ["DictKey_GroupName_66"] = "Бук Besl2",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_UnitName_80"] = "Fantom2",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_GroupName_43"] = "Ми-24",
+    ["DictKey_11"] = "航空機は破壊されました\
+\
+\
+MISSION IS FAILED!",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_GroupName_27"] = "Су-25",
+    ["DictKey_WptName_101"] = "",
+} -- end of dictionary

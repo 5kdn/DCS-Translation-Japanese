@@ -1,0 +1,193 @@
+dictionary = 
+{
+    ["DictKey_UnitName_89"] = "Юнит #012",
+    ["DictKey_UnitName_52"] = "Пилот #017",
+    ["DictKey_UnitName_85"] = "Юнит #083",
+    ["DictKey_GroupName_29"] = "Su-25",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_GroupName_96"] = "Gruz F-5",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_sortie_107"] = "スカイジャッカー（Skyjackers）",
+    ["DictKey_UnitName_26"] = "Player",
+    ["DictKey_UnitName_62"] = "Юнит #001",
+    ["DictKey_UnitName_73"] = "Юнит #018",
+    ["DictKey_UnitName_39"] = "155",
+    ["DictKey_20"] = "任務完了を報告",
+    ["DictKey_descriptionText_104"] = "警報！\
+\
+待機中の戦闘機に告ぐ、今すぐ離陸して下さい！\
+\
+常識はずれなことですが、事実は次のとおりです。民間航空機がメーデーを発信しました。航空機は海上で正体不明の戦闘機に東、ジョージア領に向かって飛ぶように強要されました。\
+\
+やつらの目的がわかっておらず、状況は緊迫度を増しています。\
+航空機を着陸させるつもりなのか、それとも撃墜しようとしているのかもわかっていません。\
+\
+スカイジャッカーを撃退して、民間航空機の安全を確保して下さい。",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_UnitName_25"] = "132",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_GroupName_76"] = "генератор2",
+    ["DictKey_UnitName_102"] = "Fantom2",
+    ["DictKey_GroupName_40"] = "133",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_UnitName_90"] = "Юнит #011",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_UnitName_47"] = "ДРЛО",
+    ["DictKey_UnitName_36"] = "142",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_69"] = "Юнит #016",
+    ["DictKey_GroupName_84"] = "ГрузПВО Кутаиси",
+    ["DictKey_12"] = "- ラズライト, １３１ 離陸しました\
+- １３１, こちら ラズライト, 了解. ６０００まで上昇し、方位１８０へ向かって下さい。\
+　AWACSの情報より、ターゲットを追撃して下さい\
+- １３１, copy.",
+    ["DictKey_UnitName_61"] = "Юнит #002",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_UnitName_49"] = "Liner",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_UnitName_79"] = "генератор1",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_UnitName_38"] = "156",
+    ["DictKey_GroupName_50"] = "Ми-24",
+    ["DictKey_UnitName_31"] = "Su-25 277",
+    ["DictKey_UnitName_35"] = "143",
+    ["DictKey_UnitName_103"] = "Fantom1",
+    ["DictKey_23"] = "- １３１, こちら ラズライト. 民間航空機は着陸のためソチ管制に引き渡しました\
+　帰還して下さい\
+- １３１, copy, 帰還します",
+    ["DictKey_13"] = "MISSION IS SUCCESSFULLY ACCOMPLISHED!\
+\
+\
+ミッションを終了していただいてけっこうです",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_UnitName_93"] = "Юнит #038",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_UnitName_81"] = "Юнит #080",
+    ["DictKey_UnitName_95"] = "Юнит #008",
+    ["DictKey_14"] = "航空機は破壊されました \
+\
+\
+MISSION IS FAILED!",
+    ["DictKey_GroupName_72"] = "Бук Suhum2",
+    ["DictKey_GroupName_66"] = "Бук Gudauta3",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_GroupName_43"] = "Су-24 пво",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_GroupName_27"] = "Ил-76",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_UnitName_60"] = "Юнит #003",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_UnitName_56"] = "Пилот #019",
+    ["DictKey_GroupName_68"] = "Бук Suhum",
+    ["DictKey_UnitName_32"] = "Su-25 276",
+    ["DictKey_UnitName_94"] = "Юнит #009",
+    ["DictKey_GroupName_46"] = "ДРЛО",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_22"] = "任務完了を報告",
+    ["DictKey_21"] = "- ラズライト, こちら １３１. 敵戦闘機を撃墜しました\
+- こちら ラズライト, 了解. 民間航空機とコンタクトを取りました。 \
+　ソチへ向かいます。　\
+　ソチに着陸するまで護衛して下さい, \
+　これ以上危険にさらすわけには行きません\
+- １３１, copy, 護衛します",
+    ["DictKey_GroupName_48"] = "Liner",
+    ["DictKey_UnitName_45"] = "259",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_17"] = "\
+\
+MISSION IS FAILED!",
+    ["DictKey_UnitName_42"] = "133",
+    ["DictKey_UnitName_44"] = "260",
+    ["DictKey_UnitName_97"] = "F-5 4",
+    ["DictKey_UnitName_83"] = "Юнит #078",
+    ["DictKey_UnitName_75"] = "Юнит #019",
+    ["DictKey_UnitName_54"] = "105",
+    ["DictKey_GroupName_101"] = "Gruz Fantom",
+    ["DictKey_UnitName_71"] = "Юнит #006",
+    ["DictKey_15"] = "民間航空機が撃墜されました\
+\
+MISSION IS FAILED!",
+    ["DictKey_GroupName_37"] = "Су-24",
+    ["DictKey_UnitName_100"] = "F-5 1",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_UnitName_33"] = "Su-25 275",
+    ["DictKey_descriptionRedTask_105"] = "今すぐ離陸して下さい！\
+\
+AWACSの情報より、海上の民間航空機とテロリスト戦闘機を発見して下さい。\
+民間人の航行の安全を確保するため、テロリスト戦闘機を撃墜して下さい。\
+\
+離陸：グダウタ\
+着陸：グダウタ\
+代替：スフミ\
+\
+指揮・管制：\
+あなたのコールサイン：１３１\
+AWACS：５０２\
+戦闘指揮：ラズライト",
+    ["DictKey_GroupName_74"] = "Бук Suhum3",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_GroupName_64"] = "Бук Gudauta2",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_UnitName_30"] = "Su-25 278",
+    ["DictKey_GroupName_24"] = "Player",
+    ["DictKey_UnitName_99"] = "F-5 2",
+    ["DictKey_descriptionBlueTask_106"] = "",
+    ["DictKey_UnitName_82"] = "Юнит #079",
+    ["DictKey_UnitName_86"] = "Юнит #082",
+    ["DictKey_GroupName_92"] = "ГрузПВО Senaki",
+    ["DictKey_UnitName_51"] = "Пилот #018",
+    ["DictKey_GroupName_80"] = "ГрузБук Тбилиси",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_GroupName_78"] = "генератор1",
+    ["DictKey_19"] = "任務完了を報告してください\
+\
+(ラジオメニュー F10)",
+    ["DictKey_GroupName_55"] = "Ми-8",
+    ["DictKey_UnitName_53"] = "Пилот #016",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_UnitName_91"] = "Юнит #010",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_UnitName_58"] = "Пилот #027",
+    ["DictKey_GroupName_88"] = "ГрузПВО Кобулети",
+    ["DictKey_UnitName_70"] = "Юнит #015",
+    ["DictKey_UnitName_41"] = "134",
+    ["DictKey_UnitName_98"] = "F-5 3",
+    ["DictKey_UnitName_28"] = "Ил-76",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_GroupName_34"] = "Су-25",
+    ["DictKey_UnitName_63"] = "Юнит #1",
+    ["DictKey_UnitName_65"] = "Юнит #004",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_UnitName_67"] = "Юнит #005",
+    ["DictKey_18"] = "- １３１, こちら ラズライト. ターゲットのそばにいます。　さらに注意してください。\
+　民間航空機が傷つけられないようにして下さい　\
+- １３１, copy.",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_UnitName_77"] = "генератор2",
+    ["DictKey_16"] = "民間航空機が敵の空港に着陸しました\
+\
+MISSION IS FAILED!",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_GroupName_57"] = "Ми-26",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_GroupName_59"] = "Бук Gudauta",
+    ["DictKey_UnitName_87"] = "Юнит #081",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_WptName_148"] = "",
+} -- end of dictionary

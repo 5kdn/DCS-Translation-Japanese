@@ -1,0 +1,205 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_18"] = "航空機は破壊された \
+\
+MISSION IS FAILED!",
+    ["DictKey_UnitName_52"] = "152",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_GroupName_67"] = "Ми-8",
+    ["DictKey_UnitName_73"] = "Юнит #002",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_UnitName_39"] = "132",
+    ["DictKey_20"] = "MISSION IS FAILED!",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_GroupName_76"] = "Бук Mozd2",
+    ["DictKey_GroupName_51"] = "Су-24",
+    ["DictKey_UnitName_102"] = "Юнит #011",
+    ["DictKey_sortie_116"] = "コドリへの攻撃（Kodori Strike）",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_UnitName_108"] = "F-5 2",
+    ["DictKey_UnitName_90"] = "генератор2",
+    ["DictKey_GroupName_97"] = "ГрузБук Тбилиси2",
+    ["DictKey_32"] = "- ラズライト　こちら２７５　応答ねがいます\
+- ２７５, こちらラズライト, どうぞ\
+- ２７５, 攻撃を完了しました。帰還します\
+- こちらラズライト, ２７５と１３１へ　高度３０００で帰還して下さい\
+- ２７５, copy, 高度３０００で帰還します\
+- １３１, copy, 帰還します",
+    ["DictKey_19"] = "戦闘爆撃機は撃墜された\
+\
+MISSION IS FAILED!",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_UnitName_47"] = "Su-25 275",
+    ["DictKey_UnitName_36"] = "Юнит #013",
+    ["DictKey_UnitName_66"] = "Пилот #015",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_descriptionBlueTask_115"] = "",
+    ["DictKey_UnitName_74"] = "Юнит #001",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_UnitName_61"] = "ДРЛО",
+    ["DictKey_descriptionText_113"] = "アブハジアとジョージアの関係は今の紛争のだいぶ前から崩れていました。以前ジョージアはコドリ渓谷（Kodori　Gorge)を占領しました。今、この状況を乗じてアブハジアはこの土地を取り戻すべく軍事行動を開始しました。\
+\
+アブハジア歩兵隊はジョージアとの和平を破り、渓谷へ侵攻しています。\
+抵抗している中心部は戦闘爆撃機の攻撃にさらされています。\
+\
+敵の空軍基地が非常に近いので、我々の爆撃機には戦闘機による護衛が必要です。\
+\
+今日のあなたの任務は、コドリ渓谷を攻撃するSu-25飛行隊の護衛につくことです。",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_UnitName_104"] = "Юнит #009",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_UnitName_49"] = "143",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_UnitName_92"] = "генератор1",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_UnitName_79"] = "Юнит #005",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_GroupName_91"] = "генератор1",
+    ["DictKey_UnitName_111"] = "Fantom2",
+    ["DictKey_UnitName_35"] = "Юнит #014",
+    ["DictKey_UnitName_103"] = "Юнит #010",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_GroupName_38"] = "Player",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_23"] = "- ラズライト, こちら１３１, スフミに接近中\
+- こちらラズライト, 了解　空港上空で待機して下さい。\
+　２７５　滑走路へタキシングして下さい。\
+- １３１, copy, 上空で待機します",
+    ["DictKey_descriptionRedTask_114"] = "スフミ（Shukhumi）地方に向けて出発します。\
+スフミの空港で戦闘爆撃機と合流して下さい。\
+コドリ渓谷の目標まで護衛をして下さい。\
+帰路はスフミに着陸するまで護衛して下さい。\
+\
+離陸：グダウタ（Gudauta）\
+着陸：グダウタ\
+代替：スフミ（Shukhumi）\
+\
+指揮・管制：\
+あなたのコールサイン：１３１\
+Su-25飛行隊　フライトリーダー：２７５\
+戦闘指揮：ラズライト（Lazurit）",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_UnitName_46"] = "Su-25 276",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_UnitName_40"] = "Player",
+    ["DictKey_UnitName_81"] = "Юнит #017",
+    ["DictKey_UnitName_95"] = "Юнит #079",
+    ["DictKey_GroupName_41"] = "Ил-76",
+    ["DictKey_UnitName_50"] = "142",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_GroupName_43"] = "Su-25",
+    ["DictKey_31"] = "任務完了を報告",
+    ["DictKey_GroupName_89"] = "генератор2",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_UnitName_59"] = "259",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_UnitName_56"] = "133",
+    ["DictKey_GroupName_57"] = "Су-24 пво",
+    ["DictKey_UnitName_94"] = "Юнит #080",
+    ["DictKey_22"] = "スフミ接近を連絡",
+    ["DictKey_GroupName_60"] = "ДРЛО",
+    ["DictKey_GroupName_48"] = "Су-25",
+    ["DictKey_GroupName_71"] = "Бук Mozd",
+    ["DictKey_UnitName_45"] = "Su-25 277",
+    ["DictKey_GroupName_54"] = "133",
+    ["DictKey_27"] = "- こちら１３２！ 敵航空機を視認！",
+    ["DictKey_17"] = "MISSION IS SUCCESSFULLY ACCOMPLISHED!\
+\
+ミッションを終了していただいてけっこうです",
+    ["DictKey_UnitName_42"] = "Ил-76",
+    ["DictKey_GroupName_62"] = "Ми-24",
+    ["DictKey_UnitName_44"] = "Su-25 278",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_UnitName_83"] = "Юнит #015",
+    ["DictKey_UnitName_75"] = "Юнит #1",
+    ["DictKey_UnitName_88"] = "Юнит #019",
+    ["DictKey_GroupName_101"] = "Gruz trgt",
+    ["DictKey_UnitName_64"] = "Пилот #017",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_UnitName_100"] = "Юнит #081",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_GroupName_69"] = "Ми-26",
+    ["DictKey_24"] = "スフミ接近を連絡",
+    ["DictKey_GroupName_93"] = "ГрузБук Тбилиси",
+    ["DictKey_UnitName_105"] = "Юнит #008",
+    ["DictKey_UnitName_106"] = "Юнит #007",
+    ["DictKey_30"] = "- ラズライト, こちら１３１, 応答ねがいます！ \
+- こちらラズライト, どうぞ\
+- こちら１３１　敵機を発見し攻撃しました。脅威はもうありません\
+- こちらラズライト, 了解　任務を続けて下さい\
+- １３１, copy, 任務を続けます",
+    ["DictKey_UnitName_68"] = "Пилот #019",
+    ["DictKey_UnitName_112"] = "Fantom1",
+    ["DictKey_33"] = "- ラズライト, こちら２７５　スフミに近づきました\
+- ２７５, こちらラズライト, スフミ管制に切り替えて着陸して下さい。\
+- ２７５, copy, 切り替えます\
+- １３１, こちらラズライト, グダウタに帰還して下さい\
+- １３１, copy, 帰還します",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_29"] = "任務完了を報告",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_GroupName_87"] = "Бук Besl3",
+    ["DictKey_GroupName_85"] = "Бук Besl2",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_UnitName_63"] = "Пилот #018",
+    ["DictKey_UnitName_82"] = "Юнит #016",
+    ["DictKey_UnitName_86"] = "Юнит #018",
+    ["DictKey_16"] = "- ラズライト, １３１　離陸しました。\
+- １３１, こちらラズライト, 了解　２０００まで上昇　方位１１５　スフミに向かって下さい。\
+- １３１, copy.",
+    ["DictKey_28"] = "敵機を撃墜したら、完了を報告して下さい\
+\
+(ラジオメニュー　F10)",
+    ["DictKey_GroupName_80"] = "Бук Suhum",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_21"] = "スフミに近づいたことを報告して下さい\
+\
+(ラジオメニュー F10)",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_UnitName_53"] = "151",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_UnitName_55"] = "134",
+    ["DictKey_UnitName_109"] = "F-5 1",
+    ["DictKey_UnitName_70"] = "107",
+    ["DictKey_GroupName_110"] = "Gruz Fantom",
+    ["DictKey_UnitName_98"] = "Юнит #083",
+    ["DictKey_UnitName_72"] = "Юнит #003",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_GroupName_34"] = "Column",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_GroupName_107"] = "Gruz F-5",
+    ["DictKey_UnitName_58"] = "260",
+    ["DictKey_25"] = "- ラズライト, ２７５　離陸しました\
+- ２７５, こちらラズライト, 了解 方位５５　高度３０００\
+- ２７５, copy, 方位５５　高度３０００\
+- １３１, ２７５を護衛して下さい\
+- １３１, copy, 護衛します",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_UnitName_37"] = "Юнит #012",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_UnitName_77"] = "Юнит #004",
+    ["DictKey_UnitName_65"] = "Пилот #016",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_UnitName_96"] = "Юнит #078",
+    ["DictKey_26"] = "- ラズライト, こちら２７５　フェンスイン　目標視認　攻撃許可を願います\
+- ２７５, こちらラズライト, 攻撃を許可します\
+- ２７５, 了解, 攻撃します",
+    ["DictKey_GroupName_78"] = "Бук Mozd3",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_UnitName_99"] = "Юнит #082",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_UnitName_84"] = "Юнит #006",
+    ["DictKey_WptName_162"] = "",
+} -- end of dictionary
