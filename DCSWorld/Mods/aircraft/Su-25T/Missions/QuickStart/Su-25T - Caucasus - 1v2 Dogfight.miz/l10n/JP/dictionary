@@ -1,0 +1,62 @@
+dictionary = 
+{
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_4"] = "正面８Km先にA-10が２機接近中です。\
+R-60MとR-73ミサイルで撃墜してください\
+\
+\
+「ESC」を押して Briefingを選択すると、よく使うキーを参照できます。\
+",
+    ["DictKey_descriptionBlueTask_13"] = "",
+    ["DictKey_GroupName_22"] = "Sukhumi Static #001",
+    ["DictKey_GroupName_8"] = "Targets",
+    ["DictKey_UnitName_38"] = "Sukhumi Static #006",
+    ["DictKey_UnitName_32"] = "Sukhumi Static #004",
+    ["DictKey_UnitName_29"] = "Sukhumi Static #003",
+    ["DictKey_GroupName_46"] = "Sukhumi Static #009",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_UnitName_7"] = "102",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_descriptionRedTask_12"] = "A-10Aを両方共撃墜して下さい",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_UnitName_23"] = "Sukhumi Static #001",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_5"] = "良い操縦です。\
+両方の敵機を撃墜しました\
+ESCを押してミッションを終了して下さい",
+    ["DictKey_UnitName_44"] = "Sukhumi Static #008",
+    ["DictKey_GroupName_34"] = "Sukhumi Static #005",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_UnitName_41"] = "Sukhumi Static #007",
+    ["DictKey_UnitName_26"] = "Sukhumi Static #002",
+    ["DictKey_GroupName_6"] = "Su-25T",
+    ["DictKey_GroupName_31"] = "Sukhumi Static #004",
+    ["DictKey_UnitName_47"] = "Sukhumi Static #009",
+    ["DictKey_GroupName_40"] = "Sukhumi Static #007",
+    ["DictKey_descriptionText_11"] = "正面８Km先にA-10が２機接近中です。\
+R-60MとR-73ミサイルで撃墜してください\
+\
+使用するキー\
+\
+空対空モード：６\
+武器選択：D\
+フラップ展開・収納：F\
+自機から敵機を見る外部視点：F5",
+    ["DictKey_UnitName_9"] = "Pilot #001",
+    ["DictKey_GroupName_28"] = "Sukhumi Static #003",
+    ["DictKey_UnitName_35"] = "Sukhumi Static #005",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_UnitName_10"] = "T1",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_GroupName_37"] = "Sukhumi Static #006",
+    ["DictKey_GroupName_43"] = "Sukhumi Static #008",
+    ["DictKey_sortie_14"] = "Dogfight",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_GroupName_25"] = "Sukhumi Static #002",
+} -- end of dictionary

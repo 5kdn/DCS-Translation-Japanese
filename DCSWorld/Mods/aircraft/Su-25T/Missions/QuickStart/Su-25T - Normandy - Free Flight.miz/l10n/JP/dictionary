@@ -1,0 +1,12 @@
+dictionary = 
+{
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_descriptionText_1"] = "フリーフライト。景色を楽しんでください。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_sortie_4"] = "Su-25T - ノルマンディ  -  フリーフライト",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_UnitName_6"] = "Pilot #001",
+    ["DictKey_GroupName_5"] = "Player",
+    ["DictKey_descriptionRedTask_2"] = "任務も脅威もありません。",
+} -- end of dictionary
