@@ -1,0 +1,36 @@
+dictionary = 
+{
+    ["DictKey_UnitName_14"] = "DictKey_UnitName_14",
+    ["DictKey_WptName_11"] = "DictKey_WptName_11",
+    ["DictKey_UnitName_20"] = "Pilot #001",
+    ["DictKey_sortie_4"] = "",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_WptName_8"] = "DictKey_WptName_8",
+    ["DictKey_GroupName_19"] = "New Airplane Group",
+    ["DictKey_GroupName_5"] = "DictKey_GroupName_5",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_7"] = "DictKey_WptName_7",
+    ["DictKey_GroupName_13"] = "DictKey_GroupName_13",
+    ["DictKey_GroupName_9"] = "DictKey_GroupName_9",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "防御機動　　　　　　　　　　　　  Defensive Maneuvers:\
+ドラッグディフェンス　　　　　　  Drag Defense\
+フォーメーションフランキング　 Formation Flanking\
+ディフェンシブ　バレルロール　Defensive Barrel Roll\
+テレインマスク　　　　　　　　　  Terrain Masking\
+ディフェンシブ　ノッチング　　   Defensive Notching\
+ビーミング　　　　　　　　　　     Beaming\
+ディフェンシブ　プレス　　　　   Defensive Press",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_WptName_18"] = "DictKey_WptName_18",
+    ["DictKey_WptName_16"] = "DictKey_WptName_16",
+    ["DictKey_WptName_17"] = "DictKey_WptName_17",
+    ["DictKey_WptName_12"] = "DictKey_WptName_12",
+    ["DictKey_WptName_15"] = "DictKey_WptName_15",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_descriptionText_1"] = "これはミサイル回避技術を練習するためのトレーニングミッションです。\
+敵Mig-29が前方にいます。ミサイル攻撃をしつつ、敵ミサイルを回避してください。ただし、急いで撃墜してください。このエリアにはさらなる脅威が存在します。",
+    ["DictKey_UnitName_6"] = "DictKey_UnitName_6",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_UnitName_10"] = "DictKey_UnitName_10",
+} -- end of dictionary
