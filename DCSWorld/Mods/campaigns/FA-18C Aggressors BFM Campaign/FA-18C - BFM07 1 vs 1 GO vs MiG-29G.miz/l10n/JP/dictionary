@@ -1,0 +1,1937 @@
+dictionary = 
+{
+    ["DictKey_WptName_615"] = "",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_WptName_740"] = "",
+    ["DictKey_ActionText_208"] = "ブルーフォースを一機も撃墜できませんでした。\
+\
+もっと頑張って下さい！!\
+\
+少佐はあなたの働きに失望しています。\
+\
+この調子だと、ここにいられなくなりますよ。",
+    ["DictKey_ActionText_186"] = "ポンティアック 1-1 READY!",
+    ["DictKey_UnitName_656"] = "New Static Object #044",
+    ["DictKey_ActionText_261"] = "UZI 1-1, UZI 1-2.\
+\
+よくできました！",
+    ["DictKey_GroupName_655"] = "New Static Object #050",
+    ["DictKey_ActionText_223"] = "ブラインドリードターンをしないこと。\
+\
+あなたが敵機を見失うほどの、過度のリードを取ってはいけません。\
+\
+我々は、常に相手の航空機が、こちらを見ていないと仮定して行動することを心がけて下さい。",
+    ["DictKey_ActionText_234"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+UZI 1-1, BLACKJACK\
+\
+あなたはセパレーション制限を破りました！\
+\
+500フィート以内には近づかないでください。",
+    ["DictKey_WptName_528"] = "",
+    ["DictKey_ActionRadioText_760"] = "FENCE IN",
+    ["DictKey_UnitName_539"] = "New Static Object #062",
+    ["DictKey_ActionText_155"] = "TERMINATE! \
+TERMINATE! \
+TERMINATE!",
+    ["DictKey_GroupName_502"] = "New Static Object #052",
+    ["DictKey_WptName_31"] = "GARTH",
+    ["DictKey_UnitName_642"] = "Pilot #039",
+    ["DictKey_ActionText_57"] = "3つ目の交戦は、 アメリカ　F-15C相手の 1 vs 1 ガンオンリー BFM DACT です。",
+    ["DictKey_GroupName_295"] = "F-15C Flight",
+    ["DictKey_ActionText_85"] = "FORD１-２ BLACKJACK\
+\
+エントリーGARTHの通行を許可します。\
+\
+500からフライトレベル440までの空域を許可します。\
+\
+天候は晴れ、視界は良好です\
+\
+COYOTE BRAVO と COYOTE CHARLIE.の 交通に注意してください。\
+\
+FORD１-２、管理権限を許可します。",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_GroupName_616"] = "New Static Object #014",
+    ["DictKey_WptName_1075"] = "",
+    ["DictKey_ActionRadioText_132"] = "",
+    ["DictKey_ActionText_1076"] = "UZI 1-1、UZI 2-1。\
+\
+いいフライトでした!\
+\
+今後のミッションも頑張ってください!\
+\
+UZI 2-1 Out!",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_ActionRadioText_127"] = "",
+    ["DictKey_WptName_576"] = "",
+    ["DictKey_ActionText_991"] = "UZI 1-1、UZI 2-1。\
+\
+対戦相手について説明しましょう。",
+    ["DictKey_ActionText_222"] = "降下追撃時、攻撃機は防御機の高度や姿勢を監視してください。どちらかの航空機がハードデッキを破る前に攻撃を中止して下さい。\
+\
+この場合の攻撃機のほうが、前方に敵機がいるので、通常はSAやデッキの意識が高いでしょう。",
+    ["DictKey_WptName_303"] = "",
+    ["DictKey_GroupName_469"] = "New Static Object #040",
+    ["DictKey_WptName_30"] = "BELTED PEAK",
+    ["DictKey_GroupName_499"] = "New Static Object #051",
+    ["DictKey_UnitName_321"] = "Pilot #006",
+    ["DictKey_WptName_799"] = "",
+    ["DictKey_ActionRadioText_133"] = "G-WARM 90 LEFT GO",
+    ["DictKey_GroupName_421"] = "New Static Object #025",
+    ["DictKey_ActionText_969"] = "UZI 1-1, UZI 1-2.\
+\
+ネリスに戻りますので、STRYKに向かいます。",
+    ["DictKey_GroupName_10"] = "FORD 2-1",
+    ["DictKey_ActionRadioText_757"] = "G-WARM 90 RIGHT GO",
+    ["DictKey_ActionRadioText_766"] = "GO G-WARM",
+    ["DictKey_ActionText_948"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+全飛行隊へ, SHOWTIME.\
+\
+活動時間が終了しました。この交戦のプレイタイムを終了しました。",
+    ["DictKey_ActionText_999"] = "UZI 1.GO,G-ウォーム！",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_UnitName_626"] = "New Static Object #062",
+    ["DictKey_ActionText_86"] = "FORD１-２確認\
+\
+500からFL440\
+視界は良好\
+ハードデッキ500\
+\
+管理権限を許可",
+    ["DictKey_ActionText_84"] = "BLACKJACK FORD 1-2\
+\
+FORDへのクリアランスを申請 \
+2機のF-5Eの飛行 \
+エントリーGARTHの南\
+\
+私たちは4ｘ AIM-9s、560GUNを持っています。",
+    ["DictKey_ActionText_183"] = "UZI 1-1 READY!",
+    ["DictKey_WptName_826"] = "",
+    ["DictKey_UnitName_69"] = "Major Jason Campbell",
+    ["DictKey_UnitName_611"] = "New Static Object #062",
+    ["DictKey_UnitName_650"] = "New Static Object #044",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_ActionText_1024"] = "CHEVY 1-1, 準備ができたら、離陸して下さい\
+\
+CLIMB 300 AT QFE 28.03.",
+    ["DictKey_ActionRadioText_709"] = "",
+    ["DictKey_GroupName_652"] = "New Static Object #049",
+    ["DictKey_ActionText_259"] = "全飛行隊、SHOWTIME.\
+\
+交戦は完了しました。",
+    ["DictKey_UnitName_482"] = "New Static Object #041",
+    ["DictKey_UnitName_437"] = "New Static Object #025",
+    ["DictKey_GroupName_526"] = "New Static Object #060",
+    ["DictKey_ActionText_126"] = "FORD１-２ フェンスイン\
+\
+燃料2500",
+    ["DictKey_UnitName_1118"] = "Ammo #001",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_ActionText_255"] = "",
+    ["DictKey_ActionText_281"] = "交戦するときは、古くからのモットーを忘れるな\
+\
+「見失ったら戦いに負ける」\
+\
+幸運を！",
+    ["DictKey_WptName_657"] = "",
+    ["DictKey_GroupName_1120"] = "Ammo #002",
+    ["DictKey_ActionText_706"] = "",
+    ["DictKey_ActionRadioText_195"] = "",
+    ["DictKey_UnitName_584"] = "Pilot #021",
+    ["DictKey_UnitName_548"] = "New Static Object #062",
+    ["DictKey_ActionText_189"] = "TERMINATE! TERMINATE! TERMINATE!",
+    ["DictKey_WptName_639"] = "",
+    ["DictKey_ActionText_174"] = "SHOWTIME COPIES TERMINATE!\
+\
+全飛行隊 TERMINATE!",
+    ["DictKey_WptName_726"] = "",
+    ["DictKey_UnitName_891"] = "Unit #1",
+    ["DictKey_ActionText_331"] = "全飛行隊へ, SHOWTIME.\
+\
+活動時間が終了しました。交戦のプレイタイムは終了です。",
+    ["DictKey_UnitName_1039"] = "Pilot #002",
+    ["DictKey_UnitName_368"] = "New Static Object #006",
+    ["DictKey_UnitName_344"] = "New Static Object",
+    ["DictKey_GroupName_418"] = "New Static Object #024",
+    ["DictKey_WptName_621"] = "",
+    ["DictKey_ActionText_671"] = "ネリス デパーチャー、UZI 2-1。\
+\
+グッドジェット タクシーの準備ができました。\
+\
+ノースウォー！",
+    ["DictKey_WptName_1044"] = "",
+    ["DictKey_ActionRadioText_141"] = "",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_ActionRadioText_206"] = "",
+    ["DictKey_WptName_14"] = "FLUSH",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_ActionText_1000"] = "UZI 1 G-ウォーム　90 LEFT GO!",
+    ["DictKey_WptName_504"] = "",
+    ["DictKey_GroupName_382"] = "New Static Object #013",
+    ["DictKey_WptName_315"] = "",
+    ["DictKey_ActionRadioText_140"] = "G-WARM 90 RIGHT GO",
+    ["DictKey_UnitName_1112"] = "",
+    ["DictKey_ActionText_178"] = "UZI 1.FENCE OUT!",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_ActionRadioText_153"] = "",
+    ["DictKey_ActionText_1090"] = "UZI 1-1、UZI 2-1\
+\
+位置につきました。",
+    ["DictKey_ActionText_667"] = "WORDS ALPHA ENFIELD AS FRAGGED.\
+\
+WORDS BRAVO 101 AS FRAGGED.\
+\
+ALL CONTROL IN THE CLEAR.\
+\
+HOW COPY?",
+    ["DictKey_ActionText_945"] = "アグレッサーにプラス１です！",
+    ["DictKey_ActionRadioText_143"] = "",
+    ["DictKey_UnitName_395"] = "New Static Object #005",
+    ["DictKey_ActionText_200"] = "",
+    ["DictKey_UnitName_40"] = "PE1-1",
+    ["DictKey_WptName_738"] = "",
+    ["DictKey_UnitName_838"] = "UZI 2-1A",
+    ["DictKey_UnitName_644"] = "",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_WptName_832"] = "",
+    ["DictKey_UnitName_1095"] = "",
+    ["DictKey_WptName_800"] = "",
+    ["DictKey_ActionText_986"] = "ヘッドオンパスの場合は、予測不能な動きはしないで下さい。\
+\
+ボギーの飛行経路を横切ってパスの方向を強制的に変えてはいけません。\
+\
+疑われる可能性がある場合は、自分の意図を伝えてください。",
+    ["DictKey_WptName_923"] = "",
+    ["DictKey_ActionText_242"] = "UZI 1-1, UZI 1-2.\
+\
+任務に失敗しました。\
+\
+次は頑張ってください。",
+    ["DictKey_ActionText_708"] = "UZI 1-1 BLACKJACK\
+\
+INDIA　に戻って下さい。.",
+    ["DictKey_UnitName_536"] = "New Static Object #062",
+    ["DictKey_WptName_807"] = "",
+    ["DictKey_ActionText_702"] = "UZI 1\
+\
+CHECKING IN AS FRAGGED!",
+    ["DictKey_WptName_313"] = "",
+    ["DictKey_UnitName_572"] = "New Static Object #015",
+    ["DictKey_ActionText_981"] = "２つ目の交戦は、中高度14000 feet MSL.からの 1 vs 1 ガンオンリー BFM DACT です。",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_WptName_12"] = "FYTTR",
+    ["DictKey_UnitName_545"] = "New Static Object #062",
+    ["DictKey_WptName_624"] = "",
+    ["DictKey_WptName_316"] = "",
+    ["DictKey_ActionText_92"] = "FORD１-１、FORD１-２。 \
+\
+ヒコの町に近づいてきました。",
+    ["DictKey_UnitName_309"] = "DODGE 1-1",
+    ["DictKey_UnitName_356"] = "New Static Object #004",
+    ["DictKey_ActionRadioText_167"] = "READY",
+    ["DictKey_WptName_828"] = "",
+    ["DictKey_UnitName_476"] = "New Static Object #041",
+    ["DictKey_ActionText_961"] = "UZI 2-1, FENCED OUT.\
+\
+FUEL 10.0.",
+    ["DictKey_ActionText_1001"] = "UZI 1 G-ウォーム 90 RIGHT GO!",
+    ["DictKey_UnitName_431"] = "New Static Object #025",
+    ["DictKey_ActionText_102"] = "FORD１-１、FORD１-２。\
+\
+アクトンに到着。 \
+\
+右旋回、次のナビポイント、VETTTを目指します。",
+    ["DictKey_GroupName_451"] = "New Static Object #034",
+    ["DictKey_ActionText_1020"] = "DODGE 1-1, TAKING THE ACTIVE.",
+    ["DictKey_ActionText_90"] = "レイチェルにはハイウェイ375号線があります。エリア51に近いことから、「地球外道路（Extraterrestrial Highway）」としても知られています。 \
+\
+エリア51は、我々のフライトプランのすぐ南、グルーム湖周辺の飛行禁止ゾーンにあります。",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_ActionText_876"] = "",
+    ["DictKey_ActionRadioText_334"] = "TERMINATE",
+    ["DictKey_WptName_654"] = "",
+    ["DictKey_UnitName_629"] = "New Static Object #062",
+    ["DictKey_ActionRadioText_165"] = "READY",
+    ["DictKey_ActionText_719"] = "UZI 1-1 UZI 1-2.\
+\
+INDIAで周回して下さい。準備が整ったら、READY　をコールして下さい。",
+    ["DictKey_WptName_411"] = "",
+    ["DictKey_WptName_730"] = "",
+    ["DictKey_ActionText_977"] = "UZI 2-1.\
+\
+ランウェイ３へのタキシングを許可します。",
+    ["DictKey_ActionRadioText_131"] = "GO G-WARM",
+    ["DictKey_ActionText_58"] = "レンジ上のハードデッキは100'AGLとなります。\
+\
+ハードデッキの制限を破らないでください。交戦に失敗します。",
+    ["DictKey_WptName_596"] = "",
+    ["DictKey_WptName_522"] = "",
+    ["DictKey_WptName_795"] = "",
+    ["DictKey_ActionText_944"] = "SHOWTIME COPIES TERMINATE!  \
+\
+全飛行隊 TERMINATE!",
+    ["DictKey_UnitName_735"] = "PONTIAC 1-1",
+    ["DictKey_ActionText_1078"] = "UZI 1-1、UZI 2-1。\
+\
+いいフライトでした!\
+\
+今後のミッションも頑張ってください!\
+\
+UZI 2-1 Out!",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_ActionText_130"] = "",
+    ["DictKey_ActionText_747"] = "全飛行隊、SHOWTIME.\
+\
+プレイタイムが終了しました。\
+\
+この交戦は完了です。",
+    ["DictKey_GroupName_721"] = "",
+    ["DictKey_WptName_480"] = "",
+    ["DictKey_ActionRadioText_307"] = "FENCE IN",
+    ["DictKey_UnitName_527"] = "New Static Object #056",
+    ["DictKey_UnitName_410"] = "New Static Object #016",
+    ["DictKey_WptName_804"] = "",
+    ["DictKey_ActionText_81"] = "FORD１-１、FORD１-２。\
+\
+ＳＨＯＷＷからＦＬＵＳＨ、ＧＡＲＴＨへのトランジットルートは、レッドエアが一般的に使用している通路であり、そのレンジへの入退場に使用できます。",
+    ["DictKey_ActionText_231"] = "WP 9で SHOWTIMEにチェックインします。あなたのPODトラッキングを確認します。\
+\
+WP10 (INDIA)に到着し、 交戦準備ができたら、READY をコールしてください。",
+    ["DictKey_WptName_830"] = "",
+    ["DictKey_descriptionText_1"] = "今日のミッションは、複数の異機種航空機との空戦訓練（DACT）です。\
+\
+あなたの最初の相手はロストック・ラーゲ空港に拠点を置くドイツ空軍JG73 \"シュタインホフ \"のMiG-29Gです。\
+\
+DODGE 1-1はゲルハルト・シャイベ大尉が操縦します。\
+\
+二人目の相手はロストック・ラーゲ空港に拠点を置くドイツ空軍JG73 \"シュタインホフ \"のMiG-29Gです。\
+\
+CHEVY 1-1 は、アンドレアス・ヴォーク大尉が操縦します。\
+\
+このミッションでは、性能の異なる航空機を相手にBFMのスキルを試します。\
+\
+我々はNTTR内で活動し、COYOTE ALPHA、BRAVO、CHARLIE、DELTAのレンジを使用します。\
+\
+あなたは、レンジでの チェックアウト、フェンスアウトをコールして下さい。\
+\
+私が、G-AWARENESS（G耐性）テストを指導します。 DARKSTARはGCIを提供します。\
+\
+ハードデッキ制限は100’AGLです。 ハードデッキを破らないようにしてください。交戦失敗となります。\
+\
+いつでも「TERMINATE」をコールして交戦を終了させることができます。\
+\
+ACTに必要な燃料を確保するために、400ノットを維持してレンジに進入してください。\
+\
+外部タンクは空になった場合、または交戦前に投棄することを許可します。\
+\
+演習終了時に、利用可能なタンカーで給油することがを許可します。\
+\
+あなたの通信と、攻撃テクニックは常に監視しています。\
+\
+グッドラック！\
+\
+ミッションブリーフィング\
+\
+政治的/軍事的状況：\
+なし\
+\
+任務の目的 ：\
+MiG-29Gを相手にBFM訓練を行い、BFMのスキルを証明してください。\
+\
+任務の脅威レベル：高\
+\
+活動エリア：ネバダ\
+作戦エリア： NTTR\
+NTTR レンジ：\
+COYOTE ALPHA、BRAVO、CHARLIE、DELTA\
+\
+ブルーエアの本拠地：ネリス空軍基地\
+レッドエアの本拠地：ネリス空軍基地\
+\
+友軍：\
+なし - これは一対一の戦いです\
+\
+友軍位置：なし\
+ブルズアイ： 11 S PB 10425 66866 又は 44°48'18\"E 41°29'7\"N\
+\
+敵軍：\
+2 X MiG-29G\
+\
+敵の位置：コヨーテ、チャーリーから西\
+\
+無線情報\
+制限： EMCONレベル：2\
+戦術訓練周波数: 251.0 Mhz AM\
+ガード: 243.0Mhz AM -（ 常時モニター）\
+\
+エアコンタクト： \
+あなたのフライト： (2xFA-18C)\
+UZI 1-1: 251.0 Mhz AM\
+UZI 2-1: 251.0 Mhz AM\
+AWACS. (1xE-3A)\
+DARKSTAR 1-1: 251.0Mhz AM\
+\
+タンカー (3xKC-130)\
+\
+南西トラック - AR-231V\
+コールサイン：ARCO 1-1\
+チャンネル14 - 260.000\
+TACAN - 94X\
+\
+ノーストラック - AR-635\
+コールサイン: TEXACO 1-1\
+チャンネル15 - 263.000\
+TACAN - 1X\
+\
+ウエスト TRACK - AR-625\
+コールサイン：SHELL 1-1\
+チャンネル16 - 261.000\
+TACAN - 96X\
+           \
+フライトプラン：\
+離陸・着陸：ネリスタワー：327.000 132.550 38.700 3.900\
+代替 1: TONOPAH タワー: 257.950 124.750 38.500 3.800\
+代替 2: CREECH タワー: 360.600 118.300 38.550 3.825 \
+パターン高度：3000 FT AGL\
+\
+イングレスルート\
+TCレッドエア・コーリドール\
+FLEX: 11 S PA 76509 20165 N 3618.62 W 11502.36\
+FYTTR：11 S PA 17429 24378 N 3621.44 W 11541.47\
+JAYSN：11 S NA 86088 47696 N 3634.25 W 11602.27\
+FLUSH:  11  S NA 59035 78068 N 3650.80 W 11620.27\
+GARTH/GATE 1: 11 S NB 57221 28275 N 3717.96 W 11621.26\
+BELTED PEAK: 11 S NB 81686 58140 N 3734.00 W 11604.50\
+INDIA: 11 S NB 94410 82320 N 3747.10 W 11555.67\
+\
+イーグレスルート。\
+TCレッドエア・コーリドール\
+BELTED PEAK: 11 S NB 81686 58140 N 3734.00 W 11604.50\
+GARTH/GATE 1: 11 S NB 57221 28275 N 3717.96 W 11621.26\
+FLUSH:  11  S NA 59035 78068 N 3650.80 W 11620.27\
+JAYSN：11 S NA 86088 47696 N 3634.25 W 11602.27\
+STRYK: 11 S PA 54847 22414 N 3620.60 W 11516.48\
+GASS PEAK: 11 S PA 63416 29884 N 3624.14 W 11510.66\
+APEX: 11 S PA 87907 25880 N 3621.58 W 11454.34\
+ \
+レンジ情報。\
+レンジ・コントローラー：BLACKJACK：251.0Mhz AM\
+タクティカル・コントローラー：SHOWTIME：251.0 Mhz AM\
+レンジ入口：\
+GATE1 11 S NB 57221 28275 N 3717.96 W 11621.26 \
+レンジ出口。 \
+GATE1 11 S NB 57221 28275 N 3717.96 W 11621.26\
+\
+ハードデッキ: 100 FT AGL\
+\
+活動制限区域：\
+1: 農場 (RACHELの近く)\
+2: 4808A (GROOM LAKE)\
+3: 4808B\
+4: 4808C\
+\
+コントロールポイント（CP）。\
+INDIA：RACHELのの北西12NM\
+ \
+レンジチェックイン: 1615Z 0815 LOCAL\
+レンジチェックアウト: 1645Z 0845 LOCAL\
+活動時間（VUL PERIOD）: 30 分\
+ \
+燃料の状態。\
+ジョーカー：3000 LBS\
+BINGO: 2500 LBS\
+\
+注：これはランプ開始、ランプ終了ミッションです。それに合わせたHOTASを設定してください。\
+\
+F10メニューを使用して、命令を発行したり、ナビ情報を表示したり、ステータスを送信したりすることができます。\
+\
+ミッションでブリーフィングを受けるにはレンジを出る必要があります。\
+\
+REDFORはGPSを使用していないので、INSのアライメントは次のように行って下さい。：\
+\
+TCN経由でINSをアップデートする。\
+\
+1. INSアラインメント完了後、自分の座標を設定するために最初のウェイポイント座標を使用することができます。\
+ a) HSI ページで PB12 up か PB13　dnでwpt 0 を選択し、PB14 WPDSGを押します。\
+ b) HSIページで PB7 UPDT, PB7 DSG,  PB6 ACPTと押します。\
+\
+2. ミッション開始後に機体が移動している場合：INSアライメント完了後にTCN位置更新を使用してください。\
+ a) TACANビーコンデータはMCに保存されていること。\
+ b) TACAN を始動させ、ビーコンのチャンネルとバンドを設定し、T/R モードにセットします。\
+ c) HSIページで、PB7 UPDT,  PB6 TCN,  PB6 ACPTと押します。 \
+\
+ミッション成功基準：\
+全ての敵機を撃墜する",
+    ["DictKey_GroupName_837"] = "UZI2A",
+    ["DictKey_UnitName_503"] = "New Static Object #018",
+    ["DictKey_ActionText_282"] = "BFMはテンポが速いです。\
+\
+頭を回転させて、コックピットの外を見回して下さい。\
+\
+空中で発見できるものは全て敵です！",
+    ["DictKey_ActionText_938"] = "UZI 1-1, READY.",
+    ["DictKey_UnitName_1127"] = "Ammo #002",
+    ["DictKey_UnitName_566"] = "Pilot #015",
+    ["DictKey_WptName_342"] = "",
+    ["DictKey_UnitName_383"] = "New Static Object #067",
+    ["DictKey_UnitName_455"] = "New Static Object #047",
+    ["DictKey_UnitName_6"] = "Player",
+    ["DictKey_ActionText_82"] = "ＦＯＲＤ１-１、ＦＯＲＤ１-２。\
+\
+ＦＬＵＳＨに着きました。 次のナビポイントのGARTHまで進みます。",
+    ["DictKey_GroupName_613"] = "New Static Object #013",
+    ["DictKey_WptName_543"] = "",
+    ["DictKey_ActionText_248"] = "",
+    ["DictKey_WptName_366"] = "",
+    ["DictKey_ActionText_720"] = "UZI 1-1 UZI 1-2.\
+\
+INDIAで周回して下さい。準備が整ったら、READY　をコールして下さい。",
+    ["DictKey_GroupName_490"] = "New Static Object #048",
+    ["DictKey_GroupName_1111"] = "Ammo #006",
+    ["DictKey_WptName_360"] = "",
+    ["DictKey_WptName_896"] = "",
+    ["DictKey_UnitName_530"] = "New Static Object #056",
+    ["DictKey_ActionRadioText_1070"] = "TERMINATE",
+    ["DictKey_ActionText_100"] = "FORD１-１、FORD１-２。 \
+\
+Sallyコリドールに入りました。 \
+このトランジットルートは一般的にブルーエアがレンジに行き来するのに使われています。",
+    ["DictKey_GroupName_370"] = "New Static Object #010",
+    ["DictKey_WptName_724"] = "",
+    ["DictKey_ActionText_108"] = "ミッション成功!",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_WptName_396"] = "",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_ActionText_232"] = "交戦が終了したら、 WP 10 (INDIA) に戻り、次の交戦の準備をして下さい。\
+\
+両方が READY　をコールし、 SHOWTIME が FIGHTS ON　の合図をだしたら交戦開始です。",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_GroupName_472"] = "New Static Object #041",
+    ["DictKey_WptName_564"] = "",
+    ["DictKey_GroupName_600"] = "New Airplane Group #007",
+    ["DictKey_GroupName_1123"] = "Ammo #004",
+    ["DictKey_GroupName_92"] = "F-15C 3rd Engagement",
+    ["DictKey_UnitName_350"] = "New Static Object",
+    ["DictKey_ActionText_1021"] = "DODGE 1-1, AIRBORNE.",
+    ["DictKey_ActionText_935"] = "UZI 1-1 UZI 1-2.\
+\
+INDIAで周回して下さい。準備が整ったら、READY　をコールして下さい。",
+    ["DictKey_ActionText_675"] = "UZI 1-1, UZI 1-2.\
+\
+GATE 1に近づいてきました。\
+\
+チェックインしましょう！",
+    ["DictKey_ActionText_984"] = "常に相手機はあなたを見ていないと思って下さい。\
+\
+各機がこのように操縦していれば、空中衝突の可能性は大幅に減らせます。",
+    ["DictKey_GroupName_511"] = "New Static Object #055",
+    ["DictKey_GroupName_439"] = "New Static Object #031",
+    ["DictKey_GroupName_427"] = "New Static Object #027",
+    ["DictKey_GroupName_397"] = "New Static Object #017",
+    ["DictKey_ActionText_1031"] = "UZI 2-1, AIRBORNE.",
+    ["DictKey_ActionText_998"] = "UZI 1-1, UZI 2-1.\
+\
+G-AWARENESS テストを行いましょう。",
+    ["DictKey_ActionText_188"] = "ポンティアック1-1、敵を攻撃して下さい！",
+    ["DictKey_GroupName_649"] = "New Static Object #048",
+    ["DictKey_UnitName_107"] = "Pilot #005",
+    ["DictKey_UnitName_328"] = "Pilot #010",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_UnitName_362"] = "New Static Object #006",
+    ["DictKey_UnitName_575"] = "Pilot #016",
+    ["DictKey_ActionText_264"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+ENFIELD 1-1, BLACKJACK\
+\
+ハードデッキを破りました！\
+\
+",
+    ["DictKey_ActionRadioText_144"] = "",
+    ["DictKey_GroupName_581"] = "New Airplane Group #004",
+    ["DictKey_ActionText_63"] = "UZI 1-1。 BLACKJACK、コンタクト\
+\
+GARTHの通過を許可\
+\
+ALTIMETER 2988 MILLIBARS 1011\
+\
+SQUAWK MODE 3 TACTICAL.\
+\
+指示を待って下さい。",
+    ["DictKey_UnitName_635"] = "New Static Object #032",
+    ["DictKey_UnitName_578"] = "Pilot #018",
+    ["DictKey_WptName_663"] = "",
+    ["DictKey_GroupName_475"] = "New Static Object #042",
+    ["DictKey_ActionRadioText_753"] = "ナビ情報",
+    ["DictKey_WptName_840"] = "",
+    ["DictKey_ActionText_337"] = "これでＢＦＭフェイズは終了です 。\
+次は、複数の敵を相手にした ACM（空中戦闘機動）です  \
+\
+グッドラック！",
+    ["DictKey_WptName_895"] = "",
+    ["DictKey_ActionText_212"] = "UZI 1-1、UZI 1-2。\
+\
+グッジョブ！",
+    ["DictKey_GroupName_424"] = "New Static Object #026",
+    ["DictKey_UnitName_608"] = "",
+    ["DictKey_GroupName_346"] = "New Static Object #002",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_ActionText_220"] = "相手との距離は、常に500フィートは維持してください。\
+\
+接近率は感知しにくいことが多いので、500フィート以下には近づかないようにしましょう。",
+    ["DictKey_GroupName_610"] = "New Static Object #011",
+    ["DictKey_ActionRadioText_750"] = "TERMINATE",
+    ["DictKey_GroupName_1117"] = "Ammo",
+    ["DictKey_ActionText_147"] = "2, COPY!",
+    ["DictKey_ActionRadioText_202"] = "CHECK OUT",
+    ["DictKey_ActionRadioText_63"] = "1, COPY",
+    ["DictKey_UnitName_1133"] = "Ammo #006",
+    ["DictKey_GroupName_550"] = "New Static Object #069",
+    ["DictKey_UnitName_341"] = "",
+    ["DictKey_ActionText_1010"] = "DODGE 1-1.\
+\
+TERMINATE!",
+    ["DictKey_WptName_892"] = "",
+    ["DictKey_UnitName_434"] = "New Static Object #025",
+    ["DictKey_GroupName_466"] = "New Static Object #039",
+    ["DictKey_WptName_1125"] = "",
+    ["DictKey_UnitName_589"] = "Pilot #024",
+    ["DictKey_ActionText_172"] = "TERMINATE! \
+TERMINATE! \
+TERMINATE!",
+    ["DictKey_WptName_1122"] = "",
+    ["DictKey_UnitName_592"] = "Pilot #026",
+    ["DictKey_WptName_732"] = "",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_ActionRadioText_118"] = "FENCE IN",
+    ["DictKey_GroupName_1106"] = "New Static Object #057",
+    ["DictKey_ActionText_258"] = "UZI 1-1, SHOWTIME.\
+\
+終わりました、UZI 1-1.",
+    ["DictKey_GroupName_658"] = "New Static Object #051",
+    ["DictKey_ActionText_166"] = "UZI 1-1 READY!",
+    ["DictKey_GroupName_79"] = "F-15C 1st Engagement",
+    ["DictKey_GroupName_394"] = "New Static Object #016",
+    ["DictKey_GroupName_436"] = "New Static Object #030",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_UnitName_304"] = "Pilot #004",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_ActionText_75"] = "ここは着陸前の武器投棄エリアに指定されています。\
+ ",
+    ["DictKey_ActionText_162"] = "COLT 1-1, 敵機攻撃！",
+    ["DictKey_ActionText_74"] = "FORD１-１、FORD１-２ \
+\
+ネリスのすぐ北、ガスピークへのルートの南側にジェティソンヒルがあります。 ",
+    ["DictKey_UnitName_491"] = "New Static Object #018",
+    ["DictKey_WptName_495"] = "",
+    ["DictKey_ActionText_107"] = "ネリスに戻るRTBをクリアしました。 \
+\
+FORD １-２アウト",
+    ["DictKey_ActionRadioText_150"] = "READY",
+    ["DictKey_WptName_549"] = "",
+    ["DictKey_ActionText_93"] = "ヒコはもう町ではなく、ゴーストタウンのようになっていますが、今でも農家や牧場主が利用しています。",
+    ["DictKey_ActionText_124"] = "UZI 1.GO,G-ウォーム！",
+    ["DictKey_WptName_32"] = "FLUSH",
+    ["DictKey_UnitName_640"] = "Pilot #037",
+    ["DictKey_ActionText_196"] = "UZI 1-1 ラジオチェック！\
+",
+    ["DictKey_ActionText_824"] = "レンジ上のハードデッキは100'AGLとなります。\
+\
+ハードデッキの制限を破らないでください。交戦に失敗します。",
+    ["DictKey_WptName_736"] = "",
+    ["DictKey_ActionText_64"] = "1、COPY!",
+    ["DictKey_ActionRadioText_765"] = "FENCE IN",
+    ["DictKey_ActionText_146"] = "2, COPY!",
+    ["DictKey_ActionText_142"] = "",
+    ["DictKey_ActionText_257"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+UZI 1-1, BLACKJACK\
+\
+ハードデッキを破りました！\
+\
+100' AGLより降下しないで下さい。",
+    ["DictKey_WptName_602"] = "",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_GroupName_403"] = "New Static Object #019",
+    ["DictKey_WptName_369"] = "",
+    ["DictKey_UnitName_542"] = "New Static Object #062",
+    ["DictKey_ActionText_187"] = "SHOWTIME COPIES ALL. \
+\
+FIGHTS ON!",
+    ["DictKey_ActionText_238"] = "",
+    ["DictKey_WptName_1131"] = "",
+    ["DictKey_WptName_1060"] = "",
+    ["DictKey_WptName_474"] = "",
+    ["DictKey_ActionText_83"] = "GARTHはレッドエアのレンジエントリーポイントです。 \
+\
+GARTHに近づいたらレンジコントローラー「BLACKJACK」にチェックインします。",
+    ["DictKey_WptName_447"] = "",
+    ["DictKey_UnitName_604"] = "Pilot #034",
+    ["DictKey_ActionText_940"] = "SHOWTIME　　Copy All \
+\
+時間計測を始めます。スコアをつけています。\
+\
+FIGHTS ON!",
+    ["DictKey_ActionText_1080"] = "UZI 1-1、UZI 2-1。\
+\
+いいフライトでした!\
+\
+今後のミッションも頑張ってください!\
+\
+UZI 2-1 Out!",
+    ["DictKey_ActionText_239"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+UZI 1-1, BLACKJACK\
+\
+ハードデッキを破りました！\
+\
+100' AGLより降下しないで下さい。",
+    ["DictKey_ActionText_754"] = "NAV INFO:\
+\
+ACTON         LSV 019/36 12X\
+APEX          LSV 025/09 12X\
+ARCOE         LSV 355/30 12X\
+BELTED PEAK   TPH 108/53 119X\
+DREAM         LAS 352/66 116X\
+FLEX          LSV 335/04 12X\
+FLUSH         LSV 285/73 12X\
+FYTTR         LSV 267/33 12X\
+GARTH         LSV 300/90 12X\
+GASS PEAK     LSV 307/12 12X\
+INDIA         TPH 92/55 119X\
+JAYSN         BTY 095/37 94X\
+REVEILLE PEAK TPH 104/44 119X\
+STRYK         LSV 280/26 12X\
+STUDENT GAP   LSV 347/82 12X\
+TROUTT        LSV 344/63 12X\
+VETTT         LSV 028/31 12X",
+    ["DictKey_ActionText_217"] = "空対空訓練のルールを説明します。",
+    ["DictKey_ActionText_1019"] = "DODGE 1-1, 準備ができたら、離陸して下さい\
+CLIMB 300 AT QFE 28.03.",
+    ["DictKey_GroupName_481"] = "New Static Object #044",
+    ["DictKey_ActionText_1013"] = "CHEVY 1-1.\
+\
+TERMINATE!",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_WptName_537"] = "",
+    ["DictKey_ActionText_978"] = "UZI 1-1, UZI 2-1.\
+\
+用意ができたら、私に続いて下さい。",
+    ["DictKey_ActionText_877"] = "",
+    ["DictKey_WptName_28"] = "INDIA",
+    ["DictKey_WptName_570"] = "",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_ActionRadioText_184"] = "UZI 1-1, READY",
+    ["DictKey_WptName_465"] = "",
+    ["DictKey_ActionText_70"] = "タキシングの準備ができたら、タワーに連絡してください。 \
+\
+私は、すぐ後ろにいます。",
+    ["DictKey_WptName_796"] = "",
+    ["DictKey_WptName_525"] = "",
+    ["DictKey_WptName_317"] = "",
+    ["DictKey_GroupName_415"] = "New Static Object #023",
+    ["DictKey_WptName_299"] = "",
+    ["DictKey_ActionRadioText_179"] = "",
+    ["DictKey_ActionText_103"] = "モアパ（Moapa）の町に近づいてきました。 \
+\
+ネバダ州で2番目と3番目に大きい建物があります。 \
+\
+エントラビジョンとケンプタワーです。",
+    ["DictKey_WptName_1134"] = "",
+    ["DictKey_ActionText_994"] = "UZI 1-1, BLACKJACK, コンタクト！\
+\
+GATE 1の通過を許可します。\
+\
+ALTIMETER 2988, MLLIBARS 1011\
+\
+SQUAWK MODE 3 TACTICALにしてください。.\
+\
+STANDBY FOR WORDS..",
+    ["DictKey_ActionText_919"] = "ミッション失敗！\
+\
+今すぐミッションを終了して構いません。必要に応じて続けることもできます。",
+    ["DictKey_WptName_17"] = "BELTED PEAK",
+    ["DictKey_WptName_327"] = "",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_WptName_805"] = "",
+    ["DictKey_UnitName_687"] = "",
+    ["DictKey_WptName_645"] = "",
+    ["DictKey_ActionText_1029"] = "UZI 2-1, 準備ができたら離陸して下さい。\
+\
+CLIMB 300 AT QFE 28.03.",
+    ["DictKey_GroupName_544"] = "New Static Object #066",
+    ["DictKey_ActionRadioText_139"] = "",
+    ["DictKey_GroupName_571"] = "New Static Object #026",
+    ["DictKey_UnitName_27"] = "Pilot #002",
+    ["DictKey_ActionText_934"] = "よく聞こえています。",
+    ["DictKey_ActionText_949"] = "SHOWTIME COPIES KILL.  \
+\
+SHOWTIME から UZI 1-1に伝えます。.\
+\
+UZI 1-1　あなたは死にました.",
+    ["DictKey_GroupName_487"] = "New Static Object #046",
+    ["DictKey_GroupName_505"] = "New Static Object #053",
+    ["DictKey_ActionText_937"] = "UZI 1-1, READY.",
+    ["DictKey_GroupName_349"] = "New Static Object #003",
+    ["DictKey_UnitName_563"] = "Pilot #013",
+    ["DictKey_GroupName_562"] = "New Airplane Group",
+    ["DictKey_UnitName_515"] = "New Static Object #018",
+    ["DictKey_WptName_739"] = "",
+    ["DictKey_ActionText_1005"] = "UZI 1, 予定通りチェックイン",
+    ["DictKey_ActionText_207"] = "全飛行隊へ, SHOWTIME.\
+\
+今回の演習は完了です。\
+\
+飛行隊は帰還して下さい。",
+    ["DictKey_ActionRadioText_190"] = "TERMINATE",
+    ["DictKey_WptName_540"] = "",
+    ["DictKey_ActionText_918"] = "ミッションを部分的に成功！\
+\
+今すぐミッションを終了して構いません。必要に応じて続けることもできます。",
+    ["DictKey_WptName_1064"] = "",
+    ["DictKey_ActionText_1028"] = "CHEVY 1-1, BLACKJACK. \
+\
+コンテナに注意して下さい。",
+    ["DictKey_WptName_420"] = "",
+    ["DictKey_GroupName_66"] = "2ND FLIGHT",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_ActionText_1069"] = "",
+    ["DictKey_WptName_894"] = "",
+    ["DictKey_UnitName_494"] = "New Static Object #018",
+    ["DictKey_WptName_357"] = "",
+    ["DictKey_ActionText_1016"] = "",
+    ["DictKey_WptName_827"] = "",
+    ["DictKey_ActionRadioText_767"] = "G-WARM 90 LEFT GO",
+    ["DictKey_GroupName_535"] = "New Static Object #063",
+    ["DictKey_UnitName_479"] = "New Static Object #041",
+    ["DictKey_ActionText_678"] = "UZI 1-1 UZI 1-2.\
+\
+INDIAで周回して下さい。準備が整ったら、READY　をコールして下さい。",
+    ["DictKey_ActionText_971"] = "UZI 1-1, UZI 1-2\
+\
+位置を確認して下さい。\
+\
+レッドエアーのコリドールから外れないで下さい。\
+\
+ナビポイントJAYSNに進んでください。\
+\
+BTY 095 FOR 37.  BTY TACAN 94X.",
+    ["DictKey_UnitName_60"] = "",
+    ["DictKey_GroupName_529"] = "New Static Object #061",
+    ["DictKey_UnitName_380"] = "New Static Object #067",
+    ["DictKey_UnitName_1098"] = "New Static Object #055",
+    ["DictKey_ActionText_983"] = "UZI 1-1, UZI 2-1.\
+\
+空対空訓練のルールを説明します。",
+    ["DictKey_UnitName_582"] = "Pilot #020",
+    ["DictKey_ActionText_73"] = "FORD 1-1、FORD 1-2。\
+\
+ APEXにいます。 \
+\
+左旋回してください。次のナビポイント、GASS PEAKに向かいます。",
+    ["DictKey_ActionText_252"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+UZI 1-1, BLACKJACK\
+\
+あなたはセパレーション制限を破りました！\
+\
+500フィート以内には近づかないでください。",
+    ["DictKey_ActionText_169"] = "ENFIELD 1-1, READY!",
+    ["DictKey_ActionText_955"] = "全飛行隊、SHOWTIME.\
+\
+プレイタイムが終了しました。\
+\
+この交戦は完了です。",
+    ["DictKey_GroupName_541"] = "New Static Object #065",
+    ["DictKey_UnitName_579"] = "Pilot #019",
+    ["DictKey_ActionText_943"] = "SHOWTIME COPIES TERMINATE!  \
+\
+全飛行隊 TERMINATE!",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_ActionText_1017"] = "CHEVY 1-1, ランウェイ３へのタキシングを許可します。",
+    ["DictKey_ActionText_283"] = "どんな理由であれ、「TERMINATE」をコールすれば、現在の交戦を終了させることができます。",
+    ["DictKey_ActionText_1011"] = "CHEVY 1-1, READY!",
+    ["DictKey_WptName_381"] = "",
+    ["DictKey_GroupName_1097"] = "New Static Object #045",
+    ["DictKey_WptName_1059"] = "",
+    ["DictKey_ActionRadioText_173"] = "TERMINATE",
+    ["DictKey_ActionText_917"] = "ミッション成功！\
+\
+今すぐミッションを終了して構いません。必要に応じて続けることもできます。",
+    ["DictKey_ActionText_158"] = "SHOWTIME　　Copy All \
+\
+時間計測を始めます。スコアをつけています。\
+\
+FIGHTS ON!",
+    ["DictKey_GroupName_106"] = "GCI",
+    ["DictKey_ActionText_931"] = "出発時刻は 0800　です。\
+\
+機体を始動して、無線チェックを行いましょう。\
+",
+    ["DictKey_ActionText_1018"] = "DODGE 1-1, 離陸の許可を願います",
+    ["DictKey_ActionText_61"] = "出発時刻は 0700　です。\
+\
+機体を始動して、無線チェックを行いましょう。\
+",
+    ["DictKey_ActionRadioText_60"] = "CHECK IN",
+    ["DictKey_WptName_630"] = "",
+    ["DictKey_UnitName_425"] = "New Static Object #025",
+    ["DictKey_ActionText_1087"] = "KNOCK-IT-OFF\"や TERMINATEは誰でもコールできますし、全員が承認してください。\
+\
+次のことを発見したら、すぐにコールしてください。\
+\
+訓練ルール違反、SAの喪失、制御不能飛行、無線障害、ビンゴ燃料、その他の危険な状況 \
+\
+無線障害を起こした機（ノルド機）は、無線障害を示すために翼を揺らしてください。\
+\
+UZI 2-1, OUT!",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_ActionText_956"] = "全飛行隊、SHOWTIME.\
+\
+プレイタイムが終了しました。\
+\
+この交戦は完了です。",
+    ["DictKey_ActionText_224"] = "ガン攻撃の最低射程距離は1000フィートです。\
+\
+繰り返しになりますが、接近率は判断が難しいので、ミスをおかすと悲惨なことになりかねません。",
+    ["DictKey_UnitName_398"] = "New Static Object #016",
+    ["DictKey_WptName_1099"] = "",
+    ["DictKey_ActionText_229"] = "レンジの安全管理機関はBLACKJACKが行います。\
+\
+BLACKJACKからの命令は直ちに承認し、遵守しなければなりません。\
+\
+レンジに入る時はBLACKJACKにチェックインし、レンジから出る時はBLACKJACKにチェックアウトします。",
+    ["DictKey_WptName_609"] = "",
+    ["DictKey_GroupName_1129"] = "Ammo #002",
+    ["DictKey_ActionText_880"] = "",
+    ["DictKey_ActionRadioText_151"] = "",
+    ["DictKey_ActionText_68"] = "",
+    ["DictKey_WptName_456"] = "",
+    ["DictKey_WptName_300"] = "",
+    ["DictKey_UnitName_605"] = "Pilot #035",
+    ["DictKey_UnitName_524"] = "New Static Object #056",
+    ["DictKey_ActionText_952"] = "任務に失敗しました。\
+\
+次は頑張ってください。",
+    ["DictKey_GroupName_493"] = "New Static Object #049",
+    ["DictKey_UnitName_296"] = "Pilot #001",
+    ["DictKey_WptName_534"] = "",
+    ["DictKey_ActionText_253"] = "UZI 1-1, SHOWTIME.\
+\
+終わりました、 UZI 1-1.\
+\
+WP10に戻ってください。次の交戦を開始します。",
+    ["DictKey_ActionText_939"] = "SHOWTIME　　Copy All \
+\
+時間計測を始めます。スコアをつけています。\
+\
+FIGHTS ON!",
+    ["DictKey_UnitName_13"] = "Pilot #002",
+    ["DictKey_GroupName_646"] = "New Static Object #046",
+    ["DictKey_WptName_345"] = "",
+    ["DictKey_GroupName_523"] = "New Static Object #059",
+    ["DictKey_WptName_483"] = "",
+    ["DictKey_WptName_733"] = "",
+    ["DictKey_WptName_501"] = "",
+    ["DictKey_GroupName_385"] = "New Static Object #014",
+    ["DictKey_GroupName_376"] = "New Static Object #011",
+    ["DictKey_ActionText_213"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+全飛行隊へ, SHOWTIME.\
+\
+活動時間が終了しました。この交戦のプレイタイムを終了しました。",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_GroupName_388"] = "New Static Object #012",
+    ["DictKey_GroupName_594"] = "New Airplane Group #006",
+    ["DictKey_WptName_924"] = "",
+    ["DictKey_GroupName_1061"] = "SHELL 1-1",
+    ["DictKey_GroupName_643"] = "New Static Object #044",
+    ["DictKey_ActionRadioText_154"] = "",
+    ["DictKey_ActionText_219"] = "常に相手機はあなたを見ていないと思って下さい。\
+\
+各機がこのように操縦していれば、空中衝突の可能性は大幅に減らせます。",
+    ["DictKey_WptName_612"] = "",
+    ["DictKey_ActionText_176"] = "SHOWTIME COPIES KILL.  \
+\
+SHOWTIME から ENFIELD 1-1に伝えます。.\
+\
+ENFIELD 1-1　あなたは死にました.",
+    ["DictKey_UnitName_386"] = "New Static Object #011",
+    ["DictKey_GroupName_574"] = "New Airplane Group #003",
+    ["DictKey_WptName_414"] = "",
+    ["DictKey_ActionRadioText_712"] = "",
+    ["DictKey_ActionText_262"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+COLT 1-1, BLACKJACK\
+\
+ハードデッキを破りました！\
+\
+",
+    ["DictKey_GroupName_634"] = "New Static Object #043",
+    ["DictKey_ActionText_1014"] = "DODGE 1-1, 滑走路へのタキシングの許可を要請します。",
+    ["DictKey_WptName_1058"] = "",
+    ["DictKey_UnitName_551"] = "New Static Object #062",
+    ["DictKey_ActionText_964"] = "UZI 1-1. BLACKJACK, コンタクト！\
+\
+コースを許可します。NATCF（ ネリス航空管制）に帰還の要請をして下さい。\
+\
+良い一日を！",
+    ["DictKey_ActionText_946"] = "アグレッサーにプラス１です！",
+    ["DictKey_GroupName_463"] = "New Static Object #038",
+    ["DictKey_GroupName_39"] = "1ST FLIGHT",
+    ["DictKey_WptName_33"] = "JAYSN",
+    ["DictKey_GroupName_457"] = "New Static Object #036",
+    ["DictKey_WptName_351"] = "",
+    ["DictKey_ActionRadioText_177"] = "FENCE OUT",
+    ["DictKey_ActionText_79"] = "私たちの南にはチャールストン山があります。正式にはチャールストンピークと呼ばれています。 \
+スプリング山脈とクラーク郡の両方で最も高い山です。 \
+\
+州内で8番目に高い山です。\
+\
+ ",
+    ["DictKey_ActionText_230"] = "レンジの交戦管理監視機関はSHOWTIMEが行います。\
+\
+SHOWTIMEは交戦を追跡・記録し、キルを確認します。\
+\
+SHOWTIMEからの命令を直ちに承認し、遵守しなければなりません。",
+    ["DictKey_GroupName_517"] = "New Static Object #057",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_ActionText_94"] = "FORD１-１、FORD１-２ \
+\
+次のナビポイントTROUTTに右旋回してください  \
+\
+そこでレンジを出る",
+    ["DictKey_ActionRadioText_64"] = "",
+    ["DictKey_WptName_432"] = "",
+    ["DictKey_ActionText_336"] = "WP 7 で FENCE IN をコールし、交戦の準備を行って下さい。",
+    ["DictKey_ActionText_1026"] = "CHEVY 1-1, AIRBORNE.",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_980"] = "最初の交戦は、高高度24000 feet MSL.からの 1 vs 1 ガンオンリー BFM DACT です。",
+    ["DictKey_UnitName_638"] = "Pilot #036",
+    ["DictKey_WptName_492"] = "",
+    ["DictKey_ActionText_1022"] = "CHEVY 1-1, 滑走路へのタキシングの許可を要請します。",
+    ["DictKey_ActionText_990"] = "KNOCK-IT-OFF\"や TERMINATEは誰でもコールできますし、全員が承認してください。\
+\
+次のことを発見したら、すぐにコールしてください。\
+\
+訓練ルール違反、SAの喪失、制御不能飛行、無線障害、ビンゴ燃料、その他の危険な状況 \
+\
+無線障害を起こした機（ノルド機）は、無線障害を示すために翼を揺らしてください。\
+\
+UZI 2-1, OUT!",
+    ["DictKey_ActionText_216"] = "SHOWTIME COPIES KILL.  \
+\
+SHOWTIME から UZI 1-1に伝えます。.\
+\
+UZI 1-1　あなたは死にました.",
+    ["DictKey_GroupName_1042"] = "SHELL 1-1",
+    ["DictKey_WptName_925"] = "",
+    ["DictKey_UnitName_449"] = "New Static Object #047",
+    ["DictKey_WptName_405"] = "",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_UnitName_603"] = "Pilot #033",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_1119"] = "",
+    ["DictKey_ActionText_237"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+UZI 1-1, BLACKJACK\
+\
+ハードデッキを破りました！\
+\
+100' AGLより降下しないで下さい。",
+    ["DictKey_UnitName_389"] = "New Static Object #005",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_ActionText_951"] = "任務に失敗しました。\
+\
+次は頑張ってください。",
+    ["DictKey_ActionText_67"] = "ブリーフィングで説明したフライトプランに沿って、今後のミッションの実行に役立つ重要なランドマークとナビゲーションポイントを説明します。",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_WptName_56"] = "ARCOE",
+    ["DictKey_UnitName_497"] = "New Static Object #018",
+    ["DictKey_WptName_552"] = "",
+    ["DictKey_ActionText_878"] = "",
+    ["DictKey_WptName_310"] = "",
+    ["DictKey_UnitName_326"] = "Pilot #009",
+    ["DictKey_ActionText_170"] = "SHOWTIME　　Copy All \
+\
+時間計測を始めます。スコアをつけています。\
+\
+FIGHTS ON!",
+    ["DictKey_UnitName_67"] = "PE2-1",
+    ["DictKey_WptName_812"] = "",
+    ["DictKey_ActionText_818"] = "",
+    ["DictKey_ActionRadioText_759"] = "CHECK IN",
+    ["DictKey_GroupName_1114"] = "Ammo #001",
+    ["DictKey_UnitName_728"] = "CHEVY 1-1",
+    ["DictKey_ActionText_996"] = "UZI 1-1, UZI 2-1.\
+\
+では、BELTED PEAKに向かい、良ければフェンスインをコールして下さい。",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_GroupName_520"] = "New Static Object #058",
+    ["DictKey_ActionRadioText_748"] = "TERMINATE",
+    ["DictKey_UnitName_1124"] = "Ammo #002",
+    ["DictKey_WptName_809"] = "",
+    ["DictKey_UnitName_374"] = "",
+    ["DictKey_ActionText_1004"] = "UZI 1-1, UZI 2-1.\
+\
+SHOWTIME.にチェックインしましょう。",
+    ["DictKey_ActionText_1015"] = "DODGE 1-1, ランウェイ３へのタキシングを許可します。",
+    ["DictKey_ActionText_198"] = "よく聞こえています！",
+    ["DictKey_ActionText_101"] = "FORD１-１、FORD１-２。\
+\
+ARCOEに着きました。 \
+\
+左旋回して次のナビポイントACTONへすすみます。",
+    ["DictKey_ActionText_338"] = "これでＢＦＭフェイズは終了です 。\
+次は、複数の敵を相手にした ACM（空中戦闘機動）です  \
+\
+グッドラック！",
+    ["DictKey_ActionText_953"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+UZI 1-1, BLACKJACK.\
+\
+ハッドデッキを破りました！",
+    ["DictKey_WptName_453"] = "",
+    ["DictKey_UnitName_662"] = "New Static Object #050",
+    ["DictKey_WptName_606"] = "",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_WptName_516"] = "",
+    ["DictKey_ActionText_1050"] = "UZI 2-1. ROGER!",
+    ["DictKey_ActionText_745"] = "UZI 1-1, BLACKJACK, コンタクト！\
+\
+GATE 1の通過を許可します。\
+\
+ALTIMETER 2988, MLLIBARS 1011\
+\
+SQUAWK MODE 3 TACTICALにしてください。.\
+\
+STANDBY FOR WORDS..",
+    ["DictKey_ActionText_992"] = "UZ1 1-1, UZI 1-2,\
+\
+GATE 1.に来ました。\
+\
+チェックアウトします！",
+    ["DictKey_WptName_43"] = "",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_WptName_13"] = "JAYSN",
+    ["DictKey_ActionText_99"] = "FORD 1-1、FORD 1-2。 \
+\
+次のナビポイント、DREAMのに進みます。",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_ActionText_1030"] = "UZI 2-1, TAKING THE AIRCRAFT.",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_UnitName_312"] = "Pilot #003",
+    ["DictKey_GroupName_373"] = "New Static Object #067",
+    ["DictKey_ActionText_228"] = "チェックインとチェックアウトはナビポイント GARTH で行います。",
+    ["DictKey_ActionText_211"] = "UZI 1-1, UZI 1-2.\
+\
+グッジョブ！\
+\
+次の交戦を開始しますので、WP 10に戻ってください。",
+    ["DictKey_WptName_438"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_ActionRadioText_768"] = "G-WARM 90 RIGHT GO",
+    ["DictKey_WptName_797"] = "",
+    ["DictKey_UnitName_43"] = "Player",
+    ["DictKey_WptName_293"] = "",
+    ["DictKey_GroupName_672"] = "",
+    ["DictKey_UnitName_617"] = "New Static Object #062",
+    ["DictKey_ActionText_119"] = "UZI 1.FENCE IN!",
+    ["DictKey_UnitName_464"] = "New Static Object #047",
+    ["DictKey_ActionText_260"] = "UZI 1-1, UZI 1-2.\
+\
+GOOD JOB!\
+\
+",
+    ["DictKey_UnitName_506"] = "New Static Object #018",
+    ["DictKey_ActionText_104"] = "FORD１-１、FORD１-２。\
+\
+VETTTに到着。 \
+\
+右旋回してネリスに戻ります。",
+    ["DictKey_UnitName_653"] = "New Static Object #044",
+    ["DictKey_ActionRadioText_164"] = "",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_UnitName_473"] = "New Static Object #039",
+    ["DictKey_GroupName_460"] = "New Static Object #037",
+    ["DictKey_WptName_587"] = "",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_UnitName_1115"] = "Ammo #001",
+    ["DictKey_ActionText_180"] = "UZI 1-2、FENCED OUT。\
+\
+燃料2500",
+    ["DictKey_WptName_519"] = "",
+    ["DictKey_ActionText_236"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+UZI 1-1, BLACKJACK\
+\
+ハードデッキを破りました！\
+\
+100' AGLより降下しないで下さい。",
+    ["DictKey_WptName_468"] = "",
+    ["DictKey_UnitName_452"] = "New Static Object #047",
+    ["DictKey_ActionText_746"] = "UZI 1-1, UZI 1-2.\
+\
+ネリスに戻りますので、STRYKに向かいます。",
+    ["DictKey_ActionText_954"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+UZI 1-1, BLACKJACK.\
+\
+ハッドデッキを破りました！",
+    ["DictKey_ActionRadioText_182"] = "UZI 1-1, READY",
+    ["DictKey_ActionRadioText_762"] = "FENCE IN",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_ActionText_62"] = "ｕｚｉ１-１です。\
+\
+予定通りチェックイン!",
+    ["DictKey_ActionText_974"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+DODGE 1-1, BLACKJACK\
+\
+ハードデッキを破りました！\
+\
+",
+    ["DictKey_GroupName_352"] = "New Static Object #004",
+    ["DictKey_GroupName_1138"] = "Ammo #009",
+    ["DictKey_GroupName_607"] = "New Static Object #062",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_ActionText_1032"] = "ネリスデパーチャー.  UZI 2-1 \
+\
+離陸の許可を願います",
+    ["DictKey_descriptionRedTask_2"] = "ブルーエアーを撃退する",
+    ["DictKey_WptName_55"] = "DREAM",
+    ["DictKey_ActionText_775"] = "COLT 1-1, TERMINATE!",
+    ["DictKey_GroupName_358"] = "New Static Object #006",
+    ["DictKey_GroupName_412"] = "New Static Object #022",
+    ["DictKey_ActionRadioText_120"] = "",
+    ["DictKey_ActionText_963"] = "UZI 1.\
+\
+活動時間が終了しました。チェックアウトします。",
+    ["DictKey_GroupName_631"] = "New Static Object #042",
+    ["DictKey_WptName_1137"] = "",
+    ["DictKey_WptName_378"] = "",
+    ["DictKey_ActionText_1035"] = "良い戦闘機パイロットになるためには、素早く考え、素早く行動する必要があります。\
+\
+幸運を！",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_ActionText_254"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+UZI 1-1, BLACKJACK\
+\
+ハードデッキを破りました！\
+\
+100' AGLより降下しないで下さい。",
+    ["DictKey_WptName_813"] = "",
+    ["DictKey_ActionText_711"] = "UZI 1-1, BLACKJACK.\
+\
+REQUEST RECYCLE INDIA.",
+    ["DictKey_ActionText_1033"] = "最初の交戦は、高高度24000 feet MSL.からの 1 vs 1 ガンオンリー BFM DACT です。\
+\
+あなたの対戦相手はロストック・ラーゲ空港に拠点を置くドイツ空軍JG73 \"シュタインホフ \"のMiG-29Gです。",
+    ["DictKey_UnitName_686"] = "FORD 1-1",
+    ["DictKey_WptName_829"] = "",
+    ["DictKey_WptName_1063"] = "",
+    ["DictKey_ActionRadioText_704"] = "",
+    ["DictKey_ActionText_936"] = "UZI 1-1 UZI 1-2.\
+\
+INDIAで周回して下さい。準備が整ったら、READY　をコールして下さい。",
+    ["DictKey_ActionRadioText_755"] = "GO G-WARM",
+    ["DictKey_WptName_651"] = "",
+    ["DictKey_ActionText_192"] = "SHOWTIME COPIES KILL.  \
+\
+SHOWTIME から PONTIAC 1-1に伝えます。.\
+\
+PONTIAC 1-1　あなたは死にました.",
+    ["DictKey_WptName_590"] = "",
+    ["DictKey_UnitName_591"] = "Pilot #025",
+    ["DictKey_GroupName_409"] = "New Static Object #021",
+    ["DictKey_UnitName_467"] = "New Static Object #047",
+    ["DictKey_UnitName_404"] = "New Static Object #016",
+    ["DictKey_UnitName_93"] = "Pilot Engagement 3",
+    ["DictKey_WptName_429"] = "",
+    ["DictKey_UnitName_641"] = "Pilot #038",
+    ["DictKey_UnitName_577"] = "Pilot #017",
+    ["DictKey_WptName_435"] = "",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_WptName_423"] = "",
+    ["DictKey_ActionText_987"] = "降下追撃時、攻撃機は防御機の高度や姿勢を監視してください。どちらかの航空機がハードデッキを破る前に攻撃を中止して下さい。\
+\
+この場合の攻撃機のほうが、前方に敵機がいるので、通常はSAやデッキの意識が高いでしょう。",
+    ["DictKey_ActionText_263"] = "",
+    ["DictKey_UnitName_377"] = "New Static Object #067",
+    ["DictKey_WptName_666"] = "",
+    ["DictKey_GroupName_921"] = "GCI #001",
+    ["DictKey_UnitName_11"] = "Major Jason Campbell",
+    ["DictKey_GroupName_367"] = "New Static Object #009",
+    ["DictKey_WptName_384"] = "",
+    ["DictKey_ActionRadioText_758"] = "CHECK IN",
+    ["DictKey_UnitName_1043"] = "Pilot #003",
+    ["DictKey_GroupName_308"] = "NELLIS FLIGHT 1",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_ActionRadioText_204"] = "",
+    ["DictKey_UnitName_488"] = "New Static Object #018",
+    ["DictKey_WptName_893"] = "",
+    ["DictKey_UnitName_623"] = "New Static Object #062",
+    ["DictKey_WptName_811"] = "",
+    ["DictKey_WptName_58"] = "VETTT",
+    ["DictKey_ActionRadioText_197"] = "COPY",
+    ["DictKey_ActionRadioText_756"] = "G-WARM 90 LEFT GO",
+    ["DictKey_sortie_4"] = "BFM07 1 vs 1 GUNS ONLY DACT vs MiG-29G",
+    ["DictKey_WptName_393"] = "",
+    ["DictKey_UnitName_1107"] = "",
+    ["DictKey_UnitName_458"] = "New Static Object #047",
+    ["DictKey_ActionText_66"] = "今日のミッションは、複数の相手に対して、DACTを行ってもらいます。",
+    ["DictKey_ActionText_95"] = "BLACKJACK、FORD１-２。\
+\
+退出の許可を要求します。\
+\
+トラウトの北にいます。",
+    ["DictKey_UnitName_595"] = "Pilot #028",
+    ["DictKey_ActionRadioText_1073"] = "TERMINATE",
+    ["DictKey_ActionText_1008"] = "DODGE 1-1, READY!",
+    ["DictKey_UnitName_80"] = "Pilot #001",
+    ["DictKey_GroupName_532"] = "New Static Object #062",
+    ["DictKey_ActionText_88"] = "FORD１-１ FORD１-２  \
+\
+私たちはWP 7でWP 8に向かって右に曲がっています。",
+    ["DictKey_UnitName_416"] = "New Static Object #016",
+    ["DictKey_WptName_375"] = "",
+    ["DictKey_ActionText_941"] = "TERMINATE! TERMINATE! TERMINATE!",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_WptName_1102"] = "",
+    ["DictKey_GroupName_379"] = "New Static Object #067",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_WptName_660"] = "",
+    ["DictKey_GroupName_454"] = "New Static Object #035",
+    ["DictKey_ActionRadioText_61"] = "",
+    ["DictKey_UnitName_446"] = "New Static Object #030",
+    ["DictKey_ActionText_77"] = "ガスピーク(GASS PEAK)はラスベガスの真北にあり、南ネバダ州ラスベガス山脈の最高峰です。\
+\
+ ",
+    ["DictKey_WptName_1065"] = "",
+    ["DictKey_GroupName_637"] = "New Airplane Group #008",
+    ["DictKey_ActionText_280"] = "ブルーエアーが READY をコールしたら、 SHOWTIME が FIGHTS ON の合図をだします。!\
+\
+各交戦は15分間の持ち時間があります。",
+    ["DictKey_ActionRadioText_761"] = "CHECK IN",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_ActionRadioText_128"] = "",
+    ["DictKey_UnitName_371"] = "New Static Object #009",
+    ["DictKey_UnitName_323"] = "Pilot #008",
+    ["DictKey_ActionText_932"] = "UZI 1-1, UZI 2-1.\
+\
+ラジオチェック",
+    ["DictKey_ActionText_89"] = "FORD１-１、FORD１-２。 \
+\
+私たちはレイチェルの町に近づいています。",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_UnitName_521"] = "New Static Object #056",
+    ["DictKey_UnitName_533"] = "New Static Object #056",
+    ["DictKey_GroupName_406"] = "New Static Object #020",
+    ["DictKey_ActionRadioText_123"] = "GO G-WARM",
+    ["DictKey_WptName_408"] = "",
+    ["DictKey_WptName_806"] = "",
+    ["DictKey_UnitName_673"] = "",
+    ["DictKey_WptName_731"] = "",
+    ["DictKey_WptName_450"] = "",
+    ["DictKey_ActionText_98"] = "FORD１-１、FORD１-２。\
+\
+DREAMに着きました。 \
+\
+次のナビポイントARCOEまで進みます。",
+    ["DictKey_WptName_729"] = "",
+    ["DictKey_GroupName_448"] = "New Static Object #047",
+    ["DictKey_ActionText_171"] = "ENFIELD 1-1, 敵機攻撃！",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_ActionRadioText_160"] = "",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_ActionText_749"] = "全飛行隊、SHOWTIME.\
+\
+プレイタイムが終了しました。\
+\
+交戦は完了しました。",
+    ["DictKey_ActionText_335"] = "WP 8 に到着したら、 演習中のGに備えて、G-Awareness テストをおこないます。",
+    ["DictKey_GroupName_433"] = "New Static Object #029",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_GroupName_361"] = "New Static Object #007",
+    ["DictKey_ActionText_191"] = "SHOWTIME COPIES TERMINATE!",
+    ["DictKey_ActionText_997"] = "UZI 1, FENCE IN!",
+    ["DictKey_ActionText_965"] = "UZI 1-1, UZI 2-1.\
+\
+ブルートフォースは、今日、アグレッサーから良い教訓を得ました。\
+\
+少佐はあなたの働きにとても満足していました  その調子です！",
+    ["DictKey_ActionRadioText_145"] = "",
+    ["DictKey_ActionRadioText_240"] = "FENCE OUT",
+    ["DictKey_ActionText_148"] = "2, COPY!",
+    ["DictKey_WptName_798"] = "",
+    ["DictKey_WptName_1108"] = "",
+    ["DictKey_WptName_10"] = "FLEX",
+    ["DictKey_WptName_57"] = "ACTON",
+    ["DictKey_UnitName_319"] = "Pilot #004",
+    ["DictKey_GroupName_625"] = "New Static Object #040",
+    ["DictKey_WptName_580"] = "",
+    ["DictKey_ActionText_250"] = "全飛行隊、SHOWTIME.\
+\
+交戦は完了しました。",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_WptName_833"] = "",
+    ["DictKey_WptName_390"] = "",
+    ["DictKey_ActionText_783"] = "ENFIELD 1-1, TERMINATE!",
+    ["DictKey_GroupName_364"] = "New Static Object #008",
+    ["DictKey_GroupName_430"] = "New Static Object #028",
+    ["DictKey_WptName_648"] = "",
+    ["DictKey_GroupName_508"] = "New Static Object #054",
+    ["DictKey_WptName_1054"] = "",
+    ["DictKey_ActionText_947"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+全飛行隊へ, SHOWTIME.\
+\
+活動時間が終了しました。この交戦のプレイタイムを終了しました。",
+    ["DictKey_UnitName_322"] = "Pilot #007",
+    ["DictKey_UnitName_1136"] = "Ammo #006",
+    ["DictKey_WptName_1040"] = "",
+    ["DictKey_WptName_417"] = "",
+    ["DictKey_GroupName_514"] = "New Static Object #056",
+    ["DictKey_ActionText_97"] = "FORD１-２。\
+\
+ラジャー \
+\
+TROUTTからの退出を許可",
+    ["DictKey_ActionText_235"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+UZI 1-1, BLACKJACK\
+\
+あなたはセパレーション制限を破りました！\
+\
+500フィート以内には近づかないでください。",
+    ["DictKey_ActionText_339"] = "これでＢＦＭフェイズは終了です 。\
+次は、複数の敵を相手にした ACM（空中戦闘機動）です  \
+\
+グッドラック！",
+    ["DictKey_ActionText_677"] = "UZI 1-1, UZI 1-2.\
+\
+G-Awareness テストを行いましょう。",
+    ["DictKey_ActionRadioText_699"] = "CHECK IN",
+    ["DictKey_ActionText_973"] = "SHOWTIME COPIES KILL.  \
+\
+SHOWTIME から CHEVY 1-1に伝えます。.\
+\
+CHEVY 1-1　あなたは死にました.",
+    ["DictKey_WptName_835"] = "",
+    ["DictKey_GroupName_1056"] = "ARCO 1-1",
+    ["DictKey_WptName_510"] = "",
+    ["DictKey_ActionText_65"] = "ブルートフォースは、今日、アグレッサーから良い教訓を得ました。\
+\
+少佐はあなたの働きにとても満足していました  その調子です！",
+    ["DictKey_UnitName_509"] = "New Static Object #018",
+    ["DictKey_UnitName_428"] = "New Static Object #025",
+    ["DictKey_ActionText_962"] = "UZI 1-1, UZI 2-1.\
+\
+チェックアウトします！",
+    ["DictKey_ActionText_770"] = "UZ1 1-1, UZI 1-2,\
+\
+フェンスインしてください。",
+    ["DictKey_UnitName_665"] = "New Static Object #050",
+    ["DictKey_UnitName_422"] = "",
+    ["DictKey_WptName_354"] = "",
+    ["DictKey_GroupName_588"] = "New Airplane Group #005",
+    ["DictKey_UnitName_632"] = "New Static Object #032",
+    ["DictKey_WptName_531"] = "",
+    ["DictKey_WptName_583"] = "",
+    ["DictKey_ActionText_80"] = "FORD 1-1、FORD 1-2。 \
+\
+ＳＨＯＷＷに近づいています。\
+\
+クリーチ空軍基地の近くなので、交通に注意してください。\
+\
+\
+\
+ ",
+    ["DictKey_ActionText_249"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+全飛行隊へ, SHOWTIME.\
+\
+活動時間が終了しました。この交戦のプレイタイムを終了しました。",
+    ["DictKey_ActionText_1083"] = "あなたの通信と、攻撃テクニックを監視しています。\
+\
+グッドラック！",
+    ["DictKey_ActionText_246"] = "UZI 1-1, UZI 1-2.\
+\
+任務に失敗しました。\
+\
+次は頑張ってください。",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_ActionText_71"] = "FORD１-１、FORD１-２。\
+\
+最初のウェイポイントはナビポイントAPEXです。",
+    ["DictKey_UnitName_413"] = "New Static Object #016",
+    ["DictKey_GroupName_325"] = "New Airplane Group #002",
+    ["DictKey_WptName_426"] = "",
+    ["DictKey_ActionRadioText_185"] = "TERMINATE",
+    ["DictKey_WptName_839"] = "",
+    ["DictKey_UnitName_1052"] = "Pilot #011",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_GroupName_1038"] = "TEXACO 1-1",
+    ["DictKey_ActionRadioText_703"] = "CHECK IN",
+    ["DictKey_ActionText_106"] = "FORD１-１、FORD１-２。\
+\
+これでNTTRのツアーは終了です。 \
+\
+ラスベガス周辺には他にもフーバーダムやミード湖、レッドロックキャニオン国立保護区など、探索すべきエリアがたくさんあります。",
+    ["DictKey_ActionText_1034"] = "２つ目の交戦は、中高度14000 feet MSL.からの 1 vs 1 ガンオンリー BFM DACT です。\
+\
+あなたの対戦相手はロストック・ラーゲ空港に拠点を置くドイツ空軍JG73 \"シュタインホフ \"のMiG-29Gです。",
+    ["DictKey_ActionText_1012"] = "CHEVY 1-1.\
+\
+敵機を攻撃！",
+    ["DictKey_ActionText_1037"] = "UZI 1-1, UZI 2-1.\
+\
+ナビポイント、BELTED PEAKに進んで下さい!",
+    ["DictKey_ActionText_256"] = "UZI 1-1, SHOWTIME.\
+\
+終わりました、UZI 1-1.",
+    ["DictKey_GroupName_340"] = "New Static Object",
+    ["DictKey_ActionRadioText_333"] = "TERMINATE",
+    ["DictKey_ActionText_121"] = "UZI 1-2, FENCED IN.\
+\
+FUEL 2500.",
+    ["DictKey_WptName_1105"] = "",
+    ["DictKey_ActionText_55"] = "最初の交戦は、高高度24000 feet MSL.からの 1 vs 1 ガンオンリー BFM DACT です。\
+\
+対戦相手はカナダの第416戦術戦闘機中隊、アルバータ州コールドレイクを拠点にしている、CF-188です。、",
+    ["DictKey_ActionText_152"] = "COLT 1-1, READY!",
+    ["DictKey_UnitName_598"] = "Pilot #030",
+    ["DictKey_ActionRadioText_701"] = "",
+    ["DictKey_UnitName_298"] = "Pilot #003",
+    ["DictKey_WptName_1128"] = "",
+    ["DictKey_WptName_1113"] = "",
+    ["DictKey_WptName_399"] = "",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_WptName_836"] = "",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_ActionText_771"] = "UZI 1-1, UZI 1-2.\
+\
+GATE 1に近づいてきました。\
+\
+チェックインしましょう！",
+    ["DictKey_UnitName_443"] = "New Static Object #030",
+    ["DictKey_WptName_402"] = "",
+    ["DictKey_ActionText_201"] = "SHOWTIME COPIES ALL.\
+\
+全飛行隊 RTB.  \
+\
+今回の演習は終了です。",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_GroupName_538"] = "New Static Object #064",
+    ["DictKey_GroupName_1094"] = "New Static Object #055",
+    ["DictKey_ActionText_676"] = "UZI 1-1, UZI 1-2.\
+\
+良ければ、フェンスインをコールして下さい。",
+    ["DictKey_WptName_674"] = "",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_ActionText_1089"] = "良い戦闘機パイロットになるためには、素早く考え、素早く行動する必要があります。\
+\
+幸運を！",
+    ["DictKey_WptName_513"] = "",
+    ["DictKey_UnitName_407"] = "New Static Object #016",
+    ["DictKey_ActionText_970"] = "任務に失敗しました。\
+\
+次は頑張ってください。",
+    ["DictKey_ActionText_968"] = "UZI 1-1, BLACKJACK. \
+\
+コンテナに注意して下さい。",
+    ["DictKey_UnitName_1139"] = "Ammo #009",
+    ["DictKey_UnitName_1062"] = "Pilot #055",
+    ["DictKey_UnitName_586"] = "Pilot #023",
+    ["DictKey_WptName_462"] = "",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_WptName_1053"] = "",
+    ["DictKey_ActionText_1006"] = "UZI 1-1, SHOWTIME.\
+\
+あなたのPODを追跡しています。",
+    ["DictKey_UnitName_485"] = "New Static Object #018",
+    ["DictKey_WptName_459"] = "",
+    ["DictKey_ActionText_247"] = "全飛行隊、SHOWTIME.\
+\
+交戦は完了しました。",
+    ["DictKey_ActionRadioText_306"] = "CHECK IN",
+    ["DictKey_WptName_808"] = "",
+    ["DictKey_GroupName_664"] = "New Static Object #053",
+    ["DictKey_WptName_1140"] = "",
+    ["DictKey_WptName_1096"] = "",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_ActionText_933"] = "1, COPY.",
+    ["DictKey_UnitName_1130"] = "Ammo #002",
+    ["DictKey_ActionRadioText_199"] = "1, COPY",
+    ["DictKey_ActionText_175"] = "SHOWTIME COPIES KILL.  \
+\
+SHOWTIME から COLT 1-1に伝えます。.\
+\
+COLT 1-1　あなたは死にました.",
+    ["DictKey_WptName_546"] = "",
+    ["DictKey_UnitName_614"] = "New Static Object #062",
+    ["DictKey_WptName_1041"] = "",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_UnitName_329"] = "Pilot #011",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_ActionRadioText_157"] = "",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_ActionText_1109"] = "GUNS! GUNS! GUNS!",
+    ["DictKey_GroupName_445"] = "New Static Object #033",
+    ["DictKey_WptName_314"] = "",
+    ["DictKey_WptName_810"] = "",
+    ["DictKey_ActionText_1002"] = "WORDS ALPHA DODGE AS FRAGGED.\
+\
+WORDS BRAVO CHEVY AS FRAGGED.\
+\
+ALL CONTROL IN THE CLEAR.\
+\
+HOW COPY?",
+    ["DictKey_ActionText_1025"] = "CHEVY 1-1, TAKING THE ACTIVE.",
+    ["DictKey_ActionText_76"] = "FORD１-１ FORD１-２ \
+\
+GASS PEAKに到着。 次のナビポイント、STYRKまで進みます。\
+\
+ ",
+    ["DictKey_GroupName_793"] = "UZI 2",
+    ["DictKey_ActionText_225"] = "KNOCK-IT-OFF\"や TERMINATEは誰でもコールできますし、全員が承認してください。\
+\
+次のことを発見したら、すぐにコールしてください。\
+\
+訓練ルール違反、SAの喪失、制御不能飛行、無線障害、ビンゴ燃料、その他の危険な状況 \
+\
+無線障害を起こした機（ノルド機）は、無線障害を示すために翼を揺らしてください。",
+    ["DictKey_UnitName_688"] = "PONTIAC 1-1",
+    ["DictKey_GroupName_661"] = "New Static Object #052",
+    ["DictKey_ActionText_1067"] = "",
+    ["DictKey_UnitName_569"] = "New Static Object #015",
+    ["DictKey_WptName_507"] = "",
+    ["DictKey_WptName_34"] = "STRYK",
+    ["DictKey_ActionText_1027"] = "DODGE 1-1, BLACKJACK. \
+\
+コンテナに注意して下さい。",
+    ["DictKey_ActionText_950"] = "SHOWTIME COPIES KILL.  \
+\
+SHOWTIME から UZI 1-1に伝えます。.\
+\
+UZI 1-1　あなたは死にました.",
+    ["DictKey_GroupName_5"] = "UZI 1",
+    ["DictKey_ActionText_989"] = "ガン攻撃の最低射程距離は1000フィートです。\
+\
+繰り返しになりますが、接近率は判断が難しいので、ミスをおかすと悲惨なことになりかねません。",
+    ["DictKey_WptName_387"] = "",
+    ["DictKey_GroupName_734"] = "F-15C Flight",
+    ["DictKey_ActionText_995"] = "UZI 1-1, UZI 1-2\
+\
+位置を確認して下さい。\
+\
+レッドエアーのコリドールから外れないで下さい。\
+\
+ナビポイントGARTH.に進んでください。\
+\
+LSV 300 FOR 90.  LSV TACAN 12X.",
+    ["DictKey_ActionText_957"] = "UZI 1-1 BLACKJACK\
+\
+INDIA　に戻って下さい。.",
+    ["DictKey_UnitName_461"] = "New Static Object #047",
+    ["DictKey_GroupName_400"] = "New Static Object #018",
+    ["DictKey_UnitName_500"] = "New Static Object #018",
+    ["DictKey_WptName_302"] = "",
+    ["DictKey_WptName_573"] = "",
+    ["DictKey_UnitName_518"] = "New Static Object #056",
+    ["DictKey_GroupName_1132"] = "Ammo #010",
+    ["DictKey_ActionText_1007"] = "UZI 2-1, FENCED IN!\
+\
+FUEL 12.5.",
+    ["DictKey_GroupName_442"] = "New Static Object #032",
+    ["DictKey_WptName_1055"] = "",
+    ["DictKey_WptName_737"] = "",
+    ["DictKey_ActionText_87"] = "FORD1-1、FORD1-2  \
+\
+引き続き、レンジのツアーを続けましょう。\
+WP 7に飛びます。",
+    ["DictKey_WptName_477"] = "",
+    ["DictKey_GroupName_622"] = "New Static Object #039",
+    ["DictKey_GroupName_619"] = "New Static Object #027",
+    ["DictKey_ActionText_700"] = "UZI 1-1, UZI 1-2.\
+\
+SHOWTIME　にチェックインしましょう！",
+    ["DictKey_ActionText_227"] = "交戦には、COYOTE ALPHA、BRAVO、CHARLIE AND DELTAを使用します。",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_WptName_324"] = "",
+    ["DictKey_UnitName_565"] = "Pilot #014",
+    ["DictKey_WptName_627"] = "",
+    ["DictKey_GroupName_547"] = "New Static Object #068",
+    ["DictKey_WptName_444"] = "",
+    ["DictKey_WptName_37"] = "",
+    ["DictKey_GroupName_1103"] = "Ammo #003",
+    ["DictKey_ActionText_988"] = "ブラインドリードターンをしないこと。\
+\
+あなたが敵機を見失うほどの、過度のリードを取ってはいけません。\
+\
+我々は、常に相手の航空機が、こちらを見ていないと仮定して行動することを心がけて下さい。",
+    ["DictKey_WptName_489"] = "",
+    ["DictKey_WptName_486"] = "",
+    ["DictKey_ActionRadioText_122"] = "",
+    ["DictKey_ActionText_982"] = "この演習では無制限の弾薬を持っていますが、射撃は賢明に行って下さい。",
+    ["DictKey_GroupName_727"] = "NELLIS FLIGHT 2",
+    ["DictKey_WptName_723"] = "",
+    ["DictKey_ActionText_205"] = "UZI 1-1. BLACKJACK, CONTACT!\
+\
+コースを許可します。NATCF（ ネリス航空管制）に帰還の要請をして下さい。\
+\
+良い一日を！",
+    ["DictKey_ActionText_134"] = "UZI 1 G-ウォーム　90 LEFT GO!",
+    ["DictKey_ActionText_975"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+CHEVY 1-1, BLACKJACK\
+\
+ハードデッキを破りました！\
+\
+",
+    ["DictKey_ActionText_814"] = "出発時刻は 0700　です。\
+\
+機体を始動して、無線チェックを行いましょう。\
+",
+    ["DictKey_ActionText_56"] = "２つ目の交戦は、中高度14000 feet MSL.からの 1 vs 1 ガンオンリー BFM ACT です。\
+\
+対戦相手はポーランドのグディニアを拠点とする第34戦闘機連隊-ポーランド空軍第1戦隊のMiG-21Bisです。",
+    ["DictKey_ActionRadioText_1071"] = "TERMINATE",
+    ["DictKey_UnitName_585"] = "Pilot #022",
+    ["DictKey_WptName_348"] = "",
+    ["DictKey_ActionText_960"] = "UZI 1, FENCE OUT!",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_GroupName_391"] = "New Static Object #015",
+    ["DictKey_ActionText_244"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_UnitName_359"] = "New Static Object #005",
+    ["DictKey_ActionText_245"] = "UZI 1-1, SHOWTIME.\
+\
+終わりました、UZI 1-1.",
+    ["DictKey_WptName_471"] = "",
+    ["DictKey_WptName_834"] = "",
+    ["DictKey_ActionRadioText_125"] = "",
+    ["DictKey_GroupName_484"] = "New Static Object #045",
+    ["DictKey_ActionText_214"] = "SHOWTIME COPIES KILL.  \
+\
+SHOWTIME から UZI 1-1に伝えます。.\
+\
+UZI 1-1　あなたは死にました.",
+    ["DictKey_GroupName_318"] = "New Airplane Group #001",
+    ["DictKey_WptName_36"] = "APEX",
+    ["DictKey_ActionText_243"] = "ブルーフォースのユニットをいくつか倒したが 全てではありません。\
+\
+あなたならもっとうまくやれるでしょう！\
+\
+少佐は失望しましたが、彼はあなたを信頼しています。",
+    ["DictKey_ActionRadioText_668"] = "",
+    ["DictKey_ActionText_792"] = "UZI 1-1, UZI 1-2\
+\
+位置を確認して下さい。\
+\
+レッドエアーのコリドールから外れないで下さい。",
+    ["DictKey_ActionText_105"] = "UZI 1-1 READY!",
+    ["DictKey_ActionText_91"] = "レイチェルは、多くのUFOハンターが頻繁に立ち寄る場所です。\
+\
+もしかしたら、私たちも何人かに会えるかもしれません。",
+    ["DictKey_ActionRadioText_241"] = "CHECK OUT",
+    ["DictKey_ActionRadioText_332"] = "TERMINATE",
+    ["DictKey_ActionRadioText_159"] = "",
+    ["DictKey_GroupName_1100"] = "New Static Object #054",
+    ["DictKey_UnitName_512"] = "New Static Object #018",
+    ["DictKey_WptName_803"] = "",
+    ["DictKey_UnitName_440"] = "New Static Object #030",
+    ["DictKey_WptName_633"] = "",
+    ["DictKey_ActionRadioText_181"] = "",
+    ["DictKey_UnitName_365"] = "New Static Object #006",
+    ["DictKey_UnitName_647"] = "New Static Object #044",
+    ["DictKey_ActionRadioText_156"] = "TERMINATE",
+    ["DictKey_ActionRadioText_161"] = "TERMINATE",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_ActionText_209"] = "UZI 1-1、UZI 1-2\
+\
+この交戦のプレイティムが終了しました。\
+\
+次の交戦を開始しますので、WP 10に戻ってください。",
+    ["DictKey_WptName_441"] = "",
+    ["DictKey_GroupName_478"] = "New Static Object #043",
+    ["DictKey_UnitName_722"] = "",
+    ["DictKey_ActionRadioText_136"] = "G-WARM 90 LEFT GO",
+    ["DictKey_ActionText_979"] = "UZI 1-1, UZI 2-1.\
+\
+今日のミッションは、複数の相手に対して、DACTを行ってもらいます。",
+    ["DictKey_GroupName_568"] = "New Static Object #025",
+    ["DictKey_WptName_1045"] = "",
+    ["DictKey_ActionText_163"] = "SHOWTIME COPIES TERMINATE!\
+\
+全飛行隊 TERMINATE!",
+    ["DictKey_ActionText_993"] = "UZI 1, 予定通り、チェックイン！",
+    ["DictKey_ActionRadioText_764"] = "CHECK IN",
+    ["DictKey_ActionRadioText_149"] = "READY",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_ActionText_976"] = "ネリス デパーチャー、UZI 2-1。\
+\
+グッドジェット タクシーの準備ができました。\
+\
+ノースウォー！",
+    ["DictKey_UnitName_419"] = "New Static Object #016",
+    ["DictKey_ActionText_966"] = "UZI 1-1, UZI 2-1.\
+\
+ブルーフォースのユニットをいくつか倒したが 全てではありません。\
+\
+あなたならもっとうまくやれるでしょう！\
+\
+少佐は失望しましたが、彼はあなたを信頼しています。",
+    ["DictKey_WptName_16"] = "GARTH",
+    ["DictKey_ActionRadioText_1072"] = "TERMINATE",
+    ["DictKey_WptName_567"] = "",
+    ["DictKey_ActionText_226"] = "レンジの手順を説明します",
+    ["DictKey_WptName_802"] = "",
+    ["DictKey_UnitName_1057"] = "Pilot #040",
+    ["DictKey_WptName_320"] = "",
+    ["DictKey_WptName_831"] = "",
+    ["DictKey_ActionText_59"] = "あなたが対峙するパイロットはレンジを非常によく知っており、彼らのそれを有利に利用します。\
+\
+彼らをあなたの後ろにつかせていはいけませんか、そうなったら、プレイタイムはすぐに終わるでしょう。",
+    ["DictKey_WptName_618"] = "",
+    ["DictKey_ActionText_221"] = "ヘッドオンパスの場合は、予測不能な動きはしないで下さい。\
+\
+ボギーの飛行経路を横切ってパスの方向を強制的に変えてはいけません。\
+\
+疑われる可能性がある場合は、自分の意図を伝えてください。",
+    ["DictKey_WptName_363"] = "",
+    ["DictKey_UnitName_392"] = "New Static Object #005",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_UnitName_401"] = "New Static Object #016",
+    ["DictKey_ActionText_233"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+UZI 1-1, BLACKJACK\
+\
+あなたはセパレーション制限を破りました！\
+\
+500フィート以内には近づかないでください。",
+    ["DictKey_UnitName_347"] = "New Static Object",
+    ["DictKey_ActionText_679"] = "",
+    ["DictKey_UnitName_593"] = "Pilot #027",
+    ["DictKey_ActionText_138"] = "UZI 1 G-ウォーム 90 RIGHT GO!",
+    ["DictKey_UnitName_1104"] = "New Static Object #055",
+    ["DictKey_ActionText_1003"] = "UZI 1-1, UZI 1-2.\
+\
+BELTED PEAKに付きました。.\
+\
+ナビポイント INDIA に飛んで下さい。レイチェル北の交戦エリアです。",
+    ["DictKey_UnitName_599"] = "Pilot #031",
+    ["DictKey_GroupName_343"] = "New Static Object #001",
+    ["DictKey_UnitName_1121"] = "Ammo #002",
+    ["DictKey_GroupName_628"] = "New Static Object #041",
+    ["DictKey_ActionText_251"] = "UZI 1-1, UZI 1-2.\
+\
+任務に失敗しました。\
+\
+次は頑張ってください。",
+    ["DictKey_ActionText_265"] = "TERMINATE! TERMINATE! TERMINATE!\
+\
+PONTIAC 1-1, BLACKJACK\
+\
+ハードデッキを破りました！\
+\
+",
+    ["DictKey_ActionRadioText_763"] = "CHECK IN WITH SHOWTIME",
+    ["DictKey_WptName_297"] = "",
+    ["DictKey_WptName_498"] = "",
+    ["DictKey_GroupName_1126"] = "Ammo #008",
+    ["DictKey_ActionText_78"] = "ＦＯＲＤ１-１、ＦＯＲＤ１-２。\
+\
+STRYKに着きました。 次のナビポイントSHOWWまで進みます。\
+\
+\
+ ",
+    ["DictKey_WptName_636"] = "",
+    ["DictKey_GroupName_1051"] = "TEXACO 1-1",
+    ["DictKey_ActionText_705"] = "UZI 1-1, SHOWTIME.\
+\
+あなたのPODを追跡しています。",
+    ["DictKey_ActionText_129"] = "",
+    ["DictKey_ActionText_203"] = "UZI 1-1,\
+\
+活動時間が終わりました、チェックアウトして下さい。",
+    ["DictKey_ActionRadioText_135"] = "",
+    ["DictKey_UnitName_353"] = "New Static Object",
+    ["DictKey_ActionText_967"] = "UZI 1-1, UZI 2-1.\
+\
+ブルーフォースを一機も撃墜できませんでした。\
+\
+もっと頑張って下さい！!\
+\
+少佐はあなたの働きに失望しています。",
+    ["DictKey_WptName_725"] = "",
+    ["DictKey_UnitName_470"] = "New Static Object #039",
+    ["DictKey_ActionText_72"] = "APEXはネリスの代表的な着陸IPです。 \
+\
+民間地域の上空は極力避けるようにしています。",
+    ["DictKey_GroupName_496"] = "New Static Object #050",
+    ["DictKey_ActionText_1084"] = "UZI 1-1、UZI 2-1\
+\
+位置につきました。",
+    ["DictKey_GroupName_890"] = "New Vehicle Group",
+    ["DictKey_WptName_372"] = "",
+    ["DictKey_ActionText_215"] = "SHOWTIME COPIES KILL.  \
+\
+SHOWTIME から UZI 1-1に伝えます。.\
+\
+UZI 1-1　あなたは死にました.",
+    ["DictKey_UnitName_659"] = "New Static Object #050",
+    ["DictKey_GroupName_42"] = "FORD 1-1",
+    ["DictKey_WptName_1074"] = "",
+    ["DictKey_UnitName_794"] = "UZI 2-1",
+    ["DictKey_UnitName_330"] = "Pilot #012",
+    ["DictKey_ActionRadioText_168"] = "TERMINATE",
+    ["DictKey_UnitName_597"] = "Pilot #029",
+    ["DictKey_WptName_311"] = "",
+    ["DictKey_UnitName_1101"] = "New Static Object #055",
+    ["DictKey_WptName_1116"] = "",
+    ["DictKey_GroupName_355"] = "New Static Object #005",
+    ["DictKey_ActionText_194"] = "",
+    ["DictKey_ActionText_1023"] = "CHEVY 1-1, REQUEST TAKEOFF.",
+    ["DictKey_ActionText_958"] = "全飛行隊へ, SHOWTIME.\
+\
+今回の演習は完了です。\
+\
+飛行隊は帰還して下さい。",
+    ["DictKey_GroupName_1135"] = "Ammo #007",
+    ["DictKey_WptName_801"] = "",
+    ["DictKey_ActionText_959"] = "UZI 1-1, UZI 2-1.\
+\
+フェンスアウトします！",
+    ["DictKey_WptName_35"] = "GASS PEAK",
+    ["DictKey_UnitName_601"] = "Pilot #032",
+    ["DictKey_ActionText_972"] = "SHOWTIME COPIES KILL.  \
+\
+SHOWTIME から DODGE 1-1に伝えます。.\
+\
+DODGE 1-1　あなたは死にました.",
+    ["DictKey_ActionText_1009"] = "DODGE 1-1.\
+\
+敵機を攻撃！",
+    ["DictKey_UnitName_620"] = "New Static Object #062",
+    ["DictKey_ActionText_985"] = "相手との距離は、常に500フィートは維持してください。\
+\
+接近率は感知しにくいことが多いので、500フィート以下には近づかないようにしましょう。",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_ActionText_942"] = "TERMINATE! TERMINATE! TERMINATE!",
+    ["DictKey_ActionText_96"] = "FORD１-２、BLACKJACK\
+\
+TROUTTからの退出を許可します。",
+    ["DictKey_UnitName_922"] = "Pilot #001",
+    ["DictKey_WptName_305"] = "",
+    ["DictKey_ActionRadioText_137"] = "G-WARM 90 RIGHT GO",
+} -- end of dictionary

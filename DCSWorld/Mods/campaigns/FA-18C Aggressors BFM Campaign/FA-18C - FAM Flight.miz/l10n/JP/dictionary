@@ -1,0 +1,1430 @@
+dictionary = 
+{
+    ["DictKey_ActionText_112"] = "このフライトが今後のミッションの助けになることを期待しています。",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_UnitName_803"] = "Pilot #055",
+    ["DictKey_UnitName_449"] = "New Static Object #072",
+    ["DictKey_ActionText_68"] = "UZI 1-1、UZI 2-1\
+\
+ラジオチェック！",
+    ["DictKey_GroupName_798"] = "TEXACO 1-1",
+    ["DictKey_WptName_432"] = "",
+    ["DictKey_WptName_31"] = "",
+    ["DictKey_ActionText_113"] = "ネリスへのRTBを許可します \
+\
+アグレッサーの駐機場は、私達が最初にいた場所です。そこに駐機してください。\
+\
+UZI 2 -1 アウト",
+    ["DictKey_GroupName_295"] = "New Static Object #024",
+    ["DictKey_ActionText_85"] = "UZI 1-1、UZI 2-1。\
+\
+ＧＡＲＴＨはレッドエアのレンジエントリーポイントで、一般的にはＧＡＴＥ１と呼ばれています。\
+\
+GARTHに近づいたらレンジセイフティコントローラー「BLACKJACK」にチェックインします。",
+    ["DictKey_GroupName_298"] = "New Static Object #025",
+    ["DictKey_UnitName_218"] = "Pilot #026",
+    ["DictKey_ActionText_656"] = "任務に失敗した\
+\
+次は頑張ってください。",
+    ["DictKey_GroupName_247"] = "New Static Object #008",
+    ["DictKey_GroupName_469"] = "New Static Object #082",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_ActionText_761"] = "UZI 1-1、UZI 2-1。 \
+\
+私たちはヒコ（Hiko）の町に近づいてきました。\
+\
+ヒコはもう町ではなく、ゴーストタウンのようになっていますが、今でも農家や牧場主が利用しています。",
+    ["DictKey_GroupName_802"] = "SHELL 1-1",
+    ["DictKey_GroupName_421"] = "New Static Object #066",
+    ["DictKey_GroupName_10"] = "FORD 2-1",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_UnitName_158"] = "Pilot #004",
+    ["DictKey_WptName_456"] = "",
+    ["DictKey_UnitName_683"] = "Unit #1",
+    ["DictKey_ActionText_753"] = "UZI 2-1, ROGER, \
+\
+CLEARED FOR GATE 1.\
+",
+    ["DictKey_UnitName_558"] = "Pilot #048",
+    ["DictKey_ActionText_173"] = "UZI 1-1、UZI 1-2\
+\
+エンジェルズ20まで上昇し、対気速度を400ノットに上げてください。\
+\
+RTBまでこの状態を維持します。",
+    ["DictKey_WptName_536"] = "",
+    ["DictKey_WptName_25"] = "VETTT",
+    ["DictKey_WptName_533"] = "",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_GroupName_265"] = "New Static Object #014",
+    ["DictKey_ActionText_87"] = "BLACKJACK UZI 2-1\
+\
+UZIへの許可を要求 \
+FA-18C ２機編隊 \
+GATE１の南\
+\
+1120のGUNを搭載\
+\
+HOW COPY?",
+    ["DictKey_UnitName_548"] = "Pilot #042",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_ActionText_788"] = "FORD 1-2,準備ができたら離陸して下さい。\
+\
+QFE 28.03で300まで上昇",
+    ["DictKey_GroupName_283"] = "New Static Object #020",
+    ["DictKey_WptName_505"] = "",
+    ["DictKey_ActionText_739"] = "UZI 1-1、UZI 2-1。\
+\
+左旋回してナビポイントFLEXへ。\
+\
+UZI 2-1、OUT！",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_ActionText_580"] = "NTTRは監視されたレンジです。\
+\
+コンピュータ化された元々の追跡システムは、Air Combat Maneuvering Instrumentation SystemまたはACMIと呼ばれているものでした。\
+\
+これは、8機の航空機までしか追跡することができませんでした。",
+    ["DictKey_ActionText_69"] = "ネリス デパーチャー、UZI 2-1。\
+\
+グッドジェット タクシーの準備ができました。\
+\
+ノースウォー！",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_ActionText_794"] = "UZI 2-1, AIRBORNE.",
+    ["DictKey_ActionText_734"] = "UZI 1-1, UZI 2-1.\
+\
+準備ができたらついてきて下さい。",
+    ["DictKey_WptName_14"] = "FLUSH",
+    ["DictKey_UnitName_499"] = "Pilot #029",
+    ["DictKey_GroupName_382"] = "New Static Object #053",
+    ["DictKey_WptName_315"] = "",
+    ["DictKey_WptName_849"] = "",
+    ["DictKey_GroupName_472"] = "New Static Object #083",
+    ["DictKey_WptName_678"] = "",
+    ["DictKey_GroupName_515"] = "New Static Object #029",
+    ["DictKey_UnitName_395"] = "New Static Object #055",
+    ["DictKey_WptName_670"] = "",
+    ["DictKey_UnitName_842"] = "Ammo #002",
+    ["DictKey_ActionText_728"] = "UZI 1-1、UZI 2-1。\
+\
+今日のミッションはNTTR周辺での順応視察飛行です。",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_WptName_800"] = "",
+    ["DictKey_ActionText_793"] = "UZI 2-1 TAKING THE ACTIVE.",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_WptName_821"] = "",
+    ["DictKey_GroupName_235"] = "New Static Object #004",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_UnitName_553"] = "Pilot #045",
+    ["DictKey_GroupName_328"] = "New Static Object #035",
+    ["DictKey_ActionText_92"] = "UZI 1-1、UZI 2-1。 \
+\
+レイチェル(Rachel.)の町に近づいてきました。\
+\
+前方の緑の円が見えますか？\
+\
+これは「センターピボット」灌漑と呼ばれる 灌漑方法です。",
+    ["DictKey_WptName_333"] = "",
+    ["DictKey_UnitName_356"] = "New Static Object #041",
+    ["DictKey_WptName_828"] = "",
+    ["DictKey_UnitName_476"] = "New Static Object #081",
+    ["DictKey_WptName_348"] = "",
+    ["DictKey_UnitName_537"] = "Pilot #035",
+    ["DictKey_UnitName_507"] = "",
+    ["DictKey_GroupName_451"] = "New Static Object #076",
+    ["DictKey_ActionText_90"] = "UZI 1-1、UZI 2-1。\
+\
+GATE 1に到着しました。\
+\
+038に右旋回して、ナビポイントBELTED PEAK、TPH 121 for 53に進みます。\
+TPH TACAN 119X。",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_GroupName_527"] = "New Airplane Group #003",
+    ["DictKey_GroupName_484"] = "New Static Object #028",
+    ["DictKey_GroupName_818"] = "TEXACO 1-1",
+    ["DictKey_UnitName_210"] = "Pilot #021",
+    ["DictKey_GroupName_196"] = "Static Aggressors #001",
+    ["DictKey_WptName_826"] = "",
+    ["DictKey_GroupName_850"] = "Ammo #004",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_UnitName_224"] = "",
+    ["DictKey_WptName_480"] = "",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_UnitName_482"] = "",
+    ["DictKey_UnitName_410"] = "New Static Object #055",
+    ["DictKey_WptName_830"] = "",
+    ["DictKey_descriptionText_1"] = "本日のミッションは、NTTR周辺の順応視察飛行です。\
+\
+レンジへの往復の一般的なルートを飛行し、レンジへのチェックインとチェックアウトの手順を確認します。\
+\
+私はあなたの航行を助けになる重要なランドマークを説明します。\
+\
+離陸は私が先に行いますが、空中に出た後は、ルートやエリアの学習に集中するために、あなたが先を飛行してください。\
+\
+飛行中は400ノットを維持して、タンクを使わないようにしてください。\
+\
+フライトラインで会いしましょう。\
+\
+ミッションブリーフィング\
+\
+政治的/軍事的状況: なし\
+\
+任務の目的： NTTRを中心とした視察飛行を行う。\
+\
+脅威レベル：低\
+\
+活動エリア：ネバダ\
+作戦エリア： NTTR\
+NTTR レンジ：\
+4808E、4808D、PAHUTE ALPHA & BRAVO、74B、COYOTE BRAVO & CHARLIE、SALLY CORRIDOR、ELGIN \
+\
+ブルーエアの本拠地：ネリス空軍基地\
+レッドエアの本拠地：ネリス空軍基地\
+\
+友軍：なし\
+\
+友軍位置：なし\
+\
+ブルズアイ： 11 S PB 10425 66866 又は 44°48'18\\”E 41°29'7\\\"N\
+\
+敵軍:なし\
+\
+敵の位置:なし\
+\
+無線情報\
+制限： EMCONレベル：2\
+戦術訓練周波数: 251.0 Mhz AM\
+ガード: 243.0Mhz AM -（ 常時モニター）\
+\
+エアコンタクト： \
+あなたのフライト： (2xFA-18C)\
+UZI 1-1: 251.0 Mhz AM\
+UZI 2-1: 251.0 Mhz AM\
+AWACS. (1xE-3A)\
+DARKSTAR 1-1: AM251.0Mhz\
+\
+タンカー (3xKC-130)\
+\
+南西トラック - AR-231V\
+コールサイン：ARCO 1-1\
+チャンネル14 - 260.000\
+TACAN - 94X\
+\
+北トラック - AR-635\
+コールサイン: TEXACO 1-1\
+チャンネル15 - 263.000\
+TACAN - 1X\
+\
+ウエスト TRACK - AR-625\
+コールサイン：SHELL 1-1\
+チャンネル16 - 261.000\
+TACAN - 96X\
+           \
+フライトプラン：\
+離陸・着陸：ネリスタワー：327.0Mhz AM\
+代替 1: CREECH TOWER: 360.6 Mhz AM\
+代替 2: MCCARRAN TOWER: 257.8 Mhz AM\
+パターン高度：3000 FT AGL\
+\
+イングレスルート （入場ルート）\
+TCレッドエア・コーリドール\
+FLEX: 11 S PA 76509 20165 N 3618.62 W 11502.36\
+FYTTR：11 S PA 17429 24378 N 3621.44 W 11541.47\
+JAYSN：11 S NA 86088 47696 N 3634.25 W 11602.27\
+FLUSH:  11  S NA 59035 78068 N 3650.80 W 11620.27\
+GARTH/GATE 1: 11 S NB 57221 28275 N 3717.96 W 11621.26\
+BELTED PEAK: 11 S NB 81686 58140 N 3734.00 W 11604.50\
+\
+イーグレスルート（退場ルート）。\
+TCブルーエア・コーリドール\
+TROUTT/GATE 3: 11 S QA 01489 69515 N 3645.00 W 11444.58\
+ARCOE: 11 S PA 86017 67363\
+ACTON：11 S QA 14211 68937\
+VETTT: 11 S MA 99850 49578\
+APEX：11 S PA 87907 25880\
+ \
+レンジ情報。\
+レンジ・コントローラー：BLACKJACK：251.0Mhz AM\
+タクティカル・コントローラー：SHOWTIME：251.0 Mhz AM\
+レンジ入口：\
+GATE 1 11 S NB 57221 28275 N 3717.96 W 11621.26\
+レンジ出口。 \
+GATE 3 11 S QA 01489 69515 N 3645.00 W 11444.58\
+\
+ハードデッキ: 100 FT AGL\
+\
+活動制限区域：\
+1: 農場 (RACHELの近く)\
+2: 4808A (GROOM LAKE)\
+3: 4808B\
+4: 4808C\
+\
+コントロールポイント（CP）。\
+INDIA：RACHELのの北西12NM\
+ \
+レンジチェックイン：1600Z 0800　LOCAL\
+レンジチェックアウト：1630Z 0830　 LOCAL\
+活動時間（VUL PERIOD）: 30 分\
+ \
+燃料状態：\
+ジョーカー：3000 LBS\
+BINGO: 2500 LBS\
+\
+注：これはランプ開始、ランプ終了ミッションです。それに合わせたHOTASを設定してください。\
+\
+F10メニューを使用して、命令を発行したり、ナビ情報を表示したり、ステータスを送信したりすることができます。\
+\
+エンジン始動のためにタワーに連絡するには（希望する場合）：\
+1. Ground Crewに連絡して、Ground Powerを有効にします\
+2. 地上電源パネルのEXT POWER ON - RESET（右クリック）\
+3.  GROUND POWER 1、2、4をBにする  (エンゲージされるまで各スイッチを数秒間押し続けてください)\
+4. COMM 1 を選択し、ノブを M (Manual) に回します。\
+5. 327000 を入力し、ENTER を選択します。\
+6. Nellis ATCに連絡してstartup許可を得てください。\
+\
+REDFORはGPSを使用していないので、INSのアライメントは次のように行って下さい。：\
+\
+TCN経由でINSをアップデートする。\
+\
+1. INSアラインメント完了後、自分の座標を設定するために最初のウェイポイント座標を使用することができます。\
+ a) HSI ページで PB12 up か PB13　dnでwpt 0 を選択し、PB14 WPDSGを押します。\
+ b) HSIページで PB7 UPDT, PB7 DSG,  PB6 ACPTと押します。\
+\
+2. ミッション開始後に機体が移動している場合：\
+INSアライメント完了後にTCN位置更新を使用してください。\
+ a) TACANビーコンデータはMCに保存されていること。\
+ b) TACAN を始動させ、ビーコンのチャンネルとバンドを設定し、T/R モードにセットします。\
+ c) HSIページで、PB7 UPDT,  PB6 TCN,  PB6 ACPTと押します。 \
+\
+ミッション成功基準\
+フライトプランを完了させて下さい。\
+RTBして、アグレッサーの駐機場に駐機します。\
+ミッションはいつでも終了することができます。その場合でもキャンペーンは次のミッションに進みます。",
+    ["DictKey_UnitName_564"] = "",
+    ["DictKey_UnitName_278"] = "New Static Object #015",
+    ["DictKey_UnitName_165"] = "Pilot #008",
+    ["DictKey_ActionText_83"] = "南にはチャールストン山(Mount Charleston)があります。正式にはチャールストンピークと呼ばれています。 \
+\
+スプリングマウンテン（Spring Mountains）とクラーク郡（Clark County）の中で最も高い山です。 \
+\
+州内では8番目に高い山です。",
+    ["DictKey_UnitName_455"] = "New Static Object #076",
+    ["DictKey_UnitName_6"] = "Player",
+    ["DictKey_UnitName_368"] = "New Static Object #042",
+    ["DictKey_UnitName_202"] = "FORD 1-3",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_WptName_827"] = "",
+    ["DictKey_ActionText_722"] = "ミッション失敗！\
+\
+ミッションを終了して構いません。",
+    ["DictKey_GroupName_154"] = "F-16 FLIGHT",
+    ["DictKey_UnitName_203"] = "FORD 1-4",
+    ["DictKey_UnitName_305"] = "New Static Object #025",
+    ["DictKey_ActionText_145"] = "",
+    ["DictKey_ActionText_592"] = "ヒコ(Hiko)の東には2つの稜線の間を走る谷間があります。 \
+\
+これは、「パロック・サミット・パス（Pahroc Summit Pass）」と呼ばれていますが、パイロット達は「スチューデント・ギャップ（Student Gap）」と呼んでいます。",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_UnitName_119"] = "FORD 1-1",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_GroupName_397"] = "New Static Object #058",
+    ["DictKey_UnitName_545"] = "Pilot #041",
+    ["DictKey_GroupName_674"] = "",
+    ["DictKey_UnitName_392"] = "New Static Object #055",
+    ["DictKey_ActionText_63"] = "左手に見えるのはモアパ・バレー(Moapa Valley )です。\
+\
+ミード湖(Lake Mead)につながるマディー川(Muddy River)の北端にあります。",
+    ["DictKey_WptName_669"] = "",
+    ["DictKey_GroupName_286"] = "New Static Object #021",
+    ["DictKey_WptName_840"] = "",
+    ["DictKey_ActionText_589"] = "UZI 2-1 右に付きました。",
+    ["DictKey_UnitName_848"] = "Ammo #002",
+    ["DictKey_UnitName_281"] = "New Static Object #015",
+    ["DictKey_GroupName_346"] = "New Static Object #041",
+    ["DictKey_ActionText_147"] = "FORD 1 離陸の許可を願います",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_UnitName_498"] = "Pilot #028",
+    ["DictKey_UnitName_567"] = "",
+    ["DictKey_UnitName_434"] = "New Static Object #069",
+    ["DictKey_GroupName_466"] = "New Static Object #081",
+    ["DictKey_ActionText_756"] = "UZI 1-1、UZI 2-1。 \
+\
+BELTED PEAKに到着。\
+\
+右旋回してSTUDENT GAP　に向かいます。\
+\
+UZI 2-1, OUT!",
+    ["DictKey_ActionText_723"] = "ミッション失敗！\
+\
+計画した任務を遂行できませんでした。\
+\
+ミッションを終了して構いません。",
+    ["DictKey_ActionText_834"] = "これにより、精度や学習面で格段に改善されたディブリーフィングを提供します。 このシステムがアクティブな状態では、ミスは隠すことができません。",
+    ["DictKey_UnitName_193"] = "Pilot #011",
+    ["DictKey_WptName_804"] = "",
+    ["DictKey_UnitName_570"] = "New Static Object #061",
+    ["DictKey_ActionText_779"] = "お疲れさまです！\
+\
+いいフライトでした。  \
+\
+これでNTTRの空域を航行するのは問題ないでしょう。\
+\
+今後のミッションの成功を祈っています。",
+    ["DictKey_GroupName_436"] = "New Static Object #071",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_WptName_273"] = "",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_GroupName_76"] = "",
+    ["DictKey_ActionText_769"] = "UZI 1-1、UZI 2-1。\
+\
+DREAMに着きました。 \
+\
+右旋回してナビポイントARCOEに進む\
+\
+UZI 2-1、Out！",
+    ["DictKey_GroupName_277"] = "New Static Object #018",
+    ["DictKey_ActionText_64"] = "1、COPY!",
+    ["DictKey_ActionText_762"] = "ヒコ(Hiko)の東には2つの稜線の間を走る谷間があります。 \
+\
+これは、「パロック・サミット・パス（Pahroc Summit Pass）」と呼ばれていますが、パイロット達は「スチューデント・ギャップ（Student Gap）」と呼んでいます。",
+    ["DictKey_WptName_686"] = "",
+    ["DictKey_WptName_339"] = "",
+    ["DictKey_ActionText_773"] = "UZI 1-1、UZI 2-1。\
+\
+アクトンに着きました。 \
+\
+右旋回してナビポイントVETTTへ。\
+\
+UZI 2-1、OUT！",
+    ["DictKey_GroupName_403"] = "New Static Object #060",
+    ["DictKey_ActionText_100"] = "BLACKJACK、UZI 2-1。\
+\
+通過の許可を要求します。\
+\
+GATE 3の北側",
+    ["DictKey_UnitName_560"] = "Pilot #049",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_UnitName_155"] = "Pilot #002",
+    ["DictKey_ActionText_754"] = "UZI 1-1、UZI 2-1。\
+\
+GATE 1に到着しました。\
+\
+右旋回して、ナビポイントBELTED PEAKに進みます。\
+\
+UZI 2-1, OUT!",
+    ["DictKey_WptName_396"] = "",
+    ["DictKey_ActionText_763"] = "UZI 1-1、UZI 2-1。\
+\
+ヒコ（HIKO）の上にいます。\
+\
+右旋回して、ナビポイントTROUTTへ進みます。\
+\
+UZI 2-1, OUT!",
+    ["DictKey_GroupName_481"] = "New Static Object #026",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_ActionText_752"] = "UZI 2 -1 BLACKJACK コンタクト\
+\
+GATE1の通過を許可します。\
+\
+ALTIMETER 2988 MILLIBARS 1011\
+\
+天候は快晴、視界は全階層で良好\
+\
+全ての権限を許可します。\
+\
+良い一日を！",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_WptName_685"] = "",
+    ["DictKey_WptName_23"] = "ARCOE",
+    ["DictKey_WptName_465"] = "",
+    ["DictKey_ActionText_70"] = "UZI 1-1 UZI 2-1\
+\
+準備ができたら私についてきて下さい。",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_WptName_264"] = "",
+    ["DictKey_GroupName_415"] = "New Static Object #064",
+    ["DictKey_WptName_817"] = "",
+    ["DictKey_WptName_496"] = "",
+    ["DictKey_WptName_17"] = "BELTED PEAK",
+    ["DictKey_ActionText_781"] = "FORD 1-1, 滑走路への移動を要請します",
+    ["DictKey_WptName_411"] = "",
+    ["DictKey_WptName_805"] = "",
+    ["DictKey_WptName_330"] = "",
+    ["DictKey_UnitName_245"] = "New Static Object #001",
+    ["DictKey_UnitName_191"] = "Pilot #010",
+    ["DictKey_ActionText_825"] = "",
+    ["DictKey_GroupName_487"] = "New Airplane Group #001",
+    ["DictKey_GroupName_349"] = "New Static Object #042",
+    ["DictKey_WptName_252"] = "",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_ActionText_583"] = "これにより、精度や学習の面で格段に改善されたディブリーフィングが行えます。 \
+\
+このシステムが作動している中では、いかなるミスも隠すことはできません。",
+    ["DictKey_GroupName_307"] = "New Static Object #028",
+    ["DictKey_ActionText_786"] = "FORD 1-1,準備ができたら離陸して下さい。\
+\
+QFE 28.03で300まで上昇",
+    ["DictKey_GroupName_322"] = "New Static Object #033",
+    ["DictKey_WptName_420"] = "",
+    ["DictKey_ActionText_724"] = "出発時間は0730時間です\
+\
+準備ができ次第、通信チェックを行います。",
+    ["DictKey_UnitName_516"] = "New Static Object #027",
+    ["DictKey_GroupName_250"] = "New Static Object #009",
+    ["DictKey_ActionText_93"] = "レイチェルにはハイウェイ375号線があります。エリア51に近いことから、「地球外道路（Extraterrestrial Highway）」としても知られています。 \
+\
+エリア51は、我々のフライトプランのすぐ南、グルーム湖周辺の飛行禁止ゾーンにあります。",
+    ["DictKey_WptName_357"] = "",
+    ["DictKey_UnitName_851"] = "Ammo #002",
+    ["DictKey_ActionText_777"] = "このフライトが今後のミッションの助けになることを期待しています。",
+    ["DictKey_UnitName_293"] = "New Static Object #021",
+    ["DictKey_UnitName_254"] = "New Static Object #007",
+    ["DictKey_UnitName_819"] = "Pilot #054",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_550"] = "",
+    ["DictKey_WptName_447"] = "",
+    ["DictKey_UnitName_522"] = "New Static Object #027",
+    ["DictKey_WptName_360"] = "",
+    ["DictKey_UnitName_198"] = "Pilot #015",
+    ["DictKey_ActionText_31"] = "このフライトが今後のミッションの助けになることを期待しています。",
+    ["DictKey_ActionText_78"] = "UZI 1-1、UZI 2-1。\
+\
+ＳＴＲＹＫに着きました。 \
+\
+次のナビポイントWP5のSHOWWへ向かいます。\
+\
+\
+ ",
+    ["DictKey_GroupName_445"] = "New Static Object #074",
+    ["DictKey_ActionText_61"] = "出発時間は7時です\
+\
+準備ができたら通信チェックをします",
+    ["DictKey_ActionText_75"] = "UZI 1-1、UZI 2-1。\
+\
+ナビポイントFLEXにいます。 \
+\
+左旋回して方位270に進み、ナビポイントFYTTR、LSV 267 for 33 に進みます。",
+    ["DictKey_UnitName_425"] = "New Static Object #063",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_ActionText_747"] = "UZI 1-1、UZI 2-1。\
+\
+JAYSNに着きました。 \
+\
+右旋回してナビポイントFLUSHに進みます。\
+\
+UZI 2-1, OUT!",
+    ["DictKey_UnitName_260"] = "New Static Object #008",
+    ["DictKey_UnitName_347"] = "New Static Object #038",
+    ["DictKey_UnitName_221"] = "Pilot #029",
+    ["DictKey_UnitName_528"] = "Pilot #030",
+    ["DictKey_UnitName_338"] = "New Static Object #037",
+    ["DictKey_UnitName_530"] = "Pilot #031",
+    ["DictKey_WptName_568"] = "",
+    ["DictKey_ActionText_751"] = "BLACKJACK UZI 2-1\
+\
+UZIへの許可を要求 \
+FA-18C ２機編隊 \
+GATE１の南\
+\
+1120のGUNを搭載\
+\
+HOW COPY?",
+    ["DictKey_UnitName_296"] = "New Static Object #021",
+    ["DictKey_WptName_16"] = "GARTH",
+    ["DictKey_UnitName_13"] = "Pilot #002",
+    ["DictKey_WptName_345"] = "",
+    ["DictKey_ActionText_204"] = "UZI 1-1、UZI 2-1。\
+\
+ナビポイントFYTTRにいます。 \
+\
+方位306に右旋回してナビポイントJAYSN、 BTY 095 for 37分に進んで下さい。\
+BTY TACAN 94X。",
+    ["DictKey_WptName_483"] = "",
+    ["DictKey_UnitName_845"] = "Ammo #002",
+    ["DictKey_GroupName_385"] = "New Static Object #054",
+    ["DictKey_GroupName_376"] = "New Static Object #051",
+    ["DictKey_GroupName_262"] = "New Static Object #013",
+    ["DictKey_GroupName_388"] = "New Static Object #055",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_GroupName_554"] = "New Airplane Group #007",
+    ["DictKey_WptName_414"] = "",
+    ["DictKey_GroupName_232"] = "New Static Object #003",
+    ["DictKey_ActionText_795"] = "任務に失敗した\
+\
+次は頑張ってください。",
+    ["DictKey_UnitName_200"] = "Pilot #017",
+    ["DictKey_GroupName_463"] = "New Static Object #080",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_GroupName_457"] = "Ammo #006",
+    ["DictKey_WptName_351"] = "",
+    ["DictKey_ActionText_79"] = "Jettison hill 情報...",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_UnitName_209"] = "Pilot #020",
+    ["DictKey_WptName_20"] = "HIKO",
+    ["DictKey_ActionText_111"] = "UZI 1-1、UZI 2-1。\
+\
+これでNTTRのツアーは終了です。 \
+\
+ラスベガス周辺には他にもフーバーダムやミード湖、レッドロックキャニオン国立保護区など、探索すべきエリアがたくさんあります。",
+    ["DictKey_ActionText_94"] = "レイチェルには多くのUFOハンターが集まってきます。 \
+\
+空戦訓練のほとんどは レイチェルの北側で行われます",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_GroupName_271"] = "New Static Object #016",
+    ["DictKey_ActionRadioText_67"] = "COPY",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_WptName_514"] = "",
+    ["DictKey_UnitName_389"] = "New Static Object #054",
+    ["DictKey_UnitName_490"] = "Pilot #023",
+    ["DictKey_UnitName_266"] = "New Static Object #012",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_WptName_405"] = "",
+    ["DictKey_GroupName_238"] = "New Static Object #005",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_UnitName_326"] = "New Static Object #033",
+    ["DictKey_ActionText_170"] = "UZI 1-1、UZI 2-1\
+\
+350ノットを維持してエンジェル14まで上昇",
+    ["DictKey_UnitName_497"] = "Pilot #027",
+    ["DictKey_GroupName_226"] = "New Static Object #001",
+    ["DictKey_ActionText_774"] = "左手に見えるのはモアパ・バレー(Moapa Valley )です。\
+\
+ミード湖(Lake Mead)につながるマディー川(Muddy River)の北端にあります。",
+    ["DictKey_UnitName_233"] = "New Static Object #001",
+    ["DictKey_WptName_809"] = "",
+    ["DictKey_UnitName_374"] = "New Static Object #049",
+    ["DictKey_UnitName_251"] = "New Static Object #007",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_ActionText_742"] = "LSV 15 DMEアーク（円周、円弧）を 8000 MSL以下でインターセプトして、円周上を南に向かってください\
+\
+10,200 MSL以上でLSV R-267 for 15をインターセプトしたら、アウトバウンドへ向かいます。\
+\
+14,000 MSL以上でFYTTRを通過します。",
+    ["DictKey_GroupName_500"] = "New Static Object #025",
+    ["DictKey_UnitName_329"] = "New Static Object #033",
+    ["DictKey_ActionText_745"] = "南にはチャールストン（Charleston）山があります。正式にはチャールストンピーク（Charleston Peak）と呼ばれています。 \
+\
+スプリング山脈内でもクラーク郡内でも最も高い山です。 \
+\
+州内でで8番目に高い山です。",
+    ["DictKey_WptName_312"] = "",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_UnitName_320"] = "New Static Object #029",
+    ["DictKey_WptName_46"] = "HIKO",
+    ["DictKey_WptName_453"] = "",
+    ["DictKey_WptName_13"] = "JAYSN",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_WptName_438"] = "",
+    ["DictKey_WptName_815"] = "",
+    ["DictKey_ActionText_77"] = "ガスピーク(GASS PEAK)はラスベガスの真北にあり、南ネバダ州ラスベガス山脈の最高峰です。\
+\
+ ",
+    ["DictKey_ActionText_744"] = "UZI 1-1、UZI 2-1。\
+\
+ナビポイントFYTTRにいます。 \
+\
+右旋回してNAVポイントJAYSNに進みます。",
+    ["DictKey_ActionText_736"] = "翼に付いているの変なポッドは キュービック社の戦術航空乗務員戦闘訓練システムまたはTACTSポッドと呼ばれています。 \
+\
+レンジにあるリモートセンサーに情報を送信し、それを中央のスーパーコンピューターに集めてデータを処理して表示します。",
+    ["DictKey_GroupName_316"] = "New Static Object #031",
+    ["DictKey_UnitName_386"] = "New Static Object #049",
+    ["DictKey_ActionText_726"] = "1、COPY!",
+    ["DictKey_WptName_508"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_UnitName_543"] = "Pilot #039",
+    ["DictKey_UnitName_157"] = "Pilot #003",
+    ["DictKey_ActionText_714"] = "ミッション成功！\
+\
+ミッションを終了して構いません。",
+    ["DictKey_GroupName_373"] = "New Static Object #050",
+    ["DictKey_UnitName_194"] = "Pilot #012",
+    ["DictKey_GroupName_259"] = "New Static Object #012",
+    ["DictKey_UnitName_473"] = "New Static Object #081",
+    ["DictKey_GroupName_460"] = "New Static Object #079",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_ActionText_791"] = "ネリスデパーチャー,UZI 2-1 離陸の許可を願います。",
+    ["DictKey_WptName_816"] = "",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_GroupName_521"] = "New Static Object #031",
+    ["DictKey_UnitName_43"] = "Player",
+    ["DictKey_WptName_468"] = "",
+    ["DictKey_ActionText_735"] = "UZI 1-1、UZI 2-1。\
+\
+右手にあるのが、世界的に有名な「サンダーバード」の本拠地です。\
+\
+彼らはネリスを拠点とする第57航空団に所属するアメリカ空軍の航空デモンストレーション中隊です。\
+\
+1953年に結成されました。1946年に結成されたアメリカ海軍ブルーエンジェルズ、1931年に結成されたフランス空軍パトルイユ・ドゥ・フランスに次いで、世界で3番目に古い公式な曲技飛行チームです。",
+    ["DictKey_ActionText_746"] = "UZI 1-1, UZI 2-1.  \
+\
+北にはクリーチ空軍基地(Creech Air Force Base)があるので、レンジに向かうときはこのエリアのトラフィック（交通）に注意してください。",
+    ["DictKey_UnitName_290"] = "New Static Object #021",
+    ["DictKey_UnitName_437"] = "New Static Object #069",
+    ["DictKey_UnitName_807"] = "Pilot #056",
+    ["DictKey_WptName_53"] = "RACHEL",
+    ["DictKey_GroupName_418"] = "New Static Object #065",
+    ["DictKey_WptName_846"] = "",
+    ["DictKey_GroupName_352"] = "New Static Object #043",
+    ["DictKey_ActionText_727"] = "よく聞こえています。",
+    ["DictKey_ActionText_109"] = "UZI 1-1、UZI 2-1。\
+\
+アクトン（ACTON）に到着しました。 \
+\
+右旋回して173に向かい、ナビポイントVETTT、LSV 028 for 31へに進みます。",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_ActionText_755"] = "UZI 1-1, UZI 2-1.  \
+\
+我々はグルーム湖周辺の飛行禁止ゾーンの約10海里北東のレンジ74Cにいます。\
+\
+この禁止区域は 「コンテナ」としても知られています。",
+    ["DictKey_descriptionRedTask_2"] = "飛行計画を完了し、ネリスに戻って着陸します。",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_UnitName_513"] = "New Static Object #027",
+    ["DictKey_GroupName_358"] = "New Static Object #045",
+    ["DictKey_GroupName_412"] = "New Static Object #063",
+    ["DictKey_WptName_372"] = "",
+    ["DictKey_UnitName_485"] = "",
+    ["DictKey_WptName_520"] = "",
+    ["DictKey_ActionText_62"] = "UZI 1-1、UZI 2-1。\
+\
+JAYSNに着きました。 \
+\
+方位318に右旋回してナビポイントFLUSH LSV285を73に向けて進みます。 LSV TACAN 12X。",
+    ["DictKey_WptName_502"] = "",
+    ["DictKey_UnitName_216"] = "Pilot #025",
+    ["DictKey_ActionRadioText_629"] = "ナビ情報",
+    ["DictKey_UnitName_299"] = "New Static Object #021",
+    ["DictKey_ActionText_189"] = "高度を下げて、4000' MSLでAPEXに到達します。",
+    ["DictKey_ActionText_73"] = "UZI 2-1\
+\
+ランウェイ３へのタクシーを許可します。",
+    ["DictKey_WptName_240"] = "",
+    ["DictKey_GroupName_241"] = "New Static Object #006",
+    ["DictKey_WptName_829"] = "",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_WptName_462"] = "",
+    ["DictKey_WptName_318"] = "",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_UnitName_504"] = "New Static Object #034",
+    ["DictKey_GroupName_205"] = "New Airplane Group",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_GroupName_280"] = "New Static Object #019",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_UnitName_467"] = "New Static Object #080",
+    ["DictKey_UnitName_404"] = "New Static Object #055",
+    ["DictKey_UnitName_563"] = "Pilot #051",
+    ["DictKey_UnitName_555"] = "Pilot #046",
+    ["DictKey_UnitName_332"] = "New Static Object #033",
+    ["DictKey_GroupName_454"] = "New Static Object #077",
+    ["DictKey_WptName_435"] = "",
+    ["DictKey_ActionRadioText_63"] = "1, COPY",
+    ["DictKey_GroupName_223"] = "New Static Object",
+    ["DictKey_UnitName_27"] = "Pilot #002",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_UnitName_377"] = "New Static Object #049",
+    ["DictKey_UnitName_275"] = "New Static Object #015",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_WptName_429"] = "",
+    ["DictKey_UnitName_317"] = "New Static Object #029",
+    ["DictKey_UnitName_263"] = "New Static Object #012",
+    ["DictKey_WptName_12"] = "FYTTR",
+    ["DictKey_GroupName_439"] = "New Static Object #072",
+    ["DictKey_ActionText_146"] = "UZI 2-1 準備ができたら離陸を許可します。\
+\
+QFE 28.03で300まで上昇して下さい。",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_WptName_666"] = "",
+    ["DictKey_ActionText_748"] = "UZI 1-1、UZI 2-1。\
+\
+JAYSNからFLUSH、GARTHへのトランジットルートは、レッドエアが通常レンジへの出入りに使用する通路（コリドール）です。\
+\
+REVEILLE MOAを使用する場合は、MOPARからのレンジへの出入りにはBeatty コリドールを使用します。",
+    ["DictKey_UnitName_323"] = "New Static Object #029",
+    ["DictKey_GroupName_835"] = "Ammo #005",
+    ["DictKey_UnitName_314"] = "New Static Object #029",
+    ["DictKey_UnitName_208"] = "Pilot #019",
+    ["DictKey_GroupName_367"] = "New Static Object #048",
+    ["DictKey_WptName_393"] = "",
+    ["DictKey_sortie_4"] = "ファムフライト",
+    ["DictKey_WptName_423"] = "",
+    ["DictKey_WptName_556"] = "",
+    ["DictKey_WptName_279"] = "",
+    ["DictKey_ActionText_66"] = "UZI 1-1、UZI 2-1。\
+\
+右手にあるのが、世界的に有名な「サンダーバード」の本拠地です。\
+\
+彼らはネリスを拠点とする第57航空団に所属するアメリカ空軍の航空デモンストレーション中隊です。\
+\
+1953年に結成されました。1946年に結成されたアメリカ海軍ブルーエンジェルズ、1931年に結成されたフランス空軍パトルイユ・ドゥ・フランスに次いで、世界で3番目に古い公式な曲技飛行チームです。",
+    ["DictKey_ActionText_95"] = "UZI 1-1、UZI 2-1。 \
+\
+私たちはヒコ（Hiko）の町に近づいてきました。\
+\
+ヒコはもう町ではなく、ゴーストタウンのようになっていますが、今でも農家や牧場主が利用しています。",
+    ["DictKey_WptName_549"] = "",
+    ["DictKey_ActionText_789"] = "FORD 1-1, AIRBORNE.",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_UnitName_287"] = "New Static Object #019",
+    ["DictKey_WptName_399"] = "",
+    ["DictKey_ActionText_88"] = "UZI 2 -1 BLACKJACK コンタクト\
+\
+GATE1の通過を許可します。\
+\
+ALTIMETER 2988 MILLIBARS 1011\
+\
+天候は快晴、視界は全階層で良好\
+\
+全ての権限を許可します。\
+\
+良い一日を！",
+    ["DictKey_UnitName_501"] = "New Static Object #034",
+    ["DictKey_WptName_375"] = "",
+    ["DictKey_ActionText_729"] = "ブリーフィングで説明したフライトプランに沿って、今後のミッションの実行に役立つ重要なランドマークとナビゲーションポイントを説明します。",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_WptName_684"] = "",
+    ["DictKey_GroupName_379"] = "New Static Object #052",
+    ["DictKey_ActionText_82"] = "UZI 1-1、UZI 2-1。\
+\
+JAYSNからFLUSH、GARTHへのトランジットルートは、レッドエアが通常レンジへの出入りに使用する通路（コリドール）です。\
+\
+REVEILLE MOAを使用する場合は、MOPARからのレンジへの出入りにはBeatty コリドールを使用します。",
+    ["DictKey_UnitName_492"] = "Pilot #025",
+    ["DictKey_ActionText_797"] = "ＵＺＩ１-１、BLACKJACK\
+\
+コンテナに注意して下さい。",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_UnitName_446"] = "New Static Object #072",
+    ["DictKey_WptName_529"] = "",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_GroupName_853"] = "Ammo #001",
+    ["DictKey_ActionText_110"] = "UZI 1-1、UZI 2-1。\
+\
+APEXに来ました。\
+\
+APEXはネリスの東のランディングIPです。",
+    ["DictKey_GroupName_274"] = "New Static Object #017",
+    ["DictKey_ActionText_101"] = "UZI 2 -1 BLACKJACK コンタクト！\
+\
+GATE 3　を許可します。\
+\
+良い一日を！",
+    ["DictKey_GroupName_847"] = "Ammo #005",
+    ["DictKey_WptName_57"] = "APEX",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_UnitName_248"] = "New Static Object #007",
+    ["DictKey_ActionText_790"] = "FORD 1-2, AIRBORNE.",
+    ["DictKey_ActionText_89"] = "UZI 2 -1 ラジャー\
+\
+GATE１をクリア",
+    ["DictKey_GroupName_162"] = "MIG-29G FLIGHT",
+    ["DictKey_ActionText_148"] = "FORD１、準備が出来次第離陸を許可します\
+\
+QFE 28.03で300まで上昇",
+    ["DictKey_GroupName_340"] = "New Static Object #039",
+    ["DictKey_GroupName_406"] = "New Static Object #061",
+    ["DictKey_UnitName_341"] = "New Static Object #038",
+    ["DictKey_GroupName_310"] = "New Static Object #029",
+    ["DictKey_ActionText_757"] = "UZI 1-1、UZI 2-1。 \
+\
+レイチェル(Rachel.)の町に近づいてきました。\
+\
+前方の緑の円が見えますか？\
+\
+これは「センターピボット」灌漑と呼ばれる 灌漑方法です。",
+    ["DictKey_GroupName_524"] = "New Static Object #032",
+    ["DictKey_UnitName_383"] = "New Static Object #049",
+    ["DictKey_WptName_450"] = "",
+    ["DictKey_WptName_366"] = "",
+    ["DictKey_ActionText_764"] = "UZI 1-1、UZI 2-1。\
+\
+TROUTTに近づいています。\
+\
+TROUTTはブルーエアのレンジ出入口の一つで、一般的にはGATE 3と呼ばれています。\
+\
+TROUTTに近づいたら、レンジセイフティーコントローラー 「BLACKJACK」にチェックアウトします。",
+    ["DictKey_GroupName_448"] = "New Static Object #075",
+    ["DictKey_ActionText_171"] = "FORD 1 滑走路への移動を要求します",
+    ["DictKey_ActionText_106"] = "UZI 1-1、UZI 1-2。\
+\
+これでNTTRのツアーは終了です。 \
+\
+ラスベガス周辺には他にもフーバーダムやミード湖、レッドロックキャニオン国立保護区など、探索すべきエリアがたくさんあります。",
+    ["DictKey_UnitName_284"] = "New Static Object #019",
+    ["DictKey_WptName_258"] = "",
+    ["DictKey_GroupName_190"] = "Static Aggressors",
+    ["DictKey_GroupName_559"] = "New Helicopter Group",
+    ["DictKey_ActionText_785"] = "FORD 1-1, 離陸の許可を願います",
+    ["DictKey_WptName_24"] = "ACTON",
+    ["DictKey_ActionText_630"] = "ナビ情報：\
+\
+ACTON         LSV 019/36 12X\
+APEX          LSV 025/09 12X\
+ARCOE         LSV 355/30 12X\
+BELTED PEAK   TPH 108/53 119X\
+DREAM         LAS 352/66 116X\
+FLEX          LSV 335/04 12X\
+FLUSH         LSV 285/73 12X\
+FYTTR         LSV 267/33 12X\
+GARTH         LSV 300/90 12X\
+GASS PEAK     LSV 307/12 12X\
+INDIA         TPH 92/55 119X\
+JAYSN         BTY 095/37 94X\
+REVEILLE PEAK TPH 104/44 119X\
+STRYK         LSV 280/26 12X\
+STUDENT GAP   LSV 347/82 12X\
+TROUTT        LSV 344/63 12X\
+VETTT         LSV 028/31 12X",
+    ["DictKey_GroupName_433"] = "New Static Object #070",
+    ["DictKey_UnitName_458"] = "New Static Object #076",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_GroupName_325"] = "New Static Object #034",
+    ["DictKey_WptName_526"] = "",
+    ["DictKey_GroupName_370"] = "New Static Object #049",
+    ["DictKey_UnitName_195"] = "Pilot #013",
+    ["DictKey_ActionText_743"] = "UZI 1-1、UZI 2-1。\
+\
+北にはガスピーク(GASS PEAK)があります。\
+\
+ラスベガスの真北にあり、南ネバダ州のラスベガス山脈の最高峰です。\
+\
+民間航空機もラスベガス北部訓練エリアを飛行しているので、このエリアを飛行する際には注意が必要です。",
+    ["DictKey_UnitName_541"] = "Pilot #038",
+    ["DictKey_WptName_354"] = "",
+    ["DictKey_UnitName_380"] = "New Static Object #049",
+    ["DictKey_UnitName_269"] = "",
+    ["DictKey_UnitName_854"] = "Ammo #002",
+    ["DictKey_UnitName_551"] = "Pilot #043",
+    ["DictKey_GroupName_304"] = "New Static Object #027",
+    ["DictKey_GroupName_256"] = "New Static Object #011",
+    ["DictKey_WptName_390"] = "",
+    ["DictKey_UnitName_219"] = "Pilot #027",
+    ["DictKey_GroupName_364"] = "New Static Object #047",
+    ["DictKey_GroupName_430"] = "New Static Object #069",
+    ["DictKey_UnitName_535"] = "Pilot #034",
+    ["DictKey_WptName_10"] = "FLEX",
+    ["DictKey_GroupName_566"] = "New Static Object #061",
+    ["DictKey_GroupName_211"] = "New Airplane Group #001",
+    ["DictKey_ActionText_97"] = "UZI 1-1、UZI 2-1。\
+\
+ヒコ（HIKO）の上にいます。\
+\
+右旋回して162に向かい、ナビポイントTROUTT、LSV 009 for 33へ進みます。",
+    ["DictKey_ActionText_760"] = "レイチェルの北には3740号線があり、R-74範囲の北側の境界線です。\
+\
+これはインバウンドとアウトバウンドの交通衝突を回避するために使われます。\
+\
+ルールは「北から入り、南から出る（North In, South Out）」です。",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_ActionText_783"] = "FORD 1-2, 滑走路への移動を要請します",
+    ["DictKey_UnitName_525"] = "New Static Object #027",
+    ["DictKey_ActionText_80"] = "ここは着陸前の武器投棄エリアに指定されています。",
+    ["DictKey_GroupName_217"] = "New Airplane Group #002",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_GroupName_442"] = "New Static Object #073",
+    ["DictKey_UnitName_519"] = "New Static Object #027",
+    ["DictKey_GroupName_534"] = "New Airplane Group #004",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_WptName_820"] = "",
+    ["DictKey_GroupName_475"] = "New Static Object #084",
+    ["DictKey_WptName_680"] = "",
+    ["DictKey_GroupName_313"] = "New Static Object #030",
+    ["DictKey_UnitName_335"] = "New Static Object #029",
+    ["DictKey_GroupName_424"] = "New Static Object #067",
+    ["DictKey_ActionText_770"] = "UZI 1-1、UZI 2-1。\
+\
+Sally （サリー）コリドールにいます。 \
+このトランジットルートは一般的にブルーエアがレンジへの入退場に使用します。",
+    ["DictKey_UnitName_665"] = "Pilot #053",
+    ["DictKey_UnitName_422"] = "New Static Object #063",
+    ["DictKey_WptName_823"] = "",
+    ["DictKey_GroupName_512"] = "New Static Object #028",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_ActionText_582"] = "翼に付いているの変なポッドは キュービック社の戦術航空乗務員戦闘訓練システムまたはTACTSポッドと呼ばれています。 \
+\
+レンジにあるリモートセンサーに情報を送信し、それを中央のスーパーコンピューターに集めてデータを処理して表示します。",
+    ["DictKey_WptName_303"] = "",
+    ["DictKey_UnitName_77"] = "",
+    ["DictKey_WptName_282"] = "",
+    ["DictKey_GroupName_334"] = "New Static Object #037",
+    ["DictKey_GroupName_540"] = "New Airplane Group #005",
+    ["DictKey_WptName_852"] = "",
+    ["DictKey_GroupName_841"] = "Ammo #002",
+    ["DictKey_ActionText_71"] = "UZI 1-1、UZI 2-1。\
+\
+サーキットを過ぎたところでナビポイントFLEX LSV 355 for 04の方向に左旋回します。\
+LSV TACAN 12X\
+\
+サーキットの北側まで3000'以下を維持して、西に向かいます。",
+    ["DictKey_UnitName_413"] = "",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_WptName_387"] = "",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_GroupName_361"] = "New Static Object #046",
+    ["DictKey_UnitName_371"] = "New Static Object #043",
+    ["DictKey_UnitName_440"] = "New Static Object #069",
+    ["DictKey_GroupName_32"] = "UZI 2",
+    ["DictKey_ActionText_749"] = "UZI 1-1、UZI 2-1。\
+\
+FLUSHに着きました。 \
+\
+右旋回してナビポイントGARTH に進みます。\
+\
+UZI 2-1, OUT!",
+    ["DictKey_ActionText_74"] = "UZI 1-1 UZI 2-1 \
+\
+ネリスのすぐ北、ＦＬＥＸへのルートの北に ナビポイントJETTISON HILLがあります。 \
+\
+ここは着陸前の武器投棄用の指定エリアです。",
+    ["DictKey_ActionText_725"] = "UZI 1-1、UZI 2-1。\
+\
+ラジオチェック！",
+    ["DictKey_WptName_309"] = "",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_GroupName_292"] = "New Static Object #023",
+    ["DictKey_WptName_369"] = "",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_UnitName_212"] = "Pilot #022",
+    ["DictKey_ActionText_737"] = "これにより、精度や学習の面で格段に改善されたディブリーフィングが行えます。 \
+\
+このシステムが作動している中では、いかなるミスも隠すことはできません。",
+    ["DictKey_GroupName_289"] = "New Static Object #022",
+    ["DictKey_WptName_276"] = "",
+    ["DictKey_WptName_681"] = "",
+    ["DictKey_GroupName_301"] = "New Static Object #026",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_GroupName_253"] = "New Static Object #010",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_ActionText_30"] = "UZI 1-1, UZI 2-1.  \
+\
+我々はグルーム湖周辺の飛行禁止ゾーンの約10海里北東のレンジ74Cにいます。\
+\
+この禁止区域は 「コンテナ」としても知られています。",
+    ["DictKey_WptName_21"] = "TROUTT",
+    ["DictKey_UnitName_488"] = "Pilot #022",
+    ["DictKey_WptName_22"] = "DREAM",
+    ["DictKey_ActionText_771"] = "UZI 1-1、UZI 2-1。\
+\
+ARCOEに着きました。 \
+\
+左旋回してナビポイントACTONまで進む。\
+\
+UZI 2-1、OUT！",
+    ["DictKey_UnitName_443"] = "New Static Object #072",
+    ["DictKey_WptName_402"] = "",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_GroupName_244"] = "New Static Object #007",
+    ["DictKey_WptName_417"] = "",
+    ["DictKey_WptName_321"] = "",
+    ["DictKey_ActionText_832"] = "",
+    ["DictKey_ActionText_796"] = "UZI 1-1、UZI 2-1。\
+\
+自分の位置を確認してください。\
+\
+レッドエアコリドールから外れないでください。\
+\
+ナビポイント　GARTH.に進んでください。\
+\
+LSV 300 for 90.  LSV TACAN 12X",
+    ["DictKey_UnitName_197"] = "Pilot #014",
+    ["DictKey_ActionText_738"] = "UZI 1-1、UZI 2-1。\
+\
+サーキットを過ぎたところでナビポイントFLEX LSV に左旋回します。\
+\
+サーキットの北側まで3000'以下を維持して、西に向かいます。",
+    ["DictKey_ActionText_758"] = "レイチェルにはハイウェイ375号線があります。エリア51に近いことから、「地球外道路（Extraterrestrial Highway）」としても知られています。 \
+\
+エリア51は、我々のフライトプランのすぐ南、グルーム湖周辺の飛行禁止ゾーンにあります。",
+    ["DictKey_UnitName_407"] = "New Static Object #055",
+    ["DictKey_WptName_561"] = "",
+    ["DictKey_WptName_459"] = "",
+    ["DictKey_WptName_378"] = "",
+    ["DictKey_ActionText_775"] = "UZI 1-1、UZI 2-1。\
+\
+VETTTに着きました。 \
+\
+右旋回してナビポイントAPEXへ向かいます。\
+\
+高度を下げて4000' MSLでNAVポイントAPEXに到着して下さい。\
+\
+UZI 2-1, OUT!",
+    ["DictKey_WptName_523"] = "",
+    ["DictKey_UnitName_562"] = "Pilot #050",
+    ["DictKey_ActionText_768"] = "UZI 1-1、UZI 2-1。\
+\
+GATE 3に到着しました。\
+\
+左旋回してナビポイントDREAMまで進みます。\
+\
+UZI 2-1、OUT!",
+    ["DictKey_GroupName_844"] = "Ammo #003",
+    ["DictKey_WptName_542"] = "",
+    ["DictKey_GroupName_664"] = "New Airplane Group #008",
+    ["DictKey_WptName_668"] = "",
+    ["DictKey_UnitName_452"] = "",
+    ["DictKey_ActionText_741"] = "UZI 1-1、UZI 2-1。\
+\
+ナビポイントFLEXに到着。 \
+\
+方位270に左旋回し、NAVポイントFYTTRに進みます。",
+    ["DictKey_WptName_808"] = "",
+    ["DictKey_ActionText_104"] = "UZI 1-1、UZI 2-1。 \
+\
+サリー（Sally）コリドールに入りました。 \
+\
+このトランジットルートは一般的にブルーエアがレンジへの行き来に使用しています。",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_UnitName_464"] = "New Static Object #077",
+    ["DictKey_UnitName_552"] = "Pilot #044",
+    ["DictKey_UnitName_539"] = "Pilot #037",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_WptName_327"] = "",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_GroupName_569"] = "New Static Object #012",
+    ["DictKey_ActionText_99"] = "UZI 1-1、UZI 2-1。 \
+\
+GATE 3に到着しました。\
+\
+方位136に左旋回してナビポイントDREAM、LAS 352 for 66に進みます。 \
+LAS TACAN 116x",
+    ["DictKey_UnitName_365"] = "New Static Object #042",
+    ["DictKey_UnitName_532"] = "Pilot #033",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_UnitName_544"] = "Pilot #040",
+    ["DictKey_WptName_511"] = "",
+    ["DictKey_WptName_261"] = "",
+    ["DictKey_UnitName_531"] = "Pilot #032",
+    ["DictKey_GroupName_806"] = "ARCO 1-2",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_UnitName_398"] = "New Static Object #055",
+    ["DictKey_ActionText_67"] = "ブリーフィングで説明したフライトプランに沿って、今後のミッションの実行に役立つ重要なランドマークとナビゲーションポイントを説明します。",
+    ["DictKey_ActionText_144"] = "",
+    ["DictKey_UnitName_311"] = "New Static Object #025",
+    ["DictKey_ActionText_76"] = "UZI 1-1、UZI 2-1。\
+ \
+北側にはガスピーク(GASS PEAK\
+)があります。\
+\
+ラスベガスの真北にあり、南ネバダ州のラスベガス山脈の最高峰です。\
+\
+民間航空機もラスベガス北部訓練エリアを飛行しているため、このエリアを飛行する際には注意が必要です。",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_ActionText_115"] = "民間航空機もノースラスベガス訓練エリアを飛行しています。このエリアを飛行する際には注意してください。",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_GroupName_394"] = "New Static Object #057",
+    ["DictKey_GroupName_229"] = "New Static Object #002",
+    ["DictKey_ActionText_730"] = "NTTRは監視されたレンジです。\
+\
+コンピュータ化された元々の追跡システムは、Air Combat Maneuvering Instrumentation SystemまたはACMIと呼ばれているものでした。\
+\
+これは、8機の航空機までしか追跡することができませんでした。",
+    ["DictKey_WptName_426"] = "",
+    ["DictKey_WptName_306"] = "",
+    ["DictKey_UnitName_479"] = "New Static Object #081",
+    ["DictKey_GroupName_5"] = "UZI 1",
+    ["DictKey_WptName_267"] = "",
+    ["DictKey_ActionText_766"] = "UZI 2 -1 BLACKJACK, コンタクト！\
+\
+GATE3の通過を許可します。\
+\
+良い一日を！",
+    ["DictKey_UnitName_461"] = "New Static Object #076",
+    ["DictKey_UnitName_230"] = "New Static Object #001",
+    ["DictKey_UnitName_236"] = "New Static Object #001",
+    ["DictKey_UnitName_159"] = "Pilot #005",
+    ["DictKey_GroupName_400"] = "New Static Object #059",
+    ["DictKey_ActionText_658"] = "",
+    ["DictKey_WptName_300"] = "",
+    ["DictKey_ActionText_731"] = "この新システムは「レッドフラッグ測定・報告システム（Red Flag Measurement and Debriefing System）」または「RFMDS」と呼ばれています。\
+\
+このシステムでは最大36機の航空機を追跡することができます。 \
+\
+空対空、地対空、空対地の交戦を3次元ディスプレイで追跡することができます。",
+    ["DictKey_UnitName_199"] = "Pilot #016",
+    ["DictKey_GroupName_547"] = "New Airplane Group #006",
+    ["DictKey_GroupName_506"] = "",
+    ["DictKey_GroupName_509"] = "New Static Object #027",
+    ["DictKey_GroupName_319"] = "New Static Object #032",
+    ["DictKey_WptName_324"] = "",
+    ["DictKey_ActionText_114"] = "お疲れさまです！\
+\
+いいフライトでした。  \
+\
+これでNTTRの空域を航行するのは問題ないでしょう。\
+\
+今後のミッションの成功を祈っています。",
+    ["DictKey_WptName_477"] = "",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_ActionText_784"] = "FORD 1-2, ランウェイ３へのタキシングを許可します",
+    ["DictKey_GroupName_494"] = "New Airplane Group #002",
+    ["DictKey_ActionText_772"] = "右手にモアパ（Moapa）が町に近づいてきました。\
+\
+ネバダ州で2番目と3番目に大きな建造物があります。 \
+\
+エントラビジョンとケンプタワーです。",
+    ["DictKey_WptName_672"] = "",
+    ["DictKey_WptName_381"] = "",
+    ["DictKey_UnitName_565"] = "Pilot #052",
+    ["DictKey_UnitName_675"] = "",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_WptName_444"] = "",
+    ["DictKey_WptName_37"] = "",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_GroupName_268"] = "New Static Object #015",
+    ["DictKey_WptName_489"] = "",
+    ["DictKey_WptName_486"] = "",
+    ["DictKey_GroupName_337"] = "New Static Object #038",
+    ["DictKey_WptName_474"] = "",
+    ["DictKey_UnitName_69"] = "Major Jason Campbell",
+    ["DictKey_UnitName_350"] = "New Static Object #041",
+    ["DictKey_WptName_676"] = "",
+    ["DictKey_UnitName_839"] = "Ammo",
+    ["DictKey_UnitName_557"] = "Pilot #047",
+    ["DictKey_UnitName_206"] = "Pilot #018",
+    ["DictKey_ActionText_581"] = "この新システムは「レッドフラッグ測定・報告システム（Red Flag Measurement and Debriefing System）」または「RFMDS」と呼ばれています。\
+\
+このシステムでは最大36機の航空機を追跡することができます。 \
+\
+空対空、地対空、空対地の交戦を3次元ディスプレイで追跡することができます。",
+    ["DictKey_UnitName_239"] = "New Static Object #001",
+    ["DictKey_UnitName_538"] = "Pilot #036",
+    ["DictKey_WptName_546"] = "",
+    ["DictKey_ActionText_98"] = "UZI 1-1、UZI 2-1。\
+\
+TROUTTに近づいています。\
+\
+TROUTTはブルーエアのレンジ出入口の一つで、一般的にはGATE 3と呼ばれています。\
+\
+TROUTTに近づいたら、レンジセイフティーコントローラー 「BLACKJACK」にチェックアウトします。",
+    ["DictKey_ActionText_576"] = "FORD１、エアボーン",
+    ["DictKey_GroupName_391"] = "New Static Object #056",
+    ["DictKey_GroupName_682"] = "New Vehicle Group",
+    ["DictKey_ActionText_103"] = "UZI 1-1、UZI 2-1。\
+\
+DREAMに到着しました。 \
+\
+方位171を右旋回してナビポイントARCOE、LSV355 for 30 に進みます。\
+LSV TACAN 12X",
+    ["DictKey_UnitName_359"] = "New Static Object #042",
+    ["DictKey_UnitName_814"] = "Pilot #057",
+    ["DictKey_WptName_471"] = "",
+    ["DictKey_ActionText_657"] = "UZI 1-1 UZI 2-1\
+\
+位置を確認しろ!\
+\
+レッドエアコリドールから外れないように！",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_ActionText_188"] = "REVEILLE MOAを使用する場合は、MOPARでのレンジ入退場にはBeatty コリドールを使用します。",
+    ["DictKey_GroupName_427"] = "New Static Object #068",
+    ["DictKey_UnitName_164"] = "Pilot #007",
+    ["DictKey_ActionText_780"] = "UZI 1-1、UZI 2-1。\
+\
+APEXに来ました。\
+\
+APEXはネリスの東のランディングIPです。\
+\
+UZI 2-1, OUT!",
+    ["DictKey_WptName_285"] = "",
+    ["DictKey_UnitName_242"] = "New Static Object #001",
+    ["DictKey_ActionText_792"] = "UZI 2-1 準備ができたら離陸して下さい。\
+\
+QFE 28.03で300まで上昇",
+    ["DictKey_ActionText_105"] = "UZI 1-1、UZI 2-1。\
+\
+ARCOEに到着しました。 \
+\
+左旋回して方位088へ、ナビポイントACTON、LSV019 for 36へ進みます。\
+LSV TACAN 12X",
+    ["DictKey_ActionText_91"] = "UZI 1-1、UZI 2-1。 \
+\
+BELTED PEAKに到着。\
+\
+087に右旋回してSTUDENT GAP、LSV 347 for 82　に向かいます。\
+LSV TACAN 12X",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_UnitName_34"] = "Pilot #002",
+    ["DictKey_UnitName_491"] = "Pilot #024",
+    ["DictKey_ActionText_733"] = "UZI 2-1.\
+\
+ランウェイ３へのタキシングを許可します。",
+    ["DictKey_UnitName_11"] = "Major Jason Campbell",
+    ["DictKey_ActionText_579"] = "UZI 1-1、UZI 2-1。\
+\
+今日のミッションはNTTR周辺での順応視察飛行です。",
+    ["DictKey_UnitName_302"] = "New Static Object #025",
+    ["DictKey_UnitName_257"] = "New Static Object #007",
+    ["DictKey_WptName_837"] = "",
+    ["DictKey_WptName_671"] = "",
+    ["DictKey_WptName_288"] = "",
+    ["DictKey_WptName_255"] = "",
+    ["DictKey_WptName_408"] = "",
+    ["DictKey_UnitName_163"] = "Pilot #006",
+    ["DictKey_ActionText_84"] = "UZI 1-1、UZI 2-1。\
+\
+FLUSHに着きました。 \
+\
+方位358に右旋回してナビポイントGARTH、LSV300 for 90 に進みます。",
+    ["DictKey_WptName_441"] = "",
+    ["DictKey_GroupName_478"] = "New Static Object #085",
+    ["DictKey_UnitName_416"] = "New Static Object #063",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_GroupName_331"] = "New Static Object #036",
+    ["DictKey_ActionText_590"] = "8000' MSL以下でLSV 15DMEアーク（円周、円弧）をインターセプト（円周上を飛行）して南へ向かって下さい。\
+\
+10,200' MSL以上でLSV R-267 for 15をインターセプトしたら、アウトバウンドへ向かって下さい。\
+\
+14000' MSL以上で、FYTTRを通過してください。",
+    ["DictKey_UnitName_495"] = "Pilot #026",
+    ["DictKey_ActionText_782"] = "FORD 1-1, ランウェイ３へのタキシングを許可します",
+    ["DictKey_UnitName_428"] = "New Static Object #063",
+    ["DictKey_WptName_822"] = "",
+    ["DictKey_WptName_855"] = "",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_ActionText_172"] = "FORD1 \
+\
+ランウェイ３へのタクシーを許可します。",
+    ["DictKey_UnitName_227"] = "New Static Object",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_UnitName_220"] = "Pilot #028",
+    ["DictKey_GroupName_813"] = "ARCO 1-1",
+    ["DictKey_ActionText_108"] = "UZI 1-1、UZI 2-1。\
+\
+VETTTに着きました。 \
+\
+方位223を右旋回してナビポイントAPEX、LSV 025 for 09へ向かいます。\
+\
+高度を下げて4000' MSLでNAVポイントAPEXに到着して下さい。",
+    ["DictKey_WptName_677"] = "",
+    ["DictKey_UnitName_362"] = "New Static Object #042",
+    ["DictKey_ActionText_759"] = "レイチェルには多くのUFOハンターが集まってきます。 \
+\
+空戦訓練のほとんどは レイチェルの北側で行われます",
+    ["DictKey_GroupName_518"] = "New Static Object #030",
+    ["DictKey_UnitName_166"] = "Pilot #009",
+    ["DictKey_UnitName_308"] = "New Static Object #025",
+    ["DictKey_WptName_363"] = "",
+    ["DictKey_UnitName_272"] = "New Static Object #015",
+    ["DictKey_WptName_342"] = "",
+    ["DictKey_UnitName_401"] = "New Static Object #055",
+    ["DictKey_UnitName_215"] = "Pilot #024",
+    ["DictKey_UnitName_33"] = "UZI 2",
+    ["DictKey_UnitName_510"] = "New Static Object #045",
+    ["DictKey_ActionText_750"] = "UZI 1-1、UZI 2-1。\
+\
+ＧＡＲＴＨはレッドエアのレンジエントリーポイントで、一般的にはＧＡＴＥ１と呼ばれています。\
+\
+GARTHに近づいたらレンジセイフティコントローラー「BLACKJACK」にチェックインします。",
+    ["DictKey_WptName_667"] = "",
+    ["DictKey_ActionText_65"] = "よく聞こえています。",
+    ["DictKey_UnitName_214"] = "Pilot #023",
+    ["DictKey_UnitName_799"] = "Pilot #054",
+    ["DictKey_GroupName_343"] = "New Static Object #040",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_UnitName_150"] = "Pilot #001",
+    ["DictKey_ActionText_86"] = "UZI 1-2 　コンファーム\
+\
+500からFL440\
+クラウド クリア\
+ハードデッキ 500\
+\
+飛行隊を指揮しています",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_UnitName_836"] = "",
+    ["DictKey_WptName_297"] = "",
+    ["DictKey_WptName_856"] = "",
+    ["DictKey_ActionText_107"] = "右手にモアパ（Moapa）が町に近づいてきました。\
+\
+ネバダ州で2番目と3番目に大きな建造物があります。 \
+\
+エントラビジョンとケンプタワーです。",
+    ["DictKey_UnitName_419"] = "New Static Object #063",
+    ["DictKey_UnitName_431"] = "New Static Object #067",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_270"] = "",
+    ["DictKey_ActionText_143"] = "ネリスデパーチャー, UZI 2 -1, 離陸の許可を要求します。",
+    ["DictKey_ActionText_710"] = "",
+    ["DictKey_WptName_384"] = "",
+    ["DictKey_ActionText_102"] = "UZI 2-1.\
+\
+ラジャー \
+\
+GATE3を許可",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_UnitName_137"] = "FORD 1-2",
+    ["DictKey_UnitName_470"] = "New Static Object #081",
+    ["DictKey_ActionText_72"] = "UZI 1-1, UZI 2-1. \
+\
+ナビポイントＦＬＥＸへ旋回して下さい。\
+\
+左旋回して方位320へ、LSV335で04へ。",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_UnitName_353"] = "New Static Object #041",
+    ["DictKey_WptName_231"] = "",
+    ["DictKey_ActionText_765"] = "BLACKJACK、UZI 2-1。\
+\
+通過の許可を要求します。\
+\
+GATE 3の北側",
+    ["DictKey_GroupName_409"] = "New Static Object #062",
+    ["DictKey_ActionText_787"] = "FORD 1-2, 離陸の許可を願います",
+    ["DictKey_ActionText_591"] = "レイチェルの北には3740号線があり、R-74範囲の北側の境界線です。\
+\
+これはインバウンドとアウトバウンドの交通衝突を回避するために使われます。\
+\
+ルールは「北から入り、南から出る（North In, South Out）」です。",
+    ["DictKey_ActionText_81"] = "UZI 1-1, UZI 2-1.  \
+\
+北にはクリーチ空軍基地(Creech Air Force Base)があるので、レンジに向かうときはこのエリアのトラフィック（交通）に注意してください。",
+    ["DictKey_UnitName_60"] = "",
+    ["DictKey_WptName_679"] = "",
+    ["DictKey_WptName_673"] = "",
+    ["DictKey_GroupName_42"] = "FORD 1-1",
+    ["DictKey_UnitName_344"] = "New Static Object #038",
+    ["DictKey_GroupName_503"] = "New Static Object #026",
+    ["DictKey_ActionText_740"] = "UZI 1-1 UZI 2-1\
+\
+ネリスのすぐ北、ＦＬＥＸへのルートの北に ナビポイントJETTISON HILLがあります。 \
+\
+ここは着陸前の武器投棄のために指定されたエリアです。",
+    ["DictKey_GroupName_355"] = "New Static Object #044",
+    ["DictKey_ActionText_732"] = "ネリス デパーチャー、UZI 2-1。\
+\
+グッドジェット タクシーの準備ができました。\
+\
+ノースウォー！",
+    ["DictKey_WptName_571"] = "",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_ActionText_767"] = "UZI 2-1, ラジャー\
+\
+GATE 3の通過を許可.",
+    ["DictKey_WptName_801"] = "",
+    ["DictKey_ActionText_778"] = "ネリスへのRTBを許可します \
+\
+アグレッサーの駐機場は、私達が最初にいた場所です。そこに駐機してください。\
+\
+UZI 2 -1 Out！",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_WptName_249"] = "",
+    ["DictKey_WptName_336"] = "",
+    ["DictKey_ActionText_776"] = "UZI 1-1、UZI 1-2。\
+\
+これでNTTRのツアーは終了です。 \
+\
+ラスベガス周辺には他にもフーバーダムやミード湖、レッドロックキャニオン国立保護区など、探索すべきエリアがたくさんあります。",
+    ["DictKey_GroupName_118"] = "TORNADO FORD 1",
+    ["DictKey_WptName_517"] = "",
+    ["DictKey_WptName_43"] = "",
+    ["DictKey_ActionText_96"] = "ヒコはもう町ではなく、ゴーストタウンのようになっていますが、今でも農家や牧場主が利用しています。",
+    ["DictKey_GroupName_149"] = "AWACS",
+    ["DictKey_GroupName_838"] = "Ammo",
+    ["DictKey_WptName_843"] = "",
+} -- end of dictionary
