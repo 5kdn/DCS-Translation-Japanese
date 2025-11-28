@@ -1,0 +1,122 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "New Static Object #013",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_GroupName_11"] = "",
+    ["DictKey_GroupName_29"] = "New Static Object #005",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_ActionText_73"] = "QFEを1012、目標とする海抜高度を10m、QNHを1013とします。\
+このような、わずかな気圧の違いがCCIP爆撃の精度に影響することはほとんどないでしょう。\
+QFEの気圧を大まかに把握しておけば十分な場合が多いです。\
+\
+目標地点に向かって進んでください。",
+    ["DictKey_GroupName_17"] = "New Static Object #001",
+    ["DictKey_GroupName_8"] = "",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_UnitName_39"] = "New Static Object #006",
+    ["DictKey_ActionText_74"] = "目標地点から25km圏内に入ります。\
+高度を100〜150m程度に下げ、マッハ0.8〜0.9程度まで加速してください。\
+攻撃中はこの高度と速度を保つようにしてください。\
+\
+ターゲットエリアには赤いスモークが表示されているはずです。",
+    ["DictKey_GroupName_60"] = "New Static Object #012",
+    ["DictKey_UnitName_12"] = "",
+    ["DictKey_ActionText_75"] = "高度と対気速度を維持するようにしてください。 \
+トリガーをUNSAFEに設定する。\
+高度と速度が十分であれば、CCIPのシンボリックが表示されるはずです。\
+\
+照準レティクルはドットとリングで構成されており、ドットとリングはそれぞれ連続投下における最初と最後の爆弾の着弾位置を表しています。\
+ターゲットを2つのドットの間に置き、トリガーを押します。\
+\
+すべての爆弾が投下されたことを示す、STORES RELEASED（FÄLLD LAST）ランプが計器パネルの右上に表示されるまでトリガーを押し続けてください。\
+  ",
+    ["DictKey_UnitName_45"] = "New Static Object #008",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_UnitName_9"] = "",
+    ["DictKey_UnitName_42"] = "New Static Object #006",
+    ["DictKey_GroupName_44"] = "New Static Object #009",
+    ["DictKey_UnitName_54"] = "Pilot #001",
+    ["DictKey_UnitName_36"] = "New Static Object #006",
+    ["DictKey_descriptionText_1"] = "",
+    ["DictKey_GroupName_32"] = "New Static Object #006",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_UnitName_64"] = "New Static Object #005",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_UnitName_6"] = "",
+    ["DictKey_UnitName_61"] = "New Static Object #008",
+    ["DictKey_UnitName_33"] = "New Static Object",
+    ["DictKey_GroupName_14"] = "New Static Object",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_UnitName_48"] = "New Static Object #008",
+    ["DictKey_UnitName_21"] = "New Static Object",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_UnitName_57"] = "Unit #1",
+    ["DictKey_WptName_10"] = "",
+    ["DictKey_GroupName_20"] = "New Static Object #002",
+    ["DictKey_ActionText_69"] = "おはようございます。今日は、CCIP(連続算出命中点)モードでのM/71爆弾の投下方法を説明します。\
+このモードでは、高抵抗爆弾のみを使用します。\
+一度に搭載できる爆弾の種類は1つだけなので搭載機材を選択する際には、\
+爆弾の種類がすべて低抵抗か高抵抗のどちらかになっていることを確認してください。\
+\
+現在、あなたは16個のM/71爆弾を高抵抗設定で搭載しています。\
+\
+放棄された飛行場には小さな射撃場が設置されており、多くの航空機が駐機する整備・補給拠点を模している。ここが最初のウェイポイント（BP1）となります。\
+\
+\
+このセクションでは兵装システムを準備する間、オートパイロットの高度、姿勢保持モードを使用してもよいです。",
+    ["DictKey_ActionText_72"] = "兵装セレクターが「NAV」モードになっていることを確認してください。\
+CCIPでは高抵抗爆弾を搭載した状態でNAVモードにすることが要求されます。",
+    ["DictKey_GroupName_35"] = "New Static Object #007",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_GroupName_53"] = "Olle37",
+    ["DictKey_GroupName_38"] = "New Static Object #006",
+    ["DictKey_UnitName_18"] = "New Static Object",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_UnitName_24"] = "New Static Object",
+    ["DictKey_UnitName_27"] = "New Static Object",
+    ["DictKey_sortie_4"] = "",
+    ["DictKey_GroupName_47"] = "New Static Object #010",
+    ["DictKey_GroupName_50"] = "New Static Object #011",
+    ["DictKey_UnitName_15"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_71"] = "照準モードダイヤルの着弾間隔を設定します。\
+コンピュータで、各爆弾の着弾間隔を10mから60mの間で選択することができます。\
+\
+今日の場合、着弾間隔を10mに設定すると約150mに渡って爆弾が着弾することになります。",
+    ["DictKey_GroupName_26"] = "New Static Object #004",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_WptName_37"] = "",
+    ["DictKey_GroupName_5"] = "",
+    ["DictKey_GroupName_41"] = "New Static Object #008",
+    ["DictKey_UnitName_67"] = "New Static Object #006",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_GroupName_66"] = "New Static Object #014",
+    ["DictKey_GroupName_23"] = "New Static Object #003",
+    ["DictKey_GroupName_56"] = "New Vehicle Group",
+    ["DictKey_ActionText_77"] = "トリガーをSAFEに設定して離脱してください。\
+\
+よくできました!  CCIP爆撃の練習は、着弾間隔やQFEの設定を変えて行うようにしてください。\
+ \
+これでチュートリアルは終わりです。",
+    ["DictKey_ActionText_70"] = "まず、兵装セレクターが「PLAN」モードになっていることを確認します。一番左の位置になっているはずです。",
+    ["DictKey_UnitName_51"] = "New Static Object #010",
+    ["DictKey_UnitName_30"] = "New Static Object",
+    ["DictKey_WptName_31"] = "",
+    ["DictKey_WptName_43"] = "",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_ActionText_76"] = "高度と対気速度を維持するようにしてください。 \
+トリガーをUNSAFEに設定する。\
+高度と速度が十分であれば、CCIPのシンボリックが表示されるはずです。\
+\
+照準レティクルはドットとリングで構成されており、ドットとリングはそれぞれ連続投下における最初と最後の爆弾の着弾位置を表しています。\
+ターゲットを2つのドットの間に置き、トリガーを押します。\
+\
+すべての爆弾が投下されたことを示す、STORES RELEASED（FÄLLD LAST）ランプが計器パネルの右上に表示されるまでトリガーを押し続けてください。\
+  ",
+} -- end of dictionary

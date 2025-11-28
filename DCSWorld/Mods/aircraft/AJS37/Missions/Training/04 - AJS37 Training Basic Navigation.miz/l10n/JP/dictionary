@@ -1,0 +1,186 @@
+dictionary = 
+{
+    ["DictKey_UnitName_22"] = "Pilot #002",
+    ["DictKey_UnitName_72"] = "New Static Object",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_UnitName_60"] = "",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_sortie_4"] = "基本ナビゲーションチュートリアル",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_GroupName_56"] = "",
+    ["DictKey_GroupName_65"] = "New Static Object #002",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_GroupName_77"] = "New Static Object #006",
+    ["DictKey_UnitName_146"] = "",
+    ["DictKey_GroupName_21"] = "Olle 37 #001",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_ActionText_113"] = "最初のウェイポイントを通過すると、次のウェイポイントB2が自動的に選択されます。場所はEnguri川にある島の北端です。\
+\
+空中で操縦桿のリファレンスボタンを押すと、現在の高度がHUD上の指示線のリファレンス高度として設定されます。\
+ この機能は高度を維持する目的で使用することができ、設定された高度を上回っているか下回っているかを認識させてくれます。",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_GroupName_71"] = "New Static Object #004",
+    ["DictKey_ActionText_107"] = "目的地表示器は、現在選択されているウェイポイントを表示します。現在はスタート地点の飛行場にいるため、「LS」の文字で表示されています。\
+\
+SPACEキーを押して続行します。",
+    ["DictKey_ActionText_110"] = "ウェイポイントの選択は、対応するウェイポイントボタンを押すことで行います。\
+入力されたウェイポイント（B1～B4）は、必要に応じて循環させることができます。\
+\
+「L MAL」ボタンを押すと、プライマリー・ランディングサイトが選択されます。\
+\
+選択されたウェイポイントは先ほどの目的地表示器に表示されます。\
+また、コースリングにはウェイポイントに向かう方位が表示されます。\
+\
+ウェイポイントの確認が終わったら、出発地の空港「LS」を再選択して続行します。\
+\
+SPACEキーを押して続行します。",
+    ["DictKey_WptName_43"] = "",
+    ["DictKey_ActionText_117"] = "以上で、指定された着陸地点へのナビゲーションが完了しました。\
+\
+以上でナビゲーションの基礎講座は終了です。",
+    ["DictKey_GroupName_62"] = "New Static Object #001",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_descriptionText_1"] = "このレッスンを始める前に、以下のコマンドに慣れておいてください:\
+\
+- 一時停止: [PAUSE]\
+\
+- アクティブポーズ: [LSHIFT + LWIN + PAUSE]\
+\
+- 自由視点操作切り替え : [LALT + C]。\
+\
+- ズーム/ズームアウト: [Num/] / [Num*]\
+\
+- パイロットの頭移動 上/下/右/左: マウスホイールドラッグ、もしくはテンキーの[RSHIFT + RCTRL ] + [ARROWS]の組み合わせ\
+\
+- パイロットの頭移動 前/後: マウスホイール回転、もしくはテンキーの[RSHIFT + RCTRL] + [/]と[*]の組み合わせ\
+\
+- 頭を初期位置に戻す: [Num5]\
+\
+- レッスン中断: [ESC]\
+\
+- コントロール表示:  [RCTRL + ENTER]\
+\
+- オブジェクトラベル: [LSHIFT + F10]\
+\
+- ボリュームコントロール: MAIN MENU/OPTIONS/AUDIO内でWORLDとIN COCKPITのスライダー調節",
+    ["DictKey_UnitName_123"] = "New Static Object",
+    ["DictKey_UnitName_54"] = "",
+    ["DictKey_ActionText_104"] = "第1回目のナビゲーションレッスンにようこそ。\
+今日はナビゲーションシステムの基礎と、基本的なウェイポイントナビゲーションについて説明します。\
+\
+Senaki航空基地を離陸し、ジョージア北西部を通る短いルートを辿ります。\
+ \
+今回のミッションのデータカートリッジには、B1からB4までの4つのウェイポイントがすでに読み込まれているので、今日は特定の座標を設定することはありません。\
+\
+\
+フライトプランの概要については、ブリーフィング画像(LAlt + Bで表示)やゲーム内のkneeboard（RShift + Kで表示、 ] / [ キーでページ切り替え)を参照してください。\
+\
+SPACEキーを押して次に進みます。",
+    ["DictKey_UnitName_75"] = "New Static Object",
+    ["DictKey_GroupName_45"] = "Olle 37 #001",
+    ["DictKey_UnitName_66"] = "New Static Object",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_ActionText_108"] = "距離表示器は、選択したウェイポイントまでの距離を表示します。表示は0～40kmの範囲で目盛が付いています。\
+\
+ 40キロメートル以上の場合は、スウェーデン・マイル（MIL、1スウェーデン・マイルは10キロメートル）の表示に変更されます。",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_ActionText_106"] = "レーダーの周りにあるコースリングは、12時の位置に現在の方位を表示します。黄色の方位インジケーターは、現在のウェイポイントに向かってナビゲーションシステムが指令しているコースを示しています。\
+\
+SPACEキーを押して続行します。",
+    ["DictKey_UnitName_6"] = "",
+    ["DictKey_GroupName_37"] = "Olle 37",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_UnitName_14"] = "Pilot #001",
+    ["DictKey_ActionText_116"] = "最後のウェイポイントB4を通過すると、プライマリー着陸地点L1が自動的に選択される。",
+    ["DictKey_GroupName_59"] = "New Static Object",
+    ["DictKey_ActionText_112"] = "最初のウェイポイントB1を目的地表示器に表示します。ウェイポイントは、Zugdidi市南にある尾根の南側から北西方向にあります。\
+\
+HUDの中央がウェイポイントに向かって少し横にずれます。HUDの地平線の真ん中の点が中心に来たら、ウェイポイントに向かっているはずです。\
+\
+必要であれば、いつでも自動操縦を姿勢維持（ATT）や高度維持（HÖJD）にすることができます。",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_UnitName_63"] = "New Static Object",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_UnitName_90"] = "New Static Object #001",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_ActionText_109"] = "手動でウェイポイントを選択するためには、データセレクターをAKT POSモードに設定し、現在の位置を表示するとともに、\
+ナビゲーションシステムの状態を表示する必要があります。\
+データセレクターを「AKT POS」に設定します。",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_GroupName_80"] = "New Static Object #007",
+    ["DictKey_UnitName_81"] = "New Static Object",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_UnitName_38"] = "Pilot #001",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_UnitName_57"] = "",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_WptName_10"] = "",
+    ["DictKey_GroupName_5"] = "",
+    ["DictKey_GroupName_92"] = "New Static Object #003",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_UnitName_120"] = "",
+    ["DictKey_GroupName_53"] = "",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_UnitName_78"] = "New Static Object",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_ActionText_111"] = "滑走路に向かって地上滑走で移動し、離陸してください。\
+離陸後、最初のウェイポイントB1が自動的に選択されます。\
+\
+高度が200mになると次のステップに進みます。",
+    ["DictKey_ActionText_114"] = "次のウェイポイントB3に進みます。\
+北西の海岸沖にあるはずです。",
+    ["DictKey_UnitName_149"] = "New Static Object #004",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_UnitName_141"] = "Pilot #002",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_UnitName_46"] = "Pilot #002",
+    ["DictKey_UnitName_93"] = "New Static Object #002",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_ActionText_115"] = "ウェイポイントB4に向かって進みます。",
+    ["DictKey_GroupName_13"] = "Olle 37",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_UnitName_69"] = "New Static Object",
+    ["DictKey_GroupName_83"] = "New Static Object #008",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_GroupName_68"] = "New Static Object #003",
+    ["DictKey_ActionText_105"] = "離陸する前に、主要な航法機器を確認します。\
+\
+まず、ADI（姿勢指示器）は、機体の姿勢と方位を表示します。\
+さらに、黄色の縦/横のステアリングバーは、様々なモードでの操縦指示を示すために使用されます。\
+\
+ほとんどのナビゲーションでは次のウェイポイントに向かう指定コースと、指定高度が表示されます。\
+\
+ほとんどの場合、縦のバーを中心に置くと、今指定されているウェイポイントに向かうことができます。\
+ステアリングバーは、計器着陸装置を使用する際の操縦指示にも使用されます。\
+\
+SPACEキーを押して続行します。",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_UnitName_87"] = "",
+    ["DictKey_ActionText_118"] = "",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_UnitName_84"] = "New Static Object",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_WptName_124"] = "",
+} -- end of dictionary

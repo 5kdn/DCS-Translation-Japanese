@@ -1,0 +1,316 @@
+dictionary = 
+{
+    ["DictKey_ActionText_170"] = "点滅している2つの警告ランプの間にある主警告（HUVUDVARNING）ボタンを押して、主警告アラームをキャンセルします。",
+    ["DictKey_ActionText_237"] = "これでコールドスタートのチュートリアルは終了です。次のレッスンでは、滑走路までのタキシングと離陸の仕方を学びます。",
+    ["DictKey_GroupName_15"] = "DictKey_GroupName_15",
+    ["DictKey_ActionText_234"] = "エンジン回転数が70％を超えると自動的に消える外部タンク燃料警告灯（X-TANK BRÄ）を除き、\
+警告パネルに警告灯（緑色のランディングギアランプ以外）が点灯していないことを確認します。",
+    ["DictKey_ActionText_241"] = "駐機/着陸灯 を TAXI に設定します。\
+\
+SPACEキーを押して続行します。",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_ActionText_68"] = "WARNING PANEL TEST（KONTR LAMPTABLÅ）を長押しすると、すべての警告表示が機能するかどうかをテストすることができます。\
+ボタンを押している間、左右のインジケーターパネル、マスターコーション、その他多くのインジケーターや警告灯が点灯します。",
+    ["DictKey_ActionText_198"] = "RWR（レーダー警報受信機）を下記の位置に設定します：\
+OFF（FRÅN）、警告灯のみ（LJUS）、警告灯と音声（LJUS + LJUD）のいずれかに設定します。",
+    ["DictKey_ActionText_101"] = "右側のインジケーターにスタートシステムランプ（STARTSYST）が表示されます。",
+    ["DictKey_ActionText_160"] = "SPACEキーで続行します。",
+    ["DictKey_ActionText_116"] = "",
+    ["DictKey_ActionText_113"] = "これでコールドスタートのチュートリアルは終了です。次のレッスンでは、滑走路までのタキシングと離陸の仕方を学びます。\
+\
+ESCキーを押し、ミッションを終了します。",
+    ["DictKey_ActionText_85"] = "バックアップ高度計の圧力を設定し、高度が0（1031hPa）になるまでノブを回します。",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_ActionText_107"] = "エンジン回転数が70％を超えると消える外部タンク燃料警告（X-TANK BRÄ）を除き、警告パネルに警告（緑色のランディングギアランプ以外）が点灯していないことを確認します。",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_ActionText_222"] = "INPUT / OUTPUTスイッチをOUTに設定します。",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_ActionText_228"] = "右側の表示器／警告パネルにスタートシステムランプ（STARTSYST）が表示され、スタートシーケンスが開始されたことを示します。\
+電動スターターモーターに続いてガスタービンスターターが自動的に始動し、使用可能な回転数まで加速していきます。",
+    ["DictKey_ActionText_64"] = "",
+    ["DictKey_ActionText_56"] = "おはようございます。AJS 37 Viggen機種転換コースの最初のレッスンにようこそ。\
+\
+今日はたくさんのことを学びますので、注意してください。 指示がない限り、ボタンやスイッチを押さないでください。\
+\
+ジョイスティックにスロットルが付いている場合や、HOTASを使用している場合は、スロットルをアイドルポジションにしてください。 \
+\
+休憩したいときはPAUSEを押してください。",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_ActionText_100"] = "外部燃料タンクを搭載しているので、ピッチトリムを機首上げ3度に設定する。",
+    ["DictKey_ActionText_84"] = "主高度計の圧力を設定します。\
+高度が0mと表示されるまで、気圧設定ノブを回します。この空港の今日のQFE気圧は1031(hPa)です。\
+\
+QFE（高度計規正値）は高度計の圧力を飛行場の高度に合わせて調整したもので、高度計は海抜高度ではなく、（その飛行場や場所の）地上からの高さを表示します。",
+    ["DictKey_ActionText_183"] = "逆推進装置が作動していないことを確認します。ハンドルを内側に押して、逆推進ライトを消灯させてください。",
+    ["DictKey_ActionText_173"] = "スロットルをクリックしてOFFの位置からGround idleの位置に移動させると、エンジンの高圧燃料バルブが開きます。",
+    ["DictKey_ActionText_175"] = "主動力の電源を入れます。現在、エンジンはかかっていないので、まだ電力は供給されません。",
+    ["DictKey_ActionText_99"] = "いよいよエンジンを始動させます。必要な燃料バルブはすべて開いていますので、あとはSTARTスイッチを押すだけです。 スイッチを2秒間押し続けると、自動的にスタートシーケンスが開始されます。",
+    ["DictKey_ActionText_181"] = "SPACEキーで続行します。",
+    ["DictKey_ActionText_180"] = "無線機をNORMAL＋GUARD（NORM＋LARM）に設定すると、メインの無線機（FR22）を有効にしつつ、予備周波数を見ることができます。",
+    ["DictKey_ActionText_236"] = "頭の上と後ろにある脱出装置の安全レバーを収納位置に回して、脱出装置の安全装置をOFFにしてください。脱出装置が有効になります。",
+    ["DictKey_ActionText_157"] = "SPACEキーで続行します。",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_ActionText_67"] = "",
+    ["DictKey_ActionText_168"] = "主電源バスを有効にするために、主電源スイッチ（HUVUDSTRÖM）をON（TILL）位置に設定します。",
+    ["DictKey_ActionText_76"] = "スラスト・リバーサーが作動していないことを確認します。ハンドルを内側に押して、リバーサーライトを消灯させてください。",
+    ["DictKey_ActionText_185"] = "メインの姿勢指示計（ADI）（FLI 37）が正しく配置され、赤い警告フラグが表示されていないことを確認します。\
+\
+警告フラグが表示されている場合は、計器がAC機内電源で動作しているため、外部の地上電源がまだ接続されていません。\
+地上電源を接続するか、エンジン始動後に計器をチェックしてください。",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_ActionText_87"] = "\
+外部照明を点灯させる。\
+ナビゲーションライト（LANTERNOR）をFULL（HEL）に設定してください。\
+アンチコリジョンライト（ANTI-KOLL LJUS）をON（TILL）に設定します。\
+フォーメーションライト（LANTERNOR）とポジションライト（LEDLJUS）をON（TILL）に設定します。",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_UnitName_48"] = "Pilot #007",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_GroupName_5"] = "olle37",
+    ["DictKey_UnitName_35"] = "DictKey_UnitName_35",
+    ["DictKey_ActionText_62"] = "点滅している2つのコーションランプの間にあるマスターコーション（HUVUDVARNING）ボタンを押して、マスターコーションアラームをキャンセルします。",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_ActionText_69"] = "メインジェネレーターの電源を入れます。現在はエンジンがかかっていないので、まだ電気は供給されません。",
+    ["DictKey_ActionText_212"] = "次に、データカートリッジをロードして、フライトプランとシステムプリセットを読み込む必要があります。\
+\
+データセレクターノブをREF / LOLAモードに設定します。",
+    ["DictKey_GroupName_120"] = "DictKey_GroupName_120",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_ActionText_114"] = "現在はブレーキがパーキング状態になってるため、ブレーキペダル（Default：Wキー）を踏んでブレーキを解除してください。",
+    ["DictKey_GroupName_18"] = "DictKey_GroupName_18",
+    ["DictKey_ActionText_166"] = "まず、地上電源を接続します。これで、エンジンをかけずに、飛行前のチェックリスト手順のほとんどを行うことができます。\
+\
+\
+Communication Key (Default: /)を押して、地上整備員呼び出し用のF8キーを押し、\
+続いてGround powerオプションを押してください。 \
+\
+クルーチーフが地上電源ユニットを接続すると、AC電源と冷房が供給されます。 \
+",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_ActionText_210"] = "レーダー高度計の電源を入れます。スイッチをON(RHM TILL)にします。",
+    ["DictKey_ActionText_192"] = "つまみを引くと、バックアップの人工水平のケージが外れ、(LD)が表示されます。",
+    ["DictKey_WptName_37"] = "",
+    ["DictKey_UnitName_50"] = "Pilot #008",
+    ["DictKey_ActionText_93"] = "データのINPUT/OUTPUTスイッチをINにします。",
+    ["DictKey_ActionText_242"] = "SPACEキーを押して続行します。",
+    ["DictKey_ActionText_207"] = "現地の磁気偏角（この地域では約6度）を確認して設定します。",
+    ["DictKey_ActionText_165"] = "SPACEキーで続行します。",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_ActionText_199"] = "SPACEキーで続行します。",
+    ["DictKey_UnitName_22"] = "Truck",
+    ["DictKey_ActionText_98"] = "キャノピーレバーを前方に押してキャノピーを閉じます。\
+キャノピーが閉まり、所定の位置にロックされます。",
+    ["DictKey_ActionText_201"] = "バックアップ高度計の圧力を設定し、高度が0（1031hPa）になるまでノブを回します。 ",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_UnitName_19"] = "",
+    ["DictKey_sortie_4"] = "コールドスタートチュートリアルとコックピット内での慣熟操作",
+    ["DictKey_ActionText_218"] = "ウェイポイントボタン「LS」を押して入力します。転送が完了するまで、第1桁の9が点滅します。\
+転送が完了すると、データインジケーターに000000が表示されます。",
+    ["DictKey_ActionText_73"] = "",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_ActionText_66"] = "スロットルをクリックしてOFFの位置からGround idleの位置に移動させると、エンジンの高圧燃料バルブが開きます。",
+    ["DictKey_ActionText_214"] = "データのINPUT/OUTPUTスイッチをINにします。",
+    ["DictKey_ActionText_243"] = "データカートリッジを、左側の背面壁にあるスロットに挿入してください。\
+\
+カートリッジが挿入されたら、SPACEバーで続行してください。",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_ActionText_203"] = "SPACEキーで続行します。",
+    ["DictKey_ActionText_88"] = "現地の磁気偏角（この地域では約6度）を確認して設定します。\
+SPACEBARを押して続行します。",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_UnitName_32"] = "New Static Object",
+    ["DictKey_ActionText_240"] = "マスターモードセレクターをNAVにしてHUDを起動し、システムを離陸モードにします。",
+    ["DictKey_ActionText_189"] = "SPACEキーで続行します。",
+    ["DictKey_ActionText_104"] = "外部燃料タンクを搭載しているので、ピッチトリムを3度ノーズアップ（nos upp）に設定する。",
+    ["DictKey_ActionText_77"] = "メインのAttitude director indicator（ADI）（FLI 37）が正しく配置され、赤い警告フラグが表示されていないことを確認します。\
+\
+警告フラグが表示されている場合は、計器がAC電源で動作しているため、外部のグランド電源がまだ接続されていません。グランド電源を接続するか、エンジン始動後に計器をチェックしてください。",
+    ["DictKey_ActionText_78"] = "メインのAttitude director indicator（ADI）（FLI 37）が正しく配置されていることを確認します。",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_ActionText_158"] = "クルーチーフが地上の電源が入っていることを伝えたことを確認したら、SPACEキーを押して続行します。",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_61"] = "低圧燃料バルブ（LT-KRAN）をオン（TILL）の位置にします。赤色の燃料バルブ警告灯（LT-KRAN）が消灯し、燃料バルブが開いていることを示します。",
+    ["DictKey_ActionText_184"] = "SPACEキーで続行します。",
+    ["DictKey_ActionText_75"] = "無線機をNORMAL＋GUARD（NORM＋LARM）に設定すると、メインの無線機（FR22）を有効にしつつ、ガード周波数を監視することができます。",
+    ["DictKey_GroupName_47"] = "New Airplane Group #002",
+    ["DictKey_UnitName_45"] = "DictKey_UnitName_45",
+    ["DictKey_ActionText_172"] = "オートスロットルをOFFにして上側の位置にし、ランディングギアレバーを下側に伸ばした状態にしてください。",
+    ["DictKey_ActionText_190"] = "HUD従属スイッチ SLAV-SI をOFFにします。",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_ActionText_224"] = "キャノピーレバーを前方に押してキャノピーを閉じます。\
+キャノピーが閉まり、所定の位置にロックされます。",
+    ["DictKey_ActionText_161"] = "SPACEキーで続行します。",
+    ["DictKey_ActionText_164"] = "おはようございます。AJS 37 Viggen機種転換コースの最初のレッスンにようこそ。\
+\
+今日はたくさんのことを学びますので、注意してください。 指示がない限り、ボタンやスイッチを押さないでください。\
+\
+ジョイスティックにスロットルが付いている場合や、HOTASを使用している場合は、スロットルをアイドルポジションにしてください。 \
+\
+休憩したいときはPAUSEを押してください。",
+    ["DictKey_UnitName_44"] = "DictKey_UnitName_44",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_ActionText_163"] = "SPACEキーで続行します。",
+    ["DictKey_ActionText_70"] = "WARNING PANEL TEST（KONTR LAMPTABLÅ）を長押しすると、すべての警告表示が機能するかどうかをテストすることができます。\
+ボタンを押している間は、左右のインジケーターパネル、マスターコーション、その他多くのインジケーターランプや警告ランプが点灯します。",
+    ["DictKey_ActionText_63"] = "次に、マスターモードセレクターがスタンドバイモードBERになっていることを確認します。",
+    ["DictKey_ActionText_239"] = "現在はブレーキがパーキング状態になってるため、ブレーキペダル（Default：Wキー）を踏んでブレーキを解除してください。",
+    ["DictKey_GroupName_21"] = "Groundcrew",
+    ["DictKey_ActionText_156"] = "SPACEキーで続行します。",
+    ["DictKey_ActionText_94"] = "架空の飛行場番号99のコードである9 0 9 9を入力すると、データカートリッジがロードされます。\
+\
+入力をクリアする時は、INPUT / OUTPUTスイッチを切り替えてください。",
+    ["DictKey_ActionText_231"] = "エンジンが作動し、油圧システムに電力が供給されたので、エンジン始動後のチェックリストに移行します。",
+    ["DictKey_ActionText_208"] = "SPACEキーで続行します。",
+    ["DictKey_descriptionText_1"] = "このレッスンを始める前に、以下のコマンドに慣れておいてください:\
+\
+- 一時停止: [PAUSE]\
+\
+- アクティブポーズ: [LSHIFT + LWIN + PAUSE]\
+\
+- 自由視点操作切り替え : [LALT + C]。\
+\
+- ズーム/ズームアウト: [Num/] / [Num*]\
+\
+- パイロットの頭移動 上/下/右/左: マウスホイールドラッグ、もしくはテンキーの[RSHIFT + RCTRL ] + [ARROWS]の組み合わせ\
+\
+- パイロットの頭移動 前/後: マウスホイール回転、もしくはテンキーの[RSHIFT + RCTRL] + [/]と[*]の組み合わせ\
+\
+- 頭を初期位置に戻す: [Num5]\
+\
+- レッスン中断: [ESC]\
+\
+- コントロール表示:  [RCTRL + ENTER]\
+\
+- オブジェクトラベル: [LSHIFT + F10]\
+\
+- ボリュームコントロール: MAIN MENU/OPTIONS/AUDIO内でWORLDとIN COCKPITのスライダー調節",
+    ["DictKey_ActionText_226"] = "いよいよエンジンを始動させます。\
+必要な燃料バルブはすべて開いていますので、あとはSTARTスイッチを押すだけです。 \
+スイッチを2秒間押し続けると、自動的にスタートシーケンスが開始されます。",
+    ["DictKey_ActionText_204"] = "低圧燃料バルブ（LT-KRAN）をオン（TILL）の位置にします。\
+赤色の燃料バルブ警告灯（LT-KRAN）が消灯し、燃料バルブが開いていることを示します。",
+    ["DictKey_ActionText_108"] = "マスターモードセレクターをNAVにしてHUDを起動し、システムを離陸モードにします。",
+    ["DictKey_ActionText_171"] = "次に、マスターモードセレクターがスタンドバイモード(BER)になっていることを確認します。",
+    ["DictKey_ActionText_106"] = "表示器システムテストボタン（KONTROLLボタン）を押す。これでいくつかのテストが実行されます。\
+高α警告。短いパルスが2回。\
+エンジン火災警告（BRAND）ランプ点灯。\
+中央表示器の高度警告ランプ点灯。\
+燃料インジケーターが約29%と表示され、インジケーターの針が揺れ動く。\
+SPACEキーを押して続行します。",
+    ["DictKey_ActionText_162"] = "SPACEキーで続行します。",
+    ["DictKey_ActionText_59"] = "主電源バスを有効にするために、主電源スイッチ（HUVUDSTRÖM）をON（TILL）位置に設定します。",
+    ["DictKey_ActionText_83"] = "",
+    ["DictKey_ActionText_81"] = "CI / HUDの高度ソースを大気圧高度（LD）に設定します",
+    ["DictKey_UnitName_6"] = "Olle37-1",
+    ["DictKey_ActionText_82"] = "バックアップAttitudeインジケーターの固定を解除します。ノブを引くと解除されます。",
+    ["DictKey_ActionText_202"] = "SPACEキーで続行します。",
+    ["DictKey_ActionText_191"] = "CI / HUDの高度ソースを大気圧高度（LD）に設定します",
+    ["DictKey_ActionText_233"] = "頭の上後ろにある脱出シートの安全レバーを収納位置まで回して、脱出シートの安全装置をARMに設定してください。\
+\
+ これで脱出シートは有効になります。",
+    ["DictKey_ActionText_188"] = "HUD反射板を下の位置にセットして、離陸時のシンボリックを適切に表示できるようにします。\
+\
+HUDは現在オンになっていないので、何も表示されません。",
+    ["DictKey_ActionText_103"] = "エンジンが稼働し、油圧システムに電力が供給されたので、エンジン始動後のチェックリストを完成させます。",
+    ["DictKey_ActionText_167"] = "クルーチーフが地上の電源が入っていることを伝えたら、SPACEバーを押して続行してください。",
+    ["DictKey_ActionText_95"] = "「LS」ウェイポイントボタンを押して入力します。転送が完了するまで、第1桁の9が点滅します。転送が完了すると、データインジケーターに000000が表示されます。",
+    ["DictKey_UnitName_124"] = "New Static Object #001",
+    ["DictKey_ActionText_159"] = "SPACEキーで続行します。",
+    ["DictKey_ActionText_230"] = "ガスタービンスターターは回転数上昇に従って、エンジンのガスジェネレーターへの電力供給を開始します。\
+点火システム灯 (TÄNDSYST) が表示され、エンジンの点火コイルが始動したことを示します。\
+\
+エンジンの回転数の上昇は、回転数計で確認できます。また、排気ガス温度の上昇はEGT計で確認できます。\
+これでエンジンはアイドリング回転まで加速します。\
+完了すると、スタートシステム（STARTSYST）と点火システム（TÄNDSYST）のランプが消えます。",
+    ["DictKey_ActionText_80"] = "HUD従属スイッチ SLAV-SI をOFFにします。",
+    ["DictKey_GroupName_123"] = "DictKey_GroupName_123",
+    ["DictKey_ActionText_176"] = "オートパイロットヨー調節 (RENFLYGING)ダイヤルを0にしてセンターにします。",
+    ["DictKey_ActionText_58"] = "まず、地上電源を接続します。これで、エンジンをかけずに、飛行前のチェックリスト手順のほとんどを行うことができます。\
+\
+\
+Communication Key (Default:/)を押して、地上整備員呼び出しのF8を押し、続いてGround powerオプションを押してください。 \
+\
+クルーチーフが地上電源ユニットを接続すると、AC電源と冷房が供給されます。 \
+",
+    ["DictKey_ActionText_178"] = "ヨートリム（SID TRIM）が中心にあることを確認します。\
+トリム表示のピンが見えれば、トリムは中央にあります。",
+    ["DictKey_ActionText_65"] = "オートスロットルをOFFにして上段にし、ランディングギアレバーを下段に伸ばした状態にします。",
+    ["DictKey_ActionText_92"] = "次に、データカートリッジをロードして、フライトプランとシステムプリセットを読み込む必要があります。\
+\
+データセレクターノブをモードREFに設定 ",
+    ["DictKey_ActionText_102"] = "これでガスタービンスターターは、回転数の上昇に従ってエンジンのガスジェネレーターへの電力供給を開始します。Ignition systems light (TÄNDSYST) が表示され、エンジンのイグニッションコイルが始動したことを示します。\
+エンジンの回転数の上昇は、回転数計で確認できます。また、排気ガス温度の上昇はEGT計で確認できます。エンジンはこれからアイドル回転数まで加速します。完了すると、スタートシステム（STARTSYST）とイグニッションシステム（TÄNDSYST）のランプが消えます。",
+    ["DictKey_ActionText_232"] = "外部燃料タンクを搭載しているので、ピッチトリムを3度機首上げ（nos upp）に設定します。(RCtrl + .でピッチトリム上げ、RCtrl + ;でピッチトリム下げ)",
+    ["DictKey_GroupName_9"] = "Flypast",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_ActionText_200"] = "ここで機外ライトを点灯させます。\
+ナビゲーションライト（LANTERNOR）をフル（Hel）に設定してください。\
+衝突防止灯（ANTI-KOLL LJUS）をオン（TILL）にします。\
+編隊灯と翼端灯をオン（TILL）にします。",
+    ["DictKey_ActionText_97"] = "INPUT / OUTPUTスイッチをOUTに設定します。",
+    ["DictKey_ActionText_86"] = "レーダー警告受信機（RWR）を任意の位置に設定します。\
+OFF（FRÅN）、ライトのみ（LJUS）、ライトとオーディオ（LJUS + LJUD）のいずれかに設定します。",
+    ["DictKey_ActionText_197"] = "SPACEキーで続行します。",
+    ["DictKey_ActionText_195"] = "さて、主高度計の圧力を設定します。高度が0mと表示されるまで、気圧設定ノブを回します。この空港の今日のQFE気圧は1031(hPa)です。\
+\
+QFE（現地気圧）は高度計の圧力を飛行場の高度に合わせて調整したもので、\
+高度計は海抜高度を参照するのではなく、現在地の地上からの高さを表示します。",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_ActionText_72"] = "オートパイロットヨー調節 (RENFLYGING)ダイヤルを0にしてセンターにします。",
+    ["DictKey_UnitName_16"] = "",
+    ["DictKey_ActionText_79"] = "HUDのリフレクターガラスを下の位置にして、離陸時のシンボロジーが正しく表示されるようにします。\
+\
+HUDは現在オンになっていないので、何も表示されません。",
+    ["DictKey_ActionText_235"] = "表示器システムテストボタン（KONTROLLボタン）を押す。これでいくつかのテストが実行されます。\
+\
+高α警告。短いパルスが2回。\
+エンジン火災警告（BRAND）ランプ点灯。\
+中央表示器の高度警告ランプ点灯。\
+インジケーターの針が動き、燃料インジケーターが約29%と表示される。\
+\
+SPACEキーを押して続行します。",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_UnitName_24"] = "Funvee",
+    ["DictKey_ActionText_115"] = "Taxi / Landing light を TAXI に設定します。\
+\
+SPACEキーで続行します。",
+    ["DictKey_ActionText_74"] = "ヨートリム（SID TRIM）が中心にあることを確認します。\
+トリムインジケーターのピンが見えれば、トリムは中央にあります。",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_ActionText_206"] = "",
+    ["DictKey_ActionText_179"] = "SPACEキーで続行します。",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_ActionText_193"] = "",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_GroupName_34"] = "FRAD",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_ActionText_216"] = "仮の飛行場番号99のコードである9 0 9 9を入力すると、データカートリッジがロードされます。\
+\
+入力をクリアしたい場合は、INPUT / OUTPUTスイッチを切り替えてください。",
+    ["DictKey_UnitName_121"] = "New Static Object",
+    ["DictKey_ActionText_174"] = "WARNING PANEL TEST（KONTR LAMPTABLÅ）を長押しすると、すべての警告表示が機能するかどうかをテストすることができます。\
+ボタンを押している間、左右のインジケーターパネル、主警告、その他多くの表示灯や警告灯が点灯します。",
+    ["DictKey_ActionText_194"] = "SPACEキーで続行します。",
+    ["DictKey_ActionText_91"] = "レーダー高度計の電源を入れます。スイッチをON(RHM TILL)にする",
+    ["DictKey_ActionText_238"] = "ESCキーを押してミッションを終了します。",
+    ["DictKey_GroupName_117"] = "",
+    ["DictKey_UnitName_43"] = "DictKey_UnitName_43",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_UnitName_10"] = "DictKey_UnitName_10",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_ActionText_177"] = "頭の上と後ろにある脱出装置の安全レバーを収納位置に回して、脱出装置の安全装置をOFFにしてください。脱出装置が有効になります。",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_ActionText_71"] = "",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_ActionText_220"] = "INPUT / OUTPUTスイッチをOUTに設定します。",
+    ["DictKey_ActionText_96"] = "INPUT / OUTPUTスイッチをOUTに設定します。",
+    ["DictKey_ActionText_105"] = "頭の上と後ろにあるイジェクションシートの安全レバーを収納位置に回して、イジェクションシートの安全性をOFFにしてください。イジェクションシートがライブになります。",
+    ["DictKey_GroupName_31"] = "New Static Object #002",
+    ["DictKey_UnitName_118"] = "",
+} -- end of dictionary

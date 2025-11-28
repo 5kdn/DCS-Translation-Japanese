@@ -1,0 +1,101 @@
+dictionary = 
+{
+    ["DictKey_UnitName_14"] = "TGTshp3",
+    ["DictKey_ActionText_34"] = "",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_ActionText_40"] = "発射可能範囲である高度50～450mに戻ってください。",
+    ["DictKey_ActionText_45"] = "\
+ミサイルは自律的に飛行し、捜索エリア内に現れたターゲットを追跡するようになります。\
+\
+ミサイルを観察するために、好きなように飛び回ってもよいです。\
+通常であれば、基地に戻るか、敵の脅威に対して回避行動を取るだけです。\
+\
+トリガーをSAFEに設定しましょう。",
+    ["DictKey_ActionText_43"] = "ミサイルは自律的に飛行し、捜索エリア内に現れたターゲットを追跡するようになります。\
+ミサイルを観察するために、好きなように飛び回ってもよいです。\
+通常であれば、基地に戻るか、敵の脅威に対して回避行動を取るだけです。",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_ActionText_36"] = "マスターモードセレクターを「ANF」に設定します。",
+    ["DictKey_ActionText_33"] = "リリースモード選択スイッチをIMP（IMPULSE）にして、ミサイルを一発ずつ発射する設定にします。",
+    ["DictKey_GroupName_17"] = "New Ship Group",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_32"] = "武器選択ダイヤルを「ATTACK」にして、RB-04ミサイルを選択します。",
+    ["DictKey_UnitName_26"] = "Olle 37",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_GroupName_21"] = "New Ship Group",
+    ["DictKey_GroupName_5"] = "TGT 1",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_ActionText_44"] = "おめでとうございます、あなたは対艦ミサイルを使って初めて船を沈めました。\
+これでこのレッスンは終了です。",
+    ["DictKey_ActionText_31"] = "今日のレッスンでは、RB-04E対艦ミサイルの使い方を学びます。\
+ターゲットエリアに近づき、レーダーで船を探知し、海岸沿いを南下している3隻の輸送船からなる小さなコンボイに向けてミサイルを発射します。\
+\
+艦船はジョージアの沿岸にあるウェイポイントB1付近にいるはずです。\
+\
+SPACEキーを押して続行します。",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_ActionText_37"] = "レーダーをモードA1にしてPPIモードにします。(A1 Modeのキー割り当てが必要)\
+次にレーダーのレンジを120kmに変更し、船の捜索を開始します。(Radar Range 120kmのキー割り当てが必要)\
+ウェイポイントB1のウェイポイントサークルの近くにいるはずです。",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_UnitName_18"] = "Unit #1",
+    ["DictKey_ActionText_35"] = "目標モードセレクターをENKEL(SINGLE)に設定すると、非常に小さな護衛艦を攻撃するために、ミサイルにシングルターゲットモードが設定される。ミサイルは最初に検知した船を目標にします。",
+    ["DictKey_ActionText_39"] = "",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_GroupName_25"] = "Olle 37",
+    ["DictKey_ActionText_38"] = "レーダーには、推奨発射距離の最大値（24km）と最小値（12km）の2つの距離マーカーが表示されます。\
+B1のウェイポイントに向かって飛行し、高度を50〜450mの間で維持してください。\
+発射可能高度の範囲外になると、中央のインジケーターの高度警告灯が点灯します。",
+    ["DictKey_UnitName_6"] = "TGTshp1",
+    ["DictKey_ActionText_30"] = "\
+特に指示がない限り、ボタンやスイッチを押さないでください。\
+\
+ジョイスティックやHOTASにスロットルが付いている場合は、スロットルをアイドルポジションにしてください。\
+\
+休憩したいときは、PAUSEキーを押してください。\
+\
+SPACEキーを押して続行します。",
+    ["DictKey_GroupName_13"] = "TGT3",
+    ["DictKey_GroupName_9"] = "tgt2",
+    ["DictKey_descriptionText_1"] = "このレッスンを始める前に、以下のコマンドに慣れておいてください:\
+\
+- 一時停止: [PAUSE]\
+\
+- アクティブポーズ: [LSHIFT + LWIN + PAUSE]\
+\
+- 自由視点操作切り替え : [LALT + C]。\
+\
+- ズーム/ズームアウト: [Num/] / [Num*]\
+\
+- パイロットの頭移動 上/下/右/左: マウスホイールドラッグ、もしくはテンキーの[RSHIFT + RCTRL ] + [ARROWS]の組み合わせ\
+\
+- パイロットの頭移動 前/後: マウスホイール回転、もしくはテンキーの[RSHIFT + RCTRL] + [/]と[*]の組み合わせ\
+\
+- 頭を初期位置に戻す: [Num5]\
+\
+- レッスン中断: [ESC]\
+\
+- コントロール表示:  [RCTRL + ENTER]\
+\
+- オブジェクトラベル: [LSHIFT + F10]\
+\
+- ボリュームコントロール: MAIN MENU/OPTIONS/AUDIO内でWORLDとIN COCKPITのスライダー調節",
+    ["DictKey_UnitName_10"] = "TGTshp2",
+    ["DictKey_ActionText_41"] = "トリガーをUNSAFEに設定する。船に向かって進み、高度を50～450mの間に保ってください。高度警告灯が消えるはずです。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_ActionText_59"] = "",
+    ["DictKey_sortie_4"] = "RB-04E対艦ミサイルのチュートリアル",
+    ["DictKey_UnitName_22"] = "Unit #1",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_ActionText_42"] = "これで射程内に入るはずです。\
+船のレーダーコンタクトが2つの投下範囲マーカーの中に入ったら、レーダーの中心線にターゲットを合せてください。\
+\
+ トリガーを押して1発目のミサイルを発射する。\
+わずかに右に傾くので、左にスティックを押すか、左ロールのトリムをかけてください。\
+トリガーをもう一度押すと2発目のミサイルが発射されます。",
+} -- end of dictionary

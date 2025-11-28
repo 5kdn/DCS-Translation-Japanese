@@ -1,0 +1,223 @@
+dictionary = 
+{
+    ["DictKey_ActionText_112"] = "今日は、離陸の手順を学び、実際に飛行機を初めて操縦します。\
+\
+SPACEBARを押して続けます。",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_GroupName_15"] = "New Static Object",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_ActionText_121"] = "車を追いかけてタラップに戻ります。\
+ブレーキを使わずにスラストリバースで機体を減速させることができます。",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_ActionText_68"] = "WARNING PANEL TEST（KONTR LAMPTABLÅ）を長押しすると、すべての警告表示が機能するかどうかをテストすることができます。\
+ボタンを押している間は、左右のインジケーターパネル、マスターコーション、その他多くのインジケーターランプや警告ランプが点灯します。",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_GroupName_21"] = "Follow me",
+    ["DictKey_ActionText_101"] = "右側のランプにSTARTSYSTの文字が表示されます。",
+    ["DictKey_GroupName_47"] = "New Airplane Group #002",
+    ["DictKey_ActionText_132"] = "これでこのレッスンは終了です。次のレッスンでは、離陸の手順について説明します。\
+ESCAPEを押してミッションを終了します。",
+    ["DictKey_ActionText_113"] = "まず離陸する前に、マスターモードセレクターがNAVモードになっていることを確認します。",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_ActionText_107"] = "頭の上と後ろにあるイジェクションシート安全レバーを収納位置に回して、イジェクションシートの安全性をオフにします。イジェクションシートがライブになります。",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_ActionText_64"] = "",
+    ["DictKey_ActionText_146"] = "SPAKオートパイロット灯が点灯していることを確認します。点灯していない場合は、SPAKボタンを押して、オートパイロットダンパーを作動させます。",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_UnitName_123"] = "Pilot #002",
+    ["DictKey_ActionText_56"] = "おはようございます。AJS 37 Viggen機種転換コース3回目のレッスンです。\
+\
+指示があるまでは、ボタンやスイッチを押さないでください。\
+\
+ジョイスティックやHOTASにスロットルが付いている場合は、スロットルをアイドリングポジションにしてください。\
+\
+休憩したいときは、PAUSEキーを押してください。\
+\
+SPACEキーを押すと続きます。",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_ActionText_100"] = "外部燃料タンクを搭載しているので、ピッチトリムを機首上げ3度に設定する。",
+    ["DictKey_ActionText_84"] = "主高度計の圧力を設定します。高度が0mと表示されるまでノブを回します。今日のセナキのQFE気圧は1031.0hPaです。\
+\
+QFEは飛行場の高度を表す高度計の気圧で、高度計は海抜高度ではなく、（その飛行場や場所の）地上からの高さを表示します。",
+    ["DictKey_ActionText_99"] = "いよいよエンジンを始動させます。必要な燃料バルブはすべて開いていますので、あとはSTARTスイッチを押すだけです。\
+\
+ スイッチを2秒間押し続けると、自動的にスタートシーケンスが開始されます。",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_UnitName_43"] = "Pilot #004",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_ActionText_67"] = "",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_ActionText_87"] = "ここで、外部照明を点灯させます。ナビゲーションライト（LANTERNOR）をフル（HEL）に設定してください。アンチコリジョン・ライト（ANTI-KOLL LJUS）をオン（TILL）にします。フォーメーションライトとポジションライトをON（TILL）にします。",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_153"] = "高度約500mのレベルです。これで目的地表示器には、現在のウェイポイントがスタート地点の飛行場「LS」から最初のナビゲーションウェイポイント「B1」に切り替わったことが表示されます。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_GroupName_5"] = "Olle37",
+    ["DictKey_UnitName_35"] = "Pilot #003",
+    ["DictKey_ActionText_62"] = "マスターコーション（HUVUDVARNING）ボタンを2つの点滅するコーションランプの間に押して、マスターコーションアラームをキャンセルする",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_ActionText_69"] = "次に、主発電機の電源を入れます。エンジンがかかっていないので、まだAC電源は供給されません。",
+    ["DictKey_ActionText_154"] = "お疲れ様でした。これで今回のレッスンは終了です。次のレッスンでは、基本的なナビゲーションについて説明します。",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_ActionText_152"] = "HUD反射板を飛行中モードにして、低空飛行時のHUDシンボロジーを表示させます。アフターバーナー・ゾーンライトが消えるまでスロットルを戻し、推力を通常出力にします。",
+    ["DictKey_GroupName_18"] = "New Static Object #001",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_GroupName_31"] = "New Static Object #002",
+    ["DictKey_WptName_37"] = "",
+    ["DictKey_ActionText_149"] = "2つ目のアフターバーナー・ゾーンライトが点灯するまでスロットルを上げます。\
+\
+滑走路の中心線上をできるだけまっすぐ進むようにしてください。",
+    ["DictKey_UnitName_50"] = "Pilot #008",
+    ["DictKey_ActionText_93"] = "データの設定 INPUT ",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_UnitName_22"] = "Unit #1",
+    ["DictKey_ActionText_98"] = "キャノピーレバーを前方に押してキャノピーを閉じます。\
+キャノピーが閉まり、所定の位置にロックされます。",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_UnitName_19"] = "",
+    ["DictKey_sortie_4"] = "離陸手順",
+    ["DictKey_ActionText_73"] = "",
+    ["DictKey_ActionText_66"] = "スロットルを OFF から Ground Idle の位置に動かすと、エンジンの高圧燃料弁が開きます。\
+ スロットルの上をクリックすると、1段階開きます。",
+    ["DictKey_ActionText_95"] = "LSウェイポイントボタンを押して入力します。転送が完了するまで、第1桁の9が点滅します。転送が完了すると、データインジケーターに000000が表示されます。",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_ActionText_88"] = "設定を確認するか、現地の磁気偏角を設定します。この地域では約6度です。\
+SPACEBARを押して続行します。",
+    ["DictKey_ActionText_91"] = "レーダー高度計の電源を入れます。スイッチをON(RHM TILL)にする",
+    ["DictKey_ActionText_78"] = "メインのAttitude director indicator（ADI）（FLI 37）が正しく配置されていることを確認します。",
+    ["DictKey_ActionText_61"] = "低圧燃料バルブ（LT-KRAN）を ON（TILL ポジション）にします。\
+赤いLT-KRANランプが消灯し、燃料バルブが開いていることを示します。",
+    ["DictKey_ActionText_75"] = "無線モードセレクターをNORMAL＋GUARD（NORM＋LARM）に設定すると、メインの無線機（FR22）が有効になりますが、ガード周波数の監視は継続されます。",
+    ["DictKey_UnitName_45"] = "Pilot #006",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_UnitName_44"] = "Pilot #005",
+    ["DictKey_descriptionText_1"] = "このレッスンを始める前に、以下のコマンドに慣れておいてください:\
+\
+- 一時停止: [PAUSE]\
+\
+- アクティブポーズ: [LSHIFT + LWIN + PAUSE]\
+\
+- 自由視点操作切り替え : [LALT + C]。\
+\
+- ズーム/ズームアウト: [Num/] / [Num*]\
+\
+- パイロットの頭移動 上/下/右/左: マウスホイールドラッグ、もしくはテンキーの[RSHIFT + RCTRL ] + [ARROWS]の組み合わせ\
+\
+- パイロットの頭移動 前/後: マウスホイール回転、もしくはテンキーの[RSHIFT + RCTRL] + [/]と[*]の組み合わせ\
+\
+- 頭を初期位置に戻す: [Num5]\
+\
+- レッスン中断: [ESC]\
+\
+- コントロール表示:  [RCTRL + ENTER]\
+\
+- オブジェクトラベル: [LSHIFT + F10]\
+\
+- ボリュームコントロール: MAIN MENU/OPTIONS/AUDIO内でWORLDとIN COCKPITのスライダー調節",
+    ["DictKey_ActionText_108"] = "以上で、スタートアップのチュートリアルは終了です。次のレッスンでは、滑走路へのタキシングと離陸の方法を学びます。",
+    ["DictKey_ActionText_106"] = "頭の上と後ろにあるイジェクションシート安全レバーを収納位置に回して、イジェクションシートの安全性をオフにします。イジェクションシートがライブになります。",
+    ["DictKey_ActionText_59"] = "ここで、主電源スイッチ（HUVUDSTRÖM）をON（TILL）にします。",
+    ["DictKey_ActionText_83"] = "",
+    ["DictKey_ActionText_74"] = "Yaw トリム（SID TRIM）を中央に配置します。\
+SPACEBAR TO CONTINUE を押します。",
+    ["DictKey_UnitName_6"] = "olle37pilot",
+    ["DictKey_ActionText_82"] = "バックアップの人工衛星のケージを外します。ノブを引くとアンケージされます。\
+\
+SPACEBARを押して続ける",
+    ["DictKey_ActionText_92"] = "次に、データカートリッジをロードして、フライトプランとシステムプリセットを読み込む必要があります。\
+\
+データセレクターノブをモードREFに設定 ",
+    ["DictKey_ActionText_76"] = "推力反転装置が作動していないことを確認する（ハンドルが内側に押し込まれ、反転装置のランプが消灯していること）。",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_ActionText_80"] = "HUDスレーブスイッチSLAV-SIをOFFにする",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_ActionText_70"] = "WARNING PANEL TEST（KONTR LAMPTABLÅ）を長押しすると、すべての警告表示が機能するかどうかをテストすることができます。\
+ボタンを押している間は、左右のインジケーターパネル、マスターコーション、その他多くのインジケーターランプや警告ランプが点灯します。",
+    ["DictKey_ActionText_77"] = "メインのAttitude Director Indicator（ADI）（FLI 37）が正しく配置され、赤い警告フラッグが表示されていないことを確認します。",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_ActionText_102"] = "ガスタービンスターターがエンジンのガスジェネレーターへの電力供給を開始し、回転数が上昇するのがわかります。TÄNDSYST（イグニッションシステム）というランプが点灯し、エンジンのイグニッションコイルが始動したことを示します。エンジンの回転数の上昇は、回転数計で確認でき、またEGT計では排気ガス温度の上昇が確認できます。エンジンはアイドリング回転数まで加速します。完了すると、STARTSYSTとTÄNDSYSTのランプが消えます。",
+    ["DictKey_ActionText_65"] = "オートスロットルがオフ（上段）に設定されていることを確認してください。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_ActionText_86"] = "レーダー警告受信機（RWR）を任意の位置に設定します。\
+OFF（FRÅN）、ライトのみ（LJUS）、ライトとオーディオ（LJUS + LJUD）のいずれかに設定します。",
+    ["DictKey_ActionText_104"] = "外部燃料タンクを搭載しているので、ピッチトリムを3度ノーズアップ（nos upp）に設定する。",
+    ["DictKey_ActionText_148"] = "離陸する前に、アフターバーナー表示灯について簡単に説明します。\
+フロントパネルの下部には、3つのアフターバーナー灯（1、2、3）があり、スロットルでどのアフターバーナーゾーンが選択されているかを示します。\
+フロントパネルの右側にはノズルインジケーターゲージがあり、エジェクターノズルの状態や現在のアフターバーナゾーンのアクティブ状態を示しています。\
+滑走路の中心線に沿って、できるだけ機体をまっすぐに保つようにしてください。",
+    ["DictKey_UnitName_10"] = "Pilot #002",
+    ["DictKey_ActionText_119"] = "ここからは逆噴射の練習です。反転ハンドルを引くと、スラスト・リバーサーが作動します。リバーサー・フラップが閉じて、推力が前方に向けられます。推力の大きさには注意が必要です。\
+\
+スロットルをゆっくりと前進させて後進を開始し、スロットルをアイドリングまで下げてください。後退中にブレーキを踏むとテールストライクを起こす可能性が高いので、絶対に踏まないでください。\
+\
+スラスターリバースのハンドルを内側に押して、スラスターリバースを切ります。スラストリバーサーのフラップが開き、エンジンは通常通り作動します。",
+    ["DictKey_ActionText_58"] = "これにより、エンジンを始動することなく、飛行前のチェックリストのほとんどを行うことができます。通信キー「FIND THE CORRECT KEY AND SEQUNCE」を押すと、グランドクルー用のF8が表示され、次に「Request Ground Power」が表示されます。クルーチーフは、AC電源と冷却空気を供給するグランドパワーユニットを接続しません。\
+\
+クルーチーフが地上電源が入っていることを伝えた後、SPACEBARで続行します。",
+    ["DictKey_GroupName_9"] = "Overflight",
+    ["DictKey_GroupName_122"] = "FLYGRAD",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_ActionText_145"] = "HUDの反射板が下側になっていることを確認して、離陸シンボリックを表示します。",
+    ["DictKey_ActionText_116"] = "スロットルには、グランドアイドルと飛行中のアイドルの2つのアイドルモードがあります。現在、スロットルはグランドアイドルの位置にあります。\
+スロットルをわずかに前進させると、カ チッという音がして、その後、エンジン回転数、エ ンジン圧、排気ガス温度が上昇します。\
+\
+スロットルをさらに前進させると、飛行中のアイドリングの抑止力を超えて、通常のスロットルレンジに押し込まれます。このとき、またクリック音がして ",
+    ["DictKey_UnitName_48"] = "Pilot #007",
+    ["DictKey_ActionText_120"] = "\
+車の後ろの位置に戻ります。",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_GroupName_34"] = "FLYGRAD",
+    ["DictKey_UnitName_16"] = "",
+    ["DictKey_ActionText_97"] = "INPUTの設定 ",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_UnitName_24"] = "Unit #001",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_ActionText_151"] = "ランディングギアレバーをクリックして（または「G」キーを押して）ランディングギアを格納します。",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_ActionText_85"] = "バックアップ高度計の圧力を設定し、高度が0（1031）になるまでノブを回します。",
+    ["DictKey_ActionText_81"] = "CIの設定 ",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_ActionText_103"] = "エンジンがかかり、油圧システムに電源が入ったところで、エンジン始動後のチェックリストを完成させます。",
+    ["DictKey_ActionText_94"] = "コード「9099」をキーパッドで入力します。\
+入力をクリアしなければならない場合は、INPUT のトグルで ",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_ActionText_63"] = "次にマスターモードセレクターがスタンバイモードになっていることを確認します BER Press",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_ActionText_79"] = "HUDのリフレクターガラスを下の位置にして、離陸時のシンボロジーが正しく表示されるようにします。HUDは現在オンになっていないので、何も表示されません。",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_ActionText_72"] = "オートパイロットのヨー補正(RENFLYGING)ダイヤルを中央にします。0に設定します。\
+SPACEBAR TO CONTINUE を押します。",
+    ["DictKey_ActionText_71"] = "",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_ActionText_118"] = "車に続いて滑走路に入ります。",
+    ["DictKey_ActionText_150"] = "時速270km前後でスティックを引き始めます。HUD上の機首方向が一番長い平行線の上端と同じ位置になるまで上昇させ、その状態を維持します。これで13°のノーズアップ姿勢になります。",
+    ["DictKey_ActionText_96"] = "INPUTの設定 ",
+    ["DictKey_ActionText_105"] = "頭の上と後ろにあるイジェクションシート安全レバーを収納位置に回して、イジェクションシートの安全性をオフにします。イジェクションシートがライブになります。",
+    ["DictKey_UnitName_32"] = "New Static Object",
+    ["DictKey_ActionText_147"] = "今日は風が少なく、滑走路の状態も良いので、手動でコース設定をする必要はありません。\
+データカートリッジから入力された空港情報をもとに、離陸滑走路を基準とした初期コースを機体が自動的に決定します。\
+\
+SPACEキーを押して続行します。",
+} -- end of dictionary

@@ -1,0 +1,52 @@
+dictionary = 
+{
+    ["DictKey_ActionText_24"] = "フレア光を目標に合わせて、できるだけ機体を操作しないようにしてください。\
+\
+補正は最小限にしましょう。",
+    ["DictKey_UnitName_9"] = "New Static Object",
+    ["DictKey_ActionText_25"] = "着弾の後、回り込んでもう一回攻撃進入をすることもできます。\
+\
+以上で、RB-05Aのチュートリアルを終了します。\
+ある程度安定して目標を達成できるようになるまで、練習を続けてください。",
+    ["DictKey_sortie_4"] = "RB-05A Air-to-Ground ミサイル チュートリアル",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_GroupName_15"] = "Olle37",
+    ["DictKey_GroupName_5"] = "TGT1",
+    ["DictKey_ActionText_19"] = "武装セレクターを「MARK」モードに設定し、左から2番目の設定にします。これで空対地ミサイルの信管が設定されます。",
+    ["DictKey_GroupName_8"] = "TGT2",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_ActionText_23"] = "目標から10km以内に入ったら、ミサイルを発射することができます。\
+\
+ミサイルを発射した後、フレア光を見ながら操縦して目標に合わせます。\
+\
+2つのミサイルを操るのは非常に難しいので、一度に1つのミサイルだけを発射してください。",
+    ["DictKey_ActionText_20"] = "「ANF」モードを設定します。このモードでは、ミサイルの照準システムがないため、HUDは変化しません。",
+    ["DictKey_ActionText_22"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_10"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_ActionText_21"] = "島にあるコンクリートの建物がターゲットです。赤い煙が出ているはずです。\
+ \
+ターゲットに向かって緩やかなダイビングを開始します。飛行方向ベクトルを目標の真上に設定してください。\
+操縦を容易にするために、姿勢保持（ATT）を行ってもよいです。\
+\
+トリガーを 「UNSAFE」に設定しましょう。",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_GroupName_11"] = "TGT3",
+    ["DictKey_descriptionText_1"] = "",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_UnitName_16"] = "olle37-1",
+    ["DictKey_UnitName_6"] = "",
+    ["DictKey_UnitName_12"] = "New Static Object #001",
+    ["DictKey_ActionText_14"] = "こんにちは。今日は手動誘導弾RB-05の使い方をご紹介します。\
+これはAJS-37の中でも最も難しい武器と言えるでしょう。\
+\
+RB-05は、ミサイル後部から出るフレア光を使って視覚的に誘導します。\
+始める前に、RB05のミサイルコントロールのキーやボタンが割り当てされていることを確認し、それに慣れておいてください。\
+コントロールユニットは、軸またはハットスイッチとして割り当てできます。 \
+\
+ボタンをマッピングする必要がある場合は、PAUSEキーを押してからESCAPEを押して「ADJUST CONTROL」からキーを割り当てしてください。\
+\
+ポチ市の南側の湖に浮かぶ島には小さな射撃場が設置されており、そこが最初のウェイポイント（B1）になるはずです。",
+} -- end of dictionary
