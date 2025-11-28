@@ -1,0 +1,305 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "Statics #023",
+    ["DictKey_UnitName_72"] = "Statics #027",
+    ["DictKey_ActionText_170"] = "",
+    ["DictKey_GroupName_29"] = "Player",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_GroupName_67"] = "Statics #025",
+    ["DictKey_ActionText_223"] = "СПУ-РАДИО (ICS/RADIO) スイッチを下（RADIO）を選択し、インターコム（内線）からVHF通信無線に切り替えます。これにより、管制やその他航空機との通話が可能になります。「LAlt+LCtrl+Z」\
+\
+VHF通信無線周波数を手動で設定したい場合は、中央コンソールに有るオレンジのドラムホイールを使い合わせてください。\
+",
+    ["DictKey_GroupName_65"] = "Statics #024",
+    ["DictKey_UnitName_62"] = "Statics #022",
+    ["DictKey_GroupName_77"] = "Statics #030",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_ActionText_198"] = "",
+    ["DictKey_GroupName_47"] = "Statics #010",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_20"] = "右後コンソールに戻り、ГЕНЕРЕТОРЫ I, II (Generator 1, 2) スイッチを共に上にしてAC発電機を作動せます。",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_GroupName_73"] = "Statics #028",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_GroupName_113"] = "Statics #007",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_GroupName_51"] = "Statics #016",
+    ["DictKey_UnitName_102"] = "Statics #064",
+    ["DictKey_28"] = "これでコールドスタートレッスンを終了します。よくやりました！",
+    ["DictKey_3"] = "始動手順は、次の基本的要素から構成されています。\
+\
+1.ヘリコプターへの電力供給\
+\
+2.補助動力装置（APU:Auxiliary Power Unit：APU）の始動、続けてメインエンジンの始動\
+\
+3.飛行に必要な航空電子機器類をオンにしてセットアップ\
+\
+次のキーを押すことで座席を移動できます。\
+「１」左座席：パイロット（コマンダー）、\
+「２」右座席：コパイロット（ナビゲーター）、\
+「３」中央座席：フライトエンジニア\
+計器パネルによっては座席を移動したほうが確認、操作がしやすいものがあります。\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_UnitName_108"] = "Statics #078",
+    ["DictKey_UnitName_90"] = "Statics #037",
+    ["DictKey_GroupName_97"] = "Statics #012",
+    ["DictKey_UnitName_76"] = "Statics #029",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_UnitName_36"] = "Statics",
+    ["DictKey_GroupName_45"] = "Statics #003",
+    ["DictKey_UnitName_66"] = "Statics #024",
+    ["DictKey_ActionText_183"] = "最初に、機体に電力を供給します。通常これは地上クルーが動力車からケーブルを繋いで供給します。しかし、今日は機体搭載の電源を使用します。\
+\
+コンソールの右側のDCコントロールパネルのАККУМУЛ I, II (Battery 1, 2) スイッチを上にセットしてください。機体のバッテリーからDC電力が供給されます。",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_ActionText_173"] = "",
+    ["DictKey_ActionText_175"] = "",
+    ["DictKey_UnitName_74"] = "Statics #028",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_12"] = "次に、右後コンソールにあるAC電源コントロールパネルの115 VACインバータースイッチを上（РУЧНОЕ (MAN：マニュアル) ）にしてください。バッテリーDC電源をAC電源に変換します。",
+    ["DictKey_ActionText_180"] = "",
+    ["DictKey_ActionText_217"] = "右側コンソールにある、ВЫПРЯМИТЕЛИ I, II, III (Rectifier 1, 2, 3) スイッチを上にしてAC電源をDC電源に変換します。",
+    ["DictKey_6"] = "Next, on the Rear Right Console, AC power control panel, set the ~115 and ~36 volt Inverter switches DOWN to the АВТОМАТ (Automatic) position to convert the batteries' DC power to AC.",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_UnitName_104"] = "Statics #065",
+    ["DictKey_4"] = "始める前に、ローターブレーキ、操縦桿、ラダー、エンジンコントロール類が始動に際して正しい位置にあるか確認してください。\
+\
+パイロット（コマンダー）席の右側にあるローターブレーキハンドルを下げてく、ロックを解除してください。（ブレーキハンドル上でクリック）\
+\
+ジョイスティックかキーを使い、サイクリックが中央付近にあるか確認してください。\
+\
+アンチトルクペダル（ラダー）を中央にしてください。「Z」、「X」\
+\
+座席の左側にあるコレクティブを一番下まで下げます。「NUM－」\
+\
+スロットルツイストグリップを一番左まで回してください。（スロットルダウン）「PｇDｎ」\
+\
+コレクティブの左にあるエンジンコンディションレバーを中央デテント位置にしてください。\
+「RCtrl+HOME」、「RCtrl+END」",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_ActionText_225"] = "レーダー高度計に付いているトーンインジケーターは、低高度警告を発してくれます。\
+\
+高度ノブを反時計回りに回して（マウスホイール、クリック＆ドラッグ）、0に合わせ警告をリセットしてください。\
+それからノブを時計回りにまわして好きな警告高度を設定してください。",
+    ["DictKey_UnitName_92"] = "Statics #068",
+    ["DictKey_UnitName_48"] = "Statics #010",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_GroupName_33"] = "New Vehicle Group",
+    ["DictKey_descriptionBlueTask_117"] = "",
+    ["DictKey_7"] = "Now look up to the Left and Right Circuit Breaker Panels overhead. Turn on all of the cuircuit breakers, except the three highlighted anti-ice system switches. We won't be needing any anti-icing today.\
+\
+To flick through the switches quickly, you can use the shortcut keys |RCTRL + RSHIFT + 1| through |RCTRL + RSHIFT + 9|.",
+    ["DictKey_GroupName_103"] = "Statics #065",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_GroupName_35"] = "Statics",
+    ["DictKey_UnitName_78"] = "Statics #030",
+    ["DictKey_GroupName_95"] = "Statics #009",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_23"] = "On the opposite side of the cockpit, on the Left Triangular Panel, set the following switches UP to turn on the corresponding systems:\
+\
+- АВИАГОРИЗ (Left Attitude Indicator power) to power up the left-side artificial horizon indicator * |LALT + LSHIFT + G|\
+\
+- ВК-53 (VK-53 power) to turn on the VK-53 gyro correction cutout switch * |LALT+LSHIFT+F|\
+\
+- РИ-65 (RI-65) to turn on the voice warning system\
+\
+- СПУУ-52 (SPUU-52 power) to turn on the tail rotor pitch limiting system. * |LALT + LSHIFT + T|",
+    ["DictKey_13"] = "Press the ЗАПУСК (Engine start ON) push-button for 2-3 seconds to begin spooling up the left engine. * |HOME|\
+\
+As the engine begins to turn, move the red ОСТАНОВ ДВИГ (Left Engine Stop lever), located on the roof above the Pilot-Commander, to the OPEN position to open fuel flow to the engine. * |RCTRL + PgUp|",
+    ["DictKey_GroupName_81"] = "Statics #032",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_UnitName_46"] = "Statics #003",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_UnitName_40"] = "Statics #002",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_14"] = "エンジンが回転したら、左計器パネルのエンジン温度、エンジンRPM、メインローターRPMが上昇しますので確認してください。\
+\
+エンジンがアイドル回転数に達すると、RPMは７０－７５％になるはずです。",
+    ["DictKey_GroupName_75"] = "Statics #029",
+    ["DictKey_GroupName_41"] = "Statics #004",
+    ["DictKey_24"] = "Set the СПУ-РАДИО (Radio/ICS) switch DOWN to Radio to switch the intercom to the VHF command radio to allow you to communicate with controllers and other aircraft. * |LALT + LCTRL + Z|\
+\
+If you wish the manually set the VHF communications radio frequency, you can do so using the orange drum wheels on the Center Console.",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_GroupName_43"] = "Statics #006",
+    ["DictKey_11"] = "次に、ЗАПУСК (START)プッシュボタンを押してAPUを始動します。",
+    ["DictKey_GroupName_89"] = "Statics #037",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_GroupName_83"] = "Statics #033",
+    ["DictKey_UnitName_60"] = "Statics #021",
+    ["DictKey_ActionText_201"] = "エンジンが回り始めたら、パイロット（コマンダー）席の上の天井にある赤いОСТАНОВ ДВИГ (STOP　ENGINE　LEFT)レバーを前（OPEN）の位置に動かしてください。エンジンへの燃料供給を開始します。「RCtrl+PgUp」",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_GroupName_49"] = "Statics #013",
+    ["DictKey_UnitName_56"] = "Statics #019",
+    ["DictKey_ActionText_203"] = "ЗАПУСК (START：エンジン始動)プッシュボタンを2－３秒間押して、左エンジンを回転させます。「HOME」",
+    ["DictKey_UnitName_80"] = "Statics #031",
+    ["DictKey_GroupName_57"] = "Statics #020",
+    ["DictKey_UnitName_94"] = "Statics #005",
+    ["DictKey_sortie_118"] = "Mi-8MTV2 トレーニング - コールドスタート",
+    ["DictKey_22"] = "On the Right Triangular Panel, set the following switches UP to turn on the corresponding systems:\
+\
+- ДИСС (Doppler navigation power) for the Doppler navigation system * |RALT + RSHIFT + T|\
+\
+- ГМК-1 (GMC power) for the gyromagnetic compass system * |RALT + RSHIFT + U|\
+\
+- АВИАГОРИЗ (Right Attitude Indicator power) to power up the right-side artificial horizon indicator * |RCTRL + RALT + P|",
+    ["DictKey_UnitName_106"] = "Statics #077",
+    ["DictKey_GroupName_105"] = "Statics #077",
+    ["DictKey_ActionText_184"] = "今からAPUを始動します。\
+最初にAPU STARTINGパネルのЗАПУСК (APUスタートモード)スイッチを上（START)の位置にして通常APUスタートを選択してください。「RCｔｒｌ＋E」",
+    ["DictKey_GroupName_71"] = "Statics #027",
+    ["DictKey_27"] = "The tone indicates the low altitude warning provided by the radar altimeter is functional.\
+\
+Click and drag the Set Altitude knob counter-clockwise to lower the alert altitude to zero and reset the warning. You can then turn the knob clockwise to set the warning altitude as desired.",
+    ["DictKey_17"] = "左エンジンと同様に、エンジンが回転すると、エンジン温度、エンジンRPM、メインローターRPMが上昇するのを確認してください。\
+\
+両方のエンジンがアイドル状態に達すると、メインローターRPMは４５－７０％になるはずです。",
+    ["DictKey_UnitName_42"] = "Statics #004",
+    ["DictKey_UnitName_44"] = "Statics #006",
+    ["DictKey_UnitName_30"] = "Player",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_GroupName_31"] = "New Helicopter Group #001",
+    ["DictKey_GroupName_53"] = "Statics #017",
+    ["DictKey_descriptionText_115"] = "このレッスンでは、Mi-8MTV2のコールドスタート（エンジン始動）手順の練習しヘリコプターを飛行できる状態へ持っていきます。\
+\
+",
+    ["DictKey_UnitName_84"] = "Statics #033",
+    ["DictKey_GroupName_87"] = "Statics #036",
+    ["DictKey_UnitName_54"] = "Statics #017",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_UnitName_34"] = "Unit #1",
+    ["DictKey_UnitName_88"] = "Statics #036",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_GroupName_101"] = "Statics #064",
+    ["DictKey_descriptionRedTask_116"] = "",
+    ["DictKey_UnitName_64"] = "Statics #023",
+    ["DictKey_15"] = "右エンジンもこの手順を繰り返します。\
+ ЛЕВ <-> ПРАВ (LEFT←→RIGHT)スイッチを右にして、右エンジンを選択します。",
+    ["DictKey_GroupName_37"] = "Statics #001",
+    ["DictKey_UnitName_50"] = "Statics #013",
+    ["DictKey_ActionText_221"] = "コクピットの反対側にある、左の三角形パネルの次のスイッチを上にしてください。 \
+\
+- АВИАГОРИЗ (Left Attitude Indicator power) ：左人工水平儀用電源 「LAlt+LShift+G」\
+\
+- ВК-53 (GYRO CUT OUT VK-53) :VK-53 ジャイロ誤差カットアウト電源スイッチ　「LAlt+LShift+F」\
+\
+- РИ-65 (AUDIO WARN　RI-65) ：音声警告システム\
+\
+- СПУУ-52 (PITCH LIM SYS　SPUU-52 power) ：テイルローターピッチ制限システム　「LAlt+LShift+T」",
+    ["DictKey_UnitName_58"] = "Statics #020",
+    ["DictKey_UnitName_100"] = "Statics #015",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_GroupName_91"] = "Statics #068",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_GroupName_69"] = "Statics #026",
+    ["DictKey_2"] = "ようこそコールドスタートレッスンへ。今日はMi-8ヘリコプターの始動と\"飛行に必要な幾つかのシステムのセットアップを練習します。\
+\
+レッスン開始前に下記のレッスンノートに目を通しておいてください。\
+----------------------------------------------------------------\
+レッスンノート：\
+- 一時停止: [PAUSE]\
+- アクティブポーズ: [LSHIFT + LWIN + PAUSE]\
+- 視点移動: numpad keys / joystick’s hat switch / マウスフリールックモード [LALT + C]\
+- ズームイン/アウト: [Num/] / [Num*]\
+- パイロット頭の位置移動 上下左右: ホイルを押した状態でマウスを動かすか、 [RSHIFT + RCTRL ] + [テンキーパッドの矢印] \
+- パイロット頭の位置　前後: マウスホイール回転か、 [RSHIFT + RCTRL] + [ / ] and [ * ] （テンキーパッド）\
+- 頭の位置リセット: [Num5]\
+- レッスン終了: [ESC]\
+- コントローラーの位置表示:  [RCTRL + ENTER]\
+- ラベル表示: [LSHIFT + F10]\
+- 音量調節: メインメニューからOPTIONS、AUDIO　WORLD とIN COCKPIT のスライダーで調節\
+----------------------------------------------------------------\
+\
+開始準備が良ければスペースキーを押してください。",
+    ["DictKey_21"] = "On the Right Side Console, set the ВЫПРЯМИТЕЛИ I, II, III (Rectifier 1, 2, 3) switches to the UP position to convert generator AC power to DC.",
+    ["DictKey_10"] = "We will now start the APU. First, set the ЗАПУСК (APU start mode) switch on the APU start panel to the UP position to select a normal APU start. * |LALT + E|",
+    ["DictKey_UnitName_52"] = "Statics #016",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_ActionText_219"] = "右の三角形のパネルにある次のスイッチを上にしてください。\
+\
+- ДИСС (DOPP:Doppler navigation power) ：ドップラーナビゲーションシステム用電源「RAlt+RShift+T」\
+\
+- ГМК-1 (COMP SYS:GMC power) ：ジャイロ・磁気コンパスシステム用電源「RAlt+RShift+U」\
+\
+- АВИАГОРИЗ (Right Attitude Indicator power) ：右側人工水平儀用電源「RCtrl+RAlt+P」\
+",
+    ["DictKey_ActionText_176"] = "次に、頭上にある左右のサーキットブレーカーパネルを見てください。全てのサーキットブレーカーをオンにします。\
+\
+すばやく操作するには「Rctrl+RShift+１～９」のキーを押してください。",
+    ["DictKey_UnitName_68"] = "Statics #025",
+    ["DictKey_UnitName_112"] = "Statics #080",
+    ["DictKey_18"] = "両エンジンが正常にアイドリングしていれば、出力を上げます。「PgUp」キーを押してコレクティブにあるスロットルツイストグリップを最大まで右回転させます。これが通常エンジン出力です。これによりガバナーシステムが作動し、自動的にロータースピードを維持します。ローター速度は９５％で安定します。",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_GroupName_111"] = "Statics #080",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_UnitName_114"] = "Statics #007",
+    ["DictKey_UnitName_38"] = "Statics #001",
+    ["DictKey_GroupName_99"] = "Statics #015",
+    ["DictKey_25"] = "中央コンソールにある、Automatic Flight Control System (AFCS)のグリーンのプッシュランプを押してPitch/Roll オートパイロットチャンネルをオンにします。「LWin+A」",
+    ["DictKey_9"] = "では、燃料を流しましょう。\
+\
+燃料システムコントロールパネルで、РАСХОД, ЛЕВЫЙ, ПРАВЫЙ (Service, Left, Right TANK PUMPS：増加、左、右　燃料タンクポンプ) スイッチを全て上にしてオンにします。\
+\
+次に、ПЕРЕКРЫВ КРАНЫ (Left and Right Shutoff Valve：左右シャットオフバルブ)スイッチを上にして、燃料遮断バルブを開きます。",
+    ["DictKey_UnitName_86"] = "Statics #034",
+    ["DictKey_UnitName_82"] = "Statics #032",
+    ["DictKey_GroupName_39"] = "Statics #002",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_GroupName_55"] = "Statics #019",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_GroupName_85"] = "Statics #034",
+    ["DictKey_GroupName_61"] = "Statics #022",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_ActionText_227"] = "さて、それでは左エンジンを始動しましょう。通常最初に始動するエンジンは風のあたらない（風下）の方から行います。今日は天候も穏やかなのでどちらから始動しても構いません。\
+\
+エンジン スタート コントロール パネルにあるЛЕВ <-> ПРАВ (LEFT←→RIGHT) スイッチを左位置にして、左エンジンを選択してください。「Ralt+Rshift+E」\
+\
+次に、ЗАПУСК (START：スタートモード) スイッチを上（START）にして通常エンジンスタートを選択します。",
+    ["DictKey_26"] = "左計器パネルにあるРАДИОВЫС (RADER ALT：レーダー高度計電源) スイッチを上にして、レーダー高度計を作動させます。反応して機能テストを行うまでに数秒かかります。\
+（気長に待ってください）",
+    ["DictKey_UnitName_70"] = "Statics #026",
+    ["DictKey_ActionText_179"] = "頭上中央コンソールにある火災検知テスト（FIRE DETECTOR TEST）パネルの火災回路チェックスイッチを回してВЫК (OFF)の位置にします。ОГНЕТУШЕНИЕ (FIRE　DET/FIRE　EXTING：火災検出/火災消化)スイッチを上にして、消火システムを作動させます。",
+    ["DictKey_UnitName_98"] = "Statics #012",
+    ["DictKey_5"] = "To begin, let's provide electrical power to the aircraft. Normally this is done with the help of the ground crew using a cable link to a special power vehicle, but we'll use onboard power today.\
+\
+On the Right Side Console, DC control panel, set the АККУМУЛ I, II (Battery 1, 2) switches to the UP position to start running  DC power from the onboard batteries.",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_UnitName_32"] = "Pilot #003",
+    ["DictKey_GroupName_79"] = "Statics #031",
+    ["DictKey_UnitName_110"] = "Statics #079",
+    ["DictKey_8"] = "On the Center Overhead Console, fire extinguisher test panel, make sure the rotary Check Fire Circuits switch is set to ВЫК (OFF) and set the ОГНЕТУШЕНИЕ (Fire Detect Test/ON) switch to the UP position to arm the fire suppression system.",
+    ["DictKey_ActionText_174"] = "次に、右後コンソールのAC電源コントロールパネルの 115VAC と 36VAC 電圧インバータースイッチを下АВТОМАТ (AUTO)にします",
+    ["DictKey_ActionText_196"] = "APUが20秒以内に温度が720℃以下で安定するのを待ちます。もし安定しなかったり、温度が高すぎる場合は、ВЫКЛ АИ-9В (APU OFF) ボタンを押して停止させて、クルーチーフに相談してください。\
+\
+APUがウォームアップするの間 数秒間待ちます。",
+    ["DictKey_19"] = "APUをオフします。\
+中央オーバヘッドパネルのЫКЛ АИ-9В (APU OFF) プッシュボタンを押してください。「END」\
+（APUの温度が下がるまでレッスンがストップします。結構時間がかかるのでしばらく待ってください。）\
+",
+    ["DictKey_GroupName_109"] = "Statics #079",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_16"] = "ЗАПУСК (START：エンジン始動) を２－３秒間 押します。\
+右エンジンが回転を始めます。「HOME」",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_GroupName_59"] = "Statics #021",
+    ["DictKey_UnitName_96"] = "Statics #009",
+    ["DictKey_GroupName_107"] = "Statics #078",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_GroupName_93"] = "Statics #005",
+    ["DictKey_ActionText_205"] = "右エンジンが回転を始めたら、赤いОСТАНОВ ДВИГ (STOP　ENGINE　RIGHT) レバーを前（OPEN）の位置にして、エンジンへ燃料を供給します。「RCtrl+PgDN」",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_ActionText_229"] = "На средней панели электропульта находится щиток контроля противопожарной системы, убедитесь, что галетный переключатель контроля находится в положение ВЫК. Установите переключатель ОГНЕТУШЕНИЕ в верхнюю позицию для перехода системы в рабочий режим.",
+} -- end of dictionary
