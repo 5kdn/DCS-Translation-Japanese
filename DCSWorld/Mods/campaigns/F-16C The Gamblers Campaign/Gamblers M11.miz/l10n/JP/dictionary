@@ -1,0 +1,784 @@
+dictionary = 
+{
+    ["DictKey_subtitle_216"] = "BONE 21：Bone 21、Romeo One Bravoへの事前計画攻撃、GBU-31×24、ターゲットメッセージ5 Omaha。",
+    ["DictKey_subtitle_457"] = "VENOM 21: GBU-12を要請、北から南への進入、指揮官コードはDelta Juliet！",
+    ["DictKey_ActionRadioText_846"] = "周波数変更完了",
+    ["DictKey_ActionText_704"] = "",
+    ["DictKey_subtitle_232"] = "NIGHTWALKER：Weasel flight、Nightwalker、Romeo Hotel Alphaは破壊、Romeo Hotel Bravoは未破壊。攻撃エリアからの離脱を許可する。",
+    ["DictKey_subtitle_218"] = "NIGHTWALKER：Bone、Nightwalker、ラジャー。5 Omahaは有効。Reaperが上空におりBDA可能。兵器投下前に短時間のスキャンを実施しろ。指定目標への攻撃を許可する。",
+    ["DictKey_ActionText_26"] = "W33 bomb",
+    ["DictKey_ActionRadioText_114"] = "",
+    ["DictKey_ActionText_831"] = "よしChaos、今回の任務とフライトテープを一緒に振り返ろう。目標への道中は特に語ることもないな。国境越えでフェンスイン、DarkstarとNightwalkerにチェックイン、そのまま目標攻撃に移った。\
+\
+俺たちはGBU-31をそれぞれ投下、通信センターと司令部に直撃させて、どちらも確実に破壊した。\
+\
+Bone 21とCowboysが目標を破壊するのを見ていたら、敵がFOB UTAHにロケット攻撃を開始。全機が警戒態勢に入り、味方の南東側をスキャンするよう指示された。発見にはちょっと時間かかったが、最終的には俺が見つけて新しい目標に攻撃を仕掛けた。（目標の初動発見遅れでマイナス5点）\
+\
+そのあとすぐにMaverickとGBUで突入。俺はMaverickで目標を仕留めたが、お前は外してしまい、結局JTACがReaperを呼んで処理することになった。正直、スキル的にイマイチだったな。（テクニカル撃破失敗でマイナス15点）\
+\
+そこからが本番だった。FOB UTAHがAPC、VBIED、歩兵を含む全面攻撃を受けた。Venom 21はフル稼働で、持てる戦力をすべて投入して対応していた。俺たちの目標はAPCで、俺はしっかり仕留めたが、お前は外してVoodooがHellfireで片付けることに。状況が急だったのはわかるが、まさにこういう時のために訓練してるんだぞ！（目標撃破失敗でマイナス20点）\
+\
+その後、Darkstarに増援を要請してRTB許可が下りた。今日の地上戦を見る限り、SDFはRaqqa解放に向けて相当な苦戦を強いられるだろうな。",
+    ["DictKey_subtitle_167"] = "DARKSTAR：Bone 21、Darkstar、ラジャー。",
+    ["DictKey_subtitle_173"] = "WEASEL 41（RAIN）：Two、右に20チェック。",
+    ["DictKey_subtitle_242"] = "PLAYER：Two。",
+    ["DictKey_subtitle_485"] = "VENOM 21: Voodoo 21、グッドヒット、目標撃破！",
+    ["DictKey_subtitle_306"] = "WEASEL 41（RAIN）: Venom、Weasel 41、ロケットランチャー搭載のテクニカル3両確認、方位143、位置はそちらから2マイル。交戦待機中。",
+    ["DictKey_subtitle_757"] = "BONE 21: Bone 21、投下まで8分。",
+    ["DictKey_subtitle_616"] = "DARKSTAR: Checkmate 61、Darkstar、スイッチクリア。",
+    ["DictKey_ActionRadioText_721"] = "",
+    ["DictKey_subtitle_584"] = "WEASEL 41 (RAIN): FOB Utahに増援出せる編隊はあるか？敵の猛攻を受けてて、支援が必要になりそうだ。",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_ActionRadioText_105"] = "タキシー準備完了",
+    ["DictKey_ActionRadioText_766"] = "",
+    ["DictKey_subtitle_338"] = "NIGHTWALKER: Voodoo 21、ライフル、西側テクニカル。",
+    ["DictKey_ActionText_119"] = "",
+    ["DictKey_subtitle_38"] = "INCIRLIK GROUND: Weasel 41、タキシーアルファ。滑走路05のアルファ手前で待機。",
+    ["DictKey_subtitle_453"] = "PLAYER: Venom、Weasel 42、もう一度教えてくれ。",
+    ["DictKey_subtitle_210"] = "WEASEL 41（RAIN）：Weasel 41、ラジャー。",
+    ["DictKey_ActionRadioText_717"] = "周波数変更",
+    ["DictKey_subtitle_594"] = "NIGHTWALKER: Weasel 41、どうぞ。",
+    ["DictKey_subtitle_562"] = "WEASEL 41 (RAIN): Two、Nightwalkerの周波数をモニターしろ。こっちはDarkstarに支援要請をかけておく。このペースだとすぐに弾切れだ。",
+    ["DictKey_ActionText_809"] = "よしChaos、今回の任務とテープを一緒に見直そう。目標到達までは特に話すことはないな。国境越えでフェンスインして、DarkstarとNightwalkerにチェックイン、そのまま目標攻撃に移行した。\
+\
+現地に入って、俺は通信センターに爆弾を落として直撃。だがお前は投下しなかった。どうした？スイッチ設定ミスか、TGP操作で手間取ったのか？運よく俺の爆風でお前の目標にも大ダメージが入ったが、とはいえミッション的にはよくなかった。（マイナス10点）\
+\
+Bone 21とCowboysが目標を潰している最中、敵がFOB UTAHにロケット攻撃を開始。全機に警戒がかかって、味方位置の南東をスキャンするよう指示された。発見には少しかかったが、最終的には俺が見つけて攻撃に入った。（目標の発見遅れでマイナス5点）\
+\
+その後すぐにMaverickとGBUで攻撃に入り、ロケットを積んだテクニカルを2両破壊、敵歩兵も散らした。\
+\
+だがそこから事態は一気に悪化。FOB UTAHがAPC、VBIED、歩兵による本格攻撃を受ける。Venom 21は大忙しで、持ってる戦力を全部指揮して脅威を潰してた。俺たちのターゲットはAPCで、俺は仕留めたが、お前はミスしてVoodooがHellfireで対処することになった。展開が速かったのはわかるが、こういう状況こそが訓練の成果を出す場だろ？（目標撃破失敗でマイナス20点）\
+\
+全てが片付いた後、Darkstarに増援を要請してRTBのクリアをもらった。地上の状況を見る限り、SDFはこれからRaqqa奪還に向けて相当厳しい戦いになるはずだ。",
+    ["DictKey_ActionRadioText_374"] = "シューターを確認",
+    ["DictKey_ActionText_17"] = "C34 bombs",
+    ["DictKey_ActionText_255"] = "",
+    ["DictKey_ActionText_835"] = "よしChaos、今回の任務とフライトテープを一緒に振り返ろう。目標に向かう途中は特に話すこともない。国境を越えてフェンスイン、DarkstarとNightwalkerにチェックインして、そのまま目標攻撃に入った。\
+\
+俺たちはどちらもGBU-31を投下して、通信センターと司令部の建物にそれぞれ直撃、完全に破壊できた。\
+\
+Bone 21とCowboysが目標を破壊するのを見ていたら、敵がFOB UTAHに向けてロケット攻撃を始めて、全機に警戒が出て、味方の位置の南東側をスキャンするよう指示された。素早く脅威を見つけたのはさすがだった。\
+\
+すぐにMaverickとGBUで突っ込んで、ロケット搭載のテクニカル2台を破壊、敵兵も散らすことができた。\
+\
+でもそこから状況は一気に悪化。FOB UTAHがAPC、VBIED、それに歩兵による全面攻撃を受けた。Venom 21は持てる戦力を総動員して脅威の排除にあたっていた。俺たちの目標はAPCだったけど、お前はミスして、結局VoodooがHellfireで片付けることになった。展開が速かったのはわかるが、こういう時のための訓練だろ？（目標破壊失敗でマイナス20点）\
+\
+その後、Darkstarに増援を要請して、RTBがクリアされた。今日の地上戦を見る限り、SDFがRaqqaを解放するには相当な苦戦を強いられるだろうな。",
+    ["DictKey_ActionRadioText_112"] = "",
+    ["DictKey_subtitle_710"] = "PLAYER: Two、フェンスアウト。",
+    ["DictKey_ActionText_33"] = "C31 bomb away",
+    ["DictKey_ActionRadioText_195"] = "周波数変更",
+    ["DictKey_ActionText_372"] = "Shooting",
+    ["DictKey_subtitle_612"] = "DARKSTAR: Weasel 41、Darkstar、了解。",
+    ["DictKey_ActionText_801"] = "よし、Chaos、今回の任務と記録を一緒に振り返ろう。目標までの道中は特に話すこともないな。国境を越えたあたりでフェンスイン、DarkstarとNightwalkerにチェックインして、そのまま任務遂行に入った。\
+\
+現地に到着して、俺は通信センターに爆弾を落として命中させた。でもお前はドライで離脱。どうした？スイッチの設定忘れたか、TGPの操作で手間取ったか？幸い俺の爆風でお前の目標にも大きなダメージが入ったが、それでも失敗だぞ。（マイナス10点）\
+\
+Bone 21とCowboysが目標を破壊するのを見ていたら、敵がFOB UTAHにロケット攻撃を開始。全機が警戒態勢に入り、味方の位置から南東をスキャンするよう指示された。素早く脅威を見つけたのはお見事だった、ナイスだ。\
+\
+その後、MaverickとGBUで即応。俺はMaverickで目標を命中させたが、お前は外した。結局JTACがReaperを呼んで始末することになった。あれはちょっと残念だったな。（テクニカル撃破失敗でマイナス15点）\
+\
+そして事態は一気に悪化。FOB UTAHにAPC、VBIED、歩兵による本格的な攻撃が始まった。Venom 21は手持ちの戦力を総動員して対応していた。俺たちの目標はAPCだったが、お前はミスって、VoodooがHellfireでカバーすることに。確かに急展開だったが、こういう状況に備えて訓練してきたんだろ？（APC撃破失敗でマイナス20点）\
+\
+一連の対応が終わって、Darkstarに増援を要請してRTBのクリアをもらった。今日の地上の状況を見る限り、SDFはRaqqa奪還で相当苦労することになりそうだな。",
+    ["DictKey_ActionRadioText_124"] = "周波数変更",
+    ["DictKey_subtitle_582"] = "DARKSTAR: Weasel 41、Darkstar、どうぞ。",
+    ["DictKey_subtitle_175"] = "WEASEL 41（RAIN）：Weasels、フェンスイン。",
+    ["DictKey_subtitle_324"] = "NIGHTWALKER: Voodoo 21、ライフル、飛翔時間45秒。",
+    ["DictKey_subtitle_483"] = "NIGHTWALKER: Voodoo 21、ライフル！飛翔時間29秒。",
+    ["DictKey_ActionRadioText_120"] = "周波数変更",
+    ["DictKey_subtitle_624"] = "DARKSTAR: Tiger 31、少々待て。",
+    ["DictKey_subtitle_676"] = "WEASEL 41 (RAIN): Tower、Weasel 41、ファイナル、滑走路05。",
+    ["DictKey_subtitle_429"] = "VENOM 21: くそっ！Venom、視認……今から9ライン行くぞ！",
+    ["DictKey_ActionText_807"] = "",
+    ["DictKey_subtitle_668"] = "PLAYER: Weasel 42。",
+    ["DictKey_ActionText_254"] = "",
+    ["DictKey_subtitle_491"] = "PLAYER: 今やってる…",
+    ["DictKey_ActionText_15"] = "",
+    ["DictKey_subtitle_646"] = "WEASEL 41 (RAIN): Two、One了解。待機しろ。",
+    ["DictKey_subtitle_706"] = "WEASEL 41 (RAIN): Weasels、フェンスアウト。",
+    ["DictKey_ActionText_493"] = "",
+    ["DictKey_subtitle_566"] = "WEASEL 41 (RAIN): Two、Oneが戻った。Darkstarからカナダ空軍のホーネット部隊が支援に来る。俺はビンゴに近い、RTBしよう。",
+    ["DictKey_subtitle_753"] = "BONE 21: Bone 21、投下まで12分。",
+    ["DictKey_subtitle_574"] = "WEASEL 41 (RAIN): Two、燃料の残りは？",
+    ["DictKey_subtitle_626"] = "DARKSTAR: Tiger 31、Darkstar、新任務を伝える。Romeoへ向かい、Red 2でNightwalkerと交信。現地は味方部隊が敵と交戦中。",
+    ["DictKey_subtitle_501"] = "VENOM 21: 全機に通達、小火器の射撃が南側から再び確認された！",
+    ["DictKey_ActionText_192"] = "（PRIでNIGHTWALKERにスイッチ）",
+    ["DictKey_subtitle_198"] = "WEASEL 41（RAIN）：Weasels、PRIチェック。",
+    ["DictKey_ActionRadioText_731"] = "周波数変更",
+    ["DictKey_subtitle_316"] = "WEASEL 41（RAIN）: Voodoo 21に最北のテクニカルへのHellfire攻撃を許可できるか？",
+    ["DictKey_subtitle_350"] = "WEASEL 41（RAIN）: One、了解、こちらも視認中。",
+    ["DictKey_subtitle_157"] = "DARKSTAR：Blackbird 51、ピクチャークリーン。",
+    ["DictKey_subtitle_262"] = "COWBOY 31: Cowboy 31、Strike Eagle 2機、Romeo One Charlieの北西30マイル、Charlie AlphaとBravoに対する事前計画攻撃、ターゲティングメッセージは4 Golf。兵装はGBU-12を4発、Mk82を24発。ロレックス+3。",
+    ["DictKey_ActionText_9"] = "V13 bombs",
+    ["DictKey_subtitle_413"] = "COWBOY 31: Cowboy 31、森林の縁に歩兵確認。リマーク準備OK。",
+    ["DictKey_subtitle_469"] = "VENOM 21: Weasel 41、Venom、ヒット良好！APCは燃えてる！",
+    ["DictKey_subtitle_163"] = "DARKSTAR：Bone 21、Darkstarに送信どうぞ。",
+    ["DictKey_subtitle_473"] = "VENOM 21: Weasel 42、Venom、最高の命中だ！燃えてるぞ！",
+    ["DictKey_subtitle_165"] = "BONE 21：Bone 21、投下まで10分。",
+    ["DictKey_subtitle_298"] = "VENOM 21: 了解、Nightwalker。Weasel flight、Utahの南東の森をスキャンせよ！敵は我々から方位140にいる可能性が高い。",
+    ["DictKey_ActionText_702"] = "",
+    ["DictKey_subtitle_759"] = "BONE 21: Bone 21、投下まで5分。",
+    ["DictKey_ActionText_135"] = "",
+    ["DictKey_subtitle_588"] = "DARKSTAR: Weasel 41、Darkstar。カナダのHornet2機、ETA12分。Nightwalkerとコンタクトを取る予定。",
+    ["DictKey_subtitle_280"] = "NIGHTWALKER: Cowboy 31および32、こちらNightwalker、BDA待機。",
+    ["DictKey_subtitle_656"] = "WEASEL 41 (RAIN): Incirlik Approach、Weasel 41 flight、F-16×2、Golf取得済みで進入中、滑走路5への初期進入許可を要請する。",
+    ["DictKey_subtitle_551"] = "VENOM 21: Voodoo 21、なんてこった、爆発で木っ端みじんだ！",
+    ["DictKey_ActionRadioText_197"] = "周波数変更",
+    ["DictKey_subtitle_732"] = "INCIRLIK TOWER: Weasel 42、Tower、着陸許可、滑走路05、風は095で4。",
+    ["DictKey_subtitle_489"] = "WEASEL 41 (RAIN): Two、何モタついてんだ？",
+    ["DictKey_subtitle_226"] = "PLAYER：Weasel 42、オフドライ（兵器未発射で離脱）。",
+    ["DictKey_subtitle_246"] = "PLAYER: Two、ラジャー。",
+    ["DictKey_subtitle_642"] = "PLAYER: さあな……この辺のTIC（交戦中の味方）をまるで支援してないみたいだよな。",
+    ["DictKey_subtitle_742"] = "INCIRLIK GROUND: Weasel 42、Ground、誘導路Golf、Hotel経由でHotel 30へタキシー。",
+    ["DictKey_subtitle_62"] = "",
+    ["DictKey_subtitle_56"] = "WEASEL 41 (RAIN): Weasels、ボタン4へプッシュ。",
+    ["DictKey_ActionText_14"] = "",
+    ["DictKey_ActionText_789"] = "よし、Chaos、一緒に 任務とテープを振り返ろう。ターゲットに向かう途中は特に語ることもないな。国境を越えてフェンスイン、DarkstarとNightwalkerにチェックインして、そのまま目標攻撃に入った。\
+\
+俺たちはそれぞれGBU-31を投下、どちらも目標の建物に直撃して、通信センターと司令部を破壊した。\
+\
+その後、Bone 21とCowboysが目標を破壊するのを見てたら、敵がFOB UTAHにロケット攻撃を仕掛けてきた。全機が警戒態勢に入り、味方の位置から南東をスキャンするよう指示が出たな。お前が脅威をいち早く見つけてくれたのはさすがだった。\
+\
+すぐにMaverickとGBUで攻撃に入り、ロケットランチャーを積んだテクニカルを2台撃破、敵兵を散開させた。\
+\
+そこからが本番だったな。FOB UTAHへの総攻撃だ。装甲車、VBIED、歩兵まで動いてきて、現場は大混乱。Venom 21は大忙しで、持てる戦力すべてを動かして脅威を排除してた。\
+\
+俺たちのターゲットは装甲車だったが、両方ともきっちり仕留めて、弾薬は使い切り、ウィンチェスター状態になった。\
+\
+その後、Darkstarに増援を要請してRTBのクリアをもらった。今日の地上の状況を見るに、SDFはRaqqa奪還に相当苦戦することになりそうだな。",
+    ["DictKey_subtitle_459"] = "PLAYER: Weasel 42、GBU-12、北から南へ進入。",
+    ["DictKey_subtitle_740"] = "PLAYER: Ground、Weasel 42、誘導路Deltaへ合流。",
+    ["DictKey_ActionText_88"] = "",
+    ["DictKey_ActionText_90"] = "",
+    ["DictKey_subtitle_748"] = "PLAYER: さあな…この辺じゃTIC（交戦中の味方）に加勢してるの見たことないしな。",
+    ["DictKey_ActionRadioText_496"] = "1、復唱する",
+    ["DictKey_subtitle_640"] = "WEASEL 41 (RAIN): Two、One。トルコのViperを見てみろ。なんでいつも兵装を使わずに戻ってくるんだ？",
+    ["DictKey_subtitle_264"] = "NIGHTWALKER: Cowboys、こちらNightwalker、ロレックス+3了解。Reaperが短時間のスキャンとBDAを実施予定。目標への攻撃を許可する。",
+    ["DictKey_ActionText_257"] = "",
+    ["DictKey_subtitle_220"] = "BONE 21：Bone 21、短時間のスキャンおよび攻撃許可了解。",
+    ["DictKey_ActionRadioText_378"] = "",
+    ["DictKey_subtitle_272"] = "NIGHTWALKER: Bone 21、こちらNightwalker、Romeo One Bravoは大破しているが崩壊には至らず。あそこはもう通りたくないな。目標は達成された。",
+    ["DictKey_ActionRadioText_701"] = "周波数変更",
+    ["DictKey_ActionRadioText_100"] = "",
+    ["DictKey_subtitle_79"] = "WEASEL 41 (RAIN): Weasel 41、6000フィートへ上昇、Falcon exitへ直行。",
+    ["DictKey_subtitle_312"] = "WEASEL 41（RAIN）: Venom 21、Weasel 41、西側からテクニカルに対してアプローチ中。ブレイクブレイク。Nightwalker、ターゲット確認できてるか？",
+    ["DictKey_subtitle_555"] = "VENOM 21: Cowboy 32、効果良好、グッドエフェクト！",
+    ["DictKey_ActionRadioText_697"] = "周波数変更",
+    ["DictKey_subtitle_471"] = "PLAYER: Weasel 42、一発投下！",
+    ["DictKey_ActionRadioText_703"] = "周波数変更",
+    ["DictKey_ActionText_24"] = "W31 bomb",
+    ["DictKey_subtitle_36"] = "WEASEL 41（RAIN）: Ground、Weasel 41、2機編隊、タキシー準備完了。",
+    ["DictKey_subtitle_536"] = "WEASEL 41 (RAIN): Weasel flight、弾切れだ！",
+    ["DictKey_subtitle_294"] = "VENOM 21: ネット上の全航空機へ、こちらFOB UtahのJTAC、Venom！東南方向から激しいロケット攻撃を受けている！至急支援を要請する！",
+    ["DictKey_subtitle_276"] = "COWBOY 31: Cowboy 31、兵装投下！",
+    ["DictKey_subtitle_202"] = "WEASEL 41（RAIN）：Nightwalker、Weasel 41チェックイン、計画通り、F-16×2、Romeo One Hotel北西25マイル、AlphaおよびBravoへの事前計画攻撃、ターゲットメッセージ2 November。GBU-31×2、Maverick×2、GBU-12×2を搭載。予定通り。",
+    ["DictKey_subtitle_542"] = "VENOM 21: Cowboy 31、9ラインと補足。1～4はN/A、APCがUtah西の道路上、ノーマーク、北東120メートル。補足：GBU-12、東から西へのアプローチ、離脱は東。",
+    ["DictKey_ActionText_726"] = "（PRIでGROUNDにスイッチ）",
+    ["DictKey_subtitle_632"] = "DARKSTAR: Tiger 31、Darkstar、了解。",
+    ["DictKey_subtitle_437"] = "VENOM 21: AGM-65で東から西への進入を要請。指揮官コードはDelta Juliet！",
+    ["DictKey_ActionText_256"] = "",
+    ["DictKey_ActionText_720"] = "",
+    ["DictKey_subtitle_83"] = "DEPARTURE: Weasel 41、Departure、ラジャー、自主ナビゲーションへ復帰。",
+    ["DictKey_subtitle_268"] = "BONE 21: Bone 21、全兵装投下、飛翔時間は49秒。",
+    ["DictKey_ActionText_815"] = "よしChaos、今回の任務とテープを一緒に振り返ろう。目標に向かう途中は特に語ることもなし。国境を越えてフェンスイン、DarkstarとNightwalkerにチェックインして、そのまま目標攻撃に入った。\
+\
+現地に着いて、俺は通信センターに爆弾を落として命中。けどお前は外したな。ウェイポイントに合わせた事前投下で外すとは珍しいぞ。運良く爆風でお前の目標もかなり損傷したが、それでも失敗だ。（主目標を破壊できずマイナス10点）\
+\
+Bone 21とCowboysが自分たちの目標を破壊してるのを見てたら、敵がFOB UTAHにロケットを撃ち始めた。全機が警戒態勢に入り、味方の南東エリアをスキャンするよう指示が出た。見つけるまで少し時間がかかったが、最終的には俺が発見して新たな目標に攻撃を仕掛けた。（目標の発見が遅れてマイナス5点）\
+\
+続けてMaverickとGBUで攻撃。俺はMaverickで目標を撃破したが、お前は外してJTACがReaperを呼んで処理するはめになった。あまり感心できる動きじゃなかったな。（テクニカルを破壊できずマイナス15点）\
+\
+そこから地獄が始まった。APC、VBIED、歩兵によるFOB UTAHへの全面攻撃だ。Venom 21は持てる戦力を全部投入して忙殺されながらも対処してた。俺たちの目標はAPCで、2両とも無事撃破してこの時点でウィンチェスター。\
+\
+すべて片付いた後、Darkstarに増援を要請してRTBの許可を得た。地上の状況を見た感じ、SDFはRaqqa解放で相当な苦戦を強いられるだろうな。",
+    ["DictKey_ActionRadioText_842"] = "フェンスイン",
+    ["DictKey_ActionText_799"] = "よし、Chaos、一緒に今回の任務とテープを振り返ろう。ターゲットまでの道中は特に語ることはないな。国境を越えてフェンスイン、DarkstarとNightwalkerにチェックインして、そのまま目標攻撃に向かった。\
+\
+現地に入って、俺は通信センターに爆弾を落として命中させた。でもお前はドライで離脱。どうした？スイッチの設定ミスか？TGPの操作で手間取ったか？運良く俺の爆風でお前の目標も大ダメージを受けたが、それでもこれは失敗だ。（マイナス10点）\
+\
+Bone 21とCowboysがターゲットを破壊してるのを見ていたら、敵がFOB UTAHにロケット攻撃を仕掛けてきた。全機に警戒がかかって、味方の位置から南東のエリアをスキャンするよう指示された。ターゲットの特定には時間がかかったが、最終的には俺が見つけて攻撃した。（発見が遅れてマイナス5点）\
+\
+その後、MaverickとGBUで即座にロールイン。俺はMaverickで目標を命中させたが、お前は外した。その結果、JTACがReaperを呼んで始末することに。お世辞にも見事な腕前とは言えなかったな。（テクニカルを仕留められずマイナス15点）\
+\
+そして地獄の幕開けだ。APC、VBIED、歩兵による全面攻撃がFOB UTAHに襲いかかってきた。Venom 21はフル稼働で、手持ちの戦力を総動員して対処していた。\
+\
+俺たちの目標はAPCだった。俺は撃破したが、お前はミスった。そのせいでVoodooがHellfireでフォローする羽目に。状況が急展開だったのはわかるが、こういうときのために訓練してるんだろ、Chaos！（目標撃破失敗でマイナス20点）\
+\
+その後、Darkstarに増援を要請してRTBのクリアをもらった。地上で起きたことを見れば、SDFがRaqqaを奪還するには相当厳しい戦いになるだろうな。",
+    ["DictKey_ActionText_20"] = "",
+    ["DictKey_subtitle_604"] = "WEASEL 41 (RAIN): Darkstar、Weasel 41 flight、Romeo離脱、RTB。",
+    ["DictKey_subtitle_352"] = "WEASEL 41（RAIN）: One、ターゲット確認。",
+    ["DictKey_ActionText_106"] = "",
+    ["DictKey_ActionText_718"] = "",
+    ["DictKey_ActionRadioText_392"] = "2、Fighter to fighterをもう一度",
+    ["DictKey_ActionText_6"] = "V11 bombs",
+    ["DictKey_ActionRadioText_136"] = "周波数変更",
+    ["DictKey_subtitle_228"] = "NIGHTWALKER：Weasels、良好な命中、BDA待機。煙が晴れるまで待て。",
+    ["DictKey_subtitle_684"] = "WEASEL 41 (RAIN): Tower、Weasel 41、ラジャー。",
+    ["DictKey_subtitle_284"] = "COWBOY 31: Cowboy 31、了解。Romeo Oneの東側ステーションへ移動する。",
+    ["DictKey_subtitle_423"] = "VENOM 21: Weasel flight、Venom、攻撃はキャンセル、Romeo One Hotel上空での監視支援を頼む！",
+    ["DictKey_ActionText_803"] = "よしChaos、任務とテープを一緒に見返そう。目標に向かう途中は特に語ることはないな。国境越えでフェンスイン、DarkstarとNightwalkerにチェックインして、そのまま目標攻撃に移った。\
+\
+現地に到着して、俺は爆弾を投下して通信センターを直撃。でもお前は投下しなかった。どうした、スイッチの設定を忘れたか？TGPの操作で手間取ったか？俺の爆風でお前の目標もある程度ダメージは入ったが、それでも任務失敗だ。（マイナス10点）\
+\
+その後、Bone 21とCowboysが目標を叩いてる最中に、敵がFOB UTAHにロケットを撃ち始めた。全機が警戒に入り、味方の位置から南東エリアのスキャンを指示された。脅威を素早く見つけたのはグッジョブだったぞ。\
+\
+すぐさまMaverickとGBUで急降下攻撃に入って、ロケットランチャーを積んだテクニカル2台を破壊、敵兵も散らした。\
+\
+そこから事態は完全に悪化。APC、VBIED、歩兵による本格的な攻撃がFOB UTAHに襲いかかってきた。Venom 21は大忙しで、持てる戦力すべてを指揮して対処してた。俺たちの目標はAPCだったが、お前は外して、VoodooがHellfireで対応する羽目になった。たしかに状況はタイトだったが、こういう時のための訓練だろ？（APC撃破失敗でマイナス20点）\
+\
+その後Darkstarに増援要請して、RTBのクリアをもらった。地上の様子を見る限り、SDFはRaqqa奪還で相当苦戦するだろうな。",
+    ["DictKey_subtitle_71"] = "WEASEL 41 (RAIN): Weasel 41。",
+    ["DictKey_subtitle_465"] = "VENOM 21: Cowboy 31、Sierra Hotel！命中良好！",
+    ["DictKey_subtitle_692"] = "WEASEL 41 (RAIN): Weasel 41、Golf、Hotel経由でHotel 31へタキシー。",
+    ["DictKey_subtitle_712"] = "WEASEL 41 (RAIN): One、フェンスアウト。",
+    ["DictKey_ActionText_25"] = "W32 bomb",
+    ["DictKey_subtitle_290"] = "COWBOY 31: Ninety-nine、警戒しろ、FOB Utah周辺で爆発多数確認。",
+    ["DictKey_subtitle_177"] = "PLAYER：Two、ラジャー。",
+    ["DictKey_subtitle_320"] = "WEASEL 41（RAIN）: Weasel 41、ライフル。",
+    ["DictKey_ActionText_722"] = "（PRIでTOWERにスイッチ）",
+    ["DictKey_ActionText_406"] = "",
+    ["DictKey_ActionText_833"] = "よしChaos、今回の任務とフライトテープを振り返ろう。目標までの行程は特に語ることもない。国境越えでフェンスイン、DarkstarとNightwalkerにチェックインして、そのまま目標攻撃に移行した。\
+\
+俺たちはそれぞれGBU-31を投下し、通信センターと司令部の建物に直撃させて破壊。完璧な命中だった。\
+\
+Bone 21とCowboysがそれぞれの目標を破壊するのを見ていたところで、敵がFOB UTAHに向けてロケットを撃ち始めた。全機に警戒態勢が発令され、味方部隊の南東側をスキャンするよう指示された。お前がすばやく脅威を見つけたのは見事だったよ。\
+\
+俺たちはすぐにMaverickとGBUで突入。俺はMaverickで目標を仕留めたが、お前は外してしまい、JTACがReaperを呼んで片付けることになった。ちょっとガッカリだな。（テクニカル撃破失敗でマイナス15点）\
+\
+そこからが本番だった。FOB UTAHがAPC、VBIED、歩兵による全面攻撃を受けた。Venom 21はとにかく多忙で、手持ちの全戦力を駆使して応戦していた。俺たちの目標はAPCだったが、お前は外して、結局VoodooがHellfireで処理することになった。展開が早かったのはわかるが、だからこそ訓練してるんだろ？（目標撃破失敗でマイナス20点）\
+\
+最後にDarkstarに増援を要請して、RTBがクリアされた。地上の状況を見た感じ、SDFはRaqqa奪還に向けて相当苦戦を強いられるだろうな。",
+    ["DictKey_subtitle_602"] = "PLAYER: Weasel 42。",
+    ["DictKey_subtitle_346"] = "PLAYER: ラジャー。",
+    ["DictKey_ActionText_793"] = "よし、Chaos、一緒に今回の任務とテープを振り返ろう。ターゲットまでの道中は特に問題なし。国境越えでフェンスイン、DarkstarとNightwalkerにチェックインして、そのまま攻撃フェーズに入った。\
+\
+現地に到着して、俺は通信センターに爆弾を投下して直撃だったけど、お前はドライで離脱。どうした？スイッチの設定を忘れたか？TGPの操作ミスか？幸い俺の爆風でお前の目標にも大きなダメージは入ったけど、それでもこれは失敗だ。（マイナス10点）\
+\
+その後、Bone 21とCowboysが目標を叩いてるのを見ていたら、敵がFOB UTAHにロケット攻撃を仕掛けてきた。全機へアラート発令、味方の位置から南東のエリアをスキャンするよう指示された。脅威の特定には少し手間取ったが、最終的には俺が見つけて攻撃に移った。（マイナス5点：発見の遅れ）\
+\
+俺たちはすぐにMaverickとGBUでロールインして、ロケットランチャーを積んだテクニカル2台を撃破、敵兵も散らした。\
+\
+で、そこからが本番。FOB UTAHに対して、装甲車、VBIED、歩兵による全面攻撃が始まった。Venom 21はとにかく忙しく、ありったけの戦力を使って脅威に対応してたな。\
+\
+俺たちの目標はAPCで、しっかり2両とも撃破。弾も尽きてウィンチェスターになった。\
+\
+その後、Darkstarに増援を要請して、RTBの許可をもらった。地上の戦況を見るに、SDFがRaqqaを奪還するには、相当な苦戦になるだろうな。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_subtitle_686"] = "PLAYER: Tower、Weasel 42、ファイナル、滑走路05。",
+    ["DictKey_subtitle_519"] = "COWBOY 32: Cowboy 32、受信準備完了。",
+    ["DictKey_ActionRadioText_96"] = "周波数変更",
+    ["DictKey_ActionRadioText_402"] = "2、Fighter to fighterをもう一度",
+    ["DictKey_subtitle_67"] = "WEASEL 41 (RAIN): Weasel 41、離陸許可、滑走路05。",
+    ["DictKey_ActionRadioText_495"] = "2、繰り返しを求める",
+    ["DictKey_ActionRadioText_774"] = "フェンスアウト",
+    ["DictKey_subtitle_664"] = "APPROACH: Weasel、Approach、スイッチクリア。",
+    ["DictKey_subtitle_147"] = "WEASEL 41（RAIN）：Darkstar、Weasel 41、ラジャー。",
+    ["DictKey_subtitle_734"] = "PLAYER: 着陸許可、滑走路05。",
+    ["DictKey_subtitle_292"] = "NIGHTWALKER: Cowboy、Nightwalker、了解。全機、Romeo Oneの南側エリアをスキャンせよ。",
+    ["DictKey_subtitle_145"] = "DARKSTAR：Weasel 41、Darkstar、ラジャー。TexacoはトラックEcho上、ShellはトラックNovember上。Bone 21は予定通り。Blackbird 51はGaziantep南でCAP中。ピクチャークリーン。",
+    ["DictKey_ActionText_97"] = "",
+    ["DictKey_subtitle_672"] = "INCIRLIK TOWER: Weasel 31、Tower。1500フィートMSLまで降下、滑走路05へのストレートイン・アプローチ。5マイル手前で初期連絡を。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_subtitle_52"] = "WEASEL 41 (RAIN): ラジャー、PRI Groundへプッシュ。タキシー準備できたら知らせてくれ。",
+    ["DictKey_subtitle_282"] = "NIGHTWALKER: Cowboy flight、Charlie AlphaおよびBravoに命中良好。",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_subtitle_308"] = "VENOM 21: Weasel 41、Venom 21、交戦を許可する。タイミングはそちらの任意で。",
+    ["DictKey_subtitle_614"] = "CHECKMATE 61: Darkstar、Checkmate 61、Romeo接近中、Nightwalkerへスイッチ。",
+    ["DictKey_subtitle_515"] = "NIGHTWALKER: Venom、Voodoo 21が交戦に入る。",
+    ["DictKey_subtitle_50"] = "PLAYER: Two、ATIS取得、AUX 1へ復帰。",
+    ["DictKey_ActionText_32"] = "",
+    ["DictKey_subtitle_54"] = "PLAYER: Two、タキシー準備完了。",
+    ["DictKey_ActionRadioText_403"] = "",
+    ["DictKey_subtitle_258"] = "COWBOY 31: Nightwalker、Cowboy 31。",
+    ["DictKey_subtitle_304"] = "COWBOY 31: Venom 21、Cowboy 31、了解。",
+    ["DictKey_subtitle_149"] = "COWBOY 31：Darkstar、Cowboy 31、F-15E×2、Romeoへ向かってる。",
+    ["DictKey_ActionRadioText_126"] = "周波数変更",
+    ["DictKey_subtitle_586"] = "DARKSTAR: Weasel 41、少し待て。",
+    ["DictKey_subtitle_590"] = "WEASEL 41 (RAIN): 感謝する。",
+    ["DictKey_subtitle_358"] = "PLAYER: 視認した。",
+    ["DictKey_subtitle_151"] = "DARKSTAR：Cowboy 31、Darkstar、ラジャー。TexacoはトラックEcho上、ShellはトラックNovember上。Blackbird 51はGaziantep南でCAP中。ピクチャークリーン。",
+    ["DictKey_ActionRadioText_389"] = "",
+    ["DictKey_subtitle_244"] = "WEASEL 41（RAIN）：Weasels、fighter to fighter。Trail、shooter - shooter、GBU-31、北西からイン、南へ離脱。",
+    ["DictKey_ActionText_86"] = "（AUXでATISを受信、その後AUXをチャンネル1に戻せ）  ",
+    ["DictKey_subtitle_750"] = "PLAYER: Ground、Weasel 42、誘導路Echo上。",
+    ["DictKey_ActionRadioText_768"] = "フェンスイン",
+    ["DictKey_subtitle_568"] = "PLAYER: Two。",
+    ["DictKey_subtitle_322"] = "PLAYER: Weasel 42、兵装投下。",
+    ["DictKey_subtitle_296"] = "NIGHTWALKER: Venom 21、こちらNightwalker。そちらの上空には、F-16×2のWeasel、F-15E×2のCowboy、それにMQ-9のVoodooがいる。全機武装済み。",
+    ["DictKey_ActionText_113"] = "",
+    ["DictKey_subtitle_318"] = "NIGHTWALKER: Weasel 41、実行可能。",
+    ["DictKey_ActionRadioText_401"] = "1、了解",
+    ["DictKey_subtitle_598"] = "NIGHTWALKER: Weasel flight、支援に感謝。RTB許可。",
+    ["DictKey_subtitle_532"] = "COWBOY 32: Cowboy 32、西からアプローチ。",
+    ["DictKey_subtitle_736"] = "INCIRLIK TOWER: Weasel 42、誘導路Deltaへ、Groundへスイッチ。",
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_subtitle_608"] = "WEASEL 41 (RAIN): Darkstar、少々待て。",
+    ["DictKey_subtitle_738"] = "PLAYER: Tower、Weasel 42、スイッチする。",
+    ["DictKey_ActionRadioText_379"] = "1、視認した",
+    ["DictKey_ActionRadioText_397"] = "",
+    ["DictKey_ActionRadioText_398"] = "",
+    ["DictKey_subtitle_654"] = "PLAYER: Two。",
+    ["DictKey_ActionText_18"] = "",
+    ["DictKey_subtitle_505"] = "VENOM 21: 見えてる！",
+    ["DictKey_ActionText_121"] = "（PRIでDEPARTUREにスイッチ）",
+    ["DictKey_subtitle_310"] = "WEASEL 41（RAIN）: Venom 21、Weasel 41、了解。攻撃態勢に入る！",
+    ["DictKey_subtitle_622"] = "TIGER 31: Tiger 31、Killbox Golf上空、目標を発見できず。他に任務はあるか？",
+    ["DictKey_subtitle_77"] = "DEPARTURE: Weasel 41、Departure、レーダーコンタクト。6000フィートまで上昇、Falcon exitへ直行、その後ナビゲーション自主復帰。",
+    ["DictKey_ActionText_19"] = "",
+    ["DictKey_subtitle_417"] = "VENOM 21: Mk82を6発一連で、白煙から南東50メートル、西から東への進入。",
+    ["DictKey_subtitle_286"] = "PLAYER: おい、あの橋まだ残ってんのかよ?!",
+    ["DictKey_ActionRadioText_387"] = "1、視認した",
+    ["DictKey_subtitle_155"] = "BLACKBIRD 51：Darkstar、Blackbird 51、リクエストピクチャー。",
+    ["DictKey_ActionText_797"] = "よし、Chaos、一緒に今回の任務とテープを振り返ろう。ターゲットまでの道中は特に語ることはないな。国境越えでフェンスインして、DarkstarとNightwalkerにチェックイン、そのまま目標に向かった。\
+\
+現地に到着して、俺は通信センターに爆弾を落として命中。けどお前はドライで離脱。どうした？スイッチの設定忘れたか？TGPの操作ミスったか？幸運にも俺の爆風でお前の目標も大きく損傷したが、それでもこれは失敗だ。（マイナス10点）\
+\
+Bone 21とCowboysがターゲットを吹き飛ばしてるのを見ていたら、敵がFOB UTAHにロケットを撃ち込んできた。全機に警戒がかかって、味方の位置から南東をスキャンするように指示された。脅威の特定には時間がかかったが、最終的には俺が発見して攻撃を仕掛けた。（ターゲットを見つけるのに時間がかかったためマイナス5点）\
+\
+すぐにMaverickとGBUでロールイン。俺はMaverickで目標に命中させたが、お前は外した。そのせいでJTACがReaperを呼んで始末する羽目になった。正直あまり褒められたもんじゃないぞ。（テクニカルを仕留められなかったためマイナス15点）\
+\
+そこからが地獄だった。FOB UTAHに対してAPC、VBIED、歩兵による本格的な総攻撃が始まった。Venom 21はフル稼働で手持ちの戦力をすべて指揮して対応していた。\
+\
+俺たちの割り当てはAPCで、両方ともしっかり撃破。ここで弾も尽きてウィンチェスターになった。\
+\
+その後、Darkstarに増援を要請して、RTBのクリアをもらった。地上の戦況を見るに、SDFがRaqqaを解放するには、相当な苦戦が待っているだろうな。",
+    ["DictKey_subtitle_572"] = "PLAYER: Two。",
+    ["DictKey_subtitle_137"] = "WEASEL 41（RAIN）：Weasels、PRIチェック。",
+    ["DictKey_subtitle_479"] = "NIGHTWALKER: Venom、Voodoo 21、アファーム。9ライン受領済み、攻撃体勢に入ってる。",
+    ["DictKey_ActionText_30"] = "橋に命中",
+    ["DictKey_ActionText_373"] = "",
+    ["DictKey_ActionRadioText_725"] = "周波数変更",
+    ["DictKey_subtitle_513"] = "VENOM 21: こっちは目視できていない…交戦規定はセルフディフェンス！直ちにそのトラックを攻撃せよ！",
+    ["DictKey_subtitle_206"] = "WEASEL 41（RAIN）：Weasel 41、コピー準備OK。",
+    ["DictKey_subtitle_368"] = "PLAYER: Two。",
+    ["DictKey_ActionText_11"] = "",
+    ["DictKey_subtitle_382"] = "WEASEL 41（RAIN）: グリッド 37 Sierra、Delta Victor 9427 7603。",
+    ["DictKey_ActionText_730"] = "",
+    ["DictKey_subtitle_58"] = "WEASEL 41 (RAIN): Weasels、ボタン5へ。",
+    ["DictKey_ActionText_107"] = "",
+    ["DictKey_ActionRadioText_191"] = "",
+    ["DictKey_ActionText_811"] = "よしChaos、今回の任務とテープを一緒に振り返ろう。目標到達までに特筆すべきことは特になし。国境越えでフェンスインして、DarkstarとNightwalkerにチェックイン、そのまま目標攻撃に移った。\
+\
+現地に入って、俺は通信センターに爆弾を落として直撃。だがお前の爆弾は目標を外した。ウェイポイントに合わせた事前計画投下でこれは珍しいな… まあ、俺の爆風で相手の目標もかなりダメージを受けたのが救いだが、それでもミッションとしてはよくなかったな。（主目標撃破失敗でマイナス10点）\
+\
+Bone 21とCowboysがそれぞれの目標を破壊している間に、敵がFOB UTAHにロケットを撃ち込み始めた。全機に警戒がかかって、味方の南東をスキャンするよう指示。お前がすぐに脅威を見つけてくれて助かった、ナイスだ。\
+\
+俺たちはMaverickとGBUで即座に反撃、ロケットを積んだテクニカルを2両破壊、敵歩兵も蹴散らした。\
+\
+そこから地獄が始まった。FOB UTAHがAPC、VBIED、歩兵による総攻撃を受けたんだ。Venom 21はフル稼働で、使える戦力を全部指揮して脅威を潰してた。俺たちの担当はAPCで、しっかり2両とも仕留めて、これでウィンチェスター。\
+\
+すべて片付いたあと、Darkstarに増援を要請してRTBの許可を取った。地上の状況を見る限り、SDFはRaqqa奪還で相当な戦いを強いられるだろうな。",
+    ["DictKey_subtitle_678"] = "INCIRLIK TOWER: Weasel 41、Tower、着陸許可、滑走路05、風は095で4。",
+    ["DictKey_subtitle_443"] = "PLAYER: Venom 21、Weasel 42、準備完了。",
+    ["DictKey_ActionRadioText_385"] = "",
+    ["DictKey_subtitle_270"] = "NIGHTWALKER: Bone 21、命中良好、ヒット確認、BDA待機！",
+    ["DictKey_ActionText_196"] = "",
+    ["DictKey_ActionRadioText_391"] = "1、了解",
+    ["DictKey_subtitle_366"] = "WEASEL 41（RAIN）: Wheel、shooter - shooter。AGM-65とGBU-12、北から進入、西へ離脱。目標は西側。",
+    ["DictKey_sortie_5"] = "M11: Battle of Raqqa, part 1",
+    ["DictKey_subtitle_328"] = "PLAYER: Weasel 42、西側のテクニカル撃破。",
+    ["DictKey_subtitle_46"] = "WEASEL 41（RAIN）: よし。ATIS取ってからAUX 1に戻れ。",
+    ["DictKey_subtitle_481"] = "VENOM 21: Voodoo 21、クリアードホット、クリアードホット！",
+    ["DictKey_subtitle_652"] = "WEASEL 41 (RAIN): Weasels、PRIチェック。",
+    ["DictKey_subtitle_517"] = "VENOM 21: Voodoo 21、クリアードホット、クリアードホット！ブレイク、Cowboy 32、9ライン行くぞ。",
+    ["DictKey_subtitle_592"] = "WEASEL 41 (RAIN): Nightwalker、Weasel 41。",
+    ["DictKey_subtitle_141"] = "PLAYER：Weasel 42。",
+    ["DictKey_subtitle_44"] = "PLAYER: Two。",
+    ["DictKey_subtitle_708"] = "PLAYER: Two。",
+    ["DictKey_ActionText_8"] = "V12 bombs",
+    ["DictKey_ActionText_27"] = "W33 bomb",
+    ["DictKey_ActionRadioText_497"] = "2、繰り返しを求める",
+    ["DictKey_subtitle_775"] = "",
+    ["DictKey_subtitle_477"] = "VENOM 21: Weasel 42、攻撃中止しろ…時間かかりすぎだ！ブレイク、ブレイク。Nightwalker、Voodooは東側のAPCを攻撃可能か？",
+    ["DictKey_subtitle_509"] = "VENOM 21: クソっ…！VBIEDが最優先目標だ。ブレイク。Nightwalker、VBIEDを確認してるか？",
+    ["DictKey_ActionText_805"] = "よしChaos、今回の任務とテープを一緒に見直そう。目標到達までは特に語ることもないな。国境越えでフェンスインして、DarkstarとNightwalkerにチェックイン、そのままターゲット攻撃に入った。\
+\
+現地に入って、俺は通信センターに爆弾を落として直撃したが、お前は投下しなかった。どうした？スイッチ設定を忘れたか、TGP操作で手こずったか？幸い俺の爆風がそっちの目標にもダメージを与えたが、それでも失敗だ。（マイナス10点）\
+\
+Bone 21とCowboysが目標を叩いてる間に、敵がFOB UTAHにロケット攻撃を始めて、全機に警戒が出され、味方位置の南東側をスキャンするよう指示された。素早く脅威を見つけたのはよくやった！\
+\
+MaverickとGBUで即座に攻撃に入り、俺はMaverickで目標をヒット。ただお前はミスして、JTACがReaperを呼ぶことになった。正直、戦果としては微妙だったな。（テクニカル撃破失敗でマイナス15点）\
+\
+そこからFOB UTAHが本格的に襲撃される。APC、VBIED、歩兵が一斉に押し寄せてきた。Venom 21は手持ちの戦力をフル動員して対処してた。俺たちの目標はAPCで、両方ともきっちり撃破、ここで弾切れ。\
+\
+その後Darkstarに増援を要請して、RTBのクリアをもらった。今日の地上の戦況を見るに、SDFはRaqqa奪還で相当苦戦することになりそうだな。",
+    ["DictKey_subtitle_553"] = "COWBOY 32: Cowboy 32、爆弾投下！",
+    ["DictKey_subtitle_109"] = "WEASEL 41（RAIN）：ラジャー、スタンバイ。",
+    ["DictKey_subtitle_487"] = "PLAYER: Two。",
+    ["DictKey_subtitle_278"] = "COWBOY 32: Cowboy 32、兵装投下！",
+    ["DictKey_subtitle_204"] = "NIGHTWALKER：Weasel 41、Nightwalker、ラジャー。Romeo One Hotelのアップデート準備できたら言ってくれ。",
+    ["DictKey_subtitle_580"] = "WEASEL 41 (RAIN): Darkstar、Weasel 41。",
+    ["DictKey_ActionText_34"] = "",
+    ["DictKey_subtitle_314"] = "NIGHTWALKER: Weasel、Nightwalker、視認している。",
+    ["DictKey_subtitle_127"] = "WEASEL 41（RAIN）：Weasels、PRI 6へプッシュ。",
+    ["DictKey_subtitle_184"] = "WEASEL 41（RAIN）：One、フェンスイン。",
+    ["DictKey_subtitle_545"] = "COWBOY 31: Cowboy 31、APCを視認、GBU-12で東から西へのアプローチ、離脱は東。",
+    ["DictKey_ActionText_837"] = "よしChaos、今回の任務とテープを一緒に振り返ろう。目標に向かう途中は特に話すこともない。国境を越えてフェンスイン、DarkstarとNightwalkerにチェックインして、そのまま目標攻撃に入った。\
+\
+俺たちはどちらもGBU-31を投下して、それぞれの建物に直撃させ、通信センターと司令部を破壊した。\
+\
+Bone 21とCowboysが目標を破壊するのを見ていたら、敵がFOB UTAHに向けてロケット攻撃を開始。全機に警戒が出て、味方の位置から南東方向をスキャンするように指示された。発見には少し時間がかかったが、最終的には俺が見つけて新しい目標に攻撃を仕掛けた。（目標発見の遅れでマイナス5点）\
+\
+すぐにMaverickとGBUで突入、ロケットランチャーを積んだテクニカルを2台破壊し、敵兵も散らすことができた。\
+\
+だがそこから状況は一気に悪化。FOB UTAHがAPC、VBIED、それに歩兵による全面攻撃を受けた。Venom 21は大忙しで、持てる戦力をすべて使って脅威の排除にあたっていた。俺たちの目標はAPCだったが、お前はミスして、結局VoodooがHellfireで仕留めることになった。展開が速かったのはわかるが、こういう事態こそが訓練してきた場面だろ？（目標破壊失敗でマイナス20点）\
+\
+その後、Darkstarに増援を要請し、RTBがクリアされた。今日の地上戦の様子を見る限り、SDFはRaqqaの解放に相当苦戦しそうだな。",
+    ["DictKey_subtitle_559"] = "VENOM 21: Cowboy 31、ナイス、APC撃破！",
+    ["DictKey_subtitle_648"] = "WEASEL 41 (RAIN): Two、こっちもビンゴ近い。帰るぞ。",
+    ["DictKey_subtitle_557"] = "COWBOY 31: Cowboy 31、兵装投下！",
+    ["DictKey_ActionText_115"] = "（PRIでTOWERにスイッチ）",
+    ["DictKey_ActionText_16"] = "C33 bombs",
+    ["DictKey_subtitle_236"] = "WEASEL 41（RAIN）：Weasels、テープオン。",
+    ["DictKey_ActionRadioText_381"] = "2、座標をもう一度",
+    ["DictKey_subtitle_75"] = "",
+    ["DictKey_subtitle_302"] = "VENOM 21: Cowboy flight、Venom 21。Utahの西5マイルにステーションを取り、我々から方位200〜270のエリアをスキャンせよ。狙撃を受けている！",
+    ["DictKey_subtitle_250"] = "PLAYER: Two。",
+    ["DictKey_subtitle_421"] = "COWBOY 31: Cowboy 31、西側から進入。",
+    ["DictKey_subtitle_666"] = "WEASEL 41 (RAIN): Weasels、PRIチェック。",
+    ["DictKey_subtitle_222"] = "WEASEL 41（RAIN）：Weasel 41、ウェポンアウェイ。",
+    ["DictKey_subtitle_441"] = "VENOM 21: 復唱良好！Weasel 41、クリアードホット！ブレイクブレイク。Weasel 42、9ラインBravoいくぞ！",
+    ["DictKey_subtitle_240"] = "WEASEL 41（RAIN）：One、ターゲットを確認。",
+    ["DictKey_ActionText_125"] = "",
+    ["DictKey_ActionRadioText_118"] = "周波数変更",
+    ["DictKey_ActionRadioText_390"] = "",
+    ["DictKey_subtitle_680"] = "WEASEL 41 (RAIN): Weasel 41、滑走路05、着陸許可。",
+    ["DictKey_ActionText_253"] = "",
+    ["DictKey_subtitle_409"] = "COWBOY 31: Venom 21、Cowboy 31、応答中、曳光弾視認。",
+    ["DictKey_subtitle_169"] = "WEASEL 41（RAIN）：Darkstar、Weasel 41、Nightwalkerへスイッチ。",
+    ["DictKey_subtitle_503"] = "NIGHTWALKER: Venom、Nightwalker、さらに1両のAPCがそっちの位置から西の道路に入ったのを確認。",
+    ["DictKey_subtitle_439"] = "WEASEL 41（RAIN）: Weasel 41、AGM-65、東から西へ進入。",
+    ["DictKey_subtitle_73"] = "WEASEL 41 (RAIN): Departure、Weasel 41 flight、離陸完了。",
+    ["DictKey_subtitle_549"] = "NIGHTWALKER: Voodoo 21、ライフル！",
+    ["DictKey_subtitle_630"] = "TIGER 31: Darkstar、Tiger 31、状況変更。帰投が必要。",
+    ["DictKey_subtitle_143"] = "WEASEL 41（RAIN）：Darkstar、Weasel 4フライト、F-16×2、計画通り。",
+    ["DictKey_ActionText_825"] = "よしChaos、今回の任務とテープを一緒に見ていこう。目標までの道中は特に話すこともないな。国境を越えるタイミングでフェンスインして、DarkstarとNightwalkerにチェックイン、そのまま目標攻撃に入った。\
+\
+現地に着いて、俺は爆弾を投下して通信センターへ命中。ただお前のは外れてたな。ウェイポイントに合わせた計画投下で外すのは珍しいぞ？まあ俺の爆風でお前の目標もかなりの損害を受けたからよかったが、それでも結果としては失敗だ。（主目標未破壊でマイナス10点）\
+\
+Bone 21とCowboysが目標を破壊するのを見てたら、敵がFOB UTAHに向けてロケットを撃ってきた。全機が警戒態勢に入り、味方部隊の南東をスキャンするよう指示された。敵の位置を見つけるのに時間はかかったが、最終的には俺が発見して新たな目標に攻撃を仕掛けた。（目標発見の遅れでマイナス5点）\
+\
+すぐにMaverickとGBUで攻撃に入り、ロケットランチャー搭載のテクニカルを2台破壊、敵兵を散開させた。\
+\
+その後、一気に事態が悪化。FOB UTAHにAPC、VBIED、歩兵による全面攻撃が始まった。Venom 21はフル稼働で、持てる戦力をすべて使って脅威排除にあたっていた。俺たちの目標はAPCで、俺は予定通り処理したけど、お前は外してVoodooがHellfireで対応する羽目になった。状況が速かったのは分かるが、こういうときのために訓練してるんだろ？（目標未破壊でマイナス20点）\
+\
+それが終わったあと、Darkstarに増援を要請して、RTB許可が出た。今日地上で起きたことを見てると、SDFがRaqqaを解放するには相当な戦いになるだろうな。",
+    ["DictKey_subtitle_620"] = "DARKSTAR: Tiger 31、どうぞ。",
+    ["DictKey_subtitle_362"] = "WEASEL 41（RAIN）: Two、fighter to fighter、待機。",
+    ["DictKey_ActionText_12"] = "C31 bombs",
+    ["DictKey_subtitle_48"] = "PLAYER: Two、コピー。",
+    ["DictKey_ActionRadioText_388"] = "2、座標をもう一度",
+    ["DictKey_ActionRadioText_719"] = "周波数変更",
+    ["DictKey_ActionRadioText_494"] = "1、復唱する",
+    ["DictKey_subtitle_530"] = "VENOM 21: Voodoo 21、なんてこった、満載だったな。吹き飛んだ！ブレイク、ブレイク。Cowboy 32、復唱良好、クリアードホット！",
+    ["DictKey_subtitle_463"] = "COWBOY 31: Cowboy 31、爆弾投下。",
+    ["DictKey_subtitle_547"] = "VENOM 21: 復唱良好、指揮官コードはDelta Juliet、交戦許可！",
+    ["DictKey_subtitle_300"] = "WEASEL 41（RAIN）: Venom、Weasel flight、捜索中。",
+    ["DictKey_subtitle_238"] = "PLAYER：Two。",
+    ["DictKey_subtitle_521"] = "VENOM 21: Cowboy 32、1から4はN/A、歩兵は樹林帯の縁、青煙でマーキング済み、150メートル北、離脱は東へ。",
+    ["DictKey_subtitle_534"] = "VENOM 21: ラジャー！ブレイク、Weasel 41、準備できたら言ってくれ。",
+    ["DictKey_subtitle_274"] = "BONE 21: Bone 21、了解。",
+    ["DictKey_subtitle_670"] = "WEASEL 41 (RAIN): Incirlik Tower、こちらWeasel 41、2機編隊、Eagle経由で滑走路05をリクエスト。",
+    ["DictKey_ActionText_21"] = "",
+    ["DictKey_ActionText_765"] = "",
+    ["DictKey_subtitle_181"] = "PLAYER：Two、フェンスイン。",
+    ["DictKey_subtitle_449"] = "PLAYER: Venom、東側の道路上のAPC確認。リマーク準備OK。",
+    ["DictKey_ActionRadioText_764"] = "周波数変更完了",
+    ["DictKey_ActionText_93"] = "（PRIをGROUNDに切り替えろ）",
+    ["DictKey_subtitle_628"] = "TIGER 31: Darkstar、Tiger 31、了解。",
+    ["DictKey_ActionRadioText_404"] = "",
+    ["DictKey_subtitle_407"] = "VENOM 21: Weasel 41、Venom 21、了解、お前らは……ブレイクブレイク！警戒しろ、我々の位置の南側、森林の縁から激しい攻撃を受けている！Cowboy 31、応答できるか？",
+    ["DictKey_subtitle_644"] = "PLAYER: One、Twoはビンゴ。",
+    ["DictKey_subtitle_139"] = "",
+    ["DictKey_subtitle_636"] = "PLAYER: Two。",
+    ["DictKey_subtitle_348"] = "PLAYER: One、Two、Utahの南東2マイル、川の南岸にテクニカル集団を確認、ロケットランチャー装備。",
+    ["DictKey_subtitle_660"] = "WEASEL 41 (RAIN): Weasel 41、Eagleで5000フィートへ降下、Towerへスイッチ、滑走路05でビジュアル。",
+    ["DictKey_subtitle_208"] = "NIGHTWALKER：Weasel flight、2 Novemberは有効。ターゲット周辺に小火器および軽AAAあり。自機スタックにUAV×2あり、BDA監視中。指定目標への攻撃を許可する。",
+    ["DictKey_ActionText_394"] = "（F10ラジオメニューでFighter to fighterの説明を確認、またはMenaceに繰り返しを依頼）",
+    ["DictKey_subtitle_511"] = "NIGHTWALKER: Venom、確認済み。そっちに向かってる！",
+    ["DictKey_subtitle_212"] = "BONE 21：Nightwalker、Bone 21。",
+    ["DictKey_subtitle_435"] = "WEASEL 41（RAIN）: Weasel 41、APCは開けた場所にあり。リマーク準備OK。",
+    ["DictKey_subtitle_475"] = "VENOM 21: Weasel 42、Venom 21。ダメだ、APCへの効果なし！",
+    ["DictKey_subtitle_288"] = "WEASEL 41（RAIN）: 知るかよ……",
+    ["DictKey_subtitle_662"] = "WEASEL 41 (RAIN): Approach、Weasel 41、Eagle通過、Towerへスイッチ。",
+    ["DictKey_subtitle_370"] = "PLAYER: One、Two、もう一度教えてくれ。",
+    ["DictKey_subtitle_342"] = "WEASEL 41（RAIN）: Venom 21、Weasel 41、テクニカル3両撃破。必要であれば残敵掃討を実施する。",
+    ["DictKey_ActionRadioText_134"] = "周波数変更",
+    ["DictKey_ActionText_698"] = "（PRIでAPPROACHにスイッチ）",
+    ["DictKey_subtitle_576"] = "PLAYER: 俺は間に合う。",
+    ["DictKey_subtitle_200"] = "PLAYER：Weasel 42。",
+    ["DictKey_subtitle_690"] = "INCIRLIK GROUND: Weasel 41、Ground、誘導路Golf、Hotel経由でHotel 31へタキシー。",
+    ["DictKey_subtitle_230"] = "NIGHTWALKER：Weasel flight、Nightwalker、両目標破壊、作戦目的達成。攻撃エリアからの離脱を許可する。",
+    ["DictKey_subtitle_578"] = "WEASEL 41 (RAIN): こっちも同じだ。よし。",
+    ["DictKey_subtitle_161"] = "BONE 21：Darkstar、Bone 21。",
+    ["DictKey_subtitle_634"] = "WEASEL 41 (RAIN): Weasels、ボタン5へ。",
+    ["DictKey_subtitle_364"] = "PLAYER: Two、準備OK。",
+    ["DictKey_ActionText_31"] = "目標に命中",
+    ["DictKey_ActionText_839"] = "よしChaos、今回の任務とテープを一緒に振り返ろう。目標に向かう途中は特に語ることもない。国境越えでフェンスイン、DarkstarとNightwalkerにチェックイン、そのまま目標攻撃に入った。\
+\
+俺たちはそれぞれGBU-31を投下して、通信センターと司令部の建物に直撃。どちらも破壊できた。\
+\
+Bone 21とCowboysが目標を破壊するのを見ていたところ、敵がFOB UTAHに向けてロケット攻撃を開始。全機に警戒が出され、味方の位置から南東方向のスキャンを指示された。素早く脅威を発見できたな、よくやった！\
+\
+すぐにMaverickとGBUで突入。俺はMaverickで目標を破壊したが、お前は外して、結局JTACがReaperを呼んで片付ける羽目になった。あれはちょっといただけなかったな。（テクニカルを破壊できずマイナス15点）\
+\
+その後、状況は一気に悪化。FOB UTAHがAPC、VBIED、歩兵による全面攻撃を受けた。Venom 21は持てる戦力をフル活用して脅威の排除に奔走してた。俺たちの目標はAPCで、2両ともきっちり仕留めて、ここで武装は使い切った。\
+\
+その後、Darkstarに増援を要請してRTBがクリアされた。今日の地上戦を見る限り、SDFはRaqqaの奪還でかなり苦戦を強いられるだろうな。",
+    ["DictKey_ActionText_252"] = "",
+    ["DictKey_subtitle_153"] = "COWBOY 31：Darkstar、Cowboy 31、ラジャー。",
+    ["DictKey_ActionRadioText_845"] = "周波数変更完了",
+    ["DictKey_subtitle_159"] = "BLACKBIRD 51：Blackbird 51、ラジャー。",
+    ["DictKey_subtitle_618"] = "TIGER 31: Darkstar、Tiger 31。",
+    ["DictKey_ActionText_791"] = "よし、Chaos、一緒に任務とテープを振り返ろう。ターゲットに向かう途中は特に語ることもないな。国境越えてフェンスイン、DarkstarとNightwalkerにチェックインして、そのまま目標攻撃に入った。\
+\
+エリアに到着して、俺は爆弾を投下、通信センターに命中。だけどお前は投下しなかった、どうした？スイッチのセット忘れたか、TGPの操作で手間取ったか？幸い俺の爆風がそっちの目標にもかなりダメージを与えてたが、それでも失敗には違いない。（マイナス10点だ）\
+\
+そのあと、Bone 21とCowboysが目標を破壊してるのを見てたら、敵がFOB UTAHへロケット攻撃をしてきた。全機へアラートが出て、味方の位置から南東をスキャンするよう指示が出た。お前がすぐに脅威を見つけたのはナイスだったな。\
+\
+俺たちはすぐにMaverickとGBUで攻撃に入り、ロケットランチャー搭載のテクニカルを2台撃破、敵兵を散開させた。\
+\
+で、そこからが本番だった。FOB UTAHへの本格的な攻撃が始まって、装甲車、VBIED、歩兵まで投入されてきた。Venom 21は大忙しで、使える戦力を総動員して脅威を潰してたな。\
+\
+俺たちの目標は装甲車で、2台ともしっかり仕留めた時点で弾薬はゼロ、ウィンチェスター。\
+\
+その後Darkstarに増援を要請して、RTBの許可をもらった。今日の地上の状況を見る限り、SDFはRaqqa奪還に相当苦労しそうだ。",
+    ["DictKey_subtitle_65"] = "INCIRLIK TOWER: Weasel 41、Tower、離陸許可、滑走路05、風は070から4ノット。",
+    ["DictKey_ActionRadioText_108"] = "タキシー準備完了",
+    ["DictKey_ActionText_813"] = "よしChaos、今回の任務とテープを一緒に見返そう。目標までの道中は特に話すことはないな。国境を越えてフェンスイン、DarkstarとNightwalkerにチェックインして、そのまま攻撃に入った。\
+\
+目標エリアに到着して、俺は通信センターに爆弾を落とし直撃させたけど、お前は外したな。ウェイポイントに合わせた事前投下で外すのは珍しいぞ… 幸いにも俺の爆風がそっちの目標にも大きなダメージを与えたけど、それでも失敗だ。（主目標を破壊できずマイナス10点）\
+\
+Bone 21とCowboysが目標を破壊しているのを見ていたら、敵がFOB UTAHにロケットを撃ち込んできて、全機がアラートに入り、味方の南東エリアをスキャンするよう指示された。発見まで少し時間がかかったけど、最終的には俺が見つけて、新たな目標を攻撃した。（目標発見に遅れ、マイナス5点）\
+\
+その後はMaverickとGBUで即座に攻撃、ロケットランチャー搭載のテクニカル2両を撃破、敵兵も散らした。\
+\
+そこから状況は一気に悪化。APC、VBIED、歩兵によるFOB UTAHへの本格攻撃が始まった。Venom 21はフル回転で手持ちの戦力を全部動かして対応してた。俺たちの目標はAPCで、きっちり2両とも撃破してこの時点でウィンチェスター。\
+\
+すべて終わったあと、Darkstarに増援を要請してRTBの許可をもらった。地上の状況を見るに、SDFはRaqqa奪還で相当な激戦を強いられるだろうな。",
+    ["DictKey_subtitle_42"] = "WEASEL 41（RAIN）: Weasels、AUXチェック。",
+    ["DictKey_subtitle_447"] = "VENOM 21: Weasel 42、Venom、9ライン Bravo。1〜4はN/A、東側のAPC、マーク無し、170メートル西、離脱は南。",
+    ["DictKey_ActionText_827"] = "よしChaos、今回の任務とテープを一緒に見ていこう。目標までの道中は特に語ることもないな。国境越えでフェンスイン、DarkstarとNightwalkerにチェックインして、あとは予定通り攻撃に移った。\
+\
+俺たちはそれぞれGBU-31を投下、どちらも建物に直撃して通信センターと司令部を破壊した。\
+\
+Bone 21とCowboysが目標を破壊するのを見ていると、敵がFOB UTAHに向けてロケットを撃ってきた。全機が警戒態勢に入り、味方部隊の南東エリアをスキャンするよう指示された。脅威を見つけるのに少し時間がかかったが、最終的には俺が見つけて新たな目標を攻撃した。（目標の初動発見遅れでマイナス5点）\
+\
+すぐにMaverickとGBUで突入し、ロケットランチャーを積んだテクニカルを2台破壊、敵兵も散開させた。\
+\
+そして本格的な攻撃が始まった。FOB UTAHに対してAPC、VBIED、歩兵が一斉に襲いかかってきた。Venom 21は大忙しで、持てる戦力をフル活用して脅威を排除していた。俺たちの担当はAPCで、どちらもしっかり撃破。ここで弾薬はすべて使い切ってウィンチェスター。\
+\
+その後、Darkstarに増援を要請してRTB許可が出た。今日地上で起きた状況を見る限り、SDFがRaqqaを解放するには相当な戦いになるだろうな。",
+    ["DictKey_ActionText_190"] = "",
+    ["DictKey_subtitle_527"] = "COWBOY 32: Cowboy 32、Mk82を6発、青煙から南西100メートル。",
+    ["DictKey_ActionText_499"] = "（F10ラジオメニューで9ラインの復唱、またはVenomに繰り返しを依頼）",
+    ["DictKey_subtitle_354"] = "WEASEL 41（RAIN）: Two、ロケット搭載のテクニカル集団を確認。川の南岸、森林の中。グリッド 37 Sierra、Delta Victor 9427 7603。",
+    ["DictKey_subtitle_606"] = "DARKSTAR: Weasel 41、Darkstar、了解。TexacoはEchoコースで大規模ストライク編隊に給油支援中、Shellは不具合で離脱済み。燃料状況は？",
+    ["DictKey_subtitle_688"] = "WEASEL 41 (RAIN): Ground、Weasel 41、滑走路05を離脱、Deltaへ合流。",
+    ["DictKey_ActionText_817"] = "よしChaos、今回の任務とテープを一緒に振り返ろう。目標に向かう途中は特に言うことなし。国境を越えてフェンスイン、DarkstarとNightwalkerにチェックインして、あとは目標攻撃に入った。\
+\
+現地に着いて、俺は通信センターに爆弾を落として命中させたけど、お前のは外れたな。ウェイポイントに合わせた事前投下で外すとは珍しいぞ。運良く俺の爆風でお前の目標にも大きなダメージは入ったが、それでもこれは失敗だ。（主目標を破壊できずマイナス10点）\
+\
+Bone 21とCowboysが目標を破壊してるのを見てたら、敵がFOB UTAHにロケットを撃ち込んできて、全機に警戒が出て味方の南東をスキャンするよう指示が出た。見つけるまでに時間がかかったが、最終的には俺が発見して新たな目標に攻撃をかけた。（目標の発見が遅れてマイナス5点）\
+\
+MaverickとGBUで即座に攻撃に入った。俺はMaverickで目標を撃破したが、お前は外して、JTACがReaperを呼んで処理することになった。腕前としてはちょっと微妙だったな。（テクニカルを破壊できずマイナス15点）\
+\
+そこから地獄の本番。APC、VBIED、歩兵によるFOB UTAHへの総攻撃だ。Venom 21はフル稼働で、持ってる戦力を総動員して敵を潰していた。俺たちの目標はAPCで、で、Chaos、お前は外してVoodooがHellfireで処理する羽目になったな。展開が速かったのは分かるが、こういう状況のために訓練してるんだぜ？（目標を破壊できずマイナス20点）\
+\
+すべて片付いたあと、Darkstarに増援を要請してRTB許可をもらった。地上の様子を見るに、SDFがRaqqaを解放するには相当な戦いになるだろうな。",
+    ["DictKey_subtitle_682"] = "INCIRLIK TOWER: Weasel 41、誘導路Deltaへ、Groundへスイッチ。",
+    ["DictKey_ActionText_395"] = "（F10ラジオメニューで敵を確認したことを伝えるか、Menaceに座標の繰り返しを依頼）",
+    ["DictKey_ActionText_29"] = "爆弾投下",
+    ["DictKey_subtitle_638"] = "WEASEL 41 (MENEACE): Weasels、ボタン4へ。",
+    ["DictKey_subtitle_91"] = "PLAYER: Two。",
+    ["DictKey_subtitle_425"] = "WEASEL 41（RAIN）: Weasel 41、了解。ブレイクブレイク。Two、再編隊。",
+    ["DictKey_subtitle_427"] = "WEASEL 41（RAIN）: Venom 21、Weasel 41、警戒しろ、ターゲットが1……いや訂正、2両のAPCが森林から出てきた、お前の位置の南側だ！",
+    ["DictKey_subtitle_69"] = "INCIRLIK TOWER: Weasel 41、Departureにスイッチ。",
+    ["DictKey_ActionRadioText_101"] = "周波数変更",
+    ["DictKey_ActionText_85"] = "",
+    ["DictKey_subtitle_570"] = "WEASEL 41 (RAIN): Weasels、PRI 6へプッシュ。",
+    ["DictKey_subtitle_344"] = "WEASEL 41（RAIN）: Two、FOB Utahの南東をスキャンしろ。",
+    ["DictKey_ActionRadioText_377"] = "シューターを確認",
+    ["DictKey_subtitle_755"] = "BONE 21: Bone 21、投下まで10分。",
+    ["DictKey_ActionRadioText_384"] = "",
+    ["DictKey_subtitle_419"] = "VENOM 21: 復唱良好。やれ！クリアードホット！",
+    ["DictKey_subtitle_186"] = "WEASEL 41（RAIN）：Weasels、PRI 8へプッシュ。",
+    ["DictKey_ActionText_694"] = "（PRIでDARKSTARにスイッチ）",
+    ["DictKey_ActionText_821"] = "よしChaos、今回の任務とテープを一緒に見直そう。目標までの道中は特に語ることもない。国境を越えたところでフェンスインして、DarkstarとNightwalkerにチェックイン、そのまま目標攻撃に入った。\
+\
+現地に着いて俺は通信センターに爆弾を投下して直撃だったけど、お前のは外してたな。ウェイポイントに合わせた事前設定の投下で外すのはそうそうないぞ？まあ俺の爆風で相手の目標もかなり損傷したからよかったが、それでもミッションとしては失敗だ。（主目標未破壊でマイナス10点）\
+\
+Bone 21とCowboysが自分の目標をしっかり潰してる中、敵がFOB UTAHにロケット撃ち込み始めた。全機警戒態勢に入り、味方の南東側をスキャンするように指示が出た。脅威を素早く見つけたのはよくやった、ナイスだ。\
+\
+すぐにMaverickとGBUで攻撃に入って、ロケットランチャー搭載のテクニカル2台を撃破、敵歩兵も散らすことができた。\
+\
+その直後、本格的な攻撃が始まった。FOB UTAHに対して、APC、VBIED、歩兵の総攻撃だ。Venom 21はマジで忙しかったぞ、使えるアセット全部使って敵を排除してた。俺たちの目標はAPCだったが、お前はまた外して、VoodooがHellfireで対応することになった。展開が速かったのはわかるが、こういう状況のために俺たちは訓練してきたんだろ？（目標未破壊でマイナス20点）\
+\
+その後、Darkstarに増援を要請して、RTBの許可が下りた。地上で起きてたことを考えると、SDFはRaqqa奪還で相当な激戦を迎えることになるだろうな。",
+    ["DictKey_subtitle_234"] = "WEASEL 41（RAIN）：Nightwalker、Weasel 41、ラジャー。",
+    ["DictKey_subtitle_744"] = "PLAYER: Weasel 42、Delta、Golf、Hotel経由でHotel 30へタキシー。",
+    ["DictKey_subtitle_451"] = "PLAYER: Venom、東側の道路上のAPC確認。リマーク準備OK。",
+    ["DictKey_subtitle_188"] = "",
+    ["DictKey_ActionText_500"] = "",
+    ["DictKey_subtitle_40"] = "WEASEL 41（RAIN）: Weasel 41、タキシーアルファ、05手前で待機。",
+    ["DictKey_ActionText_35"] = "C32 bomb away",
+    ["DictKey_ActionText_823"] = "よしChaos、今回の任務とテープを一緒に見返そう。目標までの道中は特に話すこともないな。国境越えでフェンスイン、DarkstarとNightwalkerにチェックインして、そのまま目標攻撃に移った。\
+\
+現地に到着して、俺は通信センターに爆弾を落として直撃させたが、お前のは外れてたな。ウェイポイントに基づいた事前計画投下で外すのはあんまりないぞ？幸いにも俺の爆風が相手の施設に大ダメージを与えたから何とかなったが、それでも目標破壊失敗だ。（主目標未破壊でマイナス10点）\
+\
+Bone 21とCowboysが目標を破壊するのを見ていたところ、FOB UTAHに向けて敵がロケットを撃ち始め、全機に警戒と味方部隊の南東側のスキャンが指示された。脅威を素早く見つけたのは見事だった、ナイスだ。\
+\
+すぐにMaverickとGBUで攻撃に入り、俺はMaverickで目標をヒット。ただ、お前はミスって、JTACがReaperを呼んで代わりに処理することになった。ちょっとこれは見せられる腕前じゃなかったな。（テクニカル未破壊でマイナス15点）\
+\
+そして本格的な攻撃が始まった。FOB UTAHに対してAPC、VBIED、歩兵が一斉に襲ってきた。Venom 21はフル稼働で、使える全戦力を使って脅威排除してた。俺たちの目標はAPCで、しっかり2両とも落とした。ここで俺たちはウィンチェスター。\
+\
+そのあとDarkstarに増援を要請して、RTB許可が出た。今日地上で起きたことを考えると、SDFはRaqqa奪還で相当な苦戦を強いられるだろうな。",
+    ["DictKey_ActionText_13"] = "C32 bombs",
+    ["DictKey_subtitle_129"] = "WEASEL 41（RAIN）：Weasel 41、了解、サンキュー。",
+    ["DictKey_ActionText_400"] = "",
+    ["DictKey_subtitle_248"] = "WEASEL 41（RAIN）: Weasels、ウェイポイント4へ移動。",
+    ["DictKey_subtitle_336"] = "WEASEL 41（RAIN）: Nightwalker、Weasel 41、西側テクニカルへの再攻撃を許可する。",
+    ["DictKey_ActionText_405"] = "",
+    ["DictKey_subtitle_81"] = "WEASEL 41 (RAIN): Weasel 41、Falcon exit通過。",
+    ["DictKey_subtitle_332"] = "PLAYER: Weasel 42、西側には効果なし。",
+    ["DictKey_ActionRadioText_763"] = "周波数変更完了",
+    ["DictKey_subtitle_60"] = "WEASEL 41 (RAIN): Tower、Weasel 41 flight、05滑走路手前で待機中、1番機。",
+    ["DictKey_ActionRadioText_705"] = "周波数変更",
+    ["DictKey_ActionText_795"] = "",
+    ["DictKey_subtitle_360"] = "PLAYER: One、Two、座標もう一度頼む。",
+    ["DictKey_ActionText_23"] = "",
+    ["DictKey_subtitle_411"] = "VENOM 21: Cowboy 31、Venom、9ライン行くぞ！タイプ2、1から4はN/A、森林の縁にいる歩兵を攻撃、白煙を目印にせよ。150メートル北西へ投下、離脱は東へ。",
+    ["DictKey_subtitle_171"] = "DARKSTAR：Weasel 41、Darkstar、スイッチクリア。",
+    ["DictKey_subtitle_523"] = "COWBOY 32: Cowboy 32、歩兵を確認、リマーク要求。",
+    ["DictKey_subtitle_431"] = "WEASEL 41（RAIN）: Weasel、送れ。",
+    ["DictKey_subtitle_334"] = "NIGHTWALKER: Weasel 41、Voodooが西側テクニカルを再攻撃予定。",
+    ["DictKey_ActionText_102"] = "（タキシー準備ができたらF10ラジオメニューを使用）",
+    ["DictKey_ActionText_131"] = "（PRIでDARKSTARにスイッチ）",
+    ["DictKey_subtitle_600"] = "WEASEL 41 (RAIN): Weasel 41、PRIチェック。",
+    ["DictKey_subtitle_650"] = "PLAYER: 了解。",
+    ["DictKey_ActionRadioText_773"] = "フェンスアウト",
+    ["DictKey_subtitle_214"] = "NIGHTWALKER：Bone 21、Nightwalkerへ送信どうぞ。",
+    ["DictKey_subtitle_224"] = "PLAYER：Weasel 42、ワンアウェイ。",
+    ["DictKey_subtitle_674"] = "WEASEL 41 (RAIN): Weasel 41、1500フィートに降下、ストレートイン、滑走路05。",
+    ["DictKey_subtitle_507"] = "COWBOY 31: Venom、Cowboy、警戒しろ、VBIED（車両型即席爆発装置）が北へ向けて交差点手前の道路を進行中！トランクが異常に重そうだ。",
+    ["DictKey_subtitle_467"] = "WEASEL 41（MENEACE）: Weasel 41、ライフル！",
+    ["DictKey_ActionRadioText_729"] = "周波数変更",
+    ["DictKey_subtitle_596"] = "WEASEL 41 (RAIN): VUL終了時刻だ、RTBする。",
+    ["DictKey_ActionText_829"] = "よしChaos、今回の任務とテープを一緒に見ていこう。目標までの道中は特に語ることもないな。国境越えでフェンスイン、DarkstarとNightwalkerにチェックインして、あとは目標攻撃に移った。\
+\
+俺たちはそれぞれGBU-31を投下して、通信センターと司令部を直撃。どちらも見事に破壊した。\
+\
+Bone 21とCowboysが彼らの目標を破壊するのを見ていると、敵がFOB UTAHにロケット攻撃を開始。全機が警戒態勢に入り、味方部隊の南東エリアをスキャンするよう指示された。少し手間取ったが、最終的には俺が見つけて新たな目標に攻撃を仕掛けた。（目標の初動発見遅れでマイナス5点）\
+\
+その後すぐにMaverickとGBUで突入。俺はMaverickで目標を撃破したが、お前は仕留め損ねた。結局JTACがReaperを呼んで片付ける羽目に。正直、あんまり褒められたもんじゃないぞ。（テクニカル撃破失敗でマイナス15点）\
+\
+そして本格的な攻撃が始まった。FOB UTAHに対してAPC、VBIED、歩兵が一斉に襲来。Venom 21は大忙しで、ありったけの戦力を使って脅威を排除していた。俺たちの目標はAPCで、しっかり2両とも撃破。これで弾薬はすべて使い切ってウィンチェスター。\
+\
+その後、Darkstarに増援を要請してRTB許可が出た。今日地上で起きた状況を見るに、SDFがRaqqaを解放するには相当な戦いになるだろうな。",
+    ["DictKey_subtitle_538"] = "VENOM 21: ラジャー、ブレイク。Cowboy 31、弾薬状況を。",
+    ["DictKey_ActionText_111"] = "",
+    ["DictKey_subtitle_455"] = "VENOM 21: お前ふざけてんのか？9ラインBravo、1〜4はN/A、東側の道路上のAPC、マーク無し、170メートル東、離脱は南。",
+    ["DictKey_subtitle_525"] = "VENOM 21: Mk82を12発、青煙から南西100メートル、西から東へのアプローチ、指揮官コードはDelta Juliet！",
+    ["DictKey_subtitle_540"] = "COWBOY 31: Venom、Cowboy 31、Mk82が6発、GBU-12が1発残ってる。",
+    ["DictKey_subtitle_746"] = "WEASEL 41 (RAIN): Two、左手に駐機してるトルコのViper見たか？なんであいつらいつも武装を残して帰ってくるんだ？",
+    ["DictKey_subtitle_356"] = "PLAYER: Two、索敵中。",
+    ["DictKey_subtitle_330"] = "NIGHTWALKER: Voodoo 21、中央のテクニカル撃破。ヒット良好。",
+    ["DictKey_subtitle_461"] = "VENOM 21: Weasel 42、クリアードホット！",
+    ["DictKey_ActionText_22"] = "",
+    ["DictKey_subtitle_564"] = "PLAYER: Two、ラジャー。",
+    ["DictKey_subtitle_433"] = "VENOM 21: Weasel 41、9ライン Alpha。タイプ2、1〜4はN/A、APC、こちらの位置から南。マーク無し、150メートル北、離脱は西。",
+    ["DictKey_ActionText_819"] = "よしChaos、今回の任務とテープを一緒に振り返ろう。目標までの道中は特に話すこともないな。国境越えでフェンスインして、DarkstarとNightwalkerにチェックイン、そのまま目標攻撃に移った。\
+\
+現地に到着して俺は通信センターに爆弾を落として命中。だがお前のは外れてたな。ウェイポイントに合わせた計画投下でそれは珍しいぞ。幸い俺の爆風でお前の目標にもかなりのダメージが入ったけど、それでも失敗には変わりない。（主目標を破壊できずマイナス10点）\
+\
+Bone 21とCowboysが自分たちの目標を吹き飛ばしてるのを見てたら、敵がFOB UTAHにロケットを撃ち込み始めた。全機に警戒が出て、味方の南東側をスキャンするように言われた。素早く脅威を見つけたのはよくやった、ナイスだ。\
+\
+MaverickとGBUですぐさま攻撃に入った。俺はMaverickで目標を仕留めたが、お前はミスってJTACがReaperを呼ぶ羽目になった。あれはちょっといただけなかったな。（テクニカルを破壊できずマイナス15点）\
+\
+で、そこからが本番だった。APC、VBIED、歩兵によるFOB UTAHへの総攻撃。Venom 21は全リソースをフル活用して脅威排除に奔走してた。俺たちの目標はAPCで、俺はしっかり落としたが、お前はまたもミスってVoodooがHellfireで対応することになった。展開が速かったのはわかるが、だからこそ訓練してきたんだろ？（目標を破壊できずマイナス20点）\
+\
+すべてが終わったあと、Darkstarに増援を要請してRTBの許可をもらった。今日の地上戦を見るに、SDFはRaqqa解放で相当な激戦を強いられるだろうな。",
+    ["DictKey_subtitle_266"] = "COWBOY 31: Cowboy 31。",
+    ["DictKey_descriptionBlueTask_3"] = "Incirlik空軍基地\
+トルコ\
+2017年5月6日 19:00現地時刻（Zulu 16:00）。ブリーフィング担当：RAIN（フライトリード）\
+\
+本日我々はRaqqaへの初期攻撃に参加し、SDFによる本格的な攻勢のための地ならしを行う。目標は敵の軍事HQで、高位指揮官の作戦拠点であり、通信拠点でもある。詳細は後ほどMotherhoodを終えてから説明する。\
+\
+[スライド04 - 天候]\
+\
+天候は良好。風は弱く、特に大きな変化は予想されていない。次のスライドへ。\
+\
+[スライド05 - 空港]\
+\
+自機はシェルター#31に駐機中、機体番号は377。君は隣のシェルター#30、機体番号360。スペア機は372だ。\
+\
+AUXで無線チェック後、ATISを取得して、再びAUXで編隊に戻り、PRIでTowerに切り替え。タキシー準備が整ったら知らせてくれ。こちらでタキシークリアランスを取って、滑走路05へ向かう。\
+\
+[スライド06 - 離陸]\
+\
+滑走路05から通常通りの出発。5,000フィートでFalcon exit通過を予定しており、そこでDepartureにコンタクトする。基地を出たら巡航高度の18,000フィートまで上昇。次へ。\
+\
+[スライド07 - 飛行計画]\
+\
+WP2に向かって旋回し、22,000フィートMSLまで上昇。その後シリアに入ったらそのままWP3へ直進、そこが各自の目標地点となる。続いてWP4上空でステーション入りし、Reaperを統制するNightwalkerと協働する。WP5はブルズアイ。弾薬が尽きるかRTB指示があれば、WP6・7経由で帰投。\
+\
+[スライド08 - 目標]\
+\
+これは本日の攻撃目標の画像。ISの司令部2棟が対象で、コールサインはROMEO HOTEL ALPHAおよびBRAVO。詳細は次スライドで説明する。ROMEO ONE BRAVOは市街とEuphrates南岸を繋ぐ橋で、IS勢力が依然多数残存している。これをBone 21（B-1戦略爆撃機）が破壊予定。ROMEO ONE CHARLIE ALPHAおよびBRAVOは敵の弾薬庫および砲兵陣地で、Cowboy 31および32（Strike Eagle）が攻撃する。また、Nightwalkerの遠隔操作で最低2機のUAVが目標エリア上空に展開予定。次のスライドへ。\
+\
+[スライド09 - WEASELの目標]\
+\
+我々の目標の詳細を確認する。ALPHAは屋上に通信設備があり、ELINT（電子諜報）によれば市内防衛側の主通信拠点とされる。BRAVOはIS幹部の会議やブリーフィングに使われている。各自、目標に対し2,000ポンドGBU-31を1発ずつ投下する予定で、破壊には十分な威力だ。周辺には軽AAおよびMANPADSの可能性があるため、攻撃中は19,000フィート以上を維持する。投下はWP3でのて事前計画モード（Pre-planned mode）を使用。\
+\
+[スライド10 - 目標写真]\
+\
+両目標の写真。数週間前の空爆で破壊された大型通信塔が写っている。こちらは左側の目標を、君は右側を攻撃。該当ブロックの建物はISによる倉庫・兵舎利用が主であり、副次被害の懸念は低いと判断。\
+\
+[スライド11 - 友軍・敵軍配置]\
+\
+SDFの前進作戦拠点であるFOB UTAH（白枠）を写した衛星写真。赤枠は敵勢力が確認されているエリア。最も東側のものはStrike Eagleの目標。その他の赤枠については敵がいるか不明だが、油断するな。\
+\
+攻撃終了後はFOB UTAH上空に移動し、NightwalkerまたはDarkstarの指示がない限り航空支援に就く。Nightwalkerは我々のFACであり、Reaperを遠隔操作してRaqqa上空で指揮を取る。\
+\
+【兵装】\
+\
+主目標用にGBU-31を各1発。その後のX-CASでは、こちらがAGM-65×2、君はGBU-12×2と機銃を装備。両機とも燃料タンク3本、TPOD、AIM-9×2を搭載。\
+\
+【無線規律】\
+\
+基本はAUXチャンネル1を使用。ただしミッション開始時はATISをチェックし、その後すぐ編隊周波数に復帰。以降の順序は、Ground → Tower → Departure → Darkstar → Nightwalker（目標エリア上空）となる。\
+\
+復路はDarkstar → Texaco（必要時）→ ATIS → Approach → Tower → Ground（すべてPRI）。周波数切替後には必ず無線チェックを実施する。\
+\
+それじゃ、行こうか。\
+\
+【BALTIC DRAGONからの注意事項】\
+\
+1. フライトリードがタキシー（シェルターを離れる）を開始してから、出発すること。\
+\
+2. ミッション想定時間：1時間45分",
+    ["DictKey_subtitle_415"] = "VENOM 21: Mk82を6発一連で、白煙から南東50メートル、西から東への進入。指揮官コードはDelta Juliet。",
+    ["DictKey_subtitle_340"] = "NIGHTWALKER: Voodoo 21、スプラッシュ、西側テクニカル。",
+    ["DictKey_ActionText_396"] = "",
+    ["DictKey_subtitle_610"] = "WEASEL 41 (RAIN): Darkstar、Weasel 41 flight、直接帰投する。",
+    ["DictKey_subtitle_658"] = "APPROACH: Weasel flight、Incirlik Approach。レーダーコンタクト。Eagle上空で高度5000フィートへ降下し、Towerと交信せよ。滑走路05でビジュアルアプローチを予期せよ。",
+    ["DictKey_subtitle_326"] = "WEASEL 41（RAIN）: Weasel 41、東側のテクニカル撃破。",
+    ["DictKey_ActionRadioText_376"] = "シューターを確認",
+    ["DictKey_ActionText_714"] = "（PRIでNIGHTWALKERにスイッチ）",
+    ["DictKey_descriptionText_1"] = "[スライド2 - ISIS支配地域]\
+\
+ここ数か月、シリア民主軍（SDF）は友軍の空爆支援を受けながら南進を続け、ISの支配地域を次々と解放してきた。ManbijやAl-Bab周辺では、SDFはかなり南まで進出し、Euphrates両岸とBuharyat Al Assadを掌握。さらにDeir al-Zour方面の東および南にも展開している。敵はこの河川を天然の防衛線として利用し、沿岸部に要塞化された陣地を築いている。ただし、北岸に残された真の拠点はひとつだけ、それがRaqqaだ。ここ数年にわたり、ISテロリストの“首都”として機能してきた。\
+\
+明日、6月6日にSDF部隊はRaqqa市内への突入を北・東・西から同時に開始する予定だ。その前に我々の空爆で敵の主要な補給拠点、軍司令部および通信設備、さらに市街とEuphrates南岸を繋ぐ橋を破壊する。南岸は依然としてISの手中にあり、この橋はRaqqaへの増援ルートとして極めて重要だ。\
+\
+[スライド3 - 防空体制]\
+\
+現在、ロシアとシリアが防空網を統合したことが確認されている。現時点では我々の作戦に大きな影響は出ていないが、警戒は怠るな。これまでに連合軍機によるシリア機への攻撃は1件だけで、昨日のことだ。USS George W. Bush空母艦載の米海軍F-18E Super Hornet 4機が、Tabqa南方でシリアのSu-22を撃墜した。これは、1999年にViperがセルビアのMiG-29を撃墜して以来、アメリカ軍による敵有人機の初撃墜だ。\
+\
+ロシア機も我々の航空機に接近を繰り返しており、ある時にはSu-35が我々のE-3Cに接近しすぎ、味方がその乱気流に巻き込まれるという事態もあった。正直言って、君らと同じく俺もこういう状況にはうんざりしてるが、何もできないのが現状だ。いずれROE（交戦規定）が緩和されることを願おう。どうなるかは様子を見よう。",
+    ["DictKey_subtitle_840"] = "WEASEL 41 (RAIN): Weasel 41、ライフル！",
+    ["DictKey_subtitle_260"] = "NIGHTWALKER: Cowboy 31、こちらNightwalker、どうぞ。",
+} -- end of dictionary

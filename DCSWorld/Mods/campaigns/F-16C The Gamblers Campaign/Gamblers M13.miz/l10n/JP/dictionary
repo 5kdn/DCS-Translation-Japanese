@@ -1,0 +1,601 @@
+dictionary = 
+{
+    ["DictKey_subtitle_216"] = "HANGMAN: ラジャー、こちらで対処する。  ",
+    ["DictKey_subtitle_430"] = "HANGMAN: Onslaught、Hangman、ラジャー。その建物をIRでマーキングできるか？  ",
+    ["DictKey_subtitle_440"] = "CHAP 81: Hangman、Chap 81チェックイン。Strike Eagle2機編隊、CHARLESTONの東45マイル、GBU-12を12発、ガン搭載。指示を待つ。  ",
+    ["DictKey_ActionText_208"] = "",
+    ["DictKey_ActionText_584"] = "",
+    ["DictKey_ActionText_423"] = "",
+    ["DictKey_subtitle_232"] = "VOLLY 31: Hangman、Volly 31、準備完了。  ",
+    ["DictKey_subtitle_20"] = "WEASEL 41（BEAR）: Two、One。左旋回してATLANTAに向かう。  ",
+    ["DictKey_subtitle_1020"] = "PLAYER: One、Twoはビンゴ。  ",
+    ["DictKey_ActionText_721"] = "",
+    ["DictKey_subtitle_22"] = "PLAYER: Two、ラジャー。  ",
+    ["DictKey_subtitle_696"] = "PLAYER: 着陸を許可、滑走路05。  ",
+    ["DictKey_subtitle_167"] = "HANGMAN: Weasel 42、そっちも命中良好、ターゲット撃破！  ",
+    ["DictKey_subtitle_173"] = "ONSLAUGHT: Hangman、Onslaught、敵装甲部隊は退却中。  ",
+    ["DictKey_ActionRadioText_591"] = "1: 確認（Fighter to fighter）",
+    ["DictKey_subtitle_306"] = "HANGMAN: HangmanからOnslaughtへ。お前のReaperでチェックポイント南の戦車を攻撃できるか？  ",
+    ["DictKey_subtitle_700"] = "PLAYER: Tower、Weasel 41、ウィルコ。  ",
+    ["DictKey_ActionText_1030"] = "いやあ、今回はなかなか激しかったな、Chaos。正直、ワグナー部隊が米軍相手に正面衝突を仕掛けてくるとは思わなかったし、向こうもその反応がどれだけ強烈なものになるか、まったく予想してなかったに違いない。しかも、あいつらがどう動いてるか、こっちは全部把握してて、位置も完全にマップに落としてあったんだ。だからこそ、あれだけの火力をあの短時間で投入できたってわけだ。\
+\
+さて、出撃内容を振り返ってみよう。\
+\
+最初のうちは雲を突き抜けて飛んだり、空中給油しながら待機してたけど、出撃命令が来たら即応だった。Deir Ezzor飛行場のSA-6が、こちら側にとって最大の問題だった。あれが敵の前進をしっかりカバーしていたからな。おそらく司令部は、もし破壊が必要になった場合に備えて、SAMの位置を再確認していたんだろう。TLAM（トマホーク）かHIMARSでの即時攻撃も視野に入れてたはずだ。でも、たぶん外交ルートでロシア側に「止めなきゃこっちで止めるぞ」と通告したんじゃないかと思う。で、それが効いた。おかげで、俺たちはAO内を自由に動けるようになった。\
+\
+その後、敵の防空位置を報告してからCHARLESTON方面へ戻った。ちょうどそのタイミングで、敵の迫撃砲が米軍陣地を攻撃しているところだったが、こちらの砲兵が即応で応戦して、敵を粉砕した。\
+\
+その後、T-72が3両、SA-6にカバーされながら前進してきた。俺たちはHangmanに、Maverickで攻撃可能で、しかもSA-6の反撃圏外から撃てることを伝えた。俺のミサイルは命中したが、お前のは外れたな。まあ、それでも敵は退却せざるを得なかった。（目標に命中しなかったため、-20ポイント）\
+\
+次に、全く連携の取れてない動きで、ロシア側は小隊規模の歩兵をCHARLESTONに向けて前進させてきた。でも運が悪かったな。そのタイミングでSA-6の電源が落ちて、うちのアパッチが即座に飛びかかって撃退した。\
+\
+さらに、敵はAPC（装甲兵員輸送車）を4両、追加の兵力とともにこちらに送り込んできた。俺たちは突入して2両を撃破、残りの2両はVolly編隊が仕留めた。\
+\
+同時に、F-15EはCHARLESTON南西の目標を攻撃中で、戦略爆撃機もさらに大きなダメージを与えに来ていた。俺たちの最後の任務は、敵歩兵が籠もっていた最後の建物の制圧だったが、問題なく完了。あとは基地に戻って着陸しただけだ。\
+\
+断言するが、今日という日は、現代における米露間最大の直接戦闘として記憶されることになるだろう……もっとも、ロシア側は「そこにロシア人はいなかった」と言い張るだろうけどな、ハッ！",
+    ["DictKey_subtitle_372"] = "HANGMAN: 使用兵器は任意、交戦許可。  ",
+    ["DictKey_subtitle_400"] = "PLAYER: Two、ラジャー。ソートは東。  ",
+    ["DictKey_ActionRadioText_781"] = "周波数変更",
+    ["DictKey_subtitle_571"] = "ONSLAUGHT: Hangman、Onslaught、アファーム。スタンバイ。  ",
+    ["DictKey_subtitle_338"] = "HANGMAN: Weasels、攻撃許可！  ",
+    ["DictKey_subtitle_374"] = "CHAP 71: Chap 71、トラックに対し攻撃中。  ",
+    ["DictKey_subtitle_38"] = "PLAYER: Two、ラジャー。  ",
+    ["DictKey_subtitle_453"] = "WEASEL 41: Hangman、Weasel 41、どうぞ。  ",
+    ["DictKey_subtitle_210"] = "ONSLAUGHT: Hangman、Onslaught、敵歩兵が戦車と同じエリアから車列に向かって移動中。  ",
+    ["DictKey_subtitle_26"] = "WEASEL 41（BEAR）: 関係ない。やつらの防空網はイワン（ロシア）と連動しているって、覚えてるだろ？",
+    ["DictKey_subtitle_599"] = "BONE 41: Hangman、Bone 41。  ",
+    ["DictKey_subtitle_248"] = "HANGMAN: 9ラインの準備ができたら言ってくれ！",
+    ["DictKey_ActionText_809"] = "",
+    ["DictKey_ActionRadioText_777"] = "",
+    ["DictKey_subtitle_617"] = "PLAYER: Weasel 42。  ",
+    ["DictKey_subtitle_376"] = "VOLLY 31: Volly 31、ライフル！  ",
+    ["DictKey_subtitle_519"] = "HANGMAN: 9ラインの準備できたら言ってくれ。  ",
+    ["DictKey_subtitle_378"] = "VOLLY 32: Volly 32、ライフル！  ",
+    ["DictKey_ActionText_835"] = "",
+    ["DictKey_subtitle_465"] = "HANGMAN: Hangman、確認。ブレイク。Weasel 41、SPARKLE(レーザー照射)を補足したら報告を。  ",
+    ["DictKey_subtitle_710"] = "PLAYER: Ground、Weasel 42、誘導路Echoへ離脱。",
+    ["DictKey_subtitle_66"] = "VOLLY 31: MANTISがATLANTAにて依然活動中であることを確認。  ",
+    ["DictKey_ActionText_1032"] = "いやあ、今回はなかなか激しかったな、Chaos。正直、ワグナー部隊が米軍相手に正面からぶつかってくるとは思ってなかったし、向こうもそれでどれだけの反撃を食らうか、まったく予想してなかったはずだ。こっちはやつらの位置を完全に把握してて、一挙手一投足を監視してたんだ。それが、あれだけ短時間で火力を集中できた理由ってわけさ。\
+\
+さて、それじゃあ今回の出撃を振り返っていこう。\
+\
+しばらくは雲の中を突き抜けたり、空中給油しながら待機してたけど、出撃コールが来たらすぐに向かった。Deir Ezzorの飛行場にいたしつこいSA-6が、こちらにとって最大の脅威だった。敵の前進をしっかりカバーしてたからな。司令部は、いざとなったらTLAMかHIMARSで潰すために、SAMの位置を念入りに確認してたんだろう。でも、おそらく外交ルートでロシアに「止めなきゃこっちで止めるぞ」と圧力をかけたんじゃないか？それが通じて、結果的にこっちはAO内で自由に動けるようになった。\
+\
+その後、敵の防空位置を報告してからCHARLESTON方面へ戻った。ちょうどそのタイミングで、敵の迫撃砲が米軍陣地を砲撃してきたが、こちらの砲兵が即座に反撃して、敵を粉砕。そこへ今度はT-72が3両、SA-6のカバーの下で前進してきた。\
+\
+俺たちはHangmanに、Maverickで戦車を撃てると報告した。しかも、SA-6の反撃圏外からな。2両とも俺たちが命中させて、3両目は退却した。\
+\
+ところがそのあと、完全に連携ゼロの状態でロシア側が突撃を開始。小隊規模の部隊がCHARLESTONを目指して前進してきた。でも運が悪かったな。そのタイミングでSA-6の電源が落ちて、こっちのアパッチが即座に飛びかかって潰した。\
+\
+そして今度は、敵がAPCを4両と追加の兵をこちらに向けて送り込んできた。俺たちは突入して応戦。俺のミサイルは命中したが、お前は外したな。とはいえ、Volly編隊がHellfireでしっかり掃除してくれた（APCを外したことにより-20ポイント）。\
+\
+その頃、F-15EはCHARLESTON南西の目標を攻撃中で、戦略爆撃機もさらにダメージを与えるために接近中だった。俺たちの最後の任務は、敵歩兵が潜んでいた最後の建物を破壊することだったが、それも問題なく片付けた。その後は帰還して着陸。\
+\
+断言するが、今日という日は、現代戦で米露が直接ぶつかった最大の戦闘として記憶されるだろう……もっとも、ロシア側は「ロシア人なんていなかった」とか言い出すだろうけどな、ハッ！",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_subtitle_292"] = "HANGMAN: Chap 72、クリアードホット！",
+    ["DictKey_subtitle_175"] = "HANGMAN: Hangman、ラジャー。ブレイク、ブレイク。Weasel 41、中止、中止、中止。ステーションへ戻れ。マーベリックがまだ必要になる！  ",
+    ["DictKey_subtitle_324"] = "ONSLAUGHT: AGM-114、東から西への進入。  ",
+    ["DictKey_subtitle_576"] = "PLAYER: Two、目視確認。  ",
+    ["DictKey_subtitle_676"] = "WEASEL 41（BEAR）: Incirlik Tower、Weasel 41、F-16が2機、Eagle通過、滑走路05へ進入中。  ",
+    ["DictKey_ActionRadioText_815"] = "フェンスアウト",
+    ["DictKey_ActionText_807"] = "(Hangmanに切替)",
+    ["DictKey_ActionText_417"] = "",
+    ["DictKey_subtitle_554"] = "HANGMAN: Chap 71、クリアードホット、クリアードホット！  ",
+    ["DictKey_subtitle_1022"] = "WEASEL 41（BEAR）: よし、スタンバイ。  ",
+    ["DictKey_subtitle_124"] = "DARKSTAR: Weasel 41、Darkstar、現時点ではネガティブ。  ",
+    ["DictKey_subtitle_754"] = "ONSLAUGHT: Hangman、Onslaught、砲撃任務準備中。弾着まであと120秒。  ",
+    ["DictKey_subtitle_85"] = "WEASEL 41（BEAR）: Weasel 41、了解。  ",
+    ["DictKey_subtitle_574"] = "WEASEL 41（BEAR）: Two、SPARKLE(レーザー照射)を補足したら言ってくれ。  ",
+    ["DictKey_subtitle_548"] = "BONE 41: Bone 41はB-1、CHARLESTONの南東90マイル。GBU-38を28発搭載、タスキング待機中。  ",
+    ["DictKey_ActionRadioText_804"] = "周波数変更",
+    ["DictKey_subtitle_78"] = "DARKSTAR: ラジャー、Weasel 41。任務あり。準備ができたら知らせてくれ。  ",
+    ["DictKey_ActionText_192"] = "",
+    ["DictKey_subtitle_187"] = "WEASEL 41（BEAR）: Two、One。ウェポンズホールド、ステーションに戻る。  ",
+    ["DictKey_subtitle_298"] = "CHAP 71: Hangman、Chap 71、CHARLESTONの南約4.5マイルの道路上に兵員を乗せた軍用トラック4両を確認。  ",
+    ["DictKey_subtitle_350"] = "ONSLAUGHT: Onslaught、ライフル！  ",
+    ["DictKey_subtitle_157"] = "HANGMAN: Weasel 42、突入せよ、クリアードホット！  ",
+    ["DictKey_subtitle_262"] = "CHAP 72: Hangman、Chap 72、準備完了。  ",
+    ["DictKey_ActionRadioText_652"] = "周波数変更",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_793"] = "(MANTISを捕捉)",
+    ["DictKey_subtitle_165"] = "HANGMAN: Weasel 41、命中良好、グッドヒット！  ",
+    ["DictKey_subtitle_402"] = "WEASEL 41（BEAR）: Two、どうした？  ",
+    ["DictKey_subtitle_112"] = "WEASEL 41（BEAR）: 復唱良好。Shilka、Foxtrot Victor 8-5-8-8 5-2-2-8。  ",
+    ["DictKey_subtitle_83"] = "DARKSTAR: ATLANTAの北で待機し、センサーを向けてくれ。そこにアクティブなMANTISがいる。  ",
+    ["DictKey_subtitle_96"] = "WEASEL 41（BEAR）: Darkstar、Weasel 41、ATLANTAの北20マイルにてオンステーション。  ",
+    ["DictKey_ActionRadioText_197"] = "2: 繰り返しを要求（Fighter to fighter）",
+    ["DictKey_subtitle_226"] = "PLAYER: Two、確認、こちらも同様。  ",
+    ["DictKey_subtitle_8"] = "WEASEL 41（BEAR）: Weasels、チェック。  ",
+    ["DictKey_subtitle_642"] = "WEASEL 41（BEAR）: Weasels、PRIのボタン5へ。  ",
+    ["DictKey_subtitle_742"] = "HANGMAN: Chap 71、了解…  ",
+    ["DictKey_subtitle_195"] = "PLAYER: One、最後の指示をもう一度教えてくれ。  ",
+    ["DictKey_subtitle_108"] = "WEASEL 41（BEAR）: Darkstar、Weasel 41、MANTIS座標：3-7 Sierra、Foxtrot Victor 5-9-7-0 6-9-6-6。  ",
+    ["DictKey_ActionText_789"] = "",
+    ["DictKey_ActionRadioText_204"] = "2: 繰り返しを要求（Fighter to fighter）",
+    ["DictKey_subtitle_740"] = "CHAP 71: Hangman、Chap 71、ネガティブ。敵SAMが稼働中。  ",
+    ["DictKey_subtitle_268"] = "HANGMAN: Chap 71、GBU-12で東から西への進入を要請。  ",
+    ["DictKey_subtitle_748"] = "WEASEL 41（BEAR）: Hangman、Weasel 41、チェックイン。こちらF-16×2、CHARLESTONの北東15マイル、AGM-65を4発、GBU-12を2発搭載。  ",
+    ["DictKey_subtitle_438"] = "HANGMAN: Chap 81、どうぞ。  ",
+    ["DictKey_subtitle_640"] = "WEASEL 41（BEAR）: One、フェンスアウト。  ",
+    ["DictKey_ActionRadioText_603"] = "周波数変更",
+    ["DictKey_ActionText_413"] = "（応答を選択）",
+    ["DictKey_subtitle_272"] = "CHAP 71: Hangman、Chap 71、東から進入。  ",
+    ["DictKey_subtitle_702"] = "WEASEL 41（MENEACE）: Ground、Weasel 41、接続中。  ",
+    ["DictKey_subtitle_436"] = "CHAP 81: Hangman、Chap 81。  ",
+    ["DictKey_subtitle_627"] = "WEASEL 41（BEAR）: ネガティブ、直接ホームプレートに戻る。  ",
+    ["DictKey_subtitle_87"] = "DARKSTAR: 現地到着時に知らせてくれ。  ",
+    ["DictKey_subtitle_536"] = "HANGMAN: 9ラインBravo。タイプ3、1〜3 N/A、高度662フィート、戦車、Foxtrot Victor 1654 0881、ノーマーク、脅威なし、東へ離脱。  ",
+    ["DictKey_subtitle_256"] = "HANGMAN: Chap 71、GBU-12で東から西への進入を要請。  ",
+    ["DictKey_subtitle_468"] = "WEASEL 41（BEAR）: Hangman、Weasel 41、補足済み。  ",
+    ["DictKey_subtitle_147"] = "HANGMAN: 65を使え、お前ら2機とも即時攻撃を頼む！  ",
+    ["DictKey_subtitle_542"] = "CHAP 72: Chap 72、GBU-12、南東から北西への進入。  ",
+    ["DictKey_subtitle_52"] = "WEASEL 41（BEAR）: OK、スタンバイ。  ",
+    ["DictKey_ActionRadioText_596"] = "",
+    ["DictKey_subtitle_656"] = "WEASEL 41（BEAR）: PRIチェック。  ",
+    ["DictKey_ActionText_836"] = "FL1351",
+    ["DictKey_subtitle_800"] = "PLAYER: Two、同じく。  ",
+    ["DictKey_ActionText_776"] = "(Darkstarに切替)",
+    ["DictKey_subtitle_470"] = "HANGMAN: Weasels、9ライン。タイプ2適用、1〜3 N/A、高度697フィート、建物内の敵歩兵、Foxtrot Victor 1798 1036、IRでマーキング、脅威なし、北へ離脱。  ",
+    ["DictKey_ActionRadioText_716"] = "周波数変更",
+    ["DictKey_descriptionText_1"] = "【スライド2 - ISIS支配地域】\
+\
+ここ数年、ロシアがアサド政権を支援しつつ反体制派やISとの戦いに深く関与するようになったことは、私たち全員が目の当たりにしてきた。実際、モスクワの支援がなければ、シリア政府はすでに崩壊していた可能性すらある。ここにいる者は誰もが、レーダーやRWR上でロシア機を目にしたことがあるだろうし、もっと接近した遭遇の話も聞いたことがあるはずだ。\
+\
+つい最近の例としては、Abu Kamal付近で、ロシアのSu-25が米露間で設定されたデコンフリクションライン（紛争回避線）を越えて侵入し、F-22がスクランブル発進してこれを迎撃。両機は約40分にわたって空中で接近・威嚇機動を行い、F-22は「頭突き（head-butting）」後にフレアを展開した。また、ロシアのSu-35が我が方のE-3（AWACS）の正面を数百フィートの距離で横切り、その乱気流によってAWACSが揺さぶられるという危険な事案も発生している。\
+\
+しかし、注目すべきは空だけではない。地上にも重要な動きがある。ロシア正規軍が自軍拠点の防衛にあたる一方で、もうひとつの大きな存在がある。それがワグナー・グループだ。悪名高いこの民間軍事会社の傭兵たちの多くは元スペツナズであり、2015年に初めてシリア入りした。我々が彼らの存在を初めて知ったのは、Latakia地方での迫撃砲攻撃によって3～9名の傭兵が死亡した事件だった。それ以降、彼らは全戦線で政権側の戦闘を支援し続けている。\
+\
+ワグナーはその残虐性、忠誠心、そして戦闘能力の高さで知られている。報酬も高く、ISILから奪還・確保した油田やガス田からの収益の25％が彼らに分配されているとされる。装備も充実しており、戦車を保有し、場合によっては航空支援も受けられる。我々がこの情報を共有しているのは、今現在SDF司令部（Khasham付近）周辺で、彼らが長期的な兵力と装備の増強を行っている様子が観測されているからだ。そこには米軍の前哨拠点があり、我々の部隊が1個小隊規模でSDFとともに展開している。\
+\
+ただし、ひとつ留意しておくべき点がある。ワグナー・グループは公式には「ロシアのPMC」ではない。なぜなら、ロシア国内にはPMCを設立するための法的根拠が存在しないからだ。そのため、CENTCOMがDCに報告を上げ、そこからモスクワに公式経路で問い合わせが行われた際、ロシア政府は「その地域にはロシア軍は存在しない」と回答している。もちろんこれは露骨な虚偽だが、逆に言えば、もし事態がエスカレートした場合には、我々に対して交戦の自由が与えられたも同然だ。しかも、その可能性は現実味を帯びている。\
+\
+【スライド3 - 防空網】\
+\
+本任務では、Deir ez-Zor飛行場の周辺空域で作戦を行うことになる。この飛行場は2017年9月以降、政権軍の支配下にある。我が方のELINT（電子情報部隊）は、同地にSA-6地対空ミサイルバッテリーが稼働中であることを確認しており、レーダー誘導式の対空機関砲、特にShilkaが配備されている可能性も高い。\
+\
+その運用主体は、近くに展開しているワグナー・グループの大部隊を踏まえると、ロシア軍である可能性もある。SAMサイトの無効化に向けた外交努力はすでに行われているが、もし事態が悪化し、SDF司令部上空の制空権が奪われるようであれば、より直接的な手段が必要となる可能性も否定できない。",
+    ["DictKey_subtitle_765"] = "WEASEL 41（BEAR）: Shell、Weasel 41、補給ありがとう。おそらく今日の補給はこれが最後になると思う。",
+    ["DictKey_subtitle_340"] = "WEASEL 41（BEAR）: Weasel 41。  ",
+    ["DictKey_subtitle_266"] = "CHAP 72: 建物内の歩兵、Foxtrot Victor 18020 10360、リマーク受信準備完了。  ",
+    ["DictKey_subtitle_352"] = "ONSLAUGHT: 戦車撃破！  ",
+    ["DictKey_descriptionBlueTask_3"] = "シリア上空、空中給油トラック、Raqqaの北東25マイル\
+\
+2018年7月2日　現地時間22:20（Zulu 19:20）  \
+フライト前ブリーフィング：HULK（ミッション司令）\
+\
+本日はX-CAS任務として、Deir ez-Zor州にあるConocoガスプラント、SDF司令部上空へ展開する。先週から、現地の味方部隊が親シリア政府側の戦力増強を確認しており、その中にはワグナー・グループに属するロシア系傭兵部隊1個中隊が含まれている。\
+\
+【スライド 4 - 天候】\
+\
+天候は良好。離陸・着陸時に軽い横風が予想される。\
+\
+【スライド 5 - 空港】\
+\
+離陸および着陸は滑走路05を使用予定。帰投時はGroundが駐機スポットを指定。\
+\
+本日、私は機体347でシェルター39から出発する。君は351、シェルター40。予備機はシェルター41に1機ある。地上で通常の無線チェックを実施する。\
+\
+【スライド 6 - 離陸】\
+\
+離陸後、高度6,000フィートでFALCON exitを通過し、Departure周波数へスイッチ。帰投時はEAGLE経由で帰投予定。\
+\
+【スライド 7 - 飛行計画】\
+\
+EAGLE通過後、高度22,000フィートへ上昇し、ウェイポイント2（ホールドポイント）まで飛行。X-CAS任務中は、待機時間が長くなる可能性あり。空中給油機のShellは我々の北西付近で待機しており、任務中数回コンタクトする可能性がある。\
+\
+ATLANTAはDeir ez-Zor空港だ。現在はシリア政府軍の支配下であり、ロシア軍の存在も確認されている。稼働中のSA-6サイトあり。\
+\
+CHARLESTON（ウェイポイント4）は、Conocoガスプラント内にあるSDF司令部。\
+\
+ブルズアイはウェイポイント7に設定されている。RTBはウェイポイント5およびEAGLE経由。\
+\
+【スライド 8 - 目標地域】\
+\
+地上の状況について簡単に説明する。報告によれば、ロシア系PMCの支援を受けた親シリア政府軍が、CHARLESTON（Conocoプラント）南西2.5マイルのMarratに集結中。本日、T-72戦車と歩兵部隊が前進し、CHARLESTON南西1.2マイルの市街地内で停止している。\
+\
+現時点で交戦は発生していないが、現地部隊と情報部は敵の攻撃が差し迫っていると判断している。即応部隊（Quick Reaction Force）が待機中だが、数両のAPCしかおらず、T-72に対抗するには力不足だ。\
+\
+そのため、我々を含む複数の航空機・攻撃ヘリがAOにスタンバイしており、本任務に参加する。\
+\
+【スライド 9 - 目標拡大】\
+\
+こちらはプラントの詳細図。CHARLESTON南西の道路には、海兵隊とグリーンベレーが装甲車両を展開中。チェックポイントには兵士が残っているが、敵が攻撃する兆候があれば即座に撤退予定。\
+\
+南西側の住宅地に展開中の戦車は、既にCHARLESTONを射程に収めていると推測されるが、夜間視界装置を持たないため、さらに接近しないと射撃できない可能性が高い。\
+\
+【スライド 10 - 友軍戦力】\
+\
+AOに集結中の友軍部隊：\
+\
+- CHARLESTONは、海兵隊・グリーンベレーの装甲部隊およびJTAC（コールサイン：HANGMAN）\
+- 上空にはReaper無人機（コールサイン：ONSLAUGHT）による監視・目標指示。Hellfire搭載を想定。\
+- 戦闘機部隊：CHAP 7（F-15E ×2）および我々のフライト\
+- FOB KiloにはAH-64 ×2機が即応体制で待機中。CHARLESTONから7マイルの位置（ウェイポイント7、ブルズアイ）\
+\
+全機Hangmanのネットで作戦周波数を共有。AUXラジオではFLIGHT TACを使用。\
+\
+【兵装構成】\
+\
+- AGM-65 ×2\
+- GBU-12 ×1\
+- AIM-120C ×2（ウィングチップ）\
+- 燃料タンク ×2、ターゲティングポッド、ECMポッド\
+\
+【無線手順】\
+\
+AUXラジオは基本的にチャンネル1を使用（ATISチェック時を除く）。\
+\
+PRIラジオは以下の順で使用：\
+Ground → Tower → Departure → Wizard → Hangman → Shell  \
+復路はWizard → ATIS → Approach → Tower → Ground  \
+\
+各スイッチ後、私が無線チェックを行う。\
+\
+今日の出撃はきっととんでもないことになるぞ……さあ、行こう！\
+\
+【BALTIC DRAGONからの注意事項】\
+\
+1. 本ミッションは空中給油後、タンク後方の空中からスタートする。機体を安定させたら、リーダーの指示に従え。\
+2. 予想任務時間：2時間5分",
+    ["DictKey_subtitle_704"] = "INCIRLIK GROUND: Weasel 41、Ground。誘導路Golf、Hotel経由でHotel 31へタクシー。  ",
+    ["DictKey_subtitle_80"] = "WEASEL 41（BEAR）: Weasel 41、準備OK。  ",
+    ["DictKey_subtitle_70"] = "VOLLY 31: ラジャー。  ",
+    ["DictKey_subtitle_560"] = "WEASEL 41（BEAR）: Two、One。合流しよう。25,000フィートに上昇、ウェイポイント5へ向かう。  ",
+    ["DictKey_subtitle_228"] = "ONSLAUGHT: Ninety nine、Onslaught。Darkstarより重要情報。MANTISは脅威なし、全機CHARLESTON上空での行動を許可。  ",
+    ["DictKey_subtitle_658"] = "PLAYER: Two。  ",
+    ["DictKey_subtitle_284"] = "VOLLY 31: Hangman、Volly 31、逃走者を確認。  ",
+    ["DictKey_ActionText_191"] = "",
+    ["DictKey_subtitle_526"] = "CHAP 71: Chap 71、660、戦車、Foxtrot Victor 1654 0877、リマーク受信準備完了。  ",
+    ["DictKey_subtitle_463"] = "ONSLAUGHT: Hangman、Onslaught、SPARKLE(レーザー照射)中。  ",
+    ["DictKey_subtitle_18"] = "PLAYER: Two、アファーム。  ",
+    ["DictKey_subtitle_692"] = "PLAYER: タワー、Weasel 42、滑走路05最終進入中。  ",
+    ["DictKey_subtitle_712"] = "INCIRLIK GROUND: Weasel 42、Ground。誘導路Golf、Hotel経由でHotel 30へ。  ",
+    ["DictKey_subtitle_276"] = "CHAP 71: Chap 71、ウェポンアウェイ。  ",
+    ["DictKey_subtitle_290"] = "CHAP 72: Chap 72、東から進入。  ",
+    ["DictKey_subtitle_177"] = "WEASEL 41（BEAR）: Weasel 41、ラジャー。  ",
+    ["DictKey_subtitle_320"] = "ONSLAUGHT: Hangman、復唱。戦車、Foxtrot Victor 1723 0849。リマーク受信準備完了。  ",
+    ["DictKey_subtitle_489"] = "PLAYER: Two、ラジャー。  ",
+    ["DictKey_ActionText_194"] = "",
+    ["DictKey_subtitle_36"] = "WEASEL 41（BEAR）: Two、センサーをATLANTAに向けろ。MANTIS補足したら知らせてくれ。  ",
+    ["DictKey_subtitle_674"] = "PLAYER: Weasel 42。  ",
+    ["DictKey_subtitle_264"] = "HANGMAN: Chap 72、タイプ2適用、1〜3 N/A、高度696フィート、建物内の歩兵、座標 Foxtrot Victor 18020 10360、ノーマーク、北東1,500メートル、離脱方向東。  ",
+    ["DictKey_ActionText_595"] = "",
+    ["DictKey_subtitle_24"] = "PLAYER: あのMANTIS……シリアの所属か？  ",
+    ["DictKey_subtitle_686"] = "WEASEL 41（BEAR）: 着陸を許可、滑走路05。  ",
+    ["DictKey_ActionText_653"] = "",
+    ["DictKey_subtitle_455"] = "HANGMAN: Weasels、GBU-12はまだあるか？  ",
+    ["DictKey_ActionRadioText_198"] = "1: 確認（Fighter to fighter）",
+    ["DictKey_ActionText_200"] = "（応答を選択）",
+    ["DictKey_ActionText_717"] = "(Towerに切替)",
+    ["DictKey_subtitle_756"] = "HANGMAN: Onslaught、Hangman、了解。敵の射撃は今のところ精度低し。  ",
+    ["DictKey_subtitle_664"] = "WEASEL 41（BEAR）: 5000フィートMSLまで降下、EAGLE通過後Towerに切り替え、滑走路05目視進入を予定。  ",
+    ["DictKey_subtitle_72"] = "WEASEL 41（BEAR）: Darkstar、Weasel 41。  ",
+    ["DictKey_ActionRadioText_206"] = "",
+    ["DictKey_ActionText_783"] = "(準備完了)",
+    ["DictKey_subtitle_145"] = "WEASEL 41（BEAR）: Hangman、Weasel 41、開けた地形に戦車、リマーク準備完了。  ",
+    ["DictKey_ActionText_611"] = "",
+    ["DictKey_subtitle_672"] = "WEASEL 41（BEAR）: Weasels、PRIチェック。  ",
+    ["DictKey_subtitle_183"] = "WEASEL 41（BEAR）: Two、One。Fighter to fighter。Trail、shooter - shooter、AGM-65、北東から進入、北へ離脱、西側をソート。  ",
+    ["DictKey_subtitle_493"] = "HANGMAN: Weasels、クリアードホット、クリアードホット！  ",
+    ["DictKey_subtitle_282"] = "HANGMAN: Chap 72、ターゲット撃破！完璧だ！  ",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_subtitle_308"] = "ONSLAUGHT: Hangman、Onslaught、アファーム。  ",
+    ["DictKey_subtitle_316"] = "CHAP 71: Chap 71。  ",
+    ["DictKey_subtitle_472"] = "WEASEL 41（BEAR）: Hangman、Weasel 41、高度697、建物内の歩兵、Foxtrot Victor 1798 1036。リマーク受信準備完了。  ",
+    ["DictKey_subtitle_50"] = "PLAYER: アファーム、Shilkaっぽいな。  ",
+    ["DictKey_subtitle_294"] = "ONSLAUGHT: Hangman、Onslaught、注意せよ。装甲車両4両と歩兵部隊を確認。チェックポイントの南南西1.7マイル。  ",
+    ["DictKey_subtitle_54"] = "WEASEL 41（BEAR）: そろそろ戻ったほうがいいな。  ",
+    ["DictKey_subtitle_732"] = "HANGMAN: ネガティブ、Chap 71。発射源は南東のようだが、閃光も煙も視認できていない。ブレイク。Onslaught、何かあったか？  ",
+    ["DictKey_subtitle_258"] = "CHAP 71: Chap 71、GBU-12、東から西。  ",
+    ["DictKey_subtitle_304"] = "HANGMAN: Weasel 41、Hangman……見えてる。スタンバイ。  ",
+    ["DictKey_subtitle_254"] = "CHAP 71: Chap 71、建物内の歩兵、Foxtrot Victor 18017 10385、リマーク受信準備完了。  ",
+    ["DictKey_subtitle_384"] = "CHAP 71: Chap 71、目標撃破！  ",
+    ["DictKey_ActionText_790"] = "",
+    ["DictKey_subtitle_619"] = "WEASEL 41（BEAR）: Darkstar、Weasel 41。  ",
+    ["DictKey_subtitle_89"] = "WEASEL 41（BEAR）: Weasel 41、ウィルコ。  ",
+    ["DictKey_subtitle_151"] = "WEASEL 41（BEAR）: Hangman、Weasel 41、北東方向から進入。  ",
+    ["DictKey_ActionRadioText_720"] = "周波数変更",
+    ["DictKey_subtitle_538"] = "CHAP 72: Chap 72、復唱。662、戦車、Foxtrot Victor 1654 0881、リマーク受信準備完了。  ",
+    ["DictKey_subtitle_507"] = "HANGMAN: Weasel 41、ラジャー。RTB許可。今日はよくやってくれた！  ",
+    ["DictKey_subtitle_750"] = "HANGMAN: Weasel 41、Hangman、了解。その位置を維持して待機せよ。  ",
+    ["DictKey_subtitle_149"] = "WEASEL 41（BEAR）: AGM-65、ウィルコ。  ",
+    ["DictKey_ActionRadioText_421"] = "",
+    ["DictKey_subtitle_322"] = "HANGMAN: Hellfireを使用、東から西への進入で。  ",
+    ["DictKey_subtitle_296"] = "HANGMAN: Onslaught、Hangman、ラジャー、こちらも確認中。  ",
+    ["DictKey_subtitle_621"] = "DARKSTAR: Weasel 41、Darkstar、どうぞ。",
+    ["DictKey_subtitle_318"] = "HANGMAN: Onslaught、Hangman。9ライン。タイプ2、1〜4 N/A、道路上の戦車、Foxtrot Victor 1723 0849、ノーマーク、北東4,000メートル、離脱方向北東。  ",
+    ["DictKey_subtitle_484"] = "ONSLAUGHT: ラジャー。  ",
+    ["DictKey_subtitle_346"] = "HANGMAN: Weaselsが発射した後に同じ目標をHellfireで攻撃しろ。残りのAPC2両を排除し、その後ガンで歩兵を掃討せよ。  ",
+    ["DictKey_subtitle_532"] = "HANGMAN: 復唱良好。Chap 72、お前にも1件ある。  ",
+    ["DictKey_ActionText_593"] = "",
+    ["DictKey_ActionRadioText_610"] = "",
+    ["DictKey_ActionRadioText_592"] = "2: 繰り返しを要求（Fighter to fighter）",
+    ["DictKey_subtitle_738"] = "HANGMAN: Chap 72、ラジャー。交戦可能か？  ",
+    ["DictKey_ActionRadioText_832"] = "フェンスイン",
+    ["DictKey_subtitle_46"] = "WEASEL 41（BEAR）: One、補足済み。MANTISは動いてないようだ。  ",
+    ["DictKey_subtitle_104"] = "DARKSTAR: Weasel 41、Darkstar、ラジャー。MANTISおよびShilkaの座標を送れ。  ",
+    ["DictKey_subtitle_708"] = "PLAYER: Ground、Weasel 42、誘導路Deltaへ離脱。",
+    ["DictKey_ActionComment_606"] = "",
+    ["DictKey_subtitle_505"] = "WEASEL 41（BEAR）: Hangman、WeaselsはREMINGTON(弾切れ)。  ",
+    ["DictKey_subtitle_280"] = "CHAP 72: Chap 72、ウェポンアウェイ。  ",
+    ["DictKey_subtitle_432"] = "CHAP 71: Hangman、Chap 71。CHARLESTONの南にある小さな町の建物裏で、軍用トラック数両、戦車2両、兵士約30名を確認。  ",
+    ["DictKey_subtitle_546"] = "CHAP 71: Chap 71、ウィルコ。  ",
+    ["DictKey_subtitle_478"] = "HANGMAN: Weasel、進入方向を報告せよ。ブレイク。Onslaught、Hangman。  ",
+    ["DictKey_subtitle_310"] = "HANGMAN: ラジャー。ブレイク、ブレイク。WeaselsおよびVolly、APCと歩兵の攻撃準備を。ブレイク。Chap 71、お前はトラックを攻撃してくれ。9ラインを送る。  ",
+    ["DictKey_ActionText_723"] = "(Groundに切替)",
+    ["DictKey_subtitle_106"] = "WEASEL 41（BEAR）: Darkstar、Weasel 41、少し待て...  ",
+    ["DictKey_subtitle_155"] = "PLAYER: Hangman、Weasel 42、北東方向から進入。  ",
+    ["DictKey_subtitle_360"] = "PLAYER: Weasel 42、ヒット良好！  ",
+    ["DictKey_ActionText_797"] = "(滑走路28付近のSHILKAを視認)",
+    ["DictKey_subtitle_336"] = "WEASEL 41（BEAR）: Weasel 41、AGM-65による同時攻撃、北から南。  ",
+    ["DictKey_subtitle_501"] = "HANGMAN: Weasels、ヒット良好、BDA待機せよ！  ",
+    ["DictKey_subtitle_734"] = "ONSLAUGHT: Hangman、Onslaught、捜索中。  ",
+    ["DictKey_subtitle_14"] = "PLAYER: Two。  ",
+    ["DictKey_ActionText_578"] = "（SPARKLE(レーザー照射)を視認）",
+    ["DictKey_subtitle_480"] = "ONSLAUGHT: Hangman、Onslaught。  ",
+    ["DictKey_subtitle_513"] = "HANGMAN: Onslaught、Hangman、ラジャー。目視良好。  ",
+    ["DictKey_subtitle_16"] = "WEASEL 41（BEAR）: Two、いけるか？  ",
+    ["DictKey_subtitle_368"] = "HANGMAN: Chap 71、Hangman。9ライン。タイプ3、1〜4 N/A、CHARLESTON南の道路上のトラック、ノーマーク、脅威なし、離脱方向東。  ",
+    ["DictKey_subtitle_356"] = "PLAYER: Weasel 42、ライフル！  ",
+    ["DictKey_subtitle_382"] = "CHAP 71: Chap 71、ウェポンアウェイ！",
+    ["DictKey_ActionText_730"] = "",
+    ["DictKey_subtitle_698"] = "INCIRLIK TOWER: Weasel 42、滑走路から離脱後Groundへスイッチせよ。  ",
+    ["DictKey_subtitle_447"] = "ONSLAUGHT: Hangman、Onslaught。SPARKLE(レーザー照射)。  ",
+    ["DictKey_subtitle_633"] = "WEASEL 41（BEAR）: Weasels、フェンスアウト。  ",
+    ["DictKey_ActionText_811"] = "",
+    ["DictKey_subtitle_706"] = "WEASEL 41（BEAR）: Weasel 41、Golf、Hotel経由でHotel 31へタクシー。  ",
+    ["DictKey_subtitle_443"] = "HANGMAN: Chap 81、Hangman、ラジャー。CHARLESTONの東20マイルにアンカー。高度FL220〜250で待機せよ。  ",
+    ["DictKey_subtitle_445"] = "CHAP 81: Hangman、Chap 81、ウィルコ。  ",
+    ["DictKey_subtitle_270"] = "CHAP 72: GBU-12、東から西へ進入。  ",
+    ["DictKey_subtitle_404"] = "PLAYER: 対応中、少し待ってくれ。  ",
+    ["DictKey_subtitle_244"] = "HANGMAN: Volly 31および32、クリアードホット、クリアードホット！再攻撃も許可。ブレイク、Chap 71、応答可能か？  ",
+    ["DictKey_subtitle_366"] = "VOLLY 31: Volly 31、北から進入中。  ",
+    ["DictKey_sortie_5"] = "M13: Battle of Khasham",
+    ["DictKey_subtitle_328"] = "WEASEL 41（BEAR）: Weasel 41、準備完了。  ",
+    ["DictKey_subtitle_668"] = "APPROACH: Weasel 41、アプローチ、スイッチを許可。  ",
+    ["DictKey_subtitle_515"] = "HANGMAN: Chap 71、Hangman。  ",
+    ["DictKey_subtitle_278"] = "HANGMAN: Chap 71、効果良好！  ",
+    ["DictKey_ActionText_649"] = "(Approachに切替)",
+    ["DictKey_subtitle_138"] = "WEASEL 41（BEAR）: Hangman、Weasel 41、65で攻撃可能。  ",
+    ["DictKey_ActionText_427"] = "建物に射撃",
+    ["DictKey_subtitle_10"] = "PLAYER: Weasel 42。  ",
+    ["DictKey_subtitle_752"] = "WEASEL 41（BEAR）: Weasel 41、ラジャー。  ",
+    ["DictKey_subtitle_758"] = "ONSLAUGHT: こちらOnslaught、弾着！BDAを待機せよ！  ",
+    ["DictKey_subtitle_736"] = "CHAP 72: Hangman、Chap 72、迫撃砲を確認。198、そちらの位置から2.7マイル。  ",
+    ["DictKey_ActionText_420"] = "",
+    ["DictKey_subtitle_40"] = "PLAYER: Two、補足。  ",
+    ["DictKey_subtitle_58"] = "WEASEL 41（BEAR）: PRIのボタン7に切り替えろ。  ",
+    ["DictKey_subtitle_509"] = "WEASEL 41（BEAR）: Hangman、Weasel 41、ラジャー。そっちも無事でな。  ",
+    ["DictKey_subtitle_116"] = "WEASEL 41（BEAR）: Darkstar、復唱良好。  ",
+    ["DictKey_ActionRadioText_203"] = "1: 確認（Fighter to fighter）",
+    ["DictKey_ActionText_605"] = "",
+    ["DictKey_subtitle_487"] = "WEASEL 41（BEAR）: Two、One。Fighter to fighter。Trail、shooter - shooter、GBU-12、東から進入、北へ離脱。私の命中地点に合わせて落とせ。  ",
+    ["DictKey_subtitle_134"] = "HANGMAN: Hangmanより全隊へ。敵戦車が移動中！コンパウンド南の車列に発砲してきた！  ",
+    ["DictKey_subtitle_136"] = "CHAP 71: Hangman、Chap 71、支援できない。  ",
+    ["DictKey_ActionText_209"] = "",
+    ["DictKey_ActionRadioText_604"] = "",
+    ["DictKey_subtitle_314"] = "VOLLY 31: Volly 31。  ",
+    ["DictKey_ActionText_424"] = "",
+    ["DictKey_subtitle_218"] = "ONSLAUGHT: チェックポイント方向の建物群から発砲あり。注意せよ。  ",
+    ["DictKey_ActionText_193"] = "",
+    ["DictKey_ActionText_1034"] = "いやあ、今回は相当激しかったな、Chaos。まさかワグナー部隊が米軍相手に正面から仕掛けてくるとは思わなかったし、向こうもそれでどれだけの反撃を食らうか、まったく予想してなかったはずだ。それに、こっちがあらかじめ連中の位置を完全に把握してて、動きも全部監視されてたなんて知る由もなかったろう。だからこそ、あれだけの火力をあの短時間で投入できたってわけだ。\
+\
+さて、それじゃ出撃内容を振り返ろう。\
+\
+しばらくは雲の中を突き抜けたり、給油したりしながら待機してたけど、出撃コールが来たらすぐに向かった。Deir Ezzor飛行場のしつこいSA-6が、味方にとって最大の障害だった。敵の前進をうまくカバーしてたからな。たぶん司令部は、いざというときにTLAMかHIMARSで即座に潰せるよう、位置を再確認してたんだろう。でも俺の予想だと、外交ルートでロシア側に「あれの電源を切れ。さもなくばこちらが切る」と圧力をかけたんじゃないかと思う。そして実際に、それで電源が落ちた。おかげで、こっちはAO内で自由に動けるようになったってわけだ。\
+\
+それから敵の防空位置を報告してCHARLESTON方面に戻ったら、ちょうど敵の迫撃砲が米軍陣地を砲撃中で、即座に味方の砲兵が反撃して敵を粉砕してるところだった。その直後、敵のT-72が3両、SA-6のカバーの下で前進してきた。\
+\
+俺たちはHangmanに、Maverickで戦車を撃てると伝えた。しかもSA-6の射程外からな。俺は命中させたけど、お前は外したな。とはいえ、それでも十分で、3両目は退却していった。（目標を外した分で-20ポイント）\
+\
+その後、連携ゼロの状態でロシア側が攻撃を開始してきた。小隊規模の部隊がCHARLESTONに接近しようとしたが、ちょうどそのときSA-6の電源が落ちて、アパッチが即座に飛びかかって撤退させた。\
+\
+さらに敵は、兵員を載せたAPCを4両こちらに向けて送ってきた。俺たちは突入して応戦。俺の目標は撃破できたが、お前はまた外したな。でも幸運なことに、Volly編隊がHellfireで残りを片付けてくれた。（APCを外したため-20ポイント）\
+\
+その間、F-15EがCHARLESTON南西の目標を叩いていて、長距離爆撃機がさらに打撃を与えるために接近中だった。俺たちの最後の任務は、敵歩兵が潜んでいた最後の建物を破壊することだったが、難なく成功。その後は帰還して着陸。\
+\
+断言するけど、今日という日は、米露両軍の現代における最大規模の直接戦闘として記録されるだろうな……まあ、どうせロシアは「そこにロシア人なんていなかった」とでも言うんだろうけどさ、ハッ！",
+    ["DictKey_subtitle_771"] = "PLAYER: ラジャー。  ",
+    ["DictKey_ActionRadioText_808"] = "周波数変更",
+    ["DictKey_subtitle_185"] = "PLAYER: Two、ラジャー。西端の戦車はもらう。",
+    ["DictKey_subtitle_98"] = "DARKSTAR: Weasel 41、了解。ATLANTAにセンサーを向け、MANTISが移動していないことを確認してくれ。  ",
+    ["DictKey_subtitle_118"] = "ONSLAUGHT: 99、Onslaught。Hangmanより、CHARLESTONに迫撃砲および砲撃ありとの報告。  ",
+    ["DictKey_ActionRadioText_416"] = "2: 繰り返しを要求（Fighter to fighter）",
+    ["DictKey_subtitle_179"] = "WEASEL 41（BEAR）: Two、One。最大距離からロックできれば、一発ずつ撃ってGainfulに捕まる前に離脱できる。  ",
+    ["DictKey_subtitle_396"] = "HANGMAN: Chap、Hangman、ラジャー。  ",
+    ["DictKey_subtitle_302"] = "WEASEL 41（BEAR）: Hangman、Weasel 41。戦車1両と歩兵小隊を確認。チェックポイントへ向かう道路上。  ",
+    ["DictKey_subtitle_250"] = "CHAP 71: Chap 71、準備完了。  ",
+    ["DictKey_subtitle_110"] = "DARKSTAR: Darkstar、復唱。3-7 Sierra、Foxtrot Victor 5-9-7-0 6-9-6-6。  ",
+    ["DictKey_subtitle_120"] = "CHAP 71: Chap 71。CHARLESTONの東および西で爆発を確認。直撃は今のところなし。  ",
+    ["DictKey_subtitle_222"] = "ONSLAUGHT: ラジャー。  ",
+    ["DictKey_subtitle_666"] = "WEASEL 41（BEAR）: アプローチ、Weasel 41、Eagle通過後、Towerに切り替え。  ",
+    ["DictKey_subtitle_344"] = "VOLLY 31: Hangman、Volly 31。  ",
+    ["DictKey_subtitle_220"] = "HANGMAN: Onslaught、Hangman、了解。チェックポイントにいた部隊はすでにこちらに到着済み。  ",
+    ["DictKey_subtitle_358"] = "WEASEL 41（BEAR）: Weasel 41、APC撃破！  ",
+    ["DictKey_subtitle_300"] = "HANGMAN: Chap 71、Hangman、了解。  ",
+    ["DictKey_subtitle_48"] = "WEASEL 41（BEAR）: 注意、ZSU-23をATLANTAの反対側に確認。滑走路28の端の駐機エリア付近、高度約500フィート。確認できるか？  ",
+    ["DictKey_ActionRadioText_722"] = "周波数変更",
+    ["DictKey_subtitle_246"] = "CHAP 71: Chap 71、アファーム！  ",
+    ["DictKey_subtitle_398"] = "WEASEL 41（BEAR）: Two、One。Fighter to fighter。Line abreast、shooter - shooter、AGM-65、北から進入、北へ離脱。ソートは東。  ",
+    ["DictKey_subtitle_503"] = "HANGMAN: Weasels、目標破壊、ステーションへ戻れ。  ",
+    ["DictKey_subtitle_406"] = "WEASEL 41（BEAR）: Two、One。ウェポンズホールド、ステーションへ戻る。  ",
+    ["DictKey_ActionRadioText_597"] = "",
+    ["DictKey_subtitle_638"] = "PLAYER: Two、フェンスアウト。  ",
+    ["DictKey_subtitle_499"] = "ONSLAUGHT: Onslaught、SPARKLE中止、位置変更中。  ",
+    ["DictKey_subtitle_143"] = "HANGMAN: Weasel 41、Hangman、ラジャー！9ライン：1〜3 NA、高度690フィート、開けた地形に戦車、IRでマーキング済み、位置はHQの北東1マイル、離脱方向は北！  ",
+    ["DictKey_subtitle_769"] = "WEASEL 41（BEAR）: Two、ビンゴを6000に設定して、フェンスイン。  ",
+    ["DictKey_subtitle_56"] = "PLAYER: ラジャー。  ",
+    ["DictKey_subtitle_362"] = "PLAYER: Weasel 42、目標確認できず。  ",
+    ["DictKey_subtitle_68"] = "DARKSTAR: VOLLY 31、Darkstar、アファーム。  ",
+    ["DictKey_subtitle_457"] = "WEASEL 41（BEAR）: Hangman、アファーム。  ",
+    ["DictKey_ActionText_585"] = "",
+    ["DictKey_subtitle_688"] = "INCIRLIK TOWER: Weasel 41、滑走路から離脱後Groundへスイッチせよ。  ",
+    ["DictKey_subtitle_491"] = "WEASEL 41（BEAR）: Hangman、Weasels、東から進入。  ",
+    ["DictKey_subtitle_530"] = "CHAP 71: Chap 71、GBU-12、東から西への進入、西へ離脱。  ",
+    ["DictKey_subtitle_544"] = "HANGMAN: Chap 71、進入方向を報告してくれ。  ",
+    ["DictKey_subtitle_42"] = "WEASEL 41（BEAR）: Two、どうだった？  ",
+    ["DictKey_subtitle_552"] = "CHAP 71: Chap 71、東から進入中。  ",
+    ["DictKey_subtitle_521"] = "CHAP 71: Chap 71、準備完了。  ",
+    ["DictKey_subtitle_497"] = "PLAYER: Weasel 42、1発投下！  ",
+    ["DictKey_subtitle_238"] = "HANGMAN: ガンで攻撃せよ。2機同時に目標へ。再攻撃も許可する。  ",
+    ["DictKey_subtitle_76"] = "WEASEL 41（BEAR）: Weasel 4 flight、空中給油パターンを離脱、ステーションへ復帰中。  ",
+    ["DictKey_subtitle_30"] = "WEASEL 41（BEAR）: ああ、間違いないな。  ",
+    ["DictKey_subtitle_670"] = "WEASEL 41（BEAR）: Weasels、PRIのボタン4へ。  ",
+    ["DictKey_subtitle_386"] = "CHAP 72: Chap 72、ウェポンアウェイ！  ",
+    ["DictKey_subtitle_181"] = "PLAYER: ラジャー、やろう！  ",
+    ["DictKey_subtitle_625"] = "DARKSTAR: ラジャー、Weasel 41。Shellへの進路指示は必要か？  ",
+    ["DictKey_subtitle_130"] = "WEASEL 41（BEAR）: Weasels、チェック。  ",
+    ["DictKey_ActionText_581"] = "",
+    ["DictKey_subtitle_511"] = "ONSLAUGHT: Hangman、Onslaught、位置についた。HANDSHAKE。  ",
+    ["DictKey_ActionRadioText_614"] = "周波数変更",
+    ["DictKey_subtitle_476"] = "WEASEL 41（BEAR）: Hangman、Weasel 41、ラジャー。  ",
+    ["DictKey_subtitle_644"] = "PLAYER: Two。  ",
+    ["DictKey_subtitle_631"] = "WEASEL 41（BEAR）: Weasel 41。  ",
+    ["DictKey_subtitle_567"] = "WEASEL 41（BEAR）: Two、One。PRIでDarkstarに切り替えろ。  ",
+    ["DictKey_ActionRadioText_648"] = "周波数変更",
+    ["DictKey_subtitle_660"] = "WEASEL 41（BEAR）: Incirlikアプローチ、Weasel 41、F-16が2機、情報Hotelを取得、滑走路05への初期進入を要請。  ",
+    ["DictKey_subtitle_690"] = "WEASEL 41（BEAR）: Tower、Weasel 41、了解。  ",
+    ["DictKey_subtitle_556"] = "HANGMAN: Weasel 41、RTB許可。今日はよくやってくれた！  ",
+    ["DictKey_subtitle_636"] = "PLAYER: Two。  ",
+    ["DictKey_subtitle_662"] = "APPROACH: Weasel flight、Incirlikアプローチ。レーダーコンタクト。Eagle上空で5000フィートMSLまで降下し、Towerへコンタクト。滑走路05への目視進入を予定。  ",
+    ["DictKey_subtitle_230"] = "HANGMAN: Onslaught、Hangman、了解！ブレイク。Volly 31、9ラインの準備ができたら報告を！",
+    ["DictKey_subtitle_348"] = "VOLLY 31: Volly 31、ラジャー。  ",
+    ["DictKey_subtitle_288"] = "VOLLY 31: Volly 31。  ",
+    ["DictKey_subtitle_212"] = "HANGMAN: 待て……確認。今のところ無害だ。ブレイク。Volly 31、視認できるか？  ",
+    ["DictKey_subtitle_623"] = "WEASEL 41（BEAR）: Weasel 4 flight、vulタイム終了、RTB。  ",
+    ["DictKey_subtitle_342"] = "HANGMAN: Volly 31、Hangman。  ",
+    ["DictKey_ActionRadioText_415"] = "1: 確認（Fighter to fighter）",
+    ["DictKey_subtitle_122"] = "WEASEL 41（BEAR）: Darkstar、Weasel 41、他に任務はあるか？  ",
+    ["DictKey_ActionText_780"] = "",
+    ["DictKey_ActionRadioText_410"] = "1: 確認（Fighter to fighter）",
+    ["DictKey_ActionText_810"] = "",
+    ["DictKey_ActionRadioText_586"] = "1: 確認（Fighter to fighter）",
+    ["DictKey_subtitle_102"] = "WEASEL 41（BEAR）: Darkstar、Weasel 41、MANTISを視認、位置に変化なし。Shilkaも視認中。  ",
+    ["DictKey_subtitle_161"] = "PLAYER: Weasel 42、ライフル！  ",
+    ["DictKey_ActionText_598"] = "",
+    ["DictKey_subtitle_364"] = "HANGMAN: Weasel 4編隊、北へ離脱、ウェポンズホールド。ブレイク。Volly 31、攻撃許可！  ",
+    ["DictKey_subtitle_132"] = "PLAYER: Weasel 42。  ",
+    ["DictKey_subtitle_629"] = "DARKSTAR: Darkstar、了解。ホームプレートへ直行を許可。  ",
+    ["DictKey_subtitle_833"] = "PLAYER: Two、フェンスイン。  ",
+    ["DictKey_subtitle_153"] = "HANGMAN: Weasel 41、Hangman、SPARKLE。クリアードホット、クリアードホット！  ",
+    ["DictKey_subtitle_394"] = "CHAP 71: Chap 71、車両4両すべて無力化、ステーションへ戻る。  ",
+    ["DictKey_subtitle_159"] = "WEASEL 41（BEAR）: Weasel 41、ライフル！  ",
+    ["DictKey_subtitle_370"] = "CHAP 71: Chap 71、道路上のトラック、リマーク受信準備完了。  ",
+    ["DictKey_ActionText_607"] = "(Darkstarに切替)",
+    ["DictKey_subtitle_569"] = "PLAYER: Two。  ",
+    ["DictKey_ActionText_1028"] = "いやあ、今回はかなり激しかったな、Chaos。正直言って、ワグナー部隊が米軍に正面から仕掛けてくるなんて思ってなかったし、向こうもそれでどんな反応を招くかなんて想像してなかっただろうな。俺たちがあいつらの位置を完全に把握してて、常に監視してたってことも知らなかったはずだ。それが、あれだけの火力を短時間で集中させられた理由ってわけさ。\
+\
+さて、 任務 の内容を振り返ってみよう。\
+\
+最初のうちは雲の中を突き抜けながら給油して時間を潰してたけど、呼び出しがかかったらすぐに出番だった。Deir Ezzor飛行場にいたあの厄介なSA-6が、こちら側にとって最大の脅威だったな。敵の前進をかなり効果的にカバーしていた。たぶん司令部は、トマホークかHIMARSで即座に潰す必要があるかもしれないと思って、あのSAMの位置を再確認してたんだろう。でも、俺の予想じゃ、外交筋がロシア側に「あれを止めないなら、こっちで止めるぞ」って言ったんじゃないかと思う。そして、それが効いた。おかげで俺たちは何の制限もなく自由にAOで動けたってわけだ。\
+\
+その後、敵の防空位置を報告してから、俺たちはCHARLESTON方面に戻った。ちょうどその時、敵の迫撃砲が米軍陣地を攻撃してきたのを見たんだが、うちの砲兵があっという間に吹き飛ばした。\
+\
+さらにT-72が3両、SA-6にカバーされながら前進を開始。俺たちはHangmanに、Maverickで戦車を撃てると報告した。しかも、SA-6の反撃圏外からな。で、俺たちはそれぞれ目標に命中させて、3両目のT-72は逃げ出した。\
+\
+そして、まったく連携が取れてない見事な例として、ロシア側はCHARLESTONに向かって歩兵小隊を突っ込ませてきた。だが運が悪かったな、そのタイミングでSA-6の電源が落ちた。直後にうちのアパッチが飛びかかって、敵を退却させた。\
+\
+さらに、敵はAPCを4両、増援として送り込んできた。俺たちは突入して2両を撃破、残りの2両はVolly編隊が仕留めた。\
+\
+その頃にはF-15Eがさらに南西方面の目標を攻撃してたし、戦略爆撃機も飛来して、さらなるダメージを与えていた。そして俺たちの最後の任務は、敵歩兵が籠もっていた建物を破壊すること。問題なくクリアして、そのまま基地に帰還して着陸した。\
+\
+いいか、今日の出来事は、現代における米露間最大の直接戦闘として記録されることになるだろう…もっとも、ロシア側は「ロシア人は一人もいなかった」と主張するだろうけどな。ハッ！",
+    ["DictKey_subtitle_28"] = "PLAYER: だな。それでも、何かあった時のためのプランBはあるだろ？  ",
+    ["DictKey_subtitle_449"] = "HANGMAN: Weasel 41、まだ通信中か？  ",
+    ["DictKey_ActionText_205"] = "",
+    ["DictKey_subtitle_274"] = "HANGMAN: Chap 71、クリアードホット、クリアードホット！  ",
+    ["DictKey_subtitle_92"] = "ONSLAUGHT: CHARLESTON上空の各機へ、Onslaughtより状況更新。Hangmanによれば、戦車3両が彼の位置から南西に1マイルの地点で停止中。さらに南西1.5マイルの町に大部隊が残存。  ",
+    ["DictKey_subtitle_534"] = "CHAP 72: Chap 72、準備完了。  ",
+    ["DictKey_ActionText_786"] = "",
+    ["DictKey_subtitle_354"] = "WEASEL 41（BEAR）: Weasel 41、ライフル！  ",
+    ["DictKey_ActionText_590"] = "（応答を選択）",
+    ["DictKey_subtitle_189"] = "PLAYER: Two。  ",
+    ["DictKey_subtitle_474"] = "HANGMAN: GBU-12を使用し、東から西への進入を要請。  ",
+    ["DictKey_subtitle_408"] = "PLAYER: Two。  ",
+    ["DictKey_ActionRadioText_207"] = "",
+    ["DictKey_subtitle_64"] = "DARKSTAR: Volly 31、Darkstar、どうぞ。  ",
+    ["DictKey_subtitle_240"] = "VOLLY 31: Hangman、Volly 31、ラジャー。  ",
+    ["DictKey_subtitle_169"] = "HANGMAN: Weasel 42、Hangman、命中せず、再攻撃を許可！  ",
+    ["DictKey_subtitle_654"] = "[ATIS情報] Incirlik空軍基地、情報Romeo、時刻10:55。風は010から4ノット、視程10マイル以上、雲は14,000フィートに散在。気温20度、高度計2978。使用滑走路は05。目視進入を想定。情報Romeoの受信を確認せよ。  ",
+    ["DictKey_subtitle_242"] = "VOLLY 31: Volly 3編隊、北東から進入、複数回攻撃予定。  ",
+    ["DictKey_subtitle_236"] = "VOLLY 31: Hangman、Volly 31、歩兵目標補足済み、リマーク受信準備完了。  ",
+    ["DictKey_ActionText_788"] = "",
+    ["DictKey_subtitle_615"] = "WEASEL 41（BEAR）: Weasels、チェック。  ",
+    ["DictKey_ActionRadioText_812"] = "フェンスアウト",
+    ["DictKey_subtitle_380"] = "VOLLY 31: Volly 31、残りのAPC撃破。歩兵に対しガンで攻撃に入る。",
+    ["DictKey_subtitle_680"] = "WEASEL 41（BEAR）: 滑走路05ストレートイン進入のため、1500フィートまで降下。  ",
+    ["DictKey_subtitle_44"] = "PLAYER: 今対応中だ、スタンバイ。  ",
+    ["DictKey_subtitle_517"] = "CHAP 71: Chap 71、どうぞ。  ",
+    ["DictKey_ActionRadioText_418"] = "",
+    ["DictKey_subtitle_746"] = "HANGMAN: Onslaught、Hangman、助かる。  ",
+    ["DictKey_subtitle_565"] = "PLAYER: Two、ラジャー。  ",
+    ["DictKey_subtitle_678"] = "INCIRLIK TOWER: Weasel 41、Tower。滑走路05へのストレートイン進入のため1500フィートMSLまで降下。5マイル地点で初期報告せよ。  ",
+    ["DictKey_subtitle_234"] = "ONSLAUGHT: Volly、タイプ1適用、1〜3 N/A、高度695フィート、開けた地形に歩兵、ノーマーク、北東1,300メートル、離脱方向は東。  ",
+    ["DictKey_subtitle_744"] = "ONSLAUGHT: Hangman、Onslaught、迫撃砲を捕捉。現在、砲撃任務の準備中。スタンバイ。  ",
+    ["DictKey_subtitle_451"] = "HANGMAN: ラジャー。ブレイク。Weasel 41、応答を。  ",
+    ["DictKey_subtitle_286"] = "HANGMAN: ラジャー、Volly 31！攻撃中止、俺の位置から北でオービットせよ。  ",
+    ["DictKey_subtitle_128"] = "DARKSTAR: ラジャー、切り替え許可。  ",
+    ["DictKey_subtitle_550"] = "HANGMAN: Bone 41、Hangman、ラジャー！CHARLESTONから50NM地点でホールドせよ。その位置で待機してくれ、間もなくターゲット情報を送る！ ",
+    ["DictKey_subtitle_601"] = "HANGMAN: Bone 41、Hangman。  ",
+    ["DictKey_subtitle_682"] = "WEASEL 41（BEAR）: タワー、Weasel 41、滑走路05最終進入中。  ",
+    ["DictKey_ActionText_802"] = "",
+    ["DictKey_subtitle_694"] = "INCIRLIK TOWER: Weasel 42、タワー、滑走路05への着陸を許可、風095から4ノット。  ",
+    ["DictKey_subtitle_714"] = "PLAYER: Weasel 42、Delta、Golf、Hotel経由でHotel 30へタクシー。  ",
+    ["DictKey_subtitle_34"] = "PLAYER: ラジャー。  ",
+    ["DictKey_subtitle_100"] = "WEASEL 41（BEAR）: Darkstar、Weasel 41、ラジャー、スタンバイ。  ",
+    ["DictKey_ActionRadioText_726"] = "周波数変更",
+    ["DictKey_ActionRadioText_728"] = "Taxi Spot 30",
+    ["DictKey_subtitle_332"] = "WEASEL 41（BEAR）: Weasel 41、APC、Foxtrot Victor 175 082。リマーク受信準備完了。  ",
+    ["DictKey_subtitle_1013"] = "PLAYER: スタンバイ。  ",
+    ["DictKey_subtitle_60"] = "PLAYER: Two。  ",
+    ["DictKey_subtitle_482"] = "HANGMAN: Weaselsが投下したら、Chap 71が報告した町の追加目標に目を向けてくれ。  ",
+    ["DictKey_ActionText_795"] = "",
+    ["DictKey_subtitle_523"] = "HANGMAN: 9ラインAlpha。タイプ3、1〜3 N/A、高度660フィート、戦車、Foxtrot Victor 1654 0877、ノーマーク、脅威なし、東へ離脱。  ",
+    ["DictKey_ActionRadioText_831"] = "フェンスイン",
+    ["DictKey_subtitle_126"] = "WEASEL 41（BEAR）: Weasel 4編隊、CHARLESTONへ戻る。Hangmanのネットに切り替える。  ",
+    ["DictKey_subtitle_171"] = "PLAYER: Weasel 42。  ",
+    ["DictKey_subtitle_428"] = "ONSLAUGHT: Hangman、Onslaught。チェックポイントの西側を攻撃していた敵歩兵が、Chap 71が攻撃した建物の隣の家に退避。攻撃を推奨。  ",
+    ["DictKey_subtitle_762"] = "",
+    ["DictKey_subtitle_334"] = "HANGMAN: AGM-65使用、北から南への進入。2機同時に攻撃せよ。  ",
+    ["DictKey_ActionText_425"] = "",
+    ["DictKey_subtitle_760"] = "ONSLAUGHT: こちらOnslaught、効果良好。敵迫撃砲部隊は壊滅。  ",
+    ["DictKey_subtitle_62"] = "VOLLY 31: Darkstar、Volly 31。  ",
+    ["DictKey_ActionText_799"] = "",
+    ["DictKey_ActionRadioText_773"] = "周波数変更",
+    ["DictKey_subtitle_214"] = "VOLLY 31: Hangman、Volly 31、アファーム。敵歩兵20名。敵SAMは依然稼働中で、交戦不可。  ",
+    ["DictKey_subtitle_224"] = "WEASEL 41（BEAR）: Two、One。MANTISが消えた。そっちも確認できるか？  ",
+    ["DictKey_subtitle_392"] = "HANGMAN: ナイスショットだChaps、その調子でいけ！  ",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_subtitle_163"] = "CHAP 71: チャフ、SAM発射、ATLANTA！  ",
+    ["DictKey_ActionRadioText_729"] = "Taxi Spot 30",
+    ["DictKey_subtitle_114"] = "DARKSTAR: Darkstar、Shilka、Foxtrot Victor 8-5-8-8 5-2-2-8。  ",
+    ["DictKey_subtitle_12"] = "WEASEL 41（BEAR）: Two、One。PRIでDarkstarに切り替えろ。  ",
+    ["DictKey_subtitle_312"] = "WEASEL 41（BEAR）: Weasel 41。  ",
+    ["DictKey_ActionRadioText_411"] = "2: 繰り返しを要求（Fighter to fighter）",
+    ["DictKey_ActionText_594"] = "",
+    ["DictKey_subtitle_32"] = "WEASEL 41（BEAR）: Two、One。ここでホールドする。  ",
+    ["DictKey_subtitle_540"] = "HANGMAN: GBU-12を使用、南東から北西へ進入、西へ離脱。  ",
+    ["DictKey_subtitle_388"] = "CHAP 72: Chap 72、ヒット良好！  ",
+    ["DictKey_subtitle_434"] = "HANGMAN: Chap 71、Hangman、了解。  ",
+    ["DictKey_subtitle_330"] = "HANGMAN: 9ラインは次の通り。タイプ3適用、1〜4 N/A、開けた地形のAPC、Foxtrot Victor 175 082、ノーマーク、北西4,000メートル、離脱方向北。  ",
+    ["DictKey_subtitle_461"] = "WEASEL 41（BEAR）: Hangman、Weasel 41、ウィルコ。  ",
+    ["DictKey_subtitle_528"] = "HANGMAN: GBU-12を使用し、東から西への進入、西へ離脱を要請。  ",
+    ["DictKey_subtitle_495"] = "WEASEL 41（BEAR）: Weasel 41、1発投下！",
+    ["DictKey_ActionRadioText_422"] = "",
+    ["DictKey_ActionRadioText_587"] = "2: 繰り返しを要求（Fighter to fighter）",
+    ["DictKey_subtitle_767"] = "SHELL 11: ラジャー、Weasel。健闘を祈る。  ",
+    ["DictKey_ActionText_803"] = "",
+    ["DictKey_subtitle_74"] = "DARKSTAR: Weasel 41、送れ。  ",
+    ["DictKey_subtitle_558"] = "",
+    ["DictKey_subtitle_684"] = "INCIRLIK TOWER: Weasel 41、Tower、滑走路05への着陸を許可、風095から4ノット。  ",
+    ["DictKey_ActionRadioText_419"] = "",
+    ["DictKey_ActionText_727"] = "",
+    ["DictKey_subtitle_94"] = "CHAP 71: こちらChap 71、了解。CHARLESTONから225方向、1.2マイルに戦車3両を確認。  ",
+    ["DictKey_subtitle_326"] = "HANGMAN: 復唱良好。Onslaught、クリアードホット！ブレイク、Weasel 41、9ライン準備できたか？  ",
+    ["DictKey_subtitle_252"] = "HANGMAN: Chap 71、9ラインAlpha。タイプ2、1〜3 N/A、高度696フィート、建物内の歩兵、座標 Foxtrot Victor 18017 10385、ノーマーク、北東1,500メートル、離脱方向は東。  ",
+    ["DictKey_ActionText_426"] = "ROE",
+    ["DictKey_subtitle_459"] = "HANGMAN: Weasels、Onslaughtが建物をマーキングしたら、GBU-12を1機ずつ投下してくれ。9ラインを送る、スタンバイ。  ",
+    ["DictKey_subtitle_260"] = "HANGMAN: Chap 71、復唱良好！ブレイク、Chap 72、9ラインbravoの準備ができたら言ってくれ。  ",
+} -- end of dictionary

@@ -1,0 +1,830 @@
+dictionary = 
+{
+    ["DictKey_subtitle_249"] = "VADER: Weasel 32、命中良好、MANPAD無力化！",
+    ["DictKey_subtitle_713"] = "COWBOY 41: Cowboy 41、どうぞ。",
+    ["DictKey_subtitle_457"] = "WEASEL 32（SUSPECT）: あいつら本気であのHawgのこと嫌ってるな！",
+    ["DictKey_ActionRadioText_1080"] = "",
+    ["DictKey_subtitle_798"] = "WEASEL 32（SUSPECT）: Two、フェンスアウト。",
+    ["DictKey_ActionText_186"] = "",
+    ["DictKey_ActionRadioText_772"] = "周波数変更  ",
+    ["DictKey_ActionText_1096"] = "",
+    ["DictKey_ActionText_36"] = "",
+    ["DictKey_subtitle_500"] = "PLAYER: 了解。Oneは爆弾が1発残っている。",
+    ["DictKey_ActionText_26"] = "W33 bomb",
+    ["DictKey_subtitle_1070"] = "WEASEL 32（SUSPECT）: Two。",
+    ["DictKey_ActionText_680"] = "（PRIでDarkstarに切り替え）",
+    ["DictKey_subtitle_116"] = "PLAYER: Vader、Weasel 31、GBU-12一発、北西からアプローチ、離脱は西。",
+    ["DictKey_ActionRadioText_591"] = "ビンゴ報告 & RTB  ",
+    ["DictKey_subtitle_341"] = "WEASEL 32（SUSPECT）: Weasel 32。",
+    ["DictKey_subtitle_84"] = "VADER: Weasel 31、こちらVader。上空に無人機2機が目標を監視中。Hawg 3は10分後にオンステーション。Cowboy 41はリーフレットを2回投下してAO離脱。現在Omahaに50台以上のオイルトラックあり。ビラ投下時に数台と人員が離脱。",
+    ["DictKey_ActionRadioText_962"] = "周波数変更  ",
+    ["DictKey_ActionText_656"] = "",
+    ["DictKey_subtitle_353"] = "HAWG 31: Hawg 31、爆弾投下！",
+    ["DictKey_subtitle_616"] = "PLAYER: Weasels、PRI 6へ。",
+    ["DictKey_ActionRadioText_990"] = "",
+    ["DictKey_subtitle_397"] = "HAWG 34: Hawg 34、突入中。",
+    ["DictKey_ActionText_13"] = "C32 bombs",
+    ["DictKey_ActionRadioText_585"] = "",
+    ["DictKey_subtitle_129"] = "PLAYER: Weasel 31。",
+    ["DictKey_ActionRadioText_1029"] = "Enable Easy Mode",
+    ["DictKey_ActionRadioText_1146"] = "",
+    ["DictKey_ActionRadioText_1105"] = "",
+    ["DictKey_ActionText_999"] = "",
+    ["DictKey_subtitle_787"] = "CHECKMATE 41: Darkstar、Checkmate 41、了解。",
+    ["DictKey_subtitle_241"] = "VADER: Weasel 31、SAM発射！",
+    ["DictKey_subtitle_850"] = "PLAYER: 着陸許可、滑走路05、Weasel 31。",
+    ["DictKey_ActionText_551"] = "",
+    ["DictKey_ActionRadioText_176"] = "1：復唱  ",
+    ["DictKey_ActionText_1041"] = "よし、Suspect、今日の出撃を振り返ろう。かなり面白いミッションだったな。ISのおかげで俺たちにもHawgにも、ターゲットには困らない状況だった。\
+\
+離陸からオンステーションまでは問題なし。途中、ロシアのSu-34が突然現れたが、距離を保ってくれて助かった。\
+\
+フェンスインしてVADERとチェックイン、そこからが本番だった。まずはVADERがMANPADの存在を疑っていた家を攻撃。その後、俺が威嚇飛行を実施した。\
+\
+俺たちはWeaselsだ。敵に撃たせるにはこれ以上ない手段だろ？で、実際にやってみた。ミサイルが発射された瞬間に警告をくれたのはナイスだった。おかげで回避できたが、その間にお前がマーベリックで発射源を叩いてくれた。よくやった！\
+\
+ただ、ミサイルはかなり近くまで来てて、爆発の衝撃を感じた。幸い大きな損傷はなかったから任務続行できたが、少しヒヤッとしたな。（被弾でマイナス5ポイント）\
+\
+その後は、マーベリックでテクニカルを2両撃破。続いてHawgたちがISのトラックをクラスター爆弾で叩き始めた。あれは見応えあったな！敵はすぐに我慢できなくなって、中口径のAAAを展開、Hawgに向けて発砲を開始。でもこっちもすぐに反撃して、2門とも破壊。\
+\
+どうもISはHawg 32が気に食わなかったらしく、あいつが爆弾を落とそうとするたびに新しい対空砲を撃ってきた。2回目のアタックでは、3門目の対空砲が発射。それもすぐに位置を特定して破壊した。\
+\
+その後はRTB。Hawg 31の話では、AO内に残った脅威はなかったとのこと。俺たちも問題なく帰還して、無事に着陸した。",
+    ["DictKey_ActionRadioText_550"] = "",
+    ["DictKey_subtitle_717"] = "COWBOY 41: Bravo 3へ進路変更、Venom 21とMagenta 5で交信。",
+    ["DictKey_subtitle_645"] = "PLAYER: Weasel 3。",
+    ["DictKey_ActionRadioText_1119"] = "フェンスイン  ",
+    ["DictKey_subtitle_465"] = "WEASEL 32（SUSPECT）: マーベリック1発と爆弾1発が残ってる。",
+    ["DictKey_ActionRadioText_195"] = "",
+    ["DictKey_subtitle_371"] = "PLAYER: Vader、了解。Weasel攻撃に入る。",
+    ["DictKey_subtitle_292"] = "PLAYER: Weasel 31、ウェポンリリース！",
+    ["DictKey_ActionRadioText_989"] = "",
+    ["DictKey_ActionText_44"] = "AAA4",
+    ["DictKey_subtitle_100"] = "PLAYER: Vader、Weasel 31、所定位置に到着、Omaha視認中。",
+    ["DictKey_ActionText_580"] = "",
+    ["DictKey_ActionText_69"] = "Bomb Away",
+    ["DictKey_subtitle_731"] = "WEASEL 32（SUSPECT）: 了解。近いうちにそっちでも派手にやることになりそうだな。",
+    ["DictKey_ActionText_15"] = "",
+    ["DictKey_ActionText_684"] = "",
+    ["DictKey_ActionRadioText_1107"] = "ビンゴ報告 & RTB  ",
+    ["DictKey_subtitle_502"] = "PLAYER: 了解。Oneはウィンチェスター。",
+    ["DictKey_subtitle_753"] = "DARKSTAR: Weasel 31、Darkstar、ブルズアイ295、距離59、14000フィート、バンディット、西から北回りで旋回中。",
+    ["DictKey_subtitle_498"] = "PLAYER: 了解。Oneはマーベリックが1発残っている。",
+    ["DictKey_subtitle_838"] = "WEASEL 32（SUSPECT）: Weasel 32。",
+    ["DictKey_ActionRadioText_1121"] = "フェンスイン  ",
+    ["DictKey_subtitle_106"] = "VADER: Weasel flight、Vader、9ラインは以下の通り。115、10.7、1124フィート、建物、グリッドは37 Sierra、Delta Victor 56543 54140、ノーマーク、ノーファクター、離脱方向は西。",
+    ["DictKey_ActionText_945"] = "",
+    ["DictKey_ActionRadioText_954"] = "",
+    ["DictKey_subtitle_298"] = "PLAYER: Vader、Weasel 31、同意。Weasel 3 flight、ステーションへ戻る。",
+    ["DictKey_ActionRadioText_318"] = "",
+    ["DictKey_subtitle_157"] = "VADER: Weasel 32、Vader、クリアードホット！",
+    ["DictKey_ActionText_956"] = "",
+    ["DictKey_ActionText_668"] = "",
+    ["DictKey_ActionText_433"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_subtitle_596"] = "VADER: Hawg 31、待機。",
+    ["DictKey_ActionText_206"] = "",
+    ["DictKey_subtitle_759"] = "CHECKMATE 41: Darkstar、Checkmate 41、コンタクト。監視中。",
+    ["DictKey_ActionText_1043"] = "",
+    ["DictKey_ActionRadioText_196"] = "",
+    ["DictKey_subtitle_343"] = "PLAYER: Hawg 31、Weasel 31。AOはクリアに見える。",
+    ["DictKey_subtitle_96"] = "WEASEL 32（SUSPECT）: Two、フェンスイン、記録開始。",
+    ["DictKey_subtitle_816"] = "PLAYER: よし、PRIのボタン5へ。",
+    ["DictKey_subtitle_361"] = "VADER: Hawg 33、Vader、トラックへの命中良好。",
+    ["DictKey_subtitle_745"] = "PLAYER: Weasels、右チェック。",
+    ["DictKey_subtitle_496"] = "PLAYER: 了解。Oneはマーベリックと爆弾が1発ずつ残っている。",
+    ["DictKey_subtitle_108"] = "PLAYER: Vader、Weasel 31、9ラインをもう一度送ってくれ。",
+    ["DictKey_subtitle_471"] = "VADER: Weasel 32、クリアードホット！",
+    ["DictKey_subtitle_381"] = "WEASEL 32（SUSPECT）: Weasel 32、ライフル！",
+    ["DictKey_subtitle_268"] = "PLAYER: Vader、Weasel 31、AO内にテクニカル2台を確認、そのうち1台は対空射撃中。交戦許可を要請。",
+    ["DictKey_subtitle_163"] = "",
+    ["DictKey_ActionRadioText_56"] = "プレイヤー  ",
+    ["DictKey_ActionText_661"] = "",
+    ["DictKey_subtitle_393"] = "HAWG 32: Hawg 32、爆弾投下。",
+    ["DictKey_subtitle_703"] = "COWBOY 41: Cowboy 41、Omahaから離脱中、パッケージ投下済み。",
+    ["DictKey_subtitle_272"] = "PLAYER: Vader、了解。Weasel flight、交戦開始。",
+    ["DictKey_ActionRadioText_59"] = "",
+    ["DictKey_subtitle_436"] = "WEASEL 32（SUSPECT）: 1基はMANPADが隠れていた燃えている建物から東へ150メートル。もう1基は北側の燃えているトラック群から北西へ500メートル。",
+    ["DictKey_subtitle_733"] = "PLAYER: 攻勢が近いって話だ。うちの連中がISの勢力を削ってる最中で、ISは市街に兵器と火力をかき集めてる。",
+    ["DictKey_ActionText_24"] = "W31 bomb",
+    ["DictKey_ActionRadioText_996"] = "",
+    ["DictKey_subtitle_536"] = "PLAYER: Two、One、ビンゴ。",
+    ["DictKey_subtitle_363"] = "HAWG 32: Hawg 32、東から進入。",
+    ["DictKey_subtitle_542"] = "PLAYER: Two、了解。",
+    ["DictKey_ActionRadioText_916"] = "周波数変更  ",
+    ["DictKey_subtitle_632"] = "INCIRLIK TOWER: Weasel 31、Tower、Departureへスイッチせよ。",
+    ["DictKey_subtitle_820"] = "PLAYER: Weasels、PRIチェック。",
+    ["DictKey_ActionText_22"] = "",
+    ["DictKey_subtitle_765"] = "DARKSTAR: Weasel 31、了解。スイッチ許可。",
+    ["DictKey_subtitle_604"] = "PLAYER: 出発準備が整ったら知らせてくれ。",
+    ["DictKey_ActionRadioText_566"] = "ノージョイ  ",
+    ["DictKey_ActionText_428"] = "",
+    ["DictKey_subtitle_284"] = "PLAYER: Weasel 31、了解。",
+    ["DictKey_ActionText_565"] = "",
+    ["DictKey_ActionRadioText_563"] = "",
+    ["DictKey_subtitle_785"] = "DARKSTAR: シングルグループ、ブルズ271、距離74、24000フィート、フランキング、outlaw。",
+    ["DictKey_subtitle_856"] = "PLAYER: Ground、Weasel 31、タキシーウェイDeltaへ合流。",
+    ["DictKey_ActionText_25"] = "W32 bomb",
+    ["DictKey_ActionRadioText_675"] = "周波数変更  ",
+    ["DictKey_subtitle_266"] = "VADER: テクニカル、グリッドDelta Victor 5542 5357。",
+    ["DictKey_subtitle_489"] = "HAWG 33: Weasel 31、Hawg 33、砲台は燃えているトラックの南にある緑地帯の中だ。林の中の三角形の北端にある。",
+    ["DictKey_ActionRadioText_557"] = "",
+    ["DictKey_ActionRadioText_900"] = "周波数変更  ",
+    ["DictKey_ActionText_653"] = "（Ground周波数に切り替え、タキシー準備が整ったらスペースバーを押してください）",
+    ["DictKey_subtitle_800"] = "PLAYER: One、フェンスアウト。",
+    ["DictKey_ActionText_200"] = "",
+    ["DictKey_ActionRadioText_569"] = "1：AAAを確認  ",
+    ["DictKey_subtitle_1126"] = "PLAYER: Two、燃料は？",
+    ["DictKey_subtitle_862"] = "PLAYER: Delta、Golf、Hotel経由でHotel 31までタキシー、Weasel 31。",
+    ["DictKey_subtitle_715"] = "DARKSTAR: キルボックスBravo 3へ進路変更、Venom 21とMagenta 5で交信。",
+    ["DictKey_subtitle_221"] = "VADER: Weasel 31、Vader、継続せよ。",
+    ["DictKey_subtitle_145"] = "VADER: Weasel 31、クリアードホット、クリアードホット、クリアードホット！",
+    ["DictKey_ActionRadioText_986"] = "2：RTBが必要  ",
+    ["DictKey_ActionText_321"] = "HAWGS、到着。",
+    ["DictKey_subtitle_282"] = "VADER: Weasels、北側テクニカルへの命中なし。再攻撃を許可する。",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_subtitle_614"] = "PLAYER: Weasels、ボタン5へ。",
+    ["DictKey_ActionRadioText_1076"] = "2：空中給油後にRTB  ",
+    ["DictKey_subtitle_254"] = "PLAYER: Vader、Weasel 31、了解、捜索中。",
+    ["DictKey_subtitle_518"] = "VADER: Weasels、Vader、命中良好、離脱せよ、ブレイク。Hawg flight、攻撃続行。",
+    ["DictKey_subtitle_151"] = "VADER: Weasels、目標破壊！",
+    ["DictKey_ActionRadioText_545"] = "2：ターゲット誘導を要求  ",
+    ["DictKey_subtitle_538"] = "WEASEL 32（SUSPECT）: One、Twoも同じく。",
+    ["DictKey_ActionText_589"] = "（新しい選択肢 - ビンゴを報告）",
+    ["DictKey_subtitle_727"] = "WEASEL 32（SUSPECT）: Cowboyが俺たちの目標にビラを撒いたのか？",
+    ["DictKey_ActionRadioText_429"] = "2：Show of Forceを実施  ",
+    ["DictKey_subtitle_830"] = "PLAYER: Approach、Weasel 3、Eagle上、Towerへスイッチ。",
+    ["DictKey_ActionText_1047"] = "よし、Suspect、今日の出撃を振り返ろうか。とにかく面白いミッションだったな。ISのおかげで、俺たちにもHawgにもターゲットが山ほど用意されてた。\
+\
+離陸からオンステーションまでは順調、特に問題もなかった。ただ、途中でロシアのSu-34がいきなり現れたのはちょっと驚いたな。まあ、向こうは距離を保ってたけど。\
+\
+フェンスインしてVADERとチェックインしたところで、いよいよ本番開始だ。まずはVADERがMANPADの存在を疑っていた家を潰した。続いて俺がショー・オブ・フォースを実施。\
+\
+Weaselの仕事といえば、敵に撃たせることだろ？そう思って飛んだんだけど、どうやら敵は食いつかなかったらしい。撃ってこなかった。高度が高すぎたか、距離が遠すぎたかもな。（SAMに対して距離/高度が不適切でマイナス10ポイント）\
+\
+その後は、あの2台のテクニカルをマーベリックで片付けた。HawgたちはISのトラックをクラスターで派手に叩き始めた。いやぁ、見応えあったな！でも敵も黙ってなくて、中口径のAAAを持ち出してHawgに撃ち始めた。\
+\
+俺たちもすぐに応戦して、見事に2門とも潰した。Hawg 32はなぜか特に狙われてたみたいで、爆弾落とすたびに新しい対空砲が出てきた。2回目のパスで3門目が出てきたけど、それもすぐに叩いた。\
+\
+その後はRTB。Hawg 31の話によれば、AOに残ってる脅威はなかったらしい。俺たちは無事に帰還して、問題なく着陸した。",
+    ["DictKey_subtitle_858"] = "PLAYER: Ground、Weasel 31、タキシーウェイEchoへ合流。",
+    ["DictKey_subtitle_532"] = "PLAYER: Vader、Weasel 31、ビンゴ。RTBする必要あり。",
+    ["DictKey_ActionRadioText_202"] = "1：プレイヤーが攻撃  ",
+    ["DictKey_ActionRadioText_769"] = "周波数変更  ",
+    ["DictKey_ActionText_421"] = "（もう一度ショー・オブ・フォースを行うか、Hawg 31に攻撃許可を出すかをF10ラジオメニューで選択してください）",
+    ["DictKey_subtitle_749"] = "DARKSTAR: Weasel 31、Darkstar、ブルズアイ290、距離58、12000フィート、バンディット、ホット。フルバックの可能性大。",
+    ["DictKey_ActionRadioText_1083"] = "2：空中給油後にRTB  ",
+    ["DictKey_subtitle_647"] = "PLAYER: Departure、Weasel 31、離陸完了。",
+    ["DictKey_ActionText_19"] = "",
+    ["DictKey_subtitle_417"] = "PLAYER: Two、One、fighter to fighter。Wheel、shooter - shooter、誘導弾、西から進入。東を担当。",
+    ["DictKey_subtitle_741"] = "PLAYER: Weasels、PRIでRed 5へ。",
+    ["DictKey_ActionText_909"] = "",
+    ["DictKey_subtitle_345"] = "HAWG 31: Weasel 31、Hawg 31、了解。ブレイク。Vader、Hawg 3 flight、攻撃準備完了。",
+    ["DictKey_subtitle_217"] = "PLAYER: Weasel 31、了解、スタンバイ。",
+    ["DictKey_subtitle_805"] = "PLAYER: さあな。たぶん、連合軍の機体を1機でも落とせれば安いもんだって思ったんじゃないか？実際、今日も落とそうとしてきたしな。",
+    ["DictKey_ActionRadioText_1147"] = "ビンゴ報告 & RTB  ",
+    ["DictKey_subtitle_270"] = "VADER: Weasel 31、Vader、ROEは自己防衛。裁量で交戦せよ。",
+    ["DictKey_ActionRadioText_942"] = "周波数変更  ",
+    ["DictKey_ActionRadioText_1124"] = "タキシー準備完了  ",
+    ["DictKey_ActionRadioText_452"] = "",
+    ["DictKey_subtitle_719"] = "DARKSTAR: 復唱良好、急行せよ。",
+    ["DictKey_ActionText_27"] = "W33 bomb",
+    ["DictKey_subtitle_123"] = "VADER: Weasel 31、Vader、屋根にソーラーパネルと丸い煙突が2本ある建物を確認、すぐ西側の壁に古いフラットベッドトラックが駐車しているのを確認せよ。",
+    ["DictKey_subtitle_477"] = "VADER: Hawg、Vader、両目標の撃破を確認。続行せよ。",
+    ["DictKey_ActionRadioText_1142"] = "フェンスアウト  ",
+    ["DictKey_subtitle_775"] = "",
+    ["DictKey_subtitle_931"] = "DARKSTAR: Cowboy 41、Darkstar、送信どうぞ。",
+    ["DictKey_ActionRadioText_573"] = "1：プレイヤーが攻撃  ",
+    ["DictKey_ActionText_42"] = "",
+    ["DictKey_subtitle_127"] = "VADER: Weasel 31、Vader、了解。アプローチ方向を送信せよ。",
+    ["DictKey_ActionText_168"] = "",
+    ["DictKey_ActionRadioText_184"] = "",
+    ["DictKey_subtitle_239"] = "PLAYER: One、防御中！",
+    ["DictKey_subtitle_131"] = "PLAYER: Two、fighter to fighter準備はいいか？",
+    ["DictKey_ActionRadioText_905"] = "",
+    ["DictKey_ActionRadioText_578"] = "1：プレイヤーが攻撃  ",
+    ["DictKey_subtitle_666"] = "INCIRLIK TOWER: Weasel 31、Tower、離陸許可、滑走路05、風は050から4ノット。",
+    ["DictKey_subtitle_405"] = "HAWG 31: Hawg 31, weapons away!",
+    ["DictKey_subtitle_886"] = "DARKSTAR: Weasel 31、Darkstar、了解。ホームプレートへ直行せよ、現地には状況を通知済み。",
+    ["DictKey_ActionText_1114"] = "",
+    ["DictKey_subtitle_852"] = "INCIRLIK TOWER: Weasel 31、タキシーウェイDeltaへ、Groundへスイッチ。",
+    ["DictKey_subtitle_339"] = "HAWG 31: Weasel 31、Hawg 31、了解、待機中。",
+    ["DictKey_subtitle_834"] = "PLAYER: Weasels、PRIボタン4へ。",
+    ["DictKey_subtitle_409"] = "WEASEL 32（SUSPECT）: One、Two、下は静かに見える。",
+    ["DictKey_subtitle_709"] = "DARKSTAR: 了解、Cowboy 41、待機。",
+    ["DictKey_ActionRadioText_58"] = "",
+    ["DictKey_ActionRadioText_659"] = "周波数変更  ",
+    ["DictKey_subtitle_751"] = "PLAYER: Darkstar、Weasel 31、了解。",
+    ["DictKey_ActionText_1104"] = "",
+    ["DictKey_ActionText_454"] = "PL Shoots 2",
+    ["DictKey_ActionText_898"] = "",
+    ["DictKey_subtitle_534"] = "VADER: Weasel 31、Vader、了解。RTBを許可。",
+    ["DictKey_subtitle_516"] = "WEASEL 32（SUSPECT）: Weasel 32、AAAに攻撃を開始する。",
+    ["DictKey_ActionText_189"] = "F10ラジオメニューを使って補足情報を復唱するか、VADERに再送を依頼してください。",
+    ["DictKey_ActionRadioText_1015"] = "",
+    ["DictKey_subtitle_1136"] = "PLAYER: Weasel 31、Golf、Hotel経由でHotel 31へタキシー。",
+    ["DictKey_subtitle_407"] = "VADER: Hawg 31、ターゲットに命中。",
+    ["DictKey_subtitle_1132"] = "PLAYER: Two、帰るぞ。",
+    ["DictKey_ActionText_443"] = "",
+    ["DictKey_subtitle_475"] = "HAWG 32: Hawg 32、了解。",
+    ["DictKey_subtitle_690"] = "PLAYER: Darkstar、Weasel 3 flight、計画通りチェックイン、Omahaへ向かって移動中。",
+    ["DictKey_ActionText_169"] = "ステーション到着、最初の目標に対する9ラインを受け取る準備ができたらスペースバーを押してください。",
+    ["DictKey_ActionText_955"] = "",
+    ["DictKey_ActionText_38"] = "",
+    ["DictKey_subtitle_1060"] = "PLAYER: 了解、じゃあ一杯やりに行こうか。",
+    ["DictKey_subtitle_102"] = "VADER: Weasel 31、Vader、了解。攻撃態勢に移行、9ライン受け取り準備ができたら連絡を。",
+    ["DictKey_subtitle_161"] = "VADER: Weasel 32、良好な命中、BDAを待て。",
+    ["DictKey_subtitle_860"] = "INCIRLIK GROUND: Weasel 31、Ground、タキシーDelta、Golf、Hotel経由でHotel 31へ。",
+    ["DictKey_subtitle_810"] = "PLAYER: わからんね。燃料どうだ？",
+    ["DictKey_ActionText_31"] = "",
+    ["DictKey_subtitle_707"] = "COWBOY 41: Cowboy 41 flightはGBU-12が8発、20mm弾フルロード。",
+    ["DictKey_subtitle_153"] = "VADER: Weasel 31、ノージョイ、再攻撃を許可する。",
+    ["DictKey_subtitle_159"] = "WEASEL 32（SUSPECT）: Weasel 32、爆弾投下。",
+    ["DictKey_subtitle_618"] = "",
+    ["DictKey_ActionText_61"] = "",
+    ["DictKey_subtitle_1066"] = "",
+    ["DictKey_ActionRadioText_1031"] = "Enable Easy Mode",
+    ["DictKey_ActionText_1087"] = "",
+    ["DictKey_subtitle_620"] = "PLAYER: Tower、Weasel 31、Alphaでホールド、滑走路05、離陸準備完了。",
+    ["DictKey_subtitle_688"] = "WEASEL 32（SUSPECT）: Weasel 32。",
+    ["DictKey_ActionText_309"] = "（テクニカル2台を視認したらF10ラジオメニューで報告してください）",
+    ["DictKey_subtitle_814"] = "PLAYER: ロジャー。",
+    ["DictKey_subtitle_818"] = "WEASEL 32（SUSPECT）: Two。",
+    ["DictKey_subtitle_638"] = "INCIRLIK GROUND: Weasel 31、Hotelをタキシー、Golfをクロスして、Alpha滑走路05手前で待機。",
+    ["DictKey_ActionText_438"] = "（曳光弾の発射源を確認したらスペースバーを押すか、F10メニューでSUSPECTに目標誘導を依頼してください）",
+    ["DictKey_subtitle_403"] = "HAWG 31: Hawg 31、突入中。",
+    ["DictKey_subtitle_1089"] = "DARKSTAR: Weasel 31、Darkstar、了解。周辺はクリア。TexacoはトラックNovember上。",
+    ["DictKey_ActionRadioText_568"] = "H33にリピート要求  ",
+    ["DictKey_ActionRadioText_314"] = "2：テクニカルのグリッド要求  ",
+    ["DictKey_ActionText_12"] = "C31 bombs",
+    ["DictKey_ActionText_209"] = "",
+    ["DictKey_ActionRadioText_439"] = "1：AAAを確認  ",
+    ["DictKey_subtitle_125"] = "PLAYER: Vader、Weasel 31、それを確認。",
+    ["DictKey_ActionRadioText_1079"] = "2：空中給油後にRTB  ",
+    ["DictKey_ActionText_991"] = "",
+    ["DictKey_ActionText_964"] = "",
+    ["DictKey_subtitle_705"] = "DARKSTAR: Cowboy 41、了解。搭載兵装を報告せよ。",
+    ["DictKey_ActionText_317"] = "",
+    ["DictKey_subtitle_520"] = "HAWG 33: Hawg 33、南から進入。",
+    ["DictKey_ActionText_890"] = "可能ならF10ラジオメニューで返信を選んでください。",
+    ["DictKey_ActionRadioText_177"] = "2：リピート要求  ",
+    ["DictKey_subtitle_80"] = "VADER: Weasel 31、Vader、こちら5 by 5。どうぞ。",
+    ["DictKey_ActionText_48"] = "誰に攻撃させるかF10ラジオメニューで選択してください。",
+    ["DictKey_subtitle_866"] = "INCIRLIK GROUND: Weasel 32、Ground、Charlie、Golf、Hotel経由でHotel 29へタキシー。",
+    ["DictKey_subtitle_455"] = "PLAYER: Vader、Weasel 31、弾切れのため攻撃不能、ウィンチェスター。",
+    ["DictKey_subtitle_375"] = "HAWG 31: Hawg 31。",
+    ["DictKey_subtitle_434"] = "PLAYER: Two、One、目標が確認できない。誘導を頼む！",
+    ["DictKey_subtitle_461"] = "WEASEL 32（SUSPECT）: 爆弾が2発残ってる。",
+    ["DictKey_ActionRadioText_665"] = "周波数変更  ",
+    ["DictKey_ActionRadioText_422"] = "2：Show of Forceを実施  ",
+    ["DictKey_ActionText_674"] = "",
+    ["DictKey_subtitle_90"] = "PLAYER: ロジャー、待機。",
+    ["DictKey_subtitle_508"] = "WEASEL 32（SUSPECT）: Two。",
+    ["DictKey_subtitle_929"] = "COWBOY 41: Darkstar、Cowboy 41。",
+    ["DictKey_ActionText_670"] = "（PRIでデパーチャーに切り替え）",
+    ["DictKey_ActionText_951"] = "",
+    ["DictKey_subtitle_94"] = "WEASEL 32（SUSPECT）: Two。",
+    ["DictKey_ActionRadioText_595"] = "1：Hawg に攻撃を許可  ",
+    ["DictKey_subtitle_413"] = "WEASEL 32（SUSPECT）: Boom shaka-laka!",
+    ["DictKey_subtitle_256"] = "PLAYER: Vader、Weasel 31、テクニカル視認。",
+    ["DictKey_subtitle_223"] = "VADER: Weasel 31、Vader、もう一度パスしてくれ。今度は南から北へ。",
+    ["DictKey_subtitle_481"] = "HAWG 33: Hawg 32、注意しろ、AAAだ！回避！回避！",
+    ["DictKey_subtitle_121"] = "PLAYER: Vader、Weasel 31、目標建物を視認。",
+    ["DictKey_ActionRadioText_910"] = "",
+    ["DictKey_ActionRadioText_946"] = "周波数変更  ",
+    ["DictKey_ActionText_198"] = "目標の建物を視認したらスペースバーを押してください。",
+    ["DictKey_ActionText_767"] = "（PRIでVader Red 5に切り替え）",
+    ["DictKey_subtitle_1062"] = "PLAYER: Two、帰投しよう。",
+    ["DictKey_ActionText_896"] = "",
+    ["DictKey_subtitle_828"] = "PLAYER: Eagle上空で2000フィートMSLへ降下、Towerへコンタクト、滑走路05へのビジュアルアプローチ、Weasel 3。",
+    ["DictKey_subtitle_844"] = "PLAYER: 1500フィートへ降下、滑走路05へのストレートイン、了解。",
+    ["DictKey_subtitle_485"] = "PLAYER: Vader、Weasel 31、アファーム、視認。",
+    ["DictKey_subtitle_306"] = "WEASEL 32（SUSPECT）: Weasel 32、了解、南を担当。",
+    ["DictKey_subtitle_757"] = "DARKSTAR: Checkmate 41、Darkstar、警戒せよ。グループ、ブルズ294、距離62、15000フィート、バンディット、フルバック、西へ進行中。",
+    ["DictKey_subtitle_401"] = "VADER: Hawg 34、命中良好。",
+    ["DictKey_ActionRadioText_450"] = "1：AAAを確認  ",
+    ["DictKey_ActionRadioText_549"] = "",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_ActionRadioText_1139"] = "フェンスアウト  ",
+    ["DictKey_subtitle_229"] = "VADER: Weasel 31、継続せよ。",
+    ["DictKey_subtitle_761"] = "DARKSTAR: Checkmate 41、了解。",
+    ["DictKey_ActionRadioText_544"] = "1：AAAを確認  ",
+    ["DictKey_ActionRadioText_1093"] = "周波数変更  ",
+    ["DictKey_ActionText_1038"] = "よし、Suspect、今日の出撃を振り返ろう。とにかく興味深い内容だったな。ISのおかげで、俺たちにもHawgにもターゲットには事欠かない状況だった。\
+\
+離陸からオンステーションまでは順調だった。あのロシアのSu-34が不意に現れたことを除けば、特に問題はなかったが、あいつも距離を保っていたな。\
+\
+フェンスインしてVADERとチェックインしたところで、面白くなってきた。まずは、VADERがMANPADの存在を疑っていた建物を叩いた。それから俺が威嚇飛行を実施した。\
+\
+俺たちはWeaselsだ。敵に撃たせるにはこれ以上ない方法だろ？まさにその通りになった。ミサイルが地面から飛び立った瞬間、お前が即座に警告をくれたのは見事だった。俺が回避機動中に、お前がマーベリックで撃ち返して発射源を吹っ飛ばした。ナイスキルだ！\
+\
+その後、マーベリックでテクニカル2両を撃破。続いてHawgたちがISのトラックをクラスター爆弾で叩き始めた。あれは壮観だったな！テロリストどももすぐに堪忍袋の緒が切れたらしく、中口径のAAAを持ち出してHawgに撃ち始めた。でもこっちもすかさず応戦して、2門とも破壊してやった。\
+\
+どうやらISはHawg 32がよっぽど気に入らなかったようで、あいつが爆弾を落とそうとするたびに新たな対空砲をぶっ放してきた。2回目の進入では、さらに3門目が火を吹いた。だが俺たちがすぐに位置を特定して、それも破壊した。\
+\
+その後はRTB。Hawg 31によると、AO内にはそれ以上の脅威は確認されなかったらしい。俺たちも無事に帰還して、着陸までノートラブルだった。",
+    ["DictKey_subtitle_923"] = "DARKSTAR: Weasel 31、Darkstar、了解。空域はクリア。TexacoはNovemberトラック上。予定を報告せよ。",
+    ["DictKey_subtitle_925"] = "PLAYER: Weasel 3 flightはホームプレートへ直行する。",
+    ["DictKey_ActionText_17"] = "C34 bombs",
+    ["DictKey_subtitle_888"] = "PLAYER: 感謝する、Darkstar。",
+    ["DictKey_ActionText_899"] = "（PRIでDarkstarに切り替え）",
+    ["DictKey_subtitle_824"] = "PLAYER: Incirlik Approach、Weasel 3、F-16×2機、Golfを受信、滑走路05へのイニシャルリクエスト。",
+    ["DictKey_subtitle_612"] = "PLAYER: Weasels、チャンネル4へ。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionRadioText_182"] = "2：リピート要求  ",
+    ["DictKey_subtitle_483"] = "VADER: Weasel 31、Vader、発射源は確認できているか？",
+    ["DictKey_subtitle_624"] = "",
+    ["DictKey_subtitle_723"] = "WEASEL 32（SUSPECT）: One、Two。",
+    ["DictKey_subtitle_676"] = "PLAYER: Departure、Weasel 3、Falcon、Darkstarへスイッチ。",
+    ["DictKey_subtitle_711"] = "DARKSTAR: Cowboy 41、Darkstar。",
+    ["DictKey_subtitle_980"] = "VADER: Weasel 31、了解。",
+    ["DictKey_ActionRadioText_187"] = "1：復唱  ",
+    ["DictKey_ActionRadioText_46"] = "プレイヤー  ",
+    ["DictKey_subtitle_884"] = "PLAYER: Darkstar、Weasel 31、戦闘損傷を受けRTB中。",
+    ["DictKey_subtitle_808"] = "WEASEL 32（SUSPECT）: それにしても、20台だけ残して残りは散らせばいいのに。60台近く並べるとか、今回が初めてじゃないしな。",
+    ["DictKey_ActionRadioText_1024"] = "2：誘導の再送を要求  ",
+    ["DictKey_subtitle_935"] = "DARKSTAR: Cowboy 41、Texacoは320、距離85マイル、高度18000。",
+    ["DictKey_subtitle_245"] = "VADER: Weasel 32、クリアードホット！",
+    ["DictKey_subtitle_626"] = "",
+    ["DictKey_ActionText_430"] = "",
+    ["DictKey_ActionRadioText_1084"] = "周波数変更  ",
+    ["DictKey_ActionRadioText_1148"] = "弾薬使用完了を報告  ",
+    ["DictKey_subtitle_391"] = "PLAYER: Vader、Weasel 31、了解。",
+    ["DictKey_subtitle_135"] = "PLAYER: Trail、shooter - cover、GBU-12、北西から侵入、離脱は西。",
+    ["DictKey_ActionRadioText_1115"] = "",
+    ["DictKey_subtitle_247"] = "WEASEL 32（SUSPECT）: Weasel 32、ライフル！",
+    ["DictKey_ActionRadioText_912"] = "周波数変更  ",
+    ["DictKey_subtitle_82"] = "PLAYER: 同じく。Weasel 3、F-16C×2機、OmahaへDEAD任務で向かっている。状況を求む。",
+    ["DictKey_ActionRadioText_952"] = "周波数変更  ",
+    ["DictKey_subtitle_165"] = "PLAYER: Vader、了解、WeaselsはIPへ帰投中。",
+    ["DictKey_subtitle_112"] = "VADER: 北西から南東へのアプローチでGBU-12を1発使用せよ。MANPADおよびAAAの脅威あり。",
+    ["DictKey_subtitle_280"] = "VADER: Weasels、北側目標も撃破！",
+    ["DictKey_subtitle_347"] = "VADER: Hawg 31、Vader、了解。ターゲティングメッセージ 3 Charlie。クリアードホット。",
+    ["DictKey_ActionRadioText_210"] = "1：プレイヤーが攻撃  ",
+    ["DictKey_subtitle_643"] = "INCIRLIK GROUND: Weasel 31、Towerへスイッチせよ。",
+    ["DictKey_subtitle_355"] = "VADER: Hawg 31、Vader、命中良好！",
+    ["DictKey_ActionText_66"] = "",
+    ["DictKey_ActionRadioText_204"] = "1：プレイヤーが攻撃  ",
+    ["DictKey_ActionRadioText_584"] = "",
+    ["DictKey_subtitle_735"] = "WEASEL 32（SUSPECT）: そろそろ蹴り出す頃合いだな。MosulもDeir-ez-Zorも時間の問題だし。",
+    ["DictKey_subtitle_640"] = "PLAYER: Hotelをタキシー、Golfをクロス、Alpha滑走路05手前で待機、Weasel 3。",
+    ["DictKey_subtitle_264"] = "PLAYER: Vader、Weasel 31、もう一度グリッド確認、テクニカルは？",
+    ["DictKey_subtitle_235"] = "WEASEL 32（SUSPECT）: One、Two。AOはクリアに見える。",
+    ["DictKey_ActionRadioText_593"] = "",
+    ["DictKey_subtitle_695"] = "PLAYER: Darkstar、Weasel 31、了解。",
+    ["DictKey_ActionText_431"] = "",
+    ["DictKey_subtitle_868"] = "WEASEL 32（SUSPECT）: Charlie、Golf、Hotel経由でHotel 29へタキシー、Weasel 32。",
+    ["DictKey_ActionRadioText_948"] = "周波数変更  ",
+    ["DictKey_ActionRadioText_308"] = "1：テクニカル2両を確認  ",
+    ["DictKey_subtitle_836"] = "PLAYER: Weasels、PRIチェック。",
+    ["DictKey_ActionText_316"] = "",
+    ["DictKey_ActionText_20"] = "",
+    ["DictKey_subtitle_74"] = "PLAYER: Weasels、PRIでチェック、Weasel 31。",
+    ["DictKey_subtitle_276"] = "PLAYER: Weasel 31、ライフル！",
+    ["DictKey_subtitle_939"] = "DARKSTAR: Cowboy 41、Darkstar、了解。",
+    ["DictKey_ActionRadioText_672"] = "周波数変更  ",
+    ["DictKey_ActionRadioText_581"] = "1：プレイヤーが攻撃  ",
+    ["DictKey_subtitle_294"] = "VADER: Weasels、北側目標撃破！",
+    ["DictKey_subtitle_812"] = "WEASEL 32（SUSPECT）: 問題なし。帰還できる。",
+    ["DictKey_ActionRadioText_908"] = "周波数変更  ",
+    ["DictKey_ActionRadioText_559"] = "",
+    ["DictKey_ActionRadioText_663"] = "",
+    ["DictKey_ActionRadioText_994"] = "",
+    ["DictKey_subtitle_290"] = "PLAYER: Vader、Weasel 31、了解。",
+    ["DictKey_ActionText_583"] = "",
+    ["DictKey_subtitle_367"] = "PLAYER: Vader、Weasel 31、目標北側の建物の間にAAAを2基確認、攻撃許可を求む。",
+    ["DictKey_subtitle_233"] = "WEASEL 32（SUSPECT）: Two、準備完了。",
+    ["DictKey_ActionText_41"] = "",
+    ["DictKey_subtitle_791"] = "WEASEL 32（SUSPECT）: Two。",
+    ["DictKey_subtitle_602"] = "WEASEL 32（SUSPECT）: Two。",
+    ["DictKey_ActionText_65"] = "",
+    ["DictKey_ActionRadioText_1111"] = "弾薬使用完了を報告  ",
+    ["DictKey_subtitle_876"] = "VADER: Weasel 31、了解。DarkstarへスイッチしてRTB。",
+    ["DictKey_subtitle_686"] = "PLAYER: Weasels、PRIでチェック。",
+    ["DictKey_subtitle_143"] = "PLAYER: Vader、Weasel 31、攻撃に入る。",
+    ["DictKey_ActionText_586"] = "",
+    ["DictKey_subtitle_357"] = "HAWG 33: Hawg 33、南から進入。",
+    ["DictKey_subtitle_326"] = "HAWG 31: Vader、Hawg 3 flightチェックイン。A-10 4機、CBU-103を24発、ロケット28発、gunsフルロードでタスク待機中。",
+    ["DictKey_subtitle_1144"] = "PLAYER: Weasel 31、アファーム。",
+    ["DictKey_ActionText_947"] = "（PRIでタワーに切り替え）",
+    ["DictKey_subtitle_874"] = "PLAYER: こちらWeasel 31、機体のコントロールは維持しているが、RTBが必要だ。",
+    ["DictKey_subtitle_826"] = "APPROACH: Weasel flight、Incirlik Approach。レーダーコンタクト。Eagle上空で2000フィートMSLに降下し、Towerへコンタクト。滑走路05へのビジュアルアプローチを予定。",
+    ["DictKey_ActionRadioText_313"] = "1：テクニカル2両を確認  ",
+    ["DictKey_subtitle_919"] = "WEASEL 32（SUSPECT）: Weasel 32。",
+    ["DictKey_subtitle_802"] = "WEASEL 32（SUSPECT）: あのISISのトラック、道沿いに綺麗に並んでるの見て思ったんだけど、なんで隠さなかったんだろうな？建物の間とか、あのオリーブの木の中とかさ。なんであんなに丸見えにしてんだ？",
+    ["DictKey_ActionText_194"] = "",
+    ["DictKey_subtitle_330"] = "VADER: Hawg 31、こちらVader。私は航空作戦センターからリモートでJTACを務めている。無人機を2機スタックに保持しており、目標を監視中。Weasel 31はすでに防空網への攻撃を開始済み。Cowboy 41が先にビラを2セット投下済み。Omahaには50台以上のトラックとオイルタンカーが集結している。Weasel 31はショー・オブ・フォースを実施し、テクニカル2台を無力化。AO内には追加のAAAが存在する可能性が非常に高いため、高度14000フィートのハードデッキを遵守することを推奨。",
+    ["DictKey_subtitle_377"] = "PLAYER: Weasel 31、ライフル！",
+    ["DictKey_subtitle_133"] = "WEASEL 32（SUSPECT）: Two、アファーム。",
+    ["DictKey_subtitle_379"] = "PLAYER: Weasel 31, weapons away!",
+    ["DictKey_subtitle_921"] = "PLAYER: Darkstar、Weasel 3 flight、VUL終了、Omahaを離脱。",
+    ["DictKey_ActionText_29"] = "500",
+    ["DictKey_subtitle_1130"] = "PLAYER: 了解、一杯やって帰ろう。",
+    ["DictKey_ActionText_594"] = "",
+    ["DictKey_subtitle_701"] = "DARKSTAR: Cowboy 41、Darkstar、どうぞ。",
+    ["DictKey_ActionRadioText_51"] = "",
+    ["DictKey_ActionText_1045"] = "よし、Suspect、今日の出撃を振り返ろうか。とにかく面白いミッションだったよ。ISのおかげで、俺たちにもHawgにもターゲットには困らない状況だった。\
+\
+離陸からオンステーションまでは順調、特に問題もなかった。ただ、途中でロシアのSu-34がいきなり現れたのはちょっと驚いたな。まあ、向こうは距離を保ってたけど。\
+\
+フェンスインしてVADERとチェックインしたところで、いよいよ本番開始だ。まずはVADERがMANPADの存在を疑っていた家を潰した。続いて俺がショー・オブ・フォースを実施。\
+\
+俺たちはWeaselsだ。敵に撃たせるには、これ以上ないやり方だろ？その通りにやったわけだが、ミサイルが発射された瞬間に警告をくれたのは本当に助かった。残念ながら回避が間に合わず、直撃食らってしまってな……。\
+\
+そのせいで無念の早期帰還を余儀なくされた。でも、よく帰ってこられたもんだ。機体の穴、見たろ？（早期RTBでマイナス40ポイント）",
+    ["DictKey_ActionRadioText_1088"] = "周波数変更  ",
+    ["DictKey_subtitle_252"] = "VADER: Weasels、警戒せよ。テクニカル発見、ダートロードを北へ移動中。トラックの約1キロ南西。",
+    ["DictKey_subtitle_304"] = "PLAYER: Two、One、fighter to fighter。Wheel、shooter - shooter、AGM-65、西から侵入。南側を担当。",
+    ["DictKey_subtitle_149"] = "VADER: Weasel 31、命中良好、BDAを待て。",
+    ["DictKey_ActionRadioText_192"] = "1：復唱  ",
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_subtitle_258"] = "VADER: そのテクニカルは今、メインロードに入って北東へトラックに向かって移動中。",
+    ["DictKey_subtitle_747"] = "PLAYER: Darkstar、Weasel 31、スパイク、ベアリング210。",
+    ["DictKey_subtitle_514"] = "PLAYER: Weasel 31、AAAに攻撃を開始する。",
+    ["DictKey_ActionText_63"] = "",
+    ["DictKey_ActionText_984"] = "",
+    ["DictKey_ActionRadioText_1082"] = "1：直接RTB  ",
+    ["DictKey_ActionText_1055"] = "よし、Suspect、今日の出撃を振り返ろう。面白い展開だったな。ISが我々にもHawgにも、十分すぎるほどのターゲットを用意してくれてた。\
+\
+離陸とステーションへの移動は順調で、特に問題はなかった。強いて言えば、ロシアのSu-34がいきなり姿を現したくらいだが、奴は距離を保っていたな。\
+\
+フェンスインしてVADERとチェックインしたあたりから、本番が始まった。まずはVADERがMANPADの存在を疑っていた建物を叩いた。それから俺がショー・オブ・フォースを実施した。\
+\
+Weaselの仕事といえば、敵に撃たせることだ。まさにそのつもりで飛んだが、どうやら今回は敵が乗ってこなかったか、あるいはそこにいなかったらしい。発砲はなかった。（SAMに対して高すぎる／遠すぎる飛行のため-10ポイント）\
+\
+その後はマーベリックでテクニカルを2台撃破。HawgたちはISのトラックをクラスター爆弾で叩き始めた。いやぁ、見応えあったな。ただ、テロリストどももすぐに黙ってはいなかった。中口径のAAAを展開してHawgに発砲してきた。\
+\
+こっちもすぐさま反撃して、2門の対空砲を破壊。かなり効果的だったと思う。\
+\
+それから、ISはなぜかHawg 32にやたらと反応してたようで、あいつが爆弾を落とそうとするたびに、新しい対空砲が現れて発砲してきた。2回目のアプローチでは3門目が撃ってきたが、残念ながらこれは仕留めきれなかった。（-10ポイント）\
+\
+まもなくRTBとなったが、Hawg 31の話では、その後はAOに新たな脅威は出なかったらしい。我々は無事に帰還して、問題なく着陸できた。",
+    ["DictKey_subtitle_383"] = "WEASEL 32（SUSPECT）: Weasel 32、爆弾投下！",
+    ["DictKey_subtitle_141"] = "WEASEL 32（SUSPECT）: Two、ロジャー。",
+    ["DictKey_ActionText_71"] = "SAM",
+    ["DictKey_subtitle_296"] = "VADER: Weasels、Vader。BDA：車両2台撃破。",
+    ["DictKey_ActionText_445"] = "",
+    ["DictKey_subtitle_649"] = "INCIRLIK DEPARTURE: Weasel 31、5500まで上昇しFalcon Exitへ、その後は自主航法に切り替え可。",
+    ["DictKey_ActionRadioText_185"] = "",
+    ["DictKey_subtitle_399"] = "HAWG 34: Hawg 34、爆弾投下。",
+    ["DictKey_subtitle_359"] = "HAWG 33: Hawg 33、爆弾投下。",
+    ["DictKey_subtitle_324"] = "VADER: Hawg 31、Vader、どうぞ。",
+    ["DictKey_subtitle_763"] = "PLAYER: Darkstar、Weasel 31、Omaha接近中。Red 5でVADERへスイッチ。",
+    ["DictKey_subtitle_334"] = "VADER: 了解、Hawg 31。ブレイク。Weasel 31、再度ショー・オブ・フォースを行うか、それともHawg 3に攻撃を任せるか？",
+    ["DictKey_subtitle_739"] = "PLAYER: Two、One、了解。",
+    ["DictKey_subtitle_227"] = "PLAYER: Vader、Weasel 31、南からshow of forceに入る。",
+    ["DictKey_subtitle_789"] = "PLAYER: Weasels、PRIチャンネル6へ。",
+    ["DictKey_subtitle_419"] = "WEASEL 32（SUSPECT）: Weasel 32、了解、東を担当。",
+    ["DictKey_ActionText_965"] = "",
+    ["DictKey_subtitle_773"] = "",
+    ["DictKey_ActionText_53"] = "",
+    ["DictKey_subtitle_243"] = "WEASEL 32（SUSPECT）: Vader、Weasel 32、MANPAD確認、攻撃する。",
+    ["DictKey_subtitle_155"] = "WEASEL 32（SUSPECT）: Vader、Weasel 32、攻撃に入る。",
+    ["DictKey_ActionText_771"] = "",
+    ["DictKey_subtitle_463"] = "WEASEL 32（SUSPECT）: 爆弾が1発残ってる。",
+    ["DictKey_subtitle_479"] = "HAWG 32: Hawg 32、南から進入。",
+    ["DictKey_ActionRadioText_319"] = "",
+    ["DictKey_subtitle_846"] = "PLAYER: Tower、Weasel 3、イニシャル、着陸リクエスト、滑走路05。",
+    ["DictKey_ActionText_941"] = "（PRIでアプローチに切り替え）",
+    ["DictKey_ActionText_23"] = "",
+    ["DictKey_ActionRadioText_570"] = "2：誘導の再送を要求  ",
+    ["DictKey_subtitle_917"] = "PLAYER: Weasels、PRIチェック。",
+    ["DictKey_subtitle_137"] = "WEASEL 32（SUSPECT）: Two、了解、全てコピー。",
+    ["DictKey_ActionText_571"] = "",
+    ["DictKey_ActionText_30"] = "",
+    ["DictKey_ActionText_957"] = "（PRIで地上に切り替え）",
+    ["DictKey_subtitle_870"] = "PLAYER: Weasel 31、被弾！",
+    ["DictKey_subtitle_526"] = "PLAYER: Vader、Weasel 31。Weasel 3 flightはウィンチェスター。",
+    ["DictKey_ActionRadioText_567"] = "",
+    ["DictKey_ActionText_14"] = "",
+    ["DictKey_ActionText_11"] = "",
+    ["DictKey_subtitle_473"] = "VADER: Hawg 32、Vader、両目標の撃破を確認。攻撃を再開せよ。",
+    ["DictKey_subtitle_651"] = "PLAYER: 5500まで上昇、Falcon Exit通過後は自主航法、Weasel 3。",
+    ["DictKey_ActionRadioText_1027"] = "2：ターゲット誘導を要求  ",
+    ["DictKey_subtitle_783"] = "CHECKMATE 41: Darkstar、Checkmate 41、了解。最初のグループの状況を更新願いたい。",
+    ["DictKey_ActionText_315"] = "",
+    ["DictKey_subtitle_411"] = "PLAYER: Two、One、了解。Hawgをクリアにする。",
+    ["DictKey_ActionRadioText_995"] = "",
+    ["DictKey_subtitle_88"] = "VADER: アファーム。情報部より、AO内に軽・中口径のAAAが存在、ビジュアルIDはされていないとの報告。トラックの北東の建物にMANPADを所持していると見られる2名が入っていった。これが最初の目標となる。",
+    ["DictKey_subtitle_237"] = "WEASEL 32（SUSPECT）: One、フレア！ SAM発射！",
+    ["DictKey_ActionRadioText_312"] = "",
+    ["DictKey_ActionText_575"] = "攻撃者を選択してください（F10ラジオメニュー）。",
+    ["DictKey_subtitle_351"] = "HAWG 31: Hawg 31、東から進入。",
+    ["DictKey_ActionRadioText_958"] = "周波数変更  ",
+    ["DictKey_sortie_5"] = "M10: Blowing up trucks",
+    ["DictKey_subtitle_328"] = "VADER: Hawg flight、Vader。私のスタックには無人機が2機いて、目標を監視中。Weasel flightはすでに防空網への攻撃を開始済み。Cowboy 41が先にビラを投下。Omahaには50台以上のオイルトラックが確認されている。Weasel flightがショー・オブ・フォースを実施し、MANPAD1基とテクニカル2台を無力化。AO内には追加のAAAが存在する可能性が高いため、高度14000フィートのハードデッキを厳守するよう推奨。",
+    ["DictKey_subtitle_395"] = "VADER: Hawg 32、Vader、効果良好。",
+    ["DictKey_subtitle_1064"] = "DARKSTAR: Weasel 31、Darkstar、了解。周辺はクリア。TexacoはトラックNovember上。",
+    ["DictKey_subtitle_878"] = "PLAYER: Weasel 31、Darkstarへスイッチ。",
+    ["DictKey_ActionRadioText_47"] = "ウィングマン  ",
+    ["DictKey_subtitle_219"] = "PLAYER: Vader、Weasel 31、北からshow of forceに入る。",
+    ["DictKey_subtitle_880"] = "PLAYER: Darkstar、Weasel 31。",
+    ["DictKey_subtitle_1098"] = "PLAYER: Weasels、PRIチェック。",
+    ["DictKey_subtitle_725"] = "PLAYER: どうした？",
+    ["DictKey_subtitle_225"] = "PLAYER: Vader、Weasel 31、了解。show of force、南から北へ。",
+    ["DictKey_ActionText_201"] = "",
+    ["DictKey_subtitle_997"] = "PLAYER: Ground、Weasel 31、タキシーウェイEchoにて合流。",
+    ["DictKey_subtitle_832"] = "APPROACH: Weasel 31、Approach、スイッチ許可。",
+    ["DictKey_ActionText_894"] = "",
+    ["DictKey_ActionText_175"] = "",
+    ["DictKey_subtitle_492"] = "PLAYER: Hawg 33、Weasel 31、視認した。待機。",
+    ["DictKey_ActionRadioText_203"] = "2：ウィングマンが攻撃  ",
+    ["DictKey_subtitle_487"] = "PLAYER: Vader、Weasel 31、ネガティブ、誘導を求む。",
+    ["DictKey_subtitle_842"] = "INCIRLIK TOWER: Weasel 31、Tower。1500フィートMSLへ降下、滑走路05へのストレートイン。5マイルイニシャルで報告を。",
+    ["DictKey_subtitle_1102"] = "PLAYER: Texaco、Weasel 31、給油感謝！",
+    ["DictKey_ActionText_33"] = "爆弾投下。",
+    ["DictKey_ActionRadioText_983"] = "2：RTBが必要  ",
+    ["DictKey_ActionText_34"] = "",
+    ["DictKey_ActionRadioText_193"] = "2：リピート要求  ",
+    ["DictKey_ActionText_1016"] = "",
+    ["DictKey_ActionText_40"] = "AAA2",
+    ["DictKey_ActionText_67"] = "",
+    ["DictKey_ActionText_657"] = "（PRIでタワーに切り替え）",
+    ["DictKey_subtitle_322"] = "HAWG 31: Vader、Hawg 31。",
+    ["DictKey_subtitle_369"] = "VADER: Weasel 31、Vader、ROEはセルフディフェンス。必要に応じて攻撃せよ。ブレイク。Hawg flight、武器使用中止、待機。",
+    ["DictKey_ActionRadioText_211"] = "2：ウィングマンが攻撃  ",
+    ["DictKey_ActionText_16"] = "C33 bombs",
+    ["DictKey_ActionRadioText_52"] = "",
+    ["DictKey_subtitle_891"] = "WEASEL 32（SUSPECT）: Chaos、ステータスを報告！",
+    ["DictKey_ActionRadioText_988"] = "2：RTBが必要  ",
+    ["DictKey_subtitle_510"] = "PLAYER: Vader、Weasel 3 flight、AAAへの攻撃準備完了。",
+    ["DictKey_subtitle_302"] = "PLAYER: ロジャー。",
+    ["DictKey_subtitle_854"] = "PLAYER: Tower、Weasel 31、了解。",
+    ["DictKey_ActionText_320"] = "",
+    ["DictKey_ActionText_183"] = "",
+    ["DictKey_subtitle_522"] = "HAWG 33: Hawg 33、爆弾投下。",
+    ["DictKey_ActionRadioText_588"] = "弾薬使用完了を報告  ",
+    ["DictKey_ActionText_915"] = "",
+    ["DictKey_ActionRadioText_564"] = "H33にリピート要求  ",
+    ["DictKey_subtitle_387"] = "VADER: Weasels、西側目標を撃破。",
+    ["DictKey_subtitle_300"] = "WEASEL 32（SUSPECT）: One、Two、警戒を。トラックの西に停止中のテクニカルが無差別射撃している。",
+    ["DictKey_ActionRadioText_587"] = "",
+    ["DictKey_subtitle_630"] = "PLAYER: 離陸許可、滑走路05、Weasel 3。",
+    ["DictKey_ActionText_444"] = "（発射源を確認したらスペースバーを押すか、再度F10メニューでSUSPECTに繰り返しを依頼してください）",
+    ["DictKey_ActionRadioText_682"] = "周波数変更  ",
+    ["DictKey_ActionRadioText_556"] = "",
+    ["DictKey_ActionText_37"] = "",
+    ["DictKey_subtitle_927"] = "DARKSTAR: Weasel 31、Darkstar、了解。",
+    ["DictKey_subtitle_978"] = "PLAYER: こちらWeasel 31、問題なし、ミッション可能。",
+    ["DictKey_descriptionText_1"] = "まずはスライド2に示された状況全体の概要から始めよう。ISの支配状況や連合軍の前進については、大きな変化は見られない。ISISは複数の油田の支配を失い、オイルタンクローリーをRaqqa近郊へと後退させざるを得なかった。そして、これが本日の出撃での主目標となる。\
+\
+ご存知の通り、SDFはRaqqa奪還に向けた大規模な攻勢を準備中であり、今後数か月にわたり我々の作戦の主軸となるだろう。\
+\
+では、次のスライド [3]。\
+\
+[スライド3 - 防空網]\
+\
+ロシアおよびシリアの防空態勢に関しては、特に大きな変化はない。我々の情報によれば、ロシアとシリアは防空ネットワークを統合しており、これによりロシアのMainstayから得られたデータがシリア側にも供給されている可能性がある。\
+\
+SAMの主な展開地点はKhmeimimで、ここにはロシア軍がSA-300、SA-11、SA-15を展開している。また、AleppoとDeir Ez-Zorにもシリア軍のSA-3およびSA-11が確認されている。\
+\
+これらの交戦圏を絶対に飛行しないよう、十分に注意せよ。",
+    ["DictKey_ActionText_963"] = "",
+    ["DictKey_ActionRadioText_70"] = "test1",
+    ["DictKey_subtitle_92"] = "PLAYER: Weasels、フェンスイン、記録開始。",
+    ["DictKey_ActionRadioText_561"] = "1：AAAを確認  ",
+    ["DictKey_ActionText_60"] = "",
+    ["DictKey_subtitle_882"] = "DARKSTAR: Weasel 31、Darkstar、送信どうぞ。",
+    ["DictKey_subtitle_779"] = "",
+    ["DictKey_subtitle_872"] = "VADER: Weasel 31、西へ離脱せよ。状態を報告！",
+    ["DictKey_ActionText_43"] = "AAA3",
+    ["DictKey_subtitle_530"] = "PLAYER: Vader、Weasel 3 flight、RTB。",
+    ["DictKey_ActionRadioText_208"] = "",
+    ["DictKey_ActionText_453"] = "PL Shoots",
+    ["DictKey_subtitle_622"] = "",
+    ["DictKey_subtitle_469"] = "WEASEL 32（SUSPECT）: Weasel 32、西側目標へ攻撃中。",
+    ["DictKey_ActionRadioText_554"] = "1：AAAを確認  ",
+    ["DictKey_ActionText_35"] = "",
+    ["DictKey_subtitle_933"] = "COWBOY 41: Cowboy 41、タンカーへのアルファチェック。",
+    ["DictKey_subtitle_721"] = "COWBOY 41: Cowboy 41、了解。",
+    ["DictKey_subtitle_274"] = "WEASEL 32（SUSPECT）: Weasel 32、ライフル！",
+    ["DictKey_subtitle_278"] = "VADER: Weasels、南側目標ヒット確認！",
+    ["DictKey_ActionRadioText_669"] = "",
+    ["DictKey_ActionRadioText_311"] = "テクニカルのグリッド要求  ",
+    ["DictKey_ActionRadioText_987"] = "1：任務継続可能  ",
+    ["DictKey_ActionText_953"] = "",
+    ["DictKey_ActionRadioText_985"] = "1：任務継続可能  ",
+    ["DictKey_subtitle_215"] = "VADER: Weasels、Vader、アファーム。道路沿いのトラックに沿って北から南へのshow of forceを要請する。ハードデッキはMSL 3000フィート。",
+    ["DictKey_ActionText_173"] = "",
+    ["DictKey_subtitle_540"] = "WEASEL 32（SUSPECT）: One、Two、ビンゴ。",
+    ["DictKey_subtitle_213"] = "PLAYER: Vader、Weasel 31、他に任務はあるか？",
+    ["DictKey_ActionText_62"] = "",
+    ["DictKey_ActionText_73"] = "SAM DEAD",
+    ["DictKey_ActionText_1074"] = "",
+    ["DictKey_subtitle_1091"] = "",
+    ["DictKey_subtitle_743"] = "WEASEL 32（SUSPECT）: Two。",
+    ["DictKey_subtitle_636"] = "PLAYER: Ground、Weasel 31、F-16の2機編隊、タキシー許可を要求。",
+    ["DictKey_subtitle_288"] = "VADER: Weasels、依然として北側目標は無傷。再攻撃を許可。",
+    ["DictKey_subtitle_1128"] = "WEASEL 32（SUSPECT）: Two、1番。ビンゴ。",
+    ["DictKey_subtitle_1068"] = "PLAYER: Weasels、PRIチャンネル10へ。",
+    ["DictKey_ActionRadioText_1078"] = "1：直接RTB  ",
+    ["DictKey_subtitle_937"] = "COWBOY 41: Cowboy 41、了解。給油後、Bravo 3へ復帰予定。",
+    ["DictKey_ActionRadioText_555"] = "2：ターゲット誘導を要求  ",
+    ["DictKey_subtitle_755"] = "PLAYER: Darkstar、Weasel 31、了解。",
+    ["DictKey_ActionText_68"] = "",
+    ["DictKey_subtitle_634"] = "PLAYER: Weasel 31、Departureへスイッチ。",
+    ["DictKey_ActionText_446"] = "",
+    ["DictKey_subtitle_86"] = "PLAYER: Roger。対空防御に何か更新は？",
+    ["DictKey_ActionRadioText_1138"] = "",
+    ["DictKey_subtitle_777"] = "",
+    ["DictKey_subtitle_139"] = "PLAYER: トレイル、cover - shooter、GBU-12、北西から侵入、離脱は西。",
+    ["DictKey_subtitle_796"] = "WEASEL 32（SUSPECT）: Two、了解。",
+    ["DictKey_ActionRadioText_188"] = "2：リピート要求  ",
+    ["DictKey_subtitle_628"] = "",
+    ["DictKey_ActionRadioText_427"] = "",
+    ["DictKey_ActionRadioText_982"] = "1：任務継続可能  ",
+    ["DictKey_subtitle_262"] = "PLAYER: Vader、Weasel 31、了解。",
+    ["DictKey_ActionText_21"] = "",
+    ["DictKey_ActionRadioText_205"] = "2：ウィングマンが攻撃  ",
+    ["DictKey_subtitle_608"] = "WEASEL 32（SUSPECT）: Two、タキシー準備完了。",
+    ["DictKey_subtitle_231"] = "PLAYER: Two、One。俺が低高度・高速で入る。何か撃ってきたら潰してくれ。何か動いたらマーキング。準備いいか？",
+    ["DictKey_ActionRadioText_57"] = "ウィングマン  ",
+    ["DictKey_ActionRadioText_579"] = "2：ウィングマンが攻撃  ",
+    ["DictKey_ActionText_172"] = "",
+    ["DictKey_subtitle_729"] = "PLAYER: アファーム。どうやらやつらはRaqqaに呼ばれたみたいだ。少なくとも4つのキルボックスがあって、我々の部隊がクルドと一緒に展開してる。",
+    ["DictKey_ActionRadioText_582"] = "2：ウィングマンが攻撃  ",
+    ["DictKey_ActionText_911"] = "（PRIでDarkstarに切り替え）",
+    ["DictKey_ActionRadioText_423"] = "1：Hawg に攻撃を許可  ",
+    ["DictKey_subtitle_76"] = "WEASEL 32（SUSPECT）: Weasel 32。",
+    ["DictKey_subtitle_737"] = "WEASEL 32（SUSPECT）: One、Two、警戒！210方向にスパイク、フルバックだ！",
+    ["DictKey_descriptionBlueTask_3"] = "Incirlik空軍基地（トルコ）\
+2017年11月5日 06:00（現地時間） / 03:00 Zulu\
+ブリーフィング担当：CHAOS（PLAYER）／フライトリーダー\
+\
+よし、みんな聞いてくれ。2か月前、俺たちはAl-Tabquah南方のISISが支配していた油田を強襲し、重爆弾でインフラごと徹底的に叩き潰したのを覚えてるな？ 今日は、そのとき破壊を免れて散り散りに隠されていたISのオイルタンクローリーを叩く。今になって奴らは、それをまとめて移動させようとしている。おそらく、いまだ支配下にあるDeir al-Zour周辺の施設に向かっているのだろう。Reaperのオペレーターが発見してくれたおかげで、地上から一掃する決定が下された。\
+\
+我々は紳士だからな。OIF司令部は事前警告を出すことにした。今この瞬間も、ストライクイーグルが上空からビラを撒いて、民間人に「ここから離れろ」と伝えている。過去の作戦と同様、民間人たちはおそらくすぐに避難するだろう。一方で、ISの戦闘員たちは逆に集結してくるはずだ。MANPAD、残ったAAA、テクニカルを引き連れてな。そして、我々Weaselの出番だ。\
+\
+我々はWeasel 3編隊、F-16を2機で飛ぶ。SUSPECT、お前は俺のウィングマンだ。支援対象はFort Wayne基地のBlacksnakes飛行隊所属、HAWG 3のA-10Cが4機。上空のReaperを管制しているJTACが直接指揮を執る。コールサインはVADER。\
+\
+次のスライド [4] を見ろ。\
+\
+[スライド04 - 天候]\
+\
+天候は良好。風は弱く、雲は高度14,000～17,000フィートに散在。\
+\
+次、スライド [5]。\
+\
+[スライド05 - 空港]\
+\
+これが我々の割り当て機だ。装備済みで準備万端のはずだ。俺はシェルター31の375号機、SUSPECTはシェルター29の356号機に搭乗する。帰還後の格納シェルターは、着陸時にタワーから指示される。\
+\
+AUXでラジオチェックをして、ATISを取得後、タワーへ切り替え。準備が整ったら報告しろ。俺がタキシークリアランスを取って、滑走路05へ向かう。\
+\
+次のスライド [6]。\
+\
+[スライド06 - 離陸・出発]\
+\
+Falcon exitから高度5,000フィートで出発、Departureにコンタクト。基地から離れたら巡航高度の22,000フィートへ上昇。\
+\
+次、スライド [7]。\
+\
+[スライド07 - フライトプラン]\
+\
+WP2で進路変更し、目標地域へ向かう。Aleppo付近を通過しつつ、22,000フィートで飛行。WP3で旋回し、ここがIP（進入開始点）になる。目標エリアOMAHAを上空から監視可能な位置だ。雲が多ければ高度14,000フィート以下まで下げて、そこからエリアを探索。ここでHawg編隊と合流、VADERからAOの最新情報を受け取る。言うまでもないが、雲を背景に飛ぶ場合は特にAAAに注意しろ。\
+\
+次、スライド [8/9]。\
+\
+[スライド08/09 - 目標]\
+\
+今回の主目標はAl Tabquah南方に集結したISISのトラック群だ。現地空港の残骸から南西に約3マイルの地点にある。正確な台数は不明だが、夜間撮影の写真には60台以上の車両が露出した状態で映っている。\
+\
+我々の任務は、Weaselらしく敵の防空火力を探知・無力化すること。インテリジェンスによれば、この地域にはかなりの数の防空手段が残っている。現状、連合軍機が1機でも撃墜されればISにとって士気高揚の材料になる。そうはさせない。\
+\
+脅威としては、ロシア製MANPAD、軽〜中口径AAA、機関銃を搭載したテクニカルが予想される。HAWG 3編隊には13,000フィート以上のハードデッキが設定されているため、通常の小火器による脅威は限定的だが、中口径以上のAAAは主なターゲットとなる。我々が低空侵入して敵の発砲を誘発する場合もある。\
+\
+ショー・オブ・フォースを指示された場合は、VADERが指定するハードデッキを厳守しながらフレアを盛大に撒け！ミサイルが発射されたら、Orthogonal防御戦術で回避する。つまり、上昇しつつ発射方向へ旋回し、ミサイルを視認したら、その方向に向かって鋭くターンし、回避。ミサイルが近づいたらさらに急旋回して回避した後、発射地点とは逆方向へ地形追随飛行で離脱、距離を取ったら上昇。フレアは常に撒き続けろ。カバー側は即座に発射元を探し、攻撃しろ。\
+\
+VADERがクリアと判断すれば、HAWGたちがCBUで一掃する。俺たちは上空で見物と支援だ。ビンゴ、弾切れ、または目標壊滅でRTB。\
+\
+付近の民間人リスクは低い。住民は既に避難済みか、ビラで警告済み。ただしISがMANPADやAAAを隠すなら、まさにこの場所だろう。\
+\
+【兵装】\
+各機装備：GBU-12 x2、AGM-65D x2、増槽 x3、AIM-120（翼端）x2、ターゲティングポッド、機関砲フル弾装、チャフ30、フレア90。\
+\
+使用弾種は状況次第。レーザーコードの確認と設定を忘れるな。移動目標にはマーベリック、静止目標には爆弾を使用。目標ごとに戦闘機間でブリーフィングを行う。\
+\
+【無線運用】\
+AUXチャンネル1を基本とし、開始時のみATIS取得で一時的に離れる。その後は順に：Ground - Tower - Departure - Darkstar - Vader - Darkstar - Texaco（必要時） - ATIS - Approach - Tower - Ground（すべてPRI）。切り替えのたびにチェックを行う。\
+\
+以上だ。質問がなければ、出発準備に入れ！\
+\
+【BALTIC DRAGONより注意事項】\
+\
+1. EASY MODE（F10メニューで開始後30秒以内に有効化）あり。これを有効にすると一部の脅威に対して無敵になるが、AAAからの被害は受けるので注意。\
+\
+2. ミッション所要時間：約1時間50分",
+    ["DictKey_subtitle_1056"] = "PLAYER: Two、燃料は？",
+    ["DictKey_subtitle_606"] = "WEASEL 32（SUSPECT）: Two、Wilco。",
+    ["DictKey_subtitle_260"] = "VADER: テクニカルはメインロードを離れて停止、グリッドDelta Victor 5542 5357。",
+    ["DictKey_subtitle_524"] = "VADER: Hawg 33、Vader、命中良好。",
+    ["DictKey_subtitle_848"] = "INCIRLIK TOWER: Weasel 31、Tower、着陸許可、滑走路05、風は050から4ノット。",
+    ["DictKey_ActionRadioText_207"] = "",
+    ["DictKey_ActionText_45"] = "",
+    ["DictKey_ActionRadioText_1021"] = "2：ターゲット誘導を要求  ",
+    ["DictKey_ActionText_904"] = "",
+    ["DictKey_ActionText_6"] = "V11 bombs",
+    ["DictKey_subtitle_1058"] = "WEASEL 32（SUSPECT）: Two、1番。ビンゴだ。",
+    ["DictKey_ActionRadioText_1003"] = "タキシー準備完了  ",
+    ["DictKey_ActionRadioText_1035"] = "周波数変更  ",
+    ["DictKey_subtitle_781"] = "DARKSTAR: Checkmate 41、Darkstar、新たなグループ、ブルズ258、距離97、22000フィート、outlaw、コールド、Darkstar監視中。",
+    ["DictKey_ActionRadioText_1030"] = "",
+    ["DictKey_ActionText_1051"] = "よし、Suspect、今日のソーティーを振り返ってみよう。かなり面白い展開だったな。ISが我々にもHawgにもたっぷりとターゲットを用意してくれた。\
+\
+離陸からオンステーションまでの行程は順調だった。特に驚くようなこともなかったが、強いて言えばロシアのSu-34が突然現れたくらいか。ただ、奴は距離を保ったままだった。\
+\
+フェンスインしてVADERとチェックインしたところで、いよいよ本番だ。まずはVADERがMANPADの存在を疑っていた建物を叩いた。その後、俺が威嚇飛行を実施。\
+\
+Weaselの仕事といえば、やつらに撃たせることだ。まさにその通りに仕掛けたわけだが、君がミサイルが発射された瞬間に警告してくれたのは素晴らしかった。俺が回避に専念してる間に、君はマーベリックで発射源を潰した。ナイスジョブだ！その一方で、ミサイルはかなり接近して爆発した。衝撃も感じたくらいだが、幸い致命的なダメージはなく、ミッションを継続できた。（被弾につき-5ポイント）\
+\
+その後、マーベリックで2台のテクニカルを排除。HawgたちはISのトラックをクラスター弾で叩き始めた。壮観だったな。ただし敵もすぐに反応して、中口径のAAAを展開し、Hawgに対して発砲してきた。\
+\
+俺たちも即座に反撃して、その2門は破壊。良い効果が出た。ところがISはなぜかHawg 32を特に目の敵にしていたようで、あいつが爆弾を投下しようとするたびに、新しい対空砲が火を噴いてきた。2回目のアプローチでは3門目が発射してきたが、残念ながらこれは潰しきれなかった。（-10ポイント）\
+\
+その後まもなくRTBとなったが、Hawg 31の報告によれば、AO内に残る脅威はなかったらしい。我々は無事に基地へ帰投し、問題なく着陸した。",
+    ["DictKey_ActionText_1053"] = "",
+    ["DictKey_subtitle_110"] = "PLAYER: Vader、Weasel 31、復唱。1124フィート、Delta Victor 56543 54140、ノーファクター、備考受け取り準備OK。",
+    ["DictKey_subtitle_118"] = "VADER: Weasel 31、復唱良好、目標を視認したら連絡を。",
+    ["DictKey_subtitle_147"] = "PLAYER: Weasel 31、爆弾投下。",
+    ["DictKey_subtitle_349"] = "HAWG 31: Vader、Hawg 31、了解、攻撃に入る。",
+    ["DictKey_ActionRadioText_1081"] = "",
+    ["DictKey_subtitle_678"] = "INCIRLIK DEPARTURE: Weasel 31、Departure、スイッチ許可、自主航法でどうぞ。グッドラック！",
+    ["DictKey_ActionRadioText_572"] = "H33にリピート要求  ",
+    ["DictKey_ActionRadioText_685"] = "周波数変更  ",
+    ["DictKey_subtitle_78"] = "PLAYER: Vader、Weasel 31、ラジオチェック。",
+    ["DictKey_subtitle_286"] = "PLAYER: Weasel 31、ライフル！",
+    ["DictKey_subtitle_104"] = "PLAYER: Weasel 31、9ライン受け取り準備完了。",
+    ["DictKey_subtitle_512"] = "VADER: Weasel 31、Vader、ROEはセルフディフェンス。やるべきことは分かっているはずだ。",
+    ["DictKey_ActionText_167"] = "",
+    ["DictKey_ActionText_18"] = "",
+    ["DictKey_subtitle_699"] = "COWBOY 41: Darkstar、Cowboy 41。",
+    ["DictKey_subtitle_794"] = "PLAYER: Weasels、フェンスアウト、記録。",
+    ["DictKey_subtitle_1100"] = "WEASEL 32（SUSPECT）: Weasel 32。",
+    ["DictKey_ActionText_961"] = "タキシーウェイEchoを使用。",
+    ["DictKey_ActionText_1049"] = "よし、Suspect、今日の出撃を振り返ろうか。とにかく面白いミッションだったな。ISのおかげで、俺たちにもHawgにもターゲットが山ほど用意されてた。\
+\
+離陸からオンステーションまでは順調。途中でロシアのSu-34が不意に現れたが、距離を保ってくれていた。\
+\
+フェンスインしてVADERとチェックインしたところで本番開始。まずはVADERがMANPADの存在を疑っていた建物を叩いた。それから俺がショー・オブ・フォースを実施。\
+\
+Weaselの役目といえば、敵に撃たせること。まさにそれを狙って飛んだんだが、君の反応は完璧だったな。ミサイルが地面から上がった瞬間、すぐに警告をくれた。俺が回避している間に、君はマーベリックで発射源を潰した。ナイスキル！\
+\
+そのあと、例の2台のテクニカルをマーベリックで仕留めた。HawgたちはISのトラックをクラスターで一掃し始めた。見事だったよ。でも敵も我慢ならなかったのか、中口径のAAAを持ち出してHawgに撃ち始めた。\
+\
+俺たちもすぐに応戦して、その2門は破壊。かなり効果的だったな。ただ、ISはなぜかHawg 32を特に嫌ってたようで、あいつが爆弾を落とすたびに新しい対空砲を撃ち込んできた。2回目のパスでは3門目が火を吹いたんだがーー残念ながら、こいつは仕留めきれなかった。（-10ポイント）\
+\
+その後まもなくRTBとなったが、Hawg 31の報告によれば、AOにこれ以上の脅威はなかったらしい。俺たちは問題なく帰投し、安全に着陸した。",
+    ["DictKey_ActionText_558"] = "",
+    ["DictKey_ActionText_251"] = "tech",
+    ["DictKey_subtitle_332"] = "HAWG 31: Hawg 31、すべて了解、攻撃準備完了。",
+    ["DictKey_ActionRadioText_574"] = "2：ウィングマンが攻撃  ",
+    ["DictKey_subtitle_415"] = "WEASEL 32（SUSPECT）: One、Two、トレーサー確認！",
+    ["DictKey_subtitle_822"] = "WEASEL 32（SUSPECT）: Weasel 32。",
+    ["DictKey_ActionText_197"] = "",
+    ["DictKey_ActionText_655"] = "",
+    ["DictKey_ActionComment_32"] = "",
+    ["DictKey_subtitle_337"] = "PLAYER: Hawg 31、Weasel 31。こちらでショー・オブ・フォースをもう一度やる。ブレイク。Weasel 32、高度警戒を頼む。",
+    ["DictKey_subtitle_692"] = "DARKSTAR: Weasel 31、Darkstar、了解。ピクチャー：シングルグループ、ブルズアイ250、距離55、24000フィート、フランキング、outlaw。Checkmate 41がCAP中。TexacoはトラックNovember上に待機。",
+    ["DictKey_subtitle_1134"] = "INCIRLIK GROUND: Weasel 31、Ground、Golf、Hotel経由でHotel 31へタキシー。",
+    ["DictKey_ActionText_592"] = "",
+    ["DictKey_ActionRadioText_426"] = "1：Show of Forceを実施  ",
+    ["DictKey_ActionRadioText_181"] = "1：復唱  ",
+    ["DictKey_ActionRadioText_1022"] = "2：ターゲット誘導を要求  ",
+    ["DictKey_subtitle_600"] = "PLAYER: Weasels、AUXでチェック。",
+    ["DictKey_ActionText_451"] = "",
+    ["DictKey_ActionText_72"] = "Rifle",
+    ["DictKey_subtitle_365"] = "HAWG 31: Hawg 32、AAAだ！回避しろ！",
+    ["DictKey_subtitle_506"] = "PLAYER: Two、One、fighter to fighter。Trail、eyeball - shooter、誘導弾、西から進入、南へ離脱。",
+    ["DictKey_ActionRadioText_1036"] = "周波数変更  ",
+    ["DictKey_subtitle_98"] = "PLAYER: One、フェンスイン。",
+    ["DictKey_subtitle_598"] = "[ATIS情報] Incirlik空軍基地、情報Golf、時刻02:55。風050度、4ノット。視程10マイル以上。雲量14,000フィートに散在。気温20度、気圧2988。使用滑走路05。視覚進入を予想。情報Golfの受信を確認せよ。",
+    ["DictKey_ActionText_8"] = "V12 bombs",
+    ["DictKey_subtitle_114"] = "PLAYER: Vader、Weasel 31、さっきのをもう一度頼む。",
+    ["DictKey_ActionText_178"] = "F10ラジオメニューを使って指示を復唱するか、VADERに再送を依頼してください。",
+    ["DictKey_subtitle_864"] = "WEASEL 32（SUSPECT）: Ground、Weasel 32、タキシーウェイCharlie。",
+    ["DictKey_ActionText_64"] = "",
+    ["DictKey_ActionText_39"] = "AAA1",
+    ["DictKey_subtitle_840"] = "PLAYER: Incirlik Tower、Weasel 3、F-16×2機、Eagleから滑走路05へ。",
+    ["DictKey_subtitle_504"] = "PLAYER: Two、One、fighter to fighter。Trail、shooter - eyeball、誘導弾、西から進入、南へ離脱。",
+    ["DictKey_subtitle_389"] = "VADER: Weasel 31、西側目標への命中確認できず。再攻撃を許可。",
+    ["DictKey_ActionRadioText_1023"] = "1：AAAを確認  ",
+    ["DictKey_ActionText_174"] = "",
+    ["DictKey_ActionText_560"] = "",
+    ["DictKey_subtitle_528"] = "VADER: Weasel 31、了解。RTBを許可する。",
+    ["DictKey_ActionText_212"] = "",
+    ["DictKey_ActionRadioText_1075"] = "1：直接RTB  ",
+    ["DictKey_ActionRadioText_562"] = "",
+    ["DictKey_subtitle_494"] = "PLAYER: Hawg 33、Weasel 31、もう一度教えてくれ。",
+    ["DictKey_ActionText_9"] = "V13 bombs",
+    ["DictKey_ActionRadioText_432"] = "",
+    ["DictKey_subtitle_467"] = "WEASEL 32（SUSPECT）: Twoはウィンチェスター。",
+    ["DictKey_ActionRadioText_1033"] = "Enable Easy Mode",
+    ["DictKey_subtitle_610"] = "PLAYER: 了解、待機。",
+    ["DictKey_ActionText_546"] = "(シューターを視認しているかどうかをF10ラジオメニューで返信してください。)",
+    ["DictKey_ActionRadioText_1097"] = "周波数変更  ",
+    ["DictKey_ActionRadioText_442"] = "",
+    ["DictKey_subtitle_385"] = "VADER: Weasels、東側目標への命中良好。",
+    ["DictKey_ActionRadioText_1018"] = "2：テクニカルのグリッド要求  ",
+    ["DictKey_subtitle_459"] = "PLAYER: Two、One、兵装状況を教えてくれ。",
+    ["DictKey_ActionRadioText_447"] = "",
+} -- end of dictionary

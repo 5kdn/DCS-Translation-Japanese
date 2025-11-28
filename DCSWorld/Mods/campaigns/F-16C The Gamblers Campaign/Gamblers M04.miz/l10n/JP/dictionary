@@ -1,0 +1,830 @@
+dictionary = 
+{
+    ["DictKey_subtitle_216"] = "PLAYER: 感謝、Wizard。",
+    ["DictKey_subtitle_913"] = "PLAYER: Wizard、こちらWeasel 51。",
+    ["DictKey_subtitle_166"] = "PLAYER: Fighter to Fighter。Roam、cover - shooter、GBU-38、離脱方位は西、ハードデッキはエンジェルス15。",
+    ["DictKey_ActionRadioText_961"] = "周波数変更",
+    ["DictKey_subtitle_321"] = "WEASEL 52 (FLASH): Two。",
+    ["DictKey_ActionText_1096"] = "",
+    ["DictKey_subtitle_232"] = "WEASEL 52 (FLASH): Two、ライフル。",
+    ["DictKey_subtitle_608"] = "PLAYER: Morpheus、Weasel 51、AAA 2門破壊。",
+    ["DictKey_ActionText_116"] = "（視認したら報告、またはPyroに再送を依頼せよ）",
+    ["DictKey_subtitle_77"] = "MORPHEUS: Weasel 51、Morpheusより指示。ターゲティングメッセージ2 Foxtrot、複数兵器の使用を許可。目標は火砲および車両。攻撃手段はそちらの判断に任せる。結果をMorpheusへ報告せよ。",
+    ["DictKey_ActionText_85"] = "",
+    ["DictKey_subtitle_142"] = "PLAYER: 迫撃砲にCBUを落とす。うまくいけば弾薬が誘爆するはずだ。お前はカバーに回れ。ただし、目標が残った場合はGBUでの再攻撃に備えておけ。",
+    ["DictKey_subtitle_341"] = "PLAYER: ラジャー。COM1のボタン4をプッシュ。10秒でWizardにコンタクト。",
+    ["DictKey_subtitle_148"] = "WEASEL 52 (FLASH): Two。",
+    ["DictKey_ActionRadioText_513"] = "1、ISISで間違いない",
+    ["DictKey_ActionRadioText_127"] = "",
+    ["DictKey_ActionText_659"] = "正しい周波数に合わせ、スペースバーを押してMORPHEUSとチェックインせよ",
+    ["DictKey_ActionText_182"] = "F10ラジオメニューまたは1./2キーで選択せよ：\
+1. あなたが迫撃砲にCBUを投下し、PYROが援護。\
+2. PYROがトラックと弾薬にGBU-38を投下し、あなたが援護。\
+※1を選んでも、目標が破壊されるまではBの選択肢も使用可能。",
+    ["DictKey_subtitle_51"] = "PLAYER: Wizard、Weasel 51、目標情報あり。",
+    ["DictKey_subtitle_848"] = "PIRATE 35: Wizard、Pirate 35、キルボックスDeltaでSCAR実施予定。",
+    ["DictKey_ActionRadioText_990"] = "",
+    ["DictKey_subtitle_397"] = "PLAYER: くそ、でもお前が正しいな。…ったく、Morpheusめ…",
+    ["DictKey_subtitle_61"] = "PLAYER: Wizard、Weasel 51、Morpheusにスイッチする。Weasel、どうぞ。",
+    ["DictKey_subtitle_35"] = "WEASEL 52 (FLASH): リード、A-TownのD1から南西へ出てる道に沿って進め。送電塔が目印だ。5マイル先の小さな町に煙が上がってる。トラックはその道の北側に停まってる。",
+    ["DictKey_ActionRadioText_274"] = "1、テクニカルを攻撃しろ",
+    ["DictKey_ActionText_465"] = "",
+    ["DictKey_subtitle_210"] = "PLAYER: 状況は良くない。RTBが必要だ。",
+    ["DictKey_ActionRadioText_717"] = "",
+    ["DictKey_ActionRadioText_190"] = "",
+    ["DictKey_subtitle_850"] = "WIZARD: 了解。現在、ピクチャークリーン。HOOLIGAN 41が貴機の区画にオンステーション。Texacoは未到着。Weasel 31は南西、ブロック25から27にオンステーション。",
+    ["DictKey_ActionText_551"] = "",
+    ["DictKey_ActionText_286"] = "",
+    ["DictKey_ActionRadioText_988"] = "周波数変更",
+    ["DictKey_ActionText_126"] = "",
+    ["DictKey_subtitle_586"] = "PLAYER: Weasel 51、キルボックス Bravo内で軽・中口径のISIS AAAを確認、おそらく23と60。WeaselsはJDAMを保有。",
+    ["DictKey_subtitle_710"] = "PLAYER: OneはBINGO。",
+    ["DictKey_ActionRadioText_275"] = "2、逃がしてやれ",
+    ["DictKey_subtitle_371"] = "PLAYER: 視認、同意する。",
+    ["DictKey_ActionRadioText_565"] = "1、ミッション継続可能",
+    ["DictKey_subtitle_292"] = "PLAYER: One, guns, guns!",
+    ["DictKey_subtitle_576"] = "WEASEL 52 (FLASH): Weasel 52。",
+    ["DictKey_subtitle_429"] = "WIZARD: Weasel 51、Wizard、どうぞ。",
+    ["DictKey_subtitle_668"] = "WEASEL 52 (FLASH): 問題ない。",
+    ["DictKey_ActionRadioText_543"] = "",
+    ["DictKey_subtitle_491"] = "WIZARD: ラジャー、待機。",
+    ["DictKey_subtitle_731"] = "WIZARD: Weasel 51、Wizard。TexacoはROMEOトラック上に待機中。",
+    ["DictKey_subtitle_411"] = "WEASEL 52 (FLASH): でもあの時はGhostが一緒だった。今はMorpheusが見えてない可能性が高い。",
+    ["DictKey_ActionText_1017"] = "",
+    ["DictKey_ActionText_1000"] = "",
+    ["DictKey_ActionText_1125"] = "よし、Flash、テープを見ながら今回のミッションを振り返ろう。前半は計画通りに進行して、特に話すこともなくステーションに到着。\
+\
+その後、敵の迫撃砲射撃を探知し、まもなくISの兵士たちが近くの村を攻撃しているのを確認。\
+\
+我々は迫撃砲を攻撃し、弾薬を誘爆させて二次爆発も良好。その結果、敵チームは全滅、近くに停まっていたトラック2両も破壊した。\
+\
+その後、現場から逃げようとするテクニカル2両を発見したが、俺はマーベリックをもっと価値のある目標に温存しようと思って見逃したーーが、残念ながらそのチャンスは来なかった（10ポイント減点）。\
+\
+次に、ISが反乱軍を一方的に叩く地獄のような展開に遭遇したが、我々は何もできなかった。地上の状況も見ずにアメリカ本国でぬくぬくしている誰かが「攻撃不可」と決めたせいだ。戦争初期のSCAR任務では、AO内の武装車両にはほとんど自由に攻撃できたことを思えば、これは大きな変化だった。うまくいかなかったのは残念だがーーまあ、これも戦争ってやつだ。\
+\
+その後、Morpheusがこれ以上の攻撃を許可する見込みもなかったため、RTBを決定。ISのAPCや歩兵が反乱軍を撃っているのに手出しできないんだからな…（10ポイント減点）。\
+\
+そして帰投、着陸してミッション終了。\
+\
+",
+    ["DictKey_subtitle_753"] = "WEASEL 52 (FLASH): Two。",
+    ["DictKey_subtitle_574"] = "PLAYER: Weasels、チェック。",
+    ["DictKey_subtitle_838"] = "WEASEL 52 (FLASH): Two、タキシー準備完了。",
+    ["DictKey_subtitle_21"] = "PLAYER: One、煙と爆発を視認。Aタウン南西10マイルあたり。確認しに行く。",
+    ["DictKey_subtitle_351"] = "PLAYER: アファーム。",
+    ["DictKey_subtitle_431"] = "PLAYER: Weasel 51、show of forceを要求する。",
+    ["DictKey_subtitle_687"] = "WIZARD: Weasel 51、Wizard。RTBを許可する。",
+    ["DictKey_ActionRadioText_318"] = "1、PLがCBUで攻撃",
+    ["DictKey_ActionText_728"] = "",
+    ["DictKey_ActionText_956"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionRadioText_512"] = "2、確信が持てない",
+    ["DictKey_subtitle_19"] = "WEASEL 52 (FLASH): Two。",
+    ["DictKey_ActionText_278"] = "",
+    ["DictKey_subtitle_747"] = "PLAYER: Weasel、高度12、ウェイポイント7へ向かえ。",
+    ["DictKey_ActionRadioText_196"] = "2、PyroがGBUで攻撃",
+    ["DictKey_subtitle_343"] = "PLAYER: Wizard、Weasel 51。",
+    ["DictKey_ActionText_466"] = "",
+    ["DictKey_ActionRadioText_1088"] = "",
+    ["DictKey_subtitle_745"] = "WEASEL 52 (FLASH): Two。",
+    ["DictKey_subtitle_471"] = "PLAYER: Weasel 51。",
+    ["DictKey_subtitle_381"] = "WEASEL 52 (FLASH): テクニカルの1両が吹っ飛んだみたいだ。",
+    ["DictKey_ActionRadioText_1085"] = "周波数変更完了",
+    ["DictKey_ActionText_661"] = "",
+    ["DictKey_ActionRadioText_125"] = "まだノージョイ",
+    ["DictKey_subtitle_703"] = "BLACKBIRD 31: Blackbird 31。",
+    ["DictKey_subtitle_779"] = "PLAYER: Tower、Weasel 51、Charlieでタキシー。",
+    ["DictKey_ActionText_709"] = "",
+    ["DictKey_subtitle_526"] = "WEASEL 41 (MENACE): Weasel 42のレーダーが損傷、RTBを要請。",
+    ["DictKey_subtitle_733"] = "PLAYER: Wizard、Weasel 51、ラジャー、トラックROMEO確認。Weaselsはスイッチングする。本日のサポートに感謝！",
+    ["DictKey_ActionText_944"] = "",
+    ["DictKey_subtitle_363"] = "WEASEL 52 (FLASH): 注意しろ、敵が建物になだれ込んでる。",
+    ["DictKey_ActionRadioText_514"] = "2、確信が持てない",
+    ["DictKey_subtitle_632"] = "PLAYER: Fighter to Fighter。Wheel、shooter - cover、ウェポンズフリー。",
+    ["DictKey_subtitle_877"] = "BLACKBIRD 31: Wizard、こちらBlackbird 31。",
+    ["DictKey_descriptionText_1"] = "第77飛行隊は、ISISにほぼ完全に支配されているパルミラ周辺の孤立地域で、ISISと戦う部隊への支援を継続している。  \
+しかし最近になって、ISISと戦う反体制派勢力の活動が活発化しており、我々は彼らを支援する必要がある。\
+\
+政権側部隊に対する我々の立場はこれまでと変わらない。  \
+交戦規定（ROE）により、連合軍機に直接脅威を与える航空戦力やSAMシステムに対しては交戦が許可されている。",
+    ["DictKey_ActionRadioText_103"] = "",
+    ["DictKey_subtitle_604"] = "PLAYER: Morpheus、Weasel 51、AAA 4門破壊。",
+    ["DictKey_ActionRadioText_566"] = "2、RTBが必要",
+    ["DictKey_subtitle_146"] = "PLAYER: Fighter to Fighter。Roam、shooter - cover、CBU-103、離脱方位は西だ。",
+    ["DictKey_ActionText_139"] = "",
+    ["DictKey_ActionText_83"] = "正しい周波数に合わせ、Wizardにオンステーションを報告するにはSPACE BARを押してください。",
+    ["DictKey_ActionRadioText_1066"] = "1、さらなる任務指示を要請する",
+    ["DictKey_ActionRadioText_716"] = "",
+    ["DictKey_subtitle_71"] = "MORPHEUS: Weasel 51、Morpheus、どうぞ。",
+    ["DictKey_subtitle_785"] = "KING FAISAL TOWER: Weasel 51、離陸許可。ランウェイ28、風265で10。",
+    ["DictKey_ActionText_134"] = "",
+    ["DictKey_subtitle_433"] = "WIZARD: Weasel 51、ネガティブ。show of forceは許可されない、繰り返す、許可されない。",
+    ["DictKey_ActionRadioText_1070"] = "2、空中給油機へ向かう",
+    ["DictKey_subtitle_489"] = "PLAYER: アファーム、Wizard。ISISと確認。",
+    ["DictKey_subtitle_683"] = "PLAYER: Wizard、Weasel 51フライトはREMINGTON、RTBを要請。",
+    ["DictKey_subtitle_927"] = "WIZARD: 幸運を祈る、Weasel。",
+    ["DictKey_ActionText_653"] = "",
+    ["DictKey_ActionRadioText_96"] = "1、タリー",
+    ["DictKey_subtitle_67"] = "WEASEL 52 (FLASH): Weasel 52。",
+    ["DictKey_ActionRadioText_569"] = "",
+    ["DictKey_subtitle_1126"] = "MORPHEUS: Weasel 51、Morpheusよりターゲティングメッセージ3 Foxtrotを指示。マーベリック使用許可、目標タイプ：AAA、センサー：TPOD。GPS兵装用の座標は自機で生成せよ。ハードデッキは15000フィートを遵守。結果をMorpheusに報告せよ。",
+    ["DictKey_subtitle_664"] = "WEASEL 52 (FLASH): Two。",
+    ["DictKey_subtitle_862"] = "WIZARD: 続けてくれ、Weasel 41。",
+    ["DictKey_ActionRadioText_540"] = "2、行動を中止",
+    ["DictKey_subtitle_493"] = "PLAYER: 見た感じISISだ。",
+    ["DictKey_ActionText_7"] = "命中確認",
+    ["DictKey_subtitle_614"] = "MORPHEUS: Weasel 51、ラジャー。メッセージ3 Foxtrotをクローズする。",
+    ["DictKey_ActionRadioText_507"] = "",
+    ["DictKey_subtitle_258"] = "PLAYER: Morpheus、ターゲティングメッセージ2 FoxtrotのBDA。迫撃砲4門と車両3両を撃破。付随被害なし。",
+    ["DictKey_subtitle_254"] = "MORPHEUS: Weasel 51、Morpheus、送れ。",
+    ["DictKey_subtitle_518"] = "WIZARD: ネガティブ、Weasel 51。Morpheusからの返答があり次第連絡する、それまで待機。",
+    ["DictKey_subtitle_437"] = "WIZARD: Weasel 51、Wizard。",
+    ["DictKey_ActionRadioText_295"] = "攻撃中止",
+    ["DictKey_subtitle_377"] = "WEASEL 52 (FLASH): 2両のテクニカルがその地点に接近中、南と東へ。今、発砲した。",
+    ["DictKey_subtitle_830"] = "PLAYER: Weasel、AUXチェック。",
+    ["DictKey_ActionText_312"] = "正しい周波数に合わせ、スペースバーを押してWIZARDと交信せよ",
+    ["DictKey_subtitle_858"] = "WEASEL 52 (FLASH): Weasel 52。",
+    ["DictKey_ActionText_138"] = "",
+    ["DictKey_ActionText_10"] = "FL 996 on",
+    ["DictKey_subtitle_654"] = "PLAYER: Weasel 51、ラジャー。3 Foxtrot、JDAM使用許可、センサー：TPOD、座標は自己生成、ハードデッキは15,000フィート。了解。",
+    ["DictKey_ActionRadioText_1025"] = "周波数変更",
+    ["DictKey_subtitle_43"] = "WEASEL 52 (FLASH): HMG搭載のテクニカル1両を道路脇に確認。近くのトラックのそばにMANPADも1基。",
+    ["DictKey_ActionRadioText_307"] = "1、さらなる任務指示を要請する",
+    ["DictKey_subtitle_417"] = "WEASEL 52 (FLASH): Two、GBU-38が2発。",
+    ["DictKey_subtitle_883"] = "WIZARD: Blackbird 31、Wizard。コンタクトは民間機、無視せよ。",
+    ["DictKey_subtitle_869"] = "WEASEL 41 (MENACE): Weasel 41、グリッドは37S DU439 275。",
+    ["DictKey_ActionText_132"] = "(PRIのWizard周波数に切り替えよ)",
+    ["DictKey_subtitle_331"] = "WEASEL 52 (FLASH): Bravo 2。",
+    ["DictKey_ActionRadioText_284"] = "1、テクニカルを攻撃しろ",
+    ["DictKey_subtitle_172"] = "WEASEL 52 (FLASH): Two、ピクル。",
+    ["DictKey_subtitle_741"] = "PLAYER: One、フェンスイン。",
+    ["DictKey_subtitle_345"] = "WIZARD: Weasel 51、Wizard、どうぞ。",
+    ["DictKey_ActionText_976"] = "",
+    ["DictKey_subtitle_447"] = "PLAYER: Weasel 51、ラジャー、weapons hold。",
+    ["DictKey_subtitle_903"] = "WEASEL 41 (MENACE): Weasel 41、了解、ウェポンズ・ホールド。",
+    ["DictKey_ActionText_811"] = "",
+    ["DictKey_ActionText_1117"] = "よし、Flash、テープを見ながらミッションを振り返ろう。前半は予定通り進行して、特に言及すべきこともなくステーションに到着した。\
+\
+その後、敵の迫撃砲の射撃を探知し、すぐにISの兵士たちが近くの村を攻撃しているのを発見した。\
+\
+我々は迫撃砲を攻撃して弾薬を誘爆させ、二次爆発も良好。敵は全滅し、近くに停まっていたトラック2両も破壊した。\
+\
+さらに、現場から逃げようとしていたテクニカル2両を発見し、マーベリックで交戦して両方とも撃破した。\
+\
+その後、これ以上Morpheusが攻撃を許可してくれる望みもなさそうだったので、RTBすることにしたーー結局、ISのAPCや反乱軍を攻撃している歩兵ですら攻撃できなかったわけだしな。\
+\
+そのまま基地に帰還して着陸した。",
+    ["DictKey_subtitle_443"] = "PLAYER: 防衛側が別の建物に入ったが、そこに敵の機関銃とRPGの集中攻撃を受けた。その後、建物に突入されて今は静か。M113とテクニカル数両がまだ周囲に残ってる。",
+    ["DictKey_subtitle_445"] = "WIZARD: ラジャー。Morpheusからの指示はweapons hold。繰り返す、weapons holdだ。",
+    ["DictKey_ActionText_824"] = "FAISAL TOWERに切り替え。  \
+準備ができたらスペースバーでこのメッセージを消去",
+    ["DictKey_ActionText_820"] = "ATISを取得後、FAISALアプローチに切り替え。準備ができたらスペースバーを押せ",
+    ["DictKey_ActionRadioText_992"] = "周波数変更",
+    ["DictKey_subtitle_39"] = "WEASEL 52 (FLASH): Aタウン南西に湖が2つある。そのうち小さい方の南、大きい方の南西に敵。距離は最大でも3マイル。",
+    ["DictKey_ActionRadioText_1013"] = "周波数変更",
+    ["DictKey_subtitle_592"] = "MORPHEUS: Weasel 51、Morpheus、ターゲティングメッセージ3 Foxtrotを送信。JDAMの使用を許可。目標種別：AAA、センサー：TPOD。GPS兵器用の座標は自己生成。ハードデッキは15,000フィートを遵守。結果をMorpheusに報告せよ。",
+    ["DictKey_ActionText_187"] = "",
+    ["DictKey_subtitle_150"] = "PLAYER: One、イン。",
+    ["DictKey_subtitle_477"] = "WIZARD: ラジャー、待機。",
+    ["DictKey_ActionText_805"] = "",
+    ["DictKey_ActionText_940"] = "",
+    ["DictKey_subtitle_931"] = "WIZARD: Pirate 35、Wizard、周波数切り替え許可。",
+    ["DictKey_subtitle_427"] = "PLAYER: Wizard、Weasel 51。",
+    ["DictKey_ActionText_282"] = "",
+    ["DictKey_ActionRadioText_1054"] = "周波数変更完了",
+    ["DictKey_subtitle_327"] = "WEASEL 52 (FLASH): 曳光弾だ、街の北東部から発射されてる！",
+    ["DictKey_subtitle_771"] = "APPROACH: Weasel flight、アプローチ。レーダー捕捉。5000フィートへ降下せよ。5マイル手前で報告。ランウェイ28への目視進入を予想。",
+    ["DictKey_subtitle_329"] = "PLAYER: セクターは？",
+    ["DictKey_ActionRadioText_184"] = "2、PyroがGBUで攻撃",
+    ["DictKey_subtitle_250"] = "PLAYER: Morpheus、Weasel 51。",
+    ["DictKey_subtitle_75"] = "MORPHEUS: Weasel 51、こちらMorpheus、待機せよ。",
+    ["DictKey_subtitle_222"] = "WEASEL 52 (FLASH): 2台目のテクニカルも移動中、同じ方向。",
+    ["DictKey_subtitle_666"] = "PLAYER: Two、フライト合流。燃料は？",
+    ["DictKey_ActionRadioText_266"] = "1、テクニカルを攻撃しろ",
+    ["DictKey_subtitle_405"] = "PLAYER: One。",
+    ["DictKey_subtitle_852"] = "PIRATE 35: Wizard、Pirate 35、コピー。",
+    ["DictKey_subtitle_339"] = "WEASEL 52 (FLASH): テクニカルもHMG装備で支援についてる。APCのすぐ東側に位置。",
+    ["DictKey_subtitle_834"] = "PLAYER: よし。ATISを取ってPRI 3へ。タキシー準備ができたら報告しろ。",
+    ["DictKey_ActionRadioText_810"] = "空中給油完了",
+    ["DictKey_subtitle_409"] = "PLAYER: まだM113と車両が外に残ってる。数日前なら合法な目標だったのに！",
+    ["DictKey_ActionText_825"] = "",
+    ["DictKey_ActionText_515"] = "",
+    ["DictKey_ActionRadioText_503"] = "1、ISISで間違いない",
+    ["DictKey_subtitle_751"] = "PLAYER: Weasel、King FaisalのATIS取ってからボタン9へ。",
+    ["DictKey_subtitle_27"] = "WEASEL 52 (FLASH): Two、確認中…タリー！",
+    ["DictKey_ActionText_1005"] = "（PRIでTexacoへ切り替え）",
+    ["DictKey_subtitle_497"] = "PLAYER: ネガティブ。",
+    ["DictKey_subtitle_516"] = "PLAYER: Wizard、Weasel 51、続報あるか？",
+    ["DictKey_subtitle_53"] = "WIZARD: Weasel 51、Wizard、どうぞ。",
+    ["DictKey_subtitle_897"] = "WIZARD: Weasel 41、Wizard。",
+    ["DictKey_ActionText_724"] = "",
+    ["DictKey_ActionText_314"] = "",
+    ["DictKey_ActionRadioText_108"] = "",
+    ["DictKey_ActionText_706"] = "正しい周波数に合わせ、スペースバーを押してWIZARDにRTBを報告せよ",
+    ["DictKey_ActionText_93"] = "敵部隊を捕捉したら、SPACE BARを押してください。",
+    ["DictKey_subtitle_208"] = "PLAYER: 飛行継続中、ミッション遂行可能。",
+    ["DictKey_subtitle_407"] = "WEASEL 52 (FLASH): やられた…中に入られた。",
+    ["DictKey_subtitle_1132"] = "PLAYER: 北側のトラックにGBUを1発、南側の迫撃砲にもう1発落としてくれ。俺がカバーする。爆発が強ければ迫撃砲も一緒に吹っ飛ぶはずだ。",
+    ["DictKey_subtitle_435"] = "PLAYER: Weasel 51。",
+    ["DictKey_ActionRadioText_1064"] = "2、行動を中止",
+    ["DictKey_ActionRadioText_713"] = "2、RTBが必要",
+    ["DictKey_ActionText_955"] = "",
+    ["DictKey_ActionText_943"] = "",
+    ["DictKey_ActionText_283"] = "",
+    ["DictKey_subtitle_1108"] = "PLAYER: Weasel 51、キルボックスBRAVO内のISISの軽・中口径AAAを確認、おそらく23と60。Weaselはマーベリック装備。",
+    ["DictKey_subtitle_860"] = "WEASEL 41 (MENACE): Wizard、こちらWeasel 41。",
+    ["DictKey_subtitle_63"] = "",
+    ["DictKey_ActionText_505"] = "F10ラジオメニューで応答せよ：\
+A. 対象が100% ISISであると確信している\
+B. 確信は持てない",
+    ["DictKey_subtitle_618"] = "WEASEL 52 (FLASH): Two！",
+    ["DictKey_subtitle_854"] = "WIZARD: 幸運を祈る、Pirate。",
+    ["DictKey_subtitle_385"] = "WEASEL 52 (FLASH): オリーブ畑の真ん中にある塀に囲まれた建物に入った。",
+    ["DictKey_ActionText_538"] = "",
+    ["DictKey_subtitle_620"] = "WEASEL 52 (FLASH): Two、アタックに入る。",
+    ["DictKey_subtitle_846"] = "WIZARD: 了解、Pirate 35、予定を明示せよ。",
+    ["DictKey_subtitle_638"] = "PLAYER: One、ライフル。",
+    ["DictKey_subtitle_403"] = "WEASEL 52 (FLASH): リード、Two。敵3グループがいろんな方向から建物に近づいてる。",
+    ["DictKey_ActionRadioText_568"] = "",
+    ["DictKey_subtitle_23"] = "WEASEL 52 (FLASH): Two。",
+    ["DictKey_ActionRadioText_309"] = "1、ミッション継続可能",
+    ["DictKey_ActionText_109"] = "（PRIしたら報告、または視認誘導を依頼）",
+    ["DictKey_subtitle_755"] = "PLAYER: Weasel、チェック。",
+    ["DictKey_ActionText_298"] = "",
+    ["DictKey_subtitle_899"] = "WEASEL 41 (MENACE): こちらWeasel 41、どうぞ。",
+    ["DictKey_subtitle_907"] = "WIZARD: Texaco、どうぞ。",
+    ["DictKey_subtitle_909"] = "TEXACO: Texaco 21、トラックRomeoに到着。",
+    ["DictKey_ActionText_311"] = "",
+    ["DictKey_subtitle_15"] = "PLAYER: ラジャー。",
+    ["DictKey_ActionRadioText_991"] = "周波数変更",
+    ["DictKey_ActionText_502"] = "準備ができたら、スペースバーでFLASHと無線チェックを実施",
+    ["DictKey_ActionRadioText_89"] = "爆発を報告しろ",
+    ["DictKey_ActionRadioText_1045"] = "2、もう一度言ってくれ",
+    ["DictKey_ActionRadioText_712"] = "1、ミッション継続可能",
+    ["DictKey_subtitle_793"] = "PLAYER: King FaisalTower、Weasel 51、2機編隊、5マイル地点、ランウェイ28へフルストップ着陸要求。",
+    ["DictKey_subtitle_1130"] = "[ATIS情報] King Faisal空軍基地、インフォメーションEcho、時刻0530。風265度10ノット、視程10マイル以上。雲量ブロークン、18000フィート。気温16度、高度計2997。使用滑走路は28、進入方式は目視進入を予想。Echoの受信を確認せよ。",
+    ["DictKey_subtitle_357"] = "PLAYER: どう見る？",
+    ["DictKey_subtitle_520"] = "PLAYER: ラジャー。",
+    ["DictKey_ActionRadioText_504"] = "2、確信が持てない",
+    ["DictKey_subtitle_224"] = "PLAYER: One。",
+    ["DictKey_ActionText_6"] = "Technicals move",
+    ["DictKey_ActionText_650"] = "(PRIのMorpheusに切り替えよ)",
+    ["DictKey_subtitle_679"] = "WEASEL 52 (FLASH): Two、フェンスアウト。",
+    ["DictKey_ActionText_179"] = "",
+    ["DictKey_ActionText_111"] = "",
+    ["DictKey_ActionText_94"] = "",
+    ["DictKey_subtitle_691"] = "BLACKBIRD 31: Wizard、Blackbird 31。",
+    ["DictKey_ActionRadioText_1063"] = "1、Show of forceを要求",
+    ["DictKey_ActionRadioText_1019"] = "周波数変更",
+    ["DictKey_subtitle_767"] = "WEASEL 52 (FLASH): Weasel 52。",
+    ["DictKey_descriptionBlueTask_3"] = "King Faisal空軍基地\
+2014年12月2日、現地時間 07:45 ／Zulu 04:45  \
+ブリーフィング担当：CHAOS ／ Weasel 51 フライトリード\
+\
+[スライド3 - フライト概要]  \
+スライド3を見てくれ。フライトプランはここ数日とほぼ同じだ。キルボックスの名称は変わっているかもしれないが、作戦区域はこれまでに少なくとも8回飛んだAs Sukhnahの町、つまりキルボックスBRAVOの中心だ。  \
+今回はJTACの支援が入らない見込みなので、目標情報はWizard経由で米本土のMorpheusに送られ、そこで攻撃の許可が出るという形になる。つまり、これまでよりも交戦規定（ROE）が厳しくなる。特にSDF部隊がこのエリアに入り込んで、ISISに対してより強く抵抗しているとの報告があるため、注意が必要だ。  \
+次、スライド4。\
+\
+[スライド4 - 天候]  \
+今日は18,000〜20,000フィートと30,000〜32,000フィートに雲が散在している。つまり、我々は主に雲のすぐ下で飛ぶことになる。MANPADの脅威圏外で、視程は良好だ。\
+\
+[スライド5 - 離陸]  \
+俺は91-372を担当、revetment 12に駐機している。FLASH、お前は91-358で、スポット10。  \
+いつも通りCH2（277.0）でATISを取り、CH3（250.1）でタワーにコンタクトする。初期周波数でのラジオチェックも忘れずに。各プリセットはニーボードに記載済みだ。  \
+FLASHはアンチコリジョンライトを「1」、俺は「4」でいこう。離陸はランウェイ28を使用する。お前がラインアップするのを確認してから、俺が滑走を開始する。\
+\
+[スライド3に戻る - フライト概要 続き]  \
+H4を出たら北東に進路をとり、雲の上に出るために22,000フィートまで上昇、そのままAs Sukhnah（本日の呼称はBRAVO）へ向かう。Weasel 41は我々の西側、CHARLIEで同様の任務を行う。さらに西のDELTAにはストライク・イーグルが展開する。  \
+例によってAOに入る前にWizardとコンタクトを取りチェックインする。ブルズアイ、つまりウェイポイント3でアンカーを取り、町周辺で目標探索を開始する。要領はいつも通りだ。  \
+ではスライド6へ。\
+\
+[スライド6 - グリッド情報]  \
+このエリアはすっかりおなじみだろう。これまではAs Sukhnahが完全にISISの支配下にあると想定していたが、最近では市街とその周辺で内紛が起きているとの報告もある。  \
+したがって、目標選定には細心の注意が必要だ。  \
+これまでのように自由に目標を攻撃することはできなくなる。特にJTACのいない今回は、すべての目標をWizardに報告する必要がある。言うまでもなく、付随被害は絶対に避けなければならない。  \
+「敵であると100%確信できないなら撃つな」  \
+そして攻撃許可はMorpheusから得る必要がある。通常はWizard経由で受け取るが、場合によっては我々自身で直接Morpheusと通信することになる。  \
+まったく、官僚主義もここまで来たかという感じだ。  \
+\
+とはいえ、この地域には何度も爆撃を加えてきたので、目立ったIS戦力が残っているとは思えない。前回の3〜4回の出撃でも何もなかったからな。  \
+一方で、ISと戦う別の反政府勢力の活動が観測されているので、状況は動くかもしれない。現場で判断だ。  \
+ではスライド3に戻ろう。\
+\
+[スライド3 - 帰投経路]  \
+今日はタンカーコースが2本、ROMEOとSIERRAが設定されている。ビンゴ燃料は2,500ポンド。復路ではどちらが稼働中か確認し、必要なら給油してからKing Faisalに戻る。  \
+その後は通常通りAPPROACH、TOWERへと切り替える。\
+\
+[武装]  \
+俺はCBU1発とMaverick1発を搭載。FLASHはGBU-38が2発とMaverick1発。  \
+燃料タンクは2本、機銃フル装填、チャフ30、フレア90で出る。どんな脅威にも柔軟に対応できる構成だ。  \
+もちろんCBUは市街地以外でしか使用できないことを忘れるな。\
+\
+[無線ルール]  \
+AUXはCH1を通信用として常時使用。PRI側は適宜切り替える。周波数の変更と通信チェックは俺が指示する。最初のラジオチェックは地上、初期周波数＝CH1 PRIで行う。  \
+その後はタワーにCH3 PRI、離陸後はWizardにCH4 PRI、TexacoはCH7、MorpheusはCH5、APPROACHはCH9だ。\
+\
+OK、行くぞ！\
+\
+※BALTIC DRAGONからの補足：  \
+想定ミッション時間：1時間40分",
+    ["DictKey_subtitle_929"] = "PIRATE 35: Wizard、Pirate 35、キルボックスDELTAにオンステーション、HOOLIGAN 41のネットに切り替える。",
+    ["DictKey_ActionRadioText_310"] = "2、RTBが必要",
+    ["DictKey_ActionText_951"] = "準備ができたら、SPACE BARを押してWIZARDとチェックインしてください。",
+    ["DictKey_ActionText_714"] = "F10ラジオメニューで選択せよ：\
+A. ミッション継続可能\
+B. RTBが必要",
+    ["DictKey_subtitle_413"] = "PLAYER: Weasel 5、弾薬状況は？",
+    ["DictKey_subtitle_256"] = "PLAYER: Morpheus、ターゲティングメッセージ2 FoxtrotのBDA。迫撃砲4門と車両4両を撃破。付随被害なし。",
+    ["DictKey_subtitle_452"] = "WIZARD: AAAの位置を教えてくれ。",
+    ["DictKey_ActionText_570"] = "",
+    ["DictKey_ActionRadioText_559"] = "",
+    ["DictKey_subtitle_481"] = "WIZARD: ネガティブ、Morpheusからの返答待ち。",
+    ["DictKey_ActionText_996"] = "(PRIでWizardに切り替え)",
+    ["DictKey_ActionRadioText_723"] = "RTB",
+    ["DictKey_subtitle_218"] = "WEASEL 52 (FLASH): 警戒、ターゲット南側のテクニカルが移動開始、Aタウンへ向け北東進行中。",
+    ["DictKey_subtitle_373"] = "WEASEL 52 (FLASH): 武装した集団を建物の外、Bravo 3の西端で確認。たぶん味方だな。",
+    ["DictKey_subtitle_206"] = "PLAYER: 飛行継続中、ミッション遂行可能。",
+    ["DictKey_ActionText_545"] = "",
+    ["DictKey_ActionText_101"] = "",
+    ["DictKey_ActionRadioText_95"] = "2、ノージョイ",
+    ["DictKey_ActionText_953"] = "",
+    ["DictKey_subtitle_743"] = "PLAYER: Weasel、ボタン7へ。",
+    ["DictKey_ActionRadioText_300"] = "2、RTB",
+    ["DictKey_subtitle_844"] = "WEASEL 52 (FLASH): Two。",
+    ["DictKey_subtitle_697"] = "WIZARD: ラジャー。識別可能か？",
+    ["DictKey_subtitle_485"] = "PLAYER: Wizard、Weasel 51、状況更新。さきほど攻撃されたグループが建物から脱出し、テクニカル2台から激しい攻撃を受けている。",
+    ["DictKey_subtitle_11"] = "PLAYER: Wizard、Weasel 51、オンステーション、キルボックスBRAVO。",
+    ["DictKey_subtitle_757"] = "WEASEL 52 (FLASH): Two。",
+    ["DictKey_subtitle_401"] = "WEASEL 52 (FLASH): 建物が燃えてる。",
+    ["DictKey_ActionRadioText_721"] = "1、RTB",
+    ["DictKey_ActionRadioText_549"] = "",
+    ["DictKey_ActionText_804"] = "正しい周波数に合わせ、スペースバーを押してTEXACOの周波数で無線チェックせよ",
+    ["DictKey_ActionText_573"] = "",
+    ["DictKey_subtitle_879"] = "WIZARD: Blackbird 31、Wizard、どうぞ。",
+    ["DictKey_subtitle_761"] = "TEXACO: ご武運を、サー！",
+    ["DictKey_ActionRadioText_544"] = "",
+    ["DictKey_ActionRadioText_1093"] = "2、PyroがGBUで攻撃",
+    ["DictKey_subtitle_594"] = "MORPHEUS: Weasel 51、Morpheus、ネガティブ。CBUの使用は許可されず。繰り返す、CBUの使用は不許可。Wizardに連絡せよ。Morpheusアウト。",
+    ["DictKey_ActionText_827"] = "",
+    ["DictKey_ActionText_509"] = "",
+    ["DictKey_ActionText_809"] = "",
+    ["DictKey_ActionText_180"] = "",
+    ["DictKey_ActionText_289"] = "",
+    ["DictKey_ActionRadioText_91"] = "爆発を報告しろ",
+    ["DictKey_subtitle_923"] = "WIZARD: 了解。ピクチャークリーン。Bravo 14にはJTAC支援なし。TexacoはトラックRomeo上。Pirate 35は北側のDELTAで稼働中、ブロック22-24。Weasel到着前にヨルダン空軍のF-16がBravoで中口径AAAとMANPADSを報告、注意せよ。",
+    ["DictKey_subtitle_925"] = "PLAYER: Weasel 51、全て了解。",
+    ["DictKey_ActionRadioText_1067"] = "2、RTB",
+    ["DictKey_subtitle_933"] = "[ATIS情報] King Faisal Air Base、インフォメーションCharlie、時刻0430。風265で10。視程10マイル以上。雲高18000フィートで散在。気温16度、高度計2997。使用滑走路28。目視進入を予想。Charlieの受信を報告せよ。",
+    ["DictKey_ActionRadioText_130"] = "",
+    ["DictKey_subtitle_612"] = "PLAYER: Morpheus、Weasel 51、ターゲットに命中なし。",
+    ["DictKey_subtitle_875"] = "WIZARD: Weasel 41、Wizard、要求受領。待機せよ。",
+    ["DictKey_ActionRadioText_124"] = "もう一度言ってくれ",
+    ["DictKey_subtitle_582"] = "PLAYER: Weasel 51、キルボックス Bravo内で軽・中口径のISIS AAAを確認、おそらく23と60。WeaselsはJDAMとMaverickを保有。",
+    ["DictKey_ActionText_463"] = "正しい周波数に合わせ、スペースバーを押してWIZARDと交信せよ",
+    ["DictKey_subtitle_483"] = "PLAYER: ラジャー。",
+    ["DictKey_subtitle_624"] = "WEASEL 52 (FLASH): Two、シャック。",
+    ["DictKey_ActionRadioText_1090"] = "周波数変更完了",
+    ["DictKey_ActionRadioText_194"] = "1、PLがCBUで攻撃",
+    ["DictKey_ActionRadioText_299"] = "1、さらなる任務指示を要請する",
+    ["DictKey_subtitle_701"] = "WIZARD: ラジャー、Blackbird。引き続き監視せよ。",
+    ["DictKey_ActionRadioText_303"] = "",
+    ["DictKey_subtitle_935"] = "[ATIS情報] King Faisal Air Base、インフォメーションDelta、時刻0630。風265で10。視程10マイル以上。雲高18000フィートで散在。気温16度、高度計2997。使用滑走路28。目視進入を予想。Deltaの受信を報告せよ。",
+    ["DictKey_subtitle_626"] = "WEASEL 52 (FLASH): Two、ピクル。",
+    ["DictKey_ActionRadioText_511"] = "1、ISISで間違いない",
+    ["DictKey_subtitle_391"] = "PLAYER: Two、俺が敵の上をshow of forceで通過する。上空でホールドして、撃ってくる奴がいたら教えてくれ。",
+    ["DictKey_ActionText_1119"] = "よし、Flash、テープを見ながらミッションを振り返ろう。前半は計画通りで、特に言及すべきこともなくステーションに到着した。\
+\
+その後、敵の迫撃砲の射撃を探知し、すぐにISの兵士たちが近くの村を攻撃しているのを発見した。\
+\
+我々は迫撃砲を攻撃して弾薬を誘爆させ、二次爆発も良好。敵チームは全滅し、近くに停まっていたトラック2両も破壊できた。\
+\
+次に、現場から逃げようとしていたテクニカル2両を発見し、マーベリックで攻撃した。ナイスショットだったよ、Flash。残念ながら俺の方は外した（5ポイント減点）。\
+\
+そのあとに起きたのが、ISに壊滅させられる反乱軍という惨状だったわけだが、我々は何もできなかった。地上の状況を一切把握していない、アメリカでぬくぬくしてる誰かが「攻撃するな」と決めたせいだ。それまでの戦争では、SCAR任務中ならAO内の武装車両はほぼすべて攻撃OKだっただけに、大きな方針転換だった。残念だが、まあ…戦争ってのはそういうもんだ。\
+\
+まだ兵装が残っていたので、ISの対空火器への攻撃許可を求めて実施したんだが、残念ながら命中させることはできなかった（10ポイント減点）。\
+\
+その後は基地に帰還して着陸した。\
+\
+",
+    ["DictKey_subtitle_469"] = "WIZARD: Weasels、待機。兵装はコールドに、Morpheusへ確認中。",
+    ["DictKey_ActionRadioText_969"] = "周波数変更",
+    ["DictKey_ActionRadioText_965"] = "",
+    ["DictKey_ActionText_290"] = "",
+    ["DictKey_subtitle_347"] = "PLAYER: Killbox Bravo内で、M113と武装勢力が建物に突入中。HMG装備のテクニカルも随伴してる。攻撃許可を求む。",
+    ["DictKey_ActionRadioText_197"] = "",
+    ["DictKey_subtitle_226"] = "PLAYER: Two、マーベリックでテクニカルを攻撃する準備、Fighter to Fighterの待機を。",
+    ["DictKey_subtitle_355"] = "PLAYER: えーっと…ちょっと待ってくれ、Wizard。",
+    ["DictKey_ActionText_987"] = "(PRIでWizardに切り替え)",
+    ["DictKey_subtitle_49"] = "PLAYER: One、了解。Wizardにコンタクトする、待機。",
+    ["DictKey_ActionRadioText_1073"] = "フェンスアウト",
+    ["DictKey_ActionText_88"] = "",
+    ["DictKey_ActionRadioText_561"] = "2、空中給油機へ向かう",
+    ["DictKey_subtitle_467"] = "PLAYER: Wizard、Weasel 51、こちらISISが反体制派を攻撃中と判断。交戦許可を要請、ターゲティングメッセージは2 Golf。",
+    ["DictKey_subtitle_640"] = "PLAYER: One、目標ヒット、シャック。",
+    ["DictKey_ActionRadioText_294"] = "",
+    ["DictKey_subtitle_220"] = "PLAYER: One、ラジャー。",
+    ["DictKey_ActionRadioText_100"] = "",
+    ["DictKey_subtitle_79"] = "PLAYER: Weasel 51、了解、2 Foxtrot、複数兵器使用許可、攻撃手段は我々の判断で実施、了解。",
+    ["DictKey_subtitle_674"] = "PLAYER: One、了解。",
+    ["DictKey_ActionText_280"] = "(PRIのMORPHEUSに切り替えよ)",
+    ["DictKey_subtitle_695"] = "BLACKBIRD 31: 未識別機を補足、ヘリ。自機の南、超低空で南進中。",
+    ["DictKey_ActionRadioText_128"] = "",
+    ["DictKey_ActionText_1111"] = "よし、Flash、テープを見ながらミッションを振り返ろう。前半は計画通りで、特に語ることもなくステーションに到着した。\
+\
+その後、敵の迫撃砲の射撃を探知し、すぐにISの兵士たちが近くの村を攻撃しているのを発見した。\
+\
+我々は迫撃砲を攻撃し、弾薬を誘爆させて二次爆発も確認。これで敵兵は全滅、付近に停まっていたトラック2両も破壊した。\
+\
+その後、現場から逃げようとするテクニカル2両を発見し、マーベリックで攻撃。Flash、お前の命中は見事だった。ただ、俺の方は外してしまった（5ポイント減点）。\
+\
+次に、ISに一方的に虐殺される反体制派を目撃したが、我々は手を出せなかった。地上に目を持たない米本国の誰かが「攻撃不可」と判断したからだ。戦争初期のSCARミッションでは、AO内の武装車両はほぼ自由に攻撃できたのに、今回はまったく違っていた。残念だが……まあ、戦争とはそういうものだ。\
+\
+まだ弾薬が残っていたので、ISのAAAに対する攻撃許可を求め、破壊した。\
+\
+その後、基地に帰還して着陸した。\
+\
+",
+    ["DictKey_subtitle_176"] = "PLAYER: 効果良好、目標破壊。",
+    ["DictKey_subtitle_524"] = "WIZARD: Weasel 41、どうぞ。",
+    ["DictKey_ActionRadioText_123"] = "タリー",
+    ["DictKey_ActionRadioText_308"] = "2、RTB",
+    ["DictKey_subtitle_836"] = "WEASEL 52 (FLASH): 了解。",
+    ["DictKey_ActionText_316"] = "",
+    ["DictKey_subtitle_192"] = "WEASEL 52 (FLASH): リード、Two、目標破壊。",
+    ["DictKey_ActionRadioText_508"] = "",
+    ["DictKey_subtitle_881"] = "BLACKBIRD 31: BRAA176、54、30000、フランキング。識別求む。",
+    ["DictKey_ActionText_718"] = "",
+    ["DictKey_ActionText_8"] = "",
+    ["DictKey_ActionText_191"] = "",
+    ["DictKey_subtitle_367"] = "WEASEL 52 (FLASH): なんだこれ…あいつら建物の中に入ったぞ。どうやって見分けろってんだ…",
+    ["DictKey_ActionRadioText_1077"] = "空中給油完了",
+    ["DictKey_ActionRadioText_285"] = "2、逃がしてやれ",
+    ["DictKey_ActionText_947"] = "",
+    ["DictKey_subtitle_919"] = "WIZARD: 了解、Weasel。任務内容を報告せよ。",
+    ["DictKey_ActionText_97"] = "目標を捕捉したら報告、またはトークオンを要求してください。",
+    ["DictKey_subtitle_672"] = "PLAYER: Two、ラジャー。WP6へ進路変更、帰投しよう。",
+    ["DictKey_subtitle_29"] = "WEASEL 52 (FLASH): One、Two。トラック2両、歩兵、迫撃砲4門を確認、A-townの外れにある大きな湖の南西2マイル地点で展開中。",
+    ["DictKey_subtitle_425"] = "WEASEL 52 (FLASH): Two。",
+    ["DictKey_subtitle_41"] = "PLAYER: One、タリー。距離をとって様子を見よう。",
+    ["DictKey_subtitle_921"] = "PLAYER: Weasel 51はBravoでSCARを実施予定。",
+    ["DictKey_subtitle_622"] = "WEASEL 52 (FLASH): Two、ライフル。",
+    ["DictKey_subtitle_236"] = "PLAYER: One、ライフル！",
+    ["DictKey_subtitle_260"] = "MORPHEUS: Weasel 51、了解。メッセージ2 Foxtrotをクローズ。支援に感謝！",
+    ["DictKey_subtitle_154"] = "WEASEL 52 (FLASH): ナイスヒット、BDA待機。",
+    ["DictKey_ActionText_118"] = "",
+    ["DictKey_subtitle_799"] = "TOWER: Weasel 51、Tower、アクティブ滑走路から離脱し、シェルター3と4へ。",
+    ["DictKey_ActionRadioText_1043"] = "2、ノージョイ",
+    ["DictKey_ActionRadioText_1049"] = "",
+    ["DictKey_ActionText_948"] = "",
+    ["DictKey_ActionText_120"] = "",
+    ["DictKey_subtitle_795"] = "TOWER: Weasel 51、Tower、ランウェイ28へ着陸許可。風は穏やか。",
+    ["DictKey_subtitle_580"] = "MORPHEUS: Weasel 51、Morpheus、どうぞ。",
+    ["DictKey_ActionText_660"] = "",
+    ["DictKey_ActionText_288"] = "正しい周波数に合わせ、スペースバーを押してMORPHEUSと交信せよ",
+    ["DictKey_subtitle_375"] = "PLAYER: ラジャー。",
+    ["DictKey_subtitle_198"] = "WEASEL 52 (FLASH): 右へブレイク、フレア、SAM発射！",
+    ["DictKey_subtitle_244"] = "PLAYER: Two、IPに戻れ。Morpheusと交信する。",
+    ["DictKey_subtitle_495"] = "WIZARD: Weasels、ROEにより、目標の敵性確認は100%である必要あり。100%の確証があるか？",
+    ["DictKey_subtitle_160"] = "WEASEL 52 (FLASH): Two。",
+    ["DictKey_subtitle_323"] = "WEASEL 52 (FLASH): 注意しろ、曳光弾、AAA、Delta 1だ。",
+    ["DictKey_subtitle_59"] = "WIZARD: Weasel 51、Wizard、DT調整のためMorpheusにコンタクトせよ。",
+    ["DictKey_subtitle_528"] = "WIZARD: Weasel 41、RTB許可する。",
+    ["DictKey_subtitle_45"] = "PLAYER: One、了解。",
+    ["DictKey_ActionRadioText_552"] = "Show of forceを要求",
+    ["DictKey_ActionRadioText_720"] = "2、空中給油機へ向かう",
+    ["DictKey_ActionRadioText_185"] = "",
+    ["DictKey_subtitle_871"] = "WIZARD: Weasel 41、バスの中に武装した人員が見えるか？",
+    ["DictKey_subtitle_359"] = "WEASEL 52 (FLASH): どっちも制服を着てないな。それにISはイラク軍のM113とかエイブラムスも鹵獲してたし、多分こっちは反政府勢力。俺らの支援対象だな。",
+    ["DictKey_ActionRadioText_296"] = "攻撃中止",
+    ["DictKey_ActionText_301"] = "F10ラジオメニューで選択せよ：\
+A. Wizardに対し、武装が残っていることを報告し、さらなる任務を要請\
+B. RTBを要請",
+    ["DictKey_subtitle_156"] = "WEASEL 52 (FLASH): ノージョイ、目標は破壊されず。",
+    ["DictKey_subtitle_739"] = "WEASEL 52 (FLASH): Two、フェンスイン完了。",
+    ["DictKey_subtitle_911"] = "WIZARD: Texaco、了解。",
+    ["DictKey_subtitle_789"] = "PLAYER: Weasel、チェック。",
+    ["DictKey_subtitle_419"] = "WEASEL 52 (FLASH): Two、マーベリック1発。",
+    ["DictKey_subtitle_202"] = "PLAYER: Weasel 51、被弾した！",
+    ["DictKey_subtitle_773"] = "PLAYER: Weasel 51、5000フィートへ降下、5マイル手前で報告、ランウェイ28へ目視進入。",
+    ["DictKey_subtitle_677"] = "PLAYER: Weasels、フェンスアウト。",
+    ["DictKey_ActionText_121"] = "",
+    ["DictKey_subtitle_783"] = "PLAYER: Tower、Weasel 51、1番機、28へ。",
+    ["DictKey_subtitle_152"] = "PLAYER: One、爆弾投下。",
+    ["DictKey_ActionText_938"] = "正しい周波数に合わせ、Wizardにオンステーションを報告するにはSPACE BARを押してください。",
+    ["DictKey_ActionRadioText_1011"] = "周波数変更",
+    ["DictKey_ActionRadioText_106"] = "2、ノージョイ",
+    ["DictKey_subtitle_885"] = "BLACKBIRD 31: Blackbird 31、了解。",
+    ["DictKey_subtitle_325"] = "PLAYER: 視認した。何を撃ってるんだろうな…",
+    ["DictKey_subtitle_365"] = "PLAYER: ラジャー。",
+    ["DictKey_subtitle_228"] = "PLAYER: Fighter to Fighter。Wheel、shooter - shooter、AGM-65。南から進入、北へ離脱、目標は東側。",
+    ["DictKey_subtitle_25"] = "PLAYER: Two、Oneはトラック2両、歩兵、迫撃砲4門を確認。大きな湖の南から南西2マイル地点。",
+    ["DictKey_subtitle_379"] = "PLAYER: 視認。ブレイク。",
+    ["DictKey_subtitle_763"] = "PLAYER: Weasel、チェック。",
+    ["DictKey_subtitle_479"] = "PLAYER: Wizard、Weasel 51、何か進展あるか？",
+    ["DictKey_subtitle_749"] = "WEASEL 52 (FLASH): Two。",
+    ["DictKey_ActionRadioText_532"] = "",
+    ["DictKey_subtitle_55"] = "PLAYER: Weasel 51、キルボックス Bravo内で迫撃砲4門、テクニカル、トラック、歩兵を確認。迫撃砲はDelta Uniform 74の村を砲撃中。",
+    ["DictKey_ActionText_946"] = "（COM1のボタン4を押してください）",
+    ["DictKey_subtitle_383"] = "WEASEL 52 (FLASH): 味方が動き始めた。",
+    ["DictKey_ActionRadioText_979"] = "周波数変更",
+    ["DictKey_subtitle_37"] = "PLAYER: One、まだノージョイだ。",
+    ["DictKey_subtitle_840"] = "PLAYER: ラジャー、待機。",
+    ["DictKey_ActionText_541"] = "F10ラジオメニューで選択せよ：\
+A. Wizardにshow of forceの許可を要請\
+B. 何もせずに待機",
+    ["DictKey_subtitle_170"] = "WEASEL 52 (FLASH): Two、攻撃進入。",
+    ["DictKey_subtitle_31"] = "PLAYER: ラジャー、捜索中。",
+    ["DictKey_ActionRadioText_1002"] = "周波数変更",
+    ["DictKey_subtitle_681"] = "PLAYER: One、フェンスアウト。",
+    ["DictKey_ActionRadioText_181"] = "1、PLがCBUで攻撃",
+    ["DictKey_subtitle_162"] = "PLAYER: 北のトラックに1発、南の迫撃砲にもう1発GBUを落としてくれ。俺がカバーに回る。爆発で迫撃砲ごと吹き飛ぶはずだ。もし残ったら俺がCBUでとどめを刺す。",
+    ["DictKey_subtitle_423"] = "PLAYER: ラジャー。チャンネル5へ。",
+    ["DictKey_subtitle_598"] = "PLAYER: Weasel 51、ラジャー。Wizardへスイッチする。",
+    ["DictKey_ActionText_984"] = "",
+    ["DictKey_ActionRadioText_267"] = "2、逃がしてやれ",
+    ["DictKey_sortie_5"] = "M04: The Enemy Of My Enemy...",
+    ["DictKey_ActionRadioText_547"] = "1、Show of forceを要求",
+    ["DictKey_ActionText_195"] = "",
+    ["DictKey_subtitle_473"] = "WIZARD: Weasels、Wizard。Morpheusが防衛側の識別用の旗やマークの有無を確認したいとのこと。",
+    ["DictKey_subtitle_456"] = "WIZARD: 待機せよ、Weasels。",
+    ["DictKey_subtitle_337"] = "PLAYER: 視認した。",
+    ["DictKey_ActionText_136"] = "正しい周波数に合わせ、スペースバーを押してMORPHEUSと交信せよ",
+    ["DictKey_subtitle_590"] = "MORPHEUS: Weasel 51、Morpheus、ターゲティングメッセージ3 Foxtrotを送信。JDAMおよびMaverickの使用を許可。目標種別：AAA、センサー：TPOD。GPS兵器用の座標は自己生成。ハードデッキは15,000フィートを遵守。結果をMorpheusに報告せよ。",
+    ["DictKey_subtitle_867"] = "WIZARD: Weasel 41、もう一度グリッドを確認させてくれ。",
+    ["DictKey_subtitle_460"] = "PLAYER: Weasel 51。",
+    ["DictKey_ActionRadioText_129"] = "",
+    ["DictKey_subtitle_57"] = "WIZARD: Weasel 51、Wizard、了解。待機。",
+    ["DictKey_subtitle_915"] = "WIZARD: Weasel 51、どうぞ。",
+    ["DictKey_ActionRadioText_304"] = "",
+    ["DictKey_subtitle_917"] = "PLAYER: Wizard、Weasel 51、接近中、キルボックスBravoへ向かう。",
+    ["DictKey_subtitle_832"] = "WEASEL 52 (FLASH): Two。",
+    ["DictKey_subtitle_842"] = "PLAYER: Weasel、ボタン4へ。",
+    ["DictKey_subtitle_393"] = "WEASEL 52 (FLASH): Chaos、それはやめとけ。今のROEは厳しい。",
+    ["DictKey_ActionRadioText_812"] = "空中給油完了",
+    ["DictKey_subtitle_487"] = "WIZARD: ラジャー、Weasel。攻撃側のPID（正確な識別）は取れているか？",
+    ["DictKey_subtitle_264"] = "PLAYER: Morpheus、ターゲティングメッセージ2 FoxtrotのBDA。迫撃砲4門と車両2両を撃破。",
+    ["DictKey_subtitle_204"] = "WEASEL 52 (FLASH): One、状況報告を！まだ飛べるか？",
+    ["DictKey_subtitle_735"] = "WIZARD: 了解、Weasel、周波数切り替え許可。",
+    ["DictKey_subtitle_168"] = "WEASEL 52 (FLASH): Two。",
+    ["DictKey_subtitle_333"] = "PLAYER: ラジャー。",
+    ["DictKey_ActionRadioText_963"] = "周波数変更",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionRadioText_317"] = "1、PLがCBUで攻撃",
+    ["DictKey_subtitle_369"] = "WEASEL 52 (FLASH): 爆発だ！建物の中で爆発してる…また来た。現地は相当激しいぞ。",
+    ["DictKey_subtitle_791"] = "WEASEL 52 (PYRO): Weasel 52。",
+    ["DictKey_ActionRadioText_276"] = "",
+    ["DictKey_subtitle_319"] = "PLAYER: Weasels、ステーションに戻れ。A-townを監視。",
+    ["DictKey_ActionText_829"] = "よし、Flash。テープを見ながらミッションの振り返りをしよう。最初の部分は計画どおりで、特に言及すべきこともなくオンステーションに到着。\
+\
+その後、敵の迫撃砲の発射を探知して、すぐに近くの村を攻撃しているISの兵士の一団を視認した。\
+\
+迫撃砲を攻撃して弾薬を誘爆させ、二次爆発も良好。敵兵は全滅し、近くに停まっていたトラック2両も破壊できた。\
+\
+さらに、現場から逃げようとしていたテクニカル2両を発見し、Maverickで攻撃して両方とも撃破。\
+\
+弾薬がまだ残っていたので、ISのAAAへの攻撃許可を申請。許可が下りたので、これも破壊。\
+\
+その後、基地へ帰還して着陸した。\
+\
+",
+    ["DictKey_ActionText_708"] = "",
+    ["DictKey_subtitle_891"] = "WIZARD: トラックRomeoへのETAは？",
+    ["DictKey_ActionRadioText_971"] = "",
+    ["DictKey_subtitle_725"] = "PLAYER: ラジャー。",
+    ["DictKey_ActionText_1026"] = "",
+    ["DictKey_ActionRadioText_572"] = "RTB",
+    ["DictKey_subtitle_421"] = "WEASEL 52 (FLASH): Two、弾切れ（REMINGTON）。",
+    ["DictKey_ActionText_939"] = "",
+    ["DictKey_subtitle_522"] = "WEASEL 41 (MENACE): Wizard、Weasel 41。",
+    ["DictKey_ActionRadioText_722"] = "空中給油機へ向かう",
+    ["DictKey_ActionRadioText_539"] = "1、Show of forceを要求",
+    ["DictKey_ActionText_268"] = "F10ラジオメニューで選択せよ：\
+A. 逃走中のテクニカルにマーベリックで攻撃\
+B. テクニカルは見逃し、マーベリックを温存",
+    ["DictKey_ActionRadioText_119"] = "",
+    ["DictKey_subtitle_901"] = "WIZARD: Weasel 41、指示は「ウェポンズ・ホールド」。移動目標を監視せよ、交戦は禁止。",
+    ["DictKey_ActionText_652"] = "",
+    ["DictKey_subtitle_113"] = "PLAYER: さっきの繰り返してくれ。",
+    ["DictKey_ActionRadioText_112"] = "2、まだノージョイ",
+    ["DictKey_subtitle_47"] = "WEASEL 52 (FLASH): さらにもう1台テクニカルと歩兵が道路の先、交差点付近にいる。",
+    ["DictKey_ActionText_554"] = "",
+    ["DictKey_subtitle_801"] = "PLAYER: Tower、Weasel 51、滑走路離脱、シェルター3と4へ向かう。",
+    ["DictKey_subtitle_73"] = "PLAYER: Weasel 51、Killbox Bravoにて迫撃砲4門、テクニカル2台、トラック2台、歩兵を確認。迫撃砲はDelta Uniform 74の村を砲撃中。",
+    ["DictKey_subtitle_69"] = "PLAYER: Morpheus、Weasel 51、チェックイン。",
+    ["DictKey_subtitle_499"] = "WIZARD: ラジャー、待機。",
+    ["DictKey_ActionRadioText_550"] = "",
+    ["DictKey_subtitle_439"] = "PLAYER: Wizard、Weasel 51、どうぞ。",
+    ["DictKey_ActionRadioText_104"] = "",
+    ["DictKey_ActionRadioText_959"] = "周波数変更",
+    ["DictKey_ActionText_822"] = "",
+    ["DictKey_subtitle_240"] = "PLAYER: One、ナイスヒット！",
+    ["DictKey_ActionRadioText_548"] = "2、行動を中止",
+    ["DictKey_subtitle_349"] = "WIZARD: Weasel 51、Wizard、リクエスト受領。交戦が市街地内で起きているのを確認できるか？",
+    ["DictKey_ActionText_1115"] = "よし、Flash、テープを見ながらミッションを振り返ろう。前半は予定通り進行して、特に言及すべきこともなくステーションに到着した。\
+\
+その後、敵の迫撃砲の射撃を探知し、すぐにISの兵士たちが近くの村を攻撃しているのを発見した。\
+\
+我々は迫撃砲を攻撃して弾薬を誘爆させ、二次爆発も良好。敵は全滅し、近くに停まっていたトラック2両も破壊した。\
+\
+さらに、現場から逃げようとしていたテクニカル2両を発見し、マーベリックで交戦して両方とも撃破した。\
+\
+まだ弾薬が残っていたので、AO内のIS AAAに対する攻撃許可を要請し、許可が下りたため攻撃を実施した。だが残念ながら命中させることはできなかった（10ポイント減点）。\
+\
+その後、基地に帰還して着陸した。\
+",
+    ["DictKey_subtitle_530"] = "WEASEL 41 (MENACE): Weasel 41。",
+    ["DictKey_subtitle_905"] = "TEXACO: Wizard、こちらTexaco 21。",
+    ["DictKey_subtitle_630"] = "WEASEL 52 (FLASH): Two、REMINGTON。",
+    ["DictKey_subtitle_606"] = "PLAYER: Morpheus、Weasel 51、AAA 3門破壊。",
+    ["DictKey_subtitle_685"] = "PLAYER: Wizard、Weasel 51フライトはvul終了、RTBを要請。",
+    ["DictKey_subtitle_174"] = "PLAYER: ナイスヒット。BDA待機。",
+    ["DictKey_subtitle_238"] = "WEASEL 52 (FLASH): Two、目標撃破。",
+    ["DictKey_subtitle_628"] = "WEASEL 52 (FLASH): Two、シャック！",
+    ["DictKey_subtitle_737"] = "PLAYER: Weasel、フェンスイン。",
+    ["DictKey_ActionText_133"] = "",
+    ["DictKey_ActionRadioText_122"] = "1、タリー",
+    ["DictKey_ActionRadioText_271"] = "",
+    ["DictKey_ActionRadioText_982"] = "周波数変更",
+    ["DictKey_ActionRadioText_270"] = "",
+    ["DictKey_ActionRadioText_1007"] = "",
+    ["DictKey_ActionRadioText_985"] = "周波数変更",
+    ["DictKey_ActionRadioText_977"] = "",
+    ["DictKey_ActionText_814"] = "",
+    ["DictKey_subtitle_644"] = "",
+    ["DictKey_ActionRadioText_1071"] = "1、RTB",
+    ["DictKey_subtitle_636"] = "PLAYER: One、攻撃に入る！",
+    ["DictKey_ActionText_536"] = "敵陣上空でのshow of forceを提案する場合、スペースバーを押せ",
+    ["DictKey_ActionText_960"] = "",
+    ["DictKey_ActionRadioText_534"] = "攻撃中止",
+    ["DictKey_subtitle_873"] = "WEASEL 41 (MENACE): ネガティブ。バスの開いたドアに武装した男が1人立っているのが見えるだけで、車体側面に黒い旗を確認。",
+    ["DictKey_subtitle_65"] = "PLAYER: Weasels、チェック。",
+    ["DictKey_subtitle_662"] = "PLAYER: Two、COM1のボタン4をプッシュ。",
+    ["DictKey_subtitle_1128"] = "PLAYER: Weasel 51、了解、3 Foxtrot。マーベリック使用許可、センサーはTPOD、座標は自機で生成、ハードデッキ15000フィート。ウィルコ。",
+    ["DictKey_subtitle_634"] = "WEASEL 52 (FLASH): Two。",
+    ["DictKey_ActionRadioText_1078"] = "",
+    ["DictKey_subtitle_212"] = "PLAYER: Wizard、Weasel 51、被弾。RTBを希望。",
+    ["DictKey_ActionRadioText_555"] = "",
+    ["DictKey_ActionText_818"] = "ウィングマン給油終了",
+    ["DictKey_ActionRadioText_1050"] = "周波数変更完了",
+    ["DictKey_ActionRadioText_970"] = "",
+    ["DictKey_ActionRadioText_1098"] = "周波数変更",
+    ["DictKey_subtitle_200"] = "WEASEL 52 (FLASH): 煙確認、ブレイク、フレア！",
+    ["DictKey_subtitle_242"] = "PLAYER: One、ノージョイ。",
+    ["DictKey_subtitle_230"] = "WEASEL 52 (FLASH): Two、了解。東側の目標にアプローチ。",
+    ["DictKey_ActionText_105"] = "",
+    ["DictKey_subtitle_578"] = "PLAYER: Morpheus、Weasel 51。",
+    ["DictKey_subtitle_353"] = "WIZARD: ラジャー。両陣営の識別は可能か？",
+    ["DictKey_subtitle_616"] = "PLAYER: Weasels、Fighter to Fighter。Wheel、cover - shooter、ウェポンズフリー。ハードデッキより上をキープ。",
+    ["DictKey_ActionRadioText_1075"] = "フェンスアウト",
+    ["DictKey_subtitle_584"] = "PLAYER: Weasel 51、キルボックス Bravo内で軽・中口径のISIS AAAを確認、おそらく23と60。WeaselsはCBU-103を保有。",
+    ["DictKey_ActionRadioText_533"] = "攻撃中止",
+    ["DictKey_subtitle_729"] = "PLAYER: Wizard、Weasel 51、Texacoのトラックを確認させてくれ。",
+    ["DictKey_subtitle_777"] = "PLAYER: Weasel 51、Towerへ切り替え。Two、ボタン3へ。",
+    ["DictKey_subtitle_395"] = "PLAYER: わかってるけど、やってみる。待機、Wizardに連絡する。",
+    ["DictKey_ActionText_1099"] = "",
+    ["DictKey_ActionRadioText_1051"] = "",
+    ["DictKey_subtitle_1104"] = "WEASEL 52 (FLASH): Two、38が1発のみ。",
+    ["DictKey_subtitle_140"] = "PLAYER: Two、One。迫撃砲はけっこう広く散ってるが、弾薬箱が周囲にかなりあって、トラックにも積んである。作戦を指示するまで待て。",
+    ["DictKey_ActionText_1123"] = "よし、Flash、テープを見ながら今回のミッションを振り返ろう。前半は計画通りに進行して、特に言及すべきこともなくステーションに到着した。\
+\
+その後、敵の迫撃砲射撃を探知し、すぐにISの兵士たちが近くの村を攻撃しているのを確認。\
+\
+我々は迫撃砲を攻撃し、弾薬を誘爆させて二次爆発も良好。結果として敵チームは全滅、近くに停まっていたトラック2両も破壊した。\
+\
+続いて、現場から逃げようとするテクニカル2両を発見したが、俺はマーベリックを節約して後でより価値のある目標に使おうと判断して見逃したーーが、残念ながらそんな目標は現れなかった（10ポイント減点）。\
+\
+次に、ISが反乱軍を叩き潰すという最悪の展開が起きたが、我々には手が出せなかった。現地の状況を何も見ていないアメリカ本国の誰かが「攻撃不可」と決めたせいだ。戦争初期のSCAR任務では、AO内の武装車両にはほとんど自由に攻撃できたことを思えば、大きな変化だった。うまくいかなかったのは残念だがーーまあ、それが戦争ってやつだ。\
+\
+まだ兵装は残っていたので、ISのAAAへの攻撃許可を申請して破壊を試みたが、残念ながら命中せず（10ポイント減点）。\
+\
+その後、我々は帰投して着陸した。\
+\
+",
+    ["DictKey_subtitle_158"] = "PLAYER: Two、GBUでの攻撃を許可する。",
+    ["DictKey_subtitle_1102"] = "WEASEL 52 (FLASH): Two、マーベリック1本と38が1発。",
+    ["DictKey_ActionRadioText_277"] = "",
+    ["DictKey_subtitle_670"] = "WEASEL 52 (FLASH): TwoはBINGO、燃料補給が必要。",
+    ["DictKey_ActionRadioText_571"] = "さらなる任務指示を要請する",
+    ["DictKey_subtitle_602"] = "MORPHEUS: Weasel 51、Morpheus、どうぞ。",
+    ["DictKey_subtitle_399"] = "WEASEL 52 (FLASH): Two。",
+    ["DictKey_ActionRadioText_556"] = "",
+    ["DictKey_ActionText_1015"] = "（ATISを取得後、FAISALアプローチへ切り替え）",
+    ["DictKey_ActionText_817"] = "ウィングマン給油開始",
+    ["DictKey_ActionRadioText_998"] = "",
+    ["DictKey_subtitle_387"] = "WEASEL 52 (FLASH): 警戒、敵増援が出てきた。ライフルとRPGでその建物を撃ってる。",
+    ["DictKey_ActionText_291"] = "",
+    ["DictKey_ActionRadioText_1021"] = "周波数変更",
+    ["DictKey_subtitle_787"] = "PLAYER: Weasel 51、ランウェイ28、離陸許可。",
+    ["DictKey_subtitle_248"] = "",
+    ["DictKey_subtitle_458"] = "WIZARD: Weasels、Morpheusに連絡して目標メッセージを受け取れ。",
+    ["DictKey_ActionRadioText_1003"] = "周波数変更",
+    ["DictKey_ActionText_806"] = "",
+    ["DictKey_subtitle_781"] = "KING FAISAL TOWER: Weasel 51、Tower、ランウェイ28へタクシーせよ。",
+    ["DictKey_subtitle_646"] = "",
+    ["DictKey_ActionText_707"] = "",
+    ["DictKey_subtitle_335"] = "WEASEL 52 (FLASH): APCを確認…M113っぽいな。武装した連中が後ろにいて、南東に向かって前方の建物を攻撃中。建物の中からも反撃がある。",
+    ["DictKey_subtitle_769"] = "PLAYER: King Faisalアプローチ、こちらWeasel 52、F-16の2機編隊、Echo取得済み、ランウェイ28へ進入を要求。",
+    ["DictKey_ActionText_567"] = "",
+    ["DictKey_subtitle_889"] = "TEXACO: どうぞ、Texacoです。",
+    ["DictKey_ActionRadioText_558"] = "",
+    ["DictKey_subtitle_262"] = "",
+    ["DictKey_ActionText_821"] = "",
+    ["DictKey_subtitle_234"] = "PLAYER: One、アプローチ中。",
+    ["DictKey_subtitle_596"] = "PLAYER: Weasel 51、ラジャー。3 Foxtrot、JDAMおよびMaverick使用許可、センサー：TPOD、座標は自己生成。ハードデッキ15,000フィート。了解。",
+    ["DictKey_subtitle_588"] = "MORPHEUS: Weasel 51、Morpheus、待機せよ。",
+    ["DictKey_subtitle_759"] = "PLAYER: Texaco、Weasel 51、給油完了、ありがとう！",
+    ["DictKey_subtitle_361"] = "PLAYER: 了解。",
+    ["DictKey_subtitle_246"] = "PLAYER: Two、やめだ、ステーションへ戻れ。Morpheusと交信する。",
+    ["DictKey_subtitle_642"] = "PLAYER: OneはWINCHESTER 65s。Morpheusにコンタクトする、待機。",
+    ["DictKey_ActionText_1020"] = "",
+    ["DictKey_ActionRadioText_189"] = "1、PLがCBUで攻撃",
+    ["DictKey_ActionText_1113"] = "よし、Flash、テープを見ながらミッションを振り返ろう。前半は予定通り進行して、何事もなくステーションに到着した。\
+\
+その後、敵の迫撃砲の射撃を探知し、すぐにISの兵士たちが近くの村を攻撃しているのを発見した。\
+\
+我々は迫撃砲を攻撃して弾薬を誘爆させ、二次爆発も良好。敵は全滅し、近くに停まっていたトラック2両も破壊した。\
+\
+続いて、現場から逃げようとするテクニカル2両を発見したが、俺はマーベリックを節約して後でより価値のある目標に使おうと判断して見逃したーーが、残念ながらそんな目標は現れなかった（10ポイント減点）。\
+\
+次に、ISに一方的に蹂躙される反体制派を目撃したが、我々には何もできなかった。地上の状況を一切見ていない本国の誰かが「手出し無用」と決めたからだ。戦争初期のSCARミッションでは、AO内の武装車両はほぼ何でも攻撃できたのに、今回はまったく様子が違っていた。残念だが……まあ、戦争とはそういうものだ。\
+\
+まだ弾薬が残っていたので、ISのAAAに対する攻撃許可を要請し、破壊した。\
+\
+その後、基地に帰還して着陸した。\
+\
+",
+    ["DictKey_ActionText_305"] = "",
+    ["DictKey_subtitle_1106"] = "PLAYER: Weasel 51、キルボックスBRAVO内のISISの軽・中口径AAAを確認、おそらく23と60。Weaselはマーベリック装備。",
+    ["DictKey_subtitle_441"] = "WIZARD: 現状の報告を求む。",
+    ["DictKey_ActionRadioText_107"] = "2、まだノージョイ",
+    ["DictKey_ActionText_86"] = "",
+    ["DictKey_ActionText_1121"] = "よし、Flash、テープを見ながらミッションを振り返ろう。前半は計画通りに進み、ステーション到着までは特に言うことはなかった。\
+\
+その後、敵の迫撃砲の射撃を探知し、すぐにISの兵士たちが近くの村を攻撃しているのを発見した。\
+\
+我々は迫撃砲を攻撃し、弾薬を誘爆させて二次爆発も良好。敵チームは全滅し、近くに停まっていたトラック2両も破壊した。\
+\
+続いて、現場から逃げようとしていたテクニカル2両を発見し、マーベリックで攻撃。ナイスショットだったよ、Flash。残念ながら俺の方は外した（5ポイント減点）。\
+\
+次に起きたのが、反乱軍がISに叩き潰されるという最悪の状況だったが、我々にはどうすることもできなかった。地上の状況を一切見ていないアメリカ本国の誰かが「攻撃するな」と命じたせいだ。戦争初期の頃はSCAR任務中ならAO内の武装車両にはほぼ自由に攻撃できたことを思えば、大きな変化だった。うまくいかなかったのは残念だが、まあ…戦争ってそういうもんだ。\
+\
+Morpheusが攻撃を許可してくれる見込みはなかったので、RTBを決断した。結局、ISのAPCや歩兵が反乱軍に発砲していても攻撃できなかったんだからな（10ポイント減点）。\
+\
+その後は基地に帰還して着陸した。\
+",
+    ["DictKey_subtitle_415"] = "WEASEL 52 (FLASH): Twoはマーベリック1発とGBU-38が2発。",
+    ["DictKey_subtitle_17"] = "PLAYER: Two、One、ここでアンカーして周囲を偵察しよう。Aタウンの南側を旋回しながら中央を見てくれ。俺は郊外を見る。高度は雲の下のエンジェルス17で。",
+    ["DictKey_subtitle_957"] = "PLAYER: タワー、Weasel 51、ランウェイ28へタキシー。",
+    ["DictKey_ActionRadioText_562"] = "1、RTB",
+    ["DictKey_subtitle_699"] = "BLACKBIRD 31: Blackbird 31、アファーム。Hip型。マークは確認できず、塗装はシリアのもの。",
+    ["DictKey_ActionRadioText_115"] = "2、もう一度言ってくれ",
+    ["DictKey_subtitle_164"] = "WEASEL 52 (FLASH): Two、了解。",
+    ["DictKey_subtitle_856"] = "PLAYER: Weasel、チェック。",
+    ["DictKey_ActionRadioText_553"] = "2、行動を中止",
+    ["DictKey_ActionText_981"] = "(PRIでMorpheusに切り替え)",
+    ["DictKey_subtitle_693"] = "WIZARD: Blackbird 31、Wizard、どうぞ。",
+    ["DictKey_subtitle_33"] = "PLAYER: One、ノージョイ、トークオンを要求。",
+    ["DictKey_ActionText_967"] = "",
+    ["DictKey_subtitle_600"] = "PLAYER: Morpheus、Weasel 51、3 FoxtrotのBDA報告。",
+    ["DictKey_subtitle_454"] = "PLAYER: 市街地内、主にオリーブ畑と果樹園の中。",
+    ["DictKey_ActionRadioText_972"] = "周波数変更",
+    ["DictKey_subtitle_214"] = "WIZARD: Weasel 51、Wizard、ラジャー。RTBクリア。H4へ情報送信中。",
+    ["DictKey_subtitle_689"] = "PLAYER: Weasel 51、ラジャー。",
+    ["DictKey_ActionText_808"] = "通常のラジオメニューでTexacoと交信して給油せよ。給油完了後はF10メニューでPYROにも給油させること。  \
+スペースバーを押してこのメッセージを消去",
+    ["DictKey_ActionText_1012"] = "",
+    ["DictKey_subtitle_13"] = "WIZARD: Weasel 51、Wizard、コピー。ブロックは17〜20、ハードデッキ15000をキープするように。",
+    ["DictKey_ActionRadioText_186"] = "",
+    ["DictKey_subtitle_864"] = "WEASEL 41 (MENACE): Weasel 41は敵のテクニカル2両とバス1台の車列を確認、グリッドは37S DU439 275、西へ向かってP-Town方面に移動中。車体側面に黒い旗が確認できる。バスは敵戦闘員を乗せていると推定。交戦許可を求む。",
+    ["DictKey_ActionText_178"] = "",
+    ["DictKey_ActionRadioText_1094"] = "2、PyroがGBUで攻撃",
+    ["DictKey_ActionText_657"] = "正しい周波数に合わせ、スペースバーを押してMORPHEUSとチェックインせよ",
+    ["DictKey_subtitle_775"] = "APPROACH: Weasel 51、Towerへ切り替え。",
+    ["DictKey_subtitle_797"] = "PLAYER: Tower、Weasel 5、ランウェイ28、着陸許可確認。",
+    ["DictKey_ActionRadioText_137"] = "爆発を報告しろ",
+    ["DictKey_subtitle_389"] = "PLAYER: One、タリー。",
+    ["DictKey_subtitle_893"] = "TEXACO: ドローグにトラブルがあり、ETAは10分。",
+    ["DictKey_subtitle_450"] = "PLAYER: Wizard、AO内に正規の目標が存在。装甲兵員輸送車とテクニカルを視認、加えて中口径AAAも確認済み。我々はTIGER。これらの目標への攻撃許可を要求する。",
+    ["DictKey_ActionText_560"] = "",
+    ["DictKey_ActionText_1023"] = "（PRIでKing Faisal Towerへ切り替え）",
+    ["DictKey_subtitle_887"] = "WIZARD: Texaco、Wizard。",
+    ["DictKey_ActionRadioText_994"] = "周波数変更",
+    ["DictKey_subtitle_475"] = "PLAYER: Wizard、Weasel 51、識別不可。状況更新、攻撃側が建物に突入。敵M113とテクニカルが開けた場所にあり、WeaselsはTIGER。",
+    ["DictKey_subtitle_895"] = "WIZARD: 了解。",
+    ["DictKey_ActionText_9"] = "IMM",
+    ["DictKey_ActionText_272"] = "（F10で中止可能）",
+    ["DictKey_ActionText_557"] = "",
+    ["DictKey_ActionText_1009"] = "",
+    ["DictKey_subtitle_610"] = "PLAYER: Morpheus、Weasel 51、AAA1門撃破。",
+    ["DictKey_ActionText_952"] = "",
+    ["DictKey_ActionRadioText_1097"] = "",
+    ["DictKey_ActionText_942"] = "タキシー準備ができたら、KING FAISAL TOWERの周波数に合わせ、SPACE BARを押して続行してください。",
+    ["DictKey_ActionRadioText_99"] = "",
+    ["DictKey_subtitle_144"] = "WEASEL 52 (FLASH): Two、ラジャー。",
+    ["DictKey_ActionRadioText_1044"] = "2、まだノージョイ",
+    ["DictKey_ActionText_563"] = "F10ラジオメニューで選択せよ：\
+A. 帰投中に空中給油へ行く必要あり\
+B. 直接RTB可能",
+} -- end of dictionary

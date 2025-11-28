@@ -1,0 +1,766 @@
+dictionary = 
+{
+    ["DictKey_subtitle_249"] = "PLAYER: よしWeasel、どうやらプランBのようだな。Two、準備は？  ",
+    ["DictKey_subtitle_430"] = "VANDAL 11: Vandal 11、北から侵入。  ",
+    ["DictKey_subtitle_457"] = "WEASEL 32 (FLASH): そのようだな！効果は抜群だ！  ",
+    ["DictKey_subtitle_798"] = "SLAYER 41: 了解。あと4分。Violet 4に切り替える。  ",
+    ["DictKey_subtitle_414"] = "GRIM: Royal Package、Grim。ターゲティングメッセージ2 Bravoの遂行を継続せよ。  ",
+    ["DictKey_subtitle_231"] = "PLAYER: 了解、復唱良好だ。  ",
+    ["DictKey_ActionRadioText_872"] = "周波数変更  ",
+    ["DictKey_ActionText_36"] = "",
+    ["DictKey_subtitle_922"] = "DEVIL 11: Devil 11、November目標へ攻撃。  ",
+    ["DictKey_ActionText_26"] = "W33 bomb",
+    ["DictKey_ActionText_155"] = "",
+    ["DictKey_subtitle_607"] = "GRIM: Devil 11、Grim、攻撃許可。  ",
+    ["DictKey_subtitle_780"] = "SLAYER 41: 了解、ETA 11分。  ",
+    ["DictKey_ActionRadioText_980"] = "フェンスアウト  ",
+    ["DictKey_subtitle_142"] = "PLAYER: Departure、Weasel 31、離陸完了。  ",
+    ["DictKey_ActionRadioText_513"] = "2、繰り返す  ",
+    ["DictKey_subtitle_390"] = "PLAYER: Two、One。One Niner Alphaの攻撃を許可。  ",
+    ["DictKey_ActionRadioText_673"] = "",
+    ["DictKey_subtitle_700"] = "WEASEL 32 (FLASH): One、Two、質問。  ",
+    ["DictKey_ActionText_35"] = "W31P",
+    ["DictKey_ActionText_13"] = "C32 bombs",
+    ["DictKey_subtitle_61"] = "WEASEL 33 (MOTOR): Three。  ",
+    ["DictKey_ActionText_969"] = "さて諸君、おかえり。今回のソーティを一緒に振り返っていこう。\
+\
+マーシャルポイントに到着するまでは順調だった。離陸も問題なく、Darkstarとチェックインしてフェンスイン。目標周辺に激しい対空砲火（AAA）があるという情報が入ったときの対応は適切だった。我々は即座にその脅威を優先目標に指定し、Devil 11がオンステーションに入ってくる前にきっちり潰す判断を下した。主目標への打撃力を若干削ぐ結果にはなったが、それは計算済みのリスクだった。その代わりに、ISがもう使えない貴重な100mm高射砲2門を破壊できた。これは大きな成果だ。（50ポイント）\
+\
+Flashと簡単にアタックプランを確認して、北からアプローチ。Flashは一発目で目標をしっかりヒット、さらに俺の分まで片付けてくれた。こっちは両方とも外して、全くいいとこなしだった。（0ポイント、2発ミスで20ポイント減点）\
+\
+続いて主目標への攻撃。ここでも俺はやらかした。タンクを1つしか撃破できなかった。だが他のみんなは完璧だった。Flashは建物にピンポイントで2発命中、Thorはポンプ場を破壊、Motorは油分離施設を完全に吹き飛ばした。（10ポイント、1両しか撃破できなかったため10ポイント減点）\
+\
+その後、他のフライトが各自の目標を攻撃。Vandalsはクラスター弾でMike地区の燃料タンクを破壊、CheckmatesはNovember地区の目標を完全に消し飛ばした。あとはDevilが40mmと105mmでAAAを片付けるのを見ているだけだった。\
+\
+それから、Thor、逃げるトラックを発見したのはナイスだ。Grimの警告射撃の判断も見事だった。あのタンクローリーの運転手は、ISに強制されて働かされてる民間人が多いからな。命を救えたかもしれない。状況を考えれば、あれは正しい行動だったと思う。\
+\
+その後はRTBも問題なく、全機無事に帰還。今回のミッションは総じて非常に成功だった。みんな、お疲れ！（10ポイント）",
+    ["DictKey_ActionRadioText_669"] = "もう一度言ってくれ  ",
+    ["DictKey_ActionRadioText_274"] = "周波数変更  ",
+    ["DictKey_subtitle_374"] = "WEASEL 32 (FLASH): Grim、Weasel 32、北から侵入。  ",
+    ["DictKey_ActionRadioText_882"] = "",
+    ["DictKey_subtitle_210"] = "PLAYER: Darkstar、Weasel 31、了解、ウィルコ。  ",
+    ["DictKey_subtitle_241"] = "VANDAL 11: Vandal 1、オンステーション。  ",
+    ["DictKey_subtitle_850"] = "WEASEL 32 (FLASH): Incirlik Ground、Weasel 32、Delta上にてコンタクト。  ",
+    ["DictKey_subtitle_599"] = "GRIM: Devil 11、Grim、Mikeの南側、長方形の建物3棟とダートロードの近くに、無傷のタンクローリー4両を確認。  ",
+    ["DictKey_ActionText_868"] = "",
+    ["DictKey_ActionRadioText_988"] = "フェンスイン  ",
+    ["DictKey_subtitle_376"] = "GRIM: Weasel 32、クリアードホット。  ",
+    ["DictKey_ActionText_281"] = "",
+    ["DictKey_subtitle_465"] = "CHECKMATE 31: Checkmate 31、北から進入。  ",
+    ["DictKey_subtitle_710"] = "PLAYER: Weasel各機、チャンネル5へ。  ",
+    ["DictKey_subtitle_406"] = "WEASEL 32 (FLASH): Grim、Weasel 32、進入中！  ",
+    ["DictKey_subtitle_410"] = "WEASEL 32 (FLASH): Weasel 32、爆弾投下。  ",
+    ["DictKey_subtitle_916"] = "DEVIL 11: Devil 11、Sierra目標へ攻撃。  ",
+    ["DictKey_ActionText_44"] = "C32",
+    ["DictKey_subtitle_491"] = "PLAYER: Checkmate 31、Weasel 31、了解、感謝する。  ",
+    ["DictKey_ActionText_15"] = "",
+    ["DictKey_ActionText_930"] = "",
+    ["DictKey_subtitle_718"] = "PLAYER: Weasel各機、PRIチャンネル4へ。  ",
+    ["DictKey_subtitle_706"] = "PLAYER: 無理だな。けど稼働不能にはできるから、そのあと2000ポンドで片付ける。  ",
+    ["DictKey_subtitle_124"] = "INCIRLIK TOWER: Weasel 31、Tower、離陸許可、滑走路05、風は050から10ノット。  ",
+    ["DictKey_subtitle_428"] = "WEASEL 34 (THOR): Weasel 34、爆弾投下。  ",
+    ["DictKey_subtitle_523"] = "WEASEL 32 (FLASH): Two、了解、レディ。  ",
+    ["DictKey_subtitle_838"] = "PLAYER: Weasel 31、RWY05着陸を許可された。  ",
+    ["DictKey_ActionText_47"] = "車両を発見  ",
+    ["DictKey_ActionText_667"] = "",
+    ["DictKey_subtitle_416"] = "PLAYER: Grim、Weasel 31、了解。Royal Package、計画通り攻撃開始。  ",
+    ["DictKey_ActionRadioText_656"] = "",
+    ["DictKey_subtitle_782"] = "DARKSTAR: Slayer 41、了解。ブレイク。Badger 35、Darkstar、Slayer 41の通信を聞いたか？  ",
+    ["DictKey_subtitle_316"] = "VANDAL 12: Vandal 12。  ",
+    ["DictKey_subtitle_778"] = "DARKSTAR: Slayer 41、了解、Badgerに向かって進出せよ。  ",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_subtitle_432"] = "GRIM: Weasel各機、Grim。Sierraへの命中良好。  ",
+    ["DictKey_ActionRadioText_498"] = "周波数変更  ",
+    ["DictKey_subtitle_237"] = "CHECKMATE 31: Ninety nine、Checkmate 31、オンステーション。  ",
+    ["DictKey_subtitle_83"] = "PLAYER: Weasel各機、チャンネル6へ。  ",
+    ["DictKey_subtitle_776"] = "SLAYER 41: Darkstar、Slayer 41、Strike Eagle2機編隊、Badgerの位置から南に80マイル、TIGER状態、支援可能。  ",
+    ["DictKey_subtitle_120"] = "CHECKMATE 31: 離陸許可、滑走路05、Checkmate 31。  ",
+    ["DictKey_subtitle_742"] = "DARKSTAR: Weasel 31、Darkstar、どうぞ。  ",
+    ["DictKey_ActionText_961"] = "さて諸君、おかえり。では今回のソーティを一緒に振り返っていこう。\
+\
+マーシャルポイントに到達するまではすべて順調だった。離陸は問題なく、Darkstarとチェックインしてフェンスイン。目標周辺に激しい対空砲火があるという報を受けたときも、我々は的確に対応してそれを優先目標に設定し、Devil 11がオンステーションに入る前に場を整えた。主目標への打撃力は多少抑えることになったが、それも想定内。その代わり、ISが再利用できない100mm高射砲を2門排除できた。これは大きな成果だ。（50ポイント）\
+\
+その後、Flashとアタックプランを素早く打ち合わせて、北から進入。一発ずつ投下していずれも直撃させた。（20ポイント）\
+\
+続いて主目標への攻撃だが、ここで俺がやらかした。タンク2つのうち1つしか破壊できなかった。だが他のみんなは素晴らしい仕事をしてくれた。Flashは建物にピンポイントで2発を命中、Thorはポンプ場を破壊し、Motorは油分離施設を吹き飛ばした。（10ポイント、タンク1つだけ破壊でマイナス10ポイント）\
+\
+その後は他のフライトが目標を攻撃。VandalsはMike地区でクラスター爆弾を使い敵の燃料タンクを効果的に破壊。CheckmatesはNovember地区の目標を完全に無力化してくれた。我々にできることはもうあまり残っていなかったが、Devilが40mmと105mmでAAAを確実に処理してくれるのを見届けた。\
+\
+それと、逃走中のトラックを見つけたThor、よくやった！Grimの警告射撃も的確だった。あのタンクローリーの運転手の多くは、ISに脅されて働かされている民間人の可能性が高い。命が救えたかもしれない、こんな状況下で変な話に聞こえるかもしれないが、重要なことだ。\
+\
+その後は問題なくRTBして、無事に着陸。全体として非常に成功した任務だった。みんな、お疲れ、よくやった！（10ポイント）",
+    ["DictKey_subtitle_471"] = "CHECKMATE 34: Checkmate 34、北から進入。  ",
+    ["DictKey_ActionRadioText_175"] = "周波数変更  ",
+    ["DictKey_subtitle_740"] = "PLAYER: Darkstar、Weasel 31。  ",
+    ["DictKey_subtitle_748"] = "PLAYER: Darkstar、Weasel 31、了解。ホームプレートへ直行する。  ",
+    ["DictKey_subtitle_384"] = "GRIM: Weasel 31、目標の捕捉に失敗した、再攻撃を許可！  ",
+    ["DictKey_subtitle_285"] = "CHECKMATE 31: Ninety nine、Checkmate 31、オンステーション。  ",
+    ["DictKey_subtitle_291"] = "PLAYER: Darkstar、Weasel 31。Royal packageはGrimネットへスイッチ。  ",
+    ["DictKey_subtitle_436"] = "PLAYER: Weasel各機、計画位置でアンカー、オーバーウォッチを維持。  ",
+    ["DictKey_subtitle_627"] = "WEASEL 32 (FLASH): Two。  ",
+    ["DictKey_ActionText_24"] = "W31 bomb",
+    ["DictKey_subtitle_87"] = "WEASEL 33 (MOTOR): Three。  ",
+    ["DictKey_subtitle_536"] = "PLAYER: Weasel各機、計画位置でアンカー、オーバーウォッチに移行。  ",
+    ["DictKey_subtitle_542"] = "PLAYER: 重高射砲は排除済み、Mikeへの進入を許可。  ",
+    ["DictKey_subtitle_820"] = "PLAYER: Weasel各機、PRIチェック。  ",
+    ["DictKey_descriptionText_1"] = "この2年間で、現地の情勢は大きく変化しました。ただし、状況が理想的とはまだ言えません。戦争は今も激しく続いており、ISILのテロリストたちは多くの都市や地域から追い出されたとはいえ、依然として重大な脅威です。次のスライドを見てください。\
+\
+[スライド2 - ISISの支配地域]\
+\
+ご覧の通り、クルド人勢力YPGは我々の特殊部隊の支援を受けて、Kobane、Manbij、Tal Abyad周辺の北部広域を解放し、Raqqaに迫っています。ISILにとってRaqqaは事実上の首都とされており、現在、最終攻撃に向けた準備が進められています。\
+\
+一方で敵は、Raqqa南方のal-Tabqa周辺やDeir ez-Zor周辺にある重要な油田や製油施設を今なお保持しています。今夜の我々の攻撃目標もこの地域に含まれます。ISILの月間収入は、2015年第2四半期の8,100万ドルから、現在は約1,600万ドルまでおよそ80％減少しています。\
+\
+RaqqaとPalmyraの間は事実上の無法地帯となっており、複数の勢力が入り乱れて戦闘を行っています。さらに注目すべき要素として、ロシア軍のKhmeimim空軍基地での存在感が挙げられます。ここから多数の出撃が行われており、加えてHama、Ai-Sharyat、Deir ez-Zorなど他の前方展開拠点を使用しているとも考えられています。\
+\
+ロシア軍はSu-24、Su-25、Su-27、Su-34、MiG-29といった固定翼機だけでなく、Mi-8やMi-24などのヘリも多数運用しています。\
+\
+今後数か月の我々の任務は、6月初旬に予定されているYPGのRaqqa総攻撃を支援する航空作戦に重点が置かれると考えられます。それに先立ち、我々はイギリス、カナダ、オーストラリア、フランスの同盟国と密接に協力し、ISの資金源と拠点に対する攻撃を展開します。次のスライドへ。\
+\
+[スライド3 - 防空網]\
+\
+今回は、シリアの防空網だけでなく、ロシアの防空システムにも注意を払う必要があります。我々は、ロシアとシリアの防空ネットワークが連携されている可能性があると見ています。つまり、ロシア側の情報がシリア側にも共有されている可能性があるということです。\
+\
+SAM（地対空ミサイル）の主な集中展開地はKhmeimimで、ここにはロシア軍のS-300、SA-11、SA-15が配備されています。加えて、AleppoやDeir ez-Zorにはシリア軍のSA-3とSA-11が展開されています。\
+\
+我々は、これらの交戦圏内を一切飛行しないよう、最大限の注意を払う必要があります。",
+    ["DictKey_subtitle_352"] = "PLAYER: Weasel 31よりRoyal Packageへアップデート。エリア内に100ミリ高射砲が2門確認されたため、Weasel 31と32が先行してこれを排除し、その後Sierraの南10マイルで待機する。Grimからターゲティングメッセージ2 Bravoの実行許可が出たら、各機計画通りに目標を攻撃せよ。Vandal 11はWeasel 41の攻撃から45秒後に突入。以後はブリーフィング通りのタイミングで進行。  ",
+    ["DictKey_subtitle_146"] = "PLAYER: Weasel 31、5500フィート上昇、ヘディング070でFalcon Exit、ラジャー。  ",
+    ["DictKey_subtitle_918"] = "DEVIL 11: Devil 11、rounds away、Mike目標へ攻撃。  ",
+    ["DictKey_subtitle_71"] = "WEASEL 34 (THOR): Four。  ",
+    ["DictKey_subtitle_692"] = "WEASEL 32 (FLASH): Two。  ",
+    ["DictKey_subtitle_712"] = "WEASEL 32 (FLASH): Two。  ",
+    ["DictKey_ActionText_25"] = "W32 bomb",
+    ["DictKey_ActionRadioText_675"] = "もう一度言ってくれ  ",
+    ["DictKey_subtitle_489"] = "CHECKMATE 31: Grim、Checkmate 31、了解。ブレイク。Weasel 31、Checkmate 3編隊はRTBに移行。  ",
+    ["DictKey_subtitle_613"] = "DEVIL 11: Grim、Devil 11、射撃完了。105ミリ弾3発使用。BDA：車両4両撃破。  ",
+    ["DictKey_subtitle_635"] = "PLAYER: 了解、待機。  ",
+    ["DictKey_subtitle_577"] = "GRIM: Devil 11、Grim 11、車両の前方に警告射撃を実施せよ。  ",
+    ["DictKey_subtitle_800"] = "BADGER 35: Badger 35、301.2、了解。  ",
+    ["DictKey_subtitle_67"] = "WEASEL 32 (FLASH): Two。  ",
+    ["DictKey_subtitle_190"] = "WEASEL 33 (MOTOR): Weasel 33。  ",
+    ["DictKey_subtitle_862"] = "WEASEL 34 (THOR): Ground、Weasel 34、Delta上にてコンタクト。  ",
+    ["DictKey_subtitle_221"] = "DARKSTAR: Weasel 31、Darkstar。  ",
+    ["DictKey_subtitle_920"] = "DEVIL 11: Devil 11、rounds away、Mike第2目標へ攻撃。  ",
+    ["DictKey_subtitle_196"] = "CHECKMATE 32: Checkmate 32。  ",
+    ["DictKey_subtitle_282"] = "PLAYER: One、フェンスイン。  ",
+    ["DictKey_ActionRadioText_666"] = "",
+    ["DictKey_ActionRadioText_279"] = "",
+    ["DictKey_subtitle_117"] = "INCIRLIK TOWER: Checkmate 31、Tower、離陸許可、滑走路05、風は050から10ノット。  ",
+    ["DictKey_subtitle_111"] = "INCIRLIK GROUND: Weasel 31、Towerへスイッチ。  ",
+    ["DictKey_subtitle_356"] = "CHECKMATE 31: Checkmate 31、了解。  ",
+    ["DictKey_subtitle_89"] = "WEASEL 34 (THOR): Four。  ",
+    ["DictKey_subtitle_538"] = "PLAYER: Devil 11、Weasel 31。  ",
+    ["DictKey_subtitle_750"] = "DARKSTAR: Darkstar、了解。  ",
+    ["DictKey_ActionText_510"] = "",
+    ["DictKey_subtitle_621"] = "WEASEL 33 (MOTOR): One、Three。Sierra南のメインゲートから車両3両離脱中。ジープ、テクニカル、オイルタンクローリーだ。  ",
+    ["DictKey_subtitle_858"] = "INCIRLIK GROUND: Weasel 33、Ground。Delta、Golf、Hotel経由でHotel 40へ。  ",
+    ["DictKey_subtitle_532"] = "PLAYER: Weasel 31、進入中。  ",
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionText_29"] = "",
+    ["DictKey_subtitle_654"] = "",
+    ["DictKey_ActionText_19"] = "",
+    ["DictKey_subtitle_194"] = "CHECKMATE 31: Checkmate各機、チェック。  ",
+    ["DictKey_ActionText_49"] = "撃て  ",
+    ["DictKey_subtitle_561"] = "DEVIL 11: Devil 11、了解。対空砲を攻撃する。  ",
+    ["DictKey_subtitle_447"] = "VANDAL 13: Vandal 13、北から進入。  ",
+    ["DictKey_subtitle_633"] = "WEASEL 34 (THOR): One、Four。Mikeの南側、長方形の建物3棟とダートロードの近くに、無傷のタンクローリー4両を確認。  ",
+    ["DictKey_subtitle_443"] = "DEVIL 11: Weasel 31、Devil 11、了解。  ",
+    ["DictKey_subtitle_758"] = "DARKSTAR: 少々待て、Vampire。  ",
+    ["DictKey_subtitle_253"] = "PLAYER: ラジャー（笑）。計画通りでいく。OneとTwoで敵の高射砲を潰してから目標に爆撃、続けてThreeとFourが自分たちのターゲットをやる。質問あるか？  ",
+    ["DictKey_subtitle_752"] = "VAMPIRE 31: Darkstar、Vampire 31、どうぞ。  ",
+    ["DictKey_subtitle_418"] = "PLAYER: Weasel 31、爆弾投下。  ",
+    ["DictKey_ActionText_27"] = "W34 bomb",
+    ["DictKey_subtitle_477"] = "DEVIL 11: Devil 11。  ",
+    ["DictKey_subtitle_95"] = "CHECKMATE 31: Checkmate 31、F-18 4機、タクシー準備完了。  ",
+    ["DictKey_subtitle_826"] = "WEASEL 34 (THOR): Four。  ",
+    ["DictKey_subtitle_136"] = "CHECKMATE 31: Departure、Checkmate 31、チェックイン。  ",
+    ["DictKey_subtitle_314"] = "VANDAL 11: Vandal 11。  ",
+    ["DictKey_ActionText_168"] = "",
+    ["DictKey_subtitle_239"] = "PLAYER: Weasel 3編隊、オンステーション。  ",
+    ["DictKey_subtitle_396"] = "PLAYER: Grim、Weasel 31、進入中。  ",
+    ["DictKey_subtitle_75"] = "WEASEL 33 (MOTOR): Three、準備完了。  ",
+    ["DictKey_ActionRadioText_664"] = "ノージョイ  ",
+    ["DictKey_subtitle_802"] = "PLAYER: Weasel各機、PRIチェック。  ",
+    ["DictKey_ActionText_665"] = "",
+    ["DictKey_subtitle_852"] = "INCIRLIK GROUND: Weasel 32、Ground。Delta、Golf、Hotel経由でHotel 39へ。  ",
+    ["DictKey_subtitle_804"] = "WEASEL 32 (FLASH): Two。  ",
+    ["DictKey_subtitle_834"] = "PLAYER: Tower、Weasel 31、初期位置、RWY05への着陸を申請。  ",
+    ["DictKey_subtitle_422"] = "WEASEL 33 (MOTOR): Weasel 33、侵入中。  ",
+    ["DictKey_subtitle_362"] = "WEASEL 32 (FLASH): Two、了解、レディ。  ",
+    ["DictKey_subtitle_521"] = "PLAYER: ラジャー。Fighter to fighter。Trail、shooter - shooter、GBU-38、北から進入、南へ離脱。リードがOne Niner Alpha、TwoがOne Niner Bravo。ブレイク。ThreeはSierraの北50マイルで待機。  ",
+    ["DictKey_subtitle_534"] = "WEASEL 32 (FLASH): Weasel 32、進入中。  ",
+    ["DictKey_ActionText_526"] = "（攻撃を開始する準備ができたらスペースバーを押す）  ",
+    ["DictKey_subtitle_449"] = "VANDAL 11: Vandal 11、爆弾投下。  ",
+    ["DictKey_subtitle_130"] = "CHECKMATE 31: Checkmate 31、スイッチング。  ",
+    ["DictKey_ActionRadioText_642"] = "タリー  ",
+    ["DictKey_ActionText_971"] = "",
+    ["DictKey_ActionRadioText_870"] = "",
+    ["DictKey_subtitle_348"] = "WEASEL 32 (FLASH): Two、了解、両方のウェイポイント作成中。  ",
+    ["DictKey_subtitle_394"] = "PLAYER: Grim、Weasel 31、了解。  ",
+    ["DictKey_subtitle_690"] = "PLAYER: Weasel各機、フォーメーション整えてRTBだ。  ",
+    ["DictKey_subtitle_623"] = "PLAYER: Three、了解、待機。  ",
+    ["DictKey_subtitle_342"] = "GRIM: Weasel 31、復唱よし。方位確認後に連絡を。  ",
+    ["DictKey_ActionText_955"] = "さて諸君、おかえり。では今回のソーティを振り返っていこう。マーシャルポイントに到達するまではすべて順調だった。離陸は問題なく、Darkstarとチェックインしてフェンスインも完了。\
+\
+目標周辺に激しい対空砲火（AAA）があるという情報が入ったときの対応も的確だった。我々は即座にその脅威を優先目標に指定し、Devil 11がオンステーションに入ってくる前に片付けた。主目標への打撃力は多少削られたが、それも計算済みの判断だった。その結果、ISが再利用できない貴重な100mm高射砲2門を破壊できた。これは大きな戦果だ。（50ポイント）\
+\
+その後、Flashと手早くアタックプランをすり合わせて北から進入。Flash、お前は最初のランでしっかり仕留めてナイスジョブだった。俺は最初ミスって、2発目でようやく片がついた。（10ポイント【2回攻撃が必要だった分マイナス10ポイントされた】）\
+\
+次に主目標への攻撃に移ったが、ここは完璧だった。俺は稼働中のタンク2つを仕留め、Flashは建物に2発ともジャストミート。Thorはポンプ場を破壊し、Motorは油分離施設をぶっ壊した。（20ポイント）\
+\
+その後、他のフライトが各自の目標を攻撃。VandalsはMike地区の敵燃料タンクをクラスター爆弾で効果的に破壊、CheckmatesはNovember地区の標的を完全に破壊してくれた。我々の出番はもうほとんどなかったが、Devilが40mmと105mmでAAAをきれいに処理する様子を見届けることができた。\
+\
+ところで、逃げるトラックを見つけたThor、よくやった！それに、Grimの警告射撃の判断も的確だった。あのタンクローリーの運転手たちは、ISに強制されて働かされてる民間人が多い。ああやって逃がすことで命を救えたかもしれない。こういう状況では皮肉な話ではあるがな。\
+\
+その後、我々は問題なくRTBし、整然と着陸。全体として非常に成功した任務だった。みんな、よくやった！（10ポイント）",
+    ["DictKey_subtitle_122"] = "PLAYER: Tower、Weasel 31、滑走路05のAlphaでホールドショート、離陸準備完了。  ",
+    ["DictKey_ActionText_38"] = "W33P",
+    ["DictKey_ActionText_915"] = "",
+    ["DictKey_subtitle_860"] = "WEASEL 33 (MOTOR): Weasel 33、Delta、Golf、Hotel経由でHotel 40へ。  ",
+    ["DictKey_subtitle_629"] = "WEASEL 33 (MOTOR): Three。  ",
+    ["DictKey_ActionText_31"] = "W zone",
+    ["DictKey_subtitle_63"] = "WEASEL 34 (THOR): Four。  ",
+    ["DictKey_ActionRadioText_936"] = "2、繰り返す  ",
+    ["DictKey_subtitle_854"] = "WEASEL 32 (FLASH): Weasel 32、Delta、Golf、Hotel経由でHotel 39へ。  ",
+    ["DictKey_subtitle_924"] = "DEVIL 11: Devil 11、November第2目標へ攻撃。  ",
+    ["DictKey_ActionRadioText_881"] = "周波数変更  ",
+    ["DictKey_ActionText_164"] = "（PRIでTOWERに切り替え）  ",
+    ["DictKey_subtitle_688"] = "PLAYER: Grim、Weasel 31、了解。RTB。",
+    ["DictKey_subtitle_408"] = "GRIM: Weasel 32、クリアードホット。  ",
+    ["DictKey_subtitle_818"] = "APPROACH: Weasel 31、スイッチを許可。  ",
+    ["DictKey_subtitle_812"] = "APPROACH: Weasel flight、Incirlik Approach。レーダーコンタクト。Eagle通過は2000フィートMSL、Towerへコンタクトせよ。RWY05へのビジュアルアプローチを予期。  ",
+    ["DictKey_subtitle_637"] = "PLAYER: One、タリー。  ",
+    ["DictKey_subtitle_581"] = "DEVIL 11: Devil 11、射撃開始。  ",
+    ["DictKey_subtitle_615"] = "GRIM: Devil 11、Grim、BDA確認、車両4両撃破。Sierra Hotel！  ",
+    ["DictKey_subtitle_380"] = "WEASEL 32 (FLASH): Weasel 32、爆弾投下。  ",
+    ["DictKey_subtitle_565"] = "DEVIL 11: Devil 11、ガンズホット。  ",
+    ["DictKey_ActionText_12"] = "C31 bombs",
+    ["DictKey_subtitle_188"] = "WEASEL 32 (FLASH): Weasel 32。  ",
+    ["DictKey_subtitle_128"] = "INCIRLIK TOWER: Checkmate 31、Departureへスイッチ。  ",
+    ["DictKey_subtitle_601"] = "DEVIL 11: Grim、Devil 11、了解、捜索中。  ",
+    ["DictKey_subtitle_682"] = "GRIM: Weasel 41、了解。ブレイク。Weasel 31、Grim。  ",
+    ["DictKey_subtitle_911"] = "WEASEL 33 (MOTOR): Three、了解。  ",
+    ["DictKey_ActionRadioText_991"] = "フェンスイン  ",
+    ["DictKey_ActionText_502"] = "",
+    ["DictKey_ActionText_176"] = "",
+    ["DictKey_ActionText_892"] = "（PRIのチャンネル4に切り替え）  ",
+    ["DictKey_subtitle_573"] = "GRIM: Devil 11、Grim 11、Sierra南ゲートから出た車両3両を確認。  ",
+    ["DictKey_ActionRadioText_901"] = "周波数変更  ",
+    ["DictKey_subtitle_99"] = "CHECKMATE 31: Alpha経由でRWY05へ、Checkmate 31。  ",
+    ["DictKey_ActionText_975"] = "",
+    ["DictKey_subtitle_760"] = "DARKSTAR: Vampire 31、Texacoの位置はBRAA335、距離65、高度18000。TexacoはZulu航路上、122X-ray。  ",
+    ["DictKey_subtitle_178"] = "INCIRLIK GROUND: Weasel 31、グラウンド、位置を保持せよ。  ",
+    ["DictKey_subtitle_346"] = "PLAYER: Two、One。今の全部メモしたか？  ",
+    ["DictKey_ActionText_6"] = "V11 bombs",
+    ["DictKey_ActionText_48"] = "撃て  ",
+    ["DictKey_subtitle_866"] = "WEASEL 34 (THOR): Weasel 33、Delta、Golf、Hotel経由でHotel 33へ。  ",
+    ["DictKey_subtitle_455"] = "WEASEL 33 (MOTOR): 今の、Vandalがあのタンクにクラスター爆弾落としたか？  ",
+    ["DictKey_subtitle_540"] = "DEVIL 11: Weasel 31、Devil 11、どうぞ。  ",
+    ["DictKey_subtitle_259"] = "WEASEL 34 (THOR): Four、問題なし。  ",
+    ["DictKey_subtitle_434"] = "PLAYER: Devil 11、Weasel 31。  ",
+    ["DictKey_subtitle_461"] = "VANDAL 11: Grim、Vandal 11、了解。ブレイク。Weasel 31、Vandal 1編隊はRTBに移行。  ",
+    ["DictKey_subtitle_215"] = "DARKSTAR: Darkstarにどうぞ。  ",
+    ["DictKey_ActionText_674"] = "",
+    ["DictKey_subtitle_459"] = "GRIM: Vandal、Mikeへの効果良好。  ",
+    ["DictKey_ActionText_670"] = "（F10ラジオメニューで「タリー」または「座標の再送要求」を送信）  ",
+    ["DictKey_ActionRadioText_505"] = "1、確認  ",
+    ["DictKey_subtitle_840"] = "INCIRLIK TOWER: Weasel 31、タクシーウェイEchoへ入り、Groundへスイッチ。  ",
+    ["DictKey_subtitle_724"] = "GRIM: 君らの目標はSierra周辺の原油採掘ポンプ、全部で18基、1基は炎上中。  ",
+    ["DictKey_ActionText_170"] = "（PRIでDEPARTUREに切り替え）  ",
+    ["DictKey_ActionText_885"] = "（PRIのチャンネル10に切り替え）  ",
+    ["DictKey_subtitle_223"] = "PLAYER: Darkstar、どうぞ。  ",
+    ["DictKey_subtitle_93"] = "INCIRLIK GROUND: Checkmate 31、どうぞ。  ",
+    ["DictKey_subtitle_481"] = "CHECKMATE 32: Checkmate 32、爆弾投下！  ",
+    ["DictKey_ActionText_910"] = "",
+    ["DictKey_subtitle_115"] = "CHECKMATE 31: Tower、Checkmate 31、Alphaでホールドショート、滑走路05、離陸準備完了。  ",
+    ["DictKey_subtitle_206"] = "PLAYER: Weasel 3およびCheckmate 3、Queenに向け移動中、アップデートはあるか？  ",
+    ["DictKey_subtitle_696"] = "WEASEL 34 (THOR): Four。  ",
+    ["DictKey_ActionText_953"] = "さて諸君、おかえり。では今回のソーティを振り返っていこう。マーシャルポイントに到達するまではすべて順調だった。離陸は問題なく、Darkstarとチェックインしてフェンスインも完了。\
+\
+目標周辺に激しい対空砲火（AAA）があるという情報が入ったときの対応は適切だった。我々は即座にその脅威を優先目標に指定し、Devil 11がオンステーションに入ってくる前にきっちり潰す判断を下した。主目標への打撃力を若干削ぐ結果にはなったが、それは計算済みのリスクだった。その代わりに、ISがもう使えない貴重な100mm高射砲2門を破壊できた。これは大きな成果だ。（50ポイント）\
+\
+その後、Flashと簡単にアタックプランをすり合わせて北からアプローチ。各自1発ずつ投下し、いずれも直撃だった。（20ポイント）\
+\
+続いて主目標への攻撃に移ったが、これが完璧だった。俺は稼働中のタンク2つを仕留め、Flashは建物にピンポイントで爆弾を命中させた。Thorはポンプ場を破壊、Motorは油分離施設を吹き飛ばした。（20ポイント）\
+\
+その後、残りのフライトもそれぞれの目標を攻撃。Vandalsはクラスター爆弾を用いてMike地区の燃料タンクを効果的に破壊し、CheckmatesはNovember地区の目標を壊滅させた。我々に残された仕事は、Devilが40mmと105mm砲でAAAを片付けるのを見届けるくらいだった。\
+\
+ところで、逃走中のトラックを見つけたThor、グッジョブだ！それから、Grimの警告射撃の判断も見事だった。あのタンクローリーの運転手たちはほとんどがISに強制されて働いている民間人だからな。ああやって逃がすことで命を救えたかもしれない。状況を考えると皮肉な話ではあるが。\
+\
+その後、我々は問題なくRTBして、秩序だった形で着陸できた。全体として非常に成功した任務だった。みんな、お疲れ！（10ポイント）",
+    ["DictKey_ActionText_896"] = "",
+    ["DictKey_subtitle_828"] = "PLAYER: Incirlik Tower、Weasel 31、F-16 4機、Eagle上空、RWY05へ進入。  ",
+    ["DictKey_ActionText_914"] = "W33P",
+    ["DictKey_subtitle_844"] = "PLAYER: Ground、Weasel 31、Echo上にてコンタクト。  ",
+    ["DictKey_ActionText_878"] = "",
+    ["DictKey_subtitle_485"] = "CHECKMATE 34: Checkmate 34、爆弾投下。  ",
+    ["DictKey_subtitle_255"] = "WEASEL 32 (FLASH): Two、ネガティブ。  ",
+    ["DictKey_subtitle_306"] = "CHECKMATE 31: Checkmate 31。  ",
+    ["DictKey_subtitle_736"] = "WEASEL 33 (MOTOR): Weasel 33。  ",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_subtitle_400"] = "PLAYER: Grim、Weasel 31、爆弾投下！  ",
+    ["DictKey_subtitle_229"] = "DARKSTAR: ウィルコ、Weasel 31。Sierraの南10マイルでホールド。  ",
+    ["DictKey_subtitle_338"] = "GRIM: Weasel 31、One Niner Bravoの座標：37 Sierra、Delta Victor 49519 51474、高度1201フィート。  ",
+    ["DictKey_subtitle_453"] = "VANDAL 13: Vandal 13、爆弾投下。  ",
+    ["DictKey_subtitle_583"] = "GRIM: Devil 11、グッドジョブ。車両は停止、運転手は逃走中。待機せよ。  ",
+    ["DictKey_ActionText_509"] = "",
+    ["DictKey_subtitle_593"] = "GRIM: Sierra Hotel、Devil 11！！  ",
+    ["DictKey_ActionRadioText_643"] = "ノージョイ  ",
+    ["DictKey_subtitle_617"] = "WEASEL 32 (FLASH): 最高だな、これやめられん！  ",
+    ["DictKey_subtitle_519"] = "WEASEL 32 (FLASH): リード、Twoは準備完了。  ",
+    ["DictKey_subtitle_378"] = "PLAYER: Weasel 31、一発投下。  ",
+    ["DictKey_subtitle_107"] = "INCIRLIK GROUND: Checkmate 31、Towerへスイッチ。  ",
+    ["DictKey_ActionText_33"] = "V zone",
+    ["DictKey_subtitle_824"] = "WEASEL 33 (MOTOR): Three。  ",
+    ["DictKey_ActionText_153"] = "（PRIでGROUNDに切り替え）  ",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_subtitle_386"] = "GRIM: Weasel 32、One Niner Bravo撃破！  ",
+    ["DictKey_subtitle_324"] = "PLAYER: Grim、Weasel 31。Royal package、計画通りの構成でチェックイン。F-16×4、F-18×4、トーネード×3、AC-130×1、目標はターゲティングメッセージTwo Bravo。  ",
+    ["DictKey_subtitle_483"] = "CHECKMATE 33: Checkmate 33、ピクル。  ",
+    ["DictKey_ActionText_963"] = "さて諸君、おかえり。では今回のソーティを一緒に振り返っていこう。\
+\
+マーシャルポイントに到達するまではすべて順調だった。離陸は問題なく、Darkstarとチェックインしてフェンスイン。目標に対して重対空砲火があるという報が入った時も、我々は的確に反応してそれを優先目標に切り替えた。その後にDevil 11がオンステーションに入って、見事に仕事をやってくれた。主目標への打撃力は若干抑えられたが、それは計算済みの犠牲だった。その代わりに、ISが二度と使えない100mm高射砲を2門破壊できた。これは大きな戦果だ。（50ポイント）\
+\
+その後、Flashと攻撃プランを簡潔に打ち合わせて、北から進入。一発ずつ投下して、いずれも直撃だった。（20ポイント）\
+\
+次に主目標への攻撃だが、ここで完全にやらかした。タンクには一発も命中せず、全外しだった。ただ他の皆は完璧だった。Flashは建物に2発ともピンポイントで命中。Thorはポンプ場を破壊し、Motorは油分離施設を吹き飛ばした。（0ポイント、2発とも外してマイナス20ポイント）\
+\
+その後は他のフライトが目標を攻撃。VandalsはMike地区でクラスター爆弾を使い、敵の燃料タンクを効果的に破壊。CheckmatesはNovember地区の目標を完全に殲滅してくれた。我々に残された仕事はほとんどなかったが、Devilが40mmと105mmで対空砲火を確実に排除していく様は圧巻だった。\
+\
+それと、逃走中のトラックを見つけたThor、ナイス！Grimもいい判断だった。警告射撃で運転手たちを逃がしたのは正解だ。あのタンクローリーを運転していた連中の多くは、ISに脅されて働かされている民間人かもしれない。命を救えた可能性がある、こういう状況では変に聞こえるかもしれないが、重要なことだ。\
+\
+その後は問題なくRTBして、無事に着陸。総じて非常に成功した任務だった。みんな、よくやった！（10ポイント）",
+    ["DictKey_ActionText_889"] = "",
+    ["DictKey_subtitle_676"] = "WEASEL 41 (TALLY): Grim、Weasel 41、Regalパッケージ、計画通りチェックイン。F-16が2機、F-18が2機、ターゲティングメッセージThree Bravo。  ",
+    ["DictKey_ActionRadioText_517"] = "1、確認  ",
+    ["DictKey_subtitle_808"] = "WEASEL 34 (THOR): Four。  ",
+    ["DictKey_subtitle_734"] = "WEASEL 32 (FLASH): Weasel 32。  ",
+    ["DictKey_ActionText_493"] = "（PRIのBlue 2に切り替え）  ",
+    ["DictKey_subtitle_579"] = "DEVIL 11: Grim、Devil 11、了解。ガンズホット。  ",
+    ["DictKey_subtitle_595"] = "DEVIL 11: Grim、Devil 11、射撃完了。40ミリ弾15発使用。BDA：車両3両撃破。  ",
+    ["DictKey_subtitle_85"] = "WEASEL 32 (FLASH): Two。  ",
+    ["DictKey_subtitle_245"] = "DARKSTAR: ラジャー、Weasel 3、スイッチ許可。  ",
+    ["DictKey_subtitle_420"] = "WEASEL 32 (FLASH): Weasel 32、爆弾投下。  ",
+    ["DictKey_subtitle_587"] = "",
+    ["DictKey_ActionRadioText_511"] = "",
+    ["DictKey_subtitle_597"] = "GRIM: Devil 11、Grim、BDA確認、車両3両撃破。  ",
+    ["DictKey_subtitle_198"] = "CHECKMATE 33: Checkmate 33。  ",
+    ["DictKey_subtitle_774"] = "DARKSTAR: Badger 35、待機。  ",
+    ["DictKey_ActionRadioText_495"] = "周波数変更  ",
+    ["DictKey_subtitle_350"] = "PLAYER: ラジャー、終わったら知らせてくれ。  ",
+    ["DictKey_subtitle_247"] = "PLAYER: Royal package、Weasel 31、Blue twoへプッシュ。  ",
+    ["DictKey_subtitle_469"] = "CHECKMATE 33: Checkmate 33、進入中。  ",
+    ["DictKey_subtitle_402"] = "GRIM: Weasel 31、命中良好、One Niner Alpha撃破！  ",
+    ["DictKey_subtitle_105"] = "PLAYER: Hotel、Alpha経由で滑走路05、Weasel 3。  ",
+    ["DictKey_subtitle_138"] = "INCIRLIK DEPARTURE: Checkmate 31、5000フィートまで上昇、その後ヘディング070でFalcon Exitへ、以後は自立航法に移行してよし。  ",
+    ["DictKey_subtitle_426"] = "WEASEL 34 (THOR): Weasel 34、侵入中。  ",
+    ["DictKey_ActionRadioText_877"] = "",
+    ["DictKey_ActionText_269"] = "（PRIのボタン6に切り替え）  ",
+    ["DictKey_subtitle_412"] = "GRIM: Weasel 32、命中良好、One Niner Alpha撃破！  ",
+    ["DictKey_subtitle_467"] = "CHECKMATE 32: Checkmate 32、攻撃に入る。  ",
+    ["DictKey_subtitle_438"] = "DEVIL 11: Weasel 31、Devil 11、どうぞ。  ",
+    ["DictKey_subtitle_732"] = "PLAYER: Weasel各機、PRIチェック。  ",
+    ["DictKey_subtitle_702"] = "PLAYER: どうぞ。  ",
+    ["DictKey_subtitle_79"] = "PLAYER: Weasel各機、チャンネル4へ。  ",
+    ["DictKey_subtitle_312"] = "CHECKMATE 34: Checkmate 34。  ",
+    ["DictKey_subtitle_103"] = "INCIRLIK GROUND: Weasel 31、タキシーはHotel、Alpha経由で滑走路05へ。  ",
+    ["DictKey_subtitle_836"] = "INCIRLIK TOWER: Weasel 31、着陸を許可、RWY05、風は050で10。  ",
+    ["DictKey_subtitle_257"] = "WEASEL 33 (MOTOR): Three、ネガティブ。  ",
+    ["DictKey_subtitle_192"] = "WEASEL 34 (THOR): Weasel 34。  ",
+    ["DictKey_ActionRadioText_508"] = "1、確認  ",
+    ["DictKey_subtitle_113"] = "PLAYER: Weasel 31、また後で！  ",
+    ["DictKey_subtitle_704"] = "WEASEL 32 (FLASH): Devilの105ミリで原油採掘ポンプを壊せると思うか？  ",
+    ["DictKey_ActionText_913"] = "W34P",
+    ["DictKey_subtitle_251"] = "WEASEL 32 (FLASH): ああ、もちろん……アファーム！  ",
+    ["DictKey_ActionText_8"] = "V12 bombs",
+    ["DictKey_subtitle_265"] = "WEASEL 33 (MOTOR): Three、フェンスイン。  ",
+    ["DictKey_ActionText_273"] = "",
+    ["DictKey_ActionText_530"] = "",
+    ["DictKey_ActionRadioText_166"] = "周波数変更  ",
+    ["DictKey_subtitle_320"] = "DEVIL 11: Devil 11。  ",
+    ["DictKey_ActionText_41"] = "V12",
+    ["DictKey_subtitle_790"] = "DARKSTAR: Badger、彼らはこのネットで呼びかける、待機せよ。  ",
+    ["DictKey_ActionText_512"] = "",
+    ["DictKey_subtitle_784"] = "BADGER 35: Darkstar、Badger 35、ネガティブ！  ",
+    ["DictKey_subtitle_686"] = "GRIM: Weasel 31、RTBを許可。今日の任務はよくやった。  ",
+    ["DictKey_subtitle_326"] = "GRIM: Weasel 31、Grim、了解。目標アップデートを送るので待機せよ。  ",
+    ["DictKey_subtitle_563"] = "GRIM: Devil 11、クリアードホット。  ",
+    ["DictKey_subtitle_293"] = "DARKSTAR: ラジャー、Weasel 3、スイッチ許可。  ",
+    ["DictKey_subtitle_728"] = "GRIM: 了解。Devil 11、攻撃許可。  ",
+    ["DictKey_subtitle_308"] = "CHECKMATE 32: Checkmate 32。  ",
+    ["DictKey_subtitle_304"] = "WEASEL 34 (THOR): Weasel 34。  ",
+    ["DictKey_subtitle_720"] = "GRIM: Devil 11、Grim。  ",
+    ["DictKey_subtitle_726"] = "DEVIL 11: Devil 11、了解、原油採掘ポンプ18基。105ミリを使用する。  ",
+    ["DictKey_ActionText_531"] = "",
+    ["DictKey_ActionRadioText_897"] = "周波数変更  ",
+    ["DictKey_subtitle_160"] = "PLAYER: ラジャー、待機中。  ",
+    ["DictKey_subtitle_59"] = "WEASEL 32 (FLASH): Two。  ",
+    ["DictKey_subtitle_297"] = "PLAYER: Royal、Blue twoでチェックイン、Weaselより。  ",
+    ["DictKey_subtitle_318"] = "VANDAL 13: Vandal 13。  ",
+    ["DictKey_ActionText_639"] = "車両を発見  ",
+    ["DictKey_subtitle_738"] = "WEASEL 34 (THOR): Weasel 34。  ",
+    ["DictKey_subtitle_91"] = "CHECKMATE 31: Ground、Checkmate 31。  ",
+    ["DictKey_ActionRadioText_172"] = "周波数変更  ",
+    ["DictKey_subtitle_708"] = "WEASEL 32 (FLASH): 了解。  ",
+    ["DictKey_subtitle_722"] = "DEVIL 11: Grim、どうぞ。  ",
+    ["DictKey_subtitle_186"] = "PLAYER: Weasel各機、PRIでチェック。  ",
+    ["DictKey_subtitle_546"] = "DEVIL 11: Weasel 31、Devil 11、ポジション到着。  ",
+    ["DictKey_subtitle_310"] = "CHECKMATE 33: Checkmate 33。  ",
+    ["DictKey_ActionText_965"] = "さて諸君、おかえり。今回のソーティを振り返っていこう。\
+\
+マーシャルポイントまではすべて順調だった。離陸は問題なし、Darkstarとチェックインしてフェンスインも完了。目標に重対空砲火があると分かったときには即応してそれを優先目標に設定。その後、Devil 11をオンステーションに入れてしっかり仕事をしてもらった。主目標への打撃力は若干抑えられたが、それも計算済みの犠牲だ。結果的に、ISが再利用できない100mm高射砲を2門破壊できた。これは明確な成果だ。（50ポイント）\
+\
+Flashと攻撃プランを簡潔に打ち合わせて、北から進入。Flash、お前は初回で目標に命中させたな、ナイスだ。俺はやらかして一発目を外し、二発目でなんとか当てた。（10ポイント、2回攻撃のため10ポイント減点）\
+\
+続いて主目標への攻撃。ここでもミスった。タンクのうち1つしか撃破できなかった。ただ、他の皆は素晴らしかった。Flashは建物に2発ともドンピシャ。Thorはポンプ場を破壊し、Motorは油分離施設をぶっ壊してくれた。（10ポイント、1つしか破壊できなかったため10ポイント減点）\
+\
+その後の攻撃では、VandalsがMike地区の燃料タンクをクラスターで粉砕、CheckmatesはNovember地区の目標を完全に破壊。残る我々はDevilが40mmと105mmでAAAを叩き潰すのを見守るのみだった。\
+\
+それから、Thorの逃走中トラック発見もナイスだった。さらにGrimの警告射撃も的確だった。あのタンクローリーを運転していたのは、ISに無理やり働かされていた民間人の可能性が高い。命が救えたかもしれないと思えば、あの判断は正しかった。\
+\
+その後は何の問題もなくRTBして、全機無事着陸。総じて非常に良い任務だった。みんな、お疲れ！（10ポイント）",
+    ["DictKey_ActionText_23"] = "",
+    ["DictKey_subtitle_864"] = "INCIRLIK GROUND: Weasel 34、Ground。Delta、Golf、Hotel経由でHotel 33へ。  ",
+    ["DictKey_ActionText_277"] = "（スペースバーで編隊にフェンスインを指示）  ",
+    ["DictKey_subtitle_368"] = "CHECKMATE 31: Checkmate 3編隊、準備完了。  ",
+    ["DictKey_ActionText_11"] = "",
+    ["DictKey_subtitle_382"] = "GRIM: Weasel 31、命中良好！  ",
+    ["DictKey_subtitle_698"] = "PLAYER: Weasel各機、PRIチャンネル6へ。  ",
+    ["DictKey_ActionRadioText_895"] = "周波数変更  ",
+    ["DictKey_subtitle_366"] = "VANDAL 11: Vandal 1編隊、準備完了。  ",
+    ["DictKey_sortie_5"] = "M08: Oilfield Strike",
+    ["DictKey_subtitle_328"] = "GRIM: Weasel 31、スタック上に無人機あり、目標を視認。ターゲティングメッセージTwo Bravoは修正付きで有効。三目標すべてに武装勢力が展開中、小口径AAAおよび100mm高射砲（Kilo Sierra One Niner）×2が確認されている。これらは目標攻撃前に排除すべし。  ",
+    ["DictKey_subtitle_424"] = "WEASEL 33 (MOTOR): Weasel 33、爆弾投下。  ",
+    ["DictKey_ActionRadioText_935"] = "1、確認  ",
+    ["DictKey_subtitle_786"] = "DARKSTAR: Badger 35、Darkstar。Strike Eagle 2機、コールサインSlayer 41が支援可能、そちらに向かっており、ETA 11分。  ",
+    ["DictKey_subtitle_225"] = "DARKSTAR: GRIMより報告、目標地域に100mm高射砲らしきもの2基を確認。  ",
+    ["DictKey_subtitle_832"] = "PLAYER: 降下1500フィート、ストレートイン、RWY05。  ",
+    ["DictKey_subtitle_109"] = "CHECKMATE 31: Checkmate 31、了解。  ",
+    ["DictKey_subtitle_806"] = "WEASEL 33 (MOTOR): Three。  ",
+    ["DictKey_subtitle_134"] = "PLAYER: Weasel 31、Departureへスイッチング。また後で！  ",
+    ["DictKey_subtitle_204"] = "DARKSTAR: Weasel 31、Darkstar、どうぞ。  ",
+    ["DictKey_ActionText_34"] = "",
+    ["DictKey_ActionText_40"] = "V11",
+    ["DictKey_subtitle_648"] = "WEASEL 34 (THOR): 待ってくれ…North 3 5 4 2 1 5, East 0 3 8 2 6 2 3。",
+    ["DictKey_subtitle_557"] = "DEVIL 11: Grim、Devil 11、どうぞ。  ",
+    ["DictKey_ActionText_16"] = "C33 bombs",
+    ["DictKey_ActionText_501"] = "",
+    ["DictKey_subtitle_302"] = "WEASEL 33 (MOTOR): Weasel 33。  ",
+    ["DictKey_subtitle_650"] = "PLAYER: North 3 5 4 2 1 5、East 0 3 8 2 6 2 3、確認中。  ",
+    ["DictKey_subtitle_144"] = "INCIRLIK DEPARTURE: Weasel 31、5500フィートまで上昇、ヘディング070でFalcon Exitへ、その後は自立航法に移行してよし。  ",
+    ["DictKey_subtitle_267"] = "WEASEL 34 (THOR): Four、フェンスイン。  ",
+    ["DictKey_subtitle_770"] = "DARKSTAR: Badger 35、Darkstar、了解。現在位置を送れ。  ",
+    ["DictKey_subtitle_441"] = "PLAYER: 重高射砲は排除済み、Mikeへの進入を許可する。  ",
+    ["DictKey_subtitle_180"] = "PLAYER: Weasel 31、了解。  ",
+    ["DictKey_subtitle_208"] = "DARKSTAR: ネガティブ、Weasel。GRIMが目標上空でオンステーション中。空域クリア。TexacoはトラックEcho上。Vandal 11は1機機材トラブルでRTB中、残り3機がQueenへ向かっており、この周波数にて交信中。ブレイク、ブレイク。Weasels、ストライクパッケージ全機がQueenに到達したら報告せよ。  ",
+    ["DictKey_subtitle_609"] = "DEVIL 11: Grim、Devil 11、ガンズホット。  ",
+    ["DictKey_subtitle_300"] = "WEASEL 32 (FLASH): Weasel 32。  ",
+    ["DictKey_subtitle_487"] = "GRIM: Checkmate各機、Sierra Hotel、Novemberへの命中良好！  ",
+    ["DictKey_subtitle_575"] = "DEVIL 11: Grim、Devil 11、車両確認、Sierra南ゲート。  ",
+    ["DictKey_subtitle_764"] = "BADGER 35: Darkstar、こちらBadger 35、聞こえるか？  ",
+    ["DictKey_subtitle_398"] = "GRIM: Weasel 31、クリアードホット、クリアードホット！  ",
+    ["DictKey_ActionRadioText_157"] = "周波数変更  ",
+    ["DictKey_ActionText_37"] = "W32P",
+    ["DictKey_subtitle_73"] = "WEASEL 32 (FLASH): Two、準備完了。  ",
+    ["DictKey_subtitle_848"] = "PLAYER: Weasel 31、Echo、Golf、Hotel経由でHotel 38へタクシー。  ",
+    ["DictKey_ActionText_898"] = "（PRIのチャンネル3に切り替え）  ",
+    ["DictKey_ActionText_499"] = "（座標の受信準備ができたらスペースバーを押す）  ",
+    ["DictKey_ActionRadioText_177"] = "",
+    ["DictKey_ActionText_903"] = "Parking Spot 38",
+    ["DictKey_subtitle_555"] = "GRIM: Weasel 31、BDA確認。ターゲティングメッセージTwo Bravoをクローズ。ブレイク。Devil 11、Grim。  ",
+    ["DictKey_ActionText_17"] = "C34 bombs",
+    ["DictKey_ActionText_873"] = "（PRIのチャンネル6に切り替え）  ",
+    ["DictKey_subtitle_571"] = "GRIM: Devil 11、Grim 11、BDA確認。AAA6門破壊、敵戦闘員11名戦死。  ",
+    ["DictKey_ActionText_32"] = "C zone",
+    ["DictKey_subtitle_132"] = "INCIRLIK TOWER: Weasel 31、Tower、Departureへスイッチ。  ",
+    ["DictKey_ActionText_174"] = "",
+    ["DictKey_subtitle_53"] = "[ATIS情報] Incirlik空軍基地、情報Kilo、時刻00:55。風050で10。視程10マイル以上。散在雲18,000フィート。気温17度。気圧2988。使用滑走路05。視認進入を想定。情報Kiloを確認せよ。  ",
+    ["DictKey_ActionText_503"] = "（スペースバーを押すかF10メニューでGrimに復唱または再送を要求）  ",
+    ["DictKey_subtitle_552"] = "PLAYER: Grim、Weasel 31より報告、攻撃完了。ターゲティングメッセージTwo Bravoに対するBDA：指定目標全て破壊。  ",
+    ["DictKey_ActionRadioText_662"] = "ノージョイ  ",
+    ["DictKey_subtitle_810"] = "PLAYER: Incirlik Approach、Weasel 3、F-16 4機編隊、Kiloを受信済み、RWY05への初期進入をリクエスト。  ",
+    ["DictKey_subtitle_792"] = "BADGER 35: 了解！  ",
+    ["DictKey_ActionRadioText_891"] = "周波数変更  ",
+    ["DictKey_subtitle_591"] = "DEVIL 11: Devil 11、了解。ガンズホット。  ",
+    ["DictKey_ActionText_21"] = "",
+    ["DictKey_ActionRadioText_657"] = "",
+    ["DictKey_ActionRadioText_271"] = "周波数変更  ",
+    ["DictKey_subtitle_625"] = "PLAYER: Weasel各機、残存タンクローリーを捜索。  ",
+    ["DictKey_ActionText_658"] = "",
+    ["DictKey_subtitle_219"] = "DARKSTAR: 了解、Vandal 11。  ",
+    ["DictKey_subtitle_559"] = "GRIM: Devil 11、エリア内残存の対空砲を攻撃許可。その後、残存するオイルタンクローリーに目標を切り替え。  ",
+    ["DictKey_subtitle_289"] = "VANDAL 11: Vandal 1、オンステーション。  ",
+    ["DictKey_ActionText_42"] = "V13",
+    ["DictKey_ActionText_30"] = "交戦準備完了  ",
+    ["DictKey_subtitle_631"] = "WEASEL 34 (THOR): Four。  ",
+    ["DictKey_subtitle_182"] = "INCIRLIK GROUND: Weasel 31、グラウンド。Checkmateの後方に続いてタキシー再開せよ。  ",
+    ["DictKey_subtitle_479"] = "CHECKMATE 31: Checkmate 31、爆弾投下。  ",
+    ["DictKey_subtitle_445"] = "VANDAL 12: Vandal 12、進入中。  ",
+    ["DictKey_subtitle_65"] = "PLAYER: Weasel各機、チャンネル3 PRIに切り替えてグラウンドへ。AUXでATISをチェックしたらチャンネル1へ戻れ。準備できたら報告せよ。  ",
+    ["DictKey_subtitle_370"] = "PLAYER: Royal、Weasel 31、ラジャー。ブレイク。Grim、Weasel 31、北から侵入。  ",
+    ["DictKey_subtitle_567"] = "DEVIL 11: Devil 11、Rounds away、攻撃目標はSierra地点。",
+    ["DictKey_subtitle_388"] = "WEASEL 32 (FLASH): わお、あの曳光弾見た？マジで怒らせちまったな！  ",
+    ["DictKey_subtitle_334"] = "PLAYER: Grim、One Niner Alpha、Delta Victor 50103 53939、高度1253フィート。One Niner Bravoへの準備完了。",
+    ["DictKey_subtitle_227"] = "PLAYER: Darkstar、了解、100mm高射砲2基確認。Devil 11に対し、目標の南10マイルでホールドするよう伝えてくれ。  ",
+    ["DictKey_subtitle_585"] = "DEVIL 11: Devil 11、了解。  ",
+    ["DictKey_subtitle_212"] = "VANDAL 11: Darkstar、Vandal 11、どうぞ。  ",
+    ["DictKey_subtitle_680"] = "WEASEL 41 (TALLY): Grim、Weasel 41、了解。準備できたら呼ぶ。  ",
+    ["DictKey_ActionText_45"] = "C33",
+    ["DictKey_subtitle_322"] = "DEVIL 11: Devil 11。  ",
+    ["DictKey_ActionText_275"] = "",
+    ["DictKey_ActionText_162"] = "CH31 START",
+    ["DictKey_subtitle_200"] = "CHECKMATE 34: Checkmate 34。  ",
+    ["DictKey_ActionRadioText_668"] = "タリー  ",
+    ["DictKey_ActionText_150"] = "",
+    ["DictKey_subtitle_589"] = "GRIM: Devil 11、Sierra南の停止中のタンクローリーに対して攻撃許可。  ",
+    ["DictKey_subtitle_796"] = "BADGER 35: Slayer 41、Badger 35、感度良好！至急、こちらに来てくれ！",
+    ["DictKey_subtitle_646"] = "PLAYER: ノージョイ、座標を言ってくれ。  ",
+    ["DictKey_subtitle_364"] = "PLAYER: Royal Package、Weasel 3編隊、攻撃準備完了。各隊、状況を送れ。  ",
+    ["DictKey_ActionRadioText_159"] = "周波数変更  ",
+    ["DictKey_ActionRadioText_933"] = "2、もう一度言ってくれ  ",
+    ["DictKey_subtitle_404"] = "GRIM: Weasel 31、ノージョイ、One Niner Alpha撃破できず、再攻撃を許可。  ",
+    ["DictKey_ActionText_152"] = "",
+    ["DictKey_subtitle_754"] = "DARKSTAR: Vampire 31、Darkstarへ、どうぞ。  ",
+    ["DictKey_subtitle_548"] = "PLAYER: Devil 11、Weasel 31、了解。状況確認、目標になり得るものを周辺で捜索してくれ。まずは軽対空砲に集中。  ",
+    ["DictKey_subtitle_619"] = "WEASEL 33 (MOTOR): Sierraの敵砲火、止まったぞ。  ",
+    ["DictKey_subtitle_762"] = "VAMPIRE 31: Texaco、335の65、18000、了解、サンキュー。  ",
+    ["DictKey_subtitle_569"] = "DEVIL 11: Grim、Devil 11、射撃完了。40ミリ弾23発使用、BDAはAAA6門破壊、敵戦闘員11名戦死。  ",
+    ["DictKey_subtitle_140"] = "CHECKMATE 31: 5000フィート上昇、ヘディング070でFalcon Exit、その後自立航法、了解。  ",
+    ["DictKey_subtitle_756"] = "VAMPIRE 31: Vampire 31、タンカーへのアルファチェック。  ",
+    ["DictKey_subtitle_354"] = "VANDAL 11: Vandal 11、了解。  ",
+    ["DictKey_subtitle_694"] = "WEASEL 33 (MOTOR): Three.  ",
+    ["DictKey_subtitle_473"] = "DEVIL 11: Weasel 31、Devil 11、ポジション到着。  ",
+    ["DictKey_ActionText_641"] = "（F10ラジオメニューで「タリー」または「座標要求」を送信）  ",
+    ["DictKey_ActionText_883"] = "",
+    ["DictKey_subtitle_287"] = "PLAYER: Weasel 3編隊、オンステーション。  ",
+    ["DictKey_subtitle_611"] = "DEVIL 11: Devil 11、射撃開始！  ",
+    ["DictKey_subtitle_816"] = "PLAYER: Approach、Weasel 31、Eagle通過、Towerへスイッチ。  ",
+    ["DictKey_ActionText_973"] = "さて諸君、おかえり。今回のソーティを一緒に振り返っていこう。\
+\
+マーシャルポイントに到着するまでは全て順調だった。離陸も問題なく、Darkstarとチェックインしてフェンスイン。目標周辺に激しい対空砲火（AAA）があるという情報が入ったときの対応は適切だった。我々は即座にその脅威を優先目標に指定し、Devil 11がオンステーションに入ってくる前にきっちり潰す判断を下した。主目標への打撃力を若干削ぐ結果にはなったが、それは計算済みのリスクだった。その代わりに、ISがもう使えない貴重な100mm高射砲2門を破壊できた。これは大きな成果だ。（50ポイント）\
+\
+Flashと手早くアタックプランを確認して、北からアプローチ。Flashは一発で自分の目標を仕留め、ついでに俺の分も破壊してくれた。何が起きたのか分からないが、自分の爆弾は2発とも外れた。（0ポイント、2発ミスで20ポイント減点）\
+\
+次は主目標への攻撃だったが、ここでも完全にやらかした。タンクには一発も当たらなかった。他のメンバーは完璧だった。Flashはビルに2発ともピンポイントで命中、Thorはポンプ場を吹き飛ばし、Motorは油分離施設を破壊。（0ポイント、両方外して20ポイント減点）\
+\
+その後、他のフライトが目標を攻撃。VandalsはMike地区の燃料タンクをクラスター弾で破壊、CheckmatesはNovember地区の目標を完全に制圧。あとはDevilが40mmと105mmでAAAを仕留めるのを見ているだけだった。\
+\
+それと、Thorが逃げるトラックを発見したのはナイスだった。Grimの警告射撃の判断も良かった。あのタンクローリーの運転手は、多くがISに強制された民間人だからな。命を救えたかもしれない、状況を考えれば大事なことだ。\
+\
+その後は問題なくRTBし、全員無事に着陸。総じて非常に成功したミッションだった。みんな、お疲れ！（10ポイント）",
+    ["DictKey_ActionText_163"] = "",
+    ["DictKey_ActionRadioText_169"] = "周波数変更  ",
+    ["DictKey_ActionText_14"] = "",
+    ["DictKey_ActionRadioText_525"] = "",
+    ["DictKey_subtitle_744"] = "PLAYER: Weasel 31 flight、作戦終了、T-Town南部での任務完了。RTBを要請。  ",
+    ["DictKey_ActionText_904"] = "",
+    ["DictKey_subtitle_684"] = "PLAYER: Grim、Weasel 31、どうぞ。  ",
+    ["DictKey_ActionText_20"] = "",
+    ["DictKey_subtitle_69"] = "WEASEL 33 (MOTOR): Three。  ",
+    ["DictKey_subtitle_746"] = "DARKSTAR: Weasel 31、了解。RTBを許可する。TexacoはEcho航路上。  ",
+    ["DictKey_ActionText_957"] = "さて諸君、おかえり。では今回のソーティを一緒に振り返っていこう。\
+\
+マーシャルポイントに到達するまではすべて順調だった。離陸は問題なく、Darkstarとチェックインしてフェンスイン。目標周辺に激しい対空砲火（AAA）があるという情報が入ったときの対応は適切だった。我々は即座にその脅威を優先目標に指定し、Devil 11がオンステーションに入ってくる前にきっちり潰す判断を下した。主目標への打撃力を若干削ぐ結果にはなったが、それは計算済みのリスクだった。その代わりに、ISがもう使えない貴重な100mm高射砲2門を破壊できた。これは大きな成果だ。（50ポイント）\
+\
+その後、Flashと手早くアタックプランをすり合わせて北から進入。Flash、お前は最初のランで自分の目標をきっちり仕留めて、さらに俺の分まで破壊してくれた。正直、何が起きたのか分からないが、俺の2発は両方とも外した。（0ポイント【2回のミスでマイナス20ポイントされた】）\
+\
+続いて主目標への攻撃。ここは完璧だった。俺は使用中のタンク2つを仕留め、Flashは建物に正確に2発を命中させた。Thorはポンプ場を破壊し、Motorは油分離施設を吹き飛ばした。（20ポイント）\
+\
+その後は他のフライトが目標にアタック。VandalsはMike地区でクラスター爆弾を使って敵の燃料タンクを効果的に破壊、CheckmatesはNovember地区の目標を完全に無力化してくれた。以降はほとんど我々の出番はなかったが、Devilが40mmと105mmでAAAを片付ける様子を見届けることができた。\
+\
+ところで、逃走するトラックを見つけたThor、グッジョブ！さらにGrimの警告射撃も見事な判断だった。あのタンクローリーの運転手の多くは、ISに脅されて働かされている民間人だった可能性が高い。命を救えたかもしれない。こういう状況下では皮肉な話に聞こえるかもしれないが、事実だ。\
+\
+その後は問題なくRTBして、無事に着陸。全体として非常に成功した任務だった。みんな、お疲れ、よくやった！（10ポイント）",
+    ["DictKey_subtitle_360"] = "PLAYER: ラジャー。Fighter to fighter。Trail、shooter - shooter、GBU-38、北から侵入、南へ離脱。リードがOne Niner Alpha、ツーがOne Niner Bravoを担当。  ",
+    ["DictKey_subtitle_344"] = "PLAYER: Grim、Weasel 31、ウィルコ。  ",
+    ["DictKey_subtitle_235"] = "DARKSTAR: ラジャー、Devil 11。  ",
+    ["DictKey_subtitle_463"] = "PLAYER: Vandal 11、Weasel 31、了解、ナイスジョブ。  ",
+    ["DictKey_subtitle_908"] = "PLAYER: Weasel各機、Queen基準、高度25000まで上昇。  ",
+    ["DictKey_ActionText_148"] = "（スペースバーでWeaselと無線チェック）  ",
+    ["DictKey_subtitle_730"] = "DEVIL 11: Devil 11、ガンズホット。  ",
+    ["DictKey_ActionText_22"] = "",
+    ["DictKey_subtitle_678"] = "GRIM: Weasel 41、了解。スタックに無人機1機あり、目標を視認中。ターゲティングメッセージ3 Bravoは有効。目標はNovemberとMikeのポンプジャック。Sierraの目標はDevil 11が担当。  ",
+    ["DictKey_ActionText_518"] = "",
+    ["DictKey_ActionRadioText_884"] = "周波数変更  ",
+    ["DictKey_subtitle_451"] = "VANDAL 12: Vandal 12、ピクル。  ",
+    ["DictKey_ActionText_497"] = "",
+    ["DictKey_subtitle_768"] = "BADGER 35: Badger 35、クルド部隊と行動中の米JTAC、接触中、支援を要請！  ",
+    ["DictKey_subtitle_550"] = "DEVIL 11: Devil 11。  ",
+    ["DictKey_subtitle_856"] = "WEASEL 33 (MOTOR): Ground、Weasel 33、タクシーウェイDelta上。  ",
+    ["DictKey_ActionText_18"] = "",
+    ["DictKey_subtitle_544"] = "DEVIL 11: Weasel 31、Devil 11、了解。  ",
+    ["DictKey_subtitle_794"] = "SLAYER 41: Badger 35、こちらSlayer 41、聞こえるか？  ",
+    ["DictKey_subtitle_714"] = "WEASEL 33 (MOTOR): Three。  ",
+    ["DictKey_subtitle_716"] = "WEASEL 34 (THOR): Four。  ",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_subtitle_50"] = "[ATIS情報] Incirlik空軍基地、情報Julliet、時刻23:55。風050で10。視程10マイル以上。散在雲18,000フィート。気温17度。気圧2988。使用滑走路05。視認進入を想定。情報Jullietを確認せよ。  ",
+    ["DictKey_subtitle_81"] = "PLAYER: Weasel各機、チャンネル5へ。  ",
+    ["DictKey_subtitle_332"] = "GRIM: Weasel 31、One Niner Alphaの座標：37 Sierra、Delta Victor 50103 53939、高度1253フィート。  ",
+    ["DictKey_ActionRadioText_981"] = "フェンスアウト  ",
+    ["DictKey_subtitle_830"] = "INCIRLIK TOWER: Weasel 31、Tower。1500フィートMSLへ降下、RWY05へのストレートイン。5マイルで初期位置を報告せよ。  ",
+    ["DictKey_subtitle_766"] = "DARKSTAR: Darkstar、Badger 35、通信が乱れている。  ",
+    ["DictKey_ActionText_514"] = "（スペースバーを押すかF10メニューでGrimに復唱または再送を要求）  ",
+    ["DictKey_ActionText_529"] = "",
+    ["DictKey_ActionRadioText_934"] = "2、もう一度言ってくれ  ",
+    ["DictKey_subtitle_126"] = "PLAYER: Weasel 31、離陸許可、滑走路05。  ",
+    ["DictKey_ActionText_905"] = "",
+    ["DictKey_subtitle_243"] = "PLAYER: Darkstar、Weasel 31。Royal packageはGrimネットへスイッチする。  ",
+    ["DictKey_subtitle_358"] = "WEASEL 32 (FLASH): One、Two、準備完了。  ",
+    ["DictKey_ActionText_902"] = "",
+    ["DictKey_subtitle_982"] = "DEVIL 11: Devil 11、Sierra第2目標へ攻撃。  ",
+    ["DictKey_ActionText_967"] = "さて諸君、おかえり。今回のソーティを一緒に振り返っていこう。\
+\
+マーシャルポイントまでは順調だった。離陸もスムーズ、Darkstarとチェックインしてフェンスイン完了。目標周辺に重対空砲火があるという報が入ったときは、適切に対応して優先目標に切り替えた。そのあとDevil 11がオンステーションに入ってしっかり仕留めてくれた。主目標への打撃力はやや制限されたが、それも計算のうち。結果としてISが再利用できない100mm対空砲を2門無力化した。これは明確な勝利だ。（50ポイント）\
+\
+Flashと攻撃プランを簡単に打ち合わせて、北から進入。Flash、1回目で確実に目標を仕留めたのは見事だった。俺の方はというと…ミスって2発目を投下してようやく命中。（10ポイント、2回攻撃により10ポイント減点）\
+\
+その後の主目標攻撃で、俺は完全にやらかした。タンクはどちらも仕留められなかった。だが他の皆は完璧だった。Flashは建物に2発とも直撃、Thorはポンプ場を破壊、Motorは油分離施設を吹き飛ばした。（0ポイント、2両とも外したため20ポイント減点）\
+\
+続いて残りのフライトが目標を攻撃。VandalsはMike地区で燃料タンクをクラスター爆弾で分断、CheckmatesはNovember地区の目標を完全に破壊。あとはDevilが40mmと105mmでAAAを一掃するのを見守るばかりだった。\
+\
+それと、Thor、逃走中のトラックの発見ナイス。Grimの警告射撃の判断も良かった。あのタンクローリーの運転手の多くは、ISに無理やり働かされてる民間人だからな。命を救えたかもしれないという意味では、あれは正しい判断だったと思う。\
+\
+最後はRTBも問題なく、全機無事に帰還。非常に良いミッションだった。みんな、お疲れ！（10ポイント）",
+    ["DictKey_subtitle_217"] = "VANDAL 11: Vandal 11、あと10分で到着。  ",
+    ["DictKey_subtitle_263"] = "WEASEL 32 (FLASH): Two、フェンスイン。  ",
+    ["DictKey_subtitle_652"] = "PLAYER: Four、Oneにもう一度言ってくれ。  ",
+    ["DictKey_ActionRadioText_888"] = "周波数変更  ",
+    ["DictKey_subtitle_336"] = "PLAYER: Grim、Weasel 31、もう一度教えてくれ。",
+    ["DictKey_subtitle_392"] = "WEASEL 32 (FLASH): Two、了解。  ",
+    ["DictKey_subtitle_57"] = "PLAYER: Weasel各機、AUXでチェック。  ",
+    ["DictKey_subtitle_772"] = "BADGER 35: Tal Siman南、グリッド37Sierra、Delta Alpha 909021、繰り返す、Delta Alpha 909021。近くに使える機体は？  ",
+    ["DictKey_subtitle_814"] = "PLAYER: Eagle通過2000フィート、Towerへコンタクト、RWY05ビジュアル。  ",
+    ["DictKey_subtitle_184"] = "PLAYER: Weasel 31。  ",
+    ["DictKey_subtitle_101"] = "PLAYER: グラウンド、Weasel 3、F-16が4機、タキシー準備完了。  ",
+    ["DictKey_ActionRadioText_276"] = "",
+    ["DictKey_subtitle_822"] = "WEASEL 32 (FLASH): Two。  ",
+    ["DictKey_ActionText_39"] = "W34P",
+    ["DictKey_subtitle_97"] = "INCIRLIK GROUND: Checkmate 31、Alpha経由でRWY05へタクシー。  ",
+    ["DictKey_subtitle_202"] = "PLAYER: Darkstar、Weasel 31。  ",
+    ["DictKey_subtitle_603"] = "GRIM: Weasel 31、Grim、タリー。ブレイクブレイク、Devil 11、今の聞こえたか？  ",
+    ["DictKey_subtitle_788"] = "BADGER 35: 了解、Slayer 41接近中！周波数は？  ",
+    ["DictKey_subtitle_330"] = "PLAYER: Grim、Weasel 31、了解。Kilo Sierra One Ninerの座標、受信準備OK。  ",
+    ["DictKey_subtitle_233"] = "DEVIL 11: Darkstar、Devil 11、Weaselの通信を受信。  ",
+    ["DictKey_subtitle_77"] = "WEASEL 34 (THOR): Four、準備完了。  ",
+    ["DictKey_subtitle_846"] = "INCIRLIK GROUND: Weasel 31、Ground。Echo、Golf、Hotel経由でHotel 38へタクシー。  ",
+    ["DictKey_subtitle_475"] = "PLAYER: Devil 11、Weasel 31、了解。状況確認、目標になり得るものを周辺で捜索してくれ。まずは軽対空砲に集中。  ",
+    ["DictKey_subtitle_372"] = "GRIM: Weasel 31、Grim、クリアードホット。  ",
+    ["DictKey_subtitle_295"] = "PLAYER: Royal package、Weasel 31、Blue twoへプッシュ。  ",
+    ["DictKey_ActionText_9"] = "V13 bombs",
+    ["DictKey_subtitle_605"] = "DEVIL 11: Grim、Devil 11、Mike内目標を視認、攻撃準備完了。  ",
+    ["DictKey_subtitle_340"] = "PLAYER: Grim、One Niner Bravo、Delta Victor 49519 51474、高度1201フィート。  ",
+    ["DictKey_ActionText_959"] = "",
+    ["DictKey_ActionText_284"] = "",
+    ["DictKey_ActionText_46"] = "C34",
+    ["DictKey_subtitle_842"] = "PLAYER: Tower、Weasel 31、了解。  ",
+    ["DictKey_subtitle_261"] = "PLAYER: Weasel各機、フェンスイン、Weasel 31。  ",
+    ["DictKey_ActionText_43"] = "C31",
+    ["DictKey_ActionRadioText_661"] = "タリー  ",
+    ["DictKey_ActionRadioText_663"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "トルコ　Incirlik空軍基地  \
+2017年11月3日 03:30（現地時間）／00:30 Zulu  \
+ブリーフィング担当：CHAOS（PLAYER）／フライトリーダー  \
+\
+よし、みんなよく聞け。ISISのテロリストどもが資金を得てる手段はいくつかあるのは知ってるな。列挙すると以下の通りだ。  \
+\
+1. 占領地からの収益。銀行、石油・ガス資源の支配、課税、恐喝、資産の強奪など。  \
+2. 非イスラム教徒への課税  \
+3. 身代金目的の誘拐  \
+4. 非営利団体を通じた寄付  \
+5. 外国人戦闘員による物資提供  \
+6. 通信ネットワークを利用した資金集め  \
+\
+このうち、2から6には直接手出しできない。まあ、シリアとイラク、いやこの地球上から奴らをぶっ飛ばせば別だが。だが1番目、つまり一番でかい資金源については、我々の出番だ。これから俺たちは、Al Tabqa南部にある3つの石油関連施設を叩く大規模作戦部隊の先鋒となる。目標は、北から順にAl Hawrah North／Central／Southと呼ばれる場所だ。  \
+\
+我々のコールサインは「Royal Package」。構成は以下の通り：  \
+アメリカ空軍F-16×4機（Weasel 31～34）  \
+カナダ空軍F-18×4機（Checkmate 31～34）  \
+イギリス空軍トーネード×4機（Vandal 11～14／キプロスより出撃）  \
+AC-130×1機（Devil 11）  \
+\
+次のスライド。  \
+\
+[スライド4 - 天候]  \
+天気は問題なし。風は弱く、雲は高度18000フィート以上に散在。月齢は13（満月直前）で可視性良好。NVGの運用にも支障なし。  \
+\
+[スライド5 - 空港]  \
+これが我々の割り当て機だ。すでに兵装済みで準備完了のはずだ。  \
+俺は577番機、シェルター31。  \
+Flashは360番機、シェルター34。  \
+Thorは366番機、シェルター31。  \
+Motorは379番機、シェルター30だ。  \
+\
+着陸後のシェルターもOpsで割り当てられてるが、タワーと調整して決めよう。Checkmateは1～12番シェルターにいるはずで、俺たちより先に離陸するだろう。  \
+\
+まずAUXで無線チェック後、ATISを取ってタワーに切り替える。ATISはVHFなので、情報取得後はチャンネル1に戻すのを忘れるな。準備できたら連絡してくれ。俺がタキシークリアランスをもらって、RWY05へ向かう。  \
+\
+[スライド6 - 離陸]  \
+離陸後はExit FALCONを通って高度5000フィートへ。そこでDepartureにコンタクトし、巡航高度25,000ft MSLへのクリアランス取得を想定。\
+\
+[スライド7 - フライトプラン]  \
+その後、マーシャルポイント「QUEEN」へ向かう。  \
+Weaselは高度25000～26000のブロックに500フィート間隔でホールド。  \
+Checkmateは22000～23000。  \
+Vandalは20000～21000。  \
+\
+フェンスイン後、全機準備が整い次第、GRIMと交信する。GRIMはUAVを遠隔操作しており、現地の目となってくれる。状況報告後、目標への攻撃許可が下りる。  \
+\
+ミッション終了後はWP5（離脱ポイント）を経由し、EAGLEへ向かう。  \
+トルコ国境を越えたら、俺がライトを点灯する。無線なしでフェンスアウトするから、それを見たら各自実行。  \
+\
+[スライド8 - 目標]  \
+今回破壊すべき施設は3つ。北から順にNovember、Mike、Sierra。ターゲットメッセージは「2 BRAVO」。  \
+敵の防空戦力は少ないと予想されるが、注意は必要だ。ISISが旧ソ連製のKS-19（100mm高射砲）を3門保有している可能性がある。命中すれば致命傷だ。  \
+\
+GRIMが確認次第、最優先で排除する。その任務はFlashと俺に任されている。共にGBU-38を4発搭載している。  \
+砲を排除後、本来の目標に爆撃を行う。順番はWeasel→Vandal→Checkmate。  \
+Devilは小口径AAAや原油採掘ポンプ、車両の処理を担当する。その後、Tally率いる次のパッケージが残りの施設を徹底的に破壊する予定。  \
+\
+[スライド9 - Sierra]  \
+画像は2ヶ月前のものだが、現地の状況に大きな変化はない。攻撃目標は以下の4つ：  \
+・9基の大型タンク  \
+・タンク東の建物  \
+・ガス・オイル分離施設  \
+・メインポンプ施設  \
+\
+[スライド10-11 - タンク]  \
+9基すべてを破壊するのは不可能だが、最近の画像では使用されているのは2基のみ。  \
+\
+[スライド12 - 熱画像]  \
+中央ポルタンク（満タン）と東ポルタンク（半分）の2基が使用中。この2つを俺が攻撃対象とする。残りは後続部隊に任せる。  \
+\
+[スライド13 - その他目標]  \
+Flash、お前はタンク東の建物（AP012、AP013）を2発で攻撃する。  \
+Thorはポンプ施設（AP011）をGBU-31で2発、塔も含めて破壊する。  \
+Motorはガス・オイル分離施設（AP010）をGBU-31で攻撃。  \
+北側から接近、フライト間隔は2分。  \
+\
+[スライド14 - 付随被害]  \
+周囲に民間施設はなく、付随被害リスクは低。  \
+通常手順として、事前にビラを投下済み。民間人がまだ働いていれば退避せよという内容だ。もっとも、現地に残ってる連中はISISの手下ばかりだろうから、逃げなければそれで構わん。  \
+\
+【兵装】  \
+Weasel 31・32：GBU-38×4、増槽×3、サイドワインダー×2、機銃フル、TPOD  \
+Weasel 33・34：GBU-31×2、他同様  \
+\
+主要目標に対する兵装設定：  \
+・安全装置：8秒遅延\
+・着弾角：65度  \
+・信管遅延：2秒  \
+・Thorのみ速度800に設定（ポンプ施設と塔に備え）  \
+\
+【無線規律】  \
+AUXチャンネル1を基本とし、開始時にATISを取得後は戻る。  \
+以後の順番：Ground → Tower → Departure → Darkstar → Grim → Darkstar → Texaco（必要時）→ ATIS → Approach → Tower → Ground（PRI）  \
+各切り替え後に無線チェックを行う。  \
+\
+以上だ。質問は？……よし、それじゃ行くぞ。  \
+\
+【補足（Baltic Dragonより）】  \
+1. タキシーに迷ったら、自分のシェルターから右に出てAlpha誘導路へ出ること。リードとして僚機より先に動け。  \
+2. 離陸後はDepartureの指示に従え。直接WP1へ飛ぶな。  \
+3. GRIMの許可なしに主目標を攻撃するな。事前目標があるかもしれない。  \
+4. ミッション時間は約1時間50分。",
+} -- end of dictionary
