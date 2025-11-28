@@ -1,0 +1,2580 @@
+dictionary = 
+{
+    ["DictKey_WptName_1209"] = "",
+    ["DictKey_GroupName_124"] = "Bravo Infantrie",
+    ["DictKey_WptName_1884"] = "",
+    ["DictKey_WptName_992"] = "",
+    ["DictKey_ActionText_1742"] = "ピーター /CO\
+- - ウルフ１ – WOLF 2 、あなたとは264 MHzで交信します。 - -",
+    ["DictKey_ActionText_1853"] = "",
+    ["DictKey_ActionText_1256"] = "ウルフ１\
+- - 同じ手順です。 – あなたは私達をカバーしてください。 - 私はステーションのそばに着陸します。 - -",
+    ["DictKey_GroupName_23"] = "Zelt1",
+    ["DictKey_GroupName_655"] = "SO/KOBULETI / Container-6",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_WptName_1067"] = "",
+    ["DictKey_WptName_1204"] = "",
+    ["DictKey_ActionText_1849"] = "",
+    ["DictKey_UnitName_800"] = "US-Flugzeugträger CARL VINSON",
+    ["DictKey_ActionText_1179"] = "",
+    ["DictKey_UnitName_92"] = "Neues Statisches Objekt #008",
+    ["DictKey_ActionText_1772"] = "ピーター / CO\
+- - 素晴らしい朝です。 - -\
+- -我々の初飛行に絶好のコンディションですね。 - -\
+- - フランク、エンジンの始動を始めてください。ただし、アイドルまでです。 - -",
+    ["DictKey_ActionRadioText_2197"] = "ウルフ１についてバトゥミに戻る",
+    ["DictKey_WptName_1495"] = "",
+    ["DictKey_WptName_432"] = "",
+    ["DictKey_WptName_2292"] = "",
+    ["DictKey_GroupName_586"] = "SO/SENAKI Wachturm 8",
+    ["DictKey_ActionText_1951"] = "",
+    ["DictKey_ActionRadioText_2193"] = "橋１から離陸",
+    ["DictKey_WptName_1368"] = "",
+    ["DictKey_ActionText_1379"] = "- - MISSION ACCOMPLISHED  - - ",
+    ["DictKey_UnitName_469"] = "",
+    ["DictKey_ActionText_1818"] = "BATUMI TOWER\
+- - CURL ONE  - BATUMI TOWER - -\
+- -  proceed as requested - -\
+- - Runway 13  - light crosswind - -  \
+   ",
+    ["DictKey_ActionText_1191"] = "ENFIELD FLIGHT - - VINS RADAR - -\
+- - climb to and maintain 500 feet - - ",
+    ["DictKey_ActionText_1806"] = "ピーター /CO\
+- - スロットルを開いてください。 – 出発の準備をしてください。 - -",
+    ["DictKey_WptName_1165"] = "",
+    ["DictKey_ActionText_2040"] = "ピーター / CO\
+- - 駐機場へ直接飛びます。 - - \
+- - 電柱に気をつけてください。 - -",
+    ["DictKey_GroupName_339"] = "SO/ KUTAISI Tornado 1",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_UnitName_346"] = "SO/ KUTAISI Tornado 1",
+    ["DictKey_ActionText_1974"] = "",
+    ["DictKey_WptName_1199"] = "",
+    ["DictKey_WptName_449"] = "",
+    ["DictKey_GroupName_244"] = "SO/ KUTAISI UH-1_2",
+    ["DictKey_WptName_705"] = "",
+    ["DictKey_WptName_690"] = "",
+    ["DictKey_WptName_497"] = "",
+    ["DictKey_UnitName_725"] = "SO/KOBULETI / Barracken 1",
+    ["DictKey_WptName_2359"] = "",
+    ["DictKey_WptName_482"] = "",
+    ["DictKey_GroupName_529"] = "SO/SENAKI APC Cobra-1",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_WptName_476"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_WptName_2332"] = "",
+    ["DictKey_GroupName_697"] = "SO/KOBULETI / Wachturm 63",
+    ["DictKey_ActionRadioText_1726"] = "着陸中止",
+    ["DictKey_UnitName_683"] = "SO/KOBULETI / Container-1 #001",
+    ["DictKey_WptName_823"] = "",
+    ["DictKey_WptName_1414"] = "",
+    ["DictKey_WptName_946"] = "",
+    ["DictKey_ActionText_1757"] = "ピーター CO\
+- - 情報局司令部によると、今後、数日から数週間は何も良い事が無いそうです。\
+私達はコーカサスを旅するのにいいタイミングを選んだみたいです。",
+    ["DictKey_UnitName_1554"] = "BATUMI AI UH-1 / 1",
+    ["DictKey_WptName_1667"] = "",
+    ["DictKey_WptName_1249"] = "",
+    ["DictKey_WptName_1683"] = "",
+    ["DictKey_GroupName_652"] = "SO/KOBULETI / Container-2",
+    ["DictKey_WptName_421"] = "",
+    ["DictKey_WptName_798"] = "",
+    ["DictKey_UnitName_334"] = "",
+    ["DictKey_WptName_534"] = "",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_UnitName_1066"] = "US  SCHNELLBOOT 2",
+    ["DictKey_ActionText_1188"] = "",
+    ["DictKey_ActionText_1825"] = "",
+    ["DictKey_GroupName_495"] = "SO/KUTAISI CONTAINER 10",
+    ["DictKey_GroupName_483"] = "SO/KUTAISI CONTAINER 6",
+    ["DictKey_ActionText_1764"] = "ピーター / CO\
+- - ウルフ１ - エンジン出力に問題が出ました。- - 橋に着陸することはできません。",
+    ["DictKey_WptName_1208"] = "",
+    ["DictKey_GroupName_1875"] = "SEA/ AI / S-3B-1 STATIC LOAD",
+    ["DictKey_UnitName_584"] = "SO/SENAKI Wachturm 1",
+    ["DictKey_UnitName_48"] = "Treibstofflager #001",
+    ["DictKey_WptName_1541"] = "",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_UnitName_101"] = "",
+    ["DictKey_WptName_1886"] = "",
+    ["DictKey_UnitName_713"] = "SO/KOBULETI / Wachturm 1",
+    ["DictKey_WptName_699"] = "",
+    ["DictKey_WptName_268"] = "",
+    ["DictKey_WptName_617"] = "",
+    ["DictKey_WptName_1506"] = "",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_WptName_1337"] = "",
+    ["DictKey_WptName_1635"] = "",
+    ["DictKey_WptName_2286"] = "",
+    ["DictKey_WptName_1602"] = "",
+    ["DictKey_UnitName_1995"] = "BATUMI / AI / An-29B 1 #001",
+    ["DictKey_WptName_1691"] = "",
+    ["DictKey_ActionText_1171"] = "- - ウルフ１  - -\
+- - 離陸を許可、ウルフ１、南西へ出発します。 - - ",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_WptName_328"] = "",
+    ["DictKey_WptName_2295"] = "",
+    ["DictKey_WptName_1631"] = "",
+    ["DictKey_WptName_315"] = "",
+    ["DictKey_GroupName_165"] = "Delta Infantrie",
+    ["DictKey_WptName_1316"] = "",
+    ["DictKey_UnitName_1593"] = "",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_WptName_1092"] = "",
+    ["DictKey_GroupName_477"] = "SO/KUTAISI CONTAINER 4",
+    ["DictKey_UnitName_593"] = "SO/SENAKI Wachturm 1",
+    ["DictKey_WptName_543"] = "",
+    ["DictKey_GroupName_229"] = "SO/ KUTAISI LKW 3",
+    ["DictKey_UnitName_1287"] = "",
+    ["DictKey_WptName_1796"] = "",
+    ["DictKey_GroupName_670"] = "SO/KOBULETI / Container-1 #004",
+    ["DictKey_ActionText_1174"] = "USS カール・ビンソン\
+- - ウルフパック  -  ジェット機の編隊が12時の方角にいます。かなり上空なので気にしなくて結構です。 - -",
+    ["DictKey_UnitName_95"] = "Neues Statisches Objekt #008",
+    ["DictKey_WptName_1329"] = "",
+    ["DictKey_GroupName_474"] = "SO/KUTAISI Mi-24V-3",
+    ["DictKey_WptName_576"] = "",
+    ["DictKey_ActionText_1822"] = "ANTONOV\
+- - Cleared to land - CURL ONE - -",
+    ["DictKey_UnitName_1095"] = "SEA / AI / CH-53 E-3",
+    ["DictKey_WptName_744"] = "",
+    ["DictKey_ActionText_1736"] = "ピーター CP \
+- - 高度計を艦船のフロア高度33に合わせてましょう。 - -",
+    ["DictKey_WptName_2049"] = "",
+    ["DictKey_WptName_457"] = "",
+    ["DictKey_WptName_1118"] = "",
+    ["DictKey_UnitName_719"] = "SO/KOBULETI / Wachturm 1",
+    ["DictKey_WptName_460"] = "",
+    ["DictKey_GroupName_2348"] = "AKTOR / SO / 14",
+    ["DictKey_WptName_1695"] = "",
+    ["DictKey_WptName_1084"] = "",
+    ["DictKey_GroupName_140"] = "Charly  Infantrie",
+    ["DictKey_WptName_2280"] = "",
+    ["DictKey_GroupName_452"] = "SO/KUTAISI An-26B-2",
+    ["DictKey_UnitName_505"] = "UH TEST",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_GroupName_640"] = "SO/ KOBULETI / Infanterie M4-2",
+    ["DictKey_WptName_753"] = "",
+    ["DictKey_UnitName_509"] = "SO/SENAKI An-26B-2",
+    ["DictKey_WptName_1659"] = "",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_WptName_344"] = "",
+    ["DictKey_WptName_1207"] = "",
+    ["DictKey_ActionText_1503"] = "- - BATUMI TOWER - -\
+- - PONTIAC TOW - -  BATUMI TOWER - -\
+- - Following Pontiac One – you are number two for takeoff - -",
+    ["DictKey_WptName_1243"] = "",
+    ["DictKey_WptName_1998"] = "",
+    ["DictKey_WptName_970"] = "",
+    ["DictKey_WptName_1893"] = "",
+    ["DictKey_GroupName_66"] = "Neues Statisches Objekt #004",
+    ["DictKey_WptName_332"] = "",
+    ["DictKey_GroupName_742"] = "SO/KOBULETI / Zelt 1 #002",
+    ["DictKey_ActionText_1384"] = "- - O.K. 今の所、問題なさそうです。 - -  川を南にたどります。 -  最初の変電所で着陸します。 - -\
+- - あなたは上空からカバーしてください。 - -",
+    ["DictKey_GroupName_458"] = "SO/ KUTAISI LKW 7",
+    ["DictKey_GroupName_20"] = "Stab",
+    ["DictKey_WptName_1537"] = "",
+    ["DictKey_ActionText_1156"] = "ANTONOV\
+- - Cleared to land - CURL ONE - - \
+ ",
+    ["DictKey_WptName_1996"] = "",
+    ["DictKey_WptName_841"] = "",
+    ["DictKey_UnitName_1234"] = "REBEL JEEP 1-1",
+    ["DictKey_ActionText_1910"] = "ハンス / 右ガンナー\
+- - では再び、待ちましょう - -",
+    ["DictKey_WptName_1301"] = "",
+    ["DictKey_UnitName_1421"] = "",
+    ["DictKey_GroupName_342"] = "SO/ KUTAISI Tornado 2",
+    ["DictKey_ActionText_1813"] = "ウルフ１\
+了解 – 500 feet – ウルフパックk - -",
+    ["DictKey_WptName_826"] = "",
+    ["DictKey_ActionText_1266"] = "- - 川の反対側に別のグループがいます。 - 道路に２台の車もあります。 - -",
+    ["DictKey_WptName_1333"] = "",
+    ["DictKey_WptName_1120"] = "",
+    ["DictKey_ActionText_1956"] = "ハンス / 右ガンナー\
+- - 水着を持ってきていたら、飛び込んだのに - -",
+    ["DictKey_UnitName_1117"] = "US FREGATTE 4",
+    ["DictKey_ActionText_2204"] = "- - PONTIAC 2 - - \
+- - Cleared for take off - -\
+  ",
+    ["DictKey_ActionText_1844"] = "ピーター / CO\
+待ち時間を有効利用しましょう。- - \
+- -タワーを呼んで、ホバーチェックの許可をもらいます。 - -\
+許可をもらうまでは、スロットルはグラウンドアイドルのままでいてください。 - -",
+    ["DictKey_UnitName_224"] = "",
+    ["DictKey_WptName_288"] = "",
+    ["DictKey_WptName_1877"] = "",
+    ["DictKey_WptName_1498"] = "",
+    ["DictKey_WptName_1307"] = "",
+    ["DictKey_UnitName_839"] = "BATUMI / SO / Yak-40-1",
+    ["DictKey_GroupName_1553"] = "BATUMI AI UH-1 / 1",
+    ["DictKey_WptName_1048"] = "",
+    ["DictKey_WptName_1572"] = "",
+    ["DictKey_ActionText_2026"] = "ウルフ１\
+- - 危険すぎるので、ステーションには着陸しません。\
+- - まだ爆発が起こるかもしれませんし、近くに狙撃兵が隠れているかもしれません。 - -\
+- - 目を見張ってください。- -",
+    ["DictKey_ActionText_2000"] = "ピーター / CO\
+- -  ウルフ１が見えるまで、待機してください。 - - \
+- - 空に上がらないでください。 - - ",
+    ["DictKey_WptName_1600"] = "",
+    ["DictKey_ActionRadioText_2195"] = "橋２に着陸",
+    ["DictKey_GroupName_679"] = "SO/KOBULETI / Container-10",
+    ["DictKey_WptName_300"] = "",
+    ["DictKey_GroupName_751"] = "SO/KOBULETI / Zelt 1 #005",
+    ["DictKey_ActionText_1814"] = "USS カール・ビンソン\
+- - ウルフパック - - ビンス レーダー - -\
+- - あなた達は私の管轄を離れます。 - -\
+- -  レーダーサービスを終了します。 - - 離脱のための周波数を解除して構いません。 - -\
+- -  提督からの伝言です。, 手巻きのハバナは最高だそうです。 - - ",
+    ["DictKey_WptName_626"] = "",
+    ["DictKey_WptName_1632"] = "",
+    ["DictKey_ActionText_1227"] = "ウルフ１\
+- - O.K. 今の所、問題なさそうです。 - - \
+- - 川を南にたどります。 - -\
+- -  最初の変電所で着陸します。 - -\
+- - あなたは上空からカバーしてください。 - -",
+    ["DictKey_UnitName_578"] = "SO/SENAKI Wachturm 1",
+    ["DictKey_GroupName_613"] = "SUNAKI / AI /  C-130 -2",
+    ["DictKey_ActionText_2150"] = "ウルフ１\
+- - 渓谷内なので、任務司令官との無線通信が切れています。 - -\
+- - 高度を取って、通信を回復させます。この状況でどうするか指示を仰ぎます。 - - \
+- - あなたは車を追いかけてください。 - - ただし、司令と連絡がつくまでは発砲は禁止します。 - -",
+    ["DictKey_UnitName_635"] = "",
+    ["DictKey_ActionText_1581"] = "ピーター　CO\
+- - すまない、フランク。ウルフ１を待たなくてはならない。 – スロットルをアイドルまで戻してください、燃料も節約できるし、よりリラックス出来ます。 - -",
+    ["DictKey_GroupName_953"] = "",
+    ["DictKey_ActionText_1195"] = "",
+    ["DictKey_UnitName_1889"] = "SEA / AI / CH-53 E-2",
+    ["DictKey_WptName_1008"] = "",
+    ["DictKey_GroupName_2363"] = "AKTOR / SO / 19",
+    ["DictKey_ActionText_1402"] = "- - グッジョブ - - ポストと橋の間に着陸してください。 - -  \
+あなたのガンナー達は橋を点検してください。それと、川の反対側の車の残骸をチェクしてください。  - -",
+    ["DictKey_WptName_428"] = "",
+    ["DictKey_WptName_1293"] = "",
+    ["DictKey_WptName_1351"] = "",
+    ["DictKey_WptName_687"] = "",
+    ["DictKey_GroupName_404"] = "SO/ KUTAISI LKW GAZ 66-1",
+    ["DictKey_WptName_1418"] = "",
+    ["DictKey_WptName_1151"] = "",
+    ["DictKey_WptName_1552"] = "",
+    ["DictKey_UnitName_375"] = "SO/KUTAISI APC M1025 HMMWV 1 #001",
+    ["DictKey_UnitName_1111"] = "FRACHTER 2",
+    ["DictKey_WptName_1576"] = "",
+    ["DictKey_UnitName_587"] = "SO/SENAKI Wachturm 1",
+    ["DictKey_WptName_896"] = "",
+    ["DictKey_UnitName_86"] = "Infantrie Gruppe 1-3",
+    ["DictKey_UnitName_136"] = "Einheit #001",
+    ["DictKey_WptName_964"] = "",
+    ["DictKey_GroupName_2309"] = "AKTOR / SO / 1",
+    ["DictKey_GroupName_1595"] = "BATUMI / Munition / Zuladung - 2",
+    ["DictKey_GroupName_1639"] = "Starssensperre 1-2",
+    ["DictKey_ActionText_984"] = "USS カール・ビンソン \
+- - ウルフ１ - - ストレートインを許可します。ブリッジの横に着陸してください。 - - \
+- - デッキクルーの指示に従ってください。 - -",
+    ["DictKey_GroupName_511"] = "SO/SENAKI MiG-21 Bis-2",
+    ["DictKey_ActionText_1811"] = "フリゲート\
+- - WOLF 2 - ウルフ１ が数秒で通過します。 - -\
+- - 次回は一緒にコーヒーを飲みましょう。 - -",
+    ["DictKey_WptName_1570"] = "",
+    ["DictKey_UnitName_411"] = "SO/ KUTAISI INFANTERIE 2",
+    ["DictKey_UnitName_1596"] = "BATUMI / Fässer / Zuladung - 1",
+    ["DictKey_GroupName_700"] = "SO/KOBULETI / Wachturm 2",
+    ["DictKey_GroupName_571"] = "SO/SENAKI Wachturm 3",
+    ["DictKey_GroupName_461"] = "SO/ KUTAISI LKW 8",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_WptName_308"] = "",
+    ["DictKey_UnitName_138"] = "Einheit #003",
+    ["DictKey_WptName_415"] = "",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_WptName_1656"] = "",
+    ["DictKey_ActionText_1343"] = "- - グッジョブ - - ポストと橋の間に着陸してください。 - -  \
+あなたのガンナー達は橋を点検してください。それと、川の反対側の車の残骸をチェクしてください。  - -",
+    ["DictKey_ActionText_1404"] = "ウルフ１\
+- - 全くの予想外に起こったようです。早朝のようですね。殆どの者がベットで死んでいます。まだ寝ていたのでしょう。 - -\
+- - 非常に痛ましい光景です。 - -",
+    ["DictKey_ActionText_1357"] = "- - 命令に従いませんでした。 - - ",
+    ["DictKey_WptName_1941"] = "",
+    ["DictKey_ActionText_855"] = "- - PONTIAC ONE - - BATUMI TOWER - -\
+- - Taxi to Runway 31 via Taxiway DELTA - - \
+- - Hold short until further  advice - -",
+    ["DictKey_WptName_1665"] = "",
+    ["DictKey_WptName_1091"] = "",
+    ["DictKey_UnitName_2310"] = "",
+    ["DictKey_GroupName_824"] = "",
+    ["DictKey_ActionText_1798"] = "ウルフ１\
+- -  着陸を許可 - ブリッジに直接 -  - ",
+    ["DictKey_WptName_2033"] = "",
+    ["DictKey_WptName_1544"] = "",
+    ["DictKey_WptName_1323"] = "",
+    ["DictKey_WptName_1676"] = "",
+    ["DictKey_WptName_382"] = "",
+    ["DictKey_WptName_663"] = "",
+    ["DictKey_WptName_1881"] = "",
+    ["DictKey_ActionText_1516"] = "",
+    ["DictKey_WptName_876"] = "",
+    ["DictKey_GroupName_1586"] = "BATUMI  SO Container - 2",
+    ["DictKey_GroupName_721"] = "SO/KOBULETI / Barracken 1 #001",
+    ["DictKey_GroupName_63"] = "Neues Statisches Objekt #002",
+    ["DictKey_WptName_625"] = "",
+    ["DictKey_WptName_996"] = "",
+    ["DictKey_ActionText_1946"] = "ピーター / CO\
+- - ウルフ２ – ブレイク、ブレイク – フォーメーション解除 - -",
+    ["DictKey_WptName_1060"] = "",
+    ["DictKey_UnitName_177"] = "Player Gruppe Pilot 2",
+    ["DictKey_WptName_892"] = "",
+    ["DictKey_UnitName_1497"] = "",
+    ["DictKey_WptName_1540"] = "",
+    ["DictKey_ActionText_860"] = "- - COLT 1 - - \
+- - You are cleared for take off - – - - Cross the active – expedite !! - - \
+- - Wind is 250/5 Knots - -",
+    ["DictKey_WptName_795"] = "",
+    ["DictKey_GroupName_1660"] = "Starssensperre 2-4",
+    ["DictKey_UnitName_396"] = "SO/ KUJTAISI -16-1",
+    ["DictKey_UnitName_668"] = "SO/KOBULETI / Container-1 #004",
+    ["DictKey_WptName_732"] = "",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_WptName_341"] = "",
+    ["DictKey_UnitName_152"] = "UH_Gruppe 2",
+    ["DictKey_WptName_804"] = "",
+    ["DictKey_WptName_588"] = "",
+    ["DictKey_ActionText_1797"] = "ウルフ１\
+- - 航空機を確認  - -",
+    ["DictKey_WptName_1699"] = "",
+    ["DictKey_ActionText_1354"] = "ウルフ１ \
+- - ウルフパック、左に旋回します。 - -- - 着陸を許可。  - -",
+    ["DictKey_ActionText_2070"] = "",
+    ["DictKey_ActionText_2042"] = "",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_WptName_901"] = "",
+    ["DictKey_GroupName_1246"] = "REBEL GROOP 2",
+    ["DictKey_WptName_2341"] = "",
+    ["DictKey_WptName_1374"] = "",
+    ["DictKey_WptName_774"] = "",
+    ["DictKey_GroupName_498"] = "SO/SENAKI An-26B-2",
+    ["DictKey_GroupName_1887"] = " CH-53 E SIC LAD",
+    ["DictKey_GroupName_787"] = "SO/KOBULETI / MiG-15bis-1",
+    ["DictKey_WptName_1568"] = "",
+    ["DictKey_WptName_303"] = "",
+    ["DictKey_WptName_1670"] = "",
+    ["DictKey_WptName_466"] = "",
+    ["DictKey_WptName_809"] = "",
+    ["DictKey_WptName_842"] = "",
+    ["DictKey_ActionText_1352"] = "ウルフ１\
+- - 320 へ旋回。ENFIELD FLIGHT - -",
+    ["DictKey_WptName_1707"] = "",
+    ["DictKey_UnitName_426"] = "KUTAISI APC Patrol 1-1",
+    ["DictKey_ActionText_1020"] = "USS カール・ビンソン\
+- - ウルフ１- - 離陸を許可します。 - - \
+- - 100 feet以下で – 離陸後すぐに左旋回して下さい。 - 着艦機があります。 - -",
+    ["DictKey_UnitName_695"] = "SO/KOBULETI / Wachturm 1",
+    ["DictKey_ActionText_2016"] = "ウルフ１\
+- - 周波数を戻してください。 - - \
+- - 谷の中へ車を追いかけます。先にはグルジアの検問所があります。 - - \
+- - とにかく、次の検問所で衛兵が奴らを生け捕りにしてくれるはずです。 - - ",
+    ["DictKey_WptName_1160"] = "",
+    ["DictKey_GroupName_5"] = "HELIPORT",
+    ["DictKey_WptName_888"] = "",
+    ["DictKey_ActionRadioText_2196"] = "橋２に着陸",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_UnitName_542"] = "SO/SENAKI AAA ZU-23 befsetigt 1",
+    ["DictKey_WptName_1932"] = "",
+    ["DictKey_UnitName_662"] = "SO/KOBULETI / Container-1 #004",
+    ["DictKey_ActionText_1851"] = "ピーター / CO\
+- - 良いように見えます。 - -\
+- - 全計器、グリーン - - \
+- - 地上に戻してください。 - -",
+    ["DictKey_UnitName_420"] = "",
+    ["DictKey_UnitName_168"] = "Einheit #011",
+    ["DictKey_WptName_338"] = "",
+    ["DictKey_UnitName_122"] = "UH-1 Gruppe 1 Pilot 2",
+    ["DictKey_WptName_768"] = "",
+    ["DictKey_WptName_1336"] = "",
+    ["DictKey_WptName_1892"] = "",
+    ["DictKey_ActionText_1729"] = "ピーター / CO\
+- - どうした、フランク？ - 奴らを見失うぞ - -",
+    ["DictKey_WptName_920"] = "",
+    ["DictKey_WptName_446"] = "",
+    ["DictKey_GroupName_1496"] = "",
+    ["DictKey_WptName_1390"] = "",
+    ["DictKey_UnitName_832"] = "BATUMI -AI-C-17A-1 #001",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_ActionText_1755"] = "ピーター CO\
+- - 地上近くまで降下してください。 - – \
+- - 橋の両側、下から見ることが大切です。 - -  ",
+    ["DictKey_ActionText_1713"] = "ウルフ１\
+- - 周波数を戻してください。 - - \
+- - 谷の中へ車を追いかけます。先にはグルジアの検問所があります。 - - \
+- - とにかく、次の検問所で衛兵が奴らを生け捕りにしてくれるはずです。 - - ",
+    ["DictKey_WptName_989"] = "",
+    ["DictKey_ActionText_1687"] = "ウルフ１\
+- - 全くの予想外に起こったようです。早朝のようですね。殆どの者がベットで死んでいます。まだ寝ていたのでしょう。 - -\
+- - 非常に痛ましい光景です。 - -",
+    ["DictKey_UnitName_624"] = "",
+    ["DictKey_WptName_355"] = "",
+    ["DictKey_WptName_1114"] = "",
+    ["DictKey_UnitName_575"] = "SO/SENAKI Wachturm 1",
+    ["DictKey_WptName_443"] = "",
+    ["DictKey_GroupName_1480"] = "TEST UH_1",
+    ["DictKey_WptName_1037"] = "",
+    ["DictKey_WptName_264"] = "",
+    ["DictKey_WptName_747"] = "",
+    ["DictKey_ActionText_1190"] = "USS カール・ビンソン\
+- - ウルフパック- - ビンス レーダー - -\
+- - 400 feetに上昇して維持してください。 - -",
+    ["DictKey_WptName_2353"] = "",
+    ["DictKey_WptName_921"] = "",
+    ["DictKey_WptName_792"] = "",
+    ["DictKey_WptName_1685"] = "",
+    ["DictKey_UnitName_187"] = "Einheit #013",
+    ["DictKey_UnitName_773"] = "SO/KOBULETI / CH47D1 #001",
+    ["DictKey_WptName_2350"] = "",
+    ["DictKey_ActionText_2025"] = "ハンス / ライトガンナー\
+- - 遅すぎました、全員死んでいます。 – - \
+ - - 今、ここで出来ることは何もありません。 - -",
+    ["DictKey_WptName_1071"] = "",
+    ["DictKey_WptName_330"] = "",
+    ["DictKey_GroupName_422"] = "SO/KUTAISI CH-47D Chinook-2",
+    ["DictKey_GroupName_2305"] = "RUS - AKTIVATOR",
+    ["DictKey_GroupName_544"] = "SO/SENAKI AAA ZU-23 befsetigt 4",
+    ["DictKey_GroupName_1508"] = "Neue Hubschraubergruppe",
+    ["DictKey_GroupName_553"] = "SO/SENAKI ZELT 3",
+    ["DictKey_UnitName_27"] = "Neues Statisches Objekt #006",
+    ["DictKey_WptName_999"] = "",
+    ["DictKey_ActionText_2055"] = "ハンス / 右ガンナー\
+- - ワォ、でかい爆発だ - -\
+- - 爆発物が満載されていたようです。 - - \
+- - 急いで逃げようとしなかったのは、これが原因だったようですね。 - -",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_GroupName_1994"] = "BATUMI / AI / An-29B 1 #001",
+    ["DictKey_UnitName_1290"] = "S/O JACKPOINT SIERA/ECKO PKW 1",
+    ["DictKey_GroupName_504"] = "UH TEST",
+    ["DictKey_ActionText_2007"] = "トム / 左ガンナー\
+- - 了解しました。 - -",
+    ["DictKey_ActionText_2200"] = "- - MISSION ACCOMPLISHED  - - ",
+    ["DictKey_WptName_657"] = "",
+    ["DictKey_WptName_434"] = "",
+    ["DictKey_ActionText_1617"] = "ピーター CO\
+- - 私がバトゥミタワーの周波数に戻します。 - -",
+    ["DictKey_ActionText_1817"] = "CURL 1\
+- - BATUMI TOWER  - CURL 1 - -\
+- - ANTONOV 26B – 10 MILES NORTH/WEST for landing – -\
+- - Information WISKY received - - ",
+    ["DictKey_WptName_610"] = "",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_UnitName_545"] = "SO/SENAKI AAA ZU-23 befsetigt 1",
+    ["DictKey_UnitName_686"] = "SO/KOBULETI / Container-1 #001",
+    ["DictKey_ActionText_1837"] = "バトゥミタワー   (14b)        \
+ウルフ２ -  ホバーチェックを許可します。 - -",
+    ["DictKey_WptName_1305"] = "",
+    ["DictKey_UnitName_820"] = "BATUMI  AI / SA342L-1",
+    ["DictKey_ActionText_2064"] = "",
+    ["DictKey_ActionRadioText_2059"] = "",
+    ["DictKey_GroupName_250"] = "KUTAISI M1025 HMMWV 2",
+    ["DictKey_WptName_894"] = "",
+    ["DictKey_ActionRadioText_2174"] = "バトゥミタワーの周波数 131.00MHzに合わせる",
+    ["DictKey_ActionText_1762"] = "ピーター / CO\
+- - もし、こんな事が続くのなら、私達はすぐにでもやめさせるぞ   - -",
+    ["DictKey_ActionText_1775"] = "- - ENFIELD FLIGHT -- \
+You are cleared for takeoff, when ever you ready -- \
+Wind is still 250/5 Knots  \
+Have a good flight. ",
+    ["DictKey_ActionText_1792"] = "ピーター / CO\
+- - スイッチ類を点灯します。空母周辺は交通量が多いエリアなので良い考えだと思います。また、見つけやすくなります。 - -\
+- - アンチコリジョンON - ポジションライトをストロボにセット - - \
+- - 転ばぬ先の杖です。 - -",
+    ["DictKey_UnitName_746"] = "SO/KOBULETI / Zelt 1",
+    ["DictKey_WptName_960"] = "",
+    ["DictKey_WptName_367"] = "",
+    ["DictKey_UnitName_917"] = "Pilot #001",
+    ["DictKey_UnitName_794"] = "SO/BATUMI Yak-40-1",
+    ["DictKey_WptName_537"] = "",
+    ["DictKey_UnitName_2343"] = "AKTOR / SO / 1",
+    ["DictKey_ActionText_1152"] = "ハンス　右ガンナー  \
+- - 重要な配達？  これは緊急任務でしたね。 - - \
+- - 葉巻が切れたら、提督は船を沈めるところでした。 - -",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_1150"] = "",
+    ["DictKey_UnitName_357"] = "SO/ C-130-1",
+    ["DictKey_UnitName_1365"] = "REBEL GROOP 2-4",
+    ["DictKey_WptName_1042"] = "",
+    ["DictKey_UnitName_2334"] = "AKTOR / SO / 1",
+    ["DictKey_ActionRadioText_2187"] = "車を追いかけてください。発砲は禁止",
+    ["DictKey_UnitName_951"] = "US KREUZER 3",
+    ["DictKey_WptName_1393"] = "",
+    ["DictKey_WptName_822"] = "",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_GroupName_649"] = "SO/KOBULETI / Container-5",
+    ["DictKey_GroupName_336"] = "",
+    ["DictKey_WptName_993"] = "",
+    ["DictKey_WptName_1288"] = "",
+    ["DictKey_UnitName_2331"] = "AKTOR / SO / 1",
+    ["DictKey_WptName_1059"] = "",
+    ["DictKey_WptName_627"] = "",
+    ["DictKey_UnitName_941"] = "US FREGATTE 3",
+    ["DictKey_UnitName_481"] = "SO/KUTAISI CONTAINER 4",
+    ["DictKey_UnitName_1254"] = "REBEL GROOP 1-4",
+    ["DictKey_UnitName_975"] = "NAVAL F-18 1-3",
+    ["DictKey_WptName_1940"] = "",
+    ["DictKey_WptName_1121"] = "",
+    ["DictKey_WptName_922"] = "",
+    ["DictKey_WptName_630"] = "",
+    ["DictKey_WptName_1599"] = "",
+    ["DictKey_UnitName_45"] = "Treibstofflager #001",
+    ["DictKey_UnitName_369"] = "",
+    ["DictKey_GroupName_556"] = "SO/SENAKI ZELT 4",
+    ["DictKey_GroupName_514"] = "SO/SENAKI MiG-21 Bis-3",
+    ["DictKey_WptName_1547"] = "",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_WptName_1158"] = "",
+    ["DictKey_ActionText_1759"] = "ピーター / CO\
+- - 車が見えました。 – ２台の UAZ-469 ２台連なって谷の奥深くへ移動中 - -",
+    ["DictKey_WptName_609"] = "",
+    ["DictKey_WptName_1100"] = "",
+    ["DictKey_ActionRadioText_2189"] = "橋１に着陸",
+    ["DictKey_ActionText_2024"] = "ハンス / 右ガンナー\
+- - 橋に戻ります。 – ピックアップしてください。- -",
+    ["DictKey_GroupName_333"] = "",
+    ["DictKey_WptName_1990"] = "",
+    ["DictKey_ActionText_1226"] = "ウルフ１\
+- - 次のステーションはここから数分の所です。 – 私が誘導します。 - - ",
+    ["DictKey_ActionText_2057"] = "ハンス / 右ガンナー \
+- - 車は完全に破壊されました。搭乗者は共に死にました。 - - \
+- - 合流地点に戻ります。 - -",
+    ["DictKey_UnitName_530"] = "SO/SENAKI Treibstoff ATMZ-5-1",
+    ["DictKey_UnitName_255"] = "SO/ KUTAISI LKW 4",
+    ["DictKey_UnitName_2361"] = "AKTOR / SO / 1",
+    ["DictKey_WptName_1594"] = "",
+    ["DictKey_ActionText_1341"] = "ウルフ１\
+- - 検問所が見えます。 -  煙が上がっているぞ。 - - これは予想していなかった - -",
+    ["DictKey_ActionText_1394"] = "",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_ActionText_1614"] = "フリゲート１\
+- - WOLF 2 - ウルフ１ が数秒で通過します。 - -\
+- - 離陸を許可します。 - - 次回は一緒にコーヒーを飲みましょう。 - -",
+    ["DictKey_GroupName_646"] = "SO/KOBULETI / Container-1",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_ActionText_2202"] = "- - PONTIAC 2 - -\
+- - Number two behind C-130 - - ",
+    ["DictKey_ActionText_1222"] = "- - ENFIELD TWO - - ENFIELD ONE - -\
+stay in close formation – if something goes wrong over the ocean a little tiny Huhy will be hard to spot. And every second counts - -",
+    ["DictKey_WptName_2326"] = "",
+    ["DictKey_ActionText_1969"] = "",
+    ["DictKey_UnitName_722"] = "SO/KOBULETI / Barracken 1",
+    ["DictKey_WptName_591"] = "",
+    ["DictKey_UnitName_227"] = "SO/ KUTAISI LKW 1",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_GroupName_14"] = "Neues Statisches Objekt #003",
+    ["DictKey_WptName_582"] = "",
+    ["DictKey_WptName_1684"] = "",
+    ["DictKey_UnitName_886"] = "BATUMI / AI / LKW 1",
+    ["DictKey_UnitName_384"] = "SO/KUTAISI CONTAINER 2",
+    ["DictKey_ActionText_2201"] = "",
+    ["DictKey_WptName_645"] = "",
+    ["DictKey_UnitName_484"] = "SO/KUTAISI CONTAINER 4",
+    ["DictKey_WptName_2362"] = "",
+    ["DictKey_GroupName_784"] = "SO/KOBULETI / SU-25-1 #001",
+    ["DictKey_ActionText_1155"] = "BATUMI TOWER\
+- - CURL ONE -  Clear to land - - ",
+    ["DictKey_ActionText_1760"] = "ピーター / CO\
+- - あまり距離を離されすぎないようにしてください。 - - ",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_UnitName_184"] = "Einheit #010",
+    ["DictKey_UnitName_1584"] = "",
+    ["DictKey_WptName_1003"] = "",
+    ["DictKey_WptName_1168"] = "",
+    ["DictKey_WptName_936"] = "",
+    ["DictKey_UnitName_82"] = "Infantrie Gruppe 1",
+    ["DictKey_WptName_1693"] = "",
+    ["DictKey_WptName_1569"] = "",
+    ["DictKey_WptName_777"] = "",
+    ["DictKey_WptName_612"] = "",
+    ["DictKey_WptName_312"] = "",
+    ["DictKey_ActionRadioText_2183"] = "両サイドから橋をチェックする",
+    ["DictKey_UnitName_181"] = "UH2-P2",
+    ["DictKey_WptName_918"] = "",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_GroupName_517"] = "SO/SENAKI Mi-8MTV2-1",
+    ["DictKey_WptName_2314"] = "",
+    ["DictKey_WptName_1905"] = "",
+    ["DictKey_WptName_1389"] = "",
+    ["DictKey_ActionText_1381"] = "BATUMI TOWER\
+- - CURL ONE – - BATUMI TOWER - - Taxi via Taxiway Alpha to APRON 1 - - ",
+    ["DictKey_ActionText_1754"] = "ピーター / CO\
+- - 周波数をバトゥミタワーに戻します。 - -",
+    ["DictKey_GroupName_703"] = "SO/KOBULETI / Wachturm 5",
+    ["DictKey_UnitName_1005"] = "SEAHAWK 3",
+    ["DictKey_ActionText_1746"] = "ピーター /CO\
+- - ウルフ２ - - 出発準備完了 - -",
+    ["DictKey_GroupName_1731"] = "CHECKPOINT TANGO/BRAVO",
+    ["DictKey_UnitName_638"] = "",
+    ["DictKey_UnitName_233"] = "SO/ KUTAISI LKW 1",
+    ["DictKey_ActionText_1022"] = "- - ENFIELD ONE- - \
+- - cleared for takeoff - - WILCOW - -",
+    ["DictKey_WptName_284"] = "",
+    ["DictKey_GroupName_413"] = "SO/KUTAISI Radopanzer M1126-2",
+    ["DictKey_GroupName_389"] = "SO/KUTAISI MI-8-2",
+    ["DictKey_WptName_1558"] = "",
+    ["DictKey_WptName_1097"] = "",
+    ["DictKey_GroupName_1237"] = "REBEL GROOP 1",
+    ["DictKey_GroupName_2315"] = "AKTOR / SO / 3",
+    ["DictKey_WptName_1299"] = "",
+    ["DictKey_WptName_318"] = "",
+    ["DictKey_WptName_302"] = "",
+    ["DictKey_WptName_1244"] = "",
+    ["DictKey_UnitName_825"] = "",
+    ["DictKey_WptName_900"] = "",
+    ["DictKey_WptName_619"] = "",
+    ["DictKey_WptName_594"] = "",
+    ["DictKey_WptName_1102"] = "",
+    ["DictKey_GroupName_2321"] = "AKTOR / SO / 5",
+    ["DictKey_GroupName_1583"] = "BATUMI  SO Container - 1",
+    ["DictKey_WptName_552"] = "",
+    ["DictKey_UnitName_363"] = "SO/ A-10-1",
+    ["DictKey_WptName_618"] = "",
+    ["DictKey_WptName_1505"] = "",
+    ["DictKey_WptName_1388"] = "",
+    ["DictKey_UnitName_67"] = "Neues Statisches Objekt #003",
+    ["DictKey_WptName_729"] = "",
+    ["DictKey_WptName_314"] = "",
+    ["DictKey_GroupName_11"] = "Treibstofflager",
+    ["DictKey_WptName_1210"] = "",
+    ["DictKey_UnitName_728"] = "SO/KOBULETI / Barracken 1",
+    ["DictKey_GroupName_226"] = "SO/ KUTAISI LKW 2",
+    ["DictKey_GroupName_897"] = "BATUMI INFANTERIE 1",
+    ["DictKey_GroupName_17"] = "Waffenlager",
+    ["DictKey_UnitName_963"] = "SEAHAWK 2",
+    ["DictKey_ActionText_2066"] = "- - 私は、書類整理をして司令官の所に報告に行きます。また明日会いましょう。 - - ",
+    ["DictKey_WptName_1624"] = "",
+    ["DictKey_WptName_1704"] = "",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_WptName_445"] = "",
+    ["DictKey_GroupName_100"] = "",
+    ["DictKey_WptName_1292"] = "",
+    ["DictKey_GroupName_47"] = "Ausenposten2",
+    ["DictKey_UnitName_1310"] = "JACKPOINT INFANTERIE 2-2",
+    ["DictKey_UnitName_360"] = "SO/ C-130-1",
+    ["DictKey_ActionText_1861"] = "ピーター / CO\
+- - 今日は短い飛行だけになります。 - -\
+- -  今後、数日から数週間の間、地区内を巡回してスケジュールに沿って仕事を行います。 - - \
+- -  バトゥミ周辺の、地域と重要インフラの安全を確保します。 - -",
+    ["DictKey_WptName_1991"] = "",
+    ["DictKey_WptName_1103"] = "",
+    ["DictKey_ActionText_1377"] = "BATUMI TOWER\
+- -COLT 3 - – BATUMI TOWER - - \
+- - cleared for takeoff - - cross the active – have a good flight - - ",
+    ["DictKey_WptName_1043"] = "",
+    ["DictKey_WptName_955"] = "",
+    ["DictKey_WptName_1041"] = "",
+    ["DictKey_WptName_1550"] = "",
+    ["DictKey_WptName_463"] = "",
+    ["DictKey_WptName_2303"] = "",
+    ["DictKey_UnitName_320"] = "SO/ KUTAISI INFANTERIE 1",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_WptName_899"] = "",
+    ["DictKey_ActionText_1499"] = "",
+    ["DictKey_GroupName_200"] = "UH Gruppe 2",
+    ["DictKey_ActionText_2106"] = "PONTIAC ONE\
+- - PONTIAC ONE   - Taxi via Delta - - \
+- - Holding short. - - \
+ ",
+    ["DictKey_WptName_702"] = "",
+    ["DictKey_UnitName_716"] = "SO/KOBULETI / Wachturm 1",
+    ["DictKey_ActionText_2113"] = "ウルフ１\
+- - おはようウルフ２ – よろしくおねがいします。 - -",
+    ["DictKey_GroupName_916"] = "Neue Hubschraubergruppe",
+    ["DictKey_WptName_2289"] = "",
+    ["DictKey_WptName_1611"] = "",
+    ["DictKey_WptName_1362"] = "",
+    ["DictKey_WptName_1927"] = "",
+    ["DictKey_WptName_1634"] = "",
+    ["DictKey_UnitName_258"] = "",
+    ["DictKey_GroupName_94"] = "Zelt5",
+    ["DictKey_ActionText_2109"] = "ウルフ１\
+- - バトゥミタワー - -ウルフ１ - - \
+- - エプロン１に着陸のためにバトゥミの上空３マイル先にいます。   - -\
+- - インフォメーション BRAVO 受信しました。 - -",
+    ["DictKey_GroupName_688"] = "SO/KOBULETI / Container-13",
+    ["DictKey_WptName_1312"] = "",
+    ["DictKey_UnitName_680"] = "SO/KOBULETI / Container-1 #001",
+    ["DictKey_ActionText_1378"] = "",
+    ["DictKey_WptName_1999"] = "",
+    ["DictKey_UnitName_194"] = "UH Gruppe 3",
+    ["DictKey_ActionText_2004"] = "ピーター / CO\
+- -  高度を維持して、スターション周辺をゆっくりと右旋回してください。 - -\
+- - トム、君は森の端に目を凝らしてください。 - -",
+    ["DictKey_WptName_1322"] = "",
+    ["DictKey_GroupName_392"] = "SO/ KUJTAISI -16-1",
+    ["DictKey_GroupName_345"] = "SO/ KUTAISI Tornado 3",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_WptName_1056"] = "",
+    ["DictKey_WptName_808"] = "",
+    ["DictKey_WptName_1536"] = "",
+    ["DictKey_UnitName_2364"] = "AKTOR / SO / 1",
+    ["DictKey_WptName_771"] = "",
+    ["DictKey_WptName_293"] = "",
+    ["DictKey_ActionText_1842"] = "",
+    ["DictKey_WptName_1945"] = "",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_ActionText_1178"] = "- - ENFIELD TWO - - VINC RADAR --\
+- -  decent immediate to assigned altitude - -  ",
+    ["DictKey_UnitName_171"] = "Einheit #014",
+    ["DictKey_WptName_846"] = "",
+    ["DictKey_ActionRadioText_2188"] = "車を追いかけてください。発砲は禁止",
+    ["DictKey_UnitName_903"] = "Einheit #005",
+    ["DictKey_ActionText_867"] = " - - ウルフ１ - - \
+- - 要請通り、エプロン１への直行を許可します。 - -\
+- - 滑走路前で待機してください。 - - \
+- -ウインド 320/5 ノット - -\
+-- エプロン１から cushion  traffic Departing を使用してください。 - -",
+    ["DictKey_WptName_1628"] = "",
+    ["DictKey_ActionText_1501"] = "- - ピーター CP - -\
+- - 素晴らしい朝です。 - -\
+- -我々の初飛行に絶好のコンディションですね。 - -\
+- - フランク、エンジンの始動を始めてください。ただし、アイドルまでです。 - -",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_WptName_1973"] = "",
+    ["DictKey_WptName_485"] = "",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_UnitName_161"] = "",
+    ["DictKey_ActionText_1819"] = "ウルフ１\
+- - バトゥミ タワー - - ウルフパック - -\
+- - 500 feetで南西からインバウンド - -\
+- - バトゥミの南を通過してから、川に沿って東方向へ行きます。- -",
+    ["DictKey_UnitName_2328"] = "AKTOR / SO / 1",
+    ["DictKey_GroupName_220"] = "SO/ C-130-2",
+    ["DictKey_GroupName_943"] = "US KREUZER 1",
+    ["DictKey_WptName_1649"] = "",
+    ["DictKey_WptName_971"] = "",
+    ["DictKey_subtitle_1338"] = "- - 周波数を戻してください。 - - 谷の中へ車を追いかけます。先にはグルジアの検問所があります。 とにかく、次の検問所で衛兵が奴らを生け捕りにしてくれるはずです。 - - ",
+    ["DictKey_ActionText_1183"] = "",
+    ["DictKey_UnitName_1620"] = "Pilot #001",
+    ["DictKey_WptName_1347"] = "",
+    ["DictKey_WptName_1622"] = "",
+    ["DictKey_UnitName_752"] = "SO/KOBULETI / Zelt 1",
+    ["DictKey_WptName_1063"] = "",
+    ["DictKey_ActionText_1268"] = "",
+    ["DictKey_WptName_561"] = "",
+    ["DictKey_WptName_848"] = "",
+    ["DictKey_WptName_2278"] = "",
+    ["DictKey_GroupName_2296"] = "REBEL GROOP 3",
+    ["DictKey_UnitName_518"] = "SO/SENAKI MiG-21 Bis-3",
+    ["DictKey_UnitName_2337"] = "AKTOR / SO / 1",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_ActionText_1783"] = "ピーター / CO\
+- - フォーメーションを維持してください。もっと近づいて！- -",
+    ["DictKey_UnitName_1658"] = "Starssensperre 2-2",
+    ["DictKey_WptName_1588"] = "",
+    ["DictKey_GroupName_910"] = "",
+    ["DictKey_WptName_1965"] = "",
+    ["DictKey_UnitName_306"] = "KUTAISI APC M1025 HMMWV 1",
+    ["DictKey_WptName_1350"] = "",
+    ["DictKey_WptName_669"] = "",
+    ["DictKey_GroupName_223"] = "SO/ KUTAISI LKW 1",
+    ["DictKey_WptName_1408"] = "",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_WptName_1334"] = "",
+    ["DictKey_ActionText_1761"] = "ピーター / CO\
+- - おいおい、フランク – こいつらが逃げてしまうと問題だぞ - -",
+    ["DictKey_UnitName_973"] = "NAVAL F-18 1-2",
+    ["DictKey_WptName_429"] = "",
+    ["DictKey_WptName_1206"] = "",
+    ["DictKey_GroupName_843"] = "BATUMI / AI / Follow Me 1",
+    ["DictKey_GroupName_112"] = "LA_Roland1",
+    ["DictKey_WptName_1629"] = "",
+    ["DictKey_ActionText_1794"] = "",
+    ["DictKey_ActionText_1953"] = "ピーター / CO\
+- - どうした – 近いぞ - -",
+    ["DictKey_WptName_1891"] = "",
+    ["DictKey_WptName_1971"] = "",
+    ["DictKey_WptName_666"] = "",
+    ["DictKey_GroupName_835"] = "BATUMI / SO / Yak-40-1 #001",
+    ["DictKey_GroupName_1484"] = "BATUMI / SO / UH-1 A #001",
+    ["DictKey_WptName_939"] = "",
+    ["DictKey_ActionText_865"] = "- - PONTIAC 2 - - \
+- - Cleared for take off - -\
+  \
+ ",
+    ["DictKey_ActionText_1805"] = "ピーター / CO\
+- - フランク、スロットルをグラウンドアイドルにセットしてください。 – ウルフ１ が来るのにもう少しかかります。 - - ",
+    ["DictKey_WptName_1076"] = "",
+    ["DictKey_WptName_265"] = "",
+    ["DictKey_WptName_282"] = "",
+    ["DictKey_ActionText_1344"] = "ウルフ１\
+- - 遅すぎました、全員死んでいます。バトゥミに戻りましょう。 – 今、ここで出来ることは何もありません。 - - \
+- - 私が先行します。 - -",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_GroupName_395"] = "SO/ KUJTAISI -16-2",
+    ["DictKey_GroupName_706"] = "SO/KOBULETI / Wachturm 6",
+    ["DictKey_GroupName_937"] = "US FREGATTE 2",
+    ["DictKey_WptName_350"] = "",
+    ["DictKey_ActionText_1827"] = "ウルフ１\
+- - 減速して、降下してください。 – -\
+- - 途中の橋は全部、損傷していないか、目視で確認をする必要があります。 - -\
+- - 最初の物は1.5マイル先にあります。観測のために立ち寄ります。 - -",
+    ["DictKey_GroupName_532"] = "SO/SENAKI APC Cobra-2",
+    ["DictKey_UnitName_1890"] = "SEA / AI / CH-53 E-3",
+    ["DictKey_GroupName_831"] = "BATUMI -AI-F-16A-1",
+    ["DictKey_UnitName_698"] = "SO/KOBULETI / Wachturm 1",
+    ["DictKey_UnitName_1417"] = "BATUMI Yak-40-2",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_UnitName_1245"] = "REBEL GROOP 1-2",
+    ["DictKey_WptName_1371"] = "",
+    ["DictKey_GroupName_1289"] = "S/O JACKPOINT SIERA/ECKO PKW 2",
+    ["DictKey_ActionText_857"] = "- - PONTIAC Two - - \
+Taxi behind Pontiac One to Runway 31 via Taxiway DELTA - - \
+Hold short of Runway  - -",
+    ["DictKey_ActionText_1021"] = "ウルフ１\
+- - ウルフ１ - 離陸を許可。 - -\
+- - WILCOW - - ",
+    ["DictKey_GroupName_1651"] = "Starssensperre 1-3",
+    ["DictKey_UnitName_948"] = "US KREUZER 2",
+    ["DictKey_WptName_1135"] = "",
+    ["DictKey_ActionText_1615"] = "- - ENFIELD TWO - - VINCE RADAR - -\
+Enfield one  is passing to your right - -\
+- - you are Number tow behind - - cleared for takeoff when  visual is confirmed  - -  ",
+    ["DictKey_ActionText_2125"] = "ウルフ１\
+- - カール・ビンソン - - ウルフパック - -  \
+- - ヘリコプターUH-1 - 北東15マイル、500feet 着陸のため接近中 – - \
+- - 貨物を降ろします。 - -",
+    ["DictKey_WptName_1666"] = "",
+    ["DictKey_WptName_1510"] = "",
+    ["DictKey_UnitName_2048"] = "",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_ActionText_1791"] = "USS カール・ビンソン\
+- - ウルフパック - -航空機が西から東へ通過します。 - -",
+    ["DictKey_GroupName_985"] = "NAVAL F-18 2",
+    ["DictKey_ActionText_2036"] = "ウルフ１\
+- - 渓谷内なので、任務司令官との無線通信が切れています。 - -\
+- - 高度を取って、通信を回復させます。この状況でどうするか指示を仰ぎます。 - - \
+- - あなたは車を追いかけてください。 - - ただし、司令と連絡がつくまでは発砲は禁止します。 - -",
+    ["DictKey_WptName_1561"] = "",
+    ["DictKey_GroupName_1493"] = "BATUMI / SO Generatoren - 1",
+    ["DictKey_GroupName_733"] = "SO/KOBULETI / Barracken 1 #005",
+    ["DictKey_WptName_448"] = "",
+    ["DictKey_WptName_1533"] = "",
+    ["DictKey_WptName_2035"] = "",
+    ["DictKey_GroupName_2339"] = "AKTOR / SO / 11",
+    ["DictKey_UnitName_944"] = "US KREUZER 1",
+    ["DictKey_WptName_891"] = "",
+    ["DictKey_WptName_238"] = "",
+    ["DictKey_ActionText_1809"] = "- - ENFIELD TWO - - VINCE RADAR - -\
+Enfield one  is passing to your right - -\
+- - you are Number tow behind - - cleared for takeoff when  visual is confirmed  - -  ",
+    ["DictKey_ActionText_1788"] = "",
+    ["DictKey_ActionText_1012"] = "- - ENFIELD FLIGHT -- \
+You are cleared for takeoff, when ever you ready -- \
+Wind is still 250/5 Knots  \
+Have a good flight. ",
+    ["DictKey_UnitName_85"] = "Infantrie Gruppe 1-2",
+    ["DictKey_WptName_385"] = "",
+    ["DictKey_ActionRadioText_1725"] = "着陸中止",
+    ["DictKey_WptName_1520"] = "",
+    ["DictKey_GroupName_778"] = "SO/KOBULETI / AH-64D-3",
+    ["DictKey_WptName_1130"] = "",
+    ["DictKey_ActionText_2240"] = "ピーター / CO\
+- - 行きましょう。ウルフ１の後を追います。だたし、300 feet は距離を取ってください。 - -",
+    ["DictKey_WptName_1706"] = "",
+    ["DictKey_UnitName_441"] = "KUTAISI APC Patrol 2-1",
+    ["DictKey_WptName_1086"] = "",
+    ["DictKey_UnitName_844"] = "BATUMI / AI / Follow Me 1",
+    ["DictKey_WptName_1938"] = "",
+    ["DictKey_UnitName_761"] = "SO/KOBULETI / Zelt 1",
+    ["DictKey_GroupName_538"] = "SO/SENAKI AAA ZU-23 befsetigt 2",
+    ["DictKey_WptName_1098"] = "",
+    ["DictKey_WptName_1331"] = "",
+    ["DictKey_GroupName_940"] = "US FREGATTE 3",
+    ["DictKey_ActionText_1185"] = "- - ENFIELD ONE - - \
+- -  Cleared to lad - direct at Bridge -  - ",
+    ["DictKey_UnitName_692"] = "SO/KOBULETI / Container-10",
+    ["DictKey_WptName_2304"] = "",
+    ["DictKey_ActionRadioText_1723"] = "着陸中止",
+    ["DictKey_ActionText_1821"] = "BATUMI TOWER\
+- - CURL ONE -  Clear to land - - ",
+    ["DictKey_WptName_1123"] = "",
+    ["DictKey_ActionRadioText_2177"] = "クローズフォーメーションでウルフ１についていく",
+    ["DictKey_ActionText_2078"] = "バトゥミタワー\
+- - ウルフ１ - - バトゥミタワー - -\
+- - 要請通り、エプロン１への直行を許可します。 - -\
+- - 滑走路前で待機してください。 - - \
+- -ウインド 250/5 ノット - -\
+-- エプロン１から cushion  traffic Departing を使用してください。 - -",
+    ["DictKey_WptName_1668"] = "",
+    ["DictKey_WptName_833"] = "",
+    ["DictKey_GroupName_1645"] = "Starssensperre 2-2",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_WptName_976"] = "",
+    ["DictKey_ActionText_1529"] = "ピーター CP\
+- - スロットルを開いてください。 – 出発の準備をしてください。 – ウルフ１に付いていきます。 - - \"",
+    ["DictKey_GroupName_97"] = "Zelt6",
+    ["DictKey_WptName_1200"] = "",
+    ["DictKey_WptName_1115"] = "",
+    ["DictKey_WptName_1648"] = "",
+    ["DictKey_WptName_1606"] = "",
+    ["DictKey_ActionText_1213"] = "ウルフ１\
+- - 川をたどって南のトルコ国境を目指します。ここにチェックする最初の発電所があります。 - -\
+- - トルコの反乱勢力が、時々電線に盗聴器を仕掛けています。隠し場所はグルジア側が多いです。理由は トルコ軍が法的に国境を超えて奴らを追いかける事ができないからです。",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_WptName_274"] = "",
+    ["DictKey_GroupName_730"] = "SO/KOBULETI / Barracken 1 #004",
+    ["DictKey_WptName_1328"] = "",
+    ["DictKey_UnitName_1652"] = "Starssensperre 1-2",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_WptName_412"] = "",
+    ["DictKey_WptName_616"] = "",
+    ["DictKey_WptName_558"] = "",
+    ["DictKey_GroupName_790"] = "BATUMI / SO / Yak-40-1",
+    ["DictKey_WptName_1107"] = "",
+    ["DictKey_WptName_510"] = "",
+    ["DictKey_UnitName_98"] = "Neues Statisches Objekt #008",
+    ["DictKey_ActionText_1832"] = "ウルフ１\
+- - ここで何が起こっているんだ！？ - -\
+- - 我々は攻撃を受けている - -",
+    ["DictKey_ActionText_1271"] = "- - 発砲禁止 – 発砲禁止  車を追いかけるだけにして下さい。 - - ",
+    ["DictKey_GroupName_694"] = "SO/KOBULETI / Wachturm 4",
+    ["DictKey_GroupName_109"] = "Strasenposten1",
+    ["DictKey_UnitName_120"] = "Strasenposten2",
+    ["DictKey_ActionText_1850"] = "ピーター / CO\
+- - 90° ペダルターン, 左と右   - -",
+    ["DictKey_GroupName_775"] = "SO/KOBULETI / AH-64D-2",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_ActionText_1193"] = "",
+    ["DictKey_GroupName_827"] = "BATUMI -AI-C-130",
+    ["DictKey_WptName_1601"] = "",
+    ["DictKey_GroupName_2354"] = "AKTOR / SO / 16",
+    ["DictKey_WptName_929"] = "",
+    ["DictKey_WptName_1145"] = "",
+    ["DictKey_WptName_1988"] = "",
+    ["DictKey_ActionText_859"] = "- - BATUMI TOWER - - COLT 1  - - \
+- - At APRON 1 -  ready for southern departure - - \
+- - Request to cross the active - - ",
+    ["DictKey_WptName_1575"] = "",
+    ["DictKey_WptName_1885"] = "",
+    ["DictKey_WptName_1591"] = "",
+    ["DictKey_UnitName_527"] = "SO/SENAKI LKW GAZ-66-2",
+    ["DictKey_WptName_1557"] = "",
+    ["DictKey_WptName_961"] = "",
+    ["DictKey_WptName_1612"] = "",
+    ["DictKey_GroupName_962"] = "SEAHAWK 2",
+    ["DictKey_GroupName_1202"] = "BATUMI INFANTERIE  POWER 1",
+    ["DictKey_GroupName_440"] = "KUTAISI APC Patrol 2",
+    ["DictKey_ActionText_2263"] = "ウルフ１(80)\
+- - 発砲禁止 – 発砲禁止  車を追いかけるだけにして下さい。 - - ",
+    ["DictKey_WptName_1524"] = "",
+    ["DictKey_UnitName_337"] = "",
+    ["DictKey_WptName_1057"] = "",
+    ["DictKey_GroupName_1081"] = "SEA/ AI / S-3B-1",
+    ["DictKey_WptName_1392"] = "",
+    ["DictKey_WptName_981"] = "",
+    ["DictKey_ActionText_1216"] = "ウルフ１\
+- - 減速して、降下してください。 – -\
+- - 途中の橋は全部、損傷していないか、目視で確認をする必要があります。 - -\
+- - 最初の物は1.5マイル先にあります。観測のために立ち寄ります。 - -",
+    ["DictKey_GroupName_1636"] = "Starssensperre 1-1",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_WptName_436"] = "",
+    ["DictKey_WptName_364"] = "",
+    ["DictKey_WptName_681"] = "",
+    ["DictKey_UnitName_979"] = "TEST HELI",
+    ["DictKey_ActionText_1223"] = "- - ENFIELD TWO - - ENFIELD ONE - -\
+stay in close formation – if something goes wrong over the ocean a little tiny Huhy will be hard to spot. And every second counts - -",
+    ["DictKey_GroupName_77"] = "UH-1 Gruppe 1",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_GroupName_492"] = "SO/KUTAISI CONTAINER 9",
+    ["DictKey_UnitName_2358"] = "AKTOR / SO / 1",
+    ["DictKey_UnitName_70"] = "Tank1",
+    ["DictKey_ActionText_1740"] = "ピーター / CO \
+- - ARC-51のスイッチを入れて空対空通信モードをT/R+ Guardにしてください。 - それから周波数を264 MHz(プリセット２）にセットしてください。 - - 無線セレクターを２にセットしたら、隊のリーダー機ウルフ１と交信できます。 - -",
+    ["DictKey_GroupName_1673"] = "JACKPOINT INFANTERIE 1",
+    ["DictKey_WptName_998"] = "",
+    ["DictKey_ActionText_1860"] = "ハンス / 右ガンナー\
+- - しかし、結局の所、寄り道する価値はありそうですね。 - -",
+    ["DictKey_WptName_1937"] = "",
+    ["DictKey_WptName_882"] = "",
+    ["DictKey_WptName_1604"] = "",
+    ["DictKey_WptName_1412"] = "",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_ActionText_1829"] = "ウルフ１\
+- - O.K. 今の所、問題なさそうです。 - - \
+- - 川を南にたどります。 - -\
+- -  最初の変電所で着陸します。 - -\
+- - あなたは上空からカバーしてください。 - -",
+    ["DictKey_ActionRadioText_2180"] = "フリゲートに着艦",
+    ["DictKey_GroupName_1039"] = "FRACHTER 1",
+    ["DictKey_GroupName_489"] = "SO/KUTAISI CONTAINER 8",
+    ["DictKey_ActionText_2111"] = " - - ウルフ１ - - \
+- - 着陸を許可します。 – WILCO - -",
+    ["DictKey_GroupName_91"] = "Zelt4",
+    ["DictKey_UnitName_472"] = "SO/KUTAISI Mi-24V-1",
+    ["DictKey_WptName_1318"] = "",
+    ["DictKey_WptName_1625"] = "",
+    ["DictKey_ActionText_1967"] = "",
+    ["DictKey_WptName_1112"] = "",
+    ["DictKey_WptName_1144"] = "",
+    ["DictKey_ActionRadioText_2185"] = "ウルフ１についていき、カバーしてください。",
+    ["DictKey_UnitName_812"] = "WOLF - 2 D / UH-1",
+    ["DictKey_WptName_1161"] = "",
+    ["DictKey_GroupName_682"] = "SO/KOBULETI / Container-11",
+    ["DictKey_ActionText_1918"] = "ピーター / CO\
+- - 兵器のロック解除 - 今日の交戦規定は、攻撃された時に反撃が可能です。 - - \
+ - - それでは準備してください。 - -",
+    ["DictKey_WptName_1696"] = "",
+    ["DictKey_WptName_851"] = "",
+    ["DictKey_WptName_1142"] = "",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_WptName_889"] = "",
+    ["DictKey_WptName_930"] = "",
+    ["DictKey_WptName_1400"] = "",
+    ["DictKey_WptName_890"] = "",
+    ["DictKey_WptName_1241"] = "",
+    ["DictKey_WptName_1134"] = "",
+    ["DictKey_WptName_546"] = "",
+    ["DictKey_WptName_1282"] = "",
+    ["DictKey_UnitName_621"] = "",
+    ["DictKey_ActionText_1804"] = "ビンス レーダー\
+- - ウルフ２ - - ビンス レーダー - -\
+- - ウルフ１があなたの右を通過します。 - - - - あなたは２番機です。 - - - - 目視で確認できたら離陸を許可します。 - -",
+    ["DictKey_GroupName_508"] = "SO/SENAKI MiG-21 Bis-1",
+    ["DictKey_WptName_1083"] = "",
+    ["DictKey_UnitName_139"] = "Einheit #004",
+    ["DictKey_UnitName_125"] = "Bravo",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_UnitName_1509"] = "Pilot #001",
+    ["DictKey_WptName_1573"] = "",
+    ["DictKey_WptName_810"] = "",
+    ["DictKey_WptName_622"] = "",
+    ["DictKey_WptName_1215"] = "",
+    ["DictKey_GroupName_523"] = "SO/SENAKI LKW GAZ-66-2",
+    ["DictKey_WptName_1703"] = "",
+    ["DictKey_WptName_1647"] = "",
+    ["DictKey_GroupName_386"] = "SO/KUTAISI MI-8-1",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_WptName_1275"] = "",
+    ["DictKey_GroupName_957"] = "SEAHAWK 1",
+    ["DictKey_WptName_433"] = "",
+    ["DictKey_WptName_1982"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_ActionText_1220"] = "",
+    ["DictKey_UnitName_57"] = "",
+    ["DictKey_WptName_1928"] = "",
+    ["DictKey_ActionText_1820"] = "バトゥミ タワー \
+- - ウルフパック - - 要請通り進んでください。  - - カール１ アントノフ26はファイナル中です。 - - ",
+    ["DictKey_UnitName_2322"] = "AKTOR / SO / 1",
+    ["DictKey_WptName_1251"] = "",
+    ["DictKey_UnitName_236"] = "KUTAISI APC M1025 HMMWV 1",
+    ["DictKey_UnitName_159"] = "",
+    ["DictKey_ActionText_1127"] = "USS カール・ビンソン\
+- - ウルフパック - - ビンス レーダー - -\
+- - あなた達は私の管轄を離れます。 - -\
+- -  レーダーサービスを終了します。 - - 離脱のための周波数を解除して構いません。 - -\
+- -  提督からの伝言です。, 手巻きのハバナは最高だそうです。 - - ",
+    ["DictKey_UnitName_2297"] = "REBEL GROOP 3-1",
+    ["DictKey_UnitName_162"] = "",
+    ["DictKey_WptName_327"] = "",
+    ["DictKey_WptName_1630"] = "",
+    ["DictKey_WptName_1263"] = "",
+    ["DictKey_WptName_1319"] = "",
+    ["DictKey_UnitName_987"] = "NAVAL F-18 2-2",
+    ["DictKey_WptName_1049"] = "",
+    ["DictKey_WptName_1330"] = "",
+    ["DictKey_ActionRadioText_2181"] = "ウルフ１についていく",
+    ["DictKey_GroupName_319"] = "SO/ KUTAISI INFANTERIE 2",
+    ["DictKey_UnitName_465"] = "",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_WptName_1099"] = "",
+    ["DictKey_GroupName_1280"] = "JACKPOINT SIERA/ECKO TURM 1",
+    ["DictKey_WptName_672"] = "",
+    ["DictKey_WptName_555"] = "",
+    ["DictKey_UnitName_986"] = "NAVAL F-18 2-1",
+    ["DictKey_WptName_1567"] = "",
+    ["DictKey_GroupName_547"] = "SO/SENAKI ZELT 1",
+    ["DictKey_WptName_444"] = "",
+    ["DictKey_WptName_37"] = "",
+    ["DictKey_GroupName_468"] = "SO/KUTAISI Mi-24V-1",
+    ["DictKey_ActionText_1019"] = "フリゲート１\
+- - 諸君、ようこそ我が艦へ。 - -",
+    ["DictKey_GroupName_535"] = "SO/SENAKI AAA ZU-23 befsetigt 1",
+    ["DictKey_ActionText_1355"] = "- - 私は、書類整理をして司令官の所に報告に行きます。また明日会いましょう。 - - ",
+    ["DictKey_WptName_1422"] = "",
+    ["DictKey_WptName_1705"] = "",
+    ["DictKey_WptName_931"] = "",
+    ["DictKey_ActionText_1370"] = "ハンス / 右ガンナー\
+- - 私は海が嫌いです。 - -\
+- - 塩水で好きなのはブラッディマリーだけです。 - -",
+    ["DictKey_WptName_1064"] = "",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_GroupName_691"] = "SO/KOBULETI / Wachturm 1",
+    ["DictKey_WptName_388"] = "",
+    ["DictKey_WptName_1391"] = "",
+    ["DictKey_WptName_1219"] = "",
+    ["DictKey_GroupName_69"] = "Tank2",
+    ["DictKey_WptName_1382"] = "",
+    ["DictKey_WptName_1231"] = "",
+    ["DictKey_ActionText_1803"] = "ウルフ１\
+- - ウルフ２ -  ２分でそこへ行きます。 - 陸地に戻りましょう。 - -",
+    ["DictKey_WptName_329"] = "",
+    ["DictKey_ActionText_1930"] = "トム / 左ガンナー\
+- - そんなものです。 - - \
+- -  陸軍に入る前は天国だと約束してくれますが、実際には、地獄とその待合室です。- -",
+    ["DictKey_WptName_1218"] = "",
+    ["DictKey_ActionText_1715"] = "",
+    ["DictKey_WptName_283"] = "",
+    ["DictKey_GroupName_620"] = "KOBULETI / An-26B-1",
+    ["DictKey_WptName_834"] = "",
+    ["DictKey_GroupName_216"] = "UH-1_ENFIELD-1",
+    ["DictKey_WptName_304"] = "",
+    ["DictKey_WptName_1626"] = "",
+    ["DictKey_UnitName_164"] = "",
+    ["DictKey_UnitName_767"] = "SO/KOBULETI / CH47D1",
+    ["DictKey_WptName_285"] = "",
+    ["DictKey_ActionText_2074"] = "- - PONTIAC ONE  - BATUMI TOWER - -\
+- - Taxi to Runway 31 via Taxiway DELTA - - \
+- - Hold short until further  advice - -",
+    ["DictKey_WptName_491"] = "",
+    ["DictKey_ActionText_1717"] = "",
+    ["DictKey_UnitName_935"] = "US FREGATTE 1",
+    ["DictKey_WptName_353"] = "",
+    ["DictKey_GroupName_712"] = "SO/KOBULETI / Wachturm 8",
+    ["DictKey_WptName_1217"] = "",
+    ["DictKey_UnitName_141"] = "Charly",
+    ["DictKey_GroupName_260"] = "KUTAISI LKW 1",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_WptName_945"] = "",
+    ["DictKey_GroupName_60"] = "Player",
+    ["DictKey_UnitName_1036"] = "FRACHTER 1",
+    ["DictKey_WptName_1314"] = "",
+    ["DictKey_ActionText_1182"] = "",
+    ["DictKey_UnitName_1284"] = "",
+    ["DictKey_WptName_1548"] = "",
+    ["DictKey_ActionText_2063"] = "ピーター / CO \
+- - ウルフ２ – フォーメーションに戻ります。 - -",
+    ["DictKey_UnitName_2298"] = "REBEL GROOP 3-2",
+    ["DictKey_ActionText_1013"] = "",
+    ["DictKey_UnitName_1564"] = "BATUMI Pasagier 1",
+    ["DictKey_UnitName_9"] = "",
+    ["DictKey_UnitName_42"] = "",
+    ["DictKey_WptName_1242"] = "",
+    ["DictKey_ActionText_1976"] = "USS カール・ビンソン\
+- - ウルフ２ -  ビンス レーダー - - - - 至急、指定高度まで降下してください。 - -",
+    ["DictKey_ActionText_1800"] = "USS カール・ビンソン\
+- - ウルフパック  -  ジェット機の編隊が12時の方角にいます。かなり上空なので気にしなくて結構です。 - -",
+    ["DictKey_WptName_1326"] = "",
+    ["DictKey_UnitName_958"] = "SEAHAWK 1",
+    ["DictKey_UnitName_2340"] = "AKTOR / SO / 1",
+    ["DictKey_WptName_1534"] = "",
+    ["DictKey_WptName_880"] = "",
+    ["DictKey_GroupName_257"] = "SO/ KUTAISI TANKER 1",
+    ["DictKey_GroupName_2351"] = "AKTOR / SO / 15",
+    ["DictKey_WptName_564"] = "",
+    ["DictKey_WptName_639"] = "",
+    ["DictKey_WptName_1304"] = "",
+    ["DictKey_ActionText_1077"] = "ウルフ１\
+- - ウルフ１ - - スクォーク（SQUAWK） 3179er  - WILCO - - ",
+    ["DictKey_WptName_1983"] = "",
+    ["DictKey_WptName_1406"] = "",
+    ["DictKey_WptName_1325"] = "",
+    ["DictKey_UnitName_828"] = "BATUMI -AI-C-130",
+    ["DictKey_WptName_409"] = "",
+    ["DictKey_WptName_952"] = "",
+    ["DictKey_ActionText_1607"] = "ウルフ１\
+- - VHF 周波数を 119.50に変更してください。 -  カール・ビンソンのタワーの周波数です。 - - ",
+    ["DictKey_GroupName_1146"] = "FRACHTER 4",
+    ["DictKey_WptName_642"] = "",
+    ["DictKey_UnitName_599"] = "SO/SENAKI Su-25-1",
+    ["DictKey_WptName_1164"] = "",
+    ["DictKey_GroupName_398"] = "SO/KUTAISI Radopanzer M1126-1",
+    ["DictKey_WptName_1411"] = "",
+    ["DictKey_ActionText_2008"] = "ハンス / 右ガンナー\
+- - ステーションの隣に、非友好的なグループがいます。 - -",
+    ["DictKey_WptName_1239"] = "",
+    ["DictKey_ActionText_1562"] = "",
+    ["DictKey_WptName_1230"] = "",
+    ["DictKey_WptName_347"] = "",
+    ["DictKey_UnitName_214"] = "",
+    ["DictKey_ActionText_866"] = "- - バトゥミタワー - -ウルフ１ - - \
+- - エプロン１に着陸のためにバトゥミの上空３マイル先にいます。   - -\
+- - インフォメーション BRAVO 受信しました。 - -",
+    ["DictKey_UnitName_393"] = "SO/ KUJTAISI A-10-3",
+    ["DictKey_ActionText_1023"] = "- - ENFIELD TWO - - ENFIELD ONE - -\
+- - be  there in 2 minutes ,  lets get back over solid ground - -",
+    ["DictKey_UnitName_1054"] = "US  SCHNELLBOOT 1",
+    ["DictKey_WptName_531"] = "",
+    ["DictKey_ActionText_1395"] = "ウルフ１\
+- - 目視によるチェックだけです。- -\
+- - 周囲を歩いて、 - 全てが安全できちんとロックされているかを確認するだけです。 - -",
+    ["DictKey_WptName_905"] = "",
+    ["DictKey_WptName_297"] = "",
+    ["DictKey_ActionText_1750"] = "ピーター CO\
+- - 私が周波数を変えます。 – フォーメーションの維持に集中してください。 - -",
+    ["DictKey_ActionText_1175"] = "ビンス レーダー\
+- - ウルフ２ - - ビンス レーダー - -\
+- - ウルフ１があなたの右を通過します。 - - - - あなたは２番機です。 - - - - 目視で確認できたら離陸を許可します。 - -",
+    ["DictKey_WptName_1398"] = "",
+    ["DictKey_WptName_636"] = "",
+    ["DictKey_ActionText_2255"] = "ピーター / CO\
+- - O.K. フランク –もっと近づいて、彼の７時の位置に付けてください。 - -",
+    ["DictKey_ActionText_1340"] = "ピーター / CO\
+- - 車が見えました。 – ２台の UAZ-469 ２台連なって谷の奥深くへ移動中 - -",
+    ["DictKey_ActionRadioText_2186"] = "ウルフ１についていき、カバーしてください。",
+    ["DictKey_UnitName_2300"] = "REBEL GROOP 3-4",
+    ["DictKey_WptName_1700"] = "",
+    ["DictKey_WptName_884"] = "",
+    ["DictKey_UnitName_462"] = "SO/ KUTAISI LKW 6",
+    ["DictKey_WptName_579"] = "",
+    ["DictKey_ActionText_1781"] = "ウルフ１\
+- - 離陸を許可、ウルフ１、南西へ出発します。 - - ",
+    ["DictKey_WptName_675"] = "",
+    ["DictKey_WptName_259"] = "",
+    ["DictKey_ActionText_1153"] = "BATUMI TOWER\
+- - CURL ONE - - BATUMI TOWER - -\
+- -  proceed as requested - - - - Runway 13 - - light crosswind - -  \
+   ",
+    ["DictKey_WptName_231"] = "",
+    ["DictKey_ActionText_864"] = "- - PONTIAC 2 - - BATUMI TOWER - -- -Line up -  Cleared for take off  - -",
+    ["DictKey_UnitName_18"] = "",
+    ["DictKey_UnitName_659"] = "SO/KOBULETI / Container-1",
+    ["DictKey_GroupName_667"] = "SO/KOBULETI / Container-8",
+    ["DictKey_WptName_1074"] = "",
+    ["DictKey_WptName_431"] = "",
+    ["DictKey_WptName_919"] = "",
+    ["DictKey_WptName_31"] = "",
+    ["DictKey_WptName_2368"] = "",
+    ["DictKey_WptName_311"] = "",
+    ["DictKey_UnitName_2306"] = "RUS - AKTIVATOR",
+    ["DictKey_WptName_717"] = "",
+    ["DictKey_WptName_1613"] = "",
+    ["DictKey_WptName_272"] = "",
+    ["DictKey_UnitName_1883"] = "SEAHAWK 3 #001",
+    ["DictKey_WptName_1327"] = "",
+    ["DictKey_WptName_1055"] = "",
+    ["DictKey_UnitName_372"] = "SO/KUTAISI APC M1025 HMMWV 1",
+    ["DictKey_ActionText_1375"] = "",
+    ["DictKey_WptName_1669"] = "",
+    ["DictKey_ActionText_1224"] = "- - 指示を守りませんでした。 - - \
+- - 空中衝突を起こしました。 - -",
+    ["DictKey_WptName_528"] = "",
+    ["DictKey_ActionText_1719"] = "ピーター / CO\
+- - フランク、奴らを見失うな。 – もし木々に隠れたら、二度と見つけられないぞ。 - -",
+    ["DictKey_GroupName_1490"] = "BATUMI / SO / UH-1 D",
+    ["DictKey_WptName_1001"] = "",
+    ["DictKey_WptName_503"] = "",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_WptName_2311"] = "",
+    ["DictKey_UnitName_836"] = "BATUMI / SO / Yak-40-1",
+    ["DictKey_ActionText_1856"] = "ピーター / CO\
+- - では、また待ちましょう。本を持って来たら良かった。 - -",
+    ["DictKey_WptName_1132"] = "",
+    ["DictKey_UnitName_1281"] = "",
+    ["DictKey_WptName_309"] = "",
+    ["DictKey_GroupName_580"] = "SO/SENAKI Wachturm 6",
+    ["DictKey_ActionText_1580"] = "- - ピーター CP - -\
+- - 素晴らしい朝です。 - -\
+- -我々の初飛行に絶好のコンディションですね。 - -\
+- - フランク、エンジンの始動を始めてください。ただし、アイドルまでです。 - -",
+    ["DictKey_WptName_1162"] = "",
+    ["DictKey_UnitName_590"] = "SO/SENAKI Wachturm 1",
+    ["DictKey_GroupName_623"] = "KOBULETI / Checkpoint 1",
+    ["DictKey_GroupName_29"] = "Zelt3",
+    ["DictKey_UnitName_539"] = "SO/SENAKI AAA ZU-23 befsetigt 1",
+    ["DictKey_GroupName_793"] = "SO/BATUMI Yak-40-2",
+    ["DictKey_ActionText_1177"] = "ウルフ１\
+- - バトゥミ タワー - - ウルフパック - -\
+- - 500 feetで南西からインバウンド - -\
+- - バトゥミの南を通過してから、川に沿って東方向へ行きます。- -",
+    ["DictKey_GroupName_401"] = "SO/ KUTAISI LKW 6",
+    ["DictKey_WptName_1566"] = "",
+    ["DictKey_WptName_1315"] = "",
+    ["DictKey_WptName_933"] = "",
+    ["DictKey_UnitName_1238"] = "REBEL GROOP 1",
+    ["DictKey_WptName_1522"] = "",
+    ["DictKey_WptName_1641"] = "",
+    ["DictKey_WptName_1535"] = "",
+    ["DictKey_WptName_1133"] = "",
+    ["DictKey_ActionText_2254"] = "ピーター / CO\
+- - 了解ウルフ１ – もっと近づきます。 - -",
+    ["DictKey_WptName_883"] = "",
+    ["DictKey_WptName_1075"] = "",
+    ["DictKey_ActionText_1833"] = "- - PONTIAC ONE - -\
+- - Cleared for takeoff – WILCO -- ",
+    ["DictKey_WptName_1291"] = "",
+    ["DictKey_ActionText_2148"] = "ウルフ１\
+- - なんてこった！ - -  \
+- - ステーションで、１回か、それ以上の爆発！ - -",
+    ["DictKey_GroupName_592"] = "SO/SENAKI Wachturm 1",
+    ["DictKey_WptName_1880"] = "",
+    ["DictKey_WptName_488"] = "",
+    ["DictKey_GroupName_380"] = "SO/KUTAISI CONTAINER 2",
+    ["DictKey_WptName_708"] = "",
+    ["DictKey_ActionText_1170"] = "バトゥミ タワー \
+- - ウルフパック - - 要請通り進んでください。  - - カール１ アントノフ26はファイナル中です。 - - ",
+    ["DictKey_UnitName_521"] = "",
+    ["DictKey_WptName_1627"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_1058"] = "",
+    ["DictKey_GroupName_247"] = "SO/ KUTAISI UH-1_3",
+    ["DictKey_UnitName_731"] = "SO/KOBULETI / Barracken 1 #003",
+    ["DictKey_WptName_287"] = "",
+    ["DictKey_WptName_893"] = "",
+    ["DictKey_UnitName_2313"] = "AKTOR / SO / 1",
+    ["DictKey_ActionText_1816"] = "ウルフ１\
+- - 11時にトラフィック , ３機のヘリコプター、私達よりもやや低高度を飛んでいます。 - -",
+    ["DictKey_UnitName_402"] = "SO/ KUTAISI LKW 4",
+    ["DictKey_GroupName_44"] = "Ausenposten3",
+    ["DictKey_ActionText_1189"] = "- - ENFIELD TOW - - FRIGATE 1 - -\
+ - - cleared for takeoff - - next time may be a chance  for  a cup of  coffee - -",
+    ["DictKey_UnitName_417"] = "SO/KUTAISI Radopanzer M1126-2",
+    ["DictKey_WptName_1252"] = "",
+    ["DictKey_GroupName_748"] = "SO/KOBULETI / Zelt 1 #004",
+    ["DictKey_WptName_573"] = "",
+    ["DictKey_UnitName_158"] = "",
+    ["DictKey_ActionText_2283"] = "MISSION ACCOOMPLISHED !\
+ \
+CONGRATULATIONS !",
+    ["DictKey_UnitName_163"] = "",
+    ["DictKey_GroupName_1116"] = "US FREGATTE 4",
+    ["DictKey_ActionRadioText_2266"] = "",
+    ["DictKey_UnitName_707"] = "SO/KOBULETI / Wachturm 1",
+    ["DictKey_GroupName_763"] = "SO/KOBULETI / CH47D1",
+    ["DictKey_UnitName_671"] = "SO/KOBULETI / Container-1 #004",
+    ["DictKey_WptName_693"] = "",
+    ["DictKey_UnitName_650"] = "SO/KOBULETI / Container-1",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_ActionText_1024"] = "- - ENFIELD FLIGHT - - VINCE RADAR - -\
+- -you are leaving our playground - - Radar Service terminated - - cleared to leave frequency.  Best regards from the Admiral, hand made Havannas are the best.  - -",
+    ["DictKey_GroupName_796"] = "SO/BATUMI Yak-40-2 #001",
+    ["DictKey_ActionText_868"] = " - - ウルフ１ - - \
+- - 着陸を許可します。 – WILCO - -",
+    ["DictKey_GroupName_709"] = "SO/KOBULETI / Wachturm 7",
+    ["DictKey_ActionText_1782"] = "ウルフ１\
+- - ウルフ２ - -  ウルフ１ - -\
+- - クローズフォーメーションを維持してください。 – 海上で何か合った場合、小さなヒューイであれば見つけるのが困難です。あと、確認が容易です。 - - ",
+    ["DictKey_ActionText_2157"] = "ウルフ１\
+- - 彼らは襲撃されたみたいです。- - \
+- - 上からは見ずらいです。 - -\
+- - 車を処理してください。– 破壊してください。 - -  やつらが止まることは無いでしょう。 - -\
+- - 兵器の使用を許可します。地獄に送ってやってくれ --",
+    ["DictKey_GroupName_526"] = "SO/SENAKI Treibstoff ATMZ-5-1",
+    ["DictKey_ActionText_1672"] = "ハンス / 右ガンナー\
+- - 橋に戻ります。 – ピックアップしてください。 - -",
+    ["DictKey_ActionText_1403"] = "",
+    ["DictKey_ActionText_861"] = "- - COLT ONE - - \
+- - Cleared for take off – will  expedite !! - -\
+",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_UnitName_408"] = "SO/ KUTAISI INFANTERIE 2",
+    ["DictKey_ActionText_2145"] = "- - 川の反対側に別のグループがいます。 - 道路に２台の車もあります。 - -\
+- - まずは変電所を守れ - -",
+    ["DictKey_WptName_1201"] = "",
+    ["DictKey_ActionText_1517"] = "",
+    ["DictKey_ActionText_1169"] = "- -BATUMI TOWER - - ENFIELD FLIGHT - -\
+- - Inbound from SOUTH/WEST at 500 feet - - passing BATUMI at the SOUTH  following the River Eastbound- -  ",
+    ["DictKey_WptName_2317"] = "",
+    ["DictKey_UnitName_548"] = "",
+    ["DictKey_UnitName_1248"] = "REBEL GROOP 2-2",
+    ["DictKey_ActionText_1912"] = "トム / 左ガンナー\
+- - 海が全景で見えるのも悪くないですね。 - - \
+- - しばらくここに滞在して、このまま揺られながら寝たいですね。 - -",
+    ["DictKey_WptName_1709"] = "",
+    ["DictKey_WptName_1044"] = "",
+    ["DictKey_UnitName_183"] = "Delta  Infantrie",
+    ["DictKey_WptName_1415"] = "",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_GroupName_464"] = "",
+    ["DictKey_GroupName_356"] = "SO/ KUTAISI C-130-4",
+    ["DictKey_ActionText_2219"] = "USS カール・ビンソン\
+- - ウルフ１- - 離陸を許可します。 - - \
+- - 100 feet以下で – 離陸後すぐに左旋回して下さい。 - 着艦機があります。 - -",
+    ["DictKey_WptName_418"] = "",
+    ["DictKey_ActionText_1925"] = "",
+    ["DictKey_UnitName_816"] = "WOLF - 1 D / UH-1",
+    ["DictKey_WptName_286"] = "",
+    ["DictKey_WptName_427"] = "",
+    ["DictKey_WptName_750"] = "",
+    ["DictKey_WptName_358"] = "",
+    ["DictKey_WptName_1551"] = "",
+    ["DictKey_GroupName_685"] = "SO/KOBULETI / Container-12",
+    ["DictKey_WptName_500"] = "",
+    ["DictKey_ActionText_1824"] = "ウルフ１\
+- - 川をたどって南のトルコ国境を目指します。ここにチェックする最初の発電所があります。 - -\
+- - トルコの反乱勢力が、時々電線に盗聴器を仕掛けています。隠し場所はグルジア側が多いです。理由は トルコ軍が法的に国境を超えて奴らを追いかける事ができないからです。",
+    ["DictKey_UnitName_1655"] = "Starssensperre 1-2",
+    ["DictKey_WptName_435"] = "",
+    ["DictKey_ActionText_983"] = "ウルフ１\
+- - カール・ビンソン - - ウルフパック - -  \
+- - ヘリコプターUH-1 - 北東15マイル、500feet 着陸のため接近中 – - \
+- - 貨物を降ろします。 - -",
+    ["DictKey_ActionText_1270"] = "ウルフ１\
+- - 渓谷内なので、任務司令官との無線通信が切れています。 - -\
+- - 高度を取って、通信を回復させます。この状況でどうするか指示を仰ぎます。 - - \
+- - あなたは車を追いかけてください。 - - ただし、司令と連絡がつくまでは発砲は禁止します。 - -",
+    ["DictKey_ActionText_1194"] = "",
+    ["DictKey_WptName_437"] = "",
+    ["DictKey_ActionText_2067"] = "ウルフ１\
+- - 私達はさらに谷を飛びます。我々を脅かす物が道路を降りてこないか確認します。 - - \
+- - 検査を行う場合は、私に連絡してください。 - - ",
+    ["DictKey_GroupName_383"] = "SO/KUTAISI CONTAINER 3",
+    ["DictKey_WptName_678"] = "",
+    ["DictKey_WptName_1909"] = "",
+    ["DictKey_UnitName_1661"] = "Starssensperre 2-2",
+    ["DictKey_WptName_966"] = "",
+    ["DictKey_UnitName_644"] = "SO/ KOBULETI / Infanterie M4-!",
+    ["DictKey_WptName_1413"] = "",
+    ["DictKey_GroupName_348"] = "SO/ C-130-1 #001",
+    ["DictKey_WptName_881"] = "",
+    ["DictKey_ActionText_1859"] = "ピーター / CO\
+- - それほど大きなパッケージでは無いですね。 - -",
+    ["DictKey_UnitName_797"] = "SO/BATUMI Yak-40-2",
+    ["DictKey_WptName_1235"] = "",
+    ["DictKey_WptName_914"] = "",
+    ["DictKey_GroupName_781"] = "SO/KOBULETI / SU-25-1",
+    ["DictKey_UnitName_186"] = "Einheit #012",
+    ["DictKey_UnitName_791"] = "",
+    ["DictKey_WptName_1167"] = "",
+    ["DictKey_WptName_1986"] = "",
+    ["DictKey_WptName_807"] = "",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_UnitName_201"] = "UH Gruppe 2",
+    ["DictKey_GroupName_235"] = "KUTAISI APC M1025 HMMWV 1",
+    ["DictKey_UnitName_572"] = "SO/SENAKI Wachturm 1",
+    ["DictKey_WptName_1650"] = "",
+    ["DictKey_WptName_1680"] = "",
+    ["DictKey_WptName_1917"] = "",
+    ["DictKey_UnitName_169"] = "Einheit #012",
+    ["DictKey_WptName_1989"] = "",
+    ["DictKey_WptName_942"] = "",
+    ["DictKey_WptName_263"] = "",
+    ["DictKey_WptName_608"] = "",
+    ["DictKey_WptName_1229"] = "",
+    ["DictKey_GroupName_53"] = "Sendermast",
+    ["DictKey_UnitName_1646"] = "Starssensperre 1-1",
+    ["DictKey_ActionText_1712"] = "ピーター CO\
+- - 情報局司令部によると、今後、数日から数週間は何も良い事が無いそうです。\
+私達はコーカサスを旅するのにいいタイミングを選んだみたいです。",
+    ["DictKey_GroupName_241"] = "SO/ KUTAISI UH-1_1",
+    ["DictKey_UnitName_740"] = "SO/KOBULETI / Zelt 1",
+    ["DictKey_WptName_1993"] = "",
+    ["DictKey_WptName_1320"] = "",
+    ["DictKey_GroupName_1140"] = "BATUMI / AI / An-29B 1",
+    ["DictKey_ActionText_2245"] = "ピーター / CO\
+- - 後ろから近づいてください。 - - \
+- - 奴らを見失わないでください。  – もし、木の中に隠れてしまったら、二度と見つけられません。 - -",
+    ["DictKey_GroupName_724"] = "SO/KOBULETI / Barracken 1 #002",
+    ["DictKey_UnitName_704"] = "SO/KOBULETI / Wachturm 1",
+    ["DictKey_WptName_1697"] = "",
+    ["DictKey_WptName_570"] = "",
+    ["DictKey_GroupName_766"] = "SO/KOBULETI / CH47D1 #001",
+    ["DictKey_WptName_654"] = "",
+    ["DictKey_UnitName_629"] = "KOBULETI / An-26B-1",
+    ["DictKey_WptName_1507"] = "",
+    ["DictKey_UnitName_340"] = "SO/ KUTAISI UH-1_3",
+    ["DictKey_ActionText_2247"] = "ピーター / CO\
+- - 迎えに行きます。 - - ",
+    ["DictKey_ActionText_1900"] = "ウルフ１\
+- - バトゥミタワー – ウルフパックは出発の準備が整いました。 - -",
+    ["DictKey_UnitName_170"] = "Einheit #013",
+    ["DictKey_WptName_789"] = "",
+    ["DictKey_GroupName_2324"] = "AKTOR / SO / 6",
+    ["DictKey_ActionText_858"] = "- - PONTIAC 2 - -\
+- - Number two behind C-130 - - ",
+    ["DictKey_GroupName_907"] = "",
+    ["DictKey_WptName_470"] = "",
+    ["DictKey_ActionText_1519"] = "ピーター CP\
+- - ウルフ１ – WOLF 2 、あなたとは264 MHzで交信します。 - -",
+    ["DictKey_ActionText_1802"] = "ウルフ１\
+- - ウルフ１ - 離陸を許可。 - -\
+- - WILCOW - - ",
+    ["DictKey_WptName_506"] = "",
+    ["DictKey_WptName_1052"] = "",
+    ["DictKey_WptName_1678"] = "",
+    ["DictKey_WptName_912"] = "",
+    ["DictKey_GroupName_1053"] = "US  SCHNELLBOOT 1",
+    ["DictKey_WptName_765"] = "",
+    ["DictKey_UnitName_1046"] = "FRACHTER 3",
+    ["DictKey_GroupName_559"] = "SO/SENAKI Checkpoint 1",
+    ["DictKey_descriptionText_1"] = "2025年4月3日\
+\
+先週月曜日、わずか３日前にバトゥミに到着しました。\
+ジョージアでは初めての任務です。２日間の現地順応の後、今日から飛び始めます。ウルフ１（我が飛行隊のリーダー）はバトゥミエアリアに私達を招集し、数日から数週間で達成すべきパトロール任務について説明しました。\
+\
+再びヒューイで飛べることが嬉しいです。軍を退職して数年絶ちますが、彼女がまた、帰ってきました。最新ハイテクヘリコプターを運用するのは、世界中の多くの国にとって困難で費用もかかりますが、ヒューイは安全性と信頼性の実績があり、現場でのメンテナンスや修理も簡単だったからです。\
+今日は短時間のスケジュールしかありません。１時間のフライトです。４人のクルー、指揮官のピーターは左シートに、ガンナーのハンスとトムは後ろに、そして私は、前席右のパイロットシートに座りました。私達は長い間一緒に飛んでいる経験豊富なチームでした。今は黒海に面したバトゥミ空港にいますが、数週間後には内陸に移動する予定です。",
+    ["DictKey_UnitName_743"] = "SO/KOBULETI / Zelt 1",
+    ["DictKey_ActionText_1511"] = "- - PONTIAC ONE - - BATUMI TOWER - -\
+- - Taxi to Runway 31 via Taxiway DELTA - - \
+- - Hold short until further  advice - -",
+    ["DictKey_WptName_2034"] = "",
+    ["DictKey_ActionText_1010"] = "- - ウルフ１- -\
+- - なんと驚き！ - 急な予定変更は大歓迎です。 - -",
+    ["DictKey_ActionText_1724"] = "ピーター / CO\
+- - ウルフ１ - エンジン出力に問題が出ました。- - 橋に着陸することはできません。",
+    ["DictKey_UnitName_414"] = "SO/KUTAISI Radopanzer M1126-1",
+    ["DictKey_UnitName_1040"] = "FRACHTER 1",
+    ["DictKey_WptName_1007"] = "",
+    ["DictKey_ActionText_1257"] = "",
+    ["DictKey_UnitName_64"] = "Neues Statisches Objekt #003",
+    ["DictKey_UnitName_566"] = "SO/SENAKI ZELT 1",
+    ["DictKey_UnitName_1278"] = "",
+    ["DictKey_WptName_1682"] = "",
+    ["DictKey_UnitName_73"] = "",
+    ["DictKey_UnitName_6"] = "",
+    ["DictKey_GroupName_1654"] = "Starssensperre 1-4",
+    ["DictKey_GroupName_1416"] = "BATUMI Yak-40-2",
+    ["DictKey_WptName_1214"] = "",
+    ["DictKey_GroupName_119"] = "Strasenposten2",
+    ["DictKey_WptName_2329"] = "",
+    ["DictKey_WptName_1679"] = "",
+    ["DictKey_WptName_969"] = "",
+    ["DictKey_WptName_1143"] = "",
+    ["DictKey_WptName_1623"] = "",
+    ["DictKey_ActionRadioText_2190"] = "橋１に着陸",
+    ["DictKey_WptName_1232"] = "",
+    ["DictKey_WptName_1427"] = "",
+    ["DictKey_ActionRadioText_2178"] = "クローズフォーメーションでウルフ１についていく",
+    ["DictKey_WptName_1262"] = "",
+    ["DictKey_ActionText_1948"] = "ピーター /CO\
+- - スロットルを開いてください。 – 出発の準備をしてください。 - -",
+    ["DictKey_WptName_1410"] = "",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_ActionText_1154"] = "CURL 1\
+- - BATUMI TOWER - - CURL 1 - -\
+- - ANTONOV 26B – 10 MILES NORTH/WEST for landing – -\
+- - Information WISKY received - - ",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_WptName_567"] = "",
+    ["DictKey_WptName_1987"] = "",
+    ["DictKey_WptName_1585"] = "",
+    ["DictKey_UnitName_493"] = "SO/KUTAISI CONTAINER 4",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_WptName_1332"] = "",
+    ["DictKey_GroupName_1035"] = "FRACHTER 1",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_WptName_1205"] = "",
+    ["DictKey_ActionText_1855"] = "ピーター / CO  (16d)  \
+以上です。 – スロットルをグラウンドアイドルに戻してください。 - -",
+    ["DictKey_ActionText_1913"] = "ハンス / 右ガンナー\
+- - ここに冷えたマルガリータと熱い女性がいないのが残念です。 - -",
+    ["DictKey_ActionText_2061"] = "ウルフ１\
+- - ウルフ２ – 私達が通過して、目視で確認出来るまで待機してください。 - - \
+- -バトゥミに戻りましょう。地上部隊のための仕事が山積みです。 - -\
+ - -  私が先に行きます。クローズフォーメーションで私の左後ろについてください。 - -",
+    ["DictKey_GroupName_658"] = "SO/KOBULETI / Container-3",
+    ["DictKey_UnitName_142"] = "Einheit #005",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_UnitName_24"] = "",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_ActionRadioText_2175"] = "ARC-51を 264 MHz モード TR+Guardにセットする",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_WptName_1124"] = "",
+    ["DictKey_WptName_830"] = "",
+    ["DictKey_GroupName_2327"] = "AKTOR / SO / 7",
+    ["DictKey_WptName_904"] = "",
+    ["DictKey_WptName_307"] = "",
+    ["DictKey_WptName_1482"] = "",
+    ["DictKey_ActionText_1396"] = "- - 川の反対側に別のグループがいます。 - 道路に２台の車もあります。 - -",
+    ["DictKey_WptName_2287"] = "",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_ActionRadioText_2191"] = "橋１から離陸",
+    ["DictKey_ActionText_2080"] = "BATUMI TOWER\
+- - Pontiac 1 - you are cleared for takeoff - -\
+- - Wind is 250/ 5 Knots - -\
+- -Climb straight at 1500 feet  turn  right Heading 020 - -\
+- - Have a good flight - - ",
+    ["DictKey_UnitName_779"] = "SO/KOBULETI / AH-64D-1",
+    ["DictKey_WptName_1899"] = "",
+    ["DictKey_UnitName_1494"] = "",
+    ["DictKey_ActionText_862"] = "- - BATUMI TOWER - - \
+- - Pontiac 1 - you are cleared for takeoff - -\
+- - Wind is 250/ 5 Knots - -\
+- -Climb straight at 1500 feet  turn  right Heading 020 - -\
+- - Have a good flight - - ",
+    ["DictKey_WptName_840"] = "",
+    ["DictKey_UnitName_1488"] = "BATUMI / SO / UH-1 A",
+    ["DictKey_ActionRadioText_2171"] = "",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_UnitName_439"] = "KUTAISI APC Patrol 1-2",
+    ["DictKey_UnitName_281"] = "KUTAISI Tanker 1 #001",
+    ["DictKey_WptName_1598"] = "",
+    ["DictKey_UnitName_51"] = "Treibstofflager #001",
+    ["DictKey_WptName_1166"] = "",
+    ["DictKey_GroupName_1089"] = "SEA / AI / CH-53 E",
+    ["DictKey_UnitName_387"] = "",
+    ["DictKey_ActionText_1515"] = "ピーター　CP\
+- - 無線をバトゥミ タワーの周波数131.00に合わせてください、フランク - それで空港と周辺の状況が聞き取れます。- -",
+    ["DictKey_ActionText_1608"] = "ピーター CO\
+- - 私が周波数を変えます。 – フォーメーションの維持に集中してください。 - -",
+    ["DictKey_UnitName_453"] = "",
+    ["DictKey_ActionText_1947"] = "ビンス レーダー\
+- - そこで待機して、次の指示を待ってください。  - -",
+    ["DictKey_GroupName_471"] = "SO/KUTAISI Mi-24V-2",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_WptName_1088"] = "",
+    ["DictKey_WptName_1061"] = "",
+    ["DictKey_UnitName_653"] = "SO/KOBULETI / Container-1",
+    ["DictKey_WptName_803"] = "",
+    ["DictKey_UnitName_157"] = "Einheit #009",
+    ["DictKey_WptName_1582"] = "",
+    ["DictKey_WptName_1157"] = "",
+    ["DictKey_GroupName_56"] = "",
+    ["DictKey_WptName_1122"] = "",
+    ["DictKey_WptName_1677"] = "",
+    ["DictKey_ActionText_853"] = "",
+    ["DictKey_WptName_1101"] = "",
+    ["DictKey_WptName_1062"] = "",
+    ["DictKey_UnitName_1363"] = "REBEL GROOP 1-5",
+    ["DictKey_ActionText_1616"] = "フリゲート１\
+- - WOLF 2 - ウルフ１ が数秒で通過します。 - -\
+- - 離陸を許可します。 - - 次回は一緒にコーヒーを飲みましょう。 - -",
+    ["DictKey_UnitName_596"] = "SO/SENAKI Mi-8MTV2-1",
+    ["DictKey_ActionText_1838"] = "ピーター / CO\
+- - ホバーチェックの許可が出ました。 - ウルフ２ - -",
+    ["DictKey_ActionText_1187"] = "- - ENFIELD TWO - - VINCE RADAR - -\
+Enfield one  is passing to your right - -\
+- - you are Number tow behind - - cleared for takeoff when  visual is confirmed  - -  ",
+    ["DictKey_ActionText_2256"] = "",
+    ["DictKey_WptName_1385"] = "",
+    ["DictKey_WptName_1944"] = "",
+    ["DictKey_ActionText_2023"] = "ハンス/ 右ガンナー\
+- - 全くの予想外に起こったようです。早朝のようですね。殆どの者がベットで死んでいます。まだ寝ていたのでしょう。 - -\
+- - 非常に痛ましい光景です。 - -",
+    ["DictKey_GroupName_1487"] = "BATUMI / SO / UH-1 C",
+    ["DictKey_WptName_262"] = "",
+    ["DictKey_UnitName_560"] = "SO/SENAKI ZELT 1",
+    ["DictKey_WptName_273"] = "",
+    ["DictKey_WptName_2335"] = "",
+    ["DictKey_GroupName_947"] = "US KREUZER 2",
+    ["DictKey_WptName_438"] = "",
+    ["DictKey_WptName_1981"] = "",
+    ["DictKey_WptName_991"] = "",
+    ["DictKey_WptName_1297"] = "",
+    ["DictKey_UnitName_938"] = "US FREGATTE 2",
+    ["DictKey_WptName_895"] = "",
+    ["DictKey_WptName_1087"] = "",
+    ["DictKey_GroupName_815"] = "WOLF - 1 D / UH-1",
+    ["DictKey_UnitName_898"] = "BATUMI INFANTERIE 1",
+    ["DictKey_UnitName_87"] = "Infantrie Gruppe 1-4",
+    ["DictKey_WptName_1578"] = "",
+    ["DictKey_ActionText_2076"] = "BATUMI TOWER\
+- - PONTIAC TOW - -  BATUMI TOWER - -\
+- - Following Pontiac One – you are number two for takeoff - -",
+    ["DictKey_WptName_1939"] = "",
+    ["DictKey_ActionText_2013"] = "ウルフ１\
+- - 彼らは襲撃されたみたいです。- - \
+- - 上からは見ずらいです。 - -\
+- - 車を処理してください。– 破壊してください。 - -  やつらが止まることは無いでしょう。 - -\
+- - 兵器の使用を許可します。地獄に送ってやってくれ --",
+    ["DictKey_GroupName_254"] = "SO/ KUTAISI LKW 5",
+    ["DictKey_ActionText_1530"] = "ピーター CP \
+- - ARC-51のスイッチを入れて空対空通信モードをT/R+ Guardにしてください。 - それから周波数を264 MHz（プリセット２）にセットしてください。 - - 無線セレクターを２にセットしたら、隊のリーダー機ウルフ１と交信できます。 - -",
+    ["DictKey_WptName_43"] = "",
+    ["DictKey_GroupName_577"] = "SO/SENAKI Wachturm 5",
+    ["DictKey_WptName_379"] = "",
+    ["DictKey_UnitName_674"] = "SO/KOBULETI / Container-1 #004",
+    ["DictKey_WptName_525"] = "",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_WptName_1131"] = "",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_782"] = "",
+    ["DictKey_WptName_817"] = "",
+    ["DictKey_ActionRadioText_2249"] = "",
+    ["DictKey_GroupName_736"] = "SO/KOBULETI / Zelt 1",
+    ["DictKey_ActionText_2127"] = "ウルフ１\
+- - ウルフ１ - - スクォーク（SQUAWK） 3179er  - WILCO - - ",
+    ["DictKey_WptName_1002"] = "",
+    ["DictKey_WptName_278"] = "",
+    ["DictKey_ActionText_1975"] = "",
+    ["DictKey_ActionText_1978"] = "- - 命令に従いませんでした。 - - ",
+    ["DictKey_UnitName_61"] = "Player",
+    ["DictKey_ActionText_1339"] = "",
+    ["DictKey_ActionText_2120"] = "ウルフ１\
+- - VHF 周波数を 119.50に変更してください。 -  カール・ビンソンのタワーの周波数です。 - - ",
+    ["DictKey_GroupName_280"] = "KUTAISI Tanker 1",
+    ["DictKey_UnitName_12"] = "",
+    ["DictKey_GroupName_1295"] = "JACKPOINT INFANTERIE 1",
+    ["DictKey_WptName_403"] = "",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_WptName_430"] = "",
+    ["DictKey_WptName_1409"] = "",
+    ["DictKey_WptName_2010"] = "",
+    ["DictKey_UnitName_405"] = "SO/ KUTAISI LKW 6",
+    ["DictKey_WptName_1387"] = "",
+    ["DictKey_WptName_994"] = "",
+    ["DictKey_WptName_1106"] = "",
+    ["DictKey_WptName_756"] = "",
+    ["DictKey_UnitName_478"] = "",
+    ["DictKey_ActionText_2027"] = "ウルフ１\
+- -バトゥミ タワー -  ウルフパック - -  \
+- - 川の向こう、MAHOの真横  -  500 feet - - エプロン１に着陸します。  -  インフォメーション MAIK を受信しました。 -",
+    ["DictKey_UnitName_113"] = "LA_Roland1",
+    ["DictKey_WptName_741"] = "",
+    ["DictKey_GroupName_1642"] = "Starssensperre 2-1",
+    ["DictKey_ActionText_1873"] = "ピーター / CO\
+- - 全ライトを消灯します。 - -\
+- - 他のトラフィックがありますが、反乱勢力にスポットされる危険のほうが高いです。 - -",
+    ["DictKey_WptName_2285"] = "",
+    ["DictKey_GroupName_359"] = "SO/ KUJTAISI A-10-1",
+    ["DictKey_WptName_711"] = "",
+    ["DictKey_UnitName_137"] = "Einheit #002",
+    ["DictKey_WptName_1303"] = "",
+    ["DictKey_WptName_1686"] = "",
+    ["DictKey_ActionRadioText_2052"] = "",
+    ["DictKey_WptName_850"] = "",
+    ["DictKey_UnitName_245"] = "SO/ KUTAISI UH-1_1",
+    ["DictKey_WptName_1311"] = "",
+    ["DictKey_ActionText_2153"] = "ウルフ１\
+- - 検問所が見えます。煙が上がっています。 - -",
+    ["DictKey_WptName_1710"] = "",
+    ["DictKey_WptName_2323"] = "",
+    ["DictKey_GroupName_81"] = "Infantrie1",
+    ["DictKey_WptName_2302"] = "",
+    ["DictKey_WptName_759"] = "",
+    ["DictKey_ActionText_1015"] = "- - 陸軍に入ったからには、ただの配達人で終わるとは思わないで下さい。 - -",
+    ["DictKey_WptName_1324"] = "",
+    ["DictKey_WptName_252"] = "",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_UnitName_515"] = "SO/SENAKI MiG-21 Bis-1",
+    ["DictKey_UnitName_988"] = "NAVAL F-18 1-3",
+    ["DictKey_WptName_467"] = "",
+    ["DictKey_GroupName_754"] = "SO/KOBULETI / Zelt 1 #006",
+    ["DictKey_GroupName_1065"] = "US  SCHNELLBOOT 2",
+    ["DictKey_GroupName_978"] = "TEST HELI",
+    ["DictKey_ActionText_1383"] = "- - O.K. 今の所、問題なさそうです。 - -  川を南にたどります。 -  最初の変電所で着陸します。 - -\
+- - あなたは上空からカバーしてください。 - -",
+    ["DictKey_GroupName_322"] = "KUTAISI APC M1025 HMMWV 2",
+    ["DictKey_GroupName_72"] = "",
+    ["DictKey_WptName_735"] = "",
+    ["DictKey_UnitName_143"] = "Einheit #006",
+    ["DictKey_GroupName_885"] = "BATUMI / AI / LKW 1",
+    ["DictKey_WptName_780"] = "",
+    ["DictKey_UnitName_185"] = "Einheit #011",
+    ["DictKey_UnitName_30"] = "Neues Statisches Objekt #006",
+    ["DictKey_WptName_394"] = "",
+    ["DictKey_GroupName_486"] = "SO/KUTAISI CONTAINER 7",
+    ["DictKey_UnitName_2367"] = "AKTOR / SO / 1",
+    ["DictKey_ActionText_1425"] = "ウルフ１ \
+- - 初日から温かいかんげいでしたね。事態は日に日に悪化しています。 - - \
+- - しかし、素晴らしい仕事でした！ - - \
+- - 私は書類整理をして司令官の所に報告に行きます。明日会いましょう。 - -",
+    ["DictKey_WptName_965"] = "",
+    ["DictKey_WptName_1992"] = "",
+    ["DictKey_ActionText_1198"] = "- - 指示を守りませんでした。 - - \
+- - 空中衝突を起こしました。 - -",
+    ["DictKey_WptName_972"] = "",
+    ["DictKey_GroupName_305"] = "KUTAISI APC M1025 HMMWV 1",
+    ["DictKey_ActionText_1711"] = "ピーター CO\
+- - 地上近くまで降下してください。 - – \
+- - 橋の両側、下から見ることが大切です。 - -  ",
+    ["DictKey_WptName_913"] = "",
+    ["DictKey_WptName_1565"] = "",
+    ["DictKey_WptName_600"] = "",
+    ["DictKey_ActionText_1526"] = "ウルフ１\
+- - おはようウルフ２ – よろしくおねがいします。 - -",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_WptName_277"] = "",
+    ["DictKey_ActionText_1865"] = "",
+    ["DictKey_WptName_447"] = "",
+    ["DictKey_WptName_1345"] = "",
+    ["DictKey_UnitName_1296"] = "JACKPOINT INFANTERIE 1-1",
+    ["DictKey_GroupName_8"] = "Auskuck1",
+    ["DictKey_WptName_1129"] = "",
+    ["DictKey_ActionText_1778"] = "バトゥミタワー\
+- - ウルフパック -  その位置で待機してください。 - - \
+- - シュルツ将軍から追加の任務です。 - -\
+- - トラックが重要な書類の入った箱を持っていきます。  航空母艦カール・ビンソンに運んでください。南西に25マイル、方位255です。 \
+- -  至急です。 - 観光している暇はありませんよ。 - -",
+    ["DictKey_WptName_1250"] = "",
+    ["DictKey_ActionText_1358"] = "- - ENFIELD TWO - - ENFIELD ONE - -\
+- - Traffic  11 a clock , 3 Helicopters at or slightly below our Altitude - -",
+    ["DictKey_ActionText_1011"] = "- - ウルフパック  -- バトゥミ タワー - -\
+- - 離陸を許可します。 - 準備ができたら出発してください。 -- \
+- - ウインド 250/5 ノット  \
+良いフライトを - -\
+",
+    ["DictKey_ActionText_1528"] = "ピーター CP\
+- - ウルフ２ - - 出発準備完了 - -",
+    ["DictKey_WptName_1579"] = "",
+    ["DictKey_UnitName_167"] = "Einheit #010",
+    ["DictKey_GroupName_562"] = "SO/SENAKI APC Cobra-3",
+    ["DictKey_WptName_1689"] = "",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_GroupName_480"] = "SO/KUTAISI CONTAINER 5",
+    ["DictKey_WptName_1335"] = "",
+    ["DictKey_GroupName_934"] = "US FREGATTE 1",
+    ["DictKey_WptName_540"] = "",
+    ["DictKey_WptName_370"] = "",
+    ["DictKey_WptName_606"] = "",
+    ["DictKey_ActionText_1897"] = "- - PONTIAC ONE - -\
+- - Cleared for takeoff – WILCO -- ",
+    ["DictKey_GroupName_565"] = "SO/SENAKI Wachturm 1",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_GroupName_811"] = "WOLF - 2 D / UH-1",
+    ["DictKey_ActionText_2002"] = "",
+    ["DictKey_UnitName_221"] = "SO/ C-130-1",
+    ["DictKey_UnitName_2319"] = "AKTOR / SO / 1",
+    ["DictKey_GroupName_371"] = "SO/KUTAISI APC M1025 HMMWV 2",
+    ["DictKey_GroupName_1286"] = "S/O JACKPOINT SIERA/ECKO SP 1",
+    ["DictKey_UnitName_490"] = "SO/KUTAISI CONTAINER 4",
+    ["DictKey_ActionText_1376"] = "",
+    ["DictKey_UnitName_366"] = "SO/ A-10-1",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_ActionText_2046"] = "ウルフ１ \
+- - 初日から温かいかんげいでしたね。 - - \
+- - 事態は日に日に悪化しています。 - - \
+- - \
+- - しかし、素晴らしい仕事でした！ - - \
+- - 私は書類整理をして司令官の所に報告に行きます。明日会いましょう。 - -",
+    ["DictKey_UnitName_1481"] = "TEST UH_1",
+    ["DictKey_WptName_1000"] = "",
+    ["DictKey_UnitName_605"] = "SUNAKI / AI /  C-130 -1",
+    ["DictKey_WptName_1104"] = "",
+    ["DictKey_GroupName_838"] = "BATUMI / SO / UH-1 A",
+    ["DictKey_UnitName_554"] = "SO/SENAKI ZELT 1",
+    ["DictKey_WptName_1555"] = "",
+    ["DictKey_WptName_479"] = "",
+    ["DictKey_sortie_4"] = "WP /コーカサスにようこうそ",
+    ["DictKey_ActionText_1018"] = "USS カール・ビンソン\
+- - ウルフ２ - - カール・ビンソン - -\
+- - あなたの隣にいるフリゲート艦に着艦してください。 - シグナルロケットを打ち上げました。 - - \
+- - あなたの判断で着艦することを許可します。 - - - - 待機して、次の指示を待ってください。 - -",
+    ["DictKey_WptName_296"] = "",
+    ["DictKey_WptName_1574"] = "",
+    ["DictKey_WptName_1692"] = "",
+    ["DictKey_WptName_1407"] = "",
+    ["DictKey_UnitName_677"] = "SO/KOBULETI / Container-1 #007",
+    ["DictKey_ActionText_1815"] = "ハンス　右ガンナー  \
+- - 重要な配達？  これは緊急任務でしたね。 - - \
+- - 葉巻が切れたら、提督は船を沈めるところでした。 - -",
+    ["DictKey_WptName_1294"] = "",
+    ["DictKey_WptName_1916"] = "",
+    ["DictKey_WptName_925"] = "",
+    ["DictKey_UnitName_381"] = "SO/KUTAISI CONTAINER 1",
+    ["DictKey_UnitName_475"] = "SO/KUTAISI Mi-24V-2",
+    ["DictKey_GroupName_316"] = "SO/ KUTAISI INFANTERIE 1",
+    ["DictKey_ActionText_1847"] = "",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_WptName_818"] = "",
+    ["DictKey_GroupName_643"] = "SO/ KOBULETI / Infanterie M4-3",
+    ["DictKey_WptName_1662"] = "",
+    ["DictKey_WptName_1483"] = "",
+    ["DictKey_GroupName_1004"] = "SEAHAWK 3",
+    ["DictKey_ActionRadioText_2194"] = "",
+    ["DictKey_UnitName_110"] = "Strasenposten1",
+    ["DictKey_WptName_2371"] = "",
+    ["DictKey_ActionText_2015"] = "ウルフ１(80)\
+- - 発砲禁止 – 発砲禁止  車を追いかけるだけにして下さい。 - - ",
+    ["DictKey_GroupName_1592"] = "BATUMI / Fässer / Zuladung - 1",
+    ["DictKey_GroupName_232"] = "SO/ KUTAISI LKW 4",
+    ["DictKey_WptName_603"] = "",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_ActionText_212"] = "ミッション完了！！",
+    ["DictKey_UnitName_551"] = "SO/SENAKI ZELT 1",
+    ["DictKey_WptName_1906"] = "",
+    ["DictKey_UnitName_1491"] = "BATUMI / SO / UH-1 C",
+    ["DictKey_GroupName_583"] = "SO/SENAKI Wachturm 7",
+    ["DictKey_UnitName_1147"] = "FRACHTER 4",
+    ["DictKey_ActionText_1894"] = "ピーター / CO\
+- - これは、極秘事項の一つだと思うぞ - - ",
+    ["DictKey_UnitName_442"] = "KUTAISI APC Patrol 2-2",
+    ["DictKey_UnitName_710"] = "SO/KOBULETI / Wachturm 1",
+    ["DictKey_WptName_1159"] = "",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_WptName_2307"] = "",
+    ["DictKey_GroupName_634"] = "KOBULETI / C-130-1",
+    ["DictKey_WptName_1372"] = "",
+    ["DictKey_ActionText_1176"] = "- - ENFIELD TWO - - VINCE RADAR - -\
+Enfield one  is passing to your right - -\
+- - you are Number tow behind - - cleared for takeoff when  visual is confirmed  - -  ",
+    ["DictKey_GroupName_2345"] = "AKTOR / SO / 13",
+    ["DictKey_UnitName_2299"] = "REBEL GROOP 3-3",
+    ["DictKey_ActionText_1269"] = "ウルフ１\
+- - なんてこった！ - -  \
+- - ステーションで、１回か、それ以上の爆発！ - -",
+    ["DictKey_ActionText_1828"] = "ウルフ１\
+- - 電線に気をつけてください。 - -\
+- - 両側から近づいて見てください。下から見るのも良いでしょう。 - - \
+- - 何か怪しい物があれば、着陸して調査します。 - -",
+    ["DictKey_UnitName_487"] = "SO/KUTAISI CONTAINER 4",
+    ["DictKey_UnitName_317"] = "",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_GroupName_2330"] = "AKTOR / SO / 8",
+    ["DictKey_WptName_1545"] = "",
+    ["DictKey_ActionText_2165"] = "ウルフ１\
+- - ウルフパック - 320に旋回 - -",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_UnitName_1082"] = "SEA/ AI / S-3B-1",
+    ["DictKey_WptName_2284"] = "",
+    ["DictKey_WptName_1360"] = "",
+    ["DictKey_WptName_1525"] = "",
+    ["DictKey_WptName_1050"] = "",
+    ["DictKey_WptName_275"] = "",
+    ["DictKey_ActionRadioText_2198"] = "ウルフ１についてバトゥミに戻る",
+    ["DictKey_descriptionBlueTask_3"] = "早朝にスケジュールが入っています。午前8:00頃にウルフ１、我が飛行隊のリーダーで本日唯一のウイングマンと共に、バトゥミ（司令部ベルリン）のドイツ軍HQから離陸します。空港のほんの数マイル北、バトゥミの街の境界内での飛行です。彼とは空港で合流しますので、そこで彼を待つ必要があります。\
+バトゥミ東の渓谷をパトロールします。送電線、発電所、橋のチェックが本日の任務です。可能であれば横に着陸せずに確認します。\
+\
+- 送電線に沿って飛行して、鉄塔とケーブルを目視で確認するだけです。\
+- 橋の横の地面付近でホバリングして、両側から橋をチェックしてください。必要な場合にのみ着陸します。\
+- 発電所だけは例外で、詳しく見る必要があります。\
+ウルフ１が各ステーションの横に着陸して、乗員の１人が、周辺を歩いて確認します。\
+\
+インフラを良好な状態に保ち、機能させることが、公共の安全と住民達の信用を得るためには必要なことです。\
+\
+アフリカの砂漠と平原でほぼ１年過ごした後での、コーカサスからの誘いは歓迎すべき変化以上の物をもたらしました。",
+    ["DictKey_UnitName_261"] = "KUTAISI LKW 1 #001",
+    ["DictKey_WptName_1119"] = "",
+    ["DictKey_GroupName_799"] = "US-Flugzeugträger CARL VINSON",
+    ["DictKey_GroupName_182"] = "Delta  Infantrie",
+    ["DictKey_WptName_1298"] = "",
+    ["DictKey_GroupName_676"] = "SO/KOBULETI / Container-9",
+    ["DictKey_WptName_2279"] = "",
+    ["DictKey_GroupName_35"] = "Waffenlager #002",
+    ["DictKey_ActionText_1898"] = "ピーター / CO  (16d)  \
+以上です。 – スロットルをグラウンドアイドルに戻してください。 - -",
+    ["DictKey_ActionText_1514"] = "ピーター　CP\
+- - 無線をバトゥミ タワーの周波数131.00に合わせてください、フランク - それで空港と周辺の状況が聞き取れます。- -",
+    ["DictKey_WptName_1538"] = "",
+    ["DictKey_WptName_1966"] = "",
+    ["DictKey_ActionText_1349"] = "バトゥミ タワー\
+- - ウルフパック - -バトゥミ タワー -- \
+- - おかえりなさい。 - - 次の指示があるまで方位320へ飛行してください。  - -",
+    ["DictKey_UnitName_689"] = "SO/KOBULETI / Container-1 #001",
+    ["DictKey_WptName_361"] = "",
+    ["DictKey_ActionText_1773"] = "ピーター　CP\
+- - 無線をバトゥミ タワーの周波数131.00に合わせてください、フランク - それで空港と周辺の状況が聞き取れます。- -",
+    ["DictKey_ActionText_2155"] = "ウルフ１\
+- - 周波数を戻してください。 - - \
+- - 谷の中へ車を追いかけます。先にはグルジアの検問所があります。 - - \
+- - とにかく、次の検問所で衛兵が奴らを生け捕りにしてくれるはずです。 - - ",
+    ["DictKey_ActionText_1401"] = "ウルフ１\
+- - グッジョブ - - \
+- - 橋の上に着陸してください。 - -  \
+- - ガンナーの一人を降ろして、すぐに離陸してください。 - -\
+- - 彼に橋と川の反対側の車の残骸をチェックポイントと同様にチェックをしてもらってください。- あなたは彼を上空から援護してください。- -",
+    ["DictKey_UnitName_1637"] = "",
+    ["DictKey_UnitName_902"] = "Einheit #004",
+    ["DictKey_ActionText_1184"] = "- - 指示を守りませんでした。 - - \
+- - 空中衝突を起こしました。 - -",
+    ["DictKey_GroupName_1531"] = "BATUMI - TPz Fuchs - 1",
+    ["DictKey_WptName_915"] = "",
+    ["DictKey_WptName_1047"] = "",
+    ["DictKey_UnitName_1090"] = "SEA / AI / CH-53 E-1",
+    ["DictKey_ActionText_1139"] = "- - 陸軍に入ったからには、ただの配達人で終わるとは思わないで下さい。 - -",
+    ["DictKey_GroupName_950"] = "US KREUZER 3",
+    ["DictKey_UnitName_456"] = "SO/KUTAISI An-26B-2",
+    ["DictKey_UnitName_2346"] = "AKTOR / SO / 1",
+    ["DictKey_GroupName_1072"] = "BATUMI / SO / FRACHTER 2",
+    ["DictKey_UnitName_251"] = "KUTAISI LKW 1",
+    ["DictKey_ActionText_1835"] = "",
+    ["DictKey_UnitName_563"] = "SO/SENAKI APC Cobra-1",
+    ["DictKey_UnitName_39"] = "",
+    ["DictKey_UnitName_78"] = "UH Gruppe 1 Player",
+    ["DictKey_ActionText_1228"] = "ウルフ１\
+- - 電線に気をつけてください。 - -\
+- - 両側から近づいて見てください。下から見るのも良いでしょう。 - - \
+- - 何か怪しい物があれば、着陸して調査します。 - -",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_GroupName_1233"] = "REBEL JEEP 1",
+    ["DictKey_GroupName_520"] = "SO/SENAKI LKW GAZ-66-1",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_UnitName_145"] = "Einheit #008",
+    ["DictKey_WptName_928"] = "",
+    ["DictKey_WptName_1644"] = "",
+    ["DictKey_UnitName_378"] = "",
+    ["DictKey_ActionText_2159"] = "ウルフ１\
+- - グッジョブ - - \
+- - 橋の上に着陸してください。 - -  \
+- - ガンナーの一人を降ろして、すぐに離陸してください。 - -\
+- - 彼に橋と川の反対側の車の残骸をチェックポイントと同様にチェックをしてもらってください。- あなたは彼を上空から援護してください。- -",
+    ["DictKey_WptName_786"] = "",
+    ["DictKey_WptName_331"] = "",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_ActionText_2122"] = "ウルフ１\
+- - 下は、猫とネズミが遊んでいるように見えますね。一つ気になるのは、 – どっちがネズミだろう？ - - ",
+    ["DictKey_ActionText_1080"] = "ウルフ１\
+- - 航空機を確認  - -",
+    ["DictKey_WptName_299"] = "",
+    ["DictKey_GroupName_368"] = "SO/KUTAISI APC M1025 HMMWV 1",
+    ["DictKey_UnitName_1732"] = "",
+    ["DictKey_WptName_424"] = "",
+    ["DictKey_UnitName_1203"] = "BATUMI INFANTERIE  POWER 1",
+    ["DictKey_ActionRadioText_2179"] = "フリゲートに着艦",
+    ["DictKey_WptName_549"] = "",
+    ["DictKey_GroupName_151"] = "UH_Gruppe 2",
+    ["DictKey_WptName_2050"] = "",
+    ["DictKey_UnitName_1073"] = "",
+    ["DictKey_WptName_240"] = "",
+    ["DictKey_ActionText_1225"] = "ENFIELD FLIGHT - - VINS RADAR - -\
+- - climb to and maintain 500 feet - - ",
+    ["DictKey_WptName_1346"] = "",
+    ["DictKey_ActionText_2270"] = "フリゲート\
+- - 諸君、ようこそ我が艦へ。 - -\
+- - 待機して、次の指示を待ってください。 - -",
+    ["DictKey_WptName_1492"] = "",
+    ["DictKey_WptName_932"] = "",
+    ["DictKey_ActionText_1780"] = "バトゥミタワー\
+- - ウルフパック  - バトゥミ タワー - -\
+- - 離陸を許可します。 - 準備ができたら出発してください。 -- \
+- - ウインド 250/5 ノット  \
+良いフライトを - -\
+",
+    ["DictKey_GroupName_2047"] = "",
+    ["DictKey_WptName_397"] = "",
+    ["DictKey_ActionText_2250"] = "ANTONOV\
+- - Taxi via ALPHA to RAMP 1 - -  ",
+    ["DictKey_WptName_2338"] = "",
+    ["DictKey_GroupName_805"] = "D UH-1 Enfield-3",
+    ["DictKey_WptName_2290"] = "",
+    ["DictKey_ActionText_1744"] = "ピーター /CO\
+- - スロットルを開いてください。 – 出発の準備をしてください。 – ウルフ１に付いていきます。 - -",
+    ["DictKey_WptName_519"] = "",
+    ["DictKey_WptName_1211"] = "",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_WptName_2293"] = "",
+    ["DictKey_WptName_762"] = "",
+    ["DictKey_WptName_1302"] = "",
+    ["DictKey_UnitName_656"] = "SO/KOBULETI / Container-1",
+    ["DictKey_GroupName_819"] = "BATUMI  AI / SA342L-1",
+    ["DictKey_WptName_2291"] = "",
+    ["DictKey_WptName_738"] = "",
+    ["DictKey_WptName_289"] = "",
+    ["DictKey_GroupName_2366"] = "AKTOR / SO / 120",
+    ["DictKey_WptName_1903"] = "",
+    ["DictKey_WptName_1878"] = "",
+    ["DictKey_UnitName_2325"] = "AKTOR / SO / 1",
+    ["DictKey_GroupName_193"] = "UH_Gruppe 3",
+    ["DictKey_UnitName_954"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_UnitName_343"] = "SO/ KUTAISI Tornado 1",
+    ["DictKey_WptName_1399"] = "",
+    ["DictKey_GroupName_50"] = "Ausenposten74",
+    ["DictKey_WptName_1148"] = "",
+    ["DictKey_GroupName_410"] = "SO/ KUTAISI INFANTERIE 4",
+    ["DictKey_GroupName_631"] = "KOBULETI / Yak-40-2",
+    ["DictKey_WptName_1137"] = "",
+    ["DictKey_WptName_1240"] = "",
+    ["DictKey_WptName_995"] = "",
+    ["DictKey_WptName_1300"] = "",
+    ["DictKey_UnitName_1309"] = "JACKPOINT INFANTERIE 2",
+    ["DictKey_WptName_813"] = "",
+    ["DictKey_UnitName_1674"] = "JACKPOINT INFANTERIE 1",
+    ["DictKey_WptName_1694"] = "",
+    ["DictKey_WptName_1985"] = "",
+    ["DictKey_WptName_1279"] = "",
+    ["DictKey_GroupName_38"] = "Munitionsdepo",
+    ["DictKey_UnitName_2352"] = "AKTOR / SO / 1",
+    ["DictKey_ActionText_1790"] = "ウルフ１\
+- - 高速移動するジェット機、１時方向 - ヘッドオン - -",
+    ["DictKey_GroupName_1283"] = "S/O JACKPOINT SIERA/ECKO PKW 1",
+    ["DictKey_WptName_1942"] = "",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_WptName_821"] = "",
+    ["DictKey_WptName_720"] = "",
+    ["DictKey_WptName_1560"] = "",
+    ["DictKey_WptName_723"] = "",
+    ["DictKey_UnitName_764"] = "",
+    ["DictKey_ActionText_1840"] = "",
+    ["DictKey_WptName_906"] = "",
+    ["DictKey_UnitName_641"] = "SO/ KOBULETI / Infanterie M4-!",
+    ["DictKey_UnitName_15"] = "",
+    ["DictKey_UnitName_701"] = "SO/KOBULETI / Wachturm 1",
+    ["DictKey_UnitName_499"] = "",
+    ["DictKey_ActionText_1397"] = "- - 川の反対側に別のグループがいます。 - 道路に２台の車もあります。 - -",
+    ["DictKey_WptName_1034"] = "",
+    ["DictKey_WptName_1681"] = "",
+    ["DictKey_GroupName_416"] = "SO/KUTAISI Radopanzer M1126-2 #001",
+    ["DictKey_WptName_977"] = "",
+    ["DictKey_WptName_1068"] = "",
+    ["DictKey_WptName_2344"] = "",
+    ["DictKey_GroupName_1589"] = "BATUMI  SO Container - 3",
+    ["DictKey_WptName_1264"] = "",
+    ["DictKey_GroupName_351"] = "SO/ KUTAISI TANKER 2",
+    ["DictKey_GroupName_455"] = "SO/KUTAISI An-26B-1",
+    ["DictKey_WptName_1405"] = "",
+    ["DictKey_WptName_1603"] = "",
+    ["DictKey_WptName_924"] = "",
+    ["DictKey_UnitName_36"] = "Waffenlager #001",
+    ["DictKey_UnitName_323"] = "KUTAISI APC M1025 HMMWV  2",
+    ["DictKey_GroupName_32"] = "Tank1",
+    ["DictKey_UnitName_581"] = "SO/SENAKI Wachturm 1",
+    ["DictKey_GroupName_1882"] = "SEAHAWK STATIC LOAD",
+    ["DictKey_UnitName_524"] = "SO/SENAKI LKW GAZ-66-1",
+    ["DictKey_UnitName_749"] = "SO/KOBULETI / Zelt 1",
+    ["DictKey_ActionText_2115"] = "ウルフ１\
+- - なんと驚き！ - -\
+- - 急な予定変更は大歓迎です。 - -",
+    ["DictKey_ActionText_1108"] = "ウルフ１\
+- - ウルフ２ -  ２分でそこへ行きます。 - 陸地に戻りましょう。 - -",
+    ["DictKey_GroupName_2336"] = "AKTOR / SO / 10",
+    ["DictKey_WptName_279"] = "",
+    ["DictKey_ActionText_2092"] = "バトゥミ タワー\
+- - ウルフパック - -バトゥミ タワー -- \
+- - おかえりなさい。 - - 次の指示があるまで方位320へ飛行してください。  - -",
+    ["DictKey_WptName_1419"] = "",
+    ["DictKey_WptName_1984"] = "",
+    ["DictKey_WptName_1879"] = "",
+    ["DictKey_WptName_615"] = "",
+    ["DictKey_WptName_1486"] = "",
+    ["DictKey_UnitName_737"] = "",
+    ["DictKey_WptName_714"] = "",
+    ["DictKey_WptName_1698"] = "",
+    ["DictKey_UnitName_1364"] = "REBEL GROOP 2-3",
+    ["DictKey_UnitName_758"] = "SO/KOBULETI / Zelt 1",
+    ["DictKey_ActionText_2045"] = "ピーター / CO\
+- - スロットルを閉じて、エンジンをシャットダウンしてください。フランク",
+    ["DictKey_GroupName_419"] = "SO/KUTAISI CH-47D Chinook-1",
+    ["DictKey_WptName_684"] = "",
+    ["DictKey_WptName_1943"] = "",
+    ["DictKey_WptName_660"] = "",
+    ["DictKey_WptName_269"] = "",
+    ["DictKey_WptName_473"] = "",
+    ["DictKey_WptName_1571"] = "",
+    ["DictKey_ActionText_1671"] = "ピーター / CO\
+- - O.k ここから出ましょう。 - -",
+    ["DictKey_ActionText_2094"] = "BATUMI TOWER\
+- - GEORGIA  741 - - BATUMI TOWER - -  \
+- - Taxi via Alpha to Runway 31 - - \
+- - Cleared for takeoff whenever you ready - -  ",
+    ["DictKey_GroupName_637"] = "SO/ KOBULETI / Infanterie M4-1",
+    ["DictKey_ActionText_1952"] = "ピーター / CO\
+- - ウルフ１ -ウルフ２ – フォーメーションに戻ります。 - -",
+    ["DictKey_GroupName_628"] = "KOBULETI / Yak-40-1",
+    ["DictKey_WptName_1274"] = "",
+    ["DictKey_WptName_326"] = "",
+    ["DictKey_WptName_1105"] = "",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_UnitName_248"] = "SO/ KUTAISI UH-1_1",
+    ["DictKey_ActionText_2083"] = "BATUMI TOWER\
+- - PONTIAC 2 -  BATUMI TOWER - - - - Line up - -\
+- - Cleared for take off - - ",
+    ["DictKey_ActionText_1221"] = "ウルフ１\
+- - ウルフ２ - -  ウルフ１ - -\
+- - クローズフォーメーションを維持してください。 – 海上で何か合った場合、小さなヒューイであれば見つけるのが困難です。あと、確認が容易です。 - - ",
+    ["DictKey_ActionText_1785"] = "",
+    ["DictKey_UnitName_2316"] = "AKTOR / SO / 1",
+    ["DictKey_UnitName_533"] = "SO/SENAKI APC Cobra-1",
+    ["DictKey_ActionText_1852"] = "ピーター / CO\
+- - 良いように見えます。 - -\
+- - 全計器、グリーン - - \
+- - 地上に戻してください。 - -",
+    ["DictKey_ActionText_1908"] = "ウルフ１\
+- - 高速移動するジェット機、１時方向 - ヘッドオン - -",
+    ["DictKey_WptName_887"] = "",
+    ["DictKey_UnitName_54"] = "",
+    ["DictKey_GroupName_589"] = "SO/SENAKI Wachturm 1",
+    ["DictKey_ActionText_1172"] = "カール・ビンソン\
+- - ウルフパック - - カール・ビンソン - -\
+- - すでに言いましたが - -  スクォーク（SQUAWK）3179 - - \
+ - - 忠告します – ヘリコプターと高速ジェットが数機が艦船の周りを飛行中です。- -\
+- - 交通の妨げにならないように、500 feet MSL を飛行して下さい。- -",
+    ["DictKey_WptName_450"] = "",
+    ["DictKey_UnitName_755"] = "SO/KOBULETI / Zelt 1",
+    ["DictKey_UnitName_1253"] = "REBEL GROOP 1-3",
+    ["DictKey_WptName_726"] = "",
+    ["DictKey_WptName_1259"] = "",
+    ["DictKey_WptName_597"] = "",
+    ["DictKey_ActionText_1779"] = "ウルフ１-\
+- - なんと驚き！ - - \
+- - 急な予定変更は大歓迎です。 - -",
+    ["DictKey_WptName_1125"] = "",
+    ["DictKey_WptName_1285"] = "",
+    ["DictKey_GroupName_362"] = "SO/ KUJTAISI A-10-2",
+    ["DictKey_GroupName_103"] = "",
+    ["DictKey_ActionText_2267"] = "",
+    ["DictKey_ActionText_1017"] = "- - 下は、猫とネズミが遊んでいるように見えますね。一つ気になるのは、 – どっちがネズミだろう？ - - ",
+    ["DictKey_WptName_956"] = "",
+    ["DictKey_ActionText_1776"] = "",
+    ["DictKey_WptName_585"] = "",
+    ["DictKey_ActionText_1513"] = "",
+    ["DictKey_WptName_849"] = "",
+    ["DictKey_UnitName_160"] = "",
+    ["DictKey_GroupName_1420"] = "SO/BATUMI Yak-40-2",
+    ["DictKey_ActionText_2252"] = "ANTONOV\
+- - Proceeding as requested – Runway 13 CURL ONE - -  \
+   ",
+    ["DictKey_GroupName_1110"] = "FRACHTER 2",
+    ["DictKey_WptName_354"] = "",
+    ["DictKey_WptName_611"] = "",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_GroupName_727"] = "SO/KOBULETI / Barracken 1 #003",
+    ["DictKey_WptName_1664"] = "",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_ActionText_1812"] = "USS カール・ビンソン\
+- - ウルフパック- - ビンス レーダー - -\
+- - 500 feetに上昇して維持してください。 - -",
+    ["DictKey_UnitName_632"] = "KOBULETI / Yak-40-1",
+    ["DictKey_UnitName_536"] = "",
+    ["DictKey_WptName_1093"] = "",
+    ["DictKey_WptName_1163"] = "",
+    ["DictKey_WptName_648"] = "",
+    ["DictKey_WptName_10"] = "",
+    ["DictKey_ActionText_1810"] = "- - ENFIELD TWO - - VINCE RADAR - -\
+Enfield one  is passing to your right - -\
+- - you are Number tow behind - - cleared for takeoff when  visual is confirmed  - -  ",
+    ["DictKey_GroupName_1277"] = "JACKPOINT SIERA/ECKO",
+    ["DictKey_GroupName_213"] = "SO/ C-130-1",
+    ["DictKey_ActionText_2142"] = "ウルフ１\
+- - 同じ手順です。 – あなたは私達をカバーしてください。 - 私はステーションのそばに着陸します。 - -",
+    ["DictKey_UnitName_1640"] = "Starssensperre 1-1",
+    ["DictKey_GroupName_2360"] = "AKTOR / SO / 18",
+    ["DictKey_UnitName_1532"] = "BATUMI - TPz Fuchs - 1",
+    ["DictKey_WptName_1317"] = "",
+    ["DictKey_WptName_1373"] = "",
+    ["DictKey_WptName_249"] = "",
+    ["DictKey_GroupName_1045"] = "FRACHTER 3",
+    ["DictKey_ActionText_2261"] = "",
+    ["DictKey_GroupName_374"] = "SO/KUTAISI APC M1025 HMMWV 3",
+    ["DictKey_ActionText_1831"] = "ウルフ１\
+- - 次のステーションはここから数分の所です。 – 私が誘導します。 - - ",
+    ["DictKey_ActionRadioText_2056"] = "着陸中止",
+    ["DictKey_GroupName_407"] = "SO/ KUTAISI INFANTERIE 2 #001",
+    ["DictKey_WptName_522"] = "",
+    ["DictKey_UnitName_1141"] = "BATUMI / AI / An-29B 1",
+    ["DictKey_ActionText_1721"] = "ピーター / CO\
+- - おいおい、フランク – こいつらが逃げてしまうと問題だぞ - -",
+    ["DictKey_GroupName_598"] = "SO/SENAKI Su-25-2",
+    ["DictKey_WptName_1727"] = "",
+    ["DictKey_UnitName_665"] = "SO/KOBULETI / Container-1 #004",
+    ["DictKey_ActionText_1801"] = "ピーター / CO\
+- - ウルフ２ – タッチダウン - -",
+    ["DictKey_WptName_877"] = "",
+    ["DictKey_UnitName_144"] = "Einheit #007",
+    ["DictKey_UnitName_1247"] = "REBEL GROOP 2-1",
+    ["DictKey_ActionRadioText_2176"] = "ARC-51を 264 MHz モード TR+Guardにセットする",
+    ["DictKey_GroupName_739"] = "SO/KOBULETI / Zelt 1 #001",
+    ["DictKey_WptName_997"] = "",
+    ["DictKey_UnitName_1915"] = "ANTONOV  GRAPHIC PREELOAD",
+    ["DictKey_GroupName_1308"] = "JACKPOINT INFANTERIE 2",
+    ["DictKey_GroupName_718"] = "SO/KOBULETI / Barracken 1",
+    ["DictKey_WptName_1638"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_WptName_852"] = "",
+    ["DictKey_GroupName_595"] = "SO/SENAKI Su-25-1",
+    ["DictKey_WptName_400"] = "",
+    ["DictKey_UnitName_166"] = "Delta Infantrie",
+    ["DictKey_WptName_1521"] = "",
+    ["DictKey_UnitName_776"] = "SO/KOBULETI / AH-64D-1",
+    ["DictKey_WptName_879"] = "",
+    ["DictKey_ActionText_856"] = "- - PONTIAC ONE - - \
+- - Taxi via Delta - - \
+- - Holding short. - - \
+ ",
+    ["DictKey_ActionText_1353"] = "BATUMI TOWER\
+- - GEORGIA  741 - - BATUMI TOWER - -  \
+- - Taxi via Alpha to Runway 31 cleared for takeoff when ever you ready - -  \
+ ",
+    ["DictKey_UnitName_2355"] = "AKTOR / SO / 1",
+    ["DictKey_WptName_1633"] = "",
+    ["DictKey_UnitName_423"] = "SO/KUTAISI CH-47D Chinook-1",
+    ["DictKey_GroupName_1914"] = "ANTONOV  GRAPHIC PREELOAD",
+    ["DictKey_WptName_325"] = "",
+    ["DictKey_UnitName_1876"] = "SEA/ AI / S-3B-1 STATIC LOAD",
+    ["DictKey_WptName_909"] = "",
+    ["DictKey_ActionText_1808"] = "- - ENFIELD TWO - - VINCE RADAR - -\
+Enfield one  is passing to your right - -\
+- - you are Number tow behind - - cleared for takeoff when  visual is confirmed  - -  ",
+    ["DictKey_WptName_1543"] = "",
+    ["DictKey_ActionText_1738"] = "ピーター / CO \
+- - リーダーのウルフ１を待たなくてはなりません。 - - \
+- - あと数分で着くはずです。 - -",
+    ["DictKey_WptName_878"] = "",
+    ["DictKey_WptName_1380"] = "",
+    ["DictKey_WptName_1577"] = "",
+    ["DictKey_ActionText_1426"] = "- - 危険すぎるので、ステーションには着陸しません。まだ爆発が起こるかもしれませんし、近くに狙撃兵が隠れているかもしれません。 - -",
+    ["DictKey_WptName_1212"] = "",
+    ["DictKey_ActionText_1356"] = "ウルフ１ \
+- - フォーメーションを維持してください。もっと近づいて！- -",
+    ["DictKey_WptName_1113"] = "",
+    ["DictKey_WptName_1523"] = "",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_WptName_1609"] = "",
+    ["DictKey_ActionText_1954"] = "ピーター / CO\
+- - 素晴らしい眺めです。– 海全体が太陽の光できらめいている - -",
+    ["DictKey_WptName_1610"] = "",
+    ["DictKey_ActionText_2038"] = "BATUMI TOWER\
+- - ウルフパック – 左旋回してエプロン1に直行してください。 - - \
+- - 着陸を許可。 - -",
+    ["DictKey_WptName_845"] = "",
+    ["DictKey_WptName_2308"] = "",
+    ["DictKey_GroupName_2333"] = "AKTOR / SO / 9",
+    ["DictKey_UnitName_496"] = "SO/KUTAISI CONTAINER 4",
+    ["DictKey_WptName_321"] = "",
+    ["DictKey_ActionRadioText_2184"] = "両サイドから橋をチェックする",
+    ["DictKey_WptName_1542"] = "",
+    ["DictKey_WptName_2294"] = "",
+    ["DictKey_WptName_1653"] = "",
+    ["DictKey_WptName_513"] = "",
+    ["DictKey_WptName_1605"] = "",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_WptName_1675"] = "",
+    ["DictKey_WptName_1359"] = "",
+    ["DictKey_ActionText_1823"] = "BATUMI TOWER\
+- - CURL ONE –  BATUMI TOWER - - - - Taxi via Taxiway Alpha to APRON 1 - - ",
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_ActionText_1748"] = "ピーター /CO\
+- - 陸軍に入ったからには、ただの配達人で終わるとは思わないで下さい。 - -",
+    ["DictKey_WptName_1276"] = "",
+    ["DictKey_ActionText_2060"] = "ピーター / CO\
+- - ウルフ１ – 全員死んでいます。 –  どうしますか？ - - ",
+    ["DictKey_WptName_406"] = "",
+    ["DictKey_GroupName_550"] = "SO/SENAKI ZELT 2",
+    ["DictKey_WptName_298"] = "",
+    ["DictKey_WptName_1728"] = "",
+    ["DictKey_WptName_783"] = "",
+    ["DictKey_GroupName_2357"] = "AKTOR / SO / 17",
+    ["DictKey_GroupName_664"] = "SO/KOBULETI / Container-4",
+    ["DictKey_WptName_2320"] = "",
+    ["DictKey_WptName_1096"] = "",
+    ["DictKey_UnitName_806"] = "D UH-1 Enfield-1 ",
+    ["DictKey_WptName_1733"] = "",
+    ["DictKey_WptName_1904"] = "",
+    ["DictKey_WptName_335"] = "",
+    ["DictKey_WptName_1597"] = "",
+    ["DictKey_GroupName_541"] = "SO/SENAKI AAA ZU-23 befsetigt 3",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_UnitName_614"] = "SUNAKI / AI /  C-130 -2",
+    ["DictKey_ActionText_1272"] = "- - 発砲禁止 – 発砲禁止  車を追いかけるだけにして下さい。 - - ",
+    ["DictKey_WptName_1236"] = "",
+    ["DictKey_GroupName_760"] = "SO/KOBULETI / Zelt 1 #008",
+    ["DictKey_UnitName_785"] = "SO/KOBULETI / SU-25-1",
+    ["DictKey_WptName_926"] = "",
+    ["DictKey_GroupName_772"] = "SO/KOBULETI / CH47D1 #001",
+    ["DictKey_ActionText_1109"] = "",
+    ["DictKey_WptName_1261"] = "",
+    ["DictKey_UnitName_104"] = "",
+    ["DictKey_UnitName_459"] = "SO/ KUTAISI LKW 6",
+    ["DictKey_WptName_266"] = "",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_ActionText_1854"] = "ピーター / CO  (16d)  \
+以上です。 – スロットルをグラウンドアイドルに戻してください。 - -",
+    ["DictKey_ActionText_1766"] = "ピーター / CO\
+- - O.k ここから出ましょう。 - -",
+    ["DictKey_WptName_1313"] = "",
+    ["DictKey_ActionText_2039"] = "ウルフ１ \
+- - ウルフパック、左に旋回 - -\
+- - 着陸を許可。  - - ",
+    ["DictKey_GroupName_661"] = "SO/KOBULETI / Container-7",
+    ["DictKey_ActionText_2006"] = "",
+    ["DictKey_UnitName_569"] = "SO/SENAKI Wachturm 1",
+    ["DictKey_WptName_507"] = "",
+    ["DictKey_WptName_1539"] = "",
+    ["DictKey_ActionText_1752"] = "ピーター / CO\
+- - ありがとう – お言葉に甘えます。 – 良い一日を - -",
+    ["DictKey_GroupName_2342"] = "AKTOR / SO / 12",
+    ["DictKey_ActionText_1857"] = "",
+    ["DictKey_WptName_267"] = "",
+    ["DictKey_GroupName_715"] = "SO/KOBULETI / Command Post",
+    ["DictKey_GroupName_574"] = "SO/SENAKI Wachturm 4",
+    ["DictKey_UnitName_230"] = "SO/ KUTAISI LKW 1",
+    ["DictKey_ActionText_1845"] = "",
+    ["DictKey_WptName_1690"] = "",
+    ["DictKey_WptName_1273"] = "",
+    ["DictKey_ActionText_2019"] = "トム / 左ガンナー\
+- - なんか、ものすごく嫌な予感がします。 - -",
+    ["DictKey_WptName_949"] = "",
+    ["DictKey_ActionText_1848"] = "ピーター / CO\
+- - ホバリングで3-６ feet 浮かしてください、フランク - -",
+    ["DictKey_GroupName_1619"] = "Neue Hubschraubergruppe",
+    ["DictKey_GroupName_745"] = "SO/KOBULETI / Zelt 1 #003",
+    ["DictKey_WptName_1559"] = "",
+    ["DictKey_WptName_1489"] = "",
+    ["DictKey_UnitName_734"] = "SO/KOBULETI / Barracken 1 #003",
+    ["DictKey_UnitName_788"] = "SO/KOBULETI / SU-25-1 #001",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_ActionText_1197"] = "- - ENFIELD TWO - - VINC RADAR --\
+- -  climb immediate to assigned altitude - -  ",
+    ["DictKey_ActionText_1979"] = "",
+    ["DictKey_WptName_1997"] = "",
+    ["DictKey_WptName_1708"] = "",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_WptName_2288"] = "",
+    ["DictKey_WptName_324"] = "",
+    ["DictKey_GroupName_116"] = "LA_Roland2",
+    ["DictKey_UnitName_117"] = "LA_Roland2",
+    ["DictKey_ActionText_2017"] = "ピーター / CO\
+- -  やつら、それほど急いでいない。 - - - - やつら、私達が後ろにいることを知っているはずだが  - -",
+    ["DictKey_WptName_927"] = "",
+    ["DictKey_WptName_1136"] = "",
+    ["DictKey_WptName_1006"] = "",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_WptName_1621"] = "",
+    ["DictKey_WptName_1367"] = "",
+    ["DictKey_GroupName_41"] = "Ausenposten 1",
+    ["DictKey_UnitName_1094"] = "SEA / AI / CH-53 E-2",
+    ["DictKey_UnitName_911"] = "",
+    ["DictKey_WptName_1069"] = "",
+    ["DictKey_WptName_2347"] = "",
+    ["DictKey_WptName_1972"] = "",
+    ["DictKey_UnitName_1590"] = "BATUMI  SO Container - 1",
+    ["DictKey_WptName_1361"] = "",
+    ["DictKey_ActionText_854"] = "",
+    ["DictKey_WptName_391"] = "",
+    ["DictKey_WptName_1149"] = "",
+    ["DictKey_UnitName_1306"] = "JACKPOINT INFANTERIE 1-2",
+    ["DictKey_ActionText_1196"] = "",
+    ["DictKey_ActionRadioText_2173"] = "バトゥミタワーの周波数 131.00MHzに合わせる",
+    ["DictKey_WptName_1701"] = "",
+    ["DictKey_UnitName_1255"] = "REBEL JEEP 1-2",
+    ["DictKey_UnitName_1888"] = "SEA / AI / CH-53 E-1 #001",
+    ["DictKey_WptName_2301"] = "",
+    ["DictKey_UnitName_1587"] = "BATUMI  SO Container - 1",
+    ["DictKey_WptName_1321"] = "",
+    ["DictKey_WptName_829"] = "",
+    ["DictKey_WptName_651"] = "",
+    ["DictKey_ActionRadioText_2192"] = "",
+    ["DictKey_ActionText_1192"] = "- - ENFIELD TWO - - VINC RADAR --\
+- -  decent immediate to assigned altitude - -  ",
+    ["DictKey_WptName_373"] = "",
+    ["DictKey_WptName_2356"] = "",
+    ["DictKey_GroupName_1563"] = "BATUMI Pasagier 1",
+    ["DictKey_UnitName_242"] = "",
+    ["DictKey_WptName_276"] = "",
+    ["DictKey_UnitName_974"] = "",
+    ["DictKey_UnitName_502"] = "SO/SENAKI An-26B-2",
+    ["DictKey_ActionText_1079"] = "USS カール・ビンソン\
+- - ウルフパック - -航空機が西から東へ通過します。 - -",
+    ["DictKey_ActionText_1258"] = "ウルフ１\
+- - ここで何が起こっているんだ！？ - -\
+- - また、発砲だ - -",
+    ["DictKey_UnitName_1643"] = "Starssensperre 1-1",
+    ["DictKey_GroupName_207"] = "",
+    ["DictKey_UnitName_512"] = "SO/SENAKI MiG-21 Bis-1",
+    ["DictKey_WptName_696"] = "",
+    ["DictKey_ActionText_1799"] = "USS カール・ビンソン\
+- - ウルフ２ - - カール・ビンソン - -\
+- - あなたの隣にいるフリゲート艦に着艦してください。 - シグナルロケットを打ち上げました。 - - \
+- - あなたの判断で着艦することを許可します。 - -\
+- - 待機して、次の指示を待ってください。 - -",
+    ["DictKey_WptName_633"] = "",
+    ["DictKey_WptName_837"] = "",
+    ["DictKey_ActionText_1527"] = "",
+    ["DictKey_UnitName_647"] = "",
+    ["DictKey_WptName_980"] = "",
+    ["DictKey_GroupName_601"] = "SO/SENAKI Su-25-1 #001",
+    ["DictKey_UnitName_2349"] = "AKTOR / SO / 1",
+    ["DictKey_UnitName_390"] = "SO/KUTAISI MI-8-1",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_UnitName_208"] = "",
+    ["DictKey_ActionText_2053"] = "",
+    ["DictKey_UnitName_770"] = "SO/KOBULETI / CH47D1 #001",
+    ["DictKey_ActionText_2234"] = "GEORGIA  741\
+- - Taxi via ALPHA – -  cleared for take off Runway 31 - -  ",
+    ["DictKey_GroupName_568"] = "SO/SENAKI Wachturm 2",
+    ["DictKey_WptName_310"] = "",
+    ["DictKey_UnitName_451"] = "",
+    ["DictKey_ActionText_2147"] = "",
+    ["DictKey_WptName_516"] = "",
+    ["DictKey_WptName_454"] = "",
+    ["DictKey_WptName_959"] = "",
+    ["DictKey_ActionText_1958"] = "トム/ 左ガンナー\
+- - 君なら何もいらないよ。隠すほどの物を持ってないだろ - -",
+    ["DictKey_ActionText_1265"] = "ウルフ１\
+- - 川の反対側に別のグループがいます。 - 道路に２台の車もあります。 - -\
+- - まずは変電所を守れ - -",
+    ["DictKey_WptName_1070"] = "",
+    ["DictKey_WptName_1085"] = "",
+    ["DictKey_GroupName_769"] = "SO/KOBULETI / AH-64D-1",
+    ["DictKey_WptName_2365"] = "",
+    ["DictKey_ActionText_1424"] = "GEORGIA  741\
+- - Taxi via ALPHA – -  cleared for take off Runway 31 - -  ",
+    ["DictKey_WptName_802"] = "",
+    ["DictKey_ActionText_1423"] = "BATUMI TOWER\
+- - ウルフパック – 左旋回してエプロン1に直行してください。 - - \
+- - 着陸を許可。 - -",
+    ["DictKey_GroupName_1657"] = "Starssensperre 2-3",
+    ["DictKey_WptName_256"] = "",
+    ["DictKey_UnitName_123"] = "UH-1 Gruppe 1 Pilot 3",
+    ["DictKey_UnitName_1485"] = "BATUMI / SO / UH-1 A",
+    ["DictKey_WptName_494"] = "",
+    ["DictKey_WptName_1702"] = "",
+    ["DictKey_ActionRadioText_2172"] = "",
+    ["DictKey_ActionText_1348"] = "ウルフ１\
+- -バトゥミ タワー - - ウルフパック - -  \
+- - 川の向こう、MAHOの真横 - - - -  500 feet - - エプロン１に着陸します。  -  インフォメーション MAIK を受信しました。 - -",
+    ["DictKey_ActionText_1863"] = "ピーター / CO\
+- - バトゥミタワー – エプロン１のウルフ２ – - \
+- - ホバーチェックを要請します。  - -",
+    ["DictKey_ActionText_2011"] = "ピーター / CO\
+- - 後ろから近づいてください。 - - \
+- - 奴らを見失わないでください。  – もし、木の中に隠れてしまったら、二度と見つけられません。 - -",
+    ["DictKey_UnitName_33"] = "",
+    ["DictKey_ActionText_1977"] = "USS カール・ビンソン\
+- - ウルフ２ -   至急、指定高度まで上昇してください。 - -",
+    ["DictKey_ActionText_1180"] = "- - ENFIELD TWO - - VINC RADAR --\
+- -  climb immediate to assigned altitude - -  ",
+    ["DictKey_ActionText_2207"] = "ハンス / 右ガンナー\
+- - 私は海が嫌いです。 - -\
+- - 塩水で好きなのはブラッディマリーだけです。 - -",
+    ["DictKey_WptName_982"] = "",
+    ["DictKey_UnitName_908"] = "",
+    ["DictKey_UnitName_349"] = "SO/ C-130-1",
+    ["DictKey_ActionText_2068"] = "ピーター / CO\
+- - ウルフ１- ウルフ２ – フォーメーション解除 – 駐機場へ直行します。 - -",
+    ["DictKey_UnitName_352"] = "SO/ KUTAISI TANKER 1",
+    ["DictKey_ActionText_1181"] = "",
+    ["DictKey_GroupName_2312"] = "AKTOR / SO / 2",
+    ["DictKey_GroupName_425"] = "KUTAISI APC Patrol 1",
+    ["DictKey_WptName_1556"] = "",
+    ["DictKey_ActionText_863"] = "- - PONTIAC ONE - -\
+- - Cleared for takeoff – WILCO -- ",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_WptName_847"] = "",
+    ["DictKey_WptName_1366"] = "",
+    ["DictKey_ActionText_1830"] = "ウルフ１\
+- - 目視によるチェックだけです。- -\
+- - 周囲を歩いて、 - 全てが安全できちんとロックされているかを確認するだけです。 - -",
+    ["DictKey_UnitName_217"] = "UH-1_ENFIELD-1",
+    ["DictKey_WptName_270"] = "",
+    ["DictKey_WptName_1051"] = "",
+    ["DictKey_GroupName_967"] = "NAVAL F-18 1",
+    ["DictKey_WptName_1546"] = "",
+    ["DictKey_UnitName_399"] = "",
+    ["DictKey_ActionRadioText_2182"] = "ウルフ１についていく",
+    ["DictKey_ActionText_2043"] = "",
+    ["DictKey_WptName_313"] = "",
+    ["DictKey_WptName_923"] = "",
+    ["DictKey_WptName_1964"] = "",
+    ["DictKey_GroupName_2318"] = "AKTOR / SO / 4",
+    ["DictKey_WptName_990"] = "",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_WptName_814"] = "",
+    ["DictKey_GroupName_501"] = "SO/SENAKI An-26B-1",
+    ["DictKey_GroupName_673"] = "SO/KOBULETI / Container-1 #004",
+    ["DictKey_WptName_376"] = "",
+    ["DictKey_GroupName_757"] = "SO/KOBULETI / Zelt 1 #007",
+    ["DictKey_WptName_1933"] = "",
+    ["DictKey_GroupName_604"] = "SUNAKI / AI /  C-130 -1",
+    ["DictKey_ActionText_1267"] = "",
+    ["DictKey_WptName_607"] = "",
+    ["DictKey_UnitName_602"] = "SO/SENAKI Su-25-1",
+    ["DictKey_WptName_1549"] = "",
+    ["DictKey_ActionText_2021"] = "",
+    ["DictKey_ActionText_1935"] = "",
+    ["DictKey_ActionText_1518"] = "ピーター CP \
+- - 我が隊のリーダー、ウルフ１を待ちます。 - - \
+- - あと数分で来るはずです。 - -",
+    ["DictKey_GroupName_377"] = "SO/KUTAISI CONTAINER 1",
+    ["DictKey_GroupName_26"] = "Zelt2",
+    ["DictKey_WptName_801"] = "",
+    ["DictKey_WptName_1386"] = "",
+    ["DictKey_UnitName_21"] = "",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_UnitName_968"] = "NAVAL F-18 1-1",
+    ["DictKey_ActionText_1009"] = "- - ウルフパック - - \
+- - その位置で待機してください。 - - \
+- - シュルツ将軍から追加の任務です。 - -\
+- - トラックが重要な書類の入った箱を持っていきます。 - 航空母艦カール・ビンソンに運んでください。南西に25マイル、方位255です。 - -\
+- -  至急です。 - 観光している暇はありませんよ。 - -",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_GroupName_365"] = "SO/ KUJTAISI A-10-3",
+    ["DictKey_UnitName_557"] = "SO/SENAKI ZELT 1",
+    ["DictKey_WptName_271"] = "",
+    ["DictKey_WptName_1260"] = "",
+    ["DictKey_WptName_1038"] = "",
+    ["DictKey_WptName_1663"] = "",
+    ["DictKey_ActionText_1342"] = "ウルフ１\
+- - 彼らは襲撃されたみたいです。- - \
+- - 上から見るとかなり悪そうです。 - -\
+- - 車を処理してください。– 破壊してください。 - -  やつらが止まることは無いでしょう。 - -\
+- - 兵器の使用を許可します。地獄に送ってやってくれ --",
+} -- end of dictionary
