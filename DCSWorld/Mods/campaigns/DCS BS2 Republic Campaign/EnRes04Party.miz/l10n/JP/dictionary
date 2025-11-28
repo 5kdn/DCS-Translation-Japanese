@@ -1,0 +1,88 @@
+dictionary = 
+{
+    ["DictKey_UnitName_22"] = "Юнит #7",
+    ["DictKey_UnitName_52"] = "Т-55",
+    ["DictKey_WptName_62"] = "Gali",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_GroupName_15"] = "Наземная группа #003",
+    ["DictKey_sortie_59"] = "THE PARTY",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_GroupName_17"] = "Наземная группа #005",
+    ["DictKey_UnitName_26"] = "Юнит #2",
+    ["DictKey_GroupName_21"] = "Наземная группа #006",
+    ["DictKey_UnitName_29"] = "Гали",
+    ["DictKey_UnitName_39"] = "Боец8",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_WptName_60"] = "Gali",
+    ["DictKey_10"] = "MISSION FAILED",
+    ["DictKey_UnitName_25"] = "Юнит #3",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_UnitName_45"] = "Боец2",
+    ["DictKey_GroupName_54"] = "Антенная вышка ",
+    ["DictKey_UnitName_20"] = "Юнит #5",
+    ["DictKey_UnitName_42"] = "Боец5",
+    ["DictKey_UnitName_44"] = "Боец3",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_UnitName_47"] = "БТР-802",
+    ["DictKey_GroupName_13"] = "Hokum",
+    ["DictKey_GroupName_28"] = "Гали",
+    ["DictKey_GroupName_32"] = "Гали #003",
+    ["DictKey_12"] = "任務完了\
+RTB",
+    ["DictKey_UnitName_14"] = "Ronin",
+    ["DictKey_UnitName_33"] = "Гали #003",
+    ["DictKey_GroupName_30"] = "Гали #002",
+    ["DictKey_UnitName_49"] = "БМП-12",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_descriptionRedTask_57"] = "離陸： Gali (Otkrytka FARP). \
+\
+敵の装甲部隊を発見して、できるだけ破壊してください。\
+\
+ATGMミサイルが欠乏しているので、ヘリコプターには S-8KOM ロケットを搭載しています。\
+\
+敵の予想位置をABRIS（TRG01).に登録しています。\
+\
+着陸： Gali (Otkrytka FARP). ",
+    ["DictKey_ActionRadioText_77"] = "",
+    ["DictKey_UnitName_48"] = "БТР-80",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_UnitName_38"] = "Боец9",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_UnitName_31"] = "Гали #002",
+    ["DictKey_9"] = "",
+    ["DictKey_UnitName_35"] = "Гали #004",
+    ["DictKey_ActionRadioText_76"] = "AutoSuccess",
+    ["DictKey_UnitName_16"] = "Юнит #4",
+    ["DictKey_UnitName_53"] = "Т-72",
+    ["DictKey_UnitName_24"] = "Юнит #8",
+    ["DictKey_UnitName_18"] = "Юнит #6",
+    ["DictKey_UnitName_41"] = "Боец6",
+    ["DictKey_GroupName_34"] = "Гали #004",
+    ["DictKey_UnitName_46"] = "Боец1",
+    ["DictKey_8"] = "SUCCESS!",
+    ["DictKey_GroupName_36"] = "Чужие",
+    ["DictKey_UnitName_40"] = "Боец7",
+    ["DictKey_UnitName_43"] = "Боец4",
+    ["DictKey_UnitName_37"] = "Боец10",
+    ["DictKey_UnitName_55"] = "Антенная вышка ",
+    ["DictKey_ActionRadioText_78"] = "AutoSuccess",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_UnitName_51"] = "БМП-2",
+    ["DictKey_GroupName_23"] = "Наземная группа",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_UnitName_50"] = "БМП-1",
+    ["DictKey_descriptionText_56"] = "THE PARTY\
+\
+町への攻撃を撃退することが出来ました。しかし、まだ気を抜くには早すぎます。\
+\
+偵察からの情報では、敵の装甲部隊の残存が、Zugdidi.の西に集結しています。\
+\
+夜が迫っており、司令官はは敵は暗闇に紛れて別の攻撃を試みると予想しています。私の任務は敵の装甲部隊を発見して、しばらく攻撃を企てることができないように被害を与えることです。",
+    ["DictKey_WptName_61"] = "Search and destroy",
+    ["DictKey_ActionText_75"] = "離陸して、捜索エリアへ向ってください。",
+    ["DictKey_11"] = "MISSION FAILED",
+    ["DictKey_GroupName_19"] = "Наземная группа #004",
+    ["DictKey_descriptionBlueTask_58"] = "",
+    ["DictKey_UnitName_27"] = "Юнит #1",
+} -- end of dictionary
