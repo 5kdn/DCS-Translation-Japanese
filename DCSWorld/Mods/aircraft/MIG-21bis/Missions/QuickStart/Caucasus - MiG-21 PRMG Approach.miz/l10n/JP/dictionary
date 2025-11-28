@@ -1,0 +1,44 @@
+dictionary = 
+{
+    ["DictKey_UnitName_22"] = "Ka50_leader",
+    ["DictKey_GroupName_14"] = "MiG29A",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_GroupName_23"] = "EW",
+    ["DictKey_UnitName_26"] = "HELIPORT_1_RUS",
+    ["DictKey_sortie_30"] = "PRMGアプローチ",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_GroupName_3"] = "ESCORT_rus_Su27",
+    ["DictKey_UnitName_5"] = "ESCORT_rus_2_leader",
+    ["DictKey_UnitName_16"] = "Pilot #008",
+    ["DictKey_descriptionBlueTask_29"] = "何もない。",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_GroupName_19"] = "Ka50",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_UnitName_18"] = "MiG29A_leader",
+    ["DictKey_UnitName_20"] = "Pilot #006",
+    ["DictKey_UnitName_9"] = "Pilot #001",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_UnitName_15"] = "Pilot #009",
+    ["DictKey_descriptionRedTask_28"] = "「飛行の不確実性」を楽しむ\
+\
+- ナリチク（Nalchik）RSBN チャンネル 8\
+- ナリチク（Nalchik）ATC チャンネル14\
+- 近隣NDB：セクターII/2、チャンネル 2、3\
+- ニーボード (RCtrl + ↑)で地図を見ることができます。",
+    ["DictKey_UnitName_17"] = "Pilot #007",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_UnitName_21"] = "Pilot #005",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_ActionText_60"] = "もう一度やってみましょう。",
+    ["DictKey_UnitName_4"] = "Pilot #003",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_descriptionText_27"] = "今晩は悪天候です。ナリチク（Nalchik）への着陸を試みてください。うまく行かなかった場合は、もう一度チャレンジしてみてください。",
+    ["DictKey_ActionText_59"] = "おめでとうございます！お疲れ様でした。",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_UnitName_24"] = "GCI",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_GroupName_25"] = "HELIPORT_1_RUS",
+} -- end of dictionary

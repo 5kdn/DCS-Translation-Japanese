@@ -1,0 +1,28 @@
+dictionary = 
+{
+    ["DictKey_UnitName_59"] = "Pilot #009",
+    ["DictKey_UnitName_45"] = "Unit #1",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_UnitName_49"] = "Unit #003",
+    ["DictKey_GroupName_44"] = "New Vehicle Group",
+    ["DictKey_UnitName_48"] = "Unit #002",
+    ["DictKey_UnitName_56"] = "Unit #010",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_UnitName_54"] = "Unit #008",
+    ["DictKey_descriptionText_1"] = "空は明るく、風は穏やかで、広大な大地は春の草木で青々としています。正確には青々とした草木ではなく、古代の砂のようなものですが。でも、そんな細かいことは気にしないでください。あなたの「21」で一緒にこの草木のざわめきに参加し、安全で健全な状態で帰ってきてください。",
+    ["DictKey_UnitName_55"] = "Unit #009",
+    ["DictKey_UnitName_50"] = "Unit #004",
+    ["DictKey_sortie_4"] = "離陸、コールドスタート",
+    ["DictKey_UnitName_51"] = "Unit #005",
+    ["DictKey_UnitName_47"] = "Unit #001",
+    ["DictKey_UnitName_52"] = "Unit #006",
+    ["DictKey_UnitName_57"] = "Unit #011",
+    ["DictKey_UnitName_53"] = "Unit #007",
+    ["DictKey_descriptionBlueTask_3"] = "コールドスタート、全アビオニクスをセットアップしましょう。楽しんでください。\
+\
+- NELLIS RSBN CHNL 18\
+- NELLIS ATC chnl 9\
+- ニーボード (RCtrl + ↑)で地図を見たり最寄りのRSBN局を探すことができます。",
+} -- end of dictionary

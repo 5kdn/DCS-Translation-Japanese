@@ -1,0 +1,28 @@
+dictionary = 
+{
+    ["DictKey_UnitName_59"] = "Pilot #009",
+    ["DictKey_UnitName_55"] = "Unit #009",
+    ["DictKey_descriptionText_1"] = "兵器庫に向かう途中に、反乱軍の地上車両の集団がいる。",
+    ["DictKey_descriptionBlueTask_3"] = "敵車両群を発見し、出来るだけ多くの車両を破壊せよ。\
+\
+あなたには支援のためのウィングマンが割り当てられている（チャンネル0）。\
+\
+あなたの機体にはクラスター爆弾とロケット弾が搭載されている。標的の周りにいる敵車両を攻撃せよ。ウィングマンはあなたを支援する。ネリス(Nellis）に着陸すれば、武装と燃料を補給できる。\
+\
+- ウイングマンとAWACS　チャンネル0\
+- ネリス（Nellis）RSBN　チャンネル18\
+- ネリス（Nellis）ATC　チャンネル 9\
+- マーキュリー（Mercury）NDB: セクターI/1、チャンネル 1\
+- ニーボード (RCtrl + ↑)で地図を見ることができます。",
+    ["DictKey_ActionText_67"] = "Try again.",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_sortie_4"] = "地上攻撃",
+    ["DictKey_ActionText_65"] = "敵車両の少なくとも70%を破壊した。",
+    ["DictKey_ActionText_64"] = "敵車両の50%以上を破壊した。",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_ActionText_66"] = "全ての敵車両破壊を確認。よくやった。ネリスに帰還せよ。",
+    ["DictKey_UnitName_57"] = "Unit #011",
+    ["DictKey_UnitName_54"] = "Unit #008",
+    ["DictKey_UnitName_56"] = "Unit #010",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

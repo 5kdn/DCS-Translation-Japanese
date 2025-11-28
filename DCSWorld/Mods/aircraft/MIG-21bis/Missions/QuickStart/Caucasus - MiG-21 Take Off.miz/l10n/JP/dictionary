@@ -1,0 +1,20 @@
+dictionary = 
+{
+    ["DictKey_UnitName_24"] = "GCI",
+    ["DictKey_descriptionText_27"] = "太陽が低い朝。バーナーを炊き、1000km/hまで加速し、上昇して、楽しんでください...",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_GroupName_3"] = "ESCORT_rus_1",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_GroupName_23"] = "EW",
+    ["DictKey_UnitName_5"] = "ESCORT_rus_1_leader",
+    ["DictKey_descriptionBlueTask_29"] = "何もない。",
+    ["DictKey_UnitName_4"] = "Pilot #003",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_descriptionRedTask_28"] = "飛行の美しさを楽しむ。\
+- ナリチク（Nalchik）RSBN チャンネル8\
+- ナリチク（Nalchik）ATC チャンネル14\
+- 近隣NDB：セクターII/2、チャンネル 2、3\
+- ニーボード (RCtrl + ↑)で地図を見ることができます。",
+    ["DictKey_UnitName_26"] = "HELIPORT_1_RUS",
+    ["DictKey_sortie_30"] = "離陸",
+} -- end of dictionary

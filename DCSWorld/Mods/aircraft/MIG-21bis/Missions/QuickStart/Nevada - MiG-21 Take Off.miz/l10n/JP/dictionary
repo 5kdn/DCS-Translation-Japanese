@@ -1,0 +1,12 @@
+dictionary = 
+{
+    ["DictKey_descriptionBlueTask_3"] = "飛行の美しさを楽しむ。\
+\
+- グルームレイク(Groom Lake) RSBN チャンネル8\
+- グルームレイク(Groom Lake) ATC チャンネル9\
+- マーキュリー（Mercury）NDB: セクターI/1、チャンネル 1\
+- ニーボード (RCtrl + ↑)で地図を見ることができます。",
+    ["DictKey_descriptionText_1"] = "太陽が低い朝。バーナーを炊き、1000km/hまで加速し、上昇して、楽しんでください...",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_sortie_4"] = "離陸",
+} -- end of dictionary

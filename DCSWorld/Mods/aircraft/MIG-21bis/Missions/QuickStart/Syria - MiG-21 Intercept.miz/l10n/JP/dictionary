@@ -1,0 +1,28 @@
+dictionary = 
+{
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_UnitName_67"] = "Aerial-3-1",
+    ["DictKey_ActionText_81"] = "無線チャンネル2、3でEWR(早期警戒レーダー)を呼び出し、Boogey dopeを聞けば敵機の方向と距離を知ることができる。目標の方向へ飛び、後ろにつけ。最速で上昇するように。",
+    ["DictKey_UnitName_42"] = "Lucky Owner 1-1-2",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_sortie_5"] = "シリア MiG-21bis 迎撃",
+    ["DictKey_descriptionRedTask_2"] = "スクランブルして8000mまで上昇し、敵機を迎撃せよ。\
+- ターゲットを撃破したら、南から南東に向かい、Marj Ruhayyilに着陸。Jebel Sheikhの南東に配置されたSA-6 SAMの上で安全を確保できる。\
+\
+- ウイングマンはチャンネル0、HamaのEWR(早期警戒レーダー)はチャンネル2、DamascusのEWRはチャンネル3。\
+- Marj Ruhayyil ATCはチャンネル4だ",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_descriptionText_1"] = "イスラエルの戦術空中早期警戒管制機E-2ホークアイがレバノン空域に入り我々の飛行に関する情報を収集している。イスラエルの防空網に到達する前にスクランブルをかけて撃墜せよ。E-2だけではなく、イスラエルのF-4Eファントムが公海で長距離護衛任務を行っているので注意が必要である。一度警戒されると、彼らはあなたを探してくるので、時間を無駄にしないように。",
+    ["DictKey_descriptionBlueTask_3"] = "情報収集任務です。",
+    ["DictKey_GroupName_66"] = "Aerial-3",
+    ["DictKey_UnitName_71"] = "Aerial-3-2",
+    ["DictKey_UnitName_50"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_ActionText_83"] = "撃墜を確認。よくやった。今から離脱し、南東に飛行してMarj Ruhayyil空軍基地に着陸せよ。",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_ActionText_82"] = "E-2ホークアイはイスラエルの防空司令部に警告を発しているようだ。すぐに撃墜せよ。",
+    ["DictKey_WptName_69"] = "",
+} -- end of dictionary

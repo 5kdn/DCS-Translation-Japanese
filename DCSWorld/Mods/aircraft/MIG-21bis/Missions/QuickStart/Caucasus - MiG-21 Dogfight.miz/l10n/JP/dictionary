@@ -1,0 +1,19 @@
+dictionary = 
+{
+    ["DictKey_descriptionText_9"] = "F-4ファントムIIという名前の1機の敵機を「獲得」した。「21」との接近戦でテストする必要があります。あなたは適任のようですね。",
+    ["DictKey_descriptionBlueTask_11"] = "何もありません。",
+    ["DictKey_GroupName_3"] = "EW",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_sortie_12"] = "ドッグファイト",
+    ["DictKey_UnitName_4"] = "GCI",
+    ["DictKey_UnitName_6"] = "HELIPORT_1_RUS",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_descriptionRedTask_10"] = "1.自殺しないようにする。\
+2. このリストをただ読むのではなく、箇条書きの1について考えてください。\
+3. エネルギーを高く保ちましょう。\
+4. 燃料を節約する。\
+5. ファントムの尾翼のリベットを数えられるようになったら撃つ。\
+\
+F-4の翼幅は11.7mです。ASPの目標サイズは11か12に設定してください。",
+    ["DictKey_GroupName_5"] = "HELIPORT_1_RUS",
+} -- end of dictionary
