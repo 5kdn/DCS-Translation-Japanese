@@ -1,0 +1,34 @@
+dictionary = 
+{
+    ["DictKey_UnitName_14"] = "Unit #006",
+    ["DictKey_UnitName_18"] = "Unit #010",
+    ["DictKey_UnitName_20"] = "Pilot #001",
+    ["DictKey_UnitName_9"] = "Unit #001",
+    ["DictKey_sortie_5"] = "AGM-65 訓練場",
+    ["DictKey_UnitName_15"] = "Unit #007",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_26"] = "CONGRATULATIONS PILOT, 全てのターゲットを破壊しました。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_UnitName_17"] = "Unit #009",
+    ["DictKey_ActionText_23"] = "バジアニ東テストレンジへようこそ。\
+ウェイポイントに沿って飛び、目標を破壊してください。\
+\
+ハッピーハンティング！",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_descriptionText_1"] = "バジアニ東テストレンジへようこそ。\
+ウェイポイントに沿って飛び、目標を破壊してください。\
+\
+ハッピーハンティング！",
+    ["DictKey_UnitName_10"] = "Unit #002",
+    ["DictKey_ActionText_27"] = "スモーク オンザ　デッキ（目標をスモークでマーク）",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_UnitName_7"] = "Unit #1",
+    ["DictKey_UnitName_11"] = "Unit #003",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_GroupName_6"] = "RUS_SRMOR",
+    ["DictKey_UnitName_13"] = "Unit #005",
+    ["DictKey_UnitName_16"] = "Unit #008",
+    ["DictKey_GroupName_19"] = "Enfield",
+    ["DictKey_UnitName_12"] = "Unit #004",
+    ["DictKey_WptName_22"] = "",
+} -- end of dictionary
