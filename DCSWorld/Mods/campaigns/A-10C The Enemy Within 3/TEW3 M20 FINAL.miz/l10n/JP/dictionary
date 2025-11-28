@@ -1,0 +1,344 @@
+dictionary = 
+{
+    ["DictKey_subtitle_216"] = "FORD 1-1: Ford 1-1, オンステーション、　進行可能です。",
+    ["DictKey_UnitName_72"] = "Blackhawk",
+    ["DictKey_UnitName_52"] = "BUK ",
+    ["DictKey_UnitName_85"] = "Airport Crew #005",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_WptName_113"] = "WP5",
+    ["DictKey_subtitle_152"] = "[Overorrd] Dodge 1-1, Overlord. Nightwalker は位置に付きました。合図を待ちます。",
+    ["DictKey_subtitle_218"] = "FORD 2-1: Ford 2-1 はウェイポイント３。開始準備できました。",
+    ["DictKey_ActionRadioText_305"] = "ターゲットは破壊できず",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_UnitName_39"] = "SO SA13 Uaz #001",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_subtitle_242"] = "FORD 1-2: Ford 1-2, knock it off!",
+    ["DictKey_WptName_112"] = "WP2",
+    ["DictKey_subtitle_256"] = "FORD 1-1: Ford 1-1 copies, RTB.",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_18"] = "フレアを確認",
+    ["DictKey_UnitName_25"] = "Leader's House",
+    ["DictKey_WptName_114"] = "Re-attack",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_UnitName_51"] = "Buk #001",
+    ["DictKey_ActionText_288"] = ".",
+    ["DictKey_descriptionBlueTask_93"] = "(少佐はうなずいて、席に付きました。ジョンソン大佐はDodge 03のフライトプランの書き込まれた、作戦地図を平げました。）\
+\
+さて、今日の任務は単独任務です。\
+\
+(彼はあなたをの方を向いて、視線を止めました。)\
+\
+Grizzly, 大丈夫ですか？　これは通常の作戦では有りません。あなたに志願を求め、了承はもらいましたが、その気持ちに変わりはありませんか？\
+\
+(あなたはうなずきました。)\
+\
+よろしい。言ったように、これはワンマンショーです。その他全員は、敵を欺くためにいます。私達は南オセチアのそばで訓練の準備をするフリをします。通常同様、全戦闘機がオンステーションします。ただし、演習を開始する直前に、君たちの中の一機、そうDodge 3-1が、故障します。この機体は墜落し、パイロットは脱出します。\
+\
+(彼は再びあなたを見て、うなずいてから、続けました。)\
+\
+あなたのパイロットとしての腕前だけでなく、特に俳優としてのあなたの演技力に期待しています。故障の無線通信をできるだけリアルにしたいです。そして、Dodge 3-1が敵のレーダーから消えたら、他の飛行隊を墜落現場に派遣します。 その間に、Grizzlyは飛行計画に沿って目的地まで潜航します。\
+\
+この場所が少し厄介です。（彼は地図の赤丸を指しました）敵のSA-8砲台が谷の入口にあります。あなたが通れるように、第91の仲間を送り、これに対処します。彼らへの実行合図は「全俳優、位置についてください。」です。これはOverlordが出します。この合図を聞いたら、Gecko（SA-8）の場所に注意を払ってください。特殊部隊チームは1分もあれば無力化出来るでしょう。無力化したら、信号弾を白3発、緑１発の順番で打ち上げます。これはゴーの合図です。もし白３発の後に赤が上がったら、何か問題が起こっています。ミッション全体を中止します。\
+\
+OK、グリーンが上がったとして話を進めます。あなたはそれを見たら、少し役を演じて、計画通りの動きをします。Overlord と他の飛行隊が嘘のCSARに忙しくしている間に、目標に向かいます。\
+\
+基本的計画は次のとおりです。谷入る。敵の防空に発見されないようできるだけ低空を飛行する。ポップアップしてターゲットのヴィラに爆弾を落とす。折り返して、全てのロケットを打ち込む。もと来た道を戻る。\
+\
+もちろん、いくつか難点もあります。 \
+\
+１つ目：ロシア軍。２基のSA-11がここと…ここ（彼は地図をさしました）に配置されています。一つは離れているので、高度を上げすぎなければ大丈夫でしょう。しかも近い方は、ウェイポイント6-7間で、数回撃たれる危険性があります。素早く通り過ぎ、撃たれる機会を減らしてください。もし撃ってきたら、チャフを巻いて、さらに低く飛んでください。もしこの時点でカディロフに気づかれたとしても、彼の場所まで約30秒です。\
+\
+2つ目：天候。敵を驚かせる事と、彼に家の中にいさせるには役に立ちます。しかし飛行は非常に危険になります。最初は夜に出撃することを計画しましたが、NVGがこの天候で役に立ちませんので、夜明けまで待つことを決定しました。少しはマシになりますが、それでもかなり厳しいでしょう。ターゲットの標高は、6000feet MSL以上あります。雲の層まで1000feetもありません。\
+\
+OK, 次は、攻撃についてです。最初のパスで全ての爆弾を投下してください。CCRP、CCIPどちらを使っても良いですが、すでに低空でダイビングに入る余地がほとんどないCCIPは、かなり難しいと思われます。CCRPの場合、CDUでウェイポイントの標高を調整しておく必要があります。忘れないようにしてください。\
+\
+ターゲットへはタイトターンで戻る必要ありますので、最初のパスで爆弾投下を行う必要があります。谷の終わりに険しい山があります。私からのアドバイスは、それの上に上がり、切り替えしてターゲットにダイブすることです。TADで地形を確認してください。SAMの視野に入りますが、ロックして発射するだけの時間は十分には無いでしょう。\
+\
+第2パスはロケットを発射します。それから、来たルートを通って帰ります。ウェイポイント13－14間は特に注意してください。再度数秒間SA-11の視野に入ります。\
+\
+イーグレス（EGRESS）に到着したら上昇してください。OVERLORDがあなたをレーダーに捉えたら「ミラータイム（ビールの時間）」とコールします。\
+\
+OK, もう一度ミッションを順におさらいしましょう\
+\
+1：IP Dodgeに進み、そこで待機。オンステーションしたらOverlordに連絡し、開始の準備が出来たことを知らせてください。\
+\
+2：Overlordが「全俳優、位置についてください。」とコールします。これはNightwalkerへの合図で、WP4で待機している特殊部隊チームがロシアのSA-8システムを占領します。彼らは脅威を無力化した後、4発のフレアを10秒間隔で打ち上げます。Nightwalker がいる場所に目を光らせておいてください。最後の４発目がグリーンであれば、墜落を開始し、そのまま低空で目的地に向かってください。\
+\
+IPで待機中、SA-8があなたをロックしようとするでしょうが、国境のジョージア側にいる限り撃っては来ないでしょう。もし、フレアを見逃した場合、SA-8がRWRから消えてしばらく立っても再度出現しない場合はすでにSA-8が動作していないと判断できます。\
+\
+3：飛行計画に沿って、出来る限り低空飛行で飛んでください。迷わないように飛行ルートを暗記しておいてください。WP6－７間は特に注意してください。ジャマーを入れて、チャフを射出してください。\
+\
+4：WP8で、ターゲットに合わせ、全ての爆弾を投下してください。帰りのパスでもう一度だけ攻撃チャンスがありますので、全てのロケットを発射します。ヴィラが破壊されているか確認して下さい。\
+5：来た道をたどって帰ります。WP15でイーグレス、基地に帰還します。\
+\
+6：着陸時には特に注意してください。強い横風で視界不良です。TACANとILSを使用して基地に戻ってください。私達は皆あなたを頼りにしています。\
+\
+質問は？\
+\
+(Ghost が手を上げて聞きました)\
+\
+Skipper, 民間のガードチャンネルを使うのは何故ですか？\
+\
+やつらに何が起こっているかを確実に聞かせるためです。私達の無線を聞いているでしょうから、ジェット機が１機墜落したことを知り大喜びするでしょう。その間に、Grizzlyが仕事に取り掛かります。他には？　\
+\
+いいでしょう。グッドラック、神の御加護を\
+\
+周波数\
+Overlord: 300 UHF.   \
+Guard: 121.5 AM.\
+",
+    ["DictKey_subtitle_156"] = "[Overlord] Dodge 1-1, Overlord. Nightwalker はAOにいます。オンステーションしたら報告してください。",
+    ["DictKey_subtitle_250"] = "DODGE 1-1 (ROCKMAN): Overlord, Dodge 1-1, ラジャー、grid LN 73 17の北2マイル、angels 6にアンカー",
+    ["DictKey_subtitle_270"] = "DODGE 2-1 (GHOST): Dodge 2-1, roger, ビールタイム, RTB.",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_UnitName_46"] = "Guard #001",
+    ["DictKey_UnitName_87"] = "Airport Crew #003",
+    ["DictKey_subtitle_248"] = "OVERLORD: Overlord 全飛行隊へ、 Dodge 3-1 が故障して、 grid 38T LN 73 17で脱出しました。Dodge 01 と 02はこの座標に向かってください。 Dodge 01のアンカーポイントは2マイル北でangels 6。　Dodge 02は3マイル南でangels 5。墜落現場を見つけて、Dodge 3-1とガードチャンネルで交信して下さい。わかりましたか？",
+    ["DictKey_UnitName_182"] = "Ford 2-1",
+    ["DictKey_UnitName_63"] = "Dodge 3-1 (Player)",
+    ["DictKey_UnitName_76"] = "Ranger SF #001",
+    ["DictKey_19"] = "[Dodge 1-1] Overlord, Dodge 1-1, フレア確認、沈みます。\
+",
+    ["DictKey_WptName_134"] = "Landing",
+    ["DictKey_UnitName_47"] = "Guard",
+    ["DictKey_UnitName_36"] = "SO SA13 B",
+    ["DictKey_WptName_109"] = "Night-Walker",
+    ["DictKey_UnitName_163"] = "Dodge 2-2 (SIX-PACK)",
+    ["DictKey_subtitle_210"] = "プレイヤー： And Dodge 3-1 copies.",
+    ["DictKey_UnitName_65"] = "Overlord",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_subtitle_150"] = "[Overlord] Dodge, Overlord. ターゲットは民間トラックで脱出しようとしましたが、プレデターからのマーベリックミサイルで破壊されました。",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_GroupName_28"] = "Farmhouse",
+    ["DictKey_UnitName_74"] = "Ranger SF #003",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_12"] = "Dodge のオンステーションを報告",
+    ["DictKey_UnitName_324"] = "Buk #003",
+    ["DictKey_WptName_105"] = "WP16",
+    ["DictKey_subtitle_204"] = "DODGE 2-1 (GHOST): And Dodge 02 copies.",
+    ["DictKey_subtitle_151"] = "[Overlord] Dodge 1-1, Overlord, copy.  Nightwalkerに連絡してください。",
+    ["DictKey_UnitName_61"] = "Colt 1-1",
+    ["DictKey_ActionText_282"] = "スペースバーを押して、オンステーションを報告してください。",
+    ["DictKey_WptName_293"] = "",
+    ["DictKey_subtitle_274"] = "プレイヤー： Overlord, Dodge 3-1, ターゲットを仕留めました。",
+    ["DictKey_GroupName_30"] = "Leader's House BTR 2",
+    ["DictKey_descriptionText_91"] = "ノックアウト\
+2012年4月19日 06:45 現地時間\
+\
+（ニコラス・グレイ少佐は、レインコートを脱ぎ、防水ファイルからノートを取り出しました。彼は興奮しており、ブリーフィングを早く始めたそうでした。）\
+\
+諸君。\
+\
+とうとうCLAに決定的な打撃を与え、この戦争を終らせるときがやってきました。GISは、敵が非常に弱体化していることを報告してきました。兵士達が日増しに脱走しており、その数がどんどん減少しています。司令部は、奴らのリーダーであるアナール・カディロフを1回精密攻撃すれば、この組織を破壊できると考えています。\
+\
+彼の現在位置はわかっています。南オセチアの谷の一つにある、よく守られたヴィラにいます。この領域はロシア支配下であり、防衛されていますので、明らかな空爆は不可能です。しかし、静かで正確な攻撃であれば、うまくかい潜れると考えられます。\
+\
+彼は昨日の夕方にそこに到着しました。ずっとそこにいてくれるとは思えませんので、より緻密な作戦計画を立てるだけの時間は有りません。１ショットでこれを仕留めます。\
+\
+メディアに、今夜に大規模な軍事演習を計画している事を伝えました。空での活動が活発になることを知らせてあります。ひどい気象条件であるにも関わらず、実行する事を通達してあります。\
+\
+さて、カディロフを始末した後に残っている事はあと一つだけです。ジョージア政府内にいるCLAのモグラを見つけて逮捕することです。これについて、非常にエキサイティングなことを知っています。だだし、これを行うのは次の話なので、今回の出撃には関係有りません。\
+\
+Skipper が作戦の詳細を説明します。　大佐お願いします。",
+    ["DictKey_UnitName_49"] = "Buk #002",
+    ["DictKey_UnitName_171"] = "",
+    ["DictKey_GroupName_26"] = "Anar Kadirov",
+    ["DictKey_WptName_125"] = "Landing",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_subtitle_155"] = "[Overlord] Dodge, Overlord. 死亡を確認しました。素晴らしい働きです。RTB",
+    ["DictKey_ActionRadioText_307"] = "ターゲットを破壊",
+    ["DictKey_UnitName_79"] = "Airport Crew #011",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_GroupName_33"] = "South Ossetia SA8",
+    ["DictKey_UnitName_183"] = "Ford 2-2",
+    ["DictKey_subtitle_222"] = "OVERLORD: Overlord から全俳優へ、位置についてください。",
+    ["DictKey_UnitName_31"] = "ZU23",
+    ["DictKey_subtitle_252"] = "DODGE 2-1 (GHOST): Dodge 2-1 copies 、grid LN 73 17の南2マイル、angels 5にアンカー",
+    ["DictKey_UnitName_35"] = "SO SA13 Command",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_UnitName_170"] = "",
+    ["DictKey_UnitName_159"] = "",
+    ["DictKey_WptName_104"] = "WP7",
+    ["DictKey_GroupName_73"] = "Ranger Special Forces",
+    ["DictKey_UnitName_162"] = "Dodge 2-1 (GHOST)",
+    ["DictKey_GroupName_66"] = "DODGE 01",
+    ["DictKey_ActionText_296"] = "ラジオメニューF-10で応答を選択してください。\
+\
+(OVERLORD ACTUAL: Dodge 3-1, Overlord Actual, 攻撃の成果はどうでしたか？)",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_GroupName_53"] = "Leader's House Column",
+    ["DictKey_GroupName_38"] = "South Ossetia SA8 border",
+    ["DictKey_UnitName_27"] = "Anar Kadirov",
+    ["DictKey_ActionText_284"] = ".",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_WptName_103"] = "IP Dodge",
+    ["DictKey_13"] = "新しいラジオメニューがつかされました（F-10）",
+    ["DictKey_GroupName_181"] = "Ford 02",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_WptName_119"] = "Egress",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_UnitName_40"] = "SO SA13 Command #001",
+    ["DictKey_UnitName_81"] = "Airport Crew #009",
+    ["DictKey_subtitle_238"] = "DODGE 2-2 (SIX - PACK): Dodge 2-2, knock it off!",
+    ["DictKey_GroupName_322"] = "RU Buk Battery N",
+    ["DictKey_subtitle_280"] = "プレイヤー： Dodge 3-1 copies, 帰還します。",
+    ["DictKey_sortie_94"] = "TEW3 M20: ノックアウト",
+    ["DictKey_subtitle_157"] = "[Overlord] Dodge, Overlord. ターゲットの排除はできませんでした。やつは現場から逃走しました。RTB",
+    ["DictKey_subtitle_262"] = "DODGE 2-1 (GHOST): Dodge 2-1位置に付きました。",
+    ["DictKey_subtitle_206"] = "FORD 1-1: Ford 1-1, roger.",
+    ["DictKey_UnitName_50"] = "Buk",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_UnitName_89"] = "Airport Crew #001",
+    ["DictKey_GroupName_43"] = "Leader's House Guards",
+    ["DictKey_UnitName_84"] = "Airport Crew #006",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_subtitle_232"] = "DODGE 1-1 (ROCKMAN): Dodge 1-1, knock it off!",
+    ["DictKey_WptName_327"] = "",
+    ["DictKey_UnitName_59"] = "Colt 1-3",
+    ["DictKey_UnitName_323"] = "BUK  #001",
+    ["DictKey_subtitle_208"] = "FORD 2-1: Ford 2, roger.",
+    ["DictKey_UnitName_60"] = "Colt 1-2",
+    ["DictKey_UnitName_67"] = "Boar 1-4",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_ActionText_306"] = ".",
+    ["DictKey_subtitle_212"] = "DODGE 1-1 (ROCKMAN): Dodge 01 フライト 予定座標にオンステーション。訓練開始できます。",
+    ["DictKey_GroupName_161"] = "DODGE 02",
+    ["DictKey_subtitle_246"] = "FORD 2-2: Ford 2-2, knock it off!",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_GroupName_57"] = "Colt (F16)",
+    ["DictKey_ActionRadioText_302"] = "",
+    ["DictKey_UnitName_56"] = "Leader's House Column UAZ",
+    ["DictKey_subtitle_200"] = "OVERLORD: こちら Overlord から全飛行隊へ、各人のアンカーポイントへ進み、予定位置まで上昇してください。訓練開始の準備が整ったら報告してください。",
+    ["DictKey_UnitName_80"] = "Airport Crew #010",
+    ["DictKey_subtitle_230"] = "OVERLORD: Dodge 3-1, 脱出しろ、脱出！Overlord から全員へ、 knock it off, knock it off（中止）!",
+    ["DictKey_UnitName_32"] = "CLA BTR 2",
+    ["DictKey_UnitName_29"] = "Farmhouse",
+    ["DictKey_WptName_116"] = "WP6",
+    ["DictKey_descriptionRedTask_92"] = "",
+    ["DictKey_WptName_110"] = "Target",
+    ["DictKey_subtitle_264"] = "OVERLORD: Overlord to Dodge 01 と 02, ガードチェンネルを許可します。AMチェンネル５に合わせて報告して下さい。",
+    ["DictKey_21"] = "Mission Complete!\
+\
+デブリーフィング：よくやりました！このミッションで、CLAを完全に崩壊させました！カディロフの死により、あとやることは、ジョージア軍が各地に散らばった小さな残党を、追い詰めて片付けるだけです。",
+    ["DictKey_subtitle_220"] = "プレイヤー： Overlord, Overlord, Dodge 3-1,位置に付きました。開始準備できました。",
+    ["DictKey_UnitName_58"] = "Colt 1-4",
+    ["DictKey_subtitle_272"] = "OVERLORD ACTUAL: Dodge 3-1, Overlord Actual, 攻撃の成果はどうでしたか？",
+    ["DictKey_GroupName_173"] = "Ford 01",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_GroupName_48"] = "BUK Battery",
+    ["DictKey_GroupName_71"] = "Landing Blackhawk",
+    ["DictKey_UnitName_34"] = "SO SA13 Uaz",
+    ["DictKey_UnitName_45"] = "Guard #002",
+    ["DictKey_WptName_115"] = "WP12",
+    ["DictKey_ActionRadioText_304"] = "ターゲットを破壊",
+    ["DictKey_UnitName_88"] = "Airport Crew #002",
+    ["DictKey_17"] = "新しいラジオメニューがつかされました（F-10）",
+    ["DictKey_UnitName_42"] = "SO SA13 A #001",
+    ["DictKey_GroupName_62"] = "DODGE 03 (Player)",
+    ["DictKey_UnitName_44"] = "Guard #003",
+    ["DictKey_subtitle_189"] = "DODGE 1-1 (ROCKMAN): Dodge 01フライト,離陸",
+    ["DictKey_ActionText_309"] = "MISSION COMPLETE.\
+\
+パーキングエリアに移動して、機体をシャットダウンしてください。",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_UnitName_83"] = "Airport Crew #007",
+    ["DictKey_subtitle_240"] = "FORD 1-1: Ford 1-1, knock it off!",
+    ["DictKey_UnitName_75"] = "Ranger SF #002",
+    ["DictKey_UnitName_54"] = "Leader's House Column BTR",
+    ["DictKey_GroupName_158"] = "New Static Object",
+    ["DictKey_subtitle_236"] = "DODGE 2-1 (GHOST): Dodge 2-1, knock it off!",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_UnitName_55"] = "Leader's House Column Kamaz",
+    ["DictKey_subtitle_198"] = "プレイヤー： Dodge 03, ,離陸",
+    ["DictKey_subtitle_192"] = "DODGE 2-1 (GHOST): Dodge 02,  ,離陸",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_15"] = "[Dodge 1-1] Overlord, こちらthis is Dodge 1-1. オンステーションしました。ショーを開始する準備は整っています。合図を待ちます。",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_subtitle_276"] = "プレイヤー： Overlord, Dodge 3-1, 報告します。ターゲットは破壊できませんでした、繰り返します。ターゲットは破壊できませんでした。",
+    ["DictKey_subtitle_228"] = "プレイヤー： 報告します。両エンジンから出火、機体は制御不能になりつつあります。3000feetを切りました。脱出が必要です。",
+    ["DictKey_subtitle_234"] = "DODGE 1-2 (CAPTAIN): Dodge 1-2, knock it off!",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_UnitName_176"] = "Ford 1-2",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_UnitName_69"] = "Dodge 1-2 (CAPTAIN)",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_169"] = "Landing",
+    ["DictKey_WptName_111"] = "Turn Around",
+    ["DictKey_GroupName_24"] = "Leader's House",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_subtitle_266"] = "OVERLORD: Overlord から全員へ。ミラータイム（ビール）を許可します。",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_UnitName_68"] = "Boar 1-3",
+    ["DictKey_WptName_106"] = "WP17",
+    ["DictKey_GroupName_64"] = "Overlord",
+    ["DictKey_WptName_108"] = "APP",
+    ["DictKey_ActionRadioText_308"] = "ターゲットは破壊できず",
+    ["DictKey_WptName_107"] = "PREPARE",
+    ["DictKey_ActionRadioText_298"] = "ターゲットは破壊できず",
+    ["DictKey_22"] = "Mission Complete!\
+\
+デブリーフィング：アナール・カディロフは最初の空襲で死にませんでした。情報によると、彼は重症を負いましたが、忠実な同志によって瓦礫から連れ出されたと言うことです。しかし、この状態では彼はCLAを率いることは不可能で、組織はジョージア軍によって壊滅させられるでしょう。良い働きでした。",
+    ["DictKey_subtitle_153"] = "[Overlord] Dodge 1-1, Overlord. あなたのターゲットの位置と識別はできています。そのまま続けてください。",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_UnitName_82"] = "Airport Crew #008",
+    ["DictKey_UnitName_86"] = "Airport Crew #004",
+    ["DictKey_subtitle_268"] = "DODGE 1-1 (ROCKMAN): Overlord, Dodge 1-1, roger. ",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_UnitName_326"] = "Buk #005",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_subtitle_226"] = "OVERLORD: Dodge 3-1, Overlord, ラジャー、状況は？",
+    ["DictKey_ActionRadioText_301"] = "",
+    ["DictKey_subtitle_194"] = "FORD 1-1: Ford 01 フライト,,離陸",
+    ["DictKey_subtitle_214"] = "DODGE 2-1 (GHOST): Overlord, Dodge 02 フライト、位置に付きました。",
+    ["DictKey_subtitle_224"] = "プレイヤー： Overlord, Overlord, Dodge 3-1, メイデイ、メイデイ、メイデイ、両エンジンから出火！　 Grid 38T LN 73 17.",
+    ["DictKey_subtitle_196"] = "FORD 2-1: And Ford 02 ,離陸",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_ActionText_300"] = ".",
+    ["DictKey_20"] = "[Dodge 1-1] Overlord, こちら Dodge 1-1, solid copy.",
+    ["DictKey_UnitName_70"] = "Dodge 1-1 (ROCKMAN)",
+    ["DictKey_UnitName_41"] = "SO SA13 B #001",
+    ["DictKey_subtitle_154"] = "[Overlord] Dodge, Overlord. 死亡を確認しました。素晴らしい働きです。RTB",
+    ["DictKey_WptName_312"] = "",
+    ["DictKey_UnitName_90"] = "Airport Crew",
+    ["DictKey_ActionRadioText_297"] = "ターゲットを破壊",
+    ["DictKey_subtitle_258"] = "FORD 2-1: Ford 2-1, 基地に帰ります。",
+    ["DictKey_ActionText_286"] = "信号弾が上がり、予定通り準備が整ったら、適切な周波数に合わせてスペースバーを押してください。作戦を開始します。",
+    ["DictKey_subtitle_254"] = "OVERLORD: グッドリードバック。  Ford 01 と 02　は帰還を許可します。",
+    ["DictKey_UnitName_174"] = "Ford 1-1",
+    ["DictKey_UnitName_325"] = "Buk #004",
+    ["DictKey_UnitName_37"] = "SO SA13 A",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_subtitle_278"] = "OVERLORD ACTUAL: ラジャー Dodge 3-1, 天候が回復してから、BDA（爆撃効果判定）を行います。帰還を許可します。",
+    ["DictKey_UnitName_77"] = "Ranger SF",
+    ["DictKey_16"] = "フレアを確認",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_14"] = "Dodge のオンステーションを報告",
+    ["DictKey_WptName_117"] = "WP14",
+    ["DictKey_WptName_102"] = "WP1",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_subtitle_202"] = "DODGE 1-1 (ROCKMAN): Dodge 01, wilco.",
+    ["DictKey_GroupName_78"] = "Airport Crew",
+    ["DictKey_23"] = "Mission Complete!\
+\
+デブリーフィング：我軍の情報部によると、カディロフはあなたの攻撃で傷を負いませんでした。そのまま、現場から逃げ出しました。\
+\
+ここからは、テロリストのリーダーを探して殺せるかどうかは、特殊部隊の働きにかかっています。\
+\
+とにかく、カディロフは隠れているので、残されていることは、散らばっている残りの抵抗勢力を追い詰めて壊滅させることだけです。",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_WptName_311"] = "WP13",
+    ["DictKey_subtitle_244"] = "FORD 2-1: Ford 2-1, knock it off!",
+    ["DictKey_subtitle_260"] = "DODGE 1-1 (ROCKMAN): Dodge 1-1 指定座標到着、墜落現場を捜索します。",
+} -- end of dictionary
