@@ -1,0 +1,20 @@
+dictionary = 
+{
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_sortie_5"] = "離陸",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_GroupName_10"] = "Yak-52 Player",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_UnitName_17"] = "Pilot #001",
+    ["DictKey_GroupName_16"] = "New Airplane Group",
+    ["DictKey_descriptionText_1"] = "シール・アブー・ヌアイル島の空港から離陸してください。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_UnitName_11"] = "Yak-52 Player",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_GroupName_6"] = "Yak-52 Aerobatic",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_UnitName_7"] = "Yak-52 Aerobatic",
+} -- end of dictionary

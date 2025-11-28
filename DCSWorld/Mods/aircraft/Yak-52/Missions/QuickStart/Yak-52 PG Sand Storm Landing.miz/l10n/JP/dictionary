@@ -1,0 +1,18 @@
+dictionary = 
+{
+    ["DictKey_GroupName_6"] = "Yak-52 Player",
+    ["DictKey_UnitName_7"] = "Yak-52 Player",
+    ["DictKey_descriptionText_1"] = "砂嵐の中、ハサブ（Khasab）空港にアプローチし、着陸をしてください。横風 8m/sと乱気流があります。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_10"] = "",
+    ["DictKey_GroupName_11"] = "New Helicopter Group",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_UnitName_12"] = "Pilot #001",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "砂嵐での着陸",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

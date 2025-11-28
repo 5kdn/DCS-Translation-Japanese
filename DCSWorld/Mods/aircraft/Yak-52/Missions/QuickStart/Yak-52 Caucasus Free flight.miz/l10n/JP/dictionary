@@ -1,0 +1,17 @@
+dictionary = 
+{
+    ["DictKey_GroupName_6"] = "Yak-52 Aerobatics",
+    ["DictKey_descriptionText_1"] = "ピャチゴルスク（Pyatigorsk）エリアでのフリーフライト",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_UnitName_7"] = "Yak-52 Aerobatics",
+    ["DictKey_UnitName_11"] = "Yak-52 Player",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "フリーフライト",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_GroupName_10"] = "Yak-52 Player",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_descriptionRedTask_2"] = "Free Flight in the Pyatigorsk area.\
+Pay attention to the Yak-52 aerobatics right ahead.",
+} -- end of dictionary
