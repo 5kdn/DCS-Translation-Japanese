@@ -1,0 +1,333 @@
+campaign = 
+{
+    ["name_DE"] = "WORLDS APART Spring 2025",
+    ["description"] = "You are Part of a four-person crew consisting out of your commanding officer Peter Berger, the two gunners Hans and Tom and you (Frank), as the right seat Pilot. \
+\
+GENERAL SITUATION \
+At the beginning of 2025, the security situation around the world deteriorated even more. The three superpowers are negotiating with itch other, but they are still on a confrontation course. In the course of the progressive separation efforts in many countries, a couple of proxy wars and local insurgence occur. \
+Also, economic interests and the intentions to save natural recourses intensify regional frictions. \
+Particularly the Black Sea region is a focus and a constant danger to peace in the EMEA region. \
+ \
+ \
+The overall situation is very complex and complicated.  Next to the rebels within the Georgian army, fighting against the moderate central government, Turkish insurgents crossing the border regularly. \
+The Georgian rebels fighting for a Georgia reunited with the former Georgian regions Abkhazian and South Ossetia. \
+Within the regions, Abkhazian and South Ossetia armed forces from there regional neighbors assisting local Georgian residents in their efforts for a united Georgia. Especially Ukrainian ultra-right wing fascist groups are fighting in Abkhazian against Russian troops.      \
+Under conduction of the United Nations, many countries send out armed forces to separate the different competing armed groups. \
+ \
+ \
+Parts of the German armed forces cope with the task to secure the southern part of Georgia and assisting government forces in the struggle for peace and safety in the region along the Turkish border. \
+Our unit is part of the first contingents arriving in Batumi where the German headquarters is established but still under construction. \
+ \
+YOU’RE ROLE \
+You and your unit recently arrived in Batumi. \
+The actual situation is mostly calm, but there are still fights in the Border region to Turkey. Intelligence issued a warning only a few days ago.  According to their sources, Georgian rebels, former parts of the Georgian ground and air forces, and well equipped, are planning combined actions with Ukrainian fascist groups in the Batumi area. \
+Your actual task will be: Assisting Georgian and German ground forces in their efforts to secure the Batumi region before you get relocated to Kutaisi in the North.  \
+Within your unit, call sign “WOLF PACK,” you have the assisting part. Flying light-armed patrols, transport troops and material.  Until further advice, your unit is, located at Batumi Airfield. Most flights may be conducted from and to Batumi.  ",
+    ["name_JP"] = "WORLDS APART Spring 2025",
+    ["description_JP"] = "あなた（フランク）は4人からなる乗組員の一人で、右座席のパイロットです。仲間は、指揮官ピーター・バーガーと二人のガンナー、ハンスとトムです。\
+\
+状況\
+2025年初頭、世界の治安状況は更に悪化しました。３つの超大国はお互い他国と交渉はしていますが、対決姿勢でいます。多くの国で分離主義（separation efforts）が進む中、いくつかの代理戦争と内乱が起こります。\
+\
+また、経済的利益と自然資源の保護は地域間の摩擦を激化させました。\
+特に黒海地域はEMEA （Europe, the Middle East and Africa：ヨーロッパ、中東、アフリカ）地域の中で、注目をあつめ、常に緊迫した地域でした。\
+\
+\
+全体的な状況は非常に複雑でわかりにくい状況でした。\
+穏健な中央政府と戦う、ジョージア軍内の反乱軍の横で、トルコの反乱軍が日常的に国境を超えてきていました。\
+ジョージアの反乱軍は、昔のジョージア領であるアブハジアと南オセチアを再統合させるために戦っていました。\
+地域内では、隣接地域から来たアブハジアと南オセチアの武装勢力は連合ジョージア（ジョージア、アブハジア、南オセチアの連合）のために活動している地元ジョージア住民を援助しています。特に、ウクライナ極右ファシストグループはアブハジア内でロシア軍と戦っています。\
+国連主導の下で多くの国が軍隊を派遣し、争い合う武装グループを分離しています。\
+ \
+ \
+ドイツ軍の一部は、ジョージア南部地域の確保と、トルコとの国境地域の平和と安全のために戦っている政府軍への支援活動を担当しています。\
+私達は、まだ建設中のドイツ司令本部があるバトゥミにやってきた最初の部隊の一員です。\
+ \
+あなたの役割 \
+あなたとあなたの部隊は、最近バトゥミに到着しました。\
+実際の状況はおおむね穏やかですが、トルコとの国境地域ではまだ戦闘があります。情報局がほんの数日前に警告を発しました。彼らの情報によると、バトゥミエリア内で、ジョージア反乱軍（ジョージアの元陸軍兵と空軍兵で充実した装備を所有）とウクライナファシストグループとが連携作戦を計画しています。\
+あなたの実際に仕事：北のクタイシに再配属される前に、バトゥミ地域確保に向けて活動するジョージア軍とドイツ陸軍を支援してください。\
+部隊でのコールサインは「ウルフパック」で、支援を担当します。軽武装のパトロール、兵士や資材の輸送を行います。さらなる指示があるまでは、あなたの部隊はバトゥミ空港にいます。ほとんどのフライトはバトゥミから離発着します。",
+    ["name_EN"] = "WORLDS APART Spring 2025",
+    ["pictureSuccess_EN"] = "CAMPAIGN Spring 2025.png",
+    ["description_DE"] = "You are Part of a four-person crew consisting out of your commanding officer Peter Berger, the two gunners Hans and Tom and you (Frank), as the right seat Pilot. \
+\
+GENERAL SITUATION \
+At the beginning of 2025, the security situation around the world deteriorated even more. The three superpowers are negotiating with itch other, but they are still on a confrontation course. In the course of the progressive separation efforts in many countries, a couple of proxy wars and local insurgence occur. \
+Also, economic interests and the intentions to save natural recourses intensify regional frictions. \
+Particularly the Black Sea region is a focus and a constant danger to peace in the EMEA region. \
+ \
+ \
+The overall situation is very complex and complicated.  Next to the rebels within the Georgian army, fighting against the moderate central government, Turkish insurgents crossing the border regularly. \
+The Georgian rebels fighting for a Georgia reunited with the former Georgian regions Abkhazian and South Ossetia. \
+Within the regions, Abkhazian and South Ossetia armed forces from there regional neighbors assisting local Georgian residents in their efforts for a united Georgia. Especially Ukrainian ultra-right wing fascist groups are fighting in Abkhazian against Russian troops.      \
+Under conduction of the United Nations, many countries send out armed forces to separate the different competing armed groups. \
+ \
+ \
+Parts of the German armed forces cope with the task to secure the southern part of Georgia and assisting government forces in the struggle for peace and safety in the region along the Turkish border. \
+Our unit is part of the first contingents arriving in Batumi where the German headquarters is established but still under construction. \
+ \
+YOU’RE ROLE \
+You and your unit recently arrived in Batumi. \
+The actual situation is mostly calm, but there are still fights in the Border region to Turkey. Intelligence issued a warning only a few days ago.  According to their sources, Georgian rebels, former parts of the Georgian ground and air forces, and well equipped, are planning combined actions with Ukrainian fascist groups in the Batumi area. \
+Your actual task will be: Assisting Georgian and German ground forces in their efforts to secure the Batumi region before you get relocated to Kutaisi in the North.  \
+Within your unit, call sign “WOLF PACK,” you have the assisting part. Flying light-armed patrols, transport troops and material.  Until further advice, your unit is, located at Batumi Airfield. Most flights may be conducted from and to Batumi.  ",
+    ["stages"] = 
+    {
+        [7] = 
+        {
+            ["name"] = "Stufe 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "WORLDS APART Mission 6.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\MIR\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\WORLDS APART\\WORLDS APART Mission 6.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] = 
+        {
+            ["name"] = "Stufe 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "WORLDS APART Mission 1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\MIR\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\WORLDS APART\\WORLDS APART Mission 1.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stufe 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "WORLDS APART Mission 2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\MIR\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\WORLDS APART\\WORLDS APART Mission 2.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "Stufe 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "WORLDS APART Mission 4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\MIR\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\WORLDS APART\\WORLDS APART Mission 4.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] = 
+        {
+            ["name"] = "Stufe 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "WORLDS APART Mission 7.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\MIR\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\WORLDS APART\\WORLDS APART Mission 7.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [9] = 
+        {
+            ["name"] = "Stufe 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "WORLDS APART Mission 8.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\MIR\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\WORLDS APART\\WORLDS APART Mission 8.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] = 
+        {
+            ["name"] = "Stufe 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "WORLDS APART Mission 5-1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\MIR\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\WORLDS APART\\WORLDS APART Mission 5-1.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Stufe 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "WORLDS APART Mission 9.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\MIR\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\WORLDS APART\\WORLDS APART Mission 9.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [3] = 
+        {
+            ["name"] = "Stufe 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "WORLDS APART Mission 3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\MIR\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\WORLDS APART\\WORLDS APART Mission 3.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] = 
+        {
+            ["name"] = "Stufe 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "WORLDS APART Mission 5-2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\MIR\\Saved Games\\DCS.openbeta\\Missions\\EIGENE\\WORLDS APART\\SPRING 2025\\Mission 5_2\\FERTIG\\WORLDS APART Mission 5-2.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Stufe 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "WORLDS APART MISSION 11.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\MIR\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\WORLDS APART\\WORLDS APART MISSION 11.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [11] = 
+        {
+            ["name"] = "Stufe 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "WORLDS APART Mission 10.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\MIR\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\WORLDS APART\\WORLDS APART Mission 10.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+    }, -- end of ["stages"]
+    ["fullPath"] = "C:\\Users\\MIR\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\WORLDS APART\\WORLDS_APART_Spring_2025.cmp",
+    ["picture_EN"] = "CAMPAIGN Spring 2025 Banner.png",
+    ["directory"] = "C:\\Users\\MIR\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\en\\WORLDS APART\\",
+    ["startStage"] = 1,
+    ["picture"] = "CAMPAIGN Spring 2025 Banner.png",
+    ["description_EN"] = "You are Part of a four-person crew consisting out of your Commanding Officer Peter Berger, the two Gunners Hans and Tom and you (Frank), as the right seat Pilot. \
+\
+GENERAL SITUATION \
+At the beginning of 2025, the security situation around the world deteriorated even more. The three superpowers are negotiating with itch other, but they are still on a confrontation course. In the course of the progressive separation efforts in many countries, a couple of proxy wars and local insurgence occur. \
+Also, economic interests and the intentions to save natural recourses intensify regional frictions. \
+Particularly the Black Sea region is a focus and a constant danger to peace in the EMEA region. \
+ \
+ \
+The overall situation is very complex and complicated.  Next to the rebels within the Georgian army, fighting against the moderate central government, Turkish insurgents crossing the border regularly. \
+The Georgian Rebels fighting for a Georgia reunited with the former Georgian Regions Abkhazian and South Ossetia. \
+Within the Regions, Abkhazian and South Ossetia armed forces from there regional neighbors assisting local Georgian residents in their efforts for a united Georgia. Especially Ukrainian ultra-right wing Fascist Groups are fighting in Abkhazian against Russian troops.      \
+Under conduction of the United Nations, many countries send out armed forces to separate the different competing armed groups. \
+ \
+ \
+Parts of the German Armed forces cope with the Task to secure the southern Part of Georgia and assisting government forces in the struggle for peace and safety in the region along the Turkish border. \
+Our unit is part of the first contingents arriving in Batumi where the German Headquarter is established but still under construction. \
+ \
+YOU’RE ROLE \
+You and your unit recently arrived in Batumi. \
+The actual situation is mostly calm, but there are still fights in the Border region to Turkey. Intelligence issued a warning only a few days ago.  According to their Sources, Georgian Rebels, former parts of the Georgian Ground and Air Forces, and well equipped, planning combined actions with these Ukrainian fascist Groups in the Batumi area. \
+Your actual task will be: Assisting Georgian and German ground forces in their efforts to secure the Batumi region before you get relocated to Kutaisi in the North.  \
+Within your unit, call sign “WOLF PACK,” you have the assisting part. Flying light-armed patrols, Transporting troops and material.  Until further advice, your unit is, located at Batumi Airfield. Most flights may be conducted from and to Batumi.  ",
+    ["pictureFailed_DE"] = "CAMPAIGN Spring 2025 MF.png",
+    ["pictureFailed"] = "CAMPAIGN Spring 2025 MF.png",
+    ["version"] = 1,
+    ["pictureSuccess"] = "CAMPAIGN Spring 2025.png",
+    ["name"] = "WORLDS APART Spring 2025",
+    ["necessaryUnits"] = 
+    {
+        ["UH-1H"] = "UH-1H",
+    }, -- end of ["necessaryUnits"]
+    ["pictureFailed_EN"] = "CAMPAIGN Spring 2025 MF.png",
+    ["picture_DE"] = "CAMPAIGN Spring 2025 Banner.png",
+    ["pictureSuccess_DE"] = "CAMPAIGN Spring 2025.png",
+} -- end of campaign
