@@ -1,0 +1,441 @@
+campaign = 
+{
+    ["picture_EN"] = "Campaign Small Cover 2.jpg",
+    ["directory"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\",
+    ["startStage"] = 1,
+    ["picture"] = "Campaign Small Cover 2.jpg",
+    ["necessaryUnits"] = 
+    {
+        ["A-10C"] = "A-10C",
+    }, -- end of ["necessaryUnits"]
+    ["description_EN"] = "The Enemy Within 3.0 is a complete remake of the critically-acclaimed The Enemy Within campaign for the A-10C Warthog.\
+\
+This story-driven campaign puts you in cockpit of the Warthog as part of a small, 6-ship US detachment sent to Georgia. Your mission isto help contain a growing threat from a terrorist organization calling itself the \"Caucasus Liberation Army\" (CLA). As the story unfolds, you will be  faced with a variety of challenges, including close air support, precision strikes, combat search and rescue, anti-ship strikes, and even air to air combat.\
+\
+Striving to be as realistic as possible, the units featured in the  campaign are based on their real-life counterparts. It also uses a sophisticated radio control system, meaning that you must tune your on-board radios to the correct frequency to hear the more than 2000 custom voiceovers available throughout 21 missions.\
+\
+Compared to the original campaign, version 3.0 offers following great additions and changes:\
+\
+- 20 out of 21 missions have been rewritten from scratch. This includes the course of action, dialogues, briefings and background information.\
+- More than 2/3 of the missions take place in different locations than the original ones, and most feature different challenges and enemies to provide a completely new experience,\
+- 3 entirely new missions that are designed to complement and extend the storyline.\
+- The 8 pilot and 3 commander characters featured throughout the campaign have almost 4x more custom voiceovers (over 2100).\
+- Additional documents and custom kneeboard pages are available for each sortie.",
+    ["description"] = "The Enemy Within 3.0 is a complete remake of the critically-acclaimed The Enemy Within campaign for the A-10C Warthog.\
+\
+This story-driven campaign puts you in cockpit of the Warthog as part of a small, 6-ship US detachment sent to Georgia. Your mission isto help contain a growing threat from a terrorist organization calling itself the \"Caucasus Liberation Army\" (CLA). As the story unfolds, you will be  faced with a variety of challenges, including close air support, precision strikes, combat search and rescue, anti-ship strikes, and even air to air combat.\
+\
+Striving to be as realistic as possible, the units featured in the  campaign are based on their real-life counterparts. It also uses a sophisticated radio control system, meaning that you must tune your on-board radios to the correct frequency to hear the more than 2000 custom voiceovers available throughout 21 missions.\
+\
+Compared to the original campaign, version 3.0 offers following great additions and changes:\
+\
+- 20 out of 21 missions have been rewritten from scratch. This includes the course of action, dialogues, briefings and background information.\
+- More than 2/3 of the missions take place in different locations than the original ones, and most feature different challenges and enemies to provide a completely new experience,\
+- 3 entirely new missions that are designed to complement and extend the storyline.\
+- The 8 pilot and 3 commander characters featured throughout the campaign have almost 4x more custom voiceovers (over 2100).\
+- Additional documents and custom kneeboard pages are available for each sortie.",
+    ["pictureSuccess_EN"] = "End  Mission 1.png",
+    ["pictureFailed"] = "End  Mission 3.png",
+    ["name"] = "The Enemy Within 3.0",
+    ["stages"] = 
+    {
+        [1] = 
+        {
+            ["name"] = "Stage 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M01 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M01 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M02 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M02 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M04 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M04 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] = 
+        {
+            ["name"] = "Stage 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M08 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M08 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [16] = 
+        {
+            ["name"] = "Stage 16",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M16 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M16 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [16]
+        [17] = 
+        {
+            ["name"] = "Stage 17",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M17 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M17 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [17]
+        [9] = 
+        {
+            ["name"] = "Stage 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M09 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M09 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [18] = 
+        {
+            ["name"] = "Stage 18",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M18 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M18 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [18]
+        [5] = 
+        {
+            ["name"] = "Stage 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M05 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M05 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Stage 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M10 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M10 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [20] = 
+        {
+            ["name"] = "Stage 20",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M20 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M20 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [20]
+        [21] = 
+        {
+            ["name"] = "Stage 21",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M21 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M21 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [21]
+        [11] = 
+        {
+            ["name"] = "Stage 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M11 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M11 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [3] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M03 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M03 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] = 
+        {
+            ["name"] = "Stage 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M06 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M06 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Stage 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M12 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M12 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [13] = 
+        {
+            ["name"] = "Stage 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M13 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M13 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "Stage 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M07 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M07 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [14] = 
+        {
+            ["name"] = "Stage 14",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M14 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M14 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+        [15] = 
+        {
+            ["name"] = "Stage 15",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M15 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M15 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+        [19] = 
+        {
+            ["name"] = "Stage 19",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "TEW3 M19 FINAL.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3 M19 FINAL.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [19]
+    }, -- end of ["stages"]
+    ["name_EN"] = "The Enemy Within 3.0",
+    ["version"] = 1,
+    ["pictureFailed_EN"] = "End  Mission 3.png",
+    ["fullPath"] = "D:\\Google Drive\\Campaigns IN DEVELOPMENT\\The Enemy Within 3.0\\For ED\\Campaign\\TEW3.cmp",
+    ["pictureSuccess"] = "End  Mission 1.png",
+
+    ["name_JP"] = "The Enemy Within 3.0",
+    ["description_JP"] = "The Enemy Within 3.0 は非常の高評価を頂いたThe Enemy Within campaign for the A-10C Warthogの完全なリメイクです。\
+\
+このストーリー進行形キャンペーンでは、あなたはジョージアに派遣された６機のアメリカ派遣部隊の一員としてWarthogのコクピットに座ります。あなたの任務は、増大する「コーカサス解放軍（Caucasus Liberation Army：CLA）」と呼ばれるテロ組織の驚異を封じ込めることとです。ストーリーが進につれて、近接航空支援、精密攻撃、戦闘捜索救助、対艦攻撃、空対空戦闘など様々な課題を与えられrます。\
+\
+可能な限りリアルになるように、キャンペーンに登場する部隊は、実際のものに基づいています。正確な無線通信システムを使用していますので、21個のミッションで聞ける2000以上のカスタムボイスオーバーを適切に聞くには、搭載無線機を正しい周波数に合わせる必要があります。\
+\
+元のキャンペーンと比較して、バージョン3.0では次の大きな追加変更が加えられています。：\
+\
+- 21のうち20のミッションをゼロから書き直ししました。これには、一連のアクション、ダイアローグ、ブリーフィング、背景情報が含まれます。\
+- ３分の２のミッションで、元のミッションとは異なる場所になっています。殆どの場合で全く新しい体験を提供できるよう、様々な課題と敵が登場します。\
+- ３つのミッションは、ストーリーラインを補完および拡張するために全く新しく設計しました。\
+- 8人のパイロットと３人の指揮官には、ほぼ4倍のカスタムボイスオーバー（2100以上）を用意しています。\
+- 追加のドキュメントやカスタムニーボードページは各出撃ごとに用意しています。",
+} -- end of campaign
