@@ -1,0 +1,98 @@
+dictionary = 
+{
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_GroupName_8"] = "New Airplane Group #001",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_UnitName_32"] = "Pilot #8",
+    ["DictKey_UnitName_29"] = "Pilot #19",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_ActionText_85"] = "スウィフツが向かっています！",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_UnitName_25"] = "Unit #1",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_UnitName_20"] = "Pilot #17",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_UnitName_9"] = "Pilot #2",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_GroupName_10"] = "New Airplane Group",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_GroupName_94"] = "Самолетная группа",
+    ["DictKey_UnitName_34"] = "Pilot #6",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_UnitName_13"] = "Pilot #1",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_6"] = "Mission Success!\
+----------------------\
+\
+よくやりました。基地上空を制圧したので、Tu-22爆撃隊はミッションを成功させました。",
+    ["DictKey_GroupName_14"] = "New Airplane Group #003",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_sortie_47"] = "Air fight",
+    ["DictKey_UnitName_35"] = "Pilot #5",
+    ["DictKey_7"] = "Mission Failed.",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_GroupName_22"] = "New Airplane Group #008",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_GroupName_19"] = "New Airplane Group #006",
+    ["DictKey_GroupName_38"] = "New Airplane Group #005",
+    ["DictKey_UnitName_18"] = "Pilot #9",
+    ["DictKey_UnitName_30"] = "Pilot #18",
+    ["DictKey_descriptionText_44"] = "情報局からの情報です。\
+セナキーコーキとクタイシ空軍基地の滑走路がほとんど修復されたようです。\
+もう、通常通り機能しているようです。\
+\
+再度、クタイシ空軍基地に小規模爆撃隊を出撃させて滑走路を攻撃します。",
+    ["DictKey_UnitName_41"] = "Pilot #14",
+    ["DictKey_descriptionRedTask_45"] = "あなたの飛行隊でクタイシ空軍基地上空を制圧してください。\
+\
+上がってくる敵機を撃墜してください。\
+\
+敵を破壊したあと、帰還してください。\
+\
+空母に安全に着艦してください。",
+    ["DictKey_5"] = "至急、帰還してください！\
+\
+FA-18がそのエリアへ向かっています。援護のため迎撃部隊を出撃させました。",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_descriptionBlueTask_46"] = "",
+    ["DictKey_UnitName_33"] = "Pilot #7",
+    ["DictKey_GroupName_31"] = "New Airplane Group #002",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_GroupName_36"] = "New Airplane Group #004",
+    ["DictKey_GroupName_26"] = "New Airplane Group #007",
+    ["DictKey_UnitName_37"] = "Pilot #13",
+    ["DictKey_UnitName_17"] = "Pilot #10",
+    ["DictKey_UnitName_95"] = "Пилот #001",
+    ["DictKey_UnitName_21"] = "Pilot #16",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_UnitName_40"] = "Pilot #15",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_UnitName_11"] = "Pilot #4",
+    ["DictKey_GroupName_24"] = "New Ship Group",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_UnitName_23"] = "Pilot #21",
+    ["DictKey_UnitName_12"] = "Pilot #3",
+    ["DictKey_WptName_101"] = "",
+} -- end of dictionary

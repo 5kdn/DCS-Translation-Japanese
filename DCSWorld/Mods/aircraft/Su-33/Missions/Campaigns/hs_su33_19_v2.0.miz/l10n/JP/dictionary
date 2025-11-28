@@ -1,0 +1,100 @@
+dictionary = 
+{
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_descriptionText_45"] = "情報局から連絡です。\
+ズグジジ西に砲撃隊を発見しました。今すぐ脅威となるわけではありませんが、放置して終結されると厄介です。\
+\
+Mig-29飛行隊を先に出撃させます。彼らが領空をスイープしますので\
+あなたは砲撃隊を攻撃してください。\
+\
+あなたの任務は砲撃隊の破壊です。\
+敵機が現れたら撃墜してください。",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_UnitName_19"] = "Pilot #16",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_GroupName_17"] = "New Airplane Group #006",
+    ["DictKey_UnitName_26"] = "Pilot #8",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_UnitName_32"] = "Unit #2",
+    ["DictKey_UnitName_29"] = "Unit #5",
+    ["DictKey_UnitName_39"] = "Pilot #12",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_UnitName_25"] = "Pilot #9",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_GroupName_40"] = "New Airplane Group #007",
+    ["DictKey_UnitName_42"] = "Pilot #18",
+    ["DictKey_UnitName_44"] = "Unit #7",
+    ["DictKey_UnitName_28"] = "Unit #6",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_UnitName_36"] = "Pilot #5",
+    ["DictKey_UnitName_34"] = "Pilot #7",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_UnitName_13"] = "Pilot #13",
+    ["DictKey_descriptionBlueTask_47"] = "",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_6"] = "Mission Failed.",
+    ["DictKey_GroupName_14"] = "New Airplane Group #005",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_UnitName_31"] = "Unit #3",
+    ["DictKey_UnitName_35"] = "Pilot #6",
+    ["DictKey_GroupName_20"] = "New Ship Group",
+    ["DictKey_descriptionRedTask_46"] = "ズグジジ（Zugdidi）地域の西に飛んでください。\
+\
+砲撃隊を見つけて破壊してください。\
+\
+任務が完了したら帰還してください。\
+\
+空母に安全に着艦してください。",
+    ["DictKey_UnitName_16"] = "Pilot #14",
+    ["DictKey_GroupName_12"] = "New Airplane Group #004",
+    ["DictKey_UnitName_24"] = "Pilot #10",
+    ["DictKey_GroupName_38"] = "New Airplane Group #003",
+    ["DictKey_UnitName_18"] = "Pilot #17",
+    ["DictKey_sortie_48"] = "Arty hunt",
+    ["DictKey_UnitName_41"] = "Pilot #19",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_5"] = "すぐに帰還してください！\
+\
+敵F-15がそちらに向かっています。\
+こちらからも出撃し援護に向かわせます。",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_7"] = "Mission Success!\
+----------------------\
+\
+もう、砲撃隊に悩まされることはないでしょう",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_UnitName_15"] = "Pilot #15",
+    ["DictKey_GroupName_43"] = "New Ship Group #001",
+    ["DictKey_GroupName_8"] = "New Airplane Group",
+    ["DictKey_GroupName_33"] = "New Airplane Group #001",
+    ["DictKey_UnitName_37"] = "Pilot #4",
+    ["DictKey_GroupName_22"] = "New Airplane Group #002",
+    ["DictKey_UnitName_9"] = "Pilot #3",
+    ["DictKey_UnitName_23"] = "Pilot #11",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_UnitName_10"] = "Pilot #2",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_UnitName_11"] = "Pilot #1",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_UnitName_30"] = "Unit #4",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_UnitName_21"] = "Unit #1",
+    ["DictKey_GroupName_27"] = "New Vehicle Group",
+    ["DictKey_WptName_75"] = "",
+} -- end of dictionary

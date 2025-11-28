@@ -1,0 +1,493 @@
+campaign = 
+{
+    ["fullPath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_v2.0.cmp",
+    ["directory"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\",
+    ["startStage"] = 1,
+    ["version"] = 1,
+    
+    ["name"] = "Su-33 - Heavy Sky",
+    ["name_CN"] = "Su-33 - 阴沉的天空",
+    ["name_JP"] = "Su-33 - ヘビースカイ(Heavy Sky)",
+    ["name_KO"] = "Su-33 - 무거운 하늘 (The heavy Sky)",
+    ["name_RU"] = "Су-33 - Тяжелое небо",
+    
+    ["picture"] = "hs_su33__v2.0.png",
+    ["picture_CN"] = "hs_su33__v2.0_cn.png",
+    ["picture_RU"] = "hs_su33__v2.0_ru.png",
+
+    ["description"] = "The Su-33 navy pilot campaign.\
+\
+The campaign is deploying in the Caucasus Black sea area. Accomplishment of a tasks and landing to the airbase or aircraft carrier are indispensable conditions for mission success.",    
+    ["description_CN"] = "Su-33海航飞行员战役。\
+\
+此战役发生在高加索黑海地区。完成着舰或者着陆是任务成功所必需的步骤。",
+    ["description_JP"] = "The Su-33 海軍パイロット　キャンペーン\
+\
+このキャンペーンはコーカサスの黒海地域で展開します\
+目標の達成と基地または空母への着陸がミッション成功のために必要です。",
+
+    ["description_KO"] = "Su-33 해군 조종사 캠페인.\
+\
+이 켐페인은 코카서스 흑해 지역에서 벌어진다. 임무 성공 후 착륙은 이 캠페인의 성공을 위해 반드시 해내야 한다.",
+    ["description_RU"] = "Кампания летчика палубной авиации России, участвующего в вымышленном военном конфликте в черноморском регионе Кавказа.\
+\
+Для продвижения по кампании вам потребуется выполнять поставленные задачи и осуществлять успешные посадки на указанные аэродромы или палубу ТАКР \"Адмирал Кузнецов\".",
+
+    ["necessaryUnits"] = 
+    {
+        ["Su-33"] = "Su-33",
+    }, -- end of ["necessaryUnits"]
+    ["stages"] = 
+    {
+        [1] = 
+        {
+            ["name"] = "Стадия 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_01_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_01_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Стадия 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_02_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_02_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "Стадия 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_04_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_04_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] = 
+        {
+            ["name"] = "Стадия 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_08_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_08_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [16] = 
+        {
+            ["name"] = "Стадия 16",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_16_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_16_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [16]
+        [17] = 
+        {
+            ["name"] = "Стадия 17",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_17_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_17_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [17]
+        [9] = 
+        {
+            ["name"] = "Стадия 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_09_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_09_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [18] = 
+        {
+            ["name"] = "Стадия 18",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_18_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_18_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [18]
+        [5] = 
+        {
+            ["name"] = "Стадия 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_05_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_05_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Стадия 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_10_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_10_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [20] = 
+        {
+            ["name"] = "Стадия 20",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_20_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_20_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [20]
+        [21] = 
+        {
+            ["name"] = "Стадия 21",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_21_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_21_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [21]
+        [11] = 
+        {
+            ["name"] = "Стадия 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_11_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_11_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [22] = 
+        {
+            ["name"] = "Стадия 22",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_22_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_22_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [22]
+        [3] = 
+        {
+            ["name"] = "Стадия 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_03_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_03_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] = 
+        {
+            ["name"] = "Стадия 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_06_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_06_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Стадия 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_12_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_12_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [24] = 
+        {
+            ["name"] = "Стадия 24",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_24_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_24_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [24]
+        [25] = 
+        {
+            ["name"] = "Стадия 25",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_25_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_25_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [25]
+        [13] = 
+        {
+            ["name"] = "Стадия 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_13_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_13_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "Стадия 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_07_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_07_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [14] = 
+        {
+            ["name"] = "Стадия 14",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_14_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_14_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+        [23] = 
+        {
+            ["name"] = "Стадия 23",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_23_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_23_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [23]
+        [19] = 
+        {
+            ["name"] = "Стадия 19",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_19_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_19_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [19]
+        [15] = 
+        {
+            ["name"] = "Стадия 15",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "hs_su33_15_v2.0.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\hs_su33_15_v2.0.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+    }, -- end of ["stages"]
+} -- end of campaign
