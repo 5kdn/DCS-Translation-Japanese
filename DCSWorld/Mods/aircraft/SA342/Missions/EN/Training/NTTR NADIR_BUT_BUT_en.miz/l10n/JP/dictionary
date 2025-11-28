@@ -1,0 +1,41 @@
+dictionary = 
+{
+    ["DictKey_ActionText_24"] = "Sélectionner un point de route. Pour les besoins de la leçon on choisira le point 9.\
+Tapez la touche 9.",
+    ["DictKey_UnitName_9"] = "Pilot #001",
+    ["DictKey_ActionText_25"] = "Tapez la touche ENT.",
+    ["DictKey_UnitName_2"] = "Unité #003",
+    ["DictKey_ActionText_26"] = "よくできました。\
+\
+ウェイポイント１の座標がウェイポイント９にコピーされました。\
+\
+レッスンを終了します。",
+    ["DictKey_UnitName_4"] = "Unité #001",
+    ["DictKey_descriptionBlueTask_12"] = "",
+    ["DictKey_UnitName_3"] = "Unité #002",
+    ["DictKey_GroupName_8"] = "Nouveau Groupe d'Hélicoptères",
+    ["DictKey_descriptionText_10"] = "NADIR のウェイポイントを別のウェイポイントにコピーします。",
+    ["DictKey_GroupName_6"] = "Nouvel objet statique",
+    ["DictKey_ActionText_23"] = "ENTのボタンを押してください。",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_ActionText_22"] = "他のウェイポイントを選択します。\
+\
+今回のレッスンではウェイポイント９にコピーすることにします。\
+９のボタンを押して下さい。",
+    ["DictKey_ActionText_21"] = "ウェイポイント１が既に選択されています。\
+\
+GELを押して座標を保存して下さい。",
+    ["DictKey_ActionText_20"] = "レッスンにようこそ\
+\
+ウェイポイントの座標を他のウェイポイントにコピーする方法を学習します。",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_UnitName_7"] = "Nouvel objet statique",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_UnitName_5"] = "Unité #1",
+    ["DictKey_sortie_13"] = "NADIR BUT BUT",
+    ["DictKey_GroupName_1"] = "Nouveau Groupe de véhicules",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_descriptionRedTask_11"] = "",
+} -- end of dictionary

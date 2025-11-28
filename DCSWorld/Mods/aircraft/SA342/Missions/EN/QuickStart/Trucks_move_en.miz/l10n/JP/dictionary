@@ -1,0 +1,31 @@
+dictionary = 
+{
+    ["DictKey_UnitName_14"] = "Unité #1",
+    ["DictKey_descriptionText_15"] = "射撃練習\
+\
+移動中のトラック",
+    ["DictKey_UnitName_9"] = "Nouvel objet statique",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_UnitName_4"] = "Unité #005",
+    ["DictKey_descriptionBlueTask_17"] = "ウェイポイント＃１に行き、移動しているトラックを破壊して下さい。",
+    ["DictKey_GroupName_10"] = "Nouveau Groupe de véhicules",
+    ["DictKey_GroupName_8"] = "Nouvel objet statique",
+    ["DictKey_UnitName_12"] = "Unité #002",
+    ["DictKey_GroupName_6"] = "Nouveau Groupe d'Hélicoptères",
+    ["DictKey_GroupName_1"] = "Nouveau Groupe de véhicules #001",
+    ["DictKey_descriptionRedTask_16"] = "",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_UnitName_11"] = "Unité #003",
+    ["DictKey_UnitName_7"] = "Pilot #001",
+    ["DictKey_UnitName_13"] = "Unité #001",
+    ["DictKey_UnitName_5"] = "Unité #004",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_sortie_18"] = "移動中のトラック",
+    ["DictKey_UnitName_3"] = "Unité #006",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_UnitName_2"] = "Unité #007",
+} -- end of dictionary

@@ -1,0 +1,94 @@
+dictionary = 
+{
+    ["DictKey_ActionText_34"] = "では、カメラが冷えるのを待ちましょう。",
+    ["DictKey_ActionText_40"] = "ビデオ操作ボックスのズームノブを使ってズームすることができます。ノブ上で左/右 マウスボタンをクリックして操作してください。\
+通常キーの「-」「=」キーでも操作することができます。",
+    ["DictKey_ActionText_29"] = "MODEノブをASS（ロック）の位置にしてください。",
+    ["DictKey_ActionText_25"] = "コントロールインジケーターをまだ表示していない場合は、「RCtrl+Enter」を押して表示してください。",
+    ["DictKey_ActionText_36"] = "これで、照準を動かして地上の目的ポイントへ合わせることができます。\
+\
+スルーキーを使用してください。「；」「．」「，」「／」",
+    ["DictKey_ActionText_33"] = "マスターアームスイッチをM（On)にして下さい。",
+    ["DictKey_descriptionBlueTask_12"] = "注意：\
+日本語キーボードでは＝のキーが利きません。キー登録で代わりに「＾（prev)」のキーを登録しておくことをお勧めします。\
+\
+トレーニングでは「Space」でミサイルの発射ができません。（トレーニングでなければ発射できます。）他のキーを一時的に割り当てるかジョイスティックへボタンを割り当てて下さい。\
+\
+レッスン後半ミサイル発射のところはどんどんテキストが進みます。\
+ポーズキーで止めながらゆっくりと進めて下さい。",
+    ["DictKey_ActionText_32"] = "GISEMENTノブを１の位置にセットし、パイロン１（右外側パイロン）のミサイルを選択します。\
+\
+中間の番号のない位置はセキュリティポジションで、セットしても何も起こりません。\
+\
+「LAlt+1」…「LAlt+4」キーでセットすることもできます。それぞれパイロン１からパイロン４に対応します。\
+\
+「D」キーを押して選択パイロンを巡回させることもできます。",
+    ["DictKey_GroupName_8"] = "Nouveau Groupe d'Hélicoptères",
+    ["DictKey_descriptionText_10"] = "",
+    ["DictKey_ActionText_23"] = "ボードコマンダー（コパイロット）席に移動します。\
+「２」キーを押してください。",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_UnitName_7"] = "Nouvel objet statique",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_UnitName_5"] = "Unité #1",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_UnitName_2"] = "Unité #003",
+    ["DictKey_ActionText_24"] = "これで、兵器システムの様々な機能を使用することができます。",
+    ["DictKey_UnitName_9"] = "Pilot #001",
+    ["DictKey_ActionText_35"] = "照準\
+\
+MODEノブを回してPilote位置にします。",
+    ["DictKey_ActionText_39"] = "ヘリコプターがオートパイロット　スレーブモードに入ると、ヘリコプターはカメラの照準位置に合わせるように方向を変えます。モニタの照準内の右下１/４に小さな白い長方形（シュートキュー）が表示されたらミサイルを発射可能です。\
+\
+ミサイル発射前に、左ドアそばにある、ボードコマンダーのジョイスティックにあるミサイル発射カバー（Missile Launch Cover)を開けて下さい。（開けないとミサイル発射できません）\
+\
+ミサイルを発射するには、「Space」*を押すか、ミサイル発射（Missile　Launch ）ボタンを押してください。\
+\
+*トレーニングではSpaceは反応しません\
+\
+",
+    ["DictKey_UnitName_4"] = "Unité #001",
+    ["DictKey_ActionText_21"] = "ビューを通常にセットしてください。\
+「Numpad *」を押してから「Numpad Enter」を押してください。",
+    ["DictKey_GroupName_6"] = "Nouvel objet statique",
+    ["DictKey_ActionText_27"] = "VIDEO COMMAND BOX\
+\
+Please set the TLM (power) knob to the M (On) position.",
+    ["DictKey_UnitName_3"] = "Unité #002",
+    ["DictKey_ActionText_22"] = "離陸して、ヘリコプターをオートホバーモードにのしてください。\
+そうすれば、ヘリコプターの操縦に気を取られることなく兵器の使用に集中することができます。\
+\
+安定したホバリング状態で「Q」キーでオートホバーに入れます。\
+オートホバー中にコレクティブ操作をして高度を調節したければ「C」を押してオートコレクティブを解除して下さい。\
+\
+オートホバーモードの入ったらスペースキーを押してください。",
+    ["DictKey_GroupName_1"] = "Nouveau Groupe de véhicules",
+    ["DictKey_ActionText_20"] = "兵器運用のレッスンへようこそ\
+\
+ビューを通常にセットしてください。\
+「Numpad *」を押してから「Numpad Enter」を押してください。",
+    ["DictKey_ActionText_37"] = "目標地上ポイントを照準に捉えたら、ヘリコプターのオートパイロットをスレーブモードにして、カメラに追随させて下さい。\
+\
+パイロットのサイクリックにあるスレーブボタンを押すか、「E」キーを押してください。",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_ActionText_26"] = "TV\
+\
+TVをONにします。",
+    ["DictKey_descriptionRedTask_11"] = "",
+    ["DictKey_sortie_13"] = "兵器運用レッスン（HOT3ミサイル）",
+    ["DictKey_ActionText_30"] = "この時から、照準カメラを冷却するのに約３分間必要です。\
+\
+１分３０秒後にはカメラを動かし、固定させることはできますが、武器の発射はできません。\
+\
+３分たつと完全に冷却され、武器の発射が可能になります。\
+\
+今回は、攻撃地点に近いので３分間カウントして待ちます。",
+    ["DictKey_ActionText_31"] = "ミサイルコンソール\
+\
+キーをJOUR(DAY）の位置に回してミサイルコンソールの電源を入れてください。",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_ActionText_28"] = "CTHノブをM（On)にしてください。",
+    ["DictKey_ActionText_38"] = "よくできました。\
+これで、兵器運用レッスンを終了します。",
+} -- end of dictionary
