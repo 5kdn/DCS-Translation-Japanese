@@ -1,0 +1,326 @@
+campaign = 
+{
+    ["picture_EN"] = "Copy of FA-18C Aggressors BFM.jpg",
+    ["directory"] = "H:\\MFM Repos\\FA-18C Repo\\Campaigns\\BFM\\Campaign Files\\",
+    ["description"] = "Congratulations on being selected to join VFC-12 on loan to the 65th Aggressor Squadron. \
+\
+We only pick the best pilots to join our squad which is a testament to your skills and experience.\
+\
+Our mission: To prepare the combat air forces, joint and allied aircrews for tomorrow’s victories with challenging and realistic threat replication, training, academics and feedback.\
+\
+We have a long history in training Allied Navy, Air Force and Marine pilots to be the best they can be. Your job is to continue that legacy.\
+\
+We fly the FA-18C Hornet which can replicate many enemy 4th generation fighters around the world.\
+\
+It excels in Beyond Visual Range or BVR but is also an excellent dogfighter and ground pounder.\
+\
+Your orders are to conduct OPFOR missions as Red Force against many different Blue Force adversaries from various allied nations.\
+\
+Show them what it's like to fly against the best. \
+\
+Show them what it's like to fly against the Aggressors!",
+    ["name_EN"] = "FA-18C Aggressors BFM",
+    ["startStage"] = 1,
+    ["description_EN"] = "Congratulations on being selected to join VFC-12 on loan to the 65th Aggressor Squadron. \
+\
+We only pick the best pilots to join our squad which is a testament to your skills and experience.\
+\
+Our mission: To prepare the combat air forces, joint and allied aircrews for tomorrow’s victories with challenging and realistic threat replication, training, academics and feedback.\
+\
+We have a long history in training Allied Navy, Air Force and Marine pilots to be the best they can be. Your job is to continue that legacy.\
+\
+We fly the FA-18C Hornet which can replicate many enemy 4th generation fighters around the world.\
+\
+It excels in Beyond Visual Range or BVR but is also an excellent dogfighter and ground pounder.\
+\
+Your orders are to conduct OPFOR missions as Red Force against many different Blue Force adversaries from various allied nations.\
+\
+Show them what it's like to fly against the best. \
+\
+Show them what it's like to fly against the Aggressors!",
+    ["necessaryUnits"] = 
+    {
+        ["FA-18C_hornet"] = "FA-18C_hornet",
+    }, -- end of ["necessaryUnits"]
+    ["pictureSuccess_EN"] = "FA-18C Aggressors BFM Success.jpg",
+    ["pictureFailed"] = "FA-18C Aggressors BFM Failure.jpg",
+    ["name"] = "FA-18C Aggressors BFM",
+    ["stages"] = 
+    {
+        [13] = 
+        {
+            ["name"] = "Stage 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18C - BFM11 1 vs 1 GO vs SU-27.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "H:\\MFM Repos\\FA-18C Repo\\Campaigns\\BFM\\Campaign Files\\FA-18C - BFM11 1 vs 1 GO vs SU-27.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "Stage 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18C - BFM05 1 vs 1 GO vs CF-188.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "H:\\MFM Repos\\FA-18C Repo\\Campaigns\\BFM\\Campaign Files\\FA-18C - BFM05 1 vs 1 GO vs CF-188.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] = 
+        {
+            ["name"] = "Stage 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18C - BFM Arrival.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "H:\\MFM Repos\\FA-18C Repo\\Campaigns\\BFM\\Campaign Files\\FA-18C - BFM Arrival.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18C - FAM Flight.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "H:\\MFM Repos\\FA-18C Repo\\Campaigns\\BFM\\Campaign Files\\FA-18C - FAM Flight.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18C - BFM02 1 vs 1 GO vs F-4E.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "H:\\MFM Repos\\FA-18C Repo\\Campaigns\\BFM\\Campaign Files\\FA-18C - BFM02 1 vs 1 GO vs F-4E.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] = 
+        {
+            ["name"] = "Stage 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18C - BFM06 1 vs 1 GO vs F-16C.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "H:\\MFM Repos\\FA-18C Repo\\Campaigns\\BFM\\Campaign Files\\FA-18C - BFM06 1 vs 1 GO vs F-16C.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [9] = 
+        {
+            ["name"] = "Stage 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18C - BFM07 1 vs 1 GO vs MiG-29G.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "H:\\MFM Repos\\FA-18C Repo\\Campaigns\\BFM\\Campaign Files\\FA-18C - BFM07 1 vs 1 GO vs MiG-29G.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] = 
+        {
+            ["name"] = "Stage 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18C - BFM03 1 vs 1 GO vs F-14A.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "H:\\MFM Repos\\FA-18C Repo\\Campaigns\\BFM\\Campaign Files\\FA-18C - BFM03 1 vs 1 GO vs F-14A.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Stage 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18C - BFM08 1 vs 1 GO vs FA-18C.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "H:\\MFM Repos\\FA-18C Repo\\Campaigns\\BFM\\Campaign Files\\FA-18C - BFM08 1 vs 1 GO vs FA-18C.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [3] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18C - BFM01 1 vs 1 GO vs AGGRESSORS.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "H:\\MFM Repos\\FA-18C Repo\\Campaigns\\BFM\\Campaign Files\\FA-18C - BFM01 1 vs 1 GO vs AGGRESSORS.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [11] = 
+        {
+            ["name"] = "Stage 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18C - BFM09 1 vs 1 GO vs MiG-21.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "H:\\MFM Repos\\FA-18C Repo\\Campaigns\\BFM\\Campaign Files\\FA-18C - BFM09 1 vs 1 GO vs MiG-21.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [6] = 
+        {
+            ["name"] = "Stage 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18C - BFM04 1 vs 1 GO vs M-2000C.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "H:\\MFM Repos\\FA-18C Repo\\Campaigns\\BFM\\Campaign Files\\FA-18C - BFM04 1 vs 1 GO vs M-2000C.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Stage 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18C - BFM10 1 vs 1 GO vs F-15E.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "H:\\MFM Repos\\FA-18C Repo\\Campaigns\\BFM\\Campaign Files\\FA-18C - BFM10 1 vs 1 GO vs F-15E.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [14] = 
+        {
+            ["name"] = "Stage 14",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "FA-18C - BFM12 1 vs 1 GO vs F-15C.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "H:\\MFM Repos\\FA-18C Repo\\Campaigns\\BFM\\Campaign Files\\FA-18C - BFM12 1 vs 1 GO vs F-15C.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+    }, -- end of ["stages"]
+    ["pictureSuccess"] = "FA-18C Aggressors BFM Success.jpg",
+    ["version"] = 1,
+    ["pictureFailed_EN"] = "FA-18C Aggressors BFM Failure.jpg",
+    ["fullPath"] = "H:\\MFM Repos\\FA-18C Repo\\Campaigns\\BFM\\Campaign Files\\FA-18C Aggressors BFM.cmp",
+    ["picture"] = "Copy of FA-18C Aggressors BFM.jpg",
+    ["name_JP"] = "FA-18C Aggressors BFM",
+    ["description_JP"] ="おめでとう、第65次アグレッサー隊への出向でVFC-12への加入が決まりました。\
+\
+スキルと経験を証明したあなたを、最高のパイロットとして、私たちのチームへ参加してもらうことを決めました。\
+\
+私たちの使命：将来の処理のために、戦闘空軍、連携及び、同盟国航空クルーの訓練を行います。そのために、困難で現実的な脅威の再現、訓練、学術、フィードバックを行います。\
+\
+我々には連合海軍、空軍、海兵隊のパイロットを訓練してきた長い歴史を持っています。あなたの仕事は、その遺産を継承することです。\
+\
+世界中の多くの第4世代の敵戦闘機を再現するためにFA-18Cホーネットを飛ばしています。\
+\
+この航空機はBVRに優れていますが、ドッグファイターや地上攻撃機としても活躍します。\
+\
+あなたの命令は、様々な同盟国の様々な機体のブルー・フォースに対して、OPFOR（仮想敵部隊）のレッド・フォースとしてミッションを行うことです。\
+\
+最強を相手がどのように飛かを見せてあげてください。\
+\
+アグレッサーに対抗するには、どう飛べば良いのかを見せてあげてください。",
+} -- end of campaign
