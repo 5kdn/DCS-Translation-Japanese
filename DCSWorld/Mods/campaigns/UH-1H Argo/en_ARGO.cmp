@@ -1,0 +1,773 @@
+campaign = 
+{
+    ["name_JP"] = "ARGO UH-1H CAMPAIGN",
+    ["description_JP"] = "アルゴ UH-1H DCS World キャンペーンは物語式のキャンペーンです。あなたは経験豊富なギリシャ陸軍航空部隊のUH-１Hパイロットで、ギリシャ海軍のFFG-46 アルゴに移籍したばかりです。\
+\
+*** イントロダクションとブリーフィングがPDF形式でDCS WORLDのフォルダ内にあります。 ***\
+\
+アルゴは最近引き渡され、大規模なNATOの演習「シーブリーズ」作戦に参加するためジョージアにやって来ました。\
+\
+あなたのUH-1はこの演習において、空対空作戦を行う唯一のヘリコプターであり、あなたはUH-１Hが過去のものではなく、あらゆる作戦に対応できるだけの価値があることを証明する必要があります。\
+\
+「アルゴキャンペーンの特徴」\
+- アクション満載の物語式のミッション\
+- 300以上のオリジナル音声\
+- NATO諸国の海軍、空軍との連携または共同作戦\
+- ミッションファイルとPDFファイルによる詳細なブリーフィング\
+\
+ギリシャ海軍司令部は、あなたとUH-１が命令を完了させる用意の有る無しに関わらず、依然としてその価値に懐疑的です。\
+\
+トレーニングで培ったものを実践し、UH-１Hキャプテンとしての価値を証明する時が来ました。\
+\
+情勢：\
+2017年７月\
+\
+イラク / シリア \
+2016年、米国主導の連立政権は、ISILが支配しているイラクの都市、モスルへの攻撃を行いました。\
+1ヵ月後、連合軍がさらなる航空作戦を要望したため、NATOは正式にこの作業に加わりました。 \
+\
+残念ながら、空爆で多くの戦略目標を破壊しましたが、ISILはイラク各地から大量の援軍を集結し、都市を保持し、地上戦を継続しました。\
+\
+連合軍は、次の新たな攻撃を計画するために軍を撤退することを決めました。イラクとシリ アの他の地域での作戦は続けられました。\
+\
+同時に、ロシアはシリアでの作戦を継続しました。 アサド政権を援助し、南部領土の再占拠とラッカの奪還を目指しました。\
+\
+\
+黒海\
+NATOの演習「シーブリーズ」は、黒海でもう1年間開催されています。今年 は、バトゥミ港が連合軍海軍全体の拠点として使用されています。\
+\
+昨年のモスル（イラク）の紛争のために、ジョージアはトルコを通ってやって来る大量の難 民の大部分の受け入れざるを得ませんでした。NATOはジョージアン領内での演習を通じてこ れを支援する予定です。 \
+\
+演習への参加国は、ブルガリア、ジョージア、ギリシャ、リトアニア、イタリア、モルドバ、 ポーランド、ルーマニア、スウェーデン、ウクライナ、トルコ、英国、米国です。 \
+\
+NATOは、黒海と地中海に相当量の軍隊を展開するためシーブリーズ 2017は世界中の関心を集 めました。 \
+\
+外海の政治、軍事シンクタンクはこの演習の本当の目的について分析しました。「これ はイラクにいるISILに対して近々攻撃を開始するためのものだ。これで弱らせた後、モ スル地区へ地上部隊を派遣するつもりで、黒海と地中海のNATO艦隊はその作戦をトマホ ークミサイルで支援するつもりだ」 \
+\
+同時に、ロシアの指導者がこの地域にNATOが大量の軍隊を集結させた事に関して不快感を示した ことから、この国の反応に懸念がありました。\
+\
+\
+あなたの紹介 \
+あなたは、ギリシャ陸軍所属の経験豊富なギリシャ人UH-1Hパイロットです。あなたの軍歴はギリシャ陸軍航空学校から始まります。\
+最近あなたと多く の現役ヒューイパイロットがギリシャ海軍に移籍しました。\
+\
+あなたの軍歴はギリシャ陸軍航空学校から始まります。\
+そのエンブレムは神話上の生き物のペガサスで、モットーはトゥキディデスの格言\
+「ΤΟΙΣ ΤΟΛΜΩΣΙΝ Η ΤΥΧΗ ΞΥΜΦΟΡΟΣ(幸運は勇者に味方する)」です。\
+\
+UH-1Hは1969年にギリシャ陸軍航空隊に導入されました。現在は26機のUH-1Hを所有しています。ギリシャ軍は旧式のUH-1Hを過去何度も新しい輸送ヘリコプターに入れ替えようとしましたが、ヒューイはその価値を示し続けました。\
+\
+最近、ギリシャは米国政府と交渉し、一部資金提供を含む支援計画を結ぶことに成功しました。これには退役した米国海軍オリバー・ハザード・ペリー級のフリゲート艦4隻の引き渡 しも含まれます。\
+フリゲート艦は、昨年新しいレーダーとファランクスシステムを搭載して近代化し、他の国に 販売する準備が整っていました。\
+\
+この枠組の一環として、10機のギリシャ陸軍UH-1Hが新しいフリゲート艦で運用が行えるよう に改修されました。ヒューイの改修ではAQS-13ディッピングソナーによる対潜水艦戦能量を 向上も行われました。\
+\
+あなたとあなたのUH-1Hはギリシャ海軍、フリゲート艦アルゴ FFG-46に配属されました。\
+アルゴ FF-46（以前はUSSレンツ（FFG-46）で知られていました）は、誘導ミサイルを搭 載した米国海軍オリバーハザードペリー級フリゲート艦です。この艦は建造順で同クラスで 40隻目の艦です。\
+\
+あなたはフリゲート艦に任命される前に、新しい作戦と戦術に関するトレーニングコースを 修了しましたが、次のような任務に関連する幾つかの重要なトレーニングを再訓練しました。\
+\
+- フリゲート艦からの離着陸 \
+- 対戦水艦戦戦術 \
+- 貨物輸送 \
+- オートローテーション手順\
+- 捜索救助手順\
+\
+「シーブリーズ」演習に必要なため、ギリシャ海軍フリゲート艦アルゴFFG-46はバトゥミに 抜けて出向しました。NATO艦隊と他のギリシャ軍への支援を行います。フリゲート艦はまだ ギリシャ政府に正式に譲渡されていませんので、米国旗で活動します。\
+\
+ギリシャはAH-64、チヌーク、そして地上部隊も参加させます。彼らはFOBオリンポスにおり演 習の準備をしています。\
+\
+トレーニングを思い出し、あなたが価値の有るパイロットで有ることを証明して下さい。\
+\
+\
+イントロダクション：\
+このようなことを10年前に言う人がいたら、私はその人のことをバカ呼ばわりしたでしょう。\
+\
+特に、ギリシャでは陸軍航空パイロットが海軍に移籍する事など普通はありえません。 10年前、私はギリシャ陸軍士官学校を卒業し少尉となりました。すぐに、私はへリコプ ターを飛ばしたいだけだと気づき、陸軍航空学校への入学を申請しました。当時、ギリシ ャ国防省は次年度（2007年）に配属予定の12機のAH-64を注文していました。\
+\
+私は報告書を提出しました。数カ月後、私はステファノビキオにある陸軍航空学校に配属さ れました。ボロスの街の近くにある小さな町で、神話のアルゴノーツ（アルゴー号の船員達） の故郷でもあります。\
+キャンプに着いてゲートをくぐった日のことを今でも覚えています。 ゲートの上には学校のエンブレムである神話の翼の生えた不死の馬ペガサスがあります。 ギリシャ神話によると、ペガサスはその母であるメデューサがペルセウスに首を切られた時 にあふれ出た血から生まれました。\
+\
+私は興奮し、人生でこの時を待っていた事を確信していました。\
+\
+初日は楽でした。学校の司令官が私達を歓迎し、学校の歴史と施設について説明をしてく れました。私は彼が少し羨ましかったです。彼は45歳で2000時間以上の飛行時間を経験し、同じ階級内では最上士官で、皆から非常に尊敬されていました。\
+\
+説明の後、彼は私達に2日間の休みくれました。みんなはお互いの顔を見ました、なぜこの世 界で休みなどが必要なのでしょうか。私達は週末に出発し月曜日に戻りました。\
+訓練は非常に厳しく、士官候補生の10％以上が挫折し、30％以上が試験に合格できませんでし た。\
+\
+厳しさにも関わらず、私は基礎航空学科のクラスを最初に卒業をしました。私はどのヘリコプ タータイプの訓練に進むかを選択する必要がありました。\
+\
+私は新しく導入された新鋭機の訓練を受ける最初の士官になると強く確信していました。 私は全ての資格を持っており、軍学校を1番で卒業しました。健康診断も何も問題ありま せんでした。私のインストラクターでさえ、私が訓練で米国に旅行できるなんてとても 幸運だと話をしてくれました。\
+ \
+残念ながら、物事は計画通りには行きませんでした。ギリシャ政府がヘリコプターの配備を遅ら せたため、私は別のヘリコプタータイプに転向せざるを得ませんでした。\
+当時、ギリシャ陸軍航空部隊は1969年に就役したUH-1Hと1984年に納入されたCH-47Dチヌ ークを使用していました。\
+\
+私は非常に悔しかったですが、私のお気に入りの映画の１つが「地獄の黙示録」だった ので、UH-1は正しい選択だったかもしれません。ワグナーのワルキューレの騎行の音楽 と共に、ヘリコプターが集団で攻撃をかけていくシーンを知らない人はいないでしょう。\
+\
+数カ月後、私はヒューイパイロットの資格を取りました。私はアレクサンドリアにある第3 ギリシャ陸軍航空大隊に配属されました。ここは私の出身地テッサロニキの町の近くでした。 クラスメイトのほとんどが実家から離れてここへ配属されていましたので、私はとても運が 良い方でした。\
+彼らのほとんどトルコ国境付近やさらに遠い離島からやって来ていました。 \
+\
+アレクサンドリアでのスケジュールはとてもタイトでしたが、私はとても幸せで、ヒュ ーイの飛行を楽しんでいました。数カ月後最初のAH-64がギリシャに届きました。私はす ぐに転属希望の報告書を提出しました。献身的な働きと良い成績にもかかわらず、この 希望は却下されました。私はアレクサンドリアから転属させるにはあまりにも貴重な存 在になっていました。\
+\
+年が経つにつれて、私はヒューイのあらゆる任務を行いました。通常基地で私は兵士を 演習に輸送し、メディバックを行いました。洪水で農家が孤立して家畜が餓死する危険 があったため、食料や日常品を輸送したこともあります。\
+\
+私は結婚し、二人の子供を授かりました。テッサロニキの家に住んでおり、子どもたち は学校に通っています。私は妻との生活にとても満足しています。ただ、AH-64の支援を 受けて任務を行うたびに、何か違うことをしなければならないと感じていました。\
+\
+２年前、ギリシャがアメリカと条約を結び、その中に４隻のフリゲート艦の引き渡しが含 まれているという噂が広がりました。ギリシャ海軍はこれらの艦船が必要でしたが、これ らの船にはヘリコプターを運用する設備がついていませんでした。そのため、私はこの噂 についてはあまり気にしていませんでした。最近、ギリシャ海軍への移籍とこの船への配 属を要求する書類が私のキャンプに到着するまでは…。\
+新しい船には、改修し対潜水艦用のAQS-13を装備したUH-1を搭載することが決定しました。\
+\
+その後、私は海軍がヘリコプターをどのように運用しているかを勉強しました。 大まかには知っていましたが、その規模までは知りませんでした。\
+\
+この当時、移民問題のために、海軍はどのような天候にも関係なく毎日のように捜索救助 （SAR)を行っていました。何か新しいことをするという考えは私に合っていました。対潜水艦 戦についても考えましたが、それほど難しそうには思えませんでした。\
+\
+今すぐ移籍するかどうかは決められませんでした。まず、妻と話し合う必要がありました。彼女がこの考えを好ましく思わないことは想像できました。解っていました。\
+\
+私の人生が大きく変わります。ギリシャ艦隊の近くにいくためアテネに移住する必要があります。子供達は転校が必要です。私が留守がちになるので、妻は仕事をやめなくてはなりま せん。\
+\
+長い話し合いの後、私達はアテネに移住することを決めました。私はとても幸せでしたが、自分の選択に確信は持てませんでした。悪天候のエーゲ海の真ん中にいるフリゲー ト艦に着陸する様な仕事は、子供も妻もいる身としては良い選択とは言えません。\
+\
+私達はアテネに移り、トレーニングを開始しました。私は長い飛行時間を持っていましたが、移動する船に着陸する体験、特に夜間着陸は、私い新しい世界を見 せてくれました。\
+\
+ASWの訓練は最悪でした。真夜中にエレウシナから離陸し、ナイトビジョン装置なしで約20 マイル移動しました。目的地についたら、海上で高度60フィートと30フィートでのホバリン グ訓練を行いました。\
+\
+アレクサンドリアにいた時は、一瞬でこれを行うことができましたが、真夜中の海上は 勝手が違いました。\
+\
+真っ暗で外に目印となるものが無いため、計器のみに頼らなくてはなりません。このよ うな状況では動いているかどうかが全然わかりません。水上での位置を知るために、フ ライトエンジニアがスモークマーカを目印として投下します。ブラインドでホバリング し、同時に高度計を監視する練習を沢山しました。\
+\
+こんな記憶があります。60フィートホバリングを開始してから約0200時間たった頃に、 チーフエンジニアがソナーブイを投下しました。その途端、パワーロスが発生し高度を 失い始めました。\
+\
+エンジニアはすぐにブイをリリースしましが、ヘリは急速に高度を失っていきました。 ヘリのフローターがほとんど海面に触れるぐらいで、なんとかエンジン出力が回復しま したが、フロントガラスは海水でびしょ濡れでした。すぐにコレクティブを引き上げて、 高度を上げました。あまりにも急な出来事であったため、エマージェンシーを発する暇 さえありませんでした。安全高度に戻した後、この日は帰還することにしました。\
+\
+顔面蒼白になり、辞任してアレクサンドリアかどうか迷ったのを今でも覚えています。\
+訓練が修了に近づいた頃、SAR任務を行うことができるようになりました。救出した人たち全 ての顔を覚えています。これは私を勇気づけます。\
+\
+数週間前、私は転属書類を受け取りました。ギリシャがアメリカとの合意後に受け取った四 隻の船の内の一つへの転属です。船はUSSレンツ（FG-46）です。 USSレンツ（FG-46）はオリバー・ハザード・ペリー級ミサイル誘導フリゲート艦で、この クラスでは40番目に建造された船です。\
+\
+レンツは第2次世界対戦の艦長ジョージ・S・レンツ（1882-1942）にちなんで命名されま した。レンツはスンダ海峡海戦で沈没するUSSヒューストンと運命を共にしました。死後 にその功績に対して海軍十字章を授与されました。第2次世界対戦中、その様な栄誉を受け た海軍艦長は彼だけでした。\
+\
+私達は、船の旗を変える前に、アメリカ軍の同僚達と協力して活動しなくてはならないこ とを教えられました。\
+\
+いままでにも多くのNATOの学校や演習に参加してましたので、多国籍軍の環境下での活 動は初めてではありませんでした。船はアテネ近郊の小さな島、サラミナに停泊してい ました。ここはギリシャ艦隊全ての本拠地です。\
+\
+毎日、私達はエーゲ海でパトロールと演習を行いました。アメリカ軍の乗組員はギリシャの 士官たちが船を動かせるように引き継いだら、すぐにいなくなることは明らかでした。しか し数日前、「シーブリーズ」に参加するために黒海へ航行し、NATO艦隊に合流するよう命 令を受けました。この時期のジョージアの天候は暑いですが、気象官は雷雨が多いと予想し てます。彼らの予報が外れることを期待しましょう。 妻はこのニュースを喜びはしません でしたが、いつものように振る舞ってくれました。\
+\
+私はワクワクしたとは言えませんが、多国籍軍の環境で働き、このような大規模な演習に参加する機会を得ました。また、私はいつも黒海に行ってみたいと思っていました。この時期のジョージアの天候は暑いですが、気象官は多くの雷雨を予想してます。。彼らの予報が外れることを期待しましょう。\
+\
+演習中、ニック・カラベラス少佐が私を監督します。彼と一緒に飛べることは名誉なことです。カラベラス少佐は私達乗組員の能力の評価を行います。全てが上手く行けば、彼はヒューイをギリシャ海軍に正式導入するゴーサインを出します。\
+カラベラス少佐はパイロットとしても、インストラクターとしても多くの飛行時間を持つ有名なギリシャ人パイロットです。彼がギリシャ軍のヒューイを改修して海上運用するというアイデアを出しました。飛行中は彼の命令に従う必要があります。\
+\
+私は制服を詰め込み、家族に別れを告げて、今、黒海の目的地へ向けてフリゲート艦で旅をし ています。私のキャリアの転換期です。",
+    ["picture_EN"] = "operation argo.jpg",
+    ["directory"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\",
+    ["description"] = "Argo UH-1H DCS World Campaign, is a story driven campaign consisting of you in the role of an experienced Hellenic Army Aviation UH-1 pilot, who was just transferred to the Hellenic Navy under the command of the FFG-46 Argo.\
+\
+*** INTRODUCTION & BRIEFINGS ARE INCLUDED ALSO IN PDF FORMAT INSIDE DCS WORLD FOLDER ***\
+\
+Argo was recently obtained and travelled in Georgia to participate in large scaled NATO exercise called \"SEA BREEZE\"..\
+\
+Since your UH-1 is the only one during this exercise that conducts air-naval operations, you will have to prove that UH-1's are not outdated and capable for many tasks adding value in any kind of operations.\
+\
+Features of \"Operation Argo\":\
+\
+- 15 Action-Packed Story Driven Missions\
+- Over 300 Custom Voiceovers\
+- Joint operations and co-op with NATO countries Navy and Air forces.\
+- Detailed briefings included in mission files & pdf format\
+\
+Hellenic Naval Command is still very sceptic, whether you and the UH-1s are ready to succeed in any task that you will be ordered to execute. \
+\
+It's time to refresh your training and prove your value as UH-1H Captain!\
+\
+GENERAL SITUATION:\
+July 2017\
+\
+Iraq/Syria\
+During the year 2016, the US-led coalition, prepared and launched an attack on Iraq's city of Mosul, which is under ISIL's occupation.  \
+\
+NATO officially joined the operation a month later, as the coalition requested for more Air Operations. \
+\
+Unfortunately, although the airstrikes destroyed a great number of strategic targets, ISIL managed to succeed in ground battles and hold the city since mass reinforcements arrived from various Iraqi areas. \
+\
+The coalition decided to withdraw its forces in order to plan a new attack in the future. Operations continued in other areas of Iraq & Syria.\
+\
+At the same time, Russia continues operations in Syria, by supporting the Assad Regime to reoccupy territories in the South and also in the up skirts of Rakka.\
+\
+\
+Black Sea\
+NATO Exercise “Sea Breeze”, is taking place for another year in the Black Sea. This year, Batumi port is being used as a base for all the allied Naval forces.\
+\
+Due to the last year's conflicts in Mosul (Iraq), Georgia was forced to accept a mass wave of refugees arriving through Turkey. NATO wanted to show its support by conducting the exercise in Georgian Territory.\
+\
+The countries that take part in the exerceise are Bulgaria, Georgia, Greece, Lithuania, Italy, Moldova, Poland, Romania, Sweden, Ukraine, Turkey, the United Kingdom, and the United States.\
+\
+“Sea Breeze” 2017 attracted global interest, since NATO has deployed a significant amount of force in the Black Sea and the Mediterranean.\
+\
+Foreign policy and strategy think tanks, talk about the real purposes of the exercises, that are imminent new strikes against ISIL targets in the Iraqi region. The NATO fleet of the Black Sea & Mediterranean can launch attacks with Tomahawk missiles to support new ground operations in the Mosul area, after the low performance of the previous ones.\
+\
+At the same time there are concerns about Russia's reaction, since the country's leadership don't feel comfortable with the amount of forces gathered by NATO the region. \
+\
+\
+YOUR ROLE\
+You are an experienced Greek UH-1H Pilot with many years of service in the Hellenic army. \
+Recently you and a number of active Huey pilots, were tranfered in the Hellenic Navy.\
+\
+Your military career started from the Hellenic Army Aviation academy.\
+Its emblem is the mythical creature Pegasus, while its motto is based on Thucydides quote \
+“ΤΟΙΣ ΤΟΛΜΩΣΙΝ Η ΤΥΧΗ ΞΥΜΦΟΡΟΣ” (Fortune favours the bold).\
+\
+UH-1H’s have entered service in the Hellenic Aviation Army in the year 1969. The current number of UH-1H’s is 26.\
+Greece's aim, was to replace the old UH-1Hs many times in the past with new transport helicopters, but the Huey keeps proving its value. \
+\
+Recently Greece succesfully negotiated with the United States Goverment, on a partially funded military assistance program, which included the procurement of four (4) retired Oliver Hazard Perry-class frigates of the US Navy.\
+The frigates were modernized last year with new Radar & Phalanx systems to get ready to be sold to other countries.\
+\
+Within that framework ten (10) of the Hellenic Army's UH-1Hs have been recently upgraded, so that they can operate from the new frigates. The upgrade of the Huey's is related with the capability of contacting anti-submarine warfare through the use of AQS-13 dipping sonar. \
+\
+You and your UH-1H, were assigned to the new Hellenic Navy Frigate ARGO FFG-46.\
+ARGO FF-46, previously known as USS Rentz (FFG-46), is an Oliver Hazard Perry-class frigate of the United States Navy equipped with guided missiles. It was the 40th ship of its class, in terms of order of  construction. \
+\
+Before your assignment to the frigate, you completed a training course with a set of new operations and tactics but also you repeated training on some important tasks such as:\
+\
+- Takeoff/Landing on the Frigate\
+- Anti-submarine Warfare tactics\
+- Cargo transportation\
+- Autorotation procedures\
+- Search & Resque procedures\
+\
+Now for the needs of “Sea Breeze” exercise, Hellenic Navy's frigate ARGO FFG-46, sailed towards Batumi in order to provide support to the NATO Fleet and the rest of the Greek Forces. The frigate is still operating under US flag as the ship has not yet been delivered to the Greek Goverment.\
+\
+Greece is also participating with AH-64s, Chinooks and land forces which will operate from the FOB Olympus. Get ready for the exercise. \
+\
+It's time to remember your training and prove your value pilot!\
+\
+\
+INTRODUCTION:\
+If anyone would had told me about this 10 years ago I would call him crazy.  \
+\
+It’s not usual for an Army Aviation Pilot to be transferred to the NAVY, especially in Greece. 10 years ago I graduated from Hellenic Army Officers Academy as a 2nd Lieutenant. It didn’t take me much time to realize that all I wanted to do is fly helicopters, so I applied for the Hellenic Army Aviation Academy. Back then the Greek Ministry of Defense ordered 12 AH-64s that were expected to be delivered in the coming year (2007).  \
+\
+I filed my report and a few months later I got transferred to the Hellenic Army Aviation School, located in Stefanovikeio, a small town near the city of Volos, homeland of the mythical Argonauts.  \
+I still remember myself arriving and  passing the gate of  the camp. On the top of the gate there was the emblem of the academy.  It shows the mythical winged immortal horse called Pegasus. According to the Greek mythology, Pegasus was born when its mother Medusa was decapitated by Perseus.  \
+\
+I was excited and confident; I have been waiting for this my entire life. \
+ \
+The first day was easy; the Commander of the academy welcomed us and made a presentation about its history and its infrastructures.  I can say that I was a bit envious. He was 45 years old, with more than 2000 flying hours, top officer in his class and very respectful from everyone. \
+\
+After his presentation he gave us two days off to rest. Everyone was looking at each other, why in the world do we needed to take a rest.  We left for the weekend and came back on Monday.  \
+The training proved to be very demanding, more than 10% of the cadets quitted, and more than 30% percent failed their exams.  \
+\
+Despite the difficulties I managed to graduate first in my class in the Basic Aviation School and I was given the choice to decide which helicopter type I prefer  to be trained on.    \
+\
+I was pretty confident that I was going to be among the first Greek Officers that will be trained on newly delivered super-weapon.  I had all the qualifications, I graduated 1st from the military academy and I passed the medical exams without any problem. Even my instructors were telling me how lucky I was that I would travel to the U.S. for training.  \
+ \
+Unfortunately things didn't go as planned. The Greek Government delayed the delivery of the choppers and I had to divert to another helicopter type.  \
+At that time,  Hellenic Army Aviation was using UH-1s that came in service in the year 1969 and Chinook CH-47D that were delivered to Greece in 1984. \
+\
+I was very frustrated but since one of my favorite movies was “Apocalypse now” it seemed that UH-1 was the right choice.  Who doesn’t know the famous scene with helicopters unloading their weapons with the sounds of  Wagner's “Ride of the Valkyries”? \
+\
+\
+After a few months I became a qualified Huey pilot. I was  transferred for service to 3rd HELLENIC ARMY AVIATION BATTALION which is located in Alexandria, a city near my birthplace Thessaloniki. I was very happy for this since most of my classmates were transferred away from their homes. \
+Most of them near the borders with Turkey or even worst to a remote island.  \
+\
+Although the schedule in Alexandria was pretty tight I was very happy and I was really enjoying flying the Huey. A few months later the first AH-64s were delivered in Greece. I immediately filed my report in order to be transferred. But despite my hard work and the good grades the answer was negative.  It seems that I was too valuable to be transferred from Alexandria.  \
+\
+As the years passed I conducted all sorts of operations with Huey. On regular bases I was transporting troops to exercises, conducted Med-Evac’s, we even one day transported food for livestock’s. Due to a flooding the stock breeder was unable to reach his farm and there was danger that his animals will starve to death.       \
+\
+I got married and now I have two children, I live in a house in Thessaloniki and my children go to school. I am pretty happy with my life but every time that I conduct operation with the aid of AH-64s it reminds that I should be should do something different.  \
+\
+A couple of years ago rumors spread the Greece is ready to sign a treaty with United States that includes the delivery of four frigates. Although the Hellenic Navy needs these ships, they lack the resources to equip them with helicopters. I didn’t pay any attention to these rumors until recently when a document arrived at my camp requesting pilots to be transferred to Hellenic Navy and man the new ships.\
+ They decided to equip the new ships with upgraded UH-1s, equipped with AQS-13 systems for ASW.  \
+\
+ I then started reading in order to learn what kind of operations the Navy conducts with Helicopters. I had an idea but I didn’t know its scale.  \
+\
+At this time also the Navy was performing Search And Rescue (SAR) operations in a daily bases in all kind of weather due to the immigrant problem. I like the idea of doing something new. Also had an idea about the antisubmarine warfare but I did not expect it to be so difficult.  \
+\
+I could not decide whether I wanted to be transferred immediately. First I had to discuss it with my wife and I was pretty sure that she wouldn’t like idea.  \
+\
+Our whole life would change; we had to move to Athens in order to be near the Hellenic Fleet.  The kids had to change school and my wife would have to stop working since I would forced to leave home for days.  \
+\
+After a long discussion we decided to move to Athens, although I was very happy I wasn’t sure about my choice. Landing on frigates in the middle of the Aegean with a bad weather isn’t a good idea especially when you are married with children.  \
+\
+\
+We moved to Athens and I started training. Although I had many flying hours and a lot of experience landing on moving ships was a new world for me especially in night.  \
+\
+\
+Conducting ASW was even worst. We were taking off from Eleusina in the middle of the night and without any Night Vision equipment we traveled for about 20 miles. When we were in the desired location, we were trying to hover over the sea at an altitude of 60 or even 30 feet.  \
+\
+I was able to do this in a split second when I was in Alexandreia, but out in the sea in the middle of the night is very different.  \
+\
+You have to rely only on your instruments, since you have no visual references from outside, which is pitch black. Under such conditions you hardly know if you are moving. In order to know your position over the water the flight engineer deploys a smoke marker which provides the necessary reference. Lot of sweat trying to hover blind and to watch also for your altitude on the same time.\
+\
+I remember once, it was at around 0200 hours when I started hovering at 60 feet, the chief engineer had just deployed  the sonar buoy. When suddenly a power loss occurred and we started losing altitude. \
+\
+The engineer immediately released the buoy cable; we were losing altitude very fast, but at the end, engine power came up just before the heli's floaters almost touched the water. The windscreen was full of sea water I immediately pulled up the collective and we started again gaining altitude. It was so fast that we couldn’t even declare emergency.  When we were back at a safe altitude we headed back home.  \
+\
+I still remember how pale my face was and the thought of resigning and returning back to Alexandria passed my mind.  \
+When our training was about to finish we were able to conduct SAR operation. I remember every face that I rescued and this gives me happiness.  \
+\
+A few weeks ago I received my transfer documents; I got transferred to one of the four ships that Greece acquired after the agreement with the United States.  The ship is USS Rentz (FFG-46). USS Rentz (FFG-46) was an Oliver Hazard Perry-class of guided missile frigate, of the United States Navy, the 40th ship to be constructed of its class. \
+\
+The Rentz was named after World War II Navy Chaplain George S. Rentz (1882–1942). Rentz was posthumously awarded the Navy Cross for actions following the loss of USS Houston in the Battle of Sunda Strait. He was the only Navy chaplain to be so honored during World War II.  \
+\
+I learned that we will have to operate in collaboration with the American colleagues before the ship changes flag.  \
+\
+It wasn’t the first time that I was operating in a multinational  environment since I have attended many NATO schools and exercises in the past. The ship was stationed in Salamina a small island near Athens that hosts the entire Hellenic Fleet.   \
+\
+Every day we were patrolling and conducting exercises in the Aegean Sea. We were quite sure that the American Crew will leave soon after the handover of the ship to the Greek officers managed to operate the ship but a few days ago we received orders to join the NATO Fleet and travel to Black Sea in order to participate in the exercise “Sea Breeze”. My wife didn’t like the news but she was supportive as always.\
+\
+ I can’t say that I was thrilled, but I will have the chance to work in a multinational environment and participate in such a large scale exercise. Also I always wanted to travel to Black Sea. Although the weather in Georgia in this time of year is hot, weather officers predict many thunderstorms. Let’s hope that they are not right in their predictions.   \
+\
+During the exercise I will be supervised by Major Nick Karabelas. It is an honor to fly with him. Major Karabelas will be evaluating my crew’s performance and if everything works well he will give the green light in order our Huey officially joins the Hellenic Navy.   \
+Major Karampelas is a well-known Greek pilot with numerous flight hours both as pilot and as instructor. He was the one that had the idea to upgrade and use Hellenic Hueys for sea operations. During our flights I will have to follow his orders.   \
+  \
+I packed my uniforms, kissed my family goodbye and now I am traveling in a Frigate with destination the Black Sea.  That’s a turn in my career. ",
+    ["name_EN"] = "ARGO UH-1H CAMPAIGN",
+    ["startStage"] = 1,
+    ["description_EN"] = "Argo UH-1H DCS World Campaign, is a story driven campaign consisting of you in the role of an experienced Hellenic Army Aviation UH-1 pilot, who was just transferred to the Hellenic Navy under the command of the FFG-46 Argo.\
+\
+*** INTRODUCTION & BRIEFINGS ARE INCLUDED ALSO IN PDF FORMAT INSIDE DCS WORLD FOLDER ***\
+\
+Argo was recently obtained and travelled in Georgia to participate in large scaled NATO exercise called \"SEA BREEZE\"..\
+\
+Since your UH-1 is the only one during this exercise that conducts air-naval operations, you will have to prove that UH-1's are not outdated and capable for many tasks adding value in any kind of operations.\
+\
+Features of \"Operation Argo\":\
+\
+- 15 Action-Packed Story Driven Missions\
+- Over 300 Custom Voiceovers\
+- Joint operations and co-op with NATO countries Navy and Air forces.\
+- Detailed briefings included in mission files & pdf format\
+\
+Hellenic Naval Command is still very sceptic, whether you and the UH-1s are ready to succeed in any task that you will be ordered to execute. \
+\
+It's time to refresh your training and prove your value as UH-1H Captain!\
+\
+GENERAL SITUATION:\
+July 2017\
+\
+Iraq/Syria\
+During the year 2016, the US-led coalition, prepared and launched an attack on Iraq's city of Mosul, which is under ISIL's occupation.  \
+\
+NATO officially joined the operation a month later, as the coalition requested for more Air Operations. \
+\
+Unfortunately, although the airstrikes destroyed a great number of strategic targets, ISIL managed to succeed in ground battles and hold the city since mass reinforcements arrived from various Iraqi areas. \
+\
+The coalition decided to withdraw its forces in order to plan a new attack in the future. Operations continued in other areas of Iraq & Syria.\
+\
+At the same time, Russia continues operations in Syria, by supporting the Assad Regime to reoccupy territories in the South and also in the up skirts of Rakka.\
+\
+\
+Black Sea\
+NATO Exercise “Sea Breeze”, is taking place for another year in the Black Sea. This year, Batumi port is being used as a base for all the allied Naval forces.\
+\
+Due to the last year's conflicts in Mosul (Iraq), Georgia was forced to accept a mass wave of refugees arriving through Turkey. NATO wanted to show its support by conducting the exercise in Georgian Territory.\
+\
+The countries that take part in the exerceise are Bulgaria, Georgia, Greece, Lithuania, Italy, Moldova, Poland, Romania, Sweden, Ukraine, Turkey, the United Kingdom, and the United States.\
+\
+“Sea Breeze” 2017 attracted global interest, since NATO has deployed a significant amount of force in the Black Sea and the Mediterranean.\
+\
+Foreign policy and strategy think tanks, talk about the real purposes of the exercises, that are imminent new strikes against ISIL targets in the Iraqi region. The NATO fleet of the Black Sea & Mediterranean can launch attacks with Tomahawk missiles to support new ground operations in the Mosul area, after the low performance of the previous ones.\
+\
+At the same time there are concerns about Russia's reaction, since the country's leadership don't feel comfortable with the amount of forces gathered by NATO the region. \
+\
+\
+YOUR ROLE\
+You are an experienced Greek UH-1H Pilot with many years of service in the Hellenic army. \
+Recently you and a number of active Huey pilots, were tranfered in the Hellenic Navy.\
+\
+Your military career started from the Hellenic Army Aviation academy.\
+Its emblem is the mythical creature Pegasus, while its motto is based on Thucydides quote \
+“ΤΟΙΣ ΤΟΛΜΩΣΙΝ Η ΤΥΧΗ ΞΥΜΦΟΡΟΣ” (Fortune favours the bold).\
+\
+UH-1H’s have entered service in the Hellenic Aviation Army in the year 1969. The current number of UH-1H’s is 26.\
+Greece's aim, was to replace the old UH-1Hs many times in the past with new transport helicopters, but the Huey keeps proving its value. \
+\
+Recently Greece succesfully negotiated with the United States Goverment, on a partially funded military assistance program, which included the procurement of four (4) retired Oliver Hazard Perry-class frigates of the US Navy.\
+The frigates were modernized last year with new Radar & Phalanx systems to get ready to be sold to other countries.\
+\
+Within that framework ten (10) of the Hellenic Army's UH-1Hs have been recently upgraded, so that they can operate from the new frigates. The upgrade of the Huey's is related with the capability of contacting anti-submarine warfare through the use of AQS-13 dipping sonar. \
+\
+You and your UH-1H, were assigned to the new Hellenic Navy Frigate ARGO FFG-46.\
+ARGO FF-46, previously known as USS Rentz (FFG-46), is an Oliver Hazard Perry-class frigate of the United States Navy equipped with guided missiles. It was the 40th ship of its class, in terms of order of  construction. \
+\
+Before your assignment to the frigate, you completed a training course with a set of new operations and tactics but also you repeated training on some important tasks such as:\
+\
+- Takeoff/Landing on the Frigate\
+- Anti-submarine Warfare tactics\
+- Cargo transportation\
+- Autorotation procedures\
+- Search & Resque procedures\
+\
+Now for the needs of “Sea Breeze” exercise, Hellenic Navy's frigate ARGO FFG-46, sailed towards Batumi in order to provide support to the NATO Fleet and the rest of the Greek Forces. The frigate is still operating under US flag as the ship has not yet been delivered to the Greek Goverment.\
+\
+Greece is also participating with AH-64s, Chinooks and land forces which will operate from the FOB Olympus. Get ready for the exercise. \
+\
+It's time to remember your training and prove your value pilot!\
+\
+\
+INTRODUCTION:\
+If anyone would had told me about this 10 years ago I would call him crazy.  \
+\
+It’s not usual for an Army Aviation Pilot to be transferred to the NAVY, especially in Greece. 10 years ago I graduated from Hellenic Army Officers Academy as a 2nd Lieutenant. It didn’t take me much time to realize that all I wanted to do is fly helicopters, so I applied for the Hellenic Army Aviation Academy. Back then the Greek Ministry of Defense ordered 12 AH-64s that were expected to be delivered in the coming year (2007).  \
+\
+I filed my report and a few months later I got transferred to the Hellenic Army Aviation School, located in Stefanovikeio, a small town near the city of Volos, homeland of the mythical Argonauts.  \
+I still remember myself arriving and  passing the gate of  the camp. On the top of the gate there was the emblem of the academy.  It shows the mythical winged immortal horse called Pegasus. According to the Greek mythology, Pegasus was born when its mother Medusa was decapitated by Perseus.  \
+\
+I was excited and confident; I have been waiting for this my entire life. \
+ \
+The first day was easy; the Commander of the academy welcomed us and made a presentation about its history and its infrastructures.  I can say that I was a bit envious. He was 45 years old, with more than 2000 flying hours, top officer in his class and very respectful from everyone. \
+\
+After his presentation he gave us two days off to rest. Everyone was looking at each other, why in the world do we needed to take a rest.  We left for the weekend and came back on Monday.  \
+The training proved to be very demanding, more than 10% of the cadets quitted, and more than 30% percent failed their exams.  \
+\
+Despite the difficulties I managed to graduate first in my class in the Basic Aviation School and I was given the choice to decide which helicopter type I prefer  to be trained on.    \
+\
+I was pretty confident that I was going to be among the first Greek Officers that will be trained on newly delivered super-weapon.  I had all the qualifications, I graduated 1st from the military academy and I passed the medical exams without any problem. Even my instructors were telling me how lucky I was that I would travel to the U.S. for training.  \
+ \
+Unfortunately things didn't go as planned. The Greek Government delayed the delivery of the choppers and I had to divert to another helicopter type.  \
+At that time,  Hellenic Army Aviation was using UH-1s that came in service in the year 1969 and Chinook CH-47D that were delivered to Greece in 1984. \
+\
+I was very frustrated but since one of my favorite movies was “Apocalypse now” it seemed that UH-1 was the right choice.  Who doesn’t know the famous scene with helicopters unloading their weapons with the sounds of  Wagner's “Ride of the Valkyries”? \
+\
+\
+After a few months I became a qualified Huey pilot. I was  transferred for service to 3rd HELLENIC ARMY AVIATION BATTALION which is located in Alexandria, a city near my birthplace Thessaloniki. I was very happy for this since most of my classmates were transferred away from their homes. \
+Most of them near the borders with Turkey or even worst to a remote island.  \
+\
+Although the schedule in Alexandria was pretty tight I was very happy and I was really enjoying flying the Huey. A few months later the first AH-64s were delivered in Greece. I immediately filed my report in order to be transferred. But despite my hard work and the good grades the answer was negative.  It seems that I was too valuable to be transferred from Alexandria.  \
+\
+As the years passed I conducted all sorts of operations with Huey. On regular bases I was transporting troops to exercises, conducted Med-Evac’s, we even one day transported food for livestock’s. Due to a flooding the stock breeder was unable to reach his farm and there was danger that his animals will starve to death.       \
+\
+I got married and now I have two children, I live in a house in Thessaloniki and my children go to school. I am pretty happy with my life but every time that I conduct operation with the aid of AH-64s it reminds that I should be should do something different.  \
+\
+A couple of years ago rumors spread the Greece is ready to sign a treaty with United States that includes the delivery of four frigates. Although the Hellenic Navy needs these ships, they lack the resources to equip them with helicopters. I didn’t pay any attention to these rumors until recently when a document arrived at my camp requesting pilots to be transferred to Hellenic Navy and man the new ships.\
+ They decided to equip the new ships with upgraded UH-1s, equipped with AQS-13 systems for ASW.  \
+\
+ I then started reading in order to learn what kind of operations the Navy conducts with Helicopters. I had an idea but I didn’t know its scale.  \
+\
+At this time also the Navy was performing Search And Rescue (SAR) operations in a daily bases in all kind of weather due to the immigrant problem. I like the idea of doing something new. Also had an idea about the antisubmarine warfare but I did not expect it to be so difficult.  \
+\
+I could not decide whether I wanted to be transferred immediately. First I had to discuss it with my wife and I was pretty sure that she wouldn’t like idea.  \
+\
+Our whole life would change; we had to move to Athens in order to be near the Hellenic Fleet.  The kids had to change school and my wife would have to stop working since I would forced to leave home for days.  \
+\
+After a long discussion we decided to move to Athens, although I was very happy I wasn’t sure about my choice. Landing on frigates in the middle of the Aegean with a bad weather isn’t a good idea especially when you are married with children.  \
+\
+\
+We moved to Athens and I started training. Although I had many flying hours and a lot of experience landing on moving ships was a new world for me especially in night.  \
+\
+\
+Conducting ASW was even worst. We were taking off from Eleusina in the middle of the night and without any Night Vision equipment we traveled for about 20 miles. When we were in the desired location, we were trying to hover over the sea at an altitude of 60 or even 30 feet.  \
+\
+I was able to do this in a split second when I was in Alexandreia, but out in the sea in the middle of the night is very different.  \
+\
+You have to rely only on your instruments, since you have no visual references from outside, which is pitch black. Under such conditions you hardly know if you are moving. In order to know your position over the water the flight engineer deploys a smoke marker which provides the necessary reference. Lot of sweat trying to hover blind and to watch also for your altitude on the same time.\
+\
+I remember once, it was at around 0200 hours when I started hovering at 60 feet, the chief engineer had just deployed  the sonar buoy. When suddenly a power loss occurred and we started losing altitude. \
+\
+The engineer immediately released the buoy cable; we were losing altitude very fast, but at the end, engine power came up just before the heli's floaters almost touched the water. The windscreen was full of sea water I immediately pulled up the collective and we started again gaining altitude. It was so fast that we couldn’t even declare emergency.  When we were back at a safe altitude we headed back home.  \
+\
+I still remember how pale my face was and the thought of resigning and returning back to Alexandria passed my mind.  \
+When our training was about to finish we were able to conduct SAR operation. I remember every face that I rescued and this gives me happiness.  \
+\
+A few weeks ago I received my transfer documents; I got transferred to one of the four ships that Greece acquired after the agreement with the United States.  The ship is USS Rentz (FFG-46). USS Rentz (FFG-46) was an Oliver Hazard Perry-class of guided missile frigate, of the United States Navy, the 40th ship to be constructed of its class. \
+\
+The Rentz was named after World War II Navy Chaplain George S. Rentz (1882–1942). Rentz was posthumously awarded the Navy Cross for actions following the loss of USS Houston in the Battle of Sunda Strait. He was the only Navy chaplain to be so honored during World War II.  \
+\
+I learned that we will have to operate in collaboration with the American colleagues before the ship changes flag.  \
+\
+It wasn’t the first time that I was operating in a multinational  environment since I have attended many NATO schools and exercises in the past. The ship was stationed in Salamina a small island near Athens that hosts the entire Hellenic Fleet.   \
+\
+Every day we were patrolling and conducting exercises in the Aegean Sea. We were quite sure that the American Crew will leave soon after the handover of the ship to the Greek officers managed to operate the ship but a few days ago we received orders to join the NATO Fleet and travel to Black Sea in order to participate in the exercise “Sea Breeze”. My wife didn’t like the news but she was supportive as always.\
+\
+ I can’t say that I was thrilled, but I will have the chance to work in a multinational environment and participate in such a large scale exercise. Also I always wanted to travel to Black Sea. Although the weather in Georgia in this time of year is hot, weather officers predict many thunderstorms. Let’s hope that they are not right in their predictions.   \
+\
+During the exercise I will be supervised by Major Nick Karabelas. It is an honor to fly with him. Major Karabelas will be evaluating my crew’s performance and if everything works well he will give the green light in order our Huey officially joins the Hellenic Navy.   \
+Major Karampelas is a well-known Greek pilot with numerous flight hours both as pilot and as instructor. He was the one that had the idea to upgrade and use Hellenic Hueys for sea operations. During our flights I will have to follow his orders.   \
+  \
+I packed my uniforms, kissed my family goodbye and now I am traveling in a Frigate with destination the Black Sea.  That’s a turn in my career. ",
+    ["necessaryUnits"] = 
+    {
+        ["UH-1H"] = "UH-1H",
+    }, -- end of ["necessaryUnits"]
+    ["pictureSuccess_EN"] = "mission accomplished.jpg",
+    ["pictureFailed"] = "mission failed.jpg",
+    ["version"] = 1,
+    ["stages"] = 
+    {
+        [13] = 
+        {
+            ["name"] = "Stage 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Mission 13.0.42.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\Mission 13.0.42.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "Stage 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Mission 7.0.46.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\Mission 7.0.46.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] = 
+        {
+            ["name"] = "Stage 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Mission 1.0.41.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\Mission 1.0.41.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Mission 2.0.44.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\Mission 2.0.44.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Mission 4.0.40.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\Mission 4.0.40.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] = 
+        {
+            ["name"] = "Stage 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Mission 8.0.38.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\Mission 8.0.38.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [14] = 
+        {
+            ["name"] = "Stage 14",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Mission 14.0.49.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\Mission 14.0.49.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+        [9] = 
+        {
+            ["name"] = "Stage 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Mission 9.0.38.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\Mission 9.0.38.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] = 
+        {
+            ["name"] = "Stage 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Mission 5.0.37.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\Mission 5.0.37.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Stage 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Mission 10.0.45.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\Mission 10.0.45.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [11] = 
+        {
+            ["name"] = "Stage 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Mission 11.0.46.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\Mission 11.0.46.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [3] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Mission 3.0.41.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\Mission 3.0.41.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] = 
+        {
+            ["name"] = "Stage 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Mission 6.0.51.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\Mission 6.0.51.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Stage 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Mission 12.0.39.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\Mission 12.0.39.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [15] = 
+        {
+            ["name"] = "Stage 15",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Mission 15.0.49.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\Mission 15.0.49.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+    }, -- end of ["stages"]
+    ["pictureSuccess"] = "mission accomplished.jpg",
+    ["name"] = "ARGO UH-1H CAMPAIGN",
+    ["pictureFailed_EN"] = "mission failed.jpg",
+    ["fullPath"] = "C:\\Users\\Greg\\Saved Games\\DCS\\Missions\\ARGO UH1H CAMPAIGN NEW CAUCASUS\\en_ARGO.cmp",
+    ["picture"] = "operation argo.jpg",
+} -- end of campaign
