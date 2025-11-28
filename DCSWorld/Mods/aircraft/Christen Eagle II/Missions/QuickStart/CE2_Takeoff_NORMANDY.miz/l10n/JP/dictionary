@@ -1,0 +1,31 @@
+dictionary = 
+{
+    ["DictKey_UnitName_22"] = "Pilot #005",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_GroupName_15"] = "New Airplane Group #003",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_sortie_5"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_GroupName_6"] = "player Group",
+    ["DictKey_ActionText_25"] = "Congratulations!\
+\
+「１」、「２」キーを使ってコクピットの位置を変更することができます。前部コクピットに座っての着陸に挑戦してみてください。",
+    ["DictKey_GroupName_9"] = "New Airplane Group #001",
+    ["DictKey_descriptionText_1"] = "このミッションでは機体はエンジンとシステムを始動させた状態でメオティ(Meautis)の滑走路にいます。天候は穏やかです。離陸して下さい。\
+「LShift+R」でいつでもミッションをリスタートできます。",
+    ["DictKey_UnitName_10"] = "Pilot #002",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_UnitName_7"] = "Lucky Owner",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_UnitName_13"] = "Pilot #003",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_UnitName_16"] = "Pilot #004",
+    ["DictKey_GroupName_21"] = "New Airplane Group #004",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_GroupName_12"] = "New Airplane Group #002",
+} -- end of dictionary
