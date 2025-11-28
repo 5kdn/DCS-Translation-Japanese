@@ -1,0 +1,183 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "New Static Object #010",
+    ["DictKey_GroupName_83"] = "Player #001",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_UnitName_67"] = "New Static Object #007",
+    ["DictKey_ActionText_103"] = "As you taxi over the JBD, align the nose of the aircraft straight down the catapult track. \
+\
+Once aligned directly down the catapult track, slowly and careful roll forward until the nosewheel is just behind the catapult shuttle. The catapult shuttle is attached to the catapult and is used to launch you down the catapult track.\
+\
+To get the nose just behind the shuttle you can either use the [F2] external view or align the catapult shuttle of catapult 1 to be directly off to your right.\
+\
+Press [SPACEBAR] when aligned on the catapult and the nosewheel is just behind the catapult 2 shuttle.\
+",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_UnitName_26"] = "Pilot #003",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_UnitName_73"] = "New Static Object #007",
+    ["DictKey_ActionText_105"] = "ローンチバーを下げた状態で「U」を押して、機体をカタパルトトラックトラックとシャトルにより正確に整列させて、バーとシャトルを結合します。\
+これにより機体後のJBDが立ち上がります。\
+\
+「F２」の外部視点でローンチバーが結合しているか確認してください。ローンチバースイッチを上の位置にしてください。\
+\
+ローンチーバーがカタパルトシャトルと結合できたらスペースキーを押してください。",
+    ["DictKey_ActionText_101"] = "あなたの右のデッキ上に、大きな黄色い長方形がペイントされています。これはカタパルト２のジェットブラストデフレクター（JBD)です。これは離陸時に出力を上げたエンジン排気が後に行かなようにするためのものです。通常、JBDの後に位置したら翼を展開しまが、今回はカタパルトシャトルの上に移動する前に展開します。\
+\
+理由は、ほぼカタパルト２のJBDの後にいるからで、右膝そばのウイングフォルドハンドルを使うか、「 RCtrl + O：右回り」を押して翼を展開して下さい。５秒で翼の展開が完了しますので、ハンドルをしまいこんでください「O」\
+\
+翼を展開してハンドルの位置と一致したら、スペースキーを押してください。\
+\
+ウイングフォルドハンドル： 左回り（「RShift ＋O」、左クリック）　、右回り（「 RCtrl + O」、右クリック）、ハンドル収納、引き出し（「O」、マウスホイール）",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_31"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_UnitName_7"] = "",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_GroupName_60"] = "New Static Object #009",
+    ["DictKey_UnitName_25"] = "Pilot #002",
+    ["DictKey_ActionText_107"] = "発艦しました。\
+右にロールして、すみやかに着陸装置「G」とフラップ「F」を収納し、３００knotsまで加速します。カタパルト１，２から発艦した場合は、スタボート（右）クリアリング ターンを、カタパルト３，４からの場合は、ポート（左）クリアリング ターンを行います。\
+空母進路（１３度）より２０度旋回したら機首方位を空母進路へ戻します。高度は７マイル（ウェイポイント１までの距離）を超えるまでは５００ft以下に維持します。他の機体が飛行中の帰還トラフィックへ侵入しないようにするためです。",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_GroupName_51"] = "New Static Object #005",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_UnitName_58"] = "New Static Object #007",
+    ["DictKey_sortie_5"] = "空母　タキシング＆離陸",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_UnitName_76"] = "New Static Object #007",
+    ["DictKey_GroupName_6"] = "",
+    ["DictKey_ActionText_104"] = "前輪車軸にあるローンチバーで機体とカタパルトシャトルを結合します。ローンチバーを下げるには、左ひざ付近にあるLAUNCH BARのラベルのあるスイッチをクリックします。",
+    ["DictKey_UnitName_34"] = "",
+    ["DictKey_UnitName_88"] = "",
+    ["DictKey_ActionText_108"] = "「ESC」キーを押してレッスンを終了してください。",
+    ["DictKey_descriptionText_1"] = "このレッスンでは空母のカタパルトまでの移動と離陸について学習します。以前のレッスンで始動の仕方は学習しましたので、機体の始動は完了した状態で始めます。\
+\
+TCN 74X on BRC of 13 degrees.\
+ICLS on channel 11.\
+",
+    ["DictKey_UnitName_13"] = "Unit #001",
+    ["DictKey_GroupName_42"] = "New Static Object #003",
+    ["DictKey_ActionText_99"] = "このレッスンでは空母のカタパルトまでの移動と離陸について学習します。以前レッスンで始動の方法は学習しました。\
+空母上の始動での違いは、INSスイッチをCV(空母用）に合わせることです。このレッスンではタキシングと離陸を中心に学習します。\
+\
+コクピット外、右側が空母の艦首甲板で、右側がカタパルト１で、左側がカタパルト２です。正面やや左、中央甲板にカタパルト３，４があります。\
+このレッスンでは、カタパルト２への移動、フックアップ、離陸について学習します。カタパルト１には他の機体がいてふさがっているのが見えます。\
+\
+タキシングに入る前に、機体の総重量に応じたトリム調整を行う必要があります。SUPT（サポート）メニューのCHKLST(チェックリスト）ページを調べてください。総重量はA/C WTの行に載っています。機体重量は、約４６，６００だと思います。\
+\
+４４，０００ボンド未満なら、STABトリムを１６度にセットします。\
+４４ー４９，０００ポンドならトリムを１７度にセットします。\
+４９，０００ポンド以上ならトリムを１９度にセットし、離陸時にアフターバーナーが必要になります。\
+\
+SUPTメニューのFCSページに行き、トリムハット又は、「RCTRL+.」でSTABトリムを１７まで上げてください。\
+\
+セットし終わったらスペースキーを押して下さい\
+",
+    ["DictKey_GroupName_45"] = "New Static Object #004",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_UnitName_52"] = "New Static Object #006",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_UnitName_43"] = "New Static Object #001",
+    ["DictKey_UnitName_61"] = "New Static Object #007",
+    ["DictKey_GroupName_87"] = "Zone Reference",
+    ["DictKey_GroupName_69"] = "New Static Object #012",
+    ["DictKey_UnitName_29"] = "Pilot #005",
+    ["DictKey_GroupName_75"] = "New Static Object #014",
+    ["DictKey_GroupName_57"] = "New Static Object #008",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_UnitName_94"] = "New Static Object #001",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_UnitName_10"] = "Stennis",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_GroupName_9"] = "Carrier",
+    ["DictKey_GroupName_54"] = "New Static Object #007",
+    ["DictKey_GroupName_90"] = "New Static Object #002",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_GroupName_33"] = "New Static Object",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_UnitName_14"] = "Unit #002",
+    ["DictKey_UnitName_17"] = "Pilot #001",
+    ["DictKey_UnitName_37"] = "",
+    ["DictKey_UnitName_64"] = "New Static Object #007",
+    ["DictKey_UnitName_79"] = "Player",
+    ["DictKey_GroupName_39"] = "New Static Object #002",
+    ["DictKey_ActionText_102"] = "タキシング前に、ノーズホイールステアリングボタンを押し続けるか、「S」を押します。これで高ステアリング角が可能で、混雑したデッキ上で小回りが利きます。\
+HUDにはNWS HIと表示されます。翼を折りたたんでいる状態では、ボタンを押さなくてもNWS HIになります。\
+\
+右ラダー「X」一杯でスロットルをゆっくりと上げてください。NSW HIで小回りをして右にあるカタパルト２へ向かってください。\
+\
+JBDの上に来たら、カタパルトトラックに機種を整列させてください。\
+\
+カタパルトトラックに真上に整列させたら、ゆっくり慎重に前進し、前輪をカタパルトシャトルの真後ろにもってきます。\
+\
+前輪がシャトルの真後ろに持っていくには、「F2」外部視点で確認するか、カタパルト１のカタパルトシャトルの右真横に整列させてください。\
+\
+カタパルトシャトルに整列し、前輪をシャトルの真後ろに移動できたら、スペースキーを押してください。",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_UnitName_15"] = "Unit #003",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_UnitName_49"] = "",
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_UnitName_91"] = "New Static Object #001",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_UnitName_27"] = "Pilot #004",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_UnitName_70"] = "New Static Object #007",
+    ["DictKey_GroupName_48"] = "New Static Object #006",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_UnitName_85"] = "Pilot #004",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_UnitName_46"] = "New Static Object #001",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_GroupName_36"] = "New Static Object #001",
+    ["DictKey_UnitName_84"] = "Pilot #003",
+    ["DictKey_UnitName_40"] = "New Static Object #001",
+    ["DictKey_UnitName_81"] = "Pilot #002",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_GroupName_16"] = "Player",
+    ["DictKey_GroupName_72"] = "New Static Object #013",
+    ["DictKey_descriptionBlueTask_3"] = "２番カタパルトへ移動して離陸します。",
+    ["DictKey_GroupName_66"] = "New Static Object #011",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_GroupName_78"] = "Player",
+    ["DictKey_ActionText_100"] = "チェックリストページの下の飛行前準備を行ってください。：\
+\
+インジェクションシートを作動（Arm)\
+ノーズホイールステアリング　ON\
+警告灯がすべて消灯\
+アレスティングフック　UP\
+フラップ　HALF\
+機体総重量に合わせてトリムセット\
+ウイングがウイングフォルドハンドルの位置と合っている\
+酸素　ON\
+ブレーキ　OFF\
+ローンチバー　UP\
+アンチスキッド　OFF\
+マスターアーム　OFF\
+MPCDにWTPTページを表示しウェイポイント１に合わせる。\
+カウンターメジャー　OFF\
+レーダー高度計を４０feetにセット\
+キャノピー　クローズ\
+マスター外部ライトスイッチ　後\
+\
+すべてのセットができたらスペースキーを押してください。",
+    ["DictKey_GroupName_93"] = "New Static Object #007",
+    ["DictKey_GroupName_28"] = "New Helicopter Group",
+    ["DictKey_ActionText_106"] = "カタパルトから射出の準備が整いました。\
+スロットルをミリタリーパワーまで上げて、操縦桿、ラダーを\
+最大まで動かして、動作するか確認します。\
+\
+準備が良ければ、フルパワーにして、射出を開始します。",
+    ["DictKey_UnitName_55"] = "",
+} -- end of dictionary

@@ -1,0 +1,262 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_UnitName_52"] = "",
+    ["DictKey_UnitName_67"] = "New Static Object #018",
+    ["DictKey_UnitName_156"] = "Unit #014",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_ActionText_121"] = "While we strong recommend a joystick, you can also fly the Hornet with a keyboard using:\
+\
+Pitch: Up and Down Arrows\
+Roll: Left and Right Arrows\
+Thrust: Page Up and Page Down\
+Yaw: X and Y\
+",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_UnitName_135"] = "Unit #005",
+    ["DictKey_GroupName_132"] = "Ground 2",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_UnitName_146"] = "Pilot #001",
+    ["DictKey_GroupName_21"] = "New Static Object #005",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_GroupName_166"] = "Aircraft 1",
+    ["DictKey_ActionText_85"] = "はじめまして、F/A-18Cホーネットのトレーニングコースへようこそ。\
+これらインタラクティブトレーニングレッスンはマニュアルの補足であり、飛行機を実際に扱っって学習をします。ホーネットについて学ぶことは最初は大変なので、理解しやすいように、レッスンを小さなパートに分けています。\
+\
+最初のレッスンを始める前に、いくつかの基本的な計器とホーネットなどの飛行機の基本的な操縦方法について説明します。\
+\
+「スペースキー」を押すと次に進みます。",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_UnitName_25"] = "New Static Object #001",
+    ["DictKey_GroupName_51"] = "New Static Object #014",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_sortie_5"] = "Introduction and Basic Controls",
+    ["DictKey_UnitName_76"] = "New Static Object #021",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_UnitName_136"] = "Unit #006",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_GroupName_45"] = "New Static Object #012",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_UnitName_155"] = "Unit #013",
+    ["DictKey_UnitName_130"] = "Unit #003",
+    ["DictKey_UnitName_43"] = "",
+    ["DictKey_UnitName_61"] = "New Static Object #014",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_GroupName_30"] = "New Static Object #008",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_UnitName_172"] = "Pilot #004",
+    ["DictKey_ActionText_87"] = "初歩的な飛行操作の際に、最も重要視される計器がヘッドアップディスプレイ（HUD）です。HUDは２枚のガラスパネルからなり、そこへ情報を投影します。\
+HUDは計器パネルの上部とキャノピーとの間に設置されています。\
+このHUDに投影される、最も重要な情報について説明します。\
+\
+HUD上部にある水平の帯がヘディングテープ（方位計）です。その真中にあるのがヘディングマーカーで、飛行機の進行方向（方位）を示します。\
+\
+HUD左側の四角で囲まれた数字は対気速度、右側の四角で囲まれた数字は高度で気圧高度又はレーダー高度を表示します。高度計の上ある数字は昇降計です。　\
+\
+HUDの真中にある横線はピッチラダーと言い。機首の水平方向に対する上下の傾きを示します。ピッチラダーの中心にある丸がベロシティーベクターで、点滅していない場合は飛行機が向かおうとする方向を表します。言い換えれば、点滅していない場合、ベロシティーベクターが指し示している場所へ飛んでいくと言うことです。（ただしuncage状態の場合）\
+\
+HUDの左にそって４つのデーターが表示されています。\
+１番上：迎え角（angle of attack,AoA)  \
+２番目：飛行速度のマッハ表示　\
+３番目：現在のG　\
+４番目：最大G\
+ \
+HUD下部にそって、バンク角インジケーターがあります。\
+\
+「スペースキー」を押すと次に進みます。",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_UnitName_79"] = "New Static Object #021",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_UnitName_31"] = "New Static Object #001",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_UnitName_137"] = "Unit #007",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_GroupName_12"] = "New Static Object #002",
+    ["DictKey_GroupName_18"] = "New Static Object #004",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_GroupName_81"] = "New Static Object #024",
+    ["DictKey_UnitName_46"] = "New Static Object",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_GroupName_36"] = "New Static Object #010",
+    ["DictKey_UnitName_40"] = "New Static Object #010",
+    ["DictKey_GroupName_72"] = "New Static Object #021",
+    ["DictKey_GroupName_75"] = "New Static Object #022",
+    ["DictKey_GroupName_66"] = "New Static Object #019",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_GroupName_27"] = "New Static Object #007",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_UnitName_22"] = "New Static Object #001",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_GroupName_42"] = "New Static Object",
+    ["DictKey_UnitName_19"] = "New Static Object #001",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_ActionText_120"] = "これでこのレッスンは終了です。飛行を続けても、[ESC]を押してこのレッスンを終了してもかまいません。",
+    ["DictKey_GroupName_152"] = "Ships",
+    ["DictKey_GroupName_139"] = "Ground 3",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_GroupName_57"] = "New Static Object #016",
+    ["DictKey_ActionText_91"] = "ジョイスティックを強くお勧めしますが、キーボードを使ってホーネットを飛ばすことも可能です：\
+\
+ピッチ：[上下の矢印]\
+ロール：[左右の矢印]\
+推力：[Page Up]と[Page Down]\
+        [NUM+]、[NUM-]\
+ヨー：[Z]と[X]",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_UnitName_167"] = "Pilot #003",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_GroupName_60"] = "New Static Object #017",
+    ["DictKey_GroupName_173"] = "Aircraft 2",
+    ["DictKey_GroupName_48"] = "New Static Object #013",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_GroupName_54"] = "New Static Object #015",
+    ["DictKey_UnitName_126"] = "Unit #1",
+    ["DictKey_ActionText_88"] = "ホーネットを飛ばすにあたり、３つの主要なコントロール装置があります。\
+コントロールスティック（操縦桿）、スロットル、ラダーペダル　です。\
+\
+コントロールスティック[矢印キー]はピッチとロールをコントロールします。\
+スティックを前か後ろに倒すと　機首を下げたり、上げたりします。スロットルが一定であれば、上昇するとスピードは落ち、下降するとスピードは増します。機体を左右に傾けるにはスティックを左右に倒してください。機体を傾けてスティックを引くと飛行機を旋回させることができます。\
+\
+出力をコントロールするために、左右エンジンのスロットル　([PAGE UP]、[PAGE DOWN] と [NUM+]、[NUM-])　を使用します。\
+スロットルを最大まで上げるとアフターバーナーが作動します。これは大きな推力を得られますが、燃料を素早く消費します。\
+\
+飛行機の機首を左右に動かすには、ラダーペダル（ 左[Z] 、右 [X]）を使用します 。またノーズホイールステアリングを使用して地上でのタキシングを行う場合もラダーペダルを使用します。\
+\
+「スペースキー」を押してください。次に進みます。",
+    ["DictKey_UnitName_58"] = "New Static Object #014",
+    ["DictKey_UnitName_133"] = "Unit #004",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_ActionText_89"] = "あなたの前にゲートが連なっています。ホーネットを飛ばしてこれをくぐり抜けてください。\
+いくつか注意点があります。\
+\
+まず、対気速度を250〜400ノットに保ちます。\
+\
+次に、オーバーコントロール（急な操作、大きな操作）をせず、なめらかな操縦をしてください。\
+\
+３つ目、HUDのベロシティーベクターをゲートの中央に置くように飛行機を飛ばしてください。\
+\
+最後に、速度が速くなれば、旋回半径も大きくなります。速度の上げすぎに気をつけて、次のゲートを見据えて旋回してください。\
+\
+準備ができたら「スペースキー」を押してください。開始します。",
+    ["DictKey_UnitName_28"] = "New Static Object #001",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_GroupName_33"] = "New Static Object #009",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_UnitName_128"] = "Unit #001",
+    ["DictKey_GroupName_78"] = "New Static Object #023",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_UnitName_34"] = "New Static Object #001",
+    ["DictKey_UnitName_55"] = "New Static Object #014",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_ActionText_115"] = "レッスン中いつでも[Pause]キーを押すことで一時停止できます。\
+これはテキストを読んだり、中断したりする時に便利です。",
+    ["DictKey_UnitName_13"] = "New Static Object #001",
+    ["DictKey_GroupName_163"] = "",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "チュートリアルの指示に従ってください。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_UnitName_49"] = "New Static Object",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_ActionText_123"] = "コックピットの外から世界を見るためのいくつかの表示オプションがあります：\
+\
+あなたの航空機および他の航空機の外部視点：F2\
+あなたの飛行機のフライバイ視点：F3\
+コックピットに戻る：F1",
+    ["DictKey_UnitName_153"] = "Unit #012",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_GroupName_69"] = "New Static Object #020",
+    ["DictKey_descriptionText_1"] = "はじめまして、F/A-18Cホーネットのトレーニングコースへようこそ。\
+これらインタラクティブトレーニングレッスンはマニュアルの補足であり、飛行機を実際に扱い学習します。ホーネットについて学ぶことは最初は大変なので、理解しやすいように、レッスンを小さなパートに分けています。\
+\
+この最初のトレーニングでは、飛行機についての一般的な説明と、操縦の基本について説明します。",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_UnitName_148"] = "Pilot #002",
+    ["DictKey_GroupName_24"] = "New Static Object #006",
+    ["DictKey_ActionText_90"] = "",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_GroupName_145"] = "Helo",
+    ["DictKey_UnitName_73"] = "",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_GroupName_125"] = "Ground 1",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_UnitName_143"] = "Unit #010",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_GroupName_9"] = "New Static Object #001",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_UnitName_82"] = "New Static Object #021",
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_GroupName_39"] = "New Static Object #011",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_GroupName_63"] = "New Static Object #018",
+    ["DictKey_UnitName_16"] = "New Static Object #001",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_UnitName_142"] = "Unit #009",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_ActionText_122"] = "コクピットの周りを見てみましょう\
+キーを押すことで視点を移動できます。\
+\
+上: [Keypad 8]\
+下: [Keypad 2]\
+左: [Keypad 4]\
+右: [Keypad 6]\
+ズームイン: [Keypad *]\
+ズームアウト: [Keypad /]\
+",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_GroupName_15"] = "New Static Object #003",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_UnitName_70"] = "New Static Object #018",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_ActionText_124"] = "レッスン中に他の機体などに視点を移動することもできます：\
+\
+他の航空機：F2（１回目は自分の機体を表示します）\
+地上ユニット：F7\
+船：F9\
+飛行場を循環する：F11\
+マップ：F10",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_UnitName_7"] = "Player",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_GroupName_6"] = "Player",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_UnitName_174"] = "Pilot #005",
+    ["DictKey_UnitName_144"] = "Unit #011",
+    ["DictKey_UnitName_37"] = "",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_UnitName_64"] = "",
+    ["DictKey_UnitName_129"] = "Unit #002",
+    ["DictKey_UnitName_10"] = "",
+    ["DictKey_UnitName_140"] = "Unit #008",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_UnitName_164"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_UnitName_176"] = "Pilot #006",
+    ["DictKey_WptName_179"] = "",
+} -- end of dictionary

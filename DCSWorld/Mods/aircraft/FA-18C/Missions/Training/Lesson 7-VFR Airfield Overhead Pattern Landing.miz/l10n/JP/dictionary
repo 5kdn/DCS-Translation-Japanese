@@ -1,0 +1,246 @@
+dictionary = 
+{
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_ActionText_112"] = "前方にゲートが並んでいます。これはオーバーヘッドアプローチの飛行経路を示していますので、これに沿って飛行してください。\
+\
+高度８００feet、速度３５０knotsでちょうど滑走路側を左に見る位置からアプローチを始めます。滑走路の端に着いたら飛行速度の１％のGで左にブレイクしてください。今回の場合は３５０knotsなので３．５Gで。左ブレイクします。スピードが落ちるのに合わせてGも緩めます。\
+\
+１８０度ターンを行い、ダウンウインドレグで水平飛行に戻し、６００feetまで降下します。速度は２５０knotsまで減速します。２５０knotsを下回ったら[G]でランディングギアを出し、[LCTRL+F]でフラップをフルダウンにします。\
+\
+「スペースキー」を押すと次に進みます。",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_UnitName_67"] = "New Static Object #018",
+    ["DictKey_GroupName_15"] = "New Static Object #003",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_ActionText_121"] = "We are now flying a heading of 250 degrees at 400 knots and 1,000 feet. Fly through the gates ahead which will place us at 800 feet and offset to the right of the runway. We don’t want to directly overfly the runway. Maintain an airspeed of 350 knots.\
+\
+Cage the velocity vector on the HUD by pressing [C].\
+",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_UnitName_73"] = "",
+    ["DictKey_GroupName_21"] = "New Static Object #005",
+    ["DictKey_ActionText_101"] = "Now it is time to get the left engine started. Go ahead and left mouse click on the engine crank switch.",
+    ["DictKey_ActionText_116"] = "As your roll out on the runway heading, fly to place the velocity vector on the runway threshold and use throttle adjustments to control your glidepath to be 3 degrees.\
+\
+Press [SPACEBAR] to continue.\
+",
+    ["DictKey_ActionText_113"] = "ダウンウインドレグに入ったら６００feetまで降下して、適正速度に減速し、AoAを８．１度にしてください。\
+HUDのベロシティーインジケーターを E の範囲に維持するのが一番簡単な方法です。\
+HUD左のAoAインデクサーライトは適正速度になったら中央のドーナツが黄色に点灯します。（速いと下の赤、遅いと上の緑が点灯します）\
+ダウンウインドレグは適正な速度とAoAを維持してください。\
+\
+「スペースキー」を押すと次に進みます。",
+    ["DictKey_ActionText_128"] = "フレアはかけないでください。グライドパスのままタッチダウンしてください。ただし、降下率が７５０feetを超えないようにしてください。\
+\
+やさしくラダー使い滑走路の中央を維持してください。\
+\
+７５knots以下になったら、ホイールブレーキ[W]を使用して飛行機を停止させてください。",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_UnitName_25"] = "New Static Object #001",
+    ["DictKey_GroupName_51"] = "New Static Object #014",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_ActionText_117"] = "TACANレッスンで学んだことを使って、TACANを67Xに設定し、コースを70度に設定します。これはコブレチ（Kobuleti）飛行場のTACANチャンネルであり。ダウンウインドレグとファイナルアプローチでの飛行ラインを教えてくれます。\
+\
+設定が完了し、準備が整ったら「スペースキー」を押してください。一時停止を解除します。",
+    ["DictKey_sortie_5"] = "VFR Overhead Pattern Landing",
+    ["DictKey_UnitName_76"] = "New Static Object #021",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_GroupName_6"] = "Player",
+    ["DictKey_ActionText_119"] = "",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_GroupName_45"] = "New Static Object #012",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_ActionText_84"] = "前回のレッスンでは、シンプルなストレートインの有視界着陸を習いました。\
+このレッスンでは、オーバーヘッドアプローチパターンを練習します。\
+これは有視界着陸での通常の着陸方法です。\
+また、空母への着艦パターンであるケース１とほぼ同じです\
+\
+レッスンは一時停止しています。\
+最初に、オーバーヘッドパターンについて説明しいます。\
+\
+レッスンを開始する前にHUDの表示についてマニュアルを読んで、勉強しておいてください。\
+\
+「スペースキー」を押すと次に進みます",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_ActionText_99"] = "Now it is time to get the left engine started. Go ahead and left mouse click on the engine crank switch.",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_UnitName_43"] = "",
+    ["DictKey_UnitName_61"] = "New Static Object #014",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_GroupName_30"] = "New Static Object #008",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_UnitName_49"] = "New Static Object",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_UnitName_79"] = "New Static Object #021",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_GroupName_33"] = "New Static Object #009",
+    ["DictKey_UnitName_31"] = "New Static Object #001",
+    ["DictKey_ActionText_125"] = "左の翼端が滑走路のスレッショルドの真横に来たら、左への３０度ターンを開始してください。適正速度、AoAは維持してください。これは少し難しいでしょう。\
+スロットルで降下率を、ピッチトリムで迎え角をコントロールして下さい。",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_GroupName_12"] = "New Static Object #002",
+    ["DictKey_ActionText_114"] = "滑走路の方向へロールアウトしたら、Eマーカーをランウエイのスレッショルドの位置に置き、スロットルをコントロールし３度のグライドパスに乗せてください。ピッチトリムを使って、ベロシティーベクターをEマーカーの真ん中に維持してください。\
+\
+「スペースキー」を押すと次に進みます。",
+    ["DictKey_GroupName_18"] = "New Static Object #004",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_GroupName_81"] = "New Static Object #024",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_UnitName_46"] = "New Static Object",
+    ["DictKey_GroupName_36"] = "New Static Object #010",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_UnitName_40"] = "New Static Object #010",
+    ["DictKey_GroupName_72"] = "New Static Object #021",
+    ["DictKey_GroupName_75"] = "New Static Object #022",
+    ["DictKey_GroupName_66"] = "New Static Object #019",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_GroupName_27"] = "New Static Object #007",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_UnitName_22"] = "New Static Object #001",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_GroupName_42"] = "New Static Object",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_UnitName_19"] = "New Static Object #001",
+    ["DictKey_ActionText_92"] = "With the right engine running and generator power, place the left and right Digital Display Indicators, or DDIs, to the DAY position using right mouse button clicks. Rotate the Head Up Display, or HUD, brightness knob clockwise by placing your mouse over it and rotating your mouse wheel forward.\
+\
+Once you see video displayed on the left and right DDIs and HUD, press the [SPACEBAR].\
+",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_ActionText_120"] = "",
+    ["DictKey_ActionText_129"] = "おめでとうございます。ホーネットを着陸させました！。\
+練習して無意識でできるようになってください。\
+\
+[ESC]キーを押すと終了します。",
+    ["DictKey_ActionText_88"] = "Good job. Note that in the top left portion of the IFEI you can see the RPM and TEMP of both the left and right engines. These will be important for when we start the engines.\
+\
+We will now turn on the Axillary Power Unit, or APU. This is a small, self-contained engine that augments the bleed air system and will start turning the engines for engine starts.\
+\
+Please the APU switch in the ON position with a left mouse button click.\
+",
+    ["DictKey_ActionText_91"] = "Once the right engine RPM has reached 20%, as indicated on the IFEI, press [LEFT SHIFT + HOME] to move the right throttle from OFF to IDLE. This in turn will introduce fuel into the engine combustion chamber and start the engine ignitors.  \
+\
+Once the right engine RPM has reached 60%, the right engine start cycle is complete and the right generator is automatically engaged.\
+\
+Once at 60%, press the [SPACEBAR].\
+",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_GroupName_60"] = "New Static Object #017",
+    ["DictKey_ActionText_127"] = "機首が滑走路の方向を向いたら、[C]キーを押して、HUDのベロシティベクターをアンケージ(uncage)してください。\
+HUDのベロシティベクターとEマークを滑走路のスレッショルドに置き、スロットルでグライドパスが３度になるように制御してください。\
+\
+ピッチトリムでAoAが8.1になるようにコントロールしてください。",
+    ["DictKey_GroupName_48"] = "New Static Object #013",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_GroupName_54"] = "New Static Object #015",
+    ["DictKey_UnitName_58"] = "New Static Object #014",
+    ["DictKey_UnitName_28"] = "New Static Object #001",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_descriptionText_1"] = "前回のレッスンでは、シンプルなストレートインの有視界着陸を習いました。\
+このレッスンでは、オーバーヘッドアプローチパターンを練習します。\
+これは有視界着陸での通常の着陸方法です。\
+また、空母への着艦パターンであるケース１、ケース２とほぼ同じです",
+    ["DictKey_UnitName_55"] = "New Static Object #014",
+    ["DictKey_UnitName_13"] = "New Static Object #001",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_GroupName_69"] = "New Static Object #020",
+    ["DictKey_GroupName_24"] = "New Static Object #006",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_ActionText_86"] = "With that out of the way, we will now enable the two batteries. This will allow operation of the canopy and power the engine igniters. You’ll also notice that the Integrated Fuel and Engine Indicator (or IFEI) in the lower left portion of the instrument panel will have power.\
+\
+Move the battery switch to the ON position with a right mouse button click.\
+",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_GroupName_9"] = "New Static Object #001",
+    ["DictKey_ActionText_115"] = "タッチダウンする前にフレアーをかけてはいけません。HUDの高度計の上の昇降計の値が７５０を超えないようにして、滑走路に侵入してください。\
+\
+これがこのレッスンですることの概要です。実際に行う前に、２つほどやることがあります。\
+\
+１：HUDの高度表記をレーダー高度表記に変更します。HUDコントロールパネルの高度スイッチを下（RDR）ポジションにしてください。",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_UnitName_82"] = "New Static Object #021",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_ActionText_126"] = "Okay, turn into base.",
+    ["DictKey_GroupName_39"] = "New Static Object #011",
+    ["DictKey_GroupName_57"] = "New Static Object #016",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_UnitName_16"] = "New Static Object #001",
+    ["DictKey_ActionText_97"] = "During this lesson and future lessons, you will often see and hear the Master Caution. This is the large, yellow labeled button on the instrument panel that will light when any caution condition is triggered. There will also be an accompanying “deedle deedle” sound.\
+\
+Pressing this button [N] will acknowledge the caution and extinguish the light. Further presses of the button will re-stack caution and advisory notices along the bottom of the left DDI. If the left DDI is not on, then the caution and notices will be displayed on another display.\
+\
+\
+",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_GroupName_63"] = "New Static Object #018",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_UnitName_64"] = "",
+    ["DictKey_ActionText_123"] = "ダウンウインドレグに入りました。２５０knotsを下回ったら\
+ギアを下げてください。（[G]キー）\
+フラップをフルダウンにしてください。[LCTRL+F]2回\
+\
+これを行いながら６００feetまで降下し維持してください。",
+    ["DictKey_UnitName_70"] = "New Static Object #018",
+    ["DictKey_UnitName_34"] = "New Static Object #001",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "チュートリアルの指示に従ってください。",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_ActionText_94"] = "On the left DDI, press the MENU pushbutton to bring us to the Support (SUPT) page. ",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_ActionText_90"] = "Once the green light next to the APU switch comes on, move the Engine Crank switch to the Right, marked by the R, with a right mouse button click. This will allow the APU to power the Air Turbine Starter, which in turns allows the Aircraft Mounted Accessory Dive, or AMAD, to starting turning the fan blades within the engine.",
+    ["DictKey_ActionText_122"] = "滑走路端に近づいたら、ゲートに沿って１８０度ターンを行いダウンウインドレグに入ってください。旋回率（Turn rate)はGを基準にします。対気速度の１％のGをかけて旋回してください。今回の場合３５０knotsなので３．５Gになります。\
+補足：速度が落ちてきたらGも緩めます。",
+    ["DictKey_UnitName_52"] = "",
+    ["DictKey_ActionText_100"] = "Now it is time to get the left engine started. Go ahead and left mouse click on the engine crank switch.\
+\
+Once the left engine is at 20% RPM on the IFEI, press [LEFT ALT + HOME] to move the left throttle from OFF to IDLE.\
+\
+When the left engine is at 60% RPM, press the [SPACEBAR] to continue.\
+",
+    ["DictKey_UnitName_37"] = "",
+    ["DictKey_ActionText_95"] = "The Support page has several sub-pages line the Checklist, Engine, Fuel, ADI and HIS pages. For now though, press the FCS pushbutton to select the Flight Control System page.",
+    ["DictKey_ActionText_118"] = "現在、方位０６４、４００knots、１０００feetを飛行中です。前方のゲートを通過してください。８００feetで滑走路よりやや右に位置しています。滑走路の真上を飛行することは避けましょう。３５０knotsに減速、維持してください。\
+\
+スロットルグリップにあるcage/uncageボタン、または[C]キーを押して、HUD上のベロシティベクターをケージしてください。",
+    ["DictKey_UnitName_7"] = "Player",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_UnitName_10"] = "",
+    ["DictKey_ActionText_124"] = "ダウンウインドレグの間に、適切な速度とAoA８．１度にして維持してください。\
+HUDの E マークとベクターベロシティーを合わせ、AoAインデクサーをイエロードーナツで維持してください。",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_GroupName_78"] = "New Static Object #023",
+    ["DictKey_ActionText_93"] = "In the lower center of the instrument panel is the Multi-Purpose Color Display, or MPCD. Place your mouse over the power and brightness know and rotate your mouse wheel forward until the knob is set to full bright. It will take a moment to power on.\
+\
+Press the [SPACEBAR] once you see video displayed to the MPCD.\
+",
+    ["DictKey_ActionText_96"] = "The FCS page shows the status of the control surfaces and any detected FCS errors. The Xs indicate detected errors, but we will address these once the left engine is started.\
+\
+Press the [SPACEBAR] to continue.\
+",
+    ["DictKey_ActionText_98"] = "The Hornet comes equipped with an Inertial Navigation Systems, or INS. Use mouse right clicks to set the INS switch to the GND (ground) position. This will start our INS ground alignment.\
+\
+When the switch is set to GND, press [SPACEBAR].\
+",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_WptName_148"] = "",
+} -- end of dictionary

@@ -1,0 +1,197 @@
+dictionary = 
+{
+    ["DictKey_UnitName_22"] = "New Static Object #001",
+    ["DictKey_ActionText_98"] = "The Hornet comes equipped with an Inertial Navigation Systems, or INS. Use mouse right clicks to set the INS switch to the GND (ground) position. This will start our INS ground alignment.\
+\
+When the switch is set to GND, press [SPACEBAR].\
+",
+    ["DictKey_UnitName_52"] = "",
+    ["DictKey_GroupName_42"] = "New Static Object",
+    ["DictKey_ActionText_103"] = "次に、ポジション、フォーメーション、ストロボ　ライトを必要であればセットアップしてください。\
+\
+フォーメーションライト又はスライムライトは低光度のグリーンライトでフォーメーション飛行での接近時に助けとなる。\
+ポジションライトはレッドとグリーンのライトで左と右の翼端にあります。\
+ストロボライト（strobe light)とは尾翼にある２つの赤い点滅灯です。\
+\
+セットが完了したらスペースキーを押してください、次に進みます。",
+    ["DictKey_GroupName_15"] = "New Static Object #003",
+    ["DictKey_ActionText_92"] = "With the right engine running and generator power, place the left and right Digital Display Indicators, or DDIs, to the DAY position using right mouse button clicks. Rotate the Head Up Display, or HUD, brightness knob clockwise by placing your mouse over it and rotating your mouse wheel forward.\
+\
+Once you see video displayed on the left and right DDIs and HUD, press the [SPACEBAR].\
+",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_ActionText_95"] = "The Support page has several sub-pages line the Checklist, Engine, Fuel, ADI and HIS pages. For now though, press the FCS pushbutton to select the Flight Control System page.",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_UnitName_73"] = "",
+    ["DictKey_GroupName_57"] = "New Static Object #016",
+    ["DictKey_ActionText_91"] = "Once the right engine RPM has reached 20%, as indicated on the IFEI, press [LEFT SHIFT + HOME] to move the right throttle from OFF to IDLE. This in turn will introduce fuel into the engine combustion chamber and start the engine ignitors.  \
+\
+Once the right engine RPM has reached 60%, the right engine start cycle is complete and the right generator is automatically engaged.\
+\
+Once at 60%, press the [SPACEBAR].\
+",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_ActionText_116"] = "おめでとうございます。ホーネットを離陸させました。\
+\
+ [ESC]キーを押すと、レッスンを終了できます。",
+    ["DictKey_UnitName_7"] = "Player",
+    ["DictKey_GroupName_60"] = "New Static Object #017",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_UnitName_25"] = "New Static Object #001",
+    ["DictKey_ActionText_107"] = "機体を動かしましょう。前方に動き出すまで、ゆっくりとスロットルを上げてください[Num+]。ただし、エンジンRPMが７５％を超えないようにしてください。\
+\
+[Z]キーで左、 [X]キーで右に曲がります\
+\
+前方にある滑走路までタキシングしてください。",
+    ["DictKey_ActionText_110"] = "滑走路に侵入する前に、座席を射出可能状態にします。右側にあるイジェクションシート[SAFE/ARMED] ハンドルを下げて、ARMEDラベルが見える状態にしてください。そしてシートベルト締めてください。\
+\
+左右を確認し滑走路が安全か確認してください。",
+    ["DictKey_GroupName_51"] = "New Static Object #014",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_ActionText_117"] = "間違ったようですね。[ESC]キーを押して一旦レッスンを終了し、再度トライしてください。",
+    ["DictKey_UnitName_58"] = "New Static Object #014",
+    ["DictKey_GroupName_54"] = "New Static Object #015",
+    ["DictKey_GroupName_45"] = "New Static Object #012",
+    ["DictKey_UnitName_10"] = "",
+    ["DictKey_sortie_5"] = "Taxi and Takeoff",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_UnitName_34"] = "New Static Object #001",
+    ["DictKey_UnitName_76"] = "New Static Object #021",
+    ["DictKey_descriptionBlueTask_3"] = "チュートリアルの手順に従ってください。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_GroupName_6"] = "Player",
+    ["DictKey_ActionText_104"] = "インスツルメントライトを点けましょう。\
+[INST]ダイアルでインスツルメントパネルの明るさを調整します。\
+[CONSOLE]ダイアルで左と右のコンソールの明るさを調整します。\
+[FLOOD]ダイアルでコクピット前方部を照らします。\
+[CHART]ダイアルでラップエリアの明るさを調整します。 \
+\
+[TEST]スイッチはコクピット内の全てのWaringとCautionライトを点灯します。\
+[WARN/CAUT]ダイアルはこの警告灯の明るさを調整します。\
+[MODE]スイッチは室内灯のモードで日中、夜、ナイトビジョンの３つのモードがあります。\
+\
+これらを試して、良ければ「スペースキー」を押してください。次に進みます。",
+    ["DictKey_ActionText_90"] = "Once the green light next to the APU switch comes on, move the Engine Crank switch to the Right, marked by the R, with a right mouse button click. This will allow the APU to power the Air Turbine Starter, which in turns allows the Aircraft Mounted Accessory Dive, or AMAD, to starting turning the fan blades within the engine.",
+    ["DictKey_descriptionText_1"] = "このレッスンでは、ホーネットを立ち上げ、滑走路へのタキシングと離陸について学びます。",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_ActionText_84"] = "このレッスンではホーネットを立ち上げ、滑走路へのタキシングと離陸について学びます\
+タキシングに入る前に、コールドスタートでは扱わなかった、事柄について説明します。」\
+\
+「スペースキー」を押すと次に進みます。",
+    ["DictKey_ActionText_108"] = "タキシング中に、NWSとNWS HIの両方を試しておいてください。　\
+NWS（ノーズスホイールステアリング：前輪操作）",
+    ["DictKey_ActionText_109"] = "滑走路直前の停止線まで来たら、ラダーペダル上部にあるトゥーブレーキ[W]を使って停止します。",
+    ["DictKey_UnitName_64"] = "",
+    ["DictKey_ActionText_88"] = "Good job. Note that in the top left portion of the IFEI you can see the RPM and TEMP of both the left and right engines. These will be important for when we start the engines.\
+\
+We will now turn on the Axillary Power Unit, or APU. This is a small, self-contained engine that augments the bleed air system and will start turning the engines for engine starts.\
+\
+Please the APU switch in the ON position with a left mouse button click.\
+",
+    ["DictKey_ActionText_99"] = "Now it is time to get the left engine started. Go ahead and left mouse click on the engine crank switch.",
+    ["DictKey_ActionText_113"] = "滑走路を進むときは、ほんの少しだけラダー操作をし、滑走路の中央を維持するようにしてください。",
+    ["DictKey_GroupName_48"] = "New Static Object #013",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_ActionText_101"] = "Now it is time to get the left engine started. Go ahead and left mouse click on the engine crank switch.",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_UnitName_43"] = "",
+    ["DictKey_UnitName_61"] = "New Static Object #014",
+    ["DictKey_ActionText_112"] = "両方のスタビライザーの位置を確認します。右DDI上の[STAB] が１２に設定されているかチェックしてください。　\
+\
+ホイールブレーキ [W]をかけたまま、エンジン回転数を８０％まで上げ、IFEIの温度が８００℃を超えないことを確認してください。\
+\
+ホーネットでは常にアフターバーナーを利用して離陸します。ブレーキを解除し、スロットルを一番前まで倒してアフターバーナーをかけてください。",
+    ["DictKey_GroupName_69"] = "New Static Object #020",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_GroupName_30"] = "New Static Object #008",
+    ["DictKey_UnitName_49"] = "New Static Object",
+    ["DictKey_GroupName_24"] = "New Static Object #006",
+    ["DictKey_UnitName_40"] = "New Static Object #010",
+    ["DictKey_UnitName_28"] = "New Static Object #001",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_UnitName_19"] = "New Static Object #001",
+    ["DictKey_ActionText_86"] = "With that out of the way, we will now enable the two batteries. This will allow operation of the canopy and power the engine igniters. You’ll also notice that the Integrated Fuel and Engine Indicator (or IFEI) in the lower left portion of the instrument panel will have power.\
+\
+Move the battery switch to the ON position with a right mouse button click.\
+",
+    ["DictKey_UnitName_67"] = "New Static Object #018",
+    ["DictKey_GroupName_33"] = "New Static Object #009",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_GroupName_9"] = "New Static Object #001",
+    ["DictKey_UnitName_79"] = "New Static Object #021",
+    ["DictKey_UnitName_31"] = "New Static Object #001",
+    ["DictKey_UnitName_82"] = "New Static Object #021",
+    ["DictKey_ActionText_94"] = "On the left DDI, press the MENU pushbutton to bring us to the Support (SUPT) page. ",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_GroupName_39"] = "New Static Object #011",
+    ["DictKey_ActionText_102"] = "夜などの暗い任務では、ランディング＆タキシングライトスイッチをONにします。",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_UnitName_16"] = "New Static Object #001",
+    ["DictKey_ActionText_97"] = "During this lesson and future lessons, you will often see and hear the Master Caution. This is the large, yellow labeled button on the instrument panel that will light when any caution condition is triggered. There will also be an accompanying “deedle deedle” sound.\
+\
+Pressing this button [N] will acknowledge the caution and extinguish the light. Further presses of the button will re-stack caution and advisory notices along the bottom of the left DDI. If the left DDI is not on, then the caution and notices will be displayed on another display.\
+\
+\
+",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_GroupName_12"] = "New Static Object #002",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_UnitName_70"] = "New Static Object #018",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_ActionText_114"] = "少しだけ操縦かんを引いた状態を維持してください。\
+ホーネットは自然に機首をあげ、浮き上がります。",
+    ["DictKey_GroupName_63"] = "New Static Object #018",
+    ["DictKey_GroupName_18"] = "New Static Object #004",
+    ["DictKey_ActionText_111"] = "エンジン回転数を上げ、滑走路に進入してください。\
+\
+滑走路に入ったら、飛行機をセンターラインに合わせて、滑走路方位マーカー２５の上で停止してください。\
+\
+「スペースキー」で次に進みます。",
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_GroupName_81"] = "New Static Object #024",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_UnitName_46"] = "New Static Object",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_GroupName_36"] = "New Static Object #010",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_UnitName_37"] = "",
+    ["DictKey_ActionText_115"] = "[G]キーを押してギアレバーをUP位置に動かし、ランディングギアを上げてください。\
+\
+その後、[F]キーを押して、フラップスイッチを上げて「AUTO」の位置にしてください。フラップが上がります。",
+    ["DictKey_GroupName_21"] = "New Static Object #005",
+    ["DictKey_ActionText_105"] = "高度計（altimeter）の気圧設定ノブをマウスホイールで回して、空港の標高の気圧29.90inHgに合わせてください。\
+\
+セットができたら「スペースキー」を押してください。",
+    ["DictKey_GroupName_72"] = "New Static Object #021",
+    ["DictKey_GroupName_75"] = "New Static Object #022",
+    ["DictKey_GroupName_66"] = "New Static Object #019",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_UnitName_13"] = "New Static Object #001",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_ActionText_93"] = "In the lower center of the instrument panel is the Multi-Purpose Color Display, or MPCD. Place your mouse over the power and brightness know and rotate your mouse wheel forward until the knob is set to full bright. It will take a moment to power on.\
+\
+Press the [SPACEBAR] once you see video displayed to the MPCD.\
+",
+    ["DictKey_GroupName_78"] = "New Static Object #023",
+    ["DictKey_ActionText_100"] = "Now it is time to get the left engine started. Go ahead and left mouse click on the engine crank switch.\
+\
+Once the left engine is at 20% RPM on the IFEI, press [LEFT ALT + HOME] to move the left throttle from OFF to IDLE.\
+\
+When the left engine is at 60% RPM, press the [SPACEBAR] to continue.\
+",
+    ["DictKey_ActionText_96"] = "The FCS page shows the status of the control surfaces and any detected FCS errors. The Xs indicate detected errors, but we will address these once the left engine is started.\
+\
+Press the [SPACEBAR] to continue.\
+",
+    ["DictKey_ActionText_106"] = "タキシング時にホーネットを操縦、ノースホイールステアリング（NWS)を使用します。「S」キー又は操縦桿のNWSボタンを押してください。NSWが有効になるとHUDの右下部分にNWSの表示がでます。機体の操縦はラダーペダルで右左に行えるようになります。\
+\
+NSWボタンを押したままにするとノーズホイールステアリングHI（NSW HI)になり、急旋回が可能になります。これは空母の甲板では非常に役に立ちます。\
+\
+スペースキーを押すと次に進みます。",
+    ["DictKey_GroupName_27"] = "New Static Object #007",
+    ["DictKey_UnitName_55"] = "New Static Object #014",
+} -- end of dictionary
