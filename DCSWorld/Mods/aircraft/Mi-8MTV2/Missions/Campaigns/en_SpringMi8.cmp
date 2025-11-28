@@ -1,0 +1,397 @@
+campaign =
+{
+    ["fullPath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8.cmp",
+    ["directory"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\",
+    ["startStage"] = 1,
+    ["version"] = 1,
+    ["necessaryUnits"] =
+    {
+        ["Mi-8MT"] = "Mi-8MT",
+    }, -- end of ["necessaryUnits"]
+
+    ["name"] = "Spring Tension",
+    ["name_JP"] = "春の危機（Spring Tension）",
+    ["name_CN"] = "春季危机",
+    ["name_СS"] = "Jarní napětí",
+    ["name_DE"] = "Spring Tension (DEUTSCH)",
+    ["name_RU"] = "Весеннее обострение",
+
+    ["picture"] = "en_SpringMi8_Cover.png",
+    ["picture_CN"] = "cn_SpringMi8_Cover.png",
+    ["picture_RU"] = "ru_SpringMi8_сover.png",
+
+    ["pictureSuccess"] = "en_SpringMi8-Final.png",
+
+    ["description"] = "It’s early spring in South Ossetia. The only reminder left of the Georgian attack is the debilitated peacekeeper’s camp on the edge of Tskhinvali. The Russian 4th army base is now stationed at a different location, well equipped with comfortable new barracks, a fleet of combat and support vehicles, and a helicopter FARP station. The area still doesn’t have any airports, so the only means of air transport is by helicopters, which are stationed on the airbase in the town of Java. Flight crews operate daily from here in support of the Russian troop contingent. In this mountainous area with a poorly developed road network, helicopters are an important, at times the only means of transport. Having just arrived on his new assignment, the Java airbase is now home to Captain Yuri Maksimovich, an Mi-8 Pilot-Commander.",
+    ["description_JP"] = "南オセチア初春。ジョージアからの攻撃への唯一の懸念はツヒンヴァリの端にある脆弱な平和維持軍のキャンプでした。ロシア陸軍第4部隊の基地は、現在、別の場所に移転していました。そこには新しい快適な兵舎、戦闘艦船、補給車両、ヘリコプター前線補給所などが備えられていました。\
+この地域にはまだ空港がないため、空中輸送の手段はジャバ（Java）の街にある空軍基地のヘリコプターによるものだけでした。フライト・クルー達は、毎日ここからロシア兵の派遣を支援していました。道路網の乏しい山岳地帯ではヘリコプターが、時には唯一な場合もあるほど重要な輸送手段した。\
+たった今、Mi-8パイロット・コマンダーのキャプテン ユーリィ・マクシモビッチ（Yuri Maksimovich）がジャバ空軍基地に赴任してきました。",
+    ["description_CN"] = "此时在南奥塞梯，春天才刚刚开始。唯一能让人回想起与格鲁吉亚那场战争的，是留在茨欣瓦利的，已经废弃了的维和部队营地。俄罗斯第4军已经重新部署到了新的区域，现在他们拥有了舒适的军营，一整支用于作战和支援的车队，和一个直升机停机坪。然而，这一片区域仍旧没有任何机场；因此，所有物资都必须由直升机来运输。这支直升机中队坐落在爪哇镇附近的新基地。每天直升机飞行员都例行向各个哨所的俄罗斯官兵输送补给品。在这样的山区，连一条好好修整过的公路都没有，直升机就是如此重要——爪哇基地的直升机，成为了这里唯一的运输手段。就在这个春天，接到调遣命令来到此处报道的Mi-8飞行员，Yuri Maksimovich机长同志，成为了这支直升机中队的一员。",
+    ["description_СS"] = "V Jižní Osetii je jaro. Na kraji Tskhinvali je vidět už je tábor mírových zborů, který tu zbyly jako připomínka posledního gruzínského útoku. Základna ruské 4. armády byla umístěna jinam. Na této nové základně jsou dobře vybavená pohodlná kasárna, flotila bojových a podpůrných vozidel a FARP pro vrtulníky. Zatím tu chybí letiště, takže jediný způsob jak tam dostat zásoby vzdušnou cestou je pomocí vrtulníků, které jsou rozmístěny na letecké základně v Javě. Posádky z této základny denně vzlétají a podporují celý ruský vojenský kontingent. V této hornaté oblasti s nedostatečně rozvinutou silniční sítí, jsou vrtulníky nesmírně důležité. Občas je to dokonce jediný způsob dopravy. Tato letecká základna se právě stala domovem čerstvě dorazivšího kapitána Jurije Maksimoviche – pilota-velitele vrtulníku Mi-8.",
+    ["description_DE"] = "Es ist Frühlingsbeginn in Süd-Ossetien. Die einzig verbliebene Erinnerung, an die georgischen Angriffe, ist die verwahrloste Basis der Friedenstruppen am Rande Tshkinvalis. Die Basis der 4. Russischen Armee befindet sich nun an einem anderen Ort. Gut ausgerüstet, mit komfortablen, neuen Kasernenblöcken, eine Flotte von Gefechts- und Versorgungsfahrzeugen und einem Helikopter-FARP. Die Gegend hat immer noch keine Flughäfen, so bleiben als einziges Mittel zum Lufttransport die Helikopter, welche auf der Luftwaffenbasis nahe des Städtchens Java stationiert sind. Flugbesatzungen operieren täglich von hier aus, um das russische Truppenkontingent zu versorgen. In diesem bergigen Gebiet, mit seinem schlecht entwickelten Straßennetz, sind die Helikopter ein wichtiges, manchmal sogar das einzige Transportmittel. Gerade auf seinen neuen Posten versetzt, ist Java nun das neue Zuhause von Hauptmann Juri Maksimowitsch, einem Mi-8 Kommandanten.",
+    ["description_RU"] = "Ранняя весна в Южной Осетии. О грузинском нападении напоминает только полуразрушенный южный лагерь миротворцев на окраине Цхинвала. Российская 4 военная база обосновалась теперь в другом месте. Обосновалась капитально — с удобными казармами, парком боевой техники и вертолётной площадкой. Аэродромов в республике пока нет, поэтому единственным видом воздушного транспорта остаются вертолёты. Местом их постоянной дислокации стала авиабаза в посёлке Джава. Отсюда они ежедневно осуществляют вылеты в интересах контингента российских войск. В условиях горной местности и с плохо развитой дорожной сетью вертолёты являются важным, а порой и единственным транспортным средством. На эту базу и получил назначение командир экипажа Ми-8 капитан Протасов Юрий Максимович.",
+
+    ["stages"] =
+    {
+        [1] =
+        {
+            ["name"] = "Стадия 1",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-01.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-01.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] =
+        {
+            ["name"] = "Стадия 2",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-02.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-02.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] =
+        {
+            ["name"] = "Стадия 4",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-04.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-04.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] =
+        {
+            ["name"] = "Стадия 8",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-08.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-08.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [16] =
+        {
+            ["name"] = "Стадия 16",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-16.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-16.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [16]
+        [17] =
+        {
+            ["name"] = "Стадия 17",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-17.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-17.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [17]
+        [9] =
+        {
+            ["name"] = "Стадия 9",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-09.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-09.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [18] =
+        {
+            ["name"] = "Стадия 18",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-18.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-18.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [18]
+        [5] =
+        {
+            ["name"] = "Стадия 5",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-05.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-05.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] =
+        {
+            ["name"] = "Стадия 10",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-10.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-10.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [20] =
+        {
+            ["name"] = "Стадия 20",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-20.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-20.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [20]
+        [11] =
+        {
+            ["name"] = "Стадия 11",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-11.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-11.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [3] =
+        {
+            ["name"] = "Стадия 3",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-03.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-03.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] =
+        {
+            ["name"] = "Стадия 6",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-06.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-06.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] =
+        {
+            ["name"] = "Стадия 12",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-12.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-12.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [13] =
+        {
+            ["name"] = "Стадия 13",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-13.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-13.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] =
+        {
+            ["name"] = "Стадия 7",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-07.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-07.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [14] =
+        {
+            ["name"] = "Стадия 14",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-14.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-14.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+        [19] =
+        {
+            ["name"] = "Стадия 19",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-19.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-19.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [19]
+        [15] =
+        {
+            ["name"] = "Стадия 15",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "en_SpringMi8-15.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk_bot\\Mods\\aircraft\\Mi-8MTV2\\Missions\\Campaigns\\en_SpringMi8-15.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+    }, -- end of ["stages"]
+} -- end of campaign
