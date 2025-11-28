@@ -1,0 +1,23 @@
+dictionary = 
+{
+    ["DictKey_descriptionText_9"] = "ベスラン（Beslan）空港から離陸",
+    ["DictKey_descriptionBlueTask_11"] = "",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_GroupName_7"] = "Вертол. группа #001",
+    ["DictKey_descriptionNeutralsTask_12"] = "",
+    ["DictKey_UnitName_4"] = "Пилот #3",
+    ["DictKey_WptName_18"] = "3",
+    ["DictKey_GroupName_5"] = "Вертол. группа",
+    ["DictKey_WptName_19"] = "4",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_GroupName_3"] = "Самолетная группа",
+    ["DictKey_WptName_16"] = "2",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_descriptionRedTask_10"] = "",
+    ["DictKey_sortie_13"] = "離陸",
+    ["DictKey_UnitName_6"] = "Пилот #1",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_WptName_15"] = "1",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_UnitName_8"] = "Пилот #2",
+} -- end of dictionary

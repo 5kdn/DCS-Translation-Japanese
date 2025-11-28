@@ -1,0 +1,14 @@
+dictionary = 
+{
+    ["DictKey_WptName_7"] = "0",
+    ["DictKey_WptName_11"] = "Land",
+    ["DictKey_descriptionText_1"] = "ベガス（Vegas）周辺のフリーフライト",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_10"] = "3",
+    ["DictKey_sortie_4"] = "フリーフライト",
+    ["DictKey_WptName_9"] = "2",
+    ["DictKey_WptName_8"] = "1",
+    ["DictKey_UnitName_6"] = "Pilot #001",
+    ["DictKey_GroupName_5"] = "New Helicopter Group",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary
