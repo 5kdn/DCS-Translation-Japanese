@@ -1,0 +1,17 @@
+dictionary = 
+{
+    ["DictKey_descriptionRedTask_2"] = "\
+\
+",
+    ["DictKey_descriptionText_1"] = "ベトナムでの強敵、MiG-21bisを1機獲得した。それをF-4との接近戦でテストしてみたい。あなたが適任のようですね。",
+    ["DictKey_descriptionBlueTask_3"] = "1.自殺しないようにする。\
+2. このリストをただ読むのではなく、箇条書きの1について考えてください。\
+3. エネルギーを高く保ちましょう。\
+4. 燃料を節約する。\
+5. ファントムの尾翼のリベットを数えられるようになったら撃つ。\
+\
+F-4の翼幅は11.7mです。ASPの目標サイズは11か12に設定してください。",
+    ["DictKey_ActionText_16"] = "Congratulations, good job!",
+    ["DictKey_ActionText_15"] = "",
+    ["DictKey_sortie_4"] = "ドッグファイト",
+} -- end of dictionary

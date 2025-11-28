@@ -1,0 +1,58 @@
+dictionary = 
+{
+    ["DictKey_UnitName_14"] = "Unit #011",
+    ["DictKey_2"] = "テロリストキャンプに70％以上の被害を与えた。攻撃グループを護衛して帰還せよ。",
+    ["DictKey_UnitName_52"] = "Unit #024",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_UnitName_49"] = "Pilot #005",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_descriptionRedTask_63"] = "いつも通りのビジネス。それとも違うのか？",
+    ["DictKey_UnitName_56"] = "Unit #020",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_UnitName_32"] = "Ammo_depo_terror",
+    ["DictKey_UnitName_57"] = "Unit #019",
+    ["DictKey_UnitName_7"] = "Unit #018",
+    ["DictKey_GroupName_60"] = "HELIPORT at Nalchik",
+    ["DictKey_UnitName_12"] = "Unit #013",
+    ["DictKey_GroupName_48"] = "MI24",
+    ["DictKey_UnitName_59"] = "FARP 1",
+    ["DictKey_UnitName_10"] = "Unit #015",
+    ["DictKey_GroupName_51"] = "EW #001",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_UnitName_9"] = "Unit #016",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_GroupName_6"] = "R BUK",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_UnitName_28"] = "Ammo_depo_terror #002",
+    ["DictKey_UnitName_53"] = "Unit #023",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_UnitName_50"] = "Mi24_leader",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_UnitName_54"] = "Unit #022",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_descriptionText_62"] = "国境から南に20kmほど離れた山の中にあるゲビ（Gebi）村の近くで、テロリストのキャンプを確認した。\
+\
+キャンプは工場群の近くに隠されていて、以前の航空写真では工場の建物の一部のように見えていたのである。\
+\
+君のの任務は、攻撃ヘリグループを攻撃ゾーンまで護衛することだ。隣国の領空を侵犯しているため、迎撃反応に注意せよ。テロリストがキャンプにいることを確信しているので、この行動を隣国政府には知らせていない。",
+    ["DictKey_UnitName_55"] = "Unit #021",
+    ["DictKey_descriptionBlueTask_64"] = "- 4 x AH64Dがキャンプを攻撃する予定。彼らはすでに飛行して向かっている。\
+- CAPゾーンに飛んで、我が軍に脅威を与えている全ての敵機と交戦しろ。\
+- 敵の領域に深く入ってはいけない。彼らはSAMユニットを警戒しており、必ず発射するだろう。\
+- 攻撃ゾーンの北側には、2 x MiG-21BISがCAP任務中。強力な敵軍に遭遇した場合は、敵機をこのゾーンに引き込み、彼らが支援できるようにしろ。",
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_UnitName_61"] = "HELIPORT at Nalchik",
+    ["DictKey_UnitName_11"] = "Unit #014",
+    ["DictKey_UnitName_13"] = "Unit #012",
+    ["DictKey_sortie_65"] = "ハンマースイング",
+    ["DictKey_UnitName_30"] = "Ammo_depo_terror #001",
+    ["DictKey_1"] = "敵の周波数の無線を傍受した：敵の迎撃機が離陸している。迎撃機は南西から来るだろう。",
+    ["DictKey_UnitName_34"] = "Factory",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_UnitName_8"] = "Unit #017",
+} -- end of dictionary

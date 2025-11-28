@@ -1,0 +1,28 @@
+dictionary = 
+{
+    ["DictKey_descriptionText_1"] = "不明機が我々の国境すぐ近くを飛行しているのを探知しました。\
+\
+- スクランブル：8000mまで上昇して不明機を迎撃し、識別する。\
+- 命令がない限り、撃墜してはならない。",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_UnitName_8"] = "Pilot #002",
+    ["DictKey_ActionText_35"] = "おめでとう - よくやった！ネリスに着陸せよ。",
+    ["DictKey_sortie_4"] = "迎撃",
+    ["DictKey_ActionText_39"] = "無線チャンネル0でAWACSを呼び出し、Boogey dopeを聞けば敵機の方向と距離を知ることができる。目標の方向へ飛び、後ろにつけ。最速で上昇するように。",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "- スクランブル：8000mまで上昇して不明機を迎撃し、識別する。\
+\
+- ウイングマンとAWACS　チャンネル0\
+- ネリス（Nellis）RSBN　チャンネル18\
+- ネリス（Nellis）ATC　チャンネル 9\
+- マーキュリー（Mercury）NDB: セクターI/1、チャンネル 1\
+- ニーボード (RCtrl + ↑)で地図を見ることができます。\
+\
+- グルームレイク(Groom Lake) RSBN チャンネル8\
+- グルームレイク(Groom Lake) ATC チャンネル9",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_36"] = "",
+    ["DictKey_ActionComment_37"] = "DictKey_ActionComment_37",
+    ["DictKey_ActionText_38"] = "もう一度やってみましょう。",
+} -- end of dictionary

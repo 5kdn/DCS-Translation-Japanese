@@ -1,0 +1,11 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "MiG-21bis フリーフライト",
+    ["DictKey_descriptionText_1"] = "あなたはシリアの南西部上空にいます。\
+\
+このミッションでは、マップや様々な空港に慣れることができます。ARK局に沿って、シリア上空を航行してください。ニーボードにARK局と対応するチャンネルが表示されます。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_descriptionRedTask_2"] = "あなたは何をするにしても自由です。",
+} -- end of dictionary

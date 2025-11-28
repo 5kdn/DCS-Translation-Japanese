@@ -1,0 +1,93 @@
+dictionary = 
+{
+    ["DictKey_UnitName_22"] = "Unit #019",
+    ["DictKey_UnitName_72"] = "Unit #023",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_UnitName_26"] = "Unit #015",
+    ["DictKey_GroupName_77"] = "HELIPORT_1",
+    ["DictKey_GroupName_68"] = "S300",
+    ["DictKey_UnitName_32"] = "Unit #039",
+    ["DictKey_UnitName_29"] = "Unit #043",
+    ["DictKey_GroupName_4"] = "Enemy M2000_cap",
+    ["DictKey_UnitName_39"] = "Pilot #015",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_sortie_82"] = "混雑したパス",
+    ["DictKey_UnitName_5"] = "Pilot #003",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_UnitName_25"] = "Unit #016",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_UnitName_20"] = "Unit #041",
+    ["DictKey_UnitName_9"] = "Enemy QRA leader",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_UnitName_76"] = "Ammo_depo_terror #003",
+    ["DictKey_UnitName_47"] = "Mi24_attack_leader",
+    ["DictKey_UnitName_36"] = "Unit #035",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_UnitName_34"] = "Unit #037",
+    ["DictKey_GroupName_28"] = "Partiot_2",
+    ["DictKey_UnitName_71"] = "Unit #024",
+    ["DictKey_UnitName_69"] = "Unit #026",
+    ["DictKey_UnitName_74"] = "Unit #021",
+    ["DictKey_UnitName_6"] = "Enemy CAP leader",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_UnitName_14"] = "Pilot #018",
+    ["DictKey_UnitName_33"] = "Unit #038",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_GroupName_7"] = "ENEMY_interceptors_21",
+    ["DictKey_descriptionRedTask_80"] = "そのFARPを壊せ。",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_descriptionText_79"] = "敵がアラギール（Alagir）近くの我々のFARP（前線燃料補給ポイント）を攻撃しようとしている。\
+このFARPは、訓練飛行や国境近くの敵地にあるやテロリストのキャンプと戦うために重要な地点だ。",
+    ["DictKey_UnitName_38"] = "Pilot #016",
+    ["DictKey_UnitName_31"] = "Unit #040",
+    ["DictKey_UnitName_35"] = "Unit #036",
+    ["DictKey_UnitName_78"] = "HELIPORT_1",
+    ["DictKey_UnitName_27"] = "Unit #014",
+    ["DictKey_UnitName_70"] = "Unit #025",
+    ["DictKey_UnitName_23"] = "Unit #018",
+    ["DictKey_GroupName_45"] = "Ah64_attack",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_2"] = "パトリオットADユニットが警戒態勢に入った。",
+    ["DictKey_GroupName_19"] = "TERROR_camp #001",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_UnitName_46"] = "Pilot #007",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_descriptionBlueTask_81"] = "スクランブル。CAPゾーンに飛んで、アラギールに向かう敵機をすべて交戦せよ。\
+\
+敵の航空戦力はSEADグループ1個、地上攻撃グループ1個と予想されている。\
+\
+FARPはある程度の防空能力を持っているが、同時にナリチク（Nalchik）の近くにいるパトリオット1基を警戒する必要があるだろう。これには時間がかる。\
+\
+航法データ\
+\
+ナリチク（Nalchik）RSBN - 8\
+ベスラン（Beslan）RSBN - 10\
+\
+ナルチク（Nalchik）ATC - 14\
+ベスラン（Beslan）ATC - 4\
+\
+AWACS - \"Darkstar 11\"チャンネル0 \
+あなたのコールサイン - \"Dodge 11/12\"",
+    ["DictKey_UnitName_15"] = "Enemy 23 Escort Leader",
+    ["DictKey_UnitName_40"] = "Pilot #001",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_UnitName_21"] = "Unit #020",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_UnitName_73"] = "Unit #022",
+    ["DictKey_3"] = "ミッションは成功だ。基地に帰還せよ。",
+    ["DictKey_UnitName_41"] = "Leader PARA_1",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_UnitName_24"] = "Unit #017",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_UnitName_30"] = "Unit #042",
+    ["DictKey_1"] = "敵は我々のFARPの周辺にいる。さらにパトリオットADユニットを警戒する必要がある。しかし、敵と交戦するまでにはまだ時間がかかるだろう。このまま待機せよ。",
+    ["DictKey_GroupName_37"] = "PARA_1",
+    ["DictKey_GroupName_13"] = "Enemy MiG23_escort",
+    ["DictKey_UnitName_8"] = "Pilot #004",
+} -- end of dictionary

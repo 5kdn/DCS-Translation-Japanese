@@ -1,0 +1,13 @@
+dictionary = 
+{
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_descriptionBlueTask_27"] = "何もない。",
+    ["DictKey_sortie_28"] = "フリーフライト",
+    ["DictKey_descriptionText_25"] = "今日も穏やかな午後。暫くの間ぶらぶらしましょう。",
+    ["DictKey_UnitName_24"] = "HELIPORT_1_RUS",
+    ["DictKey_descriptionRedTask_26"] = "飛行の美しさを楽しむ。\
+- ナリチク（Nalchik）RSBN チャンネル8\
+- ナリチク（Nalchik）ATC チャンネル14\
+- 近隣NDB：セクターII/2、チャンネル 2、3\
+- ニーボード (RCtrl + ↑)で地図を見ることができます。",
+} -- end of dictionary

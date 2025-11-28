@@ -1,0 +1,16 @@
+dictionary = 
+{
+    ["DictKey_descriptionText_16"] = "空は明るく、風は穏やかで、広大な大地は春の草木で青々としています。あなたの「21」で一緒にこの草木のざわめきに参加し、安全で健全な状態で帰ってきてください。",
+    ["DictKey_sortie_19"] = "離陸、コールドスタート",
+    ["DictKey_UnitName_4"] = "Pilot #003",
+    ["DictKey_UnitName_15"] = "HELIPORT_1_RUS",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_descriptionRedTask_17"] = "コールドスタート、全アビオニクスをセットアップしましょう。楽しんでください。\
+\
+- ナリチク（Nalchik） RSBNチャンネル 8\
+- ナリチク（Nalchik）  ATCチャンネル 14\
+- 近隣NDB：セクターII/2、チャンネル 2、3\
+- ニーボード (RCtrl + ↑)で地図を見ることができます。",
+    ["DictKey_descriptionBlueTask_18"] = "",
+    ["DictKey_GroupName_14"] = "HELIPORT_1_RUS",
+} -- end of dictionary

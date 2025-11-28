@@ -1,0 +1,20 @@
+dictionary = 
+{
+    ["DictKey_UnitName_24"] = "Pilot #005",
+    ["DictKey_GroupName_33"] = "",
+    ["DictKey_descriptionText_1"] = "今日も穏やかな午後。暫くの間ぶらぶらしましょう。",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_UnitName_19"] = "Pilot #003",
+    ["DictKey_sortie_4"] = "フリーフライト",
+    ["DictKey_UnitName_37"] = "",
+    ["DictKey_UnitName_34"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "飛行の美しさを楽しむ。\
+\
+- ネリス（Nellis）RSBN　チャンネル18\
+- ネリス（Nellis）ATC　チャンネル 9\
+- マーキュリー（Mercury）NDB: セクターI/1、チャンネル 1\
+- ニーボード (RCtrl + ↑)で地図を見ることができます。",
+    ["DictKey_GroupName_36"] = "",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

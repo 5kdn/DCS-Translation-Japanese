@@ -1,0 +1,15 @@
+dictionary = 
+{
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "シリア MiG-21bis ドッグファイト",
+    ["DictKey_descriptionText_1"] = "イスラエルのF-4E ファントムIIがシリアの領空に入ろうとしている。早急に迎撃して撃墜せよ！",
+    ["DictKey_descriptionBlueTask_3"] = "良い標的になってください。",
+    ["DictKey_descriptionRedTask_2"] = "1.自殺しないようにする。\
+2. このリストをただ読むのではなく、箇条書きの1について考えてください。\
+3. エネルギーを高く保ちましょう。\
+4. 燃料を節約する。\
+5. ファントムの尾翼のリベットを数えられるようになったら撃つ。\
+\
+F-4の翼幅は11.7mです。ASPの目標サイズは11か12に設定してください。",
+} -- end of dictionary

@@ -1,0 +1,21 @@
+dictionary = 
+{
+    ["DictKey_descriptionText_35"] = "近くの兵器庫に向かう途中に、反乱軍の地上車両の集団がいる。",
+    ["DictKey_descriptionRedTask_36"] = "敵車両群を発見し、出来るだけ多くの車両を破壊せよ。\
+\
+あなたには支援のためのウィングマンが割り当てられている（チャンネル0）。\
+\
+あなたの機体にはクラスター爆弾とロケット弾が搭載されている。標的の周りにいる敵車両を攻撃せよ。ウィングマンはあなたを支援する。ナリチク(Nalchik）に着陸すれば、武装と燃料を補給できる。",
+    ["DictKey_UnitName_34"] = "DEPO",
+    ["DictKey_descriptionBlueTask_37"] = "何もない。",
+    ["DictKey_GroupName_4"] = "ESCORT_rus_1",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_UnitName_5"] = "Pilot #003",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_sortie_38"] = "地上攻撃",
+    ["DictKey_1"] = "敵の車両の少なくとも33％を破壊した。よくやった。",
+    ["DictKey_UnitName_6"] = "ESCORT_rus_1_leader",
+    ["DictKey_UnitName_17"] = "Pilot #006",
+    ["DictKey_UnitName_21"] = "HELIPORT_1_RUS",
+} -- end of dictionary
