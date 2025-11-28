@@ -1,0 +1,363 @@
+campaign = 
+{
+    ["description"] = "In the world of oil production there are times when old, abandoned and seemingly long exhausted wells are renewed. New methods of exploration enable finding deeper or earlier undetected layers. Then, the second life of the oilfield begins.\
+\
+So, this is what is happening with the old, forgotten oil fields in the Maykop region. Long-abandoned derricks and pumps scattered throughout the area get a new life. Geochemical exploration showed promising results. Large scale seismic surveys identified a large number of potential traps for the oil, which had not been seen in the previous period of the field development.\
+Now it’s the turn of the main exploration method - exploratory drilling, which gives a final and definite answer. With good preliminary preparations about half the wells are dry, which means that oil is not found. But the other half of the wells are successful, and the results are very good.\
+\
+For strategic transfer of materials and people on the rigs, the geological exploration expedition actively uses the most efficient transport for their needs - helicopters. When a company does not have enough helicopters, it has to rent more, even from the military.\
+So this is what happened to the crew of the Mi-8 under the command of captain Protasov, who honed his skills at the sites near their base in Krasnodar, unaware of what adventure awaits them ahead.",
+   ["description_JP"] = "石油生産の世界にでは、昔に破棄され、一見枯渇したと思われていた油田が見直されています。新しい調査方法によって、すばやくより深い場所にある石油層を発見できるようになりました。そのため、昔の採掘場が再び稼働を始めています。\
+これは、マイコープ（Maykop)地域にある、とうに忘れ去られた石油採掘場でも起こっています。あちこちに長い間放置されたままだったデリックやポンプが再び動き始めました。 地科学探査により有望であると判断され、大規模地震調査を行った結果、大規模な石油含有層が発見されました。これは以前の採掘時代には見つかっていなかった油田です。\
+\
+ここからは、主な探索方法である試験採掘の段階に入ります。これにより最終的に採掘可能かどうかが判明します。事前探査により、約半分の油田は枯渇しています。ここでは石油は見つかりませんでした。しかし、残り半分からは石油が発見され、結果は非常に良好でした。\
+\
+採掘場への人や資材を効率的に輸送をするために、地域調査活動を行います。この活動にはヘリコプターによる輸送が一番効率的でした。会社は十分な数のヘリコプターを所持しておらず。他から借りてくる必要がありました。たとえそれが軍用であっても。\
+\
+これが、Mi-8クルーのコマンダー・パイロットであるユーリィ・マクシモビッチ・プロタソフに任務が命じられた経緯です。彼はクラスノダール（Krasnodar）基地で腕を磨いてきましたが、これからどんな冒険が待っているのかはまだ知りませんでした。", 
+   ["name_JP"] = "オイルフィールド",
+   ["name_EN"] = "Oilfield",
+    ["name_RU"] = "Нефтепромысел",
+    ["pictureSuccess_RU"] = "Camp end RU.png",
+    ["necessaryUnits"] = 
+    {
+        ["Mi-8MT"] = "Mi-8MT",
+    }, -- end of ["necessaryUnits"]
+    ["stages"] = 
+    {
+        [11] = 
+        {
+            ["name"] = "Стадия 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "11_Oilfield.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\11_Oilfield.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [13] = 
+        {
+            ["name"] = "Стадия 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "13_Oilfield.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\13_Oilfield.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "Стадия 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "07_Oilfield.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\07_Oilfield.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] = 
+        {
+            ["name"] = "Стадия 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "01_Oilfield.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\01_Oilfield.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Стадия 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "02_Oilfield.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\02_Oilfield.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [15] = 
+        {
+            ["name"] = "Стадия 15",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "15_Oilfield.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\15_Oilfield.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+        [8] = 
+        {
+            ["name"] = "Стадия 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "08_Oilfield.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\08_Oilfield.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [16] = 
+        {
+            ["name"] = "Стадия 16",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "17_Oil-FreeFlight.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\17_Oil-FreeFlight.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                    }, -- end of ["interval"]
+                    ["file"] = "17_Oil-Inc.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\17_Oil-Inc.miz",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "16_Oilfield.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\16_Oilfield.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [16]
+        [9] = 
+        {
+            ["name"] = "Стадия 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "09_Oilfield.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\09_Oilfield.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] = 
+        {
+            ["name"] = "Стадия 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "05_Oilfield.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\05_Oilfield.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Стадия 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "10_Oilfield.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\10_Oilfield.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [14] = 
+        {
+            ["name"] = "Стадия 14",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "14_Oilfield.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\14_Oilfield.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+        [3] = 
+        {
+            ["name"] = "Стадия 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "03_Oilfield.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\03_Oilfield.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] = 
+        {
+            ["name"] = "Стадия 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "06_Oilfield.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\06_Oilfield.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Стадия 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "12_Oilfield.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\12_Oilfield.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [4] = 
+        {
+            ["name"] = "Стадия 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "04_Oilfield.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\Нефть\\04_Oilfield.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+    }, -- end of ["stages"]
+    ["fullPath"] = "E:\\Miz\\Campaigns\\Нефть\\Oilfield.cmp",
+    ["picture_EN"] = "Camp cover EN.png",
+    ["directory"] = "E:\\Miz\\Campaigns\\Нефть\\",
+    ["startStage"] = 1,
+    ["picture_RU"] = "Camp cover RU.png",
+    ["description_EN"] = "In the world of oil production there are times when old, abandoned and seemingly long exhausted wells are renewed. New methods of exploration enable finding deeper or earlier undetected layers. Then, the second life of the oilfield begins.\
+\
+So, this is what is happening with the old, forgotten oil fields in the Maykop region. Long-abandoned derricks and pumps scattered throughout the area get a new life. Geochemical exploration showed promising results. Large scale seismic surveys identified a large number of potential traps for the oil, which had not been seen in the previous period of the field development.\
+Now it’s the turn of the main exploration method - exploratory drilling, which gives a final and definite answer. With good preliminary preparations about half the wells are dry, which means that oil is not found. But the other half of the wells are successful, and the results are very good.\
+\
+For strategic transfer of materials and people on the rigs, the geological exploration expedition actively uses the most efficient transport for their needs - helicopters. When a company does not have enough helicopters, it has to rent more, even from the military.\
+So this is what happened to the crew of the Mi-8 under the command of captain Protasov, who honed his skills at the sites near their base in Krasnodar, unaware of what adventure awaits them ahead.",
+    ["pictureSuccess"] = "Camp end EN.png",
+    ["name"] = "Oilfield",
+    ["pictureSuccess_EN"] = "Camp end EN.png",
+    ["picture"] = "Camp cover EN.png",
+    ["version"] = 1,
+    ["description_RU"] = "В мировой практике нефтедобычи бывают случаи, когда старое, заброшенное и казалось бы давно исчерпанное месторождение вновь напоминает о себе. Новые методы геологоразведки позволяют найти более глубокие или не обнаруженные ранее пласты. Тогда для месторождения начинается вторая жизнь. \
+\
+Так произошло и со старыми забытыми нефтяными промыслами в районе Майкопа, о которых напоминали лишь давно брошенные вышки и насосы, разбросанные по всему району. После того, как геохимическая разведка показала обнадёживающие результаты были проведены масштабные мероприятия по сейсморазведке. Они то и выявили большое количество потенциальных ловушек для нефти, которые не были замечены в предыдущий период освоения месторождения. \
+Теперь настала очередь самого главного метода разведки, а именно - поисково-разведочное бурение, которое и даёт окончательный и однозначный ответ. При хорошей предварительной подготовке примерно половина скважин оказываются сухими - то есть нефть не обнаружена. Зато другая половина скважин оказывается успешными, и это очень хороший результат. \
+\
+Для оперативной переброски материалов и людей на буровые вышки геолого-разведочная экспедиция активно использует самый эффективный для своих нужд транспорт - вертолёты. Когда своих вертолётов компании не хватает, приходится арендовать на стороне и даже у военных. \
+Так и произошло с экипажем Ми-8 под командованием капитана Протасова, который оттачивал свои навыки на полигонах возле своей базы в Краснодаре, не подозревая о том, какое приключение ждёт их впереди. ",
+} -- end of campaign
