@@ -1,0 +1,10 @@
+dictionary = 
+{
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_GroupName_5"] = "M-8",
+    ["DictKey_descriptionBlueTask_3"] = "離陸して着陸してください。",
+    ["DictKey_UnitName_6"] = "Mike",
+    ["DictKey_descriptionText_1"] = "今日の任務は、離陸してラスベガス上空をショートフライトしてから出発した空港に着陸することです。",
+    ["DictKey_sortie_4"] = "離陸",
+} -- end of dictionary

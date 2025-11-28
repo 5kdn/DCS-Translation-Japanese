@@ -1,0 +1,33 @@
+dictionary = 
+{
+    ["DictKey_UnitName_14"] = "Unit #004",
+    ["DictKey_UnitName_18"] = "Unit #1",
+    ["DictKey_UnitName_9"] = "Unit #009",
+    ["DictKey_UnitName_8"] = "Unit #010",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_descriptionText_19"] = "貨物と装甲車のコンボイがまっすぐ前の町に向かって道路を進んでいます。攻撃して下さい！",
+    ["DictKey_GroupName_2"] = "New Helicopter Group",
+    ["DictKey_UnitName_15"] = "Unit #003",
+    ["DictKey_UnitName_12"] = "Unit #006",
+    ["DictKey_UnitName_6"] = "Unit #012",
+    ["DictKey_1"] = "貨物と装甲車のコンボイがまっすぐ前の町に向かって道路を進んでいます。攻撃して下さい！\
+\
+武器システムはロケットが準備できています。ロケットから機銃に切り替えるには、「RCtrl+]」を２回押してください。",
+    ["DictKey_descriptionRedTask_20"] = "",
+    ["DictKey_UnitName_17"] = "Unit #001",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_descriptionBlueTask_21"] = "",
+    ["DictKey_sortie_22"] = "Mi-8MTV2-QS-コンボイ急襲",
+    ["DictKey_UnitName_10"] = "Unit #008",
+    ["DictKey_GroupName_4"] = "New Vehicle Group",
+    ["DictKey_UnitName_11"] = "Unit #007",
+    ["DictKey_UnitName_7"] = "Unit #011",
+    ["DictKey_UnitName_13"] = "Unit #005",
+    ["DictKey_UnitName_5"] = "Unit #013",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_UnitName_16"] = "Unit #002",
+    ["DictKey_UnitName_3"] = "Pilot #001",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_WptName_27"] = "",
+} -- end of dictionary
