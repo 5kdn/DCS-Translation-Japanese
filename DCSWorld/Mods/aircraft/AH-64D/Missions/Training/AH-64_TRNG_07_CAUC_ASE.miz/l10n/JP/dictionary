@@ -1,0 +1,650 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "前方コンソールの下にある PARK BRAKE ハンドルを放します。",
+    ["DictKey_ActionText_112"] = "---",
+    ["This sets the interval between chaff bursts to 0.2 seconds\
+\
+Next press PB L4 SALVO COUNT…\
+\
+…follow by pressing PB L3 4.This sets the interval between chaff bursts to 0.2 seconds\
+\
+Next press PB L4 SALVO COUNT…\
+\
+…follow by pressing PB L3 4.This sets the interval between chaff bursts to 0.2 seconds\
+\
+Next press PB L4 SALVO COUNT…\
+\
+…follow by pressing PB L3 4.DictKey_ActionText_57"] = "",
+    ["DictKey_ActionText_95"] = "ASE は、プログラムが起動されるたびに、それぞれ 2 個のチャフを 4 回一斉発射します。\
+\
+SALVO INTERVALはRANDOMのままとします。 （SALVO INTERVALの変更も同様です）\
+\
+(PB L6 カートリッジは地上作業員がチャフ弾の数を設定するために使用します。)\
+\
+続行する準備ができたら、スペースバーを押します。",
+    ["Note the CMWS indications of a SAM launch and watch as Flares automatically dispense.Note the CMWS indications of a SAM launch and watch as Flares automatically dispense.Note the CMWS indications of a SAM launch and watch as Flares automatically dispense.DictKey_ActionText_83"] = "",
+    ["The ASE will \"pump out\" 4 salvos of 2 chaff each, every time the program activated.\
+\
+For SALVO INTERVAL, we will leave it at RANDOM. (Changing SALVO INTERVAL is done in a similar manner)\
+\
+Before leaving the ASE UTIL page, note PB L6 CARTRIDGES. This is a button used by the ground crew to set the number of Chaff rounds. \
+\
+When ready to continue press the SPACEBAR.The ASE will \"pump out\" 4 salvos of 2 chaff each, every time the program activated.\
+\
+For SALVO INTERVAL, we will leave it at RANDOM. (Changing SALVO INTERVAL is done in a similar manner)\
+\
+Before leaving the ASE UTIL page, note PB L6 CARTRIDGES. This is a button used by the ground crew to set the number of Chaff rounds. \
+\
+When ready to continue press the SPACEBAR.The ASE will \"pump out\" 4 salvos of 2 chaff each, every time the program activated.\
+\
+For SALVO INTERVAL, we will leave it at RANDOM. (Changing SALVO INTERVAL is done in a similar manner)\
+\
+Before leaving the ASE UTIL page, note PB L6 CARTRIDGES. This is a button used by the ground crew to set the number of Chaff rounds. \
+\
+When ready to continue press the SPACEBAR.DictKey_ActionText_59"] = "",
+    ["DictKey_ActionText_88"] = "最初のステップは、RLWR をオンにすることです。\
+\
+PB T6 UTIL… を押して、ASE ユーティリティ ページを表示します。\
+\
+...次に PB R4 RLWR を押してオンに切り替えます。",
+    ["DictKey_ActionText_101"] = "ヘリポートに隣接して2つの捜索レーダーが作動している。 SA-6 SAM システムに関連付けられた STRAIGHT FLUSH レーダー、FLAT FACE 捜索レーダー\
+\
+これらのレーダーがオンラインになると、ASE はレーダーを検出し、ASE ページに三角形のアイコンを表示します。 SA-6 関連レーダーには、アイコンの横に「6」が表示されます。 FLAT FACE レーダーのアイコンには、検索を表す「S」が表示されます。\
+\
+聴覚警告により、レーダーの種類、そのモード (探索)、およびあなたからの相対的な方位 (時) がわかります。\
+\
+続行する準備ができたら、スペースバーを押します。",
+    ["DictKey_ActionText_132"] = "UTIL ページを表示している間、PB R5 RLWR VOICE を使用して、TERSE と NORM の間で切り替えることができます。 TERSE は、頻度を減らして口頭で警告を発します。\
+\
+このトレーニングでは NORM (ノーマル) を使用します。\
+\
+準備ができたら、スペースバーを押して続行します。",
+    ["DictKey_ActionComment_90"] = "",
+    ["DictKey_ActionText_113"] = "",
+    ["The choices are:\
+SEARCH - PB R1\
+ACQUISITION - PB R2\
+TRACK - PB R3\
+OFF - PB R4.\
+\
+The choice will depend on the threat environment and/or personal choice.\
+\
+Press PB R2 ACQUISITION.The choices are:\
+SEARCH - PB R1\
+ACQUISITION - PB R2\
+TRACK - PB R3\
+OFF - PB R4.\
+\
+The choice will depend on the threat environment and/or personal choice.\
+\
+Press PB R2 ACQUISITION.The choices are:\
+SEARCH - PB R1\
+ACQUISITION - PB R2\
+TRACK - PB R3\
+OFF - PB R4.\
+\
+The choice will depend on the threat environment and/or personal choice.\
+\
+Press PB R2 ACQUISITION.DictKey_ActionText_65"] = "",
+    ["DictKey_ActionText_128"] = "左側の MPD には、ASE ページが表示されます。次の点に注意してください。\
+PB T2 では、ASE が強調表示されます (ボックスで囲まれています)。\
+PB T1 では、CHAFF は SAFE を示しています。\
+ - チャフランチャーは安全です/発射されません。\
+PB L1ではCHAFF MODEがPROGRAMを表示しています。\
+ - チャフはあらかじめ設定されたプログラムに従って起動されます。\
+AT PB R1 AUTOPAGE は SEARCH に設定されます。\
+\
+これらの設定を確認したら、スペースバーを押して続行します。",
+    ["Press PB T6 UTIL to step back to the main ASE page.Press PB T6 UTIL to step back to the main ASE page.Press PB T6 UTIL to step back to the main ASE page.DictKey_ActionText_61"] = "",
+    ["While we are on the UTIL page, you can use PB R4 RLWR VOICE to toggle it between TERSE and NORM. TERSE provides less frequent verbal warnings. \
+\
+When ready, press the SPACEBAR to continue.While we are on the UTIL page, you can use PB R4 RLWR VOICE to toggle it between TERSE and NORM. TERSE provides less frequent verbal warnings. \
+\
+When ready, press the SPACEBAR to continue.While we are on the UTIL page, you can use PB R4 RLWR VOICE to toggle it between TERSE and NORM. TERSE provides less frequent verbal warnings. \
+\
+When ready, press the SPACEBAR to continue.While we are on the UTIL page, you can use PB R4 RLWR VOICE to toggle it between TERSE and NORM. TERSE provides less frequent verbal warnings. \
+\
+When ready, press the SPACEBAR to continue.DictKey_ActionText_51"] = "",
+    ["DictKey_ActionText_107"] = "ウェイポイント 3 に向かって飛行すると、多数のレーダーが狙った AAA の脅威が見えます。 SAM とは異なり、「起動」の兆候はありません。\
+\
+TRACKING ASE のシンボルを観察し、聴覚による警告に耳を傾け、ASE で識別された方位に沿って AAA トレーサーを「目を離さない」ようにしてください。\
+\
+フライト プランの飛行を続けて、スペースバーを押します。",
+    ["DictKey_ActionText_136"] = "これにより、各斉射でチャフが 2 回バーストされます。\
+\
+次に PB L3 バースト間隔を押します…\
+\
+...そして PB L5 0.2 を押します。",
+    ["DictKey_ActionText_124"] = "---",
+    ["DictKey_ActionText_117"] = "---",
+    ["DictKey_ActionText_35"] = "taxing時には尾輪のロックが解除され、方向転換が可能になります。\
+現在、尾輪はロックされています。拡張アップフロントディスプレイ (EUFD) には TAIL WHL LOCK SEL が表示されます。\
+\
+タクシー ロールを開始するときに、Collective の尾輪ロック解除/ロック ボタン (または LShift + W にマップ) を使用して尾輪のロックを解除します。\
+\
+この方法を使用して尾輪のロックを解除する練習をしてください。",
+    ["DictKey_ActionText_130"] = "最初のステップは、レーダーおよびレーザー警告受信機 (RLWR) をオンにすることです。\
+\
+PB T6 UTIL… を押して、ASE ユーティリティ ページを表示します。\
+\
+...次に PB R4 RLWR を押してオンに切り替えます。",
+    ["DictKey_ActionText_89"] = "",
+    ["DictKey_sortie_5"] = "AH-64D Lesson 7 - ASE CMWS",
+    ["Like the ASE, the CMWS launches Flares in a preset program, designed to best decoy the type of IR missile you may encounter. This program is set before takeoff by the maintenance crew; cannot be changed from inside the aircraft. \
+\
+To simulate this function, in DCS, the Flare Program can be configured before the engines are started, using the computer keyboard key presses shown on the kneeboard.\
+\
+When ready to continue, press the SPACEBAR.Like the ASE, the CMWS launches Flares in a preset program, designed to best decoy the type of IR missile you may encounter. This program is set before takeoff by the maintenance crew; cannot be changed from inside the aircraft. \
+\
+To simulate this function, in DCS, the Flare Program can be configured before the engines are started, using the computer keyboard key presses shown on the kneeboard.\
+\
+When ready to continue, press the SPACEBAR.Like the ASE, the CMWS launches Flares in a preset program, designed to best decoy the type of IR missile you may encounter. This program is set before takeoff by the maintenance crew; cannot be changed from inside the aircraft. \
+\
+To simulate this function, in DCS, the Flare Program can be configured before the engines are started, using the computer keyboard key presses shown on the kneeboard.\
+\
+When ready to continue, press the SPACEBAR.DictKey_ActionText_69"] = "",
+    ["DictKey_ActionText_142"] = "PB T6 UTIL を押して、メイン ASE ページに戻ります。",
+    ["Take off and follow the flightpath to the east at 700 ft AGL.\
+\
+Once you are airborne, ARM Chaff by pressing ASE page, PB T1, CHAFF. (Change to ARM)\
+\
+…then on the CMWS switch ARM/SAFE to ARM.Take off and follow the flightpath to the east at 700 ft AGL.\
+\
+Once you are airborne, ARM Chaff by pressing ASE page, PB T1, CHAFF. (Change to ARM)\
+\
+…then on the CMWS switch ARM/SAFE to ARM.Take off and follow the flightpath to the east at 700 ft AGL.\
+\
+Once you are airborne, ARM Chaff by pressing ASE page, PB T1, CHAFF. (Change to ARM)\
+\
+…then on the CMWS switch ARM/SAFE to ARM.DictKey_ActionText_73"] = "",
+    ["DictKey_ActionText_119"] = "DEBUG SPAA Act",
+    ["DictKey_descriptionText_1"] = "このレッスンでは、AH-64D の航空機生存性装置と共通ミサイル警報システムの使用方法を学びます。",
+    ["DictKey_ActionText_100"] = "ASE と同様に、CMWS は、遭遇する可能性のある IR ミサイルの種類を最適におとりになるように設計された、プリセット プログラムでフレアを発射します。このプログラムは離陸前に整備員によって設定されます。機内からは変更できません。\
+\
+この機能をシミュレートするために、DCS では、エンジンを始動する前に、ニーボードに表示されているコンピューターのキーボードのキーを押してフレア プログラムを設定できます。\
+\
+このトレーニングでは次のように設定されています。\
+バースト数: 一斉射撃あたり 2 フレア\
+バースト間隔：0.2秒間隔\
+サルボ数: プログラムごとに 2 サルボ\
+一斉射撃間隔：1秒間隔\
+\
+プログラム間の間隔は最低 1 秒。\
+\
+続行する準備ができたら、スペースバーを押します。",
+    ["DictKey_ActionText_20"] = "TRANSITION:\
+\
+安定したホバリングから、前方サイクリックを適用して「翼を水平にする」(ホバリング姿勢より約 5 度下)、最大連続トルク 100% を超えないように、ホバリング出力を少なくとも 10% 上回る値を適用します。\
+\
+航空機を加速しながら、ペダルを使用して離陸方向 (LOS からヘディング テープのラバー ラインに向かう速度ベクトル) と地上トラックの位置合わせを維持します。\
+\
+速度ベクトルが HDU 表示の上部に達したときに SSS の上を押して、遷移シンボルを選択します。\
+\
+上昇速度が 500fpm、90 ノットになるように調整します。\
+\
+継続してホバーして遷移を試みる準備ができたら、スペースバーを押して幸運を祈ります。",
+    ["DictKey_ActionText_108"] = "SA-9 IR誘導SAMが左前方の飛行場にいます。\
+\
+CMWS で BYPASS/AUTO を AUTO に設定します。\
+\
+(注: この SA-9 はエンジンからの熱を検出するまで待機します。ビームまたはリアクォーターショットが予想されます。)",
+    ["Finally, you need to set the conditions under which the ASE will \"AUTOPAGE\"–automatically display bring up ASE symbology in reaction to a radar detection. \
+\
+Press PB R1 AUTOPAGE.Finally, you need to set the conditions under which the ASE will \"AUTOPAGE\"–automatically display bring up ASE symbology in reaction to a radar detection. \
+\
+Press PB R1 AUTOPAGE.Finally, you need to set the conditions under which the ASE will \"AUTOPAGE\"–automatically display bring up ASE symbology in reaction to a radar detection. \
+\
+Press PB R1 AUTOPAGE.DictKey_ActionText_63"] = "",
+    ["DictKey_ActionText_106"] = "あなたはウェイポイント 2 に向かっています。訓練のために、SA-6 SAM によって検出され交戦するまで、真っすぐに水平に飛行し続けてください。\
+\
+最初にレーダーが検索中であることが聞こえ、その後追跡に変わります。 ASE ページでは、レーダー アイコンから自船までの点線が表示されます。\
+\
+ミサイルが発射されると、ミサイル発射警報が聞こえます。\
+\
+チャフディスペンス (サイクリックのボタン) を押します。 CMWS の表示をチェックして、CHAFF 弾が分散しているのを確認してください。",
+    ["DictKey_ActionText_99"] = "次に、CMWS コントロール パネルに注目してください。\
+\
+電源ノブをオンにして CMWS の電源をオンにします。\
+\
+短い BIT を経て、SYS PASS が表示され、続いて残りのフレア ラウンド数 (F 60) と残りのチャフ ラウンド数 (C 30) が表示されます。\
+\
+コントロールパネルの下部で、スイッチを次のように設定する必要があります。\
+アーム/セーフ - セーフ\
+CMWS/NAV - CMWS\
+バイパス/オート - オート\
+\
+CMWS が正しく構成されている場合は、スペースバーを押して続行します。",
+    ["You are in Active Pause.\
+\
+Congratulations:  You have completed the basics of ASE/CMWS employment.\
+\
+For the rest of the lesson, IMMORTAL mode has been turned off. Over the remainder of the flight plan you will be presented with radar and IR SAMs as well as radar-aimed AAA. Use the ASE and CMWS, as well as tactical \"nap of the earth\" flying and terrain masking to defeat these threats and make it back to base.  Good luck.You are in Active Pause.\
+\
+Congratulations:  You have completed the basics of ASE/CMWS employment.\
+\
+For the rest of the lesson, IMMORTAL mode has been turned off. Over the remainder of the flight plan you will be presented with radar and IR SAMs as well as radar-aimed AAA. Use the ASE and CMWS, as well as tactical \"nap of the earth\" flying and terrain masking to defeat these threats and make it back to base.  Good luck.You are in Active Pause.\
+\
+Congratulations:  You have completed the basics of ASE/CMWS employment.\
+\
+For the rest of the lesson, IMMORTAL mode has been turned off. Over the remainder of the flight plan you will be presented with radar and IR SAMs as well as radar-aimed AAA. Use the ASE and CMWS, as well as tactical \"nap of the earth\" flying and terrain masking to defeat these threats and make it back to base.  Good luck.DictKey_ActionText_85"] = "",
+    ["DictKey_ActionText_8"] = "このレッスンでは、IHADSS ヘルメット ディスプレイ ユニット (HDU) を使用します。飛行は、HDU に「ホバー」シンボルが表示されることから始まります。使用するもう 1 つの HDU シンボルは「Transition」です。\
+\
+シンボル選択スイッチ (SSS) を上に 1 回押すと、HDU がホバーからトランジションに変わります。 SSS を下に 1 回押すとホバーに戻ります。 2 つのモードを切り替える練習をしてください。\
+\
+このフライトを開始するために地上走行するため、「水平線」を提供するトランジション シンボルを使用します。これにより、ロール姿勢の基準が得られ、タクシー中に Apache を直立状態に保つのに役立ちます。\
+\
+SSS でトランジション モードを設定します。\
+\
+続行する準備ができたら、スペースバーを押します。",
+    ["DictKey_ActionText_12"] = "これでタキシング準備が整いました。前方に走行し、その場所から出てから左折してパッドに向かって走行します。 (マーカーフラッグの隣の兵士に向かってください。)\
+\
+これを行うには、前進サイクリックを適用して前進タクシーを開始する前に、コレクティブ トルクを 30% に増加します。\
+\
+前進運動が確立されたら、テールホイールのロックを解除し、ペダル (テールローター、つまりラダーコントローラー) で進行方向を維持します。左右のサイクリックでロール中の機体の水平を維持します。\
+\
+旋回中は旋回方向にペダルを踏み、旋回速度を一定に保ちます。旋回方向にサイクリックを適用して、ロール時の航空機の水平を維持します。\
+\
+対地速度は5ktsから6ktsを維持してください。\
+ \
+準備ができたらタキシングを開始します。",
+    ["DictKey_ActionText_34"] = "On the pad",
+    ["DictKey_ActionText_157"] = "",
+    ["DictKey_ActionText_134"] = "次に使用するCHAFFプログラムを設定します。プッシュボタン L2 から L5 は、チャフバーストの数 (BURST COUNT)、バースト間の間隔 (BURST INTERVAL)、プログラムに入るたびのチャフサルボの数 (SALVO COUNT)、およびサルボ間の間隔 (SALVO INTERVAL) を制御します。\
+\
+PB L2 バーストカウントを押して開始します…\
+\
+...そして PB L5 2 を押します。",
+    ["This will fire 2 bursts of chaff in each salvo.\
+\
+Next press PB L3 BURST INTERVAL…\
+\
+…and then press PB L2 0.2This will fire 2 bursts of chaff in each salvo.\
+\
+Next press PB L3 BURST INTERVAL…\
+\
+…and then press PB L2 0.2This will fire 2 bursts of chaff in each salvo.\
+\
+Next press PB L3 BURST INTERVAL…\
+\
+…and then press PB L2 0.2DictKey_ActionText_55"] = "",
+    ["DictKey_ActionText_144"] = "最後に、ASE が「オートページ」する条件を設定する必要があります。つまり、レーダー検出に反応して ASE シンボルが自動的に表示されます。\
+\
+PB R1 オートページを押します。",
+    ["DictKey_ActionComment_103"] = "",
+    ["DictKey_ActionText_41"] = "HOVERING:\
+目標は、航空機を 5 フィートの静止ホバリング状態にすることです。ただし、この最初の訓練飛行では、AGL が 5 フィートから 25 フィートの間であれば許容されます。\
+\
+LOS レティクルの中心にある加速キューを維持しながら、コレクティブをスムーズに増加させます。約 53% のトルクで離陸を開始する必要があります。\
+\
+安定したホバリングを維持するには、サイクリックで LOS レチクルの中心に加速キューを維持し、一定の高度を維持するようにコレクティブを調整します。ペダルを使用して、進行方向を安定させます。\
+   \
+続行するにはスペースバーを押してください。",
+    ["DictKey_ActionText_148"] = "次に、CMWS コントロール パネルに注目してください。\
+\
+電源ノブをオンにして CMWS の電源をオンにします。\
+\
+短い BIT を経て、SYS PASS が表示され、続いて残りのフレア ラウンド数 (F 60) と残りのチャフ ラウンド数 (C 30) が表示されます。\
+\
+コントロールパネルの下部で、スイッチを次のように設定する必要があります。\
+アーム/安全 - 安全。\
+CMWS/NAV - CMWS。\
+バイパス/自動 - 自動。\
+\
+CMWS が正しく構成されている場合は、スペースバーを押して続行します。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["Note that the CMWS AUTO/BYPASS is set to AUTO. In the modern battle space, the possibility of being engaged by an IR guided SAM is nearly always present, thus the default setting is AUTO. While this means that the CMWS will dispense Flares against a radar SAM (when they are ineffective), it is considered the safer option.\
+\
+However, in this training, to conserve Flare for later,  set AUTO/BYPASS to BYPASS.Note that the CMWS AUTO/BYPASS is set to AUTO. In the modern battle space, the possibility of being engaged by an IR guided SAM is nearly always present, thus the default setting is AUTO. While this means that the CMWS will dispense Flares against a radar SAM (when they are ineffective), it is considered the safer option.\
+\
+However, in this training, to conserve Flare for later,  set AUTO/BYPASS to BYPASS.Note that the CMWS AUTO/BYPASS is set to AUTO. In the modern battle space, the possibility of being engaged by an IR guided SAM is nearly always present, thus the default setting is AUTO. While this means that the CMWS will dispense Flares against a radar SAM (when they are ineffective), it is considered the safer option.\
+\
+However, in this training, to conserve Flare for later,  set AUTO/BYPASS to BYPASS.DictKey_ActionText_75"] = "",
+    ["DictKey_ActionText_91"] = "UTIL ページを表示している間、PB R5 RLWR VOICE を使用して、TERSE と NORM の間で切り替えることができます。 TERSE は、頻度を減らして口頭で警告を発します。\
+\
+このトレーニングでは NORM を使用します。\
+\
+準備ができたら、スペースバーを押して続行します。",
+    ["The first step is to turn on the RLWR.\
+\
+Bring up the ASE utility page by pressing PB T6 UTIL…\
+\
+…and then press PB R4 RLWR, to toggle it on.The first step is to turn on the RLWR.\
+\
+Bring up the ASE utility page by pressing PB T6 UTIL…\
+\
+…and then press PB R4 RLWR, to toggle it on.The first step is to turn on the RLWR.\
+\
+Bring up the ASE utility page by pressing PB T6 UTIL…\
+\
+…and then press PB R4 RLWR, to toggle it on.The first step is to turn on the RLWR.\
+\
+Bring up the ASE utility page by pressing PB T6 UTIL…\
+\
+…and then press PB R4 RLWR, to toggle it on.DictKey_ActionText_49"] = "",
+    ["DictKey_ActionText_140"] = "ASE は、プログラムが起動されるたびに、それぞれ 2 個のチャフを 2 回一斉発射します。\
+\
+SALVO INTERVALはRANDOMのままとします。 （SALVO INTERVALの変更も同様です）\
+\
+(PB L6 カートリッジは地上作業員がチャフ弾の数を設定するために使用します。)\
+\
+続行する準備ができたら、スペースバーを押します。",
+    ["DictKey_ActionText_125"] = " ",
+    ["DictKey_ActionText_24"] = "この時点であなたは離陸し、飛行しています。これで訓練飛行は終了です。\
+\
+ ESC を押してレッスンを終了します。",
+    ["DictKey_ActionText_98"] = "選択肢は次のとおりです。\
+検索 - PB R1\
+捕捉 - PB R2\
+トラック - PB R3\
+オフ - PB R4。\
+\
+どちらを選択するかは、脅威環境や個人の選択によって異なります。\
+\
+PB R2 取得を押します。",
+    ["DictKey_ActionText_102"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["Two search radars are activating adjacent to the helipad; a STRAIGHT FLUSH radar associated with the SA-6 SAM system, and a SNOW DRIFT radar associated with the SA-11 system.\
+\
+As these radars come on line the ASE will detect them and display a triangle icons on the ASE page. The SA-6 associated radar will show \"6\" next the icon; the SA-11 associated radar will show \"S D\" (for SNOW DRIFT) at its icon.\
+\
+The aural warning will give you the type of radar, its mode (search) and relative bearing from you (in O'clock)\
+\
+When ready to continue press the SPACEBAR.Two search radars are activating adjacent to the helipad; a STRAIGHT FLUSH radar associated with the SA-6 SAM system, and a SNOW DRIFT radar associated with the SA-11 system.\
+\
+As these radars come on line the ASE will detect them and display a triangle icons on the ASE page. The SA-6 associated radar will show \"6\" next the icon; the SA-11 associated radar will show \"S D\" (for SNOW DRIFT) at its icon.\
+\
+The aural warning will give you the type of radar, its mode (search) and relative bearing from you (in O'clock)\
+\
+When ready to continue press the SPACEBAR.Two search radars are activating adjacent to the helipad; a STRAIGHT FLUSH radar associated with the SA-6 SAM system, and a SNOW DRIFT radar associated with the SA-11 system.\
+\
+As these radars come on line the ASE will detect them and display a triangle icons on the ASE page. The SA-6 associated radar will show \"6\" next the icon; the SA-11 associated radar will show \"S D\" (for SNOW DRIFT) at its icon.\
+\
+The aural warning will give you the type of radar, its mode (search) and relative bearing from you (in O'clock)\
+\
+When ready to continue press the SPACEBAR.DictKey_ActionText_71"] = "",
+    ["DictKey_ActionText_87"] = "左側の MPD には、ASE ページが表示されます。次の点に注意してください。\
+PB T2 では、ASE が強調表示されます (ボックスで囲まれています)。\
+PB T1 では、CHAFF は SAFE を示しています。\
+ - チャフランチャーは安全です/発射されません\
+PB L1 CHAFF PROGRAM で PROGRAM が表示されます\
+ - チャフは事前に設定されたプログラムに従って起動されます / 手動ではありません\
+AT PB R1 AUTOPAGE が SEARCH に設定されている\
+ - ASE は捜索レーダーを検出すると、自動的にページを表示します。\
+\
+これらの設定を確認したら、スペースバーを押して続行します。",
+    ["DictKey_ActionText_97"] = "最後に、ASE が「オートページ」する条件を設定する必要があります。つまり、レーダー検出に反応して ASE シンボルが自動的に表示されます。\
+\
+PB R1 オートページを押します。",
+    ["DictKey_ActionText_15"] = "離陸パッドに近づいたら、尾輪をロックします。\
+\
+航空機を停止するには、後方サイクリックを適用します。\
+\
+SSS を押してホバー シンボルを選択します。\
+\
+続行する準備ができたら、スペースバーを押します。",
+    ["DictKey_ActionText_18"] = "次のパートでは、航空機の操縦に十分な注意を払う必要があります。\
+\
+ホバリングから始めて前進飛行に移行する際に役立つ基本的な手順と HDU シンボルについて説明します。\
+\
+始める前に、HDU ホバリング シンボルを理解することが重要です。\
+\
+このグラフィックは、飛行中の HDU ホバー モードを示しています。\
+\
+LOS レチクルの中心 (十字記号) は、「トップダウン」ビューでのヘリコプターの中心を表します。ディスプレイの上が前になります。\
+\
+加速キューは、移動時の循環位置を表すものと考えることができます。上 = 前方ピッチ;下=後方ピッチ。左右 = 左右のロール。\
+\
+速度ベクトルは、航空機の移動の速度と方向を表します。\
+\
+ホバリング中のヘリコプタを制御するには、サイクリックを使用して加速キューを目的の位置に配置し、速度ベクトルが「追いつく」ようにします (速度ベクトルを追いかけないでください)。\
+\
+続行するにはスペースバーを押してください。",
+    ["DictKey_ActionText_28"] = "この時点であなたは離陸し、飛行しています。これで訓練飛行は終了です。\
+\
+これでトレーニングは終了です。 ESC を押してレッスンを終了します。",
+    ["DictKey_ActionText_6"] = "AH-64D 航空機生存性装備および共通ミサイル警報システムのトレーニングへようこそ。クタイシ空軍基地のランプから始まります。飛行機は飛行する準備ができています。\
+\
+この訓練を最大限に活用するために、最初は航空機が IMMORTAL に設定されており、ミサイルや AAA の攻撃によるダメージを受けません。\
+\
+特に指示がない限り、最も強調表示されているボタンを押すか、スペースバーを押すと、レッスンがすぐに次のステップに進みます。初めてトレーニングを行う場合は、レッスンを進めるためのアクションを実行する前に、各セットの指示をよく聞くことをお勧めします。\
+ \
+続行する準備ができたら、スペースバーを押します。",
+    ["DictKey_ActionText_152"] = "ヘリポートに隣接して2つの捜索レーダーが作動している。 SA-6 SAM システムに関連付けられた STRAIGHT FLUSH レーダーと FLAT FACE Search Radar です。\
+\
+これらのレーダーがオンラインになると、ASE はレーダーを検出し、ASE ページに三角形のアイコンを表示します。 SA-6 関連レーダーには、アイコンの横に「6」が表示されます。 FLAT FACE レーダーのアイコンには、検索を表す「S」が表示されます。\
+\
+聴覚警告により、レーダーの種類、そのモード (探索)、およびあなたからの相対的な方位 (時) がわかります。\
+\
+続行する準備ができたら、スペースバーを押します。",
+    ["As you fly towards waypoint 3 you will see a number of radar aimed AAA threats. Unlike a SAM, there are no \"launch\"  indications.\
+\
+Observe the TRACKING  ASE symbology and listen for aural warnings - then keep \"eyes out\" watching for AAA tracers along the ASE identified bearings.\
+\
+Continue to fly the flight plan.As you fly towards waypoint 3 you will see a number of radar aimed AAA threats. Unlike a SAM, there are no \"launch\"  indications.\
+\
+Observe the TRACKING  ASE symbology and listen for aural warnings - then keep \"eyes out\" watching for AAA tracers along the ASE identified bearings.\
+\
+Continue to fly the flight plan.As you fly towards waypoint 3 you will see a number of radar aimed AAA threats. Unlike a SAM, there are no \"launch\"  indications.\
+\
+Observe the TRACKING  ASE symbology and listen for aural warnings - then keep \"eyes out\" watching for AAA tracers along the ASE identified bearings.\
+\
+Continue to fly the flight plan.DictKey_ActionText_79"] = "",
+    ["DictKey_ActionText_114"] = " ",
+    ["You are heading towards waypoint 2. For training purposes, continue to fly straight and level as you are detected and engaged by an SA-6 SAM.  \
+\
+You will first hear that the radar has changed to TRACKING; on the ASE page see a dotted line from the radar icon to ownship.\
+\
+When the missile launches you will hear the missile launch warning.\
+\
+Press Chaff Dispense; check the CMWS display see CHAFF rounds dispersing.You are heading towards waypoint 2. For training purposes, continue to fly straight and level as you are detected and engaged by an SA-6 SAM.  \
+\
+You will first hear that the radar has changed to TRACKING; on the ASE page see a dotted line from the radar icon to ownship.\
+\
+When the missile launches you will hear the missile launch warning.\
+\
+Press Chaff Dispense; check the CMWS display see CHAFF rounds dispersing.You are heading towards waypoint 2. For training purposes, continue to fly straight and level as you are detected and engaged by an SA-6 SAM.  \
+\
+You will first hear that the radar has changed to TRACKING; on the ASE page see a dotted line from the radar icon to ownship.\
+\
+When the missile launches you will hear the missile launch warning.\
+\
+Press Chaff Dispense; check the CMWS display see CHAFF rounds dispersing.DictKey_ActionText_77"] = "",
+    ["DictKey_ActionText_26"] = "次のことも試すことができます。\
+\
+    - FTHMS RIGHT - 高度を押します。\
+    - FTHMS LEFT を押すと姿勢が設定されます (航空機の対気速度を維持する方法として使用されます)。\
+    - FTHMS AFT を押すと、システムがリセットされます。\
+\
+続行する準備ができたら、スペースバーを押します。",
+    ["DictKey_ActionText_111"] = "---",
+    ["DictKey_ActionText_39"] = " ",
+    ["On the Left MPD, the ASE page is showing. Note the following:\
+At PB T2, ASE is highlighted (boxed)\
+At PB T1, CHAFF is showing SAFE.\
+ - The Chaff launcher is Safe / will not fire\
+At PB L1 CHAFF PROGRAM is showing PROGRAM\
+ - Chaff will be launched according to a preset program / not manually\
+AT PB R1 AUTOPAGE is set to SEARCH\
+ - The ASE will automatically display its page when it detects a search radar.\
+\
+When you have reviewed these settings, press the SPACEBAR to continue.On the Left MPD, the ASE page is showing. Note the following:\
+At PB T2, ASE is highlighted (boxed)\
+At PB T1, CHAFF is showing SAFE.\
+ - The Chaff launcher is Safe / will not fire\
+At PB L1 CHAFF PROGRAM is showing PROGRAM\
+ - Chaff will be launched according to a preset program / not manually\
+AT PB R1 AUTOPAGE is set to SEARCH\
+ - The ASE will automatically display its page when it detects a search radar.\
+\
+When you have reviewed these settings, press the SPACEBAR to continue.On the Left MPD, the ASE page is showing. Note the following:\
+At PB T2, ASE is highlighted (boxed)\
+At PB T1, CHAFF is showing SAFE.\
+ - The Chaff launcher is Safe / will not fire\
+At PB L1 CHAFF PROGRAM is showing PROGRAM\
+ - Chaff will be launched according to a preset program / not manually\
+AT PB R1 AUTOPAGE is set to SEARCH\
+ - The ASE will automatically display its page when it detects a search radar.\
+\
+When you have reviewed these settings, press the SPACEBAR to continue.On the Left MPD, the ASE page is showing. Note the following:\
+At PB T2, ASE is highlighted (boxed)\
+At PB T1, CHAFF is showing SAFE.\
+ - The Chaff launcher is Safe / will not fire\
+At PB L1 CHAFF PROGRAM is showing PROGRAM\
+ - Chaff will be launched according to a preset program / not manually\
+AT PB R1 AUTOPAGE is set to SEARCH\
+ - The ASE will automatically display its page when it detects a search radar.\
+\
+When you have reviewed these settings, press the SPACEBAR to continue.DictKey_ActionText_45"] = "",
+    ["DictKey_ActionText_38"] = " ",
+    ["DictKey_ActionText_105"] = "ASE ページ、PB T1、CHAFF を押して ARM チャフを実行します。 (ARMに変更)…\
+\
+…次に、CMWS で ARM/SAFE を ARM に切り替えます。\
+\
+CMWS AUTO/BYPASS が AUTO に設定されていることに注意してください。現代の戦闘空間では、IR 誘導 SAM と交戦する可能性がほぼ常に存在するため、デフォルト設定は AUTO です。これは、CMWS が効果のないレーダー SAM に対してフレアを発射することを意味しますが、より安全な選択肢であると考えられています。\
+\
+ただし、このトレーニングでは、フレアを後で保存するために、AUTO/BYPASS を BYPASS に設定します。\
+\
+これらの操作を完了したら、スペースバーを押して続行します。",
+    ["DictKey_ActionText_22"] = "現在は水平飛行に移行中です。\
+\
+AGL 300 フィートに到達したら、水平飛行になるようにコレクティブを調整します。\
+\
+90ノットまで加速し続けます。",
+    ["DictKey_ActionText_47"] = "",
+    ["Now turn your attention to the CMWS control panel:\
+\
+Power on the CMWS by turning the power knob to ON.\
+\
+It will go through a short BIT, then show SYS PASS followed by the number of Flare rounds remaining (F 60) and Chaff rounds remaining (C 30).\
+\
+On the lower part of the control panel the switches should be set to:\
+ARM/SAFE - SAFE\
+CMWS/NAV - CMWS\
+BYPASS/AUTO - AUTO\
+\
+If the CMWS is properly configured, press the SPACEBAR to continue.Now turn your attention to the CMWS control panel:\
+\
+Power on the CMWS by turning the power knob to ON.\
+\
+It will go through a short BIT, then show SYS PASS followed by the number of Flare rounds remaining (F 60) and Chaff rounds remaining (C 30).\
+\
+On the lower part of the control panel the switches should be set to:\
+ARM/SAFE - SAFE\
+CMWS/NAV - CMWS\
+BYPASS/AUTO - AUTO\
+\
+If the CMWS is properly configured, press the SPACEBAR to continue.Now turn your attention to the CMWS control panel:\
+\
+Power on the CMWS by turning the power knob to ON.\
+\
+It will go through a short BIT, then show SYS PASS followed by the number of Flare rounds remaining (F 60) and Chaff rounds remaining (C 30).\
+\
+On the lower part of the control panel the switches should be set to:\
+ARM/SAFE - SAFE\
+CMWS/NAV - CMWS\
+BYPASS/AUTO - AUTO\
+\
+If the CMWS is properly configured, press the SPACEBAR to continue.DictKey_ActionText_67"] = "",
+    ["DictKey_ActionText_94"] = "これにより、チャフバーストの間隔が 0.2 秒に設定されます。\
+\
+次に PB L4 サルボカウントを押します…\
+\
+...続いて PB L3 4 を押します。",
+    ["DictKey_ActionText_40"] = "Reminder: Tail Wheel UNLOCK.",
+    ["DictKey_ActionText_122"] = "敵の防空網をクリアしています - RTB。",
+    ["DictKey_ActionText_109"] = "SAM 起動の CMWS の表示に注目し、フレアが自動的に放出されるのを観察します。",
+    ["DictKey_ActionText_116"] = "DEBUG SA-6",
+    ["DictKey_descriptionBlueTask_3"] = "AH-64D 戦闘ヘリコプターは、主に対装甲「ガンシップ」として設計された最新の 2 人乗り近接戦闘攻撃ヘリコプターです。その高度なシステムには、航空機生存性装置 (ASE) と共通ミサイル警報システム (CMWS) があります。 \
+\
+ASE の 2 つの主要コンポーネントは、脅威レーダーを検出する AN/APR-39A(V)4 と、AN/AVR-2A レーザー信号検出セット (EA で今後提供されます) です。これらは合わせて、レーダー レーザー警告受信機 (RLWR) として知られています。\
+\
+ASE は、敵のレーダーやレーダー誘導ミサイルに対する CHAFF の使用も管理します。 CMWSはIR誘導ミサイルに対するFLARE対策でも同様のことを行う。\
+\
+このトレーニングでは、脅威環境における典型的な戦闘任務のために ASE と CMWS の両方をセットアップする方法を示します。次に、離陸してシステムを起動し、レーダーと IR の両方の一連の対空システムに対して使用します。このトレーニングでは、ASE および CMWS の表示を見て解釈します。それらを使用して脅威を判断し、ミサイルを回避します。\
+\
+このトレーニングを開始する前に、AH-64D マニュアルの ASE セクションを確認する必要があります。\
+\
+HOCAS 用語: AH-64D では、「サイクリックおよびコレクティブ グリップ機能」という用語が使用されています。これらはレッスンで使用される用語です (例: 「サイクリック機能 - CHAFF ディスペンス」) (DCS コントローラ オプション メニューをよく理解するために、これらの機能はHOCAS カテゴリにあります。)\
+ \
+このトレーニングを開始する前に、AH-64D のサイクリックおよびコレクティブ グリップ機能についてよく理解しておく必要があります。\
+HOCAS ボタンがチャフディスペンスに割り当てられていることを確認してください。フレアディスペンスボタンマップを追加することもできます。\
+    \
+注: このトレーニングは、あなたのペースで実行できるように設定されています。最も強調表示されているボタンを押すかスペースバーを押すと、レッスンがすぐに次のステップに進みます。初めてトレーニングを行う場合は、レッスンを進めるためのアクションを実行する前に、各セットの指示をよく聞くことをお勧めします。このトレーニング ミッションをその後使用する場合は、強調表示されたボタンが表示されたらすぐに押すか、スペースバーが使用可能になったらすぐに押して、よく知っているセクションを「スピードスルー」することができます。",
+    ["DictKey_ActionText_126"] = "AH-64D 航空機生存性装備および共通ミサイル警報システムのトレーニングへようこそ。クタイシ空軍基地のランプから始まります。飛行機は飛行する準備ができています。\
+\
+この訓練を最大限に活用するために、最初は航空機は IMMORTAL に設定されており、ミサイルや AAA の攻撃によるダメージを受けません。\
+\
+特に指示がない限り、最も強調表示されているボタンを押すか、スペースバーを押すと、レッスンがすぐに次のステップに進みます。初めてトレーニングを行う場合は、レッスンを進めるためのアクションを実行する前に、各セットの指示をよく聞くことをお勧めします。\
+ \
+続行する準備ができたら、スペースバーを押します。",
+    ["Inside 1.5 Km of waypoint 4, you will be engaged by an IR-guided SAM.\
+\
+On the CMWS set BYPASS/AUTO to AUTO.Inside 1.5 Km of waypoint 4, you will be engaged by an IR-guided SAM.\
+\
+On the CMWS set BYPASS/AUTO to AUTO.Inside 1.5 Km of waypoint 4, you will be engaged by an IR-guided SAM.\
+\
+On the CMWS set BYPASS/AUTO to AUTO.DictKey_ActionText_81"] = "",
+    ["DictKey_ActionText_92"] = "次に使用するCHAFFプログラムを設定します。プッシュボタン L2 から L5 は、チャフバーストの数 (BURST COUNT)、バースト間の間隔 (BURST INTERVAL)、プログラムに入るたびのチャフサルボの数 (SALVO COUNT)、およびサルボ間の間隔 (SALVO INTERVAL) を制御します。\
+\
+PB L2 BURST COUNTを押して開始します…\
+\
+...そして PB L5 2 を押します。",
+    ["DictKey_ActionText_110"] = "アクティブ一時停止中です。\
+\
+おめでとうございます: ASE/CMWS の雇用の基本を完了しました。\
+\
+レッスンの残りの部分では、IMMORTAL モードはオフになっています。飛行計画の残りの部分では、レーダーと IR SAM、およびレーダー向け AAA が表示されます。 ASE と CMWS、戦術的な「地球の昼寝」飛行と地形マスキングを使用して、これらの脅威を打ち破り、基地に帰還します。幸運を。\
+\
+続行する準備ができたら、スペースバーを押します。",
+    ["DictKey_ActionText_93"] = "これにより、各斉射でチャフが 2 回バーストされます。\
+\
+次に PB L3 バースト間隔を押します…\
+\
+…そして PB L5 0.2 を押します。",
+    ["DictKey_ActionText_104"] = "離陸し、対高度 700 フィートで東へ飛行経路をたどります。\
+\
+注: 離陸中に限界を超える状況が発生した場合、左側の MPD が ENG 表示を切り替えます。 ASE ページに戻るには、PB B1/M を押してから PB L3 ASE を押します。\
+\
+WP01 のコースに沿って安定したら、スペースバーを押します。",
+    ["DictKey_ActionText_150"] = "ASE と同様に、CMWS は、遭遇する可能性のある IR ミサイルの種類を最適におとりになるように設計された、プリセット プログラムでフレアを発射します。このプログラムは離陸前に整備員によって設定されます。機内からは変更できません。\
+\
+この機能をシミュレートするために、DCS では、エンジンを始動する前に、ニーボードに表示されているコンピューターのキーボードのキーを押してフレア プログラムを設定できます。\
+\
+このトレーニングでは、次のように設定されています。\
+バースト数: 一斉射撃あたり 2 フレア。\
+バースト間隔: 0.2 秒間隔。\
+サルボ数: プログラムごとに 2 サルボ。\
+一斉射撃間隔: 1 秒間隔。\
+\
+プログラム間の間隔は最低 1 秒。\
+\
+続行する準備ができたら、スペースバーを押します。",
+    ["DictKey_ActionText_96"] = "PB T6 UTIL を押して、メイン ASE ページに戻ります。",
+    ["DictKey_ActionText_138"] = "これにより、チャフバーストの間隔が 0.2 秒に設定されます。\
+\
+次に PB L4 サルボカウントを押します…\
+\
+...続いて PB L4 をもう一度押します。 2.",
+    ["DictKey_ActionText_146"] = "選択肢は次のとおりです。\
+検索 - PB R1\
+買収 - PB R2\
+トラック - PB R3\
+オフ - PB R4。\
+\
+どちらを選択するかは、脅威環境や個人の選択によって異なります。\
+\
+PB R2 取得を押します。",
+    ["Next we will set the CHAFF program to be used. Push Buttons L2 thru L5 control the number of chaff bursts (BURST COUNT), the interval between bursts (BURST INTERVAL), the number of chaff salvos each time the program is entered (SALVO COUNT) and the interval between salvos (SALVO INTERVAL),\
+\
+Starting by pressing PB L1 BURST COUNT…\
+\
+…and then press PB L5 2.Next we will set the CHAFF program to be used. Push Buttons L2 thru L5 control the number of chaff bursts (BURST COUNT), the interval between bursts (BURST INTERVAL), the number of chaff salvos each time the program is entered (SALVO COUNT) and the interval between salvos (SALVO INTERVAL),\
+\
+Starting by pressing PB L1 BURST COUNT…\
+\
+…and then press PB L5 2.Next we will set the CHAFF program to be used. Push Buttons L2 thru L5 control the number of chaff bursts (BURST COUNT), the interval between bursts (BURST INTERVAL), the number of chaff salvos each time the program is entered (SALVO COUNT) and the interval between salvos (SALVO INTERVAL),\
+\
+Starting by pressing PB L1 BURST COUNT…\
+\
+…and then press PB L5 2.DictKey_ActionText_53"] = "",
+} -- end of dictionary
