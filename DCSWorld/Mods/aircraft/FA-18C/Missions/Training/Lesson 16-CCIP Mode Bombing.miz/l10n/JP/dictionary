@@ -1,0 +1,382 @@
+dictionary = 
+{
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_ActionText_112"] = "You will start the approach 11 miles out at 3,000 feet barometric and 260 knots on approach to runway 07 at Kobuleti. Once at 5 miles, you will be at 1,500 feet, and this will place you on a 3-degree glidepath to the runway. To measure your glidepath angle, reference your velocity vector on the HUD in relation to the pitch ladder. A 3-degree flightpath is standard for a Hornet landing.\
+\
+For a straight-in approach we will keep the HUD showing barometric altitude. This will also be true for IFR landings.\
+\
+Press [SPACEBAR] to continue.\
+",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_UnitName_67"] = "New Static Object #018",
+    ["DictKey_ActionText_208"] = "今度は、１パスで１発以上の爆弾を投下します。\
+実際には４発投下予定です。\
+\
+爆弾フォーマットページの右側にUFCオプションがあります。\
+プッシュボタン１４を押してください。",
+    ["DictKey_GroupName_15"] = "New Static Object #003",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_ActionText_121"] = "We are now flying a heading of 250 degrees at 400 knots and 1,000 feet. Fly through the gates ahead which will place us at 800 feet and offset to the right of the runway. We don’t want to directly overfly the runway. Maintain an airspeed of 350 knots.\
+\
+Cage the velocity vector on the HUD by pressing [C].\
+",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_UnitName_73"] = "",
+    ["DictKey_ActionText_198"] = "投下する爆弾の弾頭に付いている機械的信管（mechanical fuze)の設定を行います。\
+\
+プッシュボタン４を押して”MFUZ”を選択してください。",
+    ["DictKey_ActionText_101"] = "Now it is time to get the left engine started. Go ahead and left mouse click on the engine crank switch.",
+    ["DictKey_ActionText_116"] = "As your roll out on the runway heading, fly to place the velocity vector on the runway threshold and use throttle adjustments to control your glidepath to be 3 degrees.\
+\
+Press [SPACEBAR] to continue.\
+",
+    ["DictKey_GroupName_166"] = "Target-1",
+    ["DictKey_ActionText_128"] = "Do not flare the aircraft, but rather continue on the glidepath and touch down at no more than 800 feet per minute. \
+\
+Once down, use gentle rudder input to keep aligned down the runway and use nose wheel steering once below 75 knots.\
+\
+Once on the ground, press [W] to brake and bring the aircraft to a halt.",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_UnitName_25"] = "New Static Object #001",
+    ["DictKey_UnitName_192"] = "Unit #025",
+    ["DictKey_GroupName_51"] = "New Static Object #014",
+    ["DictKey_ActionText_124"] = "While on the downwind, establish on-speed AoA of 8.1 degrees by flying to maintain the velocity vector inside the E bracket on the HUD. Proper AoA is also indicated to the left of the HUD by the indexer lights. Keep a donut displayed in the center of the indexer.",
+    ["DictKey_ActionText_117"] = "Using what you learned in the TACAN lesson, set the TACAN to 67X and a course of 70 degrees. This is the TACAN channel for Kobuleti airfield and it will provide us useful information to line up our downwind and final approach legs of the pattern.\
+\
+Press [SPACEBAR] when done and you are ready to un-pause the lesson.\
+",
+    ["DictKey_ActionText_196"] = "フォーマットページの左に、プッシュボタン５、爆撃モード選択があります。\
+\
+これを押してください。",
+    ["DictKey_ActionText_211"] = "１以上の値を入力すると、オプション選択ウインドウに”INT”の表示がでます。これは着弾点の投下間隔（フィート）を表します。\
+\
+INTのオプションを選択してください。",
+    ["DictKey_sortie_5"] = "CCIP爆撃モード",
+    ["DictKey_UnitName_76"] = "New Static Object #021",
+    ["DictKey_GroupName_6"] = "Player",
+    ["DictKey_ActionText_119"] = "",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_GroupName_45"] = "New Static Object #012",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_ActionText_84"] = "今日は、いくつかの鉄塊を落としましょう。私達のジェットににはMk-83 1000 lbsとMk-84 2000 lbs　高爆発、無誘導爆弾を搭載しています。これらはマニュアル、CCIP（連続着弾点透過点：Continuously Computed Impact Point）、自動（AUTO)などの投下モードで投下できます。これらの投下モードは他の爆弾、キャニスター爆弾やハイドラッグボンビングモードでも適応できるでしょう。\
+このレッスンでは自由落下爆弾（無誘導爆弾）でCCIPモードでの投下について学習します。\
+\
+最初に、「２」を押してA/Gマスターモードにします。",
+    ["DictKey_UnitName_190"] = "Unit #023",
+    ["DictKey_UnitName_168"] = "Unit #007",
+    ["DictKey_ActionText_99"] = "Now it is time to get the left engine started. Go ahead and left mouse click on the engine crank switch.",
+    ["DictKey_GroupName_180"] = "Target-3",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_UnitName_43"] = "",
+    ["DictKey_UnitName_61"] = "New Static Object #014",
+    ["DictKey_UnitName_182"] = "Unit #017",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_GroupName_30"] = "New Static Object #008",
+    ["DictKey_UnitName_49"] = "New Static Object",
+    ["DictKey_UnitName_171"] = "Unit #010",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_UnitName_79"] = "New Static Object #021",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_GroupName_33"] = "New Static Object #009",
+    ["DictKey_UnitName_183"] = "Unit #018",
+    ["DictKey_UnitName_31"] = "New Static Object #001",
+    ["DictKey_ActionText_125"] = "Once your left wingtip is abeam the runway threshold, start a 30 degree bank to the left while maintaining on-speed AoA. This is a bit tricky, use throttle to control your decent and stick pitch to control your angle of attack.",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_ActionText_137"] = "Well done! You can end the lesson now by pressing [ESC].",
+    ["DictKey_ActionText_212"] = "５００フィート間隔にしますので、UFCキーパッドに５００と入力してENTをで確定してください。\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_UnitName_162"] = "Unit #002",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_GroupName_12"] = "New Static Object #002",
+    ["DictKey_UnitName_191"] = "Unit #024",
+    ["DictKey_ActionText_114"] = "As your roll out on the runway heading, fly to place the velocity vector on the runway threshold and use throttle adjustments to control your glidepath to be 3 degrees.\
+\
+Press [SPACEBAR] to continue.\
+",
+    ["DictKey_GroupName_18"] = "New Static Object #004",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_UnitName_175"] = "Unit #012",
+    ["DictKey_GroupName_81"] = "New Static Object #024",
+    ["DictKey_UnitName_46"] = "New Static Object",
+    ["DictKey_GroupName_36"] = "New Static Object #010",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_UnitName_40"] = "New Static Object #010",
+    ["DictKey_GroupName_72"] = "New Static Object #021",
+    ["DictKey_GroupName_75"] = "New Static Object #022",
+    ["DictKey_GroupName_66"] = "New Static Object #019",
+    ["DictKey_UnitName_185"] = "Unit #020",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_133"] = "Being below 250 knots, go ahead and lower your landing gear [G] and drop flaps to full [LEFT CTRL + F].\
+\
+Reduce your airspeed by setting the throttles to idle. You may also wish to extend your speedbrake by using the speedbrake switch on the right throttle grip or pressing [LEFT SHIFT + B] to get slower more quickly. Note the SPD BRK light on the instrument panel when the speedbrake is extended.\
+\
+As you slow below 140 knots, retract the speedbrake by using the speedbrake switch or pressing [LEFT CTRL + B]. Adjust throttle and stick trim to maintain 8.1 degrees of angle of attack… velocity vector inside the “E” bracket.\
+\
+Use the gates as a reference for your glidepath by keeping the velocity vector in the center of the next gate.\
+",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_ActionText_206"] = "命中！\
+\
+水平飛行に戻してからスペースキーを押してください。\
+プログラム設定の行い方についてもう少し説明します。",
+    ["DictKey_GroupName_27"] = "New Static Object #007",
+    ["DictKey_ActionText_199"] = "機械的信管オプションが表示されます。\
+OFF（信管なし）、NOSE（弾頭）、TAIL(弾尾）、N/T（ノーズ＆テイル）\
+\
+プッシュボタン4を押してNOSE信管を選択してください。",
+    ["DictKey_UnitName_22"] = "New Static Object #001",
+    ["DictKey_ActionText_98"] = "The Hornet comes equipped with an Inertial Navigation Systems, or INS. Use mouse right clicks to set the INS switch to the GND (ground) position. This will start our INS ground alignment.\
+\
+When the switch is set to GND, press [SPACEBAR].\
+",
+    ["DictKey_GroupName_42"] = "New Static Object",
+    ["DictKey_ActionText_201"] = "ではCCIP爆撃でのHUD表示の特徴を見ていきましょう。\
+ベロシティーベクターから下に伸びる線はDIL（Displayed Impact Line）と呼ばれ、爆弾の落下線を表します。\
+\
+ベロシティーベクターの下にお皿の形をした水平線があります。これはプルアップキューと言い、地面衝突の危険性を知らせます。これは兵器の爆風（誘爆）警告ではありません。ベロシティベクターがプルアップキューの下にある場合、HUDにX(ブレークX）が表示されます。そのままでは地面に衝突します。\
+\
+HUDに右側には選択した爆撃モードCCIPの表示があります。\
+\
+スペースキーを押してください。\
+一時停止を解除します。",
+    ["DictKey_UnitName_19"] = "New Static Object #001",
+    ["DictKey_ActionText_92"] = "With the right engine running and generator power, place the left and right Digital Display Indicators, or DDIs, to the DAY position using right mouse button clicks. Rotate the Head Up Display, or HUD, brightness knob clockwise by placing your mouse over it and rotating your mouse wheel forward.\
+\
+Once you see video displayed on the left and right DDIs and HUD, press the [SPACEBAR].\
+",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_ActionText_214"] = "UFCキーパッドで２を入力してENTを押してください。",
+    ["DictKey_UnitName_164"] = "Unit #004",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_ActionText_203"] = "対気速度を500Knotsに維持して、スムースな操縦で、投下のためのラインナップを行ってください。",
+    ["DictKey_ActionText_129"] = "Congratulations on landing the Hornet! With practice, this will become second nature. \
+\
+You can end the lesson now by pressing the [ESCAPE] key.\
+",
+    ["DictKey_GroupName_63"] = "New Static Object #018",
+    ["DictKey_ActionText_88"] = "Good job. Note that in the top left portion of the IFEI you can see the RPM and TEMP of both the left and right engines. These will be important for when we start the engines.\
+\
+We will now turn on the Axillary Power Unit, or APU. This is a small, self-contained engine that augments the bleed air system and will start turning the engines for engine starts.\
+\
+Please the APU switch in the ON position with a left mouse button click.\
+",
+    ["DictKey_ActionText_90"] = "Once the green light next to the APU switch comes on, move the Engine Crank switch to the Right, marked by the R, with a right mouse button click. This will allow the APU to power the Air Turbine Starter, which in turns allows the Aircraft Mounted Accessory Dive, or AMAD, to starting turning the fan blades within the engine.",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_UnitName_52"] = "",
+    ["DictKey_UnitName_167"] = "Unit #006",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_ActionText_95"] = "The Support page has several sub-pages line the Checklist, Engine, Fuel, ADI and HIS pages. For now though, press the FCS pushbutton to select the Flight Control System page.",
+    ["DictKey_ActionText_118"] = "We are now flying a heading of 250 degrees at 400 knots and 1,000 feet. Fly through the gates ahead which will place us at 800 feet and offset to the right of the runway. We don’t want to directly overfly the runway. Maintain an airspeed of 350 knots.\
+\
+Cage the velocity vector on the HUD by pressing [C].\
+",
+    ["DictKey_GroupName_60"] = "New Static Object #017",
+    ["DictKey_GroupName_173"] = "Target-2",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_GroupName_48"] = "New Static Object #013",
+    ["DictKey_UnitName_189"] = "Unit #022",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_GroupName_54"] = "New Static Object #015",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_UnitName_58"] = "New Static Object #014",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_ActionText_130"] = "After the lesson is un-paused, reduce your throttle to idle and fly through the gates ahead. \
+\
+Once your airspeed is below 250 knots, lower the landing gear by moving the landing gear control handle down – do this by left clicking on the handle or pressing the [G] key. Also lower the flaps to full down by moving the flap switch in the down, FULL position – either by left clicking on the switch twice or pressing [LEFT CTRL + F].\
+\
+Once the gear and flaps are down, keep flying through the gates and get the aircraft to on-speed angle of attack. This is the proper AoA that will achieve the correct hook angle to catch the target wire of the carrier. You will want an angle of attack of 8.1 degrees, which will place the velocity vector on the HUD in the center of the “E” bracket. Additionally, your angle of attack target of 8.1 degrees is indicated by the AoA Indexer Lights to the left of the HUD frame. When at the on-speed AoA (8.1 degrees angle of attack), the center, yellow circle will be illuminated. \
+\
+Use the throttle to adjust your glidepath and pitch trim to adjust AoA when the flaps are down.\
+\
+Use the first part of this flight to practice stabilized on-speed flight.\
+\
+Press [SPACEBAR] to continue.\
+",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_UnitName_28"] = "New Static Object #001",
+    ["DictKey_ActionText_100"] = "Now it is time to get the left engine started. Go ahead and left mouse click on the engine crank switch.\
+\
+Once the left engine is at 20% RPM on the IFEI, press [LEFT ALT + HOME] to move the left throttle from OFF to IDLE.\
+\
+When the left engine is at 60% RPM, press the [SPACEBAR] to continue.\
+",
+    ["DictKey_GroupName_21"] = "New Static Object #005",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_ActionText_127"] = "As your nose comes around to the runway heading, uncage the velocity vector on the HUD by pressing [C] and fly to place the velocity vector on the runway threshold where you wish to touch down.\
+\
+While maintaining on-speed AoA, use your throttle to control your glidepath and stick pitch to control your angle of attack.\
+\
+",
+    ["DictKey_UnitName_177"] = "Unit #014",
+    ["DictKey_UnitName_174"] = "Unit #011",
+    ["DictKey_UnitName_163"] = "Unit #003",
+    ["DictKey_descriptionText_1"] = "今日は、いくつかの鉄塊を落としましょう。私達のジェットににはMk-83 1000 lbsとMk-84 2000 lbs　高爆発、無誘導爆弾を搭載しています。これらはマニュアル、CCIP（連続着弾点透過点：Continuously Computed Impact Point）、自動（AUTO)などの投下モードで投下できます。これらの投下モードは他の爆弾、キャニスター爆弾やハイドラッグボンビングモードでも適応できるでしょう。\
+このレッスンでは自由落下爆弾（無誘導爆弾）でCCIPモードでの投下について学習します。このレッスンではCCIP投下モードで急降下爆撃を行う予定です。",
+    ["DictKey_UnitName_34"] = "New Static Object #001",
+    ["DictKey_GroupName_187"] = "Target #004",
+    ["DictKey_ActionText_113"] = "Once on the downwind leg, establish yourself at 600 feet and slow the aircraft to on-speed Angle of Attack of 8.1 degrees. This can most easily be seen on the HUD by keeping the vertical velocity indicator inside the E bracket. To the left of the HUD frame are the Angle of Attack Indexer Lights. When on-speed, the center “donut” should be lit.\
+ \
+Lower your landing gear by pressing [G] and lower the flaps to full down by pressing [LEFT CTRL + F].\
+\
+Maintain on-speed angle of attack during the downwind leg.\
+\
+Press [SPACEBAR] to continue.\
+",
+    ["DictKey_UnitName_178"] = "Unit #015",
+    ["DictKey_UnitName_13"] = "New Static Object #001",
+    ["DictKey_UnitName_64"] = "",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_UnitName_165"] = "Unit #005",
+    ["DictKey_ActionText_204"] = "赤いスモークでマーキングされたトラックグループの一台を狙ってください。",
+    ["DictKey_GroupName_57"] = "New Static Object #016",
+    ["DictKey_ActionText_123"] = "Now on the downwind leg, lower your landing gear [G] and set flaps to FULL [LEFT CTRL + F] once below 250 knots.\
+\
+While doing this, maintain 600 feet.\
+",
+    ["DictKey_UnitName_169"] = "Unit #008",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_ActionText_209"] = "UFCのオプション選択ウインドウの上2つに\
+”QTY\"と”MULT\"が表示されています。\
+QTYは１回での総投下量を示し、MULTは同時に幾つ投下するかを示します。\
+\
+最初にQTYの左のオプション選択ボタンを押します。",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_UnitName_7"] = "Player",
+    ["DictKey_GroupName_69"] = "New Static Object #020",
+    ["DictKey_ActionText_134"] = "At this point, you should be on-speed with an angle of attack of 8.1 degrees, indicated by the velocity vector in the center of the “E” bracket on the HUD. Use throttle input to adjust your glidepath such that the “E” bracket is positioned over the runway threshold. Use pitch trim to keep on-speed AoA.\
+You should now be on a 3-degree glidepath down to the runway.\
+",
+    ["DictKey_UnitName_160"] = "Unit #001",
+    ["DictKey_ActionText_132"] = "When you are ready, press [SPACEBAR] and I will un-pause the lesson.",
+    ["DictKey_GroupName_24"] = "New Static Object #006",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_UnitName_10"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_ActionText_86"] = "With that out of the way, we will now enable the two batteries. This will allow operation of the canopy and power the engine igniters. You’ll also notice that the Integrated Fuel and Engine Indicator (or IFEI) in the lower left portion of the instrument panel will have power.\
+\
+Move the battery switch to the ON position with a right mouse button click.\
+",
+    ["DictKey_ActionText_115"] = "Prior to touchdown, do not flair the aircraft, but rather let it fly into the runway with no more than 740 feet per minute, as indicated above your altitude on the HUD.\
+\
+That is an overview of what we will be doing. Before we try this out though, lets first set up a couple of things in the cockpit.\
+\
+First, set the altimeter display on the HUD to display radar (RDR) altitude.\
+",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_ActionText_197"] = "４つの爆撃（bomb delivery)モードが表示されました。上から順にAUTO、FD（Flight Director)、CCIP、マニュアルモードになります。FDモードについては後のレッスンで説明します。\
+現在のモードはフォーマットページの中央下部に表示されているプログラム１データブロック内の一番上左にMODEと表記のある部分に示されています。ミッション開始時点ではCCIPが初期値となっています。\
+\
+プッシュボタン３を押して再度CCIPを選択してください。",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_ActionText_122"] = "Approaching the end of the runway, we will continue to follow the gates for a 180 degree turn into the downwind leg. The rate of turn will be based on a G that is 1% of our airspeed. In this case, 3.5 G for 350 knots.\
+\
+As you break into the pattern, keep your velocity vector just below the horizon line on the HUD for a descending turn to 600 feet.\
+",
+    ["DictKey_ActionText_200"] = "MFUZをNOSEにセットすると、プログラム１（PROG1)のデータのMFUZがNOSEに変わります。\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_UnitName_82"] = "New Static Object #021",
+    ["DictKey_UnitName_16"] = "New Static Object #001",
+    ["DictKey_ActionText_135"] = "Maintain on-speed AoA and your glidepath should be aligned with the runway threshold. ",
+    ["DictKey_GroupName_39"] = "New Static Object #011",
+    ["DictKey_ActionText_195"] = "爆撃フォーマットページから大切な情報を得られます。\
+ページ中央のウイングフォームには９つのステーション情報があり、外側の翼下ステーションは◇シンボルが表示されています。これは複数の爆弾を搭載するパイロンアダプターが装着されていることを示します。その下にステーションに装着されている爆弾の数と兵器の名前が表示されています。\
+この機には、外側翼下ステーションに各２発のMk-83、内側翼下ステーションに各１発のMk-84が搭載されています。\
+\
+左内側ステーションのMk-84が選択されて、ボックス化しています。選択されている兵器は、兵器名がボックス化（四角で囲まれる）されて、その下にRDYが表示されます。\
+\
+ウイングフォームの真下にマスターアームの状態表示があります。現在の状態はARMに設定されています。\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_ActionText_91"] = "Once the right engine RPM has reached 20%, as indicated on the IFEI, press [LEFT SHIFT + HOME] to move the right throttle from OFF to IDLE. This in turn will introduce fuel into the engine combustion chamber and start the engine ignitors.  \
+\
+Once the right engine RPM has reached 60%, the right engine start cycle is complete and the right generator is automatically engaged.\
+\
+Once at 60%, press the [SPACEBAR].\
+",
+    ["DictKey_UnitName_181"] = "Unit #016",
+    ["DictKey_ActionText_97"] = "During this lesson and future lessons, you will often see and hear the Master Caution. This is the large, yellow labeled button on the instrument panel that will light when any caution condition is triggered. There will also be an accompanying “deedle deedle” sound.\
+\
+Pressing this button [N] will acknowledge the caution and extinguish the light. Further presses of the button will re-stack caution and advisory notices along the bottom of the left DDI. If the left DDI is not on, then the caution and notices will be displayed on another display.\
+\
+\
+",
+    ["DictKey_UnitName_170"] = "Unit #009",
+    ["DictKey_GroupName_9"] = "New Static Object #001",
+    ["DictKey_UnitName_184"] = "Unit #019",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "チュートリアルに従い、爆弾でトラックを破壊します。",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_UnitName_70"] = "New Static Object #018",
+    ["DictKey_ActionText_213"] = "最後の要素、MULTをセットします。これは同時に投下する爆弾の量を決定します。\
+今回は、一度に２発（MULT=2）で総量４発（QTY=4)、INTが５００\
+つまり、合計４発の爆弾を２発づつ、５００フィートの間隔で投下します。\
+\
+MULTオプションを選択してください。",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_UnitName_176"] = "Unit #013",
+    ["DictKey_ActionText_131"] = "When you’re ready, press [SPACEBAR] and I will un-pause the lesson.",
+    ["DictKey_ActionText_94"] = "On the left DDI, press the MENU pushbutton to bring us to the Support (SUPT) page. ",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_ActionText_120"] = "",
+    ["DictKey_UnitName_55"] = "New Static Object #014",
+    ["DictKey_ActionText_216"] = "新しく作成したプログラムでMK-83を使用します。\
+ウェイポイント１へ旋回して戻り他のトラックグループを攻撃してください。\
+\
+先ほどと同じ様に、DILとレフレクテッドキューを使って爆撃コースを整列させてください。良い結果を出すには、爆撃コースに入る前に10，000フィートまで再上昇して下さい。\
+\
+Mk-83とMk-84でのCCIP爆撃の練習が完了したら、ESCを押してレッスンを終了してください。",
+    ["DictKey_ActionText_194"] = "左DDIのストアページ（Stores page)を見てください。上段のプッシュボタンにこの機に搭載している2種類の爆弾の選択ボタンがあります。83BはMK-83を、84はMk-84を表します。爆弾表記の上のボタンを押して爆弾を選択します。\
+\
+最初は大きい方のMK-84を選択します。プッシュボタン７を押してください。",
+    ["DictKey_UnitName_37"] = "",
+    ["DictKey_ActionText_136"] = "Maintain on-speed AoA and fly the aircraft into the runway with a vertical velocity of no more than 750 feet per minute, as displayed over the HUD altitude indication. Do not flare.\
+\
+Once the nose wheel comes down, use the rudder to keep the aircraft centered down the runway and use the wheel brakes [W] to bring her to a halt.\
+",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_ActionText_93"] = "In the lower center of the instrument panel is the Multi-Purpose Color Display, or MPCD. Place your mouse over the power and brightness know and rotate your mouse wheel forward until the knob is set to full bright. It will take a moment to power on.\
+\
+Press the [SPACEBAR] once you see video displayed to the MPCD.\
+",
+    ["DictKey_ActionText_126"] = "Okay, turn to base.",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_ActionText_202"] = "ウェイポイント１にはターゲットのトラックグループが３つあります。それらの上にゲートと赤いスモークでマーキングをしています。\
+\
+DILに新しく水平バーが有ることに気がついたでしょう。これはリフレクテッドリリースキューです。このバーとDILの底までの長さは、DILの底からHUDの表示外に消えたCCIP爆撃照準までの長さと同じになります。降下角度を増すと、リフレクテッドキューは下がってゆき、底まで達すると爆撃照準が出現します。\
+\
+ターゲットにラインナップ（整列）するには、DILとリフレクテッドキューの交点を爆弾を落としたい地点に重なるように飛行させてください。",
+    ["DictKey_GroupName_159"] = "Target",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_ActionText_207"] = "左DDIが爆撃フォーマットページになっているか確認してください。（違うなら爆撃ページにしてください）\
+このページでプッシュボタン６を押してMK-83を選択してください。",
+    ["DictKey_GroupName_78"] = "New Static Object #023",
+    ["DictKey_UnitName_188"] = "Unit #021",
+    ["DictKey_ActionText_96"] = "The FCS page shows the status of the control surfaces and any detected FCS errors. The Xs indicate detected errors, but we will address these once the left engine is started.\
+\
+Press the [SPACEBAR] to continue.\
+",
+    ["DictKey_ActionText_205"] = "CCIP爆撃照準がDILの底に現れたら、ターゲットに重ねて、兵器発射ボタン「RALT+Spece」を押したままにします。\
+\
+爆弾が投下されたら、地面に激突しないように３０度まで引き起こします。\
+\
+もし、外れたなら、再度トライしてください。",
+    ["DictKey_ActionText_210"] = "QTYの横に”：”が表示されました。キーパッドからデータ入力ができます。今回は４発投下しますので、４を入力してENTを押して確定してください。",
+    ["DictKey_ActionText_215"] = "爆弾フォーマットページのデータブロックがQTY=4、MULT＝２、INT＝５００FTに設定されていることに注意してください。\
+これと、モードとフューズ（信管）の設定の組み合わせで、この爆弾へのプログラム１が構成されます。\
+各爆弾タイプ別に５種類のプログラムを作成することが可能です。プログラムはプッシュボタン２０で巡回することができます。\
+\
+一時停止を解除しますのでスペースキーを押してください。",
+} -- end of dictionary

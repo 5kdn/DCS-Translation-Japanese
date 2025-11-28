@@ -1,0 +1,310 @@
+dictionary = 
+{
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_UnitName_52"] = "",
+    ["DictKey_UnitName_67"] = "New Static Object #018",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_GroupName_15"] = "New Static Object #003",
+    ["DictKey_ActionText_121"] = "Our next step will be to run a BIT on the Flight Control System, or FCS. Before doing so, set the flaps to the up, AUTO position with the [F] key or two right mouse button clicks on the flap switch.",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_UnitName_73"] = "",
+    ["DictKey_ActionText_198"] = "一時停止を解除する前に、バツミタワーと交信し、着陸のため接近中であることを知らせてください。\
+「＼」でラジオメニューを開き\
+「F5」ATCを選択し\
+「F1」Batumi　を選びます\
+\
+もし、リアリスティックラジオを使うのであれば、COMM1「RAlt+＼」かCOMM2「RCtlr+＼」を押してラジオメニューを開きます。\
+\
+このあと「F1」を押して着陸許可を申請します。\
+これは、タワーに滑走路ライトの点灯も要請します。\
+\
+スペースキーを押すと次に進みます\
+",
+    ["DictKey_ActionText_101"] = "On the FCS page, we have quite a few Xs, indicating abnormal FCS readings. To clear these, press and hold the FCS RESET button.",
+    ["DictKey_ActionText_132"] = "Press the MENU pushbutton again to bring up the Support page.",
+    ["DictKey_UnitName_7"] = "Player",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_ActionText_128"] = "At this point, the INS has been aligned as indicated on the MPCD, HSI page. Move the INS switch from GND to NAV with one right mouse button click on the switch.",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_UnitName_25"] = "New Static Object #001",
+    ["DictKey_ActionText_107"] = "We will now do the same thing for the B circuit. After waiting 10 seconds, place the mouse over the fire test switch and hold down the left mouse button to move the switch in the down, TEST B position. Keep holding it down and then release it once all the fire warning audio messages have played.\
+\
+When done, press [SPACEBAR].\
+",
+    ["DictKey_GroupName_51"] = "New Static Object #014",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_ActionText_196"] = "いままでに学んだことを使い、左DDIをHSIページに、右DDIをFCSページにします。ほとんどの場合は、左DDIにHUD、MPCDにHSIを設定しまが、左DDIにHSIを設定する方が見やすいので、この配置で行います。\
+\
+バトゥミのTACANコード16Xを入力します。\
+コースラインを119度に合わせます。\
+これは空港アプローチ表にのっています。\
+HUDのコースアロウ（矢印）が主要方位ステアリング基準になります。\
+\
+設定ができたらスペースキーを押してください\
+",
+    ["DictKey_sortie_5"] = "計器進入での空港への着陸",
+    ["DictKey_UnitName_76"] = "New Static Object #021",
+    ["DictKey_GroupName_6"] = "Player",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_GroupName_45"] = "New Static Object #012",
+    ["DictKey_ActionText_100"] = "Once the left engine is at 20% RPM, as indicated on the IFEI, move the left throttle from OFF to IDLE by pressing [RIGHT ALT + HOME]. This will add fuel to the engine and start the igniters.\
+\
+When the left engine is at 60% RPM, press [SPACEBAR] to continue.\
+",
+    ["DictKey_ActionText_84"] = "夜間や悪天候などの有視界飛行（VFR)が難しい場合、計器進入着陸を行います。名前の通り、ホーネットの計器が示す、選択空港への方位とグライドスロープ情報を頼りに着陸を行います。\
+\
+DCS Worldの米海軍ホーネットは計器空母着陸システム（LCLS: Instrument Carrier Landing Systems）を搭載していますが、これは空母への着陸のみで空港への着陸には使用しません。現実世界でも、USホーネットはILSを搭載していません。代わりに、TACANから得られるアプローチ方位と、DME（ Distance Measuring Equipment）の距離情報と高度から導き出される３度のグライドスロープを利用します。\
+ \
+3度のグライドパスは、降下を開始する高度を大まかに計算することができます。滑走路までの距離１海里（nm)あたり３００フィートの高さになります。DMEが１０nmの場合、３０００フィートから降下を開始することになります。\
+\
+このレッスンでは、一般的な１０nmDMEから降下を開始するファイナルアプローチフィックス（FAF)を行います。\
+\
+現在、一時停止しています。\
+\
+QNH気圧（インチ）はすでに29.92でセットされています。\
+他のミッションでは、ミッションブリーフィングに記載してあるQNHを高度計に正しく設定するようにして下さい。\
+\
+スペースキーを押すと次に進みます\
+\
+",
+    ["DictKey_ActionText_99"] = "Now it is time to crank the left engine. Go ahead and move the engine crank switch to its left position, labeled L, by left mouse clicking it.",
+    ["DictKey_GroupName_115"] = "New Static Object #027",
+    ["DictKey_UnitName_61"] = "New Static Object #014",
+    ["DictKey_ActionText_126"] = "Uncage the backup ADI by placing your mouse over the SAI cage knob and rotating the mouse wheel aft until the red flag is stowed.\
+",
+    ["DictKey_GroupName_30"] = "New Static Object #008",
+    ["DictKey_UnitName_49"] = "New Static Object",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_UnitName_113"] = "New Static Object #017",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_ActionText_125"] = "For takeoff, we will want our stabs trimmed for 12 degrees. To set this, press and hold down the TO Trim button [V]. Upon doing so, you will also notice the STAB values on the FCS page will change to 12. The Leading Edge Flaps (LEF), Trailing Edge Flaps (TEF), and Rudder (RUD) should all have a value of 30 degrees.\
+\
+You should also have no Xs on the FCS page.\
+",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_ActionText_212"] = "ウェイポイント５を通過します。\
+\
+次のウェイポイントは進入開始点です。３度グライドスロープの１０マイル地点です。",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_GroupName_12"] = "New Static Object #002",
+    ["DictKey_GroupName_18"] = "New Static Object #004",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_GroupName_81"] = "New Static Object #024",
+    ["DictKey_UnitName_46"] = "New Static Object",
+    ["DictKey_GroupName_36"] = "New Static Object #010",
+    ["DictKey_UnitName_40"] = "New Static Object #010",
+    ["DictKey_ActionText_218"] = "着陸前に最後のゲートを通過します。適正速度（オンスピード）でグライドスロープにのっていなくてはなりません。\
+目視アプローチのための滑走端のライトが見えるはずです。\
+\
+ベロシティーベクターが着陸ポイントに重なるように、出力を調整し降下率をコントロールします。\
+\
+車輪が着地したら、ホイールブレーキ「W」をかけてください。",
+    ["DictKey_GroupName_109"] = "New Static Object #025",
+    ["DictKey_GroupName_72"] = "New Static Object #021",
+    ["DictKey_GroupName_75"] = "New Static Object #022",
+    ["DictKey_GroupName_66"] = "New Static Object #019",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_133"] = "Now on the Support (SUPT) page, press the FCS pushbutton. We will want the HUD on the left DDI and the FCS page on the right DDI when we taxi and take off.",
+    ["DictKey_GroupName_112"] = "New Static Object #026",
+    ["DictKey_ActionText_206"] = "速度が250knotsを下回ったら「B」を押してスピードブレーキを収納するのを忘れないようにしてくだい。\
+\
+ファイナルアプローチフィックス（FAF、進入開始点)より5-7マイルの地点で、速度が250knots未満であることを確認してから、着陸装置を降ろしてください。「G」",
+    ["DictKey_GroupName_27"] = "New Static Object #007",
+    ["DictKey_UnitName_22"] = "New Static Object #001",
+    ["DictKey_ActionText_98"] = "Press the Master Caution again to re-stack the caution and advisory notices along the bottom of the left DDI. Cautions will be along the top and advisories, in smaller text, along the bottom. If the left DDI is not on, then the caution and advisories will be displayed on another display. By default though, they will be on the left DDI.",
+    ["DictKey_GroupName_42"] = "New Static Object",
+    ["DictKey_ActionText_103"] = "",
+    ["DictKey_UnitName_19"] = "New Static Object #001",
+    ["DictKey_ActionText_92"] = "When we conducted the tests of the A and B fire test circuits, we also closed the bleed air shutoff valves. We need to re-open these by rotating the Bleed Air knob clockwise 360-degrees clockwise, from NORM to NORM. Do this by right mouse button clicking on the outer portion of the knob.\
+\
+When done, press [SPACEBAR].\
+",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_ActionText_120"] = "To the left of the INS switch is the RADAR switch. Set this switch to the OPR (operate) position using your right mouse button. Don’t worry, the radar will be in silent mode, so you won’t microwave the ground crew.",
+    ["DictKey_ActionText_129"] = "Prior to taxi, press the MENU pushbutton on the left DDI to go to the TAC, or Tactical, page. On the TAC page, you have access to sub-pages like the Stores Management System (SMS), Attack Radar, HUD, and Electronic Warfare (EW) pages.",
+    ["DictKey_ActionText_122"] = "We’ll now run a BIT of the flight control system. This moves the controls surfaces to their limits to test for any software or mechanical errors. \
+\
+First, select the FCS BIT page from the BIT page on the right DDI.\
+",
+    ["DictKey_ActionText_91"] = "Once the right engine RPM has reached 20%, as indicated on the IFEI, move the right throttle from OFF to IDLE by pressing [RIGHT SHIFT + HOME]. This in turn will introduce fuel into the engine combustion chamber and start the ignitors.  \
+\
+Once the right engine RPM has reached 60%, the right engine start cycle is complete and the right generator is automatically engaged.\
+\
+Once at 60%, press [SPACEBAR].\
+",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_GroupName_60"] = "New Static Object #017",
+    ["DictKey_ActionText_127"] = "Close the canopy by holding the canopy control switch in the down, CLOSE position until the canopy is closed. Do this by pressing the key combination [LEFT CTRL + C] or placing the mouse over the switch and holding down the left mouse button.\
+\
+Once the canopy is closed, press [SPACEBAR] to continue.\
+",
+    ["DictKey_GroupName_48"] = "New Static Object #013",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_GroupName_54"] = "New Static Object #015",
+    ["DictKey_UnitName_58"] = "New Static Object #014",
+    ["DictKey_ActionText_130"] = "On the left DDI TAC page, select the HUD pushbutton to display a mirror of the HUD on the DDI. This can be useful when head down or in case of a HUD failure.",
+    ["DictKey_UnitName_28"] = "New Static Object #001",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_UnitName_34"] = "New Static Object #001",
+    ["DictKey_UnitName_55"] = "New Static Object #014",
+    ["DictKey_ActionText_108"] = "With the right engine running and generator power on, place the left and right Digital Display Indicators, or DDIs, to the DAY position using right mouse button clicks on both brightness selector knobs. Next, rotate the HUD symbology brightness control knob clockwise by placing your mouse over it and rotating your mouse wheel forward.\
+\
+Once you see video displayed on the left and right DDIs and HUD, press [SPACEBAR].\
+",
+    ["DictKey_ActionText_106"] = "To make sure we don’t roll forward after starting the engines, confirm that you have at least 3,000 PSI brake pressure.\
+\
+Press [SPACEBAR] to continue.\
+",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_GroupName_33"] = "New Static Object #009",
+    ["DictKey_ActionText_204"] = "Passing waypoint 1 .",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_UnitName_31"] = "New Static Object #001",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_ActionText_118"] = "The Hornet comes equipped with an Inertial Navigation System, or INS. Use right mouse clicks to set the INS switch, located on the SENSOR panel, to the GND (ground) position. This will start an INS ground alignment.",
+    ["DictKey_ActionText_96"] = "The FCS page shows the status of the control surfaces and any detected FCS errors. The Xs indicate detected errors, but we will address those once the left engine is started. You should not see any “2”, “R”, or FADEC caution messages along the bottom of the left DDI.\
+\
+Note that, by default, you will have the Built-In Test, or BIT, page on the right DDI. We’ll come back to this.\
+",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_GroupName_69"] = "New Static Object #020",
+    ["DictKey_ActionText_134"] = "The parking brake system is operated with the yellow and black parking brake handle.\
+\
+The handle is currently in the park position, indicated by the fact that the PARK label is visible to the pilot.\
+\
+Release the parking brake now by rotating the handle 45° counterclockwise from the extended position. This can be achieved by left mouse button clicking the handle or pressing the [RIGHT ALT + P] key. This will release the lock and allow the handle to return to the horizontal stowed position, where the EMERG label is visible to the pilot.\
+",
+    ["DictKey_ActionText_105"] = "The Hornet has two fire detection circuits, A and B, that test for fire in the engines, auxiliary power unit, and bleed air system. Before we go into detail on that though, check that the hydraulic brake pressure gauge for the wheel brakes shows at least 3,000 PSI. Confirm this by looking at the gauge, which is located to the left and up from the highlighted fire test switch.\
+\
+Okay, now put the spring-loaded fire test switch in the up, TEST A position and keep holding it up to test the A circuits. To do this, place the mouse over the fire test switch and hold down the right mouse button. Keep holding the mouse button down and do not release it until it runs through all the fire test audio warnings. In addition to the audio warnings, also note the fire warning lights on the upper left and right portions of the instrument panel.\
+\
+When it’s done, press [SPACEBAR].\
+",
+    ["DictKey_UnitName_43"] = "",
+    ["DictKey_GroupName_24"] = "New Static Object #006",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_57"] = "New Static Object #016",
+    ["DictKey_descriptionBlueTask_3"] = "チュートリアルの指示に従い、バトゥミ（Batumi)空港へ着陸してください。",
+    ["DictKey_UnitName_110"] = "New Static Object #017",
+    ["DictKey_ActionText_86"] = "The first thing we need to do is enable the two batteries. This will allow operation of the canopy and power the engine igniters. You’ll also notice that the Integrated Fuel and Engine Indicator (or IFEI) in the lower left portion of the instrument panel will have power.\
+\
+Move the battery switch to the up, ON position with a right mouse button click.\
+",
+    ["DictKey_ActionText_131"] = "Let’s now set up the right DDI. Press the MENU pushbutton on the right DDI to bring up the Tactical (TAC) page. ",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_UnitName_116"] = "New Static Object #017",
+    ["DictKey_ActionText_200"] = "ウェイポイント６のファイナルアプローチフィックスからTACANナビゲーションを頼りに３度のグライドスロープにのって計器進入を行う用意が整いました。\
+\
+一時停止を解除したら、250Knotsを維持しつつゲートを通過してください。\
+\
+前方に続くゲートは方位とグライドスロープを維持する助けになります。順に通過するように飛行してください。\
+\
+準備が良ければスペースキーを押してください。一時停止を解除します。",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_ActionText_90"] = "Once the green light next to the APU switch comes on, move the engine crank switch to its right position, marked by the R, with a right mouse button click. This will allow the APU to power the Air Turbine Starter (ATS), which in turns allows the Aircraft Mounted Accessory Drive, or AMAD, to start turning the fan blades within the right engine.",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_UnitName_82"] = "New Static Object #021",
+    ["DictKey_ActionText_135"] = "This concludes the current lesson on starting up the Hornet. As mentioned earlier though, there is also an option for automatically starting the Hornet by pressing [LEFT WIN + HOME]. \
+\
+You can end the lesson now by pressing the [ESCAPE] key.\
+",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_GroupName_39"] = "New Static Object #011",
+    ["DictKey_ActionText_102"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_ActionText_208"] = "ウェイポイント３を通過し、TACANまでの距離は１５マイルです。\
+対気速度は250knotsを維持します。",
+    ["DictKey_UnitName_16"] = "New Static Object #001",
+    ["DictKey_ActionText_97"] = "During this lesson and future lessons, you will often see and hear the Master Caution. This is the large, yellow-labeled button on the instrument panel that will light when any caution condition is triggered. There will also be an accompanying “deedle deedle” sound to draw your attention.\
+\
+Press this button [N] or click on it to acknowledge the caution and extinguish the light. \
+",
+    ["DictKey_GroupName_63"] = "New Static Object #018",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_UnitName_13"] = "New Static Object #001",
+    ["DictKey_ActionText_124"] = "Once the FCS BIT is complete, marked by the “beep” tone, place the flap switch in the center, HALF position with a left mouse button click on the switch.\
+\
+Takeoff is done with flaps set to half. Once we are airborne, we’ll move them to AUTO.\
+",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_descriptionText_1"] = "夜間や悪天候などで、有視界飛行（VFR)ができない場合、計器進入着陸を行います。名前が示す通り、ホーネットの計器から得られる選択空港への方位とグライドスロープの情報を利用します。\
+\
+DCS Worldの米海軍ホーネットは計器空母着陸システム（LCLS: Instrument Carrier Landing Systems）を搭載していますが、これは空母への着陸のみで空港への着陸には使用しません。現実世界でも、USホーネットはILSを搭載していません。代わりに、TACANから得られるアプローチ方位と、DME（ Distance Measuring Equipment）の距離情報と高度から導き出される３度のグライドスロープを利用します。\
+",
+    ["DictKey_UnitName_70"] = "New Static Object #018",
+    ["DictKey_ActionText_202"] = "では、始めてください。\
+スロットルをアイドルにして250knotsまで速度を下げます。\
+その速度を維持しつつ、ウェイポイント６のファイナルアプローチ開始点まで進みます。\
+HUDとHSIのTACAN方位が真正面を指しているはずです。\
+\
+スピードブレーキ「LShift+B」を使うと、素早く速度を落とす事ができます。スピードブレーキ収納は「B」です。\
+\
+ウェイポイント１のゲートを通過してください。\
+",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_GroupName_21"] = "New Static Object #005",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_ActionText_94"] = "On the left DDI, press the MENU pushbutton to bring up the Support (SUPT) page. ",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_ActionText_123"] = "To run the FCS BIT, we’ll need to activate two controls at the same time. While holding up the FCS BIT switch [Y] on the right wall, press the FCS pushbutton on the right DDI.\
+\
+Upon doing so, you’ll see the controls being cycled on both the FCS DDI page, and if you look outside the cockpit, you can watch the wing and tail control surfaces moving.\
+",
+    ["DictKey_ActionText_104"] = "Good job. Note that in the top left portion of the IFEI you can see the RPM and TEMP of both the left and right engines. These will be important for when we start the engines.\
+\
+We will now turn on the Auxiliary Power Unit, or APU. This is a small, self-contained engine that augments the bleed air system and will start turning the engines for engine starts.\
+\
+Place the APU control switch in the up, ON position with a left mouse button click.\
+",
+    ["DictKey_ActionText_216"] = "着陸前に最後のゲートを通過します。適正速度（オンスピード）でグライドスロープにのっていなくてはなりません。\
+目視アプローチのための滑走端のライトが見えるはずです。\
+\
+ベロシティーベクターが着陸ポイントに重なるように、出力を調整し降下率をコントロールします。\
+\
+車輪が着地したら、ホイールブレーキ「W」をかけてください。",
+    ["DictKey_ActionText_210"] = "ウェイポイント4を通過します。\
+\
+３度のグライドスロープに沿って次のゲートを通過します。\
+グライドスロープの判断にはHUDのベロシティベクターとピッチラダーの関係を見るのが最適です。ベロシティーベクターが－５度ピッチラインの２/５の位置にあるように飛行します。",
+    ["DictKey_UnitName_37"] = "",
+    ["DictKey_ActionText_95"] = "The Support page has several sub-pages like the Checklist, Engine, Fuel, ADI and HSI. For now though, press the FCS pushbutton to select the Flight Control System page.",
+    ["DictKey_GroupName_9"] = "New Static Object #001",
+    ["DictKey_ActionText_119"] = "Located in the back of the left console is the panel for the Onboard Oxygen Generation Systems, or OBOGS. Go ahead and set the OBOGS switch to its up, ON position.",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_UnitName_10"] = "",
+    ["DictKey_UnitName_64"] = "",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_GroupName_78"] = "New Static Object #023",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_UnitName_79"] = "New Static Object #021",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_ActionText_220"] = "よくできました。死なずにやり遂げました。\
+\
+このように、ILSが無くても、着陸のために基準点を持っていれば、ホーネットを簡単に着陸させることが可能です。\
+\
+ESCを押してレッスンを終了してください。",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_ActionText_93"] = "In the lower center of the instrument panel is the Multi-Purpose Color Display, or MPCD. Rotate the power and brightness control knob to the full bright setting by placing your mouse over the knob and rotating your mouse wheel forward. It will take a few moments to power on.\
+\
+Press [SPACEBAR] once you see video displayed on the MPCD.\
+",
+    ["DictKey_ActionText_214"] = "バトゥミへの進入開始点を通過しました。３度のグライドスロープを維持して下さい。TACANの方位は常に真正面を指すように注意してください。TACAN　DMEは近づくにつれて減少します。\
+\
+VFR空港着陸レッスンで学んだオンスピードAOAを維持して下さい。\
+\
+適正速度でゲートを通過してください。",
+    ["DictKey_ActionText_88"] = "To make sure we don’t roll forward after starting the engines, confirm that you have at least 3,000 PSI brake pressure.\
+\
+Press [SPACEBAR] to continue.\
+",
+} -- end of dictionary

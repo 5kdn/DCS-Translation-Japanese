@@ -1,0 +1,290 @@
+dictionary = 
+{
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_ActionText_112"] = "コブレチ（Kobuleti）の滑走路07へ、距離１１マイル、３０００feet、２６０knotsの状態からアプローチを開始します。\
+５マイルの距離に近づくまでに１５００feetまで降下してください。これは滑走路へ向けて３度のグライドパスに乗ることになります。\
+\
+グライドパスの角度を測るには、HUDのベロシティベクター（velocity Vector、フライトパスマーカー）を参照してください。３度のグライドパスはホーネットでの標準グライドパスです。\
+\
+ストレートインアプローチをするために、HUDの気圧高度を注視し続けてください。\
+IFR着陸では計器のみでアプローチを行います。\
+\
+「スペースキー」を押すと次に進みます。",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_UnitName_67"] = "New Static Object #018",
+    ["DictKey_GroupName_15"] = "New Static Object #003",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_ActionText_121"] = "We are now flying a heading of 250 degrees at 400 knots and 1,000 feet. Fly through the gates ahead which will place us at 800 feet and offset to the right of the runway. We don’t want to directly overfly the runway. Maintain an airspeed of 350 knots.\
+\
+Cage the velocity vector on the HUD by pressing [C].\
+",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_UnitName_73"] = "",
+    ["DictKey_GroupName_21"] = "New Static Object #005",
+    ["DictKey_ActionText_101"] = "Now it is time to get the left engine started. Go ahead and left mouse click on the engine crank switch.",
+    ["DictKey_ActionText_116"] = "As your roll out on the runway heading, fly to place the velocity vector on the runway threshold and use throttle adjustments to control your glidepath to be 3 degrees.\
+\
+Press [SPACEBAR] to continue.\
+",
+    ["DictKey_UnitName_7"] = "Player",
+    ["DictKey_ActionText_128"] = "Do not flare the aircraft, but rather continue on the glidepath and touch down at no more than 800 feet per minute. \
+\
+Once down, use gentle rudder input to keep aligned down the runway and use nose wheel steering once below 75 knots.\
+\
+Once on the ground, press [W] to brake and bring the aircraft to a halt.",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_UnitName_25"] = "New Static Object #001",
+    ["DictKey_GroupName_51"] = "New Static Object #014",
+    ["DictKey_ActionText_124"] = "While on the downwind, establish on-speed AoA of 8.1 degrees by flying to maintain the velocity vector inside the E bracket on the HUD. Proper AoA is also indicated to the left of the HUD by the indexer lights. Keep a donut displayed in the center of the indexer.",
+    ["DictKey_ActionText_117"] = "Using what you learned in the TACAN lesson, set the TACAN to 67X and a course of 70 degrees. This is the TACAN channel for Kobuleti airfield and it will provide us useful information to line up our downwind and final approach legs of the pattern.\
+\
+Press [SPACEBAR] when done and you are ready to un-pause the lesson.\
+",
+    ["DictKey_sortie_5"] = "VFR Airfield Straight In Landing",
+    ["DictKey_UnitName_76"] = "New Static Object #021",
+    ["DictKey_GroupName_6"] = "Player",
+    ["DictKey_ActionText_119"] = "",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_GroupName_45"] = "New Static Object #012",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_ActionText_84"] = "今迄のレッスンで離陸の仕方、航法について学びました。しかし、いずれ降りなくてはなりません。\
+このレッスンでは空港への基本的な着陸手順について説明します。有視界着陸方式（VFR)、ストレートインでアプローチします。これは、後ほど行う計器着陸方式（IFR)のレッスンにも役に立ちます。\
+\
+現在一時停止しています。\
+この間に、飛行場へのVFR（有視界）ストレートインアプローチについての基本を説明します。\
+\
+このレッスンを始める前に、HUDの表示について勉強をしておいてください。マニュアル又は最初のレッスンで解説しています。\
+\
+「スペースキー」を押すと次に進みます。",
+    ["DictKey_ActionText_99"] = "Now it is time to get the left engine started. Go ahead and left mouse click on the engine crank switch.",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_UnitName_43"] = "",
+    ["DictKey_UnitName_61"] = "New Static Object #014",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_GroupName_30"] = "New Static Object #008",
+    ["DictKey_UnitName_49"] = "New Static Object",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_UnitName_79"] = "New Static Object #021",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_GroupName_33"] = "New Static Object #009",
+    ["DictKey_UnitName_31"] = "New Static Object #001",
+    ["DictKey_ActionText_125"] = "Once your left wingtip is abeam the runway threshold, start a 30 degree bank to the left while maintaining on-speed AoA. This is a bit tricky, use throttle to control your decent and stick pitch to control your angle of attack.",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_ActionText_137"] = "よくできました。「ESC」でレッスンを終了できます。",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_GroupName_12"] = "New Static Object #002",
+    ["DictKey_ActionText_114"] = "As your roll out on the runway heading, fly to place the velocity vector on the runway threshold and use throttle adjustments to control your glidepath to be 3 degrees.\
+\
+Press [SPACEBAR] to continue.\
+",
+    ["DictKey_GroupName_18"] = "New Static Object #004",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_GroupName_81"] = "New Static Object #024",
+    ["DictKey_UnitName_46"] = "New Static Object",
+    ["DictKey_GroupName_36"] = "New Static Object #010",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_UnitName_40"] = "New Static Object #010",
+    ["DictKey_GroupName_72"] = "New Static Object #021",
+    ["DictKey_GroupName_75"] = "New Static Object #022",
+    ["DictKey_GroupName_66"] = "New Static Object #019",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_133"] = "２５０Knots以下にして、[G]キーを押してランディングギアを降ろしてください。　[LCTRL＋F]キーでフラップをフルにしてください。\
+\
+スロットルをアイドルにして、減速してください。スピードブレーキを使っても構いません。急減速できます。スピードブレーキは右スロットルグリップにある。speedbrakeスイッチを押すか、[LSHIFT＋B]キーを押すと展開します。スピードブレーキが展開している時は計器パネルの「SPD BRK」ライトが点灯します。\
+\
+１４０knotsまで減速したら、スピードブレーキは閉じてください。（スピードブレーキスイッチ又は[LCRTL+B])\
+スロットルの調整と、操縦桿のトリムを合わせて、迎え角（AoA)が８．１度を維持するようにしてください。\
+HUDのベロシティベクターがEの範囲に収まるようにしてください。\
+\
+ゲートをグライドパスのガイドとして利用してください。\
+ベロシティベクターを次のゲートの中央に置くようにしてください。",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_GroupName_27"] = "New Static Object #007",
+    ["DictKey_UnitName_22"] = "New Static Object #001",
+    ["DictKey_ActionText_98"] = "The Hornet comes equipped with an Inertial Navigation Systems, or INS. Use mouse right clicks to set the INS switch to the GND (ground) position. This will start our INS ground alignment.\
+\
+When the switch is set to GND, press [SPACEBAR].\
+",
+    ["DictKey_GroupName_42"] = "New Static Object",
+    ["DictKey_UnitName_19"] = "New Static Object #001",
+    ["DictKey_ActionText_92"] = "With the right engine running and generator power, place the left and right Digital Display Indicators, or DDIs, to the DAY position using right mouse button clicks. Rotate the Head Up Display, or HUD, brightness knob clockwise by placing your mouse over it and rotating your mouse wheel forward.\
+\
+Once you see video displayed on the left and right DDIs and HUD, press the [SPACEBAR].\
+",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_ActionText_120"] = "",
+    ["DictKey_ActionText_129"] = "Congratulations on landing the Hornet! With practice, this will become second nature. \
+\
+You can end the lesson now by pressing the [ESCAPE] key.\
+",
+    ["DictKey_ActionText_88"] = "Good job. Note that in the top left portion of the IFEI you can see the RPM and TEMP of both the left and right engines. These will be important for when we start the engines.\
+\
+We will now turn on the Axillary Power Unit, or APU. This is a small, self-contained engine that augments the bleed air system and will start turning the engines for engine starts.\
+\
+Please the APU switch in the ON position with a left mouse button click.\
+",
+    ["DictKey_ActionText_90"] = "Once the green light next to the APU switch comes on, move the Engine Crank switch to the Right, marked by the R, with a right mouse button click. This will allow the APU to power the Air Turbine Starter, which in turns allows the Aircraft Mounted Accessory Dive, or AMAD, to starting turning the fan blades within the engine.",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_GroupName_60"] = "New Static Object #017",
+    ["DictKey_ActionText_127"] = "As your nose comes around to the runway heading, uncage the velocity vector on the HUD by pressing [C] and fly to place the velocity vector on the runway threshold where you wish to touch down.\
+\
+While maintaining on-speed AoA, use your throttle to control your glidepath and stick pitch to control your angle of attack.\
+\
+",
+    ["DictKey_GroupName_48"] = "New Static Object #013",
+    ["DictKey_ActionText_136"] = "適正速度とAoAを維持し、HUDの高度計の上に表示されている降下率が毎分７５０feetを超えないようにして滑走路に進入してください。　\
+\
+＊＊フレアはかけないでください。＊＊\
+\
+ノーズホイールが着地したら、ラダーで滑走路中央を維持してください。ホイールブレーキ[W]を使用して停止してください。\
+",
+    ["DictKey_GroupName_54"] = "New Static Object #015",
+    ["DictKey_UnitName_58"] = "New Static Object #014",
+    ["DictKey_ActionText_130"] = "一時停止（ポーズ）を解除した後、スロットルをアイドルまで下げて、前方にあるゲートをくぐってください。\
+\
+２５０knotsまで減速したら、ランディングギアコントロールハンドルを下げてください。（ハンドル上でマウスを左クリックするか、[G]キーを押す）\
+フラップをフルの位置まで下げてください。（フラップスイッチをFULLの位置まで下げるか、[LCTRL+F]キーを２回押す）\
+\
+ギアとフラップを下げたら、ゲートをくぐるように飛行を続け、適正な速度と迎え角（angle of attack、AoA)に合わせます。この迎え角は空母に着艦する際、アレスティングワイヤーを捕まえるのに最適な角度です。HUDのベロシティーベクターを E の中央に合わせると、目的の８．１度のAoAを得られます。適正AoA８．１度が得られたら、HUDフレーム左のAoAインデクサーライトを確認してください。適正速度、適正迎え角であればセンターの黄色いドーナツが点灯します。\
+フラップが下りたら、スロットルを使い、グライドパスを、ピッチトリムを使いAoAを合わせてください。\
+\
+このレッスンで適切な速度で安定した飛行をする練習をして下さい。\
+\
+「スペースキー」を押すと次に進みます\
+",
+    ["DictKey_UnitName_28"] = "New Static Object #001",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_descriptionText_1"] = "今迄のレッスンで離陸の仕方、航法について学びました。しかし、いずれ降りなくてはなりません。\
+このレッスンでは空港への基本的な着陸手順について説明します。有視界着陸方式（VFR)、ストレートインでアプローチします。これは、後ほど行う計器着陸方式（IFR)のレッスンにも役に立ちます。",
+    ["DictKey_UnitName_55"] = "New Static Object #014",
+    ["DictKey_UnitName_13"] = "New Static Object #001",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_GroupName_69"] = "New Static Object #020",
+    ["DictKey_ActionText_134"] = "この時点で、適正速度で迎え角が８．１度になっていなくてはなりません。HUDのベロシティベクターを E の中央に合わせてください。\
+スロットルを使いグライドスロープを合わせてください。Eが滑走路のスレッショルド（滑走路端）に合わさるようにしてください。\
+ピッチトリムを使い適正速度とAoAを維持してください。\
+うまくいけば滑走路に向けて３度のグライドパスに乗るはずです。",
+    ["DictKey_GroupName_24"] = "New Static Object #006",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_ActionText_86"] = "With that out of the way, we will now enable the two batteries. This will allow operation of the canopy and power the engine igniters. You’ll also notice that the Integrated Fuel and Engine Indicator (or IFEI) in the lower left portion of the instrument panel will have power.\
+\
+Move the battery switch to the ON position with a right mouse button click.\
+",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_GroupName_63"] = "New Static Object #018",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_UnitName_52"] = "",
+    ["DictKey_GroupName_9"] = "New Static Object #001",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_UnitName_82"] = "New Static Object #021",
+    ["DictKey_ActionText_118"] = "We are now flying a heading of 250 degrees at 400 knots and 1,000 feet. Fly through the gates ahead which will place us at 800 feet and offset to the right of the runway. We don’t want to directly overfly the runway. Maintain an airspeed of 350 knots.\
+\
+Cage the velocity vector on the HUD by pressing [C].\
+",
+    ["DictKey_ActionText_95"] = "The Support page has several sub-pages line the Checklist, Engine, Fuel, ADI and HIS pages. For now though, press the FCS pushbutton to select the Flight Control System page.",
+    ["DictKey_GroupName_39"] = "New Static Object #011",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_UnitName_16"] = "New Static Object #001",
+    ["DictKey_ActionText_97"] = "During this lesson and future lessons, you will often see and hear the Master Caution. This is the large, yellow labeled button on the instrument panel that will light when any caution condition is triggered. There will also be an accompanying “deedle deedle” sound.\
+\
+Pressing this button [N] will acknowledge the caution and extinguish the light. Further presses of the button will re-stack caution and advisory notices along the bottom of the left DDI. If the left DDI is not on, then the caution and notices will be displayed on another display.\
+\
+\
+",
+    ["DictKey_ActionText_132"] = "When you are ready, press [SPACEBAR] and I will un-pause the lesson.",
+    ["DictKey_ActionText_113"] = "Once on the downwind leg, establish yourself at 600 feet and slow the aircraft to on-speed Angle of Attack of 8.1 degrees. This can most easily be seen on the HUD by keeping the vertical velocity indicator inside the E bracket. To the left of the HUD frame are the Angle of Attack Indexer Lights. When on-speed, the center “donut” should be lit.\
+ \
+Lower your landing gear by pressing [G] and lower the flaps to full down by pressing [LEFT CTRL + F].\
+\
+Maintain on-speed angle of attack during the downwind leg.\
+\
+Press [SPACEBAR] to continue.\
+",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_UnitName_70"] = "New Static Object #018",
+    ["DictKey_UnitName_64"] = "",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_ActionText_94"] = "On the left DDI, press the MENU pushbutton to bring us to the Support (SUPT) page. ",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_ActionText_123"] = "Now on the downwind leg, lower your landing gear [G] and set flaps to FULL [LEFT CTRL + F] once below 250 knots.\
+\
+While doing this, maintain 600 feet.\
+",
+    ["DictKey_ActionText_100"] = "Now it is time to get the left engine started. Go ahead and left mouse click on the engine crank switch.\
+\
+Once the left engine is at 20% RPM on the IFEI, press [LEFT ALT + HOME] to move the left throttle from OFF to IDLE.\
+\
+When the left engine is at 60% RPM, press the [SPACEBAR] to continue.\
+",
+    ["DictKey_UnitName_34"] = "New Static Object #001",
+    ["DictKey_descriptionBlueTask_3"] = "チュートリアルの指示に従ってください。",
+    ["DictKey_UnitName_37"] = "",
+    ["DictKey_GroupName_57"] = "New Static Object #016",
+    ["DictKey_UnitName_10"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_115"] = "Prior to touchdown, do not flair the aircraft, but rather let it fly into the runway with no more than 740 feet per minute, as indicated above your altitude on the HUD.\
+\
+That is an overview of what we will be doing. Before we try this out though, lets first set up a couple of things in the cockpit.\
+\
+First, set the altimeter display on the HUD to display radar (RDR) altitude.\
+",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_ActionText_91"] = "Once the right engine RPM has reached 20%, as indicated on the IFEI, press [LEFT SHIFT + HOME] to move the right throttle from OFF to IDLE. This in turn will introduce fuel into the engine combustion chamber and start the engine ignitors.  \
+\
+Once the right engine RPM has reached 60%, the right engine start cycle is complete and the right generator is automatically engaged.\
+\
+Once at 60%, press the [SPACEBAR].\
+",
+    ["DictKey_ActionText_122"] = "Approaching the end of the runway, we will continue to follow the gates for a 180 degree turn into the downwind leg. The rate of turn will be based on a G that is 1% of our airspeed. In this case, 3.5 G for 350 knots.\
+\
+As you break into the pattern, keep your velocity vector just below the horizon line on the HUD for a descending turn to 600 feet.\
+",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_ActionText_131"] = "準備ができたら「スペースキー」を押してください。\
+一時停止を解除します。\
+\
+補足：動き出したらテキストを読む時間がありませんので、ここで大まかに説明しておきます。\
+１）　２）　３）の順に意識して操作してください。\
+\
+１）　ベロシティーベクター（フライトパスマーカー）は機体の進行先を示します。\
+これを　＊＊常に滑走路端に重ねる＊＊　ようにストットルとピッチ操作をしてください。\
+今回はゲートがありますのでゲートの中央に収まるように操作してください。\
+\
+２）　ギアダウン、フルフラップにすると速度が急速に落ちます。いきなり140knotsを大きく下回らないようにスロットル操作には気をつけてください。\
+スロットルの反応がかなり遅いので慣れが必要です。\
+\
+３）　ベロシティーベクターが安定したら、EブラケットとHUD左のAoAインデクサーを使い機体の迎え角、速度を調整します。\
+AoAインデクサーが緑の場合増速してください。赤の場合減速してください。\
+Eブラケットがベロシティーベクターより上にある場合は減速してください。下にある場合は増速してください。\
+\
+基本は速度はピッチで降下率はスロットルで調整しますが\
+１）はスティックで、３）はスロットルで微調整するとやりやすいと思います。\
+\
+滑走路端ではフレアーはかけません。（着艦を想定しての練習です）",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_ActionText_135"] = "適正速度とAoAを維持してください。グライドパスは滑走路のスレッショルドに合うはずです",
+    ["DictKey_ActionText_96"] = "The FCS page shows the status of the control surfaces and any detected FCS errors. The Xs indicate detected errors, but we will address these once the left engine is started.\
+\
+Press the [SPACEBAR] to continue.\
+",
+    ["DictKey_ActionText_126"] = "Okay, turn to base.",
+    ["DictKey_GroupName_78"] = "New Static Object #023",
+    ["DictKey_ActionText_93"] = "In the lower center of the instrument panel is the Multi-Purpose Color Display, or MPCD. Place your mouse over the power and brightness know and rotate your mouse wheel forward until the knob is set to full bright. It will take a moment to power on.\
+\
+Press the [SPACEBAR] once you see video displayed to the MPCD.\
+",
+} -- end of dictionary
