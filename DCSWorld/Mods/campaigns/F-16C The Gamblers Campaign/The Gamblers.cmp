@@ -1,0 +1,320 @@
+campaign = 
+{
+    ["picture_EN"] = "Campaign Cover.png",
+    ["directory"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\For ED\\Campaign\\",
+    ["startStage"] = 1,
+    ["picture"] = "Campaign Cover.png",
+    ["description"] = "2014年、「The Gamblers（ギャンブラーズ）」こと第77戦闘飛行隊のF-16（Viper）が、対ISテロ作戦「Operation Inherent Resolve」の一環としてヨルダンに展開しました。\
+あなたは第77飛行隊のパイロットのひとり、コールサイン“Chaos”として、当時の実際のミッションの一部を追体験することになります。任務はCAS（近接航空支援）、SCAR（打撃調整および偵察）、SEAD（敵防空制圧）、爆撃機護衛、CSAR（戦闘捜索救難）など多岐にわたります。\
+\
+キャンペーン後半では舞台を2017年のシリアへ移し、Raqqaの激戦、アレッポにおける民間人への化学兵器攻撃への報復として実施されたShayrat空軍基地へのTLAM（巡航ミサイル）攻撃、そして米軍と悪名高きロシアのワグナー・グループの間で発生した“Khashamの戦い”など、戦域における連合軍の象徴的な作戦を体験することになります。\
+\
+物語は、キャンペーン共同制作者であり、元77thメンバーかつViperデモチームパイロット、さらに人気ポッドキャスト「Afterburn」のホストでもあるJohn ‘Rain’ Watersによるイントロダクション・ミッションから始まります。Rainはミッション中2回、あなたのフライトリードも務めます。\
+\
+このキャンペーンは、プレイヤーに優しい構成が特徴で、他のフライトメンバーや味方部隊は、あなたの行動やミスに応じてリアクションを取ったり、困難なタスクを肩代わりしてくれたりするため、ミッションが中断されることなく進行し、多様なプレイ体験が可能となっています。\
+\
+さあ、ハーネスを締めて、「Gamblers」の一員として戦うとはどういうことなのか、その真髄を体感してください。\
+\
+本キャンペーンは、展開中に事故で殉職したCaptain William “PYRO” Duboisに捧げられています。 “Nickle on the Grass...”\
+",
+    ["pictureSuccess_EN"] = "Success (1).png",
+    ["necessaryUnits"] = 
+    {
+        ["F-16C_50"] = "F-16C_50",
+    }, -- end of ["necessaryUnits"]
+    ["pictureFailed"] = "Failure.png",
+    ["name"] = "The Gamblers by Baltic Dragon",
+    ["stages"] = 
+    {
+        [1] = 
+        {
+            ["name"] = "Stage 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Gamblers M00.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\Mission 0\\Gamblers M00.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Gamblers M01.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\Mission 01 - Arrival\\Gamblers M01.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [3] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Gamblers M02.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\Mission 02 - First Strike\\Gamblers M02.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [4] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Gamblers M03.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\Mission 03 - Seek and Destroy\\Gamblers M03.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [5] = 
+        {
+            ["name"] = "Stage 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Gamblers M04.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\Mission 04 - Enemy of your enemy\\Gamblers M04.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [6] = 
+        {
+            ["name"] = "Stage 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Gamblers M05.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\Mission 05 - Convoy\\Gamblers M05.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [7] = 
+        {
+            ["name"] = "Stage 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Gamblers M06.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\Mission 06 - Jordanian CSAR\\Gamblers M06.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [8] = 
+        {
+            ["name"] = "Stage 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Gamblers M07.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\Mission 07 - Wounded Hog\\Gamblers M07.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [9] = 
+        {
+            ["name"] = "Stage 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Gamblers M07A.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\Mission 07A Intermission\\Gamblers M07A.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [10] = 
+        {
+            ["name"] = "Stage 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Gamblers M08.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\Mission 08 - Oilfields\\Gamblers M08.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [11] = 
+        {
+            ["name"] = "Stage 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Gamblers M09.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\Mission 09 - Tomahawk Strike\\Gamblers M09.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [12] = 
+        {
+            ["name"] = "Stage 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Gamblers M10.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\Mission 10 - The Trucks\\Gamblers M10.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [13] = 
+        {
+            ["name"] = "Stage 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Gamblers M11.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\Mission 11 - Raqqa part 1\\Gamblers M11.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [14] = 
+        {
+            ["name"] = "Stage 14",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Gamblers M12.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\Mission 12 - Raqqa part 2\\Gamblers M12.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+        [15] = 
+        {
+            ["name"] = "Stage 15",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["description"] = "",
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Gamblers M13.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\Mission 13 - Battle of Khasham\\Gamblers M13.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+    }, -- end of ["stages"]
+    ["version"] = 1,
+    ["name_EN"] = "The Gamblers by Baltic Dragon",
+    ["pictureFailed_EN"] = "Failure.png",
+    ["fullPath"] = "C:\\Users\\wojci\\Dysk Google\\Campaigns IN DEVELOPMENT\\F-16 The Gamblers\\For ED\\Campaign\\The Gamblers.cmp",
+    ["pictureSuccess"] = "Success (1).png",
+} -- end of campaign

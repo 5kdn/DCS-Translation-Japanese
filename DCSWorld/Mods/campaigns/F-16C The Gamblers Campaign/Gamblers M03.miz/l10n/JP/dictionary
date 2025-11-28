@@ -1,0 +1,934 @@
+dictionary = 
+{
+    ["DictKey_subtitle_216"] = "GHOST: Weasel flight、Ghost、コピー。ターゲットアルファを視認。9ラインBravo受信準備ができたら言ってくれ。",
+    ["DictKey_subtitle_913"] = "WEASEL 32（TALLY）: A/GレーダーをGMTモードで見てみろ、こっちの画面にははっきり出てる！",
+    ["DictKey_subtitle_166"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_ActionRadioText_961"] = "",
+    ["DictKey_subtitle_729"] = "PLAYER: Weasel 31、離陸許可、滑走路28。",
+    ["DictKey_ActionRadioText_148"] = "",
+    ["DictKey_subtitle_232"] = "PLAYER: Ghost、Weasel 31、APCをコンタクト、グリッドDelta Uniform 879 605。",
+    ["DictKey_subtitle_20"] = "WIZARD: 幸運を祈る、Weasels。",
+    ["DictKey_ActionText_464"] = "",
+    ["DictKey_subtitle_607"] = "PLAYER: Weasels、チェック。",
+    ["DictKey_ActionRadioText_1014"] = "",
+    ["DictKey_subtitle_315"] = "COWBOY 21: Wizard、Cowboy 21、ラジャー。",
+    ["DictKey_subtitle_242"] = "WEASEL 32（TALLY）: Ghost、Weasel 32、ターゲットBravoに向けてIP進入中。",
+    ["DictKey_subtitle_84"] = "WEASEL 32（TALLY）: Two、テクニカルに良好なヒット。",
+    ["DictKey_ActionRadioText_513"] = "ビンゴ報告",
+    ["DictKey_subtitle_839"] = "WIZARD: Cowboy 21、Wizard、ラジャー。ピクチャークリーン。Blackbird 63は西、ブロック200〜240。Blackbird 65はKING付近、180〜200。Weasel 21はQUEEN、Weasel 31はBISHOPへ進行中。TexacoはZulu上。了解したか？",
+    ["DictKey_ActionRadioText_673"] = "",
+    ["DictKey_subtitle_700"] = "WEASEL 32（TALLY）: ウィルコ。",
+    ["DictKey_ActionRadioText_62"] = "",
+    ["DictKey_subtitle_397"] = "PLAYER: Weasel 31、1発投下。",
+    ["DictKey_subtitle_981"] = "PLAYER: Wizard、ターゲティングメッセージ4 Alpha、BDA報告、車両撃破ゼロ。",
+    ["DictKey_subtitle_38"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_subtitle_210"] = "PLAYER: Ghost、Weasel 31、GBU-12、南から北の進入で了解。",
+    ["DictKey_ActionText_743"] = "",
+    ["DictKey_subtitle_787"] = "WEASEL 32（TALLY）: シリア軍はここで誰と戦ってるんだ？ISのポジションがここまで南にあるなんて情報はなかったはず。",
+    ["DictKey_ActionRadioText_488"] = "",
+    ["DictKey_subtitle_599"] = "WEASEL 32（BEAR）: Two。",
+    ["DictKey_subtitle_248"] = "GHOST: Weasel 31、Ghost、ターゲットAlphaへ続行せよ。",
+    ["DictKey_ActionText_1024"] = "",
+    ["DictKey_ActionText_286"] = "GHOSTからの9ラインを受信する準備ができたらスペースバーを押せ。",
+    ["DictKey_subtitle_1172"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_ActionRadioText_119"] = "Bearが攻撃",
+    ["DictKey_ActionText_324"] = "",
+    ["DictKey_ActionText_281"] = "",
+    ["DictKey_ActionRadioText_112"] = "両機攻撃",
+    ["DictKey_subtitle_710"] = "WEASEL 21（POKER）: タワー、Weasel 21、滑走路28へタクシー。",
+    ["DictKey_subtitle_371"] = "GHOST: Weasels、Ghost、9ラインCharlie、次の通り：359 オフセットは西、9.1、標高1537フィート、目標は弾薬庫、グリッド 37 Sierra Delta Uniform 89437 60312、ノーマーク、脅威なし、離脱方向は東。",
+    ["DictKey_ActionText_596"] = "燃料：4000ポンド",
+    ["DictKey_ActionText_861"] = "",
+    ["DictKey_subtitle_576"] = "WEASEL 32（TALLY）: Weasel 32。",
+    ["DictKey_ActionText_739"] = "",
+    ["DictKey_subtitle_100"] = "WEASEL 32（BEAR）: One、Two、目標を撃破。",
+    ["DictKey_ActionText_580"] = "",
+    ["DictKey_subtitle_491"] = "GHOST: ラジャー、Weasel 31。Eagle編隊が向かっている、RTBを許可。",
+    ["DictKey_ActionText_734"] = "",
+    ["DictKey_subtitle_411"] = "WEASEL 32（TALLY）: Weasel 32、爆弾投下。",
+    ["DictKey_subtitle_718"] = "WEASEL 21（POKER）: タワー、Weasel 21、ナンバーワン、28。",
+    ["DictKey_subtitle_706"] = "WEASEL 21（POKER）: タワー、Weasel 21、Uniform受信済、タクシー希望。",
+    ["DictKey_subtitle_124"] = "WEASEL 32（BEAR）: Two、ライフル！",
+    ["DictKey_subtitle_753"] = "KING FAISAL TOWER: Weasel 31、位置を保持、保持せよ、Weasel 21の後ろで2番目だ！",
+    ["DictKey_subtitle_574"] = "PLAYER: Weaselチェック。",
+    ["DictKey_ActionRadioText_685"] = "2. RTBが必要",
+    ["DictKey_subtitle_501"] = "COWBOY 21: Ghost 21はF-15E二機編隊、BISHOPの南東20マイルに位置。兵装はGBU-12×8、GBU-38×8、guns、滞空時間0+60、アボートコードZulu、任務可能。",
+    ["DictKey_ActionRadioText_954"] = "",
+    ["DictKey_ActionText_149"] = "",
+    ["DictKey_subtitle_262"] = "GHOST: Weasel 32、命中良好！",
+    ["DictKey_ActionRadioText_1162"] = "1. PLAYERがGBU-12で攻撃",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_633"] = "",
+    ["DictKey_ActionText_278"] = "IPに戻れ。攻撃結果をWizardに報告するにはスペースバーを押せ。",
+    ["DictKey_ActionText_1132"] = "",
+    ["DictKey_ActionRadioText_684"] = "1. 任務継続可能",
+    ["DictKey_ActionText_466"] = "",
+    ["DictKey_ActionText_646"] = "SHELTER 1へ向かえ。",
+    ["DictKey_ActionRadioText_1088"] = "1. 両機攻撃",
+    ["DictKey_ActionText_1160"] = "任務を終えたあと、いつものようにTallyと一緒に各フェーズを振り返り、映像やメモを見ながらパフォーマンスを検討した。\
+\
+進入中は特に話すこともなかったが、唯一挙げるなら、シリア軍のFencerがAt Tanfの工場群をロケットで攻撃していた件だ。交戦規定（ROE）は明確で、Pokerやこちらの編隊にできることは何もなかった。\
+\
+その後、オンステーションに到着。Ghostにチェックインする前に、TallyがBishop方面へ向かう4両の敵車列を発見した。\
+\
+あなたは単独での攻撃を選び、Tallyは上空カバーに回った。ミッション後に振り返ってみると、この方法は二人で同時にマーベリックを撃つ連携攻撃より効果が薄かったと判断された。それでも最終的には敵車両を破壊できた。（10ポイント獲得）\
+\
+その後、Ghostにチェックイン。彼からは魅力的な目標リストが提示された。Tallyはオリーブの木々に紛れていた敵APCをGBU-38で攻撃し、あなたはGBU-12で戦車を破壊する任務を受けた。CLAの戦車乗員に先手を打たれないよう、緊密に連携して攻撃を行った。結果は上々で、敵が反応する前に戦車は破壊された。（15ポイント獲得）\
+\
+三つ目の目標は軽く防御された弾薬庫だったが、爆撃に失敗し、Tallyに援護を要請。彼女はGBU-38でこれを破壊することに成功した。（10ポイント獲得）\
+\
+その後、基地へ帰還し着陸。（5ポイント）",
+    ["DictKey_ActionText_442"] = "弾薬庫の目標を視認したらGHOSTに報告するためスペースバーを押せ。",
+    ["DictKey_ActionRadioText_1134"] = "チャンネル変更",
+    ["DictKey_subtitle_381"] = "GHOST: Weasel 31、そのGBUで完璧だ。ターゲットCharlieを視認したら知らせてくれ。",
+    ["DictKey_subtitle_268"] = "PLAYER: Weasel 31、ラジャー。",
+    ["DictKey_subtitle_393"] = "PLAYER: Weasel 31、南からイン。",
+    ["DictKey_ActionRadioText_1091"] = "1. 両機攻撃",
+    ["DictKey_subtitle_917"] = "PLAYER: One、65でも補足できない。",
+    ["DictKey_ActionRadioText_678"] = "",
+    ["DictKey_ActionText_334"] = "",
+    ["DictKey_subtitle_627"] = "PLAYER: Tower、Weasel 31、滑走路28、着陸許可。",
+    ["DictKey_ActionRadioText_1135"] = "チャンネル変更",
+    ["DictKey_ActionText_447"] = "",
+    ["DictKey_ActionRadioText_996"] = "1. 直ちにRTBせよ",
+    ["DictKey_subtitle_746"] = "KING FAISAL TOWER: Weasel 31、位置を保持せよ。",
+    ["DictKey_subtitle_535"] = "PLAYER: Wizard、Weasel 31。",
+    ["DictKey_ActionRadioText_436"] = "1. 復唱",
+    ["DictKey_ActionRadioText_111"] = "Bearが攻撃",
+    ["DictKey_ActionRadioText_340"] = "2. 繰り返してくれ",
+    ["DictKey_ActionRadioText_1089"] = "2. PLAYERが攻撃",
+    ["DictKey_ActionText_957"] = "F10無線メニューで目視確認を報告するか、車列を発見できないことをTallyに伝えよ。",
+    ["DictKey_subtitle_765"] = "WEASEL 32（TALLY）: Two、準備完了。",
+    ["DictKey_ActionRadioText_455"] = "B. ウィングマンが攻撃",
+    ["DictKey_subtitle_415"] = "GHOST: Weasel flight、次の目標がある。",
+    ["DictKey_ActionText_360"] = "APCをグリッドDelta Uniform 879 605で視認したらスペースバーを押せ。",
+    ["DictKey_ActionText_1056"] = "",
+    ["DictKey_ActionText_757"] = "",
+    ["DictKey_ActionText_1062"] = "",
+    ["DictKey_subtitle_164"] = "PLAYER: Two、One、PRIチャンネル6へプッシュ。",
+    ["DictKey_ActionText_134"] = "Script ON",
+    ["DictKey_subtitle_712"] = "PLAYER: タワー、Weasel 31、Uniform受信済、タクシー希望。",
+    ["DictKey_subtitle_821"] = "WEASEL 21（POKER）: Weasel 21はQUEEN周辺でSCAR実施予定。",
+    ["DictKey_subtitle_266"] = "GHOST: Weasel 31、Ghost、目標に効果なし、再攻撃を許可する。",
+    ["DictKey_subtitle_489"] = "PLAYER: Ghost、Weaselsは滞空時間終了、燃料補給に向かってその後戻る。",
+    ["DictKey_ActionRadioText_688"] = "",
+    ["DictKey_subtitle_613"] = "APPROACH: Weasel flight、アプローチ。レーダーコンタクト。5000まで降下し、5マイル手前で報告。滑走路28へのビジュアルアプローチを予定。",
+    ["DictKey_ActionText_891"] = "任務を終えたあと、いつものようにTallyと一緒に各フェーズを振り返り、映像やメモを見ながらパフォーマンスを検討した。\
+\
+進入中は特に話すこともなかったが、唯一挙げるなら、シリア軍のFencerがAt Tanfの工場群をロケットで攻撃していた件だ。交戦規定（ROE）は明確で、Pokerやこちらの編隊にできることは何もなかった。\
+\
+その後、オンステーションに到着。Ghostにチェックインする前に、TallyがBishop方面へ向かう4両の敵車列を発見した。\
+\
+編隊として同時に攻撃する判断を下し、双方で車列の先頭と最後尾のテクニカルを狙った。これによって敵の動きを封じ、機銃掃射で迅速に殲滅することができた。この選択が最善だったとTallyとも意見が一致した。（15ポイント獲得）\
+\
+続いてGhostにチェックイン。彼からは魅力的な目標リストが提示された。Tallyはオリーブの木々に紛れていた敵APCをGBU-38で攻撃し、あなたはGBU-12で戦車を破壊する任務を受けた。CLAの戦車乗員に先手を打たれないよう、緊密に連携して攻撃を試みたが、タイミングが合わず、戦車は移動してしまったあとだった。（10ポイント獲得）\
+\
+三つ目の目標は軽く防御された弾薬庫で、特に問題なく、編隊で初回のアプローチで効率よく破壊した。（15ポイント獲得）\
+\
+その後、基地へ帰還し着陸。（5ポイント）",
+    ["DictKey_ActionText_145"] = "",
+    ["DictKey_ActionRadioText_960"] = "",
+    ["DictKey_ActionRadioText_526"] = "2. 繰り返してくれ",
+    ["DictKey_ActionText_1071"] = "",
+    ["DictKey_ActionText_857"] = "",
+    ["DictKey_ActionText_445"] = "",
+    ["DictKey_ActionText_518"] = "攻撃進入を開始したことをGHOSTに報告するにはスペースバーを押せ。",
+    ["DictKey_ActionText_998"] = "F10無線メニューで、帰還中に空中給油を行うか、直接RTBするかを選択せよ。",
+    ["DictKey_subtitle_1166"] = "PLAYER: Weasel 31チェックイン、F-16二機編隊、BISHOPの南10マイル、兵装はGBU-12が2発、GBU-38が2発、AGM-65Dが2発、guns、滞空時間0+30、アボートコードはRhino、任務可能。",
+    ["DictKey_subtitle_52"] = "PLAYER: Two、ガンで攻撃！",
+    ["DictKey_subtitle_54"] = "WEASEL 32（TALLY）: Weasel 32。",
+    ["DictKey_subtitle_258"] = "WEASEL 32（TALLY）: Weasel 32、爆弾投下、インパクトまで70秒。",
+    ["DictKey_subtitle_254"] = "PLAYER: Ghost、Weasel 31、南からイン。",
+    ["DictKey_ActionText_689"] = "",
+    ["DictKey_ActionText_862"] = "",
+    ["DictKey_subtitle_377"] = "GHOST: Weasel 31、復唱良好。500ポンド級の兵装を南から北の進入で1発使用せよ。AAAとMANPADの脅威は変わらず。目標エリアは、2階建ての四角い建物の中庭にある弾薬箱とトラックだ。",
+    ["DictKey_ActionRadioText_1036"] = "チャンネル設定",
+    ["DictKey_subtitle_657"] = "GHOST: ラジャー、Wizardに伝える。",
+    ["DictKey_ActionRadioText_431"] = "2. 繰り返してくれ",
+    ["DictKey_ActionRadioText_69"] = "",
+    ["DictKey_subtitle_621"] = "PLAYER: Weasel 31、Towerへ切り替え。",
+    ["DictKey_ActionRadioText_674"] = "1. 任務継続可能",
+    ["DictKey_ActionRadioText_65"] = "Bearが攻撃",
+    ["DictKey_subtitle_983"] = "WIZARD: Weasel 31、全て了解。メッセージ4 Alphaをクローズ。",
+    ["DictKey_subtitle_749"] = "",
+    ["DictKey_ActionRadioText_1083"] = "2. トークオンを要請",
+    ["DictKey_ActionText_860"] = "",
+    ["DictKey_subtitle_10"] = "WEASEL 21（POKER）: Wizard、Weasel 21、QUEENでオンステーション。",
+    ["DictKey_ActionText_756"] = "",
+    ["DictKey_subtitle_417"] = "WEASEL 32（TALLY）: Two、目標確認。中庭の北にテクニカル2両と、弾薬箱のそばに武装した敵複数を確認。",
+    ["DictKey_subtitle_194"] = "GHOST: Weasel flight、こちらGhost。私は空軍作戦センターから遠隔で管制しているJTACだ。監視にはUAVを1機使用している。ブレイク、我々はType 2 コントロールで実施する。BISHOP内に複数のISIS目標を確認しており、戦車、APC、トラック数両、武装検問所、弾薬庫が含まれる。AO内には軽・中口径のAAA報告あり。ただし視認はされていない。最初の攻撃は戦車とAPCへの同時攻撃とする。攻撃体勢に入り、9ライン受信準備ができたら知らせよ。",
+    ["DictKey_ActionText_432"] = "",
+    ["DictKey_ActionRadioText_109"] = "両機攻撃",
+    ["DictKey_ActionText_132"] = "",
+    ["DictKey_subtitle_172"] = "PLAYER: Tally、最初にお前がGBU-38でAPCを叩け。俺が後ろにつく。もし戦車が動き出してもPavewayで仕留める。Fighter to Fighterの準備はいいか？",
+    ["DictKey_subtitle_741"] = "PLAYER: One、準備完了、タワーへコンタクトする。",
+    ["DictKey_ActionText_976"] = "",
+    ["DictKey_ActionText_107"] = "",
+    ["DictKey_ActionRadioText_1161"] = "2. ウィングマンがGBU-38で攻撃",
+    ["DictKey_ActionRadioText_1011"] = "2. 空中給油後にRTBせよ",
+    ["DictKey_subtitle_805"] = "",
+    ["DictKey_ActionRadioText_147"] = "",
+    ["DictKey_subtitle_270"] = "GHOST: Weasel 31、Ghost、警告。目標が現在移動中、南へ向かっている。",
+    ["DictKey_ActionRadioText_942"] = "2. トークオンを要請",
+    ["DictKey_ActionRadioText_452"] = "",
+    ["DictKey_ActionText_345"] = "",
+    ["DictKey_ActionText_142"] = "",
+    ["DictKey_ActionText_648"] = "ミッション完了。",
+    ["DictKey_ActionRadioText_1013"] = "",
+    ["DictKey_ActionText_288"] = "",
+    ["DictKey_ActionRadioText_462"] = "1. PLAYERがGBU-12で攻撃",
+    ["DictKey_subtitle_150"] = "WEASEL 32（TALLY）: Two、テクニカル前後各1両を確認、HMG搭載、中央にカーゴトラックが3両。",
+    ["DictKey_subtitle_477"] = "",
+    ["DictKey_ActionRadioText_73"] = "両機攻撃",
+    ["DictKey_subtitle_775"] = "PLAYER: よし、あと20マイル。BISHOPにセンサー向けろ。ウェイポイント3をIPとして使う。",
+    ["DictKey_subtitle_931"] = "WEASEL 32（TALLY）: Ghost、Weasel 32、ラジャー、目標AlphaをGBU-38で攻撃。",
+    ["DictKey_ActionRadioText_1125"] = "",
+    ["DictKey_subtitle_539"] = "PLAYER: Weasel 31 flight、滞空時間終了、BISHOPでの任務完了。RTBを希望。",
+    ["DictKey_ActionText_143"] = "",
+    ["DictKey_ActionRadioText_68"] = "",
+    ["DictKey_ActionRadioText_1133"] = "",
+    ["DictKey_subtitle_771"] = "PLAYER: One、フェンスイン。",
+    ["DictKey_subtitle_825"] = "WEASEL 21（POKER）: Wizard、Weasel 21、ウィルコ。",
+    ["DictKey_ActionRadioText_322"] = "",
+    ["DictKey_ActionRadioText_434"] = "",
+    ["DictKey_ActionRadioText_433"] = "",
+    ["DictKey_subtitle_222"] = "PLAYER: Ghost、Weasel 31、今のをもう一度。",
+    ["DictKey_subtitle_405"] = "GHOST: Weasel 32、続行せよ。",
+    ["DictKey_subtitle_809"] = "WEASEL 21（POKER）: Wizard、Weasel 21、FENCERがブルズ190の75でロケット攻撃中。",
+    ["DictKey_ActionRadioText_63"] = "1. 両機攻撃",
+    ["DictKey_ActionRadioText_430"] = "1. 復唱",
+    ["DictKey_subtitle_409"] = "GHOST: Weasel 32、クリアードホット。",
+    ["DictKey_ActionRadioText_1075"] = "フェンスイン",
+    ["DictKey_subtitle_751"] = "PLAYER: タワー、Weasel 31、ナンバー2、28。",
+    ["DictKey_subtitle_801"] = "WEASEL 21（POKER）: Wizard、Weasel 21、ポップアップグループを報告、ブルズアイ215の65、9000、南東にトラック。",
+    ["DictKey_ActionRadioText_117"] = "PLAYERが攻撃",
+    ["DictKey_subtitle_521"] = "GHOST: Weasel 31、目標は静止中、元の位置から南東に約400メートル移動、グリッドはDU 8875 5962。",
+    ["DictKey_subtitle_516"] = "PLAYER: Weasels、行くぞ！",
+    ["DictKey_subtitle_641"] = "PLAYER: Weasel 31、Towerへ切り替え。",
+    ["DictKey_ActionRadioText_108"] = "",
+    ["DictKey_ActionText_1069"] = "",
+    ["DictKey_ActionText_635"] = "King Faisal TOWERに切り替えろ。\
+スペースバーを押してこのメッセージを消去。",
+    ["DictKey_ActionRadioText_941"] = "",
+    ["DictKey_subtitle_208"] = "GHOST 51: Weasel 31、Ghost 51、GBU-12を南から北の進入で1発要求。脅威：AO南部にAAA報告あり、市内にMANPADの可能性。備考：モスクが南東100メートルに存在。",
+    ["DictKey_subtitle_407"] = "WEASEL 32（TALLY）: Weasel 32、南からイン。",
+    ["DictKey_ActionRadioText_427"] = "1. 復唱",
+    ["DictKey_ActionRadioText_487"] = "ビンゴ報告",
+    ["DictKey_subtitle_623"] = "PLAYER: King Faisal Tower、Weasel 31、2機編隊、滑走路28への5マイル初期進入、フルストップ。",
+    ["DictKey_ActionText_297"] = "",
+    ["DictKey_subtitle_122"] = "PLAYER: One、ライフル！",
+    ["DictKey_ActionRadioText_348"] = "2. 繰り返してくれ",
+    ["DictKey_subtitle_629"] = "TOWER: Weasel 31、Tower、滑走路を離脱後、シェルター1と6へ。",
+    ["DictKey_ActionText_78"] = "",
+    ["DictKey_subtitle_833"] = "WIZARD: ラジャー。ピクチャークリーン、BISHOP北にMEATBALL確認済。REAPER 31がBISHOPにオンステーション。Blackbird 63が西側ブロック200〜240、Blackbird 65がKING付近、ブロック180〜200を担当。TexacoはZuluトラック上。",
+    ["DictKey_ActionText_1142"] = "",
+    ["DictKey_ActionText_1028"] = "［PRIチャンネル6へプッシュ］",
+    ["DictKey_ActionRadioText_1031"] = "",
+    ["DictKey_ActionRadioText_457"] = "1. PLAYERがGBU-12で攻撃",
+    ["DictKey_ActionText_901"] = "任務を終えたあと、いつものようにTallyと一緒に各フェーズを振り返り、映像やメモを見ながらパフォーマンスを検討した。\
+\
+進入中は特に話すこともなかったが、唯一挙げるなら、シリア軍のFencerがAt Tanfの工場群をロケットで攻撃していた件だ。交戦規定（ROE）は明確で、Pokerやこちらの編隊にできることは何もなかった。\
+\
+その後、オンステーションに到着。Ghostにチェックインする前に、TallyがBishop方面へ向かう4両の敵車列を発見した。\
+\
+編隊として同時に攻撃する判断を下し、双方で車列の先頭と最後尾のテクニカルを狙った。これにより敵の動きを封じ、機銃掃射で迅速に目標を排除することができた。この判断が最善だったとTallyとも意見が一致した。（15ポイント獲得）\
+\
+続いてGhostにチェックイン。彼からは魅力的な目標リストが提示された。Tallyはオリーブの木々に紛れていた敵APCをGBU-38で攻撃し、あなたはGBU-12で戦車を破壊する任務を受けた。CLAの戦車乗員に先手を打たれないよう、緊密に連携して攻撃を試みたが、タイミングが合わず、戦車は移動してしまったあとだった。（10ポイント獲得）\
+\
+三つ目の目標は軽く防御された弾薬庫だったが、爆撃に失敗し、Tallyに援護を要請。彼女はGBU-38でこれを破壊することに成功した。（10ポイント獲得）\
+\
+その後、基地へ帰還し着陸。（5ポイント）",
+    ["DictKey_ActionText_887"] = "任務を終えたあと、いつものようにTallyと一緒に各フェーズを振り返り、映像やメモを見ながらパフォーマンスを検討した。\
+\
+進入中は特に話すこともなかったが、唯一挙げるなら、シリア軍のFencerがAt Tanfの工場群をロケットで攻撃していた件だ。交戦規定（ROE）は明確で、Pokerやこちらの編隊にできることは何もなかった。\
+\
+その後、オンステーションに到着。Ghostにチェックインする前に、TallyがBishop方面へ向かう4両の敵車列を発見した。\
+\
+編隊として同時に攻撃する判断を下し、双方で車列の先頭と最後尾のテクニカルを狙った。これによって敵の足を止め、機銃掃射による迅速な掃討が可能となった。Tallyとも、この判断が最善だったと意見が一致した。（15ポイント獲得）\
+\
+続いてGhostにチェックイン。彼からは魅力的な目標リストが提示された。Tallyはオリーブの木々に紛れていた敵APCをGBU-38で攻撃し、あなたはGBU-12で戦車を破壊する任務を受けた。CLAの戦車乗員に先手を打たれないよう、緊密に連携して攻撃を行った。結果は上々で、敵が反応する前に戦車は破壊された。（15ポイント獲得）\
+\
+三つ目の目標は軽く防御された弾薬庫で、特に問題なく、編隊で初回のアプローチで効率よく破壊した。（15ポイント獲得）\
+\
+その後、基地へ帰還し着陸。（5ポイント）",
+    ["DictKey_ActionText_438"] = "F10無線メニューを使用：\
+A. GHOSTのリマークを復唱\
+B. GHOSTにリマークの繰り返しを要求",
+    ["DictKey_subtitle_403"] = "WEASEL 32（TALLY）: Ghost、Weasel 32、IP進入中。",
+    ["DictKey_subtitle_236"] = "PLAYER: Ghost、ラジャー。両目標とも民家に近接しているように見える。この攻撃にRed Crownの承認は出ているか確認願う。",
+    ["DictKey_subtitle_615"] = "PLAYER: Weasel 31、5000まで降下、5マイル前で報告、滑走路28へのビジュアルアプローチ。",
+    ["DictKey_ActionText_939"] = "Bishopの北東5マイルにいる道路上の車列を探せ。\
+F10無線メニューで視認を報告するか、Tallyにトークオンを要請せよ。",
+    ["DictKey_subtitle_565"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_subtitle_829"] = "WIZARD: ラジャー、Weasel 31。行動予定を送れ。",
+    ["DictKey_ActionText_690"] = "PRIチャンネル4へプッシュ、準備ができたらスペースバーを押せ。",
+    ["DictKey_subtitle_909"] = "WEASEL 32（TALLY）: 車列はBISHOPから北北東に伸びる道路上。追えば見えるはずだ。",
+    ["DictKey_ActionRadioText_460"] = "",
+    ["DictKey_subtitle_188"] = "PLAYER: Weasel 31チェックイン、F-16二機編隊、BISHOPの南10マイル、兵装はGBU-12が2発、GBU-38が2発、AGM-65Dが1発、guns、滞空時間0+30、アボートコードRhino、任務可能。",
+    ["DictKey_ActionText_341"] = "F10無線メニューを使用：\
+A. GHOSTの9ラインを復唱\
+B. GHOSTに9ラインの繰り返しを要求",
+    ["DictKey_subtitle_40"] = "PLAYER: 俺が先頭車両、後ろはお前だ。Fighter to Fighterの準備を。",
+    ["DictKey_subtitle_601"] = "[ATIS情報] King Faisal空軍基地、インフォメーションUniform、時刻03:55。風310度12ノット、視程10マイル以上、雲量スキャッタード19000フィート、気温24度、気圧30.02。使用滑走路28、ビジュアルアプローチ予想。Uniformを受信したことを伝えること。",
+    ["DictKey_ActionRadioText_326"] = "1. 復唱",
+    ["DictKey_subtitle_911"] = "PLAYER: まだ補足できていない。",
+    ["DictKey_subtitle_34"] = "PLAYER: ラジャー、確認中。",
+    ["DictKey_subtitle_874"] = "WIZARD: Weasel 31、Wizard、ラジャー。ターゲティングメッセージ4 Alpha受領。攻撃許可する。",
+    ["DictKey_subtitle_841"] = "COWBOY 21: Cowboy 21。",
+    ["DictKey_ActionRadioText_1045"] = "チャンネル設定",
+    ["DictKey_subtitle_60"] = "PLAYER: よくやった、Weasels。IPに戻れ。",
+    ["DictKey_ActionText_520"] = "",
+    ["DictKey_subtitle_659"] = "PLAYER: Weasel、プッシュ4。",
+    ["DictKey_ActionText_317"] = "IPに戻れ。GHOSTへのチェックイン準備ができたらスペースバーを押せ。",
+    ["DictKey_subtitle_760"] = "PLAYER: 左旋回してROOKへ。",
+    ["DictKey_ActionText_429"] = "F10無線メニューを使用：\
+A. GHOSTからの最新情報を確認したと伝える\
+B. GHOSTにグリッドの繰り返しを要求",
+    ["DictKey_subtitle_178"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_subtitle_224"] = "PLAYER: Ghost、Weasel 31、復唱、標高1574フィート、Delta Uniform 879 605、脅威なし、リマークの準備完了。",
+    ["DictKey_subtitle_80"] = "PLAYER: Two、高高度でカバーに入ってくれ。俺が車列を叩く。Fighter to Fighterの準備。",
+    ["DictKey_ActionRadioText_1055"] = "チャンネル設定",
+    ["DictKey_subtitle_12"] = "WIZARD: Weasel 21、Wizard、ラジャー。状況はクリア。",
+    ["DictKey_ActionRadioText_458"] = "",
+    ["DictKey_subtitle_32"] = "WEASEL 32（TALLY）: 警戒、車列を確認。BISHOPの北東およそ5マイルの道路上。",
+    ["DictKey_subtitle_375"] = "PLAYER: Ghost、Weasel 31、今のをもう一度教えてくれ。",
+    ["DictKey_subtitle_36"] = "PLAYER: 武装車両2両をそれぞれマーベリックで叩いて、その後ガンで掃討する。",
+    ["DictKey_ActionText_546"] = "",
+    ["DictKey_subtitle_845"] = "WIZARD: Weasel 21、Wizard、ラジャー。Picture clean。",
+    ["DictKey_subtitle_767"] = "PLAYER: Weasel 31 flight、フェンスイン。",
+    ["DictKey_descriptionBlueTask_3"] = "King Faisal空軍基地、2014年11月13日、現地時刻 05:15  \
+Weasel 31編隊に対するCHAOS（フライトリード）によるブリーフィング\
+\
+［スライド4：フライト概要］  \
+本日はGHOSTのコントロール下で、またしても“いつもの”SCAR任務を実施する。GHOSTはどこかのバーガー屋から遠隔で指示してくるJTACで、おそらくROVER付きのUAVを使って現地を把握しているはずだ。編成は以下の通り：  \
+私がWEASEL 3のフライトリードを務める。TALLY、お前は3-2だ。装備はAGM-65を1発、GBU-38を2発、増槽3本とターゲティングポッド。私もほぼ同じ構成だが、GBU-12を2発搭載している。\
+\
+［スライド5：天候］  \
+夜明けに離陸する予定で、天候は良好。雲は少なく、風は北東からの微風。\
+\
+［スライド6：出発］  \
+私の機体は91-356で、掩体壕12番。TALLYは隣の11番で91-358だ。  \
+この基地には地上周波数がないので、まずCH2（277.0）でATISを受信し、その後CH3（250.1）でタワーへコンタクトする。無線チェックは最初の周波数で実施。すべてのプリセットはニーボードに記載済み。  \
+TALLY、お前のアンチコリジョンライトは番号1、私は番号3を使用する。離陸滑走路は28を想定。POKERが率いる別編隊も同時刻に出発予定で、彼らが先にタキシーを開始しても問題はない。その場合は後ろについて順番通り進め。\
+\
+［スライド4：フライト概要に戻る］  \
+H4を出て北東へ進み、18,000フィートまで上昇。作戦空域（AO）「Bishop」に向かう。  \
+他の味方編隊もQueenとKing周辺でSCAR任務を行っている。AI進入前にWizardに連絡し、状況の更新がないか確認する。WP3でアンカーし、そこが本日のブルズアイでもある。AOの状況を確認し、問題なければCH6でGhostにコンタクト。\
+\
+［スライド7：Bishop］  \
+BishopはAs Sukhnahという小さな町を中心とするエリアで、現在は完全にISISに占拠されている。インテルによると民間人のほとんどは既に避難しており、敵はこの地域を訓練および補給拠点として利用している模様。\
+\
+［スライド8：Bishop グリッド］  \
+As Sukhnahの衛星画像をグリッドに分割したものを提示。この画像はニーボードにも収録されているので、常に確認できるようにしておけ。町内にはいくつかモスクがあるため、Ghostと協力して、必要がなければそれらに近接した場所への攻撃は避けること。\
+\
+目標については、Bishop内で武装していて人が乗っているものは理論上すべて攻撃対象になりうる。つまりBishopは完全なKILLboxというわけだ。  \
+ただし、Ghostからの指示がない限りは発砲禁止。彼／彼女の指示と管制方式に従って攻撃すること。  \
+質問は？ なければ続ける。\
+\
+ISISはこの手のエリアに大量の対空火器を配置してくる傾向があるので、安全のためハードデッキを16,000フィートに設定しておく。これでMANPADのMEZや中口径AAAの射程外にいられるはずだ。現地の標高はおよそ1,500フィートなので、MSLで18,000と見ておこう。  \
+常にコックピットの外に目を向けておけ。「無敵の口ひげ」に命を預けるなよ。\
+\
+Ghostとの連携は燃料が尽きるか、ウィンチェスターになるまで続ける。初回のVul（攻撃完了）後はTexacoへ戻って給油し、再びBishopへ。2回目の攻撃後はRTB。  \
+スライド4のフライト概要に戻る。\
+\
+［兵装］  \
+状況に応じて柔軟に対応し、Ghostの要請に応じて行動する。GBU-38は静的目標に有効で、GBU-12は柔軟性が高い。雲は薄く、照準に支障は出ない見込み。レーザーコードはニーボードに記載済み。\
+\
+［無線規律］  \
+AUXのCH1を戦術周波数として使用。PRIの各チャンネル間は必要に応じて切り替え。すべての周波数変更と無線チェックは私が指示する。  \
+地上では最初の周波数、もしくはPRIのCH1。次にPRIのCH3でタワーとコンタクト。その後は順に：  \
+CH4（Wizard）  \
+CH5（Texaco）  \
+CH6（Ghost）  \
+CH8（Approach）\
+\
+［スライド4：帰投時ルート］  \
+TexacoはYankeeかZuluトラック上におり、27,000フィートで待機している見込み。Wizardに確認して位置を把握する。RTB時に燃料が足りなければ、各機2,000ポンドずつ補給してからWP7へ。King Faisalのアプローチ周波数は258.3。\
+\
+Ghostとの任務が完了するか、ウィンチェスターになったらRTB。ATOによればStrike Eagleが後続で到着する予定。オーストラリア空軍は引き続きCAP任務を担当中で、今月ずっと継続している。\
+\
+質問は？ なければ出発だ。\
+\
+【BALTIC DRAGONより注意事項】\
+\
+1. GHOSTからの「クリアホット」指示が出るまでは投下しないこと。Tallyが東側から攻撃するように指示された場合は、彼女のポジション取りが完了するまで自機の攻撃は待機すること。  \
+2. 想定任務時間：1時間30分",
+    ["DictKey_subtitle_849"] = "",
+    ["DictKey_ActionRadioText_1035"] = "チャンネル設定",
+    ["DictKey_subtitle_94"] = "WEASEL 32（BEAR）: Weasel 32、攻撃中。",
+    ["DictKey_ActionText_946"] = "",
+    ["DictKey_ActionRadioText_595"] = "空中給油完了",
+    ["DictKey_subtitle_413"] = "GHOST: 直撃、最高だ！",
+    ["DictKey_subtitle_256"] = "GHOST: Weasel 31、クリアードホット、クリアードホット。",
+    ["DictKey_subtitle_724"] = "PLAYER: タワー、Weasel 31、ナンバーワン、28。",
+    ["DictKey_subtitle_944"] = "PLAYER: Weasel 31、車列を確認。",
+    ["DictKey_ActionRadioText_1095"] = "",
+    ["DictKey_subtitle_481"] = "PLAYER: Two、One。ジョーカーだ。",
+    ["DictKey_ActionRadioText_116"] = "両機攻撃",
+    ["DictKey_subtitle_218"] = "PLAYER: Ghost、Weasel 31、準備完了。",
+    ["DictKey_subtitle_819"] = "WIZARD: Weasel 21、Wizard、行動予定を送れ。",
+    ["DictKey_subtitle_22"] = "PLAYER: Thank you, Sir.",
+    ["DictKey_subtitle_655"] = "PLAYER: Ghost 51、Weasel 31、RTBが必要。",
+    ["DictKey_subtitle_696"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_ActionText_953"] = "",
+    ["DictKey_ActionText_368"] = "PLAYER IS IN",
+    ["DictKey_ActionRadioText_529"] = "2. 繰り返してくれ",
+    ["DictKey_ActionText_1050"] = "",
+    ["DictKey_ActionRadioText_1008"] = "",
+    ["DictKey_ActionText_338"] = "",
+    ["DictKey_subtitle_591"] = "WEASEL 32（TALLY）: Two、合流。",
+    ["DictKey_subtitle_401"] = "GHOST: Weasel 31、効果なし、再攻撃を許可する。",
+    ["DictKey_subtitle_977"] = "GHOST: Weasel 32、Ghost、目標Alpha継続せよ。",
+    ["DictKey_subtitle_559"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_ActionRadioText_1141"] = "チャンネル変更",
+    ["DictKey_ActionText_573"] = "",
+    ["DictKey_ActionText_736"] = "",
+    ["DictKey_ActionText_1052"] = "［ATISを確認後、PRIチャンネル8へプッシュ］",
+    ["DictKey_ActionRadioText_964"] = "",
+    ["DictKey_ActionRadioText_1155"] = "1. 復唱",
+    ["DictKey_subtitle_30"] = "PLAYER: ラジャー、確認中。",
+    ["DictKey_subtitle_26"] = "REMOVED",
+    ["DictKey_subtitle_813"] = "WEASEL 21（POKER）: Weasel 21、ウェポンホールド。",
+    ["DictKey_ActionText_344"] = "",
+    ["DictKey_ActionText_289"] = "",
+    ["DictKey_ActionText_456"] = "",
+    ["DictKey_subtitle_617"] = "",
+    ["DictKey_ActionText_323"] = "",
+    ["DictKey_subtitle_933"] = "WEASEL 32（TALLY）: Ghost、Weasel 32、IP進入中、目標Alpha。",
+    ["DictKey_ActionText_899"] = "",
+    ["DictKey_subtitle_979"] = "WEASEL 32（TALLY）: Weasel 32、投下完了。",
+    ["DictKey_ActionRadioText_465"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionRadioText_966"] = "",
+    ["DictKey_subtitle_483"] = "",
+    ["DictKey_ActionText_732"] = "WEASEL 32（TALLY）との無線チェックを行うにはスペースバーを押せ。",
+    ["DictKey_ActionText_889"] = "任務を終えたあと、いつものようにTallyと一緒に各フェーズを振り返り、映像やメモを見ながらパフォーマンスを検討した。\
+\
+進入中は特に話すこともなかったが、唯一挙げるなら、シリア軍のFencerがAt Tanfの工場群をロケットで攻撃していた件だ。交戦規定（ROE）は明確で、Pokerやこちらの編隊にできることは何もなかった。\
+\
+その後、オンステーションに到着。Ghostにチェックインする前に、TallyがBishop方面へ向かう4両の敵車列を発見した。\
+\
+あなたは単独での攻撃を選び、Tallyは上空カバーに回った。ミッション後に振り返ってみると、この方法は二人でほぼ同時にマーベリックを発射する連携攻撃に比べて効果が薄かったと判断された。それでも最終的には敵車両を全て撃破することに成功した。（10ポイント獲得）\
+\
+続いてGhostにチェックイン。彼からは魅力的な目標リストが提示された。Tallyはオリーブの木々に紛れていた敵APCをGBU-38で攻撃し、あなたはGBU-12で戦車を破壊する任務を受けた。CLAの戦車乗員に先手を打たれないよう、緊密に連携して攻撃を行った。結果は上々で、敵が反応する前に戦車は破壊された。（15ポイント獲得）\
+\
+三つ目の目標は軽く防御された弾薬庫で、特に問題なく、編隊で初回のアプローチで効率よく破壊した。（15ポイント獲得）\
+\
+その後、基地へ帰還し着陸。（5ポイント）",
+    ["DictKey_ActionText_858"] = "［PRIチャンネル4へプッシュ］",
+    ["DictKey_ActionText_137"] = "",
+    ["DictKey_ActionRadioText_299"] = "2. 繰り返してくれ",
+    ["DictKey_ActionText_1183"] = "任務を終えたあと、いつものようにTallyと一緒に各フェーズを振り返り、映像やメモを見ながらパフォーマンスを検討した。\
+\
+進入中は特に話すこともなかったが、唯一挙げるなら、シリア軍のFencerがAt Tanfの工場群をロケットで攻撃していた件だ。交戦規定（ROE）は明確で、Pokerやこちらの編隊にできることは何もなかった。\
+\
+その後、オンステーションに到着。Ghostにチェックインする前に、TallyがBishop方面へ向かう4両の敵車列を発見した。\
+\
+しかし、車列への攻撃には失敗し、敵はそのまま市街地へ到達してしまった。（10ポイント減点）\
+\
+続いてGhostにチェックイン。彼からは魅力的な目標リストが提示された。Tallyはオリーブの木々に紛れていた敵APCをGBU-38で攻撃し、あなたはGBU-12で戦車を破壊する任務を受けた。CLAの戦車乗員に先手を打たれないよう、緊密に連携して攻撃を試みたが、タイミングが合わず、戦車は移動してしまったあとだった。（10ポイント獲得）\
+\
+三つ目の目標は軽く防御された弾薬庫だったが、爆撃に失敗し、Tallyに援護を要請。彼女はGBU-38でこれを破壊することに成功した。（10ポイント獲得）\
+\
+その後、基地へ帰還し着陸。（5ポイント）",
+    ["DictKey_ActionRadioText_459"] = "",
+    ["DictKey_ActionText_284"] = "",
+    ["DictKey_subtitle_935"] = "PLAYER: Ghost、Weasel 31 flightはウィンチェスター、攻撃不能。",
+    ["DictKey_subtitle_16"] = "WIZARD: Weasel 31、幸運を祈る。",
+    ["DictKey_ActionRadioText_950"] = "",
+    ["DictKey_subtitle_851"] = "",
+    ["DictKey_subtitle_313"] = "WIZARD: Cowboy 21、Wizard、Weasel 21がそのエリアを作戦中。ボタン5へプッシュして待機せよ。",
+    ["DictKey_subtitle_48"] = "PLAYER: Weasel 31、目標撃破！",
+    ["DictKey_ActionRadioText_1084"] = "2. 見えない、トークオンを要請",
+    ["DictKey_ActionRadioText_1057"] = "チャンネル設定",
+    ["DictKey_subtitle_597"] = "PLAYER: Weasels、King FaisalのATISを取って、ボタン8へ。",
+    ["DictKey_subtitle_391"] = "GHOST: Weasel 31、続行せよ。",
+    ["DictKey_ActionRadioText_731"] = "",
+    ["DictKey_subtitle_104"] = "WEASEL 32（BEAR）: ラジャー。",
+    ["DictKey_subtitle_762"] = "PLAYER: Wizardへのチェックイン待機。",
+    ["DictKey_subtitle_82"] = "WEASEL 32（TALLY）: Weasel 32。",
+    ["DictKey_ActionRadioText_969"] = "トークオンを要請",
+    ["DictKey_subtitle_90"] = "PLAYER: ラジャー。IPに戻る。",
+    ["DictKey_ActionRadioText_1044"] = "チャンネル設定",
+    ["DictKey_ActionRadioText_330"] = "2. 繰り返してくれ",
+    ["DictKey_ActionText_744"] = "",
+    ["DictKey_ActionText_285"] = "",
+    ["DictKey_ActionText_1018"] = "",
+    ["DictKey_subtitle_226"] = "GHOST: Weasel 31、Ghost 51、GBU-38を東から西への進入で1発要求。脅威は9ラインAlphaと同様。",
+    ["DictKey_subtitle_246"] = "PLAYER: Ghost、Weasel 31、ターゲットAlphaに向けてIP進入中。",
+    ["DictKey_subtitle_18"] = "PLAYER: Thank you, Sir。",
+    ["DictKey_ActionText_1177"] = "任務を終えたあと、いつものようにTallyと一緒に各フェーズを振り返り、映像やメモを見ながらパフォーマンスを検討した。\
+\
+進入中は特に話すこともなかったが、唯一挙げるなら、シリア軍のFencerがAt Tanfの工場群をロケットで攻撃していた件だ。交戦規定（ROE）は明確で、Pokerやこちらの編隊にできることは何もなかった。\
+\
+その後、オンステーションに到着。Ghostにチェックインする前に、TallyがBishop方面へ向かう4両の敵車列を発見した。\
+\
+しかし、車列への攻撃には失敗し、敵はそのまま市街地へ到達してしまった。（10ポイント減点）\
+\
+その後、Ghostにチェックイン。彼からは魅力的な目標リストが提示された。Tallyはオリーブの木々に紛れていた敵APCをGBU-38で攻撃し、あなたはGBU-12で戦車を破壊する任務を受けた。CLAの戦車乗員に先手を打たれないよう、緊密に連携して攻撃を行った。結果は上々で、敵が反応する前に戦車は破壊された。（15ポイント獲得）\
+\
+三つ目の目標は軽く防御された弾薬庫だったが、特に問題なく、編隊で初回のアプローチで効率よく破壊した。（15ポイント獲得）\
+\
+その後、基地へ帰還し着陸。（5ポイント）",
+    ["DictKey_ActionRadioText_1092"] = "2. PLAYERが攻撃",
+    ["DictKey_subtitle_531"] = "PLAYER: Weasel、チェック。",
+    ["DictKey_ActionRadioText_1073"] = "フェンスイン",
+    ["DictKey_ActionText_1058"] = "［PRIチャンネル3へプッシュ］",
+    ["DictKey_ActionRadioText_525"] = "1. 復唱",
+    ["DictKey_subtitle_102"] = "PLAYER: よくやった、Two。ウェイポイント3に戻れ。",
+    ["DictKey_ActionText_1037"] = "［PRIチャンネル4へプッシュ］",
+    ["DictKey_ActionRadioText_584"] = "空中給油完了",
+    ["DictKey_ActionText_450"] = "F10無線メニューを使用：\
+A. 自分がGBU-12で目標を攻撃するとウィングマンに伝える\
+B. GBU-38での攻撃をウィングマンに指示する\
+（※自機で攻撃できない場合でも、ウィングマンへの指示は有効）",
+    ["DictKey_ActionRadioText_1165"] = "2. PLAYERが攻撃",
+    ["DictKey_ActionText_1066"] = "",
+    ["DictKey_subtitle_264"] = "GHOST: Weasel 31、Ghost、1目標へのヒット良好！",
+    ["DictKey_subtitle_385"] = "PLAYER: Ghost、Weasel 31、弾薬庫を確認。",
+    ["DictKey_subtitle_220"] = "GHOST: Weasels、Ghost、9ラインBravo、次の通り：354 オフセットは西、9.5、標高1574フィート、目標はAPC、グリッド 37 Sierra Delta Uniform 879 605、ノーマーク、脅威なし、離脱方向は東。",
+    ["DictKey_subtitle_799"] = "WIZARD: Weasel 21、Wizard、送れ。",
+    ["DictKey_ActionRadioText_1049"] = "チャンネル設定",
+    ["DictKey_ActionText_365"] = "",
+    ["DictKey_subtitle_702"] = "WEASEL 32（TALLY）: Two、タクシー準備完了。",
+    ["DictKey_ActionRadioText_353"] = "",
+    ["DictKey_ActionText_863"] = "準備ができたらスペースバーを押してWizardにチェックインせよ。",
+    ["DictKey_ActionText_1144"] = "",
+    ["DictKey_ActionText_280"] = "",
+    ["DictKey_ActionText_141"] = "",
+    ["DictKey_subtitle_671"] = "WIZARD: Weasel 31、Hotel 4へダイレクトで向かえ。",
+    ["DictKey_subtitle_475"] = "GHOST: Weasels、SAM発射！",
+    ["DictKey_subtitle_305"] = "WIZARD: Weasel 31、どうぞ。",
+    ["DictKey_ActionText_140"] = "",
+    ["DictKey_subtitle_907"] = "PLAYER: Two、One、補足できていない、トークオンを要求。",
+    ["DictKey_subtitle_176"] = "PLAYER: Wedge、shooter - shooter、GBU-12とGBU-38、Oneは南から進入、Twoは東から進入、Oneは南へ離脱、Twoは西へ離脱。合図で開始。",
+    ["DictKey_subtitle_168"] = "PLAYER: Two、準備はいいか？",
+    ["DictKey_ActionText_547"] = "",
+    ["DictKey_ActionText_606"] = "",
+    ["DictKey_subtitle_425"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_ActionRadioText_1131"] = "チャンネル変更",
+    ["DictKey_ActionRadioText_290"] = "1. 復唱",
+    ["DictKey_subtitle_24"] = "REMOVED",
+    ["DictKey_ActionRadioText_350"] = "1. 復唱",
+    ["DictKey_ActionRadioText_1164"] = "1. 両機攻撃",
+    ["DictKey_ActionText_880"] = "",
+    ["DictKey_ActionRadioText_949"] = "",
+    ["DictKey_ActionRadioText_451"] = "",
+    ["DictKey_subtitle_128"] = "",
+    ["DictKey_subtitle_192"] = "GHOST: Weasel 31、Ghost、ラジャー。BISHOPの最新情報を送るので待機。",
+    ["DictKey_subtitle_704"] = "PLAYER: ラジャー、待機。",
+    ["DictKey_ActionRadioText_955"] = "",
+    ["DictKey_subtitle_74"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_subtitle_493"] = "PLAYER: Ghost、了解。共に飛べて光栄だった。",
+    ["DictKey_ActionText_869"] = "フェンスイン。準備ができたらスペースバーを押せ。",
+    ["DictKey_ActionText_335"] = "2つ目の9ラインを受ける準備ができたらスペースバーを押せ。",
+    ["DictKey_subtitle_276"] = "PLAYER: Weasel 31、9ライン受信準備完了。",
+    ["DictKey_ActionText_583"] = "",
+    ["DictKey_ActionRadioText_327"] = "2. 繰り返してくれ",
+    ["DictKey_ActionText_893"] = "任務を終えたあと、いつものようにTallyと一緒に各フェーズを振り返り、映像やメモを見ながらパフォーマンスを検討した。\
+\
+進入中は特に話すこともなかったが、唯一挙げるなら、シリア軍のFencerがAt Tanfの工場群をロケットで攻撃していた件だ。交戦規定（ROE）は明確で、Pokerやこちらの編隊にできることは何もなかった。\
+\
+その後、オンステーションに到着。Ghostにチェックインする前に、TallyがBishop方面へ向かう4両の敵車列を発見した。\
+\
+編隊として同時に攻撃する判断を下し、双方で車列の先頭と最後尾のテクニカルを狙った。これによって敵の動きを封じ、機銃掃射で迅速に殲滅することができた。この選択が最善だったとTallyとも意見が一致した。（15ポイント獲得）\
+\
+続いてGhostにチェックイン。彼からは魅力的な目標リストが提示された。Tallyはオリーブの木々に紛れていた敵APCをGBU-38で攻撃し、あなたはGBU-12で戦車を破壊する任務を受けた。CLAの戦車乗員に先手を打たれないよう、緊密に連携して攻撃を行った。結果は上々で、敵が反応する前に戦車は破壊された。（15ポイント獲得）\
+\
+三つ目の目標は軽く防御された弾薬庫だったが、爆撃に失敗し、Tallyに援護を要請。彼女はGBU-38でこれを破壊することに成功した。（10ポイント獲得）\
+\
+その後、基地へ帰還し着陸。（5ポイント）",
+    ["DictKey_ActionText_135"] = "SHOT",
+    ["DictKey_subtitle_555"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_ActionText_530"] = "",
+    ["DictKey_ActionText_282"] = "COM1のチャンネル6へプッシュ。\
+準備ができたらスペースバーを押せ。",
+    ["DictKey_ActionRadioText_1147"] = "フェンスアウト",
+    ["DictKey_subtitle_503"] = "GHOST: ラジャー、Cowboy 21。私は空軍作戦センターから遠隔で任務中のJTACで、UAVを1機使用している。ブレイク、Type 2 コントロールで実施、IPはBISHOPの南10マイル。Weasel 31がいくつか目標を掃除してくれたが、まだ残りがある。残る目標は検問所、複数のトラック、燃料拠点、中口径AAAなど。最初の目標はAAA。",
+    ["DictKey_ActionRadioText_605"] = "",
+    ["DictKey_subtitle_6"] = "PLAYER: よし、あと20マイル。BISHOPにセンサー向けろ。ウェイポイント3をIPとして使う。",
+    ["DictKey_subtitle_50"] = "WEASEL 32（TALLY）: Weasel 32、命中良好！",
+    ["DictKey_subtitle_663"] = "WEASEL 32（TALLY）: Weasel 32。",
+    ["DictKey_ActionRadioText_1077"] = "2. トークオンを要請",
+    ["DictKey_ActionText_138"] = "",
+    ["DictKey_subtitle_272"] = "GHOST: Weasel flight、命中良好、目標は撃破済み。次の目標がある。9ラインCharlieの準備ができたら知らせてくれ。",
+    ["DictKey_ActionText_467"] = "IPから進入中であることをGHOSTに報告するにはスペースバーを押せ。",
+    ["DictKey_ActionText_358"] = "",
+    ["DictKey_ActionText_881"] = "",
+    ["DictKey_subtitle_543"] = "PLAYER: Wizard、Weasel 31、了解。",
+    ["DictKey_ActionRadioText_291"] = "2. 繰り返してくれ",
+    ["DictKey_ActionRadioText_1022"] = "",
+    ["DictKey_subtitle_837"] = "COWBOY 21: Wizard、Cowboy 21チェックイン、QUEENへ向かう途中。",
+    ["DictKey_ActionText_136"] = "",
+    ["DictKey_ActionText_1117"] = "",
+    ["DictKey_ActionRadioText_1040"] = "",
+    ["DictKey_ActionRadioText_1079"] = "",
+    ["DictKey_ActionRadioText_113"] = "Bearが攻撃",
+    ["DictKey_subtitle_563"] = "PLAYER: Weasels、高度15000（エンジェルス15）まで降下、ウェイポイント7へ。",
+    ["DictKey_subtitle_919"] = "WEASEL 32（TALLY）: Weasel 32、車両が停止、敵兵が車両から降りて散開中。",
+    ["DictKey_ActionRadioText_463"] = "2. ウィングマンがGBU-38で攻撃",
+    ["DictKey_subtitle_379"] = "PLAYER: Ghost、Weasel 31、GBU 1発、南から北の進入で了解。",
+    ["DictKey_subtitle_423"] = "PLAYER: Two、One。fighter to fighter：eyeball - shooter、GBU-38、南から進入、東へ離脱。",
+    ["DictKey_ActionRadioText_970"] = "車列を視認",
+    ["DictKey_ActionRadioText_354"] = "",
+    ["DictKey_subtitle_665"] = "PLAYER: Wizard、Weasel 31。",
+    ["DictKey_subtitle_921"] = "WEASEL 32（TALLY）: One、Two、車列が市街地に到達した。",
+    ["DictKey_ActionText_328"] = "F10無線メニューを使用：\
+A. GHOSTのリマークを復唱\
+B. GHOSTにリマークの繰り返しを要求",
+    ["DictKey_ActionText_139"] = "",
+    ["DictKey_subtitle_472"] = "PLAYER: Ghost、ラジャー、待機中。",
+    ["DictKey_subtitle_154"] = "PLAYER: Wedge、shooter - cover、AGM-65、南東から進入、ホイール。",
+    ["DictKey_subtitle_46"] = "WEASEL 32（TALLY）: Weasel 32、ライフル。",
+    ["DictKey_ActionText_294"] = "F10無線メニューを使用：\
+A. GHOSTの9ラインを復唱\
+B. GHOSTに9ラインの繰り返しを要求",
+    ["DictKey_subtitle_303"] = "PLAYER: Wizard、Weasel 31。",
+    ["DictKey_subtitle_252"] = "GHOST: Weasel 32、クリアードホット、クリアードホット、クリアードホット！",
+    ["DictKey_ActionText_962"] = "",
+    ["DictKey_ActionRadioText_1156"] = "2. 繰り返してくれ",
+    ["DictKey_subtitle_720"] = "KING FAISAL TOWER: Weasel 21、離陸許可、滑走路28、風は310から12。",
+    ["DictKey_subtitle_986"] = "WEASEL 32（TALLY）: Two、目標確認。",
+    ["DictKey_subtitle_619"] = "APPROACH: Weasel 31、Towerへ切り替えよ。",
+    ["DictKey_ActionRadioText_110"] = "PLAYERが攻撃",
+    ["DictKey_ActionRadioText_1027"] = "チャンネル設定",
+    ["DictKey_ActionRadioText_1169"] = "2. PLAYERが攻撃",
+    ["DictKey_subtitle_244"] = "GHOST: Weasel 32、Ghost、ターゲットBravoへ続行せよ。",
+    ["DictKey_ActionRadioText_1082"] = "1. 車列を視認",
+    ["DictKey_subtitle_160"] = "PLAYER: One、guns, guns!",
+    ["DictKey_subtitle_383"] = "PLAYER: ラジャー。",
+    ["DictKey_ActionRadioText_951"] = "トークオンを要請",
+    ["DictKey_ActionText_71"] = "",
+    ["DictKey_subtitle_307"] = "PLAYER: WIZARD、ターゲットメッセージ4 Alphaに対するBDA、車両5両撃破。",
+    ["DictKey_ActionComment_293"] = "",
+    ["DictKey_ActionText_362"] = "",
+    ["DictKey_ActionRadioText_321"] = "",
+    ["DictKey_subtitle_399"] = "GHOST: Weasel 31、効果良好、素晴らしい命中だ！",
+    ["DictKey_ActionRadioText_906"] = "PLAYERが攻撃",
+    ["DictKey_ActionText_593"] = "F10メニューを使って空中給油完了を報告するのを忘れるな。",
+    ["DictKey_subtitle_56"] = "WEASEL 32（TALLY）: トラック1台撃破！",
+    ["DictKey_ActionText_645"] = "",
+    ["DictKey_subtitle_722"] = "WEASEL 21（POKER）: タワー、Weasel 21、離陸許可、滑走路28。",
+    ["DictKey_subtitle_8"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_subtitle_789"] = "PLAYER: 俺も聞いてないな。シリア政府とISの両方と戦ってる反体制派かもな。",
+    ["DictKey_subtitle_419"] = "PLAYER: ラジャー。",
+    ["DictKey_subtitle_708"] = "KING FAISAL TOWER: Weasel 21、タワー、滑走路28へタクシーせよ。",
+    ["DictKey_subtitle_773"] = "WEASEL 32（TALLY）: Two、フェンスイン。",
+    ["DictKey_subtitle_505"] = "COWBOY 21: Ghost、Cowboy 21、ラジャー、待機。",
+    ["DictKey_subtitle_186"] = "GHOST: Weasel 31、Ghost、5バイ5で受信中、どうぞ。",
+    ["DictKey_ActionText_737"] = "タキシー準備ができたらスペースバーを押せ。",
+    ["DictKey_subtitle_152"] = "PLAYER: ラジャー、待機。",
+    ["DictKey_ActionText_352"] = "",
+    ["DictKey_descriptionText_1"] = "初展開、30日目\
+\
+［スライド2：ISIS］  \
+第77航空隊のシリアでの最初の1ヶ月がほぼ終わろうとしている。毎日の任務内容は、今日これから実施するものと同様に、SCAR（Strike Coordination And Reconnaissance：攻撃調整および偵察）ミッションが中心だった。  \
+地上戦の状況は大きくは変わっておらず、連合軍による空爆も散発的で、ISISが既に制圧した地域から押し返すには不十分な状態が続いている。  \
+さらに悪いことに、あの連中は依然として複数の戦線でじわじわと勢力を拡大しており、特にシリアのパルミラ周辺での前進が顕著だ。\
+\
+［スライド3：防空網］  \
+体制派（シリア政府軍）に対する我々の基本方針はこれまでと変わっていない。ROE（交戦規定）では、連合軍機に対して直接の脅威となる航空機やSAMサイトに対しては交戦が許可されているが、前回の任務でSA-3サイトを破壊して以降、決定的な行動をとる必要には迫られていない。  \
+とはいえ、上層部が手綱を緩めてくれれば、防空資産を削るフェーズに入れるだろう。最優先はあの忌々しいSA-3だ！",
+    ["DictKey_ActionRadioText_106"] = "両機攻撃",
+    ["DictKey_subtitle_589"] = "WEASEL 32（TALLY）: Two、フェンスアウト。",
+    ["DictKey_ActionText_965"] = "",
+    ["DictKey_ActionText_692"] = "",
+    ["DictKey_sortie_5"] = "M03: Seek and Destroy",
+    ["DictKey_ActionRadioText_975"] = "",
+    ["DictKey_ActionRadioText_943"] = "1. 車列を視認",
+    ["DictKey_ActionText_571"] = "PRIチャンネル5へ切り替え、スペースバーを押して続行。",
+    ["DictKey_subtitle_14"] = "PLAYER: Wizard、Weasel 31、BISHOPに接近中、SCAR開始。",
+    ["DictKey_subtitle_1153"] = "PLAYER: One、フェンスアウト。",
+    ["DictKey_ActionText_865"] = "",
+    ["DictKey_subtitle_58"] = "WEASEL 32（TALLY）: 残り1目標！",
+    ["DictKey_subtitle_507"] = "WEASEL 32（TALLY）: Two、ジョーカー。",
+    ["DictKey_subtitle_587"] = "PLAYER: Weasels、フェンスアウト。",
+    ["DictKey_subtitle_533"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_ActionText_676"] = "F10メニューを使用して応答を選択：\
+- 任務継続可能と伝える\
+- RTBが必要と伝える",
+    ["DictKey_ActionText_471"] = "",
+    ["DictKey_subtitle_698"] = "PLAYER: ラジャー。ATISを取得してPRI 3へ。タクシー準備できたら知らせてくれ。",
+    ["DictKey_subtitle_170"] = "WEASEL 32（TALLY）: アファーム。",
+    ["DictKey_ActionText_968"] = "",
+    ["DictKey_ActionText_868"] = "",
+    ["DictKey_ActionRadioText_995"] = "",
+    ["DictKey_subtitle_88"] = "WEASEL 32（TALLY）: One、Two、効果良好、目標破壊。",
+    ["DictKey_subtitle_162"] = "WEASEL 32（TALLY）: Two、guns, guns!",
+    ["DictKey_subtitle_523"] = "PLAYER: Weasel 31、ラジャー、DU 8875 5962。",
+    ["DictKey_ActionText_366"] = "",
+    ["DictKey_ActionRadioText_474"] = "ビンゴを報告せよ",
+    ["DictKey_ActionRadioText_347"] = "1. 復唱",
+    ["DictKey_ActionRadioText_428"] = "2. 繰り返してくれ",
+    ["DictKey_ActionRadioText_528"] = "1. 復唱",
+    ["DictKey_subtitle_240"] = "PLAYER: Ghost、Weasel 31、了解。待機。",
+    ["DictKey_ActionText_867"] = "",
+    ["DictKey_subtitle_783"] = "WEASEL 32（TALLY）: 国境のすぐ近くだな。",
+    ["DictKey_ActionText_292"] = "",
+    ["DictKey_ActionRadioText_1016"] = "1. 直ちにRTBせよ",
+    ["DictKey_subtitle_817"] = "WEASEL 21（POKER）: Weasel 21、Wizard、ラジャー。Weasel 21はQUEENへ向かう。",
+    ["DictKey_subtitle_1063"] = "PLAYER: Weasel 31。",
+    ["DictKey_ActionText_461"] = "",
+    ["DictKey_subtitle_669"] = "PLAYER: Weasel 31、戦闘損傷あり、最寄りの代替飛行場を要求。",
+    ["DictKey_subtitle_785"] = "PLAYER: ああ。",
+    ["DictKey_subtitle_915"] = "PLAYER: Weasel 31、テクニカルを補足できない。別の目標を撃ってしまった。",
+    ["DictKey_ActionText_337"] = "",
+    ["DictKey_subtitle_190"] = "PLAYER: Weasel 31チェックイン、F-16二機編隊、BISHOPの南10マイル、兵装はGBU-12が2発、GBU-38が2発、guns、滞空時間0+30、アボートコードRhino、任務可能。",
+    ["DictKey_subtitle_509"] = "PLAYER: ラジャー、じゃあ給油に行こう。",
+    ["DictKey_ActionRadioText_997"] = "2. 空中給油後にRTBせよ",
+    ["DictKey_subtitle_553"] = "PLAYER: Weasels、ボタン5へ。",
+    ["DictKey_subtitle_92"] = "PLAYER: Two、俺が上取る。車列への攻撃を許可する。",
+    ["DictKey_subtitle_373"] = "PLAYER: Ghost、Weasel 31、復唱、標高1537フィート、Delta Uniform 89437 60312、脅威なし、リマークの準備完了。",
+    ["DictKey_ActionRadioText_1080"] = "2. トークオンを要請",
+    ["DictKey_subtitle_204"] = "PLAYER: Ghost、Weasel 31、復唱、標高1524フィート、Delta Uniform 88479 59914、脅威なし、リマークの準備完了。",
+    ["DictKey_subtitle_158"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_subtitle_653"] = "PLAYER: Weasel 31、戦闘継続可能。",
+    ["DictKey_subtitle_667"] = "WIZARD: Weasel 31、どうぞ。",
+    ["DictKey_ActionRadioText_963"] = "見えない",
+    ["DictKey_subtitle_184"] = "PLAYER: Ghost、Weasel 31、無線チェック。",
+    ["DictKey_subtitle_198"] = "WEASEL 32（BEAR）: アファーム。",
+    ["DictKey_ActionText_144"] = "",
+    ["DictKey_subtitle_853"] = "WIZARD: Weasel 31、健闘を祈る。",
+    ["DictKey_ActionText_76"] = "正しい周波数に設定し、WIZARDに車列の情報を伝えるためにスペースバーを押せ。",
+    ["DictKey_subtitle_557"] = "PLAYER: Two、Oneは完了。4000まで満タンに。",
+    ["DictKey_ActionText_363"] = "TALLYに攻撃開始を指示するにはスペースバーを押せ。",
+    ["DictKey_subtitle_797"] = "WEASEL 21（POKER）: Wizard、Weasel 21。",
+    ["DictKey_subtitle_791"] = "",
+    ["DictKey_ActionRadioText_971"] = "見えない",
+    ["DictKey_subtitle_561"] = "WEASEL 32（TALLY）: Two、次へ進行可能。",
+    ["DictKey_ActionRadioText_64"] = "2. PLAYERが攻撃",
+    ["DictKey_ActionText_355"] = "",
+    ["DictKey_subtitle_421"] = "PLAYER: Two、One。fighter to fighter：shooter - eyeball、GBU-12、南から進入、東へ離脱。",
+    ["DictKey_subtitle_228"] = "PLAYER: Ghost、Weasel 31、GBU-38、東から西への進入、了解。",
+    ["DictKey_ActionRadioText_437"] = "2. 繰り返してくれ",
+    ["DictKey_ActionRadioText_300"] = "",
+    ["DictKey_ActionText_871"] = "",
+    ["DictKey_ActionText_745"] = "",
+    ["DictKey_subtitle_609"] = "WEASEL 32（TALLY）: Weasel 32。",
+    ["DictKey_subtitle_827"] = "PLAYER: Wizard、Weasel 31、Rookに向けて進入中。",
+    ["DictKey_ActionComment_1143"] = "",
+    ["DictKey_ActionRadioText_454"] = "",
+    ["DictKey_ActionText_444"] = "",
+    ["DictKey_subtitle_250"] = "WEASEL 32（TALLY）: Ghost、Weasel 32、東からイン。",
+    ["DictKey_subtitle_230"] = "GHOST: Weasel flight、復唱良好。ターゲットBravoを視認したら報告を。",
+    ["DictKey_ActionRadioText_682"] = "1. 任務継続可能",
+    ["DictKey_subtitle_537"] = "WIZARD: Weasel 31、どうぞ。",
+    ["DictKey_ActionText_320"] = "",
+    ["DictKey_subtitle_499"] = "GHOST 51: Cowboy 21、こちらGhost、どうぞ。",
+    ["DictKey_subtitle_485"] = "WEASEL 32（TALLY）: One、右へブレイク、フレア！",
+    ["DictKey_ActionRadioText_70"] = "",
+    ["DictKey_ActionRadioText_1026"] = "チャンネル設定",
+    ["DictKey_ActionRadioText_959"] = "1. 車列を視認",
+    ["DictKey_ActionText_878"] = "車列はBishopの北東5NMの道路上にいる。確認したらWizardに報告するためスペースバーを押せ。",
+    ["DictKey_subtitle_882"] = "[ATIS情報] King Faisal Air Base、情報Golf、時刻04:55。風315から12、視程10マイル超。雲散在19,000フィート、気温24、露点-35、気圧30.02。使用滑走路28。ビジュアルアプローチ予想。情報Golf受領を報告せよ。",
+    ["DictKey_subtitle_497"] = "COWBOY 21: Ghost、Cowboy 21。",
+    ["DictKey_subtitle_872"] = "PLAYER: Wizard、Weasel 31、露天地帯に車列を確認。HMG搭載のテクニカル2両と軍用トラック3両、北東からBISHOPへ向かっている。",
+    ["DictKey_ActionRadioText_683"] = "2. RTBが必要",
+    ["DictKey_ActionText_895"] = "",
+    ["DictKey_ActionRadioText_1078"] = "2. 見えない、トークオンを要請",
+    ["DictKey_ActionText_453"] = "",
+    ["DictKey_ActionText_356"] = "",
+    ["DictKey_subtitle_823"] = "WIZARD: ラジャー、Weasel 21。REAPER 11はシステム不調でQUEENから離脱、単独任務となる。ボタン5へプッシュ、接触あれば報告、Red Crown経由で攻撃許可を取る。",
+    ["DictKey_subtitle_174"] = "WEASEL 32（TALLY）: Two、レディ。",
+    ["DictKey_subtitle_238"] = "GHOST: Weasel 31、Ghost、アファーム。指揮官のイニシャルはGolf Hotel。",
+    ["DictKey_ActionText_1019"] = "",
+    ["DictKey_ActionRadioText_1010"] = "1. 直ちにRTBせよ",
+    ["DictKey_subtitle_274"] = "PLAYER: Weasel 31、ラジャー。",
+    ["DictKey_subtitle_585"] = "WEASEL 32（TALLY）: Texacoの左観察ポジションへ合流中。",
+    ["DictKey_ActionText_1015"] = "",
+    ["DictKey_subtitle_625"] = "TOWER: Weasel 31、Tower、着陸許可、滑走路28、風は穏やか。",
+    ["DictKey_subtitle_86"] = "WEASEL 32（TALLY）: Two、テクニカル2両撃破。",
+    ["DictKey_ActionText_972"] = "攻撃開始の準備ができたらスペースバーを押せ。",
+    ["DictKey_ActionRadioText_985"] = "",
+    ["DictKey_subtitle_567"] = "PLAYER: Weasels、Hotel 4のATISを取って、ボタン8へ。",
+    ["DictKey_ActionRadioText_114"] = "PLAYERが攻撃",
+    ["DictKey_subtitle_815"] = "WIZARD: Weasel 21、Wizard、ボギーは南へ旋回、コールド。",
+    ["DictKey_subtitle_631"] = "PLAYER: Tower、Weasel 31、滑走路離脱後、シェルター1と6へ。",
+    ["DictKey_ActionRadioText_1138"] = "",
+    ["DictKey_subtitle_28"] = "WEASEL 32（TALLY）: 警戒、車列を確認。BISHOPの北東およそ5マイルの道路上。",
+    ["DictKey_subtitle_541"] = "WIZARD: ラジャー、Weasels。Texacoは現在トラックYankeeにて給油可能。",
+    ["DictKey_ActionText_1074"] = "",
+    ["DictKey_ActionText_470"] = "",
+    ["DictKey_subtitle_511"] = "PLAYER: Weasel、PRIチャンネル4へプッシュ。",
+    ["DictKey_ActionText_133"] = "",
+    ["DictKey_subtitle_180"] = "PLAYER: Weasel、無線チェック。",
+    ["DictKey_subtitle_769"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_ActionText_446"] = "",
+    ["DictKey_subtitle_212"] = "GHOST: Weasel flight、復唱良好。ターゲットアルファを視認したら報告せよ。",
+    ["DictKey_ActionText_527"] = "F10無線メニューを使用：\
+A. GHOSTの9ラインを復唱\
+B. GHOSTに9ラインの繰り返しを要求",
+    ["DictKey_ActionText_644"] = "",
+    ["DictKey_subtitle_206"] = "PLAYER: Ghost、Weasel 31、今のをもう一度教えてくれ。",
+    ["DictKey_subtitle_847"] = "PLAYER: Wizard、Weasel 31、BISHOP接近中、SCAR開始。",
+    ["DictKey_ActionText_643"] = "",
+    ["DictKey_subtitle_200"] = "PLAYER: Weasel 31、9ライン受信準備完了。",
+    ["DictKey_subtitle_714"] = "KING FAISAL TOWER: Weasel 31、タワー、Weasel 2の後ろに続いて滑走路28へ。",
+    ["DictKey_subtitle_777"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_subtitle_726"] = "KING FAISAL TOWER: Weasel 31、離陸許可、滑走路28、風は310から12。",
+    ["DictKey_subtitle_578"] = "PLAYER: Texaco、Weasel 31、給油ありがとう！",
+    ["DictKey_ActionText_332"] = "戦車をグリッドDelta Uniform 884 598で視認したらスペースバーを押せ。",
+    ["DictKey_subtitle_795"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_ActionRadioText_295"] = "",
+    ["DictKey_ActionText_1179"] = "任務を終えたあと、いつものようにTallyと一緒に各フェーズを振り返り、映像やメモを見ながらパフォーマンスを検討した。\
+\
+進入中は特に話すこともなかったが、唯一挙げるなら、シリア軍のFencerがAt Tanfの工場群をロケットで攻撃していた件だ。交戦規定（ROE）は明確で、Pokerやこちらの編隊にできることは何もなかった。\
+\
+その後、オンステーションに到着。Ghostにチェックインする前に、TallyがBishop方面へ向かう4両の敵車列を発見した。\
+\
+しかし、車列への攻撃には失敗し、敵はそのまま市街地へ到達してしまった。（10ポイント減点）\
+\
+続いてGhostにチェックイン。彼からは魅力的な目標リストが提示された。Tallyはオリーブの木々に紛れていた敵APCをGBU-38で攻撃し、あなたはGBU-12で戦車を破壊する任務を受けた。CLAの戦車乗員に先手を打たれないよう、緊密に連携して攻撃を試みたが、タイミングがうまく合わず、敵戦車は移動してしまった後だった。（10ポイント獲得）\
+\
+三つ目の目標は軽く防御された弾薬庫で、特に問題なく、編隊で初回のアプローチで効率よく破壊した。（15ポイント獲得）\
+\
+その後、基地へ帰還し着陸。（5ポイント）",
+    ["DictKey_ActionRadioText_1081"] = "",
+    ["DictKey_ActionRadioText_948"] = "",
+    ["DictKey_ActionText_302"] = "",
+    ["DictKey_ActionText_680"] = "",
+    ["DictKey_subtitle_649"] = "PLAYER: 被弾！Weasel 31が被弾した！",
+    ["DictKey_ActionRadioText_1051"] = "チャンネル設定",
+    ["DictKey_subtitle_569"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_ActionText_435"] = "",
+    ["DictKey_subtitle_876"] = "PLAYER: Weasel 31。",
+    ["DictKey_ActionRadioText_329"] = "1. 復唱",
+    ["DictKey_ActionRadioText_675"] = "2. RTBが必要",
+    ["DictKey_subtitle_311"] = "COWBOY 21: Wizard、Cowboy 21、QUEENの南10マイルでオンステーション。",
+    ["DictKey_subtitle_639"] = "APPROACH: Weasel 31、Towerへ切り替えよ。",
+    ["DictKey_subtitle_1170"] = "PLAYER: Weasels、King FaisalのATISを取って、ボタン8へ。",
+    ["DictKey_ActionText_441"] = "",
+    ["DictKey_subtitle_611"] = "PLAYER: King Faisalアプローチ、こちらWeasel 3 flight、Golf受信済、滑走路28への進入を要求。",
+    ["DictKey_ActionRadioText_687"] = "",
+    ["DictKey_ActionText_1041"] = "",
+    ["DictKey_ActionRadioText_1090"] = "",
+    ["DictKey_ActionText_866"] = "",
+    ["DictKey_subtitle_387"] = "GHOST: ラジャー、Weasels、進入方向をコールせよ。",
+    ["DictKey_subtitle_807"] = "WEASEL 21（POKER）: Weasel 21、FENCER了解。",
+    ["DictKey_ActionRadioText_1021"] = "",
+    ["DictKey_ActionRadioText_298"] = "1. 復唱",
+    ["DictKey_ActionText_1046"] = "［PRIチャンネル5へプッシュ］",
+    ["DictKey_ActionRadioText_146"] = "",
+    ["DictKey_ActionText_686"] = "",
+    ["DictKey_subtitle_548"] = "PLAYER: Two、上昇してTexacoに向かおう、トラックYankeeだ。",
+    ["DictKey_subtitle_781"] = "PLAYER: ラジャー。",
+    ["DictKey_subtitle_395"] = "GHOST: Weasel 31、クリアードホット。",
+    ["DictKey_ActionRadioText_1061"] = "チャンネル設定",
+    ["DictKey_subtitle_651"] = "GHOST: Weasel 31、状況を報告せよ！",
+    ["DictKey_subtitle_44"] = "PLAYER: Weasel 31、ライフル。",
+    ["DictKey_ActionRadioText_974"] = "",
+    ["DictKey_subtitle_182"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_subtitle_843"] = "WEASEL 21（POKER）: Wizard、Weasel 21、QUEENにオンステーション。",
+    ["DictKey_ActionText_637"] = "King Faisal Towerへコンタクトするにはスペースバーを押せ。",
+    ["DictKey_subtitle_96"] = "WEASEL 32（BEAR）: こちらTwo、テクニカル2両を撃破。",
+    ["DictKey_subtitle_234"] = "GHOST: Weasel flight、コピー、これがターゲットBravoだ。進入方向を報告せよ。",
+    ["DictKey_subtitle_120"] = "PLAYER: One、guns, guns!",
+    ["DictKey_ActionText_319"] = "",
+    ["DictKey_ActionText_66"] = "A. 自分が先頭のAAAを、TALLYが後方のAAAをマーベリックで同時に攻撃するよう指示\
+B. 自分が車列を攻撃している間、TALLYに待機を指示\
+※車両への攻撃にGBU-12を使用するとミッションが失敗する可能性あり",
+    ["DictKey_subtitle_855"] = "PLAYER: ありがとう、Sir。",
+    ["DictKey_subtitle_550"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_subtitle_811"] = "WIZARD: Weasel 21、ラジャー。ROEはウェポンホールド。",
+    ["DictKey_subtitle_803"] = "WIZARD: ラジャー。コンタクト、ブルズアイ215の65、9000、高確率でFENCER。対処不要、スキップしろ。",
+    ["DictKey_subtitle_779"] = "WEASEL 32（TALLY）: 注意、爆発と曳光弾、2時方向。",
+    ["DictKey_subtitle_694"] = "PLAYER: Weasel、AUXをチェック。",
+    ["DictKey_ActionText_469"] = "",
+    ["DictKey_subtitle_716"] = "PLAYER: タワー、Weasel 31、滑走路28へタクシー。",
+    ["DictKey_ActionText_897"] = "任務を終えたあと、いつものようにTallyと一緒に各フェーズを振り返り、映像やメモを見ながらパフォーマンスを検討した。\
+\
+進入中は特に話すこともなかったが、唯一挙げるなら、シリア軍のFencerがAt Tanfの工場群をロケットで攻撃していた件だ。交戦規定（ROE）は明確で、Pokerやこちらの編隊にできることは何もなかった。\
+\
+その後、オンステーションに到着。Ghostにチェックインする前に、TallyがBishop方面へ向かう4両の敵車列を発見した。\
+\
+あなたは単独での攻撃を選び、Tallyは上空カバーに回った。ミッション後に振り返ってみると、この方法は二人でほぼ同時にマーベリックを発射する連携攻撃に比べて効果が薄かったと判断された。それでも最終的には敵車両を全て撃破することに成功した。（10ポイント獲得）\
+\
+続いてGhostにチェックイン。彼からは魅力的な目標リストが提示された。Tallyはオリーブの木々に紛れていた敵APCをGBU-38で攻撃し、あなたはGBU-12で戦車を破壊する任務を受けた。CLAの戦車乗員に先手を打たれないよう、緊密に連携して攻撃を試みたが、タイミングが合わず、戦車は移動してしまったあとだった。（10ポイント獲得）\
+\
+三つ目の目標は軽く防御された弾薬庫で、特に問題なく、編隊で初回のアプローチで効率よく破壊した。（15ポイント獲得）\
+\
+その後、基地へ帰還し着陸。（5ポイント）",
+    ["DictKey_ActionText_1181"] = "任務を終えたあと、いつものようにTallyと一緒に各フェーズを振り返り、映像やメモを見ながらパフォーマンスを検討した。\
+\
+進入中は特に話すこともなかったが、唯一挙げるなら、シリア軍のFencerがAt Tanfの工場群をロケットで攻撃していた件だ。交戦規定（ROE）は明確で、Pokerやこちらの編隊にできることは何もなかった。\
+\
+その後、オンステーションに到着。Ghostにチェックインする前に、TallyがBishop方面へ向かう4両の敵車列を発見した。\
+\
+しかし、車列への攻撃には失敗し、敵はそのまま市街地へ到達してしまった。（10ポイント減点）\
+\
+続いてGhostにチェックイン。彼からは魅力的な目標リストが提示された。Tallyはオリーブの木々に紛れていた敵APCをGBU-38で攻撃し、あなたはGBU-12で戦車を破壊する任務を受けた。CLAの戦車乗員に先手を打たれないよう、緊密に連携して攻撃を行った。結果は上々で、敵が反応する前に戦車は破壊された。（15ポイント獲得）\
+\
+三つ目の目標は軽く防御された弾薬庫だったが、爆撃に失敗し、Tallyに援護を要請。彼女はGBU-38でこれを破壊することに成功した。（10ポイント獲得）\
+\
+その後、基地へ帰還し着陸。（5ポイント）",
+    ["DictKey_ActionText_369"] = "次の目標に対する9ラインを受信する準備ができたらGHOSTに報告せよ。スペースバーを押せ。",
+    ["DictKey_subtitle_309"] = "WIZARD: Weasel 31、コピー。メッセージ4 Alphaをクローズ。支援に感謝する。",
+    ["DictKey_subtitle_196"] = "PLAYER: Two、準備いいか？",
+    ["DictKey_ActionRadioText_440"] = "2. 繰り返してくれ",
+    ["DictKey_ActionRadioText_1076"] = "1. 車列を視認",
+    ["DictKey_ActionText_514"] = "PRIチャンネル4へ切り替え、スペースバーを押して続行。",
+    ["DictKey_ActionText_1012"] = "",
+    ["DictKey_ActionRadioText_115"] = "PLAYERが攻撃",
+    ["DictKey_subtitle_126"] = "WEASEL 32（BEAR）: Two、guns, guns!",
+    ["DictKey_subtitle_758"] = "PLAYER: Weasel、PRI 4へプッシュ。",
+    ["DictKey_ActionRadioText_1152"] = "フェンスアウト",
+    ["DictKey_ActionRadioText_1023"] = "チャンネル設定",
+    ["DictKey_ActionRadioText_679"] = "",
+    ["DictKey_subtitle_260"] = "PLAYER: Weasel 31、1発投下。",
+    ["DictKey_ActionRadioText_339"] = "1. 復唱",
+    ["DictKey_ActionText_693"] = "",
+    ["DictKey_ActionRadioText_301"] = "",
+    ["DictKey_ActionRadioText_342"] = "1. 復唱",
+    ["DictKey_subtitle_214"] = "PLAYER: Ghost、Weasel 31、戦車をコンタクト、グリッドDelta Uniform 884 598。",
+    ["DictKey_ActionRadioText_351"] = "2. 繰り返してくれ",
+    ["DictKey_ActionText_367"] = "BEAR IS IN",
+    ["DictKey_subtitle_98"] = "WEASEL 32（BEAR）: Two、良好な命中。",
+    ["DictKey_ActionText_603"] = "King FaisalのATISに合わせ、その後PRIチャンネル8でアプローチへプッシュ。\
+準備ができたらスペースバーを押せ。",
+    ["DictKey_subtitle_831"] = "PLAYER: Wizard、WeaselはBISHOP周辺でSCAR実施予定。",
+    ["DictKey_subtitle_130"] = "PLAYER: Wedge、shooter - shooter、AGM-65、南東から進入、ホイール、ゴー。",
+    ["DictKey_ActionText_581"] = "通常の無線メニューを使用してTexacoにチェックインし空中給油せよ。\
+タンカーに1NM以内で接近したら、BEARは左側の観察位置に移動する。\
+給油が完了したらF10メニューを使用。スペースバーを押してメッセージを消去。",
+    ["DictKey_ActionRadioText_1094"] = "",
+    ["DictKey_subtitle_923"] = "PLAYER: ラジャー…ウェポンホールド。Wizardと交信する。",
+    ["DictKey_ActionText_349"] = "F10無線メニューを使用：\
+A. GHOSTのリマークを復唱\
+B. GHOSTにリマークの繰り返しを要求",
+    ["DictKey_ActionRadioText_1017"] = "2. 空中給油後にRTBせよ",
+    ["DictKey_subtitle_202"] = "GHOST: Weasel flight、Ghost、9ラインAlpha、次の通り。356 オフセットは西、9.0、標高1524フィート、目標は装甲戦車、グリッド 37 Sierra Delta Uniform 88479 59914、ノーマーク、脅威なし、離脱方向は南。",
+    ["DictKey_subtitle_389"] = "PLAYER: Ghost、Weasel 31、IP進入中。",
+    ["DictKey_ActionText_331"] = "",
+    ["DictKey_ActionRadioText_296"] = "",
+    ["DictKey_ActionRadioText_439"] = "1. 復唱",
+    ["DictKey_subtitle_929"] = "PLAYER: Ghost、Weasel 31はウィンチェスター。Weasel 32がGBU-38で目標を攻撃可能。",
+    ["DictKey_subtitle_495"] = "GHOST 51: いつでも呼んでくれ、Weasel 31。",
+    ["DictKey_subtitle_793"] = "PLAYER: Weasel、チェック。",
+    ["DictKey_ActionRadioText_448"] = "1. PLAYERがGBU-12で攻撃",
+    ["DictKey_ActionRadioText_449"] = "2. ウィングマンがGBU-38で攻撃",
+    ["DictKey_ActionText_903"] = "任務を終えたあと、いつものようにTallyと一緒に各フェーズを振り返り、映像やメモを見ながらパフォーマンスを検討した。\
+\
+進入中は特に話すこともなかったが、唯一挙げるなら、シリア軍のFencerがAt Tanfの工場群をロケットで攻撃していた件だ。交戦規定（ROE）は明確で、Pokerやこちらの編隊にできることは何もなかった。\
+\
+その後、オンステーションに到着。Ghostにチェックインする前に、TallyがBishop方面へ向かう4両の敵車列を発見した。\
+\
+あなたは単独での攻撃を選び、Tallyは上空カバーに回った。ミッション後に振り返ってみると、この方法は二人でほぼ同時にマーベリックを発射する連携攻撃に比べて効果が薄かったと判断された。それでも最終的には敵車両をすべて撃破することに成功した。（10ポイント獲得）\
+\
+続いてGhostにチェックイン。彼からは魅力的な目標リストが提示された。Tallyはオリーブの木々に紛れていた敵APCをGBU-38で攻撃し、あなたはGBU-12で戦車を破壊する任務を受けた。CLAの戦車乗員に先手を打たれないよう、緊密に連携して攻撃を試みたが、タイミングが合わず、戦車は移動してしまったあとだった。（10ポイント獲得）\
+\
+三つ目の目標は軽く防御された弾薬庫だったが、爆撃に失敗し、Tallyに援護を要請。彼女はGBU-38でこれを破壊することに成功した。（10ポイント獲得）\
+\
+その後、基地へ帰還し着陸。（5ポイント）",
+    ["DictKey_subtitle_42"] = "WEASEL 32（TALLY）: Two、準備完了。",
+    ["DictKey_ActionRadioText_1009"] = "",
+    ["DictKey_subtitle_835"] = "PLAYER: Wizard、Weasel 31、全て了解。",
+    ["DictKey_subtitle_661"] = "PLAYER: Weaselチェック。",
+    ["DictKey_ActionRadioText_343"] = "2. 繰り返してくれ",
+    ["DictKey_ActionText_118"] = "",
+    ["DictKey_ActionText_1032"] = "",
+    ["DictKey_ActionText_755"] = "ATCの指示に従わず滑走路へ進入し、他の機と自機を危険にさらした。\
+ミッション失敗。",
+    ["DictKey_ActionText_1145"] = "",
+    ["DictKey_ActionRadioText_1149"] = "",
+    ["DictKey_ActionRadioText_1168"] = "1. 両機攻撃",
+} -- end of dictionary

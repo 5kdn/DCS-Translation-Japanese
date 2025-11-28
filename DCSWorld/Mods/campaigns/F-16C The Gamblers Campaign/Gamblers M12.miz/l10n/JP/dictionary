@@ -1,0 +1,712 @@
+dictionary = 
+{
+    ["DictKey_subtitle_249"] = "PLAYER: 了解。ウィルコ。",
+    ["DictKey_subtitle_430"] = "MAN'S VOICE: また撃たれている、助けが必要だ！",
+    ["DictKey_subtitle_166"] = "COWBOY 51: ラジャー、感謝する。",
+    ["DictKey_ActionRadioText_560"] = "対空砲を視認",
+    ["DictKey_subtitle_798"] = "PLAYER: Weasels、PRI 4へプッシュ。",
+    ["DictKey_subtitle_414"] = "VOICE:（アラビア語）",
+    ["DictKey_subtitle_267"] = "HABU 21: 命中だ、Weasel！BDA待機！",
+    ["DictKey_subtitle_729"] = "WEASEL 32 (TALLY): Two、フェンスアウト。",
+    ["DictKey_ActionText_36"] = "",
+    ["DictKey_subtitle_500"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_888"] = "",
+    ["DictKey_ActionText_26"] = "W33 bomb",
+    ["DictKey_subtitle_607"] = "DARKSTAR: FOB Nickleから車列が10分で出発予定。Boar 61がそちらへ向かっており、ETAは7分。Habuの周波数で交信してくれ。彼らが救出活動の調整を担当する。現在の状況を報告せよ。",
+    ["DictKey_ActionRadioText_751"] = "直接RTB",
+    ["DictKey_subtitle_77"] = "PLAYER: Weasel 31。",
+    ["DictKey_subtitle_142"] = "RUGBY 41: Darkstar、Rugby 41、ボギー、BRAA310、48、27,000、フランキング。",
+    ["DictKey_subtitle_341"] = "PLAYER: Habu、Weasel、そっちは無事か？",
+    ["DictKey_subtitle_148"] = "DARKSTAR: ラジャー、確認中。",
+    ["DictKey_subtitle_353"] = "HABU 21: Weasels、武器使用は任意。テクニカルに対して攻撃許可。繰り返す、攻撃許可。撃破してくれ。",
+    ["DictKey_subtitle_616"] = "PLAYER: Darkstar、Weasel 31はHabu 21の周波数へスイッチする。",
+    ["DictKey_ActionText_35"] = "",
+    ["DictKey_ActionText_13"] = "C32 bombs",
+    ["DictKey_subtitle_61"] = "WEASEL 32 (TALLY): Two。",
+    ["DictKey_ActionRadioText_939"] = "フェンスイン",
+    ["DictKey_subtitle_129"] = "WEASEL 32（TALLY）: Weasel 32。",
+    ["DictKey_subtitle_277"] = "HABU 21: Weasels、見事な攻撃だ、目標撃破！ブレイク。Weasel 31、目標地点への前進に伴う上空監視支援を要請する。",
+    ["DictKey_ActionRadioText_627"] = "周波数変更",
+    ["DictKey_ActionText_304"] = "（9ラインを復唱するか、Habuに繰り返しを要求）",
+    ["DictKey_subtitle_571"] = "WEASEL 32 (TALLY): Abdi中尉、Weasel 32。Bravo Whiskeyで認証しろ。",
+    ["DictKey_ActionRadioText_548"] = "",
+    ["DictKey_ActionText_822"] = "",
+    ["DictKey_ActionRadioText_205"] = "2. 繰り返しを要求",
+    ["DictKey_subtitle_241"] = "PLAYER: 高度786、AAAと歩兵、37 Sierra Delta Victor 99021 78489。補足説明の受信準備完了。",
+    ["DictKey_subtitle_599"] = "WEASEL 32 (TALLY): One、Two。KIAが2名、負傷者が2名、そのうち1人がHabu 21。緊急負傷者搬送が必要。",
+    ["DictKey_ActionRadioText_119"] = "周波数変更",
+    ["DictKey_subtitle_717"] = "PIRATE 41: Pirate 41、ラジャー。",
+    ["DictKey_ActionText_622"] = "",
+    ["DictKey_subtitle_710"] = "DARKSTAR: Pirate 41、Darkstar、了解、待機。",
+    ["DictKey_subtitle_371"] = "PLAYER: 了解。Habu 21と通信が取れない。",
+    ["DictKey_subtitle_410"] = "PLAYER: Habu 21、こちらWeasel 31、応答願う。",
+    ["DictKey_ActionText_875"] = "よし、Tally、今回の任務を振り返って、改善できた点がないか見ていこう。離陸と出発時は特に問題なし、まあ普通の流れだったな。DarkstarとチェックインしてすぐにHabu 21との連携を任された。すぐに動きがあって、Habuのチームを重機関銃で攻撃しているIS兵を発見した。\
+\
+チェックイン中に無線で割り込んだのはちょっと面白かったかもしれないが、あれは通信規律違反だ。二度とやらないように、いいな？\
+\
+敵の位置はHabuのスモークマーカーと誘導で特定し、俺がGBU-12で攻撃に入ったが、命中させられなかった。そこにお前が入ってきて、見事に命中させてくれた。あれでHabuが前進できた。\
+\
+次に、我々は上空からHabuのチームの援護に入り、彼らがセクターを抜けてモスクに向かうのをカバーした。Tally、あのテクニカル2両を見つけてHabuに警告したのは見事だった。おかげでHabuは近くの建物に避難できた。Habuは多少の抵抗に遭ったが、対処していた間に我々は敵車両への攻撃準備を進めていた。\
+\
+俺がHabuに確認を取らずに突っ込んだのはちょっと軽率だったかもしれん。もし確認してれば、彼は負傷しなかったかもしれない。ともあれ、2台のトラックとその周囲にいた武装勢力を排除した。\
+\
+Abdi中尉の認証もよくやってくれた。辛抱強く対応していたな。彼らはかなり切迫した状況にあったが、我々は正しい相手と話していることを確認しないと、救出チームが危険にさらされるからな。\
+\
+その後はDarkstarとの連携もスムーズで、ウォートホッグの支援とFOB Nickleからの車列出発も確保できた。\
+\
+Boarが到着するのを待っている間、敵がおそらくZU-23でHabuの位置に対空砲火を浴びせてきた。これを排除することに成功し、SDFの潜伏位置周辺はクリアになった。\
+\
+Boar 61が現場に到着すると、我々はその場を離れて帰投した。あとは特に話すこともない、通常の帰還だった。\
+\
+そして今、重要な報告が入った。Rattler 1がHabuに接触し、無事に救出に成功したとのことだ。HabuもAbdi中尉も生きている。その後、さらに2波の攻撃と1回の待ち伏せがあったが、Boar 61とPiratesがうまく対処したようだ。",
+    ["DictKey_subtitle_945"] = "",
+    ["DictKey_subtitle_731"] = "PLAYER: One、フェンスアウト。",
+    ["DictKey_ActionText_15"] = "",
+    ["DictKey_ActionRadioText_933"] = "周波数変更",
+    ["DictKey_subtitle_706"] = "DARKSTAR: Darkstar、了解。",
+    ["DictKey_subtitle_502"] = "WEASEL 32 (TALLY): One、Two。AbdiがDRYADを見つけた、認証準備できたらしい。",
+    ["DictKey_subtitle_753"] = "PLAYER: Weasels、PRIでTexacoへ。",
+    ["DictKey_subtitle_498"] = "WEASEL 32 (TALLY): ネガティブ、まだ捜索中。",
+    ["DictKey_subtitle_838"] = "PLAYER: 滑走路05へストレートイン、1500まで降下。",
+    ["DictKey_subtitle_351"] = "PLAYER: 了解。敵のテクニカルが2両、そちらの位置の東側で、君たちが入った建物を攻撃中。",
+    ["DictKey_subtitle_416"] = "VOICE:（アラビア語）",
+    ["DictKey_ActionRadioText_821"] = "",
+    ["DictKey_ActionText_668"] = "（応答準備ができたらスペースバーを押す）",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_subtitle_432"] = "PLAYER: Abdi中尉、もしアメリカ人のそばにいるなら、彼のベストの前ポケットにある文字と数字が並んだカードを探してくれ。",
+    ["DictKey_ActionText_206"] = "",
+    ["DictKey_subtitle_460"] = "WEASEL 32 (TALLY): One、Two。Habuの位置の西100メートルの屋上にZU-23を確認。モスクの外壁に設置されてる。",
+    ["DictKey_subtitle_237"] = "HABU 21: 了解、タイプ1コントロール。1から3はNA。高度786。ブレイク。屋上にAAAと歩兵、グリッドは後述。ブレイク。付近は37 Sierra Delta Victor 99021、ブレイク、78489、青いスモークを確認せよ、繰り返す、青いスモーク。西から進入、東へ退避。オーバー。",
+    ["DictKey_subtitle_83"] = "PLAYER: 6000へ上昇、Falcon Exitへ直行、Weasel 31。",
+    ["DictKey_ActionRadioText_866"] = "",
+    ["DictKey_ActionText_672"] = "（TEXACOへ切替）",
+    ["DictKey_subtitle_361"] = "PLAYER: Habu 21、通信が途切れた。繰り返してくれ。",
+    ["DictKey_ActionRadioText_776"] = "",
+    ["DictKey_ActionText_14"] = "",
+    ["DictKey_subtitle_381"] = "WEASEL 32 (TALLY): Two、西から進入。",
+    ["DictKey_subtitle_684"] = "DARKSTAR: Weasel 31、どうぞ。",
+    ["DictKey_subtitle_285"] = "WEASEL 32 (TALLY): Two、座標を視認。",
+    ["DictKey_ActionText_877"] = "よし、Tally、今回の任務を振り返って、改善できた点を見ていこう。離陸と出発時は特に問題なし、まあ普通の流れだったな。Darkstarとチェックインした直後に、Habu 21との連携任務に就くことになった。そこからはすぐに状況が動き始めて、最初の目標、Habuのチームを重機関銃で攻撃していたIS兵のグループを発見した。\
+\
+チェックイン中に無線で割り込んだのはちょっと面白かったかもしれないが、あれは通信規律違反だ。二度とやらないように、いいな？\
+\
+敵の位置はHabuのスモークマーカーと誘導を使って特定し、その後お前がGBU-12で攻撃に入って、見事に命中させた。あれでHabuが前進できた。\
+\
+次に、Habuのチームがセクターを抜けてモスクに向かう間、我々は上空から援護に入った。Tally、あのテクニカル2両を発見してHabuに警告したのはナイスだった。おかげで彼らは近くの建物に避難する時間を確保できた。多少の抵抗には遭ったが、対処している間に我々は敵車両への攻撃準備を進めていた。\
+\
+俺がHabuに確認を取らずに突っ込んだのはちょっと軽率だったかもしれん。もし確認してれば、彼は負傷しなかったかもしれない。ともあれ、2台のトラックとその周囲にいた武装勢力を排除した。\
+\
+Abdi中尉の認証もよくやってくれた。かなりプレッシャーのかかる中だったが、相手が本当に我々の救出対象か確認する必要があった。間違えば、救出チーム全体が危険にさらされていたからな。\
+\
+その後はDarkstarとの連携もスムーズで、A-10ウォートホッグの支援と、FOB Nickleからの車列の出発も確保できた。\
+\
+Boarが到着するのを待っている間に、敵がHabuの位置に対空火器、たぶんZU-23で攻撃を仕掛けてきた。これを無力化して、SDFの潜伏位置周辺をクリアにできた。\
+\
+Boar 61が現場に到着すると、我々は離脱して帰投した。あとは特に話すこともない、標準的な帰還だったな。\
+\
+そして今入った重要な情報だが、Rattler 1がHabuに接触し、無事に救出に成功した。HabuもAbdi中尉も生存している。その後さらに2波の攻撃と1回の待ち伏せがあったが、Boar 61とPiratesがうまく対処したとのことだ。",
+    ["DictKey_subtitle_291"] = "PLAYER: Two、One。Fighter to fighter。 Trail、 goalie - shooter、GBU-12、西から進入、東へ離脱。",
+    ["DictKey_subtitle_526"] = "WEASEL 32 (TALLY): Two、西から進入。",
+    ["DictKey_subtitle_733"] = "PLAYER: Two、燃料はどうだ？",
+    ["DictKey_ActionText_24"] = "W31 bomb",
+    ["DictKey_subtitle_87"] = "DEPARTURE: Weasel 31、Departure、自立航法再開。",
+    ["DictKey_subtitle_536"] = "PLAYER: Oneも同じだ。DarkstarがWarthog（A-10）を送るって言ってた、あとは任せよう。",
+    ["DictKey_subtitle_363"] = "PLAYER: Habu 21、応答せよ！",
+    ["DictKey_ActionText_561"] = "",
+    ["DictKey_subtitle_542"] = "WEASEL 32 (TALLY): ラジャー、対応する。",
+    ["DictKey_subtitle_861"] = "WEASEL 32 (TALLY): Weasel 32、Charlie、Golf、Hotel経由でHotel 39へタキシー。",
+    ["DictKey_subtitle_632"] = "BOAR 61: Weasel 31、こちらBoar 61、どうぞ。",
+    ["DictKey_ActionRadioText_111"] = "周波数変更",
+    ["DictKey_subtitle_269"] = "HABU 21: Weasel 31、目標に効果なし。",
+    ["DictKey_descriptionText_1"] = "［スライド2 - ISISの影響範囲］\
+\
+Raqqaの戦いは継続中だが、敵の支配力は日に日に弱まってきている。ISの“本丸”はまさにこのRaqqaであり、我々はそこへ戦いを仕掛けている。はっきり言っておく、これは「Inherent Resolve作戦」の転換点だ。この都市が陥落すれば、作戦全体のペースは一気に加速するだろう。\
+\
+見ての通り、ISはいまだDeir al-Zour、Mayadin、Bu Kmal、Al-Qaim周辺の広大な地域を保持しているが、SDF、イラク軍、そして我々の部隊に押され続けている。また、Homs東部とPalmyra北部にも抵抗拠点が残っているが、そこはシリア政府軍が対処しており、我々は過度に干渉しないようにしている。\
+\
+スライド3へ。  \
+\
+［スライド3 - 防空体制］\
+\
+現在、ロシアとシリアが防空体制を統合したことは確認済みだ。今のところ、我々の作戦に明確な支障は出ていないが、警戒は怠るな。これまでのところ、有志連合機がシリア軍機を攻撃したのは一度だけ。それは昨日のことで、USS George W. Bush空母から発艦した米海軍のF/A-18Eスーパーホーネット4機編隊が、Tabqa南方でシリアのSu-22を撃墜した。この撃墜は、1999年にF-16（Viper）がセルビアのMiG-29を撃ち落として以来、米軍による有人機撃墜としては初めてだ。\
+\
+また、ロシア機が我々の機体のすぐそばに接近してくる事案も常態化している。以前には、Su-35が我々のE-3Cのすぐ近くを飛行し、E-3Cがその乱気流に巻き込まれるという事態もあった。\
+\
+正直なところ、俺もこのクソみたいな状況にはうんざりしているし、何も対処できないことにも苛立ってる。ROE（交戦規定）が少し緩和されればいいんだが……どうなるか見ていこう。",
+    ["DictKey_subtitle_765"] = "WEASEL 32 (TALLY): Two。",
+    ["DictKey_subtitle_146"] = "RUGBY 41: ラジャー。IFFに反応なし。",
+    ["DictKey_subtitle_337"] = "WEASEL 32 (TALLY): Habu 21、注意しろ、東側に動きあり……テクニカルがそっちに向かってる！",
+    ["DictKey_ActionText_565"] = "（HABU21の周波数へ切替）",
+    ["DictKey_subtitle_71"] = "INCIRLIK TOWER: Weasel 31、Tower、離陸許可。滑走路05、風は穏やか。",
+    ["DictKey_subtitle_164"] = "DARKSTAR: Cowboy 51、211、距離38、高度20,000。",
+    ["DictKey_subtitle_692"] = "BOAR 61: Darkstar、こちらBoar 61。",
+    ["DictKey_subtitle_712"] = "PIRATE 41: Pirate 41、待機中。",
+    ["DictKey_ActionText_25"] = "W32 bomb",
+    ["DictKey_ActionRadioText_675"] = "周波数変更",
+    ["DictKey_subtitle_283"] = "WEASEL 32 (TALLY): 了解。",
+    ["DictKey_subtitle_577"] = "MAN'S VOICE: Bライン？",
+    ["DictKey_subtitle_658"] = "PLAYER: Weasel 3はRTB、Darkstarへスイッチする。Habuを無事に救出してくれ。",
+    ["DictKey_subtitle_800"] = "PLAYER: PRIチェック。",
+    ["DictKey_subtitle_67"] = "PLAYER: Weasel 41、Hotelを横断、Golfへタキシー、Alpha滑走路05でホールド。",
+    ["DictKey_ActionRadioText_960"] = "",
+    ["DictKey_subtitle_190"] = "PLAYER: One、フェンスイン。",
+    ["DictKey_subtitle_664"] = "WEASEL 32 (TALLY): Two。",
+    ["DictKey_ActionRadioText_752"] = "空中給油へ",
+    ["DictKey_subtitle_221"] = "WEASEL 32（TALLY）: Weasel 32。",
+    ["DictKey_subtitle_196"] = "PLAYER: Two、301.6に切り替え。",
+    ["DictKey_ActionRadioText_320"] = "1. PLAYERが攻撃",
+    ["DictKey_subtitle_614"] = "DARKSTAR: ラジャー、Weasel 31。",
+    ["DictKey_subtitle_518"] = "PLAYER: One、AAA撃破！",
+    ["DictKey_ActionText_790"] = "（APPROACHへ切替）",
+    ["DictKey_subtitle_89"] = "PLAYER: ラジャー、スタンバイ。",
+    ["DictKey_ActionRadioText_545"] = "対空砲を視認",
+    ["DictKey_subtitle_377"] = "WEASEL 32 (TALLY): Two、南をソート。",
+    ["DictKey_subtitle_727"] = "WEASEL 32 (TALLY): Two。",
+    ["DictKey_subtitle_444"] = "WEASEL 32 (TALLY): 「仲間が」って言ってたのはHabuのことかもな？",
+    ["DictKey_subtitle_830"] = "PLAYER: Weasels、PRIチェック。",
+    ["DictKey_subtitle_462"] = "PLAYER: ラジャー。よし、Habuの周波数を維持して、この男がDryadを見つけたら認証してくれ。俺はDarkstarと連絡取る。",
+    ["DictKey_subtitle_532"] = "PLAYER: Two、兵装状況は？",
+    ["DictKey_ActionText_828"] = "",
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_subtitle_442"] = "PLAYER: さっきの通信で、俺たちのコールサインが聞こえた気がする。",
+    ["DictKey_ActionText_29"] = "DEAD",
+    ["DictKey_subtitle_654"] = "PLAYER: Weasel 31、ラジャー。SDFの兵士の一人がこの周波数をモニターしてる。必要あれば彼らと連絡が取れる。",
+    ["DictKey_subtitle_43"] = "PLAYER: Weasels、AUXチェック。",
+    ["DictKey_subtitle_478"] = "DARKSTAR: Darkstar了解、少し待て、Weasel。",
+    ["DictKey_ActionRadioText_307"] = "2. 繰り返しを要求",
+    ["DictKey_subtitle_194"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_ActionRadioText_913"] = "2. 繰り返しを要求",
+    ["DictKey_subtitle_172"] = "DARKSTAR: Weasels、新しい任務がある、スタンバイ。",
+    ["DictKey_subtitle_345"] = "HABU 21: Weasels、Habu、どうぞ！",
+    ["DictKey_subtitle_903"] = "PLAYER: ラジャー。Fighter to fighter。Trail、shooter - shooter、GBU-12、西から進入、南へ離脱、ソートは南。",
+    ["DictKey_subtitle_253"] = "HABU 21: Weasel 31、目標は煙から東へ60メートル。デンジャークロース。指揮官のイニシャルはJuliet Delta。",
+    ["DictKey_ActionText_820"] = "",
+    ["DictKey_ActionText_508"] = "",
+    ["DictKey_subtitle_719"] = "DARKSTAR: Charlie 4へ移動、Violet 4でBoar 61と交信せよ。PigがA-10 2機で救出作戦を担当。",
+    ["DictKey_subtitle_418"] = "PLAYER: こちらWeasel 31。誰だ？ 英語は話せるか？",
+    ["DictKey_ActionText_27"] = "W33 bomb",
+    ["DictKey_subtitle_150"] = "DARKSTAR: Heavy 45、Darkstar。",
+    ["DictKey_subtitle_504"] = "PLAYER: ラジャー。Darkstarの指示は「セルフディフェンス」、まずあのAAAを潰そう。",
+    ["DictKey_ActionText_217"] = "",
+    ["DictKey_ActionRadioText_788"] = "給油完了",
+    ["DictKey_subtitle_771"] = "WEASEL 32 (TALLY): Two。",
+    ["DictKey_subtitle_239"] = "PLAYER: Habu 21、Weasel 31、9ラインをもう一度。",
+    ["DictKey_subtitle_131"] = "PLAYER: Darkstar、Weasel 31。",
+    ["DictKey_subtitle_75"] = "INCIRLIK TOWER: Weasel 31、DEPARTUREへスイッチ。",
+    ["DictKey_subtitle_666"] = "PLAYER: 了解、復唱良好。",
+    ["DictKey_subtitle_405"] = "WEASEL 32 (TALLY): Two、北側テクニカル撃破！",
+    ["DictKey_ActionRadioText_909"] = "2. GBUで攻撃",
+    ["DictKey_ActionText_212"] = "",
+    ["DictKey_subtitle_339"] = "HABU 21: 了解、遮蔽物に移動する。",
+    ["DictKey_subtitle_804"] = "PLAYER: Incirlik Approach、Weasel 31、F-16が2機、Romeoを取得し進入中、滑走路05への初期進入を要請する。",
+    ["DictKey_subtitle_834"] = "PLAYER: Incirlik Tower、Weasel 3、F-16が2機、Eagle通過。滑走路05リクエスト。",
+    ["DictKey_subtitle_422"] = "PLAYER: 身元を明かせ。",
+    ["DictKey_subtitle_281"] = "PLAYER: Two、ウェイポイント3の西にアンカーして、それからHabuに連絡しよう。",
+    ["DictKey_ActionRadioText_117"] = "周波数変更",
+    ["DictKey_subtitle_534"] = "WEASEL 32 (TALLY): Two、機銃のみ。",
+    ["DictKey_subtitle_516"] = "PLAYER: One、兵装投下。",
+    ["DictKey_subtitle_53"] = "WEASEL 32 (TALLY): Two、タキシー準備完了。",
+    ["DictKey_ActionText_564"] = "",
+    ["DictKey_ActionText_314"] = "",
+    ["DictKey_ActionText_555"] = "",
+    ["DictKey_subtitle_476"] = "PLAYER: Weasel 31、Raqqaで交戦中。US JTAC、コールサインHabu 21との連絡を喪失。無線に出てきた人物がHabuのチーム所属を名乗り、Habuおよび他数名が重傷とのこと。現在、そいつとの認証を試みている。Habuの位置はモスクのすぐそば、AAAの激しい攻撃を受けている。指示を願う。",
+    ["DictKey_subtitle_660"] = "BOAR 61: 任せろ、Weasels。",
+    ["DictKey_subtitle_45"] = "WEASEL 32 (TALLY): Two。",
+    ["DictKey_subtitle_407"] = "WEASEL 32 (TALLY): テクニカルが発砲開始！",
+    ["DictKey_ActionRadioText_677"] = "周波数変更",
+    ["DictKey_ActionRadioText_509"] = "",
+    ["DictKey_subtitle_690"] = "PLAYER: Weasel 31。",
+    ["DictKey_subtitle_168"] = "DARKSTAR: Weasel 31、Darkstar。",
+    ["DictKey_ActionText_120"] = "",
+    ["DictKey_ActionText_38"] = "Bomb",
+    ["DictKey_subtitle_488"] = "DARKSTAR: Weasel 31、Darkstar。",
+    ["DictKey_ActionText_122"] = "（DARKSTARへ切替）",
+    ["DictKey_subtitle_810"] = "PLAYER: Approach、Weasel 31、Eagle、Towerへスイッチ。",
+    ["DictKey_ActionText_31"] = "装甲車両を感知",
+    ["DictKey_subtitle_63"] = "PLAYER: グラウンド、Weasel 3、F-16×2、Romeo、タキシーリクエスト。",
+    ["DictKey_ActionText_917"] = "",
+    ["DictKey_ActionText_931"] = "",
+    ["DictKey_subtitle_618"] = "DARKSTAR: Weasel 31、了解。",
+    ["DictKey_ActionRadioText_829"] = "周波数変更",
+    ["DictKey_ActionRadioText_629"] = "周波数変更",
+    ["DictKey_ActionRadioText_793"] = "周波数変更",
+    ["DictKey_subtitle_385"] = "WEASEL 32 (TALLY): Two、ライフル！",
+    ["DictKey_ActionText_747"] = "",
+    ["DictKey_subtitle_688"] = "DARKSTAR: Weasels、Darkstar、了解。ナイスジョブ。TexacoがYankeeトラック上にいる、必要なら補給を。",
+    ["DictKey_subtitle_474"] = "DARKSTAR: Weasel 31、Darkstar、どうぞ。",
+    ["DictKey_subtitle_638"] = "PLAYER: SDFの小隊とJTAC、コールサインHabu 21がRaqqaの建物内に籠もっている。激しい敵の攻撃を受け、KIAが2名、負傷者2名、Habu含む重傷者あり。こちらはビンゴ寸前のため、そろそろRTBが必要。敵は視認していない。",
+    ["DictKey_subtitle_812"] = "APPROACH: Weasel 31、Approach、スイッチ許可。",
+    ["DictKey_subtitle_403"] = "WEASEL 32 (TALLY): Two、兵装投下！",
+    ["DictKey_ActionRadioText_568"] = "周波数変更",
+    ["DictKey_subtitle_581"] = "MAN'S VOICE: ああ、わかった……えっと、Kだ、Kilogramみたいなやつ。",
+    ["DictKey_ActionRadioText_309"] = "復唱",
+    ["DictKey_subtitle_755"] = "WEASEL 32 (TALLY): Two。",
+    ["DictKey_ActionText_12"] = "C31 bombs",
+    ["DictKey_ActionText_213"] = "（指定周波数へ切替）",
+    ["DictKey_ActionText_311"] = "",
+    ["DictKey_subtitle_601"] = "PLAYER: Two、ラジャー。",
+    ["DictKey_subtitle_682"] = "PLAYER: Darkstar、Weasel 31。",
+    ["DictKey_ActionRadioText_326"] = "",
+    ["DictKey_subtitle_144"] = "DARKSTAR: 確認中…それはフランスのC-130だ。",
+    ["DictKey_ActionText_905"] = "",
+    ["DictKey_subtitle_573"] = "MAN'S VOICE: 認証……ウィスキーとは？",
+    ["DictKey_subtitle_480"] = "PLAYER: ラジャー、待機中。",
+    ["DictKey_ActionText_873"] = "よし、Tally、今回の任務を振り返って、改善できた点がないか見ていこう。離陸と出発時は特に問題なし、まあ普通の流れだったな。DarkstarとチェックインしてすぐにHabu 21との連携を任された。すぐに動きがあって、Habuのチームを重機関銃で攻撃しているIS兵を発見した。\
+\
+チェックイン中に無線で割り込んだのはちょっと面白かったかもしれないが、あれは通信規律違反だ。二度とやらないように、いいな？\
+\
+Habuのスモークマーカーと誘導で敵の位置を特定して、俺がGBU-12で攻撃、直撃で目標を無力化。これでHabu部隊の前進ルートが開けた。\
+\
+次は、Habuがセクターをモスク方面に前進する間、俺たちは上空から援護。Tally、お前がテクニカル2両を早めに発見してHabuに警告したのは見事だった。おかげで連中は近くの建物に退避できた。敵との小競り合いは向こうで処理したようだな。俺たちはその後の攻撃に備えてたんだが、俺がHabuに確認を取らずに突っ込んだのはちょっと軽率だったかもしれん。もし確認してれば、彼は負傷しなかったかもしれない。ともあれ、2台のトラックとその周囲にいた武装勢力を排除した。\
+\
+それから、Abdi中尉の認証もよくやった。あの状況でちゃんと我慢強くやり取りできたのは評価できる。彼らは相当なプレッシャー下にいたが、こちらとしても誤認で救出チームを危険に晒すわけにはいかなかった。\
+\
+Darkstarとの調整もスムーズだったな。A-10（Warthog）の支援要請と、FOB Nickleからの車列出発の手配もうまくいった。\
+\
+Boarが現場に到着するのを待ってる間に、敵がHabuの位置に対してAAA、おそらくZU-23を使って攻撃を開始。俺たちがそれを排除して、SDFの潜伏位置周辺はクリアになった。\
+\
+Boar 61が到着した後は、俺たちは帰投。あとは通常どおりで特筆すべきことはない。\
+\
+そして今入ってきた重要な情報だが、Rattler 1がHabuと接触し、無事に彼を回収、彼もAbdi中尉も生存しているとのことだ。車列はさらに二度の攻撃と一度の待ち伏せに遭ったが、Boar 61とPiratesがうまく対応してくれたらしい。",
+    ["DictKey_ActionText_317"] = "（目標を確認）",
+    ["DictKey_subtitle_520"] = "PLAYER: One、命中せず。再攻撃する。",
+    ["DictKey_subtitle_178"] = "PLAYER: Weasel 31、了解。Habu 21、301.6、位置はCharlie 4〜Delta 4。",
+    ["DictKey_ActionText_6"] = "V11 bombs",
+    ["DictKey_ActionText_949"] = "",
+    ["DictKey_subtitle_375"] = "PLAYER: 了解。Fighter to fighter。 Line abreast、 shooter - shooter、AGM-65、西から進入、南へ離脱、南をソート。",
+    ["DictKey_subtitle_259"] = "PLAYER: 了解。ウィルコ。",
+    ["DictKey_subtitle_434"] = "MAN'S VOICE: カード？ 探す。",
+    ["DictKey_subtitle_767"] = "WEASEL 32 (TALLY): Two、次に進む準備OK。",
+    ["DictKey_descriptionBlueTask_3"] = "Incirlik空軍基地  \
+トルコ  \
+2017年6月19日 14:00 現地時間（11:00 Zulu）。CHAOS（PLAYER）／フライトリードによるブリーフィング。  \
+\
+今日はまたRaqqa上空へ向かい、まだ市内を守ってるクソどもに爆弾をプレゼントする。詳細は後ほど。まずはいつもの手順、天候、出発、フライトプランを確認していこう。スライド4と天候からだ。  \
+\
+［スライド4 - 天候］  \
+天候は良好。ただし、この時期にしてはかなり冷え込んでいる。風は弱く、雲は高度8,000〜10,000フィートに少々、それより上にも層があるが、我々はその下で作戦を行う予定だ。  \
+\
+次のスライド。  \
+\
+［スライド5 - 空港］  \
+今回の機体は、俺がシェルター42、お前が39。俺は機体番号356、お前は372を使う予定だ、ただ変更の可能性がある。予備機は380。着陸後も同じシェルターを使う見込みだが、これも変更の可能性あり。  \
+\
+AUXでラジオチェック後、ATISを取得し、再びAUXで編隊に戻ってからPRIでTowerに切り替え。タキシーの準備ができたら知らせてくれ。俺がクリアランスを取って、滑走路05に向かう。次のスライド。  \
+\
+［スライド6 - 出発］  \
+滑走路05からの標準的な出発。Falcon exitを5,000フィートで通過予定で、そこでDepartureと交信。その後、基地を離れたら巡航高度の18,000フィートへ上昇。  \
+\
+［スライド7 - フライトプランA］  \
+Falcon通過後はWP2へ直行し、そこで18,000フィートまで上昇。WP2で目標方向へ旋回し、国境でフェンスイン。次のスライド。  \
+\
+［スライド8 - フライトプランB］  \
+Raqqaへ向けて進入後、市街の西5〜10マイルでアンカー。Darkstarとチェックインし、タスクがあるか確認。なければそのまま上空待機。タスクが割り当てられた場合は、支援対象の地上部隊の周波数に切り替えて支援に入る。では、詳細に入る。スライド。  \
+\
+［スライド9 - Raqqa］  \
+味方勢力は、スライドのcolumn 3に見える範囲のほとんどを制圧しており、つまり市街の西側、およびAlpha・Bravo地域全域を掌握している。ただし、それより東と南は未制圧地帯で、ISが一軒一軒の建物やモスクを死守している。columnのCharlieとDelta 3 を南北に貫く主要道路の西側をSDFが保持、敵は東側に籠もっている。複数の偵察部隊がJTACと共に北側から進入し、Charlie 4～6およびDelta 4～6に潜入を試みているとの情報あり。今日我々が活動するのはおそらくこの辺りだ。今回はX-CAS任務なので、Darkstarまたは地上からのGuard周波数での呼び出しに常に備えておけ。友軍は北と東にFOBを展開。ヘリでの救出はMANPADやRPGの脅威が大きすぎて不可能。市内でブラックホークダウンの再来は避けたい。  \
+\
+交戦規定（ROE）：  \
+モスクの中または半径50メートル以内の敵目標は、JTACの明確な許可なしには攻撃禁止。ただし自己防衛の場合（自機または友軍への直接的な脅威）を除く。その際も最大限の注意を払うこと。  \
+\
+高度制限は15,000フィート。地対空脅威により、これを下回ることは一切禁止。よって機銃掃射は禁止する。  \
+\
+今日のビンゴは4,500ポンド。燃料がビンゴに達したらチェックアウトしてRTB。ただし兵装が残っていればタンカーへ向かい、補給後にステーションへ戻る。  \
+\
+［スライド8 - フライトプランB］  \
+帰路はWP4を通過後、タンカーまたはホームプレートへ向かう。  \
+\
+［スライド7 - フライトプランA］  \
+国境を越えたら、俺がフェンスアウトを指示。その後アプローチと交信し、Eagle経由のストレートインで帰投予定。着陸後は出発時と同じシェルターに戻る見込み（変更の可能性あり）。  \
+\
+兵装：  \
+AGM-65×1、GBU-12×2、増槽×3、ウィングチップに赤外線ミサイル×2、ターゲティングポッド、HEI（機銃）フル装填。ただ高度制限があるので機関砲の使用はまずない。チャフ30、フレア90。  \
+\
+市街地での作戦なので、攻撃前に目標確認を徹底すること。兵装設定時にはCCG（照準装置）のレーザーコードを必ず再確認。昨日、コードの食い違いが見つかった。各目標ごとにfighter to fighterブリーフィングを実施する。  \
+\
+通信規律：  \
+AUXのチャンネル1を基本使用。ただし開始時はATIS取得のためにのみ変更。その後、編隊用の周波数へ戻る。通常の順序で交信：Ground → Tower → Departure → Darkstar。X-CAS運用中は、地上部隊用に都度指定された周波数に切り替える。  \
+\
+チェックアウト後は、Darkstar → Texaco（必要時）→ ATIS → Approach → Tower → GroundとPRIで順次交信。周波数変更ごとにラジオチェックを実施する。  \
+\
+質問はあるか？それじゃ、行くぞ。  \
+\
+［Baltic Dragon注記］  \
+1. 予想任務時間：1時間45分  ",
+    ["DictKey_subtitle_849"] = "PLAYER: Tower、Weasel 31、ラジャー。",
+    ["DictKey_ActionText_670"] = "",
+    ["DictKey_ActionRadioText_310"] = "繰り返しを要求",
+    ["DictKey_subtitle_840"] = "PLAYER: Tower、Weasel 31、イニシャル、着陸リクエスト、滑走路05。",
+    ["DictKey_ActionRadioText_330"] = "1. PLAYERが攻撃",
+    ["DictKey_subtitle_452"] = "PLAYER: 奴らをここから脱出させないと。どう思う？",
+    ["DictKey_ActionText_885"] = "よし、Tally。今回の任務を振り返って、改善点がないか見ていこう。離陸と出発時には特に問題なし、あれはいつも通りだった。Darkstarとチェックインした直後、すぐにHabu 21との任務が割り当てられた。状況はすぐに動き始め、最初の目標、Habuの部隊を重機関銃で攻撃していたIS兵の集団をすぐに発見できた。\
+\
+チェックイン中に無線で割り込んだのはちょっと面白かったかもしれないが、あれは通信規律違反だ。二度とやらないように、いいな？\
+\
+敵の位置はHabuのスモークマーカーと誘導で特定して、そのあとお前がGBU-12で攻撃に入り、見事に命中を決めた。それでHabuが前進できるようになった。\
+\
+次に、我々は上空からHabuのチームをカバーしつつ、彼らがセクターを横断してモスクへと進むのを支援した。Tally、テクニカル2両を発見してHabuに警告したのはよくやった。おかげで彼らは近くの建物に退避する時間を確保できた。その後、敵との接触があったがHabuが処理し、その間に俺たちは敵車両への攻撃準備に入っていた。\
+\
+俺がHabuに確認を取らずに突っ込んだのはちょっと軽率だったかもしれん。もし確認してれば、彼は負傷しなかったかもしれない。ともあれ、2台のトラックとその周囲にいた武装勢力を排除した。\
+\
+Abdi中尉の認証もうまくやったな。プレッシャーのかかる状況だったが、よく我慢してやりきってくれた。正しい相手と交信していると確実にするのは、救出チームを危険に晒さないために非常に重要だった。\
+\
+その後のDarkstarとの調整も順調で、A-10ウォートホッグの支援を確保し、FOB Nickleからの車列出発にも成功した。\
+\
+Boarの到着を待っていた時、敵がHabuの位置に対空火器、おそらくZU-23で攻撃してきた。ただ、それまでの命中ミスの影響で、この時点で俺たちは弾切れ（ウィンチェスター）だったため、Pig 61に脅威を報告するしかなかった。\
+\
+Boar 61が現場に到着すると、我々はその場を離れて帰投に入った。あとは特筆すべきことはなく、標準的な帰還だった。\
+\
+そしてさっき入った重要な情報だが、Rattler 1がHabuに到達して、無事に救出に成功したとのことだ。HabuもAbdi中尉も生きていた。その後さらに2回の攻撃と1度の待ち伏せがあったが、Boar 61とPiratesがうまく対処してくれた。",
+    ["DictKey_subtitle_223"] = "PLAYER: Habu 21、こちらWeasel 31、どうぞ。",
+    ["DictKey_subtitle_180"] = "PLAYER: Darkstar、Weasel 3フライト、Habu 21周波数へスイッチ。",
+    ["DictKey_ActionRadioText_554"] = "",
+    ["DictKey_ActionRadioText_748"] = "直接RTB",
+    ["DictKey_subtitle_373"] = "WEASEL 32 (TALLY): あいつはさっきテクニカルへの攻撃許可を出してた。連中はまだHabuを撃ってる。",
+    ["DictKey_ActionText_327"] = "",
+    ["DictKey_subtitle_696"] = "BOAR 61: あの車列の最新情報はあるか？",
+    ["DictKey_ActionText_818"] = "",
+    ["DictKey_ActionRadioText_300"] = "",
+    ["DictKey_ActionRadioText_817"] = "",
+    ["DictKey_ActionText_914"] = "",
+    ["DictKey_subtitle_844"] = "PLAYER: Weasel 31、滑走路05、着陸許可。",
+    ["DictKey_ActionText_470"] = "",
+    ["DictKey_subtitle_255"] = "PLAYER: Weasel 31、目標確認。",
+    ["DictKey_subtitle_591"] = "MAN'S VOICE: ありがとう！頼む、急いでくれ！",
+    ["DictKey_subtitle_757"] = "",
+    ["DictKey_subtitle_401"] = "WEASEL 32 (TALLY): アファーム、Two、攻撃に入る。",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_subtitle_229"] = "HABU 21: 了解、Weasel 31、こちらHabu 21。助かった！ブレイク。現在、味方部隊は交戦中。ブレイク。状況報告は次の通り、こちらHabu 21、SDF偵察チームに同行しているJTACである。ブレイク。我々は西側の舗装道路沿いを南へ移動中、現在、南方向から重機関銃による激しい攻撃を受けている。ブレイク。敵の兵力規模は不明。支援可能か？オーバー。",
+    ["DictKey_subtitle_761"] = "WEASEL 32 (TALLY): Texacoから左の観察位置にジョイン。",
+    ["DictKey_ActionRadioText_544"] = "対空砲を攻撃",
+    ["DictKey_subtitle_583"] = "WEASEL 32 (TALLY): 認証確認完了。待機せよ。",
+    ["DictKey_subtitle_593"] = "WEASEL 32 (TALLY): One、Two。認証は問題なし。",
+    ["DictKey_ActionRadioText_777"] = "",
+    ["DictKey_ActionText_746"] = "（希望する行動を選択）",
+    ["DictKey_ActionText_17"] = "C34 bombs",
+    ["DictKey_ActionText_33"] = "Deactivate count",
+    ["DictKey_subtitle_349"] = "HABU 21: Habu、了解。我々は被害を受けている。こっちが建物をクリアする間にあいつらを引き離してくれ。",
+    ["DictKey_ActionRadioText_306"] = "1. 復唱",
+    ["DictKey_ActionRadioText_932"] = "周波数変更",
+    ["DictKey_subtitle_47"] = "WEASEL 32 (TALLY): Two、ATIS確認済み。",
+    ["DictKey_subtitle_723"] = "DARKSTAR: Pirate 41、復唱良好。",
+    ["DictKey_subtitle_273"] = "HABU 21: Weasel 32、Habu、補足は先ほどと同じだ。クリアードホット、繰り返す、クリアードホット。",
+    ["DictKey_subtitle_808"] = "PLAYER: Eagle上空で5000に降下、Towerへスイッチ、ビジュアルアプローチで滑走路05へ。",
+    ["DictKey_subtitle_575"] = "WEASEL 32 (TALLY): Bラインを見て、\"W\"の横にある文字を教えてくれ。",
+    ["DictKey_subtitle_579"] = "WEASEL 32 (TALLY): B、バッファローのBだ。\"W\"、つまりウォーターの隣にある文字を読んでくれ。",
+    ["DictKey_subtitle_595"] = "PLAYER: ラジャー。そのまま、彼らの脱出手段をこちらで検討中だと伝えて、Habu 21の状態を確認してくれ。",
+    ["DictKey_subtitle_85"] = "PLAYER: Departure、Weasel 31、Falcon。",
+    ["DictKey_subtitle_245"] = "PLAYER: GBU-12、西から東へのアプローチで進入。",
+    ["DictKey_subtitle_851"] = "PLAYER: Ground, Weasel 31 with you.",
+    ["DictKey_subtitle_587"] = "MAN'S VOICE: 感謝する！ああ、2名が死亡、負傷2名、アメリカ人も含まれてる。意識がない。すぐに病院が必要だ。",
+    ["DictKey_subtitle_589"] = "WEASEL 32 (TALLY): 了解。現在対応中だ。その場で待機せよ。周辺は今のところクリアだ。",
+    ["DictKey_subtitle_951"] = "WEASEL 32 (TALLY): One、右にブレイク、フレア！",
+    ["DictKey_subtitle_198"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_subtitle_135"] = "PLAYER: Weasel 31はF-16が2機。AGM-65を2発、GBU-12を4発搭載。Raqqaへの進出許可を要請。",
+    ["DictKey_subtitle_247"] = "HABU 21: 了解、復唱良好。青い煙を地上に展開中、視認できたら報告を。",
+    ["DictKey_ActionRadioText_912"] = "1. 復唱",
+    ["DictKey_ActionText_863"] = "",
+    ["DictKey_ActionRadioText_965"] = "フェンスアウト",
+    ["DictKey_ActionText_624"] = "（DARKSTARへ切替）",
+    ["DictKey_subtitle_347"] = "PLAYER: 送れ。",
+    ["DictKey_ActionRadioText_210"] = "",
+    ["DictKey_subtitle_355"] = "PLAYER: Habu 21、テクニカル車両の1台が大きなモスクの外壁から約50フィートの距離にいる。攻撃を許可するかどうか、確認願いたい。",
+    ["DictKey_ActionRadioText_827"] = "周波数変更",
+    ["DictKey_subtitle_49"] = "PLAYER: ラジャー。タキシー準備できたら教えてくれ。",
+    ["DictKey_ActionRadioText_204"] = "1. 確認",
+    ["DictKey_subtitle_412"] = "PLAYER: Habu 21、Weasel 31、応答せよ！",
+    ["DictKey_subtitle_484"] = "DARKSTAR: Cowboy 51、Darkstar、ラジャー。タンカーはYankeeコース上。",
+    ["DictKey_ActionRadioText_906"] = "1. マーベリックで攻撃",
+    ["DictKey_subtitle_438"] = "PLAYER: Two、One。今の通信、Habuの周波数だったか？",
+    ["DictKey_subtitle_640"] = "PLAYER: SDFの小隊とJTAC、コールサインHabu 21がRaqqaの建物内に籠もっている。激しい攻撃を受け、KIA 2名、Habu 21含む負傷者が2名。彼らの位置の西100メートルに敵AAAが展開、モスクのすぐそばに設置されている。Weasel 3はウィンチェスター。",
+    ["DictKey_subtitle_702"] = "BOAR 61: Boar 61、ラジャー。Rattler 1はViolet 4、FOB Nickleから接近中。",
+    ["DictKey_subtitle_79"] = "WEASEL 31 (PLAYER): Departure、Weasel 31、離陸完了。",
+    ["DictKey_subtitle_235"] = "PLAYER: Weasel 31、受信準備完了。",
+    ["DictKey_ActionRadioText_789"] = "",
+    ["DictKey_subtitle_176"] = "DARKSTAR: Charlie 4〜Delta 4の範囲で作戦を実施してくれ。そこにはSDF部隊が展開しており、US JTACが同行している。コールサインはHabu 21だ。現在激しい攻撃を受けている。急行して支援せよ。周波数は301.6。",
+    ["DictKey_subtitle_524"] = "WEASEL 32 (TALLY): Two。",
+    ["DictKey_ActionRadioText_948"] = "",
+    ["DictKey_ActionText_547"] = "",
+    ["DictKey_subtitle_836"] = "INCIRLIK TOWER: Weasel 31、Tower、1500フィートまで降下、滑走路05へのストレートインアプローチ。5マイル手前でイニシャルを報告せよ。",
+    ["DictKey_ActionText_923"] = "",
+    ["DictKey_subtitle_257"] = "HABU 21: Habu、了解。進入方向を報告せよ。",
+    ["DictKey_subtitle_192"] = "PLAYER: Two、バスター。",
+    ["DictKey_ActionText_883"] = "よし、Tally。今回の任務を振り返って、どこを改善できたか確認しよう。離陸と出発に関しては特に問題なし、いつも通りの流れだった。Darkstarとチェックインした直後、すぐにHabu 21との任務が割り当てられた。状況はすぐに動き出し、最初の目標、Habuの部隊を重機関銃で攻撃していたIS兵の集団を発見した。\
+\
+チェックイン中に無線で割り込んだのは、面白かったかもしれないが、通信規律違反だ。二度とやるな、いいな？\
+\
+敵の位置はHabuのレーザーで特定して、俺がGBU-12で攻撃に入ったが、目標には命中しなかった。その後、お前が代わって攻撃し、見事な命中を出した。おかげでHabuが移動を開始できた。\
+\
+その後、我々は上空からHabuの部隊をカバーしつつ、彼らがセクターを抜けてモスクに向かって前進するのを支援した。Tally、テクニカル2両を発見してHabuに警告したのは見事だった。おかげで彼らはすぐに近くの建物へ退避できた。敵との小競り合いもあったが、Habuたちは対処し、その間に俺たちは敵車両への攻撃準備に入っていた。\
+\
+俺がHabuに確認を取らずに突っ込んだのはちょっと軽率だったかもしれん。もし確認してれば、彼は負傷しなかったかもしれない。ともあれ、2台のトラックとその周囲にいた武装勢力を排除した。\
+\
+Abdi中尉の認証もよくやった。相当なプレッシャーの中で、よく辛抱強くやってくれた。我々が正しい相手と話していると確実にするのは、救出チームを危険に晒さないためにも非常に重要だった。\
+\
+その後のDarkstarとの調整もうまくいき、A-10ウォートホッグの支援を確保し、FOB Nickleからの車列出発を成功させた。\
+\
+Boarの到着を待っている間に、敵がHabuの位置に対して対空火器、おそらくZU-23で攻撃を始めた。だが我々はそれまでの攻撃で弾薬を使い果たしており、この時点でウィンチェスターだったため、脅威の報告をPig 61に回すしかなかった。\
+\
+Boar 61が現場に到着すると、我々は現場を離脱し、帰投に入った。あとは特に議論すべきことはない、標準的な帰還ルートだった。\
+\
+そして、さっき入った重要な情報としては、Rattler 1がHabuに接触し、無事に救出に成功したということだ。HabuもAbdi中尉も生存している。その後さらに2波の攻撃と1回の待ち伏せがあったが、Boar 61とPiratesがうまく対応してくれた。",
+    ["DictKey_subtitle_704"] = "BOAR 61: Darkstar、Boar 61、Rattler 1と通信中、視認あり。",
+    ["DictKey_subtitle_251"] = "PLAYER: Habu 21、Weasel 31、青い煙を視認。",
+    ["DictKey_ActionRadioText_562"] = "",
+    ["DictKey_subtitle_265"] = "PLAYER: Weasel 31, one away. ",
+    ["DictKey_ActionRadioText_908"] = "1. マーベリックで攻撃",
+    ["DictKey_ActionRadioText_218"] = "301.6 set",
+    ["DictKey_subtitle_367"] = "PLAYER: Two、送れ。",
+    ["DictKey_ActionText_881"] = "",
+    ["DictKey_subtitle_686"] = "PLAYER: Weasel 31はVul終了、RTB。",
+    ["DictKey_ActionText_947"] = "",
+    ["DictKey_subtitle_293"] = "WEASEL 32 (TALLY): Two。",
+    ["DictKey_ActionText_97"] = "",
+    ["DictKey_ActionText_549"] = "（攻撃担当を選択）",
+    ["DictKey_ActionRadioText_743"] = "空中給油へ",
+    ["DictKey_subtitle_472"] = "PLAYER: Darkstar、Darkstar、Weasel 31。",
+    ["DictKey_subtitle_154"] = "DARKSTAR: Heavy 45、トランスポンダを確認せよ。",
+    ["DictKey_subtitle_514"] = "PLAYER: One、西から進入。",
+    ["DictKey_ActionRadioText_113"] = "周波数変更",
+    ["DictKey_subtitle_160"] = "DARKSTAR: Heavy 45、ラジャー。",
+    ["DictKey_subtitle_383"] = "PLAYER: One、ライフル！",
+    ["DictKey_subtitle_59"] = "PLAYER: Weasels、PRI 6へ。",
+    ["DictKey_subtitle_297"] = "WEASEL 32 (TALLY): Two。",
+    ["DictKey_ActionRadioText_552"] = "対空砲を攻撃",
+    ["DictKey_ActionRadioText_321"] = "2. 攻撃を視認",
+    ["DictKey_subtitle_399"] = "PLAYER: One、またも命中せず。Two、俺の目標に攻撃できるか？",
+    ["DictKey_subtitle_359"] = "HABU 21: Weasels、そのモスクのそばのテクニカルに攻撃許可、AGMを使……",
+    ["DictKey_ActionText_301"] = "（9ライン要求準備完了）",
+    ["DictKey_subtitle_739"] = "PLAYER: 喉乾いたな、給油行こう。",
+    ["DictKey_subtitle_680"] = "WEASEL 32 (TALLY): Weasel 32。",
+    ["DictKey_subtitle_708"] = "PIRATE 41: Darkstar、Pirate 41、Typhoonが2機、我々はBrimstone4発、GBU-16を4発装備、Killbox Delta Sevenに割り当てられている。",
+    ["DictKey_subtitle_773"] = "PLAYER: Texaco、Weasel 31、補給感謝する！",
+    ["DictKey_subtitle_763"] = "PLAYER: Two、Oneは完了。4000ポンドまで給油しといてくれ。",
+    ["DictKey_subtitle_186"] = "WEASEL 32（TALLY）: Two。",
+    ["DictKey_subtitle_152"] = "HEAVY 45: Darkstar、こちらHeavy 45。",
+    ["DictKey_subtitle_289"] = "PLAYER: Two、One。Fighter to fighter。 Trail、 shooter - goalie、GBU-12、西から進入、東へ離脱。",
+    ["DictKey_ActionRadioText_106"] = "",
+    ["DictKey_ActionText_23"] = "",
+    ["DictKey_ActionRadioText_328"] = "",
+    ["DictKey_subtitle_55"] = "PLAYER: Weasels、ボタン4へ。",
+    ["DictKey_ActionText_11"] = "",
+    ["DictKey_ActionText_676"] = "",
+    ["DictKey_subtitle_698"] = "DARKSTAR: 少し待て、Boar。",
+    ["DictKey_subtitle_170"] = "PLAYER: Darkstar、Weasel 31、どうぞ。",
+    ["DictKey_subtitle_162"] = "COWBOY 51: Darkstar、Cowboy 51、タンカーへのアルファチェックを要請。",
+    ["DictKey_ActionText_775"] = "",
+    ["DictKey_subtitle_506"] = "WEASEL 32 (TALLY): ラジャー。",
+    ["DictKey_ActionRadioText_787"] = "給油完了",
+    ["DictKey_subtitle_279"] = "PLAYER: Habu 21、Weasel 31、了解。上空監視支援に入る。",
+    ["DictKey_subtitle_182"] = "DARKSTAR: Weasel 31、スイッチ許可。健闘を祈る。",
+    ["DictKey_ActionRadioText_935"] = "1. 確認",
+    ["DictKey_ActionText_741"] = "",
+    ["DictKey_subtitle_225"] = "HABU 21: 了解、Weasel 31、こちらHabu 21、lima charlie、そちらは？オーバー。",
+    ["DictKey_ActionRadioText_749"] = "空中給油へ",
+    ["DictKey_subtitle_832"] = "WEASEL 32 (TALLY): Weasel 32。",
+    ["DictKey_ActionText_99"] = "（TOWERに切り替え）",
+    ["DictKey_ActionRadioText_203"] = "2. 繰り返しを要求",
+    ["DictKey_subtitle_490"] = "PLAYER: Darkstar、Weasel 31、どうぞ。",
+    ["DictKey_subtitle_806"] = "APPROACH: Weasel flight、Incirlik Approach、レーダーコンタクト。Eagle上空で5000フィートまで降下、Towerへコンタクト。滑走路05へビジュアルアプローチ。",
+    ["DictKey_ActionText_34"] = "Tech S 配置完了",
+    ["DictKey_subtitle_333"] = "HABU 21: Weasels、了解。Habuは大きなモスクへ向けて南へ移動中。",
+    ["DictKey_ActionRadioText_963"] = "フェンスアウト",
+    ["DictKey_subtitle_184"] = "PLAYER: Weasels、フェンスイン。",
+    ["DictKey_subtitle_648"] = "BOAR 61: Weasel 31、Boar 61、現在12マイル手前。Habuは屋上に水タンクが3つあり、西側に屋根付きバルコニーのある二階建ての建物にいると確認していいか？",
+    ["DictKey_subtitle_557"] = "PLAYER: Two、One。確認できず。Fighter to fighter準備。",
+    ["DictKey_ActionText_16"] = "C33 bombs",
+    ["DictKey_subtitle_510"] = "PLAYER: Two、One。Fighter to fighter。Trail、shooter - cover。兵装はパイロットの裁量、西から進入、南へ離脱。",
+    ["DictKey_ActionText_112"] = "",
+    ["DictKey_subtitle_391"] = "WEASEL 32 (TALLY): Two、南側テクニカル、撃破！",
+    ["DictKey_ActionRadioText_125"] = "周波数変更",
+    ["DictKey_subtitle_603"] = "DARKSTAR: Weasel 31、こちらDarkstar。",
+    ["DictKey_subtitle_440"] = "WEASEL 32 (TALLY): 多分な……ISISの可能性もあるが。",
+    ["DictKey_subtitle_420"] = "MAN'S VOICE:（アラビア語のあと）ハロー？",
+    ["DictKey_subtitle_464"] = "WEASEL 32 (TALLY): Two。",
+    ["DictKey_subtitle_609"] = "PLAYER: ラジャー。Habuの位置周辺の敵勢力は排除済み。KIAが2名、負傷者が2名、Habu 21を含めて重体。",
+    ["DictKey_subtitle_287"] = "WEASEL 32 (TALLY): Two、目標捕捉。",
+    ["DictKey_ActionRadioText_823"] = "",
+    ["DictKey_subtitle_846"] = "INCIRLIK TOWER: Weasel 31、滑走路から離脱後、Groundへスイッチ。",
+    ["DictKey_subtitle_275"] = "WEASEL 32 (TALLY): Weasel 32、兵装投下。",
+    ["DictKey_ActionRadioText_469"] = "周波数変更",
+    ["DictKey_subtitle_57"] = "PLAYER: Weasels、ボタン5へ。",
+    ["DictKey_ActionText_37"] = "",
+    ["DictKey_subtitle_73"] = "PLAYER: Tower、Weasel 31、滑走路05で離陸許可。",
+    ["DictKey_subtitle_656"] = "BOAR 61: Boar 61。",
+    ["DictKey_subtitle_295"] = "PLAYER: Two、東側をソート。モスクとその周囲を注視しておけ。",
+    ["DictKey_ActionRadioText_546"] = "",
+    ["DictKey_subtitle_769"] = "PLAYER: Weasel、チェック。",
+    ["DictKey_ActionText_114"] = "（DARKSTARへ切替）",
+    ["DictKey_subtitle_522"] = "PLAYER: Two、One。Fighter to fighter。Trail、Cover - shooter。兵装パイロットの裁量、西から進入、南へ離脱。",
+    ["DictKey_ActionText_784"] = "（タンカーへ連絡し、給油を実施）",
+    ["DictKey_subtitle_369"] = "WEASEL 32 (TALLY): Habu 21の位置へ南から武装集団が接近中、10名以上。",
+    ["DictKey_ActionText_778"] = "（TOWERへ切替）",
+    ["DictKey_ActionText_814"] = "",
+    ["DictKey_subtitle_650"] = "PLAYER: Boar 61、アファーム。建物はそれで合っている。",
+    ["DictKey_subtitle_530"] = "WEASEL 32 (TALLY): Two、目標撃破。",
+    ["DictKey_ActionText_929"] = "",
+    ["DictKey_subtitle_652"] = "BOAR 61: Weasel 31、ラジャー。こちらが引き継ぐ。離脱してよい。",
+    ["DictKey_subtitle_389"] = "PLAYER: One、テクニカルに命中せず。",
+    ["DictKey_subtitle_156"] = "HEAVY 45: Darkstar、確認中…",
+    ["DictKey_subtitle_174"] = "PLAYER: Weasel 31、受信準備よし。",
+    ["DictKey_ActionRadioText_559"] = "対空砲を攻撃",
+    ["DictKey_subtitle_486"] = "COWBOY 51: Darkstar、Cowboy 51、了解。",
+    ["DictKey_subtitle_721"] = "PIRATE 41: Charlie 4へ移動、Violet 4でBoar 61と交信、ウィルコ。",
+    ["DictKey_ActionText_21"] = "",
+    ["DictKey_subtitle_219"] = "PLAYER: Weasels、PRIチェック。",
+    ["DictKey_ActionText_889"] = "",
+    ["DictKey_sortie_5"] = "M12: Raqqa part 2",
+    ["DictKey_ActionText_671"] = "",
+    ["DictKey_subtitle_735"] = "WEASEL 32 (TALLY): 問題なし、直接RTB可能。",
+    ["DictKey_subtitle_51"] = "WEASEL 32 (TALLY): Two。",
+    ["DictKey_subtitle_700"] = "DARKSTAR: 車列はFOB Nickleを出発、現在Habuの位置に向けて移動中。ETAは30分。コールサインはRattler 1。Violet 4で連絡せよ。",
+    ["DictKey_ActionText_207"] = "（復唱するか、DARKSTARに繰り返しを要求）",
+    ["DictKey_subtitle_644"] = "PLAYER: 座標は次の通り：37 S DV 99011 78386。",
+    ["DictKey_subtitle_397"] = "PLAYER: One、兵装投下。",
+    ["DictKey_ActionRadioText_781"] = "周波数変更",
+    ["DictKey_subtitle_357"] = "HABU 21: くそっ、待て、Weasel 31！",
+    ["DictKey_ActionText_920"] = "",
+    ["DictKey_subtitle_263"] = "HABU 21: Weasel 31、クリアードホット、繰り返す、クリアードホット。",
+    ["DictKey_ActionText_299"] = "",
+    ["DictKey_subtitle_636"] = "BOAR 61: Weasel 31、Boar 61、ETAは7分。南から接近中。状況を教えてくれ。",
+    ["DictKey_ActionText_103"] = "",
+    ["DictKey_ActionText_329"] = "",
+    ["DictKey_subtitle_65"] = "INCIRLIK GROUND: Weasel 31、Hotelを横断、Golfへタキシー、Alpha滑走路05手前で待機。",
+    ["DictKey_subtitle_585"] = "WEASEL 32 (TALLY): 中尉、Weasel 32だ。今、君らを脱出させるために輸送手段を手配中だ。アメリカ人と他の兵士の容態はどうか？",
+    ["DictKey_subtitle_662"] = "PLAYER: Two、Darkstarへスイッチ。",
+    ["DictKey_subtitle_634"] = "PLAYER: 到着予想を教えてくれ。",
+    ["DictKey_ActionRadioText_563"] = "",
+    ["DictKey_ActionText_928"] = "",
+    ["DictKey_ActionText_886"] = "（テクニカルへの攻撃方法を選択せよ）",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_subtitle_200"] = "PLAYER: Darkstar、Weasel 31、もう一度教えてくれ。",
+    ["DictKey_subtitle_126"] = "PLAYER: Weasels、チェック。",
+    ["DictKey_ActionText_8"] = "V12 bombs",
+    ["DictKey_ActionRadioText_899"] = "1. マーベリックで攻撃",
+    ["DictKey_subtitle_796"] = "WEASEL 32 (TALLY): Two。",
+    ["DictKey_ActionText_32"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionRadioText_940"] = "2. 攻撃を視認",
+    ["DictKey_subtitle_857"] = "WEASEL 32 (TALLY): Ground、Weasel 32、滑走路から離脱。",
+    ["DictKey_ActionText_20"] = "",
+    ["DictKey_subtitle_335"] = "PLAYER: Habu 21、Weasel 31、了解。",
+    ["DictKey_subtitle_646"] = "BOAR 61: 37 S DV 99011 78386。",
+    ["DictKey_subtitle_428"] = "MAN'S VOICE: 我々は建物内に取り残されている。仲間はアメリカ人で、さっきまで君と話していた！",
+    ["DictKey_ActionText_22"] = "",
+    ["DictKey_ActionRadioText_313"] = "",
+    ["DictKey_subtitle_569"] = "MAN'S VOICE: Weasel、ありがとう、攻撃が止んだ！",
+    ["DictKey_subtitle_140"] = "PLAYER: Weasel 31。",
+    ["DictKey_ActionRadioText_471"] = "周波数変更",
+    ["DictKey_subtitle_158"] = "HEAVY 45: Heavy 45、設定完了。",
+    ["DictKey_subtitle_859"] = "INCIRLIK GROUND: Weasel 32、Ground、Golf、Hotel経由でHotel 39へタキシーせよ。",
+    ["DictKey_subtitle_794"] = "PLAYER: よし、PRIのボタン5へ。",
+    ["DictKey_subtitle_597"] = "WEASEL 32 (TALLY): ラジャー。",
+    ["DictKey_subtitle_737"] = "PLAYER: ラジャー。",
+    ["DictKey_subtitle_395"] = "PLAYER: One、再攻撃する。",
+    ["DictKey_subtitle_611"] = "PLAYER: ラジャー。Habuの位置は依然として敵AAAの射撃を受けている。味方ユニットはKIA 2名、負傷者2名、Habu 21を含めて重体。",
+    ["DictKey_subtitle_630"] = "PLAYER: Boar 61、Boar 61、こちらWeasel 31。",
+    ["DictKey_ActionRadioText_325"] = "1. PLAYERが攻撃",
+    ["DictKey_ActionText_782"] = "",
+    ["DictKey_ActionRadioText_312"] = "",
+    ["DictKey_subtitle_387"] = "PLAYER: 北側テクニカル、撃破！",
+    ["DictKey_ActionRadioText_332"] = "2. 攻撃を視認",
+    ["DictKey_subtitle_512"] = "WEASEL 32 (TALLY): Two。",
+    ["DictKey_subtitle_496"] = "PLAYER: Two、One。DRYADカード、進展あるか？",
+    ["DictKey_subtitle_759"] = "",
+    ["DictKey_subtitle_458"] = "WEASEL 32 (TALLY): Two。",
+    ["DictKey_subtitle_69"] = "PLAYER: Tower、Weasel 3、Alpha滑走路05手前で待機中、出発準備完了。",
+    ["DictKey_subtitle_343"] = "HABU 21: Weasels、待ってくれ！",
+    ["DictKey_ActionRadioText_211"] = "",
+    ["DictKey_ActionText_466"] = "（DARKSTARへ切替）",
+    ["DictKey_ActionText_108"] = "（DEPARTUREへ切替）",
+    ["DictKey_subtitle_678"] = "PLAYER: Weasels、チェック。",
+    ["DictKey_ActionText_315"] = "（青煙を視認）",
+    ["DictKey_subtitle_426"] = "PLAYER: Abdi中尉、自分たちの位置を伝えろ。それと、仲間のコールサインを確認したい。",
+    ["DictKey_subtitle_642"] = "BOAR 61: Weasel 31、Boar 61、ラジャー。Habu 21の座標を伝えてくれ。",
+    ["DictKey_ActionRadioText_907"] = "2. GBUで攻撃",
+    ["DictKey_subtitle_943"] = "PLAYER: Weasel 31。",
+    ["DictKey_ActionRadioText_216"] = "301.6 set",
+    ["DictKey_subtitle_725"] = "PLAYER: Weasels、フェンスアウト。",
+    ["DictKey_subtitle_393"] = "WEASEL 32 (TALLY): 爆風で敵兵も巻き込んだみたいだ！",
+    ["DictKey_ActionText_319"] = "",
+    ["DictKey_subtitle_436"] = "PLAYER: よし、目標の西でアンカーを取る。俺がHabuを呼んでみる。",
+    ["DictKey_subtitle_855"] = "PLAYER: Weasel 31、Golf、Hotel経由でHotel 42へタキシー。",
+    ["DictKey_ActionRadioText_783"] = "周波数変更",
+    ["DictKey_ActionText_750"] = "",
+    ["DictKey_ActionText_18"] = "",
+    ["DictKey_ActionText_620"] = "（周波数確認、DARKSTARへ連絡）",
+    ["DictKey_subtitle_694"] = "DARKSTAR: Boar 61、Darkstar、送れ。",
+    ["DictKey_subtitle_714"] = "DARKSTAR: Pirate 41、新しい任務がある。現在、FOB Nickleから負傷者を搬送する車列が南下中。続報を待て。",
+    ["DictKey_ActionRadioText_556"] = "対空砲を視認",
+    ["DictKey_ActionRadioText_900"] = "2. GBUで攻撃",
+    ["DictKey_ActionRadioText_107"] = "周波数変更",
+    ["DictKey_subtitle_81"] = "DEPARTURE: Weasel 31、Departure、レーダーコンタクト。6000まで上昇、Falcon Exitへ直行、その後自立航法へ。",
+    ["DictKey_subtitle_540"] = "PLAYER: Two、One。Abdiってやつの認証頼む。俺はDarkstarの更新を監視する。",
+    ["DictKey_subtitle_842"] = "INCIRLIK TOWER: Weasel 31、Tower、滑走路05への着陸許可。風は050から4ノット。",
+    ["DictKey_subtitle_379"] = "PLAYER: One、西から進入。",
+    ["DictKey_subtitle_482"] = "COWBOY 51: Darkstar、Cowboy 51、Vul終了、RTB。",
+    ["DictKey_subtitle_233"] = "HABU 21: 了解、少々待て。ブレイク。9ライン準備完了、オーバー。",
+    ["DictKey_ActionRadioText_742"] = "直接RTB",
+    ["DictKey_subtitle_538"] = "WEASEL 32 (TALLY): ラジャー。",
+    ["DictKey_ActionRadioText_819"] = "周波数変更",
+    ["DictKey_ActionText_879"] = "よし、Tally、今回の任務を振り返って、改善点を見ていこう。離陸と出発時は特に問題なし、ごく普通の流れだった。DarkstarとチェックインしてすぐにHabu 21との連携任務に就いた。そこから状況が一気に動き始め、最初の目標、Habuのチームを重機関銃で攻撃していたIS兵の集団をすぐに発見した。\
+\
+チェックイン中にお前が無線で割り込んだのは、まあ面白かったかもしれないが、あれは通信規律違反だ。二度とやるな、いいな？\
+\
+敵の位置はHabuのスモークマーカーと誘導で把握して、俺がGBU-12で攻撃に入り、直撃で目標を無力化した。あれでHabuの前進ルートが開けた。\
+\
+次に、我々はHabuのチームがセクターを抜けてモスクに向かう間、上空からカバーについた。Tally、あのテクニカル2両を見つけてHabuに警告したのは見事だった。おかげでやつらは近くの建物に隠れる時間を確保できた。彼らは多少の抵抗を受けたが、なんとか処理した。その間に俺たちは敵車両への攻撃準備を進めていた。\
+\
+俺がHabuに確認を取らずに突っ込んだのはちょっと軽率だったかもしれん。もし確認してれば、彼は負傷しなかったかもしれない。ともあれ、2台のトラックとその周囲にいた武装勢力を排除した。\
+\
+Abdi中尉の認証もよくやった。あの状況でよく辛抱強く対応した。彼らはかなりのプレッシャー下にあったが、我々が正しい相手と話していると確認するのは、救出チームの安全を守るうえで絶対に必要だった。\
+\
+その後のDarkstarとの調整もスムーズで、A-10ウォートホッグの支援を確保し、FOB Nickleからの車列の出発も成功させた。\
+\
+Boarの到着を待っている間に、敵がHabuの位置に対空砲、おそらくZU-23で攻撃を仕掛けてきた。だがそれまでに何度か攻撃を外していたため、この時点で我々はウィンチェスター（弾薬切れ）で、Pig 61に脅威の通報をするしかなかった。\
+\
+Boar 61が現場に到着すると、我々は任務を終えて帰投した。あとは特筆すべきこともなく、標準的な流れだった。\
+\
+そしてさっき入った重要な情報だが、Rattler 1がHabuに接触し、無事に救出に成功した。HabuもAbdi中尉も生存している。その後、さらに2波の攻撃と1回の待ち伏せがあったが、Boar 61とPiratesがうまく対応してくれたようだ。",
+    ["DictKey_subtitle_243"] = "HABU 21: 了解。西から東の進入でGBU-12を1発。エリア内でMANPADの脅威が報告されている。",
+    ["DictKey_ActionRadioText_121"] = "周波数変更",
+    ["DictKey_ActionText_902"] = "",
+    ["DictKey_ActionRadioText_202"] = "フェンスイン",
+    ["DictKey_ActionRadioText_950"] = "",
+    ["DictKey_subtitle_227"] = "PLAYER: 同じく。Weasel 31はViper2機、AGM-65が2発、GBU-12が4発、支援可能。",
+    ["DictKey_subtitle_454"] = "WEASEL 32 (TALLY): まだ罠の可能性があるな。",
+    ["DictKey_subtitle_271"] = "WEASEL 32 (TALLY): Weasel 32、西から進入。",
+    ["DictKey_ActionText_19"] = "",
+    ["DictKey_subtitle_138"] = "DARKSTAR: Weasel 31、Darkstar、Raqqaへの進出を許可する。ピクチャークリア。TexacoはYankee航路上。Rugby 41がキルボックス北西でCAP中。",
+    ["DictKey_ActionText_628"] = "",
+    ["DictKey_subtitle_365"] = "WEASEL 32 (TALLY): One、Two。",
+    ["DictKey_ActionText_91"] = "タキシー準備ができたら、PRIをGROUNDに切り替えろ",
+    ["DictKey_ActionText_30"] = "JTAC ON",
+    ["DictKey_ActionText_824"] = "（GROUNDへ切替）",
+    ["DictKey_subtitle_424"] = "MAN'S VOICE: 俺はAbdi中尉、シリア民主軍の者だ。仲間が重傷だ、チームの一人は死亡！助けてくれ！",
+    ["DictKey_subtitle_456"] = "PLAYER: 同感だ。撃ってるやつを見つけてくれ。俺はAbdiと話す。",
+    ["DictKey_subtitle_40"] = "[ATIS INFORMATION] Incirlik空軍基地、情報Romeo、時刻10:55。風010、4ノット。視程10マイル以上。雲8000に少量、23000に散在。気温20、気圧2978。使用滑走路05。進入は目視アプローチ。情報Romeoの受信を確認せよ。",
+    ["DictKey_ActionText_39"] = "",
+    ["DictKey_subtitle_492"] = "DARKSTAR: Weasel 31、ROEはセルフディフェンス。Habuの位置を攻撃している敵勢力への交戦を許可する。現在MorpheusとMEDEVACを調整中で、A-10を2機そちらに送る。状況更新を待機し、新しい動きがあれば報告せよ。",
+    ["DictKey_subtitle_446"] = "PLAYER: ああ、そうかも。あのイニシャルとも一致するしな。",
+    ["DictKey_subtitle_133"] = "DARKSTAR: Weasel 31、Darkstar、どうぞ。",
+    ["DictKey_ActionText_331"] = "",
+    ["DictKey_subtitle_450"] = "PLAYER: One、ラジャー。",
+    ["DictKey_subtitle_853"] = "INCIRLIK GROUND: Weasel 31、Ground、Golf、Hotel経由でHotel 42へタキシーせよ。",
+    ["DictKey_subtitle_528"] = "WEASEL 32 (TALLY): Two、兵装投下！",
+    ["DictKey_subtitle_802"] = "WEASEL 32 (TALLY): Weasel 32。",
+    ["DictKey_ActionRadioText_102"] = "周波数変更",
+    ["DictKey_ActionRadioText_961"] = "周波数変更",
+    ["DictKey_subtitle_494"] = "PLAYER: Darkstar、Weasel 31、全て了解。感謝する。",
+    ["DictKey_ActionText_9"] = "V13 bombs",
+    ["DictKey_subtitle_605"] = "PLAYER: Darkstar、Weasel 31、どうぞ。",
+    ["DictKey_ActionText_303"] = "",
+    ["DictKey_subtitle_448"] = "WEASEL 32 (TALLY): 注意しろ、Habuの位置に向かって西側から曳光弾が見える。",
+    ["DictKey_ActionText_623"] = "",
+    ["DictKey_subtitle_231"] = "WEASEL 32（TALLY）: Habu 21、Weasel 3、支援可能。",
+    ["DictKey_ActionText_118"] = "",
+    ["DictKey_subtitle_261"] = "PLAYER: Weasel 31、西から進入。",
+    ["DictKey_subtitle_188"] = "WEASEL 32（TALLY）: Two、フェンスイン。",
+    ["DictKey_ActionText_553"] = "",
+    ["DictKey_ActionRadioText_936"] = "2. 繰り返しを要求",
+    ["DictKey_ActionText_322"] = "（攻撃担当を選択）",
+} -- end of dictionary

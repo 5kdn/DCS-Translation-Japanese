@@ -1,0 +1,839 @@
+dictionary = 
+{
+    ["DictKey_subtitle_249"] = "WEASEL 31（BEAR）: Tiger 21、回避しろ、小火器射撃！",
+    ["DictKey_subtitle_713"] = "PLAYER: Two。",
+    ["DictKey_ActionRadioText_961"] = "2. 誘導を要求する  ",
+    ["DictKey_subtitle_267"] = "WEASEL 31（BEAR）: Tiger 21、脱出しろ！",
+    ["DictKey_subtitle_729"] = "WEASEL 31 (BEAR): Two、ウェイポイント2で待機しよう。Tigerを待つ。",
+    ["DictKey_subtitle_500"] = "TIGER 22: Weasel 31、Tiger 22、ガンの効果あり、ボートが退却中！",
+    ["DictKey_subtitle_20"] = "WEASEL 31（BEAR）：メインビルの東に、テクニカルに載った対空砲も1基ある。",
+    ["DictKey_subtitle_608"] = "WIZARD: Blackbird 41、Wizard、リクエスト却下。",
+    ["DictKey_ActionText_68"] = "",
+    ["DictKey_ActionText_85"] = "",
+    ["DictKey_subtitle_209"] = "WEASEL 31（BEAR）：Weasel 31、テクニカル撃破。",
+    ["DictKey_ActionRadioText_101"] = "2. 繰り返してくれ",
+    ["DictKey_subtitle_669"] = "9",
+    ["DictKey_subtitle_848"] = "TIGER 22: Tiger 22。",
+    ["DictKey_ActionText_761"] = "",
+    ["DictKey_subtitle_129"] = "WEASEL 31（BEAR）：Weasel 31、東側目標に良好な命中。",
+    ["DictKey_subtitle_277"] = "PLAYER: Two。",
+    ["DictKey_subtitle_374"] = "WEASEL 31（BEAR）: Tiger 21、状況を送れ。",
+    ["DictKey_subtitle_38"] = "TIGER 21: Weasel 31、Tiger 21、ラジャー。November 14の北のチェックポイントに追加の対空砲2門をタリー。そちらで対処可能か？",
+    ["DictKey_ActionText_84"] = "",
+    ["DictKey_subtitle_787"] = "WIZARD: Weasel 31、Wizard、了解。Tiger 21はまだチェックインしていない。",
+    ["DictKey_subtitle_241"] = "WIZARD: Weasel 31、交戦を許可する。",
+    ["DictKey_subtitle_850"] = "WEASEL 31 (BEAR): Tiger 21、Weasel 31。翼下のあれ、Mark 82 Airsか？",
+    ["DictKey_ActionRadioText_72"] = "",
+    ["DictKey_ActionRadioText_176"] = "",
+    ["DictKey_subtitle_902"] = "WEASEL 31 (BEAR): ああ、あるある。",
+    ["DictKey_ActionRadioText_988"] = "チャンネル変更  ",
+    ["DictKey_subtitle_376"] = "TIGER 21: こちらTiger 21、問題ない。",
+    ["DictKey_ActionText_281"] = "",
+    ["DictKey_subtitle_586"] = "BLACKBIRD 41: Wizard、Blackbird 41、Tiger 21の位置へ向かって東南から接近中の高速艇4隻を確認。機銃掃射許可を要請する。",
+    ["DictKey_subtitle_974"] = "WEASEL 31 (BEAR): よし、Two、ATIS取って、Priの9へプッシュ。Auxで切り替えを知らせてくれ。",
+    ["DictKey_ActionText_87"] = "（応答）",
+    ["DictKey_subtitle_870"] = "WEASEL 31 (BEAR): Weasel 31、フェンスイン。",
+    ["DictKey_subtitle_292"] = "WEASEL 31（BEAR）: Weasel 31、パラシュート確認済み。",
+    ["DictKey_subtitle_576"] = "TIGER 22: Wizard、Tiger 22、ビンゴ。RTBを要請する。",
+    ["DictKey_ActionText_69"] = "",
+    ["DictKey_ActionText_410"] = "",
+    ["DictKey_subtitle_998"] = "WEASEL 31 (BEAR): Two、フレア！SAM！",
+    ["DictKey_subtitle_731"] = "PLAYER: ロジャー。",
+    ["DictKey_ActionText_930"] = "（PRIでBLUE 2へプッシュ）",
+    ["DictKey_ActionText_1000"] = "（シェルター7へ向かえ）  ",
+    ["DictKey_ActionText_677"] = "",
+    ["DictKey_subtitle_502"] = "TIGER 22: Weasel 31、Tiger 22、効果あり、敵が反転！",
+    ["DictKey_subtitle_753"] = "KING FAISAL TOWER: Weasel 31、離陸許可、滑走路10、風80で10ノット。",
+    ["DictKey_subtitle_574"] = "BLACKBIRD 41: ネガティブ。今のところはなし。",
+    ["DictKey_subtitle_838"] = "",
+    ["DictKey_ActionText_1090"] = "",
+    ["DictKey_ActionText_945"] = "",
+    ["DictKey_ActionRadioText_405"] = "",
+    ["DictKey_subtitle_687"] = "WEASEL 31 (HULK): Weasel 31、Towerへ切り替え。Two、行こう。",
+    ["DictKey_subtitle_187"] = "WEASEL 31（BEAR）：One、Two。テクニカルが残ってる。工場の外、東に約300メートルに移動してる。あれはお前に任せる。fighter to fighter待機。",
+    ["DictKey_subtitle_316"] = "WIZARD: Weasel 31、Wizard、現在対応中。",
+    ["DictKey_subtitle_207"] = "WEASEL 31（BEAR）：Weasel 31、ライフル。",
+    ["DictKey_subtitle_512"] = "WEASEL 31 (BEAR): Wizard、Weasel 31、了解。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_subtitle_596"] = "WIZARD: Blackbird 41、Wizard。リクエストは却下された、ポジションを維持せよ。",
+    ["DictKey_subtitle_747"] = "KING FAISAL TOWER: Weasel 21、離陸許可、滑走路10、風80で10ノット。",
+    ["DictKey_subtitle_816"] = "WIZARD: Tiger 21、了解。Weasel 31が君の正面20マイル、18000フィート。",
+    ["DictKey_ActionText_559"] = "",
+    ["DictKey_ActionText_92"] = "（応答）",
+    ["DictKey_subtitle_745"] = "WEASEL 21 (MENACE): Weasel 21、ナンバーワン、滑走路10。",
+    ["DictKey_subtitle_195"] = "PLAYER：One、Twoは65使い切った、ウィンチェスター。",
+    ["DictKey_ActionRadioText_223"] = "",
+    ["DictKey_ActionRadioText_414"] = "",
+    ["DictKey_ActionRadioText_175"] = "",
+    ["DictKey_ActionText_90"] = "",
+    ["DictKey_ActionText_759"] = "ATISを確認し、King Faisal Towerに切り替えよ。\
+完了したらスペースバーを押せ",
+    ["DictKey_subtitle_779"] = "WIZARD: Blackbird 41、Wizard、スタンバイ。",
+    ["DictKey_subtitle_526"] = "BLACKBIRD 41: Wizard、Blackbird 41、それじゃオンステーションできない。プレイタイムは最大40分。",
+    ["DictKey_subtitle_627"] = "WEASEL 31 (BEAR): ああ。多分対地装備はあまり積んでないはずだ。",
+    ["DictKey_subtitle_733"] = "WEASEL 21 (MENACE): Tower、Weasel 21、Sierraでタキシー、2機。",
+    ["DictKey_subtitle_536"] = "WEASEL 31 (BEAR): Weasel、AUXチェック。",
+    ["DictKey_subtitle_468"] = "WIZARD: Weasel 31、Wizard、どうぞ。",
+    ["DictKey_ActionText_561"] = "",
+    ["DictKey_ActionRadioText_436"] = "",
+    ["DictKey_subtitle_820"] = "TIGER 21: Wizard、Tiger 21、了解。",
+    ["DictKey_ActionRadioText_412"] = "1. テクニカルを視認",
+    ["DictKey_descriptionText_1"] = "今回も再び、第77飛行隊はヨルダンの同盟軍と緊密に連携し、Raqqa近郊にあるISIS支配下のレンガ工場への空爆に参加する。この施設は一見ただの工場に見えるが、諜報によれば、実際は弾薬の製造および貯蔵施設として使用されている可能性が高い。\
+\
+地上の状況は改善の兆しがない。むしろ悪化しており、敵はRaqqa北方へ全面攻勢を仕掛けてきている。Kobane周辺では激しい戦闘が続いており、すでに何度か出撃経験のある者もいるだろう。",
+    ["DictKey_ActionRadioText_103"] = "",
+    ["DictKey_subtitle_604"] = "WIZARD: Blackbird 41、Wizard、コピー。",
+    ["DictKey_ActionText_938"] = "",
+    ["DictKey_subtitle_894"] = "PLAYER: Weasel 32。",
+    ["DictKey_ActionText_757"] = "Weasel 31への応答時にスペースバーを押せ。",
+    ["DictKey_subtitle_284"] = "WEASEL 31（BEAR）: Wizard、Weasel 31。",
+    ["DictKey_ActionText_565"] = "",
+    ["DictKey_subtitle_785"] = "WEASEL 31 (BEAR): Wizard、Weasel 31、2機編隊でTiger 21と共にNovember One Fourへ移動中。",
+    ["DictKey_subtitle_856"] = "TIGER 21: ネガティブ。我々は高速・低高度進入で計画されてる。",
+    ["DictKey_ActionText_406"] = "",
+    ["DictKey_subtitle_683"] = "WEASEL 31 (HULK): Weasel 31、5000フィートへ降下、5マイル手前で報告、滑走路10への目視進入、了解。",
+    ["DictKey_subtitle_635"] = "WEASEL 31 (BEAR): パイロットが1人から2人になるリスクを避けたいんだろ。難しい判断だよ。",
+    ["DictKey_subtitle_1057"] = "",
+    ["DictKey_ActionRadioText_984"] = "チャンネル変更  ",
+    ["DictKey_subtitle_896"] = "PLAYER: マズいな。",
+    ["DictKey_ActionText_1021"] = "OK、Chaos。今日は予想も計画もしてなかったことが山ほど起きたな。今から何が起きたのか、そしてこの惨事を防ぐために何ができたのかを振り返ってみよう。\
+\
+とはいえ、正直言って、あれだけのことが起きた以上、俺たちにできたことはほとんどなかったと思う。Tigerが計画通りJDAMを使っていれば、全部回避できた可能性もある…Snakeyeなんて最悪の選択だったよ。ともかく、出撃を「Tiger 21が撃墜される前」と「撃墜された後」の2フェーズに分けて見ていこう。\
+\
+Tigersとの合流までは順調だった。November 14の南側でアンカーして、ターゲットを正しく識別して攻撃した。北側のチェックポイントには手が出せなかったが、Tiger 21を狙った攻撃の大半はあそこから来てたと思う。少なくともMANPADは確実だし、工場周辺からもトレーサーがかなり見えた。\
+\
+一回のアタックランで23ミリ機関砲を4門全部破壊したのは見事だった。そしてテクニカルに対しても攻撃した。［+15ポイント］\
+\
+ただ、Maverickを使いすぎたのは痛かった。結局、俺が自分のミサイルでテクニカルを潰す羽目になった…［−10ポイント］\
+\
+それからTiger 21が湖に着水して、敵はMRLSでとどめを刺しにきた。幸いTiger 22がそいつを見つけたが、お前が弾切れだったから、俺がMaverickで処理した。［−10ポイント］\
+\
+でもそれで終わりじゃなかった。敵はTiger 21を回収するためにモーターボートを送り込んできた。でも、以前の攻撃でMaverickはもう残ってなかった。今にもMorpheusに怒鳴り込まれそうだよ──機関砲での交戦は禁止って命令を破ったからな。だが、俺は正しい判断をしたと信じてるし、それを後悔する気はない。しかも、あれは俺の判断でやったことだ。お前は命令に従っただけだ、Chaos。だから自分の立場を心配するな。責任はすべて俺が取る。［−9ポイント］\
+\
+その後にBlackbirdが到着したが、空対空装備だけじゃどうしようもなかったし、Pedro（救難ヘリ）は遠すぎた。現地はISISがうじゃうじゃいて、俺たちにできたのは敵の動きを遅らせて、Tigerを奪った代償をたっぷり払わせることだけだった──で、それを実行した。他に手はなかったんだ。あとはヨルダン側に任せるしかない。連中が自国のパイロットをISISに見殺しにするとは思えないし、今後もこの件で何か動きがあるかもしれない。\
+\
+※補足：ヨルダン空軍のMoaz al-Kasasbeh中尉は、2014年12月24日、ISISのレンガ工場を攻撃中にF-16から脱出を強いられた。脱出の原因は不明で、ヨルダン当局はエンジン故障と発表しているが、ISISは撃墜したと主張している。彼は無事に脱出し、湖の中央──今回のミッションの舞台とほぼ同じ場所──に着水したが、現地にはCSAR（戦闘捜索救難）部隊が展開しておらず、すぐに捕らえられた。2015年1月1日には、ヨルダン特殊部隊が連合軍航空機の支援を受けて救出作戦を試みたが失敗。最終的に、2015年2月3日、ISISは中尉が火刑に処されて殺害された映像を公開した。",
+    ["DictKey_ActionText_935"] = "",
+    ["DictKey_ActionText_675"] = "（ATISを取得後、KFアプローチへ切り替え）",
+    ["DictKey_subtitle_145"] = "WEASEL 31（BEAR）：Two、セットアップは完了してるか？",
+    ["DictKey_ActionText_396"] = "",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_subtitle_52"] = "PLAYER: ああ、下に民間車両が見える。攻撃はできそうにない。",
+    ["DictKey_subtitle_111"] = "WEASEL 31（BEAR）：Trail、shooter - shooter、GBU-38を2発、南から進入、南へ離脱、ソートは西。",
+    ["DictKey_subtitle_356"] = "WIZARD: ラジャー。追加戦力をAOに投入中。待機せよ。",
+    ["DictKey_subtitle_518"] = "BLACKBIRD 41: Blackbird 41、アファーム、送ってくれ。",
+    ["DictKey_subtitle_590"] = "WIZARD: Blackbird 41、Wizard、Morpheusより許可は下りなかった。ハードデッキとROEを遵守せよ。",
+    ["DictKey_subtitle_538"] = "WEASEL 31 (BEAR): 燃料が厳しい。高度2万6千まで上げて、ステア6へ直行。",
+    ["DictKey_subtitle_727"] = "PLAYER: Two。",
+    ["DictKey_subtitle_444"] = "PLAYER: Weasel 32、タリー。",
+    ["DictKey_subtitle_568"] = "WIZARD: Blackbird 41、Wizard、ゼロ・プラス・30。",
+    ["DictKey_subtitle_322"] = "PLAYER: Weasel 32、アファーム。",
+    ["DictKey_subtitle_621"] = "PLAYER: One、Two。",
+    ["DictKey_subtitle_858"] = "WEASEL 31 (BEAR): それは我々が聞いてたのとは違うな。まあ、全体の流れは同じだ。November One Fourの南で待機、敵防空を確認・制圧してから君らに攻撃をコールする。",
+    ["DictKey_subtitle_462"] = "WEASEL 31（BEAR）: Weasel 31はWinchester。Tiger 22、兵装状況を送れ。",
+    ["DictKey_subtitle_532"] = "WEASEL 31 (BEAR): Blackbird 41、Weasel 31、了解。Wizard、WeaselsはRTBする。",
+    ["DictKey_ActionText_440"] = "Shooting capture",
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_subtitle_976"] = "PLAYER: Two、準備完了。",
+    ["DictKey_subtitle_442"] = "WEASEL 31（BEAR）: 注意しろ。湾岸施設からTiger 21に向けてボートが2隻接近中だ。",
+    ["DictKey_ActionText_162"] = "（準備完了時に応答）",
+    ["DictKey_subtitle_749"] = "WEASEL 21 (MENACE): Weasel 21、離陸許可、滑走路10。",
+    ["DictKey_subtitle_271"] = "WEASEL 31（BEAR）: パラシュート確認！",
+    ["DictKey_ActionRadioText_1042"] = "",
+    ["DictKey_subtitle_741"] = "KING FAISAL TOWER: Weasel 31、Tower、滑走路10までタキシーせよ。",
+    ["DictKey_ActionText_909"] = "",
+    ["DictKey_subtitle_336"] = "PLAYER: Weasel 32、命中、テクニカル。",
+    ["DictKey_subtitle_633"] = "PLAYER: Morpheusは何を渋ってんだ？",
+    ["DictKey_ActionText_769"] = "",
+    ["DictKey_ActionText_691"] = "",
+    ["DictKey_subtitle_253"] = "WEASEL 31（BEAR）: Tiger 21、左にブレイク、フレア！SAMだ！",
+    ["DictKey_ActionRadioText_928"] = "チャンネル変更",
+    ["DictKey_subtitle_193"] = "PLAYER：Two。",
+    ["DictKey_subtitle_592"] = "BLACKBIRD 41: Wizard、Blackbird 41。はっきり言っておく。今止めないとTiger 21は捕まるぞ。それをMorpheusに伝えてくれ。",
+    ["DictKey_subtitle_719"] = "WEASEL 31 (BEAR): 了解、タキシー準備できたら知らせろ。",
+    ["DictKey_subtitle_123"] = "PLAYER：Weasel 32。",
+    ["DictKey_ActionRadioText_73"] = "レディ",
+    ["DictKey_ActionRadioText_215"] = "1. 了解した",
+    ["DictKey_subtitle_504"] = "WEASEL 31 (BEAR): Weasel 31、了解。",
+    ["DictKey_ActionText_217"] = "（応答を選択）",
+    ["DictKey_ActionText_763"] = "",
+    ["DictKey_subtitle_314"] = "WEASEL 31（BEAR）: ラジャー。ブレイク。Wizard、Pedroの件はどうなった？",
+    ["DictKey_subtitle_127"] = "WEASEL 31 (BEAR): Weasel 31, bombs away. ",
+    ["DictKey_ActionRadioText_395"] = "",
+    ["DictKey_ActionRadioText_418"] = "1. ラジャー",
+    ["DictKey_ActionText_70"] = "",
+    ["DictKey_subtitle_131"] = "PLAYER: Weasel 32, bombs away.",
+    ["DictKey_ActionRadioText_433"] = "",
+    ["DictKey_subtitle_448"] = "PLAYER: Weasel 32。",
+    ["DictKey_subtitle_886"] = "TIGER 21: ラジャー、ウィルコ。",
+    ["DictKey_subtitle_1059"] = "WEASEL 31（BEAR）：よし、Weasel隊、フェンスアウト。",
+    ["DictKey_ActionRadioText_168"] = "1. 了解した",
+    ["DictKey_ActionRadioText_430"] = "ラジャー",
+    ["DictKey_subtitle_834"] = "",
+    ["DictKey_subtitle_143"] = "PLAYER：Weasel 32。",
+    ["DictKey_subtitle_709"] = "[ATIS情報] King Faisal Air Base、情報Tango、時刻04:55。風080で10。視程10マイル以上。雲は18000フィートでブロークン。気温17度、気圧29.87。使用滑走路は10。目視進入が予想される。Tango情報を受信したことを伝達せよ。",
+    ["DictKey_subtitle_362"] = "PLAYER: Tiger 21、Tiger 21、Weasel 32、どうぞ。",
+    ["DictKey_subtitle_751"] = "WEASEL 31 (BEAR): Tower、Weasel 31、ナンバーツー、滑走路10。",
+    ["DictKey_subtitle_197"] = "WEASEL 31（BEAR）：Weasel 32、ラジャー。IPに戻れ。Weasel 31が65でテクニカルにインする。",
+    ["DictKey_subtitle_801"] = "WIZARD: 幸運を祈る、Weasels。",
+    ["DictKey_ActionText_1005"] = "OK、Chaos。今日は想定外のことが多すぎたな。何が起きたのか、それとどうすればこの惨事を回避できたのかを振り返ろう。\
+\
+とはいえ正直なところ、あれだけの事態になった以上、俺たちにできることはほとんどなかった。Tigerが計画通りにJDAMを使っていれば、こんなことにはならなかっただろうに…Snakeyeは最悪の選択だった。とにかく、今回のソーティをTiger 21が撃墜される前と後で分けて整理しよう。\
+\
+Tigerとランデブーするまでは順調だった。November 14の南側にアンカーして、目標を正しく識別、攻撃も実行できた。北側のチェックポイントは手出しできなかったが、Tiger 21に対する攻撃の多くは、少なくともMANPADはあそこから飛んできたように見えた。あと、工場周辺からもトレーサーが結構出てたな。\
+\
+で、お前のJDAMは一体どうなってたんだ？　あのミスで重要な65を一発無駄にする羽目になったし、あれが後々必要になったのは言うまでもない。まあ大勢に影響はなかったとしてもな…【−20ポイント】\
+\
+でもテクニカルを見つけて叩いたのはナイスだった。【＋10ポイント】\
+\
+そのあとTiger 21が湖に落ちた後、敵はMRLSで仕留めに来た。運良くTiger 22があのクソ野郎を見つけて、お前がMaverickで片付けてくれた。よくやった。【＋10ポイント】\
+\
+でもそれで終わらなかった。敵はTiger 21を回収しようとモーターボートまで出してきた。運良く俺にミサイルが残ってたから、そいつらも沈めてやった。【＋9ポイント】\
+\
+そのあとBlackbirdが来たが、あいつらは空対空専用装備だったし、Pedro（救難ヘリ）も遠くにいたから何もできなかった。エリアはISISで溢れていたし、全体を見渡す限り、俺たちにできたのはやつらの動きを遅らせて、Tigerの捕獲に対して高い代償を払わせることくらいだった。止める手段はなかった。あとはヨルダン軍の判断次第だが、仲間をISISに殺されるのを黙って見ているとは思えない。Tiger救出絡みでもう一波乱あるかもしれんな。\
+\
+※補足：ヨルダン空軍のMoaz al-Kasasbeh中尉は、2014年12月24日にISISのレンガ工場を攻撃中にF-16を脱出する事態に見舞われた。脱出の原因は不明で、ヨルダン当局はエンジントラブルと発表したが、ISIS側は撃墜したと主張している。いずれにせよ、中尉は無事に射出には成功したが、湖の真ん中に降下し、任務中の本ミッションとほぼ同じ地点で着水している。当時、CSAR部隊は展開しておらず、彼はすぐに拘束された。2015年1月1日にはヨルダン特殊部隊と連合軍による救出作戦が失敗に終わり、最終的に2015年2月3日、ISISが彼を火刑に処した映像を公開した。",
+    ["DictKey_subtitle_1063"] = "PLAYER：Two、フェンスアウト。",
+    ["DictKey_ActionText_918"] = "",
+    ["DictKey_subtitle_516"] = "WEASEL 31 (BEAR): Blackbird 41、Weasel 31、了解。状況報告いけるか？",
+    ["DictKey_subtitle_641"] = "PLAYER: Two。",
+    ["DictKey_ActionText_564"] = "",
+    ["DictKey_ActionText_706"] = "",
+    ["DictKey_subtitle_1061"] = "PLAYER：Two。",
+    ["DictKey_subtitle_476"] = "WIZARD: Weasel 31、Wizard、ネガティブ、引き続き待機。",
+    ["DictKey_ActionRadioText_409"] = "1. タリー",
+    ["DictKey_ActionText_678"] = "",
+    ["DictKey_subtitle_407"] = "PLAYER: Tiger 22、今のをもう一度。",
+    ["DictKey_subtitle_348"] = "TIGER 22: こちらTiger 22、警告。テクニカルがTiger 21に向けてロケットを撃ってる！",
+    ["DictKey_subtitle_233"] = "WEASEL 31（BEAR）: Wizard、Weasel 31。こちらのチャンネルをモニターしているか？",
+    ["DictKey_subtitle_623"] = "WEASEL 31 (BEAR): Two、送れ。",
+    ["DictKey_subtitle_892"] = "WEASEL 31 (BEAR): Weasels、この位置でホールド。センサーを目標に向けろ。",
+    ["DictKey_ActionRadioText_152"] = "2. まだ準備できていない",
+    ["DictKey_ActionText_943"] = "",
+    ["DictKey_subtitle_488"] = "WEASEL 31 (BEAR): Roger、Tiger 21、待機せよ。",
+    ["DictKey_ActionText_283"] = "ATTACK",
+    ["DictKey_ActionText_1011"] = "OK、Chaos。今日は予想外の展開ばかりで、計画にもなかったことが山ほど起きた。まずは何が起きたか、それから、どうすればこの惨事を防げたのかを振り返ってみよう。\
+\
+とはいえ正直なところ、全部終わってみれば俺たちにできたことはほとんどなかった気がする。Tigerが計画通りにJDAMを使ってくれていれば、こんな事態にはならなかったはずだ。Snakeyeなんて最悪の選択だった。とにかく、ソーティを「Tiger 21が撃たれる前」と「撃たれた後」に分けて見ていこう。\
+\
+Tigersとのランデブーまではすべて順調だった。November 14の南でアンカーして、目標を正しく識別、攻撃も実行した。北側のチェックポイントは手が出せなかったが、おそらくそこからTiger 21に対する攻撃が来た。少なくともMANPADはそこからで、工場の周辺からもトレーサーがかなり飛んでいた。\
+\
+一回のアタックランで23ミリ機関砲を4門全部破壊したのは見事だった。そしてテクニカルに対しても攻撃した。【＋15ポイント】\
+\
+テクニカルを見つけて叩いたのは見事だった。ナイスキル。【＋10ポイント】\
+\
+それからTiger 21が湖に着水して、敵がMRLSで仕留めにきた。Tiger 22がそいつを発見、お前がMaverickで仕留めた。よくやった。【＋10ポイント】\
+\
+でもまだ終わらなかった。敵はモーターボートを送り込んでTiger 21を回収しようとしたが、ターゲティングのミスが続いてMaverickは残っていなかった。Morpheusから「機関砲での交戦は禁止だ」って命令が出てたのに、俺たちはそれを無視した。今にもあの親父が怒鳴り込んできそうだ。でもな、あれは正しい判断だった。俺はそう信じてるし、全責任は俺が取る。お前は俺の命令に従っただけだ、Chaos。だからウィングのことは心配するな。【−9ポイント】\
+\
+その後Blackbirdが来たが、空対空装備しかなく、Pedro（救難ヘリ）も遠すぎて何もできなかった。エリアはISISに溢れていて、あの状況下で俺たちにできた唯一のこと――実際にやったことでもあるが――は、敵の動きを遅らせて、Tigerを捕まえた代償をしっかり払わせることだけだった。防ぐ手段はなかった。あとはヨルダン次第だ。自国のパイロットをISISに殺されるのを黙って見てるとは思えないし、あの捕虜になったパイロットに関連して、まだ動きがあるかもしれないな。\
+\
+※補足：ヨルダン空軍のMoaz al-Kasasbeh中尉は、2014年12月24日、ISISのレンガ工場を攻撃中にF-16から脱出を余儀なくされた。脱出の原因は不明で、ヨルダン側はエンジン故障とし、ISISは撃墜と主張している。パラシュート脱出には成功したが、着水地点は湖の中央で、このミッションとほぼ同じ場所だった。そこにはCSAR（戦闘捜索救難）部隊はおらず、彼はすぐにISISに捕らえられた。2015年1月1日には、ヨルダン特殊部隊と連合軍機による救出作戦が行われたが失敗。そして2015年2月3日、ISISは中尉を火刑に処す映像を公開した。",
+    ["DictKey_subtitle_860"] = "TIGER 21: Tiger 21、了解。",
+    ["DictKey_subtitle_810"] = "TIGER 21: Tiger 21、無線チェック。",
+    ["DictKey_ActionRadioText_173"] = "2. 繰り返してくれ",
+    ["DictKey_subtitle_707"] = "[ATIS情報] King Faisal Air Base、情報Sierra、時刻03:55。風080で10。視程10マイル以上。雲は18000フィートでブロークン。気温17度、気圧29.87。使用滑走路は10。目視進入が予想される。Sierra情報を受信したことを伝達せよ。",
+    ["DictKey_subtitle_201"] = "PLAYER：Weasel 32、ライフル！",
+    ["DictKey_ActionText_765"] = "",
+    ["DictKey_ActionText_184"] = "",
+    ["DictKey_subtitle_854"] = "WEASEL 31 (BEAR): 計画通りならJDAMのはずだったが？",
+    ["DictKey_ActionText_224"] = "",
+    ["DictKey_subtitle_846"] = "TIGER 21: Tiger 21。",
+    ["DictKey_subtitle_474"] = "WEASEL 31 (BEAR): Wizard、Weasel 31、更新は？",
+    ["DictKey_ActionText_434"] = "",
+    ["DictKey_ActionRadioText_151"] = "1. 攻撃準備完了",
+    ["DictKey_subtitle_812"] = "TIGER 22: Tiger 22。",
+    ["DictKey_subtitle_637"] = "PLAYER: ラジャー…",
+    ["DictKey_subtitle_615"] = "BLACKBIRD 41: Wizard、Blackbird 41。4隻の高速艇は湾岸施設方面へ後退中。現地には小火器とMANPADを装備した武装勢力が多数。",
+    ["DictKey_subtitle_380"] = "TIGER 21: 感謝する。岸まで泳ぐべきか？",
+    ["DictKey_subtitle_755"] = "WEASEL 31 (BEAR): Tower、Weasel 31、離陸許可、滑走路10。",
+    ["DictKey_subtitle_40"] = "WEASEL 31（BEAR）: ネガティブ、Tiger 21。チェックポイント付近に民間人が多すぎる。自力で走り抜けるしかない。",
+    ["DictKey_ActionText_400"] = "",
+    ["DictKey_subtitle_34"] = "TIGER 21: Tiger 21、どうぞ。",
+    ["DictKey_subtitle_125"] = "PLAYER：Weasel 32、ライフル！",
+    ["DictKey_ActionRadioText_1079"] = "フェンスイン",
+    ["DictKey_ActionRadioText_1045"] = "",
+    ["DictKey_ActionText_921"] = "",
+    ["DictKey_subtitle_60"] = "PLAYER: One、さっきのもう一回言ってくれ。",
+    ["DictKey_subtitle_480"] = "WIZARD: Weasel 31、Wizard、Morpheusからの許可は下りていない。",
+    ["DictKey_subtitle_793"] = "WIZARD: Weasel 21、こちらWizard、送れ。",
+    ["DictKey_ActionRadioText_957"] = "チャンネル変更",
+    ["DictKey_subtitle_659"] = "4",
+    ["DictKey_ActionRadioText_435"] = "",
+    ["DictKey_subtitle_650"] = "PLAYER: Two。",
+    ["DictKey_subtitle_346"] = "WEASEL 31（BEAR）: Weasel 31、命中、テクニカル。",
+    ["DictKey_subtitle_294"] = "WIZARD: ラジャー。Weasel 31が現場指揮を取れ。Tiger 21とは通信取れてるか？",
+    ["DictKey_ActionRadioText_229"] = "test",
+    ["DictKey_subtitle_679"] = "WEASEL 31 (HULK): King Faisal Approach、こちらWeasel 31、F-16二機、Tangoを持って進入中、滑走路10、イニシャルをリクエスト。",
+    ["DictKey_subtitle_12"] = "TIGER 21：Tiger 21、ポジションについた。",
+    ["DictKey_ActionRadioText_411"] = "2. 誘導を要求する",
+    ["DictKey_subtitle_32"] = "WEASEL 31（BEAR）: Tiger 21、Weasel 31。",
+    ["DictKey_subtitle_540"] = "TIGER 22: Weasels、ブレイク、フレア、SAM、北方向！",
+    ["DictKey_subtitle_259"] = "TIGER 22: Tiger 22、爆弾投下！",
+    ["DictKey_subtitle_36"] = "WEASEL 31（BEAR）: Weaselsは敵防空の交戦準備完了。約7分後に突入予定。",
+    ["DictKey_ActionText_460"] = "",
+    ["DictKey_subtitle_18"] = "PLAYER：Weasel 32、ラジャー。",
+    ["DictKey_subtitle_508"] = "WEASEL 31 (BEAR): Wizard、Weasel 31、VULタイム終了間近。",
+    ["DictKey_subtitle_1028"] = "",
+    ["DictKey_subtitle_799"] = "WEASEL 21 (MENACE): Weasel 21、ラジャー。",
+    ["DictKey_subtitle_185"] = "WEASEL 31（BEAR）：One、ラジャー。",
+    ["DictKey_ActionText_170"] = "F10メニューを使って、Fighter to Fighterを了承するか、BEARにリピートを依頼せよ。",
+    ["DictKey_subtitle_900"] = "PLAYER: Navyのパイロットがホースからバスケットを引きちぎったって話、よく聞くけど…",
+    ["DictKey_ActionText_916"] = "",
+    ["DictKey_subtitle_121"] = "PLAYER：Weasel 32、南から進入。",
+    ["DictKey_subtitle_685"] = "APPROACH: Weasel 31、Towerへ切り替え。",
+    ["DictKey_subtitle_22"] = "PLAYER：Two、タリー。",
+    ["DictKey_subtitle_696"] = "WEASEL 31 (HULK): King Faisal Tower、Weasel 31、2機編隊、滑走路10、5マイルイニシャル、フルストップ。",
+    ["DictKey_ActionText_416"] = "",
+    ["DictKey_subtitle_743"] = "WEASEL 31 (BEAR): Tower、Weasel 31、滑走路10までタキシー。",
+    ["DictKey_ActionRadioText_970"] = "チャンネル変更  ",
+    ["DictKey_subtitle_828"] = "WEASEL 31 (BEAR): 了解、Tiger 21。ブレイク。Wizard、Weasel 31、プッシュする。",
+    ["DictKey_ActionText_914"] = "",
+    ["DictKey_subtitle_844"] = "PLAYER: Weasel 32。",
+    ["DictKey_subtitle_255"] = "WEASEL 31（BEAR）: Tiger 21、白煙を引いてる！",
+    ["DictKey_subtitle_306"] = "TIGER 22: Tiger 22、アファーム！",
+    ["DictKey_subtitle_584"] = "BLACKBIRD 41: Wizard、Blackbird 41、了解。",
+    ["DictKey_ActionRadioText_230"] = "test",
+    ["DictKey_ActionComment_560"] = "",
+    ["DictKey_subtitle_972"] = "",
+    ["DictKey_ActionRadioText_964"] = "2. 誘導の繰り返しを要求する  ",
+    ["DictKey_subtitle_30"] = "PLAYER: Two、ラジャー。",
+    ["DictKey_ActionRadioText_164"] = "2. まだ準備できていない",
+    ["DictKey_subtitle_594"] = "WIZARD: Blackbird 41、了解、少し待て。",
+    ["DictKey_ActionText_933"] = "",
+    ["DictKey_ActionRadioText_1047"] = "2. まだ準備できていない",
+    ["DictKey_subtitle_1065"] = "WEASEL 31（BEAR）：Weasel 31、フェンスアウト。",
+    ["DictKey_ActionText_180"] = "",
+    ["DictKey_ActionRadioText_91"] = "1. 了解した",
+    ["DictKey_subtitle_617"] = "WIZARD: 了解、Blackbird 21。状況を監視せよ。",
+    ["DictKey_ActionText_954"] = "",
+    ["DictKey_subtitle_378"] = "WEASEL 31（BEAR）: ラジャー。脅威は無力化した。",
+    ["DictKey_subtitle_107"] = "WEASEL 31（BEAR）：Two、fighter to fighterに備えろ。",
+    ["DictKey_ActionRadioText_71"] = "",
+    ["DictKey_subtitle_888"] = "WEASEL 31 (BEAR): Weasel 31、November One Four接近中。Tigersは待機ポイントへプッシュ。",
+    ["DictKey_subtitle_824"] = "WEASEL 31 (BEAR): Tiger 21、Weasel 31、了解、急いでくれ。",
+    ["DictKey_subtitle_66"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_subtitle_582"] = "WIZARD: Blackbird 41、タンカーはあと2時間は来ない。",
+    ["DictKey_subtitle_324"] = "WEASEL 31（BEAR）: ラジャー。テクニカルを視認したら言え。",
+    ["DictKey_subtitle_42"] = "TIGER 21: Tiger 21、ラジャー。",
+    ["DictKey_subtitle_723"] = "PLAYER: Two、タキシー準備完了。",
+    ["DictKey_subtitle_890"] = "TIGER 21: Tiger 21。",
+    ["DictKey_subtitle_273"] = "PLAYER: Two。",
+    ["DictKey_ActionRadioText_923"] = "チャンネル変更",
+    ["DictKey_subtitle_884"] = "WEASEL 31 (BEAR): ってことは、AOの偵察と防空制圧に使える時間が減るってことだ。こっちが終わるまで、燃料節約モードで待っててくれ。",
+    ["DictKey_subtitle_808"] = "WIZARD: Weasel 31、Wizard、了解。",
+    ["DictKey_subtitle_1022"] = "",
+    ["DictKey_subtitle_1024"] = "WEASEL 31（BEAR）：Weasel 31、November One Fourに接近中。Tigers、ホールドポイントへ向かえ。",
+    ["DictKey_ActionText_936"] = "（センサーが目標を捕捉中）",
+    ["DictKey_subtitle_566"] = "BLACKBIRD 41: Wizard、Blackbird 41、ヨルダン機のETAは？",
+    ["DictKey_subtitle_16"] = "WEASEL 31（BEAR）：Weasel 31、計画通り、23ミリ砲座4基を確認。主目標の東側に2基、西側に2基。",
+    ["DictKey_subtitle_245"] = "TIGER 21: Tiger 21、東から攻撃に入る。",
+    ["DictKey_ActionComment_942"] = "",
+    ["DictKey_subtitle_48"] = "PLAYER: Two、準備OK。",
+    ["DictKey_ActionText_927"] = "",
+    ["DictKey_subtitle_135"] = "WEASEL 31（BEAR）：ラジャー。",
+    ["DictKey_subtitle_350"] = "WIZARD: Weasel 31、Wizard。PedroのETAは1プラス30。プレイタイムを送れ。",
+    ["DictKey_subtitle_247"] = "TIGER 22: Tiger 22、アタック開始。",
+    ["DictKey_subtitle_588"] = "WIZARD: Blackbird 41、スタンバイ。",
+    ["DictKey_subtitle_105"] = "WEASEL 31（BEAR）：ラジャー。fighter to fighterに備えろ。",
+    ["DictKey_subtitle_1026"] = "TIGER 21：Tiger 21。",
+    ["DictKey_ActionRadioText_219"] = "1. 了解した",
+    ["DictKey_subtitle_191"] = "WEASEL 31（BEAR）：Wedge、cover - shooter、65、南から進入、南へ離脱。",
+    ["DictKey_ActionText_95"] = "",
+    ["DictKey_ActionRadioText_1069"] = "フェンスアウト",
+    ["DictKey_subtitle_484"] = "WIZARD: Weasel 31、了解。",
+    ["DictKey_ActionText_392"] = "（応答を選択）",
+    ["DictKey_subtitle_735"] = "KING FAISAL TOWER: Weasel 21、Tower、滑走路10までタキシーせよ。",
+    ["DictKey_ActionText_403"] = "（応答を選択）",
+    ["DictKey_ActionRadioText_100"] = "1. 了解した",
+    ["DictKey_subtitle_312"] = "PLAYER: Weasel 31、Weasel 32、Tiger 21と通信確立。",
+    ["DictKey_ActionText_89"] = "",
+    ["DictKey_subtitle_524"] = "WIZARD: Blackbird 41、PedroのETAは1時間以上。",
+    ["DictKey_ActionRadioText_97"] = "",
+    ["DictKey_ActionRadioText_948"] = "1. 攻撃準備完了",
+    ["DictKey_subtitle_470"] = "WEASEL 31 (BEAR): Tiger 21に接近中のボートに対し、ハードデッキを破って機銃掃射を実施したい。許可を求む。",
+    ["DictKey_ActionText_764"] = "",
+    ["DictKey_subtitle_673"] = "11",
+    ["DictKey_subtitle_113"] = "PLAYER：Two、ラジャー、準備OK。",
+    ["DictKey_subtitle_704"] = "WEASEL 31 (HULK): Tower、Weasel 31、滑走路離脱後、シェルター7と8へ。",
+    ["DictKey_ActionText_913"] = "",
+    ["DictKey_subtitle_251"] = "TIGER 21: Tiger 21、爆弾投下！",
+    ["DictKey_ActionText_8"] = "Bombs Away",
+    ["DictKey_subtitle_265"] = "TIGER 21: 悪化してる……操縦不能！メイデイ、メイデイ！",
+    ["DictKey_ActionRadioText_166"] = "",
+    ["DictKey_subtitle_290"] = "WIZARD: Weasel 31、Wizard、Tiger 21に対してFallen Angelを受信。パラシュートは確認済みか？",
+    ["DictKey_subtitle_320"] = "WEASEL 31（BEAR）: Tiger 22、Weasel 31、ラジャー。ブレイク。Weasel 32、65はまだ残ってるか？",
+    ["DictKey_subtitle_663"] = "6",
+    ["DictKey_subtitle_602"] = "BLACKBIRD 41: Wizard、Blackbird 41。あの4隻のボート、あと5分以内にTiger 21に到達するぞ。",
+    ["DictKey_subtitle_876"] = "WIZARD: Weasels、TexacoはトラブルでRTB中。いま使えるタンカーは無し。計画を調整せよ。",
+    ["DictKey_subtitle_570"] = "BLACKBIRD 41: Wizard、Blackbird 41、了解。海岸沿いの動きが活発だ。南側の岸でボートの追加展開準備が進んでるように見える。武装人員を載せた車両4台が湾岸施設へ向かって北上中。",
+    ["DictKey_ActionRadioText_1080"] = "",
+    ["DictKey_ActionText_179"] = "",
+    ["DictKey_ActionText_437"] = "",
+    ["DictKey_subtitle_26"] = "PLAYER: Two、チェックポイントをタリー。",
+    ["DictKey_subtitle_520"] = "WEASEL 31 (BEAR): Tiger 21が被弾し、緊急脱出。位置はブルズ320、距離12。湖に着水し、Red 1チャンネルで通信確立済み。敵はロケット搭載の車両で攻撃後、モーターボート2隻で接近したが撃退済み。海岸線付近にIS戦闘員の動きあり。MANPADの存在可能性高し。",
+    ["DictKey_ActionText_388"] = "",
+    ["DictKey_subtitle_665"] = "7",
+    ["DictKey_ActionText_153"] = "（準備ができたら応答してください。まだならその旨を）",
+    ["DictKey_subtitle_308"] = "WEASEL 31（BEAR）: Tiger 22、墜落地点の北および北西の湖岸をスキャンして敵の動きがあれば報告してくれ。",
+    ["DictKey_ActionText_431"] = "",
+    ["DictKey_subtitle_472"] = "WIZARD: Weasel 31、待機せよ。",
+    ["DictKey_subtitle_610"] = "BLACKBIRD: Wizard、Blackbird 41、アップデート。捕まった。Tiger 21は拘束され、高速艇の1隻に乗せられた。",
+    ["DictKey_ActionRadioText_953"] = "",
+    ["DictKey_subtitle_450"] = "WEASEL 31（BEAR）: Weasel 31、ライフル。",
+    ["DictKey_subtitle_874"] = "WEASEL 31 (BEAR): Wizard、Weasel 31、どうぞ。",
+    ["DictKey_ActionText_770"] = "",
+    ["DictKey_subtitle_304"] = "WEASEL 31（BEAR）: Tiger 22、Weasel 31。この周波数にいるか？",
+    ["DictKey_subtitle_149"] = "PLAYER：ネガティブ、ちょっと待ってくれ。",
+    ["DictKey_subtitle_795"] = "WEASEL 21 (MENACE): Weasel 21、Lima One EightでSCARを実施、Spectreへ切り替え。",
+    ["DictKey_ActionText_6"] = "Eject",
+    ["DictKey_subtitle_619"] = "BLACKBIRD: Blackbird 41。",
+    ["DictKey_ActionText_9"] = "Rifle 2",
+    ["DictKey_subtitle_514"] = "BLACKBIRD 41: Weasel 31、Blackbird 41、チェックイン。",
+    ["DictKey_subtitle_494"] = "PLAYER: Weasel 32。",
+    ["DictKey_ActionText_643"] = "",
+    ["DictKey_ActionRadioText_1082"] = "フェンスイン",
+    ["DictKey_subtitle_791"] = "WEASEL 21 (MENACE): Wizard、Weasel 21。",
+    ["DictKey_subtitle_189"] = "PLAYER：Two、準備完了。",
+    ["DictKey_ActionRadioText_951"] = "チャンネル変更",
+    ["DictKey_subtitle_203"] = "PLAYER：Weasel 32、テクニカル撃破。",
+    ["DictKey_ActionRadioText_929"] = "チャンネル変更",
+    ["DictKey_subtitle_239"] = "WIZARD: Weasel 31、Wizard、ラジャー。スタンバイ。",
+    ["DictKey_subtitle_318"] = "TIGER 22: Weasel、Tiger 22、警告。湾岸施設から南に向かってロケット砲を搭載したテクニカルが接近中。",
+    ["DictKey_ActionRadioText_1041"] = "",
+    ["DictKey_ActionRadioText_399"] = "",
+    ["DictKey_ActionText_387"] = "",
+    ["DictKey_ActionText_439"] = "カウントダウン開始",
+    ["DictKey_subtitle_64"] = "WEASEL 31 (BEAR): 了解。攻撃プロファイルを設定してスタンバイ。",
+    ["DictKey_subtitle_490"] = "TIGER 21: Tiger 21、もう近い、支援が必要だ！",
+    ["DictKey_subtitle_739"] = "WEASEL 31 (BEAR): Tower、Weasel 31、Sierraで2機タキシー。",
+    ["DictKey_subtitle_227"] = "WEASEL 31（BEAR）: Weasel 31、攻撃に入る。",
+    ["DictKey_subtitle_46"] = "PLAYER: 了解。",
+    ["DictKey_ActionRadioText_398"] = "1. タリー",
+    ["DictKey_subtitle_506"] = "",
+    ["DictKey_subtitle_773"] = "WEASEL 31 (BEAR): Weasel 31、PRIチェック。",
+    ["DictKey_subtitle_24"] = "WEASEL 31（BEAR）: 道路沿い北側を進んだ先のチェックポイントに23ミリが2門いる。視認したら言え。",
+    ["DictKey_ActionRadioText_1046"] = "1. 攻撃準備完了",
+    ["DictKey_subtitle_830"] = "WIZARD: Weasel 31、Wizard、幸運を。",
+    ["DictKey_subtitle_546"] = "BLACKBIRD 41: Tiger 21、こちらBlackbird 41、上空で監視中。援護に入る。",
+    ["DictKey_subtitle_789"] = "WEASEL 31 (BEAR): Weasel 31、了解。",
+    ["DictKey_subtitle_310"] = "TIGER 22: Tiger 22、ラジャー。",
+    ["DictKey_ActionText_81"] = "北側のチェックポイントを視認できたらスペースバーを押せ。",
+    ["DictKey_ActionText_1083"] = "",
+    ["DictKey_ActionText_941"] = "",
+    ["DictKey_subtitle_360"] = "PLAYER: Tiger 21、こちらWeasel 32、応答願う。",
+    ["DictKey_subtitle_864"] = "PLAYER: Weasel 32、フェンスイン。",
+    ["DictKey_ActionRadioText_922"] = "チャンネル変更",
+    ["DictKey_subtitle_137"] = "PLAYER：Weasel 32、1発命中、1発ミス。",
+    ["DictKey_ActionText_689"] = "PRIでKing Faisal Towerの周波数に切り替えよ。\
+準備ができたらスペースバーを押せ",
+    ["DictKey_subtitle_358"] = "PLAYER: Tiger 21、Weasel 32、聞こえるか？",
+    ["DictKey_ActionText_768"] = "",
+    ["DictKey_subtitle_572"] = "WIZARD: 了解、Blackbird 41。Tiger 21の位置に接近中のボートはあるか？",
+    ["DictKey_subtitle_50"] = "WEASEL 31 (BEAR): チェックポイントの対空砲、Tigerのアタックランに射程が届いてるようだ。",
+    ["DictKey_subtitle_654"] = "2",
+    ["DictKey_subtitle_368"] = "TIGER 21: ラジャー…ラジャー。",
+    ["DictKey_ActionText_11"] = "",
+    ["DictKey_subtitle_382"] = "WEASEL 31（BEAR）: ネガティブ、その場を維持せよ。",
+    ["DictKey_subtitle_263"] = "WEASEL 31（BEAR）: ラジャー。上昇して南へ離脱しろ。",
+    ["DictKey_subtitle_698"] = "KING FAISAL TOWER: Weasel 31、Tower、着陸許可、滑走路10、風は080で10ノット。",
+    ["DictKey_subtitle_783"] = "BLACKBIRD 41: Wizard、Blackbird 41、ラジャー。",
+    ["DictKey_subtitle_211"] = "WEASEL 31（BEAR）：Tiger 21、Weasel 31フライトは上空カバーに入る。主目標への攻撃を許可する。北側のAAAに注意しろ。",
+    ["DictKey_subtitle_681"] = "APPROACH: Weasel flight、Approach、レーダーコンタクト。5000フィートまで降下せよ。5マイル手前で報告を。滑走路10への目視進入を予期せよ。",
+    ["DictKey_subtitle_1032"] = "",
+    ["DictKey_subtitle_652"] = "1",
+    ["DictKey_subtitle_880"] = "WEASEL 31 (BEAR): Tiger 21、Weasel 31、Wizardの最後の通告聞いたか？",
+    ["DictKey_subtitle_326"] = "PLAYER: Tiger 22、Weasel 32、テクニカルのトークオンを頼む。",
+    ["DictKey_subtitle_598"] = "BLACKBIRD 41: Blackbird 41、了解。PedroとヨルダンのSandyのETAは？",
+    ["DictKey_ActionText_989"] = "",
+    ["DictKey_subtitle_366"] = "PLAYER: ラジャー、Tiger 21。現在Wizardと連携してCSARの手配中。すぐ向かわせる。",
+    ["DictKey_ActionRadioText_428"] = "2. もう一度言ってくれ",
+    ["DictKey_subtitle_328"] = "TIGER 22: Weasel、テクニカルは湾岸施設から南へ移動中、Fallen Angelの北西2マイル地点だ。",
+    ["DictKey_ActionText_104"] = "",
+    ["DictKey_subtitle_352"] = "WEASEL 31（BEAR）: Weaselsはゼロプラス15。Tiger 22、プレイタイムをどうぞ。",
+    ["DictKey_subtitle_878"] = "WEASEL 31 (BEAR): Wizard、Weasel 31、了解、ウィルコ。",
+    ["DictKey_subtitle_446"] = "WEASEL 31（BEAR）: Fighter to fighter. Trail, shooter- cover、65、南へ離脱。",
+    ["DictKey_ActionRadioText_919"] = "チャンネル変更",
+    ["DictKey_subtitle_141"] = "WEASEL 31（BEAR）：Weasel 31、再攻撃を許可、65を使用せよ。",
+    ["DictKey_ActionText_1043"] = "（準備できたら）  ",
+    ["DictKey_ActionText_461"] = "",
+    ["DictKey_subtitle_225"] = "WEASEL 31（BEAR）: Weasel 32、再攻撃を許可する。",
+    ["DictKey_subtitle_235"] = "WIZARD: Weasel 31、Wizard、アファーム。",
+    ["DictKey_subtitle_832"] = "WEASEL 31 (BEAR): Weasels、Tigers、Blue 2へプッシュ。",
+    ["DictKey_ActionRadioText_413"] = "",
+    ["DictKey_sortie_5"] = "M06: Syrian Christmas Eve",
+    ["DictKey_subtitle_822"] = "TIGER 21: Weasel 31、Tiger 21、ビジュアル、5マイル後方。",
+    ["DictKey_subtitle_492"] = "WEASEL 31 (BEAR): Weasels、fighter to fighter。Trail、shooter - shooter、ガン、南へ離脱。",
+    ["DictKey_ActionText_181"] = "PL イン",
+    ["DictKey_subtitle_109"] = "PLAYER：Two。",
+    ["DictKey_subtitle_806"] = "WEASEL 31 (BEAR): Wizard、Weasel 31、ブルズ180／130でホールド中。",
+    ["DictKey_subtitle_332"] = "WEASEL 31（BEAR）: Fighter to fighter. Trail, cover - shooter、65、離脱方位は南。",
+    ["DictKey_subtitle_269"] = "TIGER 22: One、脱出しろ、脱出しろ！",
+    ["DictKey_ActionRadioText_983"] = "チャンネル変更  ",
+    ["DictKey_subtitle_667"] = "8",
+    ["DictKey_ActionRadioText_222"] = "",
+    ["DictKey_ActionRadioText_963"] = "2. 誘導の繰り返しを要求する  ",
+    ["DictKey_ActionRadioText_83"] = "",
+    ["DictKey_ActionRadioText_75"] = "",
+    ["DictKey_subtitle_898"] = "WEASEL 31 (BEAR): ああ、ビンゴを5500にセットしとけ。いったい何があったんだか。",
+    ["DictKey_ActionText_76"] = "",
+    ["DictKey_subtitle_648"] = "WEASEL 31 (BEAR): Weasel、Auxチェック。",
+    ["DictKey_subtitle_694"] = "PLAYER: Two。",
+    ["DictKey_subtitle_342"] = "PLAYER: Weasel 32、ラジャー。",
+    ["DictKey_subtitle_862"] = "WEASEL 31 (BEAR): よし、Weasels、Tigers、フェンスイン。",
+    ["DictKey_ActionRadioText_427"] = "1. ラジャー",
+    ["DictKey_ActionRadioText_971"] = "チャンネル変更  ",
+    ["DictKey_subtitle_510"] = "WIZARD: Weasel 31、Wizard、了解。Blackbird 41が現地向かっている。ETA 5分。",
+    ["DictKey_subtitle_302"] = "PLAYER: Weasel 32。",
+    ["DictKey_subtitle_296"] = "WEASEL 31（BEAR）: ネガティブ、まだだ。Pedroをブルズ320の12に派遣願う。それと支援機も。",
+    ["DictKey_subtitle_421"] = "PLAYER: One、さっきのをもう一度。",
+    ["DictKey_ActionRadioText_432"] = "",
+    ["DictKey_subtitle_522"] = "BLACKBIRD 41: Blackbird 41、全て了解。Pedroの状況は？",
+    ["DictKey_ActionRadioText_169"] = "2. 繰り返してくれ",
+    ["DictKey_ActionText_766"] = "（タキシー準備完了）",
+    ["DictKey_ActionRadioText_934"] = "チャンネル変更",
+    ["DictKey_ActionRadioText_390"] = "1. タリー",
+    ["DictKey_subtitle_300"] = "WEASEL 31（BEAR）: ラジャー。ブレイク。Weasel 32、AUXでTigerに呼びかけてみろ。",
+    ["DictKey_subtitle_725"] = "WEASEL 31 (BEAR): Weasels、PRIのチャンネル5へ。",
+    ["DictKey_subtitle_840"] = "",
+    ["DictKey_ActionText_221"] = "",
+    ["DictKey_subtitle_372"] = "PLAYER: 対応中だ、Tiger 21。",
+    ["DictKey_ActionText_177"] = "",
+    ["DictKey_subtitle_275"] = "WEASEL 31（BEAR）: Weasels、AUXチャンネル7へ。",
+    ["DictKey_subtitle_496"] = "WEASEL 31 (BEAR): Weasel 31, guns, guns, guns!",
+    ["DictKey_ActionText_1007"] = "OK、Chaos。今日は予想外のことが多すぎたな。何が起きたのか、それとこの惨事を回避できた可能性があったのかを一緒に振り返ろう。\
+\
+正直に言って、ここまで来ると俺たちにできることはほとんどなかったと思う。Tigerが計画通りにJDAMを使っていれば、あんな事態にはならなかったはずだし…Snakeyeを使うのは最悪の選択だった。ともかく、ソーティをTiger 21が撃墜される前と後で分けて見ていこう。\
+\
+Tigerとのランデブーまでは問題なかった。November 14の南側にアンカーして、目標を識別して攻撃。北側のチェックポイントには手が出せなかったが、おそらくTiger 21に対する攻撃、少なくともMANPADはそこから来ていた。工場のあたりからもトレーサーがかなり出てたな。\
+\
+一回のアタックランで23ミリ機関砲を4門全部破壊したのは見事だった。続いてテクニカルも攻撃。【＋15ポイント】\
+\
+ただな…お前がMaverickを使いすぎたせいで、俺の方でテクニカルに対処する羽目になったのは残念だった。【−10ポイント】\
+\
+Tiger 21が湖に不時着したあと、敵はMRLSで仕留めに来た。幸いTiger 22がそいつを見つけて、お前がMaverickで仕留めてくれた。グッジョブだ。【＋10ポイント】\
+\
+でもそれだけじゃ終わらなかった。敵はTiger 21を回収するためにモーターボートまで出してきたが、幸い俺のミサイルがまだ残ってて、そいつらも沈めてやった。【＋9ポイント】\
+\
+その後Blackbirdが来たが、あいつらは空対空装備しかなく、Pedro（救難ヘリ）も遠かったから何もできなかった。エリアはISISがウヨウヨいて、状況を考えれば、俺たちにできた唯一のことは、やつらの動きを遅らせて、Tigerを捕まえた代償をたっぷり払わせることだけだった。止める方法はなかった。あとはヨルダン側に託すしかないが、連中が仲間をISISに殺されるのを黙って見てるとは思えない。捕まったパイロットを巡って、まだ一波乱あるかもしれないな。\
+\
+※補足：ヨルダン空軍のMoaz al-Kasasbeh中尉は、2014年12月24日、ISISのレンガ工場を攻撃中にF-16から脱出を余儀なくされた。脱出の原因については、ヨルダン当局はエンジン故障と説明しているが、ISISは撃墜したと主張している。中尉は脱出には成功したが、湖の中央、今回のミッションで描かれた地点付近に着水。救助部隊（CSAR）は現場に展開しておらず、すぐに捕虜となった。2015年1月1日には、ヨルダン特殊部隊と連合軍機による救出作戦が失敗。最終的に2015年2月3日、ISISは中尉を火刑に処した映像を公開した。",
+    ["DictKey_subtitle_646"] = "PLAYER: Two。",
+    ["DictKey_subtitle_237"] = "WEASEL 31（BEAR）: Wizard、Weasel 31 flightはNovember One Fourの敵防空網を攻撃する。対象はAAAが4基とテクニカルが1両。使用兵装はGBU-38を4発、65を1発だ。",
+    ["DictKey_ActionText_279"] = "（AUXチャンネル7へ切り替え）",
+    ["DictKey_subtitle_354"] = "TIGER 22: Tiger 22はゼロプラス20。",
+    ["DictKey_ActionRadioText_1081"] = "",
+    ["DictKey_ActionRadioText_402"] = "タリー",
+    ["DictKey_subtitle_882"] = "TIGER 21: Tiger 21、アファーム。Texacoはダメか。",
+    ["DictKey_subtitle_1053"] = "",
+    ["DictKey_subtitle_872"] = "WIZARD: Weasel 31、こちらWizard。",
+    ["DictKey_subtitle_298"] = "WIZARD: Weasel 31、Wizard、手配中。",
+    ["DictKey_subtitle_530"] = "BLACKBIRD 41: Blackbird 41、了解。ブレイク、Weasel 31、こちらで引き継ぐ。今すぐRTBしてくれ。",
+    ["DictKey_ActionText_391"] = "",
+    ["DictKey_ActionRadioText_80"] = "",
+    ["DictKey_subtitle_552"] = "WEASEL 31 (BEAR): Weasel、AUXチェック。",
+    ["DictKey_ActionText_98"] = "",
+    ["DictKey_ActionRadioText_982"] = "チャンネル変更  ",
+    ["DictKey_ActionText_907"] = "プライマリ無線でBLUE 2に切り替え、準備ができたらスペースバーを押せ。",
+    ["DictKey_ActionText_1019"] = "",
+    ["DictKey_subtitle_117"] = "",
+    ["DictKey_subtitle_721"] = "PLAYER: Two、ウィルコ。",
+    ["DictKey_subtitle_139"] = "PLAYER：Weasel 32、ノージョイ、西側目標。",
+    ["DictKey_subtitle_544"] = "TIGER 21: Weasel 31、Tiger 21、了解。ありがとう。",
+    ["DictKey_subtitle_625"] = "PLAYER: Blackbird 41はCAPだったんだよな？",
+    ["DictKey_descriptionBlueTask_3"] = "King Faisal空軍基地 \
+2014年12月24日 07:30現地時間 / 04:30 Zulu \
+Weasel 31フライトに対するBEAR／フライトリードによるブリーフィング\
+\
+クリスマスイブの朝だ、おはよう。今日は、ヨルダン空軍のF-16部隊と密接に連携して任務にあたる。彼らは元々アメリカのPeace Falcon計画の一環としてViperを導入しており、後期ロットはベルギーやオランダから供与されたものだ。ただし、実質的にパイロットの訓練は我々が行っているため、ヨルダン側の技量は高く、手順や無線の言葉遣いも我々とほぼ同じだ。\
+\
+さて、本題に入ろう。まずは天候から。\
+\
+[スライド3 - 天候]  \
+天候は問題なし。雲は二層のブロークン、風は弱く気温も穏やかだ。ヨルダン機はJDAMによる精密爆撃を行う予定で、雲も対空制圧任務には支障にならない見込み。\
+\
+[スライド4 - 離陸]  \
+俺はシェルター02の91-360に搭乗、CHAOSはシェルター06に駐機中の91-356を使用せよ。Weasel 2フライトはMenaceがリードし、我々より少し早く離陸する見込み。離陸手順は標準通り。CH2（277.0）でATISを取得したら、CH3（250.1）でTOWERへ切り替えろ。タキシー準備が整ったら知らせてくれ、TOWERへのコールは俺がやる。\
+\
+今日は重量があるので、離陸間隔は20秒で。アンチコリジョンライトは3番がCHAOS、俺が1番。RWY10がアクティブだが、風は穏やかだ。\
+\
+次はフライトプランを確認しよう。\
+\
+[スライド5 - フライトプラン]  \
+WP1を通過後、WP2で北へ旋回し、高度17,000ftまで上昇。そこがTiger 2フライト（ヨルダンのFalconペア）とのランデブー地点だ。途中でWizardに切り替え、チェックインする。\
+\
+Tigersが到着したら、彼らの左ウィングに編隊。Tigerはエシュロンライト、我々はエシュロンレフトで編隊し、460ノット（約マッハ0.74）で飛行する。その後、通常通りフェンスインし、パルミュラ上空を通過、Tabqa方面へ進行。\
+\
+我々は標的の南側に位置取りし、November 14（WP4）を目標とする。約10マイル南、Buhayrat Al Asad湖を挟んだ反対側、Tabqa飛行場付近でアンカーする。BullseyeはWP5＝Tabqa飛行場。Tigerはやや東側でアンカーする。\
+\
+次のスライド。\
+\
+[スライド6 - 目標エリア]  \
+目標はWP4＝November 14。Tiger 2はMark 38爆弾で工場を攻撃。我々の任務は、工場周辺に配備された敵対空兵器の排除。諜報によると、単なるレンガ工場にしては異様な規模の防空装備が確認されている。\
+\
+WP5がBullseyeである点も再確認。\
+\
+[スライド7 - 目標]  \
+2日前の偵察写真。主建屋のほか、西および北東に保管エリア、車両、そして23mm対空砲4門が配置されている。これらが我々の第一目標だ。\
+\
+ステーション到着後、ポッドをNovember 14に向けて状況を確認。4門の対空砲は健在のはずで、GBU-38で排除する。CHAOSは西側の2門、俺が東側を担当。地上または航路中にターゲットデータを入力しておけ、道中に少し時間はある。\
+\
+追加目標があればMaverickで対処。準備が整ったら、Tigersに主目標への攻撃を許可。JDAMによる精密攻撃となる。\
+\
+[スライド8 - 目標遠景]  \
+衛星画像による広域確認。北～北西に民間住宅があるが、工場自体は孤立しており、現地で確認された人員および車両は全て交戦可能目標とする。\
+\
+Tigersの爆撃完了後、再集結し離脱。\
+\
+スライド5に戻ろう。\
+\
+[スライド5 - フライトプラン 再掲]  \
+WP6でTexacoの給油コース「イエロートラック」東端に到達。TACANを使って位置を確認、WP6〜7間で給油。WP7通過後、King Faisal Approachに切り替え帰投。\
+\
+【兵装】  \
+Maverick×2、GBU-38×2、ターゲティングポッド、増槽×3、Sidewinder×2。周囲に建造物は少なく、誤爆の懸念はほぼない。\
+\
+【無線運用】  \
+AUXは常にCH1を使用、PRIの切り替えは俺が指示。MISSIONネットはCH7、色コードで言えばBlue 2だ。質問がなければ、準備開始！\
+\
+【BALTIC DRAGONより】  \
+予想任務時間：1時間50分",
+    ["DictKey_subtitle_213"] = "TIGER 21：Weasel 31、Tiger 21、ラジャー。",
+    ["DictKey_subtitle_606"] = "BLACKBIRD 41: Wizard、Blackbird 41、Tiger 21が非常用チャンネルで呼びかけてきた。高速艇が目前まで来てる。即時の機銃掃射許可を要請する。",
+    ["DictKey_ActionText_979"] = "",
+    ["DictKey_ActionText_940"] = "（主目標の北にあるチェックポイントを確認）",
+    ["DictKey_subtitle_644"] = "WEASEL 31 (BEAR): Weasel、PRIで無線チェック。",
+    ["DictKey_subtitle_631"] = "WEASEL 31 (BEAR): あの場所の状況を見るに、もう既にそうなってる気がする。仮にヘリが来ても、湖岸のMANPADの射程内に入る。ヨルダン軍が本気出して火力を持ってこない限り厳しい。",
+    ["DictKey_ActionRadioText_182"] = "",
+    ["DictKey_subtitle_28"] = "WEASEL 31（BEAR）: それから西に6マイルほど、小規模な湾岸施設があって、武装人員はいるが対空兵器はなし。無視していい。",
+    ["DictKey_ActionText_1074"] = "",
+    ["DictKey_subtitle_147"] = "PLAYER：Two、問題なし。",
+    ["DictKey_ActionText_1013"] = "OK、Chaos。今日は予想外のことが山ほどあって、計画にもなかった展開ばかりだったな。まずは何が起きたかを振り返って、それから、どうすればこの惨事を回避できたかを考えてみよう。\
+\
+とはいえ、正直ここまでの流れを見れば、俺たちにできることはほとんどなかった。Tigerが計画通りにJDAMを使っていれば、そもそもこんな事態にはならなかったんだよ…Snakeyeなんて、あり得ない選択だった。さて、ソーティを「Tiger 21が撃たれる前」と「撃たれた後」の2フェーズで振り返るぞ。\
+\
+Tigersとのランデブーまでは問題なし。November 14の南にアンカーして、ターゲットを正確に識別して攻撃を仕掛けた。北側のチェックポイントは手が出せなかったが、おそらくTiger 21への攻撃はここから来た。少なくともMANPADはそこからで、工場周辺からもトレーサーが見えたな。\
+\
+ところでJDAMはどうした？　あの部分は完全にミスだったな。そのせいで再攻撃に65を使う羽目になって、後で必要だったのに…まぁ、戦況に大きな影響はなかったかもしれないが、それでもだ…【−20ポイント】\
+\
+前にも言ったが、Maverickを無駄に使いすぎたのも問題だった。結局俺が自分の弾でテクニカルに突っ込む羽目になったんだからな…【−10ポイント】\
+\
+で、Tiger 21が湖に着水してから、敵はMRLSで奴を始末しようとした。幸いにもTiger 22がそいつを見つけたが、お前はすでにRemington（武装ゼロ）だったんで、俺がMaverickで仕留めた。【−10ポイント】\
+\
+それでも終わらなかった。敵はモーターボートまで送り込んできてTiger 21を回収しようとしたが、ターゲティングのミスが続いてMaverickは残っていなかった。Morpheusから「機関砲での交戦は禁止だ」って命令が出てたのに、俺たちはそれを無視した。今にもあの親父が怒鳴り込んできそうだ。でもな、あれは正しい判断だった。俺はそう信じてるし、全責任は俺が取る。お前は俺の命令に従っただけだ、Chaos。だからウィングのことは心配するな。【−9ポイント】\
+\
+その後Blackbirdが来たが、空対空装備しかなかったし、Pedro（救難ヘリ）は遠すぎてどうにもならなかった。あの地域はISISで溢れてて、俺たちにできたのは、奴らの動きを遅らせて、Tigerを捕らえた代償をたっぷり払わせることだけだった。そしてそれは実際にやった。防ぐ手段はなかったよ。今はすべてヨルダン側の判断に委ねられている。奴らが自国のパイロットをISISの餌にするとは思えないし、Tiger救出に絡む行動がまたあるかもしれないな。\
+\
+※補足：ヨルダン空軍のMoaz al-Kasasbeh中尉は、2014年12月24日、ISISのレンガ工場を攻撃中にF-16から脱出を余儀なくされた。脱出の原因は不明で、ヨルダン当局は「エンジン故障」としているが、ISISは「撃墜した」と主張している。脱出には成功したものの、着水地点は湖の中央で、このミッションの舞台とほぼ同じ場所だった。当時、戦闘捜索救難部隊（CSAR）は展開しておらず、彼はすぐにISISに捕らえられた。2015年1月1日には、ヨルダン特殊部隊と連合軍機による救出作戦が試みられたが失敗。最終的に2015年2月3日、ISISは彼が火刑に処された映像を公開した。",
+    ["DictKey_subtitle_717"] = "PLAYER: Two、準備完了。",
+    ["DictKey_subtitle_826"] = "TIGER 21: Weasel 31、Tiger 21、November One Fourへプッシュ。",
+    ["DictKey_ActionText_985"] = "（Towerへ切り替え）",
+    ["DictKey_ActionRadioText_401"] = "1. テクニカルを視認",
+    ["DictKey_subtitle_288"] = "WEASEL 31（BEAR）: Weasel 31、Tiger 21に対してFallen Angelを送る。",
+    ["DictKey_subtitle_580"] = "BLACKBIRD 41: Wizard、Blackbird 41、Texacoの代替機の情報は？",
+    ["DictKey_subtitle_231"] = "WEASEL 31（BEAR）: One、ラジャー。Wizardにコンタクトする。",
+    ["DictKey_subtitle_486"] = "TIGER 21: Tiger 21、こちらからもモーターボートが接近中なのが見える！",
+    ["DictKey_subtitle_115"] = "WEASEL 31（BEAR）：One、南からGBU-38でイン。",
+    ["DictKey_ActionRadioText_417"] = "2. もう一度言ってくれ",
+    ["DictKey_subtitle_119"] = "",
+    ["DictKey_ActionText_1015"] = "OK、Chaos。今日は予期せぬ事態が次々と起きて、完全に計画外の展開になった。何が起きたのか、それからこの惨事をどうすれば回避できたのか、一緒に振り返ってみよう。\
+\
+ただ正直に言って、あれだけのことが起きた中で、俺たちにできたことはほとんどなかった。Tigerが計画通りにJDAMを使っていれば、何も起きなかったはずだ…Snakeyeなんて最悪の選択だった。ともかく、ミッションを「Tiger 21が撃墜される前」と「撃墜された後」の2つのフェーズで見ていこう。\
+\
+Tigersとのランデブーまでは順調だった。November 14の南でアンカーし、目標を正しく識別して攻撃を仕掛けた。北のチェックポイントは俺たちでは手が出せなかったが、Tiger 21に対する火力はおそらくそこから来ていた。少なくともMANPADはそうだし、工場周辺からもトレーサーが見えた。\
+\
+一回のアタックランで23ミリ機関砲を4門全部破壊したのは見事だった。そしてテクニカルに対しても攻撃した。【+15ポイント】\
+\
+そのテクニカルを見つけて仕留めたのはお見事だった。【+10ポイント】\
+\
+その後、Tiger 21が湖に着水した時、敵はMRLSで奴を仕留めようとした。幸運にもTiger 22がそのクソ野郎を見つけたが、お前は弾切れだったんで、俺がMaverickでそいつを落とした。【−10ポイント】\
+\
+だがそれでも終わらなかった。敵はモーターボートを送り込んでTiger 21を連れ出そうとした。けど、以前のターゲティングミスのせいでMaverickはもう残ってなかった。Morpheusから「機関砲での交戦は禁止だ」って命令が出てたのに、俺たちはそれを無視した。今にもあの親父が怒鳴り込んできそうだ。でもな、あれは正しい判断だった。俺はそう信じてるし、全責任は俺が取る。お前は俺の命令に従っただけだ、Chaos。だからウィングのことは心配するな。【−9ポイント】\
+\
+そのあとBlackbirdが到着したが、あいつらは完全な空対空構成だったし、Pedro（救難ヘリ）は遠すぎて何もできなかった。エリアはISISで溢れていて、あの状況で俺たちにできたことはひとつだけ──奴らの足を止めて、Tigerを捕えた代償をたっぷり払わせること。そして、それは実際にやった。防ぐ手立てはなかった。今後の対応はヨルダンに委ねられているが、奴らが自国のパイロットをISISに殺されるままにするとは思えない。まだ、Tigerの救出に関連する動きがあるかもしれないな。\
+\
+※補足：ヨルダン空軍のMoaz al-Kasasbeh中尉は、2014年12月24日、ISISのレンガ工場を攻撃中にF-16から脱出を余儀なくされた。脱出の原因は不明で、ヨルダン当局は「エンジン故障」としているが、ISISは「撃墜した」と主張している。脱出には成功したものの、着水地点は湖の中央で、このミッションの舞台とほぼ同じ場所だった。当時、戦闘捜索救難部隊（CSAR）は展開しておらず、彼はすぐにISISに捕らえられた。2015年1月1日には、ヨルダン特殊部隊と連合軍機による救出作戦が試みられたが失敗。最終的に2015年2月3日、ISISは彼が火刑に処された映像を公開した。",
+    ["DictKey_subtitle_62"] = "PLAYER: Two、全部了解。38で一回限りの攻撃、西側の2つの陣地は俺が担当。30秒後にロールイン、南へ離脱。",
+    ["DictKey_subtitle_777"] = "BLACKBIRD 41: Wizard、Blackbird 41、コンタクト BRAA 105方向45マイル、高度21000、フランキング。識別を要請。",
+    ["DictKey_ActionText_1048"] = "",
+    ["DictKey_subtitle_578"] = "WIZARD: Tiger 22、Wizard、RTB許可する。",
+    ["DictKey_subtitle_629"] = "PLAYER: ROEが変わらない限り、Tigerはなす術なしだな。",
+    ["DictKey_subtitle_364"] = "TIGER 21: こちらTiger 21、聞こえてる！",
+    ["DictKey_ActionRadioText_159"] = "1. 攻撃準備完了",
+    ["DictKey_ActionText_74"] = "目標エリアをスキャンし脅威を確認したのちF10メニューで報告せよ。\
+このメッセージを消すにはスペースバーを押せ",
+    ["DictKey_subtitle_836"] = "",
+    ["DictKey_ActionRadioText_102"] = "",
+    ["DictKey_ActionRadioText_94"] = "2. 繰り返してくれ",
+    ["DictKey_ActionRadioText_415"] = "",
+    ["DictKey_subtitle_700"] = "WEASEL 31 (HULK): Tower、Weasel 31、滑走路10への着陸許可、了解。",
+    ["DictKey_subtitle_205"] = "PLAYER：Weasel 32、ノージョイ！",
+    ["DictKey_subtitle_338"] = "PLAYER: Weasel 32、ネガティブ、65はレミントン。",
+    ["DictKey_ActionRadioText_156"] = "",
+    ["DictKey_ActionRadioText_161"] = "2. まだ準備できていない",
+    ["DictKey_subtitle_534"] = "WEASEL 31 (BEAR): Weasel 32、Weasel 31、AUXで1に切り替えろ。",
+    ["DictKey_ActionText_911"] = "フェンスイン。準備できたらスペースバーを押せ。",
+    ["DictKey_ActionRadioText_423"] = "",
+    ["DictKey_subtitle_639"] = "WEASEL 31 (BEAR): よし、Two、ATIS取ってPRIのチャンネル9でアプローチへ。Auxに入ったら知らせろ。",
+    ["DictKey_subtitle_737"] = "WEASEL 21 (MENACE): Weasel 21、滑走路10までタキシー。",
+    ["DictKey_ActionText_441"] = "Shooting safeguard",
+    ["DictKey_subtitle_1036"] = "",
+    ["DictKey_ActionRadioText_165"] = "",
+    ["DictKey_subtitle_711"] = "WEASEL 31 (BEAR): Weasels、ATIS取ってボタン3へ。",
+    ["DictKey_subtitle_554"] = "WEASEL 31 (BEAR): 燃料残少。高度2万6千に上げて、ステア7へ直行する。",
+    ["DictKey_ActionText_1017"] = "OK、Chaos。今日はまったく予期してなかった事態が色々起こって、本当に計画外の展開だった。何があったのか、それからどうすればこの惨事を回避できたか、振り返ってみよう。\
+\
+でも正直、全部を見返しても、俺たちにできたことはあまりなかった気がする。Tigerが計画通りにJDAMを使ってくれていれば、こんな事態にはならなかったはずだ…Snakeyeなんて最悪の選択だったよ。ともかく、今回の出撃を「Tiger 21が撃墜される前」と「撃墜された後」の2段階で見ていこう。\
+\
+Tigersとのランデブーまでは順調だった。November 14の南でアンカーして、目標を正しく識別して攻撃した。北側のチェックポイントは俺たちじゃどうにもならなかったが、Tiger 21を狙った火力はおそらくそこから来てた。少なくともMANPADはそうだし、工場のあたりからもトレーサーが見えた。\
+\
+なあ、JDAMはどうした？　あれは完全にミスだったな。再攻撃で貴重な65を使わざるを得なかったけど、あとで必要だったんだよ。まぁ大勢に影響はなかったかもしれないが……【−20ポイント】\
+\
+それにMaverickも無駄に使いすぎたな。仕方なく俺が自分のを使ってテクニカルを叩いた【−10ポイント】\
+\
+で、Tiger 21が湖に不時着した後、敵がMRLSで奴を狙ってきた。幸いTiger 22がそいつを見つけたが、お前が弾切れだったんで、俺がMaverickで仕留めた。【−10ポイント】\
+\
+それでも終わらなかった。敵はモーターボートでTiger 21を回収しようとしてきたが、運よくまだミサイルが残ってて阻止できた。【+10ポイント】\
+\
+その後にBlackbirdが来たけど、あいつらは完全に空対空構成だったし、Pedro（救難ヘリ）は遠すぎた。あのエリアはISISがうようよいて、あの状況下で俺たちにできたことといえば、やつらの動きを遅らせて、Tigerを捕えた代償をたっぷり払わせることだけだった。それは実際にやったし、他にどうしようもなかった。あとはもうヨルダンの判断に委ねるしかない。連中が自国のパイロットをISISに見殺しにするとは思えないし、まだ何か動きがあるかもしれない。\
+\
+※補足：ヨルダン空軍のMoaz al-Kasasbeh中尉は、2014年12月24日、ISISのレンガ工場を攻撃中にF-16からの脱出を余儀なくされた。脱出の原因は不明で、ヨルダン政府は「エンジン故障」と発表したが、ISISは「撃墜した」と主張している。いずれにせよ、中尉は無事に脱出し、湖の中央──今回のミッションとほぼ同じ場所──に着水したが、CSAR部隊（戦闘捜索救難）は展開しておらず、すぐに捕らえられた。2015年1月1日には、ヨルダン特殊部隊が連合軍航空機の支援を受けて救出作戦を試みたが失敗。最終的に、2015年2月3日、ISISは中尉が焼かれて殺害された映像を公開した。",
+    ["DictKey_subtitle_498"] = "PLAYER: Weasel 32, guns, guns!",
+    ["DictKey_subtitle_548"] = "TIGER 21: Blackbird 41、Tiger 21、了解。",
+    ["DictKey_ActionRadioText_424"] = "",
+    ["DictKey_ActionText_904"] = "",
+    ["DictKey_ActionText_924"] = "（PRIでチャンネル5へプッシュ）",
+    ["DictKey_subtitle_458"] = "WEASEL 31（BEAR）: 2隻目は引き返している。Weasel 31は65を撃ち尽くした。",
+    ["DictKey_ActionText_562"] = "",
+    ["DictKey_ActionRadioText_1072"] = "",
+    ["DictKey_subtitle_781"] = "WIZARD: Blackbird 41、Wizard、105方向45マイルのコンタクトはOutlaw。Wizardで監視する。",
+    ["DictKey_subtitle_452"] = "WEASEL 31（BEAR）: Weasel 31、ライフル、2隻目。",
+    ["DictKey_subtitle_344"] = "WEASEL 31（BEAR）: Weasel 31、ライフル。",
+    ["DictKey_subtitle_842"] = "WEASEL 31 (BEAR): Weasel 31、Blue 2でチェック。",
+    ["DictKey_subtitle_44"] = "WEASEL 31（BEAR）: Two、エリアをスキャンしろ。戦術の相談に入れるタイミングを教えろ。",
+    ["DictKey_subtitle_56"] = "PLAYER: Two、準備OK。",
+    ["DictKey_ActionRadioText_155"] = "",
+    ["DictKey_ActionText_915"] = "",
+    ["DictKey_ActionRadioText_183"] = "",
+    ["DictKey_ActionRadioText_216"] = "2. 繰り返してくれ",
+    ["DictKey_ActionText_1075"] = "(シェルター7に入れ)",
+    ["DictKey_ActionText_157"] = "",
+    ["DictKey_subtitle_478"] = "WEASEL 31 (BEAR): Wizard、もう待てない。敵がTiger 21の位置目前だ。Weasel 31フライト、ガンでボートを攻撃する。",
+    ["DictKey_subtitle_286"] = "WIZARD: Weasel 31、Wizard、どうぞ。",
+    ["DictKey_subtitle_702"] = "KING FAISAL TOWER: Weasel 31、Tower、滑走路離脱後、シェルター7と8へ。",
+    ["DictKey_subtitle_550"] = "TIGER 21: やつらが来た……もう終わりだ。（アラビア語で）「撃たないでくれ、降伏する！」",
+    ["DictKey_ActionText_167"] = "",
+    ["DictKey_subtitle_715"] = "WEASEL 31 (BEAR): Two、準備はいいか？",
+    ["DictKey_subtitle_1034"] = "WEASEL 31（BEAR）：Weasel隊、ここでホールド。センサーを目標に向けろ。",
+    ["DictKey_ActionText_1003"] = "OK、Chaos、今日は予期していなかったことが多くて、本当に大変な一日になった。今回の出来事を振り返って、何が起きたのか、どうすればこの惨事を回避できたのかを一緒に整理してみよう。\
+\
+とはいえ正直に言って、あれだけのことが起きた以上、俺たちにできることはほとんどなかった気もする。Tigerが計画通りにJDAMを使っていれば、こんなことにはならなかったはずだ…。それにSnakeyeを選んだのは最悪の判断だった。ともかく、今回のソーティはTiger 21が撃墜される前と後で分けて話そう。\
+\
+Tigersとのランデブーまではすべて順調だった。November 14の南でアンカーして、目標を正確に識別して攻撃した。北側のチェックポイントには手を出せなかったが、あそこからTiger 21への攻撃、少なくともMANPADは発射されたようだ。工場の周囲からも多数のトレーサーが確認できた。\
+\
+計画通り、一回のアタックランで23ミリ機関砲を4門全部破壊したのは見事だった。それからテクニカルにも攻撃を加えた。　[+15点]\
+\
+あのテクニカルを見つけて潰したのは本当にナイスだった。　[+10点]\
+\
+そしてTiger 21が湖に墜ちたあと、敵がMRLSで彼を狙ってきた。幸い、Tiger 22が発射源を発見し、お前がマーベリックで片付けた。グッジョブ。　[+10点]\
+\
+でもそれで終わりじゃなかった…今度は敵がモーターボートでTiger 21を捕まえようとしやがった。幸い俺のミサイルが残ってたんで、やつらの計画は失敗に終わった。　[+9点]\
+\
+その後Blackbirdが来たけど、あいつらは空対空装備しかなかったし、Pedro（CSARヘリ）もかなり遠かった。周囲はISISだらけで、あの状況では俺たちにできる唯一のことーーつまり、やつらの動きを遅らせ、Tiger奪取の代償を高くつけるーーそれしかなかったし、それは実行できた。でも、Tigerの捕獲を防ぐことはできなかった。\
+\
+あとはヨルダン軍次第だ。ISISに捕まった自国の兵士をそのまま見捨てるような真似はしないはずだ。今後、捕まったパイロットに関してさらなる展開があるかもしれない。\
+\
+注記：ヨルダン空軍のMoaz al-Kasasbeh中尉は、2014年12月24日、ISISのレンガ工場を攻撃中にF-16から脱出せざるを得なくなった。彼が脱出を余儀なくされた原因ははっきりしておらず、ヨルダン当局はエンジン故障によるものと主張する一方、ISISは撃墜したと主張している。いずれにせよ、中尉は脱出後、本ミッションで描かれた地点とほぼ同じ湖に着水。しかしCSAR部隊は現場におらず、直ちにISISに捕らえられた。2015年1月1日には、ヨルダン特殊部隊と連合軍による救出作戦が失敗に終わったとされており、最終的に2015年2月3日、ISISは中尉が焼き殺される映像を公開した。",
+    ["DictKey_subtitle_542"] = "WEASEL 31 (BEAR): Tiger 21、Weasel 31、こちらはビンゴ、RTBする。Blackbird 41が上空カバーに入る。Pedroは向かっている。気をつけろ。",
+    ["DictKey_subtitle_868"] = "TIGER 22: Tiger 22、フェンスイン。",
+    ["DictKey_ActionText_1049"] = "（準備できたら）  ",
+    ["DictKey_subtitle_866"] = "TIGER 21: Tiger 21、フェンスイン。",
+    ["DictKey_ActionText_86"] = "",
+    ["DictKey_ActionRadioText_389"] = "2. 誘導を要求する",
+    ["DictKey_ActionText_419"] = "F10メニューを使用して以下を選べ：\
+A. BEARにFighter to Fighterのリピートを依頼\
+B. 承認して攻撃",
+    ["DictKey_subtitle_692"] = "WEASEL 31 (BEAR): Weasel、Priで無線チェック。",
+    ["DictKey_subtitle_482"] = "WEASEL 31 (BEAR): Wizard、Weasel 31。敵スピードボートが反転し始めた。",
+    ["DictKey_subtitle_14"] = "WEASEL 31（BEAR）：Tiger 21、Weasel 32、ラジャー。",
+    ["DictKey_subtitle_257"] = "TIGER 21: Tiger 21、ラジャー… 警告灯は出てない。",
+    ["DictKey_ActionText_771"] = "（ATISを取得後、PRIでTOWERへプッシュ）",
+    ["DictKey_subtitle_852"] = "TIGER 21: Tiger 21、アファーム。",
+    ["DictKey_ActionRadioText_96"] = "",
+    ["DictKey_subtitle_243"] = "WEASEL 31（BEAR）: Wizard、Weasel 31、ラジャー。",
+    ["DictKey_ActionRadioText_429"] = "もう一度言ってくれ",
+    ["DictKey_subtitle_334"] = "PLAYER: Weasel 32、ラジャー。攻撃に入る。",
+    ["DictKey_ActionText_425"] = "",
+    ["DictKey_ActionText_967"] = "",
+    ["DictKey_subtitle_600"] = "WIZARD: Pedroはゼロ・プラス・50、Tiger 41、ヨルダンViperのペアはゼロ・プラス・20。",
+    ["DictKey_subtitle_454"] = "WEASEL 31（BEAR）: Weasel 31、命中、ターゲット。",
+    ["DictKey_ActionText_556"] = "（AUXチャンネル1へ切り替え）",
+    ["DictKey_subtitle_54"] = "WEASEL 31 (BEAR): その通り、攻撃できない。November One Fourとその周辺に集中しよう。作戦案の確認、準備できたら言ってくれ。",
+    ["DictKey_subtitle_466"] = "WEASEL 31 (BEAR): Wizard、Weasel 31。",
+    ["DictKey_ActionRadioText_78"] = "レディ",
+    ["DictKey_ActionRadioText_172"] = "1. 了解した",
+    ["DictKey_ActionRadioText_220"] = "2. 繰り返してくれ",
+    ["DictKey_subtitle_775"] = "PLAYER: Weasel 32。",
+    ["DictKey_subtitle_370"] = "TIGER 21: こちらTiger 21、射撃を受けている！",
+    ["DictKey_ActionText_178"] = "目標を破壊できませんでした。\
+ミッション失敗",
+    ["DictKey_ActionText_438"] = "",
+    ["DictKey_subtitle_58"] = "WEASEL 31 (BEAR): 了解。じゃあGBU-38で行こう。西側のAAAふたつはお前、東側のふたつは俺がやる。一回のアタックで仕留めるぞ。俺が先に入る、30秒後にお前。離脱はここへ戻るルートで。",
+    ["DictKey_subtitle_814"] = "TIGER 21: Wizard、Tiger 21、2機編隊、計画通りチェックイン。",
+    ["DictKey_subtitle_797"] = "WIZARD: Weasel 21、切り替え許可。Spectreは高度15000で活動中。Blackbird 41は君の西側でオンステーション。TexacoはトラックYankee上空にいる。",
+    ["DictKey_subtitle_1038"] = "PLAYER：Weasel 32。",
+    ["DictKey_subtitle_133"] = "PLAYER：Weasel 32、西側目標に良好な命中。",
+    ["DictKey_subtitle_456"] = "WEASEL 31（BEAR）: Weasel 31、両ボートを撃破。",
+    ["DictKey_subtitle_330"] = "PLAYER: Weasel 32、タリー。",
+    ["DictKey_ActionText_959"] = "",
+    ["DictKey_subtitle_528"] = "WIZARD: 了解。ヨルダン空軍のViper出動を調整中。",
+    ["DictKey_subtitle_671"] = "10",
+    ["DictKey_ActionText_385"] = "（AUXチャンネル7でTiger 21に連絡を試みよ）",
+    ["DictKey_ActionText_174"] = "",
+    ["DictKey_ActionText_1085"] = "よし、Chaos、今日は想定外のことが山ほど起きた。予期も計画もしてなかったことばかりだったから、一度整理して、どうすればこの惨事を避けられたのか振り返ろう。\
+\
+とはいえ、正直な所こうなってしまった以上、俺たちにできることはあまりなかった。Tigerが計画通りにJDAMを使っていれば、こんな事態にはならなかっただろうし…Snakeyeなんて、最悪の選択だった。ともかく、ミッションをTiger 21が撃墜される前と後で2つのフェーズに分けて見ていこう。\
+\
+Tigersとの合流までは順調だった。November 14の南でアンカーを取り、目標を正しく識別して攻撃。北のチェックポイントは我々には手が出せなかったが、Tiger 21を狙った攻撃はほとんどそこからだったようだ。少なくともMANPADはそこからで、工場周辺からもトレーサーが飛んでたのを見た。\
+\
+一回のアタックランで23ミリ機関砲を4門全部破壊したのは見事だった。そしてテクニカルに対しても攻撃した。[+15ポイント]\
+\
+テクニカルの発見と撃破、よくやった。[+10ポイント]\
+\
+そのあとTiger 21が湖に不時着した途端、敵はMRLSで彼を狙ってきた。幸いTiger 22がそいつを見つけて、君がマーベリックで仕留めてくれた。ナイスキルだ。[+10ポイント]\
+\
+でもそれで終わりじゃなかった。敵はモーターボートまで出してTiger 21を奪おうとした。けど、事前の照準ミスでマーベリックはすでにゼロ。今にも上官が怒鳴り込んできそうだが、俺たちはMorpheusの「ガン使用禁止」命令を破った。でも、あれは正しい判断だったし、俺は後悔してない。あれは俺の判断だ。君は俺の命令に従っただけだ、Chaos。だから自分のパイロット資格のことは心配するな。責任は俺が取る。[−9ポイント]\
+\
+その後にBlackbirdが来たが、空対空装備しかなかったし、Pedroはあまりに遠くにいた。エリアはISISで溢れ返ってて、俺たちにできたことーーいや、実際にやったことーーは、あいつらの動きを遅らせて、Tigerを捕らえたことへの代償をしっかり払わせることだけだった。防ぐことはできなかった。あとはヨルダン側の判断だが、あの国が自国のパイロットを見捨てるとは思えない。まだ続きがあるかもしれないな。\
+\
+※注：ヨルダン空軍のMoaz al-Kasasbeh中尉は、2014年12月24日、ISISの煉瓦工場を攻撃中にF-16からの脱出を余儀なくされた。脱出の原因は不明で、ヨルダン当局はエンジントラブルと発表、ISIS側は撃墜したと主張している。彼は脱出後、湖の中央に着水したが、CSAR部隊はおらず、すぐに捕らえられた。2015年1月1日には、ヨルダン特殊部隊と連合軍による救出作戦が行われたとされるが失敗。そして2015年2月3日、ISISは彼を火刑に処した動画を公開した。",
+    ["DictKey_subtitle_656"] = "3",
+    ["DictKey_subtitle_464"] = "TIGER 22: Tiger 22、65は使い切った。",
+    ["DictKey_subtitle_340"] = "WEASEL 31（BEAR）: ラジャー。Fighter to fighter. Trail, shooter - cover、65、離脱方位は南。",
+    ["DictKey_ActionText_1009"] = "OK、Chaos。今日はまったく予想も計画もしてなかったことが山ほど起きたな。何が起きたか、そしてこの惨事を防ぐ手立てがあったのか、順を追って整理していこう。\
+\
+とはいえ正直、全部を見返しても、俺たちにできたことはほとんどなかったと思う。Tigerが計画通りにJDAMを使っていれば、何も起きなかったはずなんだよ…。Snakeyeなんて最悪の選択だった。とにかく、ソーティを「Tiger 21が撃たれる前」と「撃たれた後」の2フェーズに分けて見ていこう。\
+\
+Tigerと合流するまでは順調だった。November 14の南にアンカーして、目標を正確に識別、攻撃を実行。北のチェックポイントには手が出せなかったけど、あそこからMANPADが来た可能性が高い。工場のあたりからもトレーサーが結構出てたな。\
+\
+一回のアタックランで23ミリ機関砲を4門全部破壊したのは見事だった。続いてテクニカルも攻撃した。【＋15ポイント】\
+\
+テクニカルの発見と撃破は見事だった。よくやった。【＋10ポイント】\
+\
+で、Tiger 21が湖に不時着した後、敵がMRLSで仕留めにきた。幸いTiger 22がそいつを見つけたけど、お前は弾切れ（remington）だったから、俺がMaverickで対処するしかなかった。【−10ポイント】\
+\
+でもそれだけじゃ終わらなかった。敵はTiger 21を回収するためにモーターボートまで送り込んできたが、俺のミサイルが残ってたおかげで、そいつらも沈めてやった。【＋9ポイント】\
+\
+そのあとBlackbirdが来たけど、空対空装備しかないし、Pedro（救難ヘリ）も遠すぎて何もできなかった。エリアはISISだらけで、あの状況では、俺たちにできた唯一のこと――実際にやったことでもあるが――は、やつらの動きを遅らせて、Tigerを捕えた代償をたっぷり払わせることだけだった。止める方法はなかった。あとはヨルダンに託すしかない。連中が自分の仲間をISISに殺されるのを黙って見てるとは思えないし、捕まったパイロットに関して、まだ何か動きがあるかもしれない。\
+\
+※補足：ヨルダン空軍のMoaz al-Kasasbeh中尉は、2014年12月24日、ISISのレンガ工場を攻撃中にF-16から脱出を余儀なくされた。脱出の原因は不明で、ヨルダン当局はエンジン故障とし、ISISは撃墜したと主張している。脱出には成功したが、湖の中央――今回のミッションとほぼ同じ地点――に着水。その場にはCSAR（戦闘捜索救難）部隊はおらず、すぐにISISに捕らえられた。2015年1月1日には、ヨルダン特殊部隊と連合軍機による救出作戦が失敗。そして2015年2月3日、ISISは中尉を火刑に処した映像を公開した。",
+    ["DictKey_subtitle_661"] = "5",
+    ["DictKey_subtitle_199"] = "PLAYER：Weasel 32、イン。",
+    ["DictKey_subtitle_612"] = "WIZARD: Blackbird 41、Wizard、了解。",
+    ["DictKey_subtitle_261"] = "TIGER 21: Tiger 21、エンジン火災灯が点いた！",
+    ["DictKey_ActionRadioText_394"] = "",
+    ["DictKey_subtitle_1055"] = "",
+    ["DictKey_ActionRadioText_1073"] = "フェンスアウト",
+    ["DictKey_ActionText_563"] = "",
+} -- end of dictionary

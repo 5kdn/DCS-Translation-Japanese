@@ -1,0 +1,618 @@
+dictionary = 
+{
+    ["DictKey_ActionRadioText_330"] = "周波数変更完了",
+    ["DictKey_ActionRadioText_686"] = "",
+    ["DictKey_subtitle_440"] = "PYTHON 73: Python 73、3つ目のWASPが活動中、GARDEN。",
+    ["DictKey_subtitle_414"] = "PYTHON 73: Knight、Python、接触機が離脱中。",
+    ["DictKey_subtitle_729"] = "PLAYER: Tower、Weasel 3、イニシャル、ランウェイ23への着陸リクエスト。",
+    ["DictKey_subtitle_232"] = "OVERLORD：Weasel 31、Overlord、警告。ブルズアイ340の38、20,000、バンディット、高速、ホット。",
+    ["DictKey_subtitle_537"] = "WEASEL 32 (FLASH): Two！",
+    ["DictKey_ActionText_26"] = "W33 bomb",
+    ["DictKey_subtitle_206"] = "",
+    ["DictKey_ActionText_327"] = "（PRIでMISSIONへスイッチ）",
+    ["DictKey_ActionText_101"] = "（PRIでGROUNDへスイッチ）",
+    ["DictKey_subtitle_77"] = "WEASEL 31 (PLAYER): Departure, Weasel 3, airborne.  ",
+    ["DictKey_subtitle_242"] = "OVERLORD: Hitman 31、迎撃コースは方位315、バスター。",
+    ["DictKey_subtitle_142"] = "WEASEL 32（FLASH）：Two。",
+    ["DictKey_subtitle_148"] = "PLAYER：Two、One。空対空モード、バスター。",
+    ["DictKey_ActionRadioText_782"] = "フェンスアウト",
+    ["DictKey_subtitle_306"] = "KNIGHT: Ninety nine、ポップアップグループ、ブルズアイ321、47、高度7000、南へ移動、DEATH STARからのoutlawだ。",
+    ["DictKey_subtitle_401"] = "RED CROWN: こちらRed Crown。Greyhounds発射、残り9分20秒。",
+    ["DictKey_subtitle_51"] = "INCIRLIK GROUND: Weasel 21、タキシーGolf、Echo誘導路手前で待機、滑走路23。",
+    ["DictKey_subtitle_700"] = "APPROACH: Weasel flight、Incirlikアプローチ。レーダーコンタクト。Falcon上空で6000フィートに降下してTowerへ。ランウェイ23への目視進入を想定。",
+    ["DictKey_ActionText_13"] = "C32 bombs",
+    ["DictKey_subtitle_559"] = "OVERLORD: 復唱良好。ブレイク、ブレイク。Hitman 31、プレイタイムは？",
+    ["DictKey_subtitle_35"] = "PLAYER: Weasels、AUXチェック。",
+    ["DictKey_ActionRadioText_627"] = "1. 直接RTB",
+    ["DictKey_ActionRadioText_757"] = "",
+    ["DictKey_subtitle_571"] = "OVERLORD: TexacoはトラックGolf、342の112、18000。",
+    ["DictKey_subtitle_338"] = "WEASEL 32 (FLASH): Two、了解。Ivanが黙って見てるわけなかったな。",
+    ["DictKey_subtitle_374"] = "",
+    ["DictKey_subtitle_210"] = "SHELL 71：どうぞ、Shell 71。",
+    ["DictKey_ActionRadioText_778"] = "",
+    ["DictKey_subtitle_583"] = "WEASEL 32 (FLASH): Two、了解。",
+    ["DictKey_ActionRadioText_803"] = "フェンスイン",
+    ["DictKey_subtitle_248"] = "PLAYER: Overlord、Weasel 31、了解。Weasel 31、迎撃する。",
+    ["DictKey_subtitle_593"] = "PLAYER: Overlord、Weasel 31、ラジャー。",
+    ["DictKey_ActionRadioText_633"] = "",
+    ["DictKey_ActionRadioText_680"] = "",
+    ["DictKey_subtitle_617"] = "WEASEL 32 (FLASH): Two。",
+    ["DictKey_ActionText_126"] = "（PRIでTEXACOへスイッチ）",
+    ["DictKey_subtitle_519"] = "OVERLORD: Weasel 31、Overlord、HONEY JAR受信。",
+    ["DictKey_subtitle_378"] = "OVERLORD: Weasel 31、Overlord。",
+    ["DictKey_ActionText_33"] = "attack",
+    ["DictKey_ActionText_32"] = "Attack",
+    ["DictKey_subtitle_410"] = "KNIGHT: 少し待て、Python。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_subtitle_386"] = "OVERLORD: ラジャー。",
+    ["DictKey_subtitle_175"] = "PLAYER：了解。",
+    ["DictKey_subtitle_47"] = "PLAYER: ロジャー。",
+    ["DictKey_subtitle_515"] = "OVERLORD: Weasel 31、Overlord、送れ。",
+    ["DictKey_subtitle_723"] = "PLAYER: Incirlik Tower, Weasel 3, Falcon.",
+    ["DictKey_subtitle_676"] = "",
+    ["DictKey_subtitle_711"] = "[ATIS情報] Incirlik空軍基地、インフォメーションUniform、時刻03:55。風210で6ノット、視程10マイル以上、雲23,000フィートに散在、気温19度、気圧29.59。使用滑走路は23。目視進入を想定。Uniform受信確認を。",
+    ["DictKey_ActionText_671"] = "（PRIでAPPROACHへスイッチ）",
+    ["DictKey_subtitle_668"] = "TEXACO: 感謝します、サー！",
+    ["DictKey_ActionText_522"] = "",
+    ["DictKey_subtitle_731"] = "INCIRLIK TOWER: Weasel 31、ランウェイ23への着陸許可。風は210で6ノット。",
+    ["DictKey_ActionText_15"] = "",
+    ["DictKey_subtitle_646"] = "PLAYER: よし、Two、次はお前だ。",
+    ["DictKey_subtitle_706"] = "APPROACH: Weasel 31、スイッチ許可。",
+    ["DictKey_subtitle_575"] = "PLAYER: ラジャー、サンキュー。",
+    ["DictKey_subtitle_579"] = "WEASEL 32 (FLASH): 家まで戻れそうだ。",
+    ["DictKey_subtitle_595"] = "SNAKE 21: Overlord、Snake 21、バンディットへ迎撃開始、ブルズアイ342の59。",
+    ["DictKey_subtitle_753"] = "WEASEL 32 (SUSPECT): Weasel 32、GolfからHotel経由でHotel 42までタキシー。",
+    ["DictKey_subtitle_498"] = "WEASEL 32 (FLASH): 多分終わりだ。俺の担当エリアの目標は全部命中してる。",
+    ["DictKey_subtitle_420"] = "PYTHON 73: Ninety nine、Python 73、別のBUMBLEBEEが活動中、ブルズアイ102、7。",
+    ["DictKey_ActionRadioText_804"] = "Easy Mode On",
+    ["DictKey_subtitle_501"] = "PLAYER: ラジャー。こっちも同じだ。シェルター全焼、追加目標も全てヒット。待機、Overlordに報告する。",
+    ["DictKey_subtitle_416"] = "KNIGHT: ラジャー。",
+    ["DictKey_ActionRadioText_755"] = "",
+    ["DictKey_subtitle_597"] = "OVERLORD: Snake 21、Overlord、ラジャー。",
+    ["DictKey_subtitle_198"] = "OVERLORD：Weasel 31、了解。ピクチャークリーン。ステーション到着時に報告しろ。",
+    ["DictKey_subtitle_135"] = "WEASEL 32（FLASH）：もちろんだよ……ブレイク。警戒、DIRT、11、215。",
+    ["DictKey_subtitle_187"] = "WEASEL 32（FLASH）：Two。",
+    ["DictKey_subtitle_298"] = "SNAKE 21: 4分。",
+    ["DictKey_subtitle_350"] = "PLAYER: Roger。",
+    ["DictKey_subtitle_262"] = "OVERLORD: その件はスキップ、新たなBARCAPポイントを設定せよ。ブルズアイ050の60から040の80の間だ。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_subtitle_432"] = "SNAKE 21: Knight、Snake 21、DEATH STARKからのバンディットに動きは？",
+    ["DictKey_subtitle_460"] = "WEASEL 32 (FLASH): One、Two、警戒、SAM発射、GARDEN。",
+    ["DictKey_subtitle_747"] = "WEASEL 32 (FLASH): グラウンド、Weasel 32、誘導路チャーリーへ合流。",
+    ["DictKey_subtitle_280"] = "JOKER 41: Knight、Joker 41、計画通りオンステーション。",
+    ["DictKey_ActionText_785"] = "",
+    ["DictKey_ActionText_693"] = "",
+    ["DictKey_subtitle_246"] = "OVERLORD: Weasel 31、Overlord。バンディットが接近中だ。",
+    ["DictKey_subtitle_642"] = "PLAYER: Weasels、PRIのチャンネル8へ。",
+    ["DictKey_subtitle_745"] = "PLAYER: Weasel 31、GolfからHotel経由でHotel 41へタキシー、Weasel 31。",
+    ["DictKey_subtitle_49"] = "WEASEL 21 (RAIN): Ground、Weasel 21、Tangoを受領、2機でタキシー開始。",
+    ["DictKey_subtitle_531"] = "WEASEL 32 (FLASH): Two、マグナム、BUMBLEBEE！",
+    ["DictKey_ActionText_14"] = "",
+    ["DictKey_subtitle_412"] = "KNIGHT: コンタクト確認。攻撃実施は我々が指示する。",
+    ["DictKey_subtitle_268"] = "OVERLORD: Hitman 31、どうぞ。",
+    ["DictKey_ActionRadioText_637"] = "1. 直接RTB",
+    ["DictKey_subtitle_438"] = "PYTHON 73: Python 73、WASPがもう1つ活動中、GARDEN。",
+    ["DictKey_subtitle_264"] = "HITMAN 31: Hitman 31、了解。BARCAP、050の60と040の80の間、ウィルコ。",
+    ["DictKey_subtitle_529"] = "WEASEL 32 (FLASH): One、右にブレイク、チャフを撒け、SAM発射！",
+    ["DictKey_subtitle_220"] = "PYTHON 73：タキシーウェイに3機確認。そろそろお出迎えが来るぞ。",
+    ["DictKey_subtitle_272"] = "OVERLORD: Hitman 31、2グループがDEATH STARの北東15マイル地点でホールド中。脅威なし。",
+    ["DictKey_subtitle_702"] = "PLAYER: Falcon上空で6000まで降下、Towerにスイッチ、ランウェイ23に目視進入。",
+    ["DictKey_subtitle_79"] = "DEPARTURE: Weasel 31、Departure、レーダーコンタクト。5000フィートへ上昇し、Eagle Exitへ直行。その後自律航法を許可する。",
+    ["DictKey_subtitle_436"] = "PYTHON 73: Python 73、WASP活動中、GARDEN。",
+    ["DictKey_ActionRadioText_783"] = "フェンスアウト",
+    ["DictKey_ActionText_110"] = "（PRIでDEPARTUREへスイッチ）",
+    ["DictKey_ActionText_24"] = "W31 bomb",
+    ["DictKey_subtitle_87"] = "WEASEL 21 (HULK): Weasel 21。",
+    ["DictKey_subtitle_535"] = "PLAYER: One、クリア！北へ向かって移動開始、Rejoin！",
+    ["DictKey_ActionText_130"] = "",
+    ["DictKey_ActionRadioText_806"] = "Easy Mode On",
+    ["DictKey_ActionRadioText_129"] = "周波数変更完了",
+    ["DictKey_subtitle_470"] = "PLAYER: Two、One。Fighter to fighter。Line abreast、shooter - shooter、AGM-88、東から進入し、北へ離脱、北側をソートしてくれ。リードが南側のランチャー2基を担当する。",
+    ["DictKey_ActionText_22"] = "",
+    ["DictKey_ActionText_20"] = "",
+    ["DictKey_subtitle_192"] = "OVERLORD：Weasel 21、Overlord、ネガティブ。ステーションに接近したらKNIGHTにコンタクトせよ。",
+    ["DictKey_subtitle_146"] = "PLAYER：One、フェンスイン。",
+    ["DictKey_subtitle_704"] = "PLAYER: アプローチ、Weasel 3、Falcon通過、Towerへスイッチ。",
+    ["DictKey_subtitle_256"] = "PLAYER: Weasel 31、了解。",
+    ["DictKey_ActionText_8"] = "V12 bombs",
+    ["DictKey_subtitle_166"] = "PLAYER：Two、One。ウェイポイント2に戻る。",
+    ["DictKey_subtitle_284"] = "WEASEL 21 (RAIN): Knight、Weasel 21と編隊、F-16×2、WINDMILLへ向け移動中、チェックイン。",
+    ["DictKey_subtitle_93"] = "PLAYER: Weasels、PRI 6へプッシュ。",
+    ["DictKey_subtitle_444"] = "OVERLORD: Weasel 31、ラジャー。発射源への攻撃を許可する。",
+    ["DictKey_subtitle_71"] = "INCIRLIK TOWER: Weasel 31、離陸許可、ランウェイ23、風210で6ノット。",
+    ["DictKey_subtitle_164"] = "WEASEL 32（FLASH）：Two！",
+    ["DictKey_ActionText_718"] = "",
+    ["DictKey_subtitle_621"] = "PLAYER: Overlord、Weasel 31、不可能だ。そのルートだと北西のHORNETとBUMBLEBEEの射程に入る。",
+    ["DictKey_ActionText_25"] = "W32 bomb",
+    ["DictKey_subtitle_290"] = "",
+    ["DictKey_subtitle_177"] = "PLAYER：Two、右へ30度チェック。",
+    ["DictKey_subtitle_266"] = "HITMAN 31: Overlord、Hitman 31。",
+    ["DictKey_descriptionText_1"] = "よし、始めよう。政権側が民間人に対して化学兵器を使ったという話は、もう聞いてるだろう。\
+\
+4月4日、シリア空軍が反体制派の支配する町、Khan Sheikhoun（アレッポ南方、シリア北西部）に爆弾を投下した。標的は一階建ての建物で、少なくとも89名が死亡。うち33人が子ども、18人が女性だった。負傷者は500名以上にのぼる。初期の調査では、サリンかそれに類する神経剤が使われたとされている。\
+\
+そして昨日、DCから攻撃命令が下った。報復として、アメリカ軍が空爆を行う。最初は海軍単独の作戦になるはずだったが、状況が変わって空軍も参加することになった。とはいえ、主力はトマホークだ。今Tripoli北方を航行中の駆逐艦2隻、USSロスとUSSポーターから、事前に設定された目標に向けて59発のTLAMが発射される予定だ。\
+\
+スライド3、見てくれ。\
+\
+トマホークを撃つのは海軍だが、俺たちはその間にSEAD（敵防空網制圧）を担当する。目標はShayrat空軍基地。ダマスカスの北東約70マイル、シリアの海岸線から東に50マイルの地点だ。地図には、ここ数日で活動が確認されている脅威が示されている。俺たちとトマホークにとって厄介な存在になるかもしれない連中だ。詳細は後で説明する。\
+\
+それと、今回もロシア軍の動きには注意が必要だ。国際的には、ロシアはシリア政権の残虐行為を擁護する立場を取っている。そして今回も、ロシアのmainstayや他の戦力が作戦空域に展開してくるのは間違いない。\
+\
+ロシアには攻撃の通告はしてある。ただし、シリア側に準備の猶予を与えるほどのタイミングではない。とはいえ、連中は俺たちが来ることには気づいてるはずだ。\
+\
+さてーーここから詳細に入る。\
+\
+",
+    ["DictKey_subtitle_67"] = "WEASEL 21 (HULK): Weasel 21、離陸許可、ランウェイ23。",
+    ["DictKey_ActionRadioText_688"] = "周波数変更完了",
+    ["DictKey_subtitle_613"] = "PLAYER: ラジャー。じゃあ直接RTBしよう。",
+    ["DictKey_ActionText_568"] = "SAM",
+    ["DictKey_ActionText_9"] = "V13 bombs",
+    ["DictKey_subtitle_577"] = "PLAYER: よし、Two。Texacoまでは110マイル、ホームまでだと160マイル。燃料はどうだ？",
+    ["DictKey_subtitle_543"] = "OVERLORD: Ninety Nine、Overlord、HONEY JAR確認。Miller time！",
+    ["DictKey_ActionRadioText_779"] = "",
+    ["DictKey_subtitle_276"] = "PLAYER: Overlord、Weasel 31、BACKYARDに到着。",
+    ["DictKey_subtitle_228"] = "PLAYER：Weasel 31、了解。",
+    ["DictKey_ActionRadioText_632"] = "",
+    ["DictKey_subtitle_656"] = "",
+    ["DictKey_subtitle_442"] = "PLAYER: Overlord、Weasel 31。GARDENからSAM発射を確認、Greyhoundsを狙って発射された。",
+    ["DictKey_subtitle_664"] = "WEASEL 32 (FLASH): Two。",
+    ["DictKey_subtitle_384"] = "PLAYER: 良好に視認できている、Overlord。",
+    ["DictKey_subtitle_563"] = "OVERLORD: ラジャー。その位置を維持して、Death Starを監視。",
+    ["DictKey_ActionText_675"] = "",
+    ["DictKey_ActionRadioText_639"] = "1. 直接RTB",
+    ["DictKey_ActionText_97"] = "",
+    ["DictKey_subtitle_735"] = "INCIRLIK TOWER: Weasel 31、滑走路クリア後はグラウンドへスイッチ。",
+    ["DictKey_subtitle_183"] = "WEASEL 32（FLASH）：Two。",
+    ["DictKey_subtitle_196"] = "PLAYER：Overlord、Weasel 3、計画通りチェックイン。BACKYARDへ向かってる。",
+    ["DictKey_subtitle_282"] = "KNIGHT: Joker 41、Knight、了解。ピクチャークリーン。",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_subtitle_308"] = "JOKER 41: Joker 41、nails、030、MAINSTAY。",
+    ["DictKey_ActionText_687"] = "",
+    ["DictKey_subtitle_472"] = "WEASEL 32 (FLASH): Two、ラジャー、交戦する。",
+    ["DictKey_subtitle_154"] = "WEASEL 32 (FLASH): Two, nails, 285, MAINSTAY. ",
+    ["DictKey_ActionRadioText_628"] = "2. 給油",
+    ["DictKey_subtitle_484"] = "PLAYER: Weasel 31、もう一つ撃破！",
+    ["DictKey_ActionRadioText_125"] = "周波数変更完了",
+    ["DictKey_subtitle_252"] = "PLAYER: Weasel 31。",
+    ["DictKey_subtitle_304"] = "KNIGHT: Snake 21、Knight、了解。待機せよ。",
+    ["DictKey_subtitle_254"] = "OVERLORD: Weasel 31、対処を中止、任務を再開せよ。",
+    ["DictKey_ActionText_689"] = "（PRIでTOWERへスイッチ）",
+    ["DictKey_ActionText_331"] = "",
+    ["DictKey_subtitle_619"] = "OVERLORD: Weasel 31、Overlord、お前の進路はDeath Star周辺のCAPへ向かってる。北への進路変更を推奨。",
+    ["DictKey_subtitle_89"] = "PLAYER: Departure、Weasel 3、Eagle。",
+    ["DictKey_subtitle_278"] = "OVERLORD: Weasel 31、Overlord、了解。",
+    ["DictKey_ActionRadioText_692"] = "周波数変更完了",
+    ["DictKey_subtitle_244"] = "HITMAN 31: Hitman 31、コピー。",
+    ["DictKey_ActionRadioText_113"] = "周波数変更完了",
+    ["DictKey_subtitle_160"] = "PLAYER：ラジャー。",
+    ["DictKey_ActionText_625"] = "check",
+    ["DictKey_subtitle_59"] = "PLAYER: タキシーGolf、Echo経由でランウェイ23手前で待機。",
+    ["DictKey_ActionText_789"] = "では、テープとミッションの内容を振り返ろうか。今回はかなり大がかりな作戦だったが、すべての要素がしっかりと噛み合っていた。\
+\
+離陸からステーション到着までについては特筆すべきことはない。予想通り、ロシア軍は活発に動いており、SAMも戦闘機も展開済みだった。ブリーフィングでRainが言っていた通り、彼らは我々の任務を妨害しようとしてきたが、こちらが180度ターンして向かい合ったところ、すぐに引き下がった。その後は問題なくステーションに到着。\
+\
+現地ではシリア軍のSA-6サイトを3か所確認し、我々のグレイハウンドに向けてミサイルを発射してくるのを目撃。計画通りに即座に対応し、HARMsで攻撃に移った。\
+\
+結果として、敵の追尾レーダーを1基のみ無力化。Flash、よくやった。私は残念ながら2目標とも仕留め損ねた。（-40ポイント）\
+\
+TLAMによる攻撃は非常に成功し、指定された全目標に命中した。BDAの詳細はこれからだが、Shayrat空軍基地からの発進は当面できなくなるだろう。タキシーウェイの近くに駐機していたMiG-23も4機が破壊された。おそらく攻撃前に移動させようとしていたのだろうが、間に合わなかったようだ。\
+\
+ただしシリア側も黙ってはいなかった。帰投直前に新たなSA-2が姿を現し、私に向けて発射してきた。Flash、あのときの迅速なランチャーへの攻撃、助かった。ありがとう。\
+\
+その後は来た時とほぼ同じルートで帰還。復路も着陸も特に問題はなし。全体として、今日の作戦はよくやったと言える。",
+    ["DictKey_subtitle_296"] = "KNIGHT: HAUNTED HOUSEへのETAは？",
+    ["DictKey_ActionText_634"] = "",
+    ["DictKey_subtitle_318"] = "KNIGHT: Weasel 21、Knight、コピー。",
+    ["DictKey_subtitle_462"] = "PLAYER: ラジャー。RWRはクリーン。",
+    ["DictKey_subtitle_399"] = "JOKER 41: Joker 41、ジャミング開始。",
+    ["DictKey_subtitle_388"] = "WEASEL 32 (FLASH): One、Two。RWRにWASPは出てない。",
+    ["DictKey_subtitle_654"] = "PLAYER: Weasels、PRIのボタン4へ。",
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionText_325"] = "",
+    ["DictKey_subtitle_739"] = "PLAYER: グラウンド、Weasel 31、誘導路チャーリーへ合流。",
+    ["DictKey_subtitle_91"] = "DEPARTURE: 31、Departure、自律航法を許可する。",
+    ["DictKey_ActionText_23"] = "",
+    ["DictKey_ActionText_29"] = "Bait Spawn",
+    ["DictKey_ActionText_521"] = "",
+    ["DictKey_subtitle_749"] = "WEASEL 32 (FLASH): グラウンド、Weasel 32、誘導路アルファへ合流。",
+    ["DictKey_subtitle_505"] = "PLAYER: Overlord、Weasel 31、命中確認、WASP2基撃破、1基ロスト。",
+    ["DictKey_ActionText_121"] = "",
+    ["DictKey_subtitle_43"] = "WEASEL 32 (FLASH): Two、ウィルコ。",
+    ["DictKey_subtitle_152"] = "PLAYER：ああ、その通りだな。",
+    ["DictKey_subtitle_478"] = "WEASEL 32 (FLASH): Weasel 32、マグナム、北側のWASP、GARDEN！",
+    ["DictKey_subtitle_310"] = "KNIGHT: Ninety nine、新たなポップアップグループ、ブルズアイ330、42、高度9000、東へ移動、2コンタクト、DEATH STARからのoutlaw。",
+    ["DictKey_ActionText_756"] = "",
+    ["DictKey_subtitle_194"] = "WEASEL 21（RAIN）：Weasel 21、了解。",
+    ["DictKey_ActionRadioText_109"] = "周波数変更完了",
+    ["DictKey_subtitle_360"] = "WEASEL 32 (FLASH): Two！",
+    ["DictKey_ActionText_797"] = "では、テープとミッションを振り返ろうか。今回は本当に大規模な作戦で、数多くの要素が見事に連携していた。\
+\
+出発からステーション到着までは特筆すべきことはなかった。予想通りロシア軍は活動的で、SAMと航空機をスタンバイさせていた。Rainがブリーフィングで言っていた通り、やつらはこちらを妨害しようとインターセプトを仕掛けてきたが、こちらが180度旋回して正面を向いたら、あっさり引き返していった。その後は問題なくステーション入り。\
+\
+現地ではシリア軍のSA-6サイトを3か所確認。やつらがグレイハウンドに向けてミサイルを発射するのを目撃し、予定通りすぐにHARMsで対処。\
+\
+敵の追尾レーダーは1基のみ撃破。Flash、ナイスショット。俺の方は2つとも仕留められなかった。[40ポイント減点]\
+\
+TLAM攻撃は非常に成功しており、全指定目標に命中した。BDAの正式報告待ちではあるが、Shayrat空軍基地からの発進能力はしばらく失われるだろう。タキシーウェイ付近にはMiG-23が4機駐機していて、それらも破壊された。脱出させようとしてたんだろうが、間に合わなかったようだ。\
+\
+ただ、シリア側も最後にちょっとしたサプライズを仕込んでいて、帰投直前に新たなSA-2が出現。ただし、こちらに命中することはなかった。\
+\
+その後は来たルートをほぼそのまま辿って帰還。復路も着陸も問題なし。全体として、よくやった。お疲れ。",
+    ["DictKey_ActionText_398"] = "Check BE",
+    ["DictKey_subtitle_137"] = "PLAYER：One、同じく。さらに10。DEATH STARからだな。",
+    ["DictKey_subtitle_587"] = "WEASEL 32 (FLASH): Two。",
+    ["DictKey_subtitle_358"] = "PLAYER: Two、One。その場で右旋回して180度反転、行け。",
+    ["DictKey_ActionRadioText_805"] = "",
+    ["DictKey_ActionText_6"] = "V11 bombs",
+    ["DictKey_subtitle_55"] = "PLAYER: Ground、Weasel 21、F-16の2機編隊、Tango受領、タキシー許可を要請する。",
+    ["DictKey_subtitle_741"] = "PLAYER: グラウンド、Weasel 31、誘導路アルファへ合流。",
+    ["DictKey_subtitle_368"] = "PLAYER: Overlord、Weasel 31、BACKYARDに到着。",
+    ["DictKey_ActionText_11"] = "",
+    ["DictKey_subtitle_382"] = "OVERLORD: GARDENがしっかり視認できているか確認してくれ。",
+    ["DictKey_subtitle_507"] = "PLAYER: Overlord、Weasel 31、WASP1基撃破、2基ロスト。",
+    ["DictKey_subtitle_698"] = "PLAYER: Incirlikアプローチ、Weasel 3。F-16二機編隊、Uniform受信済み。ランウェイ23にストレートインをリクエスト。",
+    ["DictKey_subtitle_170"] = "PLAYER：One、ラジャー。Aleppoのあたりだな。",
+    ["DictKey_ActionComment_626"] = "",
+    ["DictKey_ActionText_769"] = "では、テープとミッションを振り返ってみよう。今回はかなり大掛かりな作戦で、複数の要素が見事に噛み合っていた。\
+\
+離陸からステーション到着までは特に問題なし。予想通り、ロシア側は活発に動いていて、SAMや戦闘機が展開していた。ブリーフィングでRainが言っていた通り、任務を妨害しようと接近してきたが、こちらが180度ターンして向き合った時点で引き返した。以降、無事にステーション入り。\
+\
+現地ではシリア軍のSA-6サイトを3か所確認。グレイハウンドに対してミサイルを発射してくるのを目視。計画通り、即座に反応してHARMsで攻撃。\
+\
+攻撃は完全に成功し、3基の追尾レーダーを短時間で無力化。\
+\
+TLAMの攻撃も非常に効果的で、指定された目標はすべて命中。BDAの詳細は後日だが、少なくともShayrat空軍基地からの発進はしばらく無理だろう。タキシーウェイ付近に駐機していたMiG-23を含め、何機か地上で失われた。恐らく急いで移動させようとしていたのだろうが、間に合わなかったようだ。\
+\
+ただし、シリア側にもサプライズが一つあった。帰投直前に新たなSA-2が出現し、自機にミサイルを撃ってきた。ランチャーへの即応攻撃、助かったよFlash。\
+\
+その後は往路とほぼ同じ経路で帰投。復路および着陸も特に問題なし。全体的に、今日はいい仕事をした。",
+    ["DictKey_ActionRadioText_638"] = "2. 給油",
+    ["DictKey_ActionText_124"] = "",
+    ["DictKey_subtitle_162"] = "PLAYER：Two、One。方向転換、180、行け。",
+    ["DictKey_subtitle_270"] = "HITMAN 31: リクエストピクチャー。",
+    ["DictKey_subtitle_466"] = "PLAYER: ラジャー。",
+    ["DictKey_subtitle_566"] = "HITMAN 31: Hitman 31、了解。",
+    ["DictKey_subtitle_366"] = "WEASEL 32 (FLASH): Two。",
+    ["DictKey_sortie_5"] = "M09: Shayrat Missile Strike",
+    ["DictKey_ActionRadioText_765"] = "タキシー準備完了",
+    ["DictKey_subtitle_39"] = "WEASEL 32 (FLASH): Two。",
+    ["DictKey_subtitle_424"] = "PYTHON 73: Python 73、BUMBLEBEE活動中、ブルズアイ273、24。",
+    ["DictKey_subtitle_652"] = "WEASEL 32 (FLASH): Two。",
+    ["DictKey_subtitle_57"] = "INCIRLIK GROUND: Weasel 31、タキシーGolf、Echo経由でランウェイ23の手前まで進み、Weasel 21の後ろで待機せよ。",
+    ["DictKey_subtitle_454"] = "PLAYER: そこは停めちゃダメな場所だったな…",
+    ["DictKey_subtitle_156"] = "PLAYER：ラジャー。",
+    ["DictKey_subtitle_719"] = "PLAYER: Weasels、PRIチェック。",
+    ["DictKey_ActionRadioText_104"] = "",
+    ["DictKey_subtitle_418"] = "PYTHON 73: Ninety nine、Python 73、BUMBLEBEE活動中、ブルズアイ355、5。",
+    ["DictKey_ActionText_27"] = "W33 bomb",
+    ["DictKey_subtitle_486"] = "WEASEL 32 (FLASH): Weasel 32、南側のWASPはロスト。",
+    ["DictKey_subtitle_150"] = "WEASEL 32（FLASH）：Two、ラジャー。Ivanが黙って見てるわけないと思ってたよ。",
+    ["DictKey_ActionRadioText_717"] = "周波数変更完了",
+    ["DictKey_subtitle_509"] = "OVERLORD: Weasel 31、Overlord、了解。",
+    ["DictKey_subtitle_492"] = "WEASEL 32 (FLASH): Two。",
+    ["DictKey_subtitle_553"] = "PLAYER: Overlord、Weasel 31、RTB。",
+    ["DictKey_subtitle_490"] = "PLAYER: Two、GARDENから目を離すな。着弾観測に集中、割り当てエリアをしっかり見ろ。",
+    ["DictKey_subtitle_372"] = "OVERLORD: Ninety nine、HEIMDALまでTマイナス3。",
+    ["DictKey_ActionText_352"] = "Check PICTURE",
+    ["DictKey_subtitle_204"] = "",
+    ["DictKey_subtitle_85"] = "DEPARTURE: Departure、以後は自律航法で進行せよ。",
+    ["DictKey_ActionText_34"] = "In Aleppo zone",
+    ["DictKey_subtitle_314"] = "KNIGHT: Ninety nine、新しいピクチャー。グループ2つ。第1グループ、ブルズアイ325、48、高度12000、北へ移動、Mainstay。第2グループ、ブルズアイ335、41、高度15000、東へ移動、outlaw。Knightが監視する。",
+    ["DictKey_subtitle_446"] = "PLAYER: Overlord、Weasel 31、GARDENのWASPを攻撃する。",
+    ["DictKey_subtitle_603"] = "SNAKE 21: Overlord、Snake 21、Weapons hold。",
+    ["DictKey_subtitle_545"] = "JOKER 41: Joker 41、ジャミング停止。RTB。",
+    ["DictKey_ActionText_357"] = "",
+    ["DictKey_subtitle_405"] = "KNIGHT: Python、どうぞ。",
+    ["DictKey_subtitle_648"] = "WEASEL 32 (FLASH): Two。",
+    ["DictKey_subtitle_557"] = "PLAYER: Overlord、Weasel 31、了解。ウェイポイント6を通過後、342を維持してHatayの東で左旋回。",
+    ["DictKey_ActionText_115"] = "（タキシー準備完了）",
+    ["DictKey_ActionText_16"] = "C33 bombs",
+    ["DictKey_ActionText_353"] = "Check Position",
+    ["DictKey_subtitle_179"] = "WEASEL 32（FLASH）：Two。",
+    ["DictKey_subtitle_396"] = "JOKER 41: Joker 41、ジャミング開始。",
+    ["DictKey_subtitle_131"] = "WEASEL 32（FLASH）：いやー、水の上を飛ぶのってほんと嫌だ。今回は陸地の上だから気が楽だな。",
+    ["DictKey_subtitle_250"] = "OVERLORD: Weasel 31、Overlord。バンディットグループ、北回りで西へ転針中。",
+    ["DictKey_subtitle_75"] = "PLAYER: Two、ボタン5へプッシュ。",
+    ["DictKey_subtitle_480"] = "WEASEL 32 (FLASH): Weasel 32、WASP撃破！",
+    ["DictKey_subtitle_222"] = "OVERLORD：Weasel 31、Overlord。",
+    ["DictKey_subtitle_666"] = "PLAYER: Texaco、Weasel 31。ドリンク感謝する！じゃあな！",
+    ["DictKey_subtitle_482"] = "PLAYER: Weasel 31、WASP撃破！",
+    ["DictKey_subtitle_448"] = "",
+    ["DictKey_subtitle_609"] = "PLAYER: Two、One。燃料は？",
+    ["DictKey_subtitle_300"] = "KNIGHT: Knight、了解。",
+    ["DictKey_subtitle_216"] = "PYTHON 73：待て、Knight。",
+    ["DictKey_subtitle_743"] = "INCIRLIK GROUND: Weasel 31、GolfからHotel経由でHotel 41までタキシー。",
+    ["DictKey_subtitle_332"] = "PYTHON 73: 99、Python 73。DEATH STARで機体がタキシー中と思われる活動を検知。",
+    ["DictKey_subtitle_61"] = "PLAYER: Two、ボタン4へ。",
+    ["DictKey_subtitle_503"] = "PLAYER: Overlord、Weasel 31、命中確認、WASP3基無力化。",
+    ["DictKey_subtitle_533"] = "WEASEL 32 (FLASH): Two、BUMBLEBEEロスト！",
+    ["DictKey_subtitle_73"] = "PLAYER: Tower、離陸許可、ランウェイ23、Weasel 3。",
+    ["DictKey_subtitle_549"] = "KNIGHT: Knight、HONEY JAR確認。ブレイク。Snake 21、そのままステーション維持。",
+    ["DictKey_ActionText_354"] = "",
+    ["DictKey_ActionText_321"] = "（PRIでDEPARTUREへスイッチ）",
+    ["DictKey_subtitle_709"] = "[ATIS情報] Incirlik空軍基地、インフォメーションTango、時刻02:55。風210で6ノット、視程10マイル以上、雲23,000フィートに散在、気温19度、気圧29.59。使用滑走路は23。目視進入を想定。Tango受信確認を。",
+    ["DictKey_subtitle_422"] = "PYTHON 73: Python 73、BUMBLEBEE活動中、ブルズアイ079、9。",
+    ["DictKey_subtitle_589"] = "WEASEL 32 (FLASH): Two、SPIKE、Flanker-D。",
+    ["DictKey_subtitle_751"] = "INCIRLIK GROUND: Weasel 32、GolfからHotel経由でHotel 42までタキシー。",
+    ["DictKey_ActionText_682"] = "（給油後、FLASHに完了を連絡）",
+    ["DictKey_ActionRadioText_326"] = "周波数変更完了",
+    ["DictKey_subtitle_312"] = "RED CROWN: Red Crown、周波数に入った。",
+    ["DictKey_subtitle_376"] = "OVERLORD: Ninety nine、Overlord、ピクチャー。ブルズアイ340、57マイル先に2グループ確認。第1グループ、27000、バンディット。第2グループ、MAINSTAY、33000。Overlordが監視中。",
+    ["DictKey_subtitle_551"] = "SNAKE 21: Knight、Snake 21、ラジャー。",
+    ["DictKey_subtitle_547"] = "WEASEL 21 (RAIN): Weasel 21、HONEY JAR確認。Weasel 21 flight、RTB。",
+    ["DictKey_ActionRadioText_802"] = "フェンスイン",
+    ["DictKey_ActionText_356"] = "",
+    ["DictKey_subtitle_513"] = "PLAYER: Overlord、Weasel 31。",
+    ["DictKey_ActionText_17"] = "C34 bombs",
+    ["DictKey_subtitle_238"] = "OVERLORD: Hitman 31、Overlord。警告だ、シングルグループ、ブルズアイ350、35、高度2万、南西進行中、バンディット。迎撃を推奨する。",
+    ["DictKey_subtitle_452"] = "WEASEL 32 (FLASH): One、Two。北側タキシーウェイ中央のランプを見てくれ！戦闘機が4機並んでる！",
+    ["DictKey_subtitle_53"] = "WEASEL 21 (RAIN): Weasel 21、タキシーGolf、Echo誘導路手前で待機、滑走路23。",
+    ["DictKey_ActionText_21"] = "",
+    ["DictKey_subtitle_41"] = "PLAYER: Groundに切り替え。タキシー準備できたら言ってくれ。",
+    ["DictKey_subtitle_181"] = "PLAYER：Two、ここで待機する。スイッチ確認、GARDENにセンサー向けろ。",
+    ["DictKey_ActionRadioText_108"] = "周波数変更完了",
+    ["DictKey_ActionRadioText_764"] = "",
+    ["DictKey_subtitle_234"] = "PLAYER：Overlord、Weasel 31、ラジャー。",
+    ["DictKey_subtitle_292"] = "KNIGHT: Knight、了解。ブレイクーーSnake 21、こちらKnight。",
+    ["DictKey_subtitle_591"] = "OVERLORD: Weasel 31、Overlord、警告。バンディット、ブルズアイ342の59、27000、現在ホット。",
+    ["DictKey_subtitle_476"] = "PLAYER: Weasel 31、マグナム、2発目のWASP、GARDEN！",
+    ["DictKey_subtitle_644"] = "PLAYER: 俺が先に行く。",
+    ["DictKey_ActionText_98"] = "",
+    ["DictKey_subtitle_660"] = "PLAYER: One、防御中！",
+    ["DictKey_subtitle_45"] = "WEASEL 32 (FLASH): Two、タキシー準備完了。",
+    ["DictKey_subtitle_541"] = "OVERLORD: Overlord。",
+    ["DictKey_subtitle_208"] = "KNIGHT：Shell 71、こちらKnight。",
+    ["DictKey_subtitle_511"] = "PYTHON 73: こちらPython 73、ミサイル着弾！",
+    ["DictKey_subtitle_407"] = "PYTHON 73: コンタクト、Scrub、ブルズアイ270、26、高度700フィート、西へ移動。そっちで確認できるか？",
+    ["DictKey_ActionText_363"] = "",
+    ["DictKey_subtitle_344"] = "PLAYER: Roger。",
+    ["DictKey_subtitle_662"] = "PLAYER: Weasels、チェック。",
+    ["DictKey_subtitle_585"] = "PLAYER: Overlordの指示通り北西に進む。ただしHORNETの攻撃範囲の西端をかすめるルートで行く。Two、トレイルでついてこい。",
+    ["DictKey_subtitle_212"] = "KNIGHT：トラックBravoへの移動を推奨する。",
+    ["DictKey_ActionRadioText_713"] = "周波数変更完了",
+    ["DictKey_subtitle_342"] = "WEASEL 32 (FLASH): Two、nails、285、MAINSTAY。",
+    ["DictKey_subtitle_37"] = "WEASEL 32 (FLASH): Two。",
+    ["DictKey_subtitle_394"] = "PLAYER: ラジャー。ここからの眺めはなかなかだな…",
+    ["DictKey_subtitle_236"] = "HITMAN 31：Overlord、Hitman 31、FACTORYにてオンステーション。",
+    ["DictKey_subtitle_200"] = "PLAYER：Weasel 31、ウィルコ。",
+    ["DictKey_subtitle_488"] = "PLAYER: Weasel 31、ラジャー。",
+    ["DictKey_subtitle_230"] = "PYTHON 73: Python 73, 10ダウン, DEATH STAR. ",
+    ["DictKey_ActionText_105"] = "",
+    ["DictKey_subtitle_370"] = "OVERLORD: Weasel 31、Overlord、了解。",
+    ["DictKey_ActionRadioText_320"] = "周波数変更完了",
+    ["DictKey_subtitle_364"] = "PLAYER: Two、One。ウェイポイント3に戻る。",
+    ["DictKey_ActionText_31"] = "Bait off",
+    ["DictKey_subtitle_63"] = "WEASEL 21 (HULK): Tower、Weasel 21、ナンバーワン、ランウェイ23。",
+    ["DictKey_subtitle_430"] = "RED CROWN: 各機へ、Red Crown。TOT5分前。",
+    ["DictKey_subtitle_525"] = "PLAYER: ラジャー…One防御中。",
+    ["DictKey_subtitle_607"] = "SNAKE 21: Overlord、Snake 21、了解。",
+    ["DictKey_subtitle_428"] = "KNIGHT: Weasel 21、Knight、了解。",
+    ["DictKey_ActionText_791"] = "では、テープとミッションを振り返ろうか。今回はかなり大規模な作戦だったが、各要素が見事に連携して機能していた。\
+\
+離陸からステーション到着までは特に問題なし。予想通り、ロシア軍は活動的で、SAMも戦闘機も展開済みだった。ブリーフィングでRainが言っていた通り、彼らは我々の任務を妨害しようとインターセプトを試みてきたが、こちらが180度ターンして向き直ったことで、諦めて引き返した。その後は順調にステーション入り。\
+\
+現地ではシリア軍のSA-6サイトを3か所確認、我々のグレイハウンドに向けてミサイルを発射してくるのを目撃。予定通り、素早く対応し、HARMsで攻撃。\
+\
+攻撃は完全に成功し、追尾レーダー3基すべてを短時間で無力化した。\
+\
+TLAMによる攻撃も非常に効果的で、指定された目標にはすべて命中した。BDAの確定には少し時間がかかるが、Shayrat空軍基地からの発進能力は当面失われるだろう。タキシーウェイ近くに駐機していたMiG-23も4機が破壊された。攻撃前に移動させようとしていたのかもしれないが、間に合わなかったようだ。\
+\
+ただ、シリア側も一矢報いようとしたのか、帰投直前に新たなSA-2が出現。ただしこちらに被害を与える前に対応し、被弾はなし。\
+\
+その後は来たときとほぼ同じルートで帰還。復路も着陸も問題なく終了。全体として、よくやった。ナイスミッションだった。",
+    ["DictKey_subtitle_464"] = "WEASEL 32 (FLASH): ミサイルは西へ飛んだ。Greyhoundsを狙ってるな。",
+    ["DictKey_subtitle_569"] = "PLAYER: Overlord、Weasel 31、タンカーへのアルファチェック。",
+    ["DictKey_subtitle_140"] = "PLAYER：Weasels、フェンスイン。",
+    ["DictKey_subtitle_258"] = "OVERLORD: Hitman 31、Overlord。",
+    ["DictKey_subtitle_158"] = "WEASEL 32 (FLASH): Two, nails, 285, FULCRUM.  ",
+    ["DictKey_subtitle_539"] = "PLAYER: Overlord、Weasel 31、防御中。",
+    ["DictKey_subtitle_496"] = "PLAYER: すごい光景だな…",
+    ["DictKey_subtitle_737"] = "PLAYER: Tower、Weasel 31、了解。",
+    ["DictKey_subtitle_527"] = "WEASEL 32 (FLASH): Two、ラジャー、BUMBLEBEEに攻撃する。",
+    ["DictKey_ActionText_362"] = "Check",
+    ["DictKey_subtitle_611"] = "WEASEL 32 (FLASH): Two、2.8。まだRTB可能だ。",
+    ["DictKey_subtitle_168"] = "WEASEL 32（FLASH）：Two、DIRT、HORNET、055。",
+    ["DictKey_subtitle_189"] = "WEASEL 21（RAIN）：Overlord、Weasel 21、計画通りチェックイン。WINDMILLへ向かってる。指示を待機中。",
+    ["DictKey_subtitle_474"] = "PLAYER: Weasel 31、マグナム、WASP、GARDEN！",
+    ["DictKey_subtitle_274"] = "HITMAN 31: Hitman 31。",
+    ["DictKey_subtitle_555"] = "OVERLORD: Weasel 31、Overlord、RTBを許可。DEATH STARの北西にまだバンディットがいる。ウェイポイント6を通過後は342を維持、Hatayの東に出たらホームプレートへ左旋回を推奨。",
+    ["DictKey_ActionText_99"] = "",
+    ["DictKey_subtitle_240"] = "HITMAN 31: Hitman 31、了解、迎撃する。",
+    ["DictKey_subtitle_302"] = "SNAKE 21: Knight、Snake 21、HAUNTED HOUSEにオンステーション。",
+    ["DictKey_subtitle_403"] = "PYTHON 73: Knight、Python。",
+    ["DictKey_subtitle_458"] = "WEASEL 32 (FLASH): Two、アファーム。",
+    ["DictKey_subtitle_69"] = "PLAYER: Tower、Weasel 3。Echo手前でホールド中。ランウェイ23、2番機、離陸準備完了。",
+    ["DictKey_subtitle_581"] = "PLAYER: ラジャー。ウェイポイント6で決めよう。",
+    ["DictKey_subtitle_615"] = "PLAYER: ラジャー。Oneは燃料少なめだ。Texacoへ寄っていく。",
+    ["DictKey_subtitle_623"] = "OVERLORD: Weasel 31、Overlord、ラジャー。",
+    ["DictKey_subtitle_380"] = "PLAYER: Overlord、Weasel 31、どうぞ。",
+    ["DictKey_subtitle_288"] = "KNIGHT: Python 73、Knight。DEATH STARの状況は？",
+    ["DictKey_subtitle_65"] = "INCIRLIK TOWER: Weasel 21、Tower、ランウェイ23、ナンバーワン、離陸クリア。風210、6ノット。",
+    ["DictKey_subtitle_517"] = "PLAYER: Weasel 31よりHONEY JAR送信。",
+    ["DictKey_subtitle_561"] = "HITMAN 31: Hitman 31、残り30分。",
+    ["DictKey_subtitle_218"] = "STARGATE：待て、Knight。",
+    ["DictKey_subtitle_172"] = "WEASEL 32（FLASH）：Two、DIRT、BUMBLEBEE、050。",
+    ["DictKey_ActionText_30"] = "SAMS shoot",
+    ["DictKey_subtitle_725"] = "INCIRLIK TOWER: Weasel 31、2500フィートまで降下、ランウェイ23へのストレートイン進入。5マイルでイニシャル報告せよ。",
+    ["DictKey_ActionText_12"] = "C31 bombs",
+    ["DictKey_subtitle_721"] = "WEASEL 32 (FLASH): Weasel 32。",
+    ["DictKey_subtitle_286"] = "KNIGHT: Weasel 21、Knight、了解。",
+    ["DictKey_subtitle_185"] = "PLAYER：Weasels、PRIチェック。",
+    ["DictKey_ActionText_679"] = "",
+    ["DictKey_subtitle_601"] = "OVERLORD: Snake 21、Overlord、ラジャー。Weapons hold。",
+    ["DictKey_ActionText_18"] = "",
+    ["DictKey_subtitle_573"] = "OVERLORD: TexacoはトラックGolf、342の112、18000。",
+    ["DictKey_subtitle_694"] = "PLAYER: PRIチェック。",
+    ["DictKey_subtitle_144"] = "WEASEL 32（FLASH）：Two、フェンスイン。",
+    ["DictKey_ActionText_114"] = "",
+    ["DictKey_subtitle_523"] = "WEASEL 32 (FLASH): One、Two、警戒、地上レーダー、BUMBLEBEE、220！",
+    ["DictKey_subtitle_390"] = "PLAYER: こっちもだ。センサーをGARDENに、もう少しよく見てみよう。",
+    ["DictKey_subtitle_81"] = "PLAYER: 5000へ上昇、Eagleへ直行、Weasel 3。",
+    ["DictKey_ActionText_629"] = "（行動を選択）",
+    ["DictKey_ActionRadioText_763"] = "タキシー準備完了",
+    ["DictKey_ActionRadioText_640"] = "2. 給油",
+    ["DictKey_subtitle_766"] = "PYTHON 73: Python 73、FIREFLY活動中、ブルズアイ277、28。",
+    ["DictKey_ActionText_795"] = "では、テープとミッションを振り返ろうか。今回はかなり大がかりな作戦で、多くの要素がしっかり連携して機能していた。\
+\
+離陸からステーション到着まで特に言うことはない。予想通り、ロシア軍はSAMと戦闘機を展開して活発に動いていた。ブリーフィングでRainが言っていたように、彼らは我々の任務を妨害しようとインターセプトを仕掛けてきたが、こちらが180度ターンして向き直ったことで諦めて退いた。その後はスムーズにステーション入り。\
+\
+現地ではシリア軍のSA-6サイトを3か所確認し、彼らがグレイハウンドにミサイルを撃つのを確認。計画通り、即座に反応してHARMsで攻撃した。\
+\
+敵の追尾レーダー3基のうち、2基を無力化。テープを確認したところ、自分の攻撃は1つ外したようだ。[20ポイント減点]\
+\
+TLAMによる攻撃は非常に成功しており、指定された全目標に命中した。正式なBDAを待つ必要はあるが、Shayrat空軍基地からの発進能力は当面失われるだろう。タキシーウェイ付近に駐機していたMiG-23も4機が破壊された。おそらく攻撃前に脱出させようとしていたのだろうが、間に合わなかったようだ。\
+\
+シリア軍も帰投直前に小さな“お見送り”を用意していたようで、新たなSA-2が出現。ただしこちらに命中することはなかった。\
+\
+その後は来た時とほぼ同じルートで帰還。復路も着陸も問題なく完了。全体として、よくやった。お疲れ。",
+    ["DictKey_ActionRadioText_324"] = "周波数変更完了",
+    ["DictKey_subtitle_696"] = "WEASEL 32 (FLASH): Weasel 32。",
+    ["DictKey_ActionRadioText_808"] = "Easy Mode On",
+    ["DictKey_ActionRadioText_670"] = "周波数変更完了",
+    ["DictKey_ActionText_758"] = "",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_subtitle_334"] = "WEASEL 32 (FLASH): Two。",
+    ["DictKey_subtitle_95"] = "WEASEL 32 (FLASH): Two。",
+    ["DictKey_ActionRadioText_681"] = "",
+    ["DictKey_subtitle_599"] = "SNAKE 21: Overlord、Snake 21、バンディットをロック。",
+    ["DictKey_subtitle_650"] = "PLAYER: よし、PRIのボタン5へ。",
+    ["DictKey_subtitle_346"] = "WEASEL 32 (FLASH): Two、nails、260、FULCRUM。",
+    ["DictKey_subtitle_214"] = "SHELL 71：Shell 71、了解。",
+    ["DictKey_subtitle_224"] = "PLAYER：Weasel 31、どうぞ。",
+    ["DictKey_subtitle_392"] = "WEASEL 32 (FLASH): OK、Two、2コンタクト…訂正、3グループ視認。GARDEN内、こいつらがWASPかもしれない。",
+    ["DictKey_subtitle_294"] = "SNAKE 21: Knight、どうぞ。",
+    ["DictKey_ActionRadioText_685"] = "",
+    ["DictKey_ActionText_787"] = "では、テープとミッションを振り返ってみようか。今回はかなりの規模の作戦だったが、すべての要素がしっかりと機能していた。\
+\
+離陸からステーション到着までは特に語ることもない。予想通り、ロシア側は活発に動いており、SAMと戦闘機を展開していた。それに加え、ブリーフィングでRainが言っていた通り、こちらの任務を妨害しようと迎撃を試みてきたが、こちらが180度ターンして向かい合うと、すぐに引き下がった。その後は問題なくステーションに到着。\
+\
+現地ではシリア軍のSA-6サイトを3か所発見し、我々のグレイハウンドに対してミサイルを発射してくるのを確認。計画通り、すぐに反応してHARMsで攻撃を実施。\
+\
+ただし、3基のうち2基の追尾レーダーしか無力化できなかった。テープを見る限り、どうやら私は一つ外してしまったようだ。（-20ポイント）\
+\
+TLAMによる攻撃は非常に成功し、指定された目標にはすべて命中した。BDAの正式な結果は後日となるが、Shayrat空軍基地からの発進は当面不可能だろう。タキシーウェイ付近に駐機していたMiG-23も4機ほど失われた。恐らく、攻撃前に脱出させようとしたのだろうが、間に合わなかったようだ。\
+\
+シリア側も一矢報いようとしたのか、帰投直前に新たなSA-2が出現し、自機に一発撃ってきた。Flash、あの時の迅速なランチャー攻撃、助かった。ありがとう。\
+\
+その後は往路とほぼ同じルートで帰投。復路および着陸も特に問題なく終了。全体的に、今日はよくやった。",
+    ["DictKey_subtitle_456"] = "PLAYER: さて、行くぞ… Two、まだGARDENが見えてるか？",
+    ["DictKey_ActionText_793"] = "",
+    ["DictKey_subtitle_83"] = "WEASEL 21 (HULK): Departure、Weasel 21、Eagle通過。",
+    ["DictKey_subtitle_336"] = "PLAYER: Two、One。対空に切り替え、バスター。",
+    ["DictKey_subtitle_226"] = "OVERLORD：Python 73がDARKSTARにYELLOW HATを送った、至急対応せよ。",
+    ["DictKey_subtitle_426"] = "WEASEL 21 (RAIN): Weasel 21、マッド、BUMBLEBEE、090。Knight、Weasel 21は西へ進路を取る。",
+    ["DictKey_subtitle_202"] = "PYTHON 73：99、Python 73、DEATH STAR上空にてBROWN SHOE確認。",
+    ["DictKey_subtitle_133"] = "PLAYER：しかもトマホーク・ショーを最前列で見られそうだ。ポップコーンの準備はいいか？",
+    ["DictKey_subtitle_434"] = "KNIGHT: Snake 21、Knight、ネガティブ。依然としてDEATH STARの北東をオービット中。",
+    ["DictKey_subtitle_450"] = "",
+    ["DictKey_subtitle_316"] = "WEASEL 21 (HULK): Knight、Weasel 21、WINDMILLにオンステーション。",
+    ["DictKey_ActionRadioText_100"] = "周波数変更完了",
+    ["DictKey_subtitle_733"] = "PLAYER: Weasel 3、着陸許可、ランウェイ23。",
+    ["DictKey_subtitle_468"] = "PYTHON 73: Ninety Nine、SAM発射、GARDEN！",
+    ["DictKey_ActionText_19"] = "",
+    ["DictKey_subtitle_494"] = "WEASEL 32 (FLASH): やべぇ！マジで最高だ！",
+    ["DictKey_descriptionBlueTask_3"] = "Incirlik空軍基地  \
+トルコ  \
+2017年6月4日 23:00（現地時間） / 20:00 Zulu\
+RAIN（ミッション司令）によるブリーフィング\
+\
+さて、前にも言った通り、今回はアメリカ空軍と海軍による共同作戦だが、同盟国は関与せず、純粋な米軍単独オペレーションになる。これは一部の人にとっては朗報かもしれないな。計画は単純だ。アーレイ・バーク級駆逐艦2隻、USSロスおよびUSSポーターから、Shayrat空軍基地周辺の事前指定目標に向けて、トマホーク巡航ミサイル59発を発射する。\
+\
+支援には複数の機体が参加し、一部は空母から、一部は地上基地から発進する。\
+\
+［スライド4 - 作戦参加部隊］\
+\
+ストライク部隊の構成は以下の通り：\
+\
+- RED CROWN：USSロス艦上の火器管制担当のコールサイン\
+- PYTHON 73：第55航空団所属のRC-135、偵察任務\
+- OVERLORD：トルコ上空に滞空するE-3 AWACS\
+- KNIGHT：シリア西方の地中海上空を回る海軍E-2 AWACS\
+- JOKER 2：海軍のF-18Gグラウラー2機、電子妨害任務\
+- SNAKE 2：海軍のF-18Eスーパーホーネット2機、駆逐艦上空のCAP任務\
+- WEASEL 2：私のフライト、F-16C 2機、SEAD担当で駆逐艦上空の洋上空域をを周回予定。\
+- WEASEL 3：Chaosのフライト、F-16C 2機。Shayrat東側にステーションを設置し、必要に応じてSEAD任務を遂行、かつトマホーク攻撃をポッドで記録\
+- HITMAN 3：クウェートから飛来するF-15C 2機、Weasel 3のCAP担当\
+\
+洋上部隊はSHELL 71が支援。WEASELおよびHITMANの給油はTEXACO 11がトルコ北部上空をオービット。\
+\
+マップ上の地点にはコードネームがある。ニーボードに記載されているので必ず覚えておくこと。脅威用コードの他に以下を使用：\
+\
+- DEATH STAR：ロシアの主要航空基地、Bassel Al Assad\
+- WINDMILL：WEASEL 2、KNIGHT、PYTHON 73のステーション\
+- HAUNTED HOUSE：STING 2およびJOKER 4のステーション\
+- GARDEN：目標地点\
+- BACKYARD：WEASEL 3のステーション\
+- FACTORY：HITMAN 3のステーション（地図上よりやや南西）\
+\
+以上が全体計画だ。続いて詳細に入る。\
+\
+［スライド5 - 天候］  \
+天候は良好で、目標地域の視認性を妨げる雲はなし。\
+\
+［スライド6 - 空港］  \
+機体の割り当ては以下の通り。私はシェルター39の356号機。Tallyはシェルター40の361号機。Chaosはその向かいの41番シェルターにある375号機、Flashは42番の366号機。予備機として38番と34番のシェルターに2機あり。\
+\
+まずはフライト内でAUXチェックイン、ATIS取得（VHF）、その後GNDへ。今日の滑走路は23。\
+\
+［スライド7 - 離陸手順］  \
+Eagle exitを使用し、高度5000ftで離陸後Departureへスイッチ。その後は指示に従う。帰還時はFalconからアプローチ。\
+\
+目的地とフライトプランが各隊で異なるので、以降は各フライトでブリーフィングを継続。幸運を祈る、Chaos。\
+\
+---\
+\
+Incirlik空軍基地    \
+トルコ  \
+2017年6月4日 23:40（現地時間） / 20:40 Zulu  \
+CHAOS（フライトリード）によるブリーフィング\
+\
+OK Flash、聞いた通りだ。まずはスライド8を見ながら我々のフライトプランを確認しよう。\
+\
+［スライド8 - フライトプラン］  \
+Eagle通過後、2万フィートまで上昇し、Iskenderun湾を越えた後、ロシアのDEATH STARおよびAleppo付近のシリアSAM射程の間を縫って直進。最新データによると、そこにはSA-11およびSA-2が存在。\
+\
+Abu al-Duhur空港付近で南に転針し、WP3とBACKYARD（ステーション）へ。私は2万フィートを維持、君はそれより東側かつ上空、2万3000フィート以上を維持。そこからならSA-6の射程外でGARDENを良好に監視可能。\
+\
+［スライド9 - 目標情報］  \
+第一任務はトマホーク着弾の監視および記録。目標は地図に示された地点で、私は西側〜中央の格納庫までを担当、君は東側を監視。ミサイルは全部で59発、各目標には基本2発ずつ割り当てられている。\
+\
+第二任務は、トマホークを迎撃しようとする敵SAMの制圧。写真によれば旧式のGainful（SA-6）バッテリーが少なくとも3基ある。理論上TLAMは捕捉できないが、シリア軍が無理にでも狙ってくる可能性がある。特にロシアに攻撃を通知する関係で、敵に事前に知られている可能性が高い。RainとTallyが別方向から同様に監視する。SA-11の存在にも注意。\
+\
+第三任務は、敵戦闘機が出てきた場合のHITMANの支援。ただし、その可能性は極めて低い。情報ではロシア機が活動して妨害しようとする可能性はあるが、実際に戦闘になることはまずない。ただし、油断は禁物。\
+\
+Gainfulが動き出したら、即座に追尾レーダーにHARMsを落とす準備を。トマホークが着弾するまで約11分間が勝負だ。\
+\
+すべての目標に命中したら、「HONEY JAR」をOverlordに送信。その後帰投。往路と同じルートで、国境を越えたら私がフェンスアウトを宣言する。私がライトを点灯したら君も点けろ。着陸後は出発時と同じシェルターに戻る。\
+\
+SAMのコードネームはニーボードにあるので、しっかり復習しておくこと。\
+\
+【武装】\
+HARMs×2、AIM-9X×2、AIM-120C×2、増槽×2、ターゲティングポッド、ECMポッド、HARMターゲティングシステム。それぞれSA-2、SA-6、SA-11、Snow Drift用の正しいコードが設定されているか確認すること。\
+\
+【無線運用】\
+AUXは基本チャンネル1を使用。ATIS取得時のみVHFに切り替え。\
+\
+PRIの使用順：  \
+Ground → Tower → Departure → Mission → 必要に応じてTexaco → ATIS → Approach → Tower → Ground。  \
+スイッチのたびに私がラジオチェックを行う。\
+\
+以上。質問あるか？ なければ出撃だ！\
+\
+【BALTIC DRAGONからの注意】  \
+1. EASY MODE（ミッション中一部区間の無敵化）は、開始後60秒以内にF10メニューから有効化可能  \
+2. 想定ミッション時間：約1時間30分",
+    ["DictKey_subtitle_605"] = "OVERLORD: Snake 21、Overlord、バンディットは南へ旋回。スキップして監視を続けろ。",
+    ["DictKey_subtitle_340"] = "PLAYER: だな、予想通りだ。",
+    ["DictKey_ActionRadioText_674"] = "周波数変更完了",
+    ["DictKey_ActionRadioText_678"] = "",
+    ["DictKey_ActionText_641"] = "",
+    ["DictKey_ActionText_118"] = "",
+    ["DictKey_subtitle_658"] = "WEASEL 32 (FLASH): One、右へブレイク、チャフ！SAM発射！",
+    ["DictKey_ActionText_714"] = "（PRIでGROUNDへスイッチ）",
+    ["DictKey_subtitle_727"] = "PLAYER: 2500まで降下、ランウェイ23、Weasel 3。",
+    ["DictKey_ActionText_355"] = "Check BE",
+    ["DictKey_subtitle_260"] = "HITMAN 31: 送れ、Hitman。",
+} -- end of dictionary
