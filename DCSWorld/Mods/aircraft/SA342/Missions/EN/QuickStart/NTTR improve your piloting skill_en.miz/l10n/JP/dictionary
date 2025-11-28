@@ -1,0 +1,36 @@
+dictionary = 
+{
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_UnitName_9"] = "joueur",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_sortie_4"] = "NTTR　パイロットスキル向上",
+    ["DictKey_ActionText_21"] = "ゲート通過",
+    ["DictKey_GroupName_8"] = "Nouveau Groupe d'Hélicoptères",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_ActionText_23"] = "レーダー高度で２０ｍを超えました。\
+\
+Mission failed !",
+    ["DictKey_descriptionBlueTask_3"] = "レースコースを出来るだけ速く飛行して下さい",
+    ["DictKey_GroupName_5"] = "Nouvel objet statique",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_10"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_descriptionText_1"] = "NTTR　パイロットスキル向上\
+\
+ウェイポイントにゲートを配置してレースコースを作りました。\
+\
+このミッションのゴールは、レースコースに配置したゲートを出来るだけ速く、全て通過して下さい。\
+\
+レーダー高度で66フィート（２０ｍ）を超えて飛行してはいけません。\
+\
+ゲート間はできるだけ道路の上を飛ぶようにして下さい。",
+    ["DictKey_UnitName_6"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_WptName_20"] = "",
+} -- end of dictionary

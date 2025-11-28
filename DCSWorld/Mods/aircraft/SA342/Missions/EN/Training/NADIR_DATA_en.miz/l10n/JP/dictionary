@@ -1,0 +1,80 @@
+dictionary = 
+{
+    ["DictKey_UnitName_2"] = "Unité #003",
+    ["DictKey_UnitName_9"] = "Pilot #001",
+    ["DictKey_UnitName_3"] = "Unité #002",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_ActionText_24"] = "Sélectionner un point de route. Pour les besoins de la leçon on choisira le point 9.\
+Tapez la touche 9.",
+    ["DictKey_ActionText_29"] = "見ての通り、下の行が点滅して、編集ができるようになりました。\
+\
+次の経度を入力します。\
+E 41° 39'.4\
+\
+EFFボタンを数回押して行内の全ての数字を消して下さい。\
+\
+最初に東経、西経を選択します。\
+E/６ボタンを押して東経を選択して下さい。",
+    ["DictKey_ActionText_25"] = "Tapez la touche ENT.",
+    ["DictKey_GroupName_1"] = "Nouveau Groupe de véhicules",
+    ["DictKey_ActionText_28"] = "次に経度を入力しますので、下の行に移動します。\
+\
+NADIRパネルの下矢印ボタンを押して下さい。",
+    ["DictKey_ActionText_27"] = "次に座標データの nn°nn.n' を５桁の数字で入力します。\
+\
+４　１　３　８　７　のボタンを順に押して下さい。\
+\
+入力が終わったらスペースキーを押して下さい。次に進みます。\
+（注意：スペースキーはレッスンを進めるためのものでNADIRの入力とは関係ありません。）",
+    ["DictKey_ActionText_30"] = "次に座標データの　ee°ee.e'　を５桁の数字で入力します。\
+\
+４　１　３　９　４　のボタンを順に押してください。\
+\
+入力が終わったらスペースキーを押して下さい。次に進みます。",
+    ["DictKey_UnitName_4"] = "Unité #001",
+    ["DictKey_descriptionBlueTask_12"] = "",
+    ["DictKey_ActionText_32"] = "",
+    ["DictKey_GroupName_8"] = "Nouveau Groupe d'Hélicoptères",
+    ["DictKey_descriptionText_10"] = "NADIR 座標の入力",
+    ["DictKey_GroupName_6"] = "Nouvel objet statique",
+    ["DictKey_ActionText_23"] = "ご覧のように、ディスプレイ表示が編集モードに鳴りました。\
+\
+点滅しているラインが編集可能です。\
+今の場合、上のラインが編集できます。\
+\
+次の緯度を入力します。\
+N 41° 38'.7\
+\
+EFFボタンを数回押して、行内の全ての数字を消して下さい。\
+\
+それから、最初に北緯か南緯を選択します。\
+\
+北緯なので、N/２ボタンを押して下さい。",
+    ["DictKey_UnitName_7"] = "Nouvel objet statique",
+    ["DictKey_ActionText_22"] = "ENTを押して編集モードに入ります",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_ActionText_20"] = "レッスンにようこそ\
+\
+ウェイポイントの座標を手動で入力する方法を学習します。\
+\
+ウェイポイント８に次の座標を登録します。\
+\
+N 41°38'.7\
+E 41° 39'.4\"",
+    ["DictKey_ActionText_31"] = "ENTボタンを押して下さい。　\
+座標データーがウェイポイント８に登録されます。",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_UnitName_5"] = "Unité #1",
+    ["DictKey_sortie_13"] = "NADIR 座標の入力",
+    ["DictKey_ActionText_21"] = "ウェイポイント８を選択します。\
+８のボタンを押して下さい。",
+    ["DictKey_ActionText_26"] = "よくできました。\
+\
+ウェイポイント８に手動で座標登録を行いました。\
+\
+レッスンを終了します。",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_descriptionRedTask_11"] = "",
+} -- end of dictionary
