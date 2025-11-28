@@ -1,0 +1,263 @@
+campaign =
+{
+    ["description"] = "Abkhazia, South Ossetia and Russia have announced the start of the “Caucasus-2016” military exercise. However, intelligence analysis of data has revealed that the exercises is actually a cover for Russian forces repositioning to the Abkhazian territory and further escalating tensions in the region.\
+\
+NATO’s intelligence services believe that the strategic goal of the military build-up is to occupy Eastern Georgia and its territories of Abkhazia and South Ossetia. The end-goal is to create two, new Russian puppet states.\
+\
+To counter Russia’s military aggression against its peaceful neighbor, NATO has decided to deploy forces to the region to act as a deterrent. This force will consist of the 445th Air Expeditionary Wing (Afghanistan) and the 6th mechanized brigade. These forces will be stationed out of the Kobuleti region in Georgia.",
+    ["name_EN"] = "Stone Shield",
+    ["name_RU"] = "Каменный щит",
+    ["name_CN"] = "石盾",
+    ["pictureSuccess_RU"] = "Camp_Win2.png",
+    ["pictureSuccess_EN"] = "Camp_Win2.png",
+    ["stages"] =
+    {
+        [7] =
+        {
+            ["name"] = "Stage 7",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "7_SH_Suppression.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Whololo\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\7_SH_Suppression.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] =
+        {
+            ["name"] = "Stage 1",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "1_SH_Redeployment.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Whololo\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\1_SH_Redeployment.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] =
+        {
+            ["name"] = "Stage 2",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "2_SH_Scouting.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Whololo\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\2_SH_Scouting.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] =
+        {
+            ["name"] = "Stage 4",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "4_SH_Night Hunting.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Whololo\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\4_SH_Night Hunting.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] =
+        {
+            ["name"] = "Stage 8",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "8_SH_Sky Hammer.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Whololo\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\8_SH_Sky Hammer.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [9] =
+        {
+            ["name"] = "Stage 9",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "9_SH_Scorched earth.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Whololo\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\9_SH_Scorched earth.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] =
+        {
+            ["name"] = "Stage 5",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "5_SH_Silent strike.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Whololo\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\5_SH_Silent strike.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] =
+        {
+            ["name"] = "Stage 10",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "10_SH_Support.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Whololo\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\10_SH_Support.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [3] =
+        {
+            ["name"] = "Stage 3",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "3_SH_Evacuation.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Whololo\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\3_SH_Evacuation.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] =
+        {
+            ["name"] = "Stage 6",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "6_SH_Inception.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Whololo\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\6_SH_Inception.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] =
+        {
+            ["name"] = "Stage 12",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "12_SH_ Hunter Artillery.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Whololo\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\12_SH_ Hunter Artillery.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [11] =
+        {
+            ["name"] = "Stage 11",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "11_SH_Black Hawk Down.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\Whololo\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\11_SH_Black Hawk Down.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+    }, -- end of ["stages"]
+    ["fullPath"] = "C:\\Users\\Whololo\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\A-10C_Stone_Shield.cmp",
+    ["picture_EN"] = "TitleCam_EN-273.png",
+    ["directory"] = "C:\\Users\\Whololo\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\",
+    ["startStage"] = 1,
+    ["picture"] = "TitleCam_EN-273.png",
+    ["description_EN"] = "Abkhazia, South Ossetia and Russia have announced the start of the “Caucasus-2016” military exercise. However, intelligence analysis of data has revealed that the exercises is actually a cover for Russian forces repositioning to the Abkhazian territory and further escalating tensions in the region.\
+\
+NATO’s intelligence services believe that the strategic goal of the military build-up is to occupy Eastern Georgia and its territories of Abkhazia and South Ossetia. The end-goal is to create two, new Russian puppet states.\
+\
+To counter Russia’s military aggression against its peaceful neighbor, NATO has decided to deploy forces to the region to act as a deterrent. This force will consist of the 445th Air Expeditionary Wing (Afghanistan) and the 6th mechanized brigade. These forces will be stationed out of the Kobuleti region in Georgia.",
+    ["description_CN"] = "阿布哈兹、南奥赛梯和俄罗斯一同宣布了“高加索-2016”军演的开始。然而，情报分析显示这只是俄军进入阿布哈兹领地并准备扩大冲突的幌子。\
+\
+NATO的情报机构确信俄军增兵的战略目标是为了控制东格鲁吉亚以及它占据的阿布哈兹和奥赛梯的领土，而最终目标是建立两个俄罗斯傀儡国。\
+\
+为了对抗俄军对邻国的侵略。NATO决定派出部队进行干涉。这支部队会包含第445空中远征队（阿富汗）以及第6机械化旅。派出的部队会驻扎于格鲁吉亚的科布列季附近。",
+    ["picture_RU"] = "TitleCam_RU-273.png",
+    ["picture_CN"] = "TitleCam_CN-273.png",
+    ["name"] = "Stone Shield",
+    ["necessaryUnits"] =
+    {
+        ["A-10C"] = "A-10C",
+    }, -- end of ["necessaryUnits"]
+    ["version"] = 1,
+    ["pictureSuccess"] = "Camp_Win2.png",
+    ["description_RU"] = "Абхазия, Южная Осетия и Россия объявили о начале учений \"Кавказ-2016\", однако согласно анализу данных разведки, это служит прикрытием для переброски войск на тер. Абхазии и наращивания военной силы в регионе. Стратегическая цель наращивания группировки, по оценке специалистов НАТО -  намерение занять восточную часть Грузии и соединить Абхазию и ЮО (Южн. Осетию). Для отражения возможной агрессии со стороны воинственных соседей, НАТО приняло решение об усилении имеющейся группировки сил, для чего принято решение о переброске подразделений 455-го экспедиционного авиакрыла ВВС США (Афганистан) и 6-й МБр на территорию Грузии.",
+    ["name_JP"] = "ストーン シールド",
+    ["description_JP"] = "ハブアジアと南オセチアとロシアは、「コーカサス2016」軍事演習の開始を発表しました。しかし、情報局がデータ分析をした所、演習はロシア軍のアブハジア領内への配置転換であり、この地域の緊張を更に高めるものでした。\
+\
+NATO諜報機関は、軍事増強の戦術的目標は、ジョージア東部の占領し、アブハジアと南オセチアの領土とすることです。最終目標は、２つのロシア傀儡国家を作り上げることです。\
+\
+平和な隣国へのロシアの軍事侵略を阻止するために、NATOはこの地域に軍事展開し、抑止力として活動することを決定しました。この部隊は、第445航空遠征航空団（アフガニスタン）と第6機械化旅団で構成されます。これらの部隊は、ジョージアのコブレチ地域に駐留します。",
+} -- end of campaign

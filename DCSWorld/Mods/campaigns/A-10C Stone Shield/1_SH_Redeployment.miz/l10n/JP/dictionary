@@ -1,0 +1,260 @@
+dictionary = 
+{
+    ["DictKey_ActionText_112"] = "SA-15 短距離地対空ミサイルシステムで、８発のレーダー誘導地対空ミサイルを発射できます。交戦最大高度 39,000 feet。",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_GroupName_11"] = "Стат. объект",
+    ["DictKey_GroupName_150"] = "Стат. объект #006",
+    ["DictKey_GroupName_17"] = "Стат. объект #003",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_GroupName_177"] = "Стат. объект #013",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_ActionText_68"] = "A-10C 兵器：\
+\
+機銃（Cannon）:\
+GAU-8/A 30mm 機銃は有効射程は 2,500 feet。軽装甲車や兵士を破壊するのに最適です。戦車を攻撃するときは、戦車の後ろから1,000 feet以下で攻撃します。また、CMガンロードを選択します。\
+\
+ロケット：\
+Hydra 70 ロケットは、範囲攻撃武器であり、ソフトターゲットや兵士に非常に有効です。有効射程は約10,000 feetです。\
+\
+誘導ミサイル：\
+ AGM-65 マーベリック、空対地ミサイルは、装甲車両、硬い構造物などを対象としています。射程は、モーターではなく、ターゲットをロックするシーカーの能力に依存します。通常5～7nmです。\
+\
+D型は赤外線シーカーで125 lbs 成形炸薬弾です。これや夜間の装甲車への攻撃に最適です。\
+\
+G型は赤外線シーカーで300 lbs penetrator warheadです。 これは夜間の硬い構造物や艦船に対して最適です。\
+\
+H型はCCDシーカーで、125 lbs 成型炸薬弾です。これは日中での装甲ターゲットに対して最適です。\
+\
+K型は電子光学シーカーで300 lbs penetrator warheadです。日中において、G型同じく、バンカーのような硬いターゲットや艦船に対して最適です。",
+    ["DictKey_UnitName_146"] = "Пилот #007",
+    ["DictKey_GroupName_21"] = "Стат. объект #005",
+    ["DictKey_sortie_26"] = "配置転換（Redeployment）",
+    ["DictKey_WptName_31"] = "",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_UnitName_12"] = "Стат. объект",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_UnitName_20"] = "Стат. объект #004",
+    ["DictKey_ActionText_124"] = "これらが主な脅威です。どの脅威かを知ることはあなたの航空機と命を守ることになります。",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_GroupName_153"] = "",
+    ["DictKey_ActionText_64"] = "A-10C 能力特性：\
+\
+搭載物と気温によりますが、通常ローテーションは約135knotsで行います。標準の巡航速度は約300knotsで失速速度は、風や搭載によりますが、約120knotsです。\
+\
+A-10Cの空虚重量は24,959 lbs (11,320 kg)。最大離陸重量は51,000 lbs (23,130 kg) 。G限界は +7.3/-3.0です。",
+    ["DictKey_ActionText_104"] = "ZSU-23-4 シルカは４連装、自動23mm砲です。交戦距離は最大 8,000 feetです。\
+",
+    ["DictKey_UnitName_163"] = "Стат. объект #006",
+    ["DictKey_UnitName_157"] = "Стат. объект #006",
+    ["DictKey_ActionText_84"] = "H型はCCDシーカーで、125 lbs 成型炸薬弾です。これは日中での装甲ターゲットに対して最適です。",
+    ["DictKey_descriptionBlueTask_25"] = "プレイヤーの任務：\
+護衛のF/A-18C (Enfield 26)飛行隊と共に、コブレチ（Kobuleti）空港に向かいます。飛行中あなたはA-10Cの性能特性や、武器、そしてAOR（Area of Responsibility：管轄地域）の脅威について説明します。",
+    ["DictKey_GroupName_180"] = "Стат. объект #014",
+    ["DictKey_GroupName_143"] = "Вертол. группа",
+    ["DictKey_UnitName_14"] = "Стат. объект #001",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_ActionText_76"] = "防空兵器：\
+ZSU-23-4 シルカは４連装、自動23mm砲です。射程は最大 8,000 feetです。\
+SA-19 は、自走式対空兵器システムであり、1906\
+発の２門の自動30mm砲と８発の地対空誘導ミサイルを持ちます。射程は０～26,000 feetです。\
+SA-18 赤外線誘導の携行式対空システムで、交戦最大高度は 15,000 feetです。 \
+SA-13 赤外線誘導、短距離地対空ミサイルシステムで４発の地対空ミサイルを発射できます。交戦最大高度 16,000 feet。 \
+SA-15 短距離地対空ミサイルシステムで、８発の\
+レーダー誘導地対空ミサイルを発射できます。交戦最大高度 39,000 feet。\
+SA-8 はレーダ誘導、短距離地対空ミサイルで６発の地対空ミサイルを発射できます。交戦最大高度 23,000 feet。 \
+SA-3 は短距離地対空ミサイルシステムで４発のレーダー誘導地対空ミサイルを発射できます。交戦最大高度59,000 feet。SA-3 はLow Blow レーダーを使用します。\
+SA-6 はレーダー誘導短距離地対空ミサイルシステムです。各ランチャーから３発の地対空ミサイルを発射できます。交戦最大高度 52,000 feet。 SA-6 探知と追跡の両方に単一のストレートフラッシュレーダーシステムを使用します。\
+SA-11 は、レーダー誘導中距離地対空ミサイルシステムです。各ランチャー４発の地対空ミサイルを発射できます。最大交戦高度は82,000 feetです。SA-11 は各ランチャーごとに別々のSnow Drift 探査レーダーを備えています。\
+SA-10 はレーダー誘導長距離地対空ミサイルシステムです。各ランチャー４発のミサイルを発射できます。最大交戦高度は131,000 feet.です。SA-10 はFlap Lid 追跡レーダーとBig Bird 探査レーダーを使用しています。. \
+これらが主な脅威です。どの脅威かを知ることはあなたの航空機と命を守ることになります。",
+    ["DictKey_UnitName_172"] = "",
+    ["DictKey_ActionRadioText_138"] = "Завершить миссию",
+    ["DictKey_ActionRadioText_130"] = "Complete mission",
+    ["DictKey_ActionText_70"] = "無誘導爆弾：\
+高爆発Mk-82 (500 lbs) と Mk-84 (2,000 lbs)\
+クラスター CBU-87 と CBU-97\
+\
+訓練爆弾\
+BDU-33 と 50\
+\
+レーザー誘導爆弾：\
+GBU-10 と GBU-12\
+\
+慣性、GPS誘導爆弾（Inertial aided and GPS-Guided Bombs）：\
+GBU-38, GBU-31, CBU-103 , CBU-105\
+\
+空対空ミサイル：\
+AIM-9は赤外線誘導短距離ミサイルで、最大射程は約5マイルです。",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_ActionText_137"] = "Lesson is finished.\
+\
+飛行を続けてコブレチ（Kobleti)空港に着陸するか、ラジオメニューF10 Complete missionを選択してミッションを完了させてください。",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_UnitName_2"] = "Пилот #002",
+    ["DictKey_GroupName_19"] = "Стат. объект #004",
+    ["DictKey_descriptionRedTask_24"] = "",
+    ["DictKey_ActionText_114"] = "SA-8 はレーダ誘導、短距離地対空ミサイルで６発の地対空ミサイルを発射できます。交戦最大高度 23,000 feet。 ",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_UnitName_175"] = "",
+    ["DictKey_ActionText_54"] = "Что бы завершить миссию сейчас, войдите в Радиоменю ( клавиша \"\\\") ->Другие-> Завершить миссию. ",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_ActionText_192"] = "防空兵器（続き）：\
+\
+SA-11 は、レーダー誘導中距離地対空ミサイルシステムです。各ランチャー４発の地対空ミサイルを発射できます。最大交戦高度は82,000 feetです。SA-11 は各ランチャーごとに別々のSnow Drift 探査レーダーを備えています。\
+\
+SA-10 はレーダー誘導長距離地対空ミサイルシステムです。各ランチャー４発のミサイルを発射できます。最大交戦高度は131,000 feet.です。SA-10 はFlap Lid 追跡レーダーとBig Bird 探査レーダーを使用しています。. \
+\
+これらが主な脅威です。どの脅威かを知ることはあなたの航空機と命を守ることになります。\"\
+",
+    ["DictKey_WptName_37"] = "",
+    ["DictKey_GroupName_1"] = "A-10C",
+    ["DictKey_ActionText_131"] = "",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_UnitName_3"] = "Player",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_UnitName_22"] = "Стат. объект #005",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_ActionRadioText_196"] = "Завершить миссию",
+    ["DictKey_UnitName_169"] = "Стат. объект #010",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_ActionText_92"] = "脅威（Threats）：\
+\
+AORで予想される敵の脅威について確認しましょう。：\
+\
+戦闘機には、Su-27/30/33/34 とMiG-25/29/31がいます。一般的にこれらの航空機は次の空対空ミサイルを使用します。",
+    ["DictKey_ActionText_66"] = "",
+    ["DictKey_ActionText_120"] = "SA-11 は、レーダー誘導中距離地対空ミサイルシステムです。各ランチャー４発の地対空ミサイルを発射できます。最大交戦高度は82,000 feetです。SA-11 は各ランチャーごとに別々のSnow Drift 探査レーダーを備えています。",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_ActionText_88"] = "無誘導爆弾：\
+高爆発Mk-82 (500 lbs) と Mk-84 (2,000 lbs)\
+クラスター CBU-87 と CBU-97\
+\
+訓練爆弾\
+BDU-33 と 50\
+\
+レーザー誘導爆弾：\
+GBU-10 と GBU-12\
+\
+慣性、GPS誘導爆弾（Inertial aided and GPS-Guided Bombs）：\
+GBU-38, GBU-31, CBU-103 , CBU-105",
+    ["DictKey_ActionText_90"] = "空対空ミサイル：\
+AIM=9は赤外線誘導短距離ミサイルで、最大射程は約5マイルです。",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_GroupName_4"] = "Самолетная группа #001",
+    ["DictKey_ActionText_78"] = "誘導ミサイル：\
+AGM-65 マーベリック空対地ミサイルは、装甲車、硬い構造物などを対象とします。シーカーが異なるいくつかのバージョンがあります。射程は、モーターではなく、ターゲットをロックするシーカーの能力に依存します。通常5～7nmです。",
+    ["DictKey_UnitName_5"] = "Пилот #004",
+    ["DictKey_descriptionText_23"] = "第４４５航空遠征航空団(アフガニスタン）と第６機械化旅団の部隊は、ジョージアのコブレ地に配置転換しました。",
+    ["DictKey_ActionText_127"] = "",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_UnitName_148"] = "Пилот #009",
+    ["DictKey_UnitName_154"] = "",
+    ["DictKey_GroupName_162"] = "Стат. объект #009",
+    ["DictKey_ActionRadioText_201"] = "Завершить миссию",
+    ["DictKey_GroupName_13"] = "Стат. объект #001",
+    ["DictKey_UnitName_178"] = "",
+    ["DictKey_ActionText_106"] = "SA-19 は、自走式対空兵器システムであり、1906発の２門の自動30mm砲と８発の地対空誘導ミサイルを持ちます。射程は０～ 0 to 26,000 feetです。\
+",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_UnitName_166"] = "Стат. объект #006",
+    ["DictKey_UnitName_6"] = "Пилот #003",
+    ["DictKey_ActionText_82"] = "G型は赤外線シーカーで300 lbs penetrator warheadです。 これは夜間の硬い構造物や艦船に対して最適です。",
+    ["DictKey_ActionText_122"] = "SA-11 は、レーダー誘導中距離地対空ミサイルシステムです。各ランチャー４発の地対空ミサイルを発射できます。最大交戦高度は82,000 feetです。SA-11 は各ランチャーごとに別々のSnow Drift 探査レーダーを備えています。",
+    ["DictKey_UnitName_187"] = "",
+    ["DictKey_ActionRadioText_199"] = "",
+    ["DictKey_GroupName_171"] = "",
+    ["DictKey_ActionText_86"] = "K型は電子光学シーカーで300 lbs penetrator warheadです。日中において、G型同じく、バンカーのような硬いターゲットや艦船に対して最適です。",
+    ["DictKey_ActionText_134"] = "Mission COMPLETE!\
+ESCを押して終了してください。",
+    ["DictKey_UnitName_160"] = "Стат. объект #006",
+    ["DictKey_GroupName_165"] = "Стат. объект #010",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_GroupName_7"] = "Самолетная группа #002",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_GroupName_186"] = "Стат. объект #016",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_UnitName_151"] = "",
+    ["DictKey_UnitName_147"] = "Пилот #008",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_UnitName_184"] = "",
+    ["DictKey_ActionText_197"] = "",
+    ["DictKey_GroupName_9"] = "Самолетная группа #003",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_ActionText_100"] = "長距離 R-33 は慣性+セミアクティブレーダーホーミングで最大飛距離は65nmです。有効射程は約43nmです。これはMiG-31が搭載しています。",
+    ["DictKey_UnitName_16"] = "Стат. объект #002",
+    ["DictKey_ActionRadioText_200"] = "Завершить миссию",
+    ["DictKey_WptName_43"] = "",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_ActionText_102"] = "防空兵器：",
+    ["DictKey_ActionText_72"] = "脅威（Threats）：\
+\
+AORで予想される敵の脅威について確認しましょう。：\
+\
+戦闘機には、Su-27/30/33/34 とMiG-25/29/31がいます。一般的にこれらの航空機は次の空対空ミサイルを使用します。",
+    ["DictKey_UnitName_204"] = "Юнит #1",
+    ["DictKey_UnitName_181"] = "",
+    ["DictKey_ActionText_80"] = "D型は赤外線シーカーで125 lbs 成形炸薬弾です。これや夜間の装甲車への攻撃に最適です。",
+    ["DictKey_ActionText_55"] = "A-10C「ストーンシールド：Stone Shield」キャンペーンの開始です。\
+\
+これはトレーニングミッションです。A-10Cの主な特性、武器、敵の脅威について学習してください。\
+\
+このミッションはラジオメニューF-10 Complete the missionでスキップすることができます。",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_ActionText_74"] = "中距離 R-27R (ER) はセミアクティブレーダーシーカーで最大射程は高高度で高速の場合で50nmです。中高度での有効射程は約15nmです。\
+\
+中距離 R-27T (ET) は赤外線シーカーで最大射程は48 nmです。しかし、シーカーがロックできる範囲が限られており、通常は10nm以下です。\
+\
+短距離 R-73 は赤外線シーカーで、最大攻撃距離は約10nmです。中、低高度では攻撃距離は約4nmまで下がります。これは Su-27/30/33/34 と MiG-29に搭載されています。\
+\
+中距離R-40R はセミアクティブレーダーシーカーで最大飛距離は高高度で15nmです。中高度では、有効射程は約8nmです。\
+\
+中距離 R-40T は赤外線シーカーで最大飛距離は22nmです。中高度での有効射程は5～10nmです。これは、MiG-25/31に搭載されています。\
+\
+長距離 R-33 は慣性+セミアクティブレーダーホーミングで最大飛距離は65nmです。有効射程は約43nmです。これはMiG-31が搭載しています。",
+    ["DictKey_UnitName_18"] = "Стат. объект #003",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_ActionText_98"] = "中距離 R-40T は赤外線シーカーで最大飛距離は22nmです。中高度での有効射程は5～10nmです。これは、MiG-25/31に搭載されています。MiG-25/31が搭載しています。\
+",
+    ["DictKey_ActionRadioText_53"] = "Завершить",
+    ["DictKey_GroupName_15"] = "Стат. объект #002",
+    ["DictKey_GroupName_183"] = "Стат. объект #015",
+    ["DictKey_ActionText_132"] = "あなたの機体は破壊されました。\
+Mission failed.",
+    ["DictKey_ActionText_94"] = "中距離 R-27R (ER) はセミアクティブレーダーシーカーで最大射程は高高度で高速の場合で50nmです。中高度での有効射程は約15nmです。Su-27/30/33/34 とMiG-29が搭載しています。\
+\
+中距離 R-27T (ET) は赤外線シーカーで最大射程は48 nmです。しかし、シーカーがロックできる範囲が限られており、通常は10nm以下です。Su-27/30/33/34 と MiG-29が搭載しています。\
+\
+短距離 R-73 は赤外線シーカーで、最大攻撃距離は約10nmです。中、低高度では攻撃距離は約4nmまで下がります。これは Su-27/30/33/34 と MiG-29に搭載されています。",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_ActionText_116"] = "SA-3 は短距離地対空ミサイルシステムで４発のレーダー誘導地対空ミサイルを発射できます。交戦最大高度59,000 feet。SA-3 はLow Blow レーダーを使用します。",
+    ["DictKey_GroupName_203"] = "Наземная группа",
+    ["DictKey_ActionText_110"] = "SA-13 赤外線誘導、短距離地対空ミサイルシステムで４発の地対空ミサイルを発射できます。交戦最大高度 16,000 feet。 ",
+    ["DictKey_UnitName_144"] = "Пилот #001",
+    ["DictKey_GroupName_168"] = "Стат. объект #011",
+    ["DictKey_ActionText_202"] = "del Завершить миссию",
+    ["DictKey_GroupName_156"] = "Стат. объект #007",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_UnitName_10"] = "Пилот #006",
+    ["DictKey_ActionText_108"] = "SA-18 赤外線誘導の携行式対空システムで、交戦最大高度は 15,000 feetです。 ",
+    ["DictKey_ActionText_60"] = "私達の一般、情報士官たちは、君のA-10Cの能力特性、兵器システム、君に襲いかかるであろう脅威システムについての知識をテストする事を決めました。では主な項目について再確認しましょう。残りはほとんど一般常識です。",
+    ["DictKey_GroupName_159"] = "Стат. объект #008",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_GroupName_174"] = "Стат. объект #012",
+    ["DictKey_ActionText_118"] = "SA-6 はレーダー誘導短距離地対空ミサイルシステムです。各ランチャーから３発の地対空ミサイルを発射できます。交戦最大高度 52,000 feet。 SA-6 探知と追跡の両方に単一のストレートフラッシュレーダーシステムを使用します。",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_ActionText_96"] = "中距離R-40R はセミアクティブレーダーシーカーで最大飛距離は高高度で15nmです。中高度では、有効射程は約8nmです。MiG-25/31が搭載しています。\
+",
+    ["DictKey_ActionText_58"] = "フライトリーダー：\
+こんにちは、少尉！\
+\
+私達の一般、情報士官たちは、君のA-10Cの能力特性、兵器システム、君に襲いかかるであろう脅威システムについての知識をテストする事を決めました。では主な項目について再確認しましょう。残りはほとんど一般常識です。",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_UnitName_8"] = "Пилот #005",
+} -- end of dictionary
