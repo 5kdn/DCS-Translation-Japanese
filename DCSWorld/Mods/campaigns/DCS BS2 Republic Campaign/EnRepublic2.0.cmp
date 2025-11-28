@@ -1,0 +1,423 @@
+campaign = 
+{
+    ["description"] = "After the unsuccessful attempt to build a one-nation state a country in Caucasus has lost some of its territories where people didn’t want to be called “inferior”, “inadequate” or “nonexistent”. At the forefront of separatist movement was the area from Pitsunda to Senaki. People started to call their land “Republic”. An attempt to return this territory by force turned into lengthy and bloody war, both sides suffered severe losses and Republic has lost city Senaki. The population of Republic called the enemy “butchers” for the multitude of war crimes they committed.\
+\
+Two weeks ago the enemy started another attempt to “reestablish constitutional order” in the Republic. No side had the upper hand over the other however the “butchers” had better equipment. \
+\
+One mixed brigade consisting of one tank and two motorized battalions with support of GRAD rocket artillery and at least four Su-25 and two Mi-24 was up against the Republic. The republic only had transport helicopters and two Mi-8’s. An attempt to equip Mi-8 with rocket pods and use them in combat resulted in one of them being practically sawed in half by the enemy BMP-2. \
+\
+Naturally the Main HQ refrained from further such attempts and started looking for other ways to strengthen its small army. The help came from the neighbor to the north who’s parliament has recently recognized Republic as a sovereign nation. This now allowed for weapons to be supplied legally (sort of). \
+\
+As a result an arms deal was quickly set up where Republic’s Air Forces have received a used Ka-50 helicopter in a very good condition. Moreover a pilot, fairly young man who recently retired from service, was found up north who was willing to fly and fight on the Ka-50. \
+\
+I am a mercenary, imagine that! Well, not exactly a mercenary, more like a volunteer fighter. After all there is are now formal diplomatic relationships between my country and Republic and most of the population there have dual citizenships. \
+\
+Still, I could never imagine that after retiring I will ever fly and fight again. And here I am, sitting in the cargo bay of Ilushin with my new bird, yes it is basically mine now! And the beautiful bird it is! I could only dream about flying something like this. \
+\
+From my early days in service I always kept my ears open for any news about Ka-50, I kept magazine articles about it and anxiously watched video reports. And I even saw it once in flesh, when a pair of them came to us in Chechnya for combat trials. Could I ever imagine back then that one day I will be standing beside one, touching its cold black armor, feeling its might and power. \
+\
+Every man, deep down, and sometimes right on the surface, has a soft spot for a weapon, be it old knife or a brand new rifle, heavy tank or a swift jet fighter. And now I got myself the most beautiful attack helicopter. Looking at it from the left side one can think it is a purely peaceful machine if one forgets that on the right side it has a powerful cannon and at the back of cargo bay there are detached wings with hardpoints for some more serious arguments. They called it Werevolf for a reason! \
+\
+Well, let’s show them that even one can make a difference.",
+    ["name_EN"] = "Republic",
+    ["name_RU"] = "Республика",
+    ["pictureSuccess_RU"] = "Final-Success.png",
+    ["necessaryUnits"] = 
+    {
+        ["Ka-50"] = "Ka-50",
+    }, -- end of ["necessaryUnits"]
+    ["stages"] = 
+    {
+        [14] = 
+        {
+            ["name"] = "Стадия 14",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes13Cleanup.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes13Cleanup.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+        [13] = 
+        {
+            ["name"] = "Стадия 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes12AirRain.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes12AirRain.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "Стадия 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes06Bridge.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes06Bridge.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] = 
+        {
+            ["name"] = "Стадия 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 48,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes-1ZugdDefen.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes-1ZugdDefen.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 49,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes-1Despair.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes-1Despair.miz",
+                }, -- end of [2]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Стадия 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes01Bridgehead.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes01Bridgehead.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [15] = 
+        {
+            ["name"] = "Стадия 15",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes14Threat.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes14Threat.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+        [8] = 
+        {
+            ["name"] = "Стадия 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes07Ambush.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes07Ambush.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [16] = 
+        {
+            ["name"] = "Stage 16",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes15Final.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes15Final.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [16]
+        [9] = 
+        {
+            ["name"] = "Стадия 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes08Werewolf.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes08Werewolf.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] = 
+        {
+            ["name"] = "Стадия 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes04Party.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes04Party.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Стадия 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes09Substr.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes09Substr.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [11] = 
+        {
+            ["name"] = "Стадия 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes10Precipit.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes10Precipit.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [3] = 
+        {
+            ["name"] = "Стадия 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes02Rezerv.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes02Rezerv.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] = 
+        {
+            ["name"] = "Стадия 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes05Guests.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes05Guests.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Стадия 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes11Rescue.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes11Rescue.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [4] = 
+        {
+            ["name"] = "Стадия 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "EnRes03Breach.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRes03Breach.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+    }, -- end of ["stages"]
+    ["name_CN"] = "共和国",
+    ["fullPath"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\EnRepublic2.0.cmp",
+    ["pictureSuccess_CN"] = "Final-Success.png",
+    ["directory"] = "E:\\Miz\\Campaigns\\DCS Ka-50\\Republic\\",
+    ["startStage"] = 2,
+    ["picture"] = "Camp_Image-273x130-EN.png",
+    ["version"] = 1,
+    ["description_EN"] = "After the unsuccessful attempt to build a one-nation state a country in Caucasus has lost some of its territories where people didn’t want to be called “inferior”, “inadequate” or “nonexistent”. At the forefront of separatist movement was the area from Pitsunda to Senaki. People started to call their land “Republic”. An attempt to return this territory by force turned into lengthy and bloody war, both sides suffered severe losses and Republic has lost city Senaki. The population of Republic called the enemy “butchers” for the multitude of war crimes they committed.\
+\
+Two weeks ago the enemy started another attempt to “reestablish constitutional order” in the Republic. No side had the upper hand over the other however the “butchers” had better equipment. \
+\
+One mixed brigade consisting of one tank and two motorized battalions with support of GRAD rocket artillery and at least four Su-25 and two Mi-24 was up against the Republic. The republic only had transport helicopters and two Mi-8’s. An attempt to equip Mi-8 with rocket pods and use them in combat resulted in one of them being practically sawed in half by the enemy BMP-2. \
+\
+Naturally the Main HQ refrained from further such attempts and started looking for other ways to strengthen its small army. The help came from the neighbor to the north who’s parliament has recently recognized Republic as a sovereign nation. This now allowed for weapons to be supplied legally (sort of). \
+\
+As a result an arms deal was quickly set up where Republic’s Air Forces have received a used Ka-50 helicopter in a very good condition. Moreover a pilot, fairly young man who recently retired from service, was found up north who was willing to fly and fight on the Ka-50. \
+\
+I am a mercenary, imagine that! Well, not exactly a mercenary, more like a volunteer fighter. After all there is are now formal diplomatic relationships between my country and Republic and most of the population there have dual citizenships. \
+\
+Still, I could never imagine that after retiring I will ever fly and fight again. And here I am, sitting in the cargo bay of Ilushin with my new bird, yes it is basically mine now! And the beautiful bird it is! I could only dream about flying something like this. \
+\
+From my early days in service I always kept my ears open for any news about Ka-50, I kept magazine articles about it and anxiously watched video reports. And I even saw it once in flesh, when a pair of them came to us in Chechnya for combat trials. Could I ever imagine back then that one day I will be standing beside one, touching its cold black armor, feeling its might and power. \
+\
+Every man, deep down, and sometimes right on the surface, has a soft spot for a weapon, be it old knife or a brand new rifle, heavy tank or a swift jet fighter. And now I got myself the most beautiful attack helicopter. Looking at it from the left side one can think it is a purely peaceful machine if one forgets that on the right side it has a powerful cannon and at the back of cargo bay there are detached wings with hardpoints for some more serious arguments. They called it Werevolf for a reason! \
+\
+Well, let’s show them that even one can make a difference.",
+    ["pictureSuccess_EN"] = "Final-Success.png",
+    ["description_CN"] = "在尝试一国方案失败后，位于高加索地区的某个国家失去了它的部分领土。那儿的人民不想自己被叫做“下等人”、“异端”或者“不该存在的”。分离主义者最为活跃的地区是从皮聪大到塞纳基的地区。人们渐渐开始称呼那儿为“共和国”。一次试图收回这片区域的尝试渐渐演变成了一场冗长且血腥的战争，双方都遭受了惨重的损失并且“共和国”失去了塞纳基城。“共和国”的子民称他们的敌人为“屠夫”，因为他们犯下了多起战争罪行。\
+\
+两个星期前，敌人试图在“共和国”内部重建“宪法秩序”。双方都没有抢占到优势，不过“屠夫”们有更好的装备。\
+\
+一个由一辆坦克和两个摩托化营组成的混编旅在“冰雹”火箭炮和至少四架SU-25、两架MI-24的支援下被派去与“共和国”对抗。而“共和国”方面则仅仅有一些运输直升机和两架MI-8。他们试图给MI-8装上火箭弹吊舱并将其投入战斗，结果是其中一架几乎被BMP-2打成两截。\
+\
+司令部自然就停止了这种做法转而寻找其他能够增强他们这支迷你军队的办法。最终，在北边的一个邻国承认了“共和国”的主权并承诺提供援助。在主权被承认的借口下提供军火给“共和国”就变得合法了。\
+\
+这样一来，一单军火交易很快就谈成了，“共和国”空军接收了一架机况非常好的KA-50直升机。他们甚至还找到了一名飞行员为其作战，一位最近才退役的年轻人。\
+\
+我成了一名雇佣兵，天呐！嗯....好吧，也许一名志愿飞行员更适合一些。总而言之，我的国家已经和“共和国”建立了正式外交关系，而这里大多数的人都有双重公民身份。\
+\
+我在退役后还能继续飞上天作战简直是个奇迹。我现在正和我的爱机一起坐在一架伊留申运输机的货舱里。哦，我简直不敢想象我就是她的主人了，我以前只有在梦里才能开上这玩意儿。\
+\
+从我一开始服役我就一直在关注任何有关KA-50的消息，我收藏了很多关于她的文章并且十分兴奋的观看有关她的视频。我以前有一次甚至看到了一架真真正正的KA-50，当时我记得是在车臣参加作战试验。我当时绝对想不到我在有生之年竟然真的能够站在她旁边，抚摸她高冷漆黑的装甲板，感受她的力量与气场。\
+\
+每个人，不管是深埋在心还是溢于言表，都有一种会让他坠入爱河的武器，从古老的刀具到名贵的枪械，从坚实的坦克到灵活的喷气机。而我现在终于拥有了我认为最棒的武装直升机。从她的左侧胴体看过去，也许会让你觉得她只是位完全无害的小姑娘，不过你可别忘了她右手拿着的机炮和两侧短翼的挂点。“黑鲨”可不是白叫的。\
+\
+来吧，给他们点颜色瞧瞧。",
+    ["picture_RU"] = "Camp_Image-273x130-EN.png",
+    ["pictureSuccess"] = "Final-Success.png",
+    ["name"] = "Republic",
+    ["picture_CN"] = "Camp_Image-273x130-CN.png",
+    ["picture_EN"] = "Camp_Image-273x130-EN.png",
+    ["description_RU"] = "После неудачной попытки построения мононационального государства от одной кавказской страны откололось несколько территорий, жители которых не пожелали быть \"неполноценными\", \"неправильными\" или вообще \"несуществующими\". Флагманом сепаратистских настроений стала территория от Пицунды до Сенаки, жители которой называют её - \"наша Республика\" или просто – Республика. \
+\
+Попытка вернуть территорию силовым путём обернулась длительной войной, в которой обе стороны были обескровлены, но Республика потеряла город Сенаки. За антигуманные методы ведения боевых действий в ходе войны и ярко выраженный национализм жители Республики называли своих противников не иначе как \"нацики\". \
+\
+Две недели назад нацики предприняли новую попытку \"восстановить\" конституционный строй в соседней восточной республике и вооружённые столкновения  Республики с нациками вспыхнули с новой силой. Решающего перевеса нет ни у кого, но у нациков есть небольшой качественный перевес. Против Республики действует одна смешанная бригада в составе танкового и двух мотопехотных батальонов при поддержке батареи \"Градов\", не менее четырёх Су-25 и двух вертолётов Ми-24. \
+\
+Кроме транспортников и двух Ми-8 никакой авиации в Республике нет. Попытка использовать Ми-восьмые в качестве ударных с блоками НАР привела к тому, что один из них был буквально распилен пушкой БМП-2. От дальнейших подобных попыток Главный Штаб Республики благоразумно отказался и стал искать способы усилить наступательную мощь своей небольшой армии. \
+\
+Помощь пришла от северного соседа, парламент которого недавно признал независимость Республики, благодаря чему стало возможным легально покупать вооружение. Ну почти легально. В результате довольно быстро удалось провернуть сделку, благодаря которой ВВС Республики пополнились боевым вертолётом Ка-50 с довольно большим остаточным ресурсом. Кроме того удалось завербовать лётчика, который согласился на нём летать. Лётчик – сравнительно молодой человек, уволившийся недавно по выслуге лет.\
+ \
+Я наёмник. Дожился. Точнее, не совсем наёмник, скорее доброволец. Ведь между нашими странами теперь вполне официальные дипломатические отношения и в Республике широко распространено двойное гражданство. Вот уж не думал, что судьба выкинет такой фортель! Совсем недавно уволился из армейской авиации и уже не мечтал, что снова поднимусь в небо в кабине вертолёта. А теперь я сижу в грузовом отсеке Ила рядом с моим... да, теперь уже с МОИМ новым боевым конём. Да ещё с каким! \
+\
+Этот красавец не может не вызывать восхищение. Раньше я мог о нём только мечтать. С самого начала службы я ловил любые сообщения о нём, сохранял журнальные вырезки, ловил редкие видеосюжеты по телевизору. А однажды даже видел его живьём(!), когда два из них прибыли к нам в Чечню на испытания. Разве мог я себе представить тогда, что сегодня буду стоять рядом с ним, гладить его чёрную прохладную броню, ощущать огромную уверенную мощь, исходящую от него?  Думаю, в сердце любого нормального мужчины, у кого-то спрятанное глубоко, у кого-то прямо на поверхности лежит восхищение, а местами даже нежность к оружию. Будь то старый и уже взявшийся ржавчиной клинок или пахнущий оружейной смазкой автомат, тяжёлый танк или стремительный истребитель. \
+\
+Мне же достался самый красивый из боевых вертолётов. Глядя  с левой стороны на его изящные линии можно легко обмануться, приняв его за сугубо мирное изделие, если не знать, что на другом боку закреплена мощная пушка, а позади лежат отстыкованные крылья с пилонами под очень серьёзные аргументы. Правильно его назвали Оборотнем. \
+\
+Ну что, покажем всем, что даже один в поле воин! Правда брат?\
+",
+    ["name_JP"] = "共和国",
+    ["description_JP"] = "コーカサスにあったその国は単一国民国家（民族国家）の樹立に失敗しました。さらに、「下級」、「不適合」、「存在しない」とされることを望まない民族の住んでいた領土をも失うことになりました。分離主義運動の最前線はPitsundaから Senakiの地域でした。人々はそれらの場所を「共和国」と呼ぶようになりました。この領土を強制的に併合しようする試みは、長く血なまぐさい戦争に変わりました。双方ともに深刻な損失を被り、共和国はSenaki.の街を失いました。共和国の人々は、幾多の戦争犯罪をおかした敵を「虐殺者,ブッチャー：butchers」と呼びました。\
+\
+２週間前、敵は「憲法秩序の回復」をしようと動き始めました。どちらもまだ、相手よりも優勢にはなっていませんが、「ブッチャー」は良い装備を持っていました。\
+\
+1戦車大隊、２機械化歩兵大隊とGRADロケット砲、さらに少なくとも4機のSu-25と２機のMi-24からなる混成旅団が共和国に対して活動を開始しました。共和国には輸送ヘリと２機のMi-8しかありませんでした。Mi-8にロケットポッドを装備して戦闘に利用しましたが、うち１機は敵BMP2によって真っ二つに壊されてしまいました。\
+\
+当然のことながら、司令部本部はそれ以上の試みはあきらめ、その小さな軍隊を強化するための他の方法を模索しました。助けは北の隣国からもたらされました。その国の議会は最近共和国を主権国家と認定しました。これにより、（ある種）合法的に武器を供給することが可能となります。\
+\
+そのおかげで、迅速な兵器の取引が可能になり、共和国空軍は中古のKa-50ヘリコプター2機を非常に良い状態で受け取りました。さらに、最近、軍から引退した若いパイロットが北で見つかりました。彼は喜んで引き受けてくれ、Ka-50で戦ってくれることになりました。\
+\
+私は傭兵です。それを想像しました。まあ、正確には傭兵ではなく、ボランティアの戦闘員のようなものです。なにはともあれ、私の国と共和国には正式な外交関係があり、ここに暮らすほとんどの国民には二重の市民権があります。 \
+\
+それでも、引退した私が再び空に上って戦えるとは想像だにしませんでした。しかし、私は今ここにいます。イリューシンの貨物室に新しい鳥と共にいます。そう、こいつは今から私のものです！しかも、なんて美しい鳥でしょうか！このような素晴らしい機体で飛べるなんで夢にも思いませんでした。\
+\
+軍に所属したての頃から、よくKa-50についてのニュースにはよく耳を傾けていました。雑誌の記事を保存し、ビデオレポートを熱心に見ました。戦闘試験で一組がチェチェンに来た時に、一度だけチラッと見たこともあります。その頃に、この冷たい黒い鎧に触れながら、その堅牢さと力の凄さを感じている自分がいることなんて想像出来たでしょうか。 \
+\
+誰にでも、心の中に、時には深い部分にあるかもしれませんが、兵器に対する思いというものを持っています。それが古いナイフであるか、新しいライフル、重戦車や速いジェット戦闘機あるかは別にして。\
+\
+そして今、私は最も美しい攻撃ヘリコプターを手にしました。右側から見ると強力な機銃が見えます。貨物室の後ろから見ると様々な兵器が搭載できるハードポイントを備えた翼が見えます。だだ、左側から見ると、それらが見えにくくなりますので、本当に平和な機体に見えます。この機体が「Werevolf：狼男」と呼ばれる理由です。\
+\
+さあ、こいつに状況を変える力が有ることを見せてやりましょう。",
+
+} -- end of campaign
