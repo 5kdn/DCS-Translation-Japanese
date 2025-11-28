@@ -1,0 +1,222 @@
+dictionary = 
+{
+    ["DictKey_ActionText_237"] = "搭乗者がきました、ボード１１、良いフライトを！",
+    ["DictKey_ActionText_186"] = "ボートじゃない、船だ。ミサイル艦です。側面に大きなミサイル発射管が見えますね。FSS国境警備隊です。",
+    ["DictKey_GroupName_29"] = "s3",
+    ["DictKey_ActionText_381"] = "航空管制を要求したり、ADFの調整をしたあと音楽が出なくなるのを防ぐには、R-863モードコントロールスイッチをYKP（R863）の位置にして下さい。音楽が再生されます。",
+    ["DictKey_UnitName_396"] = "",
+    ["DictKey_GroupName_58"] = "pos2",
+    ["DictKey_GroupName_77"] = "m5",
+    ["DictKey_ActionText_132"] = "ボード１　こちらが聞こえますか？ 、西のプラットフォームで待っています。サイドドアをすぐに開けてください。このプラットフォームにはフックがありませんので、急いで降機してください。　聞こえましたか？Over！",
+    ["DictKey_ActionText_368"] = "",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_ActionText_128"] = "コマンダー、公海上を飛行しますので、ルートに戻る必要があります！",
+    ["DictKey_ActionText_182"] = "数日間そこへ行くのはいいでしょうが、天候が許さないでしょう。",
+    ["DictKey_ActionText_117"] = "コマンダー、予定ルートから外れていってます！",
+    ["DictKey_ActionText_386"] = "",
+    ["DictKey_ActionText_211"] = "聞こえています。こちらボード１、風上をできるだけ速く飛行しています。",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_GroupName_97"] = "s7",
+    ["DictKey_WptName_406"] = "",
+    ["DictKey_ActionText_142"] = "コマンダー、全乗員がシートに付きシートベルトを締めました。貨物も固定しました。",
+    ["DictKey_ActionText_247"] = "MISSION COMPLETE",
+    ["DictKey_UnitName_417"] = "",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_GroupName_45"] = "pos",
+    ["DictKey_ActionText_187"] = "ノヴォロシースクに拠点をおいていると思います。",
+    ["DictKey_GroupName_398"] = "pos2",
+    ["DictKey_ActionText_390"] = "このキャンペーンに登場する人物やイベントは全て架空です。実際の人物や、実際の出来事と似ているのは偶然です。物語は面白おかしくしてあるだけです。",
+    ["DictKey_UnitName_168"] = "un012",
+    ["DictKey_WptName_397"] = "",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_GroupName_392"] = "Стат. объект",
+    ["DictKey_GroupName_100"] = "st",
+    ["DictKey_GroupName_410"] = "",
+    ["DictKey_ActionText_236"] = "ブレーキは強くかけたほうが良いです。風が強すぎてハンドブレーキが効きません。",
+    ["DictKey_ActionText_351"] = "",
+    ["DictKey_ActionText_126"] = "では、次に向かいましょう！",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_ActionText_144"] = "地面安全確認、着陸！",
+    ["DictKey_UnitName_49"] = "un1",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_ActionText_372"] = "",
+    ["DictKey_GroupName_86"] = "m8",
+    ["DictKey_descriptionRedTask_2"] = "ボリソフとクルーの任務\
+\
+RA-24050に搭乗、非常に悪天候の中、緊急で石油専門家をオイルプラットフォームに連れて行ってください。\
+プラットフォーム Divnomorskaya Blizhnyaya № 2、 7人\
+コールサイン - Shpora 127.5Mhz\
+プラットフォーム Divnomorskaya Dal'nyaya № 3、　4人\
+コールサイン - Yunga 127.5Mhz\
+プラットフォーム Divnomorskaya Dal'nyaya № 5, 　1人\
+コールサイン - Kalitka 127.5Mhz\
+エンジン始動中に13人を搭乗させてください。\
+周辺の代替飛行場やヘリパッドの利用ができませんので、状況は複雑で危険です。なので、可能な限り慎重に行ってください。緊急事態が発生した場合は、いずれかのプラットフォームにとどまってください。\
+無視界飛行です！！！\
+\
+夜間勤務の飛行計画のため、雇用契約に応じて、倍額で支払います。気象条件による追加レートも付きます。",
+    ["DictKey_UnitName_405"] = "",
+    ["DictKey_UnitName_113"] = "un18",
+    ["DictKey_ActionText_125"] = "ボード１、こちらランディングディスパッチャーです。そちらを確認しました。プラットフォームへの着陸準備は出来ています。\
+西側のプラットフォームに降りてください。聞こえてますか？",
+    ["DictKey_UnitName_159"] = "un010",
+    ["DictKey_ActionText_212"] = "わたりました。待ってます！",
+    ["DictKey_GroupName_35"] = "bort1",
+    ["DictKey_UnitName_78"] = "un14",
+    ["DictKey_ActionRadioText_369"] = "",
+    ["DictKey_ActionText_329"] = "",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_ActionText_391"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_ActionText_123"] = "コマンダー、中継地点に到着しました。右側のDivnomorskoe村はかろうじて見えます。方位205、目的地 Divnogorskayaプラットフォーム、距離11ｋｍ ",
+    ["DictKey_ActionText_356"] = "",
+    ["DictKey_ActionText_202"] = "ボード102、聞こえています。こちら RA-24050",
+    ["DictKey_WptName_37"] = "",
+    ["DictKey_ActionText_149"] = "接地！、ブレーキをかけろ！",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_WptName_418"] = "",
+    ["DictKey_ActionText_263"] = "MISSION FAILED",
+    ["DictKey_GroupName_416"] = "s5",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_ActionText_205"] = "24-O-50、Copy、気をつけて！",
+    ["DictKey_ActionText_133"] = "プラットフォーム、こちらボード１、今から着陸します。、許可を願います！",
+    ["DictKey_GroupName_112"] = "m9",
+    ["DictKey_UnitName_84"] = "un16",
+    ["DictKey_GroupName_89"] = "fsbst",
+    ["DictKey_UnitName_402"] = "",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_GroupName_42"] = "s5",
+    ["DictKey_ActionText_244"] = "ボード１、一番遠いプラットフォームですが、うちの交代要員はまだですか？こちらが、聞こえますか？　方位　165度！",
+    ["DictKey_ActionText_346"] = "",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_sortie_4"] = "シフト",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_ActionText_252"] = "354 度ですコマンダー、ウェイポイントまでの距離 41000、家に帰りましょう。",
+    ["DictKey_ActionText_120"] = "セルゲイ・パリッチ、ニコルスキーです。今日はディスパッチャー（運行管理員）の隣で見ています。快適な飛行は望めないでしょうが、幸運を祈っています！",
+    ["DictKey_UnitName_164"] = "un011",
+    ["DictKey_UnitName_56"] = "un12",
+    ["DictKey_ActionText_243"] = "全員が機体から降りました！",
+    ["DictKey_ActionText_129"] = "ボード　RA-21-O-50、over!　こちら連邦保安局、ボード 102、聞こえますか？",
+    ["DictKey_GroupName_70"] = "m4",
+    ["DictKey_ActionText_332"] = "",
+    ["DictKey_ActionText_184"] = "- ありがとう、セルげビッチ！ 知らない間に戻っておきますよ。",
+    ["DictKey_ActionText_172"] = "パリッチ、こちらニコルスキー、素晴らしい働きです！　腕は間違いないようですね！。私達は大佐の軍事能力を見ることが出来ます！　おかえりなさい。休憩してください！",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_ActionText_224"] = "プラットフォーム、こちらボード１、全て順調です。 着陸します。",
+    ["DictKey_ActionRadioText_336"] = "",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_ActionText_130"] = "ボード 1、聞こえますか？ Over！ ,ランディングディスパッチャーです。そちらのレスポンダーを確認しました。聞こえますか？",
+    ["DictKey_ActionText_375"] = "サウンドトラックと無線通信の音を聞きやすくするために、設定で定音声レベルを下げることをお勧めします。\
+\
+World - 40%\
+In-Cockpit - 40%\
+Helmet - 40%\
+\
+サウンドトラックは音声の周波数で送信されます。ボリューム調節又はオフにできます。",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_GroupName_52"] = "m2",
+    ["DictKey_GroupName_8"] = "s",
+    ["DictKey_GroupName_158"] = "fsbm",
+    ["DictKey_ActionText_220"] = "着陸します。",
+    ["DictKey_descriptionText_1"] = "2008年1月23日　この物語の主人公であるセルゲイ・パブロヴィッチ・ボリソフにとってこの夜はそう簡単ではありませんでした。彼はシベリア航空で働いていましたが、これは給与だけでなく、パイロットスキルの維持、訓練のためでもありました。なので、支払いの高い難しいフライトもよく引き受けていました。そして、その日も例外ではありませんでした。\
+民間航空会社は３機のMI-8MTV2を所持していました。数週間前にクラスノヤルスクからゲレンジークに商品を輸送するためにやってきていました。その後、上司はクルーにロシアの南地区でのこのエリアにある開発会社の支社の日常の業務を完了させるため、数週間ここに滞在するよう伝えました。クルー以外では、マネージャーのアンドレイ・オシペンコと開発総合責任者であるビクトル・セルげヴィッチ・ニコルスキーがここにやって来ました。長い飛行の後、皆は町のホテルにチェクインし、２、３日休養を取りました。\
+２日後、ボリソフとクルーは社用車で彼らのMi-8MTV2に向かいました。\
+\
+「今日の任務はハードだ。」セルゲイ・パブロヴィッチは街の通りを空港に向かって通り過ぎながら考えました。\
+「海の吹雪とは新鮮だ。そう、新しいものは全ていいもんだ、古いものを忘れさせてくれる！」\
+「何かいいましたか？セルゲイ・パブロヴィッチ」ナビゲータークルーのアレクサンドル・カルロフがフロントシートから振り向いて、抑揚のない声で聞きました。\
+「新しいものは古いものを忘れさせてくれると言ったんだ、サーシャ！」\
+「ああ、そうですね…今日の天気を考えていまして。」　アレクサンダーは話題を変えました、「あなた、セルゲイ・パブロヴィッチが前にこのエリアでの経験が有ると聞いて嬉しいです。この嵐でも無事に終われるそうな気がします。」\
+「コマンダーが助けくれるさ」フライトエンジニアのアレクセイ・シャフマトフが人差し指で皆を指しながら言いました。「自分たちで何とかするならね！！！」\
+皆が笑いましたが、セルゲイ・パブロヴィッチは微笑みながら考え深げに車の窓から外を見つめました。そして、車が到着するまでの間、通りの幾つかを見ながら、良い思い出に浸りました。",
+    ["DictKey_ActionText_118"] = "コマンダー、今日は海上のみ飛行可能です！それ以外だと罰金とペナルティが課せられます。中継地点はDivnomorskoyeです。",
+    ["DictKey_ActionText_228"] = "外が暗いです！コマンダー、照明装置と外部シグナルライトを付けたほうが良いでしょう。",
+    ["DictKey_UnitName_90"] = "un001",
+    ["DictKey_ActionText_171"] = "着陸しました。１０秒で準備します。",
+    ["DictKey_GroupName_163"] = "z",
+    ["DictKey_WptName_409"] = "",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_ActionText_204"] = "了解。ボード102、オイルプラットフォームに向かいます。",
+    ["DictKey_ActionText_380"] = "Авторский саундтрек предоставил музыкант\
+The Last Haven!",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_GroupName_167"] = "z1",
+    ["DictKey_ActionText_335"] = "",
+    ["DictKey_ActionText_267"] = "MISSION FAILED",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_UnitName_36"] = "pilot1",
+    ["DictKey_GroupName_14"] = "s1",
+    ["DictKey_ActionText_134"] = "ボード１、こちらランディングディスパッチャー、着陸は東のプラットフォームです。そこで待っています。大丈夫ですか？",
+    ["DictKey_UnitName_71"] = "un13",
+    ["DictKey_GroupName_395"] = "Стат. объект #001",
+    ["DictKey_ActionText_192"] = "こちらボード１、了解、西のプラットフォームに行きます。こちらからはまだ見えませが、ルートに沿って移動中です。誘導願います！",
+    ["DictKey_ActionText_121"] = "コマンダー、２隻の軍用ボートが見えます。",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_GroupName_404"] = "",
+    ["DictKey_ActionText_176"] = "無視界飛行です。殆ど見えません。",
+    ["DictKey_ActionText_251"] = "そちらもです！　ナビゲーター、コースは？",
+    ["DictKey_GroupName_64"] = "s6",
+    ["DictKey_ActionText_229"] = "ええ、そうですね。照明装置、白色ライト、フラッシュとビーコンをつけます。ナビゲーター、操縦を代わってください。",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_ActionText_216"] = "了解、プラットフォーム、こちらボード１、ヘリ用のフックは無し、迅速な着陸、ドアはオープン。確認しました。着陸を行います。",
+    ["DictKey_ActionText_197"] = "OKでしたよ、サーシャ。あと2つあります、まだ気を抜かないでください。ズレを修正してください！",
+    ["DictKey_ActionText_196"] = "どうだい、セルゲイ・パリッチ？簡単な着陸じゃなかったでしょ？",
+    ["DictKey_ActionText_268"] = "MISSION FAILED",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_UnitName_87"] = "un17",
+    ["DictKey_ActionText_378"] = "コマンダー、乗客全員シートに座り、ベルトを締めました。貨物も固定しました。",
+    ["DictKey_GroupName_61"] = "pos3",
+    ["DictKey_GroupName_39"] = "s4",
+    ["DictKey_UnitName_399"] = "",
+    ["DictKey_ActionText_355"] = "MEMORY OF THE HERO",
+    ["DictKey_ActionText_230"] = "操縦を代わりました",
+    ["DictKey_ActionText_350"] = "MISSION DEVELOPMENT STUDIO STONE SKY present",
+    ["DictKey_GroupName_55"] = "m3",
+    ["DictKey_UnitName_53"] = "un11",
+    ["DictKey_ActionText_339"] = "",
+    ["DictKey_WptName_412"] = "",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_ActionText_227"] = "よし、数分で離陸します。\
+",
+    ["DictKey_UnitName_81"] = "un15",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_GroupName_407"] = "s6",
+    ["DictKey_UnitName_411"] = "",
+    ["DictKey_GroupName_80"] = "m6",
+    ["DictKey_WptName_415"] = "",
+    ["DictKey_GroupName_83"] = "m7",
+    ["DictKey_GroupName_48"] = "m1",
+    ["DictKey_ActionText_343"] = "サウンドトラックと無線通信の音を聞きやすくするために、設定で定音声レベルを下げることをお勧めします。\
+\
+World - 30%\
+In-Cockpit - 30%\
+Helmet - 50%\
+\
+サウンドトラックは音声の周波数で送信されます。ボリューム調節又はオフにできます。",
+    ["DictKey_GroupName_401"] = "pos2 #001",
+    ["DictKey_ActionText_387"] = "",
+    ["DictKey_GroupName_26"] = "s2",
+    ["DictKey_ActionText_250"] = "Understood, 良い仕事でした。グッドラック！",
+    ["DictKey_ActionText_219"] = "ボード１　許可します。こんにちは、ようこそここへ.！",
+    ["DictKey_ActionText_385"] = "",
+    ["DictKey_WptName_403"] = "",
+    ["DictKey_GroupName_413"] = "pos3",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_ActionText_238"] = "そちらも、プラットフォーム、私達は出発します！",
+    ["DictKey_ActionText_119"] = "コマンダー、作業エリアから離れています。アブハジアに行くつもりですか？",
+    ["DictKey_UnitName_414"] = "",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_WptName_400"] = "",
+    ["DictKey_ActionText_362"] = "Mission Development Studio\
+               STONE SKY\
+     present campaigne for \
+               DCS World:\
+      MEMORY OF THE HERO",
+    ["DictKey_ActionText_203"] = "安全圏で飛行してください。特に注意して慎重に。海面に突っ込まないようしてください。聞こえますか？Over!",
+    ["DictKey_UnitName_393"] = "",
+    ["DictKey_WptName_394"] = "",
+    ["DictKey_UnitName_408"] = "",
+} -- end of dictionary

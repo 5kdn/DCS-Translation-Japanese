@@ -1,0 +1,350 @@
+campaign = 
+{
+    ["description"] = "Memory of the Hero. What it may consist of? Runaway sketches or every little detail. Cold everyday life story or bright moments, full of fire and danger. \
+Luckily, Sergey Pavlovich Borisov has experienced both in his long career as a pilot. His memory is also pretty clear. And our story is about him! Jumping through hoops and keeping all the memories that make makes your blood run cold. \
+Being an honored sniper, helicopter pilot and a hero of the Soviet Union and Russia! There is no mistake! All those names and awards belong to one brave man.\
+Sergey Pavlovich Borisov was born in 1964 in Krasnoyarsk, USSR. \
+Since childhood Sergey fell for aviation, as he lived within several kilometers of the local airport. All of his youth he spent at the forefront of the flying club participants and by the moment he was entering the flight school, had already had a grade in parachuting. Even at that time, Sergey made his choice into helicopters. Not being progressing as fast as aircraft industry, helicopter aviation seemed prospective and, what’s more important, closer to the heart. \
+In 1985 Borisov joined the military aviation and was immediately detached for service to Afghanistan. Scorching sand and unavoidable loss of comrades have harden Sergey and destroyed the remainings of the young man part in the soul. It was hard enough for Sergey in those lands. \
+Mil’s vehicles were mastered and his pilotage was brought to the perfection. Follow the caravan, on MI-24? Senior lieutenant Borisov as the lead. Send the assault force to Jalalabad? Get Borisov to the “eight” and battalion commander may not worry for the high case. In three years, Borisov got the captain rank. Picking up the Star medal for saving an assault force group, Borisov checked into a hospital with a serious thigh injury. Survived by a miracle. That is how the war in Afghanistan ended for him. \
+In next years, the life of our hero was in permanent battle missions, bordering on the absurd. Sometimes, at the breaking point, Borisov pulled the control lever with his last strength and after the short break rushed again to the hell of military conflicts and confrontations.",
+    ["description_JP"] = "「メモリーオブヒーロー」とはどのような内容でしょう？　走り書きしたエピソードや、細かなエピソード、寒い日々の日常や、輝かしい瞬間など、砲火や危険にみちた内容です。 \
+\
+幸いなことに、セルゲイ・パブロビッチ・ボリソフはパイロットとしての長いキャリアの中で全てを経験しています。彼の記録はかなり明確でした。そして、このキャンペーンは彼についての物語です！この世界に飛び込んで、血も凍るような体験を味わってください。\
+\
+彼が名誉あるスナイパーでヘリコプターパイロットであり、ソビエト連邦やロシアの英雄で有ることは間違いはありません！これらの呼び名と勲章は勇敢な男である証です。\
+セルゲイ・パブロビッチ・ボリソフは1946年にソ連のクラスノヤルスクで生まれました。\
+セルゲイは、子供の頃に地方の空港から数ｋｍの所に住んでいましたので、空の世界に魅了されました。青年時代は、ずっと飛行クラブに所属し、飛行学校に入学する頃には、パラシュートの資格を持っていました。入学時にセルゲイはヘリコプターに乗ることを選びました。\
+飛行機の業界ほど速く進歩していないため、ヘリコプター業界は将来性がありました。何より心が惹かれました。\
+1985年にボリソフは軍の航空部隊に入隊し、すぐアフガニスタンに配属されました。焼け付く砂と、なすすべがない仲間の死がセルゲイを強くし、彼の中にあった心の若さを破壊しました。その土地はセルゲイにとって非常にハードでした。\
+ミルの機体を習得し、彼の操縦技術は完璧になりました。「Mi-24でキャラバンを追跡しますか？」、「ボリソフ中尉をリーダーにしろ」。「襲撃部隊をジャラーラーバードに送りますか？」、「ボリソフをエイト（MI-8）に乗せろ」。大隊指揮官は難しい決断で悩まされる事がありませんでした。3年間の間に、ボリソフはキャプテンまで昇進しました。急襲部隊を救出したことでスターメダルを受賞しましたが、このとき、ボリソフは大腿部に重傷を負ったために病院に入院することなります。彼は奇跡的に生き残りました。彼のアフガン戦争での従軍はこれが元で終わりとなります。\
+次の年、彼は常に国境問題で争っている戦闘地域にいました。ボリソフは時々要所で操縦桿を握りました。短い休息の後、再び軍事対立し紛争となっている地獄へ向かいます。",
+
+    ["name_EN"] = "Memory of the Hero",
+    ["name_JP"] = "メモリーオブヒーロー",
+    ["name_RU"] = "Память Героя",
+    ["pictureSuccess_RU"] = "LK1-win.jpg",
+    ["necessaryUnits"] = 
+    {
+        ["Ka-50"] = "Ka-50",
+        ["Mi-8MT"] = "Mi-8MT",
+    }, -- end of ["necessaryUnits"]
+    ["stages"] = 
+    {
+        [15] = 
+        {
+            ["name"] = "Стадия 15",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "15Squadron.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\15Squadron.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+        [13] = 
+        {
+            ["name"] = "Стадия 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "13Combat spirit.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\13Combat spirit.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "Стадия 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "7First Luck .miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\7First Luck .miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] = 
+        {
+            ["name"] = "Стадия 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "1Shift.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\1Shift.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Стадия 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "2Search.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\2Search.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "Стадия 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "4.1theseawolf.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\4.1theseawolf.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] = 
+        {
+            ["name"] = "Стадия 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "8Gone Missing.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\8Gone Missing.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [16] = 
+        {
+            ["name"] = "Стадия 16",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "16Destination Sochi.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\16Destination Sochi.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [16]
+        [9] = 
+        {
+            ["name"] = "Стадия 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "9Vasaev.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\9Vasaev.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] = 
+        {
+            ["name"] = "Стадия 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "5Secret Escort.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\5Secret Escort.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Стадия 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "10Justice.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\10Justice.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [14] = 
+        {
+            ["name"] = "Стадия 14",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "14-1Fact or Fiction.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\14-1Fact or Fiction.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+        [3] = 
+        {
+            ["name"] = "Стадия 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "3Double game.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\3Double game.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] = 
+        {
+            ["name"] = "Стадия 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "6Double game .miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\6Double game .miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Стадия 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "12NATO .miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\12NATO .miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [11] = 
+        {
+            ["name"] = "Стадия 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "11CTO.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\11CTO.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+    }, -- end of ["stages"]
+    ["fullPath"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\MemoryOfTheHero.cmp",
+    ["picture_EN"] = "LK1-an.jpg",
+    ["directory"] = "D:\\работаDCS\\MemoryHero\\1-100%готовность\\КАМПАНИЯ,описание,постеры,скриншоты\\MemoryHero\\",
+    ["startStage"] = 1,
+    ["picture_RU"] = "LK1-rus.jpg",
+    ["description_EN"] = "Memory of the Hero. What it may consist of? Runaway sketches or every little detail. Cold everyday life story or bright moments, full of fire and danger. \
+Luckily, Sergey Pavlovich Borisov has experienced both in his long career as a pilot. His memory is also pretty clear. And our story is about him! Jumping through hoops and keeping all the memories that make makes your blood run cold. \
+Being an honored sniper, helicopter pilot and a hero of the Soviet Union and Russia! There is no mistake! All those names and awards belong to one brave man.\
+Sergey Pavlovich Borisov was born in 1964 in Krasnoyarsk, USSR. \
+Since childhood Sergey fell for aviation, as he lived within several kilometers of the local airport. All of his youth he spent at the forefront of the flying club participants and by the moment he was entering the flight school, had already had a grade in parachuting. Even at that time, Sergey made his choice into helicopters. Not being progressing as fast as aircraft industry, helicopter aviation seemed prospective and, what’s more important, closer to the heart. \
+In 1985 Borisov joined the military aviation and was immediately detached for service to Afghanistan. Scorching sand and unavoidable loss of comrades have harden Sergey and destroyed the remainings of the young man part in the soul. It was hard enough for Sergey in those lands. \
+Mil’s vehicles were mastered and his pilotage was brought to the perfection. Follow the caravan, on MI-24? Senior lieutenant Borisov as the lead. Send the assault force to Jalalabad? Get Borisov to the “eight” and battalion commander may not worry for the high case. In three years, Borisov got the captain rank. Picking up the Star medal for saving an assault force group, Borisov checked into a hospital with a serious thigh injury. Survived by a miracle. That is how the war in Afghanistan ended for him. \
+In next years, the life of our hero was in permanent battle missions, bordering on the absurd. Sometimes, at the breaking point, Borisov pulled the control lever with his last strength and after the short break rushed again to the hell of military conflicts and confrontations.",
+    ["pictureSuccess_EN"] = "LK1-win.jpg",
+    ["pictureFailed"] = "LK1-end.jpg",
+    ["name"] = "Memory of the Hero",
+    ["pictureSuccess"] = "LK1-win.jpg",
+    ["picture"] = "LK1-an.jpg",
+    ["version"] = 1,
+    ["pictureFailed_EN"] = "LK1-end.jpg",
+    ["pictureFailed_RU"] = "LK1-end.jpg",
+    ["description_RU"] = "Память Героя. Что может вместить в себя она? Беглые наброски, или каждую деталь. Холодное повествование быта или, раскаленные до красна, опасные для жизни мгновения. К счастью Сергей Павлович Борисов пережил за свою долгую карьеру летчика и то и другое. Память нашего героя тоже не подводит. Наша история о том, каково это! Пройти через огонь и воду, держать в себе воспоминания, от которых стынет кровь. Быть заслуженным летчиком снайпером, пилотом вертолета, Героем Советского Союза и Героем России! Да, мы не ошиблись, все эти, разящие мужеством и отвагой, звания могут принадлежать, и по праву принадлежат одному человеку. \
+Сергей Павлович Борисов родился в 1964 году в городе Красноярске, СССР\
+С детства Сергей влюбился в авиацию, так как жил всего в паре километров от местного аэродрома. Всю юность он проводил в первых рядах участников аэроклуба, и в момент поступления в Летное Училище имел разряд по парашютному спорту. Уже тогда Сергей сделал выбор в пользу вертолетов. Развиваясь не так быстро, как самолетостроение, вертолетная авиация казалась ему более перспективной, а главное была ближе к сердцу. \
+Военным летчиком Борисов стал в 1985 и незамедлительно был отправлен в Афганистан. Раскаленный песок и неминуемая потеря близких товарищей закалила Сергея, и уничтожила в нем остатки молодого мальчика. Тяжело пришлось нашему герою в тех краях. Технику Миля он изучил и довел свой пилотаж до совершенства. За караваном, на Ми-24, - старший лейтенант Борисов за ведущего. Закинуть Десант в Джелалабад? Старлея Борисова в \"Восьмерку\" и командир батальона уже не беспокоился за благополучный исход дела. За три года Борисов дослужился до капитана. Получив Звезду Героя за спасение группы десанта, Борисов попал в госпиталь с серьезным ранением бедра. Чудом остался жив в этой передряге Сергей Павлович. Так для него закончилась война в Афганистане.\
+В последующие годы жизнь нашего героя проходила в постоянных боевых задачах, граничащих порою со здравым смыслом, а иногда на грани жизни и смерти Борисов вытягивал из последних сил Ручку Управления, и передохнув, снова бросался в пекло бесконечных военных конфликтов и противостояний.\
+",
+} -- end of campaign
