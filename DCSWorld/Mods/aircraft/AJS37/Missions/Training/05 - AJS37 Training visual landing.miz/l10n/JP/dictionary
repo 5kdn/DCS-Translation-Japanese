@@ -1,0 +1,125 @@
+dictionary = 
+{
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_UnitName_85"] = "New Static Object #005",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_sortie_4"] = "有視界着陸チュートリアル",
+    ["DictKey_ActionText_53"] = "脱出シートをSAFEに設定する。",
+    ["DictKey_ActionText_73"] = "タッチダウンの直前になると 飛行経路のベクトルが降下レートの指標となります \
+\
+安全な垂直速度を確保するために、飛行経路ベクトルをグライドスロープ線の上に保ちましょう。\
+通常の着陸では、垂直方向の速度を下げるために緩やかなフレアをかけることをお勧めします。",
+    ["DictKey_GroupName_49"] = "",
+    ["DictKey_ActionText_55"] = "ジェネレータースイッチをOFFにする。",
+    ["DictKey_ActionText_19"] = "\
+ブレーキを均等にかけてください。逆推進をアイドリング状態で使用すると、より効果的に減速することができます。\
+\
+マスターモードセレクターをスタンバイモードBERに設定します。\
+\
+滑走路の端までタクシーで行くと、車が出迎えてくれて、駐車場まで案内してくれます。",
+    ["DictKey_ActionText_14"] = "あなたは今、飛行場から20kmの地点にいるはずです。\
+最後のウェイポイントを通過すると、自動的にプライマリー着陸地点L1が選択されるはずです。\
+\
+マスターモードセレクターを「LANDN P/O」（一番右）にセットしてください。これで有視界着陸モードが選択されます。",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_UnitName_94"] = "New Static Object #006",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_ActionText_30"] = "車を追って駐機場へ行きましょう。",
+    ["DictKey_ActionText_57"] = "酸素バルブをOFFにする。",
+    ["DictKey_ActionText_11"] = "こんにちは、有視界アプローチと着陸のチュートリアルへようこそ。\
+今日は、通常の飛行場で、天候に恵まれた場合の通常のビジュアルアプローチの手順を説明します。\
+短距離飛行については別のチュートリアルで説明します。\
+現在、あなたが着陸するKUTAISI飛行場の南東にいます。\
+これから飛行場に向かって直接アプローチします。良好なコンディションであれば、\
+通常のトラフィックパターンやオーバーヘッドアプローチの方が望ましい場合もあります。",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_GroupName_87"] = "New Static Object #006",
+    ["DictKey_ActionText_13"] = "KUTAISIのQFE高度計の気圧が設定されていることを確認します。\
+\
+今日の気圧は1031hPAです（QNHは1033hPA、飛行場の標高は13m ASL）。\
+\
+高度を500mに保ちます。\
+\
+ウェイポイントB1に向けて飛行してください。",
+    ["DictKey_UnitName_28"] = "",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_ActionText_56"] = "スロットルをOFFにする。これでエンジンが停止します。",
+    ["DictKey_descriptionText_1"] = "",
+    ["DictKey_UnitName_88"] = "",
+    ["DictKey_ActionText_59"] = "キャノピーレバーを引いてキャノピーを開く。",
+    ["DictKey_GroupName_84"] = "New Static Object #005",
+    ["DictKey_ActionText_12"] = "まず、対気速度を550km/hに落とします。\
+\
+オートスロットルを使用しても構いません。オートスロットルを使うと、ランディングギアが格納されている間は、\
+550km/hを維持するようにスロットルが自動調整されます。\
+\
+ランディングギアが展開されると、システムが正しいタッチダウン速度を維持するように推力を調整します。",
+    ["DictKey_UnitName_43"] = "New Static Object",
+    ["DictKey_GroupName_69"] = "",
+    ["DictKey_ActionText_17"] = "迎え角が大きくなり始めたら、HUDの反射板ガラスを下げてください。また、必要に応じてシートの上げ下げを行ってください。\
+\
+ランディングギアを伸ばした状態で飛行経路ベクトル 「tailfin」を見ると、12度の迎え角に対応するタッチダウン速度からの逸脱を示しています。\
+\
+尾翼が高い場合は、対気速度を下げてください。\
+\
+尾翼が低い場合は、対気速度を上げてください。\
+",
+    ["DictKey_ActionText_16"] = "あなたは飛行場から約15kmの地点にいるはずです。\
+\
+ランディングギアのレバーを下向きに押して（または「G」キーを押して）、ランディングギアを下げます。\
+\
+オートスロットル（AFK）が作動していれば、システムが自動的に迎角12度相当の対地速度で推力を維持します。",
+    ["DictKey_ActionText_58"] = "低圧燃料弁（LT-KRAN）をOFFにする。",
+    ["DictKey_ActionText_32"] = "着陸おめでとうございます。滑走路の端の駐機地点まで移動します。\
+\
+マスターモードセレクターをBERに設定してください。",
+    ["DictKey_UnitName_21"] = "",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_GroupName_33"] = "New Airplane Group",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_ActionText_52"] = "ここでは、AJSのシャットダウン手順をご紹介しますが、これはとても簡単です。",
+    ["DictKey_UnitName_82"] = "New Static Object #004",
+    ["DictKey_GroupName_20"] = "",
+    ["DictKey_ActionText_15"] = "",
+    ["DictKey_UnitName_91"] = "New Static Object #005",
+    ["DictKey_UnitName_34"] = "Pilot #001",
+    ["DictKey_ActionText_48"] = "駐機位置に入りましょう。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_UnitName_70"] = "",
+    ["DictKey_GroupName_90"] = "New Static Object #005",
+    ["DictKey_ActionText_61"] = "よくやりました！! これで着陸とシャットダウンのチュートリアルは終わりです。\
+\
+着陸特性は、燃料や武器の重量が増えると、特に利用可能な超過推力との関係で大きく異なります。\
+ \
+着陸重量を変えて練習することを忘れないでください。",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_ActionText_54"] = "オートスロットル（AFK）レバーをOFFにする。",
+    ["DictKey_UnitName_46"] = "New Static Object #002",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_UnitName_40"] = "New Static Object",
+    ["DictKey_UnitName_50"] = "",
+    ["DictKey_UnitName_37"] = "",
+    ["DictKey_ActionText_18"] = "飛行経路のベクトルが滑走路のタッチダウンエリアになるように機体を飛行させる。\
+地平線下の水平線は、標準的なグライドスロープである2.86度を示しています。\
+\
+対気速度が260km以下になったり、迎え角が12°を超えたりしないようにしてください。",
+    ["DictKey_UnitName_63"] = "Pilot #001",
+    ["DictKey_UnitName_67"] = "Unit #001",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_GroupName_66"] = "New Ship Group",
+    ["DictKey_ActionText_60"] = "主電源スイッチをOFFにする。",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_GroupName_93"] = "New Static Object #007",
+    ["DictKey_GroupName_62"] = "New Airplane Group",
+    ["DictKey_GroupName_27"] = "",
+    ["DictKey_UnitName_79"] = "",
+} -- end of dictionary

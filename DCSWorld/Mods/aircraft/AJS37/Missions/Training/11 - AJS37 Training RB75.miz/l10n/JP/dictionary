@@ -1,0 +1,104 @@
+dictionary = 
+{
+    ["DictKey_UnitName_59"] = "Static EWR 1L13-1",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_ActionText_76"] = "マーベリック・ミサイルは、デフォルトではHUDのドットにケージとボアサイトが設定される。\
+ \
+ミサイルの射程距離は、目標を視覚的に確認してロックすることが難しいため、あまり長くはありません。\
+せいぜい5～7kmの範囲で目標を捕捉することになるだろう。\
+\
+なお、地形衝突警告システムの一環として、照準器が点滅し始める。点滅が始まったら、すぐに引き上げてください。",
+    ["DictKey_ActionText_73"] = "マスターモードセレクターを「ANF」に設定します。これでHUD上にEP13サイトが表示されます。マスターモードのNAVでも、トリガーをunsafeにすることでサイトがオンになります。\
+\
+マスターモードをANFにしたり、トリガーをUNSAFEにすると、フィックスタキシングなどの通常のレーダートリガー操作ができなくなります。",
+    ["DictKey_ActionText_74"] = "次に、環境条件に応じてEP-13サイトの明るさやコントラストを調整する必要があります。",
+    ["DictKey_UnitName_68"] = "Static Tanker Elnya 160-1",
+    ["DictKey_UnitName_56"] = "",
+    ["DictKey_ActionText_70"] = "\
+本日は、空対地光波誘導ミサイルRB-75（AGM-65 Maverick）の使用方法をご紹介します。\
+\
+始める前に、レーダーコントロールスティックとT0、T1、TVボタンが割り当てされていることを確認してください。T ステートとは、レーダーコントロールスティックのトリガーの位置の違いを指します。\
+\
+T0はトリガーが押されていない状態です。これを押すと、ミサイルの姿勢リセットまたはボアサイトが行われます。\
+\
+T1は、トリガーの最初の状態です。これを押すと、シーカーヘッドの固定が解除され、目標への移動が可能になります。\
+\
+TVはトリガーの2番目の状態です。これを押すと目標を十字線に固定しようとします。",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_UnitName_38"] = "Static MBT T-55-1",
+    ["DictKey_UnitName_32"] = "Static Subsidiary structure 1-6-1",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_ActionText_75"] = "",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_ActionText_78"] = "射撃場にある様々なターゲットを攻撃しましょう。\
+\
+好きなだけ練習してください。\
+\
+ トレーニングのために、あなたには無制限の弾薬が与えられています。\
+\
+以上でチュートリアルは終了です。",
+    ["DictKey_GroupName_61"] = "",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_UnitName_29"] = "Static Subsidiary structure 1-5-1",
+    ["DictKey_ActionText_71"] = "このミサイルには、3つのバリエーションがあります。\
+\
+RB-75Aは最初のバリエーションで、弾頭には成形炸薬弾を使用しています。\
+\
+BはAとほぼ同じですが、遠くの目標をより簡単に検出するためにズーム倍率が高くなっています。\
+\
+T（Tungまたはheavyの略）は、硬目標や船舶目標のために大型のHE弾頭を備えています。\
+\
+今日はRB-75Aミサイルを4発装備しています。",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_ActionText_72"] = "まず、ウェポンセレクターでRB-75の位置を選択します。 小さなタブがついているものです。",
+    ["DictKey_UnitName_53"] = "Static MBT T-55-3-1",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_UnitName_91"] = "",
+    ["DictKey_UnitName_26"] = "Static Subsidiary structure 1-3-1",
+    ["DictKey_ActionText_77"] = "目の前には目標物が設置された島があります。\
+目標に近づきスキャンを開始しましょう。\
+\
+ターゲットに向かって機体をゆっくりとダイブさせてください。\
+HUDのドットをターゲットに合わせ、サイトを覗き始めます。\
+T1を押して照準ロックを解除し、レーダーコントロールスティックで十字線を目標に合わせます。\
+\
+十字線が目標の上に来たらTVを押してください。\
+十字線は目標を囲もうとし、コントラストロックされます。\
+\
+トリガーを押すとミサイルが発射されます。 ",
+    ["DictKey_UnitName_20"] = "Static Subsidiary structure 1-2-1",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_UnitName_41"] = "Static MBT T-55-1",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_UnitName_44"] = "Static MBT T-55-3-1",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_sortie_5"] = "",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_UnitName_65"] = "Static Bulk carrier Handy Wind-1",
+    ["DictKey_UnitName_23"] = "Static Subsidiary structure 1-4-1",
+    ["DictKey_UnitName_47"] = "Static SRBM SS-1C Scud-B 9K72 LN 9P117M-1",
+    ["DictKey_UnitName_17"] = "Static Subsidiary structure 1-1",
+    ["DictKey_UnitName_94"] = "Static Big smoke-1",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_descriptionText_1"] = "",
+    ["DictKey_UnitName_88"] = "Static Dry cargo ship Ivanov-1",
+    ["DictKey_UnitName_11"] = "",
+    ["DictKey_UnitName_14"] = "Static Subsidiary structure 1-1",
+    ["DictKey_UnitName_50"] = "Static SRBM SS-1C Scud-B 9K72 LN 9P117M-1",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_UnitName_62"] = "",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_UnitName_35"] = "",
+} -- end of dictionary

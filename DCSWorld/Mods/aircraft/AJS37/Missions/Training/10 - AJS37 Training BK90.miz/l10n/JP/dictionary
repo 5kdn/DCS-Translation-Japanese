@@ -1,0 +1,208 @@
+dictionary = 
+{
+    ["DictKey_GroupName_138"] = "New Vehicle Group #007",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_UnitName_67"] = "Unit #016",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_GroupName_96"] = "New Static Object #009",
+    ["DictKey_GroupName_132"] = "New Static Object #019",
+    ["DictKey_GroupName_65"] = "New Vehicle Group #004",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_UnitName_146"] = "New Static Object #020",
+    ["DictKey_GroupName_21"] = "New Static Object #001",
+    ["DictKey_UnitName_7"] = "G76",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_UnitName_25"] = "New Static Object",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_UnitName_102"] = "Unit #019",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_UnitName_108"] = "Unit #019",
+    ["DictKey_sortie_5"] = "BK-90トレーニング",
+    ["DictKey_UnitName_76"] = "",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_UnitName_136"] = "New Static Object #017",
+    ["DictKey_UnitName_66"] = "Unit #015",
+    ["DictKey_GroupName_129"] = "New Static Object #018",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_168"] = "",
+    ["DictKey_UnitName_122"] = "Unit #024",
+    ["DictKey_GroupName_84"] = "New Static Object #009",
+    ["DictKey_UnitName_130"] = "New Static Object #017",
+    ["DictKey_UnitName_43"] = "Unit #001",
+    ["DictKey_UnitName_61"] = "Unit #012",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_UnitName_104"] = "Unit #021",
+    ["DictKey_GroupName_30"] = "New Static Object #004",
+    ["DictKey_UnitName_49"] = "Unit #005",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_153"] = "",
+    ["DictKey_UnitName_79"] = "",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_GroupName_33"] = "New Static Object #005",
+    ["DictKey_UnitName_57"] = "Unit #011",
+    ["DictKey_UnitName_31"] = "New Static Object #003",
+    ["DictKey_UnitName_111"] = "Unit #022",
+    ["DictKey_ActionText_154"] = "弾は勝手にターゲットに向かってくれるので、機体を自由に操ることができます。\
+\
+同じターゲットで再度攻撃を行うこともできるし、他のターゲットエリアに移動してもよいです。\
+\
+ウェイポイントM2とM3には別の目標があるので、別のタイプの目標で練習を続けたい場合はそちらを利用してください。\
+\
+以上で、このチュートリアルは終了です。",
+    ["DictKey_UnitName_103"] = "Unit #020",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_GroupName_12"] = "New Airplane Group #001",
+    ["DictKey_UnitName_105"] = "Unit #022",
+    ["DictKey_ActionText_152"] = "トリガーを「UNSAFE」にします。(トリガーセーフティーブラケットを開ける)\
+\
+中央ディスプレイの高度警告灯が点灯している場合は、兵装の投下可能範囲外にいる可能性が高いです。\
+\
+投下ポイントに近づいているはずです。\
+\
+時間距離線がマーカーの中に入ると、兵装の射程距離内に入ります。\
+\
+トリガーを長押しして、兵装を投下します。",
+    ["DictKey_UnitName_149"] = "New Static Object #020",
+    ["DictKey_GroupName_18"] = "New Static Object",
+    ["DictKey_GroupName_81"] = "New Static Object #008",
+    ["DictKey_UnitName_46"] = "Unit #003",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_GroupName_36"] = "New Static Object #006",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_UnitName_40"] = "New Static Object #005",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_UnitName_127"] = "New Static Object #014",
+    ["DictKey_GroupName_75"] = "",
+    ["DictKey_UnitName_114"] = "",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_UnitName_143"] = "New Static Object #009",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_GroupName_93"] = "New Static Object #012",
+    ["DictKey_GroupName_27"] = "New Static Object #003",
+    ["DictKey_UnitName_22"] = "New Static Object",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_GroupName_42"] = "New Vehicle Group",
+    ["DictKey_GroupName_135"] = "New Static Object #017",
+    ["DictKey_UnitName_19"] = "",
+    ["DictKey_GroupName_142"] = "New Static Object #020",
+    ["DictKey_ActionText_73"] = "マスターモードを「ANF」に設定します。",
+    ["DictKey_UnitName_56"] = "Unit #010",
+    ["DictKey_UnitName_94"] = "New Static Object #009",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_ActionText_74"] = "投下モードセレクターを「SERIE」または「IMPULSE」に設定します。\
+\
+IMPULSEは1つの兵装を放出する。\
+ \
+SERIEは2つの兵装を一定のパターンで一斉に放つ。\
+\
+各パターンとそれぞれのTAKTコードについては、マニュアルまたは添付のブリーフィング画像を確認してください。(デフォルト:Alt + Bでブリーフィング参照)",
+    ["DictKey_GroupName_106"] = "New Vehicle Group #006",
+    ["DictKey_GroupName_60"] = "New Vehicle Group #003",
+    ["DictKey_GroupName_48"] = "New Vehicle Group #001",
+    ["DictKey_UnitName_45"] = "Unit #002",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_UnitName_58"] = "Unit #008",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_UnitName_97"] = "New Static Object #009",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_descriptionText_1"] = "",
+    ["DictKey_UnitName_88"] = "New Static Object #009",
+    ["DictKey_UnitName_64"] = "Unit #014",
+    ["DictKey_GroupName_126"] = "New Static Object #017",
+    ["DictKey_UnitName_100"] = "Unit #018",
+    ["DictKey_GroupName_167"] = "New Static Object #023",
+    ["DictKey_UnitName_124"] = "New Static Object #014",
+    ["DictKey_UnitName_15"] = "Pilot #003",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_GroupName_6"] = "Player group",
+    ["DictKey_UnitName_85"] = "",
+    ["DictKey_GroupName_78"] = "",
+    ["DictKey_GroupName_24"] = "New Static Object #002",
+    ["DictKey_GroupName_90"] = "New Static Object #011",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_GroupName_145"] = "New Static Object #021",
+    ["DictKey_UnitName_68"] = "Unit #017",
+    ["DictKey_UnitName_110"] = "Unit #021",
+    ["DictKey_UnitName_117"] = "New Static Object #013",
+    ["DictKey_UnitName_13"] = "Pilot #002",
+    ["DictKey_UnitName_63"] = "Unit #013",
+    ["DictKey_descriptionBlueTask_3"] = "ターゲット\
+\
+M1 ヘリコプター補給地点\
+M2 飛行場\
+M3 砲兵配置地点\
+\
+TAKTコード\
+921000：ロングエリア\
+922000: ワイドエリア\
+923000：コンパクトエリア（デフォルト）",
+    ["DictKey_UnitName_55"] = "Unit #009",
+    ["DictKey_UnitName_34"] = "New Static Object #003",
+    ["DictKey_WptName_10"] = "",
+    ["DictKey_UnitName_139"] = "Unit #025",
+    ["DictKey_UnitName_82"] = "",
+    ["DictKey_UnitName_17"] = "Pilot #005",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_GroupName_39"] = "New Static Object #007",
+    ["DictKey_GroupName_87"] = "New Static Object #010",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_UnitName_28"] = "New Static Object #002",
+    ["DictKey_GroupName_123"] = "New Static Object #016",
+    ["DictKey_ActionText_72"] = "まず、兵装セレクターを「ATTACK」にします。",
+    ["DictKey_UnitName_53"] = "Unit #008",
+    ["DictKey_UnitName_109"] = "Unit #020",
+    ["DictKey_UnitName_91"] = "New Static Object #009",
+    ["DictKey_UnitName_47"] = "Unit #004",
+    ["DictKey_ActionText_151"] = "投下可能範囲に収まるよう、高度を50～500m AGLに保つようにしましょう。",
+    ["DictKey_UnitName_52"] = "Unit #007",
+    ["DictKey_GroupName_99"] = "New Vehicle Group #005",
+    ["DictKey_UnitName_107"] = "Unit #023",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_UnitName_120"] = "New Static Object #013",
+    ["DictKey_UnitName_16"] = "Pilot #004",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_GroupName_113"] = "New Static Object #013",
+    ["DictKey_UnitName_37"] = "New Static Object #005",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_GroupName_54"] = "New Vehicle Group #002",
+    ["DictKey_GroupName_119"] = "New Static Object #015",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_UnitName_141"] = "Unit #026",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_GroupName_116"] = "New Static Object #014",
+    ["DictKey_ActionText_71"] = "最初の目標はウェイポイントM1にあります。\
+\
+目標に接近し、武器に十分な運動エネルギーと射程距離を与えるため、マッハ0.85以上の対気速度を維持するようにしてください。\
+\
+高度は50～500m AGL(対地高度)を維持しましょう。\
+\
+システムをセットアップする際には、姿勢や高度を保持する必要があります。",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_UnitName_51"] = "Unit #006",
+    ["DictKey_GroupName_148"] = "New Static Object #022",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_ActionText_70"] = "BK90クラスター弾ディスペンサーのチュートリアルへようこそ。\
+今日は、あらかじめプログラムされたターゲットに対するBK90の使用方法を学びます。\
+\
+BK90は主に、部隊の密集地、橋や橋頭堡、飛行場、補給地点などの固定された場所に対して使用されます。\
+\
+兵装は航空機のナビゲーションシステムから座標を入力し、発射されるとターゲットに向かって滑空し、目標エリアに子弾を散布します。\
+\
+最大射程距離は約8kmで軟目標や軽装甲車両に効果があります。\
+ \
+あなたの機はBK-90ポッドを2個装備しており、対人用と対物用の子弾を組み合わせて使用する。\
+\
+訓練のために、弾薬は無限モードに設定されています。",
+    ["DictKey_UnitName_133"] = "New Static Object #017",
+} -- end of dictionary
