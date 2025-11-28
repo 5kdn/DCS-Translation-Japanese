@@ -1,0 +1,291 @@
+campaign = 
+{
+    directory = "D:\\Trunk\\Mods\\aircrafts\\Flaming Cliffs\\Missions\\EN\\Campaigns\\",
+    startStage = 1,
+    
+    ["name"] = "Su-27 - Fortress Mozdok",
+    ["name_CN"] = "Su-27 - 莫兹多克要塞",
+    ["name_JP"] = "Su-27 - モズドクの要塞(Fortress Mozdok)",
+    ["name_CS"] = "Su-27 - Pevnost Mozdok",
+    ["name_DE"] = "Su-27 - Festung Mozdok",
+    ["name_ES"] = "Su-27 - La fortaleza de Mozdok",
+    ["name_KO"] = "Su-27 - 모즈독 요새 (Fortress Mozdok)",
+    ["name_RU"] = "Су-27 - Крепость Моздок",
+    
+    ["picture"] = "SU27camp_title.png",
+    ["picture_CN"] = "SU27camp_title_cn.png",
+    ["picture_ES"] = "SU27camp_title_es.png",   
+    ["picture_RU"] = "SU27camp_title_ru.png",
+    
+    ["description"] = "With increased tensions in the region since a recurrence of hostilities in Abkhazia, the United States has forward deployed air assets to both Gudauta and Sukhumi air bases to ostensibly act as \"peace keepers\" in the region and avoid a military escalation between Russia and Georgia.  The strength of this deployment indicates otherwise though poses a significant threat to our interests in the region. \
+\
+Georgian forces have once again taken illegal action against the citizens of Abkhazia and the United States, and any other country, has no right to interfere with this internal affair. It is the right of Russia to ensure stability and the protection of ethnic rights in Abkhazia.\
+\
+To have the assets in place to best counter outside interference, the 3rd IAP Su-27 unit based at Krymsk has been deployed to Mozdok in order to reduce reaction time to threats originating from Georgian airspace.\
+\
+Su-24 from the 16AK at Mikhaylovka - Lebyazhe have also been deployed to Mozdok, as well as a detachment of A-50 AWACS from Ivanovo - Severnyy in the Moscow military district. Additional assets may be moved to Mozdok if conditions change.\
+\
+We sincerely hope it will not come to it, but we must be prepared for military action in the near future.",
+    
+    ["description_CN"] = "自从阿布哈兹再次进入敌对状态后，该地区局势日益紧张。美国在古达乌塔和苏呼米机场前沿部署了空中部队，通过表面上扮演\"维和部队\"的角色来防止俄罗斯和格鲁吉亚的军事冲突。美军的部署从另一面来说对我们在此地区是一个严重的威胁。\
+\
+格鲁吉亚的部队再次对阿布哈兹的市民采取了违法行动。同时，美国以及其他国家无权干涉此内部事务。而俄罗斯有权确保该地区的稳定以及保护阿布哈兹的民族权利。\
+\
+为了确保部署就位以对抗境外干涉，在克雷姆斯克的第三IAP的Su-27已被部署在了莫兹多克。这样做可以减少对来自格鲁吉亚空中威胁的反应时间。\
+\
+来自米哈伊洛夫卡 - 利比亚季机场的16AK的Su-24以及来自伊万诺沃 - 北方机场的莫斯科军区的A-50预警机也已被部署在莫兹多克。如果形势有变，可能会有更多的部队被派至莫兹多克。\
+\
+我们真心希望局势不要走到那一步，但我们必须为近期的军事行动做准备。",
+    
+    ["description_JP"] = "アブハジア(Abkhazia)での敵対行為の再発以来、地域の緊張が高まっていた。\
+米国は、グダウタ(Gudauta)とスフミ(Sukhumi)の両空軍基地に航空勢力の前方展開を始めた。 \
+表面上はこの地域の「平和活動」と、「ジョージアとロシアとの軍事衝突をとどめるため」と言い訳をしています。\
+しかし、展開されている兵力を見ると、むしろ、この地域の我らの資産へ向けられた重大な脅威であることを示していました。\
+\
+ジョージア軍は 再度アブハジア(Abkhazia)市民に対して違法行為を働きました。米国やその他の国は、この内政問題に介入する権利は有していません。 アブハジア民族の権利の保護と安定の確保はロシアの権利です。\
+\
+外部からの干渉に最も適したクルイムスク(Krymsk) に駐屯する第３ IAP Su-27部隊をモズドク(Mozdok)に配属しました。\
+ジョージア上空で起こるであろう事態に素早く対応するためです。\
+\
+Mikhaylovka - Lebyazhe の１６AKからもSu-24がモズドク配属されています。\
+当然、Ivanovo - Severnyyのモスクワ方面軍よりA-50分隊も配備してます。\
+状況の変化次第では追加の部隊も派遣される予定です。\
+\
+杞憂で終わることを心から願いますが、不足に事態に備えて軍備を整えておく必要があります。",
+    
+    ["description_CS"] = "Spojené státy opět přesunuly své vzdušné síly na letecké základny Gudauta a Suchumi. Tento krok odůvodňují tím, že po obnovení nepřátelství v Abcházii, opět došlo k eskalaci napětí v regionu a proto je nutné, aby jejich letectvo fungovalo jako \"mírové síly\". Tento krok má podle jejich vyjádření zabránit vojenskému konfliktu mezi Ruskem a Gruzií. Síla tohoto uskupení, ale indikuje něco jiného. Tyto síly totiž představují významnou hrozbu pro naše zájmy v celém regionu.\
+\
+Gruzínské síly se opět dopouštějí protiprávní jednání, proti občanům Abcházie a Spojené státy, a ani jakákoliv jiná země, nemají právo do této vnitřní záležitosti zasahovat. Pouze Rusko má právo zajistit stabilitu a ochranu etnických práv v Abcházii.\
+\
+Abychom mohly účinně bránit naše zájmy v tomto regionu, byla z Krymské základny na leteckou základnu Mozdok přemístěna 3. IAP s letadly Su-27. Cílem tohoto přesunu je snížení reakční doby na hrozby pocházející z gruzínského vzdušného prostoru. \
+\
+Stejně tak byla z Mikhaylovka - Lebyazhe na základnu Mozdok převelena jednotka 16AK s letadly Su-24 a z Ivanovo - Severnyy v moskevském vojenském okrese přilétl A-50 AWACS. Pokud si to situace vyžádá, mohou být na Mozdok přesunuty další jednotky.\
+\
+Upřímně doufáme, že k tomu nedojde, ale musíme být připraveni na to, že v blízké může vypuknout vojenský konflikt.",
+
+    ["description_DE"] = "Aufgrund steigender Spannungen in der Region, welche auf die Rückkehr der Feindseligkeiten in Abchasien zurückzuführen sind, haben die Vereinigten Staaten vorgeschobene Luftstreitkräfte auf die Stützpunkte Gudaute und Sukuhumi verlegen lassen. Diese vermeintlichen \"Friedenstruppen\" sollen eine militärische Eskalation zwischen Russland und Georgien verhindern. Die Stärke dieser Stationierung erweckt jedoch einen anderen Eindruck und stellt eine signifikante Bedrohung unserer Interessen in der Region dar. \
+\
+Die Streitkräfte Georgiens haben erneut rechtswidriges Verhalten gegenüber der Einwohner von Abchasien an den Tag gelegt und weder die USA, noch irgendein anderes Land, hat das Recht sich in diese internen Angelegenheiten einzumischen. Russland hat das Recht in der Region für Stabilität zu sorgen und die Aufgabe von Minderheiten in Abchasien zu schützen.\
+\
+Um Einmischungen von außen vorzubeugen, wurde das in Kyrmsk stationierte, 3. IAP Su-27 Geschwader nach Mozdok verlegt. So kann auf Gefahren aus dem georgischen Luftraum schneller reagiert werden.\
+\
+Außerdem wurden Su-24 des 16AK aus  Mikhaylovka - Lebyazhe und eine Abteilung A-50 AWACS aus Ivanovo - Severny nach Mozdok verlegt. Eine Abordnung weiterer Streitkräfte ist möglich, falls sich die Lage verschlechtert.\
+\
+Wir hoffen aufrichtig, dass es nicht dazu kommt, aber wir müssen auf militärische Schläge in der nahen Zukunft vorbereitet sein.",    
+    
+    ["description"] = "Con la tensión en aumento en la región debido a la recurrencia de las hostilidades en Abjasia, los Estados Unidos han desplegado recursos aéreos en las bases aéreas de Gudauta y Sukhumi para actuar ostensiblemente como \"guardianes de la paz\" en la región y avitar una escalada militar entre Rusia y Georgia. El tamaño de este despliegue, sin embargo, indica lo contrario, representando una amenaza significativa para nuestros intereses en la región.\
+\
+Las fuerza georgianas una vez más han emprendido acciones ilegales contra los ciudadanos de Abjasia, y los Estados Unidos, o cualquier otro país, no tienen derecho a intervenir en este asunto interno. Es Rusia quien tiene el derecho de asegurar la estabilidad y la protección de los derechos étnicos en Abjasia.\
+\
+Con el fin de disponer de los recursos adecuados para contrarrestar cualquier intervención exterior, la 3ª unidad de Su-27 del IAP (regimiento de interceptores de la aviación) basada en Krymsk ha sido desplegada a Mozdok para reducir el tiempo de reacción ante amenazas procedentes del espacio aéreo georgiano.\
+\
+También han sido desplegados a Mozdok los Su-24 del 16AK de Mikhaylovka - Lebyazhe, así como un destacamento de A-50 AWACS de Ivanovo - Severnyy en el distrito militar de Moscú. Podría ser que se movilizasen recursos adicionales a Mozdok si las condiciones cambiasen.\
+\
+Esperamos sinceramente que no se llegue a dar el caso, pero debemos estar preparados para una acción militar en un futuro próximo.",
+
+    ["description_KO"] = "Abkhazia에서 적대 행위가 다시 재발 되어 긴장감이 고조됨에 따라 미국은 Gudauta 와 Sukhumi 공군기지에 항공기를 전진 배치 하기로 하고 이 지역의 \"평화 유지군\"으로써 활동하여 러시아와 그루지아간에 군사적 충돌을 피하기 위함이다. 이 배치를 하지 않게 되면, 이 지역에 대한 우리의 이익에 중대한 위협이 되기 때문이다.\
+\
+그루지아군은 Abkhazia 시민과 미국에 향해 다시한번 불법적 행동을 하였고, 다른 나라들은 이 내부적인 일을 방해할 권리가 없었다. Abkhazia 에서 안정성과 민족 전통적 권리의 보호를 확실하게 하는 것은 러시아의 권리이다.\
+\
+외부 간섭을 반격 하기 위한 가장 좋은 지상 자산들을 가지기 위해서, Krymsk을 기지로 하는 3rd IAP Su-27 편대가 Mozdok에 전개되었다. 이는 그루지아 영공에서 오는 위협체에 대한 반응시간을 줄이기 위함이다.\
+\
+그리고, 또한 Mikhaylovka-Lebyazhe에서 16AK의 Su-24가 Mozdok를 향해 배치됐고 뿐만 아니라 모스크바 군사지역에서 Ivanovo-Severnyy의 A-50 AWACS도 배치되었다. 상황이 바뀌면 추가 자산들이 Mozdok으로 배치될 것이다.\
+\
+우린 진정으로 이것이 일어나지않기를 바라고 있지만, 근미래에 대해 군사적 조치를 준비해야만 한다.",    
+    
+    ["description_RU"] = "С усилением напряженности в регионе после повторения военной агрессии в Абхазии, Соединенные Штаты развернули авиасредства в передовом районе на авиабазах и в Гудауте, и в Сухуми, чтобы якобы выступать \"миротворцами\" в регионе и не допускать эскалации военных действий между Россией и Грузией. Состав этой группировки свидетельствует об обратном, что представляет серьезную опасность для наших интересов в регионе. \
+\
+Грузинские войска опять предприняли незаконные действия в отношении граждан Абхазии, и ни Соединенные Штаты, ни какая-либо другая страна не имеют права вмешиваться в это внутреннее дело. Это право России обеспечивать стабильность и защиту прав национальных меньшинств в Абхазии.\
+\
+Чтобы иметь силы и средства на месте для эффективного противодействия вмешательству извне, часть 3-го истребительного авиационного полка самолетов Су-27, базирующегося в Крымске, была передислоцирована в Моздок, чтобы сократить время реагирования на угрозы из грузинского воздушного пространства. \
+\
+Самолеты Су-24 из 16 авиационного корпуса в Михайловке-Лебяжье тоже были передислоцированы в Моздок, а также самолет ДРЛО А-50 из Иваново-Северный в Московском военном округе. Дополнительные силы могут быть направлены в Моздок, если ситуация изменится. \
+\
+Искренне надеемся, что до этого не дойдет, но мы должны быть готовы к военным действиям в ближайшем будущем.",    
+
+    
+    fullPath = "D:\\Trunk\\Mods\\aircrafts\\Flaming Cliffs\\Missions\\EN\\Campaigns\\Su-27-Fortress Mozdok.cmp",
+    stages = 
+    {
+        [7] = 
+        {
+            name = "Stage 7",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Su-27 Camp 6.miz",
+                    description = "",
+                    fullpath = "D:\\Trunk\\Mods\\aircrafts\\Flaming Cliffs\\Missions\\EN\\Campaigns\\Su-27 Camp 6.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [7]
+        [1] = 
+        {
+            name = "Stage 1",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Su-27 Camp 1.miz",
+                    description = "",
+                    fullpath = "D:\\Trunk\\Mods\\aircrafts\\Flaming Cliffs\\Missions\\EN\\Campaigns\\Su-27 Camp 1.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [1]
+        [2] = 
+        {
+            name = "Stage 2",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Su-27 Camp 2.miz",
+                    description = "",
+                    fullpath = "D:\\Trunk\\Mods\\aircrafts\\Flaming Cliffs\\Missions\\EN\\Campaigns\\Su-27 Camp 2.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [2]
+        [4] = 
+        {
+            name = "Stage 4",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Su-27 Camp 3.miz",
+                    description = "",
+                    fullpath = "D:\\Trunk\\Mods\\aircrafts\\Flaming Cliffs\\Missions\\EN\\Campaigns\\Su-27 Camp 3.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [4]
+        [8] = 
+        {
+            name = "Stage 8",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Su-27 Camp 7.miz",
+                    description = "",
+                    fullpath = "D:\\Trunk\\Mods\\aircrafts\\Flaming Cliffs\\Missions\\EN\\Campaigns\\Su-27 Camp 7.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [8]
+        [9] = 
+        {
+            name = "Stage 9",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Su-27 Camp 8.miz",
+                    description = "",
+                    fullpath = "D:\\Trunk\\Mods\\aircrafts\\Flaming Cliffs\\Missions\\EN\\Campaigns\\Su-27 Camp 8.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [9]
+        [5] = 
+        {
+            name = "Stage 5",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Su-27 Camp 4.miz",
+                    description = "",
+                    fullpath = "D:\\Trunk\\Mods\\aircrafts\\Flaming Cliffs\\Missions\\EN\\Campaigns\\Su-27 Camp 4.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [5]
+        [10] = 
+        {
+            name = "Stage 10",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Su-27 Camp 9.miz",
+                    description = "",
+                    fullpath = "D:\\Trunk\\Mods\\aircrafts\\Flaming Cliffs\\Missions\\EN\\Campaigns\\Su-27 Camp 9.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [10]
+        [3] = 
+        {
+            name = "Stage 3",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Su-27 Camp 2.5.miz",
+                    description = "",
+                    fullpath = "D:\\Trunk\\Mods\\aircrafts\\Flaming Cliffs\\Missions\\EN\\Campaigns\\Su-27 Camp 2.5.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [3]
+        [6] = 
+        {
+            name = "Stage 6",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Su-27 Camp 5.miz",
+                    description = "",
+                    fullpath = "D:\\Trunk\\Mods\\aircrafts\\Flaming Cliffs\\Missions\\EN\\Campaigns\\Su-27 Camp 5.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [6]
+    }, -- end of stages
+} -- end of campaign
