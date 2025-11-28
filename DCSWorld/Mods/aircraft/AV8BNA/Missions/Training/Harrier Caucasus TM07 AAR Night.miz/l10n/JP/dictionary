@@ -1,0 +1,314 @@
+dictionary = 
+{
+    ["DictKey_ActionText_325"] = "上手くできました。燃料量の表示を見て、家に帰るのだけ量があるか確認して下さい。",
+    ["DictKey_ActionText_170"] = "タンカーから約10nmの距離に来たら、給油の意思表示をしてください。どちらかの無線機を正しい周波数に合わせて、Texacoにinboud(到着)したことを伝えてください。",
+    ["DictKey_ActionText_308"] = "タンカーのエシュロンライトの位置（リフォームポジション）に上昇してついてください。左ラダートリムでボールを再度センターに合わせ、NAV HUDをマスターモードを選択し、フラップをAUTOに戻します。",
+    ["DictKey_ActionText_208"] = "左のオブザベーションポイントで安定したら、プラグイン（接続）前チェックリストを実行する必要があります。それは次のステップで構成されています。",
+    ["DictKey_ActionText_162"] = "これで、EHSDの左上隅にタンカーまでの距離と方位が表示されるはずです。ボタン20を押してSCALを変更すると、小さなTACANマークが見えます。",
+    ["DictKey_ActionText_53"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionComment_213"] = "DictKey_ActionComment_213",
+    ["DictKey_ActionText_276"] = "何かあってもバスケットを追いかけてはいけません。スロットルを下げて最初の位置に戻り、タンカーと体勢を合わせて、また最初からやり直しましょう。",
+    ["DictKey_ActionComment_225"] = "DictKey_ActionComment_225",
+    ["DictKey_ActionText_220"] = "プローブライトを任意に設定します。",
+    ["DictKey_ActionText_26"] = "内部タンクは左右2つのフィードグループに分かれています。両方のフィードグループの燃料総量は7,759ポンドです。",
+    ["DictKey_ActionText_57"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionComment_305"] = "DictKey_ActionComment_305",
+    ["DictKey_ActionComment_205"] = "DictKey_ActionComment_205",
+    ["DictKey_ActionText_327"] = "(あくび音)",
+    ["DictKey_ActionText_49"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionComment_67"] = "DictKey_ActionComment_67",
+    ["DictKey_ActionText_150"] = "次に、UFCのTCNボタンを押して、スクラッチパッドに11と入力し、ENTを押します。",
+    ["DictKey_ActionText_30"] = "燃料は4つのブーストポンプと燃料フロープロポーショナーによってエンジンに供給されます。ポンプはチャンバー内に収納されており、ジェット機は最大15秒間のネガティブG飛行を維持することができます。",
+    ["DictKey_ActionText_113"] = "",
+    ["DictKey_ActionText_196"] = "(準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_85"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_GroupName_118"] = "Texaco",
+    ["DictKey_ActionText_77"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_11"] = "",
+    ["DictKey_ActionComment_151"] = "DictKey_ActionComment_151",
+    ["DictKey_ActionText_271"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionComment_261"] = "DictKey_ActionComment_261",
+    ["DictKey_ActionComment_128"] = "DictKey_ActionComment_128",
+    ["DictKey_ActionComment_87"] = "DictKey_ActionComment_87",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_ActionComment_47"] = "DictKey_ActionComment_47",
+    ["DictKey_ActionComment_293"] = "DictKey_ActionComment_293",
+    ["DictKey_ActionComment_289"] = "DictKey_ActionComment_289",
+    ["DictKey_ActionText_303"] = " (次に進んで良ければ、スペースバーを押してください。フォーメーションは解除しないでください。)",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_ActionText_211"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_259"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_sortie_5"] = "AV-8B TM 07: 空中給油（AAR）　フル",
+    ["DictKey_ActionText_228"] = "給油中はAOAが13ユニットを超えないように気をつけてください。",
+    ["DictKey_ActionText_146"] = "まず、プッシュボタン５を押して、ＴＡＣＡＮが選択されていることを確認してください。",
+    ["DictKey_ActionText_142"] = "",
+    ["DictKey_ActionComment_79"] = "DictKey_ActionComment_79",
+    ["DictKey_ActionComment_317"] = "DictKey_ActionComment_317",
+    ["DictKey_ActionText_288"] = "では、実践しましょう。 時間をかけて好きなだけやってみてください もう十分だと思ったら知らせてください。\
+グッドラック！",
+    ["DictKey_ActionText_37"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionComment_241"] = "DictKey_ActionComment_241",
+    ["DictKey_ActionText_260"] = "アプローチを試みる前に、タンカーのREADYライトが点灯していることを確認してください。",
+    ["DictKey_ActionText_126"] = "(準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionComment_194"] = "DictKey_ActionComment_194",
+    ["DictKey_ActionText_183"] = "(タンカーに向かって飛行を続けてください。スペースバーを押すと機内の計器類の説明をします。)",
+    ["DictKey_ActionComment_190"] = "DictKey_ActionComment_190",
+    ["DictKey_ActionText_173"] = "（タンカーの方に旋回してください。\
+\
+10マイルに近づいたらTEXACOに連絡してください。周波数はニーボードかブリーフィングで確認できます。\
+\
+応答があったら、スペースバーを押して続けてください。)",
+    ["DictKey_ActionText_174"] = "15,000フィートを維持して、 タンカーに向かって飛行し タンカーの左翼後方に位置してください。 \
+\
+これはスタティック（静的）ランデブーで、KC-130での基本方式です。\
+\
+最初、observation position（観測位置）に入る前に、タンカーの1000 フィート下のエルロンレフトフォーメーションの延長線上を飛行します。KC-130を045°の方向に見ます（タンカーから方位215°）。\
+\
+KC-130の標準的なAARの流れはボトムアップです。あなたは左下からタンカーに入り、右上に離脱します。\
+\
+途中、空対空給油のために使用する計器の話を簡単にします。",
+    ["DictKey_ActionText_247"] = " (コンタクトが許可されたら、SPACE BARを押してください。十分にタンカーに近づかないと許可が出ないかもしれません。)",
+    ["DictKey_ActionComment_95"] = "DictKey_ActionComment_95",
+    ["DictKey_ActionComment_59"] = "DictKey_ActionComment_59",
+    ["DictKey_ActionText_268"] = "次に、垂直方向の補正にはスティックを、水平方向の補正にはラダーを使用して、小さく滑らかな入力を行います。エルロンを使用すると、水平面と垂直面の両方でプローブがずれてしまうので、エルロンを使用することはお勧めできません。",
+    ["DictKey_ActionText_180"] = "",
+    ["DictKey_ActionText_42"] = "次に、メインインストルメントパネルの右下の 部分に注目してください。これは燃料量表示システムです。これは、4つの表示窓を備えた燃料量インジケーター、 BINGOセットノブ、燃料量セレクタースイッチで構成されています。",
+    ["DictKey_ActionText_236"] = "よければ、AFCを作動させてください。\
+\
+これにより、タンカーへのアプローチ時の作業負担が大幅に軽減され、タンカーへのアプローチが楽になります。\
+\
+これを行うには、水平飛行中であることを確認し、まず自動操縦モードスイッチを前（ENGAGE）に押してから、高度保持（Altitude Hold）スイッチを作動させます。",
+    ["DictKey_ActionComment_313"] = "DictKey_ActionComment_313",
+    ["DictKey_ActionText_94"] = "燃料システムに関しては以上です。\
+離陸して、15,000フィートMSLまで上昇し、ウェイポイント1に向かってください。コースが安定して、指定の高度に達したら、次のパートに移ります。",
+    ["DictKey_ActionText_157"] = "(準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_323"] = "とてもに良いです。これを維持してください ",
+    ["DictKey_ActionText_45"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_255"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionComment_186"] = "DictKey_ActionComment_186",
+    ["DictKey_ActionComment_171"] = "DictKey_ActionComment_171",
+    ["DictKey_ActionText_161"] = "(準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_115"] = "よし、次はタンカーを探す話をしよう",
+    ["DictKey_ActionComment_23"] = "DictKey_ActionComment_23",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_70"] = "WINGポジションでは、両グループの翼内タンク内の燃料残量が表示されます。",
+    ["DictKey_ActionComment_107"] = "DictKey_ActionComment_107",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_ActionText_154"] = "オプションディスプレイユニットのODUボタン4を押して、属性をXからYに変更します。",
+    ["DictKey_ActionText_275"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_189"] = "このライトの両側に、LEFTとRIGHTの満杯アドバイザリーライトがあります。\
+\
+これらのライトは、左右のフィードグループが満タンになったときに表示されます。外部燃料タンク無し、または外部燃料タンクが2つしか 装着されていない場合は、対応するフィードグループが満タン になると点滅します。外部タンクが4つある場合は、内側の外部タンクが満タンになるとライトが常灯し、外側の外部タンクも満タンになると点滅します。",
+    ["DictKey_ActionComment_257"] = "DictKey_ActionComment_257",
+    ["DictKey_ActionComment_167"] = "DictKey_ActionComment_167",
+    ["DictKey_ActionText_50"] = "燃料量セレクタースイッチの位置は 7ヶ所あります。",
+    ["DictKey_ActionText_62"] = "TOTに切り替えると、それぞれのフィードグループに残っている使用可能な燃料が表示されます。",
+    ["DictKey_UnitName_7"] = "PLAYER",
+    ["DictKey_ActionText_69"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionComment_51"] = "DictKey_ActionComment_51",
+    ["DictKey_ActionComment_237"] = "DictKey_ActionComment_237",
+    ["DictKey_ActionText_46"] = "まず、表示ウインドウから説明します。TOT（Total：総量)と表示されたウィンドウは、燃料量セレクタスイッチの位置に応じて、両方のフィードグループで使用可能な燃料の合計量を表示します。そして、L(左）とR(右）と表示されたウィンドウは、指定されたスイッチ位置の左または右のフィードグループで使用可能な燃料を表示します。 ",
+    ["DictKey_ActionComment_19"] = "DictKey_ActionComment_19",
+    ["DictKey_ActionText_15"] = "空中給油（AAR）はすべての海軍機にとって非常に重要ですが、他の攻撃機に比べて燃料容量が限られているだけでなく、豊富な武器を持って短い滑走路から離陸するために燃料を満タンできない場合もあるハリアーにとっては、特に重要です。そのため、標準的な運用手順では、タンカーとランデブーするのに十分な燃料を積んだ状態で離陸し、その後、燃料を補給して任務を遂行することになります。",
+    ["DictKey_ActionComment_27"] = "DictKey_ActionComment_27",
+    ["DictKey_ActionComment_155"] = "DictKey_ActionComment_155",
+    ["DictKey_ActionText_321"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "天候の良い夜間のミッションです。\
+\
+ショートバージョンで、AARのみをカバーしています。\
+\
+追加のニーボード7ページを掲載しています。\
+\
+タンカーFREQ：144 AM\
+タンカー速度：245 IAS\
+タンカー高度：16,000フィートMSL",
+    ["DictKey_ActionText_284"] = "接続後は、速度と位置に注意して、タンカーとの隊列を密着させて給油が完了するのを待つだけです。完了するとREADYライトの左右にある2つフル アドバイザリーライトが点滅を始め、クルーマスターから給油完了の知らせがあります。 ",
+    ["DictKey_ActionText_114"] = "(両方のスイッチがNORM位置に戻り、次ぐに進む準備ができたらスペースバーを押してください。)",
+    ["DictKey_ActionText_329"] = "(あくび音)",
+    ["DictKey_ActionText_98"] = ".",
+    ["DictKey_ActionText_166"] = "タンカーは16,000feel MSLを245ノットで、50nmレグの左旋回レーストラックパターンを飛行しています。",
+    ["DictKey_ActionText_21"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_UnitName_119"] = "Texaco",
+    ["DictKey_ActionText_54"] = "BIT は、システムのビルトインテストを開始するバネ式のポジションです。このテストはコールドスタートのチュートリアルで実施したので、今は実行する必要はありません。",
+    ["DictKey_ActionComment_16"] = "DictKey_ActionComment_16",
+    ["DictKey_ActionComment_35"] = "DictKey_ActionComment_35",
+    ["DictKey_ActionText_29"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionComment_39"] = "DictKey_ActionComment_39",
+    ["DictKey_ActionText_192"] = "(準備ができたらスペースバーを押してください)",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_ActionComment_297"] = "DictKey_ActionComment_297",
+    ["DictKey_ActionText_74"] = "INBDは、それぞれの外部燃料タンクの内側の燃料残量を表示します。",
+    ["DictKey_ActionText_200"] = "OK,ではプローブを収納して、目視でタンカーに接近合流してください。\
+\
+タンカーのエシュロレフトフォーメーション位置に付いてください。KC-130の左翼の少し左下後方、こここがオブザベーションポイント（観測位置）と呼ばれる場所です。",
+    ["DictKey_ActionText_263"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_131"] = "特に大きな戦場では、各タンカーごとに複数のトラックが表示されることがあります。このような場合、各トラックにはそれぞれのトラック名が記載されており、給油の際には正しいトラックに誘導されます。",
+    ["DictKey_ActionText_252"] = "燃料補給のコツを教えます。最初に、それを行うためには、リラックスして、頭を冷静に保ってください。冷静ではないと判断したら、プレコンタクト位置に戻り、深呼吸をし、冷静さを取り戻してからすべてをやり直してください。",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_ActionComment_159"] = "DictKey_ActionComment_159",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionComment_285"] = "DictKey_ActionComment_285",
+    ["DictKey_ActionText_66"] = "次の位置のINTでは、それぞれのフィードグループの胴体内部タンクに残っている燃料を表示します。",
+    ["DictKey_ActionText_207"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_165"] = "(準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_243"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionComment_91"] = "DictKey_ActionComment_91",
+    ["DictKey_ActionComment_132"] = "DictKey_ActionComment_132",
+    ["DictKey_ActionText_300"] = "離脱（disengage）するには、パワーを弱めて、接続時と同じように相対的な位置合わせを行い、3～5 ノットの離脱速度で後ろに下がります。ホースが完全に伸びると、プローブはドログから外れます。",
+    ["DictKey_ActionText_197"] = "タンカーに近づいてください。近づくと訓練が続きます。",
+    ["DictKey_ActionText_299"] = "(続けるときはスペースバーを押してください。まだフォーメーションを解除しないでください。)",
+    ["DictKey_ActionComment_209"] = "DictKey_ActionComment_209",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_ActionText_240"] = "ヘルメットのバイザーをおろしてください。（デフォルトキー：LShift + N）\
+\
+これでプラグイン前チェックリストは終了です。もしハリアーの編隊の一員として飛行している場合は、自分の補給順番が来るまで、プローブを伸ばしてCRUISEフラップ状態で待機してください。",
+    ["DictKey_ActionText_78"] = "そして最後にOUTBDの位置は外部燃料タンクの外側の燃料残量を示しています。",
+    ["DictKey_ActionText_215"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_73"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionComment_12"] = "DictKey_ActionComment_12",
+    ["DictKey_ActionText_169"] = "(準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_65"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionComment_340"] = "DictKey_ActionComment_340",
+    ["DictKey_ActionText_239"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_203"] = "オブザベーションポイントでタンカーとフォーメーションを組んだら、SPACE BARを押してください。)",
+    ["DictKey_ActionComment_181"] = "",
+    ["DictKey_ActionComment_233"] = "DictKey_ActionComment_233",
+    ["DictKey_ActionText_105"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_90"] = "また、このノブを使って、燃料廃棄時に残す燃料量を決めることにも使えます。燃料投棄時に、ここに設定した燃料さん量になると、Fuel Dump スイッチが Normal (NORM) ポジションに戻り、燃料の投棄が停止します。例えば、着陸に3,000ポンドの燃料が必要だと判断した場合、BINGOノブを3,000に設定し、両方のスイッチをDUMPポジションに設定します。燃料の総量が3,000ポンドに達すると自動的に停止します。これはすぐ後で実践します。",
+    ["DictKey_ActionComment_249"] = "DictKey_ActionComment_249",
+    ["DictKey_ActionComment_175"] = "DictKey_ActionComment_175",
+    ["DictKey_ActionText_251"] = "(機体のトリムを取り、準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionComment_277"] = "DictKey_ActionComment_277",
+    ["DictKey_ActionComment_136"] = "DictKey_ActionComment_136",
+    ["DictKey_ActionText_158"] = "次に、ODUボタン3を押して空対空（air to air）モードを選択し、ボタン1を押してT/R（送受信）を選択してください。",
+    ["DictKey_ActionText_58"] = "FEED位置では、各センターフィードタンク内の燃料残量が表示されます。",
+    ["DictKey_ActionComment_103"] = "DictKey_ActionComment_103",
+    ["DictKey_ActionComment_116"] = "DictKey_ActionComment_116",
+    ["DictKey_ActionText_61"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_184"] = "(準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_145"] = "(準備ができたらSPACE BARを押してください。\
+\
+左MFCDがESHDページであることを確認してください)",
+    ["DictKey_ActionText_280"] = "アプローチを開始するときには、接近速度は3～5ノット程度にしておきます。プローブがバスケットに入ったら、プローブを数フィート前方に押してください。実際、ホースが曲がるまで燃料は流れません。タンカーの緑色の燃料転送ランプが点灯し、キャノピーのアーチのREADYランプが消えれば、燃料を取得している状態です。",
+    ["DictKey_ActionText_110"] = "では、左右の燃料ダンプスイッチを前（DUMP）の位置にして、燃料量をモニターします。両方のフィードグループの燃料量が下がり始めるのがわかります。4,500 に達すると BINGOコーションライトが点灯し、「BINGO, BINGO」 という音声メッセージが聞こえます。この時点で、両方のスイッチは後ろ（NORM）の位置に戻ります。",
+    ["DictKey_ActionText_33"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionComment_229"] = "DictKey_ActionComment_229",
+    ["DictKey_ActionText_212"] = "マスターアームスイッチがOFF位置になっていることを確認してください。",
+    ["DictKey_ActionText_224"] = "対気速度が表示された190〜300ノットの範囲内にあることを確認してください。今、あなたは対気速度245ノット前後で飛行しているはずです。",
+    ["DictKey_ActionText_18"] = "この出撃では、ハリアーの燃料システムの概要、燃料量表示器の機能、ビンゴセットノブとコーションライトについて説明します。我々は主翼の燃料ダンプを実行し、その後、空中給油の手順に移ります。",
+    ["DictKey_ActionText_185"] = "プローブを伸ばすと、フロントガラスのアーチにREADYライトが点灯します。プローブがOUTの位置にあり、燃料が移送されていない状態で、点灯したままになります。",
+    ["DictKey_ActionText_130"] = "(準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_89"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionComment_143"] = "",
+    ["DictKey_ActionText_267"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionComment_31"] = "DictKey_ActionComment_31",
+    ["DictKey_ActionText_291"] = "(タンクが満タンになったり、十分に練習ができたと判断したら、F-10のオプションメニューを使ってインストラクターに伝えてください。\
+\
+スペースバーを押すとこのメッセージが削除されます。頑張ってください！)",
+    ["DictKey_ActionText_256"] = "給油プローブとバスケットを水平、垂直に合わせてください。\
+水平線（横）の合わせ方は、KC-130の翼のナセルと外側エンジンの間あたりにHUDの方位キャレットを合わせる感じになります。",
+    ["DictKey_descriptionText_1"] = "このミッションでは、ハリアーでの夜間の空中給油の練習をします。\
+\
+これはミッションの空中スタートミッションです。タンカーの後ろ4マイルの高度15,000フィートからスタートします。 \
+\
+タンカーに向かって飛行し、位置に着き、必要なチェックを行い、効果的な給油方法を学びます。\
+\
+その後、コブレチに戻り着陸します。\
+\
+注意：プレコンタクト（pre-contact）の位置での適切なトリミングを行ってください。",
+    ["DictKey_ActionComment_75"] = "DictKey_ActionComment_75",
+    ["DictKey_ActionText_231"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionComment_140"] = "DictKey_ActionComment_140",
+    ["DictKey_ActionText_22"] = "離陸する前に、基本的なことをおさらいしておきましょう。ハリアーの燃料システムは、胴体に5つ、主翼に2つの計7つの内部タンクで構成されています。また、この機体には最大4つの翼下タンクを搭載することができます。",
+    ["DictKey_ActionText_316"] = ".",
+    ["DictKey_ActionComment_301"] = "DictKey_ActionComment_301",
+    ["DictKey_ActionComment_43"] = "DictKey_ActionComment_43",
+    ["DictKey_ActionText_109"] = "（準備ができたらSPACE BARを押してください。\
+\
+空中給油の練習にもっと時間が必要だと感じた場合は、ノブの値を高く設定することもできます。)",
+    ["DictKey_ActionText_106"] = "最初に、BINGOセットノブを使って、残したい燃料の量を設定します。\
+\
+4,500ポンドに設定しましょう。これはタンカーを見つけるのに十分な量ですし、空中給油の練習にも十分な時間を与えてくれます。",
+    ["DictKey_ActionComment_221"] = "DictKey_ActionComment_221",
+    ["DictKey_ActionComment_273"] = "DictKey_ActionComment_273",
+    ["DictKey_ActionText_204"] = "「空中給油練習」のメインパートに移ります。\
+\
+KC-130は海兵隊の作戦を支援するタンカーです。この機体の制限は次の通りです：速度は210～250ノット、高度は1,500フィートAGL以上、20,000フィートMSL以下でなければなりません。\
+\
+タンカーのコールサイン、周波数、速度、高度はニーボードに記載されています。",
+    ["DictKey_ActionComment_217"] = "DictKey_ActionComment_217",
+    ["DictKey_ActionText_193"] = "プローブを見ると、給油プローブライトが点灯していることに気がつくでしょう。これは、夜間にプローブとバスケット（またはドログ）を照らすためのもので、外部ライト（EXT LT）マスタースイッチがNORM（ノーマル）位置にある場合、自動的に点灯します。",
+    ["DictKey_ActionText_82"] = "セレクターを使用する際には、機体の状態を考慮する必要があります。例えば、外部タンクを装着している場合は、TOTポジションを使用すると最も正確な数値を得ることができます。そうでない場合は、INTなどに切り替えた方が良いでしょう。",
+    ["DictKey_ActionText_139"] = "もしくはTACANで距離と方位を取得します。では、さっそく設定してみましょう。",
+    ["DictKey_ActionText_319"] = "いいですよ。よくやりました。ドローグに集中してください！",
+    ["DictKey_ActionText_248"] = "では、後方乱流を避けるために上昇して後ろに付いてください。 ドローグの後ろ10～15フィートの位置を確保してください \
+\
+ここでエレベーター、エルロン、ラダーのトリムを取ってください。\
+\
+ プローブを伸ばすと機体左側の抗力が大幅に増加します。右ラダーでサイドスリップボールを中央に合わせるようトリムを取るのを助けるために、V/STOL HUDマスターモードに入るとよいでしょう。",
+    ["DictKey_ActionComment_55"] = "DictKey_ActionComment_55",
+    ["DictKey_ActionText_311"] = " (リフォームポジションに移り、必要な操作をすべて行ったらスペースバーを押してください)",
+    ["DictKey_ActionText_134"] = "(準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionComment_111"] = "DictKey_ActionComment_111",
+    ["DictKey_ActionText_25"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_307"] = " (次に進んで良ければ、スペースバーを押してください。フォーメーションは解除しないでください。)",
+    ["DictKey_ActionText_127"] = "このようなサポートが受けられるミッションのほとんどで、タンカーはブリーフィングに記載されている所定のコースを飛行します。",
+    ["DictKey_ActionText_219"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionComment_163"] = "DictKey_ActionComment_163",
+    ["DictKey_ActionText_41"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_86"] = "では、BINGOセットノブに移りましょう。これには主に2つの機能があります。一番わかりやすいのは、BINGO の燃料レベルを決定することです。燃料の量が設定値を下回ると、左側のメインインストルメントパネルにある BINGO のコーションが点灯します。 ",
+    ["DictKey_ActionText_287"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionComment_147"] = "DictKey_ActionComment_147",
+    ["DictKey_ActionText_283"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_38"] = "似たような物に燃料ダンプ（Dump)）スイッチがあります。これは必要に応じて外部と翼内タンクを空にするためのものです。これらのシステムの機能を実演を、タンカーに向かう途中行います。",
+    ["DictKey_ActionText_232"] = "フラップをCRUSEモードに設定してくださいドローグバスケットにコンタクトする前にAUTOフラップを使用することは禁止されています。",
+    ["DictKey_ActionComment_71"] = "DictKey_ActionComment_71",
+    ["DictKey_ActionComment_245"] = "DictKey_ActionComment_245",
+    ["DictKey_ActionText_244"] = "では、チェックリストが終わったら、無線機を使ってプレコンタクトを要求（request pre-contact）してください。十分近ければ、タンカーから 「Clear contact」のコールが聞こえ、左のナセルからドローグが伸びてきます。",
+    ["DictKey_WptName_10"] = "",
+    ["DictKey_ActionComment_178"] = "DictKey_ActionComment_178",
+    ["DictKey_ActionText_342"] = "お疲れ様でした！コブレチに帰ってきました。これで訓練は終了です",
+    ["DictKey_ActionText_135"] = "ナイトアタックジェットでは、タンカーの位置を特定するのに2つの基本的な方法があります。一つは、60設定できるウェイポイントのいくつかをそのトラックと共有します。この場合は、そこに飛べば、タンカーを視覚的に見つける事ができるでしょう。",
+    ["DictKey_ActionText_102"] = "タンカーの位置を確認する前に、まず燃料を捨てて、燃料ダンプスイッチの使い方を覚えましょう。",
+    ["DictKey_ActionComment_253"] = "DictKey_ActionComment_253",
+    ["DictKey_ActionComment_99"] = "DictKey_ActionComment_99",
+    ["DictKey_ActionText_223"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_97"] = "(スペースバーを押して上記のメッセージを消去してください。15 000フィートMSLで安定飛行できたら、知らせてください。次の訓練に移ります。)",
+    ["DictKey_ActionText_235"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_339"] = "垂直線（縦）の合わせ方は、左ミラーの上とホースを合わせてみてください。",
+    ["DictKey_ActionText_101"] = "(トレーニングを続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_304"] = "接続を外したら、空中給油プローブスイッチをINにします。プローブが完全に格納されると、READY および フル アドバイザリーライトが消灯します。",
+    ["DictKey_ActionText_227"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_188"] = "(準備ができたらスペースバーを押してください)",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_ActionText_81"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionComment_63"] = "DictKey_ActionComment_63",
+    ["DictKey_ActionText_279"] = "(続ける準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_13"] = "この訓練へようこそ。ハリアーの燃料システムについて説明し、空空中給油の手順を説明します。その後、タンカーとランデブーし、空中給油を実際に練習します。",
+    ["DictKey_ActionComment_198"] = "DictKey_ActionComment_198",
+    ["DictKey_ActionText_264"] = "これでアプローチの準備は完了です。始める前にいくつかの注意点をあげます。 まず第一に、ドローグではなくタンカーとの位置関係で飛行することを忘れないでください。実際には、バスケットを全く見ないことをお勧めします。特にバスケットが機体の横にあるときは、集中力が切れてフォーメーションから外れてしまいます。タンカーから目を離さないようにして、エンジンから左翼の上の、KC-130のプロペラのブレードエンドに目を向けてください。",
+    ["DictKey_ActionComment_83"] = "DictKey_ActionComment_83",
+    ["DictKey_ActionText_331"] = "(いびき)",
+    ["DictKey_ActionText_216"] = "A/R スイッチを OUT ポジションに動かします。プローブが伸びてロックされ、キャノピーのアーチのREADYライトが点灯していることを確認します。",
+    ["DictKey_GroupName_6"] = "PLAYER",
+    ["DictKey_ActionText_149"] = "(準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_153"] = "(入力が完了したらSPACE BARを押してください。TCNボタンを2回押さないと入力できない場合があります。)",
+    ["DictKey_ActionText_93"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionRadioText_295"] = "給油が完了したか、練習を終える場合は報告してください。",
+    ["DictKey_ActionText_34"] = "プロポーショナー（propotioner）は、左右のフィードグループからエンジンに流れる燃料の量を均等にします。左コンソールの燃料プロポーショナー（FUEL PROP）スイッチは、プロポーショナーの働きを制御し、機体の燃料バランスを維持するのに役立ちますが、すでにある不均衡を修正することはできません。不均衡を修正するには、プロポーショナーを無効にし、燃料量が最も少ないタンクグループのブーストポンプを、両方のグループが均等になるまで停止させる必要があります。均等になったらプロポーショナーとブースト ポンプを再び作動させます。",
+    ["DictKey_ActionComment_201"] = "DictKey_ActionComment_201",
+    ["DictKey_ActionComment_281"] = "DictKey_ActionComment_281",
+    ["DictKey_ActionText_177"] = "リトラクタブルプローブは、左エアインレット（給気口）の上にあります。空中給油プローブスイッチを押すことで延長することができます。\
+\
+スイッチには3 つのポジションがあります。IN - プローブを収納し、タンクを加圧します。OUT - タンクの加圧を止めて、プローブを伸ばします。PRESS - プローブを伸ばしたままで、燃料タンクを加圧します。これは給油はできません。では、スイッチを中OUT（中央）にしてくだし。",
+    ["DictKey_ActionText_272"] = "3つ目は、スロットルを入力しても機体が反応するまでに時間がかかることを覚えておいてください。速度を上げ下げするときには、このことを念頭に置いてください。",
+    ["DictKey_ActionComment_269"] = "DictKey_ActionComment_269",
+    ["DictKey_ActionText_312"] = "おめでとうございます！これで終了です。タンカーの高度ブロック（17,000フィートMSL）の上空を通って出発し、周波数を切り替えて、コブレティにRTBしてください。",
+    ["DictKey_ActionComment_265"] = "DictKey_ActionComment_265",
+    ["DictKey_ActionText_292"] = ".",
+    ["DictKey_ActionText_315"] = "(スペースバーを押すと、このメッセージとRTBが削除されます。）",
+    ["DictKey_ActionText_138"] = "(準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_296"] = "給油が完了したら、タンカーに満足したことを報告してください。離脱（disengage）許可が出ますので、右側のリフォームエリア（Reform Area ）に移動してください。",
+    ["DictKey_ActionComment_309"] = "DictKey_ActionComment_309",
+} -- end of dictionary

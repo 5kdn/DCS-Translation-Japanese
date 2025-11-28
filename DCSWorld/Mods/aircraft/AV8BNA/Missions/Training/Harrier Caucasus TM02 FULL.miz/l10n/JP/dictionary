@@ -1,0 +1,500 @@
+dictionary = 
+{
+    ["DictKey_ActionText_112"] = "エンジンがかかりましたので、他のライトテストを行います。コンパスライト/ライトテストスイッチをLTS TEST位置に約5秒間入れたままにして、LIDSコーションライトが点灯するのを待ちます。\
+\
+この遅れは、LIDSフェンスの電気回路をチェックしているためです。\
+\
+コンパスライト/ライトテストスイッチを離すと、残りのすべてのライトは、元の状態に戻り、機体の現在の状態を示します。",
+    ["DictKey_ActionText_336"] = "アクティブ滑走路に近づいたら、スムーズにブレーキをかけ、滑走路端前で停止してください。",
+    ["DictKey_UnitName_67"] = "Z_Soldier A",
+    ["DictKey_ActionText_237"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_186"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_423"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_36"] = "前回のミッションで学んだように、航空機はプレーンキャプテンによって事前に設定され、パイロットによってチェックされなければなりません。これらのチェックの際には、少なくとも以下の手順に注意してください。",
+    ["DictKey_ActionText_223"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_234"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_458"] = "",
+    ["DictKey_ActionText_155"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_198"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_101"] = "エンジンスタートスイッチを前方のENG ST位置にしてください。\
+GTSがエンジンを始動させる前にAPUが10秒間減速するのを待ちます。",
+    ["DictKey_ActionText_160"] = "次にTRUとブーストポンプのチェックを行います。左コンソールで左右のPUMPスイッチをOFF位置にして、警告音を聞きながら、コーション/アドバーサリーパネルのL PUMPとR PUMPのライトが点灯するか確認してください。",
+    ["DictKey_WptName_31"] = "",
+    ["DictKey_ActionText_368"] = "DECS スイッチと 燃料シャットオフ（Fuel SHUTOFF） ハンドルを ONにします。",
+    ["DictKey_ActionText_338"] = "(Press SPACE BAR when ready to proceed. Use normal radio menu to contact Tower).  ",
+    ["DictKey_ActionText_271"] = "フォーフィンガーチェックは、空中給油プローブの機能をテストします。\
+\
+プレーンキャプテンにフォーフィンガーチェックの信号を伝え、A/RスイッチをOUT位置に動かして空気給油プローブを伸ばします。",
+    ["DictKey_ActionText_117"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_ActionText_211"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_415"] = "",
+    ["DictKey_ActionText_304"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_GroupName_6"] = "Player",
+    ["DictKey_ActionText_330"] = "ブレーキを解除し、15ノット程度の速度までローリングを開始します。誘導路ラインに沿って、ブレーキにかけながら旋回しないように注意しながら左折します。\
+\
+誘導路のでたらノズルを０°にしてください。 アイドルパワーでも対地速度が上がりすぎてしまうことがあります。\
+\
+スムーズで周期的なブレーキ圧でこれに対処します。ブレーキをかけたくなる衝動を避け、必要に応じてノズルを30～40°にして速度をコントロールしてください。",
+    ["DictKey_ActionText_84"] = "APUのジェネレータースイッチをONにします。",
+    ["DictKey_ActionText_183"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_ActionText_180"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_289"] = "UFC の下にある HUD コントロールパネルで HUD を調節します。\
+\
+とりあえずHUDモードをDAYに設定し、VIDEO BRTとCONTでHUDの映像の明るさとコントラストを調整し、シートを上げ下げして、VSTOL HUD表示モードで投影ガラスの上部に方位テープの数字がか応じてカットされるぐらいまでに合わせます。(2020.4時点でシートは動かないかも）",
+    ["DictKey_ActionText_456"] = "パーキングブレーキをセットし、ANTISKID スイッチを ON 位置にして NWS を解除します。SKID 警告灯が消灯していることを確認してください。",
+    ["DictKey_ActionText_126"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_323"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_45"] = "Next, make sure that the landing gear indicator on the left console shows four gear down and locked.",
+    ["DictKey_ActionText_255"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_347"] = "First, place the Battery switch to BATT position. Look for a voltage of at least 24.5 volts in the battery voltage indicator in order to start either the APU or the engine.",
+    ["DictKey_ActionText_87"] = "",
+    ["DictKey_ActionText_32"] = "In this mission we will start the engine, conduct the post-start/before taxi checks, and finish by taxiing to the designated warm-up area.\
+\
+Before we start, please go through the after entering the pit checklist (same as in mission 1, you will find it in kneeboard for reference) and prepare your jet.",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_44"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_62"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_417"] = "では、H2OスイッチをLDG（着陸）位置にして、TO位置の時と同じ表示であるかを観察します。",
+    ["DictKey_ActionText_410"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_ActionText_329"] = "(Press SPACE BAR when ready to proceed. Use normal radio menu to contact Tower).  ",
+    ["DictKey_ActionText_377"] = "Bingo バグを4000ポンド以上に設定し、セレクターノブをBITにしてから、燃料パネルBITを実行してください。",
+    ["DictKey_ActionText_47"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_123"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_192"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_218"] = "スタビレータートリムを前後に最大可動域で動かします。EDPまたはAMPCD ENGページで適切な応答であるかを確認します。\
+\
+スタビライザーをノーズダウン4°に設定してください。これによりフロントRCSダクトが閉じた状態に保たれるので、タクシ ング中にFOD(foreign object debris:ゴミなどの異物)がエンジン吸気口に吹き込まれることはありません。",
+    ["DictKey_ActionText_326"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_279"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_433"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_206"] = "ブレーキを踏んだままスロットルを高圧コンプレッサ（COR COMP）補正された55％PRMまで前進させてからアイドルに戻してください。\
+\
+プッシュボタン18でMENUボタンを押し、BITボタン（P/B 6）を押し、IGVシステムにエラーコードがないことを確認してください。",
+    ["DictKey_GroupName_27"] = "Plane Captain",
+    ["DictKey_UnitName_22"] = "Huey Landing",
+    ["DictKey_ActionText_333"] = "As you taxi to the active runway, test the Rudder Pedal Shaker (RPS) system by placing the RPS / YAW switch to TEST and make short left and right turns in high gain NWS. \
+\
+The appropriate shaker will activate when the sideslip ball on the HUD touches the indicator limits. Return the RPS / YAW switch to the ON position.",
+    ["DictKey_ActionText_451"] = "Next, select APU ON or OFF as desired. Since it's daylight and the skies are clear with good visibility, we will leave it off.",
+    ["DictKey_ActionText_201"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_285"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_92"] = "Place the DECS enable switch in the ON position. ",
+    ["DictKey_ActionText_363"] = "ブレーキ圧力とブレーキアキュムレータゲージをチェックしてください。アキュムレータは最低でも1000PSI、圧力は最低でも1500PSIでなければなりません。",
+    ["DictKey_ActionText_95"] = "EFC スイッチを POS 1 にします。\
+EFC コーションライトが警告音と共に一瞬点滅します。\
+\
+これは、エンジン始動前にDECU（ Digital Electronic Control Unit：デジタル電子制御ユニット ）がきちんと機能していることを確認するためです。\
+\
+スイッチをPOS 2に戻します。",
+    ["DictKey_ActionText_310"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_270"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_450"] = "",
+    ["DictKey_ActionText_403"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_404"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_127"] = "エンジンを監視するには、プッシュボタン18を2回押し、プッシュボタン11のENGを選択します。\
+\
+インレットガイドベーン（IGV）の角度がアイドルRPMで31°～39°の間にあることを確認し、プッシュボタン10の JPT（ジェットパイプ温度）ボタンを押してsortie JPT（出撃jpt)を現在の表示温度にリセットします。",
+    ["DictKey_ActionText_136"] = "では、プッシュボタン押しボタン１８を押して機体の位置を確認し、次に押しボタン２を２回押して、ＥＨＳＤを経由してＤＡＴＡページに入ってください。",
+    ["DictKey_ActionText_141"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_130"] = "エンジンが始動したら、キャノピーを開けてもかまません。",
+    ["DictKey_ActionText_89"] = "予備整流変圧器（STBY TRU：Standby Transformer Rectifier Unit ）のランプが一瞬点灯し、APUのランプが点灯したままになるのを確認してください。",
+    ["DictKey_ActionText_431"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_375"] = "エンジン始動前にDECSスイッチをOFFにしてDECS（Digital Engine Control System：デジタルエンジン制御システム）のパワーチェックを行います。",
+    ["DictKey_ActionText_256"] = "スリーフィンガーチェック」は、安定性増強・姿勢保持システム（SAAHS）をテストします。\
+\
+プレーンキャプテンに「スリーフィンガーチェック」の合図を伝え、右MPCDのBIT 1ページからSAAHSのBITを開始します。\
+\
+SAAHSボタン（OSB-12）を押して、SAAHS文字の横にTESTと表示され、DEP RES、PITCH、ROLL、およびYAWのコーション/アドバイザリーライトが点灯するのを確認してください。\
+\
+BITが成功した場合は、すべてのライトが消灯します。",
+    ["DictKey_ActionText_318"] = "ANTISKID スイッチを NWS の位置に動かしてブレーキとノーズホイールステアリング （NWS）をテストし、地上からタクシークリアランスを得ます。",
+    ["DictKey_descriptionText_1"] = "このミッションでは、あなたはコールド＆ダーク状態のジェットを始動させます。あなたは、現実でも行われるほぼすべてのテストを通して、さまざまな航空機システムの機能を確認し、飛行のためにハリアーを準備する方法を学びます。\
+\
+これはコールドスタートのミッションで、コブレティのランプからスタートします。\
+\
+注意：インストラクターより先に進もうとしないでください。押すように言われたボタンは、ハイライトされてから押すようにしてください。\
+\
+注意：ミッション前にスロットルをアイドリング位置にしておき、エンジンをかけるまではスロットルに触れないようにしてください。エンジンを切った状態でスロットルを動かすと、エンジンが始動しなくなることがあります。",
+    ["DictKey_ActionText_316"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_171"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_106"] = "では、油圧（hydraulic）1と2とブレーキ・アキュムレーター計が3000±200 PSIであることを確認してください。\
+\
+トゥーブレーキを完全に踏み込み、ブレーキ圧力計が最低2700PSIはあることを確認してください。",
+    ["DictKey_ActionText_139"] = "そこに着いたら、A/Cボタン（P/B 16）を押して機体位置を更新します。",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_ActionText_83"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_335"] = "",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_ActionText_436"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_273"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_GroupName_69"] = "Z_Soldier A #002",
+    ["DictKey_ActionText_293"] = "MPCDの明るさとコントラストを快適なレベルに調整してください。\
+\
+VIDEO BRT ノブを 2 回押して、DAT（Display Alternate Toggle）機能をテストします。",
+    ["DictKey_ActionText_402"] = "",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_GroupName_202"] = "Z_Humvee #001",
+    ["DictKey_ActionText_41"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_250"] = "次に、スティックを前いっぱいまで押してスタビライザーをチェックし、EDP スタビライザーの位置が 11°下になることを確認してください。\
+\
+スティックを完全に後に引き、EDPスタビライザーの位置を10°上になることをチェックしてください。",
+    ["DictKey_ActionText_148"] = "On the UFC, power on and verify your aircraft's avionics. Press the Identification Friend or Foe (IFF) button on the UFC and press the ON/OFF button on the UFC, verifying that Modes 1 and 2 are colonized on the ODU.",
+    ["DictKey_ActionText_397"] = "では、POSボタンをもう一度押してください。ここでは、4（西）か６（東）押してから、あなたの現在位置の座標を入力します。（ここでは7桁入力する必要があります。）\
+入力ができたら、ENTERを押してください。\
+入力例：　6（E)0415127　ENTボタン　座標の頭に0をつけて7桁にします。",
+    ["DictKey_UnitName_203"] = "Z_Humvee",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_ActionText_145"] = "DMT スイッチを DMT または ON にして、デュアルモード・トラッカー（Dual-Mode Tracker）の電源をオンにします。",
+    ["DictKey_ActionText_135"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_195"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_355"] = "ディスプレイコンピュータ（DP） スイッチが AUTO の位置にあることを確認してください。",
+    ["DictKey_ActionText_97"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_235"] = "one-finger（ワンフィンガー ）の合図をプレーンキャプテンに伝え、ランディングギアコントロールパネルのFLAPS BITボタンを押してください。\
+\
+マスターウォーニングライトが点灯し、フラップポジション（FLAPS POS）計が変動し、FLAPS BITが実施されていることを示します。\
+\
+完了すると、フラップコーションライトとフラップウォーニングライトが消え、フラップが25°になるはずです。",
+    ["DictKey_ActionText_321"] = "パーキングブレーキとブレーキペダルを離して、前進を始めま す。ペダルをタップして、ブレーキが正しく作動していることを確認します。",
+    ["DictKey_ActionText_151"] = "TACAN（TCN）ボタンを押してからONボタンを押し、ODUが送信/受信（T/R)に設定されていることを確認します。その後OFFボタンを押してください。",
+    ["DictKey_UnitName_70"] = "Z_Soldier A",
+    ["DictKey_ActionText_264"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_63"] = "EDP（エンジ ンディスプレイパネル）の左上にあるBITボタンを押して、エンジ ンディスプレイパネルのビルトインテスト（BIT） を実施します。\
+\
+タンブラーの数字が回転し、Overtempおよびウォーターフローライトがが15秒間点灯するのを確認してく ださい。BITが成功すると、すべてのライトが消え、ノズルインジケータが0～10°の間に戻ります。",
+    ["DictKey_ActionText_383"] = "今回のミッションでは、エンジンを始動させ、始動後・タクシー前のチェックを行い、指定されたウォーミングアップエリアにタキシングして終了となります。",
+    ["DictKey_ActionText_249"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_246"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_60"] = "最初のテストが終了すると、プレーンキャプテンは自動的に2番目の点火装置の音を聞くために自ら位置につきます。\
+\
+手動燃料システム（MFS：Manual Fuel System）スイッチをオンにします。\
+\
+不規則なクラック音をもう一度聞き、ブーストポンプのライトが消えるのを確認してください。完了したらMFSスイッチをOFFにしてください。",
+    ["DictKey_ActionText_274"] = "離陸して着陸する前に、航空機の重量、現在の環境、選択した滑走路の長さに対して垂直着陸機の性能を検証する必要があります。\
+\
+これは、垂直離陸、垂直着陸、航続距離、速度、および時間を計算して行われます。これはV/STOL-RESTとも呼ばれ、略してVRESTと呼ばれています。",
+    ["DictKey_ActionText_320"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_220"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_138"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_147"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_301"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_411"] = "",
+    ["DictKey_ActionText_308"] = "Conduct an Anti-skid test by first releasing the parking brake. Maintain pressure on the brake pedals.",
+    ["DictKey_ActionText_162"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_53"] = "Press the airstart button on the throttle to activate the igniters and listen for an irregular crackle, indicating that both igniters are firing. Note that both boost pump lights should extinguish during this check, since the DC portion of the boost pumps is active while they fire.\
+\
+(NOTE: make sure to assign a button on the CONTROLS -> HOTAS menu)",
+    ["DictKey_ActionText_121"] = "HUDコントロールパネルのBRTノブを時計回りに回転させて、HUDをオンにし、お好みの明るさに調節します。\
+\
+NORM / REJ 1 / REJ 2 スイッチで NORM を選択し、DAY / AUTO / NIGHT スイッチでお好みのモードを選択します。",
+    ["DictKey_ActionText_276"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_241"] = "Check for DROOP function by cycling the stick full left and full right. The up aileron should be flush with the wing and the DROOP light should extinguish at full deflection.",
+    ["DictKey_ActionText_432"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_258"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_369"] = "左のフィードグループは1400±100ポンド、右のフィードグループは2400±100ポンド、総合計は3800±200ポンドを表示します。\
+\
+キャノピーアーチの左右フルアドバイザリーライト（LEFT と RIGHT）、マスターコーションの250 ポンドフラッシャー（L FUEL と R FUEL）が点滅します。\
+\
+LOAD と BINGO の警告灯も点灯します。\
+\
+セレクターノブをTOTALまたはINTの位置に戻し、BINGOバグをブリーフィングで指示された値に設定して定してください。",
+    ["DictKey_UnitName_7"] = "Player",
+    ["DictKey_ActionText_124"] = "UFCのボリュームノブを好きなように調整して両方のラジオをオンにします。\
+\
+BRT ノブを調節し、現在の照明状況で ODU、スクラッチパッド、COMM チャンネルのウィンドウを読めるレベルに設定してください。",
+    ["DictKey_ActionText_196"] = "Now, place the H2O switch in the Landing (LDG) position and observe the same indications as the Takeoff position. \
+\
+Return the H2O switch to the OFF position and observe a return to normal idle RPM.",
+    ["DictKey_ActionText_268"] = "DP（ディスプレイプロセッサ） スイッチをPRIM（プライマリ）とALTER（オルタネート）に切り替えて、ディスプレイプロセッサの機能をチェックしてください。\
+\
+スイッチをAUTOに戻すと、動作チャンネルがランダムに選択されます。チャンネルが故障した場合には自動的に再選択されます。",
+    ["DictKey_sortie_5"] = "Harrier TM 02: コールドスタート",
+    ["DictKey_ActionText_142"] = "Verify the transferred waypoint information by navigating back to the DATA page and selecting Waypoint (WYPT) with pushbutton 19. This can be done visually on the moving map or by reviewing the coordinate data at the top of the DATA page.",
+    ["DictKey_ActionText_247"] = "ツーフィンガーチェック では、フライトコントロールからの適切な反応を確認します。\
+プレーンキャプテンにツーフィンガーの合図を伝え、はじめにラダーを左右に最大に動かしてください。",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_ActionText_104"] = "RPMが約３％に達したら、スロットルをアイドルポジションに持っていきます。\
+\
+ジェットパイプ温度（JPT）の上昇と急激なRPM上昇でエンジンライトが点灯します。\
+\
+\
+RPMが15％に達する前にスタートスイッチが自動的にシャットオフされることを確認してください。\
+\
+エンジンのアイドルRPMが 28.4～29%の間で安定しており、JPTが 545°C以下であることを確認してください。",
+    ["DictKey_ActionText_461"] = " (注: 他の作業をする前に、地上外部電源を接続することを強くお勧めします。\
+\
+そうしないと、指示に時間がかかりすぎて、エンジンを始動する前にバッテリーが切れてしまうことがあります）",
+    ["DictKey_ActionText_399"] = "最後に、磁気偏角を設定します。ODUのMAGVボタンを押し、6（東）を押して、006を入力してEnterを押します。",
+    ["DictKey_ActionText_238"] = "FLAPS モードスイッチをSTOL（Short Takeoff and Landing ：短距離離着陸）位置にして、エルロンドロップ（DROOP）ライトが点灯していることを確認してください。\
+\
+これはエルロンのニュートラル位置が15°下げた位置になるように設定されていることを示しており、低速域での揚力が大きくなっていることを示しています。",
+    ["DictKey_WptName_346"] = "",
+    ["DictKey_ActionText_371"] = "電子燃料制御装置（EFC：Electronic Fuel Control ）と JPTLのウォーイングとコーションライトが 点灯することを確認してください。\
+\
+DECSスイッチを ON に戻します。",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_ActionText_181"] = "JPTLスイッチをON位置に戻し、RPM,燃料流量、、ジェットパイプ温度が低下することをEDP上確認します。",
+    ["DictKey_ActionText_409"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_217"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_407"] = "MAN FUEL スイッチを OFF ポジションにして、マスターコーションパネルの MFS ライトが消えるのを確認してください。",
+    ["DictKey_ActionText_351"] = "Set the Head-up Display, or HUD brightness knob as desired.",
+    ["DictKey_ActionText_157"] = "その他スイッチパネル（Miscellaneous Switch Panel）に戻り、FLIRスイッチをFLIRまたはONにして、FLIRの電源を入れます。FLIRセンサーのクールダウンが始まります。",
+    ["DictKey_ActionText_357"] = "バッテリースイッチをBATTの位置にします。APUまたはエンジンを始動させるには、バッテリー電圧計に24.5ボルト以上の電圧が表示されていることを確認してください。",
+    ["DictKey_ActionText_168"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_76"] = "次は、APUスタート（トランスレーションスタート）に備えて、キャノピーを閉じましょう。\
+\
+ハンドルを一つを引いてください。完全に前方まで出ると自動的にロックがかかります。\
+\
+キャノピー警告灯（CANOPY）が消灯するのを確認してください。",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_ActionText_353"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_ActionText_212"] = "Without delay, return the FUEL PROP switch to the ON position and verify the PROP caution light extinguishes.",
+    ["DictKey_ActionText_444"] = "左のキャノピーアーチ上に緑色の READY ランプが点灯していることを確認し、A/R スイッチを IN 位置に動かしてプローブを引き込みます。\
+\
+緑色の READY ランプが消えることを確認してください。",
+    ["DictKey_ActionText_296"] = "スティックのキャッスル(castle )スイッチを押してHUD FLIRの明るさを調整し、HUDの明るさとコントラストを再調整します。\
+\
+(注意：お使いのHOTASバインディングでキャッスルスイッチを確認してください。) ",
+    ["DictKey_GroupName_12"] = "Z_Humvee",
+    ["DictKey_ActionText_114"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_GroupName_18"] = "Z_Soldier B",
+    ["DictKey_ActionText_166"] = "電気パネル上で、DC TEST スイッチをMAIN位置にして、予備（standby）TRU の故障をシミュレートします。\
+\
+バッテリー電圧計が下がり始め、24.75 ボルトに達すると STBY TR ライトが点灯し、電圧計が約 25.5 ボルトまで上昇します。これは、バッテリーがMAIN TRU によって充電されていることを示します",
+    ["DictKey_ActionText_462"] = "次に、パーキングブレーキをセットします。",
+    ["DictKey_ActionText_453"] = "",
+    ["DictKey_ActionText_227"] = "次に、Oxygen スイッチを OXY (ON) 位置に動かして、オンボード酸素発生システム (OBOGS) を有効にします。",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_ActionText_406"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_GroupName_66"] = "Z_Soldier A #001",
+    ["DictKey_ActionText_314"] = "次に、お好みでAPUのON/OFFを選択します。昼間で視界も良く晴れているので、ここではオフにしておきます。",
+    ["DictKey_ActionText_34"] = "",
+    ["DictKey_ActionText_75"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_205"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_50"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_187"] = "Place the H2O switch in the Takeoff (TO) position and verify a steady RPM and JPT on the EDP. Return the H2O switch to the OFF position.",
+    ["DictKey_ActionText_349"] = "左右のPUMPスイッチがNORMにセットされていることを確認してください。",
+    ["DictKey_ActionText_165"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_115"] = "もう一度、ランディングギアパネルを確認してください。4つの緑色のライトが点灯し、すべてのギアがダウンしてロックされていることを示しているはずです。",
+    ["DictKey_ActionText_199"] = "次はEVICS（Enhanced Variable Inlet Guide Vane Control System）を確認します。 まず、パーキングブレーキを解除します。次に、プッシュボタン11でENGページを選択します。\
+\
+(注意: マウスでパーキングブレーキを解除するときは、スロットルをクリックしてエンジンを停止させないように注意してください！) ",
+    ["DictKey_ActionText_120"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_98"] = "外部電源が接続されている場合は、プレーンキャプテンに合図して電源ケーブルを外してもらい、電源が外したことを確認するのを待ってください。\
+\
+(注：ラジオメニューからグラウンドクルーの命令メニューを使用してください。)\
+\\ - F8 Ground Crew - F2 Ground Power - F2 Off",
+    ["DictKey_ActionText_259"] = "Test the Emergency SAAHS Disengage paddle by pressing and holding the SAAHS paddle switch on the stick, listening for the audible alert, and observing flashing DEP RES, PITCH, ROLL, and YAW caution / advisory lights. \
+The lights will extinguish when the paddle is released.",
+    ["DictKey_ActionText_299"] = "次に、離陸のためのタキシングを行う前に最終チェックを開始します。プレーンキャプテンに合図し、パーキングブレーキがセットされていることを確認し、ANTISKIDスイッチをONにします。",
+    ["DictKey_ActionText_244"] = "FLAPS モードスイッチを CRUISE にセットし、DROOP ライトが消灯し、フラップ位置が 5°になることを確認します。",
+    ["DictKey_ActionText_103"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_443"] = "",
+    ["DictKey_ActionText_361"] = "",
+    ["DictKey_ActionText_215"] = "トリムチェックを行います。\
+航空機のラダーとエルロンのトリムを最大可動域で左右動かし、ラダーとエルロンのトリム計で適切な反応であるかを確認します。",
+    ["DictKey_ActionText_73"] = "Perform a Fuel Panel BIT by setting the Bingo bug to 4000 lbs or greater and turning the selector knob to BIT and holding it in position. \
+\
+The left feed group will indicate 1400 ± 100 pounds, the right feed group will indicate 2400 ± 100 pounds, and the totalizer will read 3800 ± 200 pounds. \
+\
+The Master Caution, left and right full advisory lights on the arch (LEFT and RIGHT), and 250 pound flashers (L FUEL and R FUEL) will flash. \
+\
+The LOAD and BINGO caution lights will also illuminate. Return the selector knob back to TOTAL or INT position and set the Bingo bug to the briefed value.",
+    ["DictKey_ActionText_252"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_169"] = "DCテストスイッチをSTBY位置に移動して保持し、メインTRUの故障をシミュレートします。\
+\
+左右のブーストPUMPスイッチをNORM位置にリセットし、各ポンプの電圧計が約1ボルト上昇していることを確認してください。",
+    ["DictKey_ActionText_214"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_descriptionBlueTask_3"] = "これは、天気の良い日中の標準状態のミッションです。\
+\
+こちらはロングバージョンのミッションで、追加項目を全て網羅しています。\
+\
+ニーボードに追加の8ページを掲載しています。",
+    ["DictKey_ActionText_243"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_38"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_129"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_91"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_283"] = "Verify the engine performance numbers by colonizing the ENG window on the ODU. \
+\
+Check the Relative Jet Pipe Temperature (RJPT) by pressing ODU-1, Jet Pipe Temperature Limit (JPTL) with ODU-2, and Relative Hover (RHOV) with ODU-3. \
+\
+The numbers will appear in the scratchpad on the UFC. Recheck VL performance after inputting any changes.",
+    ["DictKey_ActionText_240"] = "DROOP ランプが点灯したらスペースバーを押してください。",
+    ["DictKey_ActionText_332"] = "(Press SPACE BAR when ready to proceed. Use normal radio menu to contact Tower).  ",
+    ["DictKey_UnitName_28"] = "Plane Captain",
+    ["DictKey_ActionText_282"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_78"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_280"] = "垂直着陸のページ（P/B 6）をボッボックス化して、外気温度（OAT）、空港高度、機体総重量（GW）を確認してください。GWはBAW、燃料、水、外外部搭載物の合計であり、ニーボードに記載されている量と同じでなければなりません。",
+    ["DictKey_ActionText_133"] = "タクシー前の次のステップは、慣性航法システム（INS：Inertial Navigation System ）のアライメント処理を開始することです。\
+まず、パーキングブレーキがセットされているか確認してください。",
+    ["DictKey_ActionText_302"] = "適切なINSアライメントのためにEHSDをチェックしてください。INSアライメントの目標は、OK表示が出た時に、QUALが1.0未満です。\
+\
+航空機が満足のいくアライメントを行って、EHSDの右下の「POS/INS」表示でGPSとINSがしっかりと結合されていることを確認したら、INSスイッチをIFA（In-Flight Alignment：飛行中アライメント）の位置にセットします。",
+    ["DictKey_ActionText_261"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_365"] = "ブレーキ圧力とブレーキアキュムレータゲージをチェックしてください。アキュムレータは最低でも1000PSI、圧力は最低でも1500PSIでなければなりません。",
+    ["DictKey_ActionText_177"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_184"] = "スロットルの後ろにあるMAN FUELスイッチを 一時的にONにして、手動燃料システム（MFS）の点検を行ってください。\
+\
+警告音を聞いて、マスターコーションパネルの MFSライトが点灯するのを確認してください。",
+    ["DictKey_ActionText_435"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_189"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_324"] = "機体がゆっくりと前方に進んでいる状態で、スティックのUndesignate / NWSピンキーボタンを押してハイゲインNWSを作動させ、ペダルを左右に動かしてNWSシステムの適切な機能と可動範囲を確認します。（ハイゲインNSWは大きく曲がりますので注意してください。）",
+    ["DictKey_ActionText_42"] = "ブレーキ圧力とブレーキアキュムレータゲージをチェックしてください。アキュムレータは最低でも1000PSI、圧力は最低でも1500PSIでなければなりません。",
+    ["DictKey_ActionText_190"] = "Place the momentary MAN FUEL switch in the OFF position and observe a decrease in RPM and Jet Pipe Temperature on the EDP, as well as the MFS light on the Master Caution panel extinguish.",
+    ["DictKey_ActionText_224"] = "気圧高度計を設定し、ニーボードに記載されている空港の標高と一致するかを確認してください。",
+    ["DictKey_ActionText_286"] = "次はコックピットの照明を調整し、ディスプレイを調節します。\
+\
+OSB-18でMENUページに戻り、EHSDボタン（OSB-2）を押して、左MPCDを電子水平状況表示（EHSD：Electronic Horizontal Situation Display）に設定します。\
+\
+OSB-18でMENUページに戻り、FLIRボタン（OSB-1）を押して、右MPCDをFLIR（前方監視型赤外線）ページに設定してください。",
+    ["DictKey_ActionText_178"] = "EFC スイッチを POS 1 にします。\
+EFC 警告灯が警告音と共に一瞬点灯・消灯します。スイッチを POS 2 にリセットします。",
+    ["DictKey_ActionText_229"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_100"] = "(地上電源がオフであり、、次に進む準備ができたらスペースバーを押してください。)",
+    ["DictKey_ActionText_163"] = "左右のポンプスイッチを DC OP位置にして、コーションライトが 消えるのを待ちます。これで、左右の燃料ポンプは DC バックアップバスで作動しています。バッテリは 27 ボルトに保たれているはずです。",
+    ["DictKey_ActionText_434"] = "6101",
+    ["DictKey_ActionText_395"] = "スクラッチパッドに6つのゼロの文字列が表示されていることに気づくでしょう。キーボードを使って、NかS（半球）を選択し、それから座標の完全なセット（F10マップで自機をクリックすると確認できます。）を入力してきます。入力ができたらできたらENTERを押してください。\
+入力例：　2（N)415337　ENTボタン",
+    ["DictKey_ActionText_291"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_343"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_438"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_108"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_59"] = "(準備ができたらスペースバーを押してください)",
+    ["DictKey_ActionText_464"] = "タワーに連絡してタキシングの許可を得てください。通常のラジオメニューを使用します。\
+準備ができたらSPACE BARを押してください。",
+    ["DictKey_WptName_345"] = "",
+    ["DictKey_ActionText_226"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_209"] = "Now we will check the fuel proportioner (FUEL PROP) by placing the FUEL PROP switch in the OFF position. \
+\
+There will be an audible alert and the PROP light should illuminate on the Caution / Advisory Panel, with an associated Master Caution light.",
+    ["DictKey_ActionText_379"] = "In this mission we will start the engine, conduct the post-start/before taxi checks, and finish by taxiing to the designated warm-up area.\
+\
+Before we start, please go through the after entering the pit checklist (same as in mission 1, you will find it in kneeboard for reference) and prepare your jet.",
+    ["DictKey_ActionText_109"] = "テールプレーンとフラップの過度の消耗を減らすために、ノズルを10°にセットしてください。",
+    ["DictKey_UnitName_13"] = "Z_Tanker",
+    ["DictKey_ActionText_79"] = "APUスタートを行うことをプレーンキャプテンに合図してください。\
+\
+この方法は、残量の少ないバッテリーの充電をAPUを使って行う必要がある場合、早くラジオを使用する必要がある場合、エンジン始動前に長時間のシステムエントリーを行う必要がるが、その間に限られた量の燃料を消費したくない場合に便利です。\
+\
+トランスレーションスタートは、APUの電源が入っていることを利用して、ガスタービンスターター（GTS）を作動させることができます。",
+    ["DictKey_ActionText_298"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_GroupName_21"] = "UH-1 Landing",
+    ["DictKey_ActionText_221"] = "スタンバイ（予備）計器がコックピット内の他の計器と一致していることを確認してください。\
+\
+ジャイロに電源を入れてから1分後に姿勢指示器をアンケージして、正しい姿勢に合わせてください。",
+    ["DictKey_ActionText_193"] = "では、ウォーターインジェクションシステムをチェックします。\
+\
+H2O（ウォーター）スイッチをTO（テイクオフ）位置にして、DECSがウェットデータに切り替わると、RPM、燃料流量、ジェットパイプ温度が上昇するのを観察してください。",
+    ["DictKey_ActionText_416"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_424"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_267"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_327"] = "Apply brake pressure to come to a smooth stop and obtain taxi clearance from Ground.\
+\
+(Note: use normal radio menu to do that). ",
+    ["DictKey_WptName_341"] = "",
+    ["DictKey_ActionText_311"] = "Press and hold the ANTISKID switch in the TEST position and verify that the BRAKE pressure indicator drops to below 145 PSI and builds back up to at least 2800 PSI.",
+    ["DictKey_ActionText_422"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_208"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_277"] = "VREST（VRST）ボタン（OSB-8）を押して、基本航空機重量（BAW）、水重量、基本抗力指数（BDI）を確認します。",
+    ["DictKey_GroupName_15"] = "Z_Soldier A",
+    ["DictKey_ActionText_305"] = "機体がタキシングできるように正しく設定されていることを確認します。\
+\
+- V/STOL HUDマスターモードになっている\
+\
+- ノズルは10°にセットされている\
+\
+- FLAPSモードはCRUISE\
+\
+- FLAPS POSは5°\
+\
+- 機体は正しい機首下4°にトリミングされている\
+\
+これらを確認してください。\"",
+    ["DictKey_ActionText_288"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_232"] = "",
+    ["DictKey_ActionText_405"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_86"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_265"] = "Conduct an AUTO BIT from the BIT 1 page by pressing the AUTO button (OSB-6). The BIT is complete when TEST is no longer displayed next to equipment legends. Note that the FLIR BIT will automatically initiate once the FLIR has completed its cooldown, and the Display Computer (DP) BIT may cause the HUD to flicker.",
+    ["DictKey_ActionText_419"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_65"] = "(wait for the Plane Captain to approach)",
+    ["DictKey_ActionText_262"] = "次に、Store / BITチェックを行います。\
+SMSFF（Store Management System Function Failure )ページを確認します。\
+\
+MENU（OSB-18）を選択し、次にSTRS（OSB-4）を選択して、武器の故障や、点滅する武器の不具合表示を確認します。（ look for any weapon failures or flashing weapons fail indications）",
+    ["DictKey_ActionText_420"] = "H2O スイッチを OFF 位置に戻し、通常のアイドル回転数に戻るのを確認してください。",
+    ["DictKey_ActionText_55"] = "(Press SPACE BAR to signal the Plane Captain and wait for him to approach)",
+    ["DictKey_WptName_344"] = "",
+    ["DictKey_ActionText_144"] = "(準備ができたらスペースバーを押してください - アライメントが完了するまで待つ必要はありません)",
+    ["DictKey_ActionText_150"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_469"] = "（IGNITERS チェックは まだ実装されていません。）",
+    ["DictKey_ActionText_317"] = "",
+    ["DictKey_ActionText_132"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_425"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_ActionText_429"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_UnitName_16"] = "Z_Tanker",
+    ["DictKey_ActionText_72"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_230"] = "いよいよワンフィンガーチェック（FLAPS BIT）を開始します。FLAPSスイッチをONとAUTOにセットします。",
+    ["DictKey_WptName_342"] = "",
+    ["DictKey_ActionText_373"] = "",
+    ["DictKey_ActionText_156"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_48"] = "次はスロットルのテストを行いましょう。\
+\
+まず、パーキングブレーキを解除します。\
+次に、スロットルをフルパワーの位置まで動かして、ジェットパイプ温度リミッター（JPTL）をトリップ（trip、超えさせる）させます。スイッチが外れるのを見て、警告音が聞こえ るのを確認してください。\
+\
+次に、スロットルをアイドル状態に戻し、ス ロットルカットオフレバーを持ち上げ、 スロットルをOFF位置まで戻ります。\
+\
+JPTL スイッチを ON に戻し、パーキングブレーキを再度かけます。",
+    ["DictKey_ActionText_307"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_175"] = "次は JPTリミッターのチェックを行います。\
+\
+JPTLスイッチをOFF位置にし、機体が、Short Lift Dry schedule and limit からShort Lift Wet schedule and limit.に変わる時に、EDP（エンジンディスプレイパネル）のRPM,燃料流量、ジェットパイプ温度が上昇するのを監視してください。警告音が鳴り、マスターウォーニングパネルのJPTLが点滅します。",
+    ["DictKey_ActionText_313"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_ActionText_111"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_39"] = "コンパスライト/ライトテストスイッチをライトテスト(LTS TEST)の位置にして、ウォーニングとコーションライトのテストを行ってください。\
+\
+コックピット内を見渡して、すべてのウォーニングライト、コーションライト、ランディングギア、コンバットスイッチパネル、HUDマスターモード、空中給油、脅威のライト類が動作しているかを確認してください。ウォーニング、コーション、アドバイザリーライトはこのテストが行わるまでは動作しないことに注意してください。また、すべてのライトがバッテリー電源で点灯できるわけではないことに注意してください。マスターコーションとマスターウォーニングボタンを押して、優先度の高いコーションライト類をリセットし、音声警告をオフにします。\
+\
+このテストの後、OILライトが点灯し、油圧の低下とセンサーが適切に機能していることを確認してください。",
+    ["DictKey_ActionText_94"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_ActionText_153"] = " ALT（姿勢） ボタンを押して ON/OFF ボタンを押すと、音声アラームが作動します。",
+    ["DictKey_ActionText_393"] = "INS ノブを時計回りに回してGND ALIGNにセットしてグランドアラインメント）を開始します。MPCD 画面に QUAL: ATT NOT OK と表示されタイムカウントアップが始まることを確認します。約 1 分後、QUAL が 0.7 に達するまでカウントダウンを始めることに気づくでしょう。\
+（座標の入力が正しくできていないとこれが行われません。）",
+    ["DictKey_ActionText_174"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_51"] = "航空機の2つの点火装置をチェックするには2つの方法があります。\
+\
+最初に、プレーンキャプテンに合図を送り、最初の点火装置の音を聞くために、インテイクのそばに位置してもらいます。スロットルの始動ボタンを押して点火装置を作動させ、不規則なクラック音が鳴っているか聞いてもらいます。これを両方で行い、点火装置が働いていることを確認してもらいます。\
+\
+このチェックを行っている時は、両方のブーストポンプライトは消えています。これは、点火にブーストポンプと同じDC電源を使用しているからです。\
+\
+エアスタート（ AIRSTART ）ボタンをあなたのHOTASに割り当てておいてください。",
+    ["DictKey_ActionText_295"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_UnitName_19"] = "Z_Soldier A",
+    ["DictKey_ActionText_385"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_253"] = "最後に、エルロンを左右に完全に動かしてエルロン機能を確認します。主翼機の上のアップエルロンを視覚的に確認してください。",
+    ["DictKey_ActionText_292"] = "",
+    ["DictKey_UnitName_10"] = "",
+    ["DictKey_ActionText_172"] = "DC TESTスイッチをセンター位置に戻し、ブーストポンプとstandby TRUのコーションライトが消灯した状態で、約27.5ボルトあるかどうかを確認してください。",
+    ["DictKey_ActionText_413"] = "H2O スイッチを OFF 位置に戻し、アイドルRPMが正常に戻るのを確認してください。",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_ActionText_339"] = "エンジン始動、タクシー発進前、タクシー発進チェックリストを説明しました。次のレッスンでは、ポジショニング前のチェック、コンベンショナルテイクオフ、基本的なハンドリングドリルを説明します。\
+\
+ミッションを終了していただいて結構です。",
+    ["DictKey_ActionText_381"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_118"] = "各パネル上部のOFF / BRTノブを時計回りに回してMFCDの電源を入れます。現在の照明状況に応じてDAYまたはNGTの明るさに合わせます。",
+    ["DictKey_ActionText_359"] = "次に、通信、ナビゲーション、識別補助パネル（ACNIP）のVHF/UHF無線リモートコントロールを送受信（T/R）にセットします。",
+    ["DictKey_ActionText_468"] = "[まだ、機能していません。]",
+    ["DictKey_ActionText_426"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_GroupName_9"] = "Z_Tanker",
+    ["DictKey_ActionText_159"] = "（次に進む準備ができたらスペースバーを押してください）。",
+} -- end of dictionary

@@ -1,0 +1,400 @@
+dictionary = 
+{
+    ["DictKey_WptName_11"] = "Waypoint 3",
+    ["DictKey_ActionText_208"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_186"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_43"] = "左MPCDにEHSD（マップ）を表示してからSPACE BARを押します。",
+    ["DictKey_ActionText_261"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_223"] = "新しいオフセットポイントを作成しても、航空機ナビゲーションシステムは依然としてウェイポイント４がアクティブなステアポイントになっています。オフセットポイントのデータをシステムに転送したい場合は、ボタン14を押してください。今すぐに実行してください。",
+    ["DictKey_ActionText_26"] = "",
+    ["DictKey_ActionText_155"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_327"] = "離陸と空中給油のミッションで、TACANについて少し触れました。システムを適切に設定する方法を知っているでしょうが、すべてをカバーするために、基本的なオプションを1から説明します。",
+    ["DictKey_ActionText_116"] = "HUDとEHSDの両方とも、次の基本情報を提供します：ウェイポイント番号、方位、距離（nm）、予想到着時間",
+    ["DictKey_ActionText_57"] = "このオプションをボックス化すると、システムに保存されているすべてのウェイポイントとマークポイントを見ることができます。ボックスを外すと、現在選択されているウェイポイントまたはマークポイントのみが表示されます。\
+\
+オフセットポイントについては、モードに関わらず、現在選択されているウェイポイントの物のみが表示されることに注意してください。（設定されている場合）\
+\
+見やすくするためには、P/B 20 でSCALEを 100 に設定すると良いでしょう。",
+    ["DictKey_ActionText_85"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_338"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_271"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_384"] = "（文なし）",
+    ["DictKey_ActionText_182"] = "OK。それでは、ウェイポイントオフセットの作成と使用方法を説明します。ウェイポイント4を選択してください。",
+    ["DictKey_ActionText_222"] = "",
+    ["DictKey_ActionText_364"] = "ここで、正しいチャンネル番号を入力します。：6を押し、次に7を押し、次にENTERを押します。",
+    ["DictKey_ActionText_35"] = "最後に言っておくことは、、NAVモードではゴースト速度ベクトル（Ghost Velocity Vector）が真の速度ベクトル（true velocity vector）の位置に表示されることがあるということです。これは強い横風の場合によく見られることで、ジェットの真の飛行経路を示しています。",
+    ["DictKey_ActionText_386"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_211"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_415"] = "これで、表示されているステアリングキューを、ボタン5と14を押すことで、TACANとTACANオフセットの間で切り替えることができるようになりました。また、ボタン11を押すことでウェイポイントモードに切り替えることができます。",
+    ["DictKey_GroupName_6"] = "PLAYER",
+    ["DictKey_ActionText_389"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_465"] = "ナビゲーションマスターモードでは、主要フライト情報はHUDとEHSI / EHSD画面のMPCDで表示されます。\
+\
+ あなたは3つのステアリングモードを選択することができます：１：ウェイポイント、マーク、またはそれらのオフセットポイント。２：TACAN、またはそのオフセットポイント。３：AWSL、（全天候型着陸システム）ですが、このトレーニングセッションでは説明しません。",
+    ["DictKey_WptName_101"] = "Approach",
+    ["DictKey_ActionText_344"] = "3番目のオプションは、空対空モードでの運用を可能にします。これを非選択にすると、TACANはデフォルトで地上局との通信を行います。\
+\
+方位と距離を受信する必要があるか、方位のみの受信でかまわないかによって、T/RとRCVの選択を行います。",
+    ["DictKey_WptName_99"] = "Bullseye",
+    ["DictKey_ActionText_286"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_236"] = " 新しいウェイポイントを作成するためには、現在システムに保存されているウェイポイントやマークポイントの数（番号）よりも大きい数字を選択する必要があります。それでは早速やってみましょう。",
+    ["DictKey_ActionText_324"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_33"] = "テープ状で表示される方位と、HUD の底辺部に補助として数字で表示される方位は、真方位（その場合は隣に T の文字が表示されます）か、磁気方位のどちらかを選択できます。\
+この2つは、EHSDページで切り替えることができます。",
+    ["DictKey_ActionText_87"] = "",
+    ["DictKey_ActionText_372"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_272"] = "まず、MAPPM ボタンを押したときに TRUE がボックス化されていることを確認します。\
+\
+次に、コースラインセレクター（Course Line Select） ノブを回転させます。選択されたウェイポイントが線の中央に表示されているのがわかります。画面右下のCRS設定が031と表示されるまで回してください。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_44"] = "センサーセレクトスイッチについてですが、......もう一度左に押すと、脱センタリングモード（decentered mode）になります。やってみてください。\
+\
+画面の下の方に航空機マークが表示されるようになりました。このモードは、前方のエリアを見やすくしたい場合に便利です。SSS左を押して通常モードに戻ります。",
+    ["DictKey_ActionText_366"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_62"] = "このボタンは、HUDとEHSIのTrue（真方位）とMagnetic（磁気方位）を切り替えます。\
+\
+True がボックス化されている場合は、HUD の方位テープの横に T の文字も表示されます。\
+\
+磁気方位表示に戻り、続ける準備ができたら知らせてください。",
+    ["DictKey_ActionText_69"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_417"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_254"] = "POS をもう一度押して、 6（E ） 、041 47 52 と入力してから、Enterで確定します。",
+    ["DictKey_ActionText_284"] = "コースラインは、ランディングの時に、滑走路に合わせてアプローチする場合や、特定の方向からのアタックランなど、さまざまな場面で役立ちます。このコースラインに頼ることが多いことに気づくでしょう。",
+    ["DictKey_ActionText_329"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_377"] = "できたら、次はEHSDページを見ましょう。\
+\
+ボタン5の横にあるTACANがボックス化されていることを確認してください。\
+コブレチ上に特徴的なTACANマークを見つけてください。必要に応じてズームを変更してください。\
+\
+また、コンパスローズの外側に、逆三角形のように見えるTACANのステアリングバグが表示されているはずです。",
+    ["DictKey_ActionText_47"] = "ニーボードとミッションのドキュメントには、EHSDに表示されている様々なシンボルの完全な説明を見つけることができます。\
+\
+では、パイロットが利用可能な様々な機能とオプションについて説明します。",
+    ["DictKey_ActionText_54"] = "それでは、もう一度MAPPMを押して、SEQ(P/B4)を押してください。",
+    ["DictKey_ActionText_391"] = "コブレチへのアプローチにむけ、イニシャルポイントに設定しましょう。滑走路から方位064、距離5NMの地点です。",
+    ["DictKey_ActionText_123"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_398"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_192"] = "オフセットポイントを使用する最も一般的な例は、ブルズアイコールをマークすることです。\
+\
+通常、ウェイポイントの1つは、ブルズアイの位置の上に配置され、AWACSや他のユニットによって行われるコールの基準として使用されます。今回の出撃では、ウェイポイント４がこの役割を果たしています。",
+    ["DictKey_ActionText_149"] = "次に、スクラッチパッドから新しい座標セットを入力します。北は2（N)から始め、421427と入力してENTERを押します。",
+    ["DictKey_ActionText_326"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_263"] = "DATA モードを解除（アンボックス）し、ウェイポイント 7 を選択します。ウェイポイント7を見るために、地図の縮尺を変更してください。",
+    ["DictKey_ActionText_279"] = "(NOT FUNCTIONAL)",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_242"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_333"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_201"] = "まず、ボタン2を押してDATAを選択します。",
+    ["DictKey_ActionText_346"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_306"] = "押すと、ジェットの真下位置にマークポイントが作成されます。このシステムでは、最大9つのマークポイントを扱うことができます。それ以上作成すると、次のマークポイントは一番古いマークポイント（Mk1、2など）を上書きします。",
+    ["DictKey_ActionText_92"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_363"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_66"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_310"] = "MK0を押してください。",
+    ["DictKey_ActionText_88"] = "MAPM（P/B3）、MAP（P/B12）の順に押します。",
+    ["DictKey_ActionText_270"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_403"] = "ODU 2 で BRG がコロン化されていることを確認し、スクラッチパッドで 064 と入力します。ENTERで確定します。",
+    ["DictKey_ActionText_413"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_127"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_334"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_280"] = "すべてが正しく行われていれば、正しい方位で滑走路を上空を通過できるはずです。",
+    ["DictKey_ActionText_24"] = "INSのアライメントを行わずにIFAを選択した場合、GPSを使用して飛行中にINSのアライメントを行います。\
+\
+最終的な結果は同じになりますが、最初にINSのアライメントを行うことを推奨します。そして、定期的にGPSなしで飛行を行い、INSが正常に機能していることを確認してください。",
+    ["DictKey_ActionText_140"] = "ODUに別のオプションが表示されていることに気づくはずです。このウェイポイントをセナキ（Senaki）空港の上に移動してみましょう。",
+    ["DictKey_ActionText_130"] = "ODUに異なるオプションが表示されていることに気づくはずです。このウェイポイントをセナキ（Senaki）空港の上に移動してみましょう。",
+    ["DictKey_ActionText_89"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_375"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_256"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_318"] = "マークポイントはすべての点で通常のウェイポイントと同じように扱われます。唯一の違いは、ESHD に表示される名前だけです。全く同じ方法で位置を編集したり、オフセットを作成したりすることができます。手順はウェイポイントと同じなので、ここでは省略します。",
+    ["DictKey_ActionText_231"] = "次は、新しいウェイポイントを作る練習をしてみましょう。そのコブレティの南にある放棄された小さな飛行場の真ん中に新しいウェイポイントを置きます。",
+    ["DictKey_descriptionText_1"] = "このミッションでは、電子水平状況表示（EHSD）とTACANを使用して、ハリアーでの航行方法を学びます。\
+\
+これは空中スタート・ミッションです。コブレチ上空10,000フィートからスタートします。\
+\
+インストラクターはあなたにNAVモードのHUDの概要を説明し、その後、EHSDで利用可能なすべての主要なオプションについて説明します。\
+\
+また、コースライン、オフセットポイント、マークポイントを使用して、新しいウェイポイントの作成、既存のウェイポイントの修正を練習します。\
+\
+最後にTACANのトレーニングに移ります。",
+    ["DictKey_ActionText_316"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_20"] = "GPS（全地球測位システム：Global Positioning System）は、衛星基地による無線測位システムです。非常に正確な位置、速度、時間データを、GPS装置を装備したユーザーに提供します。しかし、何らかの理由で衛星が利用できない場合は機能しません。",
+    ["DictKey_ActionText_171"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_106"] = "ウェイポイント３を選択してください。\
+\
+P/B 11 の横にあるWAYP infoがボックス化されていることを確認してください。\
+\
+ウェイポイントの切り替えは、スティックのウェイポイントインクリメントボタンを押すか、EHSDページの上下矢印（pb12/13)\
+を押すかの2通りの方法で行えます。",
+    ["DictKey_ActionText_139"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_359"] = "では、チャンネル67Xのコブレチに合わせてください。まず、必要であれば、UFCのTACANボタンをもう一度押しましょう。",
+    ["DictKey_ActionText_83"] = "このオプションをアンボックスすると、コンパスローズ、ラバーライン、T記号、グランドトラックシンボル、ウェイポイントオフセット、TACAN、ターゲットベアリングポインターが表示されなくなります。\
+\
+続ける前に必ず元に戻してください ",
+    ["DictKey_ActionText_335"] = "選択されたチャンネルがスクラッチパッドに表示されるのと同時に、ODUに様々な動作モードが表示されているはずです。\
+\
+もしも、途中で消えてしまった場合は、もう一度TCNボタンを押してください。",
+    ["DictKey_ActionText_428"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_82"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_191"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_233"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_134"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_402"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_41"] = "EHSDページが、左MPCDにすでに表示されているはずです。表示されていない場合は、センサーセレクトスイッチ左を1回押してください。",
+    ["DictKey_ActionText_287"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_148"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_397"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_52"] = "押した後、別の選択をするには10秒しかありません - その間に他の何も押さなければ、MAPPMはアンボックス状態になり、もう一度押さなければなりません。\
+\
+そのため、各指示の最後で様々なオプションを選択することになります。",
+    ["DictKey_WptName_10"] = "Waypoint 2",
+    ["DictKey_ActionText_135"] = "DATA モードになっていることを確認し、ウェイポイント 1 を選択してください。",
+    ["DictKey_ActionText_80"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_235"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_159"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_151"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_294"] = "（文なし）",
+    ["DictKey_ActionText_249"] = "次に、その座標を設定します。ODUボタン2を押してPOSを選択し、2を押してNを選択し、41 50 31. Enterで確定します。",
+    ["DictKey_ActionText_246"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_60"] = "MAPM（P/B3）を押して、TRUE（P/B2）を押します。",
+    ["DictKey_ActionText_274"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_71"] = "このオプションを任意に設定したあと、\
+MAPPM（P/B3）を押してからZOOM（P/B19）を押します。",
+    ["DictKey_ActionText_312"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_292"] = "ウェイポイントについては以上です。次はマークポイント（Mark Points）です ",
+    ["DictKey_ActionText_147"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_301"] = "ESHD ページで、ウェイポイントステアリングモードであることを確認してください。ボタン 19 に MK0と表示されていることを確認してください。\
+",
+    ["DictKey_ActionText_411"] = "EHSD上の滑走路から約5マイル離れた地点に新しいTACANオフセットシンボルが見えるはずです。 ",
+    ["DictKey_ActionText_308"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_29"] = "Press SPACE BAR when you are ready to begin. ",
+    ["DictKey_ActionText_162"] = "ウェイポイント1を選択した状態でDATAモードのままにします。地図の縮尺（SCALE）を 25 に変更します。スケールが AUTO ではないことを確認してください。",
+    ["DictKey_ActionText_53"] = "押した後、別の選択をするには5秒しかありません - その間に他の何も押さなければ、MAPPMはアンボックス状態になり、もう一度押さなければなりません。\
+\
+そのため、各指示の最後で様々なオプションを選択することになります。",
+    ["DictKey_ActionText_121"] = "また、各ウェイポイントのより詳細な情報にアクセスすることができます。ウェイポイント3の詳細を知るためには、ウェイポイント3が選択されていることを確認し、P/B 2を押してDATAページに入ります。",
+    ["DictKey_ActionText_276"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_258"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_49"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_132"] = "(NOT FUNCTIONAL)",
+    ["DictKey_WptName_100"] = "Approach",
+    ["DictKey_ActionText_358"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_124"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_343"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_268"] = "進路031で南西から北東へ滑走路をオーバーフライしたいと思います。\
+",
+    ["DictKey_ActionText_64"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_142"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_288"] = "コースラインと連動したとても便利な機能があります。\
+\
+それは、画面の右下隅にあり、コースラインからの距離を表示してくれます。\
+\
+これはRaked Range PatternやLHAのリカバリーでは非常に役に立つ機能です。",
+    ["DictKey_ActionText_56"] = "",
+    ["DictKey_ActionText_399"] = "ODUには2つのオプション、RNG（距離）、BRG（方位）があります。まずは方位を設定しましょう。",
+    ["DictKey_ActionText_238"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_390"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_181"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_409"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_217"] = "ボタン2 を押して DATA の選択を解除し、必要に応じてスケールを変更してください。オフセットポイントのシンボルがコブレチ（Kobuleti）空港の上にあることを確認してください。",
+    ["DictKey_ActionText_407"] = "次に、ODUボタン4を押してRNG（距離）を選択し、05と入力し、ENTERを押します。",
+    ["DictKey_ActionText_351"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_157"] = "ウェイポイント１は滑走路の中央にあるはずです。これを編集します。2つ目の方法でやってみましょう",
+    ["DictKey_ActionText_67"] = "これは、航空機シンボルとグラウンドトラックインジケーターを結ぶグラウンドトラックラインをONまたはOFFにします。グラウンドトラックインジケーターは常にオンのままで、航空機の真のグランドトラックを表示することに注意してください。",
+    ["DictKey_ActionText_144"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_76"] = "MAPPM（P/B3）を押して、N-UPを押す。",
+    ["DictKey_ActionText_161"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_115"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_16"] = "AV-8Bハリアーは、ナビゲーションのためにINSとGPSシステムの両方を使用しています。通常はclosely coupled mode（密結合モード）で、それぞれに長所と短所があります... ",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_70"] = "",
+    ["DictKey_ActionText_125"] = "ウェイポイントの名前、 lat/long、UTM形式での正確な位置、標高、磁気偏角など、ウェイポイントに関する追加情報を見ることができます。\
+\
+左側に表示されているWGS-84は、米国国防総省が標準的な地理空間情報を定義した測地系です。",
+    ["DictKey_ActionText_212"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_46"] = "EHSDのセンタリングモードに戻したらSPACE BARを押します。",
+    ["DictKey_ActionText_296"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_253"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_166"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_356"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_314"] = "目に見える変化は文字がMK1に変わるだけです。\
+\
+しかし、ウェイポイントをサイクルアップしてみると、WP7の後に追加されており、ESHD上ではMK1と表示されていることに気づきます。しかし、システムがウェイポイント8として保存していま。これはDATAモードで確認することができます。（今は確認の必要はありません。）",
+    ["DictKey_ActionText_97"] = "GEATR",
+    ["DictKey_ActionText_93"] = "OL1とOL2はNSEQボタンと連動しており、地図上に表示する情報を変更します。",
+    ["DictKey_ActionText_50"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_145"] = "POSと書かれたODUボタン2を押します。",
+    ["DictKey_ActionText_207"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_406"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_UnitName_7"] = "PLAYER",
+    ["DictKey_ActionText_199"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_300"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_98"] = "NAV",
+    ["DictKey_ActionText_65"] = "MAPM（P/B3）を押して、TRAX（P/B1）を押します。",
+    ["DictKey_ActionText_299"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_382"] = "HUDには、選択したTACANステーションへのステアリング情報（方位と距離）が表示されているはずです。今からコブレチのに旋回してください。",
+    ["DictKey_ActionText_103"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_203"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_361"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_215"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_73"] = "ズーム では、地図表示のスケールを追加することができます。\
+\
+設定は現在選択されているSCALEによって異なります：100が設定されていると50、25が設定されていると13、13が設定されていると6、5が設定されていると3となり、3段階の表示レベルが追加されます。\
+\
+P/B 20 でスケールを変更して、ズームの設定を自機中央と自機非中央の両方で確認してみてください。",
+    ["DictKey_ActionText_189"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_169"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_120"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_51"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_239"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_243"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_129"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_descriptionBlueTask_3"] = "天候に恵まれた日中のショートミッションです。\
+\
+ショートミッションで、地上での説明は含まれておりません。\
+\
+ニーボードのページが6枚追加されています。\
+\
+*** 注意\
+\
+スムーズにミッションを進めるためには、すべての指示に従い、ハイライトされた後にのみボタンを押すようにしましょう。（デフォルトでハイライトがない場合は除く）",
+    ["DictKey_ActionText_105"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_240"] = "まず、ボタン１１の横のＷＹＰＴがボックス化していることを確認します。次に、ＤＡＴＡを選択します。",
+    ["DictKey_ActionText_423"] = "",
+    ["DictKey_ActionText_259"] = "これで新しいウェイポイントが作成されました。もう一つの新しいことを学びましょう。コースラインを使って、希望の方位から、または希望の方位でウェイポイントに到着します。",
+    ["DictKey_ActionText_31"] = "HUDに表示されているデータのほとんどが直感的にわかりますが、いくつか注意すべき点があります。\
+\
+まず第一に、速度ベクトル（velocity vector）の左にある数字は校正対気速度（Calibrated Air Speed）を示しています。これは多くの人が考えているような指示対気速度ではありません。\
+\
+KCASは計器誤差と位置誤差を補正したIASです。その下にはマッハ数と対地速度も表示されています。",
+    ["DictKey_ActionText_78"] = "マップ表示をノースアップモードかトラックアップモードに切り替えます。N-UPをアンボックスしてくだい。\
+次に進む準備ができたら教えてください。",
+    ["DictKey_ActionText_376"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_61"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_172"] = "もう少し、細かく調整します。縮尺を5に変更して、ポティの北側にある西側の橋の上にウェイポイントを配置します。\
+\
+ご覧のように、スケールを100や25に設定して素早く移動したり、5や3に設定して細かく調整することができます。",
+    ["DictKey_ActionText_297"] = "マークポイントとウェイポイントの違いは、作成方法だけです。それ以外の点では、 マークポイントは通常のウェイポイントとして扱われます。",
+    ["DictKey_ActionText_216"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_414"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_184"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_75"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_108"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_387"] = "TACANについて最後に説明しておくことは、オフセットモードです。これは多くの場面で非常に有用で、特に船へのリカバリー中にマーシャルを指定された場合に非常に便利です。",
+    ["DictKey_ActionText_331"] = "ODUでTACANオプションを有効にするには、UFCのTCNボタンを押します。",
+    ["DictKey_ActionText_282"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_153"] = "もう一度 ODU ボタン 2 を押します。スクラッチパッドの 6 を押して E と入力し、0420252 と入力して ENTER を押します。",
+    ["DictKey_ActionText_110"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_12"] = "この訓練ミッションへようこそ、ハリアーのナビゲーションシステムの主な機能について説明します。\
+\
+NAVモード、EHSD（電子水平状況表示）、TACAN、ウェイポイント、マークポイント、オフセットについて説明します。",
+    ["DictKey_ActionText_164"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_229"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_267"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_309"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_348"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_395"] = "まず、EHSDでTACANが選択されている状態で、OSB 14を押してオフセットモードの選択を有効にします。",
+    ["DictKey_ActionText_291"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_437"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_179"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_330"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_196"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_321"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_205"] = "スクラッチパッドに「4」が表示されていることを確認してください。これはウェイポイント４が選択されていることを示します。WYPTと書かれたODUボタン1を押します。",
+    ["DictKey_ActionText_226"] = "ESHD と HUD の矢印がオフセットの方向を向いているはずです。それを確認してください。良ければ、ボタン11を押してウェイポイントステアリングに戻ります。",
+    ["DictKey_ActionText_349"] = "ボタン４は、X または Y のどちらかのチャンネルを使用するかを選択します。ニーボードで説明したチャンネル番号と合わせます。",
+    ["DictKey_ActionText_379"] = "(NOT FUNCTIONAL)",
+    ["DictKey_sortie_5"] = "Harrier TM11: ナビゲーション（空中スタート）",
+    ["DictKey_ActionText_28"] = "FL7001",
+    ["DictKey_ActionText_228"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_59"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_204"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_221"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_156"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_177"] = "では、新しい位置のウェイポイント1に向かいます。ESHDで、SCALE、Zoomオプションで、SCALEを50に設定します。",
+    ["DictKey_ActionText_373"] = "最後に、スクラッチパッドにONが表示されていることを確認してください。表示されていない場合は、UFCのON/OFFボタンを押します。",
+    ["DictKey_ActionText_209"] = "オプションがオフセットを意味する WO/S に変わります。ODUボタン2を押して方位（Bearing)を選択し、スクラッチパッドに146と入力してENTERを押します。",
+    ["DictKey_ActionText_213"] = "次に、ODU ボタン 4 を押して距離（Range)を選択し、スクラッチパッドに 13 と入力して ENTER を押します。",
+    ["DictKey_ActionText_341"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_167"] = "TDCスイッチを使ってマップの周りにウェイポイントを移動させます。それをPotiの上に置きます。",
+    ["DictKey_ActionText_422"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_18"] = "INS（慣性航法システム：Inertial Navigations System）は、自己完結型の全自動自律航法システム（fully automatic dead reckoning navigation system）で、外部信号を必要としませんが、時間の経過とともに多少の誤差が蓄積されます。",
+    ["DictKey_ActionText_176"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_102"] = "ここでは、ウェイポイント、マークポイント、オフセットポイントの3つのステアリングモードのうち、最初のものについて説明します。 ",
+    ["DictKey_ActionText_305"] = "準備ができたらSPACE BARを押してください。\
+\
+説明が続きますので、まだMK0を押さないでください！",
+    ["DictKey_ActionText_219"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_251"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_405"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_86"] = "",
+    ["DictKey_ActionText_265"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_419"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_248"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_262"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_197"] = "脅威がBulls　146 for 13だとしましょう。これはウェイポイント4からの方位146、距離13マイルを意味します。\
+",
+    ["DictKey_ActionText_401"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_381"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_55"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_225"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_200"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_317"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_137"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_425"] = "",
+    ["DictKey_ActionText_244"] = "現在選択されているウェイポイント番号がスクラッチパッドに表示されているはずです。77 と入力してエンターキーを押してください。\
+\
+システムは自動的に最初の空きウェイポイントスロットを選択し、その横にアスタリスクを付けて新しいウェイポイントであることを示します。\
+\
+マークポイントを作成していない場合は、ウェイポイント７になりるでしょう。",
+    ["DictKey_ActionText_113"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_22"] = "IFAが選択されている場合、ナビゲーションシステムは密結合モードに入ります。これは、GPSが継続的にIN装置に補正データを提供します。",
+    ["DictKey_ActionText_72"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_230"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_353"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_370"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_368"] = "ODU ボタンの横に X が表示されていることを確認してください。",
+    ["DictKey_ActionText_187"] = "オフセットポイントは、特定のウェイポイント、マークポイント、TACANステーションに対してして設定できます。\
+\
+つまり、フライトプランの各ウェイポイントに対して、1つのユニークなオフセットポイントを作成することができます。",
+    ["DictKey_ActionText_420"] = "やる気があれば、コブレティに進んで着陸してください。 または今すぐミッションを終了しても構いません。\
+これでナビゲーション訓練は終了です。",
+    ["DictKey_ActionText_367"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_313"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_354"] = "TONEオプションでは、TACANの識別トーンをON/OFFすることができます。ボリュームはACNIPパネルのアウターボリューム（AUX）ノブで調整できます。",
+    ["DictKey_ActionText_111"] = "現在選択されているウェイポイントは、中に点のある円で示されています。\
+\
+ウェイポイント・ベアリング・ポインター（コンパスローズの内側にある小さな円が入った三角形）がその方向を指しています。\
+\
+また、HUDの方位テープには、選択された目的地への方位が示されています。このままウェイポイント３に向かって進んでください。",
+    ["DictKey_ActionText_39"] = "それでは、NAVマスターモードから始めましょう。離陸して10000 ftまで上昇し、ウェイポイント１に向かって飛行してください。ギアを上げ、NAVマスターモードを選択した状態で、その高度に到着したら始めます。",
+    ["DictKey_ActionText_94"] = "（文なし）",
+    ["DictKey_ActionText_410"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_90"] = "このボタンを押すと、マップ上に地図画像が表示されます。逆に、既にボックス化されている場合は、地図画像表示を無効にします。",
+    ["DictKey_ActionText_393"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_174"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_194"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_152"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_339"] = "最初の２つはT/R（送受信）とRCV（受信のみ）です。\
+\
+T/Tは選択した局からの方位と距離の両方を提供します。RCVは方位のみを表示します。",
+    ["DictKey_ActionText_81"] = "MAPM（P/B3）を押して、EHSIを押します。",
+    ["DictKey_ActionText_290"] = "(NOT FUNCTIONAL)",
+    ["DictKey_WptName_9"] = "Waypoint 1",
+    ["DictKey_ActionText_303"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_277"] = "では、ラインの方に向かい、ウェイポイントの南のラインをインターセプトしてください。\
+\
+線に近づいてきたら地図の縮尺を変えて精度を上げてください。\
+\
+高度２０００フィートまで降下して 方位０３１でラインの真上を飛ぶようにしてください。",
+    ["DictKey_ActionText_394"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_337"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_77"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_38"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_118"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_283"] = "まずは、ディスプレイの設定と表示されるものを変更することを中心に説明します。そのためには、MAPPM（P/B 3）を押します。",
+    ["DictKey_ActionText_96"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_426"] = "EASTER EGG",
+    ["DictKey_ActionText_320"] = "(NOT FUNCTIONAL)",
+    ["DictKey_ActionText_322"] = "レッスン最後のTACANをに移りましょう。",
+} -- end of dictionary
