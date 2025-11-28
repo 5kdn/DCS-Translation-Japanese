@@ -1,0 +1,253 @@
+dictionary = 
+{
+    ["DictKey_ActionText_208"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_186"] = "マーシャルエリアに着きました。ここでアンカーしてください。着陸そのものについて説明します。",
+    ["DictKey_ActionText_53"] = "ご覧のように、機体はコールド状態からスタートします。最初に行うことは、艦上でINSシーアライメント（sea alignment ）を行うことです。",
+    ["DictKey_ActionText_55"] = "機体の始動を開始してください。エンジンがかけて、通常のINSアライメントを行う手前で止めてください。\
+\
+デッキクルーに必ず ground power を要求してください。デッキクルーは、SINS（Ship Inertial Navigation System：船舶慣性航法装置）との通信に使用される「デッキケーブル（deck cable）」も接続します。",
+    ["DictKey_ActionText_68"] = "再度ODUボタン1を押して、次は軽度（longitude）の入力をしてENTを押してください。",
+    ["DictKey_ActionText_155"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_198"] = "5000フィートまで来たら、下降速度を落として1200フィートでゲート（GATE）に到着することを目指してください。ゲートは常にBRCの12DME地点です。",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_ActionText_277"] = "これで基礎は学びました。では、次のステップに移りましょう。TACANをセットアップしMOTHERに向かって飛行し、管制エリアに入ります。\
+\
+管制と特定のマーシャルから指示がでます。そうしたら、次のステージ、ランディングパターンに移ります。",
+    ["DictKey_ActionText_85"] = "通常、あなたがデッキにアライン（整列）したら、、デッキクルーがトートボード（Tote Board）を表示し、次の情報を伝えます。：離陸のタイプ、ノズルローテーションラインからの距離、必要なトリム、ノズル設定、ウェットまたはドライ離陸、機体の重量。\
+\
+トートボードは次のように表示されますので、書き留めてください。",
+    ["DictKey_UnitName_12"] = "Tarawa Escort 3",
+    ["DictKey_ActionText_107"] = "加速しながらウイングボーン飛行に移行し、左に10°旋回し、AGL500フィート以下を維持しながら5nmを直進します。\
+\
+そこからウェイポイント１に旋回し、3000フィートまで上昇してください。",
+    ["DictKey_ActionText_222"] = "ターンは計器ターンを行います。、バンク角20～25度のターンで、AoAは10～12ユニット、90度旋回時に400～450フィートに到達するようにしてください。",
+    ["DictKey_GroupName_40"] = "Helo on Deck",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_ActionText_196"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_sortie_5"] = "AV-8B TM 09: ケース１（CASE I） ",
+    ["DictKey_UnitName_47"] = "Helo on Deck",
+    ["DictKey_ActionText_104"] = "ショートテイクオフ \"の準備が整いました。\
+\
+手順は地上からの場合とほぼ同じですが、主な違いは、前輪が船の前方にあるノズルローテーションラインに達した時にノズルを回転させることです。\
+\
+ピッチキャレットと5°ピッチバーの間の姿勢を維持するために、すこしスティックを前方してピッチレートの動きを止める必要があるかもしれません。ノーズをデッキから引き離さないようにしてください。",
+    ["DictKey_ActionText_100"] = "次は、ツーフィンガーアクセルチェックの時間です。\
+\
+エンジンを６０％まで上げ、加速時間が制限内にあることを確認します。ノズルをＳＴＯストップに置き、ダクト圧、ノズル、フラップのチェックを行います。\
+\
+完了したら、ノズルを１０度に戻してください。",
+    ["DictKey_ActionText_238"] = "準備ができたなら、やってみよう! \
+EHSDページでTCNが選択されていることを確認してください。まだであればP/B 5を押して選択してください。",
+    ["DictKey_ActionText_183"] = "",
+    ["DictKey_ActionText_173"] = "TACANをセットしてMOTHER方に向かってください。 50マイル以内に入ったら、管制から指示をだします。",
+    ["DictKey_ActionText_181"] = "（指定されたマーシャルポイントへ飛んでください。やり方がわからない場合はニーボードで確認してください。スペースバーを押すと、これらのメッセージは削除されます。）",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_ActionText_236"] = "着地練習の準備ができたらSPACE BARをしてください。",
+    ["DictKey_ActionText_157"] = "ベースリカバリーコース（BRC)とは、船のコースのことです。EHSDページに船のTACANを選択した状態で、コース設定ノブを使って設定してください。",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_ActionText_255"] = "ダウンウインドで600フィートまで降下し、10-12AoAを維持します。ここで着陸チェックを行ってください。",
+    ["DictKey_UnitName_49"] = "Tarawa Escort 4",
+    ["DictKey_ActionText_76"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_161"] = "最初は複雑に聞こえるかもしれませんが、すぐにコツをつかめます。\
+\
+困った時は、時間をかけてニーボードの説明書をよく読んでくだい。",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_153"] = "原則として、TACAN PRIMARY MARSHALは、ベースリカバリーコース（BRC：Base Recovery Course）に対して180度の方向にあります。距離は15NMにベース高度から高度1000フィート高くなるごとに1NMの距離を加えてます。ベース高度はエンジェル6以下にはなりません。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_UnitName_38"] = "Harrier on Deck #001",
+    ["DictKey_ActionText_275"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_125"] = "リカバリーについて話をします。イニシャルコンタクト（ initial contact）、デルタ（delta ）、マーシャルパターン（marshal pattern）、そしてCASE1リカバリー（CASE 1 recovery）を扱います。",
+    ["DictKey_GroupName_20"] = "PLAYER",
+    ["DictKey_ActionText_137"] = "水陸両用航空管制センター（AATCC：Amphibious Air Traffic Control Center ）から以下の情報が返ってきます。：デルタまたはマーシャルの指示、高度計設定、風、天候、BRC（母艦の進行方向）、管制エリアへの進入許可、その他の重要な情報。",
+    ["DictKey_ActionText_212"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_ActionText_123"] = "準備ができたらSPACE BARを押してください。WP 1への途中で説明を行います。",
+    ["DictKey_GroupName_31"] = "Harrier on Deck",
+    ["DictKey_ActionText_218"] = "旋回のタイミングは風速に左右されます。20ノット以上の場合は、アビームに到着する前に旋回を始めてください。\
+\
+10～20ノットの間であれば、アビームに到着してから旋回します。それ以下の場合は、2-4秒遅らせて旋回します。",
+    ["DictKey_ActionText_149"] = "それでは、ニーボードをMARSHALページに切り替えます。\
+\
+マーシャルは、着陸の許可を待っている間、あなたの待機場所となります。\
+\
+TACANマーシャルは２ヶ所あります。プライマリー（Primary ）とオーバーヘッド（Overhead）です。\
+\
+オーバーヘッドについては、最も一般的に使用されることになるので、ここで取り上げます。",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_UnitName_11"] = "Tarawa Escort 2",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_50"] = "この訓練では、ショートテイクオフやケース１（CASE I）リカバリーなど、AV-8Bハリアーの主要な艦船手順を説明します。 ",
+    ["DictKey_GroupName_43"] = "Helo on Deck #001",
+    ["DictKey_ActionText_165"] = "MARSHALの話に戻ります。「angels 8, BRC 060」と指示されたとします。\
+\
+これは、あなたのホールドパターンは 船から方位方位240、距離23（15+8）マイルでの地点です。 ホールド中のレグの長さは 10マイルを超えていけません。",
+    ["DictKey_GroupName_27"] = "New Airplane Group",
+    ["DictKey_ActionText_98"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_244"] = "着地練習の準備ができたらSPACE BARをしてください。",
+    ["DictKey_ActionText_92"] = "これで通常の離陸チェックが完了しました。必ずアンチスキッドをオフにして、レーダー高度計を選択し、STOストップレバーを正しい位置にセットしてください。アライメントが完了したら、NAVからIFAに切り替えることを忘れないでください。",
+    ["DictKey_ActionText_252"] = "いいですよ。ブレイクしますので、船のスタボードサイド（右側）を通過してください。\
+\
+船首を通過して１０秒後に 左側にブレイクを行ってください。",
+    ["DictKey_ActionText_169"] = "このままウェイポイント1に進んで、 そこにアンカーしてください。",
+    ["DictKey_ActionText_120"] = "では、周回にはいり、AFCを作動させてください。",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_ActionText_129"] = "ミッション後に母艦に戻ってくる際には、まず航空管制（Air Traffic Control）に連絡し、FATHERでの自機位置、高度、最低燃料の状態、残っている兵器などについて報告します。",
+    ["DictKey_ActionText_88"] = "TOTE BOARD\
+1. STO\
+2. 460\
+3. 0 deg (neutral)\
+4. 60 deg\
+5. DRY\
+6. 25250",
+    ["DictKey_ActionText_240"] = "着地練習の準備ができたらSPACE BARをしてください。",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_ActionText_74"] = "ODU上に、いくつかの新しいオプションが表示されているはずです。\
+\
+現在コロン化されているDECKは、データケーブルが接続されていることを教えてくれます。\
+\
+ケーブルが利用できない場合はCOM 1とCOM 2が使用されます。その場合は船内の無線機を使用して船内のINSと通信することができます。",
+    ["DictKey_ActionText_127"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_61"] = "",
+    ["DictKey_ActionText_110"] = "ウェイポイント１に着いたら、そこでアンカーしてください。かなり離れていますので、高度3000フィートに到達したら、AFCを作動させてください。途中で基本的な説明をします。NAVモードに切り替えるのを忘れないでください。",
+    ["DictKey_ActionText_141"] = "ニーボードのDELTA のページを開きます。\
+\
+デルタは船をオーバヘッド左旋回する標準的なVFRパターンで、ケース１の運用に使用されます。飛行中は船から5DME内にいてください。",
+    ["DictKey_ActionText_224"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_UnitName_44"] = "Helo on Deck",
+    ["DictKey_UnitName_28"] = "Pilot #001",
+    ["DictKey_ActionText_279"] = "AFCをONにした状態でウェイポイント1に到着したらスペースバーを押してください。",
+    ["DictKey_ActionText_132"] = "まず、今回のレッスンに役立つ専門用語をいくつか。\
+\
+MOTHER（マザー）はあなたの母艦\
+FATHER（ファーザー）は母艦のTACAN\
+\
+CHARLIE（チャーリー）はリカバリー中にデッキ端を横切る時間です。",
+    ["DictKey_ActionText_210"] = "ダウンウィンドレグで600フィートまで降下し、通常のランディングチェック（アンチスキッド、外部ライトをオフなど）を行います。MOTHERから0.8～1nmの距離にいてください。",
+    ["DictKey_GroupName_13"] = "Harrier on Deck A",
+    ["DictKey_UnitName_14"] = "Harrier on Deck A",
+    ["DictKey_descriptionText_1"] = "このミッションでは、船上でのINSの合わせ方を学び、離陸してからリカバリーしてデッキに安全に着陸する方法を学びます。\
+\
+これはコールドスタートのミッションです。LHAのデッキからスタートします。  \
+\
+ジェットを始動し、INSのアライメントを行い、ショートテイクオフの準備をします。その後、母艦のコントロールエリアを超えた地点に進み、さまざまなホールディングパターンの概要を説明します。その後、船の方に引き返し、すべての指示の元で、船後方のマーシャルポイントに行きます。最後に、指示を受けたら、スタンダードパターンで垂直着陸を行います。 ",
+    ["DictKey_ActionText_226"] = "船の後方0.5～0.75nmで、高度約300～350フィートでファイナル（グルーブ）に入ってください。\
+\
+3度のグライドスロープを保ち、ノズルをホバーストップ位置にセットし、船の左舷側（port side）のオフセットポイントに向かって、船の端から約1機分離して飛行します。",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_GroupName_23"] = "HELO ",
+    ["DictKey_ActionText_171"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_90"] = "（スペースバーを押してくだい。データを確認したことを親指を立てて知らせます。）",
+    ["DictKey_ActionText_139"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_GroupName_37"] = "Harrier on Deck #002",
+    ["DictKey_ActionText_83"] = "（準備ができたらSPACE BARを押してください。アライメントが終わるまで待つ必要はありません。）",
+    ["DictKey_ActionText_202"] = "次のステップはイニシャル（INITIAL）です。3 NM後方800フィートの地点です。そこからブレイク（break）に入ります。",
+    ["DictKey_ActionText_204"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_228"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_116"] = "[準備ができたら離陸してください]",
+    ["DictKey_ActionText_191"] = "マーシャルからの離脱は、コントロールからマーシャル離脱（出発）の許可が出るか、指定されたチャーリー（CHARLIE）タイムに合わせて自ら離脱（出発）を判断するかのどちらかになります。",
+    ["DictKey_descriptionBlueTask_3"] = "天気の良い日中の標準的な条件のミッションです。\
+\
+これはロングバージョンのミッションで、全ての項目を網羅しています。\
+\
+追加でニーボード8ページを用意しています。\
+\
+***重要情報  ***\
+\
+艦のTACAN（Father）：44X\
+\
+スタートポジション。\
+\
+N 42 07 08\
+E 040 04 50\
+\
+***注意***\
+\
+ミッションをスムーズに進めるためには、すべての指示に従い、ハイライトされた後にのみボタンを押してください。（デフォルトでハイライトされていない場合は除く）\
+\
+このミッションを行う前に、以下の手順を確認しておきましょう。\
+\
+- コールドスタート\
+- ショートテイクオフ\
+- 垂直着陸 ",
+    ["DictKey_ActionText_273"] = "さて、海軍で使われている用語について考えたことはありますか？\
+マザー、ファーザー、パドル......インターセプトベクターのようなシリアスなものでも、BRAコールと呼ばれています。これはまるで大学でプレイされているゲームのようで、1機何百万ドルもする戦闘機を指揮しているようは聞こえませんね。",
+    ["DictKey_ActionText_134"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_167"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_GroupName_46"] = "Helo on Deck #002",
+    ["DictKey_ActionText_78"] = "MPCDには QUAL NOT OK と表示され、その下のタイマーがカウントアップしています。\
+\
+アライメントにかかる時間は約3分です。アライメントクオリティ値が 3.0 を下回った後は、いつでも INS モードセレクターをNAVに合わせて結構です。\
+\
+OK　と表示されたら、INS モードセレクターノブをNAVまたは IFA に置くことができます。",
+    ["DictKey_WptName_118"] = "ANCHOR",
+    ["DictKey_ActionText_113"] = "",
+    ["DictKey_ActionText_270"] = "非常によくできました！　船への着地には多くの練習が必要です。トレーニング タブの下にショートバージョンを使用して練習を重ねてください。",
+    ["DictKey_ActionText_63"] = "DATA（P/B 2）を選択し、A/C（P/B 16）を選択します。",
+    ["DictKey_ActionText_176"] = "Dodge 1-1, Control, Marshal at angels 6, BRC 351, CAVOK, altimeter 29.88, cleared to enter control area. \
+\
+Dodge 1-1, コントロール（管制）、エンジェル6(6000ft)でマーシャル、BRC 351、CAVOK高度29.88、管制エリアへの進入を許可します。",
+    ["DictKey_ActionText_58"] = "左MPCDにEHSDのページをセットします。",
+    ["DictKey_UnitName_35"] = "Harrier on Deck",
+    ["DictKey_ActionText_65"] = "現在の緯度（latitude）を入力し、ENTを押してください。",
+    ["DictKey_UnitName_21"] = "PLAYER",
+    ["DictKey_UnitName_7"] = "USS Tarawa",
+    ["DictKey_ActionText_232"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_GroupName_34"] = "Harrier on Deck #001",
+    ["DictKey_ActionText_200"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_145"] = "さて、DMEというのは、もう一つ理解しておくべき重要な用語です。\
+\
+DMEはDistance Measuring Equipment（距離測定装置）の略で、船のリカバリーではTACAN（FATHER）を表します。\
+\
+つまり、X DMEの範囲内に留まれと言われた時は、EHSDページに表示されているTACANからの距離がその数字（X)を超えてはならないということです。",
+    ["DictKey_ActionText_102"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_UnitName_41"] = "Harrier on Deck",
+    ["DictKey_ActionText_135"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_ActionText_179"] = "通常、この情報をリードバック（読み返す）して、指示されたマーシャルポイントへ向かいます。\
+\
+このミッションでは、目印として駆逐艦をMOTHER後方21nmの位置に配置しています。",
+    ["DictKey_UnitName_16"] = "Harrier on Deck B",
+    ["DictKey_ActionText_261"] = "高度300〜325フィートでグルーブに到着し、ノズルはホバーストップ位置です。3度のグライドパスを維持し、120フィートで着陸地点から横に飛行機の1つ分の幅をとってホバリングします。",
+    ["DictKey_ActionText_230"] = "着陸が許可されたら、指定された着陸位置に入り、垂直着陸を行います。船は一定の速度で移動していることに注意してください。",
+    ["DictKey_ActionText_159"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_UnitName_24"] = "HELO ",
+    ["DictKey_ActionText_242"] = "着地練習の準備ができたらSPACE BARをしてください。",
+    ["DictKey_ActionText_151"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_188"] = "",
+    ["DictKey_ActionText_189"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_81"] = "ODUボタン2を押してMVARをコロン化し、適切な磁気偏角を入力してENTを押します。",
+    ["DictKey_ActionText_206"] = "ブレイクは、船の右舷側を飛び、船首を通過してから10秒後に左に水平ブレイクを行います。",
+    ["DictKey_ActionText_214"] = "アビーム（船尾の真横ライン）に到着したら、以下のチェックを完了させてください。\
+\
+ノズルを50度～60度にセット、アビームコールを行う。\
+グルーブ（ファイナル）に向かって旋回してください。",
+    ["DictKey_ActionText_163"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_94"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_264"] = "安定したホバー状態になり、準備が整ったら、デッキの上に進入して着地してください。",
+    ["DictKey_ActionText_267"] = "デッキに着きました！　パワーをアイドルに落とし、ブレーキをかけ、ノズルを0度にして、ウォータースイッチを切ってください。（使用されている場合）",
+    ["DictKey_ActionText_258"] = "アビームで、ノズルを50～60度にセットし、バンク角20～25度の計器旋回を行いファイナル（グルーブ：GROOVEに入ります。）",
+    ["DictKey_ActionText_216"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_194"] = "出発後の速度は250kiasです。降下速度は毎分4～6,000フィートで行って下さい。\
+\
+出発したことと、現在の高度計設定をセンターに報告してください。",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_UnitName_17"] = "Harrier on Deck C",
+    ["DictKey_ActionText_57"] = "アライメントを開始する準備ができたらスペースバーを押します。",
+    ["DictKey_ActionText_143"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_249"] = "ゲートに到着しました。3マイル後方にあるイニシャル（INITIAL）に向かって飛行を続けてください。そこには800フィートで到着してください。",
+    ["DictKey_UnitName_10"] = "Tarawa Escort 1",
+    ["DictKey_ActionText_246"] = "ジェット機をコースラインに合わせ、250KIASでマーシャルを出て、降下を開始します。ゲートを目指します。12DME、レーダー高度 1200フィートの地点です。",
+    ["DictKey_ActionText_60"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_UnitName_32"] = "",
+    ["DictKey_ActionText_71"] = "OK、パーキングブレーキがオンになっていることを確認し、INSノブをSEA位置にします。",
+    ["DictKey_GroupName_6"] = "USS Tarawa",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_ActionText_220"] = "（次に進む準備ができたらスペースバーを押してください）。",
+    ["DictKey_ActionText_96"] = "ワンフィンガーチェックの時間です。ローテーションラインでノズルを回転させますので、NRASの設定は必要ありません。ピッチキャレットを確認し、スタビライザートリムをブリーフィングの値に設定します。",
+    ["DictKey_ActionText_122"] = "",
+    ["DictKey_ActionText_234"] = "タッチダウンしたら、出力を下げてアイドル状態にし、ブレーキをかけ、ノズルを0度にして、ウォータースイッチ（使用している場合）をオフにします",
+    ["DictKey_ActionText_147"] = "（次に進む準備ができたらスペースバーを押してください）。",
+} -- end of dictionary
