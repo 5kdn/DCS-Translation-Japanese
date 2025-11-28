@@ -1,0 +1,446 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_18"] = "Двигатели запущены, можно поддать газу. Введите правую коррекцию, повернув рукоятку коррекции полностью вправо, клавиша |PgUp|. Произойдет выход частоты вращения двигателей на номинал, а также включение регулятора оборотов НВ, который стабилизирует обороты НВ в районе 95%",
+    ["DictKey_ActionText_170"] = "На этом урок по АРК-9 завершен. Удачных полетов!",
+    ["DictKey_WptName_314"] = "",
+    ["DictKey_GroupName_29"] = "Player",
+    ["DictKey_GroupName_226"] = "Statics #003",
+    ["DictKey_UnitName_233"] = "Statics #029",
+    ["DictKey_GroupName_65"] = "Statics #024",
+    ["DictKey_UnitName_62"] = "Statics #022",
+    ["DictKey_UnitName_251"] = "Statics #025",
+    ["DictKey_GroupName_47"] = "Statics #010",
+    ["DictKey_20"] = "На электрощитке установите выключатели ГЕНЕРЕТОРЫ I, II в верхнюю позицию для включения обоих генераторов переменного тока.",
+    ["DictKey_GroupName_214"] = "Statics #027",
+    ["DictKey_GroupName_73"] = "Statics #028",
+    ["DictKey_10"] = "Теперь нам требуется запустить ВСУ. Установите переключатель рода работ в верхнюю позицию, для нормального запуска ВСУ. * |LALT + E|",
+    ["DictKey_WptName_312"] = "",
+    ["DictKey_GroupName_113"] = "Statics #007",
+    ["DictKey_GroupName_298"] = "Statics #037",
+    ["DictKey_UnitName_218"] = "Statics #068",
+    ["DictKey_GroupName_51"] = "Statics #016",
+    ["DictKey_25"] = "Далее необходимо включить автопилот. Нажмите зеленную кнопку-лампу на пульте управления автопилотом для включения автопилота по каналу тангажа/рыскания. * |LWIN + A|",
+    ["DictKey_GroupName_247"] = "Statics #024",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_UnitName_90"] = "Statics #037",
+    ["DictKey_UnitName_76"] = "Statics #029",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_GroupName_45"] = "Statics #003",
+    ["DictKey_GroupName_259"] = "Statics #007",
+    ["DictKey_UnitName_74"] = "Statics #028",
+    ["DictKey_ActionText_344"] = "",
+    ["DictKey_12"] = "Машина готова к запуску. В данном уроке мы начнем с левого двигателя. Обратите внимание, что штатно первым запускается двигатель, расположенный с подветренной стороны, однако сегодня штиль, поэтому запуск можно начать с любого из двигателей.\
+\
+На панели запуска установите переключатель ЛЕВ <-> ПРАВ в положение ЛЕВ, для запуска двигателя левого.\
+Переключатель рода работ в положение ЗАПУСК, для выполнения нормального запуска.",
+    ["DictKey_6"] = "インナーNDB周波数を合わせますので、\"Б – Д\" (INNER/BACKUP  NDB - OUTER/MAIN NDB)  スイッチの\"Б\" ( B：INNER NDB)の方を合わせてください。\
+\
+周波数ダイアル（RESERVE B)を使いMaykop-KhanskayaのインナーNDBの周波数591Khzに合わせます。\
+\
+ダイアルを回すと100KHｚ単位で変更できます。（まず500まで回してしばらく待ちます。）",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_UnitName_290"] = "Statics #017",
+    ["DictKey_4"] = "Для переключения гарнитуры на прием позывных сигналов радиостанций установите переключатель выбора радиосредств абонентского аппарата СПУ в положение \"РК 1\", а переключатель \"СПУ–РАДИО\" в положение \"РАДИО\".\
+\
+Если мешает подсветка нажмите |SPACE|.",
+    ["DictKey_descriptionRedTask_116"] = "Maykop-Khanskayaの方向を見つけてください。\
+\
+INNER NDB 591 KHz (4:D 22:R)\
+OUTER NDB 289 KHz (4:DG 22:RK)",
+    ["DictKey_GroupName_265"] = "Statics #016",
+    ["DictKey_ActionText_347"] = "",
+    ["DictKey_UnitName_48"] = "Statics #010",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_GroupName_33"] = "New Vehicle Group",
+    ["DictKey_descriptionBlueTask_117"] = "",
+    ["DictKey_GroupName_220"] = "Statics #028",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_UnitName_299"] = "Statics #037",
+    ["DictKey_GroupName_103"] = "Statics #065",
+    ["DictKey_GroupName_35"] = "Statics",
+    ["DictKey_GroupName_241"] = "Statics #031",
+    ["DictKey_UnitName_78"] = "Statics #030",
+    ["DictKey_WptName_315"] = "",
+    ["DictKey_GroupName_95"] = "Statics #009",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_UnitName_46"] = "Statics #003",
+    ["DictKey_GroupName_31"] = "New Helicopter Group #001",
+    ["DictKey_GroupName_223"] = "Statics #029",
+    ["DictKey_UnitName_114"] = "Statics #007",
+    ["DictKey_UnitName_50"] = "Statics #013",
+    ["DictKey_UnitName_263"] = "Statics #004",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_GroupName_235"] = "Statics #032",
+    ["DictKey_GroupName_83"] = "Statics #033",
+    ["DictKey_ActionText_346"] = "次に、右リアコンソールの115VACインバータースイッチを右クリックしてРУЧНОЕ (MANUAL)位置にして、DC電流をAC電流に変換します。",
+    ["DictKey_ActionText_363"] = "",
+    ["DictKey_WptName_279"] = "",
+    ["DictKey_UnitName_56"] = "Statics #019",
+    ["DictKey_UnitName_80"] = "Statics #031",
+    ["DictKey_UnitName_32"] = "Pilot #003",
+    ["DictKey_UnitName_287"] = "Statics #033",
+    ["DictKey_sortie_118"] = "ARC-9 自動無線コンパス （方向探知)　",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_21"] = "На правой боковой панели электропульта установите выключатели ВЫПРЯМИТЕЛИ I, II, III в верхнюю позицию для преобразования переменного тока генераторов в постоянный.",
+    ["DictKey_GroupName_71"] = "Statics #027",
+    ["DictKey_GroupName_196"] = "Statics #080",
+    ["DictKey_27"] = "Звуковой сигнал, предупреждающий о снижении на опасную высоту, свидетельствует об исправности аппаратуры радиовысотомера.\
+\
+Поверните кремальеру радиовысотомера против часовой стрелки для установки опасной высоты на 0 метров и отключения звукового сигнала. В дальнейшем вы можете установить требуемую границу опасной высоты, повернув кремальеру по часовой стрелке. \
+",
+    ["DictKey_UnitName_58"] = "Statics #020",
+    ["DictKey_UnitName_248"] = "Statics #024",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_UnitName_224"] = "Statics #029",
+    ["DictKey_WptName_288"] = "",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_UnitName_54"] = "Statics #017",
+    ["DictKey_UnitName_34"] = "Unit #1",
+    ["DictKey_GroupName_107"] = "Statics #078",
+    ["DictKey_WptName_258"] = "",
+    ["DictKey_ActionText_171"] = "これでARC-9の練習を終了します。安全な航行を！",
+    ["DictKey_UnitName_64"] = "Statics #023",
+    ["DictKey_15"] = "Повторите процедуру запуска для правого двигателя, установив переключатель ЛЕВ <-> ПРАВ в позицию ПРАВ. * |E|",
+    ["DictKey_GroupName_37"] = "Statics #001",
+    ["DictKey_GroupName_190"] = "Statics #065",
+    ["DictKey_GroupName_69"] = "Statics #026",
+    ["DictKey_GroupName_208"] = "Statics #001",
+    ["DictKey_UnitName_215"] = "Statics #027",
+    ["DictKey_GroupName_202"] = "Statics #077",
+    ["DictKey_UnitName_68"] = "Statics #025",
+    ["DictKey_GroupName_178"] = "Statics #012",
+    ["DictKey_GroupName_304"] = "Statics #036",
+    ["DictKey_GroupName_256"] = "Statics #013",
+    ["DictKey_UnitName_203"] = "Statics #077",
+    ["DictKey_UnitName_305"] = "Statics #036",
+    ["DictKey_26"] = "Включите радиовысотомер, переведя выключатель РАДИОВЫС в верхнюю позицию. В течение нескольких секунд будет осуществлена самодиагностика аппаратуры радиовысотомера. ",
+    ["DictKey_UnitName_86"] = "Statics #034",
+    ["DictKey_GroupName_61"] = "Statics #022",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_GroupName_55"] = "Statics #019",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_GroupName_217"] = "Statics #068",
+    ["DictKey_UnitName_70"] = "Statics #026",
+    ["DictKey_UnitName_98"] = "Statics #012",
+    ["DictKey_8"] = "Попадание в частоту определяется по  отклонению стрелочного индикатора и звучанию позывных станции в гарнитуре. Громкость устанавливается соответствующим регулятором на пульте управления радиокомпасом. \
+\
+Переключите род работы в положение \"КОМП.\"  для активации  стрелок приборов УГР-4УК на указание пеленга излучающей станции. Для работы с АРК-9 переключатель под указателем курсовой системы на левой приборной доске должен быть установлен в положение \"АРК СВ\".",
+    ["DictKey_GroupName_286"] = "Statics #033",
+    ["DictKey_16"] = "Для запуска правого двигателя повторно нажмите кнопку ЗАПУСК на 2-3 секунды. \
+\
+Переведите правый кран ОСТАНОВ ДВИГ в позицию “открыто”.",
+    ["DictKey_ActionText_370"] = "",
+    ["DictKey_GroupName_59"] = "Statics #021",
+    ["DictKey_UnitName_96"] = "Statics #009",
+    ["DictKey_ActionText_352"] = "",
+    ["DictKey_GroupName_63"] = "Statics #023",
+    ["DictKey_2"] = "ようこそ、ARC-9 ADFの使いかたを練習します。\
+ARC-9はNDBビーコンと無線基地局を利用してのナビテーションで使用します。ADFは無線基地局の相対方位を示し、基地局のコールサインを聞くことができます。この信号を利用して基地局へ向かったり、離れたりします。\
+\
+スペースキーを押すと次に進みます\
+",
+    ["DictKey_ActionText_308"] = "さらに、上面にあるサーキットブレーカーパネルを見てください。\"КОМПАС СВ\" (ADF MW) と \"СПУ\" (INTERCOM) をオンにしてください。",
+    ["DictKey_GroupName_229"] = "Statics #028",
+    ["DictKey_GroupName_274"] = "Statics #022",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_GroupName_67"] = "Statics #025",
+    ["DictKey_GroupName_184"] = "Statics #009",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_GroupName_79"] = "Statics #031",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_UnitName_197"] = "Statics #080",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_ActionText_358"] = "正確な調整はアジャスタノブで行います。\
+このノブはー10~＋20KHzの範囲でで調節できます。",
+    ["DictKey_UnitName_102"] = "Statics #064",
+    ["DictKey_28"] = "На этом урок по АРК-9 завершен. Удачных полетов!",
+    ["DictKey_3"] = "まずはじめに、ヘリコプターの電源を入れましょう。バッテリーを電源網に接続するには、右側のDC電源コントロールパネルのАККУМУЛ I, II (BATTERY I, II)スイッチを上にしてください。\
+\
+ヒント：「３」キーを押してクルーチーフ席に移動しましょう。（「２」コパイでもOK）",
+    ["DictKey_UnitName_108"] = "Statics #078",
+    ["DictKey_GroupName_97"] = "Statics #012",
+    ["DictKey_19"] = "Теперь можно произвести отключение ВСУ. Нажмите кнопку ВЫКЛ АИ-9В на средней панели электропульта. * |END|",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_UnitName_66"] = "Statics #024",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_ActionText_371"] = "",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_ActionText_367"] = "NDB周波数は「F10」マップで空港をクリックすると調べることができます。\
+\
+正しく調整されると、ADFコールサイン（文字）がもモールス信号で聞こえてきます。\
+\
+Maykop-Khanskaya空港では航空機は両方のサイドから離着陸が可能です。滑走路の運用方向に対応するNDBだけが使用可能です。今回は滑走路２２が運用滑走路です。左側にあるコールサインの文字を見てください。\
+\
+無線コンパスが正しく設定されているかを確認するために、聞こえてくるNDBコールサインの文字と、ブリーフィングに載っているモールス信号とを比較してください。\
+注意：\
+F10マップでMaykop-Khanskayaの空港情報を見ることができませんでした。下記の値を参考にしてくだし。\
+（滑走路２２と言っていますが、翻訳時は４でした）\
+INNER NDB 591 KHz (4:D 22:R)\
+OUTER NDB 289 KHz (4:DG 22:RK)\
+ブリーフィング画面４枚目にモールス符号が載っています。",
+    ["DictKey_UnitName_182"] = "Statics #064",
+    ["DictKey_UnitName_104"] = "Statics #065",
+    ["DictKey_ActionText_168"] = "次は、 \"Б – Д\" (INNER NDB - OUTER NDB)  スイッチを \"Д\" (A:OUTER NDB) の位置にしてください。\
+ARC-9のOUTER NDBの周波数を289KHｚに合わせます。ダイアルはОСНОВНОЙ Д (MAIN D)と書いてある方を使います。",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_UnitName_92"] = "Statics #068",
+    ["DictKey_UnitName_179"] = "Statics #012",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_WptName_264"] = "",
+    ["DictKey_GroupName_205"] = "Statics",
+    ["DictKey_GroupName_91"] = "Statics #068",
+    ["DictKey_WptName_306"] = "",
+    ["DictKey_GroupName_93"] = "Statics #005",
+    ["DictKey_7"] = "Попадание в частоту определяется по  отклонению стрелочного индикатора и звучанию позывных станции в наушниках.\
+\
+Далее установите переключатель \"Б – Д\" в положение \"Д\" и аналогичным способом настройте радиокомпас на ДПРМ 525 КГц.\
+",
+    ["DictKey_UnitName_236"] = "Statics #032",
+    ["DictKey_UnitName_284"] = "Statics #034",
+    ["DictKey_UnitName_188"] = "Statics #015",
+    ["DictKey_ActionText_355"] = "ノブを回すと10KHｚ単位で変更できます。",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_UnitName_275"] = "Statics #022",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_GroupName_187"] = "Statics #015",
+    ["DictKey_GroupName_85"] = "Statics #034",
+    ["DictKey_UnitName_191"] = "Statics #065",
+    ["DictKey_UnitName_281"] = "Statics #006",
+    ["DictKey_GroupName_280"] = "Statics #006",
+    ["DictKey_ActionText_166"] = "",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_UnitName_176"] = "Statics #005",
+    ["DictKey_13"] = "На 2-3 секунд нажмите кнопку ЗАПУСК. *|HOME| \
+\
+Как только указатель частоты левого двигателя покажет рост оборотов переведите левый кран ОСТАНОВ ДВИГ, расположенный на потолке кабины, над местом летчика-командира, в положение “открыто”.\
+",
+    ["DictKey_GroupName_81"] = "Statics #032",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_ActionText_359"] = "",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_GroupName_268"] = "Statics #034",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_14"] = "В ходе запуска двигателя, контролируйте показания приборов на левой приборной доске: рост температуры двигателя, рост частоты вращения двигателя и НВ.\
+\
+При выходе двигателя на режим малого газа (МГ), частота вращения должна установиться в диапазоне 70-75%.\
+",
+    ["DictKey_24"] = "Установите переключатель СПУ-РАДИО в нижнюю позицию для перехода из режима внутривертолетной связи на внешнюю радиосвязь: командную УКВ радиостанцию. \
+\
+Радиостанция обеспечивает связь с РП и летательными аппаратами. * |LALT + LCTRL + Z|\
+\
+По желанию, вы можете вручную ввести рабочую частоту командной радиостанции, используя оранжевые диски на пульте радиостанции. ",
+    ["DictKey_GroupName_75"] = "Statics #029",
+    ["DictKey_GroupName_181"] = "Statics #064",
+    ["DictKey_GroupName_193"] = "Statics #079",
+    ["DictKey_UnitName_30"] = "Player",
+    ["DictKey_UnitName_185"] = "Statics #009",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_UnitName_239"] = "Statics #010",
+    ["DictKey_GroupName_43"] = "Statics #006",
+    ["DictKey_UnitName_84"] = "Statics #033",
+    ["DictKey_GroupName_89"] = "Statics #037",
+    ["DictKey_WptName_261"] = "",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_GroupName_53"] = "Statics #017",
+    ["DictKey_UnitName_293"] = "Statics #021",
+    ["DictKey_UnitName_254"] = "Statics #026",
+    ["DictKey_UnitName_60"] = "Statics #021",
+    ["DictKey_UnitName_40"] = "Statics #002",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_GroupName_99"] = "Statics #015",
+    ["DictKey_ActionText_307"] = "Затем, на пульте переменного тока, расположенного на электрощитке, поднять выключатель ~115 преобразователя в  положение РУЧНОЕ, для преобразования постоянного тока в переменный.\
+",
+    ["DictKey_23"] = "Повторите процедуру на левом электрощитке, установите в верхнее положение следующие выключатели: \
+\
+- АВИАГОРИЗ, для включения питания авиагоризонта на левой приборной доске* |LALT + LSHIFT + G|\
+\
+- ВК-53 (Выключатель коррекции) * |LALT+LSHIFT+F|\
+\
+- РИ-65 (Речевой информатор).\
+\
+- СПУУ-52, для включения системы подвижных упоров, ограничивающих предельный угол установки лопастей рулевого винта (РВ). * |LALT + LSHIFT + T|\
+",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_UnitName_278"] = "Statics #030",
+    ["DictKey_ActionText_169"] = "",
+    ["DictKey_ActionText_349"] = "インターコムからADF基地局のコールサインを聞くために、SPU-7コントロールパネルで\"РК 1\" (ARC-9:COMPASS 1) 位置にしてください。\"СПУ–РАДИО\" (INTERCOM-RADIO) スイッチを\"РАДИО\" (RADIO)位置にします。\
+",
+    ["DictKey_UnitName_38"] = "Statics #001",
+    ["DictKey_GroupName_111"] = "Statics #080",
+    ["DictKey_WptName_285"] = "",
+    ["DictKey_UnitName_242"] = "Statics #031",
+    ["DictKey_WptName_276"] = "",
+    ["DictKey_GroupName_57"] = "Statics #020",
+    ["DictKey_UnitName_94"] = "Statics #005",
+    ["DictKey_GroupName_283"] = "Statics #034",
+    ["DictKey_ActionText_354"] = "ARC-9コントロールパネルのモードセレクターを\"КОМП.\" (COMPASS)位置にします。\
+\
+ハイライト表示が気になる場合は「SPACE」を押してください。",
+    ["DictKey_UnitName_36"] = "Statics",
+    ["DictKey_UnitName_206"] = "Statics",
+    ["DictKey_GroupName_41"] = "Statics #004",
+    ["DictKey_22"] = "Переведите взгляд на правый электрощиток. Cледующие выключатели должны быть установлены в верхнюю позицию:\
+\
+- ДИСС (Доплеровский измеритель скорости и сноса) * |RALT + RSHIFT + T|\
+\
+- ГМК-1, для включения гиромагнитного компаса. * |RALT + RSHIFT + U|\
+\
+- АВИАГОРИЗ, для включения питания авиагоризонта на правой приборной доске. * |RCTRL + RALT + P|\
+",
+    ["DictKey_UnitName_302"] = "Statics #020",
+    ["DictKey_UnitName_257"] = "Statics #013",
+    ["DictKey_GroupName_105"] = "Statics #077",
+    ["DictKey_UnitName_194"] = "Statics #079",
+    ["DictKey_WptName_303"] = "",
+    ["DictKey_ActionText_172"] = "Теперь радиокомпас вертолета настроен на приводные маяки аэродрома Моздок. Используйте их для навигации при возвращении из вылета.\
+\
+Установите переключатель выбора радиосредств абонентского аппарата СПУ в положение \"УКВ\", а переключатель \"КОМАНД РС\" на \"АМ\".\
+Используйте комбинацию клавиш |RALT+\\| для запроса руления на полосу.",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_WptName_240"] = "",
+    ["DictKey_ActionText_318"] = "UGR-4K方位ジャイロの針がMaykop-Khanskaya空港のインナーNDB（40か220）の方位を示している事を確認したらスペースキーを押してください。",
+    ["DictKey_UnitName_42"] = "Statics #004",
+    ["DictKey_UnitName_260"] = "Statics #007",
+    ["DictKey_17"] = "Аналогично запуску левого двигателя, необходимо контролировать температуру и частоту вращения правого двигателя, а также обороты НВ.\
+ \
+По достижению режима МГ обоими двигателями, частота вращения НВ должна установиться в пределах 55-70%.",
+    ["DictKey_GroupName_87"] = "Statics #036",
+    ["DictKey_GroupName_244"] = "Statics #033",
+    ["DictKey_UnitName_44"] = "Statics #006",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_ActionText_309"] = "Set the rotating switch to the \"РК 1\" (COMPASS 1) position and the \"СПУ–РАДИО\" (INTERCOM-RADIO) switch to the \"РАДИО\" (RADIO) position.",
+    ["DictKey_UnitName_221"] = "Statics #028",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_descriptionText_115"] = "このミッションでは、中波自動無線コンパス（方位探知）の使いかたを練習します。\
+\
+左の写真４枚目にモールス符号が載っています。＜＞で画面が変わります。\
+\
+補足：\
+- 一時停止: [PAUSE]\
+- アクティブポーズ: [LSHIFT + LWIN + PAUSE]\
+- 視点移動: numpad keys / joystick’s hat switch / マウスフリールックモード [LALT + C]\
+- ズームイン/アウト: [Num/] / [Num*]\
+- パイロット頭の位置移動 上下左右: ホイルを押した状態でマウスを動かすか、 [RSHIFT + RCTRL ] + [テンキーパッドの矢印] \
+- パイロット頭の位置　前後: マウスホイール回転か、 [RSHIFT + RCTRL] + [ / ] and [ * ] （テンキーパッド）\
+- 頭の位置リセット: [Num5]\
+- レッスン終了: [ESC]\
+- コントローラーの位置表示:  [RCTRL + ENTER]\
+- ラベル表示: [LSHIFT + F10]\
+- 音量調節: メインメニューからOPTIONS、AUDIO　WORLD とIN COCKPIT のスライダーで調節",
+    ["DictKey_GroupName_175"] = "Statics #005",
+    ["DictKey_9"] = "Пора включать топливную систему вертолета. \
+\
+На панели управления топливной системой включите все выключатели топливных подкачивающих насосов: РАСХОД, ЛЕВЫЙ, ПРАВЫЙ.\
+\
+Откройте перекрывные краны, подняв выключатели ПЕРЕКРЫВ КРАНЫ в верхнюю позицию.\
+",
+    ["DictKey_UnitName_82"] = "Statics #032",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_UnitName_88"] = "Statics #036",
+    ["DictKey_GroupName_289"] = "Statics #017",
+    ["DictKey_GroupName_101"] = "Statics #064",
+    ["DictKey_GroupName_253"] = "Statics #026",
+    ["DictKey_GroupName_292"] = "Statics #021",
+    ["DictKey_WptName_297"] = "",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_UnitName_72"] = "Statics #027",
+    ["DictKey_UnitName_100"] = "Statics #015",
+    ["DictKey_UnitName_110"] = "Statics #079",
+    ["DictKey_UnitName_272"] = "Statics #023",
+    ["DictKey_UnitName_112"] = "Statics #080",
+    ["DictKey_ActionText_319"] = "コールサインの音量はARC-9コントロールパネルに有るボリューム（GAIN)で調節できます。",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_ActionText_311"] = "針の表示が右に振れ、コールサイン音がインターコムから聞こえてきます。両計器パネルのUGR-４K方位ジャイロの針が反応し基地局の方位を示します。\
+これにより周波数が正しく調整されたことがわかります。\
+\
+ARC-9を使用するには、パイロット計器パネルに有る\"АРК СВ - АРК УКВ\" (ADF HF-VHF、MW-VHF)スイッチを \"АРК СВ\" (ADF HF、MW)の位置にして下さい。 ",
+    ["DictKey_ActionText_167"] = "Убедитесь что при любом положении переключателя \"Б – Д\" стрелки указателей курсовой системы на приборных досках указывают направление на радиостанции.",
+    ["DictKey_GroupName_77"] = "Statics #030",
+    ["DictKey_UnitName_52"] = "Statics #016",
+    ["DictKey_GroupName_250"] = "Statics #025",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_199"] = "Statics #078",
+    ["DictKey_GroupName_262"] = "Statics #004",
+    ["DictKey_UnitName_245"] = "Statics #033",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_UnitName_212"] = "Statics #002",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_GroupName_232"] = "Statics #029",
+    ["DictKey_WptName_249"] = "",
+    ["DictKey_GroupName_295"] = "Statics #019",
+    ["DictKey_UnitName_296"] = "Statics #019",
+    ["DictKey_UnitName_200"] = "Statics #078",
+    ["DictKey_WptName_270"] = "",
+    ["DictKey_ActionText_310"] = "Set the mode selector on the ARC-9 control panel to the \"КОМП.\" (COMPASS) position.\
+\
+\
+If it is too dark, use the flashlight [LALT+L].",
+    ["DictKey_ActionText_369"] = "...",
+    ["DictKey_GroupName_39"] = "Statics #002",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_WptName_273"] = "",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_WptName_313"] = "",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_WptName_231"] = "",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_UnitName_209"] = "Statics #001",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_WptName_255"] = "",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_WptName_267"] = "",
+    ["DictKey_5"] = "Установите на пульте управления радиокомпасом переключатель рода работы в положение \"КОМП.\".\
+\
+Если мешает подсветка нажмите |SPACE|.\
+",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_UnitName_227"] = "Statics #003",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_GroupName_271"] = "Statics #023",
+    ["DictKey_11"] = "Для запуска ВСУ нажмите кнопку ЗАПУСК.\
+\
+ВСУ выходит на режим холостого хода за время не более 20 секунд, при этом температура газа за турбиной не должна превышать 720 градусов. Если ВСУ не вышла на режим за 20 секунд, либо произошло превышение температуры, нажмите кнопку ВЫКЛ АИ-9В, для останова ВСУ и доложите о происшествии командиру экипажа.\
+\
+После запуска необходимо прогреть ВСУ в течение нескольких секунд. Прогрев осуществляется в режиме холостого хода.\
+",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_UnitName_106"] = "Statics #077",
+    ["DictKey_GroupName_49"] = "Statics #013",
+    ["DictKey_GroupName_211"] = "Statics #002",
+    ["DictKey_UnitName_269"] = "Statics #034",
+    ["DictKey_GroupName_109"] = "Statics #079",
+    ["DictKey_GroupName_277"] = "Statics #030",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_WptName_252"] = "",
+    ["DictKey_WptName_300"] = "",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_UnitName_266"] = "Statics #016",
+    ["DictKey_UnitName_230"] = "Statics #028",
+    ["DictKey_WptName_282"] = "",
+    ["DictKey_GroupName_301"] = "Statics #020",
+    ["DictKey_GroupName_238"] = "Statics #010",
+    ["DictKey_WptName_316"] = "",
+    ["DictKey_WptName_317"] = "",
+} -- end of dictionary

@@ -1,0 +1,643 @@
+dictionary = 
+{
+    ["DictKey_WptName_377"] = "",
+    ["DictKey_WptName_309"] = "",
+    ["DictKey_GroupName_124"] = "New Static Object #019",
+    ["DictKey_WptName_314"] = "",
+    ["DictKey_WptName_401"] = "",
+    ["DictKey_GroupName_52"] = "Statics #013",
+    ["DictKey_ActionText_423"] = "再度、ターゲットから離れて距離を取ってください。",
+    ["DictKey_GroupName_226"] = "New Static Object #009",
+    ["DictKey_GroupName_198"] = "New Static Object #071",
+    ["DictKey_descriptionText_280"] = "DCS: Mi-8MTV2 トレーニング\
+\
+兵器\
+\
+今日は、兵器の選択方法と、使用方法を紹介します。\
+\
+弾薬無制限とラベルをオンにして、練習時間を最大限に活用することをおすすめします。\
+\
+開始前に下記のレッスンノートに目を通しておいてください。\
+\
+レッスンノート：\
+- 一時停止: [PAUSE]\
+- アクティブポーズ: [LSHIFT + LWIN + PAUSE]\
+- 視点移動: numpad keys / joystick’s hat switch / マウスフリールックモード [LALT + C]\
+- ズームイン/アウト: [Num/] / [Num*]\
+- パイロット頭の位置移動 上下左右: ホイルを押した状態でマウスを動かすか、 [RSHIFT + RCTRL ] + [テンキーパッドの矢印] \
+- パイロット頭の位置　前後: マウスホイール回転か、 [RSHIFT + RCTRL] + [ / ] and [ * ] （テンキーパッド）\
+- 頭の位置リセット: [Num5]\
+- レッスン終了: [ESC]\
+- コントローラーの位置表示:  [RCTRL + ENTER]\
+- ラベル表示: [LSHIFT + F10]\
+- 音量調節: メインメニューからOPTIONS、AUDIO　WORLD とIN COCKPIT のスライダーで調節",
+    ["DictKey_UnitName_233"] = "New Static Object #032",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_UnitName_73"] = "Statics #026",
+    ["DictKey_UnitName_251"] = "New Static Object #051",
+    ["DictKey_UnitName_39"] = "Statics #001",
+    ["DictKey_20"] = "コースから外れています。方位をチェックして０８０へ向かってください。",
+    ["DictKey_GroupName_214"] = "New Static Object #079",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_WptName_410"] = "",
+    ["DictKey_WptName_312"] = "",
+    ["DictKey_UnitName_121"] = "New Static Object #017",
+    ["DictKey_GroupName_212"] = "New Static Object #078",
+    ["DictKey_25"] = "次は、同じガンポッドの9A622 7.62mmガンを試しましょう。\
+GUV火器選択スイッチを右下の622の位置にします。\
+",
+    ["DictKey_GroupName_200"] = "New Static Object #072",
+    ["DictKey_WptName_416"] = "",
+    ["DictKey_WptName_387"] = "",
+    ["DictKey_GroupName_44"] = "Statics #006",
+    ["DictKey_WptName_408"] = "",
+    ["DictKey_GroupName_94"] = "Statics #068",
+    ["DictKey_UnitName_163"] = "New Static Object #043",
+    ["DictKey_UnitName_157"] = "New Static Object #040",
+    ["DictKey_GroupName_32"] = "New Helicopter Group",
+    ["DictKey_GroupName_242"] = "New Static Object #047",
+    ["DictKey_UnitName_69"] = "Statics #024",
+    ["DictKey_WptName_397"] = "",
+    ["DictKey_GroupName_84"] = "Statics #033",
+    ["DictKey_12"] = "では、パイロット（コマンダー）用兵器制御パネルに戻ってください。ガードされた800 ー 624/622+800スイッチは搭載兵器に基づいて設定します。\
+\
+今日のように、9A800と9A624/622GUVポッドを組み合わせて装備している場合は、スイッチを下（624/622+800）にしてください。\
+\
+ 9A800グレネードランチャーGUVポッドのみを装備している場合は上（800）にしてください。\
+\
+9A800グレネードランチャーポッドは外側と中間のステーション（1,6と2,5）に搭載できます。 \
+ 9A624/622 ガンポッドは中間（2,5）のステーションにのみ搭載可能です。\
+\
+今日はGUVを組み合わせて搭載していますので、スイッチを下（624/622+800 ）にしたままにしておいてください。\
+\
+このスイッチは「O」で操作できます。\
+ガードキャップは「RShift+O」で操作できます。\
+\
+スペースキーを押すと次に進みます。",
+    ["DictKey_WptName_374"] = "",
+    ["DictKey_UnitName_43"] = "Statics #004",
+    ["DictKey_6"] = "今日のフライトでは次の物を搭載しています。\
+\
+- GUV-8700 ガンポッドに9A800 グレネードランチャー。外側ステーション（１，６）\
+\
+- GUV-8700 ガンポッドに9A624/622 12.7 mm と 7.62 mm。中側ステーション（２，５）\
+\
+- B-8V20A ロケットランチャー。内側ステーション（３，４）\
+\
+「F2」で外部視点にしてマウスやキーボードで視点移動をしてペイロードをよく見てください。「F1」を押すとコクピット視点に戻ります。\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_WptName_293"] = "",
+    ["DictKey_sortie_283"] = "Mi-8MTV2 トレーニング　ー　兵器",
+    ["DictKey_GroupName_30"] = "Player",
+    ["DictKey_UnitName_249"] = "New Static Object #050",
+    ["DictKey_GroupName_216"] = "New Static Object #080",
+    ["DictKey_WptName_289"] = "",
+    ["DictKey_GroupName_146"] = "New Static Object #030",
+    ["DictKey_29"] = "兵器トレーニングレッスンはこれで終了です。\
+\
+このまま射撃場で練習を続けても構いません。\
+ロケットに戻りたければ、コパイロット（ナビゲーター）の兵器制御パネルににあるВАРИАНТЫ ПОДВЕСОК (Pod Variants)スイッチを最初の”I\"の位置に戻してGUNモードを解除することを忘れないでください。",
+    ["DictKey_UnitName_79"] = "Statics #029",
+    ["DictKey_ActionText_463"] = "",
+    ["DictKey_UnitName_183"] = "New Static Object #061",
+    ["DictKey_GroupName_50"] = "Statics #011",
+    ["DictKey_GroupName_220"] = "New Static Object #082",
+    ["DictKey_ActionText_417"] = "",
+    ["DictKey_WptName_286"] = "",
+    ["DictKey_UnitName_103"] = "Statics #064",
+    ["DictKey_GroupName_120"] = "New Static Object #017",
+    ["DictKey_UnitName_227"] = "New Static Object #009",
+    ["DictKey_GroupName_38"] = "Statics #001",
+    ["DictKey_WptName_315"] = "",
+    ["DictKey_23"] = "次に、GUV火器選択スチッチを左下位置にして 9A624 12.7 mmを選択します。\
+\
+このスイッチは「RAlt+RCtrl+[」「RAlt+RCtrl+]」",
+    ["DictKey_UnitName_175"] = "New Static Object #057",
+    ["DictKey_GroupName_170"] = "New Static Object #053",
+    ["DictKey_UnitName_93"] = "Statics #037",
+    ["DictKey_UnitName_95"] = "Statics #068",
+    ["DictKey_UnitName_263"] = "New Static Object #003",
+    ["DictKey_GroupName_112"] = "Statics #080",
+    ["DictKey_11"] = "それでは、GUV-8700ガンポッドの選択と設定手順を見てゆきましょう。\
+\
+GUVポッドの発射準備は、まず、ВАРИАНТЫ コクピット右側のコパイロット（ナビゲーター）用兵器制御パネルにあるВАРИАНТЫ ПОДВЕСКИ (Pod Variants：ポッド組み合わせ) スイッチをГУВ (GUN) の位置にします。\
+先にロケットを発射する予定なので、このスイッチは今はそのまま (\"I\")の位置にしておいてください。\
+\
+このスイッチは「．」「；」で操作できます。\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_GroupName_194"] = "New Static Object #069",
+    ["DictKey_UnitName_201"] = "New Static Object #072",
+    ["DictKey_UnitName_169"] = "New Static Object #046",
+    ["DictKey_WptName_393"] = "",
+    ["DictKey_WptName_392"] = "",
+    ["DictKey_UnitName_173"] = "New Static Object #056",
+    ["DictKey_GroupName_152"] = "New Static Object #038",
+    ["DictKey_WptName_350"] = "",
+    ["DictKey_WptName_399"] = "",
+    ["DictKey_WptName_332"] = "",
+    ["DictKey_GroupName_46"] = "Statics #003",
+    ["DictKey_GroupName_148"] = "New Static Object #031",
+    ["DictKey_UnitName_267"] = "New Static Object #005",
+    ["DictKey_21"] = "ターゲットまで４Km\
+\
+ラベルをオンにしているなら、「Lshift+F10」を押してオフにすることができます。\
+\
+どのターゲットを狙っても構いません。\
+安定した接近を維持するように心がけてください。\
+高度は３００以下、速度は２００以下で接近します。\
+\
+横滑り（サイドスリップ）を防ぐことが重要です。着弾点が照準点から横にズレてしまいます。姿勢指示器の滑り計のボールを中央に維持してください。少しのペダルを入れて横滑りを最小にします。",
+    ["DictKey_GroupName_248"] = "New Static Object #050",
+    ["DictKey_GroupName_196"] = "New Static Object #070",
+    ["DictKey_WptName_369"] = "",
+    ["DictKey_27"] = "最後の攻撃です。\
+9A800自動グレネードランチャーを試しましょう。\
+GUV火器選択スチッチを上（ВНУТР 800 ВНЕШН (Inner 800 outer) ）の位置にします。",
+    ["DictKey_WptName_326"] = "",
+    ["DictKey_GroupName_264"] = "New Static Object #004",
+    ["DictKey_GroupName_62"] = "Statics #021",
+    ["DictKey_UnitName_213"] = "New Static Object #078",
+    ["DictKey_UnitName_97"] = "Statics #005",
+    ["DictKey_WptName_288"] = "",
+    ["DictKey_WptName_384"] = "",
+    ["DictKey_UnitName_75"] = "Statics #027",
+    ["DictKey_GroupName_162"] = "New Static Object #043",
+    ["DictKey_GroupName_158"] = "New Static Object #041",
+    ["DictKey_WptName_305"] = "",
+    ["DictKey_GroupName_136"] = "New Static Object #025",
+    ["DictKey_UnitName_55"] = "Statics #017",
+    ["DictKey_WptName_334"] = "",
+    ["DictKey_UnitName_107"] = "Statics #077",
+    ["DictKey_UnitName_215"] = "New Static Object #079",
+    ["DictKey_GroupName_258"] = "New Static Object #001",
+    ["DictKey_GroupName_130"] = "New Static Object #022",
+    ["DictKey_UnitName_165"] = "New Static Object #044",
+    ["DictKey_GroupName_190"] = "New Static Object #067",
+    ["DictKey_UnitName_247"] = "New Static Object #049",
+    ["DictKey_GroupName_104"] = "Statics #065",
+    ["DictKey_GroupName_118"] = "New Vehicle Group #006",
+    ["DictKey_26"] = "再度以下のことを行います。\
+\
+安定した接近\
+サイドスリップのチェック\
+試射\
+発射\
+近づきすぎる前に離脱",
+    ["DictKey_UnitName_101"] = "Statics #015",
+    ["DictKey_GroupName_134"] = "New Static Object #024",
+    ["DictKey_WptName_366"] = "",
+    ["DictKey_WptName_386"] = "",
+    ["DictKey_GroupName_228"] = "New Static Object #011",
+    ["DictKey_GroupName_208"] = "New Static Object #076",
+    ["DictKey_WptName_302"] = "",
+    ["DictKey_GroupName_74"] = "Statics #027",
+    ["DictKey_WptName_413"] = "",
+    ["DictKey_WptName_354"] = "",
+    ["DictKey_GroupName_202"] = "New Static Object #073",
+    ["DictKey_WptName_370"] = "",
+    ["DictKey_GroupName_178"] = "New Static Object #059",
+    ["DictKey_GroupName_64"] = "Statics #022",
+    ["DictKey_GroupName_234"] = "New Static Object #033",
+    ["DictKey_UnitName_161"] = "New Static Object #042",
+    ["DictKey_WptName_390"] = "",
+    ["DictKey_UnitName_219"] = "New Static Object #081",
+    ["DictKey_UnitName_147"] = "New Static Object #030",
+    ["DictKey_UnitName_119"] = "Unit #111",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_GroupName_122"] = "New Static Object #018",
+    ["DictKey_GroupName_266"] = "New Static Object #005",
+    ["DictKey_GroupName_92"] = "Statics #037",
+    ["DictKey_WptName_329"] = "",
+    ["DictKey_UnitName_203"] = "New Static Object #073",
+    ["DictKey_ActionText_418"] = "",
+    ["DictKey_GroupName_236"] = "New Static Object #034",
+    ["DictKey_GroupName_168"] = "New Static Object #046",
+    ["DictKey_UnitName_177"] = "New Static Object #058",
+    ["DictKey_WptName_412"] = "",
+    ["DictKey_GroupName_246"] = "New Static Object #049",
+    ["DictKey_UnitName_91"] = "Statics #036",
+    ["DictKey_GroupName_128"] = "New Static Object #021",
+    ["DictKey_GroupName_270"] = "New Static Object #007",
+    ["DictKey_GroupName_240"] = "New Static Object #037",
+    ["DictKey_WptName_316"] = "",
+    ["DictKey_GroupName_110"] = "Statics #079",
+    ["DictKey_WptName_404"] = "",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_WptName_415"] = "",
+    ["DictKey_GroupName_34"] = "New Vehicle Group",
+    ["DictKey_ActionText_466"] = "",
+    ["DictKey_WptName_375"] = "",
+    ["DictKey_8"] = "はじめに、左サーキットブレーカーパネルにあるサーキットブレーカーをONにしてください。すばやく行うには「RCtrl+RShift+ 1...3」を押して下さい。\
+（スイッチ全てを上げるのでスイッチ下に有るバーをクリックしてください。）\
+",
+    ["DictKey_GroupName_252"] = "New Static Object #052",
+    ["DictKey_16"] = "準備の最後は、兵器ステーションに設置されているПУС (PUS) 発射制御装置を作動させることです。これでロケットの発射信号を送ることができます。\
+ВЗВЕДЕНИЕ ПУС (UNIT　ARM)ボタンをПУС-3、４（FIRE EXT 3、4) のライトが点灯するまで押してください。そのステーションの発射準備が整います。 \
+\
+ボタンは「LCtrl+R」で操作できます。",
+    ["DictKey_UnitName_225"] = "New Static Object #084",
+    ["DictKey_GroupName_278"] = "New Static Object #014",
+    ["DictKey_WptName_307"] = "",
+    ["DictKey_UnitName_77"] = "Statics #028",
+    ["DictKey_UnitName_129"] = "New Static Object #021",
+    ["DictKey_UnitName_63"] = "Statics #021",
+    ["DictKey_WptName_398"] = "",
+    ["DictKey_GroupName_78"] = "Statics #029",
+    ["DictKey_descriptionRedTask_281"] = "",
+    ["DictKey_GroupName_164"] = "New Static Object #044",
+    ["DictKey_WptName_382"] = "",
+    ["DictKey_UnitName_51"] = "Statics #011",
+    ["DictKey_WptName_348"] = "",
+    ["DictKey_WptName_333"] = "",
+    ["DictKey_GroupName_172"] = "New Static Object #056",
+    ["DictKey_GroupName_90"] = "Statics #036",
+    ["DictKey_UnitName_85"] = "Statics #033",
+    ["DictKey_GroupName_138"] = "New Static Object #026",
+    ["DictKey_2"] = "兵器練習のレッスンへようこそ。今日は、兵器の選択の仕方と、発射手順について説明します。\
+\
+現在、私がコントロールしています。なので、離陸の時まで地面に静止しています。\
+\
+このミッションでは弾薬を無制限、ラベルを有効にして練習することをお勧めします。練習時間を最大限に有効活用してください。\
+\
+レッスンを開始する前にレッスンノートに目を通しておいてください。\
+\
+----------------------------------------------------------------\
+- アクティブポーズ: [LSHIFT + LWIN + PAUSE]\
+- 視点移動: numpad keys / joystick’s hat switch / マウスフリールックモード [LALT + C]\
+- ズームイン/アウト: [Num/] / [Num*]\
+- パイロット頭の位置移動 上下左右: ホイルを押した状態でマウスを動かすか、 [RSHIFT + RCTRL ] + [テンキーパッドの矢印] \
+- パイロット頭の位置　前後: マウスホイール回転か、 [RSHIFT + RCTRL] + [ / ] and [ * ] （テンキーパッド）\
+- 頭の位置リセット: [Num5]\
+- レッスン終了: [ESC]\
+- コントローラーの位置表示:  [RCTRL + ENTER]\
+- ラベル表示: [LSHIFT + F10]\
+- 音量調節: メインメニューからOPTIONS、AUDIO　WORLD とIN COCKPIT のスライダーで調節\
+----------------------------------------------------------------\
+\
+開始の準備ができたらスペースキーを押してください。",
+    ["DictKey_UnitName_181"] = "New Static Object #060",
+    ["DictKey_GroupName_276"] = "New Static Object #013",
+    ["DictKey_WptName_358"] = "",
+    ["DictKey_ActionText_421"] = "次の攻撃のために、GUV-8700ガンポッドの9A624 12.7mmガン（中間ステーション２，５）の設定を行います。\
+\
+最初に、 コパイロット（ナビゲーター）側パネルのВАРИАНТЫ ПОДВЕСКИ (Pod Variants) スイッチをГУВ (GUN)の位置にします。\
+\
+このスイッチは「．」「；」で操作できます。",
+    ["DictKey_WptName_304"] = "",
+    ["DictKey_GroupName_274"] = "New Static Object #010",
+    ["DictKey_GroupName_80"] = "Statics #030",
+    ["DictKey_GroupName_150"] = "New Static Object #035",
+    ["DictKey_WptName_373"] = "",
+    ["DictKey_GroupName_56"] = "Statics #018",
+    ["DictKey_WptName_364"] = "",
+    ["DictKey_GroupName_132"] = "New Static Object #023",
+    ["DictKey_GroupName_154"] = "New Static Object #039",
+    ["DictKey_GroupName_58"] = "Statics #019",
+    ["DictKey_GroupName_184"] = "New Static Object #062",
+    ["DictKey_WptName_385"] = "",
+    ["DictKey_GroupName_210"] = "New Static Object #077",
+    ["DictKey_WptName_378"] = "",
+    ["DictKey_UnitName_105"] = "Statics #065",
+    ["DictKey_UnitName_153"] = "New Static Object #038",
+    ["DictKey_GroupName_222"] = "New Static Object #083",
+    ["DictKey_GroupName_166"] = "New Static Object #045",
+    ["DictKey_WptName_402"] = "",
+    ["DictKey_UnitName_99"] = "Statics #009",
+    ["DictKey_WptName_356"] = "",
+    ["DictKey_GroupName_230"] = "New Static Object #012",
+    ["DictKey_WptName_321"] = "",
+    ["DictKey_GroupName_254"] = "New Static Object #054",
+    ["DictKey_GroupName_88"] = "Statics #035",
+    ["DictKey_UnitName_197"] = "New Static Object #070",
+    ["DictKey_4"] = "Mi-8MTV2は６つの外部兵器ステーションを装備しており、様々な兵器を搭載できます。\
+\
+ヘリコプターの両サイドにそれぞれ３ステーションあり、コクピットから前を向いた状態で、左から右に向かって順に１から６まで番号が付けられています。\
+\
+様々な種類の兵器を利用可能ですが、どのステーションにでも搭載できるわけではありません。\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_GroupName_76"] = "Statics #028",
+    ["DictKey_WptName_403"] = "",
+    ["DictKey_WptName_414"] = "",
+    ["DictKey_28"] = "残念なことに、グレネードは弾道が悪く、狙いを定めるのが難しいです。ランチャーポッドは機首より上に発射するように取り付けてありますが、グレネードは急速に失速し落下してゆきます。１Km以上の距離で発射する場合はターゲットより上の位置に照準を定める必要があります。\
+\
+サイトが正しい照準点を示す最適距離はおよそ1Kmです。\
+\
+ではグレネードを試してみてください。",
+    ["DictKey_GroupName_224"] = "New Static Object #084",
+    ["DictKey_UnitName_115"] = "Statics #007",
+    ["DictKey_3"] = "このレッスンでは、射撃場で実際に練習する前に、次のことについて説明します：\
+\
+ー利用できる兵器の種類\
+\
+ー兵器の選択手順\
+\
+ー照準サイトの概要\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_10"] = "一斉射で同時に発射するロケット数を設定することができます。ПО8/ПО16/ПО4 （IN８/IN16/IN4）スイッチは、それぞれ8/16/4発のロケットを1回トリガを引いている間に同時に発射します。\
+\
+スイッチは「RShift+[」、「RShift+]」で切り替えることができます。\
+\
+最後に、右にある 1-2-5-6/АВТ/3-4 (1-2-5-6/AUTO/3-4) スイッチは、複数のロケットポッドを搭載している状態で、手動でロケットを発射するステーションを選択する場合に使用します。ただし、スイッチを中央のABT(AUTO）位置にして、自動でステーションを選択するようにしておくのが最善です。\
+\
+スイッチは「RAlt+[」「RAlt+]」で切り替えることができます。\
+\
+ロケットのスイッチ設定は全て現在の状態を使用しますので、今回は触る必要はありません。\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_UnitName_87"] = "Statics #034",
+    ["DictKey_UnitName_131"] = "New Static Object #022",
+    ["DictKey_WptName_406"] = "",
+    ["DictKey_GroupName_176"] = "New Static Object #058",
+    ["DictKey_WptName_298"] = "",
+    ["DictKey_19"] = "射撃場は３時方向に5ｋｍ先にあります。\
+では離陸して、080を向いてください。\
+滑走路に沿って加速しながら緩やかな上昇をしてください。\
+\
+速度を出しすぎたり、上昇しすぎたりしないでください。\
+高度３００、速度２００km/hが練習には良いでしょう。",
+    ["DictKey_UnitName_123"] = "New Static Object #018",
+    ["DictKey_descriptionBlueTask_282"] = "",
+    ["DictKey_UnitName_235"] = "New Static Object #033",
+    ["DictKey_UnitName_145"] = "New Static Object #029",
+    ["DictKey_WptName_323"] = "",
+    ["DictKey_ActionText_420"] = "次の攻撃パスを行うためにまた戻りますので、ターゲットから離脱して、少し距離を取ってください。",
+    ["DictKey_WptName_287"] = "",
+    ["DictKey_WptName_346"] = "",
+    ["DictKey_ActionText_470"] = "",
+    ["DictKey_UnitName_155"] = "New Static Object #039",
+    ["DictKey_WptName_338"] = "",
+    ["DictKey_UnitName_135"] = "New Static Object #024",
+    ["DictKey_WptName_379"] = "",
+    ["DictKey_GroupName_180"] = "New Static Object #060",
+    ["DictKey_GroupName_100"] = "Statics #015",
+    ["DictKey_WptName_325"] = "",
+    ["DictKey_UnitName_33"] = "Pilot #001",
+    ["DictKey_WptName_396"] = "",
+    ["DictKey_UnitName_125"] = "New Static Object #019",
+    ["DictKey_UnitName_179"] = "New Static Object #059",
+    ["DictKey_UnitName_57"] = "Statics #018",
+    ["DictKey_WptName_284"] = "",
+    ["DictKey_WptName_342"] = "",
+    ["DictKey_WptName_331"] = "",
+    ["DictKey_UnitName_49"] = "Statics #010",
+    ["DictKey_WptName_306"] = "",
+    ["DictKey_UnitName_223"] = "New Static Object #083",
+    ["DictKey_WptName_355"] = "",
+    ["DictKey_UnitName_205"] = "New Static Object #074",
+    ["DictKey_7"] = "どの兵器を発射する場合でも次の３つの準備が必要です。\
+\
+ー 兵器システムのサーキットブレーカーを全てONにする\
+\
+ー マスターアームスイッチをON\
+\
+ー RS/GUV　主電源スイッチをON\
+\
+戦闘エリアに入る前に、必ずこの手順を実行してください。\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_GroupName_86"] = "Statics #034",
+    ["DictKey_UnitName_211"] = "New Static Object #077",
+    ["DictKey_WptName_411"] = "",
+    ["DictKey_WptName_317"] = "",
+    ["DictKey_GroupName_82"] = "Statics #032",
+    ["DictKey_WptName_299"] = "",
+    ["DictKey_UnitName_113"] = "Statics #080",
+    ["DictKey_UnitName_31"] = "Player",
+    ["DictKey_UnitName_111"] = "Statics #079",
+    ["DictKey_WptName_349"] = "",
+    ["DictKey_UnitName_187"] = "New Static Object #063",
+    ["DictKey_WptName_395"] = "",
+    ["DictKey_UnitName_159"] = "New Static Object #041",
+    ["DictKey_WptName_300"] = "",
+    ["DictKey_WptName_320"] = "",
+    ["DictKey_WptName_330"] = "",
+    ["DictKey_UnitName_137"] = "New Static Object #025",
+    ["DictKey_UnitName_199"] = "New Static Object #071",
+    ["DictKey_UnitName_245"] = "New Static Object #048",
+    ["DictKey_UnitName_259"] = "New Static Object #001",
+    ["DictKey_GroupName_260"] = "New Static Object #002",
+    ["DictKey_UnitName_191"] = "New Static Object #067",
+    ["DictKey_WptName_343"] = "",
+    ["DictKey_ActionText_462"] = "",
+    ["DictKey_UnitName_149"] = "New Static Object #031",
+    ["DictKey_GroupName_108"] = "Statics #078",
+    ["DictKey_UnitName_189"] = "New Static Object #065",
+    ["DictKey_13"] = "GUV火器選択（MODES）スイッチは発射するGUVシステムを選択します。\
+\
+上 (inner-800-outer)位置は、外側ステーション（1，6）と中間ステーション（2，5）両方の9A800グレネードランチャーポッドから発射します。\
+\
+左下（ (800 inner OR 624)）位置は、中間ステーションの9A800グレネードランチャーだけを発射します。今日のように、中間ステーションに9A800 グレネードランチャーポッドに代わって9A624/622 GUVポッドが搭載されている場合、12.7 mmガン（624）が発射されます。\
+\
+最後に、右下（622）位置は、9A624/622 GUVポッドの7.62mm　二連装ガンを発射します。\
+\
+今は、このスイッチは中央（SAFE）位置にしておいてください。\
+\
+このスイッチは「RAlt+RCtrl+[」,「RAlt+RCtrl+]」で操作できます。\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_UnitName_133"] = "New Static Object #023",
+    ["DictKey_UnitName_151"] = "New Static Object #035",
+    ["DictKey_WptName_381"] = "",
+    ["DictKey_GroupName_116"] = "New Static Object #015",
+    ["DictKey_GroupName_36"] = "Statics",
+    ["DictKey_UnitName_109"] = "Statics #078",
+    ["DictKey_UnitName_255"] = "New Static Object #054",
+    ["DictKey_WptName_340"] = "",
+    ["DictKey_GroupName_262"] = "New Static Object #003",
+    ["DictKey_14"] = "主な照準機器は ПКВ (PKV)コリメートサイトです。このサイトは地上への直線の視線ポイントを提供します。これは正確な着弾点を自動的には計算しません。サイトに正確な着弾点を表示するには、ロータリーノブで照準に適切な俯角（depression)を設定する必要があります。ロータリーノブには数字の目盛りがついており、12時の位置にある針の位置で読取ります。俯角はロシア標準のミリラジアン（ミル：mils）で測ります。これは武器種や攻撃条件（距離、速度、高度、風速、風向など）に応じて決まります。求める俯角は航空機資料の一部としてPKV俯角表（PKV depression charts）に載っています。\
+\
+一般的に、ほとんどの攻撃条件でサイトは70-80ミル（mils)にセットされます。このレッスンの練習目的から、現在の70ミルにセットしたままにしておきます。これは典型的攻撃距離である1-2Kmで、すべての武器においてまあまあ正確な照準制度が得られます。ベストな照準点を獲るために、最初に短い試射を行い、それに応じて照準点を修正してください。\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_GroupName_72"] = "Statics #026",
+    ["DictKey_UnitName_127"] = "New Static Object #020",
+    ["DictKey_GroupName_66"] = "Statics #023",
+    ["DictKey_GroupName_268"] = "New Static Object #006",
+    ["DictKey_UnitName_143"] = "New Static Object #028",
+    ["DictKey_WptName_318"] = "",
+    ["DictKey_GroupName_174"] = "New Static Object #057",
+    ["DictKey_24"] = "発射手順はロケットと同じです。\
+安定した接近、\
+サイドスリップをチェック、\
+試射をして正確な着弾点の確認、\
+ターゲットへの発射（ロングバースト）、\
+反撃を避けるためにターゲット上空を通過する前に離脱",
+    ["DictKey_WptName_357"] = "",
+    ["DictKey_WptName_388"] = "",
+    ["DictKey_WptName_394"] = "",
+    ["DictKey_UnitName_239"] = "New Static Object #036",
+    ["DictKey_GroupName_256"] = "New Static Object #055",
+    ["DictKey_UnitName_59"] = "Statics #019",
+    ["DictKey_WptName_367"] = "",
+    ["DictKey_WptName_327"] = "",
+    ["DictKey_GroupName_42"] = "Statics #004",
+    ["DictKey_UnitName_265"] = "New Static Object #004",
+    ["DictKey_UnitName_171"] = "New Static Object #053",
+    ["DictKey_GroupName_40"] = "Statics #002",
+    ["DictKey_GroupName_142"] = "New Static Object #028",
+    ["DictKey_GroupName_218"] = "New Static Object #081",
+    ["DictKey_WptName_372"] = "",
+    ["DictKey_WptName_322"] = "",
+    ["DictKey_GroupName_114"] = "Statics #007",
+    ["DictKey_WptName_380"] = "",
+    ["DictKey_UnitName_141"] = "New Static Object #027",
+    ["DictKey_UnitName_257"] = "New Static Object #055",
+    ["DictKey_WptName_285"] = "",
+    ["DictKey_GroupName_160"] = "New Static Object #042",
+    ["DictKey_GroupName_68"] = "Statics #024",
+    ["DictKey_UnitName_45"] = "Statics #006",
+    ["DictKey_GroupName_70"] = "Statics #025",
+    ["DictKey_GroupName_192"] = "New Static Object #068",
+    ["DictKey_UnitName_279"] = "New Static Object #014",
+    ["DictKey_UnitName_167"] = "New Static Object #045",
+    ["DictKey_WptName_365"] = "",
+    ["DictKey_WptName_337"] = "",
+    ["DictKey_22"] = "距離２．５Kｍです。射程としては十分な距離です。\
+機体を目標にラインナップさせて、安定させてください。\
+\
+準備が良ければ「SPACE」を押してロケットを発射してください。",
+    ["DictKey_GroupName_106"] = "Statics #077",
+    ["DictKey_GroupName_60"] = "Statics #020",
+    ["DictKey_WptName_352"] = "",
+    ["DictKey_WptName_371"] = "",
+    ["DictKey_GroupName_48"] = "Statics #010",
+    ["DictKey_GroupName_144"] = "New Static Object #029",
+    ["DictKey_WptName_303"] = "",
+    ["DictKey_WptName_391"] = "",
+    ["DictKey_GroupName_54"] = "Statics #017",
+    ["DictKey_WptName_353"] = "",
+    ["DictKey_WptName_360"] = "",
+    ["DictKey_17"] = "準備が全て整いました。学習したことを実践し、ターゲットを破壊しましょう。\
+\
+兵器選択と設定については誘導しますが、ヘリの操縦はあなたが行ってください。\
+\
+操縦を引き渡しします。安全のため、サイクリックとペダル操作はニュートラルでコレクティブが一番下にあることを確認してください。\
+\
+スペースキーを押すと、コントロールをあなたに渡します。",
+    ["DictKey_UnitName_269"] = "New Static Object #006",
+    ["DictKey_UnitName_275"] = "New Static Object #010",
+    ["DictKey_UnitName_237"] = "New Static Object #034",
+    ["DictKey_18"] = "ユー ハブ コントロール。操縦を渡しました。\
+リフトオフする前に、中央コンソールのピッチ/ロールオートパイロットチャンネルをオンにします。「LWIN+A」",
+    ["DictKey_UnitName_243"] = "New Static Object #047",
+    ["DictKey_UnitName_221"] = "New Static Object #082",
+    ["DictKey_UnitName_277"] = "New Static Object #013",
+    ["DictKey_UnitName_83"] = "Statics #032",
+    ["DictKey_UnitName_185"] = "New Static Object #062",
+    ["DictKey_GroupName_250"] = "New Static Object #051",
+    ["DictKey_GroupName_188"] = "New Static Object #065",
+    ["DictKey_UnitName_81"] = "Statics #030",
+    ["DictKey_WptName_308"] = "",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_UnitName_117"] = "New Static Object #015",
+    ["DictKey_WptName_324"] = "",
+    ["DictKey_UnitName_195"] = "New Static Object #069",
+    ["DictKey_UnitName_71"] = "Statics #025",
+    ["DictKey_WptName_296"] = "",
+    ["DictKey_WptName_409"] = "",
+    ["DictKey_WptName_345"] = "",
+    ["DictKey_GroupName_126"] = "New Static Object #020",
+    ["DictKey_UnitName_35"] = "Unit #1",
+    ["DictKey_WptName_363"] = "",
+    ["DictKey_UnitName_271"] = "New Static Object #007",
+    ["DictKey_ActionText_424"] = "ターゲットから離脱して距離を取ってください。",
+    ["DictKey_UnitName_89"] = "Statics #035",
+    ["DictKey_WptName_361"] = "",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_WptName_310"] = "",
+    ["DictKey_ActionText_422"] = "",
+    ["DictKey_UnitName_67"] = "Statics #023",
+    ["DictKey_UnitName_273"] = "New Static Object #008",
+    ["DictKey_GroupName_244"] = "New Static Object #048",
+    ["DictKey_UnitName_207"] = "New Static Object #075",
+    ["DictKey_WptName_339"] = "",
+    ["DictKey_UnitName_47"] = "Statics #003",
+    ["DictKey_UnitName_61"] = "Statics #020",
+    ["DictKey_WptName_336"] = "",
+    ["DictKey_WptName_347"] = "",
+    ["DictKey_ActionText_419"] = "兵器の選択と準備の説明は終了します。\
+飛行中に準備作業をしなくて良いように、最初に射撃場を通過する時に使うロケットの準備を離陸前に済ませておきましょう。\
+通常は、これらの最終設定は事故防止のため戦闘エリアに入ってから行います。\
+\
+兵器アーミングパネルのРС ГУВ (MAIN SSITCH:RS/GUV 主電源)スイッチをON（上）にしてください。「P」",
+    ["DictKey_WptName_297"] = "",
+    ["DictKey_GroupName_232"] = "New Static Object #032",
+    ["DictKey_WptName_328"] = "",
+    ["DictKey_GroupName_272"] = "New Static Object #008",
+    ["DictKey_WptName_344"] = "",
+    ["DictKey_UnitName_217"] = "New Static Object #080",
+    ["DictKey_9"] = "左オーバーヘッドコンソールのパイロット（コマンダー）用の兵器制御パネルには、火器設定用（火器選択やバースト時間など）のスイッチ類があります。\
+\
+武器を選択するには、 УПК/ПКТ/РС (UPK/PKT/RS)スイッチを選択兵器位置に合わせます。\
+UPK(上）は UPK-23-250ガンポッド（今日は搭載していません）\
+PKT（中）は機首に搭載のマシンガン（今日は搭載していません）、\
+RS（下）はロケットです。\
+\
+最初の攻撃パス（通過）ではロケットを使用します。スイッチをRS（下）にしてください。\
+スイッチは「RCtrl+[」「RCtrl+]」で操作できます。\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_GroupName_98"] = "Statics #009",
+    ["DictKey_GroupName_140"] = "New Static Object #027",
+    ["DictKey_GroupName_102"] = "Statics #064",
+    ["DictKey_ActionText_425"] = "",
+    ["DictKey_GroupName_204"] = "New Static Object #074",
+    ["DictKey_WptName_351"] = "",
+    ["DictKey_WptName_313"] = "",
+    ["DictKey_WptName_335"] = "",
+    ["DictKey_UnitName_53"] = "Statics #013",
+    ["DictKey_WptName_389"] = "",
+    ["DictKey_UnitName_193"] = "New Static Object #068",
+    ["DictKey_WptName_341"] = "",
+    ["DictKey_UnitName_209"] = "New Static Object #076",
+    ["DictKey_WptName_407"] = "",
+    ["DictKey_GroupName_96"] = "Statics #005",
+    ["DictKey_WptName_376"] = "",
+    ["DictKey_GroupName_186"] = "New Static Object #063",
+    ["DictKey_5"] = "Mi-8MTV2は次の兵器システムを搭載しています：\
+\
+Б-8В20А (B-8V20A):無誘導ロケットポッド。各ランチャーにS-8　80mmロケットを20発搭載可能。コクピットではロケットシステムは\"РС\" (RS)と表示ます。\
+\
+УПК-23-250 (UPK-23-250)：ガンポッド。ツインバレルの23mm機関砲で250発搭載を左右に各１基搭載可能。コクピットではUPK-23-250 ガンポッドは\"УПК\" (UPK)と表示ます。\
+\
+- ГУВ-8700 (GUV-8700)：汎用ガンポッド。\
+2つの仕様のうちどちらかを選択できます。\
+\
+・ 9A624/622:　12.7mm 4バレルガトリングマシンガンを１基＋7.62mm ４バレルガトリングマシンガンを２基の複合ガンポッド\
+ガンシステムでは12.7mm(表示624）１発か7.62(表示622）を２発同時発射のどちらかに切り替えて発射が可能です。\
+・9A800：AP-30 30mm自動グレネードランチャー\
+\
+コクピットではГУВ-8700システムはГУВ（GUV)と表示されます。ガンシステムは800,624,622と表示されます。\
+\
+スペースキーを押すと次に進みます",
+    ["DictKey_WptName_359"] = "",
+    ["DictKey_WptName_368"] = "",
+    ["DictKey_WptName_311"] = "",
+    ["DictKey_WptName_362"] = "",
+    ["DictKey_WptName_400"] = "",
+    ["DictKey_15"] = "マスターアームスイッチをONにします。\
+これは、コクピット天井の後部左隅にある大きな赤いスイッチです。オンにするとスイッチ横にある丸いランプが赤く点灯しますので、確認してください。「LAlt+S」\
+",
+    ["DictKey_ActionText_460"] = "...",
+    ["DictKey_UnitName_37"] = "Statics",
+    ["DictKey_WptName_319"] = "",
+    ["DictKey_GroupName_156"] = "New Static Object #040",
+    ["DictKey_GroupName_206"] = "New Static Object #075",
+    ["DictKey_UnitName_65"] = "Statics #022",
+    ["DictKey_UnitName_231"] = "New Static Object #012",
+    ["DictKey_UnitName_261"] = "New Static Object #002",
+    ["DictKey_UnitName_139"] = "New Static Object #026",
+    ["DictKey_WptName_383"] = "",
+    ["DictKey_GroupName_182"] = "New Static Object #061",
+    ["DictKey_UnitName_253"] = "New Static Object #052",
+    ["DictKey_UnitName_41"] = "Statics #002",
+    ["DictKey_UnitName_241"] = "New Static Object #037",
+    ["DictKey_UnitName_229"] = "New Static Object #011",
+    ["DictKey_GroupName_238"] = "New Static Object #036",
+    ["DictKey_ActionText_468"] = "",
+    ["DictKey_WptName_405"] = "",
+} -- end of dictionary
