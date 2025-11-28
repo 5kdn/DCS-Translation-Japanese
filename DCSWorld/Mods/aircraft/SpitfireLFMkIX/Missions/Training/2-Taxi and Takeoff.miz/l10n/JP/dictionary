@@ -1,0 +1,531 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_UnitName_89"] = "nogo #004",
+    ["DictKey_ActionText_336"] = "Trim rudder right. The rudder trimming  tab is controlled by a small hand wheel and is not provided with an indicator. The aircraft tends to turn to starboard when the handwheel is rotated clockwise.\
+\
+Press and hold [Right Ctrl+/] combination or mouseover the highlighted area and rotate the handwheel clockwise using mousewheel.\
+",
+    ["DictKey_GroupName_52"] = "nogo #006",
+    ["DictKey_GroupName_29"] = "New Static Object",
+    ["DictKey_GroupName_23"] = "New Static Object",
+    ["DictKey_GroupName_226"] = "nogo #064",
+    ["DictKey_ActionText_234"] = "",
+    ["DictKey_UnitName_62"] = "nogo #003",
+    ["DictKey_UnitName_146"] = "nogo #022",
+    ["DictKey_WptName_31"] = "",
+    ["DictKey_ActionText_368"] = "At all loads the recommended climbing speed is 180 m.p.h. I.A.S. from sea level to operating height. Control airplane pitch to maintain 180 m.p.h.. Check airspeed indicator for current I.A.S.",
+    ["DictKey_GroupName_214"] = "nogo #060",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_GroupName_73"] = "nogo #013",
+    ["DictKey_ActionText_338"] = "Check that main tanks cock is in 'ON' position.\
+\
+Press [Spacebar] to confirm.",
+    ["DictKey_GroupName_175"] = "nogo #047",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_ActionText_384"] = "You could not complete the lesson!\
+\
+Don't worry! Try again by pressing [Left Shift+R] combination.",
+    ["DictKey_UnitName_218"] = "nogo #022",
+    ["DictKey_ActionText_364"] = "Set engine to normal climbing power. Increase boost to +12 lb./sq.in.. \
+\
+Press [Num+] and [Num-] keys to increase or decrease boost or use [Throttle] axis.",
+    ["DictKey_ActionText_13"] = "ブレーキレバーを押して、各ホイールブレーキの空気圧（3連の圧力計の左右の針）を確認します。\
+\
+[W]キーを押すか、[wheel brake]軸を動かします。",
+    ["DictKey_ActionText_304"] = "Holding the brakes down increase throttle to 1800 r.p.m. in order to check brakes effectiveness. Watch r.p.m. at the engine-speed indicator (highlighted).\
+\
+Press [Num+] key carefully or move [Throttle] axis while holding brakes down.",
+    ["DictKey_UnitName_47"] = "nogo #001",
+    ["DictKey_ActionText_330"] = "Steer right.",
+    ["DictKey_ActionText_260"] = "足回りのインジケーターを見て、ギアが正常に格納・ロックされていることを確認してください（「UP」が点灯）。",
+    ["DictKey_GroupName_32"] = "nogo #001",
+    ["DictKey_UnitName_194"] = "nogo #022",
+    ["DictKey_UnitName_74"] = "nogo #003",
+    ["DictKey_ActionText_344"] = "Set the supercharger switch to 'AUTO-NORMAL' position. Make sure that red light out.\
+\
+Press [Right Shift+S] combination or click the highlighted switch.",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_ActionText_286"] = "You did not complete the lesson!\
+\
+Don't worry! Try again by pressing [Left Shift+R] combination.",
+    ["DictKey_ActionText_289"] = "推奨される上昇速度は、すべての負荷において海面から動作高度まで180 m.p.h. IASです。180 m.p.h.を維持するように飛行機のピッチをコントロールします。エアスピードインジケーターで現在のIASを確認します。",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_ActionText_324"] = "",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_ActionText_281"] = "止まってください!",
+    ["DictKey_ActionText_372"] = "Look at the altimeter. The instrument consists of 3 needles; the shortest needle indicates altitude in tens of thousands of feet, the medium needle indicates altitude in thousands of feet, and the long needle indicates altitude in hundreds of feet.\
+\
+Climb to 7000 feet altitude.",
+    ["DictKey_ActionText_272"] = "",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_GroupName_157"] = "nogo #041",
+    ["DictKey_ActionText_275"] = "滑走路の中央へ移動してください。",
+    ["DictKey_ActionText_366"] = "Set 2850 r.p.m at the engine-speed indicator.\
+\
+Press [Page Down] and [Page Up] keys to increase or decrease r.p.m. or use [Engine RPM] axis.",
+    ["DictKey_GroupName_220"] = "nogo #062",
+    ["DictKey_UnitName_170"] = "nogo #022",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_ActionText_254"] = "過給機スイッチが「AUTO-NORMAL」の位置に設定されていることを確認してください。赤いランプが消えていることを確認する。\
+\
+[右Shift+S]キーを押すか、ハイライトされたスイッチをクリックしてください。",
+    ["DictKey_GroupName_103"] = "nogo #023",
+    ["DictKey_ActionText_15"] = "ブレーキを確認しました。スロットルレバーをアイドル位置まで引きます。\
+\
+[Num-] キーを押すか、 [Throttle] 軸を移動します。",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_UnitName_95"] = "nogo #001",
+    ["DictKey_GroupName_223"] = "nogo #063",
+    ["DictKey_ActionText_326"] = "Slow down and stop. Hold short of the runway.",
+    ["DictKey_ActionText_263"] = "キャブレターのエアインテークフィルターコントロールを「NORMAL INTAKE」の位置に設定します。\
+\
+[H]キーを押すか、ハイライト表示されているレバーをクリックします。",
+    ["DictKey_ActionText_279"] = "Closer to center",
+    ["DictKey_UnitName_50"] = "nogo #001",
+    ["DictKey_ActionText_242"] = "スロットルレバーを戻します。\
+\
+[Num-]キーを押すか、[Throttle]軸を動かします。",
+    ["DictKey_GroupName_112"] = "nogo #026",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_ActionText_278"] = "左に舵を切ってください。",
+    ["DictKey_ActionText_290"] = "水平儀と旋回計を確認し、上昇中のバンク角をコントロールします。",
+    ["DictKey_ActionText_342"] = "Check that flaps lever set to 'UP' position.\
+\
+Press [Spacebar] to confirm.",
+    ["DictKey_ActionText_346"] = "Check the carburettor air intake control lever on the left-hand side of the cockpit. The ''FILTER IN OPERATION' position must be used for all ground running, take-off and landing.\
+\
+Make sure that the lever is to 'FILTER IN OPERATION' position.\
+\
+Press [Spacebar] to confirm.",
+    ["DictKey_ActionText_306"] = "Brakes checked. Retract the throttle lever to idle position.\
+\
+Press [Num-] key or move [Throttle] axis.",
+    ["DictKey_sortie_4"] = "",
+    ["DictKey_GroupName_49"] = "nogo #005",
+    ["DictKey_UnitName_173"] = "nogo #022",
+    ["DictKey_ActionText_14"] = "ブレーキをかけたまま、スロットルを1800r.p.m.にして、ブレーキの効き具合を確認します。ハイライトされたエンジン速度表示器でr.p.m.を監視します。\
+\
+[Num+]キーを慎重に押すか、ブレーキを押しながら[Throttle]軸を動かします。",
+    ["DictKey_ActionText_269"] = "Maintain 180 in climb",
+    ["DictKey_UnitName_80"] = "nogo #002",
+    ["DictKey_ActionText_270"] = "高度計を見てみましょう。高度計には3本の針があり、短い針は数万フィート、中くらいの針は数千フィート、長い針は数百フィートの高度を表しています。\
+\
+7000フィートまで上昇してください。",
+    ["DictKey_GroupName_46"] = "nogo #004",
+    ["DictKey_GroupName_148"] = "nogo #038",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_ActionText_280"] = "Steer left",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_UnitName_224"] = "nogo #022",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_ActionText_256"] = "通常の訓練負荷であれば、離陸時には+8 lb./sq.in.のブーストで十分です。離陸を開始するには、スティックを後ろに引いて、スロットルを+8 lb./sq.in.のブーストにします。機体の速度が上がってきたら、徐々にスティックを前に出して尾翼を持ち上げます。左に振れる傾向がありますが、これはラダー舵の入力で簡単に確認できます。機体は90～95m.p.h.でエアボーンになる。空中に出たらスティックを前に押して、機体を水平飛行に保ち、姿勢のピッチングを避けます。140m/p.h.になったら足回りを格納します。足回りを格納した後は、必ず赤色の警告灯が点灯することを確認してください。足回りのロックが「UP」にならないと、ラジエーターやオイルクーラーの空気の流れが悪くなり、温度が上がりすぎてしまいます。その後、通常の上昇力をの設定し、上昇を開始します。\
+\
+[右Ctrl+Enter]の組み合わせで、コントロールインジケーターをオンにすることができます。これにより、フライトコントロールの位置を監視することができます。\
+\
+離陸の準備ができたらキャノピーを閉じます。\
+\
+[左Ctrl+C]を押すか、後ろを振り返ってハイライト部分をクリックします。",
+    ["DictKey_WptName_238"] = "",
+    ["DictKey_descriptionText_1"] = "TAXI - TAKE OFF - CLIMB TRAINING LESSON",
+    ["DictKey_GroupName_187"] = "nogo #051",
+    ["DictKey_ActionText_20"] = "誘導路の黄色い線の前でブレーキを使って停止します。\
+\
+[W]キーを押すか、[Wheel Brakes]軸を動かします。",
+    ["DictKey_ActionText_340"] = "Check that drop tanks cock is in 'OFF' position.\
+\
+Press [Spacebar] to confirm.",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_GroupName_130"] = "nogo #032",
+    ["DictKey_UnitName_134"] = "nogo #022",
+    ["DictKey_GroupName_190"] = "nogo #052",
+    ["DictKey_ActionText_380"] = "You did not complete the lesson!\
+\
+Don't worry! Try again by pressing [Left Shift+R] combination.",
+    ["DictKey_GroupName_169"] = "nogo #045",
+    ["DictKey_UnitName_244"] = "",
+    ["DictKey_UnitName_101"] = "nogo #004",
+    ["DictKey_ActionText_233"] = "誘導路に留まれ！右に寄ってください！",
+    ["DictKey_ActionText_273"] = "スピードを落とせ！ 安全な速度を超えないようにしてください！",
+    ["DictKey_ActionText_293"] = "",
+    ["DictKey_GroupName_208"] = "nogo #058",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_GroupName_145"] = "nogo #037",
+    ["DictKey_UnitName_68"] = "nogo #002",
+    ["DictKey_GroupName_178"] = "nogo #048",
+    ["DictKey_GroupName_64"] = "nogo #010",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_UnitName_161"] = "nogo #022",
+    ["DictKey_UnitName_203"] = "nogo #022",
+    ["DictKey_UnitName_86"] = "nogo #003",
+    ["DictKey_GroupName_61"] = "nogo #009",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_UnitName_119"] = "nogo #022",
+    ["DictKey_GroupName_55"] = "nogo #007",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_UnitName_24"] = "",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_GroupName_217"] = "nogo #061",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_107"] = "nogo #022",
+    ["DictKey_UnitName_98"] = "nogo #003",
+    ["DictKey_ActionText_294"] = "local EngineHandler = {}\
+\
+     wEvent = {\
+           \"S_EVENT_SHOT\",\
+           \"S_EVENT_HIT\",\
+           \"S_EVENT_TAKEOFF\",\
+           \"S_EVENT_LAND\",\
+           \"S_EVENT_CRASH\",\
+           \"S_EVENT_EJECTION\",\
+           \"S_EVENT_REFUELING\",\
+           \"S_EVENT_DEAD\",\
+           \"S_EVENT_PILOT_DEAD\",\
+           \"S_EVENT_BASE_CAPTURED\",\
+           \"S_EVENT_MISSION_START\",\
+           \"S_EVENT_MISSION_END\",\
+           \"S_EVENT_TOOK_CONTROL\",\
+           \"S_EVENT_REFUELING_STOP\",\
+           \"S_EVENT_BIRTH\",\
+           \"S_EVENT_HUMAN_FAILURE\",\
+           \"S_EVENT_ENGINE_STARTUP\",\
+           \"S_EVENT_ENGINE_SHUTDOWN\",\
+           \"S_EVENT_PLAYER_ENTER_UNIT\",\
+           \"S_EVENT_PLAYER_LEAVE_UNIT\",\
+           \"S_EVENT_PLAYER_COMMENT\",\
+           \"S_EVENT_SHOOTING_START\",\
+           \"S_EVENT_SHOOTING_END\",\
+           \"S_EVENT_MAX\",\
+     }\
+    \
+    function EngineHandler:onEvent(e)\
+        local WorldEvent = wEvent[e.id]\
+        if e.id == world.event.S_EVENT_ENGINE_STARTUP then\
+            trigger.action.setUserFlag(1001, 1)\
+        end\
+        if e.id == world.event.S_EVENT_ENGINE_SHUTDOWN then\
+            trigger.action.setUserFlag(1001, 2)\
+        end\
+    end\
+world.addEventHandler(EngineHandler)",
+    ["DictKey_ActionText_264"] = "エンジンを通常の上昇力に設定する。ブーストを+12lb./sq.in.にします。\
+\
+[Num+]と[Num-]キーでブーストを増減するか、[Throttle]軸で増減します。",
+    ["DictKey_ActionText_374"] = "Check that oil and coolant temperatures do not exceed the following values during climb: \
+- 90°C - oil\
+- 125°C - coolant\
+\
+If any of these values being exceeded  level out and increase airspeed. After temperatures are back to normal continue the climb.",
+    ["DictKey_GroupName_26"] = "New Static Object #001",
+    ["DictKey_UnitName_77"] = "nogo #004",
+    ["DictKey_ActionText_249"] = "Closer to center",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_ActionText_292"] = "上昇中にオイルと冷却液の温度が以下の値を超えないことを確認します。\
+- 90°C - オイル\
+- 125°C - 冷却液\
+\
+これらの値を超えた場合は、水平にして対気速度を上げます。温度が正常に戻ってから、上昇を続けてください。",
+    ["DictKey_ActionText_315"] = "Stop in front of yellow line on the taxiway using brakes.\
+\
+Press [W] key or move [Wheel Brakes] axis.",
+    ["DictKey_GroupName_172"] = "nogo #046",
+    ["DictKey_ActionText_10"] = "これらの温度が以下の範囲にあることを確認してください。\
+- オイル（左のゲージ）は20℃以上、80℃以下\
+- 冷却液（右のゲージ）は60°C以上、120°C以下\
+\
+温度の数字が見にくい場合は、[Num/]キーと[Num*]キーを使って視野（FOV）を調整してください。[NumEnter]を押すと、視野がリセットされます。\
+\
+準備ができたら[Spacebar]を押します。",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_ActionText_308"] = "Open the canopy for better visibility during taxiing.\
+\
+Press [Left Shift+C] combination or left-click the highlighted area.",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_GroupName_67"] = "nogo #011",
+    ["DictKey_ActionText_276"] = "誘導路センターに戻れ！黄色い線を見てください！",
+    ["DictKey_ActionText_241"] = "滑走路に進み、右折します。滑走路の中央に機体を移動して停止します。",
+    ["DictKey_ActionText_19"] = "スロットルを1500r.p.m.に上げます。\
+\
+[Num+] キーを慎重に押すか、[Throttle] 軸を動かします。",
+    ["DictKey_GroupName_58"] = "nogo #008",
+    ["DictKey_GroupName_184"] = "nogo #050",
+    ["DictKey_UnitName_152"] = "nogo #022",
+    ["DictKey_ActionText_258"] = "飛びました! 水平飛行でスピードを出してください!",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_GroupName_79"] = "nogo #015",
+    ["DictKey_ActionText_277"] = "右に舵を切ってください。",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_ActionText_11"] = "プロペラスピードコントロールレバーが完全に前進していることを確認します。\
+\
+[Page Up]キーを押すか、[Engine RPM]軸を前進させます。",
+    ["DictKey_GroupName_88"] = "nogo #018",
+    ["DictKey_UnitName_197"] = "nogo #022",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_ActionText_358"] = "Retract the undercarriage.\
+\
+Press [G] key or click the highlighted lever.",
+    ["DictKey_ActionText_268"] = "エンジン回転数表示を2850r.p.m.に設定します。\
+\
+[Page Down]と[Page Up]キーを押してr.p.m.を増減させるか、[Engine RPM]で設定します。 axis.",
+    ["DictKey_GroupName_97"] = "nogo #021",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_UnitName_131"] = "nogo #022",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_122"] = "nogo #022",
+    ["DictKey_GroupName_100"] = "nogo #022",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_GroupName_115"] = "nogo #027",
+    ["DictKey_UnitName_125"] = "nogo #022",
+    ["DictKey_UnitName_206"] = "nogo #022",
+    ["DictKey_UnitName_104"] = "nogo #002",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_ActionText_16"] = "これで、タキシングの準備が整いました。停止状態から動き出すのに約1500r.p.m.を使います。動き出したら、安全なタキシング速度を維持するために、スロットルレバーをアイドリングに設定してください。\
+地上で旋回するには、操縦桿のホイール・ブレーキ・レバーを押しながら、同時に旋回したい方向にラダーを入力します。これにより、対応するメインホイールにブレーキ圧がかかり、旋回することができます。\
+\
+ラダーペダルを使用する場合は、[Z]を押すと左に、[X]を押すと右に旋回し、[ラダー]軸を使用します。\
+\
+[Spacebar]を押して進みます。",
+    ["DictKey_UnitName_92"] = "nogo #002",
+    ["DictKey_UnitName_179"] = "nogo #022",
+    ["DictKey_GroupName_127"] = "nogo #031",
+    ["DictKey_GroupName_205"] = "nogo #057",
+    ["DictKey_GroupName_91"] = "nogo #019",
+    ["DictKey_UnitName_236"] = "",
+    ["DictKey_UnitName_188"] = "nogo #022",
+    ["DictKey_ActionText_253"] = "フラップレバーが「UP」の位置になっていることを確認します。\
+\
+[Spacebar]を押して進みます。",
+    ["DictKey_UnitName_191"] = "nogo #022",
+    ["DictKey_UnitName_149"] = "nogo #022",
+    ["DictKey_UnitName_176"] = "nogo #022",
+    ["DictKey_UnitName_140"] = "nogo #022",
+    ["DictKey_ActionText_356"] = "",
+    ["DictKey_GroupName_5"] = "New Airplane Group",
+    ["DictKey_WptName_37"] = "",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_GroupName_124"] = "nogo #030",
+    ["DictKey_ActionText_21"] = "Go strait",
+    ["DictKey_GroupName_181"] = "nogo #049",
+    ["DictKey_ActionText_362"] = "Set the carburettor air intake filter control to 'NORMAL INTAKE' position.\
+\
+Press [H] key or click the highlighted lever.",
+    ["DictKey_ActionText_232"] = "誘導路に留まれ！左に寄ってください！",
+    ["DictKey_GroupName_193"] = "nogo #053",
+    ["DictKey_ActionText_266"] = "Maintain Speed ~180 using stick to get optimal climb",
+    ["DictKey_GroupName_43"] = "nogo #003",
+    ["DictKey_UnitName_30"] = "New Static Object",
+    ["DictKey_GroupName_154"] = "nogo #040",
+    ["DictKey_ActionText_22"] = "You failed!\
+LShift+R to restart",
+    ["DictKey_ActionText_248"] = "Cool",
+    ["DictKey_GroupName_196"] = "nogo #054",
+    ["DictKey_UnitName_59"] = "nogo #001",
+    ["DictKey_ActionText_259"] = "着陸装置を格納します。\
+\
+[G]キーを押すか、ハイライト表示されているレバーをクリックします。",
+    ["DictKey_ActionText_9"] = "レッスンは以下の部分で構成されます。\
+1. タキシング前のチェックリスト\
+2. タキシング\
+3. 離陸前のチェックリスト\
+4. 離陸\
+5. 上昇\
+\
+[Spacebar]を押すと第1部に進みます。",
+    ["DictKey_ActionText_299"] = "Make sure that the propeller speed control lever is in fully forward position.\
+\
+Press [Page Up] key or move [Engine RPM] axis forward.",
+    ["DictKey_ActionText_382"] = "You did not complete the lesson!\
+\
+Don't worry! Try again by pressing [Left Shift+R] combination.",
+    ["DictKey_ActionText_8"] = "タキシングと離陸のレッスンへようこそ。今日は Supermarine Spitfire IX のタキシングと離陸を練習しましょう。 \
+\
+[Spacebar] キーを押して開始します。",
+    ["DictKey_WptName_247"] = "",
+    ["DictKey_GroupName_142"] = "nogo #036",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_UnitName_36"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_ActionText_231"] = "速度を落として停止してください。滑走路の手前で待機してください。",
+    ["DictKey_GroupName_202"] = "nogo #056",
+    ["DictKey_UnitName_164"] = "nogo #022",
+    ["DictKey_GroupName_139"] = "nogo #035",
+    ["DictKey_ActionText_285"] = "",
+    ["DictKey_GroupName_85"] = "nogo #017",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_283"] = "You did not complete the lesson!\
+\
+Don't worry! Try again by pressing [Left Shift+R] combination.",
+    ["DictKey_GroupName_70"] = "nogo #012",
+    ["DictKey_ActionText_332"] = "Steer left.",
+    ["DictKey_ActionText_255"] = "コックピットの左側にあるキャブレターの吸気調整レバーを確認します。地上走行、離陸、着陸の際には必ず「FILTER IN OPERATION」の位置にしてください。\
+\
+レバーが \"FILTER IN OPERATION \"の位置になっていることを確認してください。\
+\
+[Spacebar]を押して進みます。",
+    ["DictKey_UnitName_167"] = "nogo #022",
+    ["DictKey_ActionText_288"] = "",
+    ["DictKey_GroupName_106"] = "nogo #024",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_ActionText_302"] = "Press the brake lever and check air pressures at each brake (left and right needle at the triple pressure gauge).\
+\
+Press [W] key or move [Wheel Brakes] axis.",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_GroupName_160"] = "nogo #042",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_UnitName_41"] = "nogo #001",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_ActionText_252"] = "ドロップタンクのコックが「OFF」になっていることを確認します。\
+\
+[Spacebar]を押して進みます。",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_GroupName_109"] = "nogo #025",
+    ["DictKey_ActionText_261"] = "Do it!",
+    ["DictKey_ActionText_229"] = "ブレーキレバーと左ラダーペダルを踏み、同時にスロットルを上げて左旋回します。ブレーキレバーを押したままスロットルを下げ、ラダーペダルを中央にすると、機体の旋回が止まります。",
+    ["DictKey_ActionText_230"] = "タキシングを続けます。",
+    ["DictKey_UnitName_44"] = "nogo #001",
+    ["DictKey_UnitName_155"] = "nogo #022",
+    ["DictKey_UnitName_83"] = "nogo #001",
+    ["DictKey_UnitName_221"] = "nogo #022",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_ActionText_291"] = "7000フィートまでの上昇に成功したので、このトレーニングレッスンを終了します。\
+\
+パイロットさん、お疲れ様でした。\
+[Spacebar]を押して、レッスンを終了します。",
+    ["DictKey_UnitName_212"] = "nogo #022",
+    ["DictKey_UnitName_182"] = "nogo #022",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_GroupName_35"] = "",
+    ["DictKey_UnitName_227"] = "nogo #022",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_GroupName_199"] = "nogo #055",
+    ["DictKey_GroupName_166"] = "nogo #044",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_UnitName_71"] = "nogo #001",
+    ["DictKey_GroupName_163"] = "nogo #043",
+    ["DictKey_GroupName_82"] = "nogo #016",
+    ["DictKey_GroupName_151"] = "nogo #039",
+    ["DictKey_UnitName_116"] = "nogo #022",
+    ["DictKey_ActionText_262"] = "スティックを戻し、ブーストを＋8lb./sq.in.にします。ハイライトされたブースト計で現在のブースト値を確認します。\
+\
+[Num+]キーを慎重に押すか、[Throttle]軸を動かします。",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_UnitName_6"] = "Pilot #001",
+    ["DictKey_ActionText_12"] = "空気圧の供給を確認してください。\
+- 220 lb./sq.in.を下回らないこと。\
+\
+3連の圧力計の中央の針が垂直になっている必要があります。\
+\
+[Spacebar]を押して次に進みます。",
+    ["DictKey_ActionText_319"] = "Continue taxiing.",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_UnitName_33"] = "nogo",
+    ["DictKey_ActionText_311"] = "Increase throttle to 1500 r.p.m.\
+\
+Press [Num+] key carefully or move [Throttle] axis.",
+    ["DictKey_UnitName_110"] = "nogo #022",
+    ["DictKey_ActionText_18"] = "キャノピーを開いて、タキシング時の視界を確保します。\
+\
+[左Shift+C]キーを押すか、ハイライト部分を左クリックします。",
+    ["DictKey_ActionText_251"] = "メイン燃料タンクのコックが「ON」になっていることを確認します。\
+\
+[Spacebar]を押して進みます。",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_GroupName_94"] = "nogo #020",
+    ["DictKey_GroupName_133"] = "nogo #033",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_ActionText_265"] = "Set RPM",
+    ["DictKey_ActionText_267"] = "",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_GroupName_243"] = "",
+    ["DictKey_GroupName_40"] = "nogo #002",
+    ["DictKey_ActionText_282"] = "You did not complete the lesson!\
+\
+Don't worry! Try again by pressing [Left Shift+R] combination.",
+    ["DictKey_UnitName_200"] = "nogo #022",
+    ["DictKey_UnitName_158"] = "nogo #022",
+    ["DictKey_UnitName_143"] = "nogo #022",
+    ["DictKey_ActionText_317"] = "Perform left turn by pressing the brakes lever and left rudder pedal and simultaneously increase throttle. Retract throttle and center rudder pedals while keeping the brakes lever pressed in order to stop turning the aircraft.",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_GroupName_121"] = "nogo #029",
+    ["DictKey_ActionText_17"] = "レッスンに失敗しました。\
+\
+気にしないでください。[左Shift+R]を押して再挑戦してみてください。",
+    ["DictKey_ActionText_350"] = "",
+    ["DictKey_ActionText_271"] = "Align aircraft in the middle of runway.",
+    ["DictKey_UnitName_53"] = "nogo #001",
+    ["DictKey_ActionText_348"] = "At training and normal loads +8 lb./sq.in. boost is sufficient for take-off. To begin take-off pull the stick and increase boost to +8 lb./sq.in.. Gradually push the stick as plane's speed increases to lift the tail. There is a tendency to swing to the left but this can easily be checked with the rudder. The plane becomes airborne at 90-95 m.p.h.. Push the stick on becoming airborne and keep the plane in level flight to avoid pitching. At 140 m.p.h speed retract the undercarriage. After retracting the undercarriage it is essential to check that the red warning light comes on, since if the undercarriage fails to lock 'UP' the airflow through the radiators and oil cooler will he much reduced and excessive temperatures will result. After that set normal climbing power and begin to climb.\
+\
+You can turn on the controls indicator by pressing [Right Ctrl+Enter] combination, so you can monitor the position of your flight controls.\
+\
+Close the canopy when you are ready to take off.\
+\
+Press [Left Ctrl+C] or look back and click the highlighted area.",
+    ["DictKey_UnitName_215"] = "nogo #022",
+    ["DictKey_ActionText_386"] = "You did not complete the lesson!\
+\
+Don't worry! Try again by pressing [Left Shift+R] combination.",
+    ["DictKey_UnitName_209"] = "nogo #022",
+    ["DictKey_GroupName_76"] = "nogo #014",
+    ["DictKey_ActionText_360"] = "Monitor the undercarriage indicator to make sure the gear retracts and locks successfully ('UP' illuminated).",
+    ["DictKey_ActionText_313"] = "Retract the throttle lever.\
+\
+Press [Num-] key or move [Throttle] axis.",
+    ["DictKey_GroupName_211"] = "nogo #059",
+    ["DictKey_ActionText_274"] = "訓練荷重で離陸するために、エレベータ1区分の機首を下げてトリムする。エレベーターのトリムタブは、コックピットの左側にあるハンドホイールで操作します。インジケーターは計器パネルにあります。\
+\
+[右Ctrl+;]を長押しするか、ハイライト部分にマウスオーバーし、マウスホイールを使ってハンドホイールを時計回りに回転させます。",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_ActionText_354"] = "",
+    ["DictKey_ActionText_250"] = "ラダーを右へトリムしてください。ラダー・トリミング・タブは、コックピットの左側にある小さなハンドホイールで操作しますが、インジケーターはありません。ハンドホイールを時計回りに回転させると、機体は右舷に旋回する傾向があります。\
+\
+[右Ctrl+/]を長押しするか、ハイライト部分にマウスオーバーして、マウスホイールでハンドホイールを時計回りに回転させてください。",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_ActionText_376"] = "You have successfully climbed to 7000 feet and that concludes the training mission.\
+\
+Well done, pilot!\
+\
+Press [Spacebar] to end the mission.",
+    ["DictKey_UnitName_113"] = "nogo #022",
+    ["DictKey_ActionText_295"] = "You did not complete the lesson!\
+\
+Don't worry! Try again by pressing [Left Shift+R] combination.",
+    ["DictKey_ActionText_257"] = "ラダーを使って滑走路の方向を維持します。徐々にスティックをニュートラル位置に戻していきます。",
+    ["DictKey_UnitName_27"] = "New Static Object",
+    ["DictKey_UnitName_185"] = "nogo #022",
+    ["DictKey_UnitName_65"] = "nogo #004",
+    ["DictKey_descriptionBlueTask_3"] = "Taxi to runway, take off and climb to 7000 feet altitude",
+    ["DictKey_GroupName_235"] = "",
+    ["DictKey_UnitName_137"] = "nogo #022",
+    ["DictKey_UnitName_56"] = "nogo #001",
+    ["DictKey_ActionText_352"] = "Use the rudder to maintain your heading down the runway. Gradually ease the stick to neutral position.",
+    ["DictKey_GroupName_118"] = "nogo #028",
+    ["DictKey_UnitName_128"] = "nogo #022",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_GroupName_136"] = "nogo #034",
+    ["DictKey_ActionText_370"] = "For the purpose of controlling your bank angle during climb check the artificial horizon and turn and bank indicator.",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_ActionText_378"] = "You could not complete the lesson!\
+\
+Don't worry! Try again by pressing [Left Shift+R] combination.",
+} -- end of dictionary

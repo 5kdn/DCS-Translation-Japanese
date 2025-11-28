@@ -1,0 +1,643 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_UnitName_89"] = "nogo #004",
+    ["DictKey_ActionText_336"] = "local _prime_count = trigger.misc.getUserFlag(33)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_GroupName_52"] = "nogo #006",
+    ["DictKey_GroupName_29"] = "New Static Object",
+    ["DictKey_ActionText_261"] = "Do it!",
+    ["DictKey_GroupName_226"] = "nogo #064",
+    ["DictKey_ActionText_234"] = "",
+    ["DictKey_UnitName_62"] = "nogo #003",
+    ["DictKey_UnitName_146"] = "nogo #022",
+    ["DictKey_ActionText_327"] = "local _prime_count = trigger.misc.getUserFlag(33)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_ActionText_416"] = "Open the throttle lever moving it 1/2 in. - 1 in. forward.\
+\
+Press [Num+] key or move [Throttle] axis.",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_ActionText_368"] = "Elevator OK",
+    ["DictKey_GroupName_214"] = "nogo #060",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_GroupName_73"] = "nogo #013",
+    ["DictKey_ActionText_338"] = "local _prime_count = trigger.misc.getUserFlag(33)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_WptName_247"] = "",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_UnitName_218"] = "nogo #022",
+    ["DictKey_GroupName_40"] = "nogo #002",
+    ["DictKey_ActionText_13"] = "アンダーキャリッジセレクターレバーが下がっていることを確認します。\
+\
+ [Spacebar]を押して進みます。",
+    ["DictKey_GroupName_151"] = "nogo #039",
+    ["DictKey_UnitName_47"] = "nogo #001",
+    ["DictKey_UnitName_36"] = "",
+    ["DictKey_ActionText_260"] = "スロットルレバーをアイドル 位置(一番後ろ)まで引きます。",
+    ["DictKey_GroupName_32"] = "nogo #001",
+    ["DictKey_UnitName_194"] = "nogo #022",
+    ["DictKey_UnitName_74"] = "nogo #003",
+    ["DictKey_ActionText_344"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_ActionText_286"] = "レッスンに失敗しました。\
+\
+気にしないでください。[左Shift+R]を押して再挑戦してみてください。",
+    ["DictKey_ActionText_289"] = "Maintain Speed ~180 using stick to get optimal climb",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_ActionText_323"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_ActionText_324"] = "local _prime_count = trigger.misc.getUserFlag(33)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_ActionText_255"] = "コックピットの左側にあるキャブレターの吸気コントロールレバーを「FILTER IN OPERATION」の位置（一番前）に設定します。\
+\
+[H]キーを押すか、ハイライトされたレバーをクリックしてください。",
+    ["DictKey_ActionText_281"] = "Stop!",
+    ["DictKey_ActionText_347"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_ActionText_372"] = "",
+    ["DictKey_ActionText_272"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_ActionText_275"] = "Move to center",
+    ["DictKey_ActionText_366"] = "8",
+    ["DictKey_GroupName_220"] = "nogo #062",
+    ["DictKey_UnitName_170"] = "nogo #022",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_ActionText_254"] = "Set the supercharger switch to 'AUTO-NORMAL' position. Make sure that red light out.\
+\
+Press [Right Shift+S] combination or click the highlighted switch.",
+    ["DictKey_GroupName_103"] = "nogo #023",
+    ["DictKey_UnitName_227"] = "nogo #022",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_ActionText_329"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_ActionText_377"] = "エンジン回転計を見ながら、スロットルを調整してエンジンを約1000～1200r.p.m.にします。",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_ActionText_430"] = "Open the starter and booster-coil pushbuttons covers.\
+\
+Click covers in the highlighted area with your mouse.",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_UnitName_95"] = "nogo #001",
+    ["DictKey_GroupName_223"] = "nogo #063",
+    ["DictKey_ActionText_326"] = "local _prime_count = trigger.misc.getUserFlag(33)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_ActionText_263"] = "スターターとブースターコイルの押しボタンのカバーを閉じます。\
+\
+ハイライトされた部分のカバーをマウスでクリックします。",
+    ["DictKey_ActionText_279"] = "Closer to center",
+    ["DictKey_UnitName_50"] = "nogo #001",
+    ["DictKey_ActionText_242"] = "燃料タンクの圧力コックが「OFF」になっていることを確認します。\
+\
+ [Spacebar]を押して進みます。",
+    ["DictKey_GroupName_112"] = "nogo #026",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_GroupName_235"] = "",
+    ["DictKey_ActionText_300"] = "スライドフードが正しく動作することを確認してください。フードを閉じてから開きます。\
+\
+[左Ctrl+C]でフードを閉じ、[左Shift+C]でフードを開くか、ハイライトされた要素をクリックしてください。",
+    ["DictKey_ActionText_342"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_ActionText_346"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_ActionText_306"] = "Pitch UP ok",
+    ["DictKey_sortie_4"] = "",
+    ["DictKey_ActionText_363"] = "5",
+    ["DictKey_GroupName_49"] = "nogo #005",
+    ["DictKey_UnitName_173"] = "nogo #022",
+    ["DictKey_ActionText_14"] = "ドロップタンクの燃料コックが「OFF」の位置（一番前）になっていることを確認します。\
+\
+ [Spacebar]を押して進みます。",
+    ["DictKey_ActionText_269"] = "Maintain 180 in climb",
+    ["DictKey_ActionText_310"] = "次に、左エルロンの動作を確認します。左エルロンを見ながら、操縦桿を左右にいっぱいに動かしてみてください。",
+    ["DictKey_ActionText_408"] = "Ensure that word 'DOWN' is lettered at the undercarriage light indicator (on the left) and the fuel pressure warning light is operative (on the right). Retract the throttle lever back to full aft position once you've made sure that light indicators work fine.\
+\
+Press [Num-] key or move [Throttle] axis.",
+    ["DictKey_ActionText_270"] = "Climb to 7000 feet",
+    ["DictKey_GroupName_46"] = "nogo #004",
+    ["DictKey_GroupName_148"] = "nogo #038",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_ActionText_404"] = "Make sure that the sliding hood operates properly. Close the hood and then open it.\
+\
+Press [Left Ctrl+C] to close the hood and [Left Shift+C] to open the hood or click the highlighted element.",
+    ["DictKey_ActionText_365"] = "7",
+    ["DictKey_ActionText_334"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_ActionText_307"] = "Pitch DOWN ok",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_UnitName_224"] = "nogo #022",
+    ["DictKey_ActionText_375"] = "Press starter + booster",
+    ["DictKey_ActionText_256"] = "Supercharger AUTO",
+    ["DictKey_ActionText_318"] = "",
+    ["DictKey_WptName_238"] = "",
+    ["DictKey_descriptionText_1"] = "PRELIMINARIES - STARTING THE ENGINE - WARMING UP TRAINING LESSON",
+    ["DictKey_GroupName_187"] = "nogo #051",
+    ["DictKey_ActionText_20"] = "空気圧の供給圧力が220 lb./sq.in以上であることを確認してください。3連の圧力計の中央の針で確認してください。\
+\
+[Spacebar]を押して進みます。",
+    ["DictKey_ActionText_340"] = "local _prime_count = trigger.misc.getUserFlag(33)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_GroupName_130"] = "nogo #032",
+    ["DictKey_UnitName_134"] = "nogo #022",
+    ["DictKey_GroupName_190"] = "nogo #052",
+    ["DictKey_ActionText_335"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_ActionText_428"] = "Set both ignition switches to 'ON' position to provide power to the engine ignition system.\
+\
+Press [Left Shift+End] and [Right Shift+End] or click highlighted switches using your mouse.",
+    ["DictKey_UnitName_244"] = "",
+    ["DictKey_UnitName_101"] = "nogo #004",
+    ["DictKey_ActionText_233"] = "Stay on the taxiway! Steer right!",
+    ["DictKey_ActionText_273"] = "Slow down! Don't exceed safe taxiing speed!",
+    ["DictKey_ActionText_293"] = "",
+    ["DictKey_GroupName_208"] = "nogo #058",
+    ["DictKey_ActionText_402"] = "Set the flap control lever to 'UP' position and look at the mechanical flaps indicators again ensuring that they went down.\
+\
+Press [F] key of click the highlighted lever.",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_GroupName_145"] = "nogo #037",
+    ["DictKey_UnitName_68"] = "nogo #002",
+    ["DictKey_GroupName_178"] = "nogo #048",
+    ["DictKey_GroupName_64"] = "nogo #010",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_UnitName_161"] = "nogo #022",
+    ["DictKey_UnitName_203"] = "nogo #022",
+    ["DictKey_UnitName_86"] = "nogo #003",
+    ["DictKey_GroupName_61"] = "nogo #009",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_UnitName_119"] = "nogo #022",
+    ["DictKey_GroupName_55"] = "nogo #007",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_UnitName_24"] = "",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_GroupName_217"] = "nogo #061",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_107"] = "nogo #022",
+    ["DictKey_UnitName_98"] = "nogo #003",
+    ["DictKey_ActionText_294"] = "",
+    ["DictKey_ActionText_264"] = "油圧計を見て、油圧が60～120lb./sq.inの範囲にあることを確認します。\
+\
+ [Spacebar]を押して進みます。",
+    ["DictKey_ActionText_448"] = "You could not complete the lesson!\
+\
+Don't worry! Try again by pressing [Left Shift+R] combination.",
+    ["DictKey_ActionText_374"] = "お見事！",
+    ["DictKey_GroupName_26"] = "New Static Object #001",
+    ["DictKey_UnitName_77"] = "nogo #004",
+    ["DictKey_ActionText_249"] = "Closer to center",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_ActionText_320"] = "",
+    ["DictKey_ActionText_312"] = "L aileron DWON ok",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_ActionText_292"] = "Watch temperaturs during climb",
+    ["DictKey_ActionText_315"] = "パーキングブレーキを設定し、エンジン始動時に機体が静止していることを確認します。\
+ハイライトされたレバーにマウスカーソルを合わせ、マウスホイールを回転させます。",
+    ["DictKey_GroupName_172"] = "nogo #046",
+    ["DictKey_ActionText_10"] = "Check that temperatures are in the following ranges:\
+- Oil (left gauge) is not less than 20°C and is not more than 80°C\
+- Coolant (right gauge) is not less than 60°C and is not more than 120°C\
+\
+Press [Spacebar] when ready.",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_GroupName_199"] = "nogo #055",
+    ["DictKey_ActionText_370"] = "OK",
+    ["DictKey_ActionText_378"] = "エンジン・プライミング・ポンプのネジを外します。\
+\
+ハイライトされた要素にマウスカーソルを合わせ、マウスホイールを回転させます。",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_GroupName_67"] = "nogo #011",
+    ["DictKey_ActionText_412"] = "Set the parking brake to make sure the aircraft remain stationary when the engine begins to pull.\
+\
+Hover mouse cursor over the highlighted lever and rotate the mouse wheel.",
+    ["DictKey_ActionText_276"] = "Return to the taxiway center! Whatch yellow line!",
+    ["DictKey_ActionText_241"] = "フラップコントロールレバーを「UP」の位置にして、フラップ・インジケーターが下がったことを確認します。\
+\
+[F]キーを押すか、ハイライト表示されているレバーをクリックします。",
+    ["DictKey_ActionText_19"] = "両方のマグネトイグニッションスイッチが「OFF」の位置になっていることを確認します。\
+\
+ [Spacebar]を押して進みます。",
+    ["DictKey_ActionText_397"] = "Adjust airfield altitude setting the altimeter to zero value. \
+\
+Rotate the highlighted knob using the mouse wheel.",
+    ["DictKey_GroupName_58"] = "nogo #008",
+    ["DictKey_GroupName_184"] = "nogo #050",
+    ["DictKey_UnitName_152"] = "nogo #022",
+    ["DictKey_ActionText_258"] = "スターターコイルとブースターコイルの押しボタンのカバーを開ける。\
+\
+ハイライトされた部分のカバーをマウスでクリックします。",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_ActionText_436"] = "Retract the throttle lever to idle (fully aft) position.",
+    ["DictKey_GroupName_79"] = "nogo #015",
+    ["DictKey_GroupName_196"] = "nogo #054",
+    ["DictKey_GroupName_166"] = "nogo #044",
+    ["DictKey_ActionText_380"] = "10",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_ActionText_22"] = "You failed!\
+LShift+R to restart",
+    ["DictKey_ActionText_11"] = "Make sure that propeller speed control lever is in fully forward position.\
+\
+Press [Page Up] key or move [Engine RPM] axis forward.",
+    ["DictKey_ActionText_248"] = "Cool",
+    ["DictKey_GroupName_88"] = "nogo #018",
+    ["DictKey_UnitName_197"] = "nogo #022",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_GroupName_76"] = "nogo #014",
+    ["DictKey_descriptionBlueTask_3"] = "Perform preliminary checks, start the engine, and warm up the engine.",
+    ["DictKey_ActionText_9"] = "このレッスンは以下の部分で構成されています。\
+1. 前準備\
+2. エンジンの始動\
+3. エンジンのウォーミングアップ\
+\
+ [Spacebar]を押して進みます。",
+    ["DictKey_ActionText_259"] = "スターターコイルとブースターコイルの押しボタンを同時に押します。キーボードの[Home]と[Delete]ボタンを使います。エンジンがかかり始めたら、[M]キーまたはクリックで、スロットルクアドラントのアイドルカットオフレバーを前方にいっぱいまで動かします。その後、スターターコイルとブースターコイルの押しボタンを離します。\
+\
+エンジンの始動がうまくいかない場合は、アイドルカットオフレバーを完全に後進させ、エンジンの点火から繰り返します。",
+    ["DictKey_ActionText_360"] = "2",
+    ["DictKey_GroupName_211"] = "nogo #059",
+    ["DictKey_ActionText_343"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_ActionText_268"] = "プライミングポンプをねじ込んでください。\
+\
+ハイライト表示された要素にマウスカーソルを合わせ、マウスホイールを回転します。",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_GroupName_97"] = "nogo #021",
+    ["DictKey_ActionText_316"] = "",
+    ["DictKey_ActionText_345"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_ActionText_274"] = "Trim elevator 1 division nose nose down for take-off at training load. The elevator trimming tabs are controlled by a handwheel on the left-hand side of the cockpit, the indicator being on the instrument panel.\
+\
+Press and hold [Right Ctrl+;] combination or mouseover the highlighted area and rotate the handwheel clockwise using mousewheel.",
+    ["DictKey_ActionText_321"] = "local _prime_count = trigger.misc.getUserFlag(33)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_ActionText_328"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_ActionText_288"] = "",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_UnitName_131"] = "nogo #022",
+    ["DictKey_ActionText_399"] = "Check the operation of the flaps. Set the flap control lever to 'DOWN' position.\
+\
+Press Press [F] key of click the highlighted lever.",
+    ["DictKey_ActionText_15"] = "メインタンクの燃料コックが「OFF」の位置になっていることを確認します。\
+\
+ [Spacebar]を押して進みます。",
+    ["DictKey_ActionText_420"] = "Set the carburettor air intake control lever on the left-hand side of the cockpit to 'FILTER IN OPERATION' position (fully forward).\
+\
+Press [H] key or click the highlighted lever.",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_ActionText_278"] = "Steer left",
+    ["DictKey_ActionText_371"] = "",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_GroupName_154"] = "nogo #040",
+    ["DictKey_UnitName_6"] = "Pilot #001",
+    ["DictKey_GroupName_100"] = "nogo #022",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_ActionText_367"] = "9",
+    ["DictKey_GroupName_115"] = "nogo #027",
+    ["DictKey_UnitName_125"] = "nogo #022",
+    ["DictKey_ActionText_282"] = "You failed!\
+LShift+R to restart",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_UnitName_104"] = "nogo #002",
+    ["DictKey_GroupName_94"] = "nogo #020",
+    ["DictKey_ActionText_357"] = "4",
+    ["DictKey_UnitName_41"] = "nogo #001",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_UnitName_155"] = "nogo #022",
+    ["DictKey_GroupName_243"] = "",
+    ["DictKey_ActionText_353"] = "",
+    ["DictKey_UnitName_179"] = "nogo #022",
+    ["DictKey_ActionText_290"] = "Maintain Bank",
+    ["DictKey_GroupName_127"] = "nogo #031",
+    ["DictKey_UnitName_113"] = "nogo #022",
+    ["DictKey_GroupName_5"] = "New Airplane Group",
+    ["DictKey_GroupName_205"] = "nogo #057",
+    ["DictKey_GroupName_91"] = "nogo #019",
+    ["DictKey_WptName_31"] = "",
+    ["DictKey_ActionText_8"] = "スタートアップ・レッスンへようこそ。本日は、Supermarine Spitfire IXのエンジン始動手順を学びます。\
+\
+[Spacebar]キーを押して開始します。",
+    ["DictKey_ActionText_230"] = "Continue taxiing.",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_UnitName_236"] = "",
+    ["DictKey_ActionText_330"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_UnitName_188"] = "nogo #022",
+    ["DictKey_ActionText_389"] = "Check the operation of the right aileron. Watch to the right and move your control stick fully left and fully right.",
+    ["DictKey_ActionText_16"] = "You are ready to taxi. We'll use approximately 1500 r.p.m. to start moving from a standstill. Once in motion, the throttle lever should be set to idle to maintain a safe taxi speed.\
+\
+To execute turns on the ground, the pilot presses the wheel brake lever on the flight control stick while simultaneously pressing the rudder pedals in the desired direction of turn in order to apply brake pressure to the corresponding main wheel.\
+\
+In order to use rudder pedals press [Z] to turn left and [X] to turn right or use [Rudder] axis.\
+\
+Press [Spacebar] to proceed.",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_ActionText_296"] = "右エルロンの動作を確認します。右エルロンを見ながら、操縦桿を左右にいっぱいに動かしてみてください。",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_GroupName_202"] = "nogo #056",
+    ["DictKey_UnitName_191"] = "nogo #022",
+    ["DictKey_UnitName_27"] = "New Static Object",
+    ["DictKey_UnitName_212"] = "nogo #022",
+    ["DictKey_ActionText_280"] = "Steer left",
+    ["DictKey_UnitName_149"] = "nogo #022",
+    ["DictKey_ActionText_432"] = "Press the starter and booster-coil pushbuttons simultaneously. Use [Home] and [Delete] buttons on the keyboard. As the engine begins to catch, move the idle cut-off lever on the throttle quadrant fully forward by [M] button or clicking it. Then release the starter and booster-coil pushbuttons.\
+\
+If you aren't able to start the engine successfully, return the idle cut-off lever to fully aft position and repeat the process starting with priming the engine.",
+    ["DictKey_UnitName_176"] = "nogo #022",
+    ["DictKey_UnitName_158"] = "nogo #022",
+    ["DictKey_ActionText_257"] = "両方のマグネトイグニッションスイッチを「ON」の位置にして、エンジンの点火システムに電源を供給します。\
+\
+[左Shift+End]と[右Shift+End]を押すか、マウスでハイライトされたスイッチをクリックします。",
+    ["DictKey_ActionText_262"] = "手元の手動燃料ポンプを、燃料圧力低下警告灯が消えるまで、または約9～10回フルストロークさせます。\
+\
+[左Ctrl+Insert]キーの組み合わせで操作するか、マウスカーソルでウォブルレバーをクリックしたままにします。",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_UnitName_140"] = "nogo #022",
+    ["DictKey_ActionText_356"] = "3",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_WptName_37"] = "",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_GroupName_109"] = "nogo #025",
+    ["DictKey_UnitName_110"] = "nogo #022",
+    ["DictKey_ActionText_21"] = "Go strait",
+    ["DictKey_GroupName_181"] = "nogo #049",
+    ["DictKey_ActionText_314"] = "燃料タンクのレベルを確認します。ハイライトされたボタンを押したまま、燃料レベルゲージを見ます。燃料タンクが満タンになったことを確認したら、プッシュボタンを離します。",
+    ["DictKey_ActionText_369"] = "Rudder OK",
+    ["DictKey_GroupName_193"] = "nogo #053",
+    ["DictKey_ActionText_266"] = "Maintain Speed ~180 using stick to get optimal climb",
+    ["DictKey_ActionText_304"] = "Yaw L ok",
+    ["DictKey_UnitName_30"] = "New Static Object",
+    ["DictKey_ActionText_339"] = "local _prime_count = trigger.misc.getUserFlag(33)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_ActionText_305"] = "Yaw R ok",
+    ["DictKey_ActionText_277"] = "Steer right",
+    ["DictKey_UnitName_59"] = "nogo #001",
+    ["DictKey_ActionText_349"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_ActionText_299"] = "Check mechanical indicator LEFT\
+\
+Press Space",
+    ["DictKey_ActionText_361"] = "3",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_ActionText_443"] = "Look at the engine-speed indicator and adjust the throttle to run the engine at about 1000-1200 r.p.m.",
+    ["DictKey_GroupName_142"] = "nogo #036",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_UnitName_33"] = "nogo",
+    ["DictKey_ActionText_252"] = "スロットルレバーを 1/2 インチ～1 インチ前方に動かして開きます。\
+\
+[Num+]キーを押すか、[Throttle]軸を前進させます。",
+    ["DictKey_ActionText_297"] = "Flaps Down",
+    ["DictKey_UnitName_122"] = "nogo #022",
+    ["DictKey_UnitName_164"] = "nogo #022",
+    ["DictKey_GroupName_139"] = "nogo #035",
+    ["DictKey_ActionText_267"] = "",
+    ["DictKey_ActionText_12"] = "まずは、エンジンを始動する前の予備チェックから始めましょう。アイドルカットコントロールがカットオフポジション(一番後ろ) になっていることを確認します。\
+\
+ [Spacebar]を押して進みます。",
+    ["DictKey_UnitName_206"] = "nogo #022",
+    ["DictKey_ActionText_283"] = "You failed!\
+LShift+R to restart",
+    ["DictKey_GroupName_70"] = "nogo #012",
+    ["DictKey_ActionText_332"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_UnitName_185"] = "nogo #022",
+    ["DictKey_UnitName_167"] = "nogo #022",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_UnitName_143"] = "nogo #022",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_ActionText_302"] = "スロットルクアドラントのライト表示スイッチがオンになるまで、スロットルレバーを前方に動かします。\
+\
+[Num+]キーを押すか、[Throttle]軸を前進させます。",
+    ["DictKey_UnitName_80"] = "nogo #002",
+    ["DictKey_GroupName_160"] = "nogo #042",
+    ["DictKey_ActionText_414"] = "Set the main tanks fuel cock to 'ON' position.\
+\
+Press [T] key or click the highlighted lever.",
+    ["DictKey_ActionText_358"] = "5",
+    ["DictKey_GroupName_175"] = "nogo #047",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_ActionText_333"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_UnitName_128"] = "nogo #022",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_UnitName_137"] = "nogo #022",
+    ["DictKey_ActionText_229"] = "高度計をゼロにして飛行場の高度を調整します。\
+\
+マウスホイールを使って、ハイライトされたノブを回転させます。",
+    ["DictKey_ActionText_441"] = "Screw down the priming pump.\
+\
+Hover mouse cursor over the highlighted element and rotate the mouse wheel.",
+    ["DictKey_ActionText_337"] = "local _prime_count = trigger.misc.getUserFlag(33)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_UnitName_44"] = "nogo #001",
+    ["DictKey_ActionText_291"] = "Youve reached the altitude. \
+\
+Press space to end",
+    ["DictKey_ActionText_309"] = "R aileron DWON ok",
+    ["DictKey_UnitName_221"] = "nogo #022",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_UnitName_83"] = "nogo #001",
+    ["DictKey_ActionText_250"] = "Trim rudder right. The rudder trimming  tab is controlled by a small hand wheel and is not provided with an indicator. The aircraft tends to turn to starboard when the handwheel is rotated clockwise.\
+\
+Press and hold [Right Ctrl+/] combination or mouseover the highlighted area and rotate the handwheel clockwise using mousewheel.\
+",
+    ["DictKey_ActionText_348"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_ActionText_434"] = "Good start!",
+    ["DictKey_ActionText_232"] = "Stay on the taxiway! Steer left!",
+    ["DictKey_ActionText_285"] = "",
+    ["DictKey_ActionText_373"] = "local EngineHandler = {}\
+\
+     wEvent = {\
+           \"S_EVENT_SHOT\",\
+           \"S_EVENT_HIT\",\
+           \"S_EVENT_TAKEOFF\",\
+           \"S_EVENT_LAND\",\
+           \"S_EVENT_CRASH\",\
+           \"S_EVENT_EJECTION\",\
+           \"S_EVENT_REFUELING\",\
+           \"S_EVENT_DEAD\",\
+           \"S_EVENT_PILOT_DEAD\",\
+           \"S_EVENT_BASE_CAPTURED\",\
+           \"S_EVENT_MISSION_START\",\
+           \"S_EVENT_MISSION_END\",\
+           \"S_EVENT_TOOK_CONTROL\",\
+           \"S_EVENT_REFUELING_STOP\",\
+           \"S_EVENT_BIRTH\",\
+           \"S_EVENT_HUMAN_FAILURE\",\
+           \"S_EVENT_ENGINE_STARTUP\",\
+           \"S_EVENT_ENGINE_SHUTDOWN\",\
+           \"S_EVENT_PLAYER_ENTER_UNIT\",\
+           \"S_EVENT_PLAYER_LEAVE_UNIT\",\
+           \"S_EVENT_PLAYER_COMMENT\",\
+           \"S_EVENT_SHOOTING_START\",\
+           \"S_EVENT_SHOOTING_END\",\
+           \"S_EVENT_MAX\",\
+     }\
+    \
+    function EngineHandler:onEvent(e)\
+        local WorldEvent = wEvent[e.id]\
+        if e.id == world.event.S_EVENT_ENGINE_STARTUP then\
+            trigger.action.setUserFlag(1001, 1)\
+        end\
+        if e.id == world.event.S_EVENT_ENGINE_SHUTDOWN then\
+            trigger.action.setUserFlag(1001, 2)\
+        end\
+    end\
+world.addEventHandler(EngineHandler)",
+    ["DictKey_ActionText_379"] = "エンジンが少なくとも油温20℃（ハイライト部分の左のゲージ）、冷却水温度60℃（右のゲージ）まで温まるまで、1,000～1,200 r.p.m.でアイドリングを続けます。",
+    ["DictKey_UnitName_71"] = "nogo #001",
+    ["DictKey_GroupName_163"] = "nogo #043",
+    ["DictKey_GroupName_82"] = "nogo #016",
+    ["DictKey_ActionText_298"] = "",
+    ["DictKey_GroupName_106"] = "nogo #024",
+    ["DictKey_ActionText_308"] = "R aileron UP ok",
+    ["DictKey_GroupName_85"] = "nogo #017",
+    ["DictKey_ActionText_271"] = "Align aircraft in the middle of runway.",
+    ["DictKey_ActionText_424"] = "Work the primer and prime the engine with 5 full strokes.\
+\
+Use [Insert] button or click and hold the primer with mouse cursor to prime.",
+    ["DictKey_ActionText_319"] = "雷管を5回フルストロークさせて、エンジンに点火します。\
+\
+[Insert]ボタンを使うか、マウスカーソルで雷管をクリックしたままにすると、エンジンに点火します。",
+    ["DictKey_UnitName_56"] = "nogo #001",
+    ["DictKey_ActionText_341"] = "",
+    ["DictKey_ActionText_311"] = "L aileron UP ok",
+    ["DictKey_ActionText_422"] = "Unscrew the engine priming pump.\
+\
+Hover mouse cursor over the highlighted element and rotate the mouse wheel.",
+    ["DictKey_ActionText_18"] = "それでは、飛行制御装置の動作をテストしてみましょう。まず、ラダーのチェックから始めましょう。機体の尾翼を目視して、ラダーペダルが完全に動くかどうかを確認します。ラダーが自由に動いていることを確認します。\
+\
+TrackIRやマウスを使用していない場合は、[Num4]または[Num6]キーで後ろを振り返ることができます。ラダーペダルを動かすには、[Z]キーと[X]キーを押すか、[Rudder]軸を動かします。",
+    ["DictKey_UnitName_215"] = "nogo #022",
+    ["DictKey_ActionText_231"] = "右と左を見て、両方のフラップ・インジケータが上がっていることを確認します。これらは主翼の上にあります。\
+\
+[Spacebar]を押して進みます。",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_GroupName_43"] = "nogo #003",
+    ["DictKey_GroupName_133"] = "nogo #033",
+    ["DictKey_ActionText_251"] = "メインタンクの燃料コックを「ON」の位置にします。\
+\
+[T]キーを押すか、ハイライト表示されているレバーをクリックします。",
+    ["DictKey_ActionText_265"] = "Set RPM",
+    ["DictKey_ActionText_364"] = "6",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_UnitName_116"] = "nogo #022",
+    ["DictKey_GroupName_124"] = "nogo #030",
+    ["DictKey_GroupName_23"] = "New Static Object",
+    ["DictKey_GroupName_35"] = "",
+    ["DictKey_UnitName_200"] = "nogo #022",
+    ["DictKey_ActionText_391"] = "Check the operation of the left aileron. Watch to the left and move your control stick fully left and fully right.",
+    ["DictKey_ActionText_17"] = "レッスンに失敗しました。\
+\
+気にしないでください。[左Shift+R]を押して再挑戦してみてください。",
+    ["DictKey_ActionText_317"] = "プロペラスピードコントロールレバーを完全に前進させます。\
+\
+[Page Up]キーを押すか、[Engine RPM]軸を前進させます。",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_GroupName_121"] = "nogo #029",
+    ["DictKey_ActionText_253"] = "Check that flaps lever set to 'UP' position.\
+\
+Press [Spacebar] to confirm.",
+    ["DictKey_ActionText_350"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_UnitName_53"] = "nogo #001",
+    ["DictKey_ActionText_351"] = "すべての予備チェックが終了しました。いよいよエンジンの始動に移ります。\
+\
+ [Spacebar]を押して進みます。",
+    ["DictKey_ActionText_354"] = "1",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_UnitName_209"] = "nogo #022",
+    ["DictKey_UnitName_182"] = "nogo #022",
+    ["DictKey_GroupName_157"] = "nogo #041",
+    ["DictKey_ActionText_313"] = "足回りのライトインジケーター（左側）に「DOWN」の文字が点灯し、燃料圧力警告灯（右側）が点灯していることを確認します。ランプの点灯を確認したら、スロットルレバーを完全に戻します。\
+\
+[Num-]キーを押すか、[Throttle]軸を戻します。",
+    ["DictKey_UnitName_92"] = "nogo #002",
+    ["DictKey_ActionText_301"] = "Open Hood",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_ActionText_352"] = "",
+    ["DictKey_ActionText_450"] = "You could not complete the lesson!\
+\
+Don't worry! Try again by pressing [Left Shift+R] combination.",
+    ["DictKey_ActionText_325"] = "local _prime_count = trigger.misc.getUserFlag(33)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_ActionText_331"] = "local _prime_count = trigger.misc.getUserFlag(36)\
+\
+trigger.action.outText(_prime_count, 10)",
+    ["DictKey_ActionText_376"] = "これでエンジン始動のレッスンは終了です。お疲れ様でした。\
+\
+ [Spacebar]を押して終了します。",
+    ["DictKey_ActionText_355"] = "2",
+    ["DictKey_ActionText_295"] = "それでは、エレベータの動作を確認してみましょう。操縦桿を前後にいっぱい動かしてみてください。",
+    ["DictKey_ActionText_445"] = "Continue to idle the engine at 1000-1200 r.p.m. until it warms up to at least 20°C oil temperature (left guage in the highlighted area) and 60°C coolant temperature (right gauge).",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_ActionText_359"] = "1",
+    ["DictKey_UnitName_65"] = "nogo #004",
+    ["DictKey_ActionText_303"] = "次に、フラップの動作を確認します。フラップコントロールレバーを「DOWN」の位置にします。\
+\
+[F]キーを押すか、ハイライト表示されているレバーをクリックします。",
+    ["DictKey_ActionText_406"] = "Move the throttle lever forward until the light indication switch on the throttle quadrant is on.\
+\
+Press [Num+] key or move [Throttle] axis.",
+    ["DictKey_ActionText_362"] = "4",
+    ["DictKey_ActionText_418"] = "Move the propeller speed control lever fully forward.\
+\
+Press [Page Up] key or move [Engine RPM] axis.",
+    ["DictKey_ActionText_439"] = "Close the starter and booster-coil pushbuttons covers.\
+\
+Click covers in the highlighted area with your mouse.",
+    ["DictKey_GroupName_118"] = "nogo #028",
+    ["DictKey_GroupName_169"] = "nogo #045",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_GroupName_136"] = "nogo #034",
+    ["DictKey_ActionText_426"] = "Operate the hand wobble pump until the fuel pressure warning light is out or approximately 9-10 full strokes.\
+\
+Use [Left Ctrl+Insert] keys combination or click and hold the wobble lever with mouse cursor.",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_ActionText_322"] = "Close ring",
+} -- end of dictionary

@@ -1,0 +1,258 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_GroupName_124"] = "New Static Object #001",
+    ["DictKey_53"] = "You should see our airfield at about 3 o'clock now, a few miles east of the coast. You should also see a pattern of green gates arranged in the air to help guide you through the overhead pattern all the way down to the runway. The pattern entry gate is the large green one, positioned 1,000 feet above the runway threshold.\
+\
+Take a heading for the entry gate, which will put you on the upwind leg over the runway heading away from the coast.",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_GroupName_96"] = "Batumi-static-bus",
+    ["DictKey_ActionText_234"] = "Slow down and take the taxiway to the right.",
+    ["DictKey_ActionText_198"] = "We'll use maximum continuous power while flying to the airfield. Set the propeller speed control lever to give 2,650 r.p.m. and set the throttle lever to maintain a boost pressure of +7 lb./sq.in.",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_76"] = "Now release the wheel brakes by releasing the [W] key.",
+    ["DictKey_78"] = "アイドリングストップコントロールレバーを操作して、エンジンを停止します。",
+    ["DictKey_86"] = "Turn off the Gun Heat, Pitot Heat, Generator Cutoff and Battery Cutoff switches on the Electrical Control panel. Turn off all cockpit and external lights that may be on.",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_UnitName_121"] = "New Static Object #006",
+    ["DictKey_47"] = "このレッスンでは、軍用の標準的なオーバーヘッドパターンを使用します。オーバーヘッドパターンは以下の基本的な要素で構成されている。\
+\
+- 風上側のレグでパターンに入り、着陸コースと平行に滑走路を飛行する。\
+- 横風レグでは、機体を180度回転させて風下レグに入り、その際に余分な対気速度を抜く。\
+- ダウンウィンド・レグでは、着陸コースとは逆方向に滑走路を飛行し、着陸の準備をする。\
+- ベースレグ：機体を180度回転させながら降下し、最終アプローチを行う。\
+- 滑走路のしきい値を越えて、タッチダウン地点まで安定したグライドパスを飛行させる最終アプローチのこと。\
+\
+[Spacebar]キーを押して進みます。",
+    ["DictKey_ActionText_182"] = "Before entering the pattern, set the engine RPM to 2850.\
+\
+Also turn off the gunsight gyro motor to avoid damaging it in case of a rough touchdown.",
+    ["DictKey_55"] = "パターンに近づいています。レベルオフし、ゲートに従ってパターンを飛行します。",
+    ["DictKey_52"] = "緑のゲートが空中に配置されているのが見えると思いますが、これは頭上のパターンを通過して滑走路まで誘導するためのものです。パターンのエントリーゲートは最初のもので、滑走路のしきい値から1,000フィート上に位置しています。\
+\
+エントリーゲートに向かって飛行すると、海岸から離れる方向に向かって滑走路上のアップウインドレグになります。",
+    ["DictKey_UnitName_115"] = "New Static Object",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_UnitName_123"] = "New Static Object #1",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_ActionText_187"] = "",
+    ["DictKey_ActionText_238"] = "Park in one of the parking spaces.",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_GroupName_100"] = "Batumi-static-UH-1",
+    ["DictKey_ActionText_236"] = "Turn left and park in one of the parking spaces.",
+    ["DictKey_UnitName_125"] = "New Static Object #001",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_60"] = "次のゲートがベースレグのスタートとなり、左旋回の下降気流に乗って最終進入地点に向かいます。\
+\
+最終進入速度が時速150〜160マイルになるように速度を調整してください。",
+    ["DictKey_ActionText_225"] = "As you approach the threshold, prepare to reduce power and flare the aircraft by gently pulling the stick back. You want a gentle touchdown at about 90 mph.",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_GroupName_90"] = "Batumi-static-Yak-40-1",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_descriptionRedTask_129"] = "",
+    ["DictKey_UnitName_113"] = "Batumi-car",
+    ["DictKey_UnitName_111"] = "Player",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_UnitName_103"] = "Batumi-static-Yak-40-1 #001",
+    ["DictKey_GroupName_120"] = "New Static Object #006",
+    ["DictKey_UnitName_105"] = "New Static Object #008",
+    ["DictKey_GroupName_108"] = "New Static Object #009",
+    ["DictKey_79"] = "イグニッションスイッチをOFFにします。",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_68"] = "慎重に[Z]または[X]方向のラダーを入力し、ブレーキを踏んで滑走路の中央を走行します。\
+\
+スロットルをアイドリングパワーに設定します。",
+    ["DictKey_UnitName_93"] = "Batumi-static-An-26-1",
+    ["DictKey_UnitName_117"] = "New Static Object #2",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_ActionText_192"] = "レッスンに失敗しました。\
+\
+気にしないでください。[左Shift+R]を押して再挑戦してみてください。",
+    ["DictKey_ActionText_218"] = "Your approach is fast. Keep your approach speed around 110 mph.",
+    ["DictKey_UnitName_95"] = "Batumi-static-An-26-2",
+    ["DictKey_UnitName_127"] = "New Static Object #3",
+    ["DictKey_49"] = "オーバーヘッドパターンの利点は、横風ターンで余分な対気速度を抜いてから、ダウンウインドレグで落ち着いてギアとフラップを落として最終進入ができることです。\
+\
+ファイナルアプローチは時速100〜110マイルで飛行します。\
+\
+[Spacebar]を押して進みます。",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_57"] = "今、あなたは風下にいます。対気速度は160mph前後を維持してください。",
+    ["DictKey_GroupName_112"] = "Batumi-car",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_80"] = "燃料コックをOFFにします。",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_ActionText_244"] = "Switch OFF the ignition.",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_ActionText_214"] = "You're now lining up for final approach. Press the [F] key to lower the flaps. Check mecanical indicators.",
+    ["DictKey_58"] = "[G]を押してランディングギアを下げます。ランディングギアの警告灯パネルを見て、緑色のランプが点灯していることを確認してください。",
+    ["DictKey_67"] = "慎重にパワーを落とし、スティックを引き続けて緩やかなフレアーをします。バウンドしないように、ソフトな3点着地を心がけましょう。",
+    ["DictKey_69"] = "続いて、右隣の利用可能な誘導路に移動します。\
+\
+[F] キーを押してフラップを上げ、 [Left Shift+C] キーを押してキャノピーを開きます。",
+    ["DictKey_89"] = "レッスン完了です!大変よくできました!\
+\
+[Spacebar] を押して、ミッションを終了します。",
+    ["DictKey_72"] = "左折して、駐機スペースの一つに停めます。",
+    ["DictKey_62"] = "プロペラスピードコントロールレバーを完全に前進させます。ファイナルで110mphを維持する。サイドスリップを最小限に抑え、トリムして安定したアプローチを行う。\
+\
+トラブルに巻き込まれそうになったら、少しパワーを加えてからギアとフラップを上げ、上昇して迂回する。",
+    ["DictKey_87"] = "Pull the Landing Gear Emergency Release handle to release hydraulic pressure.",
+    ["DictKey_GroupName_114"] = "New Static Object",
+    ["DictKey_ActionText_184"] = "飛行場までの飛行中は最大連続出力で飛行します。プロペラスピードコントロールレバーで2,650r.p.m.になるように設定し、スロットルレバーでブースト圧を+7lb./sq.in.に保つように設定しましょう。",
+    ["DictKey_51"] = "You should see our airfield ahead, a few miles east of the coast. You should also see a pattern of green gates arranged in the air to help guide you through the overhead pattern all the way down to the runway. The pattern entry gate is the large one, positioned 1,000 feet above the runway threshold.\
+\
+Take a heading for the entry gate, which will put you on the upwind leg over the runway heading away from the coast.",
+    ["DictKey_ActionText_224"] = "滑走路末端に近づいたら、パワーダウンの準備をして、スティックを軽く引いてフレアーをします。約90mphでの緩やかなタッチダウンを目指します。",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_46"] = "着陸のレッスンへようこそ。今日はSpitfireの目視によるアプローチ・パターンと着陸の練習、そしてエンジン停止の手順を行います。\
+\
+エンジン音で指示が聞き取りにくい場合は、オプション/オーディオメニューのWORLDとIN COCKPITのサウンドスライダーを下げてください。\
+\
+準備ができたら[Spacebar]キーを押して進みます。",
+    ["DictKey_UnitName_97"] = "Batumi-static-bus",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_88"] = "Lock the controls. Left-click on the latch to lock the controls in a stick-forward position for towing or right-click on the latch to lock the stick in the neutral position with the tail wheel locked.",
+    ["DictKey_descriptionText_128"] = "LANDING TRAINING LESSON",
+    ["DictKey_GroupName_116"] = "New Static Object #003",
+    ["DictKey_50"] = "パターンに入ったら、スロットルを大きく動かさないように注意し、コントロールを慎重に行い、制御された安定した飛行を維持します。\
+\
+ガンサイトレティクルの中には、前方に飛行場が見えているはずです。[Num*]と[Num/]でズームインとズームアウトを行い、[NumEnter]キーでズームを初期値に戻します。\
+\
+準備ができたら[Spacebar]キーを押してください。active pauseがオフになり、コントロールがあなたに移行します。準備してください!",
+    ["DictKey_ActionText_206"] = "Good job entering the pattern. You are now on the upwind leg.\
+\
+Keep the power down and monitor your airspeed and altitude.\
+\
+The next leg will be the crosswind turn, taking you 180 degrees left to put you on the downwind leg. \
+Use the turn to bleed off any excess speed so that you're below 200 mph on the downwind leg.",
+    ["DictKey_ActionText_202"] = "You should see a pattern of green gates arranged in the air to help guide you through the overhead pattern all the way down to the runway. The pattern entry gate is the first one, positioned 1,000 feet above the runway threshold.\
+\
+Take a heading for the entry gate, which will put you on the upwind leg over the runway heading away from the coast.",
+    ["DictKey_ActionText_189"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_ActionText_212"] = "The next gate will be the start of your base leg, leading you through a descending left-hand turn toward the final approach point.\
+\
+Control your airspeed to make sure it stays 150-160 mph for final approach.",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_84"] = "Turn off the magnetos by setting the Ignition switch to OFF.",
+    ["DictKey_UnitName_109"] = "New Static Object #009",
+    ["DictKey_GroupName_126"] = "New Static Object #004",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_ActionText_204"] = "You're approaching the pattern. Level off and follow the gates to fly the pattern.",
+    ["DictKey_77"] = "Release the Parking Brake handle to set the parking brake.",
+    ["DictKey_GroupName_104"] = "New Static Object #008",
+    ["DictKey_UnitName_101"] = "Batumi-static-UH-1",
+    ["DictKey_ActionText_248"] = "",
+    ["DictKey_ActionText_191"] = "",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_70"] = "あなたのアプローチでは、いくつかのパターンゲートを見逃していました。 次はもっと正確に飛行してください。\
+\
+続いて、右隣の利用可能な誘導路に移動します。\
+\
+[F] キーを押してフラップを上げ、 [Left Shift+C] キーを押してキャノピーを開きます。",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_82"] = "Raise the flaps by dragging the flap control handle up or pressing [L.SHIFT + F] five times.",
+    ["DictKey_56"] = "すばらしい。パターンに入れました。あなたは今、風上にいます。\
+\
+パワーダウンして、対気速度と高度を監視してください。\
+\
+次のレグは横風のターンで、あなたは180度左に移動し、風下のレグに入ります。\
+このターンでは、風下側のレグで時速200マイル以下になるように、減速します。",
+    ["DictKey_65"] = "遅すぎます。この高度では失速すると大変なことになります。110mph前後のスピードを維持してください。",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_descriptionBlueTask_130"] = "Land and park the aircraft. Perform engine shutdown procedure.",
+    ["DictKey_81"] = "Set the trim tabs to neutral.",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_ActionText_250"] = "You did not complete the lesson.\
+\
+Don't worry, try again by pressing the [Left Shift+R] combination.",
+    ["DictKey_71"] = "速度を落として誘導路を右に行ってください。",
+    ["DictKey_ActionText_240"] = "We'll now shut down the aircraft.\
+\
+Let's first set the parking brake. Note that in cool weather you should give the brakes time to cool prior to setting the parking brake.\
+\
+Hover the mouse cursor over the highlighted lever and rotate the mousewheel.",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_ActionText_232"] = "You missed some of the pattern gates in your approach. Next time, fly the pattern more accurately.\
+\
+Continue to roll to the next available taxiway to the right.\
+\
+Press [F] key to raise flaps and press [LeftShift+C] to open the canopy.",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_GroupName_122"] = "New Static Object #002",
+    ["DictKey_GroupName_98"] = "Batumi-static-car",
+    ["DictKey_GroupName_92"] = "Batumi-static-An-26-1",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_66"] = "As you approach the threshold, prepare to reduce power and flare the aircraft by gently pulling the stick back. You want a gentle touchdown at about 90 mph.",
+    ["DictKey_64"] = "速度は問題ありません。最終的には110前後を維持してください。",
+    ["DictKey_UnitName_119"] = "New Static Object #4",
+    ["DictKey_74"] = "これから機体をエンジンを止めます。\
+\
+まず、パーキングブレーキをセットしましょう。なお、気温が低い場合は、パーキングブレーキをかける前にブレーキが冷えるのを待つ必要があります。\
+\
+ハイライトされたレバーの上にマウスカーソルを置き、マウスホイールを回転させます。",
+    ["DictKey_UnitName_107"] = "New Static Object #007",
+    ["DictKey_sortie_131"] = "降落训练课程",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_UnitName_91"] = "Batumi-static-Yak-40-1",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_61"] = "最終進入の列に並んでいますね。[F] キーを押してフラップを下げます。メカニカルインジケータを確認します。",
+    ["DictKey_48"] = "パターンの長さや高度はさまざまです。この練習飛行では、以下のような典型的なパターンを想定しています。\
+\
+- 地上1,000フィートで進入し、アップウインドレグとダウンウィンドレグでその高度を維持する。\
+- ベース・レグはファイナル・アプローチ・ポイントに向けて600フィートまで下降する。\
+- 滑走路から2海里離れた高度600フィートから始まる最終進入地点からの通常の3度のグライドスロープ。\
+\
+[Spacebar]を押して進みます。",
+    ["DictKey_ActionText_227"] = "Carefully reduce power and continue pulling the stick back for a gentle flare. Try to make a soft 3-point landing to avoid a bounce.",
+    ["DictKey_GroupName_110"] = "Player",
+    ["DictKey_73"] = "いずれかの駐機スペースに駐車してください。",
+    ["DictKey_GroupName_94"] = "Batumi-static-An-26-2",
+    ["DictKey_85"] = "Turn off the Fuel Shutoff valve.",
+    ["DictKey_ActionText_200"] = "Maintain altitude and proceed to the airfield.",
+    ["DictKey_ActionText_208"] = "You're now on the downwind leg. Maintain airspeed around 160 mph.",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_83"] = "Set the fuel mixture to IDLE CUTOFF to shut down the engine.",
+    ["DictKey_ActionText_216"] = "Set the propeller speed control lever fully forward. Maintain 110 mph on final. Minimize sideslip and trim for a steady approach.\
+\
+If you find yourself getting into trouble, add a little power then raise the gear and flaps to climb out and go around.",
+    ["DictKey_GroupName_102"] = "Batumi-static-Yak-40-1 #001",
+    ["DictKey_59"] = "Press the [F] key twice to set the flaps to 20 degrees down.",
+    ["DictKey_GroupName_106"] = "New Static Object #007",
+    ["DictKey_ActionText_222"] = "You're too slow. A stall would be disastrous at this altitude. Keep your speed around 120 mph on final.",
+    ["DictKey_ActionText_229"] = "Use carefully [Z] or [X] rudder commands along with breakes to roll down the center of the runway.\
+\
+Set throttle to idle power.",
+    ["DictKey_63"] = "速度が速すぎます。速度を110mph前後に保ってください。",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_ActionText_246"] = "Turn OFF the fuel.",
+    ["DictKey_75"] = "Continue to hold the Parking Brake handle and press the wheel brakes down by holding down the [W] key.",
+    ["DictKey_ActionText_185"] = "高度を維持して飛行場に向かってください。",
+    ["DictKey_UnitName_99"] = "Batumi-static-car",
+    ["DictKey_GroupName_118"] = "New Static Object #005",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_ActionText_220"] = "Speed looks good. Keep it around 110 on final.",
+    ["DictKey_54"] = "You should see our airfield at about 4 - 5 o'clock now, a few miles east of the coast. You should also see a pattern of green gates arranged in the air to help guide you through the overhead pattern all the way down to the runway. The pattern entry gate is the large green one, positioned 1,000 feet above the runway threshold.\
+\
+Take a heading for the entry gate, which will put you on the upwind leg over the runway heading away from the coast.",
+    ["DictKey_ActionText_210"] = "Lower the landing gear by pressing [G]. Watch the Landing Gear Warning Lights panel to make sure you get the green light.",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_ActionText_242"] = "Stop the engine by operating the idle cut-off control lever.",
+} -- end of dictionary
