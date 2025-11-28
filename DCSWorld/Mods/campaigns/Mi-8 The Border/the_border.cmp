@@ -1,0 +1,316 @@
+campaign =
+{
+    ["description"] = "        Fall, 2015 year. The Russian Air Force in Syria have made significant progress and continue to destroy the infrastructure, supply routes, ammunition depots and command centers of terrorist organizations. After the Turkish Air Force shot down a Su-24 of the Russian Air Force and the subsequent deterioration of relations between the two countries, the likelihood of infiltration of terrorist gangs from Turkey through Georgia into South Ossetia and into the North Caucasus has increased. In this regard, a decision was made to increase the number of frontier posts at the border of South Ossetia and Georgia.\
+\
+\
+For the successful completion of the campaign you are encouraged to explore section 5.5.2 “Radio Navigation Systems” of the \"Flight Manual\".\
+",
+    ["name_JP"] = "国境（The Border）",
+    ["description_JP"] = "    2015年秋、ロシア空軍はシリアへの大規模空爆を行い、テロ組織のインフラ、補給ルート、弾薬庫、指令センターを破壊し続けていました。トルコ空軍がロシア空軍のSu-24を撃墜したあと、両国間の関係は悪化してゆきます。トルコからジョージアを通って南オセチアと北コーカサスへのテロ集団の進入の可能性が高まりました。この事から、南オセチアとジョージアとの国境に前哨基地を増やすことが決定されました。\
+\
+\
+キャンペーンをうまく成功させるために、フライトマニュアルの5.5.2　Radio Navigation Systems（無線ナビゲーションシステム）の項を参照しておくことをお勧めします。",
+    ["name_EN"] = "The Border",
+    ["name_RU"] = "Граница",
+    ["pictureSuccess_RU"] = "success.png",
+    ["necessaryUnits"] =
+    {
+        ["Mi-8MT"] = "Mi-8MT",
+    }, -- end of ["necessaryUnits"]
+    ["stages"] =
+    {
+        [13] =
+        {
+            ["name"] = "Стадия 13",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Granica_13.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\Granica_13.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] =
+        {
+            ["name"] = "Стадия 7",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Granica_7.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\Granica_7.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] =
+        {
+            ["name"] = "Стадия 1",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Granica_1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\Granica_1.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] =
+        {
+            ["name"] = "Стадия 2",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Granica_2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\Granica_2.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] =
+        {
+            ["name"] = "Стадия 4",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Granica_4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\Granica_4.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] =
+        {
+            ["name"] = "Стадия 8",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Granica_8.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\Granica_8.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [15] =
+        {
+            ["name"] = "Стадия 15",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Granica_15.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\Granica_15.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+        [9] =
+        {
+            ["name"] = "Стадия 9",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Granica_9.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\Granica_9.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] =
+        {
+            ["name"] = "Стадия 5",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Granica_5.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\Granica_5.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] =
+        {
+            ["name"] = "Стадия 10",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Granica_10.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\Granica_10.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [3] =
+        {
+            ["name"] = "Стадия 3",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Granica_3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\Granica_3.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [11] =
+        {
+            ["name"] = "Стадия 11",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Granica_11.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\Granica_11.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [6] =
+        {
+            ["name"] = "Стадия 6",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Granica_6.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\Granica_6.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] =
+        {
+            ["name"] = "Стадия 12",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Granica_12.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\Granica_12.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [14] =
+        {
+            ["name"] = "Стадия 14",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Granica_14.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\Granica_14.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+    }, -- end of ["stages"]
+    ["fullPath"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\the_border.cmp",
+    ["picture_EN"] = "Cover.png",
+    ["directory"] = "C:\\Users\\ArmenM\\Saved Games\\DCS.openbeta\\Missions\\Campaigns\\MultiLang\\",
+    ["startStage"] = 1,
+    ["picture"] = "Cover.png",
+    ["description_EN"] = "        Fall, 2015 year. The Russian Air Force in Syria have made significant progress and continue to destroy the infrastructure, supply routes, ammunition depots and command centers of terrorist organizations. After the Turkish Air Force shot down a Su-24 of the Russian Air Force and the subsequent deterioration of relations between the two countries, the likelihood of infiltration of terrorist gangs from Turkey through Georgia into South Ossetia and into the North Caucasus has increased. In this regard, a decision was made to increase the number of frontier posts at the border of South Ossetia and Georgia.\
+\
+\
+For the successful completion of the campaign you are encouraged to explore section 5.5.2 “Radio Navigation Systems” of the \"Flight Manual\".\
+",
+    ["version"] = 1,
+    ["pictureFailed"] = "Fail.png",
+    ["picture_RU"] = "Cover.png",
+    ["pictureSuccess"] = "success.png",
+    ["name"] = "The Border",
+    ["pictureSuccess_EN"] = "success.png",
+    ["pictureFailed_EN"] = "Fail.png",
+    ["pictureFailed_RU"] = "Fail.png",
+    ["description_RU"] = "       Осень 2015-го года. Российские ВКС в Сирии добились значительных успехов и продолжают разрушать инфраструктуру, пути снабжения, склады боеприпасов и командные пункты террористических организаций. После того как Турецкие ВВС сбили Су-24 ВКС России, и последующего ухудшения отношений между двумя странами, увеличилась вероятность проникновения террористических банд-групп с территории Турции через Грузию в Южную Осетию и на территорию Северного Кавказа. В связи с этим, было принято решение увеличить число погранзастав на границе ЮО и Грузии.\
+\
+Для успешного прохождения кампании рекомендуется изучить \"Руководство пилота\" раздел\
+\
+5.5.2 \"Радиоаппаратура вертолетовождения\".",
+} -- end of campaign
