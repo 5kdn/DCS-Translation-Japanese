@@ -1,0 +1,29 @@
+dictionary = 
+{
+    ["DictKey_UnitName_22"] = "Pilot #005",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_sortie_5"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_GroupName_6"] = "New Airplane Group",
+    ["DictKey_UnitName_10"] = "Pilot #002",
+    ["DictKey_GroupName_21"] = "New Airplane Group #004",
+    ["DictKey_descriptionText_1"] = "航空機はメオティ（Meautis）空港に駐機しています。\
+あなた自身でコールドスタートを行いエンジンとシステムを始動させてください。\
+「LSift+R」でいつでもミッションをリスタートできます。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_GroupName_15"] = "New Airplane Group #003",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_UnitName_7"] = "Pilot #001",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_UnitName_13"] = "Pilot #003",
+    ["DictKey_UnitName_16"] = "Pilot #004",
+    ["DictKey_GroupName_9"] = "New Airplane Group #001",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_GroupName_12"] = "New Airplane Group #002",
+} -- end of dictionary

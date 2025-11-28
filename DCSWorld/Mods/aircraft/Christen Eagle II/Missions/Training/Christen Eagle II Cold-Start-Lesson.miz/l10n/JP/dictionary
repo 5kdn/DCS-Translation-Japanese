@@ -1,0 +1,96 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "電源パネルから始めましょう。\
+\
+バッテリー、 ALTERNATOR、無線（RADIO）スイッチをONにします。\
+その後、ALTERNATORサーキットブレーカーを押してください。",
+    ["DictKey_UnitName_72"] = "Unit #002",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_GroupName_74"] = "",
+    ["DictKey_ActionText_16"] = "Next let's ensure the MIXTURE lever is set to FULL RICH (full forward) before priming the engine.\
+",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_ActionText_19"] = "Before we start the engine, let’s close the canopy using the handle on your right.\
+",
+    ["DictKey_ActionText_14"] = "プロペラコントロールレバーをチェックして下さい。一番前の位置にしてハイRPMにしてください。\
+\
+エンジンをスタートする前に必ずここを確認してください。",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_UnitName_80"] = "Pilot #003",
+    ["DictKey_ActionText_23"] = "ミクスチャーレバーを前に押してください。",
+    ["DictKey_ActionText_52"] = "燃料圧が上がったら、ミクスチャレーバーを動かしてアイドルカットオフ（一番うしろ）の位置にします。",
+    ["DictKey_UnitName_7"] = "Player",
+    ["DictKey_GroupName_68"] = "CAR",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_ActionText_29"] = "お好みで胴体左側のハイライトされたスイッチを使いライトを点灯してくだし。",
+    ["DictKey_ActionText_11"] = "無線音量ノブを反時計回りに回して無線をONにします。",
+    ["DictKey_ActionText_17"] = "エンジンに燃料を送り込み（プライミング）ましょう。\
+手動燃料ポンプレバーを２，３回操作してエンジンに燃料を送り込みます。",
+    ["DictKey_ActionText_15"] = "さて、燃料弁を開く必要があります。これはあなたの左の床にあります。\
+\
+バルブを回転させて燃料コックを開きます。",
+    ["DictKey_GroupName_71"] = "FIRE",
+    ["DictKey_UnitName_78"] = "Pilot #002",
+    ["DictKey_GroupName_65"] = "Barrels",
+    ["DictKey_ActionText_48"] = "右にある２つのノブで、手動で無線周波数を合わせることができます。\
+\
+CHANボタンで無線チャンネルをサイクルして選択することもできます。\
+\
+左にある周波数転送ボタンを押してSTNBY周波数と使用（USE)周波数を入れ替えることができます。",
+    ["DictKey_descriptionBlueTask_3"] = "クリスティン・イーグルIIのエンジン始動の方法を学習します。\
+\
+エンジン音などでガイドの声が聞こえにくい時はオプションメニューの WORLD and IN COCKPIT　音量スライダーを調節して周りの音を小さくしてください。",
+    ["DictKey_ActionText_24"] = "スタートしました！",
+    ["DictKey_ActionText_54"] = "エンジンスタートをする前に、右側のハンドルを使ってキャノピーを閉じます。",
+    ["DictKey_UnitName_66"] = "",
+    ["DictKey_GroupName_62"] = "TF51",
+    ["DictKey_ActionText_28"] = "燃料計の表示が点滅します。電源パネルの燃料状態モードボタン（FUEL)を押して表示をリセットしてください。\
+\
+燃料表示には２つの表示モードがあります。\
+末尾が”U\"は使用燃料量をガロンで表示します。\
+末尾が”F\"は燃料流量をガロン／時で表示します。\
+\
+燃料表示モードボタンを押すことでこの２つを切り替えることができます。",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_sortie_5"] = "クリスティン・イーグルII　コールドスタート　レッスン",
+    ["DictKey_UnitName_63"] = "Pilot #001",
+    ["DictKey_ActionComment_26"] = "DictKey_ActionComment_26",
+    ["DictKey_descriptionText_1"] = "コールドスタートレッスン",
+    ["DictKey_ActionText_27"] = "油圧計をチェックしてください。油圧がスタート後３０秒以内に６０－８５psiまで上がります。",
+    ["DictKey_UnitName_75"] = "",
+    ["DictKey_GroupName_6"] = "Christen Eagle II",
+    ["DictKey_ActionText_56"] = "エンジンを始動する準備が整いました。\
+\
+イーグルIIにはパーキングブレーキが装備されていません。エンジンを始動する前にフルブレーキをかけてください。エンジンが回転を始めたら、ミクスチャーレバーを徐々に不ルリッチの位置まで前方に動かしていきます。もし間に合わなければ、エンジン始動は失敗します。その場合は、このステップを繰り返して下さい。",
+    ["DictKey_ActionText_9"] = "コールドスタートレッスンへようこそ。今日はクリスティン・イーグルIIのエンジンスタートの手順を学習します。\
+\
+エンジン音などでガイドの声が聞こえにくい時はオプションメニューの WORLD and IN COCKPIT　音量スライダーを調節して周りの音を小さくしてください。\
+\
+スペースキーを押すと次に進みます。",
+    ["DictKey_ActionText_22"] = "マグネトースイッチをスタート位置にします。",
+    ["DictKey_ActionText_21"] = "We are now ready to start the engine.\
+\
+Note: Once the engine begins to crank, you will need to gradually move the MIXTURE lever to the front position (full forward). If not completed in time, the engine will fail to start and you'll have to repeat this step.\
+",
+    ["DictKey_ActionText_20"] = "キャノピーロックレーバーを前に動かします。前部座席の後ろにある状態表示プレートをチェックしてキャノピーがロックされていることを確認してください。",
+    ["DictKey_ActionText_60"] = "これでコールとスタートのレッスンを終了します。\
+\
+ミッションを終了した頂いて結構です。",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_UnitName_69"] = "Unit #001",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_50"] = "エンジンをスタートする前に、必ずミクスチャーレバーを一番前（フルリッチ）にセットしてください。",
+    ["DictKey_ActionText_18"] = "Now that we have fuel pressure move the MIXTURE lever to the IDLE CUTOFF position (pull full aft).\
+",
+    ["DictKey_ActionText_13"] = "You can manually adjust the RADIO FREQUENCY using the 2 knobs on the right. \
+\
+Cycle radio presets with the CHAN button.\
+\
+Swap between set frequencies using the RADIO FREQUENCY TRANSFER button on the left.\
+",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_GroupName_77"] = "CE2",
+    ["DictKey_ActionText_12"] = "",
+} -- end of dictionary

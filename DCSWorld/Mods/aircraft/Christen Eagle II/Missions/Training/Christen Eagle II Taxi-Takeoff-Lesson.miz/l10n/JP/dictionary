@@ -1,0 +1,163 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "イーグルIIはショートホイールベースの固定式ギア（テイルドラッガータイプ）を装備しています。\
+３点接地姿勢の時は前方視界が制限されます。\
+前方へタキシングする時は、前方の視界を確保するために、左右１０度程度のジクザグまたはS字に旋回を繰り返しながらタキシングをします。",
+    ["DictKey_UnitName_89"] = "",
+    ["DictKey_GroupName_124"] = "F-shape barrier #003",
+    ["DictKey_ActionText_29"] = "Before we take the active runway we will perform the final ground checks. \
+It is important to apply full brake pressure to prevent the aircraft from moving during the final checks. \
+\
+Press and hold the Wheel BRAKES.\
+",
+    ["DictKey_GroupName_142"] = "F-shape barrier #009",
+    ["DictKey_ActionText_53"] = "マグネトーをBOTHに戻します。",
+    ["DictKey_ActionText_66"] = "機体が浮き始めたら、上昇する前に９０－１００ｍｐｈまで加速してください。",
+    ["DictKey_UnitName_146"] = "F-shape barrier",
+    ["DictKey_GroupName_139"] = "F-shape barrier #008",
+    ["DictKey_ActionText_38"] = "もう一度\
+ミクスチャがフルリッチ\
+プロペラがHIGN RPM\
+エレベータートリムがニュートラル\
+キャノピーが閉まっていてロックされている\
+かを確認してください。",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_UnitName_152"] = "Pilot #006",
+    ["DictKey_sortie_5"] = "Christen Eagle II タキシングと離陸の練習",
+    ["DictKey_UnitName_84"] = "Pilot #003",
+    ["DictKey_UnitName_128"] = "F-shape barrier",
+    ["DictKey_ActionText_50"] = "Now set the MAGS to RIGHT and note the new tachometer RPM.",
+    ["DictKey_ActionComment_65"] = "DictKey_ActionComment_65",
+    ["DictKey_UnitName_7"] = "Player",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_158"] = "ホイールブレーキをかけて、ゆっくりとスロットルを２２００RPMまで上げてゆきます。",
+    ["DictKey_GroupName_106"] = "F-shape barrier",
+    ["DictKey_ActionText_71"] = "高度８００feetを超えるまでは、フルスロットル、HIGT RPMを維持します。",
+    ["DictKey_ActionText_11"] = "To prevent the tail wheel from lifting under power hold the flight stick full aft while taxiing. Turn the aircraft by applying the rudder axis in the desired direction of travel. Apply Wheel Brakes lightly and briefly to prevent nosing over into the ground or potentially striking the prop.",
+    ["DictKey_UnitName_122"] = "F-shape barrier",
+    ["DictKey_GroupName_88"] = "GENERATOR",
+    ["DictKey_ActionText_60"] = "スロットルをアイドルに戻します。",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "Christen Eagle IIのタキシングと離陸を学習します。\
+\
+エンジン音などでガイドの声が聞こえにくい時はオプションメニューの WORLD and IN COCKPIT　音量スライダーを調節して周りの音を小さくしてください。",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_ActionText_56"] = "プロペラコントロールを一番後ろまで下げます。RPMは約１３００－１４００RPM低下します。",
+    ["DictKey_GroupName_148"] = "CE2",
+    ["DictKey_UnitName_134"] = "F-shape barrier",
+    ["DictKey_ActionText_13"] = "",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_ActionText_14"] = "では滑走路へタキシングしましょう。真っ直ぐすすみ、右に曲がって誘導路に入ります。\
+スロットルを１２００－１５００RPMにあげて、前に進みます。\
+動き出したら安全な移動速度を維持できるようにスロットルを調節します。１５mph以下が安全な速度です。",
+    ["DictKey_ActionText_163"] = "電源パネルのSPAREスイッチをONにしてスモークシステムを起動します。",
+    ["DictKey_ActionText_63"] = "これで、最終地上点検が完了しました。滑走路へ進入することができます。",
+    ["DictKey_ActionText_155"] = "前方で左旋回する用意をしてください。旋回を完了したら、滑走路手前で待機して下さい。",
+    ["DictKey_UnitName_83"] = "Pilot #002",
+    ["DictKey_GroupName_133"] = "F-shape barrier #006",
+    ["DictKey_UnitName_101"] = "Unit #001",
+    ["DictKey_GroupName_6"] = "Christen Eagle II",
+    ["DictKey_GroupName_94"] = "Barrels",
+    ["DictKey_ActionText_55"] = "スロットルを１７００RPMまで下げます。",
+    ["DictKey_UnitName_131"] = "F-shape barrier",
+    ["DictKey_UnitName_125"] = "F-shape barrier",
+    ["DictKey_ActionText_18"] = "よくできました！\
+タキシングと離陸のレッスンはこれで終了です。\
+\
+ミッションを終了していただいて結構です。",
+    ["DictKey_ActionText_16"] = "機体が前に転覆するのを避けるために、ホイールブレーキは軽く、短時間だけかけるようにしてください。",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_107"] = "",
+    ["DictKey_GroupName_130"] = "F-shape barrier #005",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_UnitName_110"] = "ISO container",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_GroupName_100"] = "FIRE",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_ActionText_12"] = "滑走路へタキシングを開始する前に、次のことを確認して下さい。\
+キャノピーがロックされている。ミクスチャはフルリッチ\
+プロペラコントロールがHIGH-RPM\
+\
+スペースキーを押すと次に進みます。",
+    ["DictKey_GroupName_115"] = "ISO container",
+    ["DictKey_ActionText_34"] = "加速度計をリセットします。\
+リセットボタンを押してリセットしてください。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_UnitName_104"] = "Unit #002",
+    ["DictKey_ActionText_17"] = "完全停止をしてください。",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_ActionText_37"] = "",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_ActionText_161"] = "水平飛行に移り、機体を安定させてください。",
+    ["DictKey_GroupName_145"] = "F-shape barrier #010",
+    ["DictKey_ActionText_41"] = "次に、マグネトーとプロペラコントローラーをチェックします。\
+\
+2300RPMで尾部が浮き上がる傾向があります。エンジン出力を上げる時は、つねに操縦桿を後ろに引いて後ろが浮き上がらないようにしてください。離陸の準備が整うまではスロットルを２２００RPM以上には上げないでください。",
+    ["DictKey_UnitName_92"] = "GENERATOR",
+    ["DictKey_ActionText_153"] = "次に、マグネトーを右に設定します。左右差の最大許容量は５０RPMです。",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_GroupName_127"] = "F-shape barrier #004",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_GroupName_80"] = "New Airplane Group",
+    ["DictKey_GroupName_121"] = "F-shape barrier #002",
+    ["DictKey_GroupName_91"] = "GENERATOR #001",
+    ["DictKey_ActionComment_45"] = "DictKey_ActionComment_45",
+    ["DictKey_ActionText_44"] = "",
+    ["DictKey_UnitName_86"] = "Pilot #004",
+    ["DictKey_ActionText_79"] = "マグネトーを左に設定して、タコメーターのRPMの変化を見ます。\
+",
+    ["DictKey_GroupName_103"] = "FIRE #001",
+    ["DictKey_ActionText_69"] = "スムーズかつ速やかにフルパワーにしてください。速度が４５ｍｐｈを超えたら、ラダーを小刻みにあてて、機体が真っ直ぐ進むように調整します。操縦桿を前に押して尾部をわずかに上げてください。",
+    ["DictKey_UnitName_137"] = "F-shape barrier",
+    ["DictKey_UnitName_119"] = "F-shape barrier",
+    ["DictKey_ActionText_46"] = "マグネトーチェックでの許容量はRPMの低下が両方共100-175で、エンジンがスムーズに作動していることが必要です。",
+    ["DictKey_ActionText_72"] = "Level off at 2000 feet.",
+    ["DictKey_ActionText_15"] = "滑走路へ移動するときは、S字パターンの維持と、オーバーオンとロールを避けるために、小刻みな修正を行ってください。",
+    ["DictKey_ActionText_159"] = "Hold the WHEEL BRAKES and slowly increase the THROTTLE to 2200 RPM.",
+    ["DictKey_UnitName_113"] = "ISO container",
+    ["DictKey_GroupName_85"] = "CE2",
+    ["DictKey_UnitName_116"] = "ISO container",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_UnitName_149"] = "Pilot #004",
+    ["DictKey_UnitName_98"] = "Barrels",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_ActionText_47"] = "Slowly increase the throttle to 2200 RPM.",
+    ["DictKey_UnitName_151"] = "Pilot #005",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_UnitName_140"] = "F-shape barrier",
+    ["DictKey_ActionText_31"] = "滑走路に進入する前に、最後の地上点検を行います。\
+\
+オイル温度とオイル圧ゲージをチェックすることから始めます。\
+エンジンオイル温度：120-245度\
+オイル圧： 60-80PSI\
+であることを確認してください。\
+\
+スペースキーを押すと次に進みます。",
+    ["DictKey_ActionText_59"] = "プロペラコントローラーを一番前HIGH RPMにします。RPMは１７００に戻ることを確認してください。",
+    ["DictKey_UnitName_81"] = "Pilot #001",
+    ["DictKey_UnitName_95"] = "GENERATOR",
+    ["DictKey_GroupName_109"] = "ISO container",
+    ["DictKey_ActionText_64"] = "",
+    ["DictKey_ActionText_9"] = "タキシングと離陸のレッスへようこそ\
+今日は、クリスティン・イーグルIIのタキシングと離陸の練習を行います。\
+\
+エンジン音などでガイドの声が聞こえにくい時はオプションメニューの WORLD and IN COCKPIT　音量スライダーを調節して周りの音を小さくしてください。\
+\
+",
+    ["DictKey_descriptionText_1"] = "タキシングと離陸練習",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_ActionText_77"] = "",
+    ["DictKey_GroupName_118"] = "F-shape barrier #001",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_GroupName_112"] = "ISO container",
+    ["DictKey_GroupName_136"] = "F-shape barrier #007",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_GroupName_97"] = "Barrels #001",
+    ["DictKey_UnitName_143"] = "F-shape barrier",
+} -- end of dictionary
