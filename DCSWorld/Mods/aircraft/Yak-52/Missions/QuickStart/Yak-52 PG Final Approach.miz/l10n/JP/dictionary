@@ -1,0 +1,12 @@
+dictionary = 
+{
+    ["DictKey_GroupName_6"] = "Yak-52 Player",
+    ["DictKey_descriptionText_1"] = "バンダレ（Bandar）空港へのファイナルアプローチ",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_UnitName_7"] = "Yak-52 Player",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "ファイナルアプローチ",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary
