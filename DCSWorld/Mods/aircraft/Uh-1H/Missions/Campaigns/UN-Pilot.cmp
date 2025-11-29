@@ -1,0 +1,311 @@
+campaign = 
+{
+    ["fullPath"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\UN-Pilot.cmp",
+    ["directory"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\",
+    ["startStage"] = 1,
+    ["version"] = 1,
+    
+    ["name"] = "UN Pilot",
+    ["name_CN"] = "联合国飞行员",
+    ["name_CS"] = "Pilot OSN",
+    ["name_DE"] = "UN Pilot",
+    ["name_RU"] = "Пилот ООН",
+    
+    ["picture"] = "Cover.png",
+    ["picture_CN"] = "Cover_cn.png",
+    ["picture_RU"] = "Cover_ru.png",
+    
+    ["description"] = "It’s tough, being an army helicopter pilot. Mother always told me, “If you want to fly so much, dear, why not go into civil aviation? You’ll always be in tie and uniform.” Of course I didn’t listen and was hungry for some adventure and adrenaline. Well, I’ll have my share now. Not even half a year out of the academy and they’re shipping me out to war. Maybe not war exactly - a peacekeeping operation. Somewhere in the Caucasus the government was fighting against insurgents. And they’re sending us in to clean up the mess. Luckily they’re saying on the news the fighting has stopped and everything’s been quiet for some time. So, it’s supposed to be a safe assignment.",
+    
+    ["description_JP"] = "軍隊のヘリコプターパイロットであることは大変です。母はいつも言ってました「そんなに飛びたいなら、なぜ民間の航空会社に行かないの？いつも制服を着ていられるわよ」冒険とアドレナリンに飢えていた私は全く聞く耳を持ちませんでした。\
+さて、今から私の経験をお話します。私は学校を卒業して半年間足らずで戦争に送り込まれました。正確には戦争ではなく、平和維持活動ですが。コーカサスのどこかで政府と反政府勢力が戦っていました。国連はこの混乱を解決するために軍を送り込みました。　幸運にも時々流れるニュースでは戦闘は終結し、全てが静かになっていると放送しています。だから、私は安全な任務だと思っていました。",
+    ["description_CN"] = "当陆航直升机飞行员是枯燥的。老妈总是告诉我，\"亲爱的，如果你如此喜欢飞行，为什么不去民航呢？这样你会看起来更体面\"。当然我并没有听从老妈的建议。我一直渴望的是冒险和刺激。现在，有人找上门来了。离开学院不到半年，上面正准备把我送往前线。维和行动也许还算不上战争。此时在高加索某地，政府正在和叛军作战。上面打算让我们去收拾残局。幸运的是，他们在新闻上宣称战斗已结束，而且双方已经安静了一段时间了。如此，这次任务也许会很安全。",
+    
+    ["description_CS"] = "Stát se pilotem armádního vrtulníku není lehké. Matka mi vždycky říkala: \"Pokud chceš drahoušku létat, tak proč nejít do civilního sektoru? Vždy budeš v kravatě a uniformě.\" Samozřejmě, že jsem ji neposlechl a byl jsem hladový po nějakém dobrodružství a adrenalinu. No nyní dostanu, co jsem chtěl. Nejsem ani půl roku z akademie a už mě poslali do války. Možná ne přesně do války - na mírovou operaci. Někde na Kavkaze bojuje vláda proti povstalcům a nás tam poslali uklidit tam nepořádek. Ve zprávách naštěstí říkají, že boje už byly zastaveny a všude už je klid. Takže by to měl být celkem bezpečný úkol.",
+    
+    ["description_DE"] = "Es ist anstrengend ein Hubschrauberpilot beim Militär zu sein. Mutter hat immer zu mir gesagt: \"Wenn Du so sehr fliegen möchtest mein Liebster, warum gehst Du nicht zur zivilen Luftfahrt? Du wirst immer eine Krawatte und eine Uniform tragen.\" Natürlich wollte ich nicht auf sie hören und wollte Action und Adrenalin. Nun, ich bekomme nun meinen Anteil. Nicht mal anderthalb Jahre von der Flugschule und sie schicken mich in einen Krieg.\
+\
+Naja, vielleicht nicht exakt ein Krieg - eine friedenssichernde Mission.\
+\
+Irgendwo im Kaukasus kämpft eine Regierung gegen Aufständische. Sie schicken uns rein um für Ruhe zu sorgen. Gott sei Dank sagen die Nachrichten dass die Kämpfe aufgehört haben und es wieder ruhig wird. Ich denke also dass es ein ruhiger Einsatz wird.",
+
+    ["description_RU"] = "Трудно быть военным вертолётчиком. Говорила мне мама:  - “Eсли так хочешь летать, иди сынок в гражданскую авиакомпанию, будешь всегда в костюме и при галстуке.” Эх, молодость! Не послушался, экстрима захотелось, приключений. Будет мне теперь экстрим, черпай полной ложкой – не прошло и полгода после окончания лётной школы, как отправляют на войну. Ну, не совсем уж и война, какая-то миротворческая операция. Где-то на Кавказе правительство и вооружённые группировки что-то не поделили, теперь нужно за ними разгребать. Хотя в новостях говорили, там давно уже не стреляют, вроде всё закончилось. Так что должно быть не опасно.",    
+    
+    ["necessaryUnits"] = 
+    {
+        ["UH-1H"] = "UH-1H",
+    }, -- end of ["necessaryUnits"]
+    ["stages"] = 
+    {
+        [13] = 
+        {
+            ["name"] = "Стадия 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UN-Pilot_13.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\UN-Pilot_13.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "Стадия 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UN-Pilot_07.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\UN-Pilot_07.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] = 
+        {
+            ["name"] = "Стадия 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UN-Pilot_01.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\UN-Pilot_01.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Стадия 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UN-Pilot_02.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\UN-Pilot_02.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "Стадия 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UN-Pilot_04.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\UN-Pilot_04.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] = 
+        {
+            ["name"] = "Стадия 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UN-Pilot_08.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\UN-Pilot_08.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [11] = 
+        {
+            ["name"] = "Стадия 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UN-Pilot_11.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\UN-Pilot_11.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [9] = 
+        {
+            ["name"] = "Стадия 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UN-Pilot_09.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\UN-Pilot_09.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] = 
+        {
+            ["name"] = "Стадия 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UN-Pilot_05.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\UN-Pilot_05.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Стадия 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UN-Pilot_10.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\UN-Pilot_10.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [14] = 
+        {
+            ["name"] = "Стадия 14",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UN-Pilot_14.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\UN-Pilot_14.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+        [3] = 
+        {
+            ["name"] = "Стадия 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UN-Pilot_03.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\UN-Pilot_03.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] = 
+        {
+            ["name"] = "Стадия 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UN-Pilot_06.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\UN-Pilot_06.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Стадия 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UN-Pilot_12.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\UN-Pilot_12.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [15] = 
+        {
+            ["name"] = "Стадия 15",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "UN-Pilot_15.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "C:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Uh-1H\\Missions\\Campaigns\\UN-Pilot_15.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+    }, -- end of ["stages"]
+} -- end of campaign
