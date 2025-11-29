@@ -1,0 +1,249 @@
+campaign = 
+{
+    directory = "K:/dcs-1.0/LockOnExe/Missions/Campaigns/",
+    fullPath = "K:/dcs-1.0/LockOnExe/Missions/Campaigns/Deployment.cmp",
+    startStage = 1,
+    
+    name = "Deployment",
+    name_JP = "デプロイメント（Deployment：配属）",
+    name_CN = "部署",
+    name_DE = "Verlegung",
+    name_ES = "Despliegue",
+    name_RU = "Командировка",
+    
+    picture = "Deployment.png",
+    picture_CN = "Deployment_cn.png",
+    picture_RU = "Deployment_ru.png",
+    description_JP = "2009年夏頃にはコーカサス西部の状況は難しくなりました。カラチャイ・チェルケス共和国、カバルダ・バルカル共和国、南クラスノダール、スタヴロポリスキーにいる地下国家主義者グループらが海外のイスラム教運動家からの支援を受けて、本格的にテロ活動を始めました。これにはこの地域の政府当局、治安部隊や軍に対する攻撃も含まれています。\
+本格的な紛争へのエスカレーションの危険性を認識したロシア連邦の指導者達は、この地域に対して非常事態宣言を発動することを決めました。事態を安静化させるために、南連邦管区の治安部隊と国境警備隊が大幅に強化されました。",
+    description = "By the summer of 2009, the situation in the western Caucasus had become difficult. Funded by foreign Islamist movements, underground nationalist groups in the republics of Karachayevo-Cherkesiya, Kabardino-Balkariya and southern Krasnodarskiy and Stavropolskiy territories began terrorist activities in earnest. These included attacks on government authorities, interior and military forces in the region. Realizing the danger of escalation toward a full-scale conflict, the leadership of the Russian Federation made the decision to impose a state of emergency in the region. In an effort to stabilize the situation, the interior, army and border patrol units of the Southern Federal District have been substantially reinforced. ",
+    description_CN = "截止2009年夏季，西高加索地区的处境已经变得艰难。在卡拉恰伊-切尔克斯共和国、卡巴尔达-巴尔卡尔共和国、南克拉斯诺达尔以及斯塔夫罗波尔境内的受境外伊斯兰运动资助的地下民族主义组织认真地展开了恐怖活动。这些恐怖活动包括攻击当地的政府机构以及军队。当意识到可能升级为全面冲突的危险后，俄罗斯联邦领导人决定该地区进入紧急状态。为了稳定当地局势，南部联邦管区的部队和边防已经开始大量集结。",
+    description_CS = "V létě roku 2009 se situace na západním Kavkazu značně zkomplikovala. Teroristické útoky ilegální nacionalistické skupiny z Republiky Karačajevo-Cherkesiya, Kabardino-Balkariya a jižní Krasnodarskiy a Stavropolskiy, které jsou financovány ze zahraničních islamistických hnutí, začaly být velice vážné. To zahrnovalo útoky na vládní úřady, vnitřní bezpečnostní složky a vojenské sily v celém regionu. Vedení Ruské federace si uvědomovalo nebezpečí eskalace konfliktu, a proto se rozhodlo zavést v této oblasti výjimečný stav. Ve snaze stabilizovat situaci, byly v této oblasti výrazně posíleny vnitřní bezpečnostní sloky, armáda a pohraniční hlídky.",
+    description_DE = "Die Situation im westlichen Kaukasus wurde bis zum Sommer 2009 zunehmend schwieriger. Finanziert durch ausländische islamistische Fundamentalisten, begannen aufständische nationalistische Gruppierungen damit, terroristische Angriffe in den Regionen Karachayevo-Cherkesiya, Kabardino-Balkariya und in den südlichen Krasnodar- und Stavropolregionen durchzuführen.\
+\
+Hierzu gehören Operationen gegen staatliche Institutionen, Einheiten des Innenministeriums sowie die in den Regionen stationierten Truppen. Im Bewusstsein dessen, dass die lokal begrenzten Konflikte sich zu einem Bürgerkrieg ausweiten können, entschied die Führung der Russischen Föderation, den Ausnahmezustand in den betroffenen Regionen auszurufen.\
+\
+Um die Situation zu stabilisieren, wurden die Truppen des Innenministeriums, die Grenztruppen sowie die Armee-Einheiten im südlichen Föderalen Distrikt signifikant verstärkt.",
+    description_ES = "Durante el verano del 2009, la situación en el Cáucaso occidental se había puesto difícil. Financiados por movimientos islamistas extranjeros, grupos nacionalistas ocultos en las repúblicas de Karachayevo-Cherkesiya, Kabardino-Balkariya y los territorios sureños de Krasnodarskiy y  Stavropolskiy  comenzaron actividades terroristas de forma seria. Estas incluyeron ataques a las autoridades del gobierno y del interior y a las fuerzas militares en la región. Debido al peligro de un empeoramiento hacia un conflicto a gran escala, el líder de la Federación Rusa tomó la decisión de establecer un estado de emergencia en la región. En un esfuerzo por estabilizar la situación, las unidades de patrulla de interior, del ejército y de fronteras del Distrito Federal Sur han sido reforzadas sustancialmente.",
+    description_RU = "К лету 2009 году обстановка на Западном Кавказе осложнилась.  Подпитываемые зарубежными исламистами подпольные националистические формирования на территории, Карачаево-Черкесии, Кабардино-Балкарии, юга Краснодарского и Ставропольского краев начали активную террористическую деятельность. Были совершены нападения на органы государственной власти, структуры МВД и армейские подразделения. Осознавая угрозу возникновения полномасштабного военного конфликта, руководство РФ приняло решение о введении в регионе чрезвычайного положения со значительным усилением армейских частей и пограничной службы Южного федерального округа с целью стабилизации обстановки.",
+    
+    stages = 
+    {
+        [7] = 
+        {
+            name = "St7",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Deployment07.miz",
+                    description = "",
+                    fullpath = "K:/dcs-1.0/LockOnExe/Missions/Campaigns/Deployment07.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [7]
+        [1] = 
+        {
+            name = "St1",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Deployment01.miz",
+                    description = "",
+                    fullpath = "K:/dcs-1.0/LockOnExe/Missions/Campaigns/Deployment01.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [1]
+        [2] = 
+        {
+            name = "St2",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Deployment02.miz",
+                    description = "",
+                    fullpath = "K:/dcs-1.0/LockOnExe/Missions/Campaigns/Deployment02.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [2]
+        [4] = 
+        {
+            name = "St4",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Deployment04.miz",
+                    description = "",
+                    fullpath = "K:/dcs-1.0/LockOnExe/Missions/Campaigns/Deployment04.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [4]
+        [8] = 
+        {
+            name = "St8",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Deployment08.miz",
+                    description = "",
+                    fullpath = "K:/dcs-1.0/LockOnExe/Missions/Campaigns/Deployment08.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [8]
+        [9] = 
+        {
+            name = "St9",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Deployment09.miz",
+                    description = "",
+                    fullpath = "K:/dcs-1.0/LockOnExe/Missions/Campaigns/Deployment09.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [9]
+        [5] = 
+        {
+            name = "St5",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Deployment05.miz",
+                    description = "",
+                    fullpath = "K:/dcs-1.0/LockOnExe/Missions/Campaigns/Deployment05.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [5]
+        [10] = 
+        {
+            name = "St10",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Deployment10.miz",
+                    description = "",
+                    fullpath = "K:/dcs-1.0/LockOnExe/Missions/Campaigns/Deployment10.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [10]
+        [3] = 
+        {
+            name = "St3",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Deployment03.miz",
+                    description = "",
+                    fullpath = "K:/dcs-1.0/LockOnExe/Missions/Campaigns/Deployment03.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [3]
+        [6] = 
+        {
+            name = "St6",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Deployment06.miz",
+                    description = "",
+                    fullpath = "K:/dcs-1.0/LockOnExe/Missions/Campaigns/Deployment06.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [6]
+        [12] = 
+        {
+            name = "St12",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Deployment12.miz",
+                    description = "",
+                    fullpath = "K:/dcs-1.0/LockOnExe/Missions/Campaigns/Deployment12.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [12]
+        [11] = 
+        {
+            name = "St11",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Deployment11.miz",
+                    description = "",
+                    fullpath = "K:/dcs-1.0/LockOnExe/Missions/Campaigns/Deployment11.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [11]
+    }, -- end of stages
+} -- end of campaign
