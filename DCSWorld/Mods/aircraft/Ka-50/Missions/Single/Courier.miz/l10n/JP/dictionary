@@ -1,0 +1,233 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_GroupName_125"] = "Стат. объект #016",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_UnitName_73"] = "Courier",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_GroupName_79"] = "UAZ",
+    ["DictKey_GroupName_137"] = "Стат. объект #022",
+    ["DictKey_59"] = "",
+    ["DictKey_GroupName_113"] = "Стат. объект #010",
+    ["DictKey_47"] = "キャプテン聞いてください。\
+燃料を補給している時間がありませんでした。代わりに外部燃料タンクを付けておきました。\
+おそらく、これで十分足りるはずです。 \
+天候は悪いので、念のため、ナイトビジョンゴーグルを持っていくほうが良いでしょう…\
+全ての任務を45分以内に完了してください。\
+GO!",
+    ["DictKey_64"] = "（2等兵がこちらに走ってきます。すごい形相でこちらに向って叫んでいます。）\
+- 荷物は届けてくれましたか？\
+- はい、届けましたよ！\
+（彼は無線に何かを言ってから、私の方を向きました。）\
+- 任務は成功です！　よくやりました！　機体をシャットダウンして、こちらに来てください。全員があなたを待っています。おもてなしさせてください。",
+    ["DictKey_25"] = "(OK,ドライバーを見つけました。無事なようです、こちらに手を振っています。ダッシュボードから書簡を取り出して、こちらに持ってくるようです。）",
+    ["DictKey_28"] = "",
+    ["DictKey_52"] = "",
+    ["DictKey_UnitName_108"] = "Стат. объект #007",
+    ["DictKey_UnitName_90"] = "Юнит #10",
+    ["DictKey_GroupName_97"] = "Стат. объект #002",
+    ["DictKey_32"] = "",
+    ["DictKey_UnitName_76"] = "Юнит #13",
+    ["DictKey_45"] = "",
+    ["DictKey_UnitName_136"] = "Стат. объект #021",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_GroupName_129"] = "Стат. объект #018",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_30"] = "（着きました。こちらに走ってくる船員がみえます。）",
+    ["DictKey_UnitName_138"] = "Стат. объект #022",
+    ["DictKey_UnitName_122"] = "Стат. объект #014",
+    ["DictKey_UnitName_130"] = "Стат. объект #018",
+    ["DictKey_GroupName_115"] = "Стат. объект #011",
+    ["DictKey_39"] = "Mission failed. (パイロットが死亡しました)",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_UnitName_104"] = "Стат. объект #005",
+    ["DictKey_WptName_153"] = "Start",
+    ["DictKey_60"] = "637, Myskhako... ここで何をしているのですか？荷物はもう届けたのですか？\
+船に向ってください！\
+\
+着陸要請は拒否されました！",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_UnitName_92"] = "Юнит #11",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_GroupName_91"] = "Наземная группа #010",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_GroupName_103"] = "Стат. объект #005",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_UnitName_78"] = "Фрегат Неустрашимый",
+    ["DictKey_GroupName_95"] = "Стат. объект #001",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_GroupName_81"] = "Наземная группа",
+    ["DictKey_68"] = "Mission successful!\
+\
+私は自分の基地で武勇伝を話すつもりです。",
+    ["DictKey_UnitName_140"] = "Стат. объект #023",
+    ["DictKey_GroupName_117"] = "Стат. объект #012",
+    ["DictKey_GroupName_109"] = "Стат. объект #008",
+    ["DictKey_GroupName_72"] = "Thunder group",
+    ["DictKey_49"] = "",
+    ["DictKey_UnitName_114"] = "Стат. объект #010",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_24"] = "",
+    ["DictKey_GroupName_147"] = "Стат. объект #027",
+    ["DictKey_57"] = "",
+    ["DictKey_31"] = "637, すばらしい働きです！\
+Myskhako (Novorossiysk).に向ってください。\
+\
+無事に着けることを祈ってます。",
+    ["DictKey_GroupName_89"] = "Наземная группа #009",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_descriptionText_149"] = "秋、雨のシーズン…　低く厚い雲。飛行には全く適さない天候。しかも、飛べる機体もほぼ残っていません。Gelendjic 空軍基地全体で残っているのはKa-50ナンバー42のヘリコプターただ1機だけです。他のヘリがどこへ行ったかはわかりませし、関心もありません。こんな中でも、この瞬間も作戦は進行中です。おそらくどこかで進行中です。くそ！何もすることが無い。私は何もすることがありませんが、上級将校は基地の周りをスボンに火でもついたかのように走り回っています。そのせいで私がさぼっているように思われなければ良いのですが。\
+\
+昨日は、もう少し楽しかった。私と整備クルーは皆で酒（いくらかの水）を飲み、冗談を言い合ってました。朝3時にベッドに入り、外が雨の時は、眠り心地が良いですね。\
+\
+突然、私は司令官に呼び出されました。\
+何があった？！",
+    ["DictKey_GroupName_83"] = "Наземная группа #003",
+    ["DictKey_37"] = "637, Thunder-1, どこに行くつもりだ？？！　至急、任務に戻りなさい！",
+    ["DictKey_40"] = "",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_GroupName_139"] = "Стат. объект #023",
+    ["DictKey_58"] = "637, Myskhako... 何をしているのですか？荷物はもう見つけたのですか？\
+\
+着陸要請は拒否されました！",
+    ["DictKey_UnitName_80"] = "UAZ",
+    ["DictKey_67"] = "",
+    ["DictKey_GroupName_111"] = "Стат. объект #009",
+    ["DictKey_UnitName_94"] = "Стат. объект",
+    ["DictKey_GroupName_131"] = "Стат. объект #019",
+    ["DictKey_36"] = "",
+    ["DictKey_UnitName_128"] = "Стат. объект #017",
+    ["DictKey_UnitName_106"] = "Стат. объект #006",
+    ["DictKey_50"] = "",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_descriptionBlueTask_151"] = "",
+    ["DictKey_UnitName_148"] = "Стат. объект #027",
+    ["DictKey_27"] = "ありがとうございます。どうしようかと思っていました！\
+丘でエンストしてしまいました。我々の車のポンコツ度合いも報告書に書いておくつもりです。",
+    ["DictKey_UnitName_126"] = "Стат. объект #016",
+    ["DictKey_GroupName_87"] = "Наземная группа #008",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_46"] = "",
+    ["DictKey_70"] = "Credits:\
+\
+Laivynas - script and scripting\
+DeCreator - tech. adviser, tester\
+Butcher - tech. adviser, actor, tester\
+Black Dragon - tech. adviser, actor, tester\
+=FV=MAD - actor, tester\
+depilot - actor, tester\
+USSR Rik - tester\
+\
+And special thanks goes to\
+Condor11 - translation to English\
+",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_GroupName_93"] = "Стат. объект",
+    ["DictKey_UnitName_84"] = "Юнит #4",
+    ["DictKey_43"] = "Lead, 637, Myskhako.に出発します。 Good luck guys!",
+    ["DictKey_54"] = "",
+    ["DictKey_29"] = "",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_55"] = "637, Thunder-1, 時間がもうありません、急いでください！",
+    ["DictKey_GroupName_107"] = "Стат. объект #007",
+    ["DictKey_GroupName_119"] = "Стат. объект #013",
+    ["DictKey_GroupName_101"] = "Стат. объект #004",
+    ["DictKey_UnitName_96"] = "Стат. объект #001",
+    ["DictKey_UnitName_88"] = "Юнит #9",
+    ["DictKey_35"] = "637, Lead,視認しました。距離５　アプローチを許可します。高度１５０まで降下してください。",
+    ["DictKey_UnitName_134"] = "Стат. объект #020",
+    ["DictKey_42"] = "",
+    ["DictKey_UnitName_100"] = "Стат. объект #003",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_UnitName_124"] = "Стат. объект #015",
+    ["DictKey_63"] = "(...ここが司令部です。... あそこで、あそこで動きがあります…　誰かがこちらに向って走ってきます。)",
+    ["DictKey_UnitName_110"] = "Стат. объект #008",
+    ["DictKey_65"] = "",
+    ["DictKey_UnitName_132"] = "Стат. объект #019",
+    ["DictKey_UnitName_112"] = "Стат. объект #009",
+    ["DictKey_56"] = "",
+    ["DictKey_71"] = "",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_141"] = "Стат. объект #024",
+    ["DictKey_GroupName_145"] = "Стат. объект #026",
+    ["DictKey_GroupName_133"] = "Стат. объект #020",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_33"] = "637, Lead, 視認しました。風向286、9m/s。着陸を許可します。",
+    ["DictKey_sortie_152"] = "宅配便（Courier）",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_62"] = "",
+    ["DictKey_69"] = "",
+    ["DictKey_UnitName_116"] = "Стат. объект #011",
+    ["DictKey_UnitName_82"] = "Юнит #1",
+    ["DictKey_26"] = "",
+    ["DictKey_UnitName_86"] = "Юнит #5",
+    ["DictKey_66"] = "Mission successful!",
+    ["DictKey_GroupName_121"] = "Стат. объект #014",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_GroupName_85"] = "Наземная группа #004",
+    ["DictKey_UnitName_75"] = "Юнит #14",
+    ["DictKey_GroupName_123"] = "Стат. объект #015",
+    ["DictKey_WptName_157"] = "Mission end",
+    ["DictKey_UnitName_142"] = "Стат. объект #024",
+    ["DictKey_GroupName_143"] = "Стат. объект #025",
+    ["DictKey_34"] = "",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_61"] = "",
+    ["DictKey_48"] = "ABRIS マーカー：\
+CAR - UAZ カー\
+SHIP - Neustrashimyフリゲート艦",
+    ["DictKey_GroupName_99"] = "Стат. объект #003",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_UnitName_98"] = "Стат. объект #002",
+    ["DictKey_UnitName_146"] = "Стат. объект #026",
+    ["DictKey_51"] = "637, Myskhako, 急いで下さい、司令部までタキシングしてください！ 滑走路北端にあります。建物まで直接タキシングしてください。 彼らが待っています！",
+    ["DictKey_descriptionRedTask_150"] = "キャプテン、状況を説明する。\
+私達の活動がダメになる危険性があります。\
+スタッフの乗った車がNovorossiysk港に機密文書を配達し、そこからNeustrashimyフリゲート艦に配達する予定でした。しかし、不測の事態により、スタッフの乗った車がNovorossiyskに着いていません。あなたの任務はこれを見つけることです。\
+\
+最新に情報によると、このUAZ車は Krymsk空軍基地を出発して、最後にNeberdjayevskyaの町を通過した事が目撃されています。けれどもNovorossiysk には来ていません。ABRISに車の最後の位置情報を登録しておきました。\
+\
+UAZを見つけたら、そばに着陸して、全員が大丈夫か確認して、書簡を受け取ってください。それから直接Neustrashimyフリゲート艦に向かってください。セキュリティー上の理由から、正確な座標を教えることはできません。私に言えるのは、Myskhakoを出たら西に進んでください。とだけです。捜索エリアはABRISにマークしてあります。フリゲート艦を目視で探してください。\
+\
+艦を見つけたら、着艦してください。書簡を渡して、直ちに離陸してMyskhakoへ帰還して、状況を報告してください。\
+\
+時間が押しています。Myskhakoには7：30までに着陸して、7：35分までには報告をしてください！\
+\
+さもないと、Neustrashimyは破壊されたとみなして、今後の作戦には参加できなくなります。\
+\
+質問はありますか？\
+よろしい。ではヘリに乗り込んで任務を実行してください。作戦はいつ開始されるかわかりません。",
+    ["DictKey_GroupName_135"] = "Стат. объект #021",
+    ["DictKey_UnitName_120"] = "Стат. объект #013",
+    ["DictKey_44"] = "",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_UnitName_144"] = "Стат. объект #025",
+    ["DictKey_53"] = "637, Thunder-1, copy! 船に向ってください！",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_UnitName_77"] = "Юнит #12",
+    ["DictKey_GroupName_74"] = "Red lead",
+    ["DictKey_GroupName_105"] = "Стат. объект #006",
+    ["DictKey_WptName_156"] = "Start",
+    ["DictKey_UnitName_102"] = "Стат. объект #004",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_41"] = "Thunder-1, 637, 荷物を受け取りました。Zoneに向います。",
+    ["DictKey_GroupName_127"] = "Стат. объект #017",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_38"] = "",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_UnitName_118"] = "Стат. объект #012",
+} -- end of dictionary

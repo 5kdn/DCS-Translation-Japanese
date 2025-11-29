@@ -1,0 +1,512 @@
+dictionary = 
+{
+    ["DictKey_WptName_377"] = "",
+    ["DictKey_UnitName_326"] = "SAM3_comm",
+    ["DictKey_UnitName_212"] = "Roadblock2_troop1",
+    ["DictKey_WptName_361"] = "",
+    ["DictKey_WptName_401"] = "VETKA",
+    ["DictKey_53"] = "502: two",
+    ["DictKey_UnitName_297"] = "FARP_Otkrytka_static #006",
+    ["DictKey_GroupName_226"] = "FARP_Vetka_static #001",
+    ["DictKey_GroupName_198"] = "FARP_Vetka_tower",
+    ["DictKey_UnitName_310"] = "SAM6_comm",
+    ["DictKey_UnitName_233"] = "FARP_Vetka_static #005",
+    ["DictKey_UnitName_251"] = "Nalchik_static #005",
+    ["DictKey_WptName_432"] = "",
+    ["DictKey_GroupName_214"] = "FARP_Vetka_tower #001",
+    ["DictKey_WptName_446"] = "",
+    ["DictKey_WptName_422"] = "",
+    ["DictKey_WptName_410"] = "",
+    ["DictKey_UnitName_192"] = "Troop_2_2_6",
+    ["DictKey_GroupName_298"] = "FARP_Otkrytka_static #007",
+    ["DictKey_GroupName_284"] = "FARP_Otkrytka_static",
+    ["DictKey_93"] = "501: 渓谷に入ります。速度２００",
+    ["DictKey_WptName_453"] = "",
+    ["DictKey_GroupName_200"] = "FARP_Vetka_APA",
+    ["DictKey_WptName_416"] = "",
+    ["DictKey_GroupName_244"] = "Nalchik_static #001",
+    ["DictKey_WptName_438"] = "",
+    ["DictKey_UnitName_327"] = "SAM3_launcher",
+    ["DictKey_GroupName_315"] = "SAM4",
+    ["DictKey_GroupName_151"] = "An-30_Recon",
+    ["DictKey_WptName_408"] = "",
+    ["DictKey_UnitName_158"] = "120",
+    ["DictKey_134"] = "",
+    ["DictKey_UnitName_157"] = "122",
+    ["DictKey_WptName_347"] = "",
+    ["DictKey_UnitName_194"] = "Troop_2_2_4",
+    ["DictKey_WptName_397"] = "",
+    ["DictKey_99"] = "501: 右に接近中; 速度　１８０",
+    ["DictKey_83"] = "501: 120, 501, 2分で出発します。カウンターメジャーのチェクをしておいてください。",
+    ["DictKey_WptName_374"] = "",
+    ["DictKey_127"] = "",
+    ["DictKey_111"] = "501: 501, 左へ移動、ホームプレートへ向います。１２０、アプローチを援護してください。",
+    ["DictKey_descriptionText_337"] = "ALTITUDE\
+\
+武器や弾薬がジョージアの国境を超えて敵に届き続けています。この流れを止める手立てとして、司令部はShkara山（標高5057ｍ）に国境に前哨基地を建設することを命じました。\
+\
+今朝、連邦国境警備隊の４機のMi-8が人員と資材を高高度（3260ｍ）へ輸送します。着陸ゾーン（LZ)はShkara山の南東16ｋｍの地点です。国境警備隊は、ここから目的地まで徒歩で移動します。陸軍航空部隊は輸送の援護とLZの安全を確保します。",
+    ["DictKey_75"] = "502: 撃たれた、被弾！　こちら 502! ダメージを受けました！",
+    ["DictKey_92"] = "",
+    ["DictKey_GroupName_216"] = "FARP_Vetka_tower #002",
+    ["DictKey_GroupName_260"] = "FARP_Kalitka_static",
+    ["DictKey_150"] = "MISSION FAILED",
+    ["DictKey_UnitName_183"] = "Troop_1_2_6",
+    ["DictKey_GroupName_220"] = "VETKA #001",
+    ["DictKey_UnitName_170"] = "Troop_1_1_1",
+    ["DictKey_UnitName_299"] = "FARP_Otkrytka_static #007",
+    ["DictKey_WptName_427"] = "",
+    ["DictKey_UnitName_227"] = "FARP_Vetka_static #001",
+    ["DictKey_140"] = "MISSION FAILED",
+    ["DictKey_UnitName_316"] = "SAM4_rifleman2",
+    ["DictKey_79"] = "504: 504, 被弾、被弾しました！ SAMだ！ カバーしてくだしさい！",
+    ["DictKey_WptName_437"] = "",
+    ["DictKey_68"] = "",
+    ["DictKey_116"] = "",
+    ["DictKey_95"] = "501: LZに接近中。左旋回と降下の用意をしてください。",
+    ["DictKey_WptName_435"] = "",
+    ["DictKey_WptName_418"] = "",
+    ["DictKey_WptName_439"] = "",
+    ["DictKey_WptName_429"] = "",
+    ["DictKey_UnitName_301"] = "FARP_Otkrytka_static #008",
+    ["DictKey_WptName_457"] = "",
+    ["DictKey_GroupName_308"] = "SAM6",
+    ["DictKey_UnitName_201"] = "FARP_Vetka_APA",
+    ["DictKey_80"] = "",
+    ["DictKey_114"] = "",
+    ["DictKey_125"] = "",
+    ["DictKey_GroupName_246"] = "Nalchik_static #002",
+    ["DictKey_GroupName_328"] = "SAM2",
+    ["DictKey_WptName_426"] = "",
+    ["DictKey_WptName_392"] = "",
+    ["DictKey_UnitName_173"] = "Troop_2_1_7",
+    ["DictKey_WptName_348"] = "",
+    ["DictKey_58"] = "",
+    ["DictKey_WptName_399"] = "1",
+    ["DictKey_69"] = "",
+    ["DictKey_135"] = "",
+    ["DictKey_WptName_375"] = "",
+    ["DictKey_143"] = "",
+    ["DictKey_UnitName_267"] = "FARP_Kalitka_static #003",
+    ["DictKey_50"] = "501: 501, 降機",
+    ["DictKey_GroupName_248"] = "Nalchik_static #004",
+    ["DictKey_WptName_369"] = "",
+    ["DictKey_WptName_404"] = "",
+    ["DictKey_51"] = "",
+    ["DictKey_GroupName_264"] = "FARP_Kalitka_static #002",
+    ["DictKey_UnitName_213"] = "Roadblock2_BTR",
+    ["DictKey_70"] = "",
+    ["DictKey_WptName_448"] = "",
+    ["DictKey_106"] = "",
+    ["DictKey_UnitName_318"] = "SAM4_comm",
+    ["DictKey_GroupName_320"] = "SAM5",
+    ["DictKey_WptName_450"] = "",
+    ["DictKey_UnitName_178"] = "Troop_2_1_2",
+    ["DictKey_GroupName_258"] = "Nalchik_static #009",
+    ["DictKey_UnitName_165"] = "Troop_1_1_6",
+    ["DictKey_UnitName_289"] = "FARP_Otkrytka_static #002",
+    ["DictKey_WptName_398"] = "5",
+    ["DictKey_103"] = "503: 503, フレア開始！",
+    ["DictKey_WptName_366"] = "",
+    ["DictKey_WptName_386"] = "",
+    ["DictKey_82"] = "",
+    ["DictKey_56"] = "503: 503, 降機",
+    ["DictKey_71"] = "",
+    ["DictKey_WptName_354"] = "",
+    ["DictKey_GroupName_202"] = "Roadblock_Units",
+    ["DictKey_97"] = "501: 速度　１５０",
+    ["DictKey_WptName_449"] = "",
+    ["DictKey_WptName_440"] = "",
+    ["DictKey_GroupName_304"] = "Roadblock",
+    ["DictKey_UnitName_161"] = "503",
+    ["DictKey_GroupName_218"] = "VETKA",
+    ["DictKey_107"] = "501: 左旋回し上昇。高度4,000、方位００５、速度１８０",
+    ["DictKey_147"] = "",
+    ["DictKey_GroupName_228"] = "FARP_Vetka_static",
+    ["DictKey_GroupName_266"] = "FARP_Kalitka_static #003",
+    ["DictKey_66"] = "",
+    ["DictKey_UnitName_204"] = "Roadblock_troop2",
+    ["DictKey_WptName_452"] = "",
+    ["DictKey_74"] = "",
+    ["DictKey_UnitName_321"] = "SAM5_comm",
+    ["DictKey_GroupName_270"] = "FARP_Kalitka_static #013",
+    ["DictKey_GroupName_208"] = "Airbase_Units",
+    ["DictKey_WptName_423"] = "",
+    ["DictKey_117"] = "",
+    ["DictKey_WptName_384"] = "",
+    ["DictKey_54"] = "",
+    ["DictKey_WptName_415"] = "",
+    ["DictKey_WptName_370"] = "",
+    ["DictKey_UnitName_335"] = "SAM7_comm",
+    ["DictKey_130"] = "",
+    ["DictKey_WptName_421"] = "",
+    ["DictKey_WptName_389"] = "",
+    ["DictKey_WptName_412"] = "",
+    ["DictKey_91"] = "501: 501, 4,000",
+    ["DictKey_UnitName_196"] = "Troop_2_2_2",
+    ["DictKey_GroupName_286"] = "FARP_Otkrytka_static #001",
+    ["DictKey_GroupName_278"] = "FARP_Kalitka_static #018",
+    ["DictKey_77"] = "503: SAMだ！　SAM!　SAM! 503, 撃たれました！",
+    ["DictKey_WptName_390"] = "",
+    ["DictKey_UnitName_215"] = "Unit #1",
+    ["DictKey_UnitName_219"] = "VETKA",
+    ["DictKey_GroupName_256"] = "Nalchik_static #008",
+    ["DictKey_UnitName_281"] = "FARP_Kalitka_static #019",
+    ["DictKey_WptName_382"] = "",
+    ["DictKey_WptName_400"] = "2",
+    ["DictKey_UnitName_225"] = "FARP_Vetka_static #007",
+    ["DictKey_GroupName_236"] = "FARP_Vetka_static #004",
+    ["DictKey_112"] = "",
+    ["DictKey_UnitName_177"] = "Troop_2_1_3",
+    ["DictKey_UnitName_287"] = "FARP_Otkrytka_static #001",
+    ["DictKey_113"] = "",
+    ["DictKey_76"] = "",
+    ["DictKey_WptName_445"] = "",
+    ["DictKey_GroupName_276"] = "FARP_Kalitka_static #016",
+    ["DictKey_129"] = "",
+    ["DictKey_102"] = "",
+    ["DictKey_GroupName_292"] = "FARP_Otkrytka_static #004",
+    ["DictKey_GroupName_274"] = "FARP_Kalitka_static #015",
+    ["DictKey_UnitName_285"] = "FARP_Otkrytka_static",
+    ["DictKey_84"] = "",
+    ["DictKey_85"] = "501: 501, 離陸します",
+    ["DictKey_WptName_436"] = "",
+    ["DictKey_WptName_364"] = "",
+    ["DictKey_UnitName_317"] = "SAM4_rifleman1",
+    ["DictKey_142"] = "MISSION FAILED",
+    ["DictKey_GroupName_252"] = "Nalchik_static #006",
+    ["DictKey_UnitName_291"] = "FARP_Otkrytka_static #003",
+    ["DictKey_UnitName_193"] = "Troop_2_2_5",
+    ["DictKey_WptName_393"] = "",
+    ["DictKey_WptName_456"] = "",
+    ["DictKey_61"] = "",
+    ["DictKey_67"] = "",
+    ["DictKey_119"] = "",
+    ["DictKey_WptName_434"] = "",
+    ["DictKey_WptName_402"] = "LZ APPROACH",
+    ["DictKey_UnitName_203"] = "Roadblock_troop3",
+    ["DictKey_63"] = "",
+    ["DictKey_GroupName_230"] = "FARP_Vetka_static #006",
+    ["DictKey_86"] = "",
+    ["DictKey_UnitName_333"] = "SAM7_rifleman #1",
+    ["DictKey_UnitName_309"] = "SAM6_rifleman1",
+    ["DictKey_UnitName_197"] = "Troop_2_2_1",
+    ["DictKey_WptName_451"] = "",
+    ["DictKey_UnitName_169"] = "Troop_1_1_2",
+    ["DictKey_64"] = "",
+    ["DictKey_55"] = "",
+    ["DictKey_WptName_358"] = "",
+    ["DictKey_WptName_378"] = "",
+    ["DictKey_110"] = "",
+    ["DictKey_GroupName_296"] = "FARP_Otkrytka_static #006",
+    ["DictKey_WptName_356"] = "",
+    ["DictKey_UnitName_175"] = "Troop_2_1_5",
+    ["DictKey_GroupName_180"] = "Troops-1_2",
+    ["DictKey_WptName_406"] = "",
+    ["DictKey_UnitName_207"] = "Roadblock_BTR",
+    ["DictKey_WptName_459"] = "",
+    ["DictKey_120"] = "501: 方位０４３、速度２００",
+    ["DictKey_118"] = "501: Right correction.",
+    ["DictKey_WptName_403"] = "4",
+    ["DictKey_105"] = "501: 方位０９０へ退出、速度１５０！",
+    ["DictKey_GroupName_272"] = "FARP_Kalitka_static #014",
+    ["DictKey_UnitName_235"] = "FARP_Vetka_static #002",
+    ["DictKey_WptName_424"] = "",
+    ["DictKey_GroupName_222"] = "VETKA #002",
+    ["DictKey_UnitName_190"] = "Troop_2_2_8",
+    ["DictKey_UnitName_184"] = "Troop_1_2_5",
+    ["DictKey_UnitName_168"] = "Troop_1_1_3",
+    ["DictKey_136"] = "",
+    ["DictKey_WptName_341"] = "",
+    ["DictKey_UnitName_172"] = "Troop_2_1_8",
+    ["DictKey_GroupName_189"] = "Troops-2_2",
+    ["DictKey_96"] = "",
+    ["DictKey_GroupName_290"] = "FARP_Otkrytka_static #003",
+    ["DictKey_UnitName_275"] = "FARP_Kalitka_static #015",
+    ["DictKey_WptName_396"] = "",
+    ["DictKey_141"] = "",
+    ["DictKey_UnitName_182"] = "Troop_1_2_7",
+    ["DictKey_WptName_454"] = "",
+    ["DictKey_GroupName_280"] = "FARP_Kalitka_static #019",
+    ["DictKey_WptName_387"] = "",
+    ["DictKey_UnitName_223"] = "VETKA #002",
+    ["DictKey_UnitName_311"] = "SAM6_launcher",
+    ["DictKey_UnitName_179"] = "Troop_2_1_1",
+    ["DictKey_60"] = "",
+    ["DictKey_WptName_379"] = "",
+    ["DictKey_UnitName_273"] = "FARP_Kalitka_static #014",
+    ["DictKey_WptName_428"] = "",
+    ["DictKey_121"] = "",
+    ["DictKey_GroupName_240"] = "FARP_Vetka_static #010",
+    ["DictKey_WptName_433"] = "",
+    ["DictKey_WptName_373"] = "",
+    ["DictKey_WptName_346"] = "",
+    ["DictKey_GroupName_171"] = "Troops-2_1",
+    ["DictKey_UnitName_331"] = "SAM2_launcher",
+    ["DictKey_UnitName_188"] = "Troop_1_2_1",
+    ["DictKey_GroupName_332"] = "SAM7",
+    ["DictKey_WptName_349"] = "",
+    ["DictKey_UnitName_187"] = "Troop_1_2_2",
+    ["DictKey_WptName_395"] = "",
+    ["DictKey_UnitName_211"] = "Roadblock2_Troop2",
+    ["DictKey_WptName_411"] = "",
+    ["DictKey_WptName_385"] = "",
+    ["DictKey_UnitName_205"] = "Roadblock_troop1",
+    ["DictKey_UnitName_313"] = "SAM1_comm",
+    ["DictKey_149"] = "",
+    ["DictKey_UnitName_245"] = "Nalchik_static #001",
+    ["DictKey_WptName_443"] = "",
+    ["DictKey_sortie_340"] = "ALTITUDE",
+    ["DictKey_UnitName_191"] = "Troop_2_2_7",
+    ["DictKey_WptName_343"] = "",
+    ["DictKey_90"] = "",
+    ["DictKey_UnitName_334"] = "SAM7_rifleman",
+    ["DictKey_GroupName_162"] = "Troops-1_1",
+    ["DictKey_UnitName_176"] = "Troop_2_1_4",
+    ["DictKey_139"] = "",
+    ["DictKey_GroupName_159"] = "Mi-8_Flt-2",
+    ["DictKey_UnitName_283"] = "FARP_Vetka_static #012",
+    ["DictKey_WptName_381"] = "",
+    ["DictKey_123"] = "",
+    ["DictKey_WptName_431"] = "",
+    ["DictKey_WptName_444"] = "",
+    ["DictKey_WptName_425"] = "",
+    ["DictKey_GroupName_153"] = "Mi-8_Flt-1",
+    ["DictKey_57"] = "",
+    ["DictKey_GroupName_268"] = "FARP_Kalitka_static #012",
+    ["DictKey_98"] = "",
+    ["DictKey_49"] = "",
+    ["DictKey_UnitName_319"] = "SAM4_launcher",
+    ["DictKey_52"] = "",
+    ["DictKey_UnitName_185"] = "Troop_1_2_4",
+    ["DictKey_GroupName_250"] = "Nalchik_static #005",
+    ["DictKey_100"] = "",
+    ["DictKey_WptName_394"] = "",
+    ["DictKey_WptName_357"] = "",
+    ["DictKey_WptName_388"] = "",
+    ["DictKey_101"] = "501: 501,　フレア開始！",
+    ["DictKey_UnitName_239"] = "FARP_Vetka_static #009",
+    ["DictKey_94"] = "",
+    ["DictKey_WptName_367"] = "",
+    ["DictKey_UnitName_293"] = "FARP_Otkrytka_static #004",
+    ["DictKey_GroupName_306"] = "Roadblock2",
+    ["DictKey_UnitName_305"] = "Roadblock",
+    ["DictKey_UnitName_265"] = "FARP_Kalitka_static #002",
+    ["DictKey_WptName_447"] = "",
+    ["DictKey_148"] = "MISSION FAILED",
+    ["DictKey_UnitName_237"] = "FARP_Vetka_static #004",
+    ["DictKey_UnitName_295"] = "FARP_Otkrytka_static #005",
+    ["DictKey_WptName_372"] = "",
+    ["DictKey_GroupName_312"] = "SAM1",
+    ["DictKey_WptName_442"] = "",
+    ["DictKey_WptName_455"] = "",
+    ["DictKey_UnitName_164"] = "Troop_1_1_7",
+    ["DictKey_UnitName_152"] = "675",
+    ["DictKey_72"] = "",
+    ["DictKey_UnitName_279"] = "FARP_Kalitka_static #018",
+    ["DictKey_WptName_380"] = "",
+    ["DictKey_126"] = "501: ２２５へ右旋回、２００を維持",
+    ["DictKey_WptName_360"] = "",
+    ["DictKey_WptName_353"] = "",
+    ["DictKey_138"] = "",
+    ["DictKey_UnitName_167"] = "Troop_1_1_4",
+    ["DictKey_WptName_365"] = "",
+    ["DictKey_128"] = "501: ２１０へ旋回",
+    ["DictKey_UnitName_257"] = "Nalchik_static #008",
+    ["DictKey_87"] = "501: 501, 190へ旋回、高速低空で街の上を飛びます。",
+    ["DictKey_146"] = "MISSION FAILED",
+    ["DictKey_WptName_352"] = "",
+    ["DictKey_WptName_371"] = "",
+    ["DictKey_UnitName_263"] = "FARP_Kalitka_static #001",
+    ["DictKey_GroupName_302"] = "FARP_Otkrytka_static #009",
+    ["DictKey_62"] = "",
+    ["DictKey_WptName_391"] = "",
+    ["DictKey_89"] = "501: 501, 上昇位置に近づきました。 120, 丘の上に来たら、カウンターメジャーの射出を開始してください。斜面をしっかり監視してください。 ",
+    ["DictKey_WptName_441"] = "",
+    ["DictKey_UnitName_154"] = "502",
+    ["DictKey_108"] = "",
+    ["DictKey_59"] = "504: Four",
+    ["DictKey_UnitName_303"] = "FARP_Otkrytka_static #009",
+    ["DictKey_WptName_417"] = "",
+    ["DictKey_UnitName_314"] = "SAM1_launcher",
+    ["DictKey_UnitName_243"] = "FARP_Vetka_static #011",
+    ["DictKey_UnitName_221"] = "VETKA #001",
+    ["DictKey_UnitName_277"] = "FARP_Kalitka_static #016",
+    ["DictKey_88"] = "",
+    ["DictKey_109"] = "501: 501, ０２０へ旋回し降下します。１２０、フレアを出してカバーしてください。全神経を斜面に集中してください。",
+    ["DictKey_UnitName_229"] = "FARP_Vetka_static",
+    ["DictKey_UnitName_329"] = "SAM2_rifleman",
+    ["DictKey_WptName_420"] = "",
+    ["DictKey_UnitName_255"] = "Nalchik_static #007",
+    ["DictKey_UnitName_324"] = "SAM3_rifleman2",
+    ["DictKey_WptName_458"] = "",
+    ["DictKey_UnitName_336"] = "SAM7_launcher",
+    ["DictKey_UnitName_195"] = "Troop_2_2_3",
+    ["DictKey_descriptionBlueTask_339"] = "",
+    ["DictKey_104"] = "",
+    ["DictKey_WptName_409"] = "",
+    ["DictKey_WptName_345"] = "",
+    ["DictKey_UnitName_166"] = "Troop_1_1_5",
+    ["DictKey_115"] = "",
+    ["DictKey_WptName_363"] = "",
+    ["DictKey_UnitName_271"] = "FARP_Kalitka_static #013",
+    ["DictKey_WptName_342"] = "",
+    ["DictKey_78"] = "",
+    ["DictKey_WptName_430"] = "",
+    ["DictKey_GroupName_262"] = "FARP_Kalitka_static #001",
+    ["DictKey_UnitName_199"] = "FARP_Vetka_tower",
+    ["DictKey_133"] = "",
+    ["DictKey_132"] = "",
+    ["DictKey_descriptionRedTask_338"] = "コンバットオーダー\
+\
+2009年10月8日\
+エスコート隊リーダー（１２０）\
+任務：エスコート\
+\
+ミッションパッケージ：\
+\
+輸送隊（501，502，503，504）\
+エスコート隊（120，121）\
+\
+任務：\
+\
+Nalchik.上空で輸送隊をエスコートします。Nalchik.上空は高速低空を維持してください。\
+\
+Nalchik,南で、4,000ｍ ASLまでの上昇を開始します。上昇中の輸送隊をエスコートします。上昇中はIRCMを使用して下さい。\
+\
+LZまでのルート上は、4,000m ASLを維持します。LZまでのルート上は輸送隊をエスコートします。\
+\
+兵員降機段階では、LZ上空をカバーします。\
+\
+LZからの離脱段階で輸送隊と合流します。\
+LZからNalchik.までのルートは、4,000m ALSを維持します。この間も輸送隊をエスコートします。\
+\
+Nalchikへのアプローとで低高度に降下します。\
+降下、着陸段階も輸送隊をエスコートして下さい。降下中は IRCM(カウンターメジャー）を使用してください。\
+\
+管制の指示に従い着陸して下さい。\
+\
+ペイロード：\
+40x S-8 FFAR  (2x B-8V20A ロケットポッド)\
+機体搭載機銃　1/2\
+\
+燃料：\
+75％\
+\
+驚異\
+\
+ルートエアリア上は既知の脅威はありません。Nalchikの町と空軍基地を含めて、道中は小規模部隊、AAA、MANPADの驚異の可能性があります。\
+\
+飛行中は、警戒状態を常に高く維持して下さい。上昇、降下中は継続的にフレアーを射出してください。\
+\
+警告！　\
+高高度でのフライトや大気の状態によってはアイシングが起こる可能性があります。\
+\
+ルート：\
+\
+離陸 (FARP VETKA)\
+0818\
+Alt.: 430 m. ASL\
+Lat.:    43* 31' 09\"\" N\
+Long.: 43* 38' 09\"\" E\
+\
+WP:1\
+0832\
+Alt.: 4000 m. ASL\
+\
+WP:2\
+0836\
+Alt.: 4000 m. ASL\
+\
+WP:3 (LZ APPROACH)\
+0840\
+Alt.: 4000 m. ASL\
+\
+WP:4\
+0855\
+Alt.: 4000 m. ASL\
+\
+WP:5\
+0858\
+Alt.: 4000 m. ASL \
+\
+着陸 (FARP VETKA)\
+0918\
+\
+ターゲットポイント２ (OT:2): LZ\
+0841 \
+Alt.: 3260 m. ASL\
+Lat.:    42* 55' 39\"\" N\
+Long.: 43* 16' 21\"\" E\
+\
+*ミッションデザイナーノート：\
+\
+AIはあなたより上昇力が強いはずです。追いつこうとして機体を壊さないようにして下さい。\
+目的高度に達したら、追いつくチャンスはあります。\
+\
+\
+**ミッションデザイナーヒント：\
+\
+警告：ヒントなので自己責任で読んでください。\
+\
+-フレアインターバルは片側から1回0.18秒間隔で放出すれば、上昇、下降時の殆どで十分なカバーが得られます。\
+\
+-ウイングマンを最大限に活用するには、Combat Trailフォーメーションを組み、あなたをcover させてください。この方法は、驚異を発見し報告する可能性が高まります。",
+    ["DictKey_65"] = "",
+    ["DictKey_UnitName_163"] = "Troop_1_1_8",
+    ["DictKey_GroupName_242"] = "FARP_Vetka_static #011",
+    ["DictKey_81"] = "501: Vetka, 501, 始動します",
+    ["DictKey_UnitName_206"] = "Roadblock_UAZ",
+    ["DictKey_UnitName_249"] = "Nalchik_static #004",
+    ["DictKey_GroupName_294"] = "FARP_Otkrytka_static #005",
+    ["DictKey_WptName_414"] = "",
+    ["DictKey_137"] = "MISSION SUCCESS!",
+    ["DictKey_GroupName_232"] = "FARP_Vetka_static #005",
+    ["DictKey_WptName_355"] = "",
+    ["DictKey_GroupName_300"] = "FARP_Otkrytka_static #008",
+    ["DictKey_WptName_344"] = "",
+    ["DictKey_UnitName_217"] = "Unit #2",
+    ["DictKey_GroupName_288"] = "FARP_Otkrytka_static #002",
+    ["DictKey_GroupName_210"] = "Roadblock2_Units",
+    ["DictKey_UnitName_155"] = "501",
+    ["DictKey_124"] = "501: 005.",
+    ["DictKey_UnitName_186"] = "Troop_1_2_3",
+    ["DictKey_GroupName_254"] = "Nalchik_static #007",
+    ["DictKey_WptName_351"] = "",
+    ["DictKey_UnitName_181"] = "Troop_1_2_8",
+    ["DictKey_122"] = "501: ０２８へ左旋回",
+    ["DictKey_131"] = "",
+    ["DictKey_UnitName_259"] = "Nalchik_static #009",
+    ["DictKey_WptName_350"] = "",
+    ["DictKey_WptName_419"] = "",
+    ["DictKey_UnitName_209"] = "Airbase_UAZ",
+    ["DictKey_WptName_407"] = "",
+    ["DictKey_GroupName_224"] = "FARP_Vetka_static #007",
+    ["DictKey_WptName_376"] = "",
+    ["DictKey_73"] = "501: 501, 撃たれた！ 501 は被弾しました！　SAM!",
+    ["DictKey_UnitName_330"] = "SAM2_comm",
+    ["DictKey_WptName_359"] = "",
+    ["DictKey_WptName_368"] = "",
+    ["DictKey_UnitName_269"] = "FARP_Kalitka_static #012",
+    ["DictKey_WptName_362"] = "",
+    ["DictKey_144"] = "MISSION FAILED",
+    ["DictKey_UnitName_174"] = "Troop_2_1_6",
+    ["DictKey_UnitName_325"] = "SAM3_rifleman1",
+    ["DictKey_UnitName_247"] = "Nalchik_static #002",
+    ["DictKey_WptName_413"] = "",
+    ["DictKey_GroupName_156"] = "Player's Flight",
+    ["DictKey_UnitName_160"] = "504",
+    ["DictKey_GroupName_234"] = "FARP_Vetka_static #002",
+    ["DictKey_UnitName_231"] = "FARP_Vetka_static #006",
+    ["DictKey_UnitName_261"] = "FARP_Kalitka_static",
+    ["DictKey_UnitName_322"] = "SAM5_launcher",
+    ["DictKey_WptName_383"] = "",
+    ["DictKey_GroupName_282"] = "FARP_Vetka_static #012",
+    ["DictKey_UnitName_253"] = "Nalchik_static #006",
+    ["DictKey_UnitName_307"] = "Roadblock2",
+    ["DictKey_UnitName_241"] = "FARP_Vetka_static #010",
+    ["DictKey_WptName_405"] = "",
+    ["DictKey_GroupName_238"] = "FARP_Vetka_static #009",
+    ["DictKey_GroupName_323"] = "SAM3",
+    ["DictKey_145"] = "",
+} -- end of dictionary
