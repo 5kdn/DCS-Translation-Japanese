@@ -1,0 +1,333 @@
+campaign = 
+{
+    directory = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/Campaigns/",
+    startStage = 1,
+    fullPath = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/Campaigns/Operation Medvedev II.cmp",
+    
+    name = "Operation Medvedev II",
+    name_JP = "オペレーション　メドベージェフ　II",
+    name_CN = "梅德维杰夫II行动",
+    name_CS = "Operace Medvedev II",
+    name_ES = "Operación Medvedev II",
+    name_RU = "Медведь - 2",
+    
+    picture = "medvedev.png",
+    picture_CN = "medvedev_cn.png",
+    picture_RU = "medvedev_ru.png",
+    
+    description = "What is old is new again. Despite our previous efforts to bring peace to this region, violence has erupted due to balkanization of the area.  Innocent blood is being spilled and an entire people is being repressed. As before, we have no choice but to intervene and quell the violence.\
+\
+You are part of an \"advisor\" party that will assist in this effort and pre-pare the battlefield as our forces are brought to bear over the coming days.\
+\
+Good luck.\
+",
+    description_JP = "歴史は繰り返されるようです。この地域の平和のためのこれまでの努力にもかかわらず、この地域はバルカン化（小国への分裂化）によって紛争が勃発しました。無駄な血が流され、すべての人々が抑圧されています。以前と同様に、私達が紛争に介入し鎮圧する以外に選択肢がありません。\
+\
+あなたは、「アドバイザー」部隊の一員です。我軍が今後数日間に渡ってこの戦場で活動する部隊への支援と準備を行います。\
+\
+幸運を",
+    description_CN = "历史总会重演。尽管我们尽了最大的努力维护这片地区的和平，这个国家的巴尔干化又一次引发了连续不断的冲突。这场冲突使得人民受到压迫并白白流血牺牲。再一次，我们除了干涉并平息这场暴乱外，没有其他选择。\
+\
+作为\"顾问\"小组的一员，你的任务就是在接下来的冲突中，在我们的部队进入战斗前布置好战场。\
+\
+祝你好运。\
+",
+    description_CS = "Vše co bylo, je tu znova. I přes předchozí snahy nastolit v této oblasti mír, vypuklo v oblasti znovu násilí. Byla prolita nevinná krev a svoboda celého národa byla potlačena. Stejně jako dříve, tak ani teď, nemáme jinou možnost, než zasáhnout a potlačit násilí.\
+\
+Ty jsi součástí skupiny \"poradců\", která bude v následujících dnech pomáhat místním silám, při nastolení klidu v tomto regionu.\
+\
+Hodně štěstí.",
+    description_DE = "Was alt war, ist wieder neu. Trotz unserer vorherigen Versuche Frieden in diese Region zu bringen, kommt es wieder zu Gewaltausbrüche durch die \"Balkanisierung\" der Region. Unschuldiges Blut wird vergossen, ganze Menschengruppen werden unterdrückt. Wie bereits einmal, haben wir keine andere Chance als einzugreifen und der Gewalt Einhalt zu gebieten.\
+\
+Sie sind Teil einer \"Beratergruppe\", welche diese Aufgabe unterstützen werden und die Front bis zum Eintreffen unserer Truppen vorbereiten werden.\
+\
+Viel Glück!\
+",
+    description_ES = "Lo que es viejo es nuevo otra vez. A pesar de nuestros esfuerzos anteriores por traer la paz a esta región, la violencia ha irrumpido debido a la balcanización de la zona. Se está derramando sangre inocente y todo un pueblo está siendo reprimido. Como en el pasado, no nos queda más opción que la de intervenir y acabar con la violencia.\
+\
+Eres parte de una facción de \"asesoramiento\" que asistirá en este esfuerzo y preparará el campo de batalla a medida que nuestras fuerzas entren en acción en los próximos días.\
+\
+Buena suerte.\
+\
+",
+    description_RU = "Новое - хорошо забытое старое. Несмотря на наши усилия, направленные на стабилизацию обстановки, военная напряженность вновь проявилась в регионе Южной Осетии. Проливается кровь мирных жителей, и начались репрессии. Как и прежде, нам не остается выбора, кроме как использовать силу для принуждения к миру.\
+\
+Вы включены в группу советников с задачей сдерживания противника и обеспечения действий основных сил.\
+\
+Удачи!\
+",
+
+    stages = 
+    {
+        [1] = 
+        {
+            name = "Stage 1",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "BS2_C1.miz",
+                    description = "",
+                    fullpath = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/BS2_C1.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [1]
+        [2] = 
+        {
+            name = "Stage 2",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "BS2_C2.miz",
+                    description = "",
+                    fullpath = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/BS2_C2.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [2]
+        [3] = 
+        {
+            name = "Stage 3",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "BS2_C3.miz",
+                    description = "",
+                    fullpath = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/BS2_C3.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [3]
+        [4] = 
+        {
+            name = "Stage 4",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "BS2_C4.miz",
+                    description = "",
+                    fullpath = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/BS2_C4.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [4]
+        [5] = 
+        {
+            name = "Stage 5",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "BS2_C5.miz",
+                    description = "",
+                    fullpath = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/BS2_C5.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [5]
+        [6] = 
+        {
+            name = "Stage 6",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "BS2_C6.miz",
+                    description = "",
+                    fullpath = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/BS2_C6.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [6]
+        [7] = 
+        {
+            name = "Stage 7",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "BS2_C7.miz",
+                    description = "",
+                    fullpath = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/BS2_C7.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [7]
+        [8] = 
+        {
+            name = "Stage 8",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "BS2_C8.miz",
+                    description = "",
+                    fullpath = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/BS2_C8.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [8]
+        [9] = 
+        {
+            name = "Stage 9",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "BS2_C9.miz",
+                    description = "",
+                    fullpath = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/BS2_C9.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [9]
+        [10] = 
+        {
+            name = "Stage 10",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "BS2_C10.miz",
+                    description = "",
+                    fullpath = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/BS2_C10.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [10]
+        [11] = 
+        {
+            name = "Stage 11",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "BS2_C11.miz",
+                    description = "",
+                    fullpath = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/BS2_C11.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [11]
+        [12] = 
+        {
+            name = "Stage 12",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "BS2_C12.miz",
+                    description = "",
+                    fullpath = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/BS2_C12.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [12]
+        [13] = 
+        {
+            name = "Stage 13",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "BS2_C13.miz",
+                    description = "",
+                    fullpath = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/BS2_C13.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [13]
+        [14] = 
+        {
+            name = "Stage 14",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "BS2_C14.miz",
+                    description = "",
+                    fullpath = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/BS2_C14.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [14]
+        [15] = 
+        {
+            name = "Stage 15",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "BS2_C15.miz",
+                    description = "",
+                    fullpath = "C:/Users/Matt Wagner/Saved Games/DCS BlackShark/Missions/BS2_C15.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [15]
+    }, -- end of stages
+} -- end of campaign
