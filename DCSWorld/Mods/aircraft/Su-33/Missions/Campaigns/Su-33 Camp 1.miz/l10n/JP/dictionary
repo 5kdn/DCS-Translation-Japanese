@@ -1,0 +1,309 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "G-AAA-6",
+    ["DictKey_UnitName_72"] = "Unit #20",
+    ["DictKey_UnitName_52"] = "Unit #5",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_ActionText_186"] = "[109, LSO（着艦誘導士官）]:\
+\
+ナイスランディング！\
+無事帰還できて何よりです",
+    ["DictKey_GroupName_29"] = "RU-CVBG-HELO-1",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_GroupName_67"] = "G-AAA-8",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_GroupName_65"] = "G-AAA-7",
+    ["DictKey_UnitName_62"] = "Unit #15",
+    ["DictKey_GroupName_77"] = "G-AAA-13",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_GroupName_79"] = "G-AAA-14",
+    ["DictKey_UnitName_39"] = "Pilot #5",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_10"] = "おはようございます\
+\
+今日は、西ジョージアを巡回視察し、この地域での戦闘任務に従事できるようにします。\
+\
+今日のツアーにはこの機体を使用します\
+\
+離陸したら、私はあなたの後ろに付きます\
+\
+空母任務は初めてでしょうから、ミッションブリーフィングの離陸手順を見直してくおいてださい。\
+\
+ラジオメニューのF10で問い合わせて貰えれば、説明もいたします。\
+",
+    ["DictKey_UnitName_25"] = "Pilot #11",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_GroupName_40"] = "G-CARGO-2",
+    ["DictKey_descriptionText_93"] = "アブハジアと南オセチアで新たな衝突が起こりました。\
+黒海沿岸のジョージア軍の作戦妨害と、内陸部の友軍の作戦支援のために海軍機動部隊シードラゴン（Sea Dragon ）が出動しました。\
+\
+シードラゴンの重要な目標\
+------------------------------------------------\
+１－ポチ（Poti)の港を孤立させ、ジョージア軍の物流拠点を止める\
+\
+２－担当領域（AOR：Area of responsibility ）でのジョージア軍の物流（空、陸、海）の妨害\
+\
+３－AOR（担当領域）での制空権確保\
+\
+４－AORでの制海権の維持\
+\
+\
+機動部隊シードラゴンの編成:\
+-----------------------------------------------\
+\
+航空母艦 アドミラル・クズネツォフ（Admiral Kuznetsov）\
+巡洋艦 モスクワ（cruiser Moskva）\
+フリゲート艦 ネウストラシムイ（Neustrashimy）\
+フリゲート艦 レズキイ（Rezky）\
+\
+\
+アドミラル・クズネツォフ搭載機:\
+------------------------------------------------------------\
+ 第２７９海軍戦闘機連隊　Su-33　１９機\
+\
+離陸のための標準的な操作手順:\
+----------------------------------------------------------\
+ - フラップをアップにセットします「LCtrl + F」\
+ \
+ - エンジン出力を１０％増やすために、エンジン吸気口ネット（Engine inlet protection Grids）を収納します。「LAlt＋I」\
+　　ギア、フラップライトの翼の上側が点灯している状態でエンジン吸気口ネットが作動中です。\
+ \
+ - ホイールブレーキスタートを押したままにします。「LShift + W」\
+ \
+ - スロットルを１００％まで開き、アフターバーナーを作動させます。センターコンソールの２つのグリーンライトが点灯します。\
+ \
+ - アフターバーナーの２つのグリーンライトが点灯したらスペシャルエンジン出力モードを作動させましょう「LShift+E」。これにより、エンジンの出力が１０３％に増加し、３つ目のグリーンライトが点灯します。（２つのアフターバーナーグリーンライトの間 下にあります）\
+\
+- この状態からブレーキを全解除してください\
+\
+ - スキージャンプで離陸したら、すぐに車輪を格納してください。「G , LCTRL+G」\
+ \
+ - 上昇し高度を確保するために迎え角（AOA：Angle of attack）を増やします。\
+速度２４０キロ、高度１０００メートルに達したら水平飛行に入り、スロットルを下げて、アフターバーナーとスペシャルエンジンモードを切ってください。",
+    ["DictKey_UnitName_90"] = "Unit #29",
+    ["DictKey_GroupName_44"] = "G-CARGO-4",
+    ["DictKey_UnitName_76"] = "Unit #22",
+    ["DictKey_WptName_137"] = "",
+    ["DictKey_WptName_134"] = "",
+    ["DictKey_UnitName_47"] = "Unit #10",
+    ["DictKey_UnitName_36"] = "RU-CVBG (Moska)",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_descriptionRedTask_94"] = "西ジョージアの視察飛行を行います。主なランドマーク、空港、敵迎撃システムの存在しそうな場所を確認します。\
+\
+クズネツォフに帰還して着陸します",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_UnitName_74"] = "Unit #21",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_UnitName_43"] = "Pilot #7",
+    ["DictKey_ActionRadioText_193"] = "離陸手順を聞く",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_UnitName_49"] = "Unit #8",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_UnitName_92"] = "Unit #30",
+    ["DictKey_sortie_96"] = "FAM Flight",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_GroupName_33"] = "RU-CVBG",
+    ["DictKey_GroupName_91"] = "G-AAA-20",
+    ["DictKey_UnitName_35"] = "RU-CVBG (Neustrashimy)",
+    ["DictKey_GroupName_20"] = "RU-AWACS (Escort)",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_UnitName_78"] = "Unit #23",
+    ["DictKey_GroupName_38"] = "G-CARGO-1",
+    ["DictKey_UnitName_27"] = "Player Wingman #2",
+    ["DictKey_GroupName_18"] = "RU-AWACS",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_13"] = "ここはコブレチ（Kobuleti）の街です。ここは黒海沿岸にある、ジョージアでも大きな街の一つです。近くに放棄された滑走路があります。\
+\
+東は、ほとんどが山です。なので、海岸沿いのこの地域はジョージア軍にとっては、すこし急所ポイントになります",
+    ["DictKey_GroupName_81"] = "G-AAA-15",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_GroupName_31"] = "RU-CVBG-HELO-2",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_14"] = "コブレチの北には主要な空港があります。\
+\
+おそらく、ジョージア軍とNATO軍は航空機をここに配備しようとするでしょう。\
+\
+空港の真北には低い山岳地帯があり、良いランドマークとなります\
+\
+北へ向かいますが、飛行経路からずれないようにしてください\
+\
+クタイシ（Kutaisi）の周辺にはBuk SAM(SA-11)\
+が配備されていると言われています。ターゲットにされたくなければ東にはずれないようにしてください。",
+    ["DictKey_GroupName_75"] = "G-AAA-12",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_UnitName_50"] = "Unit #7",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_UnitName_30"] = "Pilot #9",
+    ["DictKey_11"] = "離陸のための標準的な操作手順:\
+----------------------------------------------------------\
+ - フラップをアップにセットします「LCtrl + F」\
+ \
+ - エンジン出力を１０％増やすために、エンジン吸気口ネット（Engine inlet protection Grids）を収納します。「LAlt＋I」\
+　　ギア、フラップライトの翼の上側が点灯している状態でエンジン吸気口ネットが作動中です。\
+ \
+ - ホイールブレーキスタートを押したままにします。「LShift + W」\
+ \
+ - スロットルを１００％まで開き、アフターバーナーを作動させます。センターコンソールの２つのグリーンライトが点灯します。\
+ \
+ - アフターバーナーの２つのグリーンライトが点灯したらスペシャルエンジン出力モードを作動させましょう「LShift+E」。これにより、エンジンの出力が１０３％に増加し、３つ目のグリーンライトが点灯します。（２つのアフターバーナーグリーンライトの間　下にあります）\
+\
+- この状態からブレーキを全解除してください\
+\
+ - スキージャンプで離陸したら、すぐに車輪を格納してください。「G , LCTRL+G」\
+ \
+ - 上昇し高度を確保するために迎え角（AOA：Angle of attack）を増やします。\
+速度２４０キロ、高度１０００メートルに達したら水平飛行に入り、スロットルを下げて、アフターバーナーとスペシャルエンジンモードを切ってください。\
+\
+準備はよろしいですね\
+\
+",
+    ["DictKey_GroupName_89"] = "G-AAA-19",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_UnitName_22"] = "Pilot #3",
+    ["DictKey_GroupName_83"] = "G-AAA-16",
+    ["DictKey_GroupName_42"] = "G-CARGO-3",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_ActionRadioText_192"] = "離陸手順を聞く",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_UnitName_56"] = "Unit #12",
+    ["DictKey_UnitName_80"] = "Unit #24",
+    ["DictKey_GroupName_57"] = "G-AAA-3",
+    ["DictKey_GroupName_46"] = "G-SA11",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_GroupName_71"] = "G-AAA-10",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_UnitName_45"] = "Pilot #8",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_ActionText_190"] = "",
+    ["DictKey_17"] = "Mission Success\
+----------------------\
+\
+戦闘領域のすべてを視察しました。\
+\
+これからの任務に備えてよく記憶しておいてください。\
+まずは、空母に帰還しましょう",
+    ["DictKey_GroupName_87"] = "G-AAA-18",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_UnitName_28"] = "Player",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_UnitName_54"] = "Unit #11",
+    ["DictKey_GroupName_53"] = "G-AAA-1",
+    ["DictKey_UnitName_34"] = "RU-CVBG (Rezky)",
+    ["DictKey_UnitName_88"] = "Unit #28",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_UnitName_48"] = "Unit #9",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_UnitName_64"] = "Unit #16",
+    ["DictKey_15"] = "ここは、セナキ-コーキ（Senaki-Kolkhi）です。\
+今日ジョージア領内で視察する、最後の空港です。\
+\
+セナキには、大きな街に加えて、２４時間稼働の空港と、最も注意を払わなくてはならない空軍基地が存在します。\
+NATOが空軍を前方展開するために、この空港を利用するでしょう\
+\
+北には低い山岳地帯があり、南への尾根ラインと合わせて良いランドマークとなります。\
+",
+    ["DictKey_WptName_149"] = "",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_UnitName_51"] = "Unit #6",
+    ["DictKey_12"] = "今、バツミ空軍基地の上にいます。\
+\
+空軍基地の他に、ここには大きな港があります。\
+\
+なので、常に監視をしておかなくてはなりません。\
+\
+トルコとの国境に近いので、トルコからバツミ経由でジョージアに補給が行われるかもしれません。\
+\
+では、北へ飛びましょう",
+    ["DictKey_UnitName_66"] = "Unit #17",
+    ["DictKey_GroupName_59"] = "G-AAA-4",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_GroupName_69"] = "G-AAA-9",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_UnitName_84"] = "Unit #26",
+    ["DictKey_UnitName_19"] = "Pilot #2",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_GroupName_23"] = "RU-CAP-1",
+    ["DictKey_UnitName_68"] = "Unit #18",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_UnitName_21"] = "Pilot #4",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_UnitName_32"] = "Pilot #10",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_UnitName_82"] = "Unit #25",
+    ["DictKey_UnitName_86"] = "Unit #27",
+    ["DictKey_GroupName_85"] = "G-AAA-17",
+    ["DictKey_GroupName_61"] = "G-AAA-5",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_UnitName_60"] = "Unit #14",
+    ["DictKey_GroupName_55"] = "G-AAA-2",
+    ["DictKey_WptName_131"] = "",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_UnitName_24"] = "Pilot #12",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_UnitName_58"] = "Unit #13",
+    ["DictKey_ActionText_188"] = "離陸しました。最初の目的地はバツミ（Batumi）、ジョージアの南西の端です。\
+\
+ジョージアには多くのAAAが配備されていますので、撃たれないように十分な硬度を取ってください",
+    ["DictKey_UnitName_70"] = "Unit #19",
+    ["DictKey_UnitName_41"] = "Pilot #6",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_descriptionBlueTask_95"] = "",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_GroupName_26"] = "RU-SU-33 (Player)",
+    ["DictKey_UnitName_37"] = "RU-CVBG (Kuznetsov)",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_GroupName_73"] = "G-AAA-11",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_16"] = "最後の目的地はポチ（Poti)です。ここは他の湾岸線の街よりも、街の主要部分がバラけています。\
+\
+ポチには大きな港と小型船舶があります。\
+\
+道路や海のそばにあるので、ジョージア軍にとって重量な物流拠点となっています。\
+\
+今から西に飛行し、帰還します\
+\
+では、デッキで会いましょう",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_WptName_179"] = "",
+} -- end of dictionary

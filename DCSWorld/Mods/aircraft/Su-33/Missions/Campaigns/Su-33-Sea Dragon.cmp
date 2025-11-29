@@ -1,0 +1,244 @@
+campaign = 
+{
+    ["fullPath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\Su-33-Sea Dragon.cmp",
+    ["directory"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\",
+    ["startStage"] = 1,
+    ["version"] = 1,
+    
+    ["picture"] = "su-33_sea_dragon.png",
+    ["picture_CN"] = "su-33_sea_dragon_cn.png",
+
+    ["name"] = "Su-33 - Sea Dragon",  
+    ["name_CN"] = "Su-33 - 海龙",
+    ["name_JP"] = "Su-33 - シードラゴン（Sea Dragon）",
+    ["name_KO"] = "Su-33 - 씨 드래곤 (Sea Dragon)",
+    
+    ["description"] = "With renewed hostilities in Abkhazia and South Ossetia, naval task force Sea Dragon has been tasked to disrupt Georgian military operations along its Black Sea coast and support friendly operations further inland. \
+\
+The key goals of Sea Dragon are:\
+\
+1- Isolate the port of Poti and prevent it as a logistics transfer point for Georgian forces.\
+\
+2- Interdict Georgian logistics (air, land, and sea) in the Area of Operations (AOR).\
+\
+3- Secure air dominance of the AOR.\
+\
+4- Maintain control of the sea in the AOR.\
+\
+Task Force Sea Dragon includes the aircraft carrying cruiser Admiral Kuznetsov, the cruiser Moskva, the frigate Neustrashimy, and the frigate Rezky. Embarked on the Admiral Kuznetsov are 19 Su-33 of the 279th Naval Fighter Regiment.",
+    ["description_JP"] = "アブハジアと南オセチアで新たな衝突が起こりました。\
+黒海沿岸のジョージア軍の作戦妨害と、内陸部の友軍の作戦支援のために海軍機動部隊シードラゴン（Sea Dragon ）が出動しました。\
+\
+シードラゴンの重要な目標は次の通りです。\
+\
+１－ポチ（Poti)の港を孤立させ、ジョージア軍の物流拠点を止める\
+\
+２－作戦領域（AOR：Area of Operations ）でのジョージア軍の物流（空、陸、海）の妨害\
+\
+３－AOR（作戦領域）での制空権確保\
+\
+４－AORでの制海権の維持\
+\
+機動部隊シードラゴンは航空母艦アドミラル・クズネツォフ（Admiral Kuznetsov）、巡洋艦モスクワ（cruiser Moskva）、フリゲート艦のネウストラシムイ（Neustrashimy）とレズキイ（Rezky）で編成されています\
+アドミラル・クズネツォフには第２７９海軍戦闘機連隊のSu-33が１９機搭載されています。",
+    ["description_KO"] = "Abkhazia와 남오세티아에서 적군이 다시 활개치면서, 해군 기동부대인 씨 드래곤이 흑해 해안 따라 조지아 군사 작전 방해와 내륙에서 추가 아군 작전을 지원하기위한 임무를 부여받았다. \
+\
+씨 드래곤의 중요 목표는:\
+1- Poti 항만을 고립시키고 조지아군에게 군수품 수송 지점으로 사용하는 것을 막을 것.\
+\
+2- 작전 지역에서 조지아군의 군수품(육, 해, 공)을 제재할 것.\
+\
+3- 작전 지역의 공중 우세를 확보할 것.\
+\
+4- 작전 지역에서 해상 통제력을 유지할 것.\
+\
+기동 전단, 씨 드래곤은 다음을 포함한다: 항공 모함 Admiral Kuznetsov, 순양함 Moskva, 호위함 Neustrashimy, 호위함 Rezky.",
+
+    ["necessaryUnits"] = 
+    {
+        ["Su-33"] = "Su-33",
+    }, -- end of ["necessaryUnits"]
+    ["stages"] = 
+    {
+        [7] = 
+        {
+            ["name"] = "Stage 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Su-33 Camp 7.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\Su-33 Camp 7.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] = 
+        {
+            ["name"] = "Stage 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Su-33 Camp 1.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\Su-33 Camp 1.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Su-33 Camp 2.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\Su-33 Camp 2.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [4] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Su-33 Camp 4.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\Su-33 Camp 4.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+        [8] = 
+        {
+            ["name"] = "Stage 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Su-33 Camp 8.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\Su-33 Camp 8.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [9] = 
+        {
+            ["name"] = "Stage 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Su-33 Camp 9.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\Su-33 Camp 9.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] = 
+        {
+            ["name"] = "Stage 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Su-33 Camp 5.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\Su-33 Camp 5.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Stage 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Su-33 Camp 10.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\Su-33 Camp 10.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [3] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Su-33 Camp 3.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\Su-33 Camp 3.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] = 
+        {
+            ["name"] = "Stage 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "Su-33 Camp 6.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "F:\\Work\\Trunk\\LockOnExe\\Mods\\aircraft\\Flaming Cliffs\\Missions\\Campaigns\\Su-33 Camp 6.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+    }, -- end of ["stages"]
+} -- end of campaign
