@@ -1,0 +1,353 @@
+campaign = 
+{
+	["picture_EN"] = "Cover.png",
+	["startStage"] = 1,
+	["picture"] = "Cover.png",
+	["description_JP"] = "2016年6月。USSハリー・S・トルーマン空母打撃群の任務期間が1か月延長され、シリアでのイラク・レバントのイスラム国からの領土を奪還するために地上作戦を展開する検証済みのシリア反対派グループへの連合国の航空支援が増加しました。\
+\
+米空母打撃群が地中海から対地空爆を実施するのは、10年以上ぶりのこととなる。これにより、当該地域における連合軍の航空戦力は倍増し、イスラム国の資金源および補給線の速やかな壊滅を加速させるとともに、要域制圧作戦を行う地上部隊の戦闘力も相乗的に増強される。しかしながら、これはほぼ必然的に地域緊張の高まりにも寄与することになり、特にロシア連邦はシリア政権を内戦下で支援しているため、緊張が一層先鋭化する恐れがある。\
+\
+今後数週間、VFA-83、The Rampagers、およびトルーマンの空母航空団7は、シリアと北イラク上空での出撃に最大限の任務を割り当てられています。主な任務は、地上作戦への近接航空支援とイスラム国の石油インフラに対する攻撃ですが、その他の任務も予想されます。",
+	["pictureSuccess_EN"] = "Success.png",
+	["necessaryUnits"] = 
+	{
+		["FA-18C_hornet"] = "FA-18C_hornet",
+	}, -- end of ["necessaryUnits"]
+	["pictureFailed"] = "Failure.png",
+	["name"] = "The Rampagers",
+	["stages"] = 
+	{
+		[1] = 
+		{
+			["name"] = "Stage 1",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M01.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\01 - June 03 - Strike Al Tabqa\\RAM M01.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [1]
+		[2] = 
+		{
+			["name"] = "Stage 2",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M02.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\02 - June 04 - Manbij CAS\\RAM M02.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [2]
+		[3] = 
+		{
+			["name"] = "Stage 3",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M03.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\03 - June 05 - Strike Thayyem\\RAM M03.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [3]
+		[4] = 
+		{
+			["name"] = "Stage 4",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M04.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\04 - June 06 - Airdrop Marea\\RAM M04.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [4]
+		[5] = 
+		{
+			["name"] = "Stage 5",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M05.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\05 - June 07 - Surveillance\\RAM M05.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [5]
+		[6] = 
+		{
+			["name"] = "Stage 6",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M06.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\06 - June 08 - CAS Marea\\RAM M06.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [6]
+		[7] = 
+		{
+			["name"] = "Stage 7",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M07.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\07 - June 09 - Night CAS Manbij\\RAM M07.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [7]
+		[8] = 
+		{
+			["name"] = "Stage 8",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M08.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\08 - June 10 - CAS Manbij (Tears in the Sun)\\RAM M08.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [8]
+		[9] = 
+		{
+			["name"] = "Stage 9",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M09.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\09 - June 11 - CAS Manbij (TOO Raqqa)\\RAM M09.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [9]
+		[10] = 
+		{
+			["name"] = "Stage 10",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M10.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\10 - June 12 - Raid Al-Shaddadah\\RAM M10.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [10]
+		[11] = 
+		{
+			["name"] = "Stage 11",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M11.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\11 - June 13 - SEAD Deir ez-Zor\\RAM M11.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [11]
+		[12] = 
+		{
+			["name"] = "Stage 12",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M12.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\12 - June 14 - Strike Deir ez-Zor\\RAM M12.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [12]
+		[13] = 
+		{
+			["name"] = "Stage 13",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M13.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\13 - June 15 - Alert 7\\RAM M13.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [13]
+		[14] = 
+		{
+			["name"] = "Stage 14",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M14.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\14 - June 16 - Facility Strike\\RAM M14.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [14]
+		[15] = 
+		{
+			["name"] = "Stage 15",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M15.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\15 - June 17 - CAS and Y Mudry\\RAM M15.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [15]
+		[16] = 
+		{
+			["name"] = "Stage 16",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M16.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\16 - June 19 - CAS Manbij\\RAM M16.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [16]
+		[17] = 
+		{
+			["name"] = "Stage 17",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "RAM M17.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "C:\\Users\\npm20\\Saved Games\\DCS\\Missions\\OperationInherentResolve_OneCloud\\Missions - Draft Campaign\\17 - June 21 - Strike Raqqa\\RAM M17.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [17]
+	}, -- end of ["stages"]
+	["version"] = 1,
+	["name_JP"] = "ランペイジャーズ",
+	["pictureFailed_EN"] = "Failure.png",
+	["description"] = "2016年6月。USSハリー・S・トルーマン空母打撃群の任務期間が1か月延長され、シリアでのイラク・レバントのイスラム国からの領土を奪還するために地上作戦を展開する検証済みのシリア反対派グループへの連合国の航空支援が増加しました。\
+\
+米空母打撃群が地中海から対地空爆を実施するのは、10年以上ぶりのこととなる。これにより、当該地域における連合軍の航空戦力は倍増し、イスラム国の資金源および補給線の速やかな壊滅を加速させるとともに、要域制圧作戦を行う地上部隊の戦闘力も相乗的に増強される。しかしながら、これはほぼ必然的に地域緊張の高まりにも寄与することになり、特にロシア連邦はシリア政権を内戦下で支援しているため、緊張が一層先鋭化する恐れがある。\
+\
+今後数週間、VFA-83、The Rampagers、およびトルーマンの空母航空団7は、シリアと北イラク上空での出撃に最大限の任務を割り当てられています。主な任務は、地上作戦への近接航空支援とイスラム国の石油インフラに対する攻撃ですが、その他の任務も予想されます。",
+	["pictureSuccess"] = "Success.png",
+} -- end of campaign
