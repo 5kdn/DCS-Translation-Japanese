@@ -1,0 +1,91 @@
+name: Lua-like file syntax check
+
+on:
+  pull_request:
+    paths:
+      - "**/*.lua"
+      - "**/*.cmp"
+      - "**/dictionary"
+
+jobs:
+  syntax-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Find changed lua-like files
+        id: find_files
+        run: |
+          BASE_SHA="${{ github.event.pull_request.base.sha }}"
+          HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+
+          echo "Base SHA: ${BASE_SHA}"
+          echo "Head SHA: ${HEAD_SHA}"
+          echo ""
+
+          # 変更されたファイル一覧を取得
+          CHANGED_FILES="$(git diff --name-only "${BASE_SHA}" "${HEAD_SHA}")"
+          echo "Changed files:"
+          echo "--------------"
+          echo "${CHANGED_FILES}"
+          echo ""
+
+          # lua-like ファイルだけを抽出
+          TARGET_FILES="$(printf '%s\n' "${CHANGED_FILES}" | grep -E '\.lua$|\.cmp$|(^|/)dictionary$' || true)"
+          if [ -z "${TARGET_FILES}" ]; then
+            echo "No lua-like files changed."
+            echo "has_files=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "Target lua-like files:"
+          echo "----------------------"
+          echo "${TARGET_FILES}"
+
+          # 改行区切り一覧（ログ用）
+          {
+            echo "files<<EOF"
+            echo "${TARGET_FILES}"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+          # luacheck の files 引数用にスペース区切りへ変換
+          FILES_ARG="$(echo "${TARGET_FILES}" | tr '\n' ' ' | sed 's/[[:space:]]\+$//')"
+          echo "files_arg=${FILES_ARG}" >> "$GITHUB_OUTPUT"
+
+          echo "has_files=true" >> "$GITHUB_OUTPUT"
+
+      - name: Run luacheck on changed files
+        if: steps.find_files.outputs.has_files == 'true'
+        uses: nebularg/actions-luacheck@v1
+        with:
+          # A list of files, rockspecs, or directories to be checked. Paths can be
+          # absolute or relative to the `path` option.
+          # 差分で検出されたファイルだけをチェック
+          files: ${{ steps.find_files.outputs.files_arg }}
+
+          # The working directory for luacheck. The file list should be relative to
+          # this path and output filenames be displayed relative to this path.
+          # Default: ${{ github.workspace }}
+          path: ''
+
+          # Additional command-line arguments.
+          # See https://luacheck.readthedocs.io/en/stable/cli.html
+          # 解析対象 Lua バージョン: 5.1 グローバル
+          # 全ての警告を無視する
+          args: --no-color -q --std lua51c --ignore ".*"
+
+          # URL to a custom configuration (`.luacheckrc`) file that will be used as
+          # the default configuration file.
+          config: ""
+
+          # Emits annotations for source code at locations parsed from the output.
+          # Must be set to "none", "warning" or "error".
+          #
+          # Requires that output of warnings not be suppressed through the -qq or -qqq arguments.
+          #
+          # Default: 'none'
+          annotate: error
