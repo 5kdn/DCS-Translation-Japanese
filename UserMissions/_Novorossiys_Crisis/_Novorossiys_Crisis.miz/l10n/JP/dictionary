@@ -1,4 +1,4 @@
-dictionary = 
+dictionary =
 {
     ["DictKey_UnitName_89"] = "Unit #023",
     ["DictKey_GroupName_124"] = "Su25T anti ship",
@@ -34,8 +34,7 @@ Mi-8　防衛のための重量な部隊だ。",
 任務完了だ！\
 \
 帰投し、着陸しろ。\
-\
-帰投場所にはオレンジのスモークを焚く。\",
+帰投場所にはオレンジのスモークを焚く。",
     ["DictKey_UnitName_389"] = "",
     ["DictKey_WptName_438"] = "",
     ["DictKey_WptName_217"] = "",
@@ -190,7 +189,7 @@ Mi-8　防衛のための重量な部隊だ。",
     ["DictKey_WptName_54"] = "",
     ["DictKey_UnitName_345"] = "Unit #064",
     ["DictKey_WptName_82"] = "",
-    ["DictKey_ActionText_83"] = "北の橋が攻撃を受けている。ここから西にいる兵士をピックアップしろ。方位 223°、 3.5 km 先だ。",
+    ["DictKey_ActionText_83"] = "北の橋が攻撃を受けている。ここから西にいる兵士をピックアップしろ。方位 223°、 3.5 km 先だ。\
 \
 位置はレッドスモークでマーキングしている。",
     ["DictKey_UnitName_247"] = "Unit #047",
