@@ -1,7 +1,7 @@
-campaign = 
+campaign =
 {
     ["picture_EN"] = "f-18 Campaign title v1.jpg",
-    ["directory"] = "C:\\Users\\DCSPlayer\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\",
+    ["directory"] = "C:\\Users\\DCSPlayer\\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\",
     ["description"] = "OPERATION : CAGE THE BEAR (HORNET MOD)は、エリート F/A-18C Hornet パイロットの活躍を描く架空のキャンペーンで、侵略勢力を撃退するのを任務としている。\
 \
 (Supercarrier version - すべてのミッションは、空母にHOTの状態で開始される。)\
@@ -33,190 +33,190 @@ A campaign by Kaba ",
 OPERATION : CAGE THE BEAR (Hornet mod v1.2.220520)\
 A campaign by Kaba ",
     ["pictureSuccess_EN"] = "mission accomplished F18.jpg",
-    ["necessaryUnits"] = 
+    ["necessaryUnits"] =
     {
         ["FA-18C_hornet"] = "FA-18C_hornet",
     }, -- end of ["necessaryUnits"]
     ["pictureFailed"] = "mission failed.jpg",
-    ["stages"] = 
+    ["stages"] =
     {
-        [7] = 
+        [7] =
         {
             ["name"] = "Stage 7",
-            ["missions"] = 
+            ["missions"] =
             {
-                [1] = 
+                [1] =
                 {
-                    ["interval"] = 
+                    ["interval"] =
                     {
                         [1] = 0,
                         [2] = 100,
                     }, -- end of ["interval"]
                     ["file"] = "FA-18C - Caucasus - CTB 5 - INTERCEPTION.miz",
                     ["description"] = "",
-                    ["fullpath"] = "C:\\Users\\DCSPlayer\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 5 - INTERCEPTION.miz",
+                    ["fullpath"] = "C:\\Users\\DCSPlayer\\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 5 - INTERCEPTION.miz",
                 }, -- end of [1]
             }, -- end of ["missions"]
         }, -- end of [7]
-        [1] = 
+        [1] =
         {
             ["name"] = "Stage 1",
-            ["missions"] = 
+            ["missions"] =
             {
-                [1] = 
+                [1] =
                 {
-                    ["interval"] = 
+                    ["interval"] =
                     {
                         [1] = 0,
                         [2] = 100,
                     }, -- end of ["interval"]
                     ["file"] = "FA-18C - Caucasus - CTB 1 - VAMPIRE NORTH.miz",
                     ["description"] = "",
-                    ["fullpath"] = "C:\\Users\\DCSPlayer\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 1 - VAMPIRE NORTH.miz",
+                    ["fullpath"] = "C:\\Users\\DCSPlayer\\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 1 - VAMPIRE NORTH.miz",
                 }, -- end of [1]
             }, -- end of ["missions"]
         }, -- end of [1]
-        [2] = 
+        [2] =
         {
             ["name"] = "Stage 2",
-            ["missions"] = 
+            ["missions"] =
             {
-                [1] = 
+                [1] =
                 {
-                    ["interval"] = 
+                    ["interval"] =
                     {
                         [1] = 0,
                         [2] = 100,
                     }, -- end of ["interval"]
                     ["file"] = "FA-18C - Caucasus - CTB 2 - PROTECTION.miz",
                     ["description"] = "",
-                    ["fullpath"] = "C:\\Users\\DCSPlayer\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 2 - PROTECTION.miz",
+                    ["fullpath"] = "C:\\Users\\DCSPlayer\\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 2 - PROTECTION.miz",
                 }, -- end of [1]
             }, -- end of ["missions"]
         }, -- end of [2]
-        [4] = 
+        [4] =
         {
             ["name"] = "Stage 4",
-            ["missions"] = 
+            ["missions"] =
             {
-                [1] = 
+                [1] =
                 {
-                    ["interval"] = 
+                    ["interval"] =
                     {
                         [1] = 0,
                         [2] = 100,
                     }, -- end of ["interval"]
                     ["file"] = "FA-18C - Caucasus - CTB 2C - QRF.miz",
                     ["description"] = "",
-                    ["fullpath"] = "C:\\Users\\DCSPlayer\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 2C - QRF.miz",
+                    ["fullpath"] = "C:\\Users\\DCSPlayer\\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 2C - QRF.miz",
                 }, -- end of [1]
             }, -- end of ["missions"]
         }, -- end of [4]
-        [8] = 
+        [8] =
         {
             ["name"] = "Stage 8",
-            ["missions"] = 
+            ["missions"] =
             {
-                [1] = 
+                [1] =
                 {
-                    ["interval"] = 
+                    ["interval"] =
                     {
                         [1] = 0,
                         [2] = 100,
                     }, -- end of ["interval"]
                     ["file"] = "FA-18C - Caucasus - CTB 6 - COMMAND AND CONTROL.miz",
                     ["description"] = "",
-                    ["fullpath"] = "C:\\Users\\DCSPlayer\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 6 - COMMAND AND CONTROL.miz",
+                    ["fullpath"] = "C:\\Users\\DCSPlayer\\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 6 - COMMAND AND CONTROL.miz",
                 }, -- end of [1]
             }, -- end of ["missions"]
         }, -- end of [8]
-        [9] = 
+        [9] =
         {
             ["name"] = "Stage 9",
-            ["missions"] = 
+            ["missions"] =
             {
-                [1] = 
+                [1] =
                 {
-                    ["interval"] = 
+                    ["interval"] =
                     {
                         [1] = 0,
                         [2] = 100,
                     }, -- end of ["interval"]
                     ["file"] = "FA-18C - Caucasus - CTB 7 - CLEARING THE WAY.miz",
                     ["description"] = "",
-                    ["fullpath"] = "C:\\Users\\DCSPlayer\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 7 - CLEARING THE WAY.miz",
+                    ["fullpath"] = "C:\\Users\\DCSPlayer\\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 7 - CLEARING THE WAY.miz",
                 }, -- end of [1]
             }, -- end of ["missions"]
         }, -- end of [9]
-        [5] = 
+        [5] =
         {
             ["name"] = "Stage 5",
-            ["missions"] = 
+            ["missions"] =
             {
-                [1] = 
+                [1] =
                 {
-                    ["interval"] = 
+                    ["interval"] =
                     {
                         [1] = 0,
                         [2] = 100,
                     }, -- end of ["interval"]
                     ["file"] = "FA-18C - Caucasus - CTB 3 - OCA WEST.miz",
                     ["description"] = "",
-                    ["fullpath"] = "C:\\Users\\DCSPlayer\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 3 - OCA WEST.miz",
+                    ["fullpath"] = "C:\\Users\\DCSPlayer\\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 3 - OCA WEST.miz",
                 }, -- end of [1]
             }, -- end of ["missions"]
         }, -- end of [5]
-        [10] = 
+        [10] =
         {
             ["name"] = "Stage 10",
-            ["missions"] = 
+            ["missions"] =
             {
-                [1] = 
+                [1] =
                 {
-                    ["interval"] = 
+                    ["interval"] =
                     {
                         [1] = 0,
                         [2] = 100,
                     }, -- end of ["interval"]
                     ["file"] = "FA-18C - Caucasus - CTB 8 - ALPHA STRIKE MOZDOK.miz",
                     ["description"] = "",
-                    ["fullpath"] = "C:\\Users\\DCSPlayer\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 8 - ALPHA STRIKE MOZDOK.miz",
+                    ["fullpath"] = "C:\\Users\\DCSPlayer\\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 8 - ALPHA STRIKE MOZDOK.miz",
                 }, -- end of [1]
             }, -- end of ["missions"]
         }, -- end of [10]
-        [3] = 
+        [3] =
         {
             ["name"] = "Stage 3",
-            ["missions"] = 
+            ["missions"] =
             {
-                [1] = 
+                [1] =
                 {
-                    ["interval"] = 
+                    ["interval"] =
                     {
                         [1] = 0,
                         [2] = 100,
                     }, -- end of ["interval"]
                     ["file"] = "FA-18C - Caucasus - CTB 2B - CARGO.miz",
                     ["description"] = "",
-                    ["fullpath"] = "C:\\Users\\DCSPlayer\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 2B - CARGO.miz",
+                    ["fullpath"] = "C:\\Users\\DCSPlayer\\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 2B - CARGO.miz",
                 }, -- end of [1]
             }, -- end of ["missions"]
         }, -- end of [3]
-        [6] = 
+        [6] =
         {
             ["name"] = "Stage 6",
-            ["missions"] = 
+            ["missions"] =
             {
-                [1] = 
+                [1] =
                 {
-                    ["interval"] = 
+                    ["interval"] =
                     {
                         [1] = 0,
                         [2] = 100,
                     }, -- end of ["interval"]
                     ["file"] = "FA-18C - Caucasus - CTB 4 - RECON DUTIES.miz",
                     ["description"] = "",
-                    ["fullpath"] = "C:\\Users\\DCSPlayer\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 4 - RECON DUTIES.miz",
+                    ["fullpath"] = "C:\\Users\\DCSPlayer\\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Caucasus - CTB 4 - RECON DUTIES.miz",
                 }, -- end of [1]
             }, -- end of ["missions"]
         }, -- end of [6]
@@ -225,6 +225,6 @@ A campaign by Kaba ",
     ["version"] = 1,
     ["pictureSuccess"] = "mission accomplished F18.jpg",
     ["pictureFailed_EN"] = "mission failed.jpg",
-    ["fullPath"] = "C:\\Users\\DCSPlayer\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Cage the bear - SUPERCARRIER.cmp",
+    ["fullPath"] = "C:\\Users\\DCSPlayer\\Saved Games\\DCS\\Missions\\Campaigns\\en\\CTB - HORNET\\SUPERCARRIER\\FA-18C - Cage the bear - SUPERCARRIER.cmp",
     ["startStage"] = 1,
 } -- end of campaign
