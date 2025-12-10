@@ -52,8 +52,14 @@ jobs:
             echo "EOF"
           } >> "$GITHUB_OUTPUT"
 
-          # luacheck の files 引数用にスペース区切りへ変換
-          FILES_ARG="$(echo "${TARGET_FILES}" | tr '\n' ' ' | sed 's/[[:space:]]\+$//')"
+          # luacheck に渡すためにパスを単一引用符で囲み、スペースを保持
+          FILES_ARG=""
+          while IFS= read -r file; do
+            [ -z "${file}" ] && continue
+            escaped_file=${file//\'/\'"\'"\'} # パス中の単一引用符をエスケープ
+            FILES_ARG="${FILES_ARG}'${escaped_file}' "
+          done <<< "${TARGET_FILES}"
+          FILES_ARG="${FILES_ARG%" "}"
           echo "files_arg=${FILES_ARG}" >> "$GITHUB_OUTPUT"
 
           echo "has_files=true" >> "$GITHUB_OUTPUT"
