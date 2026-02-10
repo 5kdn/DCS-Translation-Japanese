@@ -1,0 +1,168 @@
+name: tree-metadata を APIサーバーに送信する
+
+on:
+  pull_request:
+    branches: [ master ]
+    types: [ closed ]
+    paths:
+      - "DCSWorld/**/*"
+      - "UserMissions/**/*"
+
+permissions:
+  contents: read
+  pull-requests: read
+  id-token: write
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      merged: ${{ steps.out.outputs.merged }}
+    steps:
+      - id: out
+        shell: bash
+        run: echo "merged=${{ github.event.pull_request.merged }}" >> "$GITHUB_OUTPUT"
+
+  send-message:
+    needs: gate
+    if: needs.gate.outputs.merged == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate payload
+        id: payloads
+        shell: bash
+        run: |
+          # ファイルをフィルタリングするパス
+          path_pattern='^(DCSWorld/|UserMissions/)'
+
+          set -euo pipefail
+
+          merged_at='${{ github.event.pull_request.merged_at }}'
+          updated_at_ms=$(date -d "$merged_at" +%s%3N)
+
+          files_json='[]'
+          page=1
+          while :; do
+            page_json=$(curl -sSL \
+              -H "Authorization: Bearer ${{ github.token }}" \
+              -H "Accept: application/vnd.github+json" \
+              "${{ github.api_url }}/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files?per_page=100&page=${page}")
+            count=$(echo "$page_json" | jq 'length')
+            if [ "$count" -eq 0 ]; then
+              break
+            fi
+            files_json=$(printf '%s\n' "$files_json" "$page_json" | jq -s 'add')
+            page=$((page + 1))
+          done
+
+          payload=$(echo "$files_json" | jq -c --argjson ts "$updated_at_ms" --arg pattern "$path_pattern" \
+            '[.[] | select(.filename | test($pattern)) | {path: .filename, updatedAt: $ts}]')
+          echo "payload=$payload" >> "$GITHUB_OUTPUT"
+
+      - name: payload を summary に表示
+        env:
+          PAYLOAD: ${{ steps.payloads.outputs.payload }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          {
+            echo "## tree-metadata payload"
+            echo ""
+            echo "| path | updatedAt |"
+            echo "| --- | --- |"
+            echo "$PAYLOAD" | jq -r '.[] | "| \(.path) | \(.updatedAt) |"'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: get auth token
+        id: token
+        env:
+          OIDC_AUD: "tree-metadata"
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          request_url="$ACTIONS_ID_TOKEN_REQUEST_URL"
+          if [ -n "${OIDC_AUD:-}" ]; then
+            request_url="${request_url}&audience=${OIDC_AUD}"
+          fi
+
+          response=$(curl -sSL \
+            -H "Authorization: Bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" \
+            "$request_url")
+          token=$(echo "$response" | jq -r '.value')
+          if [ -z "$token" ] || [ "$token" = "null" ]; then
+            echo "OIDC token is missing" >&2
+            echo "$response" >&2
+            exit 1
+          fi
+          echo "oidc_token=$token" >> "$GITHUB_OUTPUT"
+
+      - name: post data
+        id: post
+        env:
+          ENDPOINT: ${{ vars.TREE_METADATA_UPSERT_ENDPOINT }}
+          TOKEN: ${{ steps.token.outputs.oidc_token }}
+          PAYLOAD: ${{ steps.payloads.outputs.payload }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          body_file="$(mktemp)"
+          status="$(curl -sSL -o "$body_file" -w '%{http_code}' \
+            -X POST "$ENDPOINT" \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Content-Type: application/json" \
+            --data "$PAYLOAD")"
+          body="$(cat "$body_file")"
+          rm -f "$body_file"
+
+          echo "status=$status" >> "$GITHUB_OUTPUT"
+          delimiter="EOF_$(date +%s%N)"
+          {
+            echo "body<<${delimiter}"
+            echo "$body"
+            echo "${delimiter}"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: validate post result
+        env:
+          POST_STATUS: ${{ steps.post.outputs.status }}
+          POST_BODY: ${{ steps.post.outputs.body }}
+        shell: bash
+        run: |
+          result="fail"
+          success_value=""
+          if echo "$POST_BODY" | jq -e . >/dev/null 2>&1; then
+            success_value="$(echo "$POST_BODY" | jq -r '.success // empty')"
+          fi
+
+          if [ "$POST_STATUS" = "200" ] && [ "$success_value" = "true" ]; then
+            result="success"
+          fi
+
+          {
+            echo "## tree-metadata post result"
+            echo ""
+            echo "- status: $POST_STATUS"
+            echo "- success: ${success_value:-unknown}"
+            echo "- result: $result"
+            echo ""
+            echo "### response body"
+            echo ""
+            echo '```'
+            echo "$POST_BODY"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+          if [ "$POST_STATUS" != "200" ]; then
+            echo "Post failed: HTTP $POST_STATUS" >&2
+            exit 1
+          fi
+          if [ "$success_value" = "false" ]; then
+            echo "Post failed: success=false" >&2
+            exit 1
+          fi
+          if [ "$success_value" != "true" ]; then
+            echo "Post failed: success is missing" >&2
+            exit 1
+          fi
