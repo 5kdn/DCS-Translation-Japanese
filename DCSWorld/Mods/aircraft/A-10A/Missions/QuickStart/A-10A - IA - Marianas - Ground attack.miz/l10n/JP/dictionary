@@ -1,0 +1,11 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "地上攻撃",
+	["DictKey_descriptionText_1"] = "この任務は実弾射撃場のある小島へ向かう途中から開始する。島は頂部にオレンジのスモークが上がっている高いテレビ塔を目印に目視で識別できる。付近の目標に対して攻撃進入を開始する際は、この煙を視覚的な目安として利用せよ。\
+脅威はない。",
+	["DictKey_descriptionBlueTask_3"] = "射撃場の目標を任意に攻撃せよ。",
+	["DictKey_ActionText_6"] = "この任務は実弾射撃場のある小島へ向かう途中から開始する。島は頂部にオレンジのスモークが上がっている高いテレビ塔を目印に目視で識別できる。付近の目標に対して攻撃進入を開始する際は、この煙を視覚的な目安として利用せよ。\
+脅威はない。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

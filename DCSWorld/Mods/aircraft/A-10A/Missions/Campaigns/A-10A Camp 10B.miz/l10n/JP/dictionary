@@ -1,0 +1,67 @@
+dictionary = 
+{
+	["DictKey_WptName_159"] = "",
+	["DictKey_6"] = "",
+	["DictKey_descriptionText_141"] = "MISSION:\
+敵部隊は谷の東端からほぼ押し出されつつある。撤退を支援するため、稜線沿いに最終防衛線を構築した。友軍地上部隊の前進に先立ち、これらの部隊を消耗させるために航空攻撃を実施する。\
+\
+OBJECTIVE:\
+敵補給拠点はクヴァクデ市西方の川向こうに位置する。村を通る道路の両側に貨物・燃料車両が並んでいる。これらが主目標である。\
+\
+THREATS:\
+重防空は23mm AAAシステム、SA-13短距離IR SAM、SA-19 (2S6)、およびSA-15の可能性で構成される。",
+	["DictKey_UnitName_208"] = "New Static Object #017",
+	["DictKey_descriptionNeutralsTask_144"] = "",
+	["DictKey_sortie_145"] = "阻止攻撃",
+	["DictKey_WptName_168"] = "",
+	["DictKey_WptName_172"] = "",
+	["DictKey_UnitName_112"] = "New Static Object #002",
+	["DictKey_descriptionBlueTask_143"] = "補給拠点を破壊せよ。",
+	["DictKey_UnitName_116"] = "New Static Object #004",
+	["DictKey_WptName_161"] = "",
+	["DictKey_UnitName_128"] = "New Static Object #010",
+	["DictKey_WptName_158"] = "",
+	["DictKey_UnitName_211"] = "New Static Object #017",
+	["DictKey_7"] = "",
+	["DictKey_WptName_209"] = "",
+	["DictKey_11"] = "任務完了。離脱を許可する。Out.",
+	["DictKey_10"] = "",
+	["DictKey_WptName_170"] = "",
+	["DictKey_UnitName_134"] = "New Static Object #013",
+	["DictKey_WptName_171"] = "",
+	["DictKey_WptName_165"] = "",
+	["DictKey_WptName_162"] = "",
+	["DictKey_8"] = "Uzi 11、こちらPointer。敵補給拠点は谷の東端、ウェイポイント7付近のクヴァクデ市南方の村に位置する。\
+\
+周辺のAAAおよびSAM活動は非常に重い。\
+\
+部隊を捜索し、攻撃せよ。Out.",
+	["DictKey_UnitName_126"] = "New Static Object #009",
+	["DictKey_WptName_166"] = "",
+	["DictKey_WptName_164"] = "",
+	["DictKey_5"] = "",
+	["DictKey_UnitName_108"] = "New Static Object",
+	["DictKey_WptName_212"] = "",
+	["DictKey_WptName_163"] = "",
+	["DictKey_UnitName_120"] = "New Static Object #006",
+	["DictKey_descriptionRedTask_142"] = "",
+	["DictKey_UnitName_140"] = "New Static Object #016",
+	["DictKey_UnitName_132"] = "New Static Object #012",
+	["DictKey_UnitName_124"] = "New Static Object #008",
+	["DictKey_UnitName_136"] = "New Static Object #014",
+	["DictKey_WptName_160"] = "",
+	["DictKey_WptName_191"] = "",
+	["DictKey_WptName_206"] = "",
+	["DictKey_WptName_169"] = "",
+	["DictKey_UnitName_114"] = "New Static Object #003",
+	["DictKey_WptName_167"] = "",
+	["DictKey_WptName_157"] = "",
+	["DictKey_UnitName_138"] = "New Static Object #015",
+	["DictKey_UnitName_110"] = "New Static Object #001",
+	["DictKey_UnitName_122"] = "New Static Object #007",
+	["DictKey_9"] = "",
+	["DictKey_12"] = "",
+	["DictKey_UnitName_205"] = "",
+	["DictKey_UnitName_130"] = "New Static Object #011",
+	["DictKey_UnitName_118"] = "New Static Object #005",
+} -- end of dictionary

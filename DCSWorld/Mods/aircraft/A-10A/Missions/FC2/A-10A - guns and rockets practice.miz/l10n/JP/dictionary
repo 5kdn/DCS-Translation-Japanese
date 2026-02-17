@@ -1,0 +1,102 @@
+dictionary = 
+{
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_2"] = "本ミッションでは、30mm機関砲および無誘導ロケットの使用訓練を行う。\
+\
+ウェイポイント3周辺に複数の目標が配置されている。",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_descriptionBlueTask_52"] = "ウェイポイント3の目標を破壊せよ。",
+    ["DictKey_GroupName_17"] = "New Airplane Group",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_UnitName_29"] = "New Static Object #003",
+    ["DictKey_GroupName_46"] = "New Static Object #012",
+    ["DictKey_UnitName_39"] = "New Static Object #008",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_UnitName_25"] = "New Static Object #001",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_UnitName_45"] = "New Static Object #011",
+    ["DictKey_sortie_53"] = "機関砲およびロケット訓練",
+    ["DictKey_UnitName_20"] = "Pilot #2",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_UnitName_9"] = "Unit #4",
+    ["DictKey_3"] = "7キーを押して空対地モードを選択せよ。\
+\
+Dキーでロケットを選択する。\
+\
+Cキーで機関砲を切り替える。",
+    ["DictKey_GroupName_44"] = "New Static Object #011",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_GroupName_28"] = "New Static Object #003",
+    ["DictKey_GroupName_32"] = "New Static Object #005",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_UnitName_13"] = "Unit #8",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_UnitName_14"] = "Unit #1",
+    ["DictKey_UnitName_33"] = "New Static Object #005",
+    ["DictKey_GroupName_30"] = "New Static Object #004",
+    ["DictKey_GroupName_22"] = "New Static Object",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_descriptionRedTask_51"] = "ウェイポイント3の目標を破壊せよ。",
+    ["DictKey_descriptionText_50"] = "1- 離陸\
+2- 地上目標を捜索・撃破\
+3- 飛行場へ着陸\
+\
+詳細な手順については、訓練ビデオおよびフライトマニュアルを参照せよ。\
+\
+主なキーコマンド:\
+\
+航法モード: 1\
+空対地モード: 7\
+兵装切替: D\
+機関砲切替: C\
+機関砲射撃: Space bar\
+兵装投下: Right Alt + Space bar",
+    ["DictKey_UnitName_21"] = "Pilot #1",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_UnitName_31"] = "New Static Object #004",
+    ["DictKey_UnitName_35"] = "New Static Object #006",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_UnitName_16"] = "Unit #6",
+    ["DictKey_GroupName_40"] = "New Static Object #009",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_GroupName_19"] = "New Airplane Group #001",
+    ["DictKey_GroupName_38"] = "New Static Object #008",
+    ["DictKey_UnitName_27"] = "New Static Object #002",
+    ["DictKey_UnitName_18"] = "Player",
+    ["DictKey_UnitName_23"] = "New Static Object",
+    ["DictKey_UnitName_41"] = "New Static Object #009",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_5"] = "全てのトラック目標を撃破した。",
+    ["DictKey_UnitName_49"] = "New Static Object #013",
+    ["DictKey_GroupName_34"] = "New Static Object #006",
+    ["DictKey_6"] = "全ての砲兵目標を撃破した。",
+    ["DictKey_UnitName_15"] = "Unit #7",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_GroupName_36"] = "New Static Object #007",
+    ["DictKey_GroupName_26"] = "New Static Object #002",
+    ["DictKey_UnitName_37"] = "New Static Object #007",
+    ["DictKey_GroupName_48"] = "New Static Object #013",
+    ["DictKey_GroupName_7"] = "trucks",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_GroupName_24"] = "New Static Object #001",
+    ["DictKey_UnitName_10"] = "Unit #3",
+    ["DictKey_4"] = "1キーを押して航法モードに戻れ。",
+    ["DictKey_GroupName_42"] = "New Static Object #010",
+    ["DictKey_UnitName_43"] = "New Static Object #010",
+    ["DictKey_UnitName_11"] = "Unit #2",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_GroupName_12"] = "artillery",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_UnitName_47"] = "New Static Object #012",
+    ["DictKey_UnitName_8"] = "Unit #5",
+} -- end of dictionary

@@ -1,0 +1,65 @@
+dictionary = 
+{
+	["DictKey_18"] = "",
+	["DictKey_6"] = "",
+	["DictKey_descriptionText_143"] = "MISSION:\
+敵部隊はマハラゼ地区（現オズルゲティ）方面へ押し戻されている。友軍地上部隊の前進に先立ち、これらの部隊を消耗させるために航空攻撃を実施する。\
+\
+OBJECTIVE:\
+敵防衛線の中央でT-80U主力戦車3両から成る1個小隊を確認した。これが主目標である。\
+離陸後は具体的な任務指示のためJTAC (POINTER)に連絡せよ。\
+\
+THREATS:\
+中程度の防空は23mm AAAシステムとSA-9短距離IR SAMで構成される。",
+	["DictKey_UnitName_208"] = "New Static Object #012",
+	["DictKey_UnitName_214"] = "New Static Object #012",
+	["DictKey_sortie_147"] = "CAS",
+	["DictKey_UnitName_48"] = "Unit #22",
+	["DictKey_WptName_194"] = "",
+	["DictKey_descriptionBlueTask_145"] = "T-80U戦車小隊を破壊せよ。",
+	["DictKey_WptName_193"] = "",
+	["DictKey_UnitName_217"] = "New Static Object #012",
+	["DictKey_9"] = "",
+	["DictKey_7"] = "",
+	["DictKey_UnitName_211"] = "New Static Object #012",
+	["DictKey_WptName_221"] = "",
+	["DictKey_10"] = "Uzi 11、こちらpointer。目標はウェイポイント4のコブレチ飛行場から南東へ7kmにいるT-80 3両だ。\
+\
+周辺に中程度のAAAとSAMの脅威あり。\
+\
+イエロースモークのマーカーを待機せよ。Out.",
+	["DictKey_UnitName_142"] = "New Static Object #011",
+	["DictKey_descriptionRedTask_144"] = "",
+	["DictKey_WptName_183"] = "",
+	["DictKey_WptName_215"] = "",
+	["DictKey_WptName_171"] = "",
+	["DictKey_17"] = "",
+	["DictKey_WptName_206"] = "",
+	["DictKey_WptName_209"] = "",
+	["DictKey_13"] = "",
+	["DictKey_WptName_212"] = "",
+	["DictKey_12"] = "目標はイエロースモークでマーキングされている。\
+\
+攻撃を許可する。Out.",
+	["DictKey_descriptionNeutralsTask_146"] = "",
+	["DictKey_WptName_180"] = "",
+	["DictKey_UnitName_140"] = "New Static Object #010",
+	["DictKey_UnitName_132"] = "New Static Object #004",
+	["DictKey_WptName_170"] = "",
+	["DictKey_UnitName_136"] = "New Static Object #006",
+	["DictKey_WptName_181"] = "",
+	["DictKey_14"] = "",
+	["DictKey_16"] = "",
+	["DictKey_UnitName_220"] = "New Static Object #012",
+	["DictKey_WptName_203"] = "",
+	["DictKey_UnitName_202"] = "New Static Object #012",
+	["DictKey_UnitName_47"] = "Unit #23",
+	["DictKey_UnitName_138"] = "New Static Object #007",
+	["DictKey_15"] = "任務完了。エリア離脱を許可する。Out.",
+	["DictKey_UnitName_134"] = "New Static Object #005",
+	["DictKey_WptName_218"] = "",
+	["DictKey_11"] = "",
+	["DictKey_UnitName_205"] = "New Static Object #012",
+	["DictKey_UnitName_130"] = "New Static Object #003",
+	["DictKey_8"] = "",
+} -- end of dictionary

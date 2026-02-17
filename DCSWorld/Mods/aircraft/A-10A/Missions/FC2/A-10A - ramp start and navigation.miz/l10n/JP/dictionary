@@ -1,0 +1,109 @@
+dictionary = 
+{
+    ["DictKey_descriptionRedTask_42"] = "離陸後、ウェイポイントを航行し、目的地飛行場へ着陸しろ。",
+    ["DictKey_2"] = "Right Alt + Home を押して左エンジンを始動しろ。",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_GroupName_11"] = "New Vehicle Group",
+    ["DictKey_GroupName_29"] = "New Static Object #008",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_GroupName_17"] = "New Static Object #002",
+    ["DictKey_UnitName_26"] = "New Static Object #006",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_UnitName_32"] = "New Static Object #009",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_WptName_70"] = "",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_descriptionBlueTask_43"] = "離陸後、ウェイポイントを航行し、目的地飛行場へ着陸しろ。",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_UnitName_20"] = "New Static Object #003",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_3"] = "Right Ctrl + Home を押して右エンジンを始動しろ。",
+    ["DictKey_UnitName_28"] = "New Static Object #007",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_UnitName_36"] = "New Static Object #011",
+    ["DictKey_UnitName_34"] = "New Static Object #010",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_GroupName_37"] = "New Static Object #012",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_UnitName_14"] = "New Static Object",
+    ["DictKey_6"] = "Left Ctrl + ` を押して選択中のウェイポイントを切り替えよ。\
+\
+次のウェイポイント群へ飛行し、目的地飛行場へ着陸しろ。",
+    ["DictKey_4"] = "両エンジン始動後、回転数が安定したら右へタキシングし、滑走路へ進入しろ。\
+\
+Left Ctrl + C でキャノピーを閉じ、Fキーでフラップを下ろせ。",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_UnitName_38"] = "New Static Object #012",
+    ["DictKey_GroupName_9"] = "New Airplane Group",
+    ["DictKey_7"] = "目的地飛行場に到達した。ILSの進入指示に従って着陸し、駐機エリアへタキシングしろ。\
+\
+Fキーでフラップを下げ、Gキーで脚を下ろせ。\
+\
+必要に応じてWキーでホイールブレーキを使用しろ。",
+    ["DictKey_GroupName_39"] = "New Static Object #013",
+    ["DictKey_UnitName_16"] = "New Static Object #001",
+    ["DictKey_GroupName_35"] = "New Static Object #011",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_UnitName_24"] = "New Static Object #005",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_sortie_44"] = "飛行および航法",
+    ["DictKey_GroupName_27"] = "New Static Object #007",
+    ["DictKey_GroupName_13"] = "New Static Object",
+    ["DictKey_GroupName_33"] = "New Static Object #010",
+    ["DictKey_UnitName_30"] = "New Static Object #008",
+    ["DictKey_5"] = "滑走路へ進入し、離陸後はHUDおよびHSIに表示される最初のウェイポイントへ向かえ。\
+Gキーで脚を格納し、Fキーでフラップを上げろ。",
+    ["DictKey_UnitName_22"] = "New Static Object #004",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_UnitName_18"] = "New Static Object #002",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_8"] = "テンキーの / および * を押してコックピットのズーム倍率を調整せよ。ズームアウトすると速度感を掴みやすい。\
+\
+どこまで低空で飛べる？",
+    ["DictKey_GroupName_19"] = "New Static Object #003",
+    ["DictKey_UnitName_12"] = "Unit #1",
+    ["DictKey_GroupName_31"] = "New Static Object #009",
+    ["DictKey_UnitName_40"] = "New Static Object #013",
+    ["DictKey_GroupName_15"] = "New Static Object #001",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_UnitName_10"] = "Player",
+    ["DictKey_GroupName_23"] = "New Static Object #005",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_WptName_71"] = "",
+    ["DictKey_GroupName_21"] = "New Static Object #004",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_descriptionText_41"] = "1- 両エンジンを始動\
+2- 滑走路へタキシング\
+3- 離陸\
+4- ウェイポイントを航行\
+5- 目的地飛行場へ着陸\
+\
+詳細な手順については、訓練ビデオおよびフライトマニュアルを参照せよ。\
+\
+主なキーコマンド:\
+\
+左エンジン始動: Right Alt + Home\
+右エンジン始動: Right Ctrl + Home\
+キャノピー開閉: Left Ctrl + C\
+ホイールブレーキ: W\
+脚上げ/下げ: G\
+フラップ切替: F\
+航法モード: 1\
+ウェイポイント切替: Left Ctrl + `\
+ラダー右: x\
+ラダー左: z",
+    ["DictKey_GroupName_25"] = "New Static Object #006",
+} -- end of dictionary

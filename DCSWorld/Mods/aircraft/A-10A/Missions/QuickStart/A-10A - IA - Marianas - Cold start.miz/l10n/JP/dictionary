@@ -1,0 +1,11 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "コールドスタート",
+	["DictKey_descriptionText_1"] = "この任務はランプに駐機したコールド＆ダーク状態から開始する。予定ルートを飛行しても、区域を自由に探索してもよい。\
+脅威はない。",
+	["DictKey_descriptionBlueTask_3"] = "始動、タキシング、離陸を実施せよ。",
+	["DictKey_ActionText_6"] = "この任務はランプに駐機したコールド＆ダーク状態から開始する。予定ルートを飛行しても、区域を自由に探索してもよい。\
+脅威はない。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary
