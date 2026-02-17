@@ -1,0 +1,10 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "MiG-29S - 戦闘空中哨戒",
+    ["DictKey_descriptionText_1"] = "北東方向から敵の攻撃隊が接近中だ。僚機と連携し、沿岸目標を攻撃から防護しろ。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_8"] = "Mission complete!",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

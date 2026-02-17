@@ -1,0 +1,8 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "MiG-29 ロストック フリーフライト",
+	["DictKey_descriptionText_1"] = "本任務はフリーフライトだ。操縦操作に習熟するために使用してもよいし、周辺地域を自由に飛行してもよい。",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_descriptionRedTask_2"] = "フリーフライト",
+} -- end of dictionary

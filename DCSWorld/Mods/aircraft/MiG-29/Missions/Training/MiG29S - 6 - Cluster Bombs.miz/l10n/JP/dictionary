@@ -1,0 +1,182 @@
+dictionary = 
+{
+	["DictKey_UnitName_59"] = "Mozdok AFB Mi-26 #002",
+	["DictKey_UnitName_61"] = "Mozdok AFB L-39ZA #001",
+	["DictKey_descriptionRedTask_91"] = "レッドスモークの目標を無誘導爆弾で破壊しろ。\
+\
+爆弾投下レンジに確実に到達するため、ミッション開始時の初期針路を変更するな。\
+",
+	["DictKey_UnitName_67"] = "Mozdok AFB L-39ZA #004",
+	["DictKey_ActionText_144"] = "",
+	["DictKey_UnitName_49"] = "Mozdok AFB Su-25T #004",
+	["DictKey_WptName_113"] = "",
+	["DictKey_ActionText_148"] = "",
+	["DictKey_sortie_93"] = "クラスター爆弾",
+	["DictKey_descriptionText_90"] = "このレッスンでは、Continuously Computed Impact Point(CCIP)モードで無誘導爆弾を投下する方法を学ぶ。\
+\
+\
+主なキー操作:\
+\
+空対地モード: [7]\
+兵装投下: [Space]\
+",
+	["DictKey_WptName_112"] = "",
+	["DictKey_UnitName_57"] = "Mozdok AFB Mi-26 #001",
+	["DictKey_20"] = "よし、あとは任せる。\
+\
+装甲車両1両に4発のCBUを当てられれば上出来だ。\
+\
+当然、敵はAAMGやブッシュマスター25mm機関砲で反撃してくるが……初回パスは問題ないはずだ。\
+\
+本当だ……\
+\
+兵装投下を2回押せば、1パスで2組のCBUを投下できる。\
+\
+投下後は引き起こして離脱し、目標上空を飛び越えないようにしろ。",
+	["DictKey_ActionText_145"] = "",
+	["DictKey_WptName_104"] = "",
+	["DictKey_WptName_100"] = "",
+	["DictKey_UnitName_69"] = "Mozdok AFB L-39ZA #005",
+	["DictKey_WptName_114"] = "",
+	["DictKey_WptName_96"] = "",
+	["DictKey_21"] = "余裕があれば[F2]で外部視点にし、離脱しながらCBUの着弾を確認しろ。\
+\
+Shack！ (またはSplash！)\
+\
+業界用語だ。\
+\
+CBUを1組しか投下していない場合は、周回して2回目のパスに入れ。\
+\
+注意しろ……敵は警戒している。\
+\
+それ以外にも、[C]を押してグリーンスモークで示されたトラックを掃射する練習を続けてもよいし、Escキーを押して今すぐレッスンを終了してもよい。\
+",
+	["DictKey_WptName_97"] = "",
+	["DictKey_UnitName_51"] = "Mozdok AFB IL-76MD #001",
+	["DictKey_UnitName_53"] = "Mozdok AFB IL-76MD #002",
+	["DictKey_WptName_115"] = "",
+	["DictKey_WptName_101"] = "",
+	["DictKey_UnitName_45"] = "Mozdok AFB Su-25T #001",
+	["DictKey_ActionText_151"] = "",
+	["DictKey_17"] = "操縦を引き継げ。\
+\
+[Page Down]を押し、出力を1～2段落とせ。\
+\
+機首下げで20°超まで入れ。\
+500mで投下解が得られるはずだ。\
+\
+HUDシンボルを確認しろ。\
+\
+その後、急速に上昇して1,000m以上へ戻れ。\
+\
+[Space]を押せ。",
+	["DictKey_18"] = "既に述べたとおり、HUD中央の小さな円がCCIPだ。ここがCBUの着弾点になる。\
+\
+ただし、HUDにLAが表示されるまで投下はできない。忘れるな。\
+\
+RBK系列の最大の運用上の制約は、200m未満では投下できない点だ。\
+\
+そのため、水平爆撃は危険になる。\
+\
+高い高度から開始し、より急なダイブに入れば、より高い投下高度を得られる。自分に合った投下方法を見つけろ。\
+\
+[Space]を押して続行しろ。",
+	["DictKey_descriptionBlueTask_92"] = "",
+	["DictKey_ActionText_142"] = "",
+	["DictKey_WptName_103"] = "",
+	["DictKey_13"] = "CBU、すなわちクラスター爆弾によるCCIP爆撃へようこそ。\
+CCIP - Continuously Computed Impact Point。\
+\
+CCIPは、低高度での水平飛行、または浅いダイブでCBUを投下する際の標準的なモードだ。\
+\
+トリガーを引いた瞬間、爆弾またはCBUは、その時点のCCIP円、通称\"ピッパー\"の位置に着弾する。\
+\
+よし。HUDに注目し、表示の変化を確認しろ。\
+\
+[7]を押して空対地モードに入れ。\
+",
+	["DictKey_UnitName_63"] = "Mozdok AFB L-39ZA #002",
+	["DictKey_UnitName_65"] = "Mozdok AFB L-39ZA #003",
+	["DictKey_14"] = "HUDを詳しく見ていく。\
+\
+左下:\
+GNDは空対地攻撃モードを示す。\
+IPは現在CCIPモードであることを示す。\
+\
+重要。HUDにLAが表示される有効な投下プロファイルが成立している場合にのみ、CBUは投下される。\
+\
+LAはLaunch Authorized、発射許可と考えろ。HUD下部中央、現在のCCIP円付近に表示される。\
+\
+[Space]を押して続行しろ。\
+",
+	["DictKey_ActionText_146"] = "",
+	["DictKey_WptName_106"] = "",
+	["DictKey_19"] = "前方に大きな湖がある。\
+手前側の岸に、レッドスモークでマーキングされたM1 Abrams 5両とM2 Bradley 5両の混成中隊がいる。\
+\
+浅いダイブ、10～20°でこの目標を攻撃する。\
+\
+数回やり直す必要があるかもしれない。\
+\
+CCIPまたはピッパーが最初の目標の手前に来るまで飛行し、その位置を保ったまま緩やかなダイブに入れ。\
+\
+目標が見え、かつ投下解が得られるまで追尾する基準点を選べ。樹林線を推奨する。\
+\
+実戦では、JTACやFACがこれほど正確にマーキングしてくれることを祈るしかない！\
+\
+600m以下で、ボムフォールラインとLAが表示されるはずだ。\
+\
+ボムフォールラインで照準を修正し、SPLASH！\
+\
+[Space]を押せ。\
+",
+	["DictKey_UnitName_47"] = "Mozdok AFB Su-25T #002",
+	["DictKey_WptName_118"] = "",
+	["DictKey_ActionText_149"] = "",
+	["DictKey_WptName_109"] = "",
+	["DictKey_16"] = "まもなくミッションのポーズを解除する。\
+\
+現在高度は700mだ。\
+\
+[Page Down]でスロットルを1段戻し、有効な投下解が得られるまで緩やかなダイブに入れ。\
+\
+有効な投下解が算出されると、HUDにボムフォールラインとLAが表示される。\
+\
+LAがなければCBUは投下されない。\
+\
+[Space]を押せ。",
+	["DictKey_UnitName_55"] = "Mozdok AFB IL-76MD #003",
+	["DictKey_UnitName_43"] = "Mozdok AFB Su-25T #003",
+	["DictKey_WptName_117"] = "",
+	["DictKey_WptName_102"] = "",
+	["DictKey_WptName_116"] = "",
+	["DictKey_15"] = "[D]を押し、HUD下部の緑の4点が入れ替わることに気付け。\
+\
+これがCBUだ。2種類ある。\
+内側ステーションに重対MBT用のRBK-PTAB-500-255-10-5、外側に軽量のRBK-250 PTAB-2.5Mを搭載している。\
+\
+PTABはHEAT、対戦車成形炸薬弾だ。重量級の-10-5はM1 Abramsを撃破でき、-2.5Mは軽装甲およびソフトスキン車両(SSV)に有効だ。\
+\
+[F2]で外部視点にして兵装を手早く確認しろ。\
+\
+[F1]でコックピットに戻れ。\
+\
+なかなかいいだろう？\
+\
+[Space]を押せ。",
+	["DictKey_WptName_111"] = "",
+	["DictKey_ActionText_150"] = "",
+	["DictKey_12"] = "開始前に、兵装投下が[Space]以外に割り当てられていることを確認しろ。\
+\
+音声が聞こえない場合は、[Esc]を押し、OPTIONSからAUDIOタブを開け。ワールド音とコックピット音量を0に下げろ。\
+\
+進行を遅くしたい場合は、[Pause/Break]を押して全てを一時停止しろ。\
+\
+\
+アクティブポーズはONだ。\
+\
+[Space]を押して続行しろ。",
+	["DictKey_WptName_110"] = "",
+	["DictKey_WptName_105"] = "",
+	["DictKey_ActionText_147"] = "",
+} -- end of dictionary

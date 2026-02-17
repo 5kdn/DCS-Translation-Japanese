@@ -1,0 +1,112 @@
+dictionary = 
+{
+	["DictKey_WptName_80"] = "",
+	["DictKey_UnitName_72"] = "Pilot #003",
+	["DictKey_UnitName_67"] = "Pilot #002",
+	["DictKey_WptName_40"] = "DictKey_WptName_40",
+	["DictKey_ActionText_103"] = "幸運を祈る！",
+	["DictKey_WptName_65"] = "",
+	["DictKey_GroupName_58"] = "",
+	["DictKey_sortie_33"] = "近接航空戦闘モード",
+	["DictKey_WptName_42"] = "DictKey_WptName_42",
+	["DictKey_WptName_68"] = "",
+	["DictKey_UnitName_29"] = "DictKey_UnitName_29",
+	["DictKey_WptName_41"] = "DictKey_WptName_41",
+	["DictKey_9"] = "よし、次に[I]を押してレーダーを起動しろ。\
+",
+	["DictKey_UnitName_86"] = "",
+	["DictKey_11"] = "ボアサイトモードは、HUD上の円で示される。\
+\
+目標をこの円の中に入れ、距離10km以内で[ENTER]を押すと、目標をロックする。\
+\
+複数の目標が視界に入っている状況で、特定の1機をロックしたい場合に便利だ。\
+\
+[5]を押してヘルメット装着照準器、HMSを有効にしろ。\
+",
+	["DictKey_WptName_70"] = "",
+	["DictKey_ActionText_102"] = "",
+	["DictKey_GroupName_85"] = "",
+	["DictKey_descriptionBlueTask_32"] = "",
+	["DictKey_WptName_60"] = "",
+	["DictKey_10"] = "このモードでは、HUD上の2本の縦バーの間で、レーダーが垂直方向の走査を行う。\
+\
+目標がこの2本のバーの間に入り、距離10km以内で[ENTER]を押すと、垂直面内の目標にロックする。\
+\
+旋回戦闘中で、目標が機首のすぐ上にいる場合に有効なモードだ。\
+\
+次に[4]を押してボアサイトモードに入れ。\
+",
+	["DictKey_WptName_61"] = "",
+	["DictKey_WptName_69"] = "",
+	["DictKey_WptName_91"] = "",
+	["DictKey_WptName_84"] = "",
+	["DictKey_WptName_73"] = "",
+	["DictKey_UnitName_90"] = "",
+	["DictKey_WptName_43"] = "DictKey_WptName_43",
+	["DictKey_8"] = "MiG-29の近接戦闘、すなわち目視戦闘、ドッグファイト用HUDモードのレッスンへようこそ。\
+\
+このレッスンでは、目視できる目標に対して、R-73 AA-11 NATOコードネームArcherのような赤外線空対空ミサイル(いわゆる\"ヒートシーカー\")をロックし、発射する方法を確認する。\
+\
+複雑な空対空戦闘は、多くの場合、BVR正面戦から目視正面戦、そしてマージ後のドッグファイトへと移行する。\
+\
+使用できるモードは4種類あり、[3]、[4]、[5]、[6]キーで選択できる。\
+\
+まず[3]を押し、垂直走査モードに入れ。\
+",
+	["DictKey_UnitName_76"] = "",
+	["DictKey_GroupName_62"] = "New Airplane Group",
+	["DictKey_13"] = "最後のこのモードは、機体側のセンサーを使用せず、R-73およびR-27T系列ミサイルの赤外線シーカーのみを使用する。\
+\
+これらのミサイルを選択し、HUD中央の十字を目標に合わせ、ロック音が聞こえたら発射しろ。\
+\
+最後にもう1点。戦闘に入る前に、増槽を切り離す癖を付けろ。\
+\
+[LAlt + R]を押して増槽を投棄しろ。\
+\
+次に[3]を押して垂直走査モードに入れ。\
+\
+準備ができたら[Space]を押し、アクティブポーズを解除して、周囲の複数の目標機に対してこれらのモードを練習しろ。\
+\
+完了したらミッションを終了してよい。\
+\
+幸運を祈る！",
+	["DictKey_WptName_88"] = "",
+	["DictKey_UnitName_28"] = "DictKey_UnitName_28",
+	["DictKey_WptName_77"] = "",
+	["DictKey_WptName_64"] = "",
+	["DictKey_UnitName_83"] = "",
+	["DictKey_GroupName_71"] = "New Airplane Group #002",
+	["DictKey_descriptionText_30"] = "敵航空機が目視距離内に入ったら、BVRレーダー走査モードから近接航空戦闘(CAC)モードのいずれかに移行する段階だ。\
+\
+このレッスンでは、各種CACモードとヘルメット装着照準器について学ぶ。\
+\
+",
+	["DictKey_WptName_81"] = "",
+	["DictKey_UnitName_79"] = "Pilot #004",
+	["DictKey_UnitName_59"] = "",
+	["DictKey_UnitName_63"] = "Pilot #001",
+	["DictKey_GroupName_75"] = "",
+	["DictKey_GroupName_66"] = "New Airplane Group #001",
+	["DictKey_descriptionRedTask_31"] = "指示に従い、CACモードとHMSの基本的な使用方法を習得しろ。\
+",
+	["DictKey_UnitName_101"] = "",
+	["DictKey_WptName_44"] = "DictKey_WptName_44",
+	["DictKey_GroupName_82"] = "",
+	["DictKey_GroupName_78"] = "New Airplane Group #003",
+	["DictKey_WptName_87"] = "",
+	["DictKey_12"] = "ヘルメット装着照準器、HMSは、片目の前にモノクルを表示する。\
+\
+視点を動かすことで、モノクルに投影された照準を目標に重ね、[ENTER]を押してロックできる。\
+\
+R-73(AA-11 Archer)のようなドッグファイト用ミサイル使用時には、HUD外の大きく外れた位置にいる目標をロックして交戦できる強力な手段だ。\
+\
+目標がロックされ、発射条件を満たすと、HMSレティクルが点滅する。\
+\
+HMSレティクル上にXが表示されている場合、ミサイル発射に必要な制限範囲を大きく外れていることを示す。\
+\
+[6]を押して縦列ミサイル照準モードに入れ。\
+",
+	["DictKey_GroupName_89"] = "",
+	["DictKey_GroupName_27"] = "DictKey_GroupName_27",
+	["DictKey_WptName_74"] = "",
+} -- end of dictionary

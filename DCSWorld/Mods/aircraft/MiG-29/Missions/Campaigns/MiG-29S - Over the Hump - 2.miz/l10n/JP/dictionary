@@ -1,0 +1,166 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_UnitName_89"] = "Unit #5",
+    ["DictKey_UnitName_67"] = "New Static Object #011",
+    ["DictKey_GroupName_52"] = "New Static Object #003",
+    ["DictKey_UnitName_297"] = "Nalchik Static #013",
+    ["DictKey_WptName_310"] = "",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_GroupName_56"] = "New Static Object #005",
+    ["DictKey_GroupName_58"] = "New Static Object #006",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_UnitName_39"] = "Unit #31",
+    ["DictKey_sortie_133"] = "SEAD護衛",
+    ["DictKey_WptName_262"] = "",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_10"] = "",
+    ["DictKey_WptName_247"] = "",
+    ["DictKey_WptName_241"] = "",
+    ["DictKey_UnitName_312"] = "Nalchik Static #015",
+    ["DictKey_UnitName_87"] = "Unit #7",
+    ["DictKey_GroupName_44"] = "AIRPORT SUPPORT #001",
+    ["DictKey_WptName_298"] = "",
+    ["DictKey_UnitName_258"] = "Nalchik Static #005",
+    ["DictKey_WptName_240"] = "",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_UnitName_69"] = "New Static Object #012",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_UnitName_288"] = "Nalchik Static #010",
+    ["DictKey_UnitName_61"] = "New Static Object #007",
+    ["DictKey_6"] = "",
+    ["DictKey_UnitName_249"] = "Nalchik Static #002",
+    ["DictKey_UnitName_49"] = "New Static Object #001",
+    ["DictKey_WptName_289"] = "",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_UnitName_57"] = "New Static Object #005",
+    ["DictKey_WptName_268"] = "",
+    ["DictKey_7"] = "MISSION FAILED\
+-------------------\
+\
+護衛すべきSEADパッケージは損失した。\
+\
+これはBUK SAMサイトが依然として完全に稼働していることを意味する。\
+\
+以上。\
+",
+    ["DictKey_WptName_250"] = "",
+    ["DictKey_WptName_286"] = "",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_WptName_304"] = "",
+    ["DictKey_GroupName_38"] = "RU SA-15 1",
+    ["DictKey_UnitName_27"] = "Pilot #004",
+    ["DictKey_UnitName_270"] = "Nalchik Static #016",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_WptName_236"] = "",
+    ["DictKey_UnitName_81"] = "Unit #003",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_GroupName_66"] = "New Static Object #011",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_UnitName_84"] = "Unit #10",
+    ["DictKey_UnitName_59"] = "New Static Object #006",
+    ["DictKey_UnitName_282"] = "Nalchik Static #021",
+    ["DictKey_WptName_283"] = "",
+    ["DictKey_UnitName_309"] = "Nalchik Static #019",
+    ["DictKey_WptName_277"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_descriptionBlueTask_132"] = "",
+    ["DictKey_WptName_235"] = "",
+    ["DictKey_GroupName_68"] = "New Static Object #012",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_GroupName_70"] = "New Static Object #013",
+    ["DictKey_GroupName_46"] = "AIRPORT SUPPORT #002",
+    ["DictKey_UnitName_279"] = "Nalchik Static #020",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_GroupName_60"] = "New Static Object #007",
+    ["DictKey_GroupName_48"] = "New Static Object #001",
+    ["DictKey_UnitName_45"] = "Unit #34",
+    ["DictKey_GroupName_54"] = "New Static Object #004",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_GroupName_62"] = "New Static Object #008",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_UnitName_246"] = "Nalchik Static #001",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_UnitName_83"] = "Unit #11",
+    ["DictKey_WptName_238"] = "",
+    ["DictKey_UnitName_255"] = "Nalchik Static #004",
+    ["DictKey_UnitName_55"] = "New Static Object #004",
+    ["DictKey_UnitName_294"] = "Nalchik Static #012",
+    ["DictKey_UnitName_71"] = "New Static Object #013",
+    ["DictKey_WptName_256"] = "",
+    ["DictKey_UnitName_273"] = "Nalchik Static #017",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_GroupName_64"] = "New Static Object #010",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_UnitName_276"] = "Nalchik Static #018",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_UnitName_47"] = "Unit #35",
+    ["DictKey_9"] = "MISSION SUCCESS\
+-----------------------\
+\
+よくやった！！！！\
+\
+BUK SAMサイトを効果的に無力化した。これで空軍基地への攻撃は大幅に容易になる。\
+\
+以上。\
+",
+    ["DictKey_UnitName_86"] = "Unit #8",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_GroupName_80"] = "G SA-11 1",
+    ["DictKey_UnitName_85"] = "Unit #9",
+    ["DictKey_WptName_274"] = "",
+    ["DictKey_WptName_313"] = "",
+    ["DictKey_UnitName_267"] = "Nalchik Static #008",
+    ["DictKey_WptName_259"] = "",
+    ["DictKey_UnitName_88"] = "Unit #6",
+    ["DictKey_UnitName_303"] = "Nalchik Static #023",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_UnitName_300"] = "Nalchik Static #022",
+    ["DictKey_descriptionRedTask_131"] = "Su-25T SEAD第213編隊を護衛し、SA-11 SAMサイトの破壊を支援しろ。\
+\
+SEAD第213編隊は、ナルチク空軍基地からあなたの直後に離陸する。\
+",
+    ["DictKey_WptName_316"] = "",
+    ["DictKey_UnitName_41"] = "Unit #32",
+    ["DictKey_WptName_265"] = "",
+    ["DictKey_5"] = "[717, こちら213]:\
+\
+Fence in.\
+\
+以上。\
+",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_UnitName_285"] = "Nalchik Static #009",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_GroupName_40"] = "RU EWR 1",
+    ["DictKey_8"] = "",
+    ["DictKey_WptName_280"] = "",
+    ["DictKey_UnitName_264"] = "Nalchik Static #007",
+    ["DictKey_UnitName_306"] = "Nalchik Static #014",
+    ["DictKey_UnitName_291"] = "Nalchik Static #011",
+    ["DictKey_WptName_307"] = "",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_UnitName_65"] = "New Static Object #010",
+    ["DictKey_UnitName_63"] = "New Static Object #008",
+    ["DictKey_UnitName_261"] = "Nalchik Static #006",
+    ["DictKey_descriptionText_130"] = "最近の偵察により、ホニ市西方でSA-11 \"BUK\" SAMサイトを探知した。\
+\
+この配置では、セナキ・コルヒおよびクタイシ両空軍基地をカバー可能だ。\
+\
+敵領域上でより広範な作戦を実施する前に、この脅威を排除する必要がある。\
+",
+    ["DictKey_UnitName_28"] = "RU SEAD-2",
+    ["DictKey_GroupName_26"] = "RU SU-24M (SEAD)",
+    ["DictKey_UnitName_252"] = "Nalchik Static #003",
+    ["DictKey_UnitName_51"] = "New Static Object #002",
+    ["DictKey_WptName_271"] = "",
+    ["DictKey_UnitName_315"] = "Nalchik Static #004",
+    ["DictKey_UnitName_53"] = "New Static Object #003",
+    ["DictKey_GroupName_50"] = "New Static Object #002",
+    ["DictKey_UnitName_82"] = "Unit #12",
+} -- end of dictionary

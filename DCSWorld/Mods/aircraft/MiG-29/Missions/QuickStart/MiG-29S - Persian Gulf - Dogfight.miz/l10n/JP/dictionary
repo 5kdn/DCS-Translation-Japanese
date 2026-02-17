@@ -1,0 +1,18 @@
+dictionary = 
+{
+    ["DictKey_UnitName_22"] = "",
+    ["DictKey_GroupName_21"] = "",
+    ["DictKey_GroupName_14"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_UnitName_15"] = "",
+    ["DictKey_descriptionText_1"] = "正面に、こちらへ向かって接近中の敵F-16がいる。",
+    ["DictKey_sortie_5"] = "ドッグファイト",
+    ["DictKey_ActionText_26"] = "Mission Success!",
+    ["DictKey_descriptionRedTask_2"] = "敵戦闘機を撃墜しろ。",
+} -- end of dictionary

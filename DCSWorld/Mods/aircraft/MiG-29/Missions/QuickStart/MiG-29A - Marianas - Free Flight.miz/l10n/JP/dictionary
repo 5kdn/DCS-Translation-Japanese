@@ -1,0 +1,23 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_ActionText_29"] = "",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_sortie_5"] = "MiG-29A - フリーフライト",
+    ["DictKey_ActionText_16"] = "飛行場が砲撃を受けている。",
+    ["DictKey_ActionText_19"] = "飛行場が砲撃を受けている。",
+    ["DictKey_ActionText_14"] = "飛行場が砲撃を受けている。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_descriptionText_1"] = "グアム上空に昇る朝日を眺めるフリーフライトだ。",
+    ["DictKey_descriptionBlueTask_3"] = "熱帯の島が見せる朝の景観を確認しろ。",
+    ["DictKey_ActionText_27"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_26"] = "",
+    ["DictKey_ActionText_21"] = "飛行場が砲撃を受けている。",
+    ["DictKey_ActionText_8"] = "",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_12"] = "迫撃砲隊を破壊した。",
+} -- end of dictionary

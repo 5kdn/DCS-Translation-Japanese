@@ -1,0 +1,201 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "New Static Object #002",
+    ["DictKey_18"] = "",
+    ["DictKey_UnitName_297"] = "Nalchik Static #013",
+    ["DictKey_GroupName_67"] = "New Static Object #004",
+    ["DictKey_GroupName_65"] = "New Static Object #003",
+    ["DictKey_UnitName_62"] = "New Static Object #001",
+    ["DictKey_GroupName_77"] = "New Static Object #010",
+    ["DictKey_GroupName_79"] = "New Static Object #011",
+    ["DictKey_20"] = "",
+    ["DictKey_GroupName_73"] = "New Static Object #007",
+    ["DictKey_WptName_262"] = "",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_10"] = "[717, こちら801]:\
+\
+Fence in.\
+\
+以上。\
+",
+    ["DictKey_WptName_247"] = "",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_UnitName_312"] = "Nalchik Static #015",
+    ["DictKey_descriptionBlueTask_138"] = "",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_UnitName_76"] = "New Static Object #008",
+    ["DictKey_19"] = "MISSION FAILED\
+--------------------\
+\
+主打撃パッケージを喪失した。\
+\
+これにより、敵の指揮バンカーHQを破壊することは不可能となった。\
+\
+以上。\
+",
+    ["DictKey_UnitName_123"] = "G CC #003",
+    ["DictKey_UnitName_258"] = "Nalchik Static #005",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_UnitName_66"] = "New Static Object #003",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_UnitName_74"] = "New Static Object #007",
+    ["DictKey_12"] = "[717, こちら801]:\
+\
+目視確認した。\
+\
+これより進入する。\
+\
+以上。\
+",
+    ["DictKey_UnitName_315"] = "Nalchik Static #004",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_UnitName_249"] = "Nalchik Static #002",
+    ["DictKey_WptName_289"] = "",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_UnitName_99"] = "Unit #7",
+    ["DictKey_GroupName_33"] = "RU SU-24MR (Recon)",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_WptName_268"] = "",
+    ["DictKey_WptName_250"] = "",
+    ["DictKey_WptName_286"] = "",
+    ["DictKey_WptName_304"] = "",
+    ["DictKey_GroupName_53"] = "RU EWR 1",
+    ["DictKey_UnitName_270"] = "Nalchik Static #016",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_13"] = "",
+    ["DictKey_GroupName_81"] = "New Static Object #012",
+    ["DictKey_UnitName_95"] = "Unit #11",
+    ["DictKey_14"] = "[717, こちら801]:\
+\
+敵の指揮所HQを破壊した。\
+\
+直ちに離脱する！！！\
+\
+以上。\
+",
+    ["DictKey_GroupName_75"] = "New Static Object #008",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_GroupName_93"] = "G SA-11 1",
+    ["DictKey_GroupName_83"] = "New Static Object #013",
+    ["DictKey_UnitName_60"] = "Unit #35",
+    ["DictKey_UnitName_282"] = "Nalchik Static #021",
+    ["DictKey_WptName_283"] = "",
+    ["DictKey_WptName_265"] = "",
+    ["DictKey_WptName_277"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_descriptionRedTask_137"] = "Su-24M PGM第801打撃編隊を、fence outするまで護衛しろ。\
+\
+Su-24M SEAD第106編隊がSEAD支援を提供する。\
+\
+両編隊はミネラルヌィエ・ヴォーディ空軍基地を出発し、ナルチク上空であなたと合流する。\
+",
+    ["DictKey_UnitName_80"] = "New Static Object #011",
+    ["DictKey_GroupName_57"] = "AIRPORT SUPPORT #002",
+    ["DictKey_UnitName_94"] = "Unit #12",
+    ["DictKey_UnitName_279"] = "Nalchik Static #020",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_UnitName_267"] = "Nalchik Static #008",
+    ["DictKey_21"] = "Mission Success\
+----------------------\
+\
+よくやった！！！！\
+\
+敵の指揮バンカーHQは破壊され、打撃パッケージを無事に護衛した。\
+\
+RTBを許可する。\
+\
+以上。\
+",
+    ["DictKey_GroupName_71"] = "New Static Object #006",
+    ["DictKey_WptName_326"] = "",
+    ["DictKey_17"] = "",
+    ["DictKey_UnitName_58"] = "Unit #34",
+    ["DictKey_UnitName_246"] = "Nalchik Static #001",
+    ["DictKey_UnitName_97"] = "Unit #9",
+    ["DictKey_sortie_139"] = "打撃護衛 - HQ",
+    ["DictKey_UnitName_318"] = "Nalchik Static #004",
+    ["DictKey_UnitName_54"] = "Unit #32",
+    ["DictKey_UnitName_255"] = "Nalchik Static #004",
+    ["DictKey_UnitName_34"] = "RECON",
+    ["DictKey_UnitName_294"] = "Nalchik Static #012",
+    ["DictKey_UnitName_64"] = "New Static Object #002",
+    ["DictKey_WptName_256"] = "",
+    ["DictKey_UnitName_100"] = "Unit #6",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_UnitName_101"] = "Unit #5",
+    ["DictKey_GroupName_69"] = "New Static Object #005",
+    ["DictKey_UnitName_273"] = "Nalchik Static #017",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_UnitName_68"] = "New Static Object #004",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_11"] = "",
+    ["DictKey_15"] = "",
+    ["DictKey_UnitName_72"] = "New Static Object #006",
+    ["DictKey_UnitName_276"] = "Nalchik Static #018",
+    ["DictKey_UnitName_309"] = "Nalchik Static #019",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_UnitName_82"] = "New Static Object #012",
+    ["DictKey_descriptionText_136"] = "通信傍受および偵察飛行により、本地域における敵の主要な指揮統制センターの位置を特定した。\
+\
+指揮所は、セナキおよびクタイシ両空軍基地の間、アバシャ市外に位置している。\
+\
+Su-24M PGM打撃アセットが、この指揮統制センターの排除を任務として付与された。\
+\
+この打撃には、SEADおよび戦闘機護衛の両方が必要となる。\
+\
+Su-34 Strike-2打撃アセットには、副次目標としてクタイシ市内の全補給路橋梁を排除する任務が付与されている。\
+",
+    ["DictKey_9"] = "",
+    ["DictKey_UnitName_252"] = "Nalchik Static #003",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_GroupName_61"] = "New Static Object #001",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_WptName_274"] = "",
+    ["DictKey_WptName_313"] = "",
+    ["DictKey_WptName_310"] = "",
+    ["DictKey_WptName_259"] = "",
+    ["DictKey_UnitName_70"] = "New Static Object #005",
+    ["DictKey_UnitName_303"] = "Nalchik Static #023",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_WptName_316"] = "",
+    ["DictKey_UnitName_325"] = "Pilot #013",
+    ["DictKey_UnitName_98"] = "Unit #8",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_UnitName_285"] = "Nalchik Static #009",
+    ["DictKey_GroupName_324"] = "New Airplane Group",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_8"] = "",
+    ["DictKey_WptName_280"] = "",
+    ["DictKey_UnitName_264"] = "Nalchik Static #007",
+    ["DictKey_UnitName_306"] = "Nalchik Static #014",
+    ["DictKey_WptName_319"] = "",
+    ["DictKey_WptName_307"] = "",
+    ["DictKey_22"] = "",
+    ["DictKey_16"] = "[717, こちら801]:\
+\
+Fence out.\
+\
+護衛に感謝する。\
+\
+任務は完了だ。\
+\
+以上。\
+",
+    ["DictKey_UnitName_291"] = "Nalchik Static #011",
+    ["DictKey_UnitName_261"] = "Nalchik Static #006",
+    ["DictKey_WptName_298"] = "",
+    ["DictKey_GroupName_59"] = "AIRPORT SUPPORT #001",
+    ["DictKey_UnitName_96"] = "Unit #10",
+    ["DictKey_UnitName_300"] = "Nalchik Static #022",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_WptName_271"] = "",
+    ["DictKey_UnitName_288"] = "Nalchik Static #010",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_UnitName_78"] = "New Static Object #010",
+    ["DictKey_UnitName_84"] = "New Static Object #013",
+} -- end of dictionary
