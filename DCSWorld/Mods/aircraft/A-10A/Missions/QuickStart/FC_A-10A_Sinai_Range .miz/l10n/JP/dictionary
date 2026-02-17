@@ -1,0 +1,9 @@
+dictionary = 
+{
+    ["DictKey_subtitle_6"] = "こちらレンジ・コントロール。レンジへの攻撃を許可する。健闘を祈る。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "A-10A 実弾射撃場",
+    ["DictKey_descriptionText_1"] = "実弾射撃場で空対地訓練を実施せよ。",
+    ["DictKey_descriptionBlueTask_3"] = "フライトプランに従ってレンジへ。レンジ・コントロールがレンジ内での攻撃を許可する。",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

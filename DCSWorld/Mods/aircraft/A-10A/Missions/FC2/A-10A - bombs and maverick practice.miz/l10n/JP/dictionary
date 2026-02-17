@@ -1,0 +1,94 @@
+dictionary = 
+{
+    ["DictKey_2"] = "本ミッションでは、爆弾およびMaverick誘導ミサイルの使用訓練を行う。\
+\
+ウェイポイント3周辺に複数の目標が配置されている。",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_UnitName_19"] = "Player",
+    ["DictKey_WptName_65"] = "",
+    ["DictKey_GroupName_8"] = "trucks",
+    ["DictKey_UnitName_29"] = "New Static Object #004",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_UnitName_39"] = "New Static Object #009",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_UnitName_12"] = "Unit #2",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_WptName_59"] = "",
+    ["DictKey_UnitName_9"] = "Unit #5",
+    ["DictKey_3"] = "7キーを押して空対地モードを選択せよ。\
+\
+Dキーで爆弾とMaverickを切り替える。\
+",
+    ["DictKey_WptName_64"] = "",
+    ["DictKey_GroupName_13"] = "artillery",
+    ["DictKey_GroupName_28"] = "New Static Object #004",
+    ["DictKey_GroupName_32"] = "New Static Object #006",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_UnitName_14"] = "Unit #8",
+    ["DictKey_6"] = "全ての砲兵目標を撃破した。",
+    ["DictKey_GroupName_30"] = "New Static Object #005",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_UnitName_21"] = "New Static Object",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_sortie_47"] = "爆弾およびMaverick訓練",
+    ["DictKey_UnitName_31"] = "New Static Object #005",
+    ["DictKey_UnitName_35"] = "New Static Object #007",
+    ["DictKey_7"] = "Maverick使用時は、, . / ; キーで照準を目標上にスルーせよ。照準が目標に重なったら、Enterキーを押してロックオンする。",
+    ["DictKey_UnitName_16"] = "Unit #7",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_UnitName_43"] = "New Static Object #013",
+    ["DictKey_GroupName_38"] = "New Static Object #009",
+    ["DictKey_UnitName_27"] = "New Static Object #003",
+    ["DictKey_UnitName_33"] = "New Static Object #006",
+    ["DictKey_GroupName_42"] = "New Static Object #013",
+    ["DictKey_UnitName_41"] = "New Static Object #010",
+    ["DictKey_GroupName_18"] = "New Airplane Group",
+    ["DictKey_5"] = "全てのトラック目標を撃破した。",
+    ["DictKey_WptName_67"] = "",
+    ["DictKey_GroupName_34"] = "New Static Object #007",
+    ["DictKey_4"] = "Mk-82通常爆弾およびMk-20 Rockeyeクラスター爆弾を搭載している。\
+\
+AGM-65D赤外線誘導MaverickおよびAGM-65K TV誘導Maverickを搭載している。",
+    ["DictKey_UnitName_15"] = "Unit #1",
+    ["DictKey_descriptionText_44"] = "1- 離陸\
+2- 地上目標を捜索・撃破\
+3- 飛行場へ着陸\
+\
+詳細な手順については、訓練ビデオおよびフライトマニュアルを参照せよ。\
+\
+主なキーコマンド:\
+\
+航法モード: 1\
+空対地モード: 7\
+兵装切替: D\
+機関砲切替: C\
+Maverick上スルー: ;\
+Maverick下スルー: .\
+Maverick右スルー: /\
+Maverick左スルー: ,\
+Maverickズームイン: =\
+Maverickズームアウト: -\
+兵装投下: Right Alt + Space bar",
+    ["DictKey_GroupName_36"] = "New Static Object #008",
+    ["DictKey_GroupName_26"] = "New Static Object #003",
+    ["DictKey_UnitName_37"] = "New Static Object #008",
+    ["DictKey_UnitName_17"] = "Unit #6",
+    ["DictKey_GroupName_22"] = "New Static Object #001",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_WptName_66"] = "",
+    ["DictKey_UnitName_10"] = "Unit #4",
+    ["DictKey_GroupName_24"] = "New Static Object #002",
+    ["DictKey_GroupName_40"] = "New Static Object #010",
+    ["DictKey_GroupName_20"] = "New Static Object",
+    ["DictKey_UnitName_11"] = "Unit #3",
+    ["DictKey_descriptionBlueTask_46"] = "ウェイポイント3の目標を破壊せよ。",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_UnitName_25"] = "New Static Object #002",
+    ["DictKey_UnitName_23"] = "New Static Object #001",
+    ["DictKey_descriptionRedTask_45"] = "ウェイポイント3の目標を破壊せよ。",
+} -- end of dictionary

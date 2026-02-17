@@ -1,0 +1,56 @@
+dictionary = 
+{
+	["DictKey_UnitName_206"] = "",
+	["DictKey_UnitName_215"] = "New Static Object #012",
+	["DictKey_WptName_182"] = "",
+	["DictKey_WptName_210"] = "",
+	["DictKey_UnitName_147"] = "New Static Object #010",
+	["DictKey_UnitName_139"] = "New Static Object #004",
+	["DictKey_9"] = "Uzi 11、こちらPointer。敵砲兵中隊(3門)はウェイポイント5付近のコブレチ飛行場から東へ12kmに位置する。\
+\
+部隊を捜索し、攻撃せよ。Out.",
+	["DictKey_UnitName_141"] = "New Static Object #005",
+	["DictKey_WptName_207"] = "",
+	["DictKey_WptName_222"] = "",
+	["DictKey_10"] = "",
+	["DictKey_UnitName_227"] = "New Static Object #012",
+	["DictKey_WptName_216"] = "",
+	["DictKey_WptName_183"] = "",
+	["DictKey_UnitName_218"] = "New Static Object #012",
+	["DictKey_UnitName_209"] = "New Static Object #012",
+	["DictKey_7"] = "",
+	["DictKey_UnitName_149"] = "New Static Object #011",
+	["DictKey_WptName_179"] = "",
+	["DictKey_5"] = "",
+	["DictKey_13"] = "",
+	["DictKey_6"] = "",
+	["DictKey_UnitName_224"] = "New Static Object #012",
+	["DictKey_UnitName_221"] = "New Static Object #012",
+	["DictKey_WptName_180"] = "",
+	["DictKey_8"] = "",
+	["DictKey_descriptionText_150"] = "MISSION:\
+敵部隊はマハラゼ地区（現オズルゲティ）方面へ東進させられている。友軍地上部隊の前進に先立ち、これらの部隊を消耗させるために航空攻撃を実施する。\
+\
+OBJECTIVE:\
+ウェイポイント5付近のメレケドゥリ市で自走砲中隊(3門)を確認した。これが主目標である。\
+\
+THREATS:\
+中程度の防空は23mm AAAシステムとSA-9短距離IR SAMで構成される。",
+	["DictKey_12"] = "",
+	["DictKey_descriptionBlueTask_152"] = "自走砲中隊を破壊せよ。",
+	["DictKey_sortie_154"] = "阻止",
+	["DictKey_14"] = "",
+	["DictKey_WptName_181"] = "",
+	["DictKey_WptName_228"] = "",
+	["DictKey_15"] = "",
+	["DictKey_WptName_213"] = "",
+	["DictKey_descriptionNeutralsTask_153"] = "",
+	["DictKey_UnitName_143"] = "New Static Object #006",
+	["DictKey_descriptionRedTask_151"] = "",
+	["DictKey_UnitName_212"] = "New Static Object #012",
+	["DictKey_WptName_219"] = "",
+	["DictKey_WptName_184"] = "",
+	["DictKey_WptName_225"] = "",
+	["DictKey_11"] = "任務完了。エリア離脱を許可する。Out.",
+	["DictKey_UnitName_145"] = "New Static Object #007",
+} -- end of dictionary

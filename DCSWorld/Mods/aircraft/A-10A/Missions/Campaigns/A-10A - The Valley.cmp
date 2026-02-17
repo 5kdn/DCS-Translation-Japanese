@@ -1,0 +1,330 @@
+campaign =
+{
+    directory = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/",
+    fullPath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A - The Valley.cmp",
+    startStage = 1,
+
+    name = "A-10A - The Valley",
+    name_CN = "A-10A - 峡谷",
+    name_CS = "A-10A - Údolí",
+    name_DE = "A-10A - Das Tal ",
+    name_ES = "A-10A - El Valle",
+    name_KO = "A-10A - 협곡",
+    name_RU = "A-10A - Долина",
+    name_JP = "A-10A - 渓谷",
+
+    picture = "A-10A_The_Valley.png",
+    picture_CN = "A-10A_The_Valley_cn.png",
+    picture_DE = "A-10A_The_Valley_de.png",
+    picture_ES = "A-10A_The_Valley_es.png",
+    picture_RU = "A-10A_The_Valley_ru.png",
+    picture_JP = "A-10A_The_Valley_cn.png",
+
+    description = "Enemy forces have occupied the Ozurgeti valley in southwest Georgia after a quick and bloody occupation invasion. Friendly forces at company strength are now stationed south of Kobuleti and will push north and then east to push the enemy forces out of the valley to the east.\
+\
+Tactical air will be critical in providing both Forward Edge of Battle (FEBA) Close Air Support (CAS) and behind the FEBA interdiction strike missions.",
+    description_CN = "在一场迅速而血腥的占领入侵战斗后，敌军已攻占了格鲁吉亚西南部的奥祖尔盖季峡谷。友军部队驻扎在科布列季南部，实力雄厚，准备向北推进，然后把敌军往东赶出峡谷。\
+\
+战术空军将提供关键的战区前沿（FEBA）近距离空中支援任务，并在战区前沿（FEBA）后方执行遮断打击任务。",
+    description_CS = "Nepřátelské síly obsadily po rychlé a krvavé okupaci údolí Ozurgeti v jihozápadní Gruzii. Přátelské síly jsou rozmístěny na jihu Kobuleti a pokusí se vytlačit okupanty na sever a potom na východ a nakonec pryč z údolí.\
+\
+Taktická vzdušná podpora bude mít zásadní význam jak na předním okraji bitevní oblasti (FEBA), tak při přímé vzdušné podpoře (CAS) a při použití letadel při napadání taktických pozemních cílů (Air Interdiction - AI)",
+    description_DE = "Feindliche Kräfte halten das Ozurgeti-Tal im Südwesten Georgiens nach einem schnellen und blutigen Einmarsch besetzt.  Verbündete Kräfte in Kompaniestärke sind nun in Kobuletis stationiert und drängen nach Norden und anschließend nach Osten, um den Feind aus dem Tal zurück nach Osten zu drängen.\
+\
+Taktische Luftschläge sind notwendig, um gleichermaßen der vorderen Kampflinie Luftnahunterstützung zu gewährleisten und Abriegelungsmissionen hinter den feindlichen Linien durchzuführen.",
+    description_ES = "Las fuerzas enemigas han ocupado el valle de Ozurgeti en el suroeste de Georgia tras una rápida y sangrienta invasión y ocupación. Las fuerzas aliadas del tamaño de una compañía están ahora estacionadas al sur de Kobuleti y avanzarán hacia el norte y después hacia el este para obligar a las fuerzas enemigas a replegarse hacia el este fuera del valle.\
+\
+La aviación táctica será fundamental para proporcionar misiones de ataque de Apoyo Aéreo Cercano (CAS) al Frente de Batalla, Forward Edge of Battle (FEBA) e interdicción tras el FEBA.",
+    description_KO = "신속하고 피로 물든 침략후에 남서쪽 조지아에서 적군은 Ozurgeti 협곡을 점령했다. 아군의 힘을 믿고 아군은 Kobuleti 남쪽에서 주둔하고 동쪽으로 협곡에서 적군을 밀어내기 위해 북쪽 밀고 동쪽으로 밀어내려 한다.\
+\
+전술 공중 전력은 전투 지역 전단(FEBA), 근접 공중 지원(CAS) 그리고 FEBA 후방에서 차단 폭격 임무 제공함에 있어서 매우 중요할 것이다. ",
+    description_RU = "Силы противника заняли долину Озургети в юго-западной Грузии после быстрого и кровопролитного вторжения захватчиков. Дружественные силы, участвующие в кампании, сейчас заняли позиции к югу от Кобулети и будут продвигаться на север, а затем на восток, чтобы  вынудить силы противника уйти из долины на восток.\
+\
+Тактическая авиация будет крайне важна при обеспечении непосредственной авиационной поддержки и на переднем краю поля боя, и в миссиях по нанесению ударов в тыл противника для изоляции района боевых действий.",
+    description = "敵部隊は、迅速かつ流血を伴う占領侵攻の後、ジョージア南西部のオズルゲティ渓谷を占拠した。現在、友軍はコブレティ市南方に中隊規模で展開しており、北進した後に東へ転進し、敵部隊を渓谷から東方へ掃討・排除する予定である。\
+\
+戦術航空戦力は、前線戦闘境界(FEBA)における近接航空支援(CAS)およびFEBA後方に対する阻止攻撃任務の双方を実施する上で、決定的に重要となる。",
+
+    stages =
+    {
+        [7] =
+        {
+            name = "Stage 7",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 7A.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 7A.miz",
+                }, -- end of [1]
+                [2] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 7B.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 7B.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [7]
+        [1] =
+        {
+            name = "Stage 1",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 1A.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 1A.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [1]
+        [2] =
+        {
+            name = "Stage 2",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 2A.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 2A.miz",
+                }, -- end of [1]
+                [2] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 2B.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 2B.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [2]
+        [4] =
+        {
+            name = "Stage 4",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 4A.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 4A.miz",
+                }, -- end of [1]
+                [2] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 4B.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 4B.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [4]
+        [8] =
+        {
+            name = "Stage 8",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 8A.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 8A.miz",
+                }, -- end of [1]
+                [2] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 8B.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 8B.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [8]
+        [9] =
+        {
+            name = "Stage 9",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 9A.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 9A.miz",
+                }, -- end of [1]
+                [2] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 9B.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 9B.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [9]
+        [5] =
+        {
+            name = "Stage 5",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 5A.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 5A.miz",
+                }, -- end of [1]
+                [2] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 5B.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 5B.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [5]
+        [10] =
+        {
+            name = "Stage 10",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 10A.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 10A.miz",
+                }, -- end of [1]
+                [2] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 10B.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 10B.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [10]
+        [3] =
+        {
+            name = "Stage 3",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 3A.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 3A.miz",
+                }, -- end of [1]
+                [2] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 3B.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 3B.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [3]
+        [6] =
+        {
+            name = "Stage 6",
+            missions =
+            {
+                [1] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 6A.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 6A.miz",
+                }, -- end of [1]
+                [2] =
+                {
+                    interval =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "A-10A Camp 6B.miz",
+                    description = "",
+                    fullpath = "C:/Trunk/Mods/aircrafts/Flaming Cliffs 3/Missions/EN/Campaigns/A-10A Camp 6B.miz",
+                }, -- end of [2]
+            }, -- end of missions
+        }, -- end of [6]
+    }, -- end of stages
+} -- end of campaign
