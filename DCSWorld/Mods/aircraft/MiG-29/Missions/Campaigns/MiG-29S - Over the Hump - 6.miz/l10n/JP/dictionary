@@ -1,0 +1,139 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "New Static Object #011",
+    ["DictKey_WptName_152"] = "",
+    ["DictKey_UnitName_52"] = "New Static Object #004",
+    ["DictKey_UnitName_60"] = "New Static Object #008",
+    ["DictKey_WptName_227"] = "",
+    ["DictKey_WptName_263"] = "",
+    ["DictKey_GroupName_67"] = "New Static Object #013",
+    ["DictKey_GroupName_49"] = "New Static Object #003",
+    ["DictKey_descriptionRedTask_115"] = "Su-24MR 偵察第211編隊を、fence outするまで護衛しろ。\
+",
+    ["DictKey_UnitName_56"] = "New Static Object #006",
+    ["DictKey_UnitName_62"] = "New Static Object #010",
+    ["DictKey_UnitName_226"] = "Nalchik Static #003",
+    ["DictKey_WptName_272"] = "",
+    ["DictKey_GroupName_57"] = "New Static Object #007",
+    ["DictKey_GroupName_47"] = "New Static Object #002",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_WptName_251"] = "",
+    ["DictKey_WptName_269"] = "",
+    ["DictKey_10"] = "MISSION FAILED\
+-------------------\
+\
+211を喪失した。\
+\
+必要としていた重要な情報を入手する手段がなくなった。\
+\
+任務は中止だ。直ちにRTBしろ。\
+\
+以上。\
+",
+    ["DictKey_UnitName_259"] = "Nalchik Static #009",
+    ["DictKey_GroupName_51"] = "New Static Object #004",
+    ["DictKey_UnitName_42"] = "Unit #10",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_UnitName_277"] = "Nalchik Static #023",
+    ["DictKey_WptName_254"] = "",
+    ["DictKey_UnitName_274"] = "Nalchik Static #022",
+    ["DictKey_UnitName_235"] = "Nalchik Static #006",
+    ["DictKey_UnitName_66"] = "New Static Object #012",
+    ["DictKey_GroupName_45"] = "New Static Object #001",
+    ["DictKey_UnitName_44"] = "Unit #11",
+    ["DictKey_WptName_281"] = "",
+    ["DictKey_UnitName_64"] = "New Static Object #011",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_GroupName_37"] = "RU EWR 1",
+    ["DictKey_UnitName_229"] = "Nalchik Static #004",
+    ["DictKey_12"] = "Mission Success\
+----------------------\
+\
+よくやった！！！\
+\
+偵察機は無事帰投し、次の攻撃に向けた有用な写真と情報を持ち帰った。\
+\
+RTBを許可する。\
+\
+以上。\
+",
+    ["DictKey_UnitName_241"] = "Nalchik Static #008",
+    ["DictKey_WptName_278"] = "",
+    ["DictKey_UnitName_244"] = "Nalchik Static #016",
+    ["DictKey_UnitName_220"] = "Nalchik Static #001",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_6"] = "",
+    ["DictKey_UnitName_286"] = "Nalchik Static #015",
+    ["DictKey_WptName_284"] = "",
+    ["DictKey_UnitName_253"] = "Nalchik Static #020",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_descriptionText_114"] = "セナキおよびクタイシ空軍基地への打撃を実施する前に、脅威および主要な基地目標を特定するための偵察任務が付与された。\
+",
+    ["DictKey_UnitName_238"] = "Nalchik Static #007",
+    ["DictKey_UnitName_223"] = "Nalchik Static #002",
+    ["DictKey_descriptionBlueTask_116"] = "",
+    ["DictKey_UnitName_68"] = "New Static Object #013",
+    ["DictKey_WptName_230"] = "",
+    ["DictKey_UnitName_48"] = "New Static Object #002",
+    ["DictKey_UnitName_280"] = "Nalchik Static #014",
+    ["DictKey_WptName_266"] = "",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_UnitName_38"] = "Unit #32",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_9"] = "",
+    ["DictKey_WptName_221"] = "",
+    ["DictKey_UnitName_256"] = "Nalchik Static #021",
+    ["DictKey_UnitName_262"] = "Nalchik Static #010",
+    ["DictKey_7"] = "",
+    ["DictKey_GroupName_61"] = "New Static Object #010",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_sortie_117"] = "偵察護衛",
+    ["DictKey_WptName_275"] = "",
+    ["DictKey_UnitName_232"] = "Nalchik Static #005",
+    ["DictKey_GroupName_55"] = "New Static Object #006",
+    ["DictKey_WptName_248"] = "",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_GroupName_53"] = "New Static Object #005",
+    ["DictKey_UnitName_271"] = "Nalchik Static #013",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_UnitName_250"] = "Nalchik Static #018",
+    ["DictKey_WptName_236"] = "",
+    ["DictKey_UnitName_283"] = "Nalchik Static #019",
+    ["DictKey_13"] = "",
+    ["DictKey_5"] = "",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_UnitName_265"] = "Nalchik Static #011",
+    ["DictKey_UnitName_46"] = "New Static Object #001",
+    ["DictKey_8"] = "[717, こちら211]:\
+\
+Fence out.\
+\
+護衛に感謝する。\
+\
+任務は完了だ。\
+\
+以上。\
+",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_UnitName_247"] = "Nalchik Static #017",
+    ["DictKey_UnitName_58"] = "New Static Object #007",
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_UnitName_268"] = "Nalchik Static #012",
+    ["DictKey_UnitName_54"] = "New Static Object #005",
+    ["DictKey_WptName_257"] = "",
+    ["DictKey_GroupName_41"] = "AIRPORT SUPPORT #001",
+    ["DictKey_GroupName_65"] = "New Static Object #012",
+    ["DictKey_GroupName_59"] = "New Static Object #008",
+    ["DictKey_UnitName_50"] = "New Static Object #003",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_GroupName_43"] = "AIRPORT SUPPORT #002",
+    ["DictKey_11"] = "",
+    ["DictKey_WptName_260"] = "",
+    ["DictKey_WptName_287"] = "",
+    ["DictKey_WptName_154"] = "",
+} -- end of dictionary

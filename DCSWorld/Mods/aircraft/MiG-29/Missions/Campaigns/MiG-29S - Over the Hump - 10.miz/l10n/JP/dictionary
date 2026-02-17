@@ -1,0 +1,256 @@
+dictionary = 
+{
+    ["DictKey_GroupName_138"] = "New Static Object #011",
+    ["DictKey_GroupName_299"] = "Nalchik Static #004",
+    ["DictKey_37"] = "[717, こちら201]:\
+\
+貨物の展開を開始した。\
+\
+クタイシ飛行場ではATC、修理、給油が利用可能だ。\
+\
+防空も完全に稼働している。\
+\
+以上。\
+",
+    ["DictKey_sortie_176"] = "空挺強襲 - 護衛",
+    ["DictKey_WptName_358"] = "",
+    ["DictKey_53"] = "Mission Success\
+----------------------\
+\
+なんという奮闘だ！！！\
+\
+貴隊の果敢な行動により、CAS編隊は両目標飛行場を無力化することができた。\
+\
+輸送機は困難な航程だったが、無事に着陸し必要な補給物資を降ろすことに成功した。\
+\
+セナキおよびクタイシ飛行場は我々のものだ！！！\
+\
+基地へ帰投するか、セナキまたはクタイシ飛行場へダイバートしてよい。 \
+\
+以上。\
+",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_UnitName_297"] = "Nalchik Static #003",
+    ["DictKey_UnitName_309"] = "Nalchik Static #007",
+    ["DictKey_WptName_310"] = "",
+    ["DictKey_WptName_279"] = "",
+    ["DictKey_UnitName_135"] = "New Static Object #005",
+    ["DictKey_GroupName_136"] = "New Static Object #010",
+    ["DictKey_GroupName_132"] = "New Static Object #004",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_UnitName_324"] = "Nalchik Static #020",
+    ["DictKey_WptName_292"] = "",
+    ["DictKey_52"] = "",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_43"] = "[717, こちら203]:\
+\
+セナキ飛行場への着陸に成功した。まもなく降ろし作業に入る。\
+\
+以上。\
+",
+    ["DictKey_36"] = "",
+    ["DictKey_WptName_319"] = "",
+    ["DictKey_20"] = "",
+    ["DictKey_WptName_337"] = "",
+    ["DictKey_22"] = "[717, こちら103]:\
+\
+目視確認した。\
+\
+これより進入する。\
+\
+以上。\
+",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_21"] = "",
+    ["DictKey_50"] = "",
+    ["DictKey_UnitName_127"] = "New Static Object #001",
+    ["DictKey_GroupName_88"] = "RU SA-15 1",
+    ["DictKey_descriptionRedTask_174"] = "両パッケージに対して戦闘機による航空援護を提供し、作戦を脅かすあらゆる航空脅威を排除しろ。\
+",
+    ["DictKey_47"] = "[717, こちら204]:\
+\
+セナキ飛行場への着陸に成功した。まもなく降ろし作業に入る。\
+\
+以上。\
+",
+    ["DictKey_GroupName_90"] = "RU EWR-1",
+    ["DictKey_UnitName_342"] = "Nalchik Static #013",
+    ["DictKey_25"] = "",
+    ["DictKey_51"] = "MISSION FAILED\
+-------------------\
+\
+護衛すべき全輸送機を喪失した。\
+\
+基地へ帰投しろ。 \
+\
+以上。\
+",
+    ["DictKey_UnitName_312"] = "Nalchik Static #008",
+    ["DictKey_29"] = "",
+    ["DictKey_UnitName_345"] = "Nalchik Static #022",
+    ["DictKey_UnitName_330"] = "Nalchik Static #009",
+    ["DictKey_46"] = "",
+    ["DictKey_35"] = "[717, こちら201]:\
+\
+クタイシ飛行場への着陸に成功した。まもなく降ろし作業に入る。\
+\
+以上。\
+",
+    ["DictKey_32"] = "[717, こちら101]:\
+\
+打撃を実施した。クタイシ飛行場の敵勢力は排除された。\
+\
+IL-76輸送機は着陸可能だ。\
+\
+以上。\
+",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_UnitName_365"] = "Unit #022",
+    ["DictKey_45"] = "[717, こちら203]:\
+\
+貨物の展開を開始した。\
+\
+セナキ飛行場ではATC、修理、給油が利用可能だ。\
+\
+防空も完全に稼働している。\
+\
+以上。\
+",
+    ["DictKey_UnitName_318"] = "Nalchik Static #017",
+    ["DictKey_WptName_325"] = "",
+    ["DictKey_GroupName_94"] = "AIRPORT SUPPORT #001",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_UnitName_131"] = "New Static Object #003",
+    ["DictKey_UnitName_336"] = "Nalchik Static #011",
+    ["DictKey_WptName_334"] = "",
+    ["DictKey_UnitName_348"] = "Nalchik Static #023",
+    ["DictKey_30"] = "[717, こちら101]:\
+\
+Fence in.\
+\
+以上。\
+",
+    ["DictKey_UnitName_97"] = "Unit #8",
+    ["DictKey_GroupName_130"] = "New Static Object #003",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_48"] = "",
+    ["DictKey_34"] = "[717, こちら201]:\
+\
+全輸送機が移動中だ。到着予定は20分後。\
+\
+飛行場および上空の安全確保を期待している。\
+\
+以上。\
+",
+    ["DictKey_UnitName_333"] = "Nalchik Static #010",
+    ["DictKey_WptName_278"] = "",
+    ["DictKey_UnitName_315"] = "Nalchik Static #016",
+    ["DictKey_UnitName_327"] = "Nalchik Static #021",
+    ["DictKey_GroupName_142"] = "New Static Object #013",
+    ["DictKey_39"] = "[717, こちら202]:\
+\
+クタイシ飛行場への着陸に成功した。まもなく降ろし作業に入る。\
+\
+以上。\
+",
+    ["DictKey_41"] = "[717, こちら202]:\
+\
+貨物の展開を開始した。\
+\
+装甲支援戦力をクタイシ飛行場に展開した。\
+\
+以上。\
+",
+    ["DictKey_UnitName_354"] = "Nalchik Static #019",
+    ["DictKey_19"] = "",
+    ["DictKey_WptName_331"] = "",
+    ["DictKey_44"] = "",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_134"] = "New Static Object #005",
+    ["DictKey_WptName_355"] = "",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_WptName_214"] = "",
+    ["DictKey_33"] = "",
+    ["DictKey_UnitName_339"] = "Nalchik Static #012",
+    ["DictKey_WptName_328"] = "",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_UnitName_143"] = "New Static Object #013",
+    ["DictKey_descriptionText_173"] = "セナキおよびクタイシ空軍基地を確保する作戦は、最終段階に入った。\
+\
+2個のパッケージが南下し、両飛行場にIL-76MD輸送機を着陸させる。\
+\
+両パッケージにはSEADおよび戦闘機護衛が付与される。\
+",
+    ["DictKey_descriptionBlueTask_175"] = "",
+    ["DictKey_UnitName_139"] = "New Static Object #011",
+    ["DictKey_26"] = "[717, こちら103]:\
+\
+打撃を実施した。セナキ飛行場の敵勢力は排除された。\
+\
+IL-76輸送機は着陸可能だ。\
+\
+以上。\
+",
+    ["DictKey_WptName_349"] = "",
+    ["DictKey_GroupName_140"] = "New Static Object #012",
+    ["DictKey_WptName_352"] = "",
+    ["DictKey_UnitName_141"] = "New Static Object #012",
+    ["DictKey_UnitName_137"] = "New Static Object #010",
+    ["DictKey_WptName_322"] = "",
+    ["DictKey_WptName_313"] = "",
+    ["DictKey_40"] = "",
+    ["DictKey_WptName_304"] = "",
+    ["DictKey_42"] = "",
+    ["DictKey_UnitName_91"] = "Unit #32",
+    ["DictKey_UnitName_321"] = "Nalchik Static #018",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_WptName_343"] = "",
+    ["DictKey_WptName_316"] = "",
+    ["DictKey_WptName_295"] = "",
+    ["DictKey_54"] = "",
+    ["DictKey_23"] = "",
+    ["DictKey_WptName_301"] = "",
+    ["DictKey_UnitName_133"] = "New Static Object #004",
+    ["DictKey_UnitName_291"] = "Nalchik Static #001",
+    ["DictKey_UnitName_294"] = "Nalchik Static #002",
+    ["DictKey_UnitName_303"] = "Nalchik Static #005",
+    ["DictKey_GroupName_96"] = "AIRPORT SUPPORT #002",
+    ["DictKey_UnitName_89"] = "Unit #31",
+    ["DictKey_UnitName_306"] = "Nalchik Static #006",
+    ["DictKey_WptName_340"] = "",
+    ["DictKey_UnitName_95"] = "Unit #7",
+    ["DictKey_UnitName_357"] = "Nalchik Static #015",
+    ["DictKey_UnitName_129"] = "New Static Object #002",
+    ["DictKey_49"] = "[717, こちら204]:\
+\
+貨物の展開を開始した。\
+\
+装甲支援戦力をセナキ飛行場に展開した。\
+\
+以上。\
+",
+    ["DictKey_GroupName_128"] = "New Static Object #002",
+    ["DictKey_WptName_346"] = "",
+    ["DictKey_WptName_298"] = "",
+    ["DictKey_24"] = "[717, こちら103]:\
+\
+Fence in.\
+\
+以上。\
+",
+    ["DictKey_UnitName_300"] = "Nalchik Static #004",
+    ["DictKey_28"] = "[717, こちら101]:\
+\
+目視確認した。\
+\
+これより進入する。\
+\
+以上。\
+",
+    ["DictKey_UnitName_351"] = "Nalchik Static #014",
+    ["DictKey_31"] = "",
+    ["DictKey_38"] = "",
+    ["DictKey_27"] = "",
+    ["DictKey_WptName_307"] = "",
+} -- end of dictionary

@@ -1,0 +1,158 @@
+dictionary = 
+{
+	["DictKey_UnitName_43"] = "Mozdok AFB Su-25T #003",
+	["DictKey_18"] = "HUD中央の小さな円がCCIPだ。ここが爆弾の着弾点になる。\
+\
+直進水平を維持したまま、兵装投下を押し続け、2～3秒後に離せ。\
+\
+円がダイヤに変わり、HUD左側のIP表示がAMに変化することに気付くだろう。\
+\
+これでCCRPモードに入った。\
+\
+実際の目標を攻撃する際は、トリガーを押し続け、爆弾が自動投下されるまで目標上空を滑らかに飛行しろ。\
+\
+[Space]を押して続行しろ。",
+	["DictKey_descriptionRedTask_91"] = "レッドスモークの目標を無誘導爆弾で破壊しろ。\
+\
+爆弾投下レンジに確実に到達するため、ミッション開始時の初期針路を変更するな。\
+",
+	["DictKey_UnitName_67"] = "Mozdok AFB L-39ZA #004",
+	["DictKey_ActionText_143"] = "Bombs away!",
+	["DictKey_ActionText_144"] = "Bombs away!",
+	["DictKey_UnitName_49"] = "Mozdok AFB Su-25T #004",
+	["DictKey_WptName_113"] = "",
+	["DictKey_WptName_104"] = "",
+	["DictKey_WptName_96"] = "",
+	["DictKey_WptName_110"] = "",
+	["DictKey_sortie_93"] = "CCRPモード、無誘導爆撃",
+	["DictKey_WptName_97"] = "",
+	["DictKey_descriptionText_90"] = "このレッスンでは、Continuously Computed Release Point(CCRP)モードで無誘導爆弾を投下する方法を学ぶ。\
+\
+主なキー操作:\
+\
+空対地モード: [7]\
+兵装投下: [Space]\
+",
+	["DictKey_ActionText_136"] = "",
+	["DictKey_UnitName_57"] = "Mozdok AFB Mi-26 #001",
+	["DictKey_GroupName_131"] = "",
+	["DictKey_ActionText_145"] = "Bombs away!",
+	["DictKey_UnitName_51"] = "Mozdok AFB IL-76MD #001",
+	["DictKey_20"] = "精度の要点は、トリガーを引いてCCRPに入った瞬間から、爆弾投下まで針路を変えないことだ。\
+\
+したがって、正確な進入ラインが不可欠だ。\
+\
+CCIPを目標上に重ね、兵装投下を押せ。\
+\
+HUD内の垂直(機体)\"テール\"上端が、円の中央に来るよう維持しろ。\
+\
+投下の約3秒前にトーンが鳴る。\
+\
+余裕があれば……機体が水平飛行、またはわずかな上昇にあることを確認し、[F6]で爆弾を確認しろ。\
+\
+",
+	["DictKey_ActionText_135"] = "",
+	["DictKey_ActionText_137"] = "",
+	["DictKey_WptName_112"] = "",
+	["DictKey_21"] = "Shack！ (またはSplash！)\
+業界用語だ。\
+\
+[F1]を押してコックピットに戻れ。\
+\
+練習用に、グリーンスモークで示した追加のトラックを配置してある。\
+\
+練習を続けてもよいし、Escキーを押して今すぐレッスンを終了してもよい。\
+",
+	["DictKey_15"] = "次に[D]を押し、HUD下部の緑の4点が入れ替わることに気付け。\
+\
+これが爆弾だ。\
+\
+外側ステーションにFAB-250を2発、内側にFAB-500を2発搭載している。\
+\
+FABは自由落下式、すなわちスリック爆弾だ。\
+\
+250は250kg、500は500kgを意味する。\
+\
+[Space]を押せ。",
+	["DictKey_UnitName_69"] = "Mozdok AFB L-39ZA #005",
+	["DictKey_UnitName_53"] = "Mozdok AFB IL-76MD #002",
+	["DictKey_WptName_133"] = "",
+	["DictKey_WptName_115"] = "",
+	["DictKey_UnitName_45"] = "Mozdok AFB Su-25T #001",
+	["DictKey_ActionText_141"] = "",
+	["DictKey_UnitName_59"] = "Mozdok AFB Mi-26 #002",
+	["DictKey_UnitName_63"] = "Mozdok AFB L-39ZA #002",
+	["DictKey_17"] = "操縦を引き継げ。\
+",
+	["DictKey_ActionText_140"] = "",
+	["DictKey_WptName_103"] = "",
+	["DictKey_13"] = "[7]を押して空対地モードに入れ。\
+\
+HUDの変化を確認しろ。",
+	["DictKey_16"] = "これからミッションのポーズを解除する。\
+\
+解除後、スロットルを中間まで戻せ。\
+\
+[Space]を押せ。",
+	["DictKey_14"] = "HUDを詳しく見ていく。\
+\
+左下:\
+GNDは空対地攻撃モードを示す。\
+IPは現在CCIPモードであることを示す。これは後で変化する。\
+右下のBは爆弾が選択されていることを示す。\
+\
+[Space]を押して続行しろ。\
+\
+",
+	["DictKey_UnitName_132"] = "",
+	["DictKey_UnitName_47"] = "Mozdok AFB Su-25T #002",
+	["DictKey_ActionText_142"] = "",
+	["DictKey_19"] = "前方に大きな湖がある。\
+手前側の岸に、レッドスモークで示されたトラック小隊がいる。\
+\
+機体を操縦し、CCIPレティクルをレッドスモークの根元まで\"歩かせろ\"。\
+\
+次の[Space]入力後、CCIP(またはピッパー)が目標上に来たら、兵装投下を押し続けろ。CCIPの円はCCRPのダイヤに変わり、地上の照準点を追尾する。\
+\
+では、[Space]を押せ。\
+\
+",
+	["DictKey_WptName_106"] = "",
+	["DictKey_WptName_118"] = "",
+	["DictKey_UnitName_61"] = "Mozdok AFB L-39ZA #001",
+	["DictKey_WptName_109"] = "",
+	["DictKey_UnitName_65"] = "Mozdok AFB L-39ZA #003",
+	["DictKey_UnitName_55"] = "Mozdok AFB IL-76MD #003",
+	["DictKey_descriptionBlueTask_92"] = "",
+	["DictKey_WptName_117"] = "",
+	["DictKey_WptName_102"] = "",
+	["DictKey_WptName_116"] = "",
+	["DictKey_ActionText_139"] = "",
+	["DictKey_WptName_111"] = "",
+	["DictKey_WptName_101"] = "",
+	["DictKey_12"] = "開始前に、兵装投下が[Space]以外に割り当てられていることを確認しろ。\
+\
+音声が聞こえない場合は、[Esc]を押し、OPTIONSからAUDIOタブを開け。ワールド音とコックピット音量を0に下げろ。\
+\
+進行を遅くしたい場合は、[Pause/Break]を押して全てを一時停止しろ。\
+\
+爆弾には3種類ある。スマート(誘導)、スリック、レタードだ。\
+\
+スリック爆弾は、低高度(ただし極低高度は除く)および中高度の爆撃、ならびにダイブ攻撃に用いる。\
+\
+CCRP爆撃へようこそ。\
+CCRP - Continuously Computed Release Point。\
+\
+CCRPでは、目標が視界から外れ、機体下方に隠れても爆弾を投下できる。\
+\
+この方法は、中高度からの水平爆撃や、トス/ロフト爆撃に適している。\
+\
+500ft(150m)未満で投下すると、爆風により投下機自身が破壊される。\
+\
+アクティブポーズはONだ。\
+\
+[Space]を押して続行しろ。",
+	["DictKey_WptName_114"] = "",
+	["DictKey_WptName_105"] = "",
+	["DictKey_WptName_100"] = "",
+} -- end of dictionary

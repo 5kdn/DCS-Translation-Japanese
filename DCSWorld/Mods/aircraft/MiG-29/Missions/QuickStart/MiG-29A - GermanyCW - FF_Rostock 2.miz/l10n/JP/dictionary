@@ -1,0 +1,23 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_7"] = "",
+	["DictKey_descriptionText_1"] = "— 夕暮れの造船所だと？命が惜しくないのか？\
+— 俺じゃない。MiGなら造船所くらい問題なく通過できる\
+\
+針路148°。薄暮、狭いスパン、周囲は金属だらけ―空の主が誰かを示すには理想的な条件だ。\
+アンテナに引っかけたら、そういうことだったと言っておく。無事に抜けたら、連隊中の伝説になる。\
+\
+リスクを取らないなら、ロストック上空を飛べ。静かで、美しい……",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_18"] = "",
+	["DictKey_ActionText_13"] = "おめでとう！これよりフリーフライトを許可する。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "MiG-29A 造船所低空飛行",
+	["DictKey_ActionText_9"] = "",
+	["DictKey_ActionText_11"] = "",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_12"] = "",
+} -- end of dictionary

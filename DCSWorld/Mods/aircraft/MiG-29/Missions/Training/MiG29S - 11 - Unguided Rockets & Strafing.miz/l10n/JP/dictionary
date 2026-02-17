@@ -1,0 +1,244 @@
+dictionary = 
+{
+	["DictKey_UnitName_59"] = "Mozdok AFB Mi-26 #002",
+	["DictKey_ActionText_325"] = "",
+	["DictKey_UnitName_67"] = "Mozdok AFB L-39ZA #004",
+	["DictKey_ActionText_308"] = "",
+	["DictKey_WptName_113"] = "",
+	["DictKey_UnitName_135"] = "Unit #002",
+	["DictKey_WptName_182"] = "",
+	["DictKey_sortie_93"] = "無誘導ロケット＆掃射",
+	["DictKey_WptName_97"] = "",
+	["DictKey_ActionText_327"] = "",
+	["DictKey_GroupName_301"] = "",
+	["DictKey_ActionText_332"] = "Pipperを目標に重ねて撃て。",
+	["DictKey_WptName_110"] = "",
+	["DictKey_WptName_114"] = "",
+	["DictKey_WptName_112"] = "",
+	["DictKey_21"] = "Shack！ (またはSplash！)。\
+\
+業界用語だ。\
+\
+損耗したUS陸軍歩兵中隊のすぐ北に、AA7装甲水陸両用車に乗り込み、ハッチを閉めたUS Marinesの小隊を2個出現させた。\
+\
+目標はグリーンスモークで示してある。\
+\
+当てなければ効かない。度胸を据えて近付け。\
+\
+ロケットを撃ち尽くしたら[C]を押して30mm機関砲を選択しろ。\
+\
+掃射、すなわち空対地機関砲射撃はロケットと同じだ。原則は全て同じだ。\
+\
+哀れな歩兵を片付けろ。\
+\
+そして帰投し、英雄として迎えられろ。\
+",
+	["DictKey_ActionText_334"] = "",
+	["DictKey_WptName_123"] = "DictKey_WptName_123",
+	["DictKey_UnitName_45"] = "Mozdok AFB Su-25T #001",
+	["DictKey_WptName_115"] = "",
+	["DictKey_17"] = "操縦を引き継げ。\
+\
+[Page Down]を押し、出力を1～2段落とせ。\
+\
+機首下げで10°超まで入れ。\
+\
+高度500mで投下解が得られるはずだ。\
+\
+HUDシンボルを確認しろ。\
+\
+中空の矢印、太いバー、LAだ。\
+\
+その後、急速に上昇して1,000m以上へ戻れ。\
+\
+[C]を押せば機関砲でも同じ手順を繰り返せる。\
+\
+ほぼ同じだ。\
+\
+[C]の選択を解除し、[D]を押してHUD右上がFP2(frag/HE)になっていることを確認しろ。\
+\
+[Space]を押せ。",
+	["DictKey_UnitName_87"] = "DictKey_UnitName_87",
+	["DictKey_ActionText_309"] = "",
+	["DictKey_WptName_106"] = "",
+	["DictKey_19"] = "ロケットを正確に当てる鍵は、トリムと度胸だ。\
+\
+照準中に機体と喧嘩するな。ダイブに入ったら機首下げトリムを取れ。[RCtrl + .]を使え。\
+\
+LAが出た瞬間に撃つな。追尾が完璧になるまで待て。\
+そこから撃ち尽くせ。\
+\
+よし。高度1,000～2,000m、Max Dryでセットアップしろ。\
+(ダイブで超音速になる必要はない。)\
+\
+HUDの点が2つだけ残るまでロケットを撃て。\
+\
+FP2ポッドを撃ち尽くすと、システムはS8KOMに切り替わる。\
+\
+[Space]を押せ。\
+",
+	["DictKey_ActionText_318"] = "",
+	["DictKey_ActionText_330"] = "",
+	["DictKey_WptName_109"] = "",
+	["DictKey_UnitName_55"] = "Mozdok AFB IL-76MD #003",
+	["DictKey_UnitName_190"] = "",
+	["DictKey_WptName_101"] = "",
+	["DictKey_15"] = "S8KOMは軽装甲車両に有効だ。\
+\
+FP2はSSV、つまりトラックやジープのようなソフトスキン車両、および露天の部隊に極めて有効だ。\
+\
+次に[C]を押して30mm機関砲を選択しろ。HUD左下にGUNが表示される。それ以外は同じだ。\
+\
+[C]を押して機関砲選択を解除し、ロケットに戻れ。\
+\
+[F2]で外部視点にして兵装を手早く確認しろ。\
+\
+ポッドは見た目が同じだ。\
+\
+[F1]でコックピットに戻れ。\
+\
+[Space]を押せ。",
+	["DictKey_UnitName_134"] = "Unit #001",
+	["DictKey_12"] = "開始前に、兵装投下が[Space]以外に割り当てられていることを確認しろ。\
+\
+音声が聞こえない場合は、[Esc]を押し、OPTIONSを選択してAUDIOタブを開け。ワールド音とコックピット音量を0に下げろ。\
+\
+進行を遅くしたい場合は、[Pause/Break]を押して全てを一時停止しろ。\
+\
+アクティブポーズはONだ。\
+\
+[Space]を押して続行しろ。",
+	["DictKey_WptName_105"] = "",
+	["DictKey_UnitName_88"] = "DictKey_UnitName_88",
+	["DictKey_UnitName_43"] = "Mozdok AFB Su-25T #003",
+	["DictKey_UnitName_61"] = "Mozdok AFB L-39ZA #001",
+	["DictKey_descriptionRedTask_91"] = "レッドスモークの目標を無誘導兵器と機関砲で破壊しろ。\
+\
+目標地域に確実に到達するため、ミッション開始時に設定された初期針路を変更するな。\
+",
+	["DictKey_ActionText_311"] = "",
+	["DictKey_ActionText_323"] = "",
+	["DictKey_ActionText_324"] = "",
+	["DictKey_UnitName_69"] = "Mozdok AFB L-39ZA #005",
+	["DictKey_UnitName_49"] = "Mozdok AFB Su-25T #004",
+	["DictKey_18"] = "前方に大きな湖がある。\
+\
+手前側の岸に、レッドスモークで示されたトラック随伴の自動車化歩兵中隊がいる。全車が行軍隊形だ。FP2の格好の目標なので、HUD右上がS8FP2になっていることを確認しろ。\
+\
+これらをダイブ角10～20°で攻撃する。\
+\
+高度が高いほど遠距離から射撃できるだけでなく、ダイブ角が深いほど精度が上がる。\
+\
+目安として、ダイブ角は開始高度の先頭2桁に合わせろ。たとえば2,000mなら20°、3,000mなら30°……という具合だ。\
+\
+[Space]を押して続行しろ。",
+	["DictKey_ActionText_320"] = "",
+	["DictKey_UnitName_136"] = "Unit #003",
+	["DictKey_WptName_111"] = "",
+	["DictKey_UnitName_302"] = "",
+	["DictKey_GroupName_86"] = "DictKey_GroupName_86",
+	["DictKey_WptName_116"] = "",
+	["DictKey_ActionText_319"] = "",
+	["DictKey_UnitName_184"] = "",
+	["DictKey_WptName_117"] = "",
+	["DictKey_UnitName_183"] = "",
+	["DictKey_UnitName_57"] = "Mozdok AFB Mi-26 #001",
+	["DictKey_UnitName_139"] = "Unit #006",
+	["DictKey_descriptionText_90"] = "このレッスンでは、ロケットと30mm機関砲で地上目標を攻撃する方法を学ぶ。\
+\
+\
+主なキー操作:\
+\
+空対地モード: [7]\
+兵装投下: [Space]\
+",
+	["DictKey_UnitName_138"] = "Unit #005",
+	["DictKey_ActionText_317"] = "",
+	["DictKey_UnitName_65"] = "Mozdok AFB L-39ZA #003",
+	["DictKey_ActionText_310"] = "",
+	["DictKey_UnitName_188"] = "",
+	["DictKey_WptName_104"] = "",
+	["DictKey_UnitName_181"] = "",
+	["DictKey_UnitName_89"] = "DictKey_UnitName_89",
+	["DictKey_UnitName_53"] = "Mozdok AFB IL-76MD #002",
+	["DictKey_ActionText_321"] = "",
+	["DictKey_WptName_96"] = "",
+	["DictKey_16"] = "まもなくミッションのポーズを解除する。\
+\
+解除したら、[Page Down]でスロットルを1段戻し、その後、緩やかなダイブ(機首下げ約10°)に入れ。\
+\
+HUD左側を見ろ。距離表示が3つある。\
+\
+上の中空の矢印が、Pipperが見ている距離だ。\
+\
+その下の太いバー2本が、最大/最小の射程を示す。(ここで[D]を押すと、搭載しているS-8の2種類は弾道特性が少し違うため、Pipperと中空矢印が動くのが分かる。)\
+\
+S-8と30mm機関砲の最大射程は約3,000mだ。\
+\
+ダイブに入ると、Pipperの距離(中空矢印)は上側の太いバー、すなわち最大射程へ向けて進む。\
+\
+それを横切ると、概ね高度550m付近で、有効な投下解が算出され、HUD下部中央にLA(Launch Authority)が表示される。\
+\
+他の多くの兵器と違い、ロケットはLAなしでも発射できる。\
+\
+よし。[Space]を押して今すぐポーズを解除しろ。",
+	["DictKey_ActionText_313"] = "",
+	["DictKey_ActionText_328"] = "",
+	["DictKey_ActionText_329"] = "",
+	["DictKey_descriptionBlueTask_92"] = "",
+	["DictKey_UnitName_137"] = "Unit #004",
+	["DictKey_UnitName_189"] = "",
+	["DictKey_13"] = "MiG-29の空対地ロケット＆ガンへようこそ。\
+\
+これは\"朝飯前\"だ。\
+\
+4 × 80mm S-8ロケットポッドを装備している。各ポッドに無誘導ロケットが19発入っている。\
+APとHE/Fragを各2ポッドだ。\
+ \
+よし。HUDに注目し、表示の変化を確認しろ。\
+\
+[7]を押して空対地モードに入れ。\
+",
+	["DictKey_20"] = "よし、あとは任せる。\
+\
+楽しめ。\
+\
+うまくやれば致命的な効果が出る。\
+\
+",
+	["DictKey_GroupName_180"] = "",
+	["DictKey_WptName_103"] = "",
+	["DictKey_ActionText_331"] = "",
+	["DictKey_UnitName_140"] = "Unit #007",
+	["DictKey_UnitName_185"] = "",
+	["DictKey_UnitName_187"] = "",
+	["DictKey_WptName_118"] = "",
+	["DictKey_WptName_100"] = "",
+	["DictKey_14"] = "HUDを詳しく見ていく。\
+\
+左下:\
+GNDは空対地攻撃モードを示す。\
+IPは現在CCIPモードであることを示す。\
+\
+選択している空対地兵器は、HUDの円の位置に着弾する。この円がContinuously Computed Impact Point、CCIPだ。\"ピッパー\"とも呼ばれる。\
+\
+HUD右下のS8KOMはAPロケットを示し、4つの点はロケットポッドを4基搭載していることを示す。\
+\
+[D]を押し、HUD右上の表示がS8FPSに変わることを確認しろ。これはHE/Fragロケットだ。\
+\
+[Space]を押して続行しろ。\
+",
+	["DictKey_ActionText_326"] = "",
+	["DictKey_UnitName_63"] = "Mozdok AFB L-39ZA #002",
+	["DictKey_UnitName_47"] = "Mozdok AFB Su-25T #002",
+	["DictKey_ActionText_314"] = "",
+	["DictKey_WptName_102"] = "",
+	["DictKey_UnitName_186"] = "",
+	["DictKey_ActionText_312"] = "",
+	["DictKey_UnitName_51"] = "Mozdok AFB IL-76MD #001",
+	["DictKey_WptName_303"] = "",
+	["DictKey_ActionText_315"] = "",
+	["DictKey_WptName_191"] = "",
+	["DictKey_ActionText_316"] = "",
+	["DictKey_ActionText_322"] = "",
+} -- end of dictionary

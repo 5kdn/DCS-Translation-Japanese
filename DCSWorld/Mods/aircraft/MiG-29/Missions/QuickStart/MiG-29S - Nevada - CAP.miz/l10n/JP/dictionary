@@ -1,0 +1,9 @@
+dictionary = 
+{
+    ["DictKey_descriptionRedTask_2"] = "敵機をすべて撃墜しろ。",
+    ["DictKey_descriptionText_1"] = "戦闘空中哨戒",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_24"] = "MISSION ACCOMPLISHED!",
+    ["DictKey_UnitName_16"] = "",
+    ["DictKey_sortie_4"] = "CAP",
+} -- end of dictionary

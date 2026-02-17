@@ -1,0 +1,22 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_6"] = "",
+	["DictKey_ActionText_18"] = "",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_sortie_5"] = "MiG-29A - 飛行場攻撃",
+	["DictKey_ActionText_16"] = "",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_descriptionText_1"] = "本隊はラモン空軍基地を攻撃する打撃編成の一部だ。目標は基地中央に位置する大型機の駐機場である。",
+	["DictKey_ActionText_9"] = "",
+	["DictKey_ActionText_20"] = "",
+	["DictKey_ActionText_17"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_21"] = "",
+	["DictKey_ActionText_11"] = "",
+	["DictKey_ActionText_8"] = "Mission complete!",
+	["DictKey_ActionText_15"] = "Mission complete!",
+	["DictKey_ActionText_12"] = "",
+} -- end of dictionary

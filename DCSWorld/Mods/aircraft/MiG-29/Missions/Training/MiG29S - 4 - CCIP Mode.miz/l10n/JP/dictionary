@@ -1,0 +1,179 @@
+dictionary = 
+{
+	["DictKey_UnitName_43"] = "Mozdok AFB Su-25T #003",
+	["DictKey_UnitName_61"] = "Mozdok AFB L-39ZA #001",
+	["DictKey_descriptionRedTask_91"] = "レッドスモークの目標を無誘導爆弾で破壊しろ。\
+\
+爆弾投下レンジに確実に到達するため、ミッション開始時の初期針路を変更するな。\
+",
+	["DictKey_UnitName_67"] = "Mozdok AFB L-39ZA #004",
+	["DictKey_ActionText_143"] = "操縦を引き継げ。ダイブ進入の練習をする。爆弾投下はまだ行わない。\
+\
+推力をおおよそ半分まで絞れ。\
+\
+素早く、ただし滑らかに機首を50°よりも下げろ。\
+そのままHUD右側スケールでダイブ角の変化を監視しろ。\
+\
+その後、再び初期高度の4,000mまで上昇しろ。\
+\
+[Space]を押せ。",
+	["DictKey_UnitName_49"] = "Mozdok AFB Su-25T #004",
+	["DictKey_WptName_113"] = "",
+	["DictKey_WptName_100"] = "",
+	["DictKey_sortie_93"] = "CCIPモード、無誘導爆撃",
+	["DictKey_WptName_97"] = "",
+	["DictKey_WptName_96"] = "",
+	["DictKey_WptName_114"] = "",
+	["DictKey_UnitName_57"] = "Mozdok AFB Mi-26 #001",
+	["DictKey_WptName_110"] = "",
+	["DictKey_WptName_112"] = "",
+	["DictKey_UnitName_51"] = "Mozdok AFB IL-76MD #001",
+	["DictKey_20"] = "ここからは目視で判断して練習しろ。\
+だが、まずは当てずっぽうでいい……\
+目標のほぼ真上に来たと思ったら、スロットルをアイドルまで戻し、Pipperが目標の手前になるように機首を押し下げろ。\
+\
+HUDにLAが出るまで、Pipperを目標の手前に保って飛べ。\
+\
+LAが出たら、Pipperが目標へ流れ込むのを許容してBombs away！\
+\
+鋭く引き起こして上昇に入り、[Space]を押せ。",
+	["DictKey_ActionText_135"] = "",
+	["DictKey_ActionText_137"] = "",
+	["DictKey_WptName_104"] = "",
+	["DictKey_21"] = "余裕があれば[F6]で爆弾を追尾するか、[F2]で外部視点にして視点を回し、離脱しながら着弾を確認しろ。\
+\
+Shack！ (またはSplash！)\
+業界用語だ。\
+\
+練習用に、グリーンスモークで示した追加のトラックを配置してある。\
+\
+練習を続けてもよいし、[Esc]キーを押して今すぐレッスンを終了してもよい。\
+",
+	["DictKey_15"] = "次に[D]を押し、HUD下部の緑の4点が入れ替わることに気付け。\
+\
+これが爆弾だ。\
+\
+爆弾はスマート/ダム、スリック/レタードに区分される。\
+\
+外側ステーションにFAB-250を2発、内側にFAB-500を2発搭載している。\
+\
+FABはダムでスリックの爆弾だ。\
+\
+250は250kg、500は500kgを意味する。\
+\
+[F2]で外部視点にして兵装を手早く確認しろ。\
+\
+[F1]でコックピットに戻れ。\
+\
+[Space]を押せ。",
+	["DictKey_UnitName_69"] = "Mozdok AFB L-39ZA #005",
+	["DictKey_UnitName_53"] = "Mozdok AFB IL-76MD #002",
+	["DictKey_ActionText_141"] = "",
+	["DictKey_UnitName_45"] = "Mozdok AFB Su-25T #001",
+	["DictKey_ActionText_136"] = "",
+	["DictKey_WptName_115"] = "",
+	["DictKey_descriptionBlueTask_92"] = "",
+	["DictKey_UnitName_63"] = "Mozdok AFB L-39ZA #002",
+	["DictKey_17"] = "操縦を引き継げ。\
+\
+[Page Down]を押し、出力を1～2段落とせ。\
+\
+機首下げで50°超まで入れ。\
+HUDシンボルを確認しろ。\
+\
+その後、急速に上昇して4,000mへ戻れ。\
+\
+[Space]を押せ。",
+	["DictKey_ActionText_140"] = "兵装が残っていない",
+	["DictKey_WptName_103"] = "",
+	["DictKey_13"] = "[7]を押して空対地モードに入れ。\
+\
+HUDの変化を確認しろ。",
+	["DictKey_UnitName_65"] = "Mozdok AFB L-39ZA #003",
+	["DictKey_14"] = "HUDを詳しく見ていく。\
+\
+左下:\
+GNDは空対地攻撃モードを示す。\
+IPは現在CCIPモードであることを示す。\
+\
+重要。HUDにLAが表示される有効な投下プロファイルが成立している場合にのみ、爆弾は投下される。\
+\
+[Space]を押して続行しろ。\
+",
+	["DictKey_18"] = "HUD中央の小さな円がCCIPだ。ここが爆弾の着弾点になる。\
+それがContinuously Computed Impact Pointという意味だ。\
+\
+これは通称\"Pipper\"と呼ぶ。\
+\
+ただし、HUDにLAが表示されるまで投下はできない。覚えておけ。\
+\
+[Space]を押して続行しろ。",
+	["DictKey_ActionText_146"] = "",
+	["DictKey_WptName_106"] = "",
+	["DictKey_19"] = "前方に大きな湖がある。\
+\
+手前側の岸に、レッドスモークで示されたトラック小隊がいる。\
+\
+高角度ダイブでこの目標を攻撃する。\
+\
+数回やり直す必要があるかもしれない。\
+\
+目安として、6,000m以下では……開始高度の末尾の0を2つ取った数値をダイブ角にしろ。\
+\
+つまり5,000mなら50°、3,000mなら30°、という具合だ。\
+\
+別の方法として、浅い降下でPipperを目標の手前に保ち、最後の瞬間に投下[LA]が成立するまで維持するやり方もある。\
+\
+[Space]を押せ。\
+",
+	["DictKey_WptName_118"] = "",
+	["DictKey_UnitName_47"] = "Mozdok AFB Su-25T #002",
+	["DictKey_UnitName_59"] = "Mozdok AFB Mi-26 #002",
+	["DictKey_WptName_109"] = "",
+	["DictKey_16"] = "まもなくミッションのポーズを解除する。\
+\
+HUDのダイブ角が50°を超えるように機体を降下させろ。\
+\
+かなり急だ。\
+\
+有効な投下解が算出されると、HUDにボムフォールラインとLAが表示される。\
+\
+LAがなければ爆弾は投下されない。\
+\
+[Space]を押せ。",
+	["DictKey_UnitName_55"] = "Mozdok AFB IL-76MD #003",
+	["DictKey_WptName_101"] = "",
+	["DictKey_WptName_117"] = "",
+	["DictKey_WptName_102"] = "",
+	["DictKey_WptName_116"] = "",
+	["DictKey_ActionText_139"] = "",
+	["DictKey_WptName_111"] = "",
+	["DictKey_descriptionText_90"] = "このレッスンでは、Continuously Computed Impact Point(CCIP)モードで無誘導爆弾を投下する方法を学ぶ。\
+\
+\
+主なキー操作:\
+\
+空対地モード: [7]\
+兵装投下: [Space]\
+",
+	["DictKey_12"] = "開始前に、兵装投下が[Space]以外に割り当てられていることを確認しろ。\
+\
+音声が聞こえない場合は、[Esc]を押し、OPTIONSを選択してAUDIOタブを開け。ワールド音とコックピット音量を0に下げろ。\
+\
+また、進行を遅くしたい場合は[Pause/Break]を押して全てを一時停止しろ。\
+\
+CCIP爆撃へようこそ。\
+\
+CCIP - Continuously Computed Impact Point。\
+\
+CCIPは、いわゆるダム爆弾を投下する際の標準的なモードだ。通常はダイブ投下で運用する。\
+\
+この方法は、中高度からの高角度ダイブにも、レタード爆弾を用いた低高度からのポップアップ浅角度ダイブ爆撃にも有効だ。\
+\
+アクティブポーズはONだ。\
+\
+[Space]を押して続行しろ。",
+	["DictKey_ActionText_138"] = "",
+	["DictKey_WptName_105"] = "",
+	["DictKey_ActionText_147"] = "",
+} -- end of dictionary

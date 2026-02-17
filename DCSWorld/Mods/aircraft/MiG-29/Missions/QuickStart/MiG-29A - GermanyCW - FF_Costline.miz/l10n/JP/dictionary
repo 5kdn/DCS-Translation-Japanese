@@ -1,0 +1,30 @@
+dictionary = 
+{
+	["DictKey_ActionText_34"] = "",
+	["DictKey_ActionText_18"] = "",
+	["DictKey_ActionText_35"] = "",
+	["DictKey_ActionText_28"] = "",
+	["DictKey_sortie_5"] = "MiG-29A フリーフライト",
+	["DictKey_ActionText_16"] = "",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_14"] = "ygjhgjhgjhg",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_23"] = "",
+	["DictKey_ActionText_17"] = "",
+	["DictKey_descriptionText_1"] = "本任務は短時間のミッションだ。提案された航路に沿って断崖沿いを飛行し港を確認してもよいし、フリーフライトを実施してもよい。",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_20"] = "",
+	["DictKey_ActionText_30"] = "",
+	["DictKey_ActionText_22"] = "",
+	["DictKey_ActionText_21"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_27"] = "",
+	["DictKey_ActionText_29"] = "指揮官は、フェリー港の岩場を泳がずに回り込めるとは思っていなかった。\
+これに対し、単にできるに決まっている。帽子を賭けてもいいと応じた。\
+\
+最低高度、針路94°。右手に断崖と港。海には出るな。",
+	["DictKey_ActionText_31"] = "",
+	["DictKey_ActionText_32"] = "フリーフライトを実施できる。周辺地域の景観に留意しろ。",
+	["DictKey_ActionText_33"] = "",
+	["DictKey_ActionText_6"] = "",
+} -- end of dictionary

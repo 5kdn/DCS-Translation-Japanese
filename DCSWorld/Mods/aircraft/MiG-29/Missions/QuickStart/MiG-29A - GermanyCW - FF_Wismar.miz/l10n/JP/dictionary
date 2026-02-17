@@ -1,0 +1,25 @@
+dictionary = 
+{
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_descriptionText_1"] = "沿岸では、海軍、装甲兵員輸送車、工兵部隊まで、すべてが教範どおりに進んでいた。\
+だが、意外性のない演習はサワークリームのないボルシチのようなものだと考えた。\
+ドックのハンガーを低空で通過した後、上陸部隊の誰かがつぶやいた。\
+敵だったら降伏していた。味方なら……もう一度やらせろ",
+	["DictKey_ActionText_7"] = "",
+	["DictKey_ActionText_22"] = "その後、フリーフライトを実施しろ。",
+	["DictKey_ActionText_21"] = "",
+	["DictKey_ActionText_17"] = "",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_9"] = "",
+	["DictKey_ActionText_18"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "MiG-29A ヴィスマール フリーフライト",
+	["DictKey_ActionText_16"] = "演習の針路は330°だ。",
+	["DictKey_ActionText_20"] = "",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_14"] = "本任務では、着陸前に造船所の通過に挑戦しろ。造船所への針路は255°だ。\
+または、ヴィスマール市および周辺上空でフリーフライトを実施してもよい。",
+	["DictKey_descriptionRedTask_2"] = "- 造船所の通過\
+- 海兵隊陣地上空での低空飛行\
+- フリーフライト",
+} -- end of dictionary

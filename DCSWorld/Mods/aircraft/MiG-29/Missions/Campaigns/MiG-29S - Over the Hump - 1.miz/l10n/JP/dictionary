@@ -1,0 +1,159 @@
+dictionary = 
+{
+    ["DictKey_GroupName_63"] = "New Static Object #006",
+    ["DictKey_18"] = "",
+    ["DictKey_UnitName_52"] = "Unit #35",
+    ["DictKey_UnitName_60"] = "New Static Object #004",
+    ["DictKey_UnitName_265"] = "Nalchik Static #016",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_263"] = "",
+    ["DictKey_GroupName_67"] = "New Static Object #008",
+    ["DictKey_GroupName_49"] = "AIRPORT NALCHIK SUPPORT #001",
+    ["DictKey_UnitName_310"] = "Pilot #003",
+    ["DictKey_UnitName_283"] = "Nalchik Static #010",
+    ["DictKey_UnitName_56"] = "New Static Object #002",
+    ["DictKey_UnitName_298"] = "Nalchik Static #023",
+    ["DictKey_UnitName_89"] = "Unit #10",
+    ["DictKey_WptName_272"] = "",
+    ["DictKey_GroupName_57"] = "New Static Object #003",
+    ["DictKey_UnitName_94"] = "Unit #5",
+    ["DictKey_descriptionText_139"] = "敵対地域南方への航空作戦を開始する前に、敵防空態勢の探りを実施する。\
+\
+敵の早期警戒レーダー(EWR)のカバレッジ、反応時間、そしてどの手段で反応するかを観測する。\
+",
+    ["DictKey_WptName_287"] = "",
+    ["DictKey_UnitName_241"] = "Nalchik Static #001",
+    ["DictKey_GroupName_309"] = "New Airplane Group",
+    ["DictKey_UnitName_253"] = "Nalchik Static #005",
+    ["DictKey_UnitName_90"] = "Unit #9",
+    ["DictKey_GroupName_73"] = "New Static Object #012",
+    ["DictKey_WptName_248"] = "",
+    ["DictKey_WptName_269"] = "",
+    ["DictKey_10"] = "",
+    ["DictKey_WptName_251"] = "",
+    ["DictKey_GroupName_71"] = "New Static Object #011",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_GroupName_51"] = "AIRPORT NALCHIK SUPPORT #002",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_UnitName_295"] = "Nalchik Static #022",
+    ["DictKey_17"] = "",
+    ["DictKey_UnitName_58"] = "New Static Object #003",
+    ["DictKey_WptName_275"] = "",
+    ["DictKey_UnitName_44"] = "Unit #31",
+    ["DictKey_UnitName_87"] = "Unit #12",
+    ["DictKey_UnitName_66"] = "New Static Object #007",
+    ["DictKey_UnitName_271"] = "Nalchik Static #018",
+    ["DictKey_UnitName_277"] = "Nalchik Static #021",
+    ["DictKey_UnitName_76"] = "New Static Object #013",
+    ["DictKey_WptName_254"] = "",
+    ["DictKey_UnitName_247"] = "Nalchik Static #003",
+    ["DictKey_UnitName_274"] = "Nalchik Static #020",
+    ["DictKey_WptName_278"] = "",
+    ["DictKey_WptName_308"] = "",
+    ["DictKey_GroupName_45"] = "RU EWR 1",
+    ["DictKey_UnitName_88"] = "Unit #11",
+    ["DictKey_UnitName_244"] = "Nalchik Static #002",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_WptName_281"] = "",
+    ["DictKey_UnitName_64"] = "New Static Object #006",
+    ["DictKey_15"] = "[717, こちらコントロール]:\
+\
+任務完了。基地へ帰投しろ。\
+\
+以上。\
+",
+    ["DictKey_UnitName_74"] = "New Static Object #012",
+    ["DictKey_UnitName_289"] = "Nalchik Static #012",
+    ["DictKey_12"] = "[717, こちらコントロール]:\
+\
+第1偵察地点に到達した。\
+\
+第2地点へ進め。敵領空に侵入しないよう注意しろ。\
+\
+以上。\
+",
+    ["DictKey_8"] = "[717, こちらコントロール]:\
+\
+交戦は許可されていない。\
+\
+直ちに基地へ帰投しろ。\
+\
+以上。\
+",
+    ["DictKey_UnitName_250"] = "Nalchik Static #004",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_UnitName_72"] = "New Static Object #011",
+    ["DictKey_GroupName_69"] = "New Static Object #010",
+    ["DictKey_6"] = "[717, こちらコントロール]:\
+\
+敵領空を侵犯した。\
+\
+直ちに基地へ帰投しろ。\
+\
+任務は失敗だ。\
+\
+以上。\
+",
+    ["DictKey_UnitName_286"] = "Nalchik Static #011",
+    ["DictKey_WptName_284"] = "",
+    ["DictKey_WptName_296"] = "",
+    ["DictKey_WptName_266"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_GroupName_85"] = "G SA-11 1",
+    ["DictKey_UnitName_68"] = "New Static Object #008",
+    ["DictKey_UnitName_92"] = "Unit #7",
+    ["DictKey_9"] = "",
+    ["DictKey_UnitName_280"] = "Nalchik Static #009",
+    ["DictKey_WptName_257"] = "",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_7"] = "",
+    ["DictKey_WptName_299"] = "",
+    ["DictKey_UnitName_304"] = "Nalchik Static #019",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_UnitName_256"] = "Nalchik Static #006",
+    ["DictKey_UnitName_262"] = "Nalchik Static #008",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_GroupName_61"] = "New Static Object #005",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_UnitName_91"] = "Unit #8",
+    ["DictKey_WptName_293"] = "",
+    ["DictKey_GroupName_55"] = "New Static Object #002",
+    ["DictKey_sortie_142"] = "偵察",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_GroupName_53"] = "New Static Object #001",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_descriptionBlueTask_141"] = "",
+    ["DictKey_UnitName_86"] = "Unit #002",
+    ["DictKey_UnitName_70"] = "New Static Object #010",
+    ["DictKey_WptName_305"] = "",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_13"] = "",
+    ["DictKey_14"] = "",
+    ["DictKey_WptName_311"] = "",
+    ["DictKey_UnitName_46"] = "Unit #32",
+    ["DictKey_WptName_236"] = "",
+    ["DictKey_UnitName_259"] = "Nalchik Static #007",
+    ["DictKey_GroupName_65"] = "New Static Object #007",
+    ["DictKey_UnitName_62"] = "New Static Object #005",
+    ["DictKey_UnitName_292"] = "Nalchik Static #013",
+    ["DictKey_UnitName_93"] = "Unit #6",
+    ["DictKey_UnitName_268"] = "Nalchik Static #017",
+    ["DictKey_16"] = "",
+    ["DictKey_GroupName_75"] = "New Static Object #013",
+    ["DictKey_WptName_302"] = "",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_GroupName_59"] = "New Static Object #004",
+    ["DictKey_UnitName_50"] = "Unit #34",
+    ["DictKey_UnitName_301"] = "Nalchik Static #014",
+    ["DictKey_UnitName_307"] = "Nalchik Static #015",
+    ["DictKey_GroupName_43"] = "RU SA-15 1",
+    ["DictKey_11"] = "",
+    ["DictKey_UnitName_54"] = "New Static Object #001",
+    ["DictKey_WptName_260"] = "",
+    ["DictKey_descriptionRedTask_140"] = "国境沿いにウェイポイント3およびウェイポイント4まで飛行しろ。ただし、いかなる状況でも国境を越えたり、敵部隊と交戦してはならない。\\n",
+} -- end of dictionary

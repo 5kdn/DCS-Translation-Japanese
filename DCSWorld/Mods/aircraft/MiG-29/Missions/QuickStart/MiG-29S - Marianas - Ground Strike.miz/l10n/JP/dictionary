@@ -1,0 +1,35 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_ActionText_40"] = "",
+    ["DictKey_ActionText_29"] = "",
+    ["DictKey_ActionText_35"] = "主要任務目標をすべて破壊した！",
+    ["DictKey_ActionText_43"] = "",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_ActionText_36"] = "",
+    ["DictKey_sortie_5"] = "MiG-29S - 対地攻撃",
+    ["DictKey_ActionText_16"] = "飛行場が砲撃を受けている。",
+    ["DictKey_ActionText_19"] = "飛行場が砲撃を受けている。",
+    ["DictKey_ActionText_14"] = "飛行場が砲撃を受けている。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_12"] = "迫撃砲隊を撃破した。",
+    ["DictKey_ActionText_38"] = "",
+    ["DictKey_descriptionText_1"] = "MiG-29S 4機編隊によるロタ島への対地攻撃任務だ。",
+    ["DictKey_descriptionBlueTask_3"] = "MiG-29S 4機編隊は、ロタ空港周辺にある特定のコンクリート製シェルター2基およびトーチカ1基を破壊する任務を負う。\
+詳細な写真はニーボードを参照しろ。\
+\
+注. 味方の攻撃ヘリ4機編成が部隊展開の準備を完了している。展開を援護し、行動に対するあらゆる脅威を排除しろ。",
+    ["DictKey_ActionText_27"] = "",
+    ["DictKey_ActionText_21"] = "飛行場が砲撃を受けている。",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_26"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_32"] = "### вертышки сели",
+    ["DictKey_ActionText_33"] = "",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_ActionText_8"] = "",
+    ["DictKey_ActionText_37"] = "",
+    ["DictKey_ActionText_42"] = "ヘリ部隊は安全を確保し、帰投中だ。帰投を許可する。",
+} -- end of dictionary

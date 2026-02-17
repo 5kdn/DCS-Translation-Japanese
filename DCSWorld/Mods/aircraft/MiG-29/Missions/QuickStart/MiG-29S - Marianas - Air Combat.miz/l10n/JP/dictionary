@@ -1,0 +1,29 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionText_34"] = "",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_ActionText_29"] = "",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_ActionText_43"] = "MISSION COMPLETED!",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_sortie_5"] = "MiG-29S - 空中戦闘",
+    ["DictKey_ActionText_16"] = "飛行場が砲撃を受けている。",
+    ["DictKey_ActionText_19"] = "飛行場が砲撃を受けている。",
+    ["DictKey_ActionText_14"] = "飛行場が砲撃を受けている。",
+    ["DictKey_descriptionRedTask_2"] = "離陸後、AWACSにピクチャを要求し、目標への方位を取得しろ。\
+\
+敵機は空対地攻撃任務に就いており、空対空能力が限定されている。この点を活用しろ。健闘を祈る！",
+    ["DictKey_descriptionText_1"] = "爆撃任務から帰投中のF/A-18C 2個編隊を迎撃し、撃破しろ。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_27"] = "",
+    ["DictKey_ActionText_41"] = "",
+    ["DictKey_ActionText_21"] = "飛行場が砲撃を受けている。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_26"] = "",
+    ["DictKey_ActionText_8"] = "",
+    ["DictKey_ActionText_39"] = "",
+    ["DictKey_ActionText_12"] = "迫撃砲隊を撃破した。",
+} -- end of dictionary

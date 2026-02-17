@@ -1,0 +1,8 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "MiG-29A - 着陸",
+    ["DictKey_descriptionText_1"] = "本任務は最終進入中の機体から開始する。直ちに着陸しても、パターンに入って複数回の進入を行ってもよい。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

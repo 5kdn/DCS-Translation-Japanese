@@ -1,0 +1,286 @@
+dictionary =
+{
+	["DictKey_WptName_80"] = "",
+	["DictKey_18"] = "電源が投入され、ヘッドアップディスプレイ、HUDが作動するのが確認できる。\
+\
+電源が入ったら、[RCtrl + L]で航法灯を点灯できる。\
+\
+ただし、戦闘任務では点灯するな！\
+\
+[Space]を押して続行しろ\
+",
+	["DictKey_WptName_95"] = "",
+	["DictKey_UnitName_60"] = "Mozdok L-39ZA #001",
+	["DictKey_WptName_86"] = "",
+	["DictKey_WptName_94"] = "",
+	["DictKey_ActionText_121"] = "",
+	["DictKey_WptName_113"] = "",
+	["DictKey_UnitName_56"] = "Mozdok Mi-26 #001",
+	["DictKey_UnitName_62"] = "Mozdok L-39ZA #002",
+	["DictKey_WptName_97"] = "",
+	["DictKey_ActionText_155"] = "",
+	["DictKey_ActionText_122"] = "",
+	["DictKey_ActionText_160"] = "",
+	["DictKey_ActionText_132"] = "",
+	["DictKey_WptName_100"] = "",
+	["DictKey_WptName_114"] = "",
+	["DictKey_WptName_96"] = "",
+	["DictKey_UnitName_106"] = "",
+	["DictKey_GroupName_105"] = "",
+	["DictKey_sortie_78"] = "MiG-29 Fulcrum SUTTO",
+	["DictKey_descriptionBlueTask_77"] = "",
+	["DictKey_ActionText_136"] = "",
+	["DictKey_ActionText_141"] = "",
+	["DictKey_27"] = "歩行速度でタキシングしながら、外部視点と内部視点を切り替えて、MiG-29の自分がどれだけクールか確認してみろ。\
+\
+ヘッドホン使用者は注意しろ！\
+\
+[F2]で外部視点、[F1]でコックピットに戻る。\
+\
+マウスまたはNum*等で視点を回転、ズームしろ。\
+\
+",
+	["DictKey_WptName_89"] = "",
+	["DictKey_17"] = "MiG-29へようこそ。\
+\
+このロシア戦闘機のNATOコードネームはFulcrumだ。\
+\
+さあ、この猛獣を始動する。\
+\
+その前に、キー操作の注意点だ。\
+\
+多くの操作は2キー同時押しを必要とする。\
+\
+常に、最初に指定されたキーを押し続けてから次のキーを押せ。\
+\
+[RShift + L]で電源を投入しろ。\
+\
+[L]でコックピットライトを点灯しろ。\
+\
+[Space]を押して続行しろ。\
+\
+",
+	["DictKey_ActionText_140"] = "",
+	["DictKey_ActionText_164"] = "",
+	["DictKey_ActionText_130"] = "",
+	["DictKey_WptName_88"] = "",
+	["DictKey_ActionText_163"] = "",
+	["DictKey_WptName_98"] = "",
+	["DictKey_ActionText_146"] = "",
+	["DictKey_ActionText_142"] = "",
+	["DictKey_19"] = "不快なビープ音が鳴っている場合、それはRWR、レーダー警報受信機だ。\
+[RAlt + , (comma)]で音量を下げろ。\
+\
+次に、[LCtrl + C]でキャノピーを閉じろ。\
+\
+[Space]を押して続行しろ。\
+\
+",
+	["DictKey_UnitName_54"] = "Mozdok IL-76MD #001",
+	["DictKey_UnitName_36"] = "Pilot #002",
+	["DictKey_UnitName_66"] = "Mozdok L-39ZA #004",
+	["DictKey_GroupName_32"] = "RU Su-27 (Player)",
+	["DictKey_ActionText_108"] = "では、[Num+]を一度だけタップして動き出せ。\
+\
+前進を感じたら、[Num-]をタップして出力を戻せ。\
+\
+[W]を押し続けて機体を停止させろ。\
+\
+スロットル操作は、キーボードよりスロットルデバイスの方が容易だ。\
+\
+同じ操作を繰り返せ。ただし今度は[W]で歩行速度まで減速するだけにしろ。\
+\
+[Z]で左へ曲がれ。\
+\
+[Z]と[X]で左右に操向できる。\
+\
+左に曲がり、駐機エプロンを低速で進んでいるはずだ。\
+\
+必要に応じてNWS、前輪操向[LAlt + Q]を使用しろ。ただし事前にフラップを上げ、使用後に再度フラップを下げろ。",
+	["DictKey_30"] = "マウスホイールまたは[*]で少しズームし、HUDの緑色表示をはっきり読めるようにしろ。\
+\
+これで離陸準備完了だ！ ブレーキを保持している場合は解除しろ。\
+\
+[Page Up]を3回押して、エンジンを最大出力まで上げろ。\
+\
+警告灯パネルに緑灯が2つ点灯し、アフターバーナー作動を示すことを確認しろ。\
+\
+[Z]と[X]を穏やかに操作し、滑走路中央を維持しろ。\
+\
+速度が90を超えるとHUD左上に表示される。\
+\
+速度が300を超えたら、スティックを引き[Down]、安定した上昇に移行しろ。\
+",
+	["DictKey_WptName_101"] = "",
+	["DictKey_ActionText_139"] = "",
+	["DictKey_UnitName_74"] = "Mozdok Su-27 #001",
+	["DictKey_WptName_81"] = "",
+	["DictKey_WptName_99"] = "",
+	["DictKey_ActionText_156"] = "",
+	["DictKey_ActionText_158"] = "",
+	["DictKey_ActionText_138"] = "",
+	["DictKey_ActionText_126"] = "",
+	["DictKey_UnitName_44"] = "Mozdok Su-27 #002",
+	["DictKey_UnitName_33"] = "Player",
+	["DictKey_ActionText_157"] = "",
+	["DictKey_ActionText_134"] = "",
+	["DictKey_WptName_85"] = "",
+	["DictKey_22"] = "計器盤左下には、スラット＆フラップ、ギア、エアブレーキの状態を示す航空機シンボルがある。\
+\
+ギアが下りている場合、緑灯が3つ点灯する。\
+\
+中央の円が点灯している場合、ギアに異常がある。\
+\
+[F]を押して、スラットとフラップを離陸位置まで下げろ。\
+\
+[F]はフラップの上下を切り替える。位置は計器で確認しろ。\
+\
+表示はフラップ6本のバーとギア3灯になる。\
+\
+[RAlt + L]でタキシーライトを点灯しろ。\
+\
+[Space]を押して続行しろ。\
+\
+",
+	["DictKey_WptName_91"] = "",
+	["DictKey_WptName_87"] = "",
+	["DictKey_ActionText_161"] = "",
+	["DictKey_24"] = "タキシング中は、[Z]と[X]で小さく滑らかなラダー修正を行い、タキシーウェイ中央を維持しろ。\
+\
+歩行速度を維持しろ。\
+\
+交差点で右[X]へ曲がれ。\
+",
+	["DictKey_UnitName_68"] = "Mozdok L-39ZA #005",
+	["DictKey_29"] = "右[X]へ曲がって滑走路に進入し、中央に整列しろ。\
+\
+ホイールブレーキ[W]で機体を停止させろ。\
+\
+離陸準備ができたら[Space]を押せ。\
+",
+	["DictKey_UnitName_48"] = "Mozdok Su-27 #004",
+	["DictKey_ActionText_148"] = "",
+	["DictKey_ActionText_153"] = "",
+	["DictKey_WptName_107"] = "",
+	["DictKey_WptName_82"] = "",
+	["DictKey_UnitName_72"] = "Mozdok Su-27 #006",
+	["DictKey_descriptionRedTask_76"] = "- MiG-29を始動しろ\
+- 滑走路までタキシングしろ\
+- 離陸しろ\
+",
+	["DictKey_UnitName_112"] = "",
+	["DictKey_26"] = "よし、ここで左[Z]へ曲がり、滑走路と平行なタキシーウェイを進め。\
+\
+歩行速度を維持し、[W]がホイールブレーキであることを忘れるな。\
+",
+	["DictKey_UnitName_35"] = "Pilot #003",
+	["DictKey_UnitName_64"] = "Mozdok L-39ZA #003",
+	["DictKey_ActionText_135"] = "",
+	["DictKey_ActionText_137"] = "警戒低下",
+	["DictKey_ActionText_154"] = "ゾーン内",
+	["DictKey_descriptionText_75"] = "MiG-29 訓練:\
+ - 始動、タキシング、離陸(SUTTO)\
+\
+\
+キー操作:\
+\
+電源:               [RShift + L]\
+航法灯:             [RCtrl + L]\
+キャノピー:         [LCtrl + C]\
+左エンジン始動:     [RAlt + Home]\
+右エンジン始動:     [RCtrl + Home]\
+フラップ:           [LShift + F]\
+前輪操向:           [LAlt + Q] - フラップUP時のみ有効\
+スロットル増加:     [Page Up]\
+ホイールブレーキ:   [W]\
+スロットル減少:     [Page Down]\
+ラダー左:           [Z]\
+ラダー右:           [X]\
+外部視点:           [F2]\
+内部視点:           [F1]\
+ギア 上げ/下げ:       [G]\
+",
+	["DictKey_20"] = "これから左、すなわち1番エンジンを始動する。\
+\
+警告灯パネルとRPM計がハイライト表示されている。\
+\
+[RAlt + Home]を押せ。\
+\
+警告灯パネルに緑色の点火灯が点灯する。\
+\
+約10秒後、1番(左)エンジンのRPM表示が立ち上がる。\
+\
+エンジンRPMが約40%に達し、緑灯が消灯したら点火完了だ。[Space]を押せ。",
+	["DictKey_WptName_79"] = "",
+	["DictKey_21"] = "警告灯パネルの点火灯が消えたら、右、すなわち2番エンジンを始動できる。\
+\
+[RCtrl + Home]を押せ。点火の緑灯を確認しろ。約10秒後に2番エンジンRPMの針が動き出す。\
+\
+[Space]を押して続行しろ。\
+\
+",
+	["DictKey_ActionText_159"] = "",
+	["DictKey_WptName_90"] = "",
+	["DictKey_WptName_92"] = "",
+	["DictKey_ActionText_151"] = "",
+	["DictKey_ActionText_152"] = "",
+	["DictKey_UnitName_70"] = "Mozdok Su-27 #005",
+	["DictKey_ActionText_125"] = "",
+	["DictKey_GroupName_111"] = "",
+	["DictKey_ActionText_166"] = "",
+	["DictKey_23"] = "これでタキシングの準備が整った。\
+\
+注意しろ……\
+\
+スティックを見下ろし、[W]を押し続けてホイールブレーキを作動させろ。ブレーキレバーがハンドブレーキのように動くのが見える。\
+\
+[W]を離すと、ホイールブレーキは解除される。\
+\
+これからのタキシングでは、Num+とNum-を使用する。[Page Up]と[Page Down]は70%、90%、最大ドライ、アフターバーナーの4段階のみで、微調整ができない。\
+\
+まずNum+を一度だけ押して動き出し、次に[W]を押して停止させ、ブレーキを確認する。\
+\
+よし。タキシングを開始する。\
+\
+[Space]を押して続行しろ。",
+	["DictKey_GroupName_34"] = "RU Su-27",
+	["DictKey_WptName_103"] = "",
+	["DictKey_UnitName_46"] = "Mozdok Su-27 #003",
+	["DictKey_WptName_93"] = "",
+	["DictKey_ActionText_123"] = "",
+	["DictKey_ActionText_128"] = "タキシング中は、[Z]と[X]で小さく滑らかなラダー修正を行い、タキシーウェイ中央を維持しろ。20～30km/hの歩行速度を保て。\
+\
+交差点で右へ進め。\
+",
+	["DictKey_ActionText_110"] = "よくやった。これでMiG-29 Fulcrumの始動、タキシング、離陸(SUTTO)の訓練は完了だ。\
+\
+[Esc]キーでレッスンを終了できる。\
+\
+[LCtrl + E]を3回押し続ければ、射出、ベイルアウトも可能だ！\
+\
+そのまま周回してから着陸に挑戦してもいい。覚えておけ: [G]でギアを下げ、[F]でフラップ、[B]でエアブレーキまたはスピードブレーキだ。\
+\
+どうするかは任せる……\
+\
+幸運を祈る！",
+	["DictKey_UnitName_58"] = "Mozdok Mi-26 #002",
+	["DictKey_ActionText_149"] = "",
+	["DictKey_28"] = "ここで右[X]へ曲がれ。",
+	["DictKey_ActionText_145"] = "タキシングを継続しろ……",
+	["DictKey_ActionText_124"] = "",
+	["DictKey_ActionText_131"] = "",
+	["DictKey_ActionText_143"] = "",
+	["DictKey_WptName_102"] = "",
+	["DictKey_UnitName_50"] = "Mozdok IL-76MD #003",
+	["DictKey_UnitName_52"] = "Mozdok IL-76MD #002",
+	["DictKey_ActionText_133"] = "",
+	["DictKey_ActionText_150"] = "",
+	["DictKey_31"] = "安全に離陸したら、[G]でギアを上げ、[F]でフラップを上げろ。\
+\
+余裕があれば、全ての緑灯が消灯するのを確認しろ。\
+",
+	["DictKey_ActionText_165"] = "",
+	["DictKey_25"] = "ここで分岐だ。右[X]へ曲がれ。\
+",
+	["DictKey_ActionText_147"] = "",
+} -- end of dictionary

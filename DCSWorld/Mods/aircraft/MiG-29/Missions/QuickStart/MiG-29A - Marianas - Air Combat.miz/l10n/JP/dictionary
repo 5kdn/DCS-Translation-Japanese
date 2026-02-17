@@ -1,0 +1,26 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_ActionText_29"] = "",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_sortie_5"] = "MiG-29A - 空中戦闘",
+    ["DictKey_ActionText_16"] = "飛行場が砲撃を受けている。",
+    ["DictKey_ActionText_19"] = "飛行場が砲撃を受けている。",
+    ["DictKey_ActionText_14"] = "飛行場が砲撃を受けている。",
+    ["DictKey_descriptionRedTask_2"] = "貴隊はレッド4機編隊の先導だ。技量を示し、出撃を制せ。敵は島の反対側から発進している。",
+    ["DictKey_descriptionText_1"] = "MiG-29A 4機と空中戦闘の訓練を実施する。空域はグアム上空で、兵装はミサイルなし、機関砲のみだ。",
+    ["DictKey_ActionText_21"] = "飛行場が砲撃を受けている。",
+    ["DictKey_ActionText_27"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_34"] = "",
+    ["DictKey_ActionText_26"] = "",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_8"] = "",
+    ["DictKey_ActionText_37"] = "YOU WIN！\
+ブルー側航空機を全機撃破した！",
+    ["DictKey_ActionText_12"] = "迫撃砲隊を破壊した。",
+} -- end of dictionary
