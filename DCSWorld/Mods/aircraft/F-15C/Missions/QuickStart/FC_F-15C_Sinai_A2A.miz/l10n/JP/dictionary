@@ -1,0 +1,10 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "F-15C 空対空",
+    ["DictKey_descriptionText_1"] = "侵入してくる敵攻撃機に対する戦闘空中哨戒(CAP)。",
+    ["DictKey_descriptionBlueTask_3"] = "4機編隊のSu-24 Fencerによる空襲が、ラモン空軍基地を攻撃しようとしている。迎撃せよ！\
+\
+AWACS: WIZZARDが任務空域に展開中。",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

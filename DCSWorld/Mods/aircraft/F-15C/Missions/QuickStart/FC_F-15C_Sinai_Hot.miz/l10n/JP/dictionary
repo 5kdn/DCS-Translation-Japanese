@@ -1,0 +1,9 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "F-15C ランウェイスタート",
+    ["DictKey_descriptionText_1"] = "すべての航空戦力および防空部隊は待機状態にある。(レーダーは稼働している場合がある)",
+    ["DictKey_descriptionBlueTask_3"] = "指定ルートに従うか、自由に探索しろ。推奨フライトプランは約55分で完了する。",
+    ["DictKey_ActionText_6"] = "指定ルートに従うことも、自由に探索することもできる。推奨フライトプランの所要時間は約55分。",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

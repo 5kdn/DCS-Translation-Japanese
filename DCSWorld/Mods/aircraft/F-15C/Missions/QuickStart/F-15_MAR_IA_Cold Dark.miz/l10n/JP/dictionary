@@ -1,0 +1,14 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionComment_11"] = "",
+    ["DictKey_descriptionText_1"] = "マリアナ諸島へようこそ。天候は良好だ。防空部隊は作動していない。一部のレーダーは稼働している。",
+    ["DictKey_descriptionBlueTask_3"] = "アンダーセン空軍基地付近から開始する。フライトプランに従うか、任意の空域を飛行しろ。フライトプランは約20～30分で完了し、景観の良いエリアを通過する。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "マリアナ諸島: コールド＆ダーク",
+    ["DictKey_ActionText_8"] = "マリアナ諸島へようこそ。天候は良好だ。フライトプランに従ってもよいし、任意の空域を飛行してもよい。フライトプランの所要時間は約20～30分で、景観の良いエリアを通過する。\
+\
+健闘を祈る！",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_12"] = " ",
+} -- end of dictionary

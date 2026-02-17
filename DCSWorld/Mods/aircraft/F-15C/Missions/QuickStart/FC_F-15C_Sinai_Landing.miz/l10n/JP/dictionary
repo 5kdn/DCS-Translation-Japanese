@@ -1,0 +1,11 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "F-15C VFR 着陸",
+	["DictKey_descriptionText_1"] = "VFR 着陸",
+	["DictKey_descriptionBlueTask_3"] = "着陸進入を継続しろ。滑走路は正面12NMだ。",
+	["DictKey_ActionText_6"] = "着陸進入中。滑走路は正面12NMにある。\
+\
+着陸準備を行え。準備ができたら [SPACEBAR] を押してフライトを開始しろ。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary
