@@ -1,0 +1,11 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "コールドスタート - パガン・パガン飛行場",
+	["DictKey_descriptionText_1"] = "このミッションでは、機体の始動、タキシング、離陸の練習を行う。",
+	["DictKey_descriptionBlueTask_3"] = "このミッションでは、機体の始動、タキシング、離陸の練習を行う。",
+	["DictKey_ActionText_7"] = "** BRIEF **\
+\
+このミッションでは、機体の始動、タキシング、離陸の練習を行う。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

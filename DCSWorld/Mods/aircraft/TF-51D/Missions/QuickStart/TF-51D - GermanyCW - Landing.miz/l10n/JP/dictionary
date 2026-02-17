@@ -1,0 +1,24 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "ATC からFASTMOVER (MiG29s) へ:\
+\
+Fastmover、タワー。ALPHA経由でタキシングを許可する。滑走路31手前で停止し、報告せよ。グランドにコンタクト、SQUAWK 124 decimal 85。タワー、アウト。",
+	["DictKey_descriptionText_1"] = "本ミッションは、着陸のための最終進入状態から開始する。\
+\
+直ちに着陸しても、周回パターンに入って複数回の進入を行ってもよい。脅威は存在しない。",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_20"] = "SIGNAL FLARES:\
+\
+着陸を許可する！",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "ランディング - ドイツ・グロース・モールドルフ",
+	["DictKey_ActionText_8"] = "LANDING:\
+\
+本ミッションは、着陸のための最終進入状態から開始する。\
+\
+直ちに着陸しても、周回パターンに入って複数回の進入を行ってもよい。脅威は存在しない。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_12"] = "FASTMOVER (MiG29s) からATCへ:\
+\
+Fastmover、WILCO。",
+} -- end of dictionary

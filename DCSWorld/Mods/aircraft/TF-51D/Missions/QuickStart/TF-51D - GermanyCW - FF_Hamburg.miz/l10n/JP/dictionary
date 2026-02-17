@@ -1,0 +1,26 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_7"] = "",
+	["DictKey_descriptionText_1"] = "朝、近隣飛行場のパイロットが無線で\"ナイフ飛行\"で造船所をかすめて通過したと自慢していた。\
+それを聞いた整備員はニヤリとして言った。\
+でも、うちのなら中を通り抜けられますよ\
+あなたは反論しなかった。ただ、こう尋ねただけだ。\
+-具体的には、どの造船所だ？\
+10分後には、すでにルートの準備を始めていた。\
+今さら後には引けない——整備員の言葉はコンクリートより重い。\
+\
+本ミッションでは、ドックヤードを通過する飛行に挑戦せよ。ハンガーへの方位は、機体から221°である。\
+あるいは、ハンブルク港上空でのフリーフライトを実施してもよい。",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_18"] = "",
+	["DictKey_ActionText_13"] = "おめでとう。これより自由飛行を許可する。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "フリーフライト - ドイツ・ブレーメン",
+	["DictKey_ActionText_9"] = "",
+	["DictKey_ActionText_11"] = "",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_12"] = "",
+} -- end of dictionary

@@ -1,0 +1,11 @@
+dictionary = 
+{
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "テイクオフ - イラク・アル・サラーム空軍基地",
+	["DictKey_descriptionText_1"] = "イラク2011へようこそ。脅威は存在しない。",
+	["DictKey_descriptionBlueTask_3"] = "滑走路13から開始する。離陸せよ。フライトプランに従っても、自由に探索してもよい。",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_6"] = "あなたは滑走路13にいる。離陸を許可する。",
+	["DictKey_subtitle_9"] = "射爆場はHOT状態！",
+} -- end of dictionary

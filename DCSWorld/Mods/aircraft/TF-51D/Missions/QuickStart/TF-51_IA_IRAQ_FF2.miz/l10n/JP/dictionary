@@ -1,0 +1,13 @@
+dictionary = 
+{
+	["DictKey_descriptionBlueTask_3"] = "これはフリー・フライトミッションです。基本的な機体操作の習熟、または周辺地域の探索に使用してください。脅威は存在しません。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "フリーフライト - イラク・ハバニヤ湖",
+	["DictKey_descriptionText_1"] = "これはフリー・フライトミッションです。基本的な機体操作の習熟、または周辺地域の探索に使用してください。脅威は存在しません。",
+	["DictKey_ActionText_11"] = "これはフリー・フライトミッションです。基本的な機体操作の習熟、または周辺地域の探索に使用してください。脅威は存在しません。",
+	["DictKey_ActionText_7"] = "",
+	["DictKey_ActionText_9"] = "*| GROUND CONTROL |*\
+\
+シグナルフレア……離陸を許可する",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

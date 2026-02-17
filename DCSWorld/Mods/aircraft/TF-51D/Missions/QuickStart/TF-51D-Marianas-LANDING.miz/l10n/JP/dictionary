@@ -1,0 +1,9 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "ランディング - グアム・アンダーセン空軍基地",
+	["DictKey_descriptionText_1"] = "これはフリーフライトのミッションであり、アンダーセン空軍基地での着陸を練習できる。アプローチ上空から開始し、グリーンフレア2発が着陸許可を示す。",
+	["DictKey_descriptionBlueTask_3"] = "これはフリーフライトのミッションであり、アンダーセン空軍基地での着陸を練習できる。アプローチ上空から開始し、グリーンフレア2発が着陸許可を示す。",
+	["DictKey_ActionText_6"] = "グリーンフレア2発……着陸を許可する。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

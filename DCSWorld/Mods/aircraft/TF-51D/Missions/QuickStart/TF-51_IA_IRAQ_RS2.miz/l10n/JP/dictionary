@@ -1,0 +1,13 @@
+dictionary = 
+{
+	["DictKey_descriptionBlueTask_3"] = "本ミッションは、離陸準備が整った状態で滑走路上から開始する。計画されたルートを飛行しても、周辺地域を自由に探索してもよい。脅威は存在しない。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "テイクオフ - イラク・バグダッド国際空港",
+	["DictKey_descriptionText_1"] = "本ミッションは、離陸準備が整った状態で滑走路上から開始する。計画されたルートを飛行しても、周辺地域を自由に探索してもよい。脅威は存在しない。",
+	["DictKey_ActionText_11"] = "本ミッションは、離陸準備が整った状態で滑走路上から開始する。計画されたルートを飛行しても、周辺地域を自由に探索してもよい。脅威は存在しない。",
+	["DictKey_ActionText_7"] = "",
+	["DictKey_ActionText_9"] = "*| GROUND CONTROL |*\
+\
+シグナルフレア……離陸を許可する",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

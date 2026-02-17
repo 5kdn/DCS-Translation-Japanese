@@ -1,0 +1,11 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "離陸 - サイパン島カグマン市",
+	["DictKey_descriptionText_1"] = "本ミッションは自機が滑走路上で離陸準備完了の状態で開始する。予定ルートを飛んでもよいし、周辺を自由に探索してもよい。脅威はない。",
+	["DictKey_descriptionBlueTask_3"] = "フリーフライトのミッションで、基本的な操縦に慣れるために使ってもよいし、周辺を自由に探索してもよい。脅威はない。",
+	["DictKey_ActionText_7"] = "** BRIEF **\
+\
+本ミッションは自機が滑走路上で離陸準備完了の状態で開始する。予定ルートを飛んでもよいし、周辺を自由に探索してもよい。脅威はない。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

@@ -1,0 +1,9 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "フリーフライト - オマーン東方",
+	["DictKey_descriptionText_1"] = "あなたはオマーン沖でTF-51Dに搭乗している。",
+	["DictKey_descriptionBlueTask_3"] = "TF-51Dを運用し、マップ全域を自由に探索してください。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_12"] = "ホルムズ海峡へようこそ。周辺空域を自由に飛行してください。脅威は存在しません。",
+} -- end of dictionary

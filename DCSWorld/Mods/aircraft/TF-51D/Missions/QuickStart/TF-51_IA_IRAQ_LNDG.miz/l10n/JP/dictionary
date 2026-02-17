@@ -1,0 +1,20 @@
+dictionary = 
+{
+	["DictKey_ActionText_6"] = "イラクへようこそ。現在、アクティブポーズ中です。\
+\
+あなたは滑走路15のスレッショルドから約4NM、1,500ft AGLにいる。\
+\
+着陸に向けて機体を設定してください。\
+\
+進入を開始する準備ができたら、SPACEBARを押して続行せよ。",
+	["DictKey_descriptionText_1"] = "イラク2011へようこそ。脅威は存在しない。",
+	["DictKey_descriptionBlueTask_3"] = "イラクへようこそ。あなたは滑走路15のスレッショルドから約4NM、1,500ft AGLにいる。\
+\
+着陸に向けて機体を設定せよ。",
+	["DictKey_subtitle_9"] = "射爆場はHOT状態！",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "ランディング - イラク・アル・サラーム空軍基地",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_12"] = "",
+} -- end of dictionary

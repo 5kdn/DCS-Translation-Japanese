@@ -1,0 +1,35 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_7"] = "",
+	["DictKey_ActionText_24"] = "",
+	["DictKey_ActionText_18"] = "",
+	["DictKey_ActionText_25"] = "",
+	["DictKey_ActionText_13"] = "おめでとう。これより自由飛行を許可する。",
+	["DictKey_ActionText_28"] = "",
+	["DictKey_ActionText_33"] = "",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_26"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_23"] = "",
+	["DictKey_sortie_5"] = "チャレンジ - ドイツ・カッセル自動車組立工場",
+	["DictKey_ActionText_22"] = "",
+	["DictKey_ActionText_9"] = "",
+	["DictKey_ActionText_27"] = "",
+	["DictKey_ActionText_30"] = "",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_31"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_29"] = "",
+	["DictKey_descriptionText_1"] = "あなたはTF-51Dのコックピットに戻ってきた。長いダウンタイムと大規模なオーバーホールを経て、この日を待ち続けてきた機体——そして今、その時が来た。\
+\
+任務は容易ではない。複数の自動車組立ホールを貫くルートを飛行せよ。各ホールは青煙でマーキングされている。最初のホールは、現在位置から方位21°にある。\
+\
+急ぐ必要はないが、機体は動きたがっている。反射神経、精度、そして胆力を試せ——このルートはそのために用意された。\
+\
+ルートに挑まない場合は、自由に空を探索してもよい。",
+	["DictKey_ActionText_11"] = "",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_32"] = "",
+	["DictKey_ActionText_12"] = "",
+} -- end of dictionary

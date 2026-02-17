@@ -1,0 +1,21 @@
+dictionary = 
+{
+	["DictKey_descriptionText_9"] = "バトゥミ市からコブレティ市への飛行。",
+	["DictKey_2"] = "Success!",
+	["DictKey_6"] = "DictKey_4",
+	["DictKey_descriptionBlueTask_11"] = "バトゥミ市からコブレティ市への飛行。",
+	["DictKey_4"] = "Success!",
+	["DictKey_3"] = "",
+	["DictKey_descriptionNeutralsTask_12"] = "",
+	["DictKey_GroupName_5"] = "Player",
+	["DictKey_5"] = "DictKey_3",
+	["DictKey_descriptionRedTask_8"] = "",
+	["DictKey_sortie_10"] = "ホットスタート",
+	["DictKey_WptName_12"] = "",
+	["DictKey_sortie_13"] = "テイクオフ - ジョージア・バトゥミ市",
+	["DictKey_WptName_11"] = "",
+	["DictKey_descriptionText_7"] = "バトゥミ市からクタイシ市への飛行。",
+	["DictKey_UnitName_6"] = "Player",
+	["DictKey_descriptionRedTask_10"] = "",
+	["DictKey_descriptionBlueTask_9"] = "バトゥミ市からクタイシ市への飛行。",
+} -- end of dictionary

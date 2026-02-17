@@ -1,0 +1,17 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "テイクオフ - ドイツ・ガトウ",
+	["DictKey_descriptionText_1"] = "これは\"フリー・フライト\"ミッションです。基本的な機体操作の習熟、または周辺地域の探索に使用してください。脅威は存在しません。\
+",
+	["DictKey_descriptionBlueTask_3"] = "\
+",
+	["DictKey_ActionText_11"] = "SIGNAL FLARE:\
+\
+離陸を許可する！",
+	["DictKey_ActionText_7"] = "RUNWAY START:\
+\
+本ミッションは、離陸準備が整った状態で滑走路上から開始する。計画されたルートを飛行しても、周辺地域を自由に探索してもよい。脅威は存在しない。\
+",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary
