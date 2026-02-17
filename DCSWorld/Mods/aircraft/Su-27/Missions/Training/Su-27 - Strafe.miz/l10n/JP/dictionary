@@ -1,0 +1,109 @@
+dictionary = 
+{
+    ["DictKey_UnitName_59"] = "Mozdok IL-76MD #002",
+    ["DictKey_18"] = "かなり暗いので、計器とHUDのレーダー高度計を注意深く監視せよ。\
+\
+低空を飛ぶため、航路高度を下回らないように注意すること。\
+\
+これまでと同様に前方のゲートを通過し、目標に近づいたらガンについてさらに説明する。\
+",
+    ["DictKey_UnitName_67"] = "Mozdok L-39ZA #001",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_ActionText_144"] = "",
+    ["DictKey_UnitName_49"] = "Mozdok Su-25T #004",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_descriptionBlueTask_87"] = "",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_UnitName_73"] = "Mozdok L-39ZA #004",
+    ["DictKey_UnitName_57"] = "Mozdok IL-76MD #001",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_21"] = "HUD右下には、ガンの残弾を4分割で示すボックスがある。\
+\
+4が満装、1が1/4を示す。\
+",
+    ["DictKey_UnitName_53"] = "Mozdok Su-25T #002",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_descriptionText_85"] = "このレッスンでは、内蔵30mmカノンの使用方法を学ぶ。\
+\
+\
+使用するキーコマンド:\
+\
+空対地モード: 7\
+コックピット照明: L\
+カノン選択: C\
+カノン射撃: スペースバー\
+",
+    ["DictKey_sortie_88"] = "内蔵30mmカノン",
+    ["DictKey_25"] = "目標に命中した！\
+\
+Escキーを押してレッスンを終了してよい。もしくは照明フレアが消える前に、グリーンスモークの残存目標で練習を続けろ。\
+",
+    ["DictKey_17"] = "カノンを選択したら、HUD左側にある兵装ステータス・パネルを確認せよ。\
+\
+右下には、カノン残弾数の表示がある。\
+\
+\"K\"は満装を示し、1/2および1/4の表示もある。\
+\
+パネル右上には兵装インジケーター(ВПУ)があり、カノンが選択されていることを示す。\
+\
+スペースバーを押してレッスンのポーズを解除し、前方のゲートをすべて通過せよ。\
+",
+    ["DictKey_23"] = "これから、レッドスモークでマーキングされたトラック数両の目標へダイブを開始する。\
+\
+目標を視認しやすいよう、目標地域上空に照明フレアを投下する。\
+\
+ゲート通過を続けて、目標へ正対するように進入せよ。\
+",
+    ["DictKey_descriptionRedTask_86"] = "カノンでレッドスモークの目標を破壊せよ。\
+",
+    ["DictKey_20"] = "HUD左下にGUNが表示され、選択中であることを示している。\
+",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_16"] = "カノンをアクティブ兵装として選択するにはCを押せ。\
+",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_UnitName_55"] = "Mozdok Su-25T #003",
+    ["DictKey_UnitName_51"] = "Mozdok Su-25T #001",
+    ["DictKey_19"] = "次のゲートは低い。高度に注意しろ。\
+",
+    ["DictKey_UnitName_75"] = "Mozdok L-39ZA #005",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_14"] = "このレッスンでは、内蔵30mmカノンの使用方法を学ぶ。\
+\
+レッスンはアクティブ・ポーズで開始する。\
+\
+Su-27の機首胴体右側には、150発装弾のGSh-301 30mmカノンが搭載されている。\
+\
+弾薬には曳光弾が含まれており、着弾点の判断に役立つ。\
+\
+発射速度は約3,000発/分、初速は870m/sだ。\
+\
+Lを押してコックピット照明を点灯できる。\
+\
+続行するにはスペースバーを押せ。\
+",
+    ["DictKey_UnitName_65"] = "Mozdok Mi-26 #002",
+    ["DictKey_UnitName_63"] = "Mozdok Mi-26 #001",
+    ["DictKey_UnitName_69"] = "Mozdok L-39ZA #002",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_UnitName_71"] = "Mozdok L-39ZA #003",
+    ["DictKey_24"] = "対気速度に注意し、照準レティクルを目標のいずれかに重ねるように飛べ。\
+\
+LAキューが出たらスペースバーを押せ。",
+    ["DictKey_15"] = "7を押して空対地モードを有効にせよ。\
+",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_UnitName_61"] = "Mozdok IL-76MD #003",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_22"] = "HUD左側には、ロケットで見たのと同じ最大/最小射程バーがある。\
+\
+距離キャレットが2本のバーの間にあるとき、HUDの照準レティクル直下の地点はカノン射程内だ。\
+\
+射程内では、LA表示が出る。\
+",
+} -- end of dictionary

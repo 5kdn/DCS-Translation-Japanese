@@ -1,0 +1,49 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_34"] = "",
+	["DictKey_ActionText_40"] = "全ての敵機を撃墜した！\
+\
+ミッションを終了するか、RTBを許可する。",
+	["DictKey_ActionText_18"] = "",
+	["DictKey_ActionText_25"] = "",
+	["DictKey_ActionText_43"] = "",
+	["DictKey_ActionText_36"] = "",
+	["DictKey_ActionText_33"] = "",
+	["DictKey_ActionText_16"] = "",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_26"] = "敵機は12時方向にいる。オフェンシブな姿勢を維持し、撃墜せよ。",
+	["DictKey_descriptionRedTask_2"] = "敵戦闘機を撃墜せよ。",
+	["DictKey_ActionText_23"] = "",
+	["DictKey_ActionText_30"] = "",
+	["DictKey_ActionText_11"] = "",
+	["DictKey_ActionText_15"] = "",
+	["DictKey_ActionText_6"] = "",
+	["DictKey_ActionText_7"] = "",
+	["DictKey_ActionText_24"] = "",
+	["DictKey_ActionText_35"] = "",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_ActionText_39"] = "",
+	["DictKey_sortie_5"] = "オフェンシブBFM",
+	["DictKey_ActionText_12"] = "",
+	["DictKey_ActionText_32"] = "",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_21"] = "",
+	["DictKey_ActionText_22"] = "",
+	["DictKey_ActionText_9"] = "",
+	["DictKey_ActionText_20"] = "",
+	["DictKey_descriptionText_1"] = "敵機は12時方向にいる。オフェンシブな姿勢を維持し、撃墜せよ。\
+\
+本ミッションでは、明確な優位を得た状態から開始する。熟練したプレイヤーであれば、あえて射撃を遅らせ、どれだけ長くオフェンシブポジションを維持できるか試す訓練としても有効だ。",
+	["DictKey_ActionText_29"] = "",
+	["DictKey_ActionText_14"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_31"] = "",
+	["DictKey_ActionText_17"] = "",
+	["DictKey_ActionText_28"] = "",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_37"] = "Splash one！\
+\
+2機目の敵機がエリアに進入した。ニュートラルなBFM状況に挑むか、ミッションを終了してもよい。",
+	["DictKey_ActionText_42"] = "",
+} -- end of dictionary

@@ -1,0 +1,29 @@
+dictionary = 
+{
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_6"] = "最初の橋を通過した！\
+\
+ゲートに従って2本目の橋へ向かえ。\
+",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_descriptionRedTask_11"] = "指定された2本の橋の下を、各ゲートを通過して飛行せよ。\
+",
+    ["DictKey_7"] = "よくやった。\
+\
+ミッションを終了してよい。\
+",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_sortie_13"] = "橋下飛行",
+    ["DictKey_WptName_37"] = "",
+    ["DictKey_descriptionBlueTask_12"] = "",
+    ["DictKey_5"] = "多くのバーチャルパイロットに人気の課題だ。橋の下を飛行してみよう。\
+\
+ゲートに従って橋へ進み、その下に設置されたゲートを通過せよ。\
+",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_descriptionText_10"] = "多くのバーチャルパイロットに人気の課題だ。橋の下を飛行してみよう。\
+\
+ゲートに従って橋へ進み、その下に設置されたゲートを通過せよ。\
+",
+} -- end of dictionary

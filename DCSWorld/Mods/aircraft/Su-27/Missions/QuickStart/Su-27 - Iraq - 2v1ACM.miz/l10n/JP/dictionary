@@ -1,0 +1,47 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_34"] = "",
+	["DictKey_ActionText_40"] = "",
+	["DictKey_ActionText_29"] = "",
+	["DictKey_ActionText_25"] = "",
+	["DictKey_ActionText_36"] = "",
+	["DictKey_ActionText_41"] = "全ての敵機を撃墜した！ミッションを終了するか、RTBを許可する。",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_26"] = "",
+	["DictKey_descriptionRedTask_2"] = "全ての敵機を撃墜せよ。",
+	["DictKey_ActionText_23"] = "",
+	["DictKey_ActionText_30"] = "",
+	["DictKey_ActionText_11"] = "",
+	["DictKey_ActionText_15"] = "",
+	["DictKey_ActionText_6"] = "",
+	["DictKey_ActionText_7"] = "",
+	["DictKey_ActionText_24"] = "",
+	["DictKey_ActionText_35"] = "",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_ActionText_39"] = "",
+	["DictKey_sortie_5"] = "2対1 ACM",
+	["DictKey_ActionText_37"] = "",
+	["DictKey_ActionText_14"] = "",
+	["DictKey_ActionText_21"] = "",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_descriptionText_1"] = "敵機は前方、後方、または側方のいずれかにいる。僚機と連携し、オフェンシブなポジションを確保して、可能な限り迅速に撃墜せよ。\
+\
+自機が支援に回り、僚機に交戦させたい場合は無線コマンド'engage bandits'を送信せよ。自機が交戦し、僚機に支援させたい場合は無線コール'cover me'を送信せよ。",
+	["DictKey_ActionText_9"] = "",
+	["DictKey_ActionText_20"] = "",
+	["DictKey_ActionText_22"] = "",
+	["DictKey_ActionText_31"] = "Splash one！\
+\
+2機目の敵機がエリアに進入した。位置を特定し、僚機と連携してこれを撃墜せよ。",
+	["DictKey_ActionText_38"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_18"] = "",
+	["DictKey_ActionText_28"] = "",
+	["DictKey_ActionText_17"] = "敵機は前方、後方、または側方のいずれかにいる。僚機と連携し、オフェンシブなポジションを確保して、可能な限り迅速に撃墜せよ。\
+\
+自機が支援に回り、僚機に交戦させたい場合は無線コマンド'engage bandits'を送信せよ。自機が交戦し、僚機に支援させたい場合は無線コール'cover me'を送信せよ。",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_27"] = "",
+	["DictKey_ActionText_12"] = "",
+} -- end of dictionary

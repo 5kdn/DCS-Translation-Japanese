@@ -1,0 +1,10 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Su-27 - フリーフライト",
+    ["DictKey_descriptionText_1"] = "Su-27でバンダル・アッバース南方、高度5,000ft。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_descriptionRedTask_2"] = "脅威のない環境でSu-27の飛行を楽しめ。",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_ActionText_13"] = "脅威のない環境でSu-27の飛行を楽しめ。",
+} -- end of dictionary

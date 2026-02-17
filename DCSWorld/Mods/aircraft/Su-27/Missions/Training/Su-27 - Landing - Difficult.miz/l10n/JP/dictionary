@@ -1,0 +1,115 @@
+dictionary = 
+{
+    ["DictKey_UnitName_59"] = "Mozdok AFB IL-76MD #003",
+    ["DictKey_ActionText_112"] = "",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_UnitName_67"] = "Mozdok AFB L-39ZA #002",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_UnitName_49"] = "Mozdok AFB Su-25T #001",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_descriptionText_78"] = "このレッスンでは、雷雨の夜間に飛行場へ航法し、着陸する方法を学ぶ。\
+\
+この飛行場にはロシア式ILSはない。\
+\
+重要: 機首が前方および下方の視界を遮る場合、|RCtrl + RShift + Num8|および|RCtrl + RShift + Num2|でコックピットの座席を調整(上昇)せよ。\
+\
+\
+キーコマンド:\
+\
+ナビゲーション・モード切替: 1\
+次のウェイポイント: LCtrl + `\
+コックピット照明: L\
+脚下げ: G\
+エアブレーキ: B\
+着陸フラップ: LShift + F\
+ラダー左: Z\
+ラダー右: X\
+ドラッグシュート: P\
+ホイールブレーキ: W\
+",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_UnitName_73"] = "Mozdok AFB L-39ZA #005",
+    ["DictKey_UnitName_57"] = "Mozdok AFB IL-76MD #002",
+    ["DictKey_ActionText_113"] = "",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_UnitName_53"] = "Mozdok AFB Su-25T #003",
+    ["DictKey_18"] = "どうにか降ろしたようだが、整備員は今の仕事ぶりを快く思わないだろう。\
+\
+Escキーを押してレッスンを終了してよい。\
+",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_UnitName_61"] = "Mozdok AFB Mi-26 #001",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_17"] = "機体は無事に降ろせたようだ。\
+\
+Escキーを押してレッスンを終了してよい。\
+",
+    ["DictKey_sortie_81"] = "着陸 - Difficult",
+    ["DictKey_descriptionBlueTask_80"] = "",
+    ["DictKey_13"] = "HUDとADIによる進路指示で学んだ内容を使い、ベスラン飛行場のILSインターセプトへ導く割り当てリターン・コースを飛行せよ。\
+\
+降下を開始すると速度が出やすい。Bを押してエアブレーキを展開できることを忘れるな。\
+",
+    ["DictKey_11"] = "これまでの2つのレッスンでは、理想的な条件下での航法と着陸の基礎を学んだ。\
+\
+このレッスンでは、雷雨の夜間に飛行場を見つけて着陸することで、その成果を試す。\
+\
+楽しそうだろう？\
+\
+まずLを押してコックピット照明を点灯せよ。\
+",
+    ["DictKey_UnitName_77"] = "Mozdok AFB Su-25T #006",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_16"] = "インナー・マーカービーコン上空を通過する際、南から北への弱い横風に気付いたはずだ。\
+\
+これに対抗するため、Zでわずかに左ラダーを入れ、同時に右へ軽くバンクして、機首を滑走路方向に維持せよ。\
+\
+接地したら、Pでドラッグシュートを展開し、Wでホイールブレーキを使用せよ。\
+",
+    ["DictKey_19"] = "ミッション失敗。\
+\
+Escキーを押してレッスンを終了せよ。\
+",
+    ["DictKey_UnitName_75"] = "Mozdok AFB Su-25T #005",
+    ["DictKey_UnitName_47"] = "Mozdok AFB Su-25T #004",
+    ["DictKey_UnitName_55"] = "Mozdok AFB IL-76MD #001",
+    ["DictKey_14"] = "飛行場に近づくにあたり、前回のレッスンで扱ったロシア式ILSを備えていない飛行場もあることを補足しておく。\
+\
+ILSを備える飛行場には、モズドク、クリムスク、マイコプ、クラスノダール・センターがある。\
+\
+ベスランにはこれがないため、HUDにILS表示は出ない。\
+\
+ただしHSIを見ると、中央に破線の十字と、実線の縦線・横線が表示されているはずだ。\
+\
+破線は固定で、実線に対する最適なグライドスロープおよびローカライザー位置を示している。\
+\
+続行するにはスペースバーを押せ。\
+",
+    ["DictKey_UnitName_65"] = "Mozdok AFB L-39ZA #001",
+    ["DictKey_UnitName_63"] = "Mozdok AFB Mi-26 #002",
+    ["DictKey_UnitName_69"] = "Mozdok AFB L-39ZA #003",
+    ["DictKey_descriptionRedTask_79"] = "ベスラン飛行場(21)へ航法し、着陸せよ。\
+",
+    ["DictKey_UnitName_71"] = "Mozdok AFB L-39ZA #004",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_15"] = "グライドスロープ・バーが破線より下にある場合、あなたはグライドスロープより上にいる。\
+\
+破線より上にある場合、グライドスロープより下だ。\
+\
+ローカライザーのラインが中央より左にあれば左へ、中央より右にあれば右へ修正せよ。\
+\
+常にニードルに向かって飛行する。\
+",
+    ["DictKey_UnitName_51"] = "Mozdok AFB Su-25T #002",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_12"] = "現在はエンルート・モードだが、ルート最終目的地には飛行場が設定されていない。\
+\
+そこで、1を押してリターン・モードを選択せよ。\
+",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_WptName_100"] = "",
+} -- end of dictionary

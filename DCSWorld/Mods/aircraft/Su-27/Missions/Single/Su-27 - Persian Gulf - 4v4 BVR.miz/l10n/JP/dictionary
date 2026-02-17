@@ -1,0 +1,12 @@
+dictionary = 
+{
+    ["DictKey_UnitName_22"] = "Pilot #003",
+    ["DictKey_descriptionText_1"] = "UAEのフジャイラ東方に位置し、西進して40NM先のF-15C 4機編隊へ向かっている。同高度だ。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_20"] = "Mission Success!",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Su-27 - BVR",
+    ["DictKey_ActionText_19"] = "あなたとSu-27の4機編隊は、視程外戦闘でF-15C編隊と交戦せよ。",
+    ["DictKey_descriptionRedTask_2"] = "あなたとSu-27の4機編隊は、視程外戦闘でF-15C編隊と交戦せよ。",
+} -- end of dictionary

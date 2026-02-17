@@ -1,0 +1,15 @@
+dictionary = 
+{
+    ["DictKey_descriptionText_1"] = "バンダル・アッバース飛行場の駐機ランプ上。Su-27はコールド＆ダーク状態だ。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_18"] = "機体を始動し、滑走路03Lへとタキシングせよ。",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Su-27 - コールドスタート",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_ActionText_20"] = "MISSION SUCCESS！ ミッションを終了してよい。",
+    ["DictKey_ActionText_19"] = "機体始動は良好だ。滑走路03Lへとタキシングせよ。",
+    ["DictKey_WptName_10"] = "",
+    ["DictKey_descriptionRedTask_2"] = "機体を始動し、滑走路03Lへとタキシングせよ。",
+} -- end of dictionary
