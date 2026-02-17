@@ -1,0 +1,10 @@
+dictionary = 
+{
+	["DictKey_WptName_12"] = "",
+	["DictKey_WptName_11"] = "",
+	["DictKey_descriptionText_1"] = "クリクヴィル＝アン＝ベッサン滑走路から離陸する。",
+	["DictKey_descriptionBlueTask_3"] = "離陸せよ。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_WptName_13"] = "",
+	["DictKey_sortie_4"] = "テイクオフ - フランス・クリクヴィル＝アン＝ベッサン",
+} -- end of dictionary

@@ -1,0 +1,9 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "コールドスタート - ロシア・セヴェロモルスク市",
+	["DictKey_descriptionText_1"] = "",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_7"] = "このミッションでは、機体の始動、タキシング、離陸の練習を行う。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

@@ -1,0 +1,12 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "着陸 - グアム島アガナ市",
+	["DictKey_descriptionText_1"] = "フリーフライトのミッションで、アガナ飛行場での着陸訓練ができる。飛行場への進入で開始し、グリーンフレア2発で着陸を許可する。",
+	["DictKey_descriptionBlueTask_3"] = "フリーフライトのミッションで、アガナ飛行場での着陸訓練ができる。飛行場への進入で開始し、グリーンフレア2発で着陸を許可する。",
+	["DictKey_ActionText_6"] = "グリーンフレアが2発……着陸を許可する。",
+	["DictKey_ActionText_15"] = "** BRIEF **\
+\
+本ミッションは自機が着陸の最終進入に入った状態で開始する。直ちに着陸してもよいし、パターンに入り複数回のアプローチを行ってもよい。脅威はない。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

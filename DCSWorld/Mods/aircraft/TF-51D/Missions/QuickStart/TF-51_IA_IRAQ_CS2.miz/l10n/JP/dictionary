@@ -1,0 +1,18 @@
+dictionary = 
+{
+	["DictKey_ActionText_7"] = "",
+	["DictKey_ActionText_22"] = "直進してタキシングせよ！",
+	["DictKey_ActionText_9"] = "*| GROUND CONTROL |*\
+\
+シグナルフレア……離陸を許可する",
+	["DictKey_ActionText_18"] = "左へ曲がれ！",
+	["DictKey_descriptionText_1"] = "本ミッションを使用して、機体の始動、タキシング、離陸を訓練せよ。",
+	["DictKey_ActionText_28"] = "離陸を許可する！",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "コールドスタート - イラク・スレイマニヤ国際空港",
+	["DictKey_ActionText_16"] = "右へ曲がれ！",
+	["DictKey_ActionText_11"] = "本ミッションを使用して、機体の始動、タキシング、離陸を訓練せよ。",
+	["DictKey_descriptionBlueTask_3"] = "本ミッションを使用して、機体の始動、タキシング、離陸を訓練せよ。",
+	["DictKey_ActionText_20"] = "左へ曲がれ！",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

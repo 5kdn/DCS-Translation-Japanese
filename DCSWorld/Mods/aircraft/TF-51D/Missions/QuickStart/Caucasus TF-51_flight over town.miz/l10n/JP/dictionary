@@ -1,0 +1,8 @@
+dictionary = 
+{
+	["DictKey_descriptionRedTask_5"] = "",
+	["DictKey_descriptionText_4"] = "市街地上空の飛行。",
+	["DictKey_descriptionNeutralsTask_7"] = "",
+	["DictKey_descriptionBlueTask_6"] = "自由に飛行してください。",
+	["DictKey_sortie_8"] = "フリーフライト - ジョージア・トビリシ市",
+} -- end of dictionary

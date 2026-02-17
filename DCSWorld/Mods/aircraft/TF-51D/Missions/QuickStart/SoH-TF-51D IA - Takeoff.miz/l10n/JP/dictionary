@@ -1,0 +1,20 @@
+dictionary = 
+{
+	["DictKey_UnitName_14"] = "",
+	["DictKey_UnitName_20"] = "New Static Object #002",
+	["DictKey_UnitName_23"] = "New Static Object #002",
+	["DictKey_ActionText_36"] = "本ミッションを使用して、TF-51Dでの離陸を訓練せよ。",
+	["DictKey_sortie_5"] = "テイクオフ - オマーン・ハサブ飛行場",
+	["DictKey_UnitName_26"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_UnitName_17"] = "New Static Object #001",
+	["DictKey_descriptionText_1"] = "あなたはハサブ飛行場の滑走路上で、TF-51Dに搭乗している。",
+	["DictKey_descriptionBlueTask_3"] = "TF-51Dで離陸せよ。",
+	["DictKey_WptName_18"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_WptName_21"] = "",
+	["DictKey_WptName_24"] = "",
+	["DictKey_WptName_15"] = "",
+	["DictKey_ActionText_37"] = "Mission Success!",
+	["DictKey_WptName_27"] = "",
+} -- end of dictionary

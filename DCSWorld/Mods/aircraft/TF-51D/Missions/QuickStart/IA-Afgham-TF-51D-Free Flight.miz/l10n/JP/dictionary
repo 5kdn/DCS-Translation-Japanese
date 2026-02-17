@@ -1,0 +1,8 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "フリーフライト - アフガニスタン・シンダンド基地",
+	["DictKey_descriptionText_1"] = "これはアフガニスタン上空で実施するTF-51Dのフリーフライトミッションです。",
+	["DictKey_descriptionBlueTask_3"] = "アフガニスタン上空を飛行自由に飛行してください。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary
