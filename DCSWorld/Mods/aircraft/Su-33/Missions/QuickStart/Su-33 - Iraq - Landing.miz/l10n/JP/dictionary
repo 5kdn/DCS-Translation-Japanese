@@ -1,0 +1,19 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_6"] = "",
+	["DictKey_ActionText_7"] = "",
+	["DictKey_descriptionText_1"] = "このミッションは、着陸最終進入中の状態で開始する。直ちに着陸してもよいし、複数回のアプローチのためパターンに入ってもよい。脅威はない。",
+	["DictKey_ActionText_9"] = "",
+	["DictKey_ActionText_17"] = "このミッションは、着陸最終進入中の状態で開始する。直ちに着陸してもよいし、複数回のアプローチのためパターンに入ってもよい。脅威はない。",
+	["DictKey_descriptionRedTask_2"] = "前方の滑走路に着陸しろ。",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_ActionText_14"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "着陸",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_11"] = "",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_15"] = "",
+	["DictKey_ActionText_12"] = "",
+} -- end of dictionary

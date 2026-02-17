@@ -1,0 +1,89 @@
+dictionary = 
+{
+    ["DictKey_UnitName_59"] = "Mozdok IL-76MD #002",
+    ["DictKey_UnitName_61"] = "Mozdok IL-76MD #003",
+    ["DictKey_UnitName_67"] = "Mozdok L-39ZA #001",
+    ["DictKey_WptName_122"] = "",
+    ["DictKey_ActionText_144"] = "",
+    ["DictKey_UnitName_49"] = "Mozdok Su-25T #004",
+    ["DictKey_WptName_125"] = "",
+    ["DictKey_descriptionBlueTask_87"] = "",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_UnitName_73"] = "Mozdok L-39ZA #004",
+    ["DictKey_UnitName_57"] = "Mozdok IL-76MD #001",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_21"] = "HUD右下のボックスは機関砲弾数の残量を1/4単位で示す。\
+\
+4が満載、1が残り1/4だ。",
+    ["DictKey_UnitName_53"] = "Mozdok Su-25T #002",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_descriptionText_85"] = "このレッスンでは内蔵30mm機関砲の使用方法を学ぶ。\
+\
+\
+使用キー操作:\
+\
+空対地モード: 7\
+コクピットライト: L\
+機関砲選択: C\
+機関砲射撃: Space Bar\
+",
+    ["DictKey_sortie_88"] = "内蔵30mm機関砲",
+    ["DictKey_25"] = "命中だ！\
+\
+Escキーを押してレッスンを終了してもよい。あるいは照明弾が消える前に、グリーンスモークで示された残りの目標で練習しろ。",
+    ["DictKey_17"] = "Space Barを押してポーズを解除し、前方のゲートをすべて通過しろ。",
+    ["DictKey_descriptionRedTask_86"] = "レッドスモークで示された目標を機関砲で破壊しろ。\
+",
+    ["DictKey_23"] = "これから、レッドスモークで示されたトラック数両の目標に対してダイブを開始する。\
+\
+目標を視認しやすいよう、目標地域上空に照明弾が投下される。\
+\
+ゲート通過を継続して、目標に正対する位置取りをしろ。",
+    ["DictKey_20"] = "HUD左下にGUNが表示される。機関砲が選択されていることを示す。",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_UnitName_65"] = "Mozdok Mi-26 #002",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_UnitName_63"] = "Mozdok Mi-26 #001",
+    ["DictKey_UnitName_51"] = "Mozdok Su-25T #001",
+    ["DictKey_19"] = "次のゲートは低い。高度に注意しろ。",
+    ["DictKey_UnitName_75"] = "Mozdok L-39ZA #005",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_14"] = "このレッスンでは内蔵30mm機関砲の使用方法を学ぶ。\
+\
+レッスンはアクティブポーズ状態で開始する。\
+\
+機首胴体右側には、150発弾倉のGSh-301 30mm機関砲が装備されている。\
+\
+弾薬には曳光弾が含まれており、着弾位置の判定に使える。\
+\
+発射速度は約3,000発/分、初速は870m/sだ。\
+\
+\
+Space Barを押して続行しろ。",
+    ["DictKey_16"] = "Cを押して機関砲を使用兵装に選択しろ。",
+    ["DictKey_UnitName_55"] = "Mozdok Su-25T #003",
+    ["DictKey_UnitName_69"] = "Mozdok L-39ZA #002",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_UnitName_71"] = "Mozdok L-39ZA #003",
+    ["DictKey_24"] = "速度に注意し、照準レティクルを目標のいずれかに重ねるように飛べ。\
+\
+LAキューが出たらSpace Barを押せ。",
+    ["DictKey_15"] = "7を押して空対地モードに入れ。",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_18"] = "かなり暗いので、計器とHUDのレーダー高度計をよく監視しろ。\
+\
+低高度で飛行する。経路指定高度を下回らないよう注意しろ。\
+\
+これまでと同様に前方のゲートを通過しろ。目標に近づいたら機関砲についてさらに説明する。",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_22"] = "HUD左側には、ロケットと同様に最大/最小レンジバーがある。\
+\
+レンジキャレットが2本のバーの間に入っている間、機関砲はHUD照準レティクル直下の地点に対して有効射程内だ。\
+\
+有効射程内ではLA表示が出る。",
+} -- end of dictionary

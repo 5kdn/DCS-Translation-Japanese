@@ -1,0 +1,21 @@
+dictionary = 
+{
+    ["DictKey_ActionText_40"] = "このミッションは、着艦最終進入中の状態で開始する。直ちに着艦してもよいし、複数回のアプローチのためパターンに入ってもよい。脅威はない。",
+    ["DictKey_UnitName_23"] = "",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_descriptionBlueTask_14"] = "",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_sortie_15"] = "空母着艦",
+    ["DictKey_UnitName_38"] = "Carrier Static #005",
+    ["DictKey_UnitName_32"] = "Carrier Static #003",
+    ["DictKey_UnitName_29"] = "Carrier Static #001",
+    ["DictKey_UnitName_35"] = "Carrier Static #004",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_UnitName_26"] = "Carrier Static #001",
+    ["DictKey_descriptionText_12"] = "このミッションは、着艦最終進入中の状態で開始する。直ちに着艦してもよいし、複数回のアプローチのためパターンに入ってもよい。脅威はない。",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_descriptionRedTask_13"] = "重航空巡洋艦クズネツォフの飛行甲板に着艦しろ。\
+",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_WptName_27"] = "",
+} -- end of dictionary

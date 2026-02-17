@@ -1,0 +1,50 @@
+dictionary = 
+{
+    ["DictKey_UnitName_59"] = "Smoke #001",
+    ["DictKey_UnitName_89"] = "Carrier Static #003",
+    ["DictKey_UnitName_33"] = "Unit #015",
+    ["DictKey_UnitName_67"] = "+ Player",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_UnitName_92"] = "Carrier Static #004",
+    ["DictKey_UnitName_56"] = "Smoke #001",
+    ["DictKey_descriptionRedTask_2"] = "すべてのMLRS部隊を撃破しろ。",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_UnitName_29"] = "Unit #014",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_WptName_31"] = "",
+    ["DictKey_UnitName_35"] = "Unit #017",
+    ["DictKey_ActionText_62"] = "",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_UnitName_53"] = "",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_UnitName_98"] = "Carrier Static #006",
+    ["DictKey_ActionText_64"] = "MLRS部隊をすべて撃破した。Mission success！",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_UnitName_83"] = "Carrier Static #001",
+    ["DictKey_UnitName_36"] = "Unit #018",
+    ["DictKey_descriptionText_1"] = "正面の川向こうに、敵のMLRS グラード部隊が射撃陣地に展開している。友軍部隊が緊急に撃破を要請している。\
+\
+目標はWP1、ゼニー町東端、火災と煙の東側だ。",
+    ["DictKey_UnitName_34"] = "Unit #016",
+    ["DictKey_GroupName_28"] = "New Ship Group",
+    ["DictKey_GroupName_66"] = "Su-33",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_ActionComment_63"] = "DictKey_ActionComment_63",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_51"] = "正面の川向こうに、敵のMLRS グラード部隊が射撃陣地に展開している。友軍部隊が緊急に撃破を要請している。\
+\
+目標はWP1、ゼニー町東端、火災と煙の東側だ。\
+\
+すべてのMLRS部隊を撃破しろ。",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_UnitName_95"] = "Carrier Static #005",
+    ["DictKey_sortie_5"] = "対地攻撃",
+    ["DictKey_UnitName_86"] = "Carrier Static #002",
+} -- end of dictionary

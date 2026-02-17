@@ -1,0 +1,107 @@
+dictionary = 
+{
+    ["DictKey_18"] = "まだなら7を押して対地モードに入れ。",
+    ["DictKey_UnitName_52"] = "Mozdok AFB Su-25T #004",
+    ["DictKey_UnitName_60"] = "Mozdok AFB Mi-26 #001",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_UnitName_68"] = "Mozdok AFB L-39ZA #003",
+    ["DictKey_UnitName_48"] = "Mozdok AFB Su-25T #001",
+    ["DictKey_UnitName_56"] = "Mozdok AFB IL-76MD #002",
+    ["DictKey_UnitName_62"] = "Mozdok AFB Mi-26 #002",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_20"] = "HUD左側には、爆弾の落下距離を示すレンジスケールバーとキャレットがある。",
+    ["DictKey_22"] = "機首前方下に、赤いスモークで示された目標トラック群がある。\
+\
+ここが照準点だ。\
+\
+次のゲートを通過したら、すぐに目標へ向けて降下を開始しろ。",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_21"] = "HUD左下にIP GNDと表示されている。これは目視爆撃モードが選択されていることを意味する。\
+\
+HUD右下のBは、爆弾が選択されていることを示す。",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_UnitName_70"] = "Mozdok AFB L-39ZA #004",
+    ["DictKey_17"] = "これが爆弾投下のための基本設定だ。次はCCIPモードで目標に爆弾を命中させる方法を学ぶ。\
+\
+航法レッスンで学んだとおり、前方のゲートを全て通過しろ。\
+\
+Space Barを押してレッスンを再開しろ。\
+",
+    ["DictKey_UnitName_58"] = "Mozdok AFB IL-76MD #003",
+    ["DictKey_descriptionBlueTask_95"] = "",
+    ["DictKey_13"] = "このレッスンでは、Continuously Computed Impact Point(CCIP)で無誘導爆弾を投下する方法を学ぶ。\
+\
+今はレッスンをアクティブポーズ中だ。\
+\
+まず7を押して対地モードを選べ。\
+\
+今すぐやれ。",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_UnitName_46"] = "Mozdok AFB Su-25T #002",
+    ["DictKey_24"] = "よし、命中だ。\
+\
+グリーンスモークで示された追加目標を用意した。練習に使え。\
+\
+練習を続けてもいいし、ESCキーを押してレッスンを終了してもいい。",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_19"] = "HUDには中央にピッパードットのある円が表示されている。\
+\
+これが爆撃レティクルだ。これで爆弾の照準を取る。\
+\
+有効な投下条件内に入ると(HUDの発射許可表示で示される)、爆弾は投下時点の爆撃レティクルのピッパー位置に着弾する。",
+    ["DictKey_descriptionRedTask_94"] = "レッドスモークの目標を無誘導爆弾で破壊しろ。\
+\
+\
+",
+    ["DictKey_UnitName_54"] = "Mozdok AFB IL-76MD #001",
+    ["DictKey_UnitName_50"] = "Mozdok AFB Su-25T #003",
+    ["DictKey_14"] = "HUDは航法情報の大半が消え、爆撃用シンボルに置き換わったはずだ。\
+\
+詳しくはすぐ説明する。\
+\
+Dを押すと兵装を切り替えられる。今試せ。",
+    ["DictKey_16"] = "これが爆弾投下のための基本設定だ。\
+\
+次はCCIPモードで目標に爆弾を命中させる方法を学ぶ。\
+\
+航法レッスンで学んだとおり、前方のゲートを全て通過しろ。\
+\
+Space Barを押してレッスンを再開しろ。",
+    ["DictKey_UnitName_66"] = "Mozdok AFB L-39ZA #002",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_descriptionText_93"] = "このレッスンでは、Continuously Computed Impact Point(CCIP)モードで無誘導爆弾を投下する方法を学ぶ。\
+\
+\
+主要操作:\
+\
+対地モード: 7\
+エアブレーキ: B\
+兵装投下: Space Bar\
+",
+    ["DictKey_UnitName_64"] = "Mozdok AFB L-39ZA #001",
+    ["DictKey_15"] = "兵装を切り替えたら、前方計器盤中央の兵装ステータスパネルを見ろ。\
+\
+上端に翼形状が描かれた黒いパネルだ。\
+\
+その下にライトが2列ある。\
+\
+上段の黄灯は兵装が取り付けられているステーション、下段の緑灯は現在選択中の兵装タイプが装填されているステーションを示す。\
+\
+Space Barを押して続行しろ。",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_UnitName_72"] = "Mozdok AFB L-39ZA #005",
+    ["DictKey_23"] = "HUDのピッチスケールに従い、降下角50～60°まで降下しろ。\
+\
+赤いスモークで示された目標の上に爆撃レティクルのピッパーを重ねるよう機体を操作しろ。\
+\
+爆撃レティクル上端からラインが伸び、HUD下部にLAが表示されたら、Space Barを押して爆弾を投下しろ。\
+\
+スロットルを絞り、Bを押してエアブレーキを展開して速度を制御しろ。",
+    ["DictKey_sortie_96"] = "CCIPモード、無誘導爆撃",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_WptName_114"] = "",
+} -- end of dictionary

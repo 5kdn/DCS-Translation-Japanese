@@ -1,0 +1,189 @@
+dictionary = 
+{
+    ["DictKey_UnitName_59"] = "Mozdok AFB Mi-26 #002",
+    ["DictKey_descriptionRedTask_75"] = "アドミラル・クズネツォフ空母に着艦せよ。\
+",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_UnitName_67"] = "Mozdok AFB L-39ZA #004",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_ActionText_121"] = "最終段階だ。\
+\
+数値への意識を下げ、機体を飛ばすことに集中せよ。\
+\
+アレスティングワイヤを視野に入れ続けよ。\
+\
+艦がHUD下に消えることは絶対に許容しない。\
+\
+260km/hまで落ちたらスロットルを90%に入れよ。\
+\
+第2ワイヤ下の白点を狙って着艦せよ。\
+\
+違和感があれば中止せよ。全開でゴーアラウンドだ。",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_UnitName_73"] = "Mozdok AFB Su-25T #006",
+    ["DictKey_20"] = "\"K\"表示はILSビームを捕捉していることを示す。\
+\
+反転した\"L\"はグライドスロープ上にいることを示す。\
+\
+[Space Bar]で続行せよ。",
+    ["DictKey_22"] = "大きい円に向かって飛行せよ。\
+\
+そうすれば小さい円(グライドスロープ)は自然に一致する。\
+\
+HUD右上(TRHC)の実高度の上に表示される要求高度に合わせるか、わずかに上回るようにせよ。\
+\
+[Space Bar]を押すと再開する。",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_21"] = "HUD左上は要求速度、その下が実速度だ。\
+\
+進入では280～300km/h、最終進入では270km/hを狙え。\
+\
+RPM計は89%が必要だ。\
+\
+滑らかな進入ではスロットルは概ね89～90%に保つ。\
+\
+[Space Bar]を押せ。",
+    ["DictKey_GroupName_114"] = "",
+    ["DictKey_WptName_83"] = "",
+    ["DictKey_UnitName_45"] = "Mozdok AFB Su-25T #001",
+    ["DictKey_25"] = "迎角と速度。\
+指示器を確認せよ。\
+黄: スロットルを一段戻し、スティックをわずかに引け。\
+赤: スロットルを一段入れ、スティックをわずかに押せ。\
+\
+約5km・高度350mの最終ゾーンに入ったら最終確認。6グリーンか？\
+\
+グライドスロープより20m上を維持せよ(HUD右上TRHCの大きい数値が小さい数値より20大きい)。甲板はASL20mだ。\
+\
+270km/h、緑、スロープ上10～20m、降下率3m/s。\
+\
+艦はHUD下部に安定して見えているはずだ。\
+\
+",
+    ["DictKey_28"] = "外側マーカービーコンを通過した。対気速度は280～320km/hで、グライドスロープ上にあるはずだ。\
+\
+常に、低速低高度より高速高高度の方が安全だと覚えておけ。",
+    ["DictKey_UnitName_115"] = "",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_19"] = "HUDの簡単な確認のため一時停止している。\
+\
+左下から説明する。\
+\
+[1]キーを2回押してHUDを着陸モードにしろ。\
+\
+LNDG、K、約12km、反転したLが表示されるはずだ。\
+\
+[Space Bar]を押して続行せよ。",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_UnitName_55"] = "Mozdok AFB IL-76MD #003",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_UnitName_69"] = "Mozdok AFB L-39ZA #005",
+    ["DictKey_descriptionBlueTask_76"] = "",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_UnitName_43"] = "Mozdok AFB Su-25T #004",
+    ["DictKey_UnitName_61"] = "Mozdok AFB L-39ZA #001",
+    ["DictKey_ActionText_126"] = "",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_UnitName_49"] = "Mozdok AFB Su-25T #003",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_29"] = "5kmの内側マーカービーコンを通過した。\
+",
+    ["DictKey_33"] = "ミッション失敗。\
+\
+運が悪かった。誰にでもある。もう一度挑戦せよ。\
+\
+[Esc]を押してレッスンを終了せよ。\
+",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_UnitName_57"] = "Mozdok AFB Mi-26 #001",
+    ["DictKey_26"] = "ILSビームに進入し、HUD左下のLNDG表示のとおり着陸モードに自動切替された。\\n\\n未実施であれば、対気速度を400km/h未満に下げ、[G]でギアを下げよ。\\n\\n必要に応じて[B]でエアブレーキを展開せよ。\\n\\n[F]で着陸フラップを下げよ。\\n\\n[Space Bar]で続行せよ。\\n",
+    ["DictKey_ActionText_125"] = "",
+    ["DictKey_UnitName_53"] = "Mozdok AFB IL-76MD #002",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_23"] = "スロットルを89%に設定し、速度が自然に270km/hまで落ちるのを待て。\
+\
+RPM計が強調表示されている。\
+\
+HUDのクロスを大きい円に合わせて飛行しろ。\
+",
+    ["DictKey_30"] = "滑走路端を通過した。\
+\
+電波高度計が5mを示したらスロットルをアイドルにし、HUD右側の降下率が1～2m/sとなるようノーズをフレアせよ。\
+\
+全輪接地し速度が250km/h未満になったら、Pキーでドラッグシュートを投下せよ。\
+\
+停止するまでWキーを押し続けてホイールブレーキを使用せよ。\
+",
+    ["DictKey_UnitName_71"] = "Mozdok AFB Su-25T #005",
+    ["DictKey_18"] = "開始前に:\
+\
+音声が聞き取りにくい場合は[ESC]を押し、OPTIONS→AUDIOでワールド音およびコックピット音量を半分に下げ、HEADPHONESスライダーを上げろ。\
+\
+このレッスンでは、アドミラル・クズネツォフへの航法と着艦を学ぶ。\
+\
+[Space Bar]を押して続行せよ。",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_sortie_77"] = "空母着艦",
+    ["DictKey_UnitName_47"] = "Mozdok AFB Su-25T #002",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_GroupName_117"] = "",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_UnitName_65"] = "Mozdok AFB L-39ZA #003",
+    ["DictKey_UnitName_63"] = "Mozdok AFB L-39ZA #002",
+    ["DictKey_ActionText_128"] = "",
+    ["DictKey_ActionText_127"] = "",
+    ["DictKey_32"] = "着艦はできたが、地上要員は後始末で不満だろう。\
+\
+[Esc]キーを押してレッスンを終了せよ。",
+    ["DictKey_24"] = "設定に入る……\
+\
+脚下げ [G]\
+フラップ下げ [F]\
+フック下げ [LAlt + G]\
+\
+左前下部の計器で全て下がっていることを確認できる。\
+\
+6グリーン。\
+\
+[F2]で外部視点、[F1]でコックピットに戻る簡易確認も可能だ。\
+\
+さらに2点確認する。HUD右側の降下率は理想3m/s、2-4でも可。-1未満や-5超ならグライドスロープ(小円)に修正せよ。\
+\
+HUD左側の黄・緑・赤の3灯は迎角表示だ。\
+\
+黄は浅すぎる。\
+\
+赤は深すぎる。\
+\
+目標は緑。進入速度270km/hを維持すれば自動的に得られる。\
+\
+要点として、クロスを大きい円に向けて飛行し、延長センターラインを捕捉するのが最も簡単だ。\
+",
+    ["DictKey_ActionText_124"] = "",
+    ["DictKey_UnitName_51"] = "Mozdok AFB IL-76MD #001",
+    ["DictKey_27"] = "HUDには大きい円と小さい円が表示される。\
+\
+正しい方位に入るため、大きい円に向かって飛行せよ。\
+\
+小さい円を大きい円に重ね、維持する。\
+\
+これによりグライドスロープに乗り、維持できる。\
+\
+スロープ上では、ピッチで速度、スロットルで高度を制御せよ。\
+\
+最終段階では300km/hまで減速せよ。\
+",
+    ["DictKey_31"] = "よくやった。\
+\
+機体は無事に降ろせたようだ。\
+\
+ESCキーを押してレッスンを終了せよ。",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_descriptionText_74"] = "このレッスンでは、アドミラル・クズネツォフ空母への着艦方法を学ぶ。\\n\\n主要操作:\\n\\n次のウェイポイント: [1]\\nギア: [G]\\nフック: [LAlt + G]\\nエアブレーキ: [B]\\n着陸フラップ: [LShift + F]\\nホイールブレーキ: [W]\\n",
+    ["DictKey_UnitName_118"] = "",
+} -- end of dictionary

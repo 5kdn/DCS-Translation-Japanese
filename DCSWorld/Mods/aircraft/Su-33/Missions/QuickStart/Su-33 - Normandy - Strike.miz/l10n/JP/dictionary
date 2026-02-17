@@ -1,0 +1,50 @@
+dictionary = 
+{
+	["DictKey_UnitName_22"] = "",
+	["DictKey_WptName_40"] = "",
+	["DictKey_UnitName_19"] = "",
+	["DictKey_sortie_4"] = "Su-33 - ノルマンディー - 攻撃任務",
+	["DictKey_WptName_23"] = "",
+	["DictKey_WptName_36"] = "",
+	["DictKey_descriptionRedTask_2"] = "Su-33で発艦し、クレトヴィル飛行場(ウェイポイント2)に駐機中のE-3 AWACS 2機を破壊しろ。",
+	["DictKey_UnitName_80"] = "",
+	["DictKey_GroupName_21"] = "New Static Object #003",
+	["DictKey_UnitName_29"] = "",
+	["DictKey_UnitName_39"] = "",
+	["DictKey_WptName_17"] = "",
+	["DictKey_WptName_33"] = "",
+	["DictKey_UnitName_16"] = "",
+	["DictKey_WptName_14"] = "",
+	["DictKey_WptName_27"] = "",
+	["DictKey_ActionText_107"] = "目標破壊！",
+	["DictKey_WptName_84"] = "",
+	["DictKey_UnitName_58"] = "",
+	["DictKey_GroupName_34"] = "New Static Object #003",
+	["DictKey_GroupName_18"] = "New Static Object #002",
+	["DictKey_WptName_30"] = "",
+	["DictKey_UnitName_83"] = "New Static Object",
+	["DictKey_UnitName_32"] = "",
+	["DictKey_GroupName_31"] = "New Static Object #002",
+	["DictKey_WptName_81"] = "",
+	["DictKey_UnitName_26"] = "",
+	["DictKey_GroupName_28"] = "New Static Object #001",
+	["DictKey_descriptionText_1"] = "空母アドミラル・クズネツォフの飛行甲板上で、発艦準備が整っている。\
+\
+目標地域周辺では敵CAPが周回しており、SAM砲隊が南北に配置されている。\
+\
+A-50 AWACSの支援が展開中だ。\
+\
+僚機2および3は空対空戦闘用のみの武装だ。あなたは主目標(駐機中のE-3 AWACS機)を破壊するため、爆弾を装備している。",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_GroupName_12"] = "New Static Object",
+	["DictKey_ActionText_108"] = "目標破壊！",
+	["DictKey_ActionText_106"] = "Mission Success. 両目標を破壊した。基地へ帰投しろ。",
+	["DictKey_UnitName_13"] = "",
+	["DictKey_GroupName_38"] = "",
+	["DictKey_UnitName_51"] = "Pilot #002",
+	["DictKey_GroupName_15"] = "New Static Object #001",
+	["DictKey_WptName_20"] = "",
+	["DictKey_UnitName_54"] = "",
+	["DictKey_UnitName_35"] = "",
+	["DictKey_GroupName_25"] = "New Static Object",
+} -- end of dictionary
