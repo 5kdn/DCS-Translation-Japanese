@@ -1,0 +1,69 @@
+dictionary = 
+{
+    ["DictKey_18"] = "",
+    ["DictKey_6"] = "",
+    ["DictKey_29"] = "",
+    ["DictKey_33"] = "",
+    ["DictKey_sortie_321"] = "CWW-10-1",
+    ["DictKey_UnitName_193"] = "New Static Object",
+    ["DictKey_9"] = "",
+    ["DictKey_20"] = "",
+    ["DictKey_22"] = "",
+    ["DictKey_21"] = "",
+    ["DictKey_10"] = "",
+    ["DictKey_UnitName_199"] = "New Static Object #004",
+    ["DictKey_UnitName_197"] = "New Static Object #003",
+    ["DictKey_34"] = "\"Grach 1-1、目標まで2分だ。\"",
+    ["DictKey_27"] = "",
+    ["DictKey_25"] = "",
+    ["DictKey_28"] = "",
+    ["DictKey_17"] = "",
+    ["DictKey_23"] = "",
+    ["DictKey_5"] = "",
+    ["DictKey_13"] = "",
+    ["DictKey_16"] = "",
+    ["DictKey_35"] = "",
+    ["DictKey_32"] = "\"Grach 1-1、攻撃パッケージはランデブーポイントを離脱した。\"",
+    ["DictKey_8"] = "",
+    ["DictKey_descriptionRedTask_318"] = "任務:\
+最高司令部は、第6装甲旅団の離脱を阻止するため、その一部部隊に対する攻撃パッケージを命じた。パッケージは14:20にランデブーポイントを離脱する。TOTは14:27だ。\
+\
+目標:\
+道路縦隊隊形で行動中の西ドイツ第63戦車大隊の戦車部隊を攻撃せよ。\
+\
+ウェイポイント:\
+#   種別             時刻    速度       高度\
+1   離陸             14:05    -            -\
+2   ランデブー       14:20   600       2,000\
+3   IP               14:26   700         300\
+4   攻撃             14:27   700         300\
+5   着陸             14:47   600       2,000\
+\
+パッケージ:\
+Grach 1 (Strike)      4×Su-25\
+Grach 2 (Strike)      2×Su-25\
+>Grach 3 (Strike)     2×Su-25<\
+Hunter 1 (Sweep)      4×MiG-23MLD\
+Hunter 2 (Sweep)      4×MiG-23MLD\
+Wolf 1 (SEAD)         2×Su-17M4",
+    ["DictKey_19"] = "",
+    ["DictKey_WptName_602"] = "",
+    ["DictKey_31"] = "",
+    ["DictKey_descriptionBlueTask_319"] = "",
+    ["DictKey_14"] = "",
+    ["DictKey_WptName_574"] = "",
+    ["DictKey_WptName_572"] = "",
+    ["DictKey_descriptionNeutralsTask_320"] = "",
+    ["DictKey_UnitName_195"] = "New Static Object #001",
+    ["DictKey_30"] = "",
+    ["DictKey_24"] = "",
+    ["DictKey_15"] = "",
+    ["DictKey_26"] = "",
+    ["DictKey_11"] = "",
+    ["DictKey_12"] = "",
+    ["DictKey_WptName_573"] = "",
+    ["DictKey_descriptionText_317"] = "1989年12月24日\
+\
+西ドイツ第III軍団は全面的な撤退に入った。第12装甲師団の壊滅後、第6装甲旅団は側面包囲の脅威により後退を余儀なくされた。同旅団は現在、秩序を保ったままクバン川を渡河中である。第5装甲擲弾兵旅団は、第42親衛戦車師団に対して防御戦を継続し、第6装甲旅団の離脱を可能にしている。",
+    ["DictKey_7"] = "",
+} -- end of dictionary

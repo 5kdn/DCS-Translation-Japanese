@@ -1,0 +1,242 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_90"] = "",
+    ["DictKey_53"] = "",
+    ["DictKey_84"] = "",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_UnitName_135"] = "Юнит #18",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_GroupName_132"] = "ЗСУ ШИЛКА_патруль",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_UnitName_146"] = "Юнит #5",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_WptName_161"] = "",
+    ["DictKey_76"] = "",
+    ["DictKey_59"] = "",
+    ["DictKey_GroupName_102"] = "Ми 8 МТКО",
+    ["DictKey_GroupName_113"] = "ДРЛО",
+    ["DictKey_47"] = "264、了解。コンタクトを維持せよ。",
+    ["DictKey_64"] = "",
+    ["DictKey_55"] = "",
+    ["DictKey_28"] = "",
+    ["DictKey_52"] = "",
+    ["DictKey_UnitName_115"] = "Юнит #2",
+    ["DictKey_UnitName_108"] = "Сбор десанта",
+    ["DictKey_GroupName_97"] = "Ми 26",
+    ["DictKey_32"] = "",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_UnitName_136"] = "Юнит #17",
+    ["DictKey_GroupName_94"] = "Су 25Т",
+    ["DictKey_UnitName_131"] = "Юнит #6",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_30"] = "Terek、264。プリモルスコエを通過。\
+\
+264。了解。",
+    ["DictKey_UnitName_138"] = "Юнит #15",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_83"] = "803、Terek。RTBを許可する。",
+    ["DictKey_GroupName_143"] = "Стат. объект #002",
+    ["DictKey_UnitName_125"] = "Юнит #19",
+    ["DictKey_39"] = "",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_75"] = "",
+    ["DictKey_92"] = "Mission failed!",
+    ["DictKey_60"] = "",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_29"] = "",
+    ["DictKey_GroupName_127"] = "Стрела_Т72_ЮГ",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_UnitName_137"] = "Юнит #16",
+    ["DictKey_UnitName_103"] = "264",
+    ["DictKey_GroupName_120"] = "БМП ЗАПАД",
+    ["DictKey_UnitName_105"] = "256",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_WptName_164"] = "",
+    ["DictKey_23"] = "",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_UnitName_133"] = "Юнит #8",
+    ["DictKey_68"] = "",
+    ["DictKey_UnitName_140"] = "Юнит #21",
+    ["DictKey_GroupName_117"] = "ПВО_Бук",
+    ["DictKey_UnitName_95"] = "804",
+    ["DictKey_GroupName_109"] = "Сбор десанта #001",
+    ["DictKey_49"] = "",
+    ["DictKey_UnitName_114"] = "Юнит #3",
+    ["DictKey_WptName_167"] = "",
+    ["DictKey_24"] = "",
+    ["DictKey_WptName_155"] = "",
+    ["DictKey_57"] = "",
+    ["DictKey_31"] = "",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_80"] = "",
+    ["DictKey_37"] = "Kardan、Terek。搭載を開始せよ。",
+    ["DictKey_40"] = "Terek、255。編隊エンジン始動の許可を要請する。\
+\
+255、エンジン始動を許可する。風向170～180、風速1～2m/s。\
+\
+255。了解、始動する。",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_GroupName_139"] = "Стрела_Т72_ЮГ #001",
+    ["DictKey_58"] = "255。編隊、進入中。捜索中。",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_67"] = "255、射撃を許可する。\
+\
+264、Terek。着弾効果を確認せよ。\
+\
+264。了解。",
+    ["DictKey_GroupName_111"] = "Стат. объект",
+    ["DictKey_89"] = "Mission complete!",
+    ["DictKey_72"] = "",
+    ["DictKey_36"] = "",
+    ["DictKey_UnitName_128"] = "Юнит #14",
+    ["DictKey_22"] = "",
+    ["DictKey_87"] = "",
+    ["DictKey_UnitName_106"] = "255",
+    ["DictKey_50"] = "",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_93"] = "",
+    ["DictKey_27"] = "Terek、354。編隊エンジン始動の許可を要請する。\
+\
+354、始動を許可する。風は穏やかだ。\
+\
+354。了解、始動許可を受領。",
+    ["DictKey_51"] = "",
+    ["DictKey_79"] = "Terek、264。803が目標に命中。炎上を確認。",
+    ["DictKey_54"] = "",
+    ["DictKey_35"] = "",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_46"] = "",
+    ["DictKey_70"] = "",
+    ["DictKey_25"] = "",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_88"] = "",
+    ["DictKey_UnitName_122"] = "Юнит #10",
+    ["DictKey_43"] = "Terek、264。スフミ市西縁。敵部隊を視認。小隊規模と思われる。",
+    ["DictKey_UnitName_96"] = "Игрок",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_UnitName_126"] = "Юнит #12",
+    ["DictKey_GroupName_107"] = "Сбор десанта",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_45"] = "",
+    ["DictKey_41"] = "",
+    ["DictKey_WptName_158"] = "",
+    ["DictKey_GroupName_130"] = "РЛС РАНЖИР",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_62"] = "Terek、255。スフミ市縁辺で目標を捕捉。射撃許可を要請する。",
+    ["DictKey_UnitName_100"] = "355",
+    ["DictKey_GroupName_104"] = "Ка 50",
+    ["DictKey_63"] = "",
+    ["DictKey_86"] = "",
+    ["DictKey_UnitName_124"] = "Юнит #20",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_65"] = "",
+    ["DictKey_WptName_170"] = "",
+    ["DictKey_descriptionNeutralsTask_151"] = "",
+    ["DictKey_82"] = "",
+    ["DictKey_56"] = "",
+    ["DictKey_71"] = "255、了解。交戦する。",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_134"] = "Бойцы с ПЗРК",
+    ["DictKey_81"] = "",
+    ["DictKey_UnitName_112"] = "Стат. объект",
+    ["DictKey_UnitName_110"] = "Сбор десанта #001",
+    ["DictKey_33"] = "Terek、354。\"Stanok\"で所定位置に就いた。",
+    ["DictKey_GroupName_141"] = "Стат. объект #001",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_44"] = "",
+    ["DictKey_descriptionBlueTask_150"] = "",
+    ["DictKey_UnitName_147"] = "Юнит #9",
+    ["DictKey_69"] = "",
+    ["DictKey_UnitName_98"] = "357",
+    ["DictKey_26"] = "",
+    ["DictKey_GroupName_145"] = "ПВО_Бук_прикрытие",
+    ["DictKey_66"] = "",
+    ["DictKey_descriptionText_148"] = "第811独立強襲航空連隊 連隊長\
+戦闘命令 07/26 0300\
+\
+1. 後退中の敵部隊はスフミ市内に配置されている。市街での友軍損害を最小化するため、司令部は敵部隊を通信および補給支援線から遮断し、同時にグダウタ-バブシャラ線に沿った高速前進の機会を最大化することを決定した。\
+\
+2. バブシャラ基地を奪取するため、空中強襲作戦を計画した。作戦開始は0430を予定する。\
+\
+バブシャラ周辺に存在する防空戦力を制圧するため、近接航空支援機2機編隊の出撃を命ずる。\
+\
+既知の防空戦力: ウクライナから供与され、ジョージア軍の作戦指揮下にあるBUK-M1 SAM。",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_UnitName_119"] = "Юнит #4",
+    ["DictKey_UnitName_204"] = "Юнит #001",
+    ["DictKey_GroupName_123"] = "Шилка_БМП_Север",
+    ["DictKey_UnitName_116"] = "Юнит #1",
+    ["DictKey_UnitName_142"] = "Стат. объект #001",
+    ["DictKey_34"] = "",
+    ["DictKey_74"] = "255。発射。安定、ホーミング中。",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_61"] = "",
+    ["DictKey_48"] = "",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_78"] = "",
+    ["DictKey_73"] = "",
+    ["DictKey_descriptionRedTask_149"] = "SU-25飛行隊 任務\
+\
+コールサイン: 803\
+\
+07/26の0310～0330の間、バブシャラ付近に所在するBUK-M1 SAMのレーダー/ランチャー陣地2個所を攻撃するため、Su-25T 2機編隊を率いて出撃せよ。\
+\
+着陸はグダウタ基地\"Terek\"。\
+\
+連携および支援\
+- Mi-26 4機編隊(編隊長コールサイン340)は0300～0400の間、強襲部隊の搭載のため\"Stanok\"前線臨時補給点へ到着する。\
+- Mi-8MTKO(コールサイン264)はスフミ市周辺で偵察およびBDA管制を実施する。\
+- Ka-50 2機編隊(編隊長コールサイン255)は陽動攻撃を実施する。\
+\
+兵装\
+803:\
+2×KH-25MPU\
+ECM\
+\
+804:\
+2×KH-25MPU\
+ECM\
+\
+管制および通信\
+- 全航空戦力の管制は、防空軍航空・防空第2司令部CP、コールサイン\"Terek\"が実施する。\
+- スフミ市周辺の偵察およびBDA管制はMi-8MTKO(コールサイン264)が実施する。\
+\
+脅威\
+地上戦力: 脅威は予想されない\
+戦術航空: 脅威は予想されない\
+陸軍航空: 脅威は予想されない\
+防空: ブークM1、\"OSA\"、\"Avenger\"、\"Strela-10\"、ZSU\"Shilka\"\
+\
+統合部隊群 司令官\
+V.クダソフ 少将",
+    ["DictKey_85"] = "",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_sortie_152"] = "強襲準備",
+    ["DictKey_UnitName_121"] = "Юнит #11",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_UnitName_144"] = "Стат. объект #002",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_UnitName_101"] = "354",
+    ["DictKey_UnitName_129"] = "Юнит #13",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_77"] = "",
+    ["DictKey_UnitName_99"] = "356",
+    ["DictKey_91"] = "",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_42"] = "",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_38"] = "",
+    ["DictKey_WptName_173"] = "",
+    ["DictKey_UnitName_118"] = "РЛС_Бук_2",
+} -- end of dictionary

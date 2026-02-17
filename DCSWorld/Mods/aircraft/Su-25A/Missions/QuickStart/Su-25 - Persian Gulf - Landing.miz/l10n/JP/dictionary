@@ -1,0 +1,9 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "着陸",
+    ["DictKey_descriptionText_1"] = "バンダル・レンゲ空港に着陸する。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_20"] = "バンダル・レンゲ空港への着陸を試みよ。",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

@@ -1,0 +1,87 @@
+dictionary = 
+{
+    ["DictKey_18"] = "",
+    ["DictKey_37"] = "",
+    ["DictKey_41"] = "",
+    ["DictKey_UnitName_208"] = "New Static Object #001",
+    ["DictKey_40"] = "",
+    ["DictKey_53"] = "",
+    ["DictKey_29"] = "",
+    ["DictKey_33"] = "",
+    ["DictKey_7"] = "",
+    ["DictKey_20"] = "",
+    ["DictKey_44"] = "",
+    ["DictKey_11"] = "",
+    ["DictKey_36"] = "",
+    ["DictKey_26"] = "",
+    ["DictKey_39"] = "",
+    ["DictKey_9"] = "",
+    ["DictKey_25"] = "",
+    ["DictKey_sortie_405"] = "CWW-06-2",
+    ["DictKey_48"] = "",
+    ["DictKey_22"] = "",
+    ["DictKey_28"] = "",
+    ["DictKey_21"] = "",
+    ["DictKey_50"] = "\"Grach 1-1、攻撃パッケージはランデブーポイントを離脱した。\"",
+    ["DictKey_10"] = "",
+    ["DictKey_17"] = "",
+    ["DictKey_13"] = "",
+    ["DictKey_47"] = "",
+    ["DictKey_34"] = "",
+    ["DictKey_16"] = "",
+    ["DictKey_27"] = "",
+    ["DictKey_51"] = "",
+    ["DictKey_52"] = "\"Grach 1-1、目標まで2分だ。\"",
+    ["DictKey_WptName_678"] = "",
+    ["DictKey_23"] = "",
+    ["DictKey_WptName_679"] = "",
+    ["DictKey_46"] = "",
+    ["DictKey_35"] = "",
+    ["DictKey_32"] = "",
+    ["DictKey_8"] = "",
+    ["DictKey_19"] = "",
+    ["DictKey_45"] = "",
+    ["DictKey_43"] = "",
+    ["DictKey_42"] = "",
+    ["DictKey_6"] = "",
+    ["DictKey_14"] = "",
+    ["DictKey_descriptionBlueTask_403"] = "",
+    ["DictKey_49"] = "",
+    ["DictKey_5"] = "",
+    ["DictKey_UnitName_206"] = "New Static Object",
+    ["DictKey_30"] = "",
+    ["DictKey_24"] = "",
+    ["DictKey_15"] = "",
+    ["DictKey_descriptionRedTask_402"] = "任務:\
+最高司令部は、後退中の第13装甲擲弾兵旅団に対する攻撃パッケージを命じた。パッケージは18:50にランデブーポイントを離脱する。TOTは18:57だ。\
+\
+目標:\
+道路縦隊隊形で行動中の西ドイツ第132装甲擲弾兵大隊のIFV部隊を攻撃せよ。\
+\
+ウェイポイント:\
+#   種別             時刻   速度        高度\
+1   離陸             18:35    -            -\
+2   ランデブー       18:50   600       2,000\
+3   IP               18:56   700         300\
+4   攻撃             18:57   700         300\
+5   着陸             19:16   600       2,000\
+\
+パッケージ:\
+Grach 1 (Strike)      4×Su-25\
+Grach 2 (Strike)      2×Su-25\
+>Grach 3 (Strike)     2×Su-25<\
+Hunter 1 (Sweep)      4×MiG-23MLD\
+Hunter 2 (Sweep)      4×MiG-23MLD\
+Wolf 1 (SEAD)         2×Su-17M4",
+    ["DictKey_descriptionText_401"] = "1989年12月22日\
+\
+第16親衛戦車師団は、第12装甲師団に対する包囲機動を開始した。大規模な大口径砲およびロケット砲兵の支援を受け、第2および第3戦車連隊が第12装甲師団の右翼に突入した。この右翼を守備していた第34装甲擲弾兵旅団は後退を余儀なくされ、第35装甲旅団の後背が露出している。これは、崩壊寸前であった第4自動車化狙撃連隊にとって、待望の戦況好転である。\
+\
+第42親衛戦車師団は、第5装甲師団に対する全面攻勢に移行した。戦果を挙げた第2および第3戦車連隊の攻撃を受け、第14装甲旅団はクラスノダールからの後退を強いられた。側面包囲の危険に直面した第13装甲擲弾兵旅団もまた後退を余儀なくされている。予備から投入された第1戦車連隊は、第13装甲擲弾兵旅団を追撃するためクラスノダール市内を通過中だ。第4自動車化狙撃連隊は、直近2日間の激戦を経て、陣地を保持しつつ休養を取っている。\
+\
+偵察によれば、西ドイツ第III軍団は、後退中の第5装甲師団を増援するため、第2装甲擲弾兵師団を投入した。",
+    ["DictKey_31"] = "",
+    ["DictKey_38"] = "",
+    ["DictKey_descriptionNeutralsTask_404"] = "",
+    ["DictKey_12"] = "",
+} -- end of dictionary

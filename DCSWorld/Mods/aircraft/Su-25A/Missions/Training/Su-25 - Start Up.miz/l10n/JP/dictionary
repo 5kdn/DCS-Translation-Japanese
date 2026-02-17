@@ -1,0 +1,97 @@
+dictionary = 
+{
+	["DictKey_18"] = "Su-25A\"Frogfoot\"へようこそ。\"Frogfoot\"は\"Grach\"とも呼ばれ、戦場のほとんどあらゆるものを破壊できる高性能な対地攻撃機だ。だが爆破を始める前に、まずはこの機体の始動と滑走路へのタキシングを学ぼう。\
+\
+最初に、[RShift + L]を押して電源を投入せよ。\
+",
+	["DictKey_UnitName_52"] = "New Static Object #002",
+	["DictKey_UnitName_60"] = "New Static Object #006",
+	["DictKey_WptName_86"] = "",
+	["DictKey_WptName_94"] = "",
+	["DictKey_UnitName_56"] = "New Static Object #004",
+	["DictKey_UnitName_62"] = "New Static Object #007",
+	["DictKey_ActionText_129"] = "滑走路進入端に到達した。右へ進んで滑走路に進入し、滑走路延長線上に機体を合わせろ。",
+	["DictKey_UnitName_146"] = "",
+	["DictKey_20"] = "次に、[LCtrl + C]を押してキャノピーを閉じよう。",
+	["DictKey_sortie_82"] = "Su-25 - 始動",
+	["DictKey_22"] = "左エンジンが始動したら、[RCtrl + Home]を押して右エンジンを始動せよ。",
+	["DictKey_21"] = "次は2基のエンジンを始動する。その前にスロットルがゼロ位置にあることを確認せよ。[RAlt + Home]を押して左エンジンを始動せよ。",
+	["DictKey_WptName_115"] = "",
+	["DictKey_25"] = "いいぞ、正しい方向に進んでいる。タキシング速度は約30km/hを維持せよ。\
+\
+タキシング中は、ラダーを小さく滑らかに修正してタキシング路のセンターに合わせ続けろ。\
+",
+	["DictKey_28"] = "滑走路進入端に到達した。右へ進んで滑走路に進入し、滑走路延長線上に機体を合わせろ。",
+	["DictKey_ActionText_117"] = "タキシング中は[F2]で外部視点に切り替え、[F1]でコックピットに戻れる。マウスホイールまたはテンキー[*]と[/]でズームイン/アウトが可能だ。視点はマウスまたはテンキーの方向キーで回転できる。",
+	["DictKey_UnitName_58"] = "New Static Object #005",
+	["DictKey_UnitName_44"] = "Unit #001",
+	["DictKey_WptName_88"] = "",
+	["DictKey_32"] = "計器盤中央にはピッチ/ロール指示があり、その右側に昇降計がある。\
+\
+[LControl + F]を押してフラップを上げろ。\
+",
+	["DictKey_UnitName_76"] = "New Static Object #014",
+	["DictKey_19"] = "電源を投入すると、多くの計器とコックピット照明が作動し始める。機体を動かす前に、HSIのジャイロが正しくアラインするよう3分以上経過していることを確認せよ。\
+\
+電源が入ったので、[RCtrl + L]を押して航法灯を点灯しよう。\
+",
+	["DictKey_UnitName_54"] = "New Static Object #003",
+	["DictKey_UnitName_66"] = "New Static Object #009",
+	["DictKey_WptName_147"] = "",
+	["DictKey_UnitName_64"] = "New Static Object #008",
+	["DictKey_UnitName_74"] = "New Static Object #013",
+	["DictKey_WptName_99"] = "",
+	["DictKey_WptName_105"] = "",
+	["DictKey_WptName_144"] = "",
+	["DictKey_ActionText_134"] = "",
+	["DictKey_WptName_85"] = "",
+	["DictKey_WptName_91"] = "",
+	["DictKey_UnitName_68"] = "New Static Object #010",
+	["DictKey_29"] = "滑走路に機首を合わせたら、両エンジン推力を最大に上げ、ラダー[X]と[Z]を穏やかに当ててセンターラインを維持せよ。",
+	["DictKey_UnitName_48"] = "New Static Object",
+	["DictKey_WptName_108"] = "",
+	["DictKey_descriptionText_79"] = "Su-25A\"Frogfoot\"へようこそ。\"Frogfoot\"は\"Grach\"とも呼ばれ、戦場のほとんどあらゆるものを破壊できる高性能な対地攻撃機だ。本レッスンではSu-25Aの始動、滑走路へのタキシング、離陸を学ぶ。",
+	["DictKey_WptName_107"] = "",
+	["DictKey_26"] = "この分岐では右へ進み、滑走路へ向かえ。",
+	["DictKey_WptName_104"] = "",
+	["DictKey_UnitName_78"] = "New Static Object #015",
+	["DictKey_WptName_84"] = "",
+	["DictKey_WptName_90"] = "",
+	["DictKey_UnitName_70"] = "New Static Object #011",
+	["DictKey_UnitName_42"] = "Unit #1",
+	["DictKey_WptName_137"] = "",
+	["DictKey_WptName_103"] = "",
+	["DictKey_23"] = "計器盤右側にはエンジン計器があり、2基のエンジンに対応して針には1と2の表示がある。エンジン始動中は計器下の2つの緑灯のうち1つが点灯する。点灯が消えたら、そのエンジンは運転可能状態だ。\\n\\n計器盤左下には、フラップ、ギア、エアブレーキの状態を示す機体シンボルがある。\\n\\n[LShift + F]を押してフラップを離陸位置まで下げろ。\\n",
+	["DictKey_31"] = "\\n上昇を確立したら、[G]を押してギアを上げろ。\\n次に[F]を押してフラップを上げろ。",
+	["DictKey_WptName_100"] = "",
+	["DictKey_WptName_89"] = "",
+	["DictKey_WptName_93"] = "",
+	["DictKey_descriptionBlueTask_81"] = "",
+	["DictKey_24"] = "タキシングの準備ができた。スロットル操作を前に動かすか、[Page Up]または[+]でスロットルをゆっくり上げろ。スロットルを下げるにはスロットル操作を使うか、[Page Down]または[-]を押せ。ホイールブレーキは[W]だ。\
+\
+前方へ転がし始め、前方のタキシング路で右へ曲がれ。左へは[Z]、右へは[X]でラダーを当てろ。\
+",
+	["DictKey_UnitName_143"] = "",
+	["DictKey_ActionText_148"] = "進行方向が誤っている！\
+\
+引き返せ！\
+\
+その後、西方向へ進め！\
+",
+	["DictKey_ActionText_149"] = "-",
+	["DictKey_WptName_92"] = "",
+	["DictKey_UnitName_72"] = "New Static Object #012",
+	["DictKey_33"] = "よくやった！\
+以上でSu-25Aの始動、タキシング、離陸のレッスンを終了する。[Esc]キーを押してレッスンを終えられる。",
+	["DictKey_GroupName_41"] = "New Vehicle Group",
+	["DictKey_descriptionRedTask_80"] = "- Su-25Aを始動する。\\n- 滑走路へタキシング\\n- 離陸\\n\\n主要キー:\\n\\n電源: [RShift + L]\\n航法灯: [RCtrl + L]\\nキャノピー: [LCtrl + C]\\n左エンジン始動: [RAlt + Home]\\n右エンジン始動: [RCtrl + Home]\\n離陸/着陸フラップ: [LShift + F]\\nスロットル上げ: [Page Up]\\nスロットル下げ: [Page Down]\\nラダー左: [Z]\\nラダー右: [X]\\nギア: [G]\\n",
+	["DictKey_WptName_102"] = "",
+	["DictKey_WptName_116"] = "",
+	["DictKey_WptName_87"] = "",
+	["DictKey_UnitName_50"] = "New Static Object #001",
+	["DictKey_GroupName_43"] = "New Vehicle Group #001",
+	["DictKey_WptName_141"] = "",
+	["DictKey_30"] = "計器盤左上の速度計で速度が約250km/hになったら、操縦桿をやさしく引き、機体が自然に浮き上がるのを待て。無理に引き起こすために操縦桿を急激に引くな。",
+	["DictKey_27"] = "タキシング中は[F2]で外部視点に切り替え、[F1]でコックピットに戻れる。[Keypad *]と[Keypad /]でズームイン/アウトが可能だ。視点はテンキーの方向キーで回転できる。",
+	["DictKey_WptName_101"] = "",
+} -- end of dictionary

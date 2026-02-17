@@ -1,0 +1,81 @@
+dictionary = 
+{
+    ["DictKey_18"] = "",
+    ["DictKey_6"] = "",
+    ["DictKey_4"] = "",
+    ["DictKey_WptName_393"] = "",
+    ["DictKey_WptName_392"] = "",
+    ["DictKey_descriptionText_375"] = "1989年12月22日\
+\
+第12装甲師団は南進を継続し、右翼に展開する2個戦車連隊を迂回して前進している。第16親衛戦車師団の第1戦車連隊および第4自動車化狙撃連隊は現在、全面的に戦闘に投入されているが、戦力の整った西ドイツ軍の2個装甲旅団を相手に、正面からの1対1の戦闘で優勢を得る可能性は低い。師団砲兵の主力は、計画中の包囲機動を支援するため、西翼に集中配置されている。状況は極めて深刻であり、いずれかの阻止連隊が早期に崩壊すれば、第16親衛戦車師団は完全な敗北に直面する。\
+\
+一方、第42親衛戦車師団の状況は比較的良好だ。師団砲兵、陸軍航空部隊、そして2個戦車連隊による集中した攻撃により、第15装甲旅団は完全に撃滅された。現在、第2および第3戦車連隊は、第14装甲旅団に対して東進を開始し、第5装甲師団の残余部隊を包囲することを企図している。クラスノダール市内に展開する第4自動車化狙撃連隊は、第13装甲擲弾兵旅団による激しい攻撃に、もはや長時間耐えられない状況であり、迅速な行動が不可欠である。",
+    ["DictKey_26"] = "",
+    ["DictKey_UnitName_203"] = "New Static Object #013",
+    ["DictKey_11"] = "",
+    ["DictKey_UnitName_374"] = "12th PzDiv HQ Stand",
+    ["DictKey_WptName_460"] = "",
+    ["DictKey_WptName_474"] = "",
+    ["DictKey_UnitName_183"] = "New Static Object #001",
+    ["DictKey_UnitName_370"] = "12th PzDiv HQ Bunker 1",
+    ["DictKey_WptName_407"] = "",
+    ["DictKey_9"] = "",
+    ["DictKey_WptName_462"] = "",
+    ["DictKey_7"] = "",
+    ["DictKey_24"] = "",
+    ["DictKey_22"] = "",
+    ["DictKey_WptName_499"] = "",
+    ["DictKey_21"] = "",
+    ["DictKey_WptName_498"] = "",
+    ["DictKey_10"] = "",
+    ["DictKey_UnitName_199"] = "New Static Object #011",
+    ["DictKey_UnitName_197"] = "New Static Object #010",
+    ["DictKey_WptName_565"] = "",
+    ["DictKey_WptName_404"] = "",
+    ["DictKey_UnitName_191"] = "New Static Object #007",
+    ["DictKey_25"] = "",
+    ["DictKey_sortie_379"] = "CWW-05-1",
+    ["DictKey_17"] = "",
+    ["DictKey_WptName_421"] = "",
+    ["DictKey_UnitName_189"] = "New Static Object #006",
+    ["DictKey_13"] = "",
+    ["DictKey_WptName_489"] = "",
+    ["DictKey_UnitName_372"] = "12th PzDiv HQ Bunker 2",
+    ["DictKey_WptName_406"] = "",
+    ["DictKey_8"] = "",
+    ["DictKey_WptName_490"] = "",
+    ["DictKey_19"] = "",
+    ["DictKey_descriptionRedTask_376"] = "任務:\
+偵察により、西ドイツ第12装甲師団の野戦司令部が特定された。最高司令部は、この高価値目標に対し、使用可能な全航空機による即時攻撃を命じている。TOTは11:22だ。無線沈黙を維持せよ。\
+\
+目標:\
+第12装甲師団の野戦司令部を攻撃せよ。偵察報告によれば、司令部はM113およびTPZ Fuchs C2車両、ならびに強化された指揮用バンカーで構成されている。バンカーを最優先目標とする。\
+\
+ウェイポイント:\
+#   種別             時刻    速度       高度\
+1   離陸             11:05    -            -\
+2   航法             11:16   600       2,000\
+3   IP               11:21   700         300\
+4   攻撃             11:22   700         300\
+5   離脱             11:25   700         300\
+6   着陸             11:40   600       2,000\
+\
+パッケージ:\
+>Grach 1 (Strike)      2×Su-25<",
+    ["DictKey_WptName_408"] = "",
+    ["DictKey_20"] = "",
+    ["DictKey_14"] = "",
+    ["DictKey_16"] = "",
+    ["DictKey_23"] = "",
+    ["DictKey_5"] = "",
+    ["DictKey_UnitName_195"] = "New Static Object #009",
+    ["DictKey_descriptionBlueTask_377"] = "",
+    ["DictKey_UnitName_185"] = "New Static Object #004",
+    ["DictKey_15"] = "",
+    ["DictKey_UnitName_181"] = "New Static Object",
+    ["DictKey_UnitName_193"] = "New Static Object #008",
+    ["DictKey_12"] = "",
+    ["DictKey_descriptionNeutralsTask_378"] = "",
+    ["DictKey_UnitName_201"] = "New Static Object #012",
+    ["DictKey_UnitName_187"] = "New Static Object #005",
+} -- end of dictionary

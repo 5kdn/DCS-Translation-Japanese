@@ -1,0 +1,8 @@
+dictionary = 
+{
+    ["DictKey_descriptionText_1"] = "A-10Aが2機、機首正面にいる。交戦し、撃墜せよ。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_18"] = "任務成功！A-10Aを2機とも撃墜した。",
+    ["DictKey_descriptionRedTask_2"] = "A-10Aを2機とも撃墜せよ。",
+    ["DictKey_sortie_4"] = "Su-25A - ノルマンディー - 空対空",
+} -- end of dictionary

@@ -1,0 +1,245 @@
+dictionary = 
+{
+    ["DictKey_sortie_173"] = "夜は暗い",
+    ["DictKey_90"] = "",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_UnitName_156"] = "Def AF2",
+    ["DictKey_GroupName_150"] = "BMP-2",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_UnitName_135"] = "Mi-8PP2",
+    ["DictKey_WptName_182"] = "",
+    ["DictKey_GroupName_132"] = "Mi-8PP1",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_UnitName_152"] = "BMP-22",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_GroupName_166"] = "ZU-231",
+    ["DictKey_76"] = "",
+    ["DictKey_WptName_220"] = "",
+    ["DictKey_86"] = "",
+    ["DictKey_UnitName_145"] = "BTR-801",
+    ["DictKey_GroupName_113"] = "Player",
+    ["DictKey_47"] = "- \"Ivolga-17\", 371。目標上。投下許可を要請。\
+- 371、投下を許可する。",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_55"] = "",
+    ["DictKey_28"] = "",
+    ["DictKey_52"] = "- \"Ivolga-17\", 141、SP5への進行許可を要請。",
+    ["DictKey_UnitName_115"] = "Player",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_32"] = "",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_UnitName_123"] = "Pilot #4",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_UnitName_131"] = "Mi-28N1",
+    ["DictKey_UnitName_157"] = "Def AF1",
+    ["DictKey_GroupName_129"] = "Mi-28N",
+    ["DictKey_30"] = "",
+    ["DictKey_UnitName_138"] = "Buk11",
+    ["DictKey_99"] = "",
+    ["DictKey_83"] = "",
+    ["DictKey_96"] = "- \"Ivolga-17\", 203。方位260、高度2,000。進入する。\
+- 203、\"Ivolga-17\"。攻撃を許可。202、エリアを離脱せよ。\
+- \"Ivolga-17\", 202。離脱する。",
+    ["DictKey_UnitName_130"] = "Mi-28N2",
+    ["DictKey_111"] = "キャノピー閉: LCtrl-C\
+電源投入: RShift-L\
+コックピット照明: L\
+エンジン始動: RShift-Home\
+タキシングライト: RAlt-L",
+    ["DictKey_UnitName_125"] = "Pilot #2",
+    ["DictKey_39"] = "",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_75"] = "各SAMサイトのランチャーを破壊せよ……",
+    ["DictKey_92"] = "- 110、cleared hot……発射……",
+    ["DictKey_60"] = "- 371、cleared hot、方位190……投下！",
+    ["DictKey_GroupName_146"] = "SAM Buk1",
+    ["DictKey_GroupName_119"] = "Su-24M 71",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_WptName_176"] = "",
+    ["DictKey_UnitName_159"] = "Def AF23",
+    ["DictKey_UnitName_137"] = "Zil-1311",
+    ["DictKey_UnitName_153"] = "BMP-21",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_UnitName_149"] = "SAM Buk2",
+    ["DictKey_WptName_179"] = "",
+    ["DictKey_79"] = "僚機とともに離陸し、Su-24に追従せよ。\
+巡航速度は500km/h。\
+高度2,000m。\
+ETA SP3 02:14:00\
+ETA 目標 02:15:00",
+    ["DictKey_UnitName_133"] = "Mi-8PP1",
+    ["DictKey_UnitName_151"] = "BMP-23",
+    ["DictKey_102"] = "- 141、射撃を許可する。",
+    ["DictKey_GroupName_116"] = "Su-24M 72",
+    ["DictKey_95"] = "",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_49"] = "",
+    ["DictKey_UnitName_114"] = "wingman",
+    ["DictKey_UnitName_143"] = "BTR-802",
+    ["DictKey_57"] = "",
+    ["DictKey_31"] = "",
+    ["DictKey_80"] = "",
+    ["DictKey_37"] = "",
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_UnitName_169"] = "ZU-23 022",
+    ["DictKey_40"] = "",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_GroupName_142"] = "BTR-802",
+    ["DictKey_68"] = "- \"Ivolga-17\", 141。目標を視認。",
+    ["DictKey_UnitName_117"] = "374",
+    ["DictKey_UnitName_164"] = "Def AF32",
+    ["DictKey_GroupName_139"] = "Buk22",
+    ["DictKey_58"] = "",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_67"] = "",
+    ["DictKey_69"] = "",
+    ["DictKey_89"] = "",
+    ["DictKey_72"] = "",
+    ["DictKey_36"] = "",
+    ["DictKey_UnitName_167"] = "ZU-231",
+    ["DictKey_UnitName_128"] = "Pilot #5",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_38"] = "",
+    ["DictKey_87"] = "",
+    ["DictKey_54"] = "",
+    ["DictKey_50"] = "",
+    ["DictKey_29"] = "",
+    ["DictKey_45"] = "",
+    ["DictKey_GroupName_144"] = "BTR-801",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_112"] = "",
+    ["DictKey_WptName_214"] = "",
+    ["DictKey_42"] = "",
+    ["DictKey_UnitName_126"] = "Pilot #1",
+    ["DictKey_108"] = "",
+    ["DictKey_91"] = "",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_WptName_218"] = "",
+    ["DictKey_46"] = "",
+    ["DictKey_GroupName_162"] = "Def AF3",
+    ["DictKey_63"] = "",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_106"] = "",
+    ["DictKey_109"] = "",
+    ["DictKey_43"] = "偵察部隊がBUK SAMサイト2個を発見した。\
+\
+任務は、各SAMサイトのランチャーおよび\"Kupol\"レーダーを破壊することだ。Su-24が照明弾を投下し、目標地域を照明する。\
+\
+僚機とともに離陸し、Su-24に追従せよ。\
+巡航速度は500km/h。\
+高度2,000m。\
+ETA SP3 02:14:00\
+ETA 目標 02:15:00",
+    ["DictKey_105"] = "",
+    ["DictKey_GroupName_158"] = "Def AF2",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_88"] = "- グッド・ヒット。",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_UnitName_140"] = "ZIL-1312",
+    ["DictKey_UnitName_141"] = "Buk22",
+    ["DictKey_59"] = "",
+    ["DictKey_104"] = "- 141、射撃を許可する。",
+    ["DictKey_64"] = "",
+    ["DictKey_UnitName_165"] = "Def AF31",
+    ["DictKey_41"] = "",
+    ["DictKey_110"] = "",
+    ["DictKey_103"] = "",
+    ["DictKey_descriptionText_170"] = "第461独立強襲航空連隊 指揮官\
+航空戦闘命令 第4航空軍・防空軍司令部 #087 司令部スフミ 20:00 08/11\
+地図200,000、1986年版\
+\
+08/11夕刻までに、我が軍はジョージア軍部隊に重大な損害を与え、インギリ川沿いの既占領線から後退させた。攻撃航空隊は終日ジョージア軍に対する出撃を実施した。ジョージア軍の防空はSu-24攻撃機および専用電子戦ヘリコプターにより制圧された。\
+前線後方で活動する特殊作戦部隊は、BUK防空砲台2個を発見した。夜間を利用し、電子戦ヘリの支援の下、攻撃航空でSAMサイトを無力化する任務が計画された。\
+\
+任務調整および支援:\
+- Mi-8PP 2機が22:00から06:00まで、ジョージア軍防空戦力(BUK SAMシステム)に対する電子妨害を実施する(編隊長コールサイン202)。\
+- Mi-28N 2機が02:00から02:30まで、ゼニ近郊のジョージア軍陣地に対し陽動攻撃を実施する(編隊長コールサイン110)。\
+- Su-24 2機が02:15から02:30まで、ステアポイント(SP)4および5で人工照明を提供する(編隊長コールサイン371)。",
+    ["DictKey_UnitName_121"] = "371",
+    ["DictKey_UnitName_124"] = "Pilot #3",
+    ["DictKey_GroupName_136"] = "buk11",
+    ["DictKey_65"] = "- \"Ivolga-17\", 141。目標を視認。",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_82"] = "",
+    ["DictKey_56"] = "- \"Ivolga-17\", 371。目標上。\
+- 371、照明を実施せよ。",
+    ["DictKey_71"] = "",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_GroupName_134"] = "Mi-8PP2",
+    ["DictKey_81"] = "",
+    ["DictKey_97"] = "",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_33"] = "",
+    ["DictKey_GroupName_154"] = "Def AF",
+    ["DictKey_UnitName_161"] = "Def AF21",
+    ["DictKey_44"] = "",
+    ["DictKey_107"] = "",
+    ["DictKey_UnitName_147"] = "SAM Buk1",
+    ["DictKey_62"] = "",
+    ["DictKey_GroupName_148"] = "SAM Buk2",
+    ["DictKey_GroupName_122"] = "category",
+    ["DictKey_UnitName_163"] = "Def AF33",
+    ["DictKey_66"] = "",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_WptName_221"] = "",
+    ["DictKey_UnitName_160"] = "Def AF22",
+    ["DictKey_UnitName_155"] = "Def AF3",
+    ["DictKey_100"] = "- 141、3,000で離脱、許可する。",
+    ["DictKey_93"] = "",
+    ["DictKey_84"] = "",
+    ["DictKey_74"] = "",
+    ["DictKey_34"] = "",
+    ["DictKey_61"] = "- \"Ivolga-17\", 141。目標に攻撃を実施。3,000で離脱。",
+    ["DictKey_48"] = "",
+    ["DictKey_70"] = "",
+    ["DictKey_descriptionRedTask_171"] = "Su-25 2機編隊の任務(コールサイン141):\
+08/12、Su-24編隊の後続として航路を飛行する。SP4にて、Su-24編隊による夜間照明支援の下、BUKランチャーサイトおよびKUPOL目標探知車両を捜索せよ。ミッション管制の命令に従い目標を破壊する。Su-24編隊の後続としてSP5へ進み、同様の手順を繰り返せ。\
+08/12 02:00にスフミ基地を離陸。スフミ基地に着陸。\
+\
+指揮統制および通信:\
+- 全航空戦力の統制は第4航空軍・防空軍指揮所が実施する。コールサインは\"Ivolga-17\"。\
+搭載量および装備:\
+- 燃料100%、戦闘搭載量: 120×S-8M FFAR、2×S-25Lレーザー誘導ミサイル、機関砲100%。\
+\
+飛行経路:\
+- 巡航高度2,000m、巡航速度500km/h。ETA SP3: 02:14、ETA目標: 02:15。SP4-SP5のトラック角190。\
+\
+脅威:\
+- 防空: 目標地域はSHORAD防空システムで防護されている可能性がある。",
+    ["DictKey_73"] = "Su-24が照明弾を投下し、目標地域を照明する。",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_85"] = "- \"Ivolga-17\", 110。IP到達。目標を視認。\
+- 110、\"Ivolga-17\"。目標種別を報告せよ。\
+- \"Ivolga-17\", 110。目標は陣地配置のBMP。\
+- 110、了解。攻撃を許可する。",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_UnitName_120"] = "373",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_53"] = "",
+    ["DictKey_78"] = "",
+    ["DictKey_GroupName_168"] = "ZU-23 022",
+    ["DictKey_101"] = "",
+    ["DictKey_WptName_215"] = "",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_descriptionBlueTask_172"] = "",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_77"] = "……および\"Kupol\"レーダーも破壊せよ。",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_98"] = "- 141および371、SP5への進行を許可する。",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_94"] = "- \"Ivolga-17\", 110。マスターアームOFF。エリア離脱許可を要請。\
+- 110、500で離脱せよ。",
+    ["DictKey_GroupName_127"] = "category2",
+    ["DictKey_51"] = "- 371、cleared hot、方位140……投下！",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_35"] = "Success!",
+    ["DictKey_UnitName_118"] = "372",
+} -- end of dictionary

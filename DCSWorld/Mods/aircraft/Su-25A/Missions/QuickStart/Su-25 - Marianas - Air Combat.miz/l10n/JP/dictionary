@@ -1,0 +1,26 @@
+dictionary = 
+{
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_ActionText_24"] = "",
+    ["DictKey_ActionText_18"] = "",
+    ["DictKey_ActionText_13"] = "",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_sortie_5"] = "空中戦",
+    ["DictKey_ActionText_16"] = "",
+    ["DictKey_ActionText_14"] = "",
+    ["DictKey_descriptionRedTask_2"] = "同型の攻撃機同士による正面対決だ。この不意の遭遇戦を制するには、持てる技量の全てを発揮しなければならない。",
+    ["DictKey_ActionText_23"] = "",
+    ["DictKey_descriptionText_1"] = "爆撃攻撃から離脱中、あなたは突如として単独ではないことに気付く。敵の攻撃機が右側、同一高度で飛行している。\
+",
+    ["DictKey_ActionText_9"] = "MISSION SUCCESSFUL! RTB.",
+    ["DictKey_ActionText_27"] = "",
+    ["DictKey_ActionText_26"] = "勝利！",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_22"] = "",
+    ["DictKey_ActionText_17"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_21"] = "勝利！",
+    ["DictKey_ActionText_15"] = "",
+    ["DictKey_ActionText_12"] = "",
+} -- end of dictionary

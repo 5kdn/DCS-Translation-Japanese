@@ -1,0 +1,64 @@
+dictionary = 
+{
+    ["DictKey_WptName_367"] = "",
+    ["DictKey_18"] = "",
+    ["DictKey_WptName_366"] = "",
+    ["DictKey_descriptionRedTask_348"] = "任務:\
+西ドイツ第35装甲旅団の先遣部隊が、第16親衛戦車師団東翼に位置する重要な橋梁を確保した。この橋を利用すれば、第12装甲師団は大規模な側面包囲機動を開始できる。最高司令部は当該橋梁の破壊を要求している。TOTは07:52だ。無線沈黙を維持せよ。\
+\
+目標:\
+WP4の橋梁を攻撃せよ。\
+\
+ウェイポイント:\
+#   種別             時刻    速度       高度\
+1   離陸             07:35   -             -\
+2   航法             07:46   600       2,000\
+3   IP               07:51   700         300\
+4   攻撃             07:52   700         300\
+5   離脱             07:53   700         300\
+6   着陸             08:11   600       2,000\
+\
+パッケージ:\
+>Grach 1 (Strike)       2×Su-25<\
+Wolf 1 (SEAD)           2×Su-17M4",
+    ["DictKey_4"] = "",
+    ["DictKey_WptName_364"] = "",
+    ["DictKey_UnitName_179"] = "New Static Object #002",
+    ["DictKey_UnitName_183"] = "New Static Object #004",
+    ["DictKey_9"] = "",
+    ["DictKey_7"] = "",
+    ["DictKey_22"] = "",
+    ["DictKey_21"] = "",
+    ["DictKey_UnitName_181"] = "New Static Object #003",
+    ["DictKey_10"] = "",
+    ["DictKey_25"] = "\"Wolf 1-1、目標まで2分だ。\"",
+    ["DictKey_17"] = "",
+    ["DictKey_5"] = "",
+    ["DictKey_UnitName_175"] = "New Static Object",
+    ["DictKey_8"] = "",
+    ["DictKey_WptName_428"] = "",
+    ["DictKey_UnitName_177"] = "New Static Object #001",
+    ["DictKey_descriptionNeutralsTask_350"] = "",
+    ["DictKey_6"] = "",
+    ["DictKey_12"] = "",
+    ["DictKey_14"] = "",
+    ["DictKey_16"] = "",
+    ["DictKey_WptName_365"] = "",
+    ["DictKey_23"] = "",
+    ["DictKey_descriptionText_347"] = "1989年12月21日\
+\
+第12装甲師団はクバン川を完全に渡河し、マイコープ北方の平原地帯を横断して進撃を継続している。第16親衛戦車師団は決定的な地上決戦を回避し、航空部隊を投入して敵戦力の消耗を図っている。\
+\
+第42親衛戦車師団は現在、第5装甲師団に対するクラスノダール防衛戦に全面的に投入されている。第15装甲旅団は西進してクラスノダールの包囲を試みる一方、第13装甲擲弾兵旅団が市街地への攻撃を実施している。\
+\
+第2装甲擲弾兵師団は、西ドイツ第III軍団の予備として後方に待機している。",
+    ["DictKey_descriptionBlueTask_349"] = "",
+    ["DictKey_24"] = "",
+    ["DictKey_15"] = "",
+    ["DictKey_13"] = "",
+    ["DictKey_sortie_351"] = "CWW-03-1",
+    ["DictKey_11"] = "",
+    ["DictKey_19"] = "",
+    ["DictKey_26"] = "",
+    ["DictKey_20"] = "",
+} -- end of dictionary

@@ -1,0 +1,165 @@
+dictionary = 
+{
+	["DictKey_80"] = "",
+	["DictKey_18"] = "",
+	["DictKey_37"] = "",
+	["DictKey_125"] = "",
+	["DictKey_40"] = "",
+	["DictKey_sortie_198"] = "追撃",
+	["DictKey_84"] = "",
+	["DictKey_25"] = "",
+	["DictKey_58"] = "",
+	["DictKey_78"] = "",
+	["DictKey_67"] = "",
+	["DictKey_69"] = "",
+	["DictKey_89"] = "",
+	["DictKey_72"] = "",
+	["DictKey_descriptionNeutralsTask_197"] = "",
+	["DictKey_119"] = "",
+	["DictKey_20"] = "",
+	["DictKey_76"] = "",
+	["DictKey_22"] = "",
+	["DictKey_59"] = "",
+	["DictKey_126"] = "本キャンペーンの全ミッションブリーフィングは、陸軍航空の戦術教官によって編集された。",
+	["DictKey_86"] = "",
+	["DictKey_110"] = "866、了解。803、車両を攻撃せよ。",
+	["DictKey_38"] = "",
+	["DictKey_54"] = "",
+	["DictKey_47"] = "",
+	["DictKey_130"] = "",
+	["DictKey_64"] = "",
+	["DictKey_93"] = "",
+	["DictKey_100"] = "",
+	["DictKey_52"] = "",
+	["DictKey_68"] = "",
+	["DictKey_116"] = "",
+	["DictKey_91"] = "866。アチグヴァリ周辺で目標を捕捉。交戦する。",
+	["DictKey_46"] = "",
+	["DictKey_94"] = "",
+	["DictKey_32"] = "",
+	["DictKey_36"] = "",
+	["DictKey_88"] = "803、離陸を許可する。",
+	["DictKey_120"] = "",
+	["DictKey_43"] = "",
+	["DictKey_114"] = "Mission failed!",
+	["DictKey_105"] = "",
+	["DictKey_127"] = "",
+	["DictKey_62"] = "",
+	["DictKey_129"] = "",
+	["DictKey_45"] = "",
+	["DictKey_101"] = "",
+	["DictKey_30"] = "",
+	["DictKey_104"] = "",
+	["DictKey_15"] = "",
+	["DictKey_99"] = "",
+	["DictKey_83"] = "",
+	["DictKey_115"] = "",
+	["DictKey_96"] = "",
+	["DictKey_85"] = "",
+	["DictKey_descriptionBlueTask_196"] = "",
+	["DictKey_111"] = "",
+	["DictKey_42"] = "",
+	["DictKey_39"] = "",
+	["DictKey_41"] = "",
+	["DictKey_51"] = "",
+	["DictKey_82"] = "",
+	["DictKey_75"] = "",
+	["DictKey_92"] = "",
+	["DictKey_17"] = "",
+	["DictKey_60"] = "",
+	["DictKey_81"] = "戦闘任務完了！基地へ帰投せよ！",
+	["DictKey_97"] = "",
+	["DictKey_29"] = "",
+	["DictKey_121"] = "",
+	["DictKey_descriptionText_194"] = "第811独立強襲航空連隊 連隊長\
+戦闘命令 07/26 1730\
+\
+1. オチャムチラを喪失した敵は、残存する部隊および装備をガリへ向けて後退させ始めた。\
+\
+2. 最短時間で決定的勝利を確保するため、陸軍航空および攻撃航空戦力を用いて後退部隊への打撃を計画した。追加の目標として、敵航空戦力の活動を阻止し、ガリ地域の確保を達成する。",
+	["DictKey_108"] = "",
+	["DictKey_44"] = "",
+	["DictKey_107"] = "",
+	["DictKey_70"] = "",
+	["DictKey_35"] = "",
+	["DictKey_118"] = "MISSION COMPLETE！\
+滑走路末端までタキシングせよ。",
+	["DictKey_26"] = "",
+	["DictKey_103"] = "",
+	["DictKey_33"] = "",
+	["DictKey_124"] = "本キャンペーンのボイスは以下により提供された:\
+ユーリイ・A・ガガーリン空軍士官学校の戦闘パイロットおよびEagle Dynamicsテストチームのメンバー。\
+また、本キャンペーンでスクリプト化された無線交信は、攻撃機・戦闘機・陸軍航空機の実任務パイロットによって編集された。",
+	["DictKey_66"] = "",
+	["DictKey_65"] = "",
+	["DictKey_56"] = "",
+	["DictKey_71"] = "",
+	["DictKey_122"] = "キャンペーン\"REVENGE\"を完了した！\
+\
+Eagle Dynamicsは、キャンペーンの完了を祝し、あなたの成功を称える。",
+	["DictKey_109"] = "",
+	["DictKey_106"] = "867、注意しろ。縦隊中央にShilka AAAがいる。",
+	["DictKey_74"] = "",
+	["DictKey_34"] = "",
+	["DictKey_61"] = "",
+	["DictKey_48"] = "",
+	["DictKey_27"] = "",
+	["DictKey_117"] = "",
+	["DictKey_73"] = "",
+	["DictKey_23"] = "",
+	["DictKey_descriptionRedTask_195"] = "Su-25飛行隊 任務:\
+\
+コールサイン: 803。\
+\
+07/26の1830～1840の間、866および255編隊と協同し、アチグヴァリ周辺で後退中の敵縦隊を攻撃するため、Su-25 2機編隊を率いて行動せよ。\
+\
+\
+連携および支援\
+\
+- Su-25 2機編隊(編隊長コールサイン866)は縦隊内で発見された防空ユニットを攻撃し、その後二次目標を攻撃する。\
+- Ka-50 2機編隊(編隊長コールサイン255)は866編隊に続き、803編隊と協同して縦隊を攻撃する。\
+\
+兵装\
+\
+120×S-8KOM\
+8×FAB-100\
+2×R-60M\
+\
+\
+管制および通信\
+\
+- 全航空戦力の管制は、防空軍航空・防空第2司令部CP、コールサイン\"Terek\"が実施する。\
+\
+脅威\
+- 地上戦力: 小火器\
+- 戦術航空: Su-25最大4機\
+- 陸軍航空: 活動は予想されない\
+- 防空: ZSU-23-4\"Shikla\" AAA、\"Strela\" SAM\
+\
+統合部隊群 司令官\
+V.クダソフ 少将\
+",
+	["DictKey_50"] = "",
+	["DictKey_113"] = "",
+	["DictKey_102"] = "803、注意しろ。縦隊先頭にMANPADの可能性あり。",
+	["DictKey_123"] = "",
+	["DictKey_95"] = "255。目標地域へ接近中。編隊注意、右側から進入する。",
+	["DictKey_90"] = "",
+	["DictKey_21"] = "",
+	["DictKey_53"] = "",
+	["DictKey_87"] = "",
+	["DictKey_128"] = "キャンペーンのテストおよびボイス収録への協力に対し、Layvinas、Frogfoot、Heliwow、PilotMi8、AndreyAに特別な謝意を表する。",
+	["DictKey_16"] = "",
+	["DictKey_49"] = "",
+	["DictKey_77"] = "",
+	["DictKey_63"] = "",
+	["DictKey_98"] = "866。目標へ進入する。",
+	["DictKey_24"] = "",
+	["DictKey_55"] = "",
+	["DictKey_57"] = "",
+	["DictKey_28"] = "",
+	["DictKey_31"] = "",
+	["DictKey_112"] = "",
+	["DictKey_79"] = "",
+	["DictKey_19"] = "こちら255、803注意！BTRが1両、縦隊から分離して市街地内を高速移動中だ。こちらは攻撃できない。MANPADの脅威の可能性あり！",
+} -- end of dictionary

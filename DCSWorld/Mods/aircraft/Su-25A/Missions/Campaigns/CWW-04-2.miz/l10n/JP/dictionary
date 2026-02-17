@@ -1,0 +1,89 @@
+dictionary = 
+{
+    ["DictKey_18"] = "",
+    ["DictKey_WptName_445"] = "",
+    ["DictKey_40"] = "",
+    ["DictKey_58"] = "",
+    ["DictKey_UnitName_198"] = "New Static Object #004",
+    ["DictKey_20"] = "",
+    ["DictKey_22"] = "",
+    ["DictKey_59"] = "",
+    ["DictKey_21"] = "",
+    ["DictKey_50"] = "",
+    ["DictKey_47"] = "",
+    ["DictKey_42"] = "",
+    ["DictKey_51"] = "\"繰り返す:\"",
+    ["DictKey_17"] = "",
+    ["DictKey_46"] = "",
+    ["DictKey_WptName_485"] = "",
+    ["DictKey_32"] = "\"Grach 2-1、こちら師団司令部。現在位置で待機し、目標指示を待て。\"",
+    ["DictKey_45"] = "\"Grach 2-1、こちら師団司令部。任務がある。目標は以下のとおりだ:\"",
+    ["DictKey_43"] = "\"WP3、方位38°、距離20km。砲兵中隊が射撃陣地に展開中。目標マーキングなし。友軍近接なし。\"",
+    ["DictKey_30"] = "",
+    ["DictKey_UnitName_194"] = "New Static Object",
+    ["DictKey_15"] = "",
+    ["DictKey_12"] = "",
+    ["DictKey_39"] = "\"WP3、方位38°、距離20km。砲兵中隊が射撃陣地に展開中。目標マーキングなし。友軍近接なし。\"",
+    ["DictKey_41"] = "\"繰り返す:\"",
+    ["DictKey_56"] = "",
+    ["DictKey_60"] = "",
+    ["DictKey_29"] = "",
+    ["DictKey_33"] = "",
+    ["DictKey_44"] = "",
+    ["DictKey_UnitName_200"] = "New Static Object #005",
+    ["DictKey_26"] = "",
+    ["DictKey_UnitName_204"] = "New Static Object #007",
+    ["DictKey_25"] = "",
+    ["DictKey_55"] = "",
+    ["DictKey_WptName_500"] = "",
+    ["DictKey_WptName_419"] = "",
+    ["DictKey_61"] = "",
+    ["DictKey_48"] = "",
+    ["DictKey_31"] = "",
+    ["DictKey_UnitName_202"] = "New Static Object #006",
+    ["DictKey_53"] = "\"WP3、方位21°、距離25km。MLRS砲兵中隊が射撃陣地に展開中。目標マーキングなし。友軍近接なし。\"",
+    ["DictKey_23"] = "",
+    ["DictKey_13"] = "",
+    ["DictKey_descriptionNeutralsTask_405"] = "",
+    ["DictKey_descriptionRedTask_403"] = "任務:\
+第42親衛戦車師団に対し、オンコールCASを提供せよ。\
+\
+目標:\
+14:55から15:10までWP3とWP4の間で待機し、師団司令部の指示に従って目標を攻撃せよ。\
+\
+ウェイポイント:\
+#   種別             時刻    速度       高度\
+1   離陸             14:35    -            -\
+2   航法             14:48   600       2,000\
+3   オンコールCAS    14:55   600         300\
+4   オンコールCAS    15:10   600         300\
+5   着陸             15:30   600       2,000\
+\
+パッケージ:\
+>Grach 2 (On-call CAS)     2×Su-25<",
+    ["DictKey_sortie_406"] = "CWW-04-2",
+    ["DictKey_WptName_421"] = "",
+    ["DictKey_28"] = "",
+    ["DictKey_descriptionText_402"] = "1989年12月21日\
+\
+第12装甲師団は、第35および第36装甲旅団を並行して前進させ、戦線を拡大している。第16親衛戦車師団所属の第4自動車化狙撃連隊は、第35装甲旅団による激しい攻撃で甚大な損害を被りつつ、マイコープ方面へ後退を継続している。\
+\
+第42親衛戦車師団は、クラスノダール周辺で第5装甲師団と激戦を展開中だ。同師団の第4自動車化狙撃連隊は、第13装甲擲弾兵旅団との市街戦で大きな損害を受け、敗北の危険にさらされている。午前中、第2戦車連隊は第15装甲旅団の追撃を受けつつ西方へ後退した。初動で陣地を保持していた第3戦車連隊は、現在、露出した第15装甲旅団の側面に対して南方から攻撃を開始している。第42親衛戦車師団は、2個連隊と師団砲兵の全戦力を投入し、この旅団の撃滅を最優先目標としている。第1戦車連隊はクラスノダール南方で予備として待機中だ。",
+    ["DictKey_WptName_444"] = "",
+    ["DictKey_UnitName_196"] = "New Static Object #003",
+    ["DictKey_35"] = "\"Grach 2-1、こちら師団司令部。任務がある。目標は以下のとおりだ:\"",
+    ["DictKey_14"] = "",
+    ["DictKey_16"] = "",
+    ["DictKey_49"] = "\"WP3、方位21°、距離25km。MLRS砲兵中隊が射撃陣地に展開中。目標マーキングなし。友軍近接なし。\"",
+    ["DictKey_52"] = "",
+    ["DictKey_34"] = "",
+    ["DictKey_36"] = "",
+    ["DictKey_24"] = "",
+    ["DictKey_27"] = "",
+    ["DictKey_57"] = "",
+    ["DictKey_19"] = "",
+    ["DictKey_54"] = "",
+    ["DictKey_38"] = "",
+    ["DictKey_descriptionBlueTask_404"] = "",
+    ["DictKey_37"] = "",
+} -- end of dictionary

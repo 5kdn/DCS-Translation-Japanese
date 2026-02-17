@@ -1,0 +1,86 @@
+dictionary = 
+{
+    ["DictKey_UnitName_226"] = "New Static Object #002",
+    ["DictKey_18"] = "",
+    ["DictKey_39"] = "",
+    ["DictKey_41"] = "",
+    ["DictKey_37"] = "\"Grach 3-1、こちら師団司令部。目標ブリーフを受信する準備をせよ。\"",
+    ["DictKey_40"] = "",
+    ["DictKey_38"] = "",
+    ["DictKey_WptName_394"] = "",
+    ["DictKey_WptName_393"] = "",
+    ["DictKey_25"] = "",
+    ["DictKey_WptName_392"] = "",
+    ["DictKey_36"] = "",
+    ["DictKey_29"] = "",
+    ["DictKey_33"] = "",
+    ["DictKey_11"] = "",
+    ["DictKey_UnitName_216"] = "New Static Object",
+    ["DictKey_44"] = "\"Grach 3-1、こちら師団司令部。敵戦車1個小隊が北方から道路沿いに接近中だ。これら増援に対して火力を転換せよ。\"",
+    ["DictKey_UnitName_228"] = "New Static Object #004",
+    ["DictKey_10"] = "",
+    ["DictKey_48"] = "\"Grach 3-1、こちら師団司令部。敵の抵抗は排除された。任務解除、RTBを許可する。以上。\"",
+    ["DictKey_WptName_451"] = "",
+    ["DictKey_9"] = "",
+    ["DictKey_WptName_520"] = "",
+    ["DictKey_7"] = "",
+    ["DictKey_sortie_364"] = "CWW-09-1",
+    ["DictKey_22"] = "",
+    ["DictKey_WptName_411"] = "",
+    ["DictKey_21"] = "",
+    ["DictKey_UnitName_220"] = "New Static Object #003",
+    ["DictKey_WptName_410"] = "",
+    ["DictKey_27"] = "",
+    ["DictKey_UnitName_222"] = "New Static Object #005",
+    ["DictKey_47"] = "",
+    ["DictKey_UnitName_218"] = "New Static Object #001",
+    ["DictKey_UnitName_224"] = "New Static Object #006",
+    ["DictKey_42"] = "",
+    ["DictKey_28"] = "",
+    ["DictKey_17"] = "",
+    ["DictKey_45"] = "",
+    ["DictKey_23"] = "",
+    ["DictKey_13"] = "",
+    ["DictKey_46"] = "\"Grach 3-1、こちら師団司令部。目標ブリーフは次のとおり。IPから方位300°、距離10km、目標はレオパルト戦車2個小隊。目標は道路南側縁に沿って展開している。目標を挟み込む位置に、砲兵の発煙弾を2発着弾させる。味方部隊が南東方向から6kmの位置まで接近中だ。\"",
+    ["DictKey_35"] = "",
+    ["DictKey_32"] = "",
+    ["DictKey_8"] = "",
+    ["DictKey_descriptionNeutralsTask_363"] = "",
+    ["DictKey_descriptionBlueTask_362"] = "",
+    ["DictKey_43"] = "",
+    ["DictKey_19"] = "",
+    ["DictKey_WptName_406"] = "",
+    ["DictKey_14"] = "",
+    ["DictKey_16"] = "",
+    ["DictKey_49"] = "",
+    ["DictKey_34"] = "",
+    ["DictKey_20"] = "",
+    ["DictKey_30"] = "",
+    ["DictKey_24"] = "",
+    ["DictKey_15"] = "",
+    ["DictKey_UnitName_230"] = "New Static Object #008",
+    ["DictKey_26"] = "",
+    ["DictKey_12"] = "",
+    ["DictKey_descriptionRedTask_361"] = "任務:\
+第16親衛戦車師団の第2戦車連隊は、10:50頃に西ドイツ第64戦車大隊との接触が予想されている。最高司令部は、この戦闘を支援するためCAS任務を命じた。\
+\
+目標:\
+第16親衛戦車師団に対するCASを実施せよ。IP接近時に最終的な目標指示が与えられる見込みだ。\
+\
+ウェイポイント:\
+#   種別             時刻   速度        高度\
+1   離陸             10:30    -            -\
+2   航法             10:48   600       2,000\
+3   IP               10:52   700         300\
+4   CAS              10:53   700         300\
+5   着陸             11:20   600       2,000\
+\
+パッケージ:\
+>Grach 3 (CAS)    2×Su-25<",
+    ["DictKey_31"] = "",
+    ["DictKey_descriptionText_360"] = "1989年12月24日\
+\
+第16親衛戦車師団は、甚大な損害を受けていた第34装甲擲弾兵旅団を突破し、第12装甲師団の完全撃滅を達成した。新たに投入された第6装甲旅団は激しい抵抗を示し、第16親衛戦車師団の進撃の大部分を食い止めている。\
+\
+第5装甲擲弾兵旅団は、多大な損害を被りつつも、第42親衛戦車師団の第1戦車連隊を撃退した。第4自動車化狙撃連隊は前線を突破し、第5装甲擲弾兵旅団の陣地に対する攻撃に移行している。第2および第3戦車連隊は、西ドイツ第III軍団の後方への進撃を継続中だ。",
+} -- end of dictionary

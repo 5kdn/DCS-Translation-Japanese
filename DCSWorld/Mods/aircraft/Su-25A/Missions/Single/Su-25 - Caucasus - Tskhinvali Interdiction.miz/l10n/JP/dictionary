@@ -1,0 +1,435 @@
+dictionary = 
+{
+    ["DictKey_WptName_615"] = "",
+    ["DictKey_UnitName_52"] = "Unit #109",
+    ["DictKey_WptName_600"] = "",
+    ["DictKey_UnitName_497"] = "Mozdok Static #025",
+    ["DictKey_GroupName_29"] = "RU TANK-2",
+    ["DictKey_UnitName_449"] = "Mozdok Static #028",
+    ["DictKey_descriptionRedTask_249"] = "あなたはSu-25 2機編隊で構成される231飛行隊を率い、ツヒンヴァリ周辺のジョージア軍に対する阻止攻撃任務を実施する。\
+\
+ツヒンヴァリ南方および市街地外縁部に集結しているジョージア軍部隊を阻止せよ。\
+\
+特に、ツヒンヴァリ南西側にある平和維持部隊施設への圧力を軽減することを優先せよ。\
+\
+最新の情報では、平和維持部隊は兵舎地下に退避しているが、ジョージア軍の砲撃により建物が炎上したとのことだ。\
+\
+現在の状況は不明である。\
+\
+第693および第135自動車化狙撃兵連隊の大隊戦術群が、すでにグフティ橋を渡河し、北方からツヒンヴァリへ進出中であることに留意せよ。\
+\
+彼らは現在、ツヒンヴァリ北方数kmに展開し、重砲兵力の到着を待っている。\
+\
+いかなる状況下においても、ツヒンヴァリ北方の目標を攻撃してはならない。\
+\
+本日早朝、ジョージア空軍が活動しており、グフティ橋付近で第693および第135連隊を爆撃していた。\
+\
+現在、コールサイン201のSu-27編隊が上空でCAPを実施している。\
+\
+同編隊は燃料の都合により、10:45頃にRTBする見込みである。\
+\
+彼らがRTBした場合、あなたも同時にRTBせよ。彼らが離脱した後、目標地域に留まってはならない。\
+\
+Su-24M 2機編隊の141飛行隊が、10:15頃にあなたより先に目標地域へ到達し、到着時点でも同空域に残っている可能性がある。\
+\
+彼らはさらに南方で、ゴリ市方面から北上するジョージア軍を攻撃する任務に就いているため、特別な空域調整は不要である。\
+\
+\
+EXECUTION:\
+=======\
+直ちに離陸し、ウェイポイント1へ向かえ。\
+\
+ウェイポイント1でフェンスインし、攻撃高度まで降下せよ。\
+\
+ウェイポイント2がツヒンヴァリを示す。\
+\
+ツヒンヴァリ南方および市街地外縁部の目標を攻撃せよ。\
+\
+ツヒンヴァリ北方に展開する友軍部隊を攻撃してはならない。\
+\
+10:45時点で未離脱の場合は、201飛行隊のRTBに合わせてRTBせよ。\
+\
+\
+COMMS:\
+=====\
+Bullseye: ゴリ市\
+\
+231飛行隊 阻止攻撃 (124MHz AM):\
+231 - フライトリード, Su-25A\
+232 - ウィングマン,   Su-25A\
+\
+201飛行隊 CAP (124MHz AM):\
+201 - フライトリード, Su-27\
+202 - ウィングマン,   Su-27\
+\
+141飛行隊 阻止攻撃 (124MHz AM):\
+141 - フライトリード, Su-24M\
+142 - ウィングマン,   Su-24M\
+\
+99飛行隊 AWACS (124MHz AM)\
+\
+モズドク基地(Home plate): 137MHz AM\
+\
+\
+DIVERT FIELD:\
+========\
+ナルチク空港, 136MHz AM\
+\
+\
+ARMAMENT:\
+=======\
+4×Kh-25ML\
+2×RBK-500U PTAB-1M\
+2×R-60M\
+2×800L増槽\
+機関砲\
+燃料100%\
+\
+\
+WEATHER:\
+======\
+所により雲\
+気温: 31C\
+風: 西から4m/s\
+\
+\
+POSSIBLE THREATS:\
+============\
+防空兵器:\
+SA-3, SA-8, SA-9, SA-11, SA-13\
+\
+航空機:\
+Su-25A\
+",
+    ["DictKey_UnitName_233"] = "Unit #131",
+    ["DictKey_UnitName_26"] = "Pilot #11",
+    ["DictKey_UnitName_374"] = "",
+    ["DictKey_UnitName_539"] = "Nalchik Static #017",
+    ["DictKey_UnitName_73"] = "Unit #17",
+    ["DictKey_WptName_432"] = "",
+    ["DictKey_WptName_606"] = "",
+    ["DictKey_UnitName_398"] = "Mozdok Static #004",
+    ["DictKey_WptName_516"] = "",
+    ["DictKey_WptName_269"] = "",
+    ["DictKey_UnitName_25"] = "Pilot #12",
+    ["DictKey_UnitName_192"] = "Unit #78",
+    ["DictKey_UnitName_378"] = "",
+    ["DictKey_GroupName_51"] = "RU TANK-1",
+    ["DictKey_WptName_453"] = "",
+    ["DictKey_WptName_438"] = "",
+    ["DictKey_WptName_260"] = "",
+    ["DictKey_UnitName_617"] = "Smoke #004",
+    ["DictKey_WptName_456"] = "",
+    ["DictKey_UnitName_590"] = "Smoke #001",
+    ["DictKey_UnitName_473"] = "Mozdok Static #021",
+    ["DictKey_WptName_573"] = "",
+    ["DictKey_WptName_519"] = "",
+    ["DictKey_WptName_468"] = "",
+    ["DictKey_WptName_534"] = "",
+    ["DictKey_WptName_293"] = "",
+    ["DictKey_descriptionBlueTask_250"] = "",
+    ["DictKey_4"] = "MISSION SUCCESS！！\
+\
+損失なしで敵に重大な損害を与えた。\
+",
+    ["DictKey_UnitName_428"] = "Mozdok Static #016",
+    ["DictKey_WptName_289"] = "",
+    ["DictKey_UnitName_584"] = "",
+    ["DictKey_UnitName_548"] = "Nalchik Static #021",
+    ["DictKey_UnitName_79"] = "New Static Object #001",
+    ["DictKey_UnitName_382"] = "",
+    ["DictKey_UnitName_183"] = "Unit #87",
+    ["DictKey_WptName_597"] = "",
+    ["DictKey_WptName_268"] = "",
+    ["DictKey_UnitName_485"] = "Mozdok Static #013",
+    ["DictKey_UnitName_506"] = "Mozdok Static #025",
+    ["DictKey_WptName_621"] = "",
+    ["DictKey_UnitName_227"] = "Unit #137",
+    ["DictKey_GroupName_19"] = "RU SU-24M",
+    ["DictKey_WptName_462"] = "",
+    ["DictKey_UnitName_467"] = "Mozdok Static #022",
+    ["DictKey_UnitName_404"] = "Mozdok Static #006",
+    ["DictKey_UnitName_93"] = "New Static Object #002",
+    ["DictKey_UnitName_380"] = "",
+    ["DictKey_WptName_435"] = "",
+    ["DictKey_UnitName_95"] = "New Static Object #7",
+    ["DictKey_GroupName_223"] = "dispersed group2",
+    ["DictKey_UnitName_377"] = "",
+    ["DictKey_WptName_429"] = "",
+    ["DictKey_UnitName_536"] = "Nalchik Static #016",
+    ["DictKey_UnitName_22"] = "Pilot #6",
+    ["DictKey_WptName_588"] = "",
+    ["DictKey_WptName_393"] = "",
+    ["DictKey_UnitName_458"] = "Mozdok Static #030",
+    ["DictKey_UnitName_476"] = "Mozdok Static #033",
+    ["DictKey_WptName_350"] = "",
+    ["DictKey_WptName_399"] = "",
+    ["DictKey_UnitName_32"] = "Unit #2",
+    ["DictKey_UnitName_373"] = "",
+    ["DictKey_WptName_570"] = "",
+    ["DictKey_UnitName_416"] = "Mozdok Static #010",
+    ["DictKey_UnitName_340"] = "Beslan Static #002",
+    ["DictKey_UnitName_446"] = "Mozdok Static #027",
+    ["DictKey_GroupName_71"] = "RU AFB (Mozdok) Support #001",
+    ["DictKey_WptName_522"] = "",
+    ["DictKey_WptName_326"] = "",
+    ["DictKey_WptName_531"] = "",
+    ["DictKey_UnitName_371"] = "",
+    ["DictKey_UnitName_224"] = "Unit #140",
+    ["DictKey_WptName_480"] = "",
+    ["DictKey_UnitName_533"] = "Nalchik Static #008",
+    ["DictKey_UnitName_527"] = "Nalchik Static #006",
+    ["DictKey_UnitName_410"] = "Mozdok Static #008",
+    ["DictKey_UnitName_75"] = "Unit #19",
+    ["DictKey_UnitName_54"] = "Unit #107",
+    ["DictKey_WptName_450"] = "",
+    ["DictKey_UnitName_55"] = "Unit #106",
+    ["DictKey_WptName_258"] = "",
+    ["DictKey_UnitName_343"] = "Beslan Static #002",
+    ["DictKey_UnitName_383"] = "",
+    ["DictKey_UnitName_234"] = "Unit #130",
+    ["DictKey_UnitName_578"] = "Nalchik Static #015",
+    ["DictKey_WptName_585"] = "",
+    ["DictKey_GroupName_24"] = "RU SU-25T",
+    ["DictKey_UnitName_225"] = "Unit #139",
+    ["DictKey_UnitName_21"] = "Pilot #7",
+    ["DictKey_WptName_390"] = "",
+    ["DictKey_WptName_567"] = "",
+    ["DictKey_WptName_290"] = "",
+    ["DictKey_WptName_618"] = "",
+    ["DictKey_UnitName_228"] = "Unit #136",
+    ["DictKey_WptName_417"] = "",
+    ["DictKey_UnitName_91"] = "New Static Object #5",
+    ["DictKey_WptName_504"] = "",
+    ["DictKey_UnitName_545"] = "Nalchik Static #020",
+    ["DictKey_WptName_510"] = "",
+    ["DictKey_UnitName_337"] = "Beslan Static #001",
+    ["DictKey_UnitName_367"] = "",
+    ["DictKey_UnitName_384"] = "",
+    ["DictKey_UnitName_422"] = "Mozdok Static #014",
+    ["DictKey_UnitName_77"] = "New Static Object",
+    ["DictKey_UnitName_63"] = "Unit #12",
+    ["DictKey_UnitName_608"] = "Smoke #004",
+    ["DictKey_UnitName_413"] = "Mozdok Static #009",
+    ["DictKey_UnitName_85"] = "New Static Object #2",
+    ["DictKey_UnitName_434"] = "Mozdok Static #018",
+    ["DictKey_GroupName_56"] = "RU COMPOUND Support #011",
+    ["DictKey_WptName_341"] = "",
+    ["DictKey_UnitName_193"] = "dispersed group",
+    ["DictKey_UnitName_488"] = "Mozdok Static #020",
+    ["DictKey_UnitName_596"] = "Smoke #004",
+    ["DictKey_WptName_335"] = "",
+    ["DictKey_UnitName_443"] = "Mozdok Static #026",
+    ["DictKey_WptName_402"] = "",
+    ["DictKey_UnitName_232"] = "Unit #132",
+    ["DictKey_GroupName_538"] = "Nalchik Static #017",
+    ["DictKey_WptName_273"] = "",
+    ["DictKey_WptName_495"] = "",
+    ["DictKey_WptName_513"] = "",
+    ["DictKey_WptName_549"] = "",
+    ["DictKey_UnitName_20"] = "Pilot #8",
+    ["DictKey_UnitName_87"] = "New Static Object #3",
+    ["DictKey_WptName_558"] = "",
+    ["DictKey_UnitName_419"] = "Mozdok Static #011",
+    ["DictKey_WptName_459"] = "",
+    ["DictKey_UnitName_452"] = "Mozdok Static #029",
+    ["DictKey_UnitName_431"] = "Mozdok Static #017",
+    ["DictKey_UnitName_235"] = "Unit #129",
+    ["DictKey_WptName_525"] = "",
+    ["DictKey_UnitName_190"] = "Unit #80",
+    ["DictKey_UnitName_560"] = "Nalchik Static #012",
+    ["DictKey_sortie_251"] = "ツヒンヴァリ阻止攻撃",
+    ["DictKey_WptName_338"] = "",
+    ["DictKey_WptName_546"] = "",
+    ["DictKey_UnitName_614"] = "Smoke #004",
+    ["DictKey_UnitName_379"] = "",
+    ["DictKey_WptName_396"] = "",
+    ["DictKey_UnitName_61"] = "Unit #14",
+    ["DictKey_UnitName_182"] = "Unit #88",
+    ["DictKey_WptName_284"] = "",
+    ["DictKey_WptName_266"] = "",
+    ["DictKey_UnitName_593"] = "Smoke #001",
+    ["DictKey_UnitName_179"] = "Unit #91",
+    ["DictKey_UnitName_569"] = "Nalchik Static #023",
+    ["DictKey_WptName_507"] = "",
+    ["DictKey_WptName_264"] = "",
+    ["DictKey_UnitName_57"] = "Unit #121",
+    ["DictKey_UnitName_31"] = "Unit #3",
+    ["DictKey_WptName_257"] = "",
+    ["DictKey_UnitName_187"] = "Unit #83",
+    ["DictKey_UnitName_236"] = "Unit #128",
+    ["DictKey_UnitName_461"] = "Mozdok Static #019",
+    ["DictKey_WptName_582"] = "",
+    ["DictKey_UnitName_500"] = "Mozdok Static #025",
+    ["DictKey_WptName_498"] = "",
+    ["DictKey_UnitName_518"] = "Nalchik Static #003",
+    ["DictKey_GroupName_544"] = "Nalchik Static #020",
+    ["DictKey_UnitName_191"] = "Unit #79",
+    ["DictKey_UnitName_23"] = "Pilot #5",
+    ["DictKey_GroupName_619"] = "New Airplane Group",
+    ["DictKey_UnitName_563"] = "Nalchik Static #013",
+    ["DictKey_UnitName_515"] = "Nalchik Static #002",
+    ["DictKey_UnitName_180"] = "Unit #90",
+    ["DictKey_descriptionText_248"] = "2008年8月8日:\
+\
+我々が恐れていた攻撃が、ついに始まった。\
+\
+昨夜遅く、トビリシは南オセチア全域を制圧するため、突発的な攻勢を開始した。\
+\
+我々はすでに、これを阻止するため装甲部隊をロキ・トンネル経由で派遣している。\
+\
+我が軍が北方からツヒンヴァリに接近する一方、ジョージア軍は南方で引き続き兵力を集結させている。\
+\
+一方で、昨日、時宜を得て撤収した我々のジョージア人の\"友人\"たちの後、ツヒンヴァリ南西郊外にある合同平和維持部隊の施設が激しい攻撃を受け、複数の死傷者が発生した。\
+",
+    ["DictKey_GroupName_547"] = "Nalchik Static #021",
+    ["DictKey_WptName_444"] = "",
+    ["DictKey_UnitName_81"] = "New Static Object #003",
+    ["DictKey_UnitName_479"] = "Mozdok Static #032",
+    ["DictKey_GroupName_535"] = "Nalchik Static #016",
+    ["DictKey_WptName_420"] = "",
+    ["DictKey_WptName_537"] = "",
+    ["DictKey_UnitName_185"] = "Unit #85",
+    ["DictKey_UnitName_229"] = "Unit #135",
+    ["DictKey_UnitName_494"] = "Mozdok Static #035",
+    ["DictKey_UnitName_30"] = "Unit #4",
+    ["DictKey_UnitName_566"] = "Nalchik Static #022",
+    ["DictKey_UnitName_611"] = "Smoke #004",
+    ["DictKey_UnitName_239"] = "Unit #125",
+    ["DictKey_UnitName_189"] = "Unit #81",
+    ["DictKey_UnitName_59"] = "Unit #16",
+    ["DictKey_WptName_272"] = "",
+    ["DictKey_WptName_327"] = "",
+    ["DictKey_UnitName_60"] = "Unit #15",
+    ["DictKey_UnitName_437"] = "Mozdok Static #024",
+    ["DictKey_UnitName_334"] = "",
+    ["DictKey_UnitName_503"] = "Mozdok Static #025",
+    ["DictKey_UnitName_237"] = "Unit #127",
+    ["DictKey_WptName_471"] = "",
+    ["DictKey_UnitName_470"] = "Mozdok Static #023",
+    ["DictKey_WptName_322"] = "",
+    ["DictKey_WptName_447"] = "",
+    ["DictKey_GroupName_571"] = "Nalchik Static #014",
+    ["DictKey_GroupName_541"] = "Nalchik Static #018",
+    ["DictKey_UnitName_376"] = "",
+    ["DictKey_7"] = "編隊内で航空機を失ったため、ミッション失敗！\
+",
+    ["DictKey_GroupName_532"] = "Nalchik Static #008",
+    ["DictKey_WptName_474"] = "",
+    ["DictKey_WptName_259"] = "",
+    ["DictKey_UnitName_230"] = "Unit #134",
+    ["DictKey_WptName_267"] = "",
+    ["DictKey_UnitName_188"] = "Unit #82",
+    ["DictKey_UnitName_491"] = "Mozdok Static #020",
+    ["DictKey_GroupName_562"] = "Nalchik Static #013",
+    ["DictKey_UnitName_512"] = "Nalchik Static #001",
+    ["DictKey_UnitName_464"] = "Mozdok Static #020",
+    ["DictKey_UnitName_440"] = "Mozdok Static #025",
+    ["DictKey_UnitName_395"] = "Mozdok Static #003",
+    ["DictKey_WptName_325"] = "",
+    ["DictKey_WptName_540"] = "",
+    ["DictKey_UnitName_346"] = "Beslan Static #004",
+    ["DictKey_UnitName_245"] = "New Static Object #011",
+    ["DictKey_UnitName_425"] = "Mozdok Static #015",
+    ["DictKey_GroupName_574"] = "Nalchik Static #019",
+    ["DictKey_UnitName_369"] = "",
+    ["DictKey_WptName_441"] = "",
+    ["DictKey_UnitName_349"] = "Beslan Static #004",
+    ["DictKey_UnitName_530"] = "Nalchik Static #007",
+    ["DictKey_UnitName_33"] = "Unit #1",
+    ["DictKey_UnitName_401"] = "Mozdok Static #005",
+    ["DictKey_GroupName_565"] = "Nalchik Static #022",
+    ["DictKey_WptName_609"] = "",
+    ["DictKey_UnitName_28"] = "Pilot #9",
+    ["DictKey_UnitName_366"] = "",
+    ["DictKey_WptName_347"] = "",
+    ["DictKey_UnitName_83"] = "New Static Object #1",
+    ["DictKey_WptName_291"] = "",
+    ["DictKey_WptName_564"] = "",
+    ["DictKey_UnitName_605"] = "Smoke #004",
+    ["DictKey_UnitName_524"] = "Nalchik Static #005",
+    ["DictKey_UnitName_247"] = "New Static Object #012",
+    ["DictKey_UnitName_554"] = "Nalchik Static #010",
+    ["DictKey_GroupName_601"] = "Smoke #007",
+    ["DictKey_GroupName_568"] = "Nalchik Static #023",
+    ["DictKey_UnitName_587"] = "Smoke #001",
+    ["DictKey_WptName_501"] = "",
+    ["DictKey_WptName_408"] = "",
+    ["DictKey_UnitName_557"] = "Nalchik Static #011",
+    ["DictKey_6"] = "MISSION FAILURE.\
+\
+敵に損害を与えることはできなかったが、少なくとも航空機の損失はなかった！\
+",
+    ["DictKey_WptName_486"] = "",
+    ["DictKey_WptName_483"] = "",
+    ["DictKey_WptName_489"] = "",
+    ["DictKey_WptName_561"] = "",
+    ["DictKey_UnitName_89"] = "New Static Object #4",
+    ["DictKey_WptName_591"] = "",
+    ["DictKey_GroupName_550"] = "Nalchik Static #009",
+    ["DictKey_WptName_294"] = "",
+    ["DictKey_UnitName_385"] = "",
+    ["DictKey_WptName_324"] = "",
+    ["DictKey_WptName_528"] = "",
+    ["DictKey_GroupName_177"] = "dispersed group1",
+    ["DictKey_UnitName_381"] = "",
+    ["DictKey_UnitName_599"] = "Smoke #004",
+    ["DictKey_UnitName_62"] = "Unit #13",
+    ["DictKey_UnitName_455"] = "Mozdok Static #031",
+    ["DictKey_WptName_262"] = "",
+    ["DictKey_UnitName_27"] = "Pilot #10",
+    ["DictKey_UnitName_521"] = "Nalchik Static #004",
+    ["DictKey_WptName_414"] = "",
+    ["DictKey_WptName_477"] = "",
+    ["DictKey_UnitName_184"] = "Unit #86",
+    ["DictKey_WptName_603"] = "",
+    ["DictKey_WptName_543"] = "",
+    ["DictKey_WptName_344"] = "",
+    ["DictKey_UnitName_551"] = "Nalchik Static #009",
+    ["DictKey_WptName_426"] = "",
+    ["DictKey_UnitName_375"] = "",
+    ["DictKey_UnitName_238"] = "Unit #126",
+    ["DictKey_WptName_555"] = "",
+    ["DictKey_WptName_612"] = "",
+    ["DictKey_UnitName_386"] = "",
+    ["DictKey_WptName_579"] = "",
+    ["DictKey_UnitName_181"] = "Unit #89",
+    ["DictKey_WptName_576"] = "",
+    ["DictKey_UnitName_53"] = "Unit #108",
+    ["DictKey_WptName_622"] = "",
+    ["DictKey_UnitName_575"] = "Nalchik Static #019",
+    ["DictKey_WptName_465"] = "",
+    ["DictKey_WptName_411"] = "",
+    ["DictKey_GroupName_607"] = "Smoke #009",
+    ["DictKey_UnitName_572"] = "Nalchik Static #014",
+    ["DictKey_WptName_305"] = "",
+    ["DictKey_UnitName_368"] = "",
+    ["DictKey_5"] = "ミッションは部分的に成功:\
+\
+敵に軽微な損害を与えたが、損失は発生していない。\
+",
+    ["DictKey_UnitName_407"] = "Mozdok Static #007",
+    ["DictKey_UnitName_542"] = "Nalchik Static #018",
+    ["DictKey_WptName_492"] = "",
+    ["DictKey_UnitName_602"] = "Smoke #004",
+    ["DictKey_UnitName_186"] = "Unit #84",
+    ["DictKey_UnitName_392"] = "Mozdok Static #002",
+    ["DictKey_UnitName_226"] = "Unit #138",
+    ["DictKey_WptName_263"] = "",
+    ["DictKey_UnitName_509"] = "Mozdok Static #040",
+    ["DictKey_UnitName_370"] = "",
+    ["DictKey_UnitName_372"] = "",
+    ["DictKey_UnitName_482"] = "Mozdok Static #012",
+    ["DictKey_UnitName_231"] = "Unit #133",
+    ["DictKey_WptName_265"] = "",
+    ["DictKey_UnitName_72"] = "Unit #18",
+    ["DictKey_UnitName_389"] = "Mozdok Static #001",
+    ["DictKey_UnitName_620"] = "Pilot #001",
+    ["DictKey_GroupName_74"] = "RU AD 2",
+    ["DictKey_WptName_594"] = "",
+    ["DictKey_WptName_423"] = "",
+    ["DictKey_WptName_405"] = "",
+    ["DictKey_UnitName_178"] = "Unit #92",
+    ["DictKey_WptName_552"] = "",
+    ["DictKey_WptName_292"] = "",
+} -- end of dictionary

@@ -1,0 +1,71 @@
+dictionary = 
+{
+    ["DictKey_18"] = "",
+    ["DictKey_6"] = "",
+    ["DictKey_WptName_658"] = "",
+    ["DictKey_WptName_685"] = "",
+    ["DictKey_descriptionRedTask_382"] = "任務:\
+最高司令部は、第12装甲師団への増援を阻止するため、西ドイツ第61戦車大隊に対する攻撃パッケージを命じた。パッケージは09:20にランデブーポイントを離脱する。TOTは09:27だ。\
+\
+目標:\
+道路上を縦隊隊形で行動中の西ドイツ第61戦車大隊の戦車部隊を攻撃せよ。\
+\
+ウェイポイント:\
+#   種別             時刻   速度        高度\
+1   離陸             09:05    -            -\
+2   ランデブー       09:20   600       2,000\
+3   IP               09:26   700         300\
+4   攻撃             09:27   700         300\
+5   着陸             09:46   600       2,000\
+\
+パッケージ:\
+Grach 1 (Strike)      4×Su-25\
+Grach 2 (Strike)      2×Su-25\
+>Grach 3 (Strike)     2×Su-25<\
+Hunter 1 (Sweep)      4×MiG-23MLD\
+Hunter 2 (Sweep)      4×MiG-23MLD\
+Bear 1 (SEAD)         2×MiG-27K",
+    ["DictKey_29"] = "",
+    ["DictKey_33"] = "",
+    ["DictKey_descriptionBlueTask_383"] = "",
+    ["DictKey_UnitName_203"] = "New Static Object #004",
+    ["DictKey_WptName_657"] = "",
+    ["DictKey_7"] = "",
+    ["DictKey_descriptionNeutralsTask_384"] = "",
+    ["DictKey_22"] = "",
+    ["DictKey_21"] = "",
+    ["DictKey_10"] = "",
+    ["DictKey_UnitName_199"] = "New Static Object #002",
+    ["DictKey_34"] = "\"Grach 1-1、攻撃パッケージはランデブーポイントを離脱した。\"",
+    ["DictKey_25"] = "",
+    ["DictKey_28"] = "",
+    ["DictKey_17"] = "",
+    ["DictKey_23"] = "",
+    ["DictKey_13"] = "",
+    ["DictKey_35"] = "",
+    ["DictKey_32"] = "",
+    ["DictKey_8"] = "",
+    ["DictKey_9"] = "",
+    ["DictKey_19"] = "",
+    ["DictKey_5"] = "",
+    ["DictKey_37"] = "",
+    ["DictKey_31"] = "",
+    ["DictKey_14"] = "",
+    ["DictKey_16"] = "",
+    ["DictKey_descriptionText_381"] = "1989年12月23日\
+\
+第16親衛戦車師団は、第12装甲師団所属の2個旅団を包囲することに成功した。第2および第3戦車連隊は第34装甲擲弾兵旅団を突破し、第35および第36装甲旅団を西ドイツ第III軍団の主力から遮断した。第2装甲擲弾兵師団所属の第6装甲旅団は、苦境にある第12装甲師団を増援するため、クバン川を渡河している。\
+\
+第5装甲師団は、第42親衛戦車師団の反攻によって撃破された。第14装甲旅団は前進する第2および第3戦車連隊に蹂躙され、事実上消滅した。甚大な損害を受けた第13装甲擲弾兵旅団は、第1戦車連隊に追撃されつつ北東へ逃走している。第2装甲擲弾兵師団の第4および第5装甲擲弾兵旅団は、第42親衛戦車師団の急速な進撃を阻止すべく、迎撃陣地への展開を開始している。",
+    ["DictKey_36"] = "\"Grach 1-1、目標まで2分だ。\"",
+    ["DictKey_27"] = "",
+    ["DictKey_30"] = "",
+    ["DictKey_24"] = "",
+    ["DictKey_15"] = "",
+    ["DictKey_sortie_385"] = "CWW-07-1",
+    ["DictKey_26"] = "",
+    ["DictKey_12"] = "",
+    ["DictKey_20"] = "",
+    ["DictKey_UnitName_201"] = "New Static Object #003",
+    ["DictKey_11"] = "",
+} -- end of dictionary

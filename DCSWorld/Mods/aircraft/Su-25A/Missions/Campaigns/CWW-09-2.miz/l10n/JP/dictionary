@@ -1,0 +1,92 @@
+dictionary = 
+{
+    ["DictKey_18"] = "",
+    ["DictKey_37"] = "",
+    ["DictKey_40"] = "",
+    ["DictKey_58"] = "",
+    ["DictKey_UnitName_226"] = "New Static Object #008",
+    ["DictKey_36"] = "",
+    ["DictKey_20"] = "",
+    ["DictKey_22"] = "",
+    ["DictKey_59"] = "",
+    ["DictKey_21"] = "",
+    ["DictKey_WptName_488"] = "",
+    ["DictKey_10"] = "",
+    ["DictKey_47"] = "",
+    ["DictKey_WptName_487"] = "",
+    ["DictKey_42"] = "",
+    ["DictKey_51"] = "",
+    ["DictKey_17"] = "",
+    ["DictKey_46"] = "",
+    ["DictKey_UnitName_224"] = "New Static Object #006",
+    ["DictKey_32"] = "",
+    ["DictKey_45"] = "",
+    ["DictKey_43"] = "",
+    ["DictKey_UnitName_220"] = "New Static Object #003",
+    ["DictKey_30"] = "",
+    ["DictKey_15"] = "",
+    ["DictKey_12"] = "",
+    ["DictKey_39"] = "",
+    ["DictKey_41"] = "",
+    ["DictKey_56"] = "",
+    ["DictKey_60"] = "",
+    ["DictKey_29"] = "\"Grach 3-1、こちら師団司令部。目標へ進出し、前進航空管制のためRubin 6と交信せよ。\"",
+    ["DictKey_33"] = "",
+    ["DictKey_44"] = "\"Grach 3-1、こちらRubin 6。命中良好。第2目標の指示に備えよ。\"",
+    ["DictKey_WptName_496"] = "",
+    ["DictKey_26"] = "",
+    ["DictKey_descriptionNeutralsTask_381"] = "",
+    ["DictKey_UnitName_216"] = "New Static Object",
+    ["DictKey_descriptionBlueTask_380"] = "",
+    ["DictKey_WptName_544"] = "",
+    ["DictKey_34"] = "",
+    ["DictKey_25"] = "",
+    ["DictKey_48"] = "\"Grach 3-1、こちらRubin 6。目標は前回目標から南へ200mの装甲車両だ。目標はスモークでマーキングされている。南側のスモークを狙え。友軍は西へ300m。ロケットで攻撃せよ。Cleared hot。\"",
+    ["DictKey_UnitName_222"] = "New Static Object #005",
+    ["DictKey_UnitName_218"] = "New Static Object #001",
+    ["DictKey_28"] = "",
+    ["DictKey_23"] = "",
+    ["DictKey_13"] = "",
+    ["DictKey_54"] = "",
+    ["DictKey_50"] = "",
+    ["DictKey_57"] = "\"Grach 3-1、こちらRubin 6。ナイスヒット、目標を撃破した。支援に感謝する。任務解除、RTBを許可する。\"",
+    ["DictKey_8"] = "",
+    ["DictKey_35"] = "",
+    ["DictKey_53"] = "",
+    ["DictKey_52"] = "",
+    ["DictKey_55"] = "",
+    ["DictKey_sortie_382"] = "CWW-09-2",
+    ["DictKey_descriptionText_378"] = "1989年12月24日\
+\
+第16親衛戦車師団は、甚大な損害を受けていた第34装甲擲弾兵旅団を突破し、第12装甲師団の完全撃滅を達成した。新たに投入された第6装甲旅団は激しい抵抗を示し、第16親衛戦車師団の進撃の大部分を食い止めている。\
+\
+第5装甲擲弾兵旅団は、多大な損害を被りつつも、第42親衛戦車師団の第1戦車連隊を撃退した。第4自動車化狙撃連隊は前線を突破し、第5装甲擲弾兵旅団の陣地に対する攻撃に移行している。第2および第3戦車連隊は、西ドイツ第III軍団の後方への進撃を継続中だ。",
+    ["DictKey_16"] = "",
+    ["DictKey_49"] = "",
+    ["DictKey_WptName_486"] = "",
+    ["DictKey_14"] = "",
+    ["DictKey_descriptionRedTask_379"] = "任務:\
+第42親衛戦車師団の第4自動車化狙撃連隊は、ヴォロネジスカヤ市街地で西ドイツ第64装甲擲弾兵大隊と市街戦を実施中であり、近接航空支援を要請している。TOTは10:54だ。\
+\
+目標:\
+第42親衛戦車師団に対するCASを実施せよ。IP接近時に最終的な目標指示が与えられる。\
+\
+ウェイポイント:\
+#   種別             時刻   速度        高度\
+1   離陸             10:30    -            -\
+2   航法             10:48   600       2,000\
+3   IP               10:53   700         300\
+4   CAS              10:54   700         300\
+5   着陸             11:25   600       2,000\
+\
+パッケージ:\
+>Grach 3 (CAS)    2×Su-25<",
+    ["DictKey_24"] = "",
+    ["DictKey_9"] = "",
+    ["DictKey_WptName_517"] = "",
+    ["DictKey_27"] = "",
+    ["DictKey_11"] = "",
+    ["DictKey_38"] = "",
+    ["DictKey_31"] = "\"Grach 3-1、こちらRubin 6。機影を確認した。こちらは敵歩兵と近接戦闘中だ。目標は部隊集結地点。目標はスモークでマーキングされている。爆弾で攻撃せよ。南から北へ進入し、スモーク中心に投下を集中させろ。友軍はスモークの西へ250m。左へブレイク、目標の北東にSAMおよびAAAあり。Cleared hot。\"",
+    ["DictKey_19"] = "",
+} -- end of dictionary

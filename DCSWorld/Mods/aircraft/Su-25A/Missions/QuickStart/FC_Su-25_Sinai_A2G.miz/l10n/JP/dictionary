@@ -1,0 +1,8 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Su-25 対地攻撃",
+    ["DictKey_descriptionText_1"] = "反政府勢力の拠点に対して航空攻撃を実施せよ。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_descriptionRedTask_2"] = "反政府勢力がセント・キャサリン村付近に作戦拠点を設営している。該当施設への攻撃および破壊を許可する。重機関銃による対空火器の射撃が予想される。",
+} -- end of dictionary

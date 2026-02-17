@@ -1,0 +1,79 @@
+dictionary = 
+{
+    ["DictKey_2"] = "本ミッションでは、機関砲および各種ロケット弾の使用を訓練する。\
+\
+訓練用の目標群はウェイポイント4に配置されている。",
+    ["DictKey_6"] = "機体を操作してHUD上の照準レティクルを目標に合わせ、Spaceキーでロケット弾または機関砲を発射せよ。",
+    ["DictKey_GroupName_14"] = "New Static Object #002",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_4"] = "トラック部隊を撃破した。",
+    ["DictKey_UnitName_19"] = "New Static Object #004",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_GroupName_8"] = "New Airplane Group",
+    ["DictKey_UnitName_21"] = "New Static Object #005",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_UnitName_32"] = "Unit #6",
+    ["DictKey_UnitName_31"] = "Unit #7",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_GroupName_20"] = "New Static Object #005",
+    ["DictKey_GroupName_22"] = "New Static Object #006",
+    ["DictKey_UnitName_26"] = "Unit #3",
+    ["DictKey_GroupName_12"] = "New Static Object #001",
+    ["DictKey_UnitName_27"] = "Unit #2",
+    ["DictKey_UnitName_30"] = "Unit #8",
+    ["DictKey_UnitName_25"] = "Unit #4",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_UnitName_13"] = "New Static Object #001",
+    ["DictKey_WptName_43"] = "",
+    ["DictKey_UnitName_23"] = "New Static Object #006",
+    ["DictKey_GroupName_18"] = "New Static Object #004",
+    ["DictKey_5"] = "装甲兵員輸送車部隊を撃破した。",
+    ["DictKey_UnitName_11"] = "New Static Object",
+    ["DictKey_sortie_37"] = "ロケット弾および機関砲訓練",
+    ["DictKey_UnitName_28"] = "Unit #1",
+    ["DictKey_UnitName_15"] = "New Static Object #002",
+    ["DictKey_UnitName_9"] = "Player",
+    ["DictKey_GroupName_10"] = "New Static Object",
+    ["DictKey_UnitName_33"] = "Unit #5",
+    ["DictKey_7"] = "ロケット弾を選択した状態で、LCtrl + Spaceを押すとリップル数量を変更できる。\
+\
+射程内に入るとHUD下のアンバーランプが点灯する。\
+",
+    ["DictKey_UnitName_17"] = "New Static Object #003",
+    ["DictKey_descriptionRedTask_35"] = "ウェイポイント4の目標をロケット弾および機関砲で破壊せよ。",
+    ["DictKey_GroupName_16"] = "New Static Object #003",
+    ["DictKey_descriptionBlueTask_36"] = "",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_GroupName_24"] = "Trucks",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_3"] = "目標エリア接近時に7を押して対地モードを選択する。\
+\
+Dキーでロケット弾の種類を切り替える。兵装パネル上では\"HPC\"と表示される。\
+\
+Cキーで30mm機関砲を切り替える。兵装パネル上では\"Bny\"と表示される。",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_GroupName_29"] = "APCs",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_descriptionText_34"] = "1- 離陸\
+2- ウェイポイント4周辺の地上目標を捜索\
+3- 地上目標を破壊\
+4- 飛行場に着陸\
+\
+詳細はトレーニング動画およびフライトマニュアルを確認せよ。\
+\
+主なキーコマンド:\
+\
+ナビゲーションモード: 1\
+ウェイポイント切替: LCtrl + `\
+対地モード: 7\
+ロケット弾選択: D\
+機関砲選択: C\
+リップル数量: LCtrl + Space",
+} -- end of dictionary

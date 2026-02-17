@@ -1,0 +1,94 @@
+dictionary = 
+{
+    ["DictKey_6"] = "",
+    ["DictKey_18"] = "",
+    ["DictKey_39"] = "",
+    ["DictKey_41"] = "",
+    ["DictKey_37"] = "",
+    ["DictKey_53"] = "\"Grach 1-1、目標まで2分だ。\"",
+    ["DictKey_20"] = "",
+    ["DictKey_UnitName_215"] = "New Static Object",
+    ["DictKey_WptName_461"] = "",
+    ["DictKey_UnitName_223"] = "New Static Object #004",
+    ["DictKey_descriptionText_389"] = "1989年12月20日\
+\
+NATOの攻勢はソ連邦の奥深くにまで達している。オランダ第I軍団はレニングラードを占領し、米第V軍団および第VII軍団はモスクワへ進撃中、ベルギー第I軍団はスターリングラードに到達した。4日前、西ドイツ第III軍団はロストフでドン川を渡河し、コーカサス方面へ南下を開始している。ソ連西部に展開する我が軍は壊滅的な損害を被り、辛うじて連続した戦線を維持している状況だ。中央ソ連、アフガニスタン、極東からの新たな予備軍は、到着までなお1～2週間を要する。\
+\
+南部戦線の状況:\
+西ドイツ第III軍団は、第2装甲擲弾兵師団、第5装甲師団、第12装甲師団から編成されている。同軍団は、F-4F Phantom IIを装備するドイツ空軍第71戦闘航空団(JG 71)の支援を受けている。第5装甲師団はロストフ-クラスノダール街道に沿ってクラスノダールへ進撃中であり、第12装甲師団はマイコープへ進撃している。一方、第2装甲擲弾兵師団は予備として後方待機中だ。東ドイツでの戦闘および東欧全域への進撃において、NATO軍は地上損害を抑えるため、航空戦力および陸軍航空部隊に大きく依存してきた。これらの戦力は現在、大半が消耗しているが、重厚な航空支援がなくとも、西ドイツ第III軍団は依然として重大な脅威である。\
+\
+南部戦線の防衛は、第6親衛戦車軍に付与された。同軍はロストフにおいて第75親衛戦車師団を犠牲にすることで、ウクライナでの壊滅を免れている。この行動により、第16親衛戦車師団および第42親衛戦車師団は秩序を保ったまま後退し、クラスノダールおよびマイコープの極めて重要な油田地帯の防衛線を構築することができた。第6親衛戦車軍は、第290独立攻撃航空連隊のSu-25を含む第5航空軍の航空支援を受けている。",
+    ["DictKey_40"] = "",
+    ["DictKey_29"] = "",
+    ["DictKey_33"] = "",
+    ["DictKey_descriptionBlueTask_391"] = "",
+    ["DictKey_42"] = "",
+    ["DictKey_44"] = "",
+    ["DictKey_UnitName_219"] = "New Static Object #002",
+    ["DictKey_31"] = "",
+    ["DictKey_28"] = "",
+    ["DictKey_UnitName_217"] = "New Static Object #001",
+    ["DictKey_9"] = "",
+    ["DictKey_WptName_510"] = "",
+    ["DictKey_7"] = "",
+    ["DictKey_sortie_393"] = "CWW-01-2",
+    ["DictKey_22"] = "",
+    ["DictKey_WptName_460"] = "",
+    ["DictKey_21"] = "",
+    ["DictKey_50"] = "",
+    ["DictKey_10"] = "",
+    ["DictKey_49"] = "",
+    ["DictKey_descriptionRedTask_390"] = "任務:\
+最高司令部は、クラスノダール市北方に展開する西ドイツ第15装甲旅団の一部部隊に対する攻撃パッケージを命じた。パッケージは現地時刻10:20にランデブーポイントを離脱する。TOTは現地時刻10:28だ。\
+\
+目標:\
+道路縦隊隊形で行動中の西ドイツ第152装甲擲弾兵大隊のIFV部隊を攻撃せよ。\
+\
+ウェイポイント:\
+#   種別             時刻    速度       高度\
+1   離陸             10:05    -            -\
+2   ランデブー       10:20   600       2,000\
+3   IP               10:27   700         300\
+4   攻撃             10:28   700         300\
+5   着陸             10:49   600       2,000\
+\
+パッケージ:\
+Grach 1 (Strike)       4×Su-25\
+Grach 2 (Strike)       2×Su-25\
+>Grach 3 (Strike)      2×Su-25<\
+Hunter 1 (Sweep)       4×MiG-23MLD\
+Hunter 2 (Sweep)       4×MiG-23MLD\
+Bear 1 (SEAD)          4×MiG-27K",
+    ["DictKey_47"] = "",
+    ["DictKey_34"] = "",
+    ["DictKey_UnitName_221"] = "New Static Object #003",
+    ["DictKey_27"] = "",
+    ["DictKey_51"] = "\"Grach 1-1、攻撃パッケージはランデブーポイントを離脱した。\"",
+    ["DictKey_52"] = "",
+    ["DictKey_45"] = "",
+    ["DictKey_23"] = "",
+    ["DictKey_13"] = "",
+    ["DictKey_46"] = "",
+    ["DictKey_35"] = "",
+    ["DictKey_32"] = "",
+    ["DictKey_8"] = "",
+    ["DictKey_WptName_459"] = "",
+    ["DictKey_19"] = "",
+    ["DictKey_43"] = "",
+    ["DictKey_36"] = "",
+    ["DictKey_11"] = "",
+    ["DictKey_14"] = "",
+    ["DictKey_16"] = "",
+    ["DictKey_WptName_458"] = "",
+    ["DictKey_17"] = "",
+    ["DictKey_48"] = "",
+    ["DictKey_30"] = "",
+    ["DictKey_24"] = "",
+    ["DictKey_15"] = "",
+    ["DictKey_descriptionNeutralsTask_392"] = "",
+    ["DictKey_25"] = "",
+    ["DictKey_12"] = "",
+    ["DictKey_38"] = "",
+    ["DictKey_26"] = "",
+    ["DictKey_54"] = "",
+} -- end of dictionary

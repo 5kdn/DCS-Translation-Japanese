@@ -1,0 +1,59 @@
+dictionary = 
+{
+    ["DictKey_18"] = "",
+    ["DictKey_6"] = "",
+    ["DictKey_4"] = "",
+    ["DictKey_WptName_465"] = "",
+    ["DictKey_UnitName_161"] = "New Static Object #001",
+    ["DictKey_WptName_432"] = "",
+    ["DictKey_descriptionBlueTask_315"] = "",
+    ["DictKey_UnitName_167"] = "New Static Object #003",
+    ["DictKey_20"] = "",
+    ["DictKey_descriptionText_313"] = "1989年12月23日\
+\
+第16親衛戦車師団は、第12装甲師団所属の2個旅団を包囲することに成功した。第2および第3戦車連隊は第34装甲擲弾兵旅団を突破し、第35および第36装甲旅団を西ドイツ第III軍団の主力から分離した。第2装甲擲弾兵師団所属の第6装甲旅団は、苦境にある第12装甲師団を増援するため、クバン川を渡河している。\
+\
+第5装甲師団は、第42親衛戦車師団の反攻によって撃破された。第14装甲旅団は前進する第2および第3戦車連隊に蹂躙され、事実上消滅した。甚大な損害を受けた第13装甲擲弾兵旅団は、第1戦車連隊に追撃されつつ北東へ逃走している。第2装甲擲弾兵師団の第4および第5装甲擲弾兵旅団は、第42親衛戦車師団の急速な進撃を阻止すべく、迎撃陣地への展開を開始している。",
+    ["DictKey_22"] = "",
+    ["DictKey_21"] = "",
+    ["DictKey_10"] = "",
+    ["DictKey_descriptionNeutralsTask_316"] = "",
+    ["DictKey_WptName_470"] = "",
+    ["DictKey_17"] = "",
+    ["DictKey_3"] = "",
+    ["DictKey_13"] = "",
+    ["DictKey_8"] = "",
+    ["DictKey_19"] = "",
+    ["DictKey_5"] = "",
+    ["DictKey_sortie_317"] = "CWW-07-2",
+    ["DictKey_16"] = "",
+    ["DictKey_14"] = "",
+    ["DictKey_UnitName_163"] = "New Static Object #004",
+    ["DictKey_UnitName_159"] = "New Static Object",
+    ["DictKey_12"] = "",
+    ["DictKey_23"] = "",
+    ["DictKey_descriptionRedTask_314"] = "任務:\
+最高司令部は、第13装甲擲弾兵旅団の残存部隊が北東へ逃走するのを阻止することを要求している。\
+\
+目標:\
+WP2とWP3の間で武装偵察を実施せよ。北東へ逃走中の西ドイツ第133装甲擲弾兵大隊のAPCを攻撃せよ。\
+\
+ウェイポイント:\
+#   種別                 時刻   速度        高度\
+1   離陸                 09:05    -            -\
+2   航法                 09:21   600       2,000\
+3   武装偵察             09:25   600         300\
+4   武装偵察             09:30   700         300\
+5   着陸                 09:50   600       2,000\
+\
+パッケージ:\
+>Grach 1 (Armed Recon)    2×Su-25<",
+    ["DictKey_24"] = "",
+    ["DictKey_15"] = "",
+    ["DictKey_UnitName_165"] = "New Static Object #002",
+    ["DictKey_9"] = "",
+    ["DictKey_11"] = "",
+    ["DictKey_WptName_484"] = "",
+    ["DictKey_7"] = "",
+    ["DictKey_WptName_433"] = "",
+} -- end of dictionary

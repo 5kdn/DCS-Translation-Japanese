@@ -1,0 +1,12 @@
+dictionary = 
+{
+    ["DictKey_descriptionText_1"] = "ドッグファイト Su-25 対 Su-25。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_18"] = "勝利！",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "ドッグファイト",
+    ["DictKey_ActionText_16"] = "ドッグファイト Su-25 対 Su-25。",
+    ["DictKey_ActionText_20"] = "敗北した！",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

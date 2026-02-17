@@ -1,0 +1,35 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "ビリムが攻撃を受けている！\
+彼らを阻止する必要がある！",
+	["DictKey_ActionText_6"] = "警報！\
+反政府武装勢力の一団がエルブルス村からバクサン市に向けて移動中である！\
+必ず阻止せよ！\
+バクサンへの到達は許されない！\
+\
+直ちに離陸せよ！\
+",
+	["DictKey_descriptionText_1"] = "本日は射撃場での訓練が予定されていたが、国境方面から移動してくる反政府武装勢力の一団が突如確認された……",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_20"] = "警報！\
+反政府武装勢力の一団がエルブルス村からバクサン市に向けて移動中である！\
+必ず阻止せよ！\
+バクサンへの到達は許されない！\
+\
+直ちに離陸せよ！\
+",
+	["DictKey_descriptionRedTask_2"] = "警報！！！",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "地上攻撃",
+	["DictKey_ActionText_16"] = "ザユコヴォが攻撃を受けている！\
+任務失敗だ！RTBせよ！",
+	["DictKey_ActionText_18"] = "よくやった！当該地域でこれ以上の敵部隊は確認されていない。\
+RTBを許可する。",
+	["DictKey_ActionText_8"] = "ヴェルフニー・バクサンが攻撃を受けている！\
+進撃を遅滞させるため、攻撃編隊を再誘導する！",
+	["DictKey_ActionText_14"] = "ジャンホテコが攻撃を受けている！\
+急げ！これ以上、村を失うわけにはいかない！",
+	["DictKey_ActionText_12"] = "トゥイルニャウズが攻撃を受けている！\
+敵は戦車を保有している！\
+進撃を遅滞させるため、攻撃編隊を再誘導する！",
+} -- end of dictionary

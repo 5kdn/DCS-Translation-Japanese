@@ -1,0 +1,11 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "フリーフライト",
+	["DictKey_descriptionText_1"] = "これはフリーフライトミッションだ。基本的な機体操作の習熟や、地域の探索に使用できる。\
+脅威は存在しない。",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_6"] = "これはフリーフライトミッションだ。基本的な機体操作の習熟や、地域の探索に使用できる。\
+脅威は存在しない。",
+	["DictKey_descriptionRedTask_2"] = "フリーフライト！景色を楽しめ。",
+} -- end of dictionary

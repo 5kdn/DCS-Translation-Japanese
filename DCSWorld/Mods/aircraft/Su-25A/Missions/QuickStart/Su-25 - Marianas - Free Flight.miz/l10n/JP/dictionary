@@ -1,0 +1,27 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_ActionText_29"] = "(628): 628、砲兵砲隊をマーキング。自走砲4両を確認。",
+    ["DictKey_ActionText_35"] = "戦闘任務完了！\
+基地へ帰投せよ。",
+    ["DictKey_ActionText_36"] = "",
+    ["DictKey_sortie_5"] = "フリーフライト",
+    ["DictKey_ActionText_16"] = "空港が砲撃を受けている。",
+    ["DictKey_ActionText_19"] = "空港が砲撃を受けている。",
+    ["DictKey_ActionText_14"] = "空港が砲撃を受けている。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_descriptionText_1"] = "マリアナ諸島北部地域を自由に飛行せよ。",
+    ["DictKey_descriptionBlueTask_3"] = "アナタハン島を確認し、現在の火山活動を監視せよ。",
+    ["DictKey_ActionText_27"] = "",
+    ["DictKey_ActionText_30"] = "",
+    ["DictKey_ActionText_33"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_21"] = "空港が砲撃を受けている。",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_26"] = "(627): 627、テニアン島上空。砲兵活動を確認、SABを投下した。",
+    ["DictKey_ActionText_8"] = "",
+    ["DictKey_ActionText_32"] = "(628): 628、強化された前哨拠点をマーキング。付近にシルカあり！",
+    ["DictKey_ActionText_12"] = "迫撃砲隊を撃破した。",
+} -- end of dictionary

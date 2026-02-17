@@ -1,0 +1,87 @@
+dictionary = 
+{
+    ["DictKey_18"] = "",
+    ["DictKey_39"] = "",
+    ["DictKey_41"] = "",
+    ["DictKey_53"] = "",
+    ["DictKey_descriptionRedTask_368"] = "任務:\
+最高司令部は、第12装甲師団への増援を阻止するため、第6装甲旅団の一部部隊に対する攻撃パッケージを命じた。パッケージは15:20にランデブーポイントを離脱する。TOTは15:28だ。\
+\
+目標:\
+道路縦隊隊形で行動中の西ドイツ第62装甲擲弾兵大隊のIFV部隊を攻撃せよ。\
+\
+ウェイポイント:\
+#   種別             時刻   速度        高度\
+1   離陸             15:05    -            -\
+2   ランデブー       15:20   600       2,000\
+3   IP               15:27   700         300\
+4   攻撃             15:28   700         300\
+5   着陸             15:47   600       2,000\
+\
+パッケージ:\
+Grach 1 (Strike)      4×Su-25\
+Grach 2 (Strike)      2×Su-25\
+>Grach 3 (Strike)     2×Su-25<\
+Hunter 1 (Sweep)      4×MiG-23MLD\
+Hunter 2 (Sweep)      4×MiG-23MLD\
+Bear 1 (SEAD)         2×MiG-27K",
+    ["DictKey_UnitName_214"] = "New Static Object",
+    ["DictKey_6"] = "",
+    ["DictKey_37"] = "",
+    ["DictKey_29"] = "",
+    ["DictKey_33"] = "",
+    ["DictKey_WptName_628"] = "",
+    ["DictKey_11"] = "",
+    ["DictKey_44"] = "",
+    ["DictKey_WptName_656"] = "",
+    ["DictKey_UnitName_216"] = "New Static Object #002",
+    ["DictKey_26"] = "",
+    ["DictKey_34"] = "",
+    ["DictKey_9"] = "",
+    ["DictKey_36"] = "",
+    ["DictKey_7"] = "",
+    ["DictKey_48"] = "",
+    ["DictKey_22"] = "",
+    ["DictKey_17"] = "",
+    ["DictKey_21"] = "",
+    ["DictKey_50"] = "\"Grach 1-1、攻撃パッケージはランデブーポイントを離脱した。\"",
+    ["DictKey_10"] = "",
+    ["DictKey_descriptionBlueTask_369"] = "",
+    ["DictKey_23"] = "",
+    ["DictKey_47"] = "",
+    ["DictKey_UnitName_218"] = "New Static Object #004",
+    ["DictKey_52"] = "\"Grach 1-1、目標まで2分だ。\"",
+    ["DictKey_27"] = "",
+    ["DictKey_28"] = "",
+    ["DictKey_descriptionNeutralsTask_370"] = "",
+    ["DictKey_42"] = "",
+    ["DictKey_5"] = "",
+    ["DictKey_13"] = "",
+    ["DictKey_46"] = "",
+    ["DictKey_35"] = "",
+    ["DictKey_32"] = "",
+    ["DictKey_8"] = "",
+    ["DictKey_45"] = "",
+    ["DictKey_19"] = "",
+    ["DictKey_43"] = "",
+    ["DictKey_sortie_371"] = "CWW-08-1",
+    ["DictKey_WptName_629"] = "",
+    ["DictKey_14"] = "",
+    ["DictKey_16"] = "",
+    ["DictKey_49"] = "",
+    ["DictKey_51"] = "",
+    ["DictKey_25"] = "",
+    ["DictKey_30"] = "",
+    ["DictKey_24"] = "",
+    ["DictKey_15"] = "",
+    ["DictKey_descriptionText_367"] = "1989年12月23日\
+\
+第16親衛戦車師団は、第12装甲師団の包囲下にあった2個旅団を完全に撃滅し、攻勢に転じた。第6装甲旅団によって増強された第34装甲擲弾兵旅団の残存部隊は、クバン川南方に新たな防御線を構築している。\
+\
+第42親衛戦車師団は、西翼において第2装甲擲弾兵師団が新たに構築した防御線を突破することに成功した。第4装甲擲弾兵旅団はロストフ-クラスノダール街道に沿って後退し、第2および第3戦車連隊がこれを追撃している。一方、第5装甲擲弾兵旅団は第1戦車連隊の進撃を阻止し、第12装甲師団残存部隊の分断を防いでいる。第4自動車化狙撃連隊は、この突出部を増強するため、クラスノダールを離脱した。",
+    ["DictKey_40"] = "",
+    ["DictKey_31"] = "",
+    ["DictKey_38"] = "",
+    ["DictKey_20"] = "",
+    ["DictKey_12"] = "",
+} -- end of dictionary
