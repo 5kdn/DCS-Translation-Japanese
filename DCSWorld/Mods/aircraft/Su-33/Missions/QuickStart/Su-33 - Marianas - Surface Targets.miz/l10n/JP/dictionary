@@ -1,0 +1,26 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_ActionText_29"] = "",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_sortie_5"] = "水上目標攻撃",
+    ["DictKey_ActionText_16"] = "空港が砲撃を受けている。",
+    ["DictKey_ActionText_19"] = "空港が砲撃を受けている。",
+    ["DictKey_ActionText_14"] = "空港が砲撃を受けている。",
+    ["DictKey_descriptionRedTask_2"] = "Su-33の2個2機編隊で離陸し、左舷側を航行する民間タンカーに対する攻撃を阻止しろ。\
+\
+第1編隊は既に離陸している。第2編隊は直ちに離陸しろ。",
+    ["DictKey_descriptionText_1"] = "複数のマリアナ諸島の海賊高速艇がサイパン島方面から接近している。民間補給船が脅威にさらされている。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_27"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_34"] = "MISSION ACCOMPLISHED!",
+    ["DictKey_ActionText_21"] = "空港が砲撃を受けている。",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_8"] = "",
+    ["DictKey_ActionText_26"] = "",
+    ["DictKey_ActionText_12"] = "迫撃砲隊を撃破した。",
+} -- end of dictionary

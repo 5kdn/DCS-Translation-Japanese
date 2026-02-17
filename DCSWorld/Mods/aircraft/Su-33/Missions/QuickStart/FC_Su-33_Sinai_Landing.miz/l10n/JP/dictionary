@@ -1,0 +1,13 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "Su-33 空母着艦",
+	["DictKey_descriptionText_1"] = "着艦のため進入中だ。",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_7"] = "艦は正面10kmにある。ストレートイン進入、またはブレーク着艦のいずれかを実施しろ。\
+\
+1を2回押して、航法モードをLNDGに切り替えろ。\
+\
+着艦準備を行え。準備が整ったら、[SPACEBAR]を押してフライトを開始しろ。",
+	["DictKey_descriptionRedTask_2"] = "艦は正面10kmにある。ストレートイン進入、またはブレーク着艦のいずれかを実施しろ。",
+} -- end of dictionary

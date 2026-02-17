@@ -1,0 +1,43 @@
+dictionary = 
+{
+    ["DictKey_UnitName_43"] = "Unit #003",
+    ["DictKey_UnitName_27"] = "Unit #005",
+    ["DictKey_UnitName_60"] = "Pilot #005",
+    ["DictKey_UnitName_23"] = "Unit #004",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_GroupName_22"] = "New Ship Group #003",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_ActionText_64"] = "空母甲板上でコールド＆ダーク状態から開始する。\
+\
+電源投入: RShift + L\
+\
+エンジン始動: RShift + HOME\
+",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_GroupName_26"] = "New Ship Group #004",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_GroupName_6"] = "",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_WptName_35"] = "",
+    ["DictKey_descriptionText_1"] = "空母甲板上でコールド＆ダーク状態から開始する。\
+\
+電源投入: RShift + L\
+\
+エンジン始動: RShift + HOME\
+",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_sortie_5"] = "コールド＆ダーク",
+    ["DictKey_WptName_37"] = "",
+    ["DictKey_GroupName_59"] = "New Helicopter Group #001",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_GroupName_42"] = "New Ship Group #002",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_UnitName_7"] = "",
+} -- end of dictionary

@@ -1,0 +1,80 @@
+dictionary = 
+{
+    ["DictKey_UnitName_89"] = "New Static Object #009",
+    ["DictKey_UnitName_52"] = "Pilot #002",
+    ["DictKey_UnitName_33"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_GroupName_11"] = "",
+    ["DictKey_sortie_4"] = "Su-33 対地攻撃",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_WptName_31"] = "",
+    ["DictKey_UnitName_68"] = "",
+    ["DictKey_UnitName_92"] = "New Static Object #009",
+    ["DictKey_GroupName_51"] = "TARGET-2",
+    ["DictKey_UnitName_30"] = "",
+    ["DictKey_UnitName_21"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_UnitName_50"] = "Pilot #003",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_UnitName_86"] = "New Static Object #009",
+    ["DictKey_UnitName_71"] = "New Static Object #009",
+    ["DictKey_UnitName_80"] = "New Static Object #009",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_descriptionRedTask_2"] = "可能な限り多くの地上目標を破壊しろ。",
+    ["DictKey_UnitName_49"] = "Pilot #002",
+    ["DictKey_UnitName_18"] = "",
+    ["DictKey_UnitName_42"] = "Pilot #001",
+    ["DictKey_UnitName_12"] = "",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_UnitName_24"] = "",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_UnitName_27"] = "",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_WptName_43"] = "",
+    ["DictKey_UnitName_9"] = "",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_ActionText_94"] = "Red Hatの任務の一環として、他国機の能力評価を行う。本日のフライトでは、無誘導爆弾およびロケットを用いた対地攻撃任務における本機の能力を確認する。\
+\
+次のウェイポイント前方には、各種目標を備えた演習用飛行場がある。能力を示せ。\
+\
+同空域では、別の対地攻撃機編隊が作戦を実施している。\
+\
+兵装を撃ち尽くしたらRTBしろ。\
+",
+    ["DictKey_UnitName_15"] = "",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_UnitName_83"] = "New Static Object #009",
+    ["DictKey_WptName_10"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_UnitName_77"] = "New Static Object #009",
+    ["DictKey_descriptionText_1"] = "Red Hatの任務の一環として、他国機の能力評価を行う。本日のフライトでは、無誘導爆弾およびロケットを用いた対地攻撃任務における本機の能力を確認する。\
+\
+次のウェイポイント前方には、各種目標を備えた演習用飛行場がある。能力を示せ。\
+\
+同空域では、別の対地攻撃機編隊が作戦を実施している。\
+\
+兵装を撃ち尽くしたらRTBしろ。\
+",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_GroupName_41"] = "TARGET-1",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_UnitName_74"] = "New Static Object #009",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_UnitName_6"] = "",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_WptName_44"] = "",
+} -- end of dictionary
