@@ -1,0 +1,53 @@
+dictionary = 
+{
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_ActionText_34"] = "目標:\
+\
+第1群 2×MiG-29\
+方位 316°\
+距離 80km\
+\
+第2群 2×MiG-25\
+方位 316°\
+距離 190km",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_UnitName_20"] = "Pilot #003",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_UnitName_23"] = "Pilot #004",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_GroupName_22"] = "New Airplane Group #002",
+    ["DictKey_UnitName_18"] = "Pilot #002",
+    ["DictKey_sortie_5"] = "BVR",
+    ["DictKey_UnitName_28"] = "Pilot #006",
+    ["DictKey_GroupName_17"] = "New Airplane Group #001",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_GroupName_6"] = "New Airplane Group",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_UnitName_31"] = "Pilot #007",
+    ["DictKey_descriptionText_1"] = "BVR戦闘だ。\
+\
+目標:\
+\
+第1群 2×MiG-29\
+方位 316°\
+距離 80km\
+\
+第2群 2×MiG-25\
+方位 316°\
+距離 190km",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_10"] = "",
+    ["DictKey_UnitName_7"] = "Pilot #001",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_WptName_26"] = "",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_GroupName_27"] = "New Airplane Group #003",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_UnitName_25"] = "Pilot #005",
+    ["DictKey_WptName_29"] = "",
+} -- end of dictionary

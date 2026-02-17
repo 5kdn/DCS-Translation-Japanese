@@ -1,0 +1,24 @@
+dictionary = 
+{
+	["DictKey_ActionText_6"] = "敵機は前方、後方、または側方のいずれかに位置している。\
+僚機と連携し、速やかにオフェンシブポジションを確立して撃墜せよ。\
+\
+自機が支援に回り、僚機に交戦させたい場合は無線コマンド'engage bandits'を送信しろ。\
+自機が交戦し、僚機に支援させたい場合は無線コール'cover me'を送信しろ。",
+	["DictKey_descriptionText_1"] = "敵機は前方、後方、または側方のいずれかに位置している。\
+僚機と連携し、速やかにオフェンシブポジションを確立して撃墜せよ。\
+\
+自機が支援に回り、僚機に交戦させたい場合は無線コマンド'engage bandits'を送信しろ。\
+自機が交戦し、僚機に支援させたい場合は無線コール'cover me'を送信しろ。",
+	["DictKey_ActionText_9"] = "Splash one！\
+\
+第2の敵機がエリアに進入した。\
+これを捕捉し、僚機と連携して撃墜しろ。",
+	["DictKey_ActionText_13"] = "敵航空機をすべて撃墜した！\
+ミッションを終了するか、基地へ帰投せよ。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "2対1 ACM(機関砲のみ)",
+	["DictKey_ActionText_11"] = "",
+	["DictKey_descriptionBlueTask_3"] = "敵航空機をすべて撃墜しろ。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

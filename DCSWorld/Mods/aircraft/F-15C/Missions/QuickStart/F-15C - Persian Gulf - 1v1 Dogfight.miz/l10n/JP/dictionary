@@ -1,0 +1,17 @@
+dictionary = 
+{
+    ["DictKey_GroupName_6"] = "New Airplane Group",
+    ["DictKey_descriptionText_1"] = "F-15C対Su-27のドッグファイトだ。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_UnitName_7"] = "Pilot #001",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_UnitName_11"] = "Pilot #002",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "ドッグファイト",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_GroupName_10"] = "New Airplane Group #001",
+    ["DictKey_ActionText_14"] = "F-15C対Su-27のドッグファイト",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary
