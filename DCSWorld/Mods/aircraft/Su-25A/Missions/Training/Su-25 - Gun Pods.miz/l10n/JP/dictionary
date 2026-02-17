@@ -1,0 +1,141 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "ガンポッド射撃レッスンへようこそ。本レッスンでは地上目標に対するガンポッド射撃手順を学ぶ。\
+\
+現在ミッションはACTIVE PAUSE状態だ。\
+スペースバーを押して続行せよ。",
+    ["DictKey_ActionText_34"] = "測距器を作動させると、照準表示が少し変化する。\
+\
+細い弧は現在の目標距離を示し、太い部分は射撃許可距離を示す。\
+\
+'RAlt + ='および'RAlt + -'を押すとパイパーが移動し、表示上の距離スケールも変化することに注意せよ。\
+\
+スペースバーを押して続行せよ。",
+    ["DictKey_ActionText_40"] = "",
+    ["DictKey_ActionText_45"] = "照準ガラス下には、飛行中に役立つ警告灯が2つある。\
+\
+– 左下の緑灯はレーザー目標指示が作動中であることを示す。\
+– 右側のオレンジ灯は、兵装の発射/投下が許可されていることを示す。\
+\
+砲身俯仰自動プロファイル使用中は、目標へ進入し、パイパーを目標点に合わせ、射程内で射撃せよ。\
+\
+注意: レーザー測距器の連続作動時間は約1分に制限されている。使用後は毎回、冷却のためオフにする必要がある。\
+\
+スペースバーを押して続行せよ。",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_ActionText_92"] = "照準マーク上部の小さな三角は、現在の機体バンク(ロール)を示す。射撃時はこれを垂直(ゼロ位置)に保つことで精度が最大となる。\
+\
+射撃バースト長はデフォルトで制限されている。'LShift + C'で制限を解除し、無制限モードでガンポッドを射撃してみよ(スペースバーを押し続ける)。弾薬消費が速くても問題ない。訓練用に無制限に設定されている。",
+    ["DictKey_ActionText_53"] = "TARGET # 1 DESTROYED",
+    ["DictKey_ActionText_36"] = "",
+    ["DictKey_ActionText_102"] = "",
+    ["DictKey_ActionText_87"] = "",
+    ["DictKey_ActionText_58"] = "",
+    ["DictKey_ActionText_32"] = "",
+    ["DictKey_ActionText_14"] = "Su-25は、各種兵装の射撃/投下が可能な対地攻撃機として設計された。\
+\
+射撃兵装の一つとして、翼下にSPPU-22ガンポッドを2基または4基搭載できる。各ガンポッドには俯仰制御可能なGSh-23 2連装機関砲が装備されている。\
+\
+ガンポッドの基本運用は2種類ある: 砲身俯仰固定モードと砲身俯仰自動モードだ。後者では射撃管制装置(FCS)が砲身俯仰角を継続的に制御し、指定した地上点への照準を維持する。\
+前者は縦隊などの細長い目標に適し、後者は小型目標の攻撃を目的とする。\
+\
+キーボードの'7'を押してAGモードを選択せよ。",
+    ["DictKey_descriptionRedTask_2"] = "砲身俯仰固定と砲身俯仰自動による射撃手順を習得せよ。",
+    ["DictKey_ActionText_68"] = "TARGET # 2 DESTROYED",
+    ["DictKey_ActionText_23"] = "上段の黄色灯は、翼下ハードポイントにおける兵装の搭載有無を示す。\
+\
+兵装種別表示が現在\"ゼブラ\"表示の場合、いずれの兵装も選択されていないことを意味する。\
+\
+'C'を押して機関砲モードを有効にせよ。",
+    ["DictKey_ActionText_97"] = "TARGET # 2 DESTROYED",
+    ["DictKey_ActionText_91"] = "",
+    ["DictKey_ActionText_26"] = "小型目標や点目標に対しては、砲身俯仰自動モードでガンポッドを射撃するのが有効だ。FCSが目標点への照準を固定し、視線角が常に変化しても弾着が地上の同一点に集まるよう砲身俯仰を調整する。\
+\
+砲身俯仰自動射撃にはレーザー測距器の作動が必要だ。\
+\
+'RShift + O'を押してレーザーを作動させよ。",
+    ["DictKey_ActionText_49"] = "まだであれば、'RShift + O'を押してレーザー測距器をオフにせよ。\
+\
+'RAlt + ='と'RAlt + -'を使用し、ガンポッド機関砲の俯仰角を設定せよ。\
+\
+操縦を引き継ぐ準備を整え、'SPACE'を押して続行せよ。",
+    ["DictKey_ActionText_30"] = "",
+    ["DictKey_ActionText_62"] = "TARGET # 2 DESTROYED",
+    ["DictKey_ActionText_41"] = "",
+    ["DictKey_ActionText_85"] = "前方下半球の視界を確保するため、'RAlt + H'を数回押して照準ガラスを下げ、スペースバーを押して続行せよ。",
+    ["DictKey_ActionComment_8"] = "",
+    ["DictKey_ActionText_59"] = "TARGET # 1 DESTROYED",
+    ["DictKey_ActionText_65"] = "TARGET # 2 DESTROYED",
+    ["DictKey_ActionText_80"] = "",
+    ["DictKey_ActionText_55"] = "",
+    ["DictKey_ActionText_76"] = "TARGET # 4 DESTROYED",
+    ["DictKey_ActionText_17"] = "",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_ActionText_67"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_51"] = "細長い目標は砲身俯仰固定で攻撃せよ。低高度ほど照準が容易で命中精度も上がる。\
+\
+残る点目標は砲身俯仰自動で攻撃せよ。この場合は測距器の使用を忘れるな。",
+    ["DictKey_ActionText_47"] = "",
+    ["DictKey_ActionText_13"] = "",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_ActionText_94"] = "TARGET # 1 DESTROYED",
+    ["DictKey_sortie_5"] = "Su-25 - ガンポッド",
+    ["DictKey_ActionText_72"] = "TARGET # 3 DESTROYED",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_89"] = "ガンポッドに適した目標は、車両縦隊、駐機中の航空機、その他の細長い隊形の部隊など、上空を沿って通過できる目標だ。\
+\
+この場合の攻撃プロファイルは、低高度で高速に通過しつつ、ガンポッド砲身を一定角で下向きに固定して射撃する形となる。\
+\
+'RAlt + ='で砲身を上げ、'RAlt + -'で砲身を下げよ。\
+\
+照準ガラス上の照準マークが砲身に追随して動くのを確認しながら試せ。\
+\
+スペースバーを押して続行せよ。",
+    ["DictKey_ActionText_21"] = "",
+    ["DictKey_ActionText_70"] = "TARGET # 3 DESTROYED",
+    ["DictKey_ActionText_74"] = "TARGET # 4 DESTROYED",
+    ["DictKey_ActionText_56"] = "TARGET # 1 DESTROYED",
+    ["DictKey_ActionText_64"] = "",
+    ["DictKey_descriptionText_1"] = "本レッスンでは、Su-25のガンポッド射撃手順を学ぶ。\
+\
+本レッスンで覚える主要キー:\
+\
+– 空対地マスターモード: '7'\
+– 機関砲: 'C'\
+– SPPUガンポッド選択: 'LCtrl + スペースバー'\
+– 照準ガラス 上/下: 'RAlt + H' / 'RShift + H'\
+– ガンポッド砲身俯仰 追加/減少: 'RAlt + =' / 'RAlt + -'\
+– バースト制限 オン/オフ: 'LShift + C'\
+– 兵装使用: スペースバー\
+– レーザー測距器 オン/オフ: 'RShift + O'\
+– スロットル 前/後: 'Num+' / 'Num-'\
+– ミッション再開: 'RShift + R'",
+    ["DictKey_ActionText_100"] = "TARGET # 3 DESTROYED",
+    ["DictKey_ActionText_84"] = "",
+    ["DictKey_ActionText_19"] = "AGモードを選択した後、発射するSPPUハードポイントを選択できる。\
+\
+兵装状態パネルはコックピット左側、スロットルレバーの下にある。現在選択中の兵装の種類、数量、即応状態に加え、機関砲の残弾数が表示される。\
+\
+スペースバーを押して続行せよ。",
+    ["DictKey_ActionText_103"] = "TARGET # 4 DESTROYED",
+    ["DictKey_ActionText_43"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_99"] = "",
+    ["DictKey_ActionText_38"] = "信号弾で示された樹木に照準マークを合わせてみよ。\
+\
+[;] [,] [.] [/]で照準マークを移動し、'Enter'でレーザー測距/照準を選択した地上点に固定せよ。\
+\
+固定モードでは、同じ操作キーで照準マークを移動してより精密に照準できる。飛行中に修正する際は、機首を固定点に正確に向けることが重要だ。これにより予期しない照準マークの移動を防げる。\
+\
+目標指示に慣れたら、冷却のため'RShift + O'でレーザー測距/照準をオフにし、スペースバーを押してレッスンを続行せよ。",
+    ["DictKey_ActionText_96"] = "",
+    ["DictKey_ActionText_61"] = "",
+    ["DictKey_ActionText_82"] = "兵装種別表示は現在ロシア語の\"ВПУ\"(GUNモード)を示している。現在選択されている内蔵機関砲ではなくガンポッドを選択するには、兵装パネルの\"連続投下数\\SPPUセレクタ\"が\"ПО2\"または\"ПО4\"になるまで'LCtrl + スペースバー'を押す必要がある。通常このスイッチはロケットポッドの連続発射数を制御するが、ガンポッドの場合は有効なガンポッド・ハードポイント数を制御する。\
+\
+よって、'LCtrl + スペースバー'を2回押して4基すべてのガンポッドを選択せよ。\
+\
+スペースバーを押して続行せよ。",
+    ["DictKey_ActionText_12"] = "",
+} -- end of dictionary

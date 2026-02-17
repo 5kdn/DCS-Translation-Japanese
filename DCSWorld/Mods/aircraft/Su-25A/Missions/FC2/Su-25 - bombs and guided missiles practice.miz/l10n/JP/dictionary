@@ -1,0 +1,85 @@
+dictionary = 
+{
+    ["DictKey_2"] = "本ミッションでは、爆弾およびレーザー誘導ミサイルの使用を訓練する。\
+\
+訓練用の目標群はウェイポイント4に配置されている。",
+    ["DictKey_6"] = "レーザー誘導ミサイルを使用するには、Dキーで兵装を切り替え、兵装パネルに\"yp\"が表示されるまで選択する。その後RShift + OでレーザーをONにする。ONの間、HUD下の緑ランプが点灯する。レーザー冷却中はランプが点滅する。\
+\
+, . / ; キーでHUD上のレーザー指示レティクルを調整する。位置を固定するにはEnterキーを押す。\
+\
+射程内に入るとHUD下のアンバーランプが点灯する。Spaceキーでミサイルを発射せよ。",
+    ["DictKey_GroupName_14"] = "New Static Object #002",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_WptName_52"] = "",
+    ["DictKey_UnitName_19"] = "New Static Object #004",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_UnitName_26"] = "Unit #3",
+    ["DictKey_UnitName_21"] = "New Static Object #005",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_UnitName_32"] = "Unit #6",
+    ["DictKey_UnitName_31"] = "Unit #7",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_GroupName_20"] = "New Static Object #005",
+    ["DictKey_GroupName_22"] = "New Static Object #006",
+    ["DictKey_GroupName_8"] = "New Airplane Group",
+    ["DictKey_WptName_49"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_UnitName_30"] = "Unit #8",
+    ["DictKey_UnitName_25"] = "Unit #4",
+    ["DictKey_GroupName_12"] = "New Static Object #001",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_WptName_50"] = "",
+    ["DictKey_UnitName_27"] = "Unit #2",
+    ["DictKey_UnitName_11"] = "New Static Object",
+    ["DictKey_WptName_43"] = "",
+    ["DictKey_UnitName_23"] = "New Static Object #006",
+    ["DictKey_GroupName_18"] = "New Static Object #004",
+    ["DictKey_5"] = "兵員輸送車部隊を撃破した。",
+    ["DictKey_UnitName_13"] = "New Static Object #001",
+    ["DictKey_sortie_37"] = "爆弾およびミサイル訓練",
+    ["DictKey_UnitName_28"] = "Unit #1",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_UnitName_9"] = "Player",
+    ["DictKey_GroupName_10"] = "New Static Object",
+    ["DictKey_UnitName_33"] = "Unit #5",
+    ["DictKey_7"] = "Dキーで兵装パネル上に\"b\"で表示されている爆弾を選択する。LCtrl + Spaceでリップル数量を変更できる。\
+\
+目標を照準し、適度な降下で進入せよ。HUDにレティクルが表示され、目標上に重なったらSpaceキーで爆弾を投下する。",
+    ["DictKey_UnitName_17"] = "New Static Object #003",
+    ["DictKey_descriptionRedTask_35"] = "ウェイポイント4の目標を爆弾およびミサイルで破壊せよ。",
+    ["DictKey_GroupName_16"] = "New Static Object #003",
+    ["DictKey_descriptionBlueTask_36"] = "",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_GroupName_24"] = "Trucks",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_UnitName_15"] = "New Static Object #002",
+    ["DictKey_3"] = "割り当てられたウェイポイントに従い、目標エリアへ進入せよ。\
+\
+目標エリア接近時に7を押して対地モードを選択する。",
+    ["DictKey_WptName_51"] = "",
+    ["DictKey_4"] = "砲兵部隊を撃破した。",
+    ["DictKey_GroupName_29"] = "APCs",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_descriptionText_34"] = "1- 離陸\
+2- ウェイポイント4周辺の地上目標を捜索\
+3- 地上目標を破壊\
+4- 飛行場に着陸\
+\
+詳細はトレーニング動画およびフライトマニュアルを確認せよ。\
+\
+主なキーコマンド:\
+\
+ナビゲーションモード: 1\
+ウェイポイント切替: LCtrl + `\
+対地モード: 7\
+兵装切替: D\
+機関砲切替: C\
+レーザー切替: RShift + O\
+デジグネータ上: ;\
+デジグネータ下: .\
+デジグネータ左: ,\
+デジグネータ右: /\
+デジグネータロック: Enter",
+} -- end of dictionary

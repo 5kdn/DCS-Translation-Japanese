@@ -1,0 +1,36 @@
+dictionary = 
+{
+    ["DictKey_UnitName_22"] = "",
+    ["DictKey_UnitName_27"] = "Pilot #006",
+    ["DictKey_WptName_62"] = "",
+    ["DictKey_WptName_43"] = "",
+    ["DictKey_GroupName_52"] = "New Airplane Group #006",
+    ["DictKey_GroupName_40"] = "New Airplane Group #004",
+    ["DictKey_WptName_63"] = "",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_sortie_5"] = "フリーフライト",
+    ["DictKey_UnitName_68"] = "",
+    ["DictKey_WptName_42"] = "",
+    ["DictKey_UnitName_41"] = "Pilot #011",
+    ["DictKey_UnitName_26"] = "Pilot #005",
+    ["DictKey_GroupName_58"] = "New Airplane Group #007",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_UnitName_59"] = "Pilot #014",
+    ["DictKey_descriptionText_1"] = "UAE・ドバイ発のフリーフライトミッションへようこそ。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_UnitName_23"] = "Pilot #004",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_UnitName_69"] = "",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_WptName_60"] = "",
+    ["DictKey_ActionText_103"] = "UAE・ドバイ発のフリーフライトミッションへようこそ。\
+\
+正面では、別のSu-25がアル・マクトゥーム-ドバイのルートに沿って飛行している。同行すれば、周辺の景観を一通り見ることができる。\
+",
+    ["DictKey_UnitName_53"] = "Pilot #013",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

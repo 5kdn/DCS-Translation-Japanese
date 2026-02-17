@@ -1,0 +1,628 @@
+dictionary = 
+{
+    ["DictKey_UnitName_89"] = "",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_UnitName_156"] = "",
+    ["DictKey_ActionText_43"] = "左側コンソールの兵装制御システム(SUV)パネルを見る。\
+\
+右の小窓\"РАБОТА\"には、選択中の航空兵器(ASP)の種類が表示され、\"Б\"(爆弾)となっている。機体シルエット下の黄色インジケータは、各パイロンの弾薬搭載状況を示す。下段の緑インジケータは、使用対象として選択されたASPを示す。選択は'D'で切り替える。\
+\
+外側パイロンが選択されていることを確認し、'Пробел'(スペースバー)を押して続行する。",
+    ["DictKey_UnitName_449"] = "Новый статич. объект #036",
+    ["DictKey_UnitName_26"] = "tgt2",
+    ["DictKey_UnitName_374"] = "Новый статич. объект #004",
+    ["DictKey_UnitName_594"] = "Новый статич. объект #092",
+    ["DictKey_ActionText_327"] = "レティクルを目標の下に置く。レティクルと目標の相対位置を保ちながら、翼を水平にする。",
+    ["DictKey_GroupName_502"] = "Новый статич. объект #041",
+    ["DictKey_UnitName_398"] = "Новый статич. объект #039",
+    ["DictKey_WptName_220"] = "",
+    ["DictKey_ActionText_654"] = "",
+    ["DictKey_ActionText_638"] = "",
+    ["DictKey_WptName_247"] = "",
+    ["DictKey_WptName_27"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_UnitName_573"] = "Новый статич. объект #092",
+    ["DictKey_WptName_453"] = "",
+    ["DictKey_GroupName_499"] = "Новый статич. объект #076",
+    ["DictKey_WptName_438"] = "",
+    ["DictKey_WptName_217"] = "",
+    ["DictKey_WptName_260"] = "",
+    ["DictKey_GroupName_6"] = "TGT3",
+    ["DictKey_WptName_508"] = "",
+    ["DictKey_UnitName_543"] = "Новый статич. объект #080",
+    ["DictKey_ActionText_84"] = "Su-25の、降下による対地爆撃訓練へようこそ。",
+    ["DictKey_ActionText_669"] = "",
+    ["DictKey_UnitName_558"] = "Новый статич. объект #087",
+    ["DictKey_UnitName_473"] = "Новый статич. объект #040",
+    ["DictKey_ActionText_652"] = "",
+    ["DictKey_ActionText_289"] = "この訓練レッスンでは、地上目標に対する無誘導ロケットと機関砲の運用を学ぶ。\
+射撃場は進路左側の山岳地帯にある。\
+\
+現在ミッションはACTIVE PAUSE状態だ。\
+' スペースバー 'を押して続行する。",
+    ["DictKey_WptName_468"] = "",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_ActionText_323"] = "'RShift + O'を押してレーザー測距器をONにする。",
+    ["DictKey_GroupName_30"] = "TGT1",
+    ["DictKey_UnitName_249"] = "Новый статич. объект #023",
+    ["DictKey_UnitName_428"] = "Новый статич. объект #004",
+    ["DictKey_UnitName_171"] = "Новый статич. объект",
+    ["DictKey_ActionText_272"] = "",
+    ["DictKey_UnitName_99"] = "Новый юнит",
+    ["DictKey_UnitName_38"] = "",
+    ["DictKey_UnitName_183"] = "Новый статич. объект #006",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_UnitName_485"] = "Новый статич. объект #041",
+    ["DictKey_WptName_520"] = "",
+    ["DictKey_WptName_601"] = "",
+    ["DictKey_UnitName_216"] = "Новый статич. объект #009",
+    ["DictKey_ActionText_660"] = "目標#2 撃破",
+    ["DictKey_UnitName_103"] = "Новый юнит #004",
+    ["DictKey_UnitName_153"] = "TGT1 #001",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_GroupName_19"] = "TGT4",
+    ["DictKey_ActionText_684"] = "全目標撃破",
+    ["DictKey_UnitName_618"] = "Новый статич. объект #092",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_ActionText_677"] = "",
+    ["DictKey_ActionText_329"] = "レティクルが上に動き始めるのを待つ。目標を横切った瞬間に、トリガーで爆弾を投下する。",
+    ["DictKey_UnitName_10"] = "tgt2",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_WptName_408"] = "",
+    ["DictKey_WptName_393"] = "",
+    ["DictKey_GroupName_170"] = "Новый статич. объект #005",
+    ["DictKey_UnitName_404"] = "Новый статич. объект #001",
+    ["DictKey_UnitName_93"] = "",
+    ["DictKey_UnitName_380"] = "Новый статич. объект #035",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_UnitName_147"] = "",
+    ["DictKey_WptName_435"] = "",
+    ["DictKey_UnitName_95"] = "",
+    ["DictKey_GroupName_16"] = "TGT5",
+    ["DictKey_ActionText_51"] = "よし、緑のゲートを狙う。\
+\
+降下に入ったらラダー[Z]と[X]で左右を修正する。\
+\
+この機体は降下で一気に速度が乗る。スロットルをアイドルにするだけでなく、[B]でスピードブレーキ(エアブレーキ)も展開する。\
+\
+速度はIAS(500-600kmh)、降下角はADI(45 degrees)を確認する。\
+どちらもハイライト表示だ。\
+\
+開始速度は理想的には500kmhにする。",
+    ["DictKey_WptName_244"] = "",
+    ["DictKey_UnitName_377"] = "Новый статич. объект #004",
+    ["DictKey_WptName_631"] = "",
+    ["DictKey_ActionText_668"] = "目標#4 撃破",
+    ["DictKey_UnitName_186"] = "Новый статич. объект #009",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_UnitName_549"] = "Новый статич. объект #087",
+    ["DictKey_WptName_553"] = "",
+    ["DictKey_WptName_634"] = "",
+    ["DictKey_WptName_628"] = "",
+    ["DictKey_UnitName_201"] = "Новый статич. объект #009",
+    ["DictKey_UnitName_389"] = "Новый статич. объект #037",
+    ["DictKey_UnitName_362"] = "Новый статич. объект #002",
+    ["DictKey_ActionText_333"] = "目標撃破！\
+\
+翼下にまだ爆弾が残っているなら、左へ旋回して態勢を整え、必要なら追加目標を攻撃する。",
+    ["DictKey_WptName_504"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_672"] = "目標#5 撃破",
+    ["DictKey_WptName_607"] = "",
+    ["DictKey_ActionText_646"] = "",
+    ["DictKey_UnitName_437"] = "Новый статич. объект #054",
+    ["DictKey_WptName_426"] = "",
+    ["DictKey_UnitName_356"] = "Новый статич. объект",
+    ["DictKey_UnitName_458"] = "Новый статич. объект #036",
+    ["DictKey_WptName_595"] = "",
+    ["DictKey_UnitName_476"] = "Новый статич. объект #040",
+    ["DictKey_ActionText_661"] = "",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_WptName_235"] = "",
+    ["DictKey_UnitName_507"] = "",
+    ["DictKey_WptName_399"] = "",
+    ["DictKey_WptName_604"] = "",
+    ["DictKey_ActionText_270"] = "Su-25は信頼性が高く操縦も容易で、兵装運用も難しくない。\
+\
+'7'を押して\"地上\"モードを有効にする。",
+    ["DictKey_WptName_375"] = "",
+    ["DictKey_WptName_532"] = "",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_GroupName_158"] = "Новый статич. объект #001",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_UnitName_416"] = "Новый статич. объект #002",
+    ["DictKey_UnitName_106"] = "Новый юнит #007",
+    ["DictKey_UnitName_210"] = "Новый статич. объект #009",
+    ["DictKey_UnitName_446"] = "Новый статич. объект #052",
+    ["DictKey_WptName_529"] = "",
+    ["DictKey_ActionText_699"] = "'RShift + O'で測距器をOFFにして冷却する。離脱して上昇し、反転して再攻撃し、技能を磨く。\
+健闘を祈る！",
+    ["DictKey_UnitName_105"] = "Новый юнит #006",
+    ["DictKey_ActionText_307"] = "攻撃準備。機首を下げて降下に入り、左へ浅くバンクする。スロットルを戻し(テンキー'Num-' )、フラップを離陸位置に下げる('F')。",
+    ["DictKey_WptName_369"] = "",
+    ["DictKey_WptName_29"] = "",
+    ["DictKey_WptName_238"] = "",
+    ["DictKey_descriptionText_1"] = "このレッスンでは、無誘導ロケットの運用と機関砲射撃の手順を学ぶ。\
+\
+このレッスンで覚えるホットキー:\
+\
+- 対地(AG)マスターモード:'7'\
+- ストア/ステーション選択:'D'\
+- 機関砲:'C'\
+- スロットル前進/後退:'Num+' / 'Num-'\
+- フラップ上げ/離陸位置:'F'\
+- レーザー測距器ON/OFF:'RShift + O'\
+- 兵器発射:スペースバー\
+- ミッション再開:'RShift + R'",
+    ["DictKey_UnitName_371"] = "Новый статич. объект #005",
+    ["DictKey_WptName_429"] = "",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_UnitName_213"] = "Новый статич. объект #009",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_WptName_480"] = "",
+    ["DictKey_WptName_556"] = "",
+    ["DictKey_UnitName_482"] = "Новый статич. объект #040",
+    ["DictKey_UnitName_410"] = "Новый статич. объект #002",
+    ["DictKey_UnitName_591"] = "Новый статич. объект #092",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_UnitName_627"] = "Новый статич. объект #113",
+    ["DictKey_UnitName_612"] = "Новый статич. объект #092",
+    ["DictKey_WptName_450"] = "",
+    ["DictKey_UnitName_564"] = "Новый статич. объект #087",
+    ["DictKey_UnitName_534"] = "Новый статич. объект #080",
+    ["DictKey_ActionText_279"] = "爆弾投下に合わせて、照準器反射板の角度を調整する必要がある。\
+\
+'RAlt + H'を数回押して、反射板を下端まで下げる。次に'Пробел'(スペースバー)を押して続行する。",
+    ["DictKey_UnitName_615"] = "Новый статич. объект #092",
+    ["DictKey_descriptionRedTask_2"] = "山岳地帯で、機関砲とロケットの運用を訓練する。",
+    ["DictKey_WptName_259"] = "",
+    ["DictKey_GroupName_37"] = "",
+    ["DictKey_UnitName_383"] = "Новый статич. объект #035",
+    ["DictKey_UnitName_234"] = "Новый статич. объект #023",
+    ["DictKey_WptName_580"] = "",
+    ["DictKey_UnitName_368"] = "Новый статич. объект #004",
+    ["DictKey_UnitName_467"] = "Новый статич. объект #037",
+    ["DictKey_UnitName_101"] = "Новый юнит #002",
+    ["DictKey_ActionText_653"] = "",
+    ["DictKey_ActionText_273"] = "照準器基部の赤ランプは、機体が低高度で破片の危険範囲に入っており、兵器使用が危険であることを示す。\
+\
+その上の緑ランプは、レーザー測距/指示装置をONにすると点灯する。\
+\
+右側のオレンジランプは、兵器使用の許可を示す。\
+\
+'Пробел'(スペースバー)を押して続行する。",
+    ["DictKey_GroupName_121"] = "Новая вертол. группа",
+    ["DictKey_WptName_526"] = "",
+    ["DictKey_WptName_462"] = "",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_WptName_366"] = "",
+    ["DictKey_WptName_613"] = "",
+    ["DictKey_WptName_354"] = "",
+    ["DictKey_UnitName_225"] = "",
+    ["DictKey_UnitName_204"] = "Новый статич. объект #009",
+    ["DictKey_ActionText_321"] = "降下に入るのに十分近い。'F'を押してフラップを戦闘位置に展開する。",
+    ["DictKey_ActionText_287"] = "Su-25は推力重量比が高くないため、降下爆撃に必要な高度(少なくとも2,500m)まで上昇するには相応の距離が必要になる。",
+    ["DictKey_ActionText_641"] = "",
+    ["DictKey_UnitName_519"] = "",
+    ["DictKey_WptName_390"] = "",
+    ["DictKey_UnitName_219"] = "Новый статич. объект #009",
+    ["DictKey_GroupName_9"] = "TGT2",
+    ["DictKey_ActionText_52"] = "よし、降下に入る。\
+スロットルはアイドル。\
+レーザーON - [RShift + O]\
+スピードブレーキ展開 - [B]\
+穏やかに押し込んで45°へ\
+ラダー[Z]と[X]で照準を左右に動かす。",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_UnitName_510"] = "",
+    ["DictKey_UnitName_86"] = "",
+    ["DictKey_UnitName_455"] = "Новый статич. объект #036",
+    ["DictKey_ActionText_664"] = "目標#3 撃破",
+    ["DictKey_UnitName_116"] = "Новый юнит #017",
+    ["DictKey_GroupName_85"] = "",
+    ["DictKey_WptName_417"] = "",
+    ["DictKey_UnitName_561"] = "Новый статич. объект #087",
+    ["DictKey_UnitName_600"] = "Новый статич. объект #092",
+    ["DictKey_ActionText_697"] = "",
+    ["DictKey_ActionText_339"] = "レーザーをOFFにする。'RShift + O'を使用すること。\
+\
+注意:レーザー測距器には、連続動作時間(約1分)の制限がある。制限を超えると冷却モードに入り、冷却中は緑ランプが毎秒2回点滅する。十分に冷えるとランプは消灯し、再びONにできる。",
+    ["DictKey_UnitName_91"] = "",
+    ["DictKey_WptName_616"] = "",
+    ["DictKey_WptName_414"] = "",
+    ["DictKey_UnitName_546"] = "",
+    ["DictKey_UnitName_222"] = "Новый статич. объект #009",
+    ["DictKey_UnitName_107"] = "Новый юнит #008",
+    ["DictKey_ActionText_335"] = "外した！もう一度態勢を整えて再攻撃する。",
+    ["DictKey_UnitName_112"] = "Новый юнит #013",
+    ["DictKey_UnitName_192"] = "Новый статич. объект #009",
+    ["DictKey_UnitName_20"] = "tgt4",
+    ["DictKey_UnitName_231"] = "Новый статич. объект #023",
+    ["DictKey_UnitName_392"] = "Новый статич. объект #039",
+    ["DictKey_UnitName_422"] = "Новый статич. объект",
+    ["DictKey_ActionText_689"] = "",
+    ["DictKey_GroupName_512"] = "",
+    ["DictKey_ActionText_305"] = "照準器取り付け部下端の3つのランプは次を示す。\
+\
+- 左の緑ランプ:レーザー測距器が作動中\
+- 右のオレンジランプ:発射/投下/射撃が許可\
+- 左下(緑の下)の赤ランプ:最小許容距離を下回る恐れがあり、直ちに攻撃を中止して再進入すべき\
+\
+' スペースバー 'を押して続行する。",
+    ["DictKey_UnitName_96"] = "",
+    ["DictKey_WptName_583"] = "",
+    ["DictKey_UnitName_413"] = "Новый статич. объект #002",
+    ["DictKey_ActionText_267"] = "Su-25の主要兵装は、各種・各口径の自由落下爆弾(ABSP)である。Su-25は最大4,300kgの兵装を搭載できる。\
+\
+'Пробел'(スペースバー)を押して続行する。",
+    ["DictKey_ActionText_315"] = "訓練のため、空中に見える緑のゲートを通過するように飛行する。",
+    ["DictKey_ActionText_687"] = "",
+    ["DictKey_ActionText_656"] = "目標#1 撃破",
+    ["DictKey_WptName_541"] = "",
+    ["DictKey_GroupName_164"] = "Новый статич. объект #003",
+    ["DictKey_UnitName_252"] = "Новый статич. объект #023",
+    ["DictKey_ActionText_642"] = "",
+    ["DictKey_UnitName_401"] = "Новый статич. объект #001",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_GroupName_167"] = "Новый статич. объект #004",
+    ["DictKey_UnitName_118"] = "Новый юнит #019",
+    ["DictKey_ActionText_301"] = "機関砲の選択もほぼ同じだ。未実施なら'7'で対地(AG)モードにし、キーボードの'C'で機関砲に切り替える。\
+\
+表示に'ВПУ'(GUN)が出て、残弾状態がパネル右下に表示される。\
+\
+K - 満載\
+1/2 - 半分\
+1/4 - 1/4\
+\"ZEBRA\" - 残弾なし\
+\
+' スペースバー 'を押して続行する。",
+    ["DictKey_ActionText_325"] = "スロットルをIDLEにし、左へブレイクして目標へ機首を向ける。",
+    ["DictKey_UnitName_7"] = "tgt3",
+    ["DictKey_UnitName_100"] = "Новый юнит #001",
+    ["DictKey_WptName_535"] = "",
+    ["DictKey_UnitName_567"] = "Новый статич. объект #092",
+    ["DictKey_UnitName_255"] = "",
+    ["DictKey_UnitName_434"] = "Новый статич. объект #033",
+    ["DictKey_ActionText_53"] = "よし、ここで一旦ポーズする。\
+降下角は45？\
+照準レティクルは目標へ向かって上に動いていく。\
+有効解が得られると、照準器右下のオレンジランプが点灯する。\
+自機の爆弾で自分が破片を浴びる可能性があると、照準器左下(緑のレーザーONランプの下)に\"投下禁止\"の赤ランプが点灯する。\
+\
+よし、爆撃に移る。1回の操作で1発投下だ。\
+\
+[Space Bar]を押して再開する！",
+    ["DictKey_WptName_256"] = "",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_ActionText_681"] = "",
+    ["DictKey_UnitName_13"] = "tgt1",
+    ["DictKey_WptName_598"] = "",
+    ["DictKey_UnitName_150"] = "TGT1 #001",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_ActionText_680"] = "目標#7 撃破",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_ActionText_657"] = "",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_UnitName_488"] = "Новый статич. объект #041",
+    ["DictKey_UnitName_503"] = "Новый статич. объект #041",
+    ["DictKey_WptName_241"] = "",
+    ["DictKey_ActionText_277"] = "",
+    ["DictKey_WptName_402"] = "",
+    ["DictKey_ActionText_55"] = "命中、上手い爆撃だ。\
+\
+周回して、残っている大型目標に爆弾を使い切る。\
+\
+その後、[C]で機関砲に切り替え、残っているものがあれば仕留める。\
+\
+健闘を祈る。",
+    ["DictKey_ActionText_686"] = "",
+    ["DictKey_ActionText_636"] = "",
+    ["DictKey_ActionText_645"] = "",
+    ["DictKey_ActionText_676"] = "目標#6 撃破",
+    ["DictKey_WptName_523"] = "",
+    ["DictKey_WptName_495"] = "",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_UnitName_207"] = "Новый статич. объект #009",
+    ["DictKey_UnitName_407"] = "Новый статич. объект #002",
+    ["DictKey_UnitName_102"] = "Новый юнит #003",
+    ["DictKey_UnitName_452"] = "Новый статич. объект #036",
+    ["DictKey_WptName_378"] = "",
+    ["DictKey_UnitName_115"] = "Новый юнит #016",
+    ["DictKey_WptName_565"] = "",
+    ["DictKey_UnitName_108"] = "Новый юнит #009",
+    ["DictKey_UnitName_87"] = "",
+    ["DictKey_sortie_5"] = "Su-25 - 無誘導ロケットと機関砲の運用",
+    ["DictKey_UnitName_419"] = "Новый статич. объект",
+    ["DictKey_ActionText_345"] = "",
+    ["DictKey_WptName_459"] = "",
+    ["DictKey_WptName_592"] = "",
+    ["DictKey_UnitName_606"] = "Новый статич. объект #092",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_UnitName_431"] = "Новый статич. объект #033",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_UnitName_464"] = "Новый статич. объект #037",
+    ["DictKey_WptName_77"] = "",
+    ["DictKey_ActionText_291"] = "Su-25の主要兵装は、各種・各口径の自由落下爆弾(ABSP)である。Su-25は最大4,300kgの兵装を搭載できる。\
+\
+'Пробел'(スペースバー)を押して続行する。",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_UnitName_165"] = "Новый статич. объект",
+    ["DictKey_UnitName_168"] = "Новый статич. объект",
+    ["DictKey_UnitName_122"] = "Новый пилот",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_ActionText_309"] = "Su-25は推力重量比が高くないため、降下爆撃に必要な高度(少なくとも2,500m)まで上昇するには相応の距離が必要になる。",
+    ["DictKey_UnitName_621"] = "Новый статич. объект #092",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_UnitName_497"] = "",
+    ["DictKey_ActionText_42"] = "Su-25(初期型フロッグフット)へようこそ。\
+今日は、スリック(減速なし)爆弾やリタード(減速)爆弾を使った降下爆撃を学ぶ。\
+\
+搭載は500kg FAB-500×8だ。\
+\
+この後、[F2]を押し、マウスとホイール、またはテンキーと[/または*]で視点を回し、機体の約200m前方から後方を見返す視点にする。\
+\
+(後で爆弾の着弾位置を確認するためだ)\
+\
+よし、[F2]で調整したら[F1]で戻り、[Space Bar]を押して続行する。",
+    ["DictKey_WptName_396"] = "",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_UnitName_104"] = "Новый юнит #005",
+    ["DictKey_UnitName_633"] = "",
+    ["DictKey_WptName_39"] = "",
+    ["DictKey_WptName_625"] = "",
+    ["DictKey_WptName_622"] = "",
+    ["DictKey_WptName_547"] = "",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_UnitName_624"] = "",
+    ["DictKey_UnitName_92"] = "",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_UnitName_395"] = "Новый статич. объект #039",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_WptName_441"] = "",
+    ["DictKey_UnitName_461"] = "Новый статич. объект #037",
+    ["DictKey_WptName_544"] = "",
+    ["DictKey_UnitName_159"] = "Новый статич. объект",
+    ["DictKey_UnitName_113"] = "Новый юнит #014",
+    ["DictKey_UnitName_31"] = "tgt1",
+    ["DictKey_UnitName_111"] = "Новый юнит #012",
+    ["DictKey_UnitName_500"] = "",
+    ["DictKey_ActionText_658"] = "",
+    ["DictKey_ActionText_665"] = "",
+    ["DictKey_WptName_250"] = "",
+    ["DictKey_WptName_411"] = "",
+    ["DictKey_UnitName_555"] = "Новый статич. объект #087",
+    ["DictKey_UnitName_162"] = "Новый статич. объект",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_UnitName_597"] = "Новый статич. объект #092",
+    ["DictKey_GroupName_12"] = "TGT1",
+    ["DictKey_GroupName_506"] = "",
+    ["DictKey_UnitName_240"] = "Новый статич. объект #023",
+    ["DictKey_WptName_477"] = "",
+    ["DictKey_WptName_223"] = "",
+    ["DictKey_UnitName_189"] = "Новый статич. объект #009",
+    ["DictKey_UnitName_23"] = "tgt3",
+    ["DictKey_ActionText_688"] = "",
+    ["DictKey_ActionText_682"] = "",
+    ["DictKey_WptName_420"] = "",
+    ["DictKey_ActionText_644"] = "",
+    ["DictKey_ActionText_50"] = "まもなくミッションの一時停止を解除する。\
+\
+前方のゲートまで飛行したら、機首を前に押して急降下(約45°)に入る。照準ガラス下端に照準十字が見える程度が目安だ。\
+\
+準備ができたら[Space Bar]を押して再開する。",
+    ["DictKey_WptName_381"] = "",
+    ["DictKey_UnitName_180"] = "Новый статич. объект #006",
+    ["DictKey_UnitName_117"] = "Новый юнит #018",
+    ["DictKey_UnitName_522"] = "Новый статич. объект #077",
+    ["DictKey_WptName_610"] = "",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_WptName_559"] = "",
+    ["DictKey_UnitName_479"] = "Новый статич. объект #040",
+    ["DictKey_WptName_489"] = "",
+    ["DictKey_WptName_486"] = "",
+    ["DictKey_UnitName_552"] = "Новый статич. объект #087",
+    ["DictKey_UnitName_516"] = "",
+    ["DictKey_UnitName_94"] = "",
+    ["DictKey_ActionText_283"] = "降下爆撃のため、目標への進入を開始する。\
+\
+エンジンを最大出力にし、高度2,600mまで上昇する。",
+    ["DictKey_ActionText_266"] = "",
+    ["DictKey_UnitName_494"] = "Новый статич. объект #041",
+    ["DictKey_WptName_357"] = "",
+    ["DictKey_ActionText_662"] = "",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_WptName_511"] = "",
+    ["DictKey_UnitName_585"] = "Новый статич. объект #092",
+    ["DictKey_WptName_471"] = "",
+    ["DictKey_ActionText_678"] = "",
+    ["DictKey_UnitName_531"] = "Новый статич. объект #079",
+    ["DictKey_ActionText_299"] = "上段の黄色ランプは、兵装の搭載状況と各パイロンでの使用可否を示す。パイロンから兵装を発射/投下すると、対応する黄色ランプが消灯する。\
+\
+下段の緑ランプは、現在選択され、発射/投下可能な兵装を示す。\
+\
+機体シルエット右の小窓に表示されるロシア語\"НРС\"は、選択中のパイロンにロケットが装備されていることを示す。'D'でパイロン選択を切り替えると、表示もそれに応じて変わる。\
+\
+' スペースバー 'を押して続行する。",
+    ["DictKey_WptName_372"] = "",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_UnitName_237"] = "Новый статич. объект #023",
+    ["DictKey_GroupName_161"] = "Новый статич. объект #002",
+    ["DictKey_WptName_550"] = "",
+    ["DictKey_ActionText_297"] = "対地(AG)モードを選択したら、使用するパイロンまたは兵装を選択できる。\
+\
+兵装ステータスパネルは左側コンソール、スロットルレバーの下にある。現在選択中の兵装の種類、数量、使用準備状態、および機関砲の残弾が表示される。\
+\
+' スペースバー 'を押して続行する。",
+    ["DictKey_WptName_447"] = "",
+    ["DictKey_UnitName_359"] = "Новый статич. объект",
+    ["DictKey_ActionText_666"] = "",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_UnitName_582"] = "Новый статич. объект #092",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_WptName_474"] = "",
+    ["DictKey_WptName_253"] = "",
+    ["DictKey_WptName_360"] = "",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_UnitName_198"] = "Новый статич. объект #009",
+    ["DictKey_UnitName_491"] = "Новый статич. объект #041",
+    ["DictKey_UnitName_513"] = "",
+    ["DictKey_WptName_444"] = "",
+    ["DictKey_WptName_119"] = "",
+    ["DictKey_UnitName_440"] = "Новый статич. объект #054",
+    ["DictKey_UnitName_609"] = "Новый статич. объект #092",
+    ["DictKey_ActionText_293"] = "Su-25は信頼性が高く操縦も容易で、兵装運用も難しくない。\
+\
+'7'を押して\"地上\"モードを有効にする。",
+    ["DictKey_WptName_423"] = "",
+    ["DictKey_WptName_498"] = "",
+    ["DictKey_WptName_571"] = "",
+    ["DictKey_UnitName_425"] = "Новый статич. объект #004",
+    ["DictKey_UnitName_588"] = "Новый статич. объект #092",
+    ["DictKey_UnitName_579"] = "Новый статич. объект #092",
+    ["DictKey_WptName_226"] = "",
+    ["DictKey_GroupName_22"] = "TGT3",
+    ["DictKey_WptName_214"] = "",
+    ["DictKey_WptName_465"] = "",
+    ["DictKey_ActionText_337"] = "否定！投下できていない。もう一度態勢を整えて再攻撃する。",
+    ["DictKey_WptName_128"] = "",
+    ["DictKey_GroupName_155"] = "Новый статич. объект",
+    ["DictKey_UnitName_243"] = "Новый статич. объект #023",
+    ["DictKey_WptName_483"] = "",
+    ["DictKey_UnitName_528"] = "Новый статич. объект #079",
+    ["DictKey_ActionText_685"] = "",
+    ["DictKey_ActionText_648"] = "",
+    ["DictKey_GroupName_257"] = "Новая вертол. группа #001",
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_WptName_577"] = "",
+    ["DictKey_WptName_568"] = "",
+    ["DictKey_WptName_574"] = "",
+    ["DictKey_UnitName_88"] = "",
+    ["DictKey_WptName_232"] = "",
+    ["DictKey_UnitName_195"] = "Новый статич. объект #009",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_WptName_229"] = "",
+    ["DictKey_WptName_589"] = "",
+    ["DictKey_ActionText_49"] = "左スイッチは、シリーズ投下時の投下間隔を設定する。\
+\
+\"Залп\" - 全弾を一斉投下する。\
+\"0.1\" - \"0.4\" - 0.1～0.4秒の間隔で投下する。\
+\"Серия КМГУ/МБД\" - 次のパイロンからの投下は、前のパイロンの弾薬放出が完了してから開始される。\
+\
+'V'で投下間隔を0.4秒(\"0.4\")に設定し、'Пробел'(スペースバー)を押して続行する。",
+    ["DictKey_WptName_432"] = "",
+    ["DictKey_ActionText_637"] = "",
+    ["DictKey_WptName_363"] = "",
+    ["DictKey_ActionText_690"] = "",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_ActionText_319"] = "飛行場へ戻る際は、目標地域に設置されたオレンジスモークを目印にする。目標を進路左側に保ちながら飛行する。\
+\
+キャノピーの左支柱が目標に重なった瞬間に、左へブレイクして降下を開始する。",
+    ["DictKey_ActionText_673"] = "",
+    ["DictKey_ActionText_341"] = "よくやった！任務完了。\
+\
+'Esc'を押してレッスンを終了する。",
+    ["DictKey_ActionText_311"] = "爆撃に最適な条件は、フラップを機動位置にした状態で、-20～-40°の降下角、650～700km/hの速度で降下することである。",
+    ["DictKey_WptName_387"] = "",
+    ["DictKey_UnitName_90"] = "",
+    ["DictKey_UnitName_258"] = "Новый пилот #001",
+    ["DictKey_WptName_456"] = "",
+    ["DictKey_ActionText_649"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_WptName_538"] = "",
+    ["DictKey_UnitName_443"] = "Новый статич. объект #052",
+    ["DictKey_UnitName_110"] = "Новый юнит #011",
+    ["DictKey_UnitName_570"] = "Новый статич. объект #092",
+    ["DictKey_ActionText_640"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_WptName_501"] = "",
+    ["DictKey_ActionText_343"] = "降下中はパイパーを目標に維持し、距離インジケータの細い弧の右端が太い弧に到達するまで待つ。到達したら射撃( スペースバー )を行う。\
+\
+攻撃後は離脱し、'RShift + O'でレーザー測距器をOFFにする。\
+注意:レーザー測距器の連続ON時間は制限(約1分)がある。制限時間を超えたら、冷却のため必ずOFFにすること。\
+\
+操縦を引き継ぎ、訓練を続行する準備をする。\
+' SPACEBAR 'を押して続行する。",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_ActionText_281"] = "照準器の反射板を下げると、照準シンボルがはっきり見えるようになる。\
+\
+中央には照準マーク(照準十字)がある。十字の右上には円形の距離スケールがあり、機首に搭載されたレーザー測距/指示装置で測定した、照準点までの距離を表示する。\
+距離スケールの円周上部には小さな三角形(ロール・マーカー)があり、機体の現在のバンク角を示す。照準中は、このロールを0に近づけること。\
+\
+操縦を引き継ぐ準備をし、'Пробел'(スペースバー)を押して飛行を開始する。",
+    ["DictKey_ActionText_54"] = "よし、照準を選んだ目標へ流し込む。\
+\
+投下許可ランプ(オレンジ)が点灯したら投下する。\
+\
+残りは他の大型目標へ散布してもよいし、引き起こして離脱し、もう一度周回してもよい。",
+    ["DictKey_UnitName_109"] = "Новый юнит #010",
+    ["DictKey_GroupName_98"] = "Новая наземная группа",
+    ["DictKey_ActionText_317"] = "高度2,600mで水平にし、500～600km/hを維持する。",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_UnitName_353"] = "",
+    ["DictKey_UnitName_386"] = "Новый статич. объект #037",
+    ["DictKey_ActionText_696"] = "",
+    ["DictKey_UnitName_470"] = "Новый статич. объект #037",
+    ["DictKey_UnitName_576"] = "Новый статич. объект #092",
+    ["DictKey_UnitName_540"] = "Новый статич. объект #080",
+    ["DictKey_UnitName_114"] = "Новый юнит #015",
+    ["DictKey_ActionText_695"] = "'RShift + O'で測距器をONにする。目標を照準し、インジケータの弧に従って射程内で発射する。",
+    ["DictKey_GroupName_25"] = "TGT2",
+    ["DictKey_ActionText_48"] = "現在、機体は内側パイロンにRBK-500使い捨て爆弾コンテナ×4、外側パイロンにRBK-250×4を搭載している。パネル上方のSUVパネルで、兵装(ASP)の使用パラメータを設定する。\
+\
+右スイッチは爆弾投下のシリーズを設定する。\
+\"По 1\" - 1箇所のパイロンから投下する。\
+\"По 2\" - 2箇所のパイロンから投下する。\
+\"По 4\" - 4箇所のパイロンから投下する。\
+\"Все\" - 選択した種類の爆弾を全パイロンから投下する。\
+\
+'LCtrl + Пробел'で、選択した種類の爆弾を4箇所から投下する設定(\"По 4\")にし、'Пробел'(スペースバー)を押して続行する。",
+    ["DictKey_ActionText_650"] = "",
+    ["DictKey_ActionText_285"] = "ゲートが示す進路を維持する。",
+    ["DictKey_ActionText_313"] = "降下への導入は、照準十字が目標の下に来るように終える。\
+\
+兵器使用許可のオレンジランプが点灯すると、照準マークが上向きに動き始める。照準十字が目標に重なった瞬間に'Пробел'(スペースバー)を押し、選択した爆弾がすべて投下されるまで押し続ける。",
+    ["DictKey_UnitName_630"] = "Новый статич. объект #113",
+    ["DictKey_UnitName_537"] = "Новый статич. объект #078",
+    ["DictKey_UnitName_246"] = "Новый статич. объект #023",
+    ["DictKey_WptName_586"] = "",
+    ["DictKey_WptName_492"] = "",
+    ["DictKey_UnitName_365"] = "Новый статич. объект #002",
+    ["DictKey_ActionText_331"] = "了解！投下完了！引き起こせ！",
+    ["DictKey_UnitName_174"] = "",
+    ["DictKey_UnitName_177"] = "Новый статич. объект #006",
+    ["DictKey_ActionText_295"] = "Su-25は多数の対地兵器を使用できる。\
+\
+軍事用語でロケットとは、センサーを持たず、発射後は無誘導で飛翔するジェット推進弾薬の総称である。種類は多い。例えば、UB-32ランチャーのS-5、B-8ランチャーのS-8、UB-13のS-13、そして重量級のS-24やS-25などだ。\
+\
+Su-25にはGSh-30 30mm連装機関砲(弾数200発)も内蔵されている。\
+\
+キーボードの'7'を押して対地(AG)モードを選択する。",
+    ["DictKey_UnitName_17"] = "tgt5",
+    ["DictKey_UnitName_525"] = "Новый статич. объект #079",
+    ["DictKey_ActionText_674"] = "",
+    ["DictKey_WptName_24"] = "",
+    ["DictKey_ActionText_303"] = "対地攻撃の手順は次のとおりだ。目標を目視で捕捉し、浅い降下姿勢に入れ、'RShift + O'でレーザー測距器を作動させる。\
+\
+照準ガラスには、正規化レンジの照準マークと距離インジケータ(距離スケール)が表示される。\
+\
+インジケータの細い弧は現在の目標距離を示し、太い部分は発射可能距離を示す。\
+\
+弧の上部にある小さな三角形は、機体の現在のバンク(ロール)を示す。照準中はこれを垂直(0位置)に合わせること。合わせないと弾薬は目標を外す。\
+\
+' スペースバー 'を押して続行する。",
+    ["DictKey_WptName_514"] = "",
+    ["DictKey_UnitName_228"] = "Новый статич. объект #023",
+    ["DictKey_WptName_562"] = "",
+    ["DictKey_WptName_44"] = "Dive Point",
+    ["DictKey_WptName_619"] = "",
+    ["DictKey_WptName_517"] = "",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_WptName_405"] = "",
+    ["DictKey_WptName_384"] = "",
+    ["DictKey_UnitName_603"] = "Новый статич. объект #092",
+    ["DictKey_ActionText_670"] = "",
+} -- end of dictionary

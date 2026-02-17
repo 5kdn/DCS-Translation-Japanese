@@ -1,0 +1,42 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionText_34"] = "",
+    ["DictKey_ActionText_48"] = "建物には完全に命中したが、犯人は既にロッジを離れており生存した。",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_ActionText_40"] = "",
+    ["DictKey_ActionText_29"] = "",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_ActionText_43"] = "警報！！！！！",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_ActionText_47"] = "",
+    ["DictKey_sortie_5"] = "ピンポイント攻撃",
+    ["DictKey_ActionText_16"] = "空港が砲撃を受けている。",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_19"] = "空港が砲撃を受けている。",
+    ["DictKey_ActionText_14"] = "空港が砲撃を受けている。",
+    ["DictKey_descriptionRedTask_2"] = "空中開始。\
+極低空で進入し、島西湾岸のロッジを破壊せよ。迅速かつ奇襲性を確保すること。目標ウェイポイントの15km手前でポップアップし、観測および照準を行え。Kh-29Lミサイルで初弾命中を狙い、その後左旋回して方位180へ低空で離脱せよ。\
+\
+注意。\
+– 目標地域の画像はニーボードを参照せよ\
+– AAAおよびMANPADSの存在に注意せよ。\
+\
+健闘を祈る。",
+    ["DictKey_ActionText_45"] = "",
+    ["DictKey_ActionText_26"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_descriptionText_1"] = "情報報告によれば、太平洋地域のテロ組織の首魁がパガン島に到着した。排除命令が発令されている。",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_44"] = "",
+    ["DictKey_ActionText_41"] = "",
+    ["DictKey_ActionText_39"] = "",
+    ["DictKey_ActionText_21"] = "空港が砲撃を受けている。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_50"] = "",
+    ["DictKey_ActionText_27"] = "",
+    ["DictKey_ActionText_46"] = "",
+    ["DictKey_ActionText_8"] = "",
+    ["DictKey_ActionText_37"] = "良好な命中だ。目標を破壊した！",
+    ["DictKey_ActionText_12"] = "迫撃砲隊を撃破した。",
+} -- end of dictionary

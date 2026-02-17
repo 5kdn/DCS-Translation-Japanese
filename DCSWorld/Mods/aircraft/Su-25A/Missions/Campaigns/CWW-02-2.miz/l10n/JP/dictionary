@@ -1,0 +1,87 @@
+dictionary = 
+{
+    ["DictKey_18"] = "",
+    ["DictKey_37"] = "",
+    ["DictKey_41"] = "",
+    ["DictKey_UnitName_208"] = "New Static Object #002",
+    ["DictKey_40"] = "",
+    ["DictKey_WptName_471"] = "",
+    ["DictKey_53"] = "",
+    ["DictKey_36"] = "",
+    ["DictKey_29"] = "",
+    ["DictKey_33"] = "",
+    ["DictKey_7"] = "",
+    ["DictKey_descriptionText_402"] = "1989年12月20日\
+\
+西ドイツ第12装甲師団は、同日午後早くにクバン川を渡河した第35装甲旅団を先頭として、マイコープ方面への進撃を継続している。第16親衛戦車師団所属の第4自動車化狙撃連隊は、遅滞戦闘を実施しつつ敵と交戦し、マイコープ方面へ後退中だ。\
+\
+一方、西ドイツ第5装甲師団は、第15装甲旅団を先頭にロストフ-クラスノダール街道を南下し、第42親衛戦車師団の先遣部隊と交戦している。",
+    ["DictKey_44"] = "",
+    ["DictKey_31"] = "",
+    ["DictKey_UnitName_212"] = "New Static Object #004",
+    ["DictKey_descriptionRedTask_403"] = "任務:\
+西ドイツ第155装甲砲兵大隊が、第15装甲旅団の後方地域で活動しているのが確認された。最高司令部は、この砲兵大隊に対する攻撃パッケージを命じた。パッケージは現地時刻17:20にランデブーポイントを離脱する。TOTは現地時刻17:28だ。\
+\
+目標:\
+道路縦隊隊形で行動中の西ドイツ第155装甲砲兵大隊所属M109砲兵中隊を攻撃せよ。\
+\
+ウェイポイント:\
+#   種別             時刻    速度       高度\
+1   離陸             17:05    -            -\
+2   ランデブー       17:20   600       2,000\
+3   IP               17:27   700         300\
+4   攻撃             17:28   700         300\
+5   着陸             17:49   600       2,000\
+\
+パッケージ:\
+Grach 1 (Strike)      4×Su-25\
+Grach 2 (Strike)      2×Su-25\
+>Grach 3 (Strike)     2×Su-25<\
+Hunter 1 (Sweep)      4×MiG-23MLD\
+Hunter 2 (Sweep)      4×MiG-23MLD\
+Wolf 1 (SEAD)         2×Su-17M4",
+    ["DictKey_UnitName_210"] = "New Static Object #003",
+    ["DictKey_9"] = "",
+    ["DictKey_10"] = "",
+    ["DictKey_20"] = "",
+    ["DictKey_6"] = "",
+    ["DictKey_22"] = "",
+    ["DictKey_23"] = "",
+    ["DictKey_21"] = "",
+    ["DictKey_50"] = "\"Grach 1-1、攻撃パッケージはランデブーポイントを離脱した。\"",
+    ["DictKey_WptName_540"] = "",
+    ["DictKey_27"] = "",
+    ["DictKey_17"] = "",
+    ["DictKey_47"] = "",
+    ["DictKey_34"] = "",
+    ["DictKey_5"] = "",
+    ["DictKey_48"] = "",
+    ["DictKey_28"] = "",
+    ["DictKey_52"] = "\"Grach 1-1、目標まで2分だ。\"",
+    ["DictKey_sortie_406"] = "CWW-02-2",
+    ["DictKey_WptName_472"] = "",
+    ["DictKey_13"] = "",
+    ["DictKey_46"] = "",
+    ["DictKey_35"] = "",
+    ["DictKey_32"] = "",
+    ["DictKey_8"] = "",
+    ["DictKey_45"] = "",
+    ["DictKey_19"] = "",
+    ["DictKey_43"] = "",
+    ["DictKey_51"] = "",
+    ["DictKey_42"] = "",
+    ["DictKey_14"] = "",
+    ["DictKey_16"] = "",
+    ["DictKey_49"] = "",
+    ["DictKey_39"] = "",
+    ["DictKey_25"] = "",
+    ["DictKey_30"] = "",
+    ["DictKey_24"] = "",
+    ["DictKey_15"] = "",
+    ["DictKey_descriptionNeutralsTask_405"] = "",
+    ["DictKey_26"] = "",
+    ["DictKey_11"] = "",
+    ["DictKey_38"] = "",
+    ["DictKey_descriptionBlueTask_404"] = "",
+    ["DictKey_12"] = "",
+} -- end of dictionary
