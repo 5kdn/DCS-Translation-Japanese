@@ -1,0 +1,11 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "着陸",
+	["DictKey_descriptionText_1"] = "このミッションは着陸のファイナルアプローチから開始する。直ちに着陸してもよいし、複数回のアプローチを行うためにトラフィックパターンへ進入してもよい。\
+脅威は存在しない。",
+	["DictKey_descriptionBlueTask_3"] = "前方の滑走路へ着陸せよ。",
+	["DictKey_ActionText_6"] = "このミッションは着陸のファイナルアプローチから開始する。直ちに着陸してもよいし、複数回のアプローチを行うためにトラフィックパターンへ進入してもよい。\
+脅威は存在しない。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary
