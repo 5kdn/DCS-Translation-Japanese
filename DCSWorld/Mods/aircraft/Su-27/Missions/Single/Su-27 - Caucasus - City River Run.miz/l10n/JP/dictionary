@@ -1,0 +1,23 @@
+dictionary = 
+{
+    ["DictKey_sortie_11"] = "市街地リバーラン",
+    ["DictKey_descriptionText_8"] = "市街地を流れる川に沿って飛行し、各ゲートを通過せよ。\
+\
+この課程では、激しい機動を伴う低空飛行技量が試される。\
+\
+健闘を祈る！\
+",
+    ["DictKey_descriptionRedTask_9"] = "コース上の全てのゲートを通過せよ。\
+",
+    ["DictKey_4"] = "市街地を流れる川に沿って飛行し、各ゲートを通過せよ。\
+\
+この課程では、激しい機動を伴う低空飛行技量が試される。\
+\
+健闘を祈る！\
+",
+    ["DictKey_descriptionBlueTask_10"] = "",
+    ["DictKey_5"] = "よくやった！\
+\
+ミッションを終了してよい。\
+",
+} -- end of dictionary

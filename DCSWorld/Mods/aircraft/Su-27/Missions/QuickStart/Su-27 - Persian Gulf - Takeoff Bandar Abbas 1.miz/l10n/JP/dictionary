@@ -1,0 +1,15 @@
+dictionary = 
+{
+    ["DictKey_descriptionText_1"] = "バンダル・アッバース飛行場の滑走路上で、離陸準備完了。",
+    ["DictKey_ActionText_21"] = "MISSION SUCCESS！ ミッションを終了してよい。",
+    ["DictKey_ActionText_20"] = "Su-27で離陸し、高度3,000ftまで上昇せよ。",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Su-27 - 離陸",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_WptName_10"] = "",
+    ["DictKey_descriptionRedTask_2"] = "Su-27で離陸し、高度3,000ftまで上昇せよ。",
+} -- end of dictionary

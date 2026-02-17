@@ -1,0 +1,76 @@
+dictionary = 
+{
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_UnitName_60"] = "Mozdok AFB L-39ZA #003",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_UnitName_48"] = "Mozdok AFB IL-76MD #002",
+    ["DictKey_UnitName_56"] = "Mozdok AFB L-39ZA #001",
+    ["DictKey_UnitName_62"] = "Mozdok AFB L-39ZA #004",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_UnitName_38"] = "Mozdok AFB Su-25T #001",
+    ["DictKey_9"] = "前回までのレッスンで使用した無誘導爆弾に加え、KMGUサブミュニション・ディスペンサーも使用できる。\
+\
+今回は、各ディスペンサーに12×AO-2.5RT破片爆弾を装填したものを4基搭載している。\
+\
+ディスペンサーは、細長い破壊帯を形成したい場合に有用な兵器だ……車列や滑走路に効果的だ。\
+\
+スペースバーを押してレッスンを再開せよ。\
+",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_WptName_104"] = "",
+    ["DictKey_sortie_78"] = "KMGU子弾散布装置",
+    ["DictKey_descriptionBlueTask_77"] = "",
+    ["DictKey_descriptionRedTask_76"] = "レッドスモークで示された目標、およびルート上で割り当てられた他の目標を破壊せよ。\
+",
+    ["DictKey_UnitName_42"] = "Mozdok AFB Su-25T #003",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_UnitName_44"] = "Mozdok AFB Su-25T #004",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_11"] = "ゲートの追従を継続しつつ、速度は700～750km/hを維持するよう努めよ。\
+",
+    ["DictKey_UnitName_40"] = "Mozdok AFB Su-25T #002",
+    ["DictKey_UnitName_54"] = "Mozdok AFB Mi-26 #002",
+    ["DictKey_descriptionText_75"] = "このレッスンでは、KMGU子弾散布装置の運用方法を学ぶ。\
+\
+\
+使用するキーコマンド:\
+\
+空対地モード: 7\
+兵装投下: スペースバー\
+",
+    ["DictKey_14"] = "目標に機首を合わせ、爆撃ピッパーは目標のわずか手前に置け。キャニスターの扉が開く際に、投下がわずかに遅れるためだ。\
+\
+CCIPを使用している場合、有効な投下解を得るために浅いダイブを開始する必要があるかもしれない。\
+",
+    ["DictKey_16"] = "",
+    ["DictKey_13"] = "次の2つのゲートの間の道路上に、レッドスモークでマーキングされたトラック車列がある。\
+\
+それが目標だ。\
+",
+    ["DictKey_UnitName_52"] = "Mozdok AFB Mi-26 #001",
+    ["DictKey_UnitName_50"] = "Mozdok AFB IL-76MD #003",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_15"] = "よくやった。目標に命中した！\
+\
+Escキーを押して今すぐレッスンを終了してよい。あるいは、道路の先にいるグリーンスモークで示された別の車列を発見して破壊してもよい。\
+",
+    ["DictKey_UnitName_64"] = "Mozdok AFB L-39ZA #005",
+    ["DictKey_UnitName_58"] = "Mozdok AFB L-39ZA #002",
+    ["DictKey_12"] = "空対地モードに入ると、HUDに爆撃レティクルが表示されたはずだ。\
+\
+これまでどおり、レティクルを目標に合わせる必要がある。\
+\
+速度を高く維持していれば、低高度からでも良好な有効投下解を得られる。\
+\
+投下はCCIPとCCRPのどちらで行うか、こちらで選べ。\
+",
+    ["DictKey_UnitName_46"] = "Mozdok AFB IL-76MD #001",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_10"] = "目標へ進入しつつ、7を押して空対地モードを有効化せよ。\
+",
+} -- end of dictionary

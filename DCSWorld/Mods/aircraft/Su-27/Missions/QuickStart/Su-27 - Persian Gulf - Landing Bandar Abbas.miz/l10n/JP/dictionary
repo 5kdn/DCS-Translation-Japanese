@@ -1,0 +1,18 @@
+dictionary = 
+{
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_descriptionText_1"] = "バンダル・アッバース飛行場の滑走路03Lへ最終進入中。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_10"] = "",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Su-27 - 着陸",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_descriptionRedTask_2"] = "バンダル・アッバース飛行場に着陸し、機体を停止させよ。",
+} -- end of dictionary

@@ -1,0 +1,12 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Su-27 空対空",
+    ["DictKey_descriptionText_1"] = "進入する敵攻撃機に対するCAPを実施する。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_descriptionRedTask_2"] = "4機のF-16がメレズ空軍基地を攻撃すべく接近中だ。撃墜せよ！\
+\
+GCI:\
+Whiplash 1 - 国家防空C2センター\
+Warrior 1 - スエズ運河中央部防空C2センター",
+} -- end of dictionary

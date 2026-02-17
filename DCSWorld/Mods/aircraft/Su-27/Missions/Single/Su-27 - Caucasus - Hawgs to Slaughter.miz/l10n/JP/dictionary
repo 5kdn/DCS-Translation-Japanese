@@ -1,0 +1,140 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_18"] = "NATOのWarthog部隊に重大な損害が出たとの報告が入っている。\
+\
+MISSION SUCCESS.\
+",
+    ["DictKey_UnitName_212"] = "Nalchik Static #022",
+    ["DictKey_descriptionRedTask_100"] = "-----------------------------------------\
+TASKS\
+------------------------------------------\
+1. NATO攻撃パッケージを防護しているF-16のCAPを排除せよ。\
+\
+ この任務には、ベスランから発進するMiG-29の2個編隊が支援に就く。\
+\
+2. A-10部隊が自軍の防空網下へ退避する前に、可能な限り多くを撃破せよ。\
+\
+3. 弾薬を消耗した場合、またはNATO攻撃部隊が離脱した場合は、ナルチク空軍基地RWY24へRTBせよ。\
+\
+我が反撃が開始され次第、NATOはトビリシから予備のF-16 CAPを発進させると予想されるため、行動可能時間は限られている。\
+\
+DIVERT: ベスラン空軍基地\
+\
+-----------------------------------------\
+ROE\
+------------------------------------------\
+ブリーフィングマップに示されたCAPゾーン内のバンディットとの交戦を許可する。南オセチア国境以南、トビリシ方向へ進出し、敵パトリオット防空システムの射程内に入ってはならない。\
+\
+-----------------------------------------\
+THREATS\
+------------------------------------------\
+F-16C, A-10C, Patriot Missile Battery (トビリシ)。\
+",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_UnitName_173"] = "Nalchik Static #006",
+    ["DictKey_UnitName_164"] = "Nalchik Static #003",
+    ["DictKey_UnitName_150"] = "",
+    ["DictKey_UnitName_242"] = "Smoke #001",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_WptName_243"] = "",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_UnitName_197"] = "Nalchik Static #009",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_UnitName_218"] = "Nalchik Static #014",
+    ["DictKey_17"] = "NATOのWarthog部隊に中程度の損害が出たとの報告が入っている。\
+\
+よくやった。\
+",
+    ["DictKey_WptName_237"] = "",
+    ["DictKey_GroupName_244"] = "New Airplane Group",
+    ["DictKey_UnitName_224"] = "Nalchik Static #015",
+    ["DictKey_UnitName_221"] = "Nalchik Static #019",
+    ["DictKey_WptName_246"] = "",
+    ["DictKey_WptName_240"] = "",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_194"] = "Nalchik Static #021",
+    ["DictKey_15"] = "",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_12"] = "予備のF-16 CAP編隊が当該空域に進入した。\
+\
+全編隊、直ちにRTBせよ。\
+",
+    ["DictKey_UnitName_206"] = "Nalchik Static #012",
+    ["DictKey_UnitName_215"] = "Nalchik Static #023",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_WptName_146"] = "",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_UnitName_179"] = "Nalchik Static #008",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_UnitName_203"] = "Nalchik Static #011",
+    ["DictKey_UnitName_200"] = "Nalchik Static #010",
+    ["DictKey_9"] = "トビリシ方面から接近中のNATO攻撃パッケージを確認した。\
+\
+ミッションはFRAG通りGOだ。\
+\
+健闘を祈る。\
+",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_UnitName_230"] = "Smoke #001",
+    ["DictKey_UnitName_236"] = "Smoke #001",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_WptName_234"] = "",
+    ["DictKey_14"] = "",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_UnitName_227"] = "",
+    ["DictKey_UnitName_245"] = "Pilot #001",
+    ["DictKey_WptName_231"] = "",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_UnitName_191"] = "Nalchik Static #020",
+    ["DictKey_UnitName_209"] = "Nalchik Static #013",
+    ["DictKey_descriptionText_99"] = "情報によれば、ロキトンネル南方地域で行動中の友軍装甲部隊に対するNATOの航空攻撃が差し迫っている。\
+\
+このトンネルはロシアと南オセチアを結ぶ生命線であり、その支配を失えば、同地域の我が部隊は急速に劣勢に陥る。\
+\
+トビリシ方面からの報告によると、F-16およびA-10で構成されたNATO攻撃パッケージが発進準備中で、まもなく離陸する見込みだ。\
+\
+我が情報活動によりNATOは奇襲効果を失っており、これは対空反撃をスクランブルさせる絶好の機会である。\
+\
+本ミッションの主目的は、当該地域におけるWarthogの戦力を無力化し、南オセチアで行動中の我が装甲部隊を解放することにある。\
+",
+    ["DictKey_sortie_102"] = "イボイノシシ狩り",
+    ["DictKey_UnitName_167"] = "Nalchik Static #004",
+    ["DictKey_UnitName_176"] = "Nalchik Static #007",
+    ["DictKey_13"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_UnitName_182"] = "Nalchik Static #016",
+    ["DictKey_WptName_140"] = "",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_UnitName_158"] = "Nalchik Static #001",
+    ["DictKey_UnitName_161"] = "Nalchik Static #002",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_16"] = "NATOのWarthog部隊に軽微ながら損害が出たとの報告が入っている。\
+\
+より大きな戦果を期待していたが、今回はこれで良しとする。\
+",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_UnitName_233"] = "Smoke #001",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_UnitName_170"] = "Nalchik Static #005",
+    ["DictKey_UnitName_185"] = "Nalchik Static #017",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_UnitName_188"] = "Nalchik Static #018",
+    ["DictKey_descriptionBlueTask_101"] = "",
+    ["DictKey_11"] = "トビリシから予備のF-16 CAP編隊が発進、あなたの位置へ接近中だ。\
+\
+ETA 10分。\
+",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_UnitName_239"] = "Smoke #001",
+    ["DictKey_10"] = "F-16のCAP編隊を撃破した。\
+\
+NATO予備CAPが到着するまで、全編隊はA-10との交戦を継続せよ。",
+} -- end of dictionary

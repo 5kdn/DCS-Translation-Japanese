@@ -1,0 +1,152 @@
+dictionary = 
+{
+    ["DictKey_WptName_80"] = "",
+    ["DictKey_UnitName_72"] = "Mozdok Su-27 #006",
+    ["DictKey_UnitName_52"] = "Mozdok IL-76MD #002",
+    ["DictKey_UnitName_60"] = "Mozdok L-39ZA #001",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_UnitName_68"] = "Mozdok L-39ZA #005",
+    ["DictKey_29"] = "上昇率が正になったら、Gを押してランディングギアを格納せよ。\
+\
+HUD右上には、高度がメートルで表示される。\
+\
+高度表示と速度表示の間には、ヘディング・テープがある。\
+",
+    ["DictKey_UnitName_48"] = "Mozdok Su-27 #004",
+    ["DictKey_UnitName_56"] = "Mozdok Mi-26 #001",
+    ["DictKey_UnitName_62"] = "Mozdok L-39ZA #002",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_ActionText_105"] = "",
+    ["DictKey_ActionText_112"] = "",
+    ["DictKey_20"] = "次は2基のエンジンを始動する。\
+\
+始動前に、スロットル・コントローラーがゼロ出力位置になっていることを確認せよ。\
+\
+RAlt + Homeを押して左エンジンを始動せよ。\
+",
+    ["DictKey_descriptionRedTask_76"] = "- Su-27を始動\
+- 滑走路までタキシング\
+- 離陸\
+",
+    ["DictKey_25"] = "この分岐では右へ進み、滑走路へ向かえ。\
+",
+    ["DictKey_ActionText_113"] = "",
+    ["DictKey_31"] = "以上で、Su-27の始動、タキシング、離陸のレッスンを終了する。\
+\
+Escapeキーを押してレッスンを終了してよい。\
+",
+    ["DictKey_22"] = "前方計器盤中央には、針が2本あるエンジンRPM計がある。\
+------\
+エンジン始動中は、エンジン温度計の下にある2つの緑ライトのどちらかが点灯する。\
+\
+ライトが消灯したら、そのエンジンは運転可能状態だ。\
+------\
+計器盤左下には、フラップ、ランディングギア、エアブレーキの状態を示す航空機シンボルがある。\
+\
+LShift + Fを押して、フラップを離陸位置まで下げろ。\
+",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_21"] = "左エンジンが始動したら、RCtrl + Homeを押して右エンジンを始動せよ。\
+",
+    ["DictKey_ActionText_111"] = "",
+    ["DictKey_sortie_78"] = "Su-27始動",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_descriptionBlueTask_77"] = "",
+    ["DictKey_ActionText_107"] = "",
+    ["DictKey_ActionText_110"] = "",
+    ["DictKey_UnitName_46"] = "Mozdok Su-27 #003",
+    ["DictKey_27"] = "滑走路のスレッショルドに到達した。\
+\
+右へ進んで滑走路へ進入し、滑走路の延長方向に機体を合わせろ。\
+",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_17"] = "Su-27 \"Flanker\"へようこそ。\
+\
+\"Flanker\"は、現代戦闘航空における最強クラスの制空戦闘機の1つだ。\
+\
+強力なセンサー、兵装、データリンクを備え、DCS Worldで遭遇し得るどの航空機にも匹敵する。\
+\
+空対空能力に加え、無誘導爆弾とロケットによる副次的な対地攻撃任務も実施できる。\
+\
+ただし、何かを吹き飛ばす前に、まずはこの機体の始動と、滑走路までのタキシングを学ぼう。\
+\
+最初に、RShift + Lを押して電源を投入せよ。\
+",
+    ["DictKey_UnitName_58"] = "Mozdok Mi-26 #002",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_UnitName_44"] = "Mozdok Su-27 #002",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_24"] = "進路は正しい。\
+\
+HUD左上に表示されるとおり、タキシング速度は20km/h前後を維持せよ。\
+\
+タキシング中は、ラダーを小さく滑らかに修正して、タキシウェイ中央に機体を合わせ続けろ。\
+",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_ActionText_109"] = "",
+    ["DictKey_18"] = "電源を投入すると、HUDが作動し、多くの計器とコックピット照明も点灯する。\
+\
+機体を動かす前に、HSIジャイロが正しくアラインするよう、3分以上経過したことを確認せよ。\
+\
+電源が入ったので、RCtrl + Lを押して航法灯を点灯しよう。\
+",
+    ["DictKey_19"] = "次に、LCtrl + Cを押してキャノピーを閉めよう。\
+",
+    ["DictKey_23"] = "タキシングの準備ができた。スロットルを前に倒すか、Page Upを押して、ゆっくり推力を上げろ。\
+\
+スロットルを下げるには、スロットル・コントローラーを操作するか、Page Downを押せ。\
+\
+ホイールブレーキはWを押す。\
+\
+前進を開始し、前方のタキシウェイで左へ曲がれ。\
+\
+LAlt + Qを押してノーズホイール・ステアリングを入れ。\
+\
+Zで左へ、Xで右へ操舵せよ。",
+    ["DictKey_UnitName_54"] = "Mozdok IL-76MD #001",
+    ["DictKey_descriptionText_75"] = "Su-27訓練:\
+ - 始動、タキシング、離陸\
+\
+\
+キーコマンド:\
+\
+電源: RShift + L\
+キャノピー: LCtrl + C\
+左エンジン始動: RAlt + Home\
+右エンジン始動: RCtrl + Home\
+離陸/着陸フラップ: LShift + F\
+スロットル上げ: Page Up\
+スロットル下げ: Page Down\
+ノーズホイール・ステアリング入/切: LAlt + Q\
+ラダー左: Z\
+ラダー右: X\
+ランディングギア: G\
+",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_28"] = "滑走路に正対したら、両エンジン推力を最大まで上げ、ラダー(XとZ)を穏やかに操作してセンターラインを維持せよ。\
+\
+速度を250km/hまで増加させ、その後コントローラーを軽く引いて、機体が自然に浮き上がるように離陸させろ。\
+",
+    ["DictKey_UnitName_66"] = "Mozdok L-39ZA #004",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_ActionText_108"] = "",
+    ["DictKey_30"] = "HUD中央にはピッチ/ロール表示があり、HUD右側にはピッチ・ラダーと昇降率表示がある。\
+\
+LCtrl + Fを押してフラップを上げろ。\
+",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_UnitName_50"] = "Mozdok IL-76MD #003",
+    ["DictKey_UnitName_74"] = "Mozdok Su-27 #001",
+    ["DictKey_UnitName_70"] = "Mozdok Su-27 #005",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_UnitName_64"] = "Mozdok L-39ZA #003",
+    ["DictKey_26"] = "タキシング中は、F2で外部視点に切り替え、F1でコックピットに戻れる。\
+\
+拡大/縮小はテンキーの*と/で行える。\
+\
+視点の回転はテンキーの方向キーを使用せよ。\
+",
+    ["DictKey_WptName_100"] = "",
+} -- end of dictionary

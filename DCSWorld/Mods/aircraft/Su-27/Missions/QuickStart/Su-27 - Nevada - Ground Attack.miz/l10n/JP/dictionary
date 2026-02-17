@@ -1,0 +1,79 @@
+dictionary = 
+{
+    ["DictKey_UnitName_89"] = "New Static Object #009",
+    ["DictKey_UnitName_33"] = "",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_WptName_22"] = "",
+    ["DictKey_GroupName_11"] = "",
+    ["DictKey_WptName_53"] = "",
+    ["DictKey_WptName_87"] = "",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_WptName_54"] = "",
+    ["DictKey_UnitName_68"] = "",
+    ["DictKey_UnitName_92"] = "New Static Object #009",
+    ["DictKey_WptName_31"] = "",
+    ["DictKey_UnitName_21"] = "",
+    ["DictKey_descriptionRedTask_2"] = "ウェイポイント1において、可能な限り多くの地上目標を破壊せよ。",
+    ["DictKey_UnitName_80"] = "New Static Object #009",
+    ["DictKey_UnitName_30"] = "",
+    ["DictKey_UnitName_27"] = "",
+    ["DictKey_UnitName_49"] = "Pilot #002",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_WptName_48"] = "",
+    ["DictKey_UnitName_86"] = "New Static Object #009",
+    ["DictKey_UnitName_50"] = "Pilot #003",
+    ["DictKey_UnitName_71"] = "New Static Object #009",
+    ["DictKey_UnitName_18"] = "",
+    ["DictKey_WptName_75"] = "",
+    ["DictKey_UnitName_52"] = "Pilot #002",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_UnitName_42"] = "Pilot #001",
+    ["DictKey_UnitName_12"] = "",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_UnitName_24"] = "",
+    ["DictKey_WptName_84"] = "",
+    ["DictKey_GroupName_51"] = "TARGET-2",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_WptName_43"] = "",
+    ["DictKey_UnitName_9"] = "",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_WptName_47"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_WptName_7"] = "",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_UnitName_15"] = "",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_UnitName_83"] = "New Static Object #009",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_WptName_57"] = "",
+    ["DictKey_WptName_81"] = "",
+    ["DictKey_ActionText_119"] = "レッドハットの任務の一環は、他国の航空機の能力を評価することにある。本日のフライトでは、無誘導爆弾およびロケット弾を用いた地上攻撃任務において、この機体が何をできるのかを確認する。\
+\
+次のウェイポイント正面には、複数の目標が配置された射爆場飛行場がある。実力を示してみせよ。\
+\
+同空域では、地上攻撃機の編隊も任務を実施中だ。\
+\
+弾薬がWinchesterとなったらRTBせよ。\
+",
+    ["DictKey_UnitName_77"] = "New Static Object #009",
+    ["DictKey_descriptionText_1"] = "レッドハットの任務の一環は、他国の航空機の能力を評価することにある。本日のフライトでは、無誘導爆弾およびロケット弾を用いた地上攻撃任務において、この機体が何をできるのかを確認する。\
+\
+次のウェイポイント正面には、複数の目標が配置された射爆場飛行場がある。実力を示してみせよ。\
+\
+同空域では、地上攻撃機の編隊も任務を実施中だ。\
+\
+弾薬がWinchesterとなったらRTBせよ。\
+",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_GroupName_41"] = "TARGET-1",
+    ["DictKey_sortie_4"] = "Su-27 地上攻撃",
+    ["DictKey_WptName_16"] = "",
+    ["DictKey_WptName_44"] = "",
+    ["DictKey_WptName_28"] = "",
+    ["DictKey_UnitName_74"] = "New Static Object #009",
+    ["DictKey_WptName_25"] = "",
+    ["DictKey_WptName_56"] = "",
+    ["DictKey_UnitName_6"] = "",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_WptName_10"] = "",
+} -- end of dictionary

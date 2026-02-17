@@ -1,0 +1,11 @@
+dictionary = 
+{
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Su-27 - ACM",
+    ["DictKey_descriptionText_1"] = "ホルムズ海峡中央部。正面9NM、同高度にF-16が2機いる。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_19"] = "僚機とともに空戦機動(ACM)技量を用い、F-16を2機撃墜せよ。",
+    ["DictKey_ActionText_20"] = "Mission Success!",
+    ["DictKey_descriptionRedTask_2"] = "僚機とともに空戦機動(ACM)技量を用い、F-16を2機撃墜せよ。",
+} -- end of dictionary

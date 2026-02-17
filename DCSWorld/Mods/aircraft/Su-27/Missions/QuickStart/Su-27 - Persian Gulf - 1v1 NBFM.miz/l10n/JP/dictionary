@@ -1,0 +1,11 @@
+dictionary = 
+{
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Su-27 - BFM",
+    ["DictKey_descriptionText_1"] = "ゲシュム飛行場上空。正面6NM、同高度にHornetがいる。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_19"] = "正面6NMにいるHornetと、基本戦闘機動(BFM)を用いて交戦せよ。",
+    ["DictKey_ActionText_20"] = "Mission Success!",
+    ["DictKey_descriptionRedTask_2"] = "正面6NMにいるHornetと、基本戦闘機動(BFM)を用いて交戦せよ。",
+} -- end of dictionary

@@ -1,0 +1,25 @@
+dictionary = 
+{
+    ["DictKey_UnitName_22"] = "",
+    ["DictKey_ActionText_34"] = "Mission Success！ 全てのバンディットを撃墜した。",
+    ["DictKey_WptName_11"] = "",
+    ["DictKey_WptName_20"] = "",
+    ["DictKey_sortie_4"] = "Su-27 - ノルマンディ - 2対2 ガンオンリー",
+    ["DictKey_WptName_23"] = "",
+    ["DictKey_WptName_8"] = "",
+    ["DictKey_descriptionRedTask_2"] = "あなたの編隊とM-2000C編隊は、いずれも機関砲のみで武装している。M-2000C編隊とマージし、相手に先んじて撃墜せよ。",
+    ["DictKey_GroupName_21"] = "New Static Object #003",
+    ["DictKey_descriptionText_1"] = "M-2000Cが2機、正面・同高度にいる。\
+",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_UnitName_19"] = "",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_WptName_17"] = "",
+    ["DictKey_GroupName_15"] = "New Static Object #001",
+    ["DictKey_UnitName_13"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_UnitName_16"] = "",
+    ["DictKey_GroupName_18"] = "New Static Object #002",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_GroupName_12"] = "New Static Object",
+} -- end of dictionary

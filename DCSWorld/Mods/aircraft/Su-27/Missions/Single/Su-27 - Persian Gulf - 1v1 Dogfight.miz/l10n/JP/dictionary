@@ -1,0 +1,15 @@
+dictionary = 
+{
+    ["DictKey_ActionText_23"] = "敗北！",
+    ["DictKey_descriptionText_1"] = "F-15とのドッグファイト。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_UnitName_11"] = "Pilot #002",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "F-15とのドッグファイト",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_ActionText_19"] = "F-15とのドッグファイト。",
+    ["DictKey_GroupName_10"] = "New Airplane Group #001",
+    ["DictKey_ActionText_21"] = "勝利！",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

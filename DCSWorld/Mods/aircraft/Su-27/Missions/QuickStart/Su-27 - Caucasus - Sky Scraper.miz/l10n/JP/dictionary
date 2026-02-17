@@ -1,0 +1,60 @@
+dictionary = 
+{
+    ["DictKey_UnitName_72"] = "",
+    ["DictKey_UnitName_67"] = "Unit #1",
+    ["DictKey_WptName_85"] = "",
+    ["DictKey_sortie_11"] = "スカイスクレーパー",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_WptName_68"] = "",
+    ["DictKey_UnitName_111"] = "New Static Object #002",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_WptName_69"] = "",
+    ["DictKey_UnitName_78"] = "New Static Object #001",
+    ["DictKey_UnitName_105"] = "New Static Object #001",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_UnitName_102"] = "New Static Object #001",
+    ["DictKey_WptName_73"] = "",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_UnitName_90"] = "New Static Object #004",
+    ["DictKey_5"] = "見事な飛行だ。全てのゲートを通過した！\
+\
+ミッションを終了してよい。\
+",
+    ["DictKey_UnitName_108"] = "New Static Object #002",
+    ["DictKey_WptName_88"] = "",
+    ["DictKey_UnitName_87"] = "New Static Object #005",
+    ["DictKey_WptName_91"] = "",
+    ["DictKey_UnitName_93"] = "New Static Object #004",
+    ["DictKey_UnitName_117"] = "New Static Object #002",
+    ["DictKey_4"] = "コンクリートジャングルへようこそ。\
+\
+このチャレンジでは、全てのゲートを通過し、いかなる物体にも接触しないよう飛行する必要がある。\
+\
+健闘を祈る。\
+",
+    ["DictKey_UnitName_75"] = "New Static Object #001",
+    ["DictKey_UnitName_81"] = "New Static Object #002",
+    ["DictKey_descriptionText_8"] = "コンクリートジャングルへようこそ。\
+\
+このチャレンジでは、全てのゲートを通過し、いかなる物体にも接触しないよう飛行する必要がある。\
+\
+健闘を祈る。\
+",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_GroupName_66"] = "New Vehicle Group",
+    ["DictKey_descriptionRedTask_9"] = "各ゲートを通過せよ。\
+",
+    ["DictKey_UnitName_114"] = "New Static Object #002",
+    ["DictKey_UnitName_99"] = "New Static Object #001",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_UnitName_96"] = "New Static Object #001",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_WptName_82"] = "",
+    ["DictKey_descriptionBlueTask_10"] = "",
+    ["DictKey_UnitName_84"] = "New Static Object #003",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_WptName_70"] = "",
+} -- end of dictionary
