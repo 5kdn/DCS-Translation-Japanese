@@ -1,0 +1,162 @@
+dictionary = 
+{
+	["DictKey_39"] = "[Hawg 1-1, this is Romeo]\
+\
+こちらのEAST約2,000mに戦車を確認！\
+\
+Out！",
+	["DictKey_34"] = "Sandy、ホールドポイントを離脱。",
+	["DictKey_37"] = "[Hawg 1-1, Sandy]:\
+\
+了解。\
+\
+ダストオフ地点へ移動する。\
+\
+Out.\
+",
+	["DictKey_sortie_126"] = "CSAR",
+	["DictKey_28"] = "[Enfield 2-1, Hawg 1-1]:\
+\
+ミッションを続行せよ。\
+\
+Out.\
+",
+	["DictKey_40"] = "[This is Romeo]:\
+\
+Sandyを目視確認した。\
+\
+これより掩蔽を離脱し、LZへ向かう。\
+\
+Out.\
+",
+	["DictKey_27"] = "Enfield 2-1 (CAP)、オンステーション。",
+	["DictKey_23"] = "[Colt 1-1, Hawg 1-1]: (SEAD)\
+\
+了解、\
+\
+進入を許可する。\
+\
+Out.\
+",
+	["DictKey_25"] = "[Hawg 1-1, Enfield 2-1] (CAP)\
+\
+オンステーション、攻撃命令を待機中。\
+\
+Out.\
+",
+	["DictKey_41"] = "[Hawg 1-1, Sandy]:\
+\
+確保した！\
+\
+ダストオフを開始する。\
+\
+Out.\
+",
+	["DictKey_35"] = "[Sandy, Hawg 1-1]:\
+\
+進入を許可する。\
+\
+Out.",
+	["DictKey_32"] = "[Hawg 1-1, Sandy.]:\
+\
+ホールドポイントOmegaへ進入中だ。\
+\
+Out.",
+	["DictKey_WptName_246"] = "",
+	["DictKey_33"] = "[Hawg 1-1, Sandy]:\
+\
+Omegaでホールド中だ。\
+\
+Goの指示を待機している。\
+\
+Over.\
+",
+	["DictKey_30"] = "[Hawg 1-1, this is Romeo]:\
+\
+こちらの東約2,000mに敵歩兵を確認、こちらへ向かってきている！\
+\
+Out.\
+",
+	["DictKey_43"] = "SUCCESS\
+----------------------\
+\
+[Hawg 1-1, Sandy]: \
+\
+ここからはこちらで引き継ぐ。\
+\
+支援に感謝する！\
+\
+Out.\
+",
+	["DictKey_26"] = "Enfield 2-1 (CAP)、オンステーション。",
+	["DictKey_descriptionRedTask_124"] = "",
+	["DictKey_descriptionBlueTask_125"] = "Falconのパイロットが敵後方で撃墜され、A-10C IIによる救難を要請している。\
+\
+フライトプランに従って進出し、Sandy(UH-60)と連携してパイロットの保護および回収を実施せよ。\
+\
+敵部隊はウラジカフカス市方面から南下し、パイロットの捜索に向かってくると予想される。\
+",
+	["DictKey_UnitName_96"] = "RU FARP (Vetka)",
+	["DictKey_WptName_190"] = "",
+	["DictKey_36"] = "Sandy、ホールドポイントを離脱。",
+	["DictKey_descriptionText_123"] = "F-16Cのパイロットがウラジカフカス市南方で撃墜された。\
+\
+Sandyは進出中で、コントロールポイントOmegaでホールドし、パイロットをダストオフするための指示を待っている。\
+\
+Wizard 1-1、E-3 AWACS、VHF AM 124.00。\
+\
+Enfield 1-1、F-15C CAP、VHF AM 124.00。\
+\
+Colt 1-1、F-16C SEAD、VHF AM 124.00。\
+\
+Texaco 1-1、KC-135 Tanker、VHF AM 150.00、TACAN 40X。\
+",
+	["DictKey_20"] = "Colt 1-1 (SEAD)、オンステーション。",
+	["DictKey_24"] = "[Hawg 1-1, Colt 1-1] (SEAD)\
+\
+IPへ進入中。\
+\
+Out.\
+",
+	["DictKey_22"] = "Colt 1-1 (SEAD)、オンステーション。",
+	["DictKey_UnitName_122"] = "US Downed F-16",
+	["DictKey_21"] = "[Hawg 1-1, Colt 1-1] (SEAD)\
+\
+オンステーション、攻撃命令を待機中。\
+\
+Out.\
+",
+	["DictKey_31"] = "[Hawg, this is Romeo]:\
+\
+目視で確認できている。\
+\
+グリーンフレアを発射する。\
+\
+Out.\
+",
+	["DictKey_38"] = "[Hawg 1-1, this is Romeo]:\
+\
+こちらの位置のEASTに装輪APCを確認している。\
+\
+その大口径砲を使ってみてはどうだ？\
+\
+Out.\
+",
+	["DictKey_42"] = "FAILURE\
+-------------------\
+\
+Sandyが撃墜された。\
+\
+RTB。\
+\
+Out.\
+",
+	["DictKey_29"] = "[Hawg 1-1, Enfield 2-1]: (CAP)\
+\
+了解、\
+\
+IPへ進入中。\
+\
+Out.\
+",
+} -- end of dictionary

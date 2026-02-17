@@ -1,0 +1,10 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "北イラク: 滑走路スタート",
+	["DictKey_descriptionText_1"] = "2012年頃のイラク、カイヤーラ・ウェスト空軍基地へようこそ。\
+",
+	["DictKey_descriptionBlueTask_3"] = "あなたは第357戦闘飛行隊所属A-10Cの2機編隊のフライトリードHAWG 3-1である。本日の任務は、基地東側での低空飛行だ。",
+	["DictKey_ActionText_7"] = "離陸を許可する。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

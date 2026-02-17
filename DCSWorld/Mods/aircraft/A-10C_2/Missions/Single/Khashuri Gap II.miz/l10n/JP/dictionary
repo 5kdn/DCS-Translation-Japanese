@@ -1,0 +1,162 @@
+dictionary = 
+{
+	["DictKey_sortie_253"] = "ハシュリ峡谷 ― 防御的CAS",
+	["DictKey_34"] = "[Hawg 1-1, Colt 4-1]:\
+\
+ホットで進入許可を得た。IPへ進出中だ。\
+\
+SAMシステム排除に数分必要だ。\
+\
+Out.\
+",
+	["DictKey_37"] = "MISSION FAILED\
+--------------------\
+\
+敵部隊が突破し、防衛線は破壊された。\
+\
+RTB。軍法会議ものだ。\
+\
+Out.\
+",
+	["DictKey_27"] = "Hawg 3-1、目標への進出準備完了。",
+	["DictKey_28"] = "[Hawg 1-1, Hawg 3-1]:\
+\
+IPへ進入中。\
+\
+Out.\
+",
+	["DictKey_descriptionBlueTask_252"] = "防衛中の友軍部隊と交戦する前に、装甲部隊(T-72およびBMP-2)を阻止せよ。",
+	["DictKey_23"] = "[Hawg 1-1, Hawg 2-1]:\
+\
+IPへ進入中。\
+\
+Out.",
+	["DictKey_25"] = "[Hawg 1-1, Hawg 3-1]:\
+\
+目標への進出準備完了。\
+\
+Out.\
+",
+	["DictKey_WptName_492"] = "",
+	["DictKey_32"] = "[Hawg 1-1, Command]:\
+\
+ロシア戦車中隊1の撃破を確認した。\
+\
+Out.\
+",
+	["DictKey_29"] = "[Hawg 1-1, Command]:\
+\
+ハシュリ市西方から装甲車両の車列が接近中だ。\
+\
+最優先で阻止せよ。\
+\
+JTAC Playboy 1、30.00 FMにコンタクトせよ。\
+\
+Out.",
+	["DictKey_33"] = "[Hawg 1-1, Command]:\
+\
+ハシュリ市南西から装甲車両の車列が接近中だ。\
+\
+最優先で阻止せよ。\
+\
+JTAC Warrior 1、40.00 FMにコンタクトせよ。\
+\
+Out.\
+ ",
+	["DictKey_19"] = "",
+	["DictKey_WptName_493"] = "",
+	["DictKey_UnitName_136"] = "RU FARP (Otkrytka)",
+	["DictKey_descriptionText_250"] = "峠の西側にいる敵部隊が2個中隊を編成し、東進していることを確認した。\
+\
+友軍は、ハシュリを防衛する地上部隊と接触する前に、敵部隊を阻止する。\
+\
+友軍部隊:\
+-----------------\
+\
+ - Playboy(北西進入)、JTAC、VHF FM 30.000\
+\
+ - Warrior(南西進入)、JTAC、VHF FM 40.000\
+\
+ - Hawg 1-1、A-10C、CAS、VHF AM 124.00\
+ - Hawg 2-1、A-10C、CAS、VHF AM 124.00\
+ - Hawg 3-1、A-10C、CAS、VHF AM 124.00\
+\
+ - Ford 1-1、AH-64D、CAS、VHF AM 124.00\
+\
+ - Pontiac 4-1、CAS、F-16MLU、VHF AM 124.00\
+ - Pontiac 5-1、CAS、F-16MLU、VHF AM 124.00\
+\
+ - Colt 3-1、SEAD、F/A-18A、VHF AM 124.00\
+ - Colt 4-1、SEAD、F/A-18A、VHF AM 124.00\
+\
+ - Arco 1-1、KC-135、空中給油、VHF AM 150.00、TACAN 40X\
+\
+ - Magic 1-1、E-3 AWACS、VHF AM 124.00\
+",
+	["DictKey_UnitName_172"] = "US FARP (London)",
+	["DictKey_26"] = "[Hawg 3-1, Hawg 1-1]:\
+\
+了解。\
+\
+ミッションを継続する。\
+\
+Out.\
+",
+	["DictKey_20"] = "Hawg 2-1、目標への進出準備完了。",
+	["DictKey_36"] = "[Hawg 1-1, Command]:\
+\
+ロシア第2戦車中隊の撃破を確認した。\
+\
+Out.\
+",
+	["DictKey_descriptionRedTask_251"] = "",
+	["DictKey_30"] = "[Hawg 1-1, Colt 3-1]:\
+\
+ホットで進入許可を得た。IPへ進出中だ。\
+\
+SAMシステム排除に数分必要だ。\
+\
+Out.\
+",
+	["DictKey_24"] = "Hawg 3-1、目標への進出準備完了。",
+	["DictKey_22"] = "Hawg 2-1、目標への進出準備完了。",
+	["DictKey_35"] = "[Hawg 1-1, Colt 4-1]:\
+\
+進路は確保した。SAMシステムはすべて無力化した。\
+\
+思う存分叩け。\
+\
+Out.\
+",
+	["DictKey_21"] = "[Hawg 2-1, Hawg 1-1]:\
+\
+了解。\
+\
+ミッションを継続する。\
+\
+Out.",
+	["DictKey_31"] = "[Hawg 1-1, Colt 3-1]:\
+\
+進路は確保した。SAMシステムはすべて無力化した。\
+\
+思う存分叩け。\
+\
+Out.\
+",
+	["DictKey_38"] = "MISSION COMPLETED.\
+------------------------\
+\
+全敵部隊を撃破した。\
+\
+機会目標への攻撃を継続するか、RTBせよ。\
+\
+Out.\
+",
+	["DictKey_18"] = "[Hawg 1-1, Hawg 2-1]:\
+\
+目標への進出準備完了。\
+\
+Out.\
+",
+	["DictKey_WptName_495"] = "",
+} -- end of dictionary

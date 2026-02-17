@@ -1,0 +1,80 @@
+dictionary = 
+{
+	["DictKey_descriptionRedTask_148"] = "",
+	["DictKey_GroupName_206"] = "New Airplane Group",
+	["DictKey_WptName_208"] = "",
+	["DictKey_9"] = "[Boar 2-1, Command]:\
+\
+敵主力戦闘部隊の撃破を確認した。\
+\
+Out.\
+",
+	["DictKey_7"] = "[Boar 2-1, Command]:\
+\
+砲兵目標情報について、JTAC(Firefly 5) FM 65.5MHzにコンタクトせよ。\
+\
+Out.\
+",
+	["DictKey_sortie_150"] = "サンセット・シエラ",
+	["DictKey_UnitName_207"] = "Pilot #001",
+	["DictKey_descriptionText_147"] = "昨夜、ロシア軍はジョージア軍の防衛線を突破し、ゴリ市を掌握した。\
+\
+残存するジョージア軍はカスピ市まで後退し、米国およびNATO部隊と合流して新たな防衛線を構築し、敵の進撃阻止を図っている。\
+\
+カスピ市の西約4NMで進入してくる敵戦車を阻止することには成功したが、ゴリ市郊外のどこかからの砲兵による激しい間接射撃を依然として受けている。\
+",
+	["DictKey_10"] = "MISSION SUCCESS\
+-----------------------\
+\
+見事な戦果だ。本日、敵に甚大な打撃を与えた。\
+\
+RTBを許可する。\
+\
+Out.\
+",
+	["DictKey_8"] = "[Boar 2-1, Command]:\
+\
+敵砲兵中隊の撃破を確認した。\
+\
+副次目標情報について、JTAC(Firefly 5) FM 65.5MHzにコンタクトせよ。\
+\
+Out.\
+",
+	["DictKey_descriptionBlueTask_149"] = "あなたの地上待機チームは、現在カスピ市を防衛中の友軍からのC-IDF要請に対応する任務を受けた。\
+\
+彼らは敵砲兵の可能位置を特定し、ゴリ市の東約5NMに地点を確認した。\
+\
+我がJTAC、コールサインFirefly 5はすでに現地に展開し、あなたの到着を待っている。\
+\
+本地域のレーダー誘導SAMを無力化するため、大規模な統合SEADミッションを編成している。ただし、短距離IR誘導SAMおよびAAAには注意せよ。\
+\
+1) 現地時刻2000に離陸\
+2) WP3付近でJTAC(Firefly 5)にコンタクトし、目標情報を取得\
+3) 敵砲兵陣地を破壊\
+4) 燃料および兵装に余裕があれば、JTAC(Firefly 5)に地域内の他目標を要請\
+5) RTB\
+\
+\
+無線:\
+---------\
+AWACS:           120.0 VHF AM\
+AOEメイン:       134.0 VHF AM\
+自編隊:          303.5 UHF AM\
+JTAC(Firefly 5):  65.5 VHF FM\
+\
+\
+友軍フライト:\
+------------------\
+Darkstar 1:       E-3A AWACS\
+Pontiac 1:     2×Su-25T SEAD\
+Springfield 2: 2×Tornado IDS SEAD\
+Ford 3:        2×F-16C SEAD\
+Enfield 3:     4×F-15C CAP\
+Boar 2:        2×A-10C GCAS(プレイヤー)\
+\
+\
+ブルズアイ:\
+-------------\
+ヴァジアニ空軍基地: 41°37'41\"N 45°01'40\"E\
+",
+} -- end of dictionary

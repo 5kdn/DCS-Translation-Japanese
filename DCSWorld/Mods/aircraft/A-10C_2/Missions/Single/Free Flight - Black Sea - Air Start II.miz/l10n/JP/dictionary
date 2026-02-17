@@ -1,0 +1,11 @@
+dictionary = 
+{
+    ["DictKey_descriptionText_9"] = "黒海地域上空でのフリーフライト。\
+\
+空中開始。",
+    ["DictKey_descriptionRedTask_10"] = "",
+    ["DictKey_sortie_12"] = "黒海地域上空でのフリーフライト(空中開始)",
+    ["DictKey_descriptionBlueTask_11"] = "黒海地域上空でのフリーフライト。\
+\
+空中開始。",
+} -- end of dictionary

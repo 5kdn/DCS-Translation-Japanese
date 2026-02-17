@@ -1,0 +1,141 @@
+dictionary = 
+{
+    ["DictKey_WptName_206"] = "",
+    ["DictKey_UnitName_208"] = "Smoke #008",
+    ["DictKey_WptName_185"] = "",
+    ["DictKey_UnitName_156"] = "Krasnodar Static #026",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_UnitName_135"] = "Krasnodar Static #018",
+    ["DictKey_WptName_194"] = "",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_UnitName_193"] = "Smoke #001",
+    ["DictKey_descriptionText_66"] = "地上目標のグループが、計画されたルート沿いに配置されている。",
+    ["DictKey_UnitName_141"] = "Krasnodar Static #020",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_UnitName_102"] = "Krasnodar Static #005",
+    ["DictKey_UnitName_126"] = "Krasnodar Static #015",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_UnitName_108"] = "Krasnodar Static #009",
+    ["DictKey_WptName_212"] = "",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_UnitName_123"] = "Krasnodar Static #014",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_UnitName_190"] = "Smoke #001",
+    ["DictKey_UnitName_138"] = "Krasnodar Static #019",
+    ["DictKey_ActionText_175"] = "",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_ActionText_181"] = "",
+    ["DictKey_12"] = "MISSION SUCCESS\
+----------------------\
+\
+見事な戦果だ！\
+\
+RTBしてもよいし、任務を継続してもよい。\
+",
+    ["DictKey_UnitName_205"] = "Smoke #006",
+    ["DictKey_WptName_74"] = "",
+    ["DictKey_UnitName_202"] = "Smoke #006",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_UnitName_64"] = "Unit #002",
+    ["DictKey_GroupName_62"] = "Krasnodar AFB Support",
+    ["DictKey_UnitName_171"] = "Krasnodar Static #006",
+    ["DictKey_WptName_197"] = "",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_UnitName_184"] = "",
+    ["DictKey_UnitName_96"] = "Krasnodar Static #003",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_UnitName_99"] = "Krasnodar Static #004",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_UnitName_147"] = "Krasnodar Static #022",
+    ["DictKey_UnitName_187"] = "Smoke #001",
+    ["DictKey_descriptionRedTask_67"] = "",
+    ["DictKey_UnitName_111"] = "Krasnodar Static #010",
+    ["DictKey_UnitName_63"] = "Unit #003",
+    ["DictKey_7"] = "補給トラック2両が前方にいる。町の左手、川の分岐点付近で、距離は9km先だ。\
+\
+目標グループは緑煙でマーキングされている。\
+\
+SUPPLYとラベルされたウェイポイント2が目標位置である。\
+",
+    ["DictKey_UnitName_65"] = "Unit #001",
+    ["DictKey_UnitName_159"] = "Krasnodar Static #027",
+    ["DictKey_UnitName_196"] = "Smoke #001",
+    ["DictKey_UnitName_153"] = "Krasnodar Static #025",
+    ["DictKey_UnitName_162"] = "Krasnodar Static #028",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_UnitName_199"] = "Smoke #001",
+    ["DictKey_UnitName_150"] = "Krasnodar Static #024",
+    ["DictKey_UnitName_132"] = "Krasnodar Static #017",
+    ["DictKey_UnitName_105"] = "Krasnodar Static #007",
+    ["DictKey_UnitName_168"] = "Krasnodar Static #030",
+    ["DictKey_WptName_200"] = "",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_ActionText_179"] = "",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_descriptionBlueTask_68"] = "僚機と連携し、可能な限り多くのユニットを撃破せよ。\
+\
+無線使用について:\
+\
+Easy Communicationsを使用している場合、デフォルトキー\\で通信メニューからすべての友軍と連絡できる。\
+\
+Realistic Communicationsを使用している場合、友軍アセットは以下の周波数を使用する:\
+僚機: UHF 251.000、HOTAS Mic Switch Down、デフォルト: LAlt + Num-\
+JTAC Playboy(有効化時): VHF AM 131.000、HOTAS Mic Switch Forward、デフォルト: LAlt + Num+",
+    ["DictKey_UnitName_165"] = "Krasnodar Static #029",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_UnitName_120"] = "Krasnodar Static #013",
+    ["DictKey_8"] = "トラックの撃破、見事だ！\
+\
+次の目標は、PATROLとラベルされたウェイポイント3にいる、トラック2両と歩兵からなる反乱軍の哨戒部隊だ。\
+\
+目標はレッドスモークでマーキングされている。\
+\
+これを排除せよ。\
+",
+    ["DictKey_UnitName_117"] = "Krasnodar Static #012",
+    ["DictKey_UnitName_144"] = "Krasnodar Static #021",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_sortie_69"] = "Hard - ロシア湖沼地帯 - 春",
+    ["DictKey_ActionText_173"] = "",
+    ["DictKey_UnitName_129"] = "Krasnodar Static #016",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_UnitName_114"] = "Krasnodar Static #011",
+    ["DictKey_ActionText_177"] = "",
+    ["DictKey_WptName_191"] = "",
+    ["DictKey_WptName_188"] = "",
+    ["DictKey_10"] = "橋を破壊したら、TANKSとラベルされたウェイポイント5へ南東進せよ。\
+\
+そこでは、道路交差点に3両の戦車からなるグループが確認できる。\
+\
+目標はホワイトスモークでマーキングされている。\
+\
+注意せよ。AAAおよびIR SAMの両方で防護されている。\
+",
+    ["DictKey_9"] = "その哨戒目標の撃破、よくやった。\
+\
+次は橋の破壊に取り掛かろう。\
+\
+BRIDGEとラベルされたウェイポイント4の橋を破壊せよ。\
+\
+数個のAAAユニットが防御についている。\
+",
+    ["DictKey_UnitName_211"] = "Smoke #008",
+    ["DictKey_11"] = "戦車はすべて撃破したようだ。\
+\
+最終目標は、COLUMNとラベルされたウェイポイント6周辺で、南北方向に道路を移動中の装甲縦隊である。\
+\
+任務指示については、VHF AM 131.00でJTAC Playboyに連絡できる。\
+",
+    ["DictKey_WptName_209"] = "",
+    ["DictKey_WptName_203"] = "",
+    ["DictKey_WptName_154"] = "",
+} -- end of dictionary

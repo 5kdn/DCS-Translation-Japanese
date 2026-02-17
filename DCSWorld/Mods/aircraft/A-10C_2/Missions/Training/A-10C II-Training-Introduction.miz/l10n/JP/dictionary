@@ -1,0 +1,91 @@
+dictionary = 
+{
+	["DictKey_UnitName_59"] = "Batumi-Static-03",
+	["DictKey_UnitName_61"] = "Batumi-Static-04",
+	["DictKey_WptName_95"] = "",
+	["DictKey_UnitName_67"] = "Batumi-Static-07",
+	["DictKey_WptName_122"] = "",
+	["DictKey_WptName_94"] = "",
+	["DictKey_WptName_146"] = "",
+	["DictKey_descriptionText_87"] = "A-10C II タンクキラーの概要。",
+	["DictKey_descriptionRedTask_88"] = "",
+	["DictKey_sortie_90"] = "イントロダクション",
+	["DictKey_WptName_97"] = "",
+	["DictKey_UnitName_73"] = "Batumi-Static-11",
+	["DictKey_11"] = "[操縦翼面に注目しろ]\
+\
+飛行制御は、主翼に装備された大型エルロン、水平尾翼の双発エレベーター、そして垂直尾翼のラダーによって行われる。これらすべての操縦翼面にはバックアップ系統が備えられており、深刻な戦闘損傷を受けた後でもA-10を飛行可能な状態に保つ。\
+\
+飛行制御システムは、油圧および機械式リンケージを組み合わせ、安定性増強装置(SAS)を介して動作する。この設計により、A-10は非常に安定しており、操縦しやすい機体となっている。",
+	["DictKey_UnitName_29"] = "Target-1-01",
+	["DictKey_UnitName_31"] = "Target-1-04",
+	["DictKey_9"] = "[マウス操作で機体の周囲をパンし、ズームイン/ズームアウトしろ]\
+\
+A-10Cは、由緒あるA-10 サンダーボルトII 近接航空支援攻撃機の最新改修型だ。A-10は1970年代から運用されており、過去には退役の試みもあったが、現在でも世界各地の米軍作戦において極めて重要な役割を担っている。もともとはフルダ・ギャップを突破してくるソ連戦車部隊を撃破する任務を想定していたが、今日ではイラクやアフガニスタンにおいて、おそらく最も効果的な兵器の一つとなっている。長時間の滞空能力、大きな兵装搭載量、冗長化されたシステム、そして強力なセンサーにより、ホッグはパイロットと地上部隊の双方から高い評価を受けている。\
+\
+それではA-10Cの主要な特徴を見ていこう。\
+\
+SPACEBARを押せ。",
+	["DictKey_UnitName_86"] = "FARP-2",
+	["DictKey_WptName_100"] = "",
+	["DictKey_WptName_96"] = "",
+	["DictKey_WptName_99"] = "",
+	["DictKey_WptName_104"] = "",
+	["DictKey_UnitName_33"] = "Target-1-05",
+	["DictKey_WptName_135"] = "",
+	["DictKey_10"] = "[主翼にズームしろ]\
+\
+A-10は直線翼を左右に1対備えており、低速域で優れた揚力と運動性を発揮する。ただし、この主翼構成はA-10がやや鈍足である要因にもなっている。主翼には大型の後縁フラップ、11か所の兵装ステーション、そして大容量燃料タンクが備えられている。\
+\
+胴体内にも2基の燃料タンクが収容されているが、機体構造の大部分は巨大なGAU-8A \"Avenger\" 7砲身30mm機関砲を中心に設計されている。2基のエンジンは後部胴体外側上方に搭載されている。",
+	["DictKey_UnitName_25"] = "Target-1-03",
+	["DictKey_WptName_138"] = "",
+	["DictKey_WptName_101"] = "",
+	["DictKey_WptName_102"] = "",
+	["DictKey_UnitName_27"] = "Target-1-02",
+	["DictKey_WptName_92"] = "",
+	["DictKey_8"] = "おはよう、ルーキー。A-10C機種転換訓練課程へようこそ。これから数日間で、空軍保有機の中でも最もタフで、最も凶悪で、そして最も不格好な最新鋭ジェット ― A-10C サンダーボルトII、通称ワートホグ、あるいは単にホッグの操縦と戦闘を教え込む。\
+\
+この短い導入では、A-10の概要を説明し、コックピット内部をざっと確認する。このレッスン中は、いかなる入力操作も行わないこと。休憩が必要な場合は、キーボードのPAUSEキーを押せ。\
+\
+お前の機体はランプで待機している。さあ、始めよう。\
+\
+SPACEBARを押せ。",
+	["DictKey_UnitName_41"] = "Target-2-03",
+	["DictKey_UnitName_63"] = "Batumi-Static-05",
+	["DictKey_WptName_103"] = "",
+	["DictKey_13"] = "A-10Cのコックピット内部を見てみよう。ここはA-10Aから大幅な改修を受けている。コックピットの中心となるのは、2基の5×5インチ多機能カラー表示器(MFCD)だ。HOTAS(Hands On Throttle and Stick)機能を強化するため、F-16由来の新型操縦桿と、F-15E由来の右スロットルハンドルが装備されている。HUD下部に配置されたアップ・フロント・コントローラ(UFC)はデータ入力に使用され、兵装HUDコントロールパネル(AHCP)は旧来の兵装コントロールパネルに代わり、戦闘システムの設定を担う。\
+\
+コックピットは主に4つの領域に分けられる。HUDおよびキャノピーボウ、フロントダッシュ、左コンソール、右コンソールだ。これらの区分は後続ミッションでも使用する。\
+\
+機体全体と同様に、コックピットも戦場での被弾に耐える設計となっている。パイロットと操縦系統は、408kgのチタン製\"バスタブ\"で囲まれており、破片や対空砲火(AAA)から保護されている。",
+	["DictKey_UnitName_37"] = "Target-2-01",
+	["DictKey_UnitName_77"] = "FARP-2 #001",
+	["DictKey_WptName_98"] = "",
+	["DictKey_WptName_93"] = "",
+	["DictKey_UnitName_75"] = "Batumi-Static-12",
+	["DictKey_WptName_140"] = "",
+	["DictKey_WptName_134"] = "",
+	["DictKey_descriptionBlueTask_89"] = "",
+	["DictKey_WptName_121"] = "",
+	["DictKey_14"] = "以上でA-10Cの概要説明を終了する。次のレッスンからは、より詳細に機体を見ていくことになるが、その前にWarthog飛行マニュアルを熟読することが必須だ。しっかり読み込んでおけ。\
+\
+(ESCキーを押して終了する。)",
+	["DictKey_UnitName_65"] = "Batumi-Static-06",
+	["DictKey_WptName_139"] = "",
+	["DictKey_UnitName_43"] = "Target-2-04",
+	["DictKey_WptName_120"] = "",
+	["DictKey_UnitName_71"] = "Batumi-Static-10",
+	["DictKey_UnitName_69"] = "Batumi-Static-08",
+	["DictKey_15"] = "",
+	["DictKey_UnitName_84"] = "UH-1",
+	["DictKey_UnitName_57"] = "Batumi-Static-01",
+	["DictKey_12"] = "[エンジンに注目しろ]\
+\
+2基のTF-34-GE-100Aターボファンエンジンは、後部胴体上部に高く配置されている。これらのエンジンは燃費効率が高く、耐久性にも優れ、大きな損傷にも耐えられる。この独特な配置により、敵の赤外線誘導センサーからエンジンを隠蔽できるほか、異物吸入や戦闘損傷のリスクを低減し、整備性も向上している。\
+\
+A-10には補助動力装置(APU)も装備されており、地上でのエンジン始動や電気系統・油圧系統の作動に使用できる。",
+	["DictKey_UnitName_39"] = "Target-2-02",
+	["DictKey_WptName_105"] = "",
+	["DictKey_UnitName_35"] = "Target-1-06",
+} -- end of dictionary

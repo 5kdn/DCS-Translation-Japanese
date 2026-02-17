@@ -1,0 +1,19 @@
+dictionary = 
+{
+    ["DictKey_7"] = "東側部隊を撃破した。",
+    ["DictKey_descriptionText_28"] = "軽防御の2個目標部隊を相手に、兵装使用を訓練するための非常にシンプルで短時間のミッションである。",
+    ["DictKey_6"] = "西側部隊を撃破した。",
+    ["DictKey_descriptionBlueTask_30"] = "両方の目標部隊を破壊せよ。",
+    ["DictKey_sortie_31"] = "格好の標的",
+    ["DictKey_9"] = "MISSION SUCCESS\
+-----------------------\
+\
+全目標を撃破した。\
+\
+RTBを許可する。\
+\
+Out.\
+",
+    ["DictKey_8"] = "ZSU-23-4 Shilkaを撃破した。",
+    ["DictKey_descriptionRedTask_29"] = "",
+} -- end of dictionary

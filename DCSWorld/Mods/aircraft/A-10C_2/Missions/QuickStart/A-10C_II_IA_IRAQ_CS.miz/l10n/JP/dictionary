@@ -1,0 +1,11 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "北イラク: コールド＆ダークスタート",
+	["DictKey_descriptionText_1"] = "2012年頃のイラク、アル・アサド空軍基地へようこそ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは第357戦闘飛行隊所属A-10Cの2機編隊のフライトリード、HAWG 3-1である。本日の任務は、イラク西部砂漠上空における\"Dawn Patrol\"だ。ウェイポイント2および3付近には放棄された車両が複数存在する。敵性脅威は想定されていない。フライトプランに従ってもよいし、自由に探索してもよい。",
+	["DictKey_ActionText_6"] = "アル・アサド空軍基地へようこそ。天候は晴朗、微風だ。脅威は存在しない。ウェイポイント2および3付近の固定演習目標を攻撃してよい。\
+\
+エンジン始動を許可する。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

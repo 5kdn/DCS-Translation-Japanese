@@ -1,0 +1,133 @@
+dictionary = 
+{
+	["DictKey_UnitName_124"] = "US YANKY CAMP #005",
+	["DictKey_WptName_143"] = "",
+	["DictKey_WptName_144"] = "",
+	["DictKey_WptName_153"] = "",
+	["DictKey_descriptionRedTask_136"] = "",
+	["DictKey_WptName_146"] = "",
+	["DictKey_UnitName_110"] = "US YANKY SOUTH CAMP #001",
+	["DictKey_WptName_151"] = "",
+	["DictKey_WptName_142"] = "",
+	["DictKey_descriptionText_135"] = "Yankee Baseはツヒンバリ市北方一帯を監視し、火力誘導を行うために設置された。\
+\
+周辺地域では反政府武装勢力の集結が確認されており、攻撃が予想される。\
+\
+オンステーション後、無線メニューのOtherからBoar 2へ連絡せよ。\
+\
+フライトUHF: 251.00。\
+\
+\
+友軍部隊:\
+------------------\
+ - Boar 2-1、A-10C、CAS、VHF AM 124.00\
+\
+\
+空中給油:\
+-----------\
+ - Arco 1-1、KC-135 Tanker、VHF AM 150.00MHz、TACAN 40X。\
+\
+\
+JTAC\
+--------\
+ - Darknight 1(Yankee North Base)、VHF FM 30.000\
+ - Darknight 2(Yankee South Base)、VHF FM 30.000\
+",
+	["DictKey_UnitName_128"] = "US YANKY CAMP #007",
+	["DictKey_sortie_138"] = "キャンプ・ヤンキー防衛",
+	["DictKey_WptName_145"] = "",
+	["DictKey_descriptionBlueTask_137"] = "Yankee Base付近まで飛行し、周回待機して任務付与に備えよ。",
+	["DictKey_UnitName_108"] = "US YANKY NORTH CAMP #001",
+	["DictKey_UnitName_126"] = "US YANKY CAMP #006",
+	["DictKey_17"] = "[Boar 1-1-, Yankee base]:\
+\
+北前哨基地の東で前進する敵歩兵を確認。\
+\
+北前哨基地はレッドスモークでマーキングしている。\
+\
+Out.\
+",
+	["DictKey_18"] = "[Boar 1-1, Yankee base]:\
+\
+南前哨地で迫撃砲の着弾を受けている。\
+\
+射点はこちらから西約5.7kmだ。\
+\
+攻撃せよ。\
+\
+Out.\
+",
+	["DictKey_WptName_148"] = "",
+	["DictKey_13"] = "Boar 1、こちらBoar 2。オンステーション、任務付与に対応可能だ。",
+	["DictKey_UnitName_132"] = "US YANKY CAMP #009",
+	["DictKey_UnitName_122"] = "US YANKY CAMP #004",
+	["DictKey_UnitName_120"] = "US YANKY SOUTH CAMP #002",
+	["DictKey_WptName_150"] = "",
+	["DictKey_UnitName_112"] = "US YANKY CAMP #001",
+	["DictKey_WptName_140"] = "",
+	["DictKey_WptName_149"] = "",
+	["DictKey_WptName_152"] = "",
+	["DictKey_UnitName_116"] = "US YANKY NORTH CAMP #002",
+	["DictKey_14"] = "[Boar 1-1, Boar 2-1]\
+\
+IPへ進入中だ。\
+\
+Out.\
+",
+	["DictKey_16"] = "[Boar 1-1, Yankee base]:\
+\
+こちらの位置から北東約4.5kmで迫撃砲射撃を探知した。\
+\
+位置を特定し、撃破せよ。\
+\
+Out.\
+",
+	["DictKey_WptName_141"] = "",
+	["DictKey_UnitName_114"] = "US YANKY CAMP #002",
+	["DictKey_20"] = "[Boar 1-1, Yankee Base]:\
+\
+こちらの北約900mから新たな敵が前進中だ。\
+\
+攻撃せよ。\
+\
+Out.\
+",
+	["DictKey_WptName_147"] = "",
+	["DictKey_21"] = "SUCCESS\
+----------------------\
+\
+[Boar 1-1, Yankee Base]:\
+\
+全目標を排除したようだ。\
+\
+ここからはこちらで対処する。\
+\
+支援に感謝する！\
+",
+	["DictKey_15"] = "[Boar 1-1, Yankee base]:\
+\
+こちらの位置はグリーンスモークでマーキングしている。\
+\
+500m以内への射撃は回避せよ。\
+\
+Out.\
+",
+	["DictKey_UnitName_134"] = "US YANKY CAMP #010",
+	["DictKey_19"] = "[Boar 1-1, Yankee Base]:\
+\
+南前哨基地の南、約600mの森林線から前進する敵を確認。\
+\
+南前哨基地はホワイトスモークでマーキングしている。\
+\
+Out.\
+",
+	["DictKey_12"] = "[Boar 1-1, Boar 2-1]:\
+\
+オンステーション、任務付与に対応可能だ。\
+\
+Out.\
+",
+	["DictKey_11"] = "Boar 1、こちらBoar 2。オンステーション、任務付与に対応可能だ。",
+	["DictKey_UnitName_130"] = "US YANKY CAMP #008",
+	["DictKey_UnitName_118"] = "US YANKY CAMP #003",
+} -- end of dictionary

@@ -1,0 +1,96 @@
+dictionary = 
+{
+	["DictKey_6"] = "[Tusk 3-1, Command]:\
+\
+すべての副次敵部隊の撃破を確認した。\
+\
+Out.\
+",
+	["DictKey_WptName_266"] = "",
+	["DictKey_5"] = "[Tusk 3-1, Command]:\
+\
+すべての主要敵部隊の撃破を確認した。\
+\
+Out.\
+",
+	["DictKey_WptName_265"] = "",
+	["DictKey_WptName_252"] = "",
+	["DictKey_WptName_253"] = "",
+	["DictKey_GroupName_263"] = "US Soldier",
+	["DictKey_WptName_255"] = "",
+	["DictKey_UnitName_179"] = "Geo Watch Tower #000",
+	["DictKey_WptName_260"] = "",
+	["DictKey_descriptionBlueTask_190"] = "あなたはA-10Cの2機編隊、コールサインTusk 3を率い、CASミッションに従事する。\
+\
+ジョージア空軍は可能な限り多くのSAMを排除するためSEADフライトを投入しているが、セクター全域から脅威を排除するには不十分と見られる。\
+\
+そのため、RWR表示に応じて、攻撃時は低高度/超低高度を維持せよ。\
+\
+本夜間、AFACコールサインDodge 2が作戦地域で活動している。目標情報取得のため、VHF AM 140.0MHzでコンタクトせよ。\
+\
+ジョージア軍とロシア軍は、装甲や車両の大半が同一系統である点に留意せよ。AFACの確認なしに、いかなる目標も攻撃してはならない。\
+\
+本地域では今夜、AWACS、空中給油機、航空掩護は利用できない。\
+\
+1. 現地時刻0130に離陸\
+2. WP4接近時にDodge 2へコンタクト\
+3. Dodge 2から目標情報を取得\
+4. 指定目標を破壊\
+5. RTB\
+\
+無線:\
+\
+AOEメイン: 135.0 VHF AM\
+Dodge 2: 140.0 VHF AM\
+自編隊: 305.5 UHF AM\
+\
+\
+友軍フライト:\
+------------------\
+Pontiac 5: 2×Su-25T   SEAD\
+Dodge 2:   2×F-16C    AFAC\
+Tusk 3:    2×A-10C II CAS(プレイヤー)\
+\
+\
+ブルズアイ:\
+ヴァジアニ空軍基地\
+41°37'41\"N 45°01'40\"E\
+",
+	["DictKey_UnitName_181"] = "Geo Watch Tower #001",
+	["DictKey_UnitName_264"] = "Unit #001",
+	["DictKey_UnitName_183"] = "Geo Watch Tower #002",
+	["DictKey_7"] = "MISSION SUCCESS\
+-----------------------\
+\
+割り当てられたすべての敵目標の撃破を確認した。\
+\
+よくやった！！！\
+\
+RTB。\
+\
+Out.\
+",
+	["DictKey_WptName_254"] = "",
+	["DictKey_WptName_270"] = "",
+	["DictKey_WptName_261"] = "",
+	["DictKey_UnitName_187"] = "Geo Watch Tower #004",
+	["DictKey_UnitName_185"] = "Geo Watch Tower #003",
+	["DictKey_descriptionRedTask_189"] = "",
+	["DictKey_WptName_251"] = "",
+	["DictKey_UnitName_268"] = "Pilot #001",
+	["DictKey_WptName_269"] = "",
+	["DictKey_GroupName_267"] = "New Airplane Group",
+	["DictKey_sortie_191"] = "ミッドナイト・トレイン・トゥ・ジョージア",
+	["DictKey_descriptionText_188"] = "コーカサス地域を巡る緊張は、これまで常に高い水準にあった。\
+\
+しかし新ロシア政権は、過激かつ極めて単純な解決策を選択した。ジョージアを皮切りに、この地域全体の独立国家を武力で支配下に置くというものだ。\
+\
+ロシア指導部は、この行動が受け入れられないことを承知していたため、先制的かつ予測不能な攻撃こそが目的達成の最善手段であると判断した。\
+\
+諜報機関はこの全面侵攻の下地を整えた。ジョージアの軍事インフラは潜入工作により深刻な損害を受け、軍事資産の50%以上が使用不能となった。\
+\
+ロシア機械化旅団の一つは南オセチア経由で投入され、ゴリ市および周辺地域への攻撃を開始し、事実上ジョージアを二分した。\
+\
+現在ジョージア国内に展開している米国およびNATO部隊は、保有するあらゆる戦力を用いて、ジョージアの国境防衛を支援している。\
+",
+} -- end of dictionary

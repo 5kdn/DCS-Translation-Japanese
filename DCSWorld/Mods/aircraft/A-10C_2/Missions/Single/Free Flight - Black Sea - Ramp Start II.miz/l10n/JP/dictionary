@@ -1,0 +1,15 @@
+dictionary = 
+{
+    ["DictKey_UnitName_18"] = "New Static Object #001",
+    ["DictKey_descriptionRedTask_20"] = "",
+    ["DictKey_descriptionBlueTask_21"] = "黒海地域上空でのフリーフライト。\
+\
+ランプ開始。",
+    ["DictKey_sortie_22"] = "黒海地域上空でのフリーフライト(空中開始)",
+    ["DictKey_UnitName_16"] = "New Static Object",
+    ["DictKey_WptName_31"] = "",
+    ["DictKey_WptName_30"] = "",
+    ["DictKey_descriptionText_19"] = "黒海地域上空でのフリーフライト。\
+\
+ランプ開始。",
+} -- end of dictionary

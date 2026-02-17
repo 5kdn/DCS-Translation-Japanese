@@ -1,0 +1,178 @@
+dictionary = 
+{
+    ["DictKey_WptName_227"] = "",
+    ["DictKey_UnitName_156"] = "Kobuleti FOB Static #009",
+    ["DictKey_WptName_196"] = "",
+    ["DictKey_UnitName_135"] = "Kobuleti FOB Static #002",
+    ["DictKey_UnitName_150"] = "Kobuleti FOB Static #007",
+    ["DictKey_UnitName_62"] = "Unit #002",
+    ["DictKey_UnitName_226"] = "Smoke #001",
+    ["DictKey_WptName_127"] = "",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_UnitName_232"] = "Smoke #001",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_10"] = "橋を破壊したら、TANKSとラベルされたウェイポイント5へ南東進せよ。\
+\
+そこでは、道路交差点に3両の戦車からなるグループが確認できる。\
+\
+目標はホワイトスモークでマーキングされている。\
+\
+注意せよ。AAAおよびIR SAMの両方で防護されている。\
+",
+    ["DictKey_UnitName_192"] = "Kobuleti Static #026",
+    ["DictKey_WptName_205"] = "",
+    ["DictKey_UnitName_102"] = "Kobuleti Static #030",
+    ["DictKey_WptName_124"] = "",
+    ["DictKey_UnitName_108"] = "Kobuleti Static #002",
+    ["DictKey_UnitName_207"] = "Kobuleti Static #012",
+    ["DictKey_UnitName_238"] = "Smoke #001",
+    ["DictKey_UnitName_123"] = "Kobuleti Static #008",
+    ["DictKey_WptName_181"] = "",
+    ["DictKey_WptName_211"] = "",
+    ["DictKey_UnitName_235"] = "Smoke #001",
+    ["DictKey_WptName_166"] = "",
+    ["DictKey_UnitName_168"] = "Kobuleti Static #018",
+    ["DictKey_descriptionBlueTask_66"] = "僚機と連携し、可能な限り多くのユニットを撃破せよ。\
+\
+無線使用について:\
+\
+Easy Communicationsを使用している場合、デフォルトキー\\で通信メニューからすべての友軍と連絡できる。\
+\
+Realistic Communicationsを使用している場合、友軍アセットは以下の周波数を使用する:\
+僚機: UHF 251.000、HOTAS Mic Switch Down、デフォルト: LAlt + Num-\
+JTAC Playboy(有効化時): VHF AM 131.000、HOTAS Mic Switch Forward、デフォルト: LAlt + Num+",
+    ["DictKey_WptName_136"] = "",
+    ["DictKey_12"] = "MISSION SUCCESS\
+----------------------\
+\
+見事な戦果だ！\
+\
+RTBしてもよいし、任務を継続してもよい。\
+",
+    ["DictKey_GroupName_143"] = "Kobuleti FOB Static #005",
+    ["DictKey_GroupName_155"] = "Kobuleti FOB Static #009",
+    ["DictKey_UnitName_61"] = "Unit #003",
+    ["DictKey_WptName_187"] = "",
+    ["DictKey_UnitName_171"] = "Kobuleti Static #019",
+    ["DictKey_UnitName_223"] = "",
+    ["DictKey_GroupName_146"] = "Kobuleti FOB Static #006",
+    ["DictKey_WptName_172"] = "",
+    ["DictKey_WptName_151"] = "",
+    ["DictKey_UnitName_99"] = "Kobuleti Static #029",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_WptName_233"] = "",
+    ["DictKey_WptName_190"] = "",
+    ["DictKey_UnitName_111"] = "Kobuleti Static #003",
+    ["DictKey_7"] = "補給トラック2両が前方にいる。町の左手、川の分岐点付近で、距離は9km先だ。\
+\
+目標グループはグリーンスモークでマーキングされている。\
+\
+SUPPLYとラベルされたウェイポイント2が目標位置である。\
+",
+    ["DictKey_UnitName_159"] = "Kobuleti Static #013",
+    ["DictKey_ActionText_212"] = "",
+    ["DictKey_UnitName_162"] = "Kobuleti Static #014",
+    ["DictKey_UnitName_153"] = "Kobuleti FOB Static #008",
+    ["DictKey_GroupName_53"] = "AAA 4",
+    ["DictKey_UnitName_105"] = "Kobuleti Static #001",
+    ["DictKey_UnitName_189"] = "Kobuleti Static #025",
+    ["DictKey_descriptionText_64"] = "地上目標のグループが、計画されたルート沿いに配置されている。",
+    ["DictKey_WptName_130"] = "",
+    ["DictKey_UnitName_180"] = "Kobuleti Static #022",
+    ["DictKey_UnitName_117"] = "Kobuleti Static #005",
+    ["DictKey_ActionText_218"] = "",
+    ["DictKey_UnitName_114"] = "Kobuleti Static #004",
+    ["DictKey_UnitName_186"] = "Kobuleti Static #024",
+    ["DictKey_11"] = "戦車はすべて撃破したようだ。\
+\
+最終目標は、COLUMNとラベルされたウェイポイント6周辺で、南北方向に道路を移動中の装甲縦隊である。\
+\
+任務指示については、VHF AM 131.00でJTAC Playboyに連絡できる。\
+",
+    ["DictKey_UnitName_201"] = "Kobuleti Static #006",
+    ["DictKey_WptName_154"] = "",
+    ["DictKey_WptName_175"] = "",
+    ["DictKey_WptName_94"] = "",
+    ["DictKey_ActionText_214"] = "",
+    ["DictKey_GroupName_152"] = "Kobuleti FOB Static #008",
+    ["DictKey_WptName_97"] = "",
+    ["DictKey_GroupName_131"] = "Kobuleti FOB Static #001",
+    ["DictKey_UnitName_198"] = "Kobuleti Static #031",
+    ["DictKey_UnitName_141"] = "Kobuleti FOB Static #004",
+    ["DictKey_WptName_239"] = "",
+    ["DictKey_GroupName_60"] = "Kobuleti AFB Support",
+    ["DictKey_UnitName_210"] = "Kobuleti Static #015",
+    ["DictKey_WptName_115"] = "",
+    ["DictKey_sortie_67"] = "ミディアム - 西ジョージア - 冬",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_WptName_160"] = "",
+    ["DictKey_WptName_163"] = "",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_UnitName_54"] = "Unit #28",
+    ["DictKey_WptName_208"] = "",
+    ["DictKey_UnitName_195"] = "Kobuleti Static #027",
+    ["DictKey_UnitName_165"] = "Kobuleti Static #017",
+    ["DictKey_WptName_242"] = "",
+    ["DictKey_descriptionRedTask_65"] = "",
+    ["DictKey_GroupName_134"] = "Kobuleti FOB Static #002",
+    ["DictKey_WptName_230"] = "",
+    ["DictKey_WptName_72"] = "",
+    ["DictKey_WptName_193"] = "",
+    ["DictKey_UnitName_147"] = "Kobuleti FOB Static #006",
+    ["DictKey_9"] = "哨戒任務、よくやった。\
+\
+次は橋の破壊に取り掛かろう。\
+\
+BRIDGEとラベルされたウェイポイント4の橋を破壊せよ。\
+\
+数個のAAAユニットが防御についている。\
+",
+    ["DictKey_GroupName_140"] = "Kobuleti FOB Static #004",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_WptName_103"] = "",
+    ["DictKey_WptName_184"] = "",
+    ["DictKey_UnitName_204"] = "Kobuleti Static #011",
+    ["DictKey_ActionText_220"] = "",
+    ["DictKey_WptName_178"] = "",
+    ["DictKey_WptName_121"] = "",
+    ["DictKey_WptName_92"] = "",
+    ["DictKey_UnitName_126"] = "Kobuleti Static #009",
+    ["DictKey_WptName_133"] = "",
+    ["DictKey_WptName_224"] = "",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_GroupName_137"] = "Kobuleti FOB Static #003",
+    ["DictKey_UnitName_144"] = "Kobuleti FOB Static #005",
+    ["DictKey_UnitName_63"] = "Unit #001",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_ActionText_216"] = "",
+    ["DictKey_UnitName_132"] = "Kobuleti FOB Static #001",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_UnitName_120"] = "Kobuleti Static #007",
+    ["DictKey_8"] = "トラックの撃破、見事だ！\
+\
+次の目標は、PATROLとラベルされたウェイポイント3にいる、トラック2両と歩兵からなる反乱軍の哨戒部隊だ。\
+\
+目標はレッドスモークでマーキングされている。\
+\
+これを排除せよ。\
+",
+    ["DictKey_UnitName_174"] = "Kobuleti Static #020",
+    ["DictKey_UnitName_177"] = "Kobuleti Static #021",
+    ["DictKey_WptName_169"] = "",
+    ["DictKey_WptName_118"] = "",
+    ["DictKey_WptName_199"] = "",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_UnitName_129"] = "Kobuleti Static #010",
+    ["DictKey_WptName_139"] = "",
+    ["DictKey_UnitName_138"] = "Kobuleti FOB Static #003",
+    ["DictKey_UnitName_244"] = "Smoke #001",
+    ["DictKey_WptName_157"] = "",
+    ["DictKey_UnitName_96"] = "Kobuleti Static #028",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_UnitName_183"] = "Kobuleti Static #023",
+    ["DictKey_UnitName_241"] = "Smoke #001",
+    ["DictKey_UnitName_229"] = "Smoke #001",
+    ["DictKey_GroupName_149"] = "Kobuleti FOB Static #007",
+    ["DictKey_WptName_202"] = "",
+    ["DictKey_WptName_236"] = "",
+} -- end of dictionary

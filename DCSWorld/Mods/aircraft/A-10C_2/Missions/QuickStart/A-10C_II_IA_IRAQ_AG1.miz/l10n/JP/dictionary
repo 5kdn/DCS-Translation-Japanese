@@ -1,0 +1,22 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "北イラク: 近接航空支援",
+	["DictKey_descriptionText_1"] = "2012年頃のイラクへようこそ。\
+\
+反乱分子と接触中の米軍パトロールに対し、CASを提供せよ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたはHAWG 6-1。オンコールCASを実施中である。チグリス川西岸を行動中の米軍パトロール、WHIPLASHが任務対象だ。WHIPLASHは、川の東側に位置する森林地帯および放棄された建物に潜む反乱分子の一団と接触した。反乱分子は、付近の橋を渡河する米軍パトロールに対して攻撃可能な位置を占めている。WHIPLASHパトロールには、CAS管制のためJTACが同行している。\
+\
+あなたの兵装は、M151 HEを4ポッド(48発)、2 x GBU-12、1 x pod (7 rockets) M156 Smoke、および機関砲弾1,150発である。状況を考慮すると、使用可能な兵装は機関砲に限定される可能性が高い。\
+\
+通信:\
+戦術 - WHIPLASH(131.50MHz)\
+ATC - アル・アサド・タワー(118.20MHz)",
+	["DictKey_ActionText_9"] = "反乱分子は無力化された。",
+	["DictKey_ActionText_6"] = "現在、Active Pause中だ。\
+\
+戦闘に備え、各システムの設定を行え。\
+\
+準備ができたら、SPACEBARを押して開始せよ。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

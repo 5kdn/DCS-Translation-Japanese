@@ -1,0 +1,9 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "コラ半島: フリーフライト",
+    ["DictKey_descriptionText_1"] = "ノルウェー、ヌールラン県へようこそ。",
+    ["DictKey_descriptionBlueTask_3"] = "あなたはA-10C TUSK 1-1だ。本日の任務は、ノルウェー北西部沿岸上空における中高度での慣熟飛行を実施することである。",
+    ["DictKey_ActionText_7"] = "ノルウェー、ヌールラン県へようこそ。脅威は存在しない。フライトプランに従ってもよいし、自由に探索してもよい。",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

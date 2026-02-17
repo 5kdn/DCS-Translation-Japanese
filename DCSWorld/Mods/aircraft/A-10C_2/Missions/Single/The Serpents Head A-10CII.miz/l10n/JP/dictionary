@@ -1,0 +1,200 @@
+dictionary = 
+{
+    ["DictKey_34"] = "MISSION COMPLETED.\
+-------------------------\
+\
+MCC要員の排除を確認した。\
+\
+よくやった、Hawg 1。本日の任務は以上だ。\
+\
+RTBを許可する。\
+\
+Out.\
+",
+    ["DictKey_descriptionText_108"] = "The Serpent's Head - \
+\
+Given the current escalation of political tensions, along with increasingly bold skirmishes initiated by South Ossetian Separatists, it has become obvious the current US training forces in Georgia will become embroiled in the regions ethno-political conflict soon. \
+\
+Recent Intelligence has made it increasingly clear that South Ossetian forces are being bolstered by \"Volunteers\" and heavy equipment. \
+\
+These are thought to be arriving in the region by the Trans-Caucasus Highway and the strategic Roki Tunnel. \
+\
+It is understood that Russia has, at best, been turning a blind eye to the activities of training camps, operating within Russian Territory, assisting these \"Volunteers\".\
+\
+The influx of Military equipment is also a worrying development as it suggests active Russian involvement in destabilising the region.\
+\
+The current assessment of the situation is that Russia wants to keep Georgia on the back foot, rather that engaging in another full scale mobilisation, for now.\
+\
+However it is felt that the current influx of Hardware and Personnel to South Ossetia must be stemmed. \
+\
+To this end it has been decided to try to eliminate the Commander of the South Ossetia Forces, codenamed \"Cobra\", who is believed to be in Russia at one of these training camps.\
+\
+ The camp is to the South West of Vladikavkaz, the capital of North Ossetia\
+",
+    ["DictKey_28"] = "[Hawg 1 - Outlaw 6]:\
+\
+\"Eyeball 1\" confirms target hit, \
+\
+Standby ...\
+",
+    ["DictKey_23"] = "[Hawg 1 - Outlaw 6]:\
+\
+Looks like we've stirred up a hornets nest.\
+\
+Multiple vehicles scattering from the compound just hit.\
+\
+Standby ... \
+",
+    ["DictKey_UnitName_68"] = "INS HQ",
+    ["DictKey_29"] = "[Hawg 1 - Outlaw 6]:\
+\
+よくやった。\
+\
+目標Cobraの排除を確認した。\
+\
+再タスキングに備えて待機せよ……\
+",
+    ["DictKey_33"] = "Mission Failed\
+--------------------\
+\
+The MCC personnel where successfully evacuated to Mozdok by Helicopter.\
+\
+You should probably RTB.\
+\
+Out.\
+",
+    ["DictKey_32"] = "[Hawg 1 - Outlaw 6]:\
+\
+Intel recieved suggests a GCI flight from Mineralnye Vody departing SOUTH-EAST.\
+\
+ETA to your area is 5 mins.\
+\
+F-16s [SpringField 1] is scrambling from Kopitnari to provide cover.\
+\
+Out.\
+",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_WptName_245"] = "",
+    ["DictKey_27"] = "[Hawg 1 - Outlaw 6]:\
+\
+\"Eyeball 1\"は、\"Cobra\"が停止しており、依然としてウラジカフカス市東部にいることを確認した。\
+\
+\"Eyeball 1\"がグリーンスモークでマーキングする。\
+\
+巻き添え被害を最小限に抑えるため、AGM-65で攻撃せよ。\
+\
+Out.\
+",
+    ["DictKey_UnitName_70"] = "INS Ammo Dump",
+    ["DictKey_descriptionRedTask_109"] = "To Survive",
+    ["DictKey_UnitName_66"] = "INS HQ Road Block",
+    ["DictKey_sortie_111"] = "The Serpents Head  (A-10CII)",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_20"] = "[Hawg 1 - Outlaw 6]:\
+\
+It looks like this weather is here to stay.\
+\
+If the hurried nature of this flight wasn’t bad enough, you will be crossing the Caucasus Peaks blind.\
+\
+Ascend above the cloud before WP3 and descend back into the Valley at WP4 to avoid alerting Russian GCI. \
+\
+BE PRECISE! \
+\
+MANPADS are known to be active in the area, but intelligence suggests the Valley after WP4 is clear.\
+\
+It is advised that you remain below (300m) and follow the valley to target.\
+\
+Out.\
+",
+    ["DictKey_24"] = "[Hawg 1 - Outlaw 6]:\
+\
+FAC \"Eyeball 1\" has target \"Cobra\" sighted entering a vehicle and fleeing the area. \
+\
+\"Eyeball 1\" is attempting to pursue target.\
+\
+Prepare for new targetting.\
+",
+    ["DictKey_22"] = "[Hawg 1 - Outlaw 6]:\
+\
+Good hits on target.\
+\
+Standby ...\
+",
+    ["DictKey_26"] = "[Hawg 1 - Outlaw 6]:\
+\
+\"Eyeball 1\" reports \"Cobra\" is crossing the Southern most bridge into the Eastern region of Vladikavkaz.\
+\
+Pursuit of the target is being maintained and RED smoke will be dropped on the bridge as a reference, when it is reached by \"Eyeball 1\".\
+\
+Out.\
+",
+    ["DictKey_21"] = "[Hawg 1 - Outlaw 6]:\
+\
+Begin Ingress to target.\
+\
+Target \"Cobra\" is believed to be in the compound at the crossroads to the West of Vladkavkaz.\
+\
+FAC, callsign \"Eyeball 1\" has marked target with RED Smoke and requests a precision GBU-10 attack.\
+\
+\"Eyeball 1\" informs that MANPADS are thought to be in the area of the compound, be careful Hawg 1. \
+\
+Out.\
+",
+    ["DictKey_31"] = "[Hawg 1 - Outlaw 6]:\
+\
+The Mobile Command Centre personnel has been evacuated by helicopter NORTH of Gizel.\
+\
+Engage the Helo before it escapes.\
+ \
+\"Springfield 1\" will assist if possible.\
+\
+The EVAC Helo is travelling NORTH, we estimate the destination to be Mozdok Airfield. \
+\
+Out.\
+",
+    ["DictKey_30"] = "[Hawg 1 - Outlaw 6]:\
+\
+Intel received suggests the Mobile Command Centre, present at the compound when first attacked, is now headed for the town of Gizel, West of Vladkavkaz.\
+\
+It is vital the MCC doesn't make it's rendezvous to the NORTH of Gizel. \
+\
+Contact \"Eyeball 1\"  for targeting.\
+\
+Out.\
+",
+    ["DictKey_25"] = "[Hawg 1 - Outlaw 6]:\
+\
+Contact FAC \"Eyeball 1\" on 131 mhz for targeting information\
+\
+Out.\
+",
+    ["DictKey_descriptionBlueTask_110"] = "Chop off the Serpent's Head\
+----------------------------------------\
+The plan of attack is to:\
+ - Insert a small Special Ops team to the region where intelligence suggests the commander is located.\
+\
+ - The Spec Ops will observe the target and direct the attack from the ground.\
+\
+The plan calls for the elimination of target \"Cobra\"\
+---------------------------------------------------------------------\
+ - with a Low Level flight through the Caucuses Mountain valleys\
+\
+ - a precision strike directed onto target by Spec Ops \"Eyeball 1\".\
+\
+With the limited resources at hand for the US - Georgian training program, it has been decided that the A-10c stationed at Vazlani will perform the attack.\
+\
+ - The mission will be coordinated by \"Outlaw 6\" in Vazlani\
+\
+ - You will take off from Vazlani and traverse the Caucuses Mountain\
+\
+ - Engage the training camp where \"Cobra\" is located\
+\
+The camp is to the South West of Vladikavkaz, the capital of North Ossetia.\
+\
+ - You will be contacted by \"Outlaw 6\" or \"Eyeball 1\" as you approach the area.\
+\
+ - You will attack and remain in the area while \"Eyeball 1\" conducts a Battle Damage Assessment.\
+\
+ - \"Outlaw 6\" will then assess if further action is required.\
+",
+} -- end of dictionary

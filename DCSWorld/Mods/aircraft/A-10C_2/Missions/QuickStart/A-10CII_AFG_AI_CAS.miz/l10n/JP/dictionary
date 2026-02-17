@@ -1,0 +1,30 @@
+dictionary = 
+{
+    ["DictKey_descriptionBlueTask_3"] = "あなたはTUSK 6-1。カンダハール空軍基地に展開中のA-10Cである。本日はタリンコート飛行場周辺キルボックスにおけるオンコールCASを担当する。兵装は4 × MK-82 LD、14発のM151ロケット、HEI機関砲弾1,150発を搭載している。\
+\
+情報部は、タリンコート飛行場に対する反乱分子の迫撃砲攻撃に関する通信を傍受した。同飛行場は本日、米軍ヘリコプターに加え、USMCのF/A-18C飛行隊分遣隊および支援のKC-130が展開しており、特に混雑している。\
+\
+MQ-1A プレデターUAVがタリンコート南方を周回し、反乱分子の迫撃砲チームを捜索中だ。\
+\
+戦術:\
+FACはUAVのため、マークやレーザー照準は提供されない。目標位置はデータリンクで送信され、TAD上にSTRPT 2 TGTS付近の小さな三角形として表示される。この位置をTGPへ引き渡し、SPIへ変換する手順を把握しておけ。\
+\
+通信(ARC-210):\
+FAC\
+    - COLT 1-1 - CH 1(133.00MHz)\
+\
+ATC:\
+カンダハール・タワー - CH 2(125.50MHz)\
+タリンコート飛行場 - CH 3(128.00MHz; 緊急ダイバート)",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "アフガニスタン: 空対地",
+    ["DictKey_descriptionText_1"] = "カンダハール北方でオンコールCASを実施せよ。",
+    ["DictKey_ActionText_11"] = "反乱分子の位置を特定した。FAC指示のため、COLT 1-1とチェックインせよ。",
+    ["DictKey_ActionText_8"] = "オンコールCAS: 現在、Active Pause中だ。\
+\
+CAS任務を支援するため、MFDおよびHUDを任意に設定せよ。\
+\
+飛行を開始し、行動を開始する準備ができたら、SPACEBARを押せ。",
+    ["DictKey_ActionText_6"] = "RRFは6分後に到着予定だ。",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

@@ -1,0 +1,13 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "北イラク: VFR着陸",
+	["DictKey_descriptionText_1"] = "2012年頃のイラク、カイワン空軍基地に着陸せよ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたはHAWG 5-1。第357戦闘飛行隊所属のA-10Cである。本日はカイワン空軍基地への着陸が予定されている。開始位置は基地から約7NM、3,500ft MSL、210kt、クリーン・コンフィグレーションだ。現在、Active Pause中である。\
+\
+コックピット/アビオニクス設定を任意に行え。",
+	["DictKey_ActionText_6"] = "イラクへようこそ。現在、Active Pause中だ。\
+\
+進入を開始する準備ができたら、SPACEBARを押して続行せよ。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

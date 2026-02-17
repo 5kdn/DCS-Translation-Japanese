@@ -1,0 +1,102 @@
+dictionary = 
+{
+    ["DictKey_18"] = "[Tusk, Mule]:\
+\
+前方の町をよく確認し、脅威があれば排除してくれ。\
+\
+出発タイミングは無線で指示してくれ。\
+\
+こちらはここで待機する。\
+\
+Out.\
+",
+    ["DictKey_descriptionText_134"] = "ドゥシェティ市(42-5-2N 44-41-24E)に展開する友軍は補給を必要としている。\
+\
+JTAC(Moonbeam): VHF FM 30.000\
+\
+JTAC Predator(Pontiac): VHF FM 40.000\
+\
+補給車列\"Mule\"は、あなたが出発を命令してからムツヘタ市を出発する(無線メニュー\"Other\"リスト)。\
+\
+注: JTACが「これ以上のタスキングなし、離脱してよい」と伝えてきても、新たな脅威が探知されれば状況は変化し得る。\
+",
+    ["DictKey_27"] = "[Tusk, Mule]:\
+\
+道路北側の森林線から攻撃を受けている！！\
+",
+    ["DictKey_28"] = "[Tusk, Mule]:\
+\
+道路北側の森林線から攻撃を受けている！！\
+",
+    ["DictKey_17"] = "Mule、出発せよ。",
+    ["DictKey_23"] = "[Tusk, Mule]:\
+\
+チェックポイント2を通過中。\
+\
+左手の森林線を警戒してくれ。\
+\
+Out.\
+",
+    ["DictKey_29"] = "MISSION SUCCESS\
+----------------------\
+\
+[Tusk, Mule]:\
+\
+ここからはこっちで対応する。\
+\
+護衛に感謝する。\
+\
+Out.\
+",
+    ["DictKey_descriptionRedTask_135"] = "",
+    ["DictKey_19"] = "Mule、出発せよ。",
+    ["DictKey_14"] = "[Tusk, Mule]:\
+\
+こちらから目視できている。\
+\
+そちらの合図で出発可能だ。\
+\
+Over.\
+",
+    ["DictKey_16"] = "[Tusk, こちらMule]:\
+\
+出発する。\
+\
+Out.\
+",
+    ["DictKey_sortie_137"] = "オーバーウォッチ ― 武装護衛",
+    ["DictKey_26"] = "[Tusk, Mule]:\
+\
+道路西側の森林線から攻撃を受けている！！\
+",
+    ["DictKey_20"] = "[Tusk, こちらMule]:\
+\
+出発する。\
+\
+Out.\
+",
+    ["DictKey_24"] = "[Tusk, Mule]:\
+\
+チェックポイント3を通過中。\
+\
+Out.\
+",
+    ["DictKey_22"] = "[Tusk, Mule]:\
+\
+チェックポイント1を通過中。\
+\
+Out.\
+",
+    ["DictKey_21"] = "Mule、出発せよ。",
+    ["DictKey_descriptionBlueTask_136"] = "Muleをドゥシェティ市まで護衛し、損害を出すな。\
+",
+    ["DictKey_25"] = "[Tusk, Mule]:\
+\
+こちらはすでに戦力の50%を失っている。\
+\
+上空で一体何をしているんだ！？\
+\
+Over.\
+",
+    ["DictKey_15"] = "Mule、出発せよ。",
+} -- end of dictionary

@@ -1,0 +1,35 @@
+dictionary = 
+{
+    ["DictKey_ActionText_6"] = "Intro\
+\
+SPACEBARを押せ……",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_descriptionText_1"] = "山岳地帯にある反乱分子の武器弾薬集積所を攻撃せよ。",
+    ["DictKey_descriptionBlueTask_3"] = "情報部は、ヘラート北東の山岳地帯に反乱分子の武器・弾薬集積所を発見した(ブリーフィング図2参照)。確認されている兵器体系はBM-21 MRLおよびBMP-1 IFVだ。\
+\
+あなたはTUSK 6-1。A-10Cで、兵装は2 × AGM-65K(大威力弾頭TVマーベリック)、2 × GBU-31(2,000lb爆弾)、およびHEI機関砲弾1,150発を搭載している。本日の当初任務はオンコールCASだったが、本集積所攻撃へ再任務付与された。攻撃可能な目標は以下のとおり:\
+    - BM-21 MRL\
+    - BMP-1\
+    - 露天のトラック\
+    - 警備された橋\
+    - 弾薬保管建屋\
+    - 司令部建屋\
+\
+通信:\
+戦術 - CH 1(305.00MHz)\
+    - HAWG 6-1 - A-10C\
+\
+タンカー - CH 2(275.00MHz)\
+    - TEXACO 3-1 - KC-135\
+        (TACAN 8Y TKR)\
+   \
+ヘラート・タワー - CH 3(123.35MHz)\
+シンダンド・タワー - CH 4(137.75MHz) ",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "アフガニスタン: 空対地",
+    ["DictKey_subtitle_10"] = "HAWG 6-1; AXMAN 1: BM-21 MLS 3両すべての破壊を確認した。反乱分子車両への攻撃を継続してもよいし、RTBしてもよい。",
+    ["DictKey_ActionText_16"] = "司令部建屋が被弾、炎上中。",
+    ["DictKey_subtitle_8"] = "HAWG 6-1; AXMAN 1: 捜索セクター内で敵車列と接触。BM-21 MLSを確認。位置はSTRPT 3付近。攻撃を許可する。",
+    ["DictKey_ActionText_14"] = "警備された橋を破壊した。",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary
