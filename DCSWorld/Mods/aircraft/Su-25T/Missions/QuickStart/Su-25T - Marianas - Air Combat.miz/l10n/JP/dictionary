@@ -1,0 +1,13 @@
+dictionary = 
+{
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "空中戦",
+    ["DictKey_descriptionText_1"] = "ロタ島のレーダーが中速機2機による攻撃を受けた。さらに低速航空目標の集団が北へ向かっていると報告されている。これは特殊作戦部隊のヘリコプターと兵員を、攻撃機2機が援護している可能性が高い。",
+    ["DictKey_ActionText_9"] = "MISSION SUCCESSFUL! RTB.",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_descriptionRedTask_2"] = "離陸後、南へ進出しロタ島へ向かえ。周辺空域の航空目標を捜索し、全て撃破せよ。\
+\
+警告: グアム島の防空圏に近づくな。",
+} -- end of dictionary

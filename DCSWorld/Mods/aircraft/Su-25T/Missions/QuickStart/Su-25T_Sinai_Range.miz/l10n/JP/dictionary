@@ -1,0 +1,8 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Su-25T射爆場",
+    ["DictKey_descriptionText_1"] = "実弾射爆場で空対地射撃訓練を実施する。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_descriptionRedTask_2"] = "飛行計画に従って射爆場へ向かう。射爆場での攻撃を許可する。",
+} -- end of dictionary

@@ -1,0 +1,23 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_ActionText_29"] = "",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_sortie_5"] = "フリーフライト",
+    ["DictKey_ActionText_16"] = "飛行場が砲撃下です。",
+    ["DictKey_ActionText_19"] = "飛行場が砲撃下です。",
+    ["DictKey_ActionText_14"] = "飛行場が砲撃下です。",
+    ["DictKey_descriptionRedTask_2"] = "注意: ミッションは低高度で開始します。",
+    ["DictKey_descriptionText_1"] = "サイパン周辺空域でのフリーフライトです。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_27"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_26"] = "",
+    ["DictKey_ActionText_21"] = "飛行場が砲撃下です。",
+    ["DictKey_ActionText_8"] = "",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_12"] = "迫撃砲砲隊を撃破しました。",
+} -- end of dictionary

@@ -1,0 +1,81 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionText_34"] = "",
+    ["DictKey_ActionText_40"] = "",
+    ["DictKey_ActionText_17"] = "",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_ActionText_43"] = "",
+    ["DictKey_ActionText_36"] = "",
+    ["DictKey_ActionText_66"] = "",
+    ["DictKey_ActionText_58"] = "操車場は甚大な損害を受け、修理が完了するまで機能停止している。\
+\
+任務成功！ 地域を離脱してください。",
+    ["DictKey_ActionText_19"] = "",
+    ["DictKey_ActionText_26"] = "",
+    ["DictKey_ActionText_38"] = "操車場は損害を受けており、周辺の人員が防御陣地に就いている。\
+\
+装甲兵員輸送車1個小隊が南から接近中だ。小火器射撃を避けるよう、戦術を調整してください。",
+    ["DictKey_ActionText_23"] = "",
+    ["DictKey_ActionText_52"] = "",
+    ["DictKey_ActionText_41"] = "操車場は損害を受けており、周辺の人員が防御陣地に就いている。\
+\
+装甲兵員輸送車1個小隊が北から接近中だ。小火器射撃を避けるよう、戦術を調整してください。",
+    ["DictKey_ActionText_44"] = "操車場は損害を受けており、周辺の人員が防御陣地に就いている。\
+\
+装甲兵員輸送車1個小隊が目標付近で活動中だ。小火器射撃を避けるよう、戦術を調整してください。",
+    ["DictKey_ActionText_31"] = "ウェイポイント1の6NM先に操車場がある。\
+\
+目標は、駐機中の機関車2両と貨車、付帯施設、倉庫群で構成される。\
+\
+位置はレッドスモークでマーキングされている。追加のマーキングは、通信メニューのF10 \"Other\"から要請できる。",
+    ["DictKey_ActionText_57"] = "",
+    ["DictKey_ActionText_18"] = "",
+    ["DictKey_ActionText_16"] = "",
+    ["DictKey_ActionText_11"] = "",
+    ["DictKey_ActionText_37"] = "",
+    ["DictKey_ActionText_46"] = "",
+    ["DictKey_ActionText_61"] = "",
+    ["DictKey_ActionText_15"] = "",
+    ["DictKey_ActionText_55"] = "",
+    ["DictKey_ActionText_29"] = "",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_ActionText_54"] = "",
+    ["DictKey_ActionText_24"] = "",
+    ["DictKey_ActionText_21"] = "",
+    ["DictKey_ActionText_35"] = "",
+    ["DictKey_ActionText_13"] = "",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_ActionText_47"] = "",
+    ["DictKey_sortie_5"] = "対地攻撃",
+    ["DictKey_descriptionText_1"] = "ウェイポイント1の6NM先に操車場がある。\
+\
+目標は、駐機中の機関車2両と貨車、付帯施設、倉庫群で構成される。\
+\
+位置はレッドスモークでマーキングしている。追加のマーキングは、通信メニューのF10 \"Other\"から要請できる。",
+    ["DictKey_ActionText_20"] = "",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_22"] = "",
+    ["DictKey_ActionText_14"] = "",
+    ["DictKey_ActionRadioText_33"] = "目標スモークマーカーを要請",
+    ["DictKey_ActionText_56"] = "",
+    ["DictKey_ActionText_30"] = "",
+    ["DictKey_ActionText_51"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_27"] = "",
+    ["DictKey_ActionText_60"] = "",
+    ["DictKey_ActionText_64"] = "",
+    ["DictKey_ActionText_48"] = "操車場は大きな損害を受けている。\
+\
+目標付近のAAA陣地2か所が完全に有人化された。この脅威を回避するよう、戦術を調整してください。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_50"] = "",
+    ["DictKey_ActionText_65"] = "",
+    ["DictKey_descriptionRedTask_2"] = "本ミッションでは、さまざまな目標種別に対する各種兵装の使用を練習できます。",
+    ["DictKey_ActionText_8"] = "",
+    ["DictKey_ActionText_62"] = "敵の防空網強化を正しく把握し、地域を離脱した。よくやった！\
+\
+Mission success.",
+    ["DictKey_ActionText_12"] = "",
+} -- end of dictionary

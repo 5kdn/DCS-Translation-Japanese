@@ -1,0 +1,23 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_ActionText_29"] = "",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_sortie_5"] = "着陸",
+    ["DictKey_ActionText_16"] = "飛行場が砲撃を受けています。",
+    ["DictKey_ActionText_19"] = "飛行場が砲撃を受けています。",
+    ["DictKey_ActionText_14"] = "飛行場が砲撃を受けています。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_descriptionText_1"] = "現在位置はアンダーセン空軍基地の北西15kmです。",
+    ["DictKey_descriptionBlueTask_3"] = "航法モードをLANDINGに切り替え、帰投して着陸せよ。強い横風の突風に注意し、9km前方を飛行する隊長機との衝突を避けること。",
+    ["DictKey_ActionText_27"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_26"] = "",
+    ["DictKey_ActionText_21"] = "飛行場が砲撃を受けています。",
+    ["DictKey_ActionText_8"] = "",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_12"] = "迫撃砲砲隊を破壊しました。",
+} -- end of dictionary

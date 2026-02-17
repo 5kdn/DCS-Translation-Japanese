@@ -1,0 +1,19 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_6"] = "",
+	["DictKey_ActionText_7"] = "",
+	["DictKey_descriptionText_1"] = "これはフリーフライト任務だ。基本的な機体操作に慣れるため、または周辺地域を探索するために利用できる。脅威はない。",
+	["DictKey_ActionText_9"] = "",
+	["DictKey_ActionText_17"] = "フリーフライト任務です。基本操縦の練習や周辺地域の探索に使えます。脅威はありません。",
+	["DictKey_descriptionRedTask_2"] = "フリーフライトだ！ 景色を楽しめ。",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_ActionText_14"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "フリーフライト 2",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_11"] = "",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_15"] = "",
+	["DictKey_ActionText_12"] = "",
+} -- end of dictionary

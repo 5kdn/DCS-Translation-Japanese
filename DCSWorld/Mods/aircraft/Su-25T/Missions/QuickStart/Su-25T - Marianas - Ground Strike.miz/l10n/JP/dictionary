@@ -1,0 +1,22 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_ActionText_24"] = "",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_sortie_5"] = "対地攻撃",
+    ["DictKey_ActionText_16"] = "飛行場が攻撃を受けている。",
+    ["DictKey_ActionText_19"] = "飛行場が攻撃を受けている。",
+    ["DictKey_ActionText_14"] = "飛行場が攻撃を受けている。",
+    ["DictKey_descriptionRedTask_2"] = "Su-25T攻撃機2機編成として、攻撃中のミサイル発射機を捜索・撃破せよ。敵はSAMサイトの防護下にあるため強気に行動している。こちらはPhantasmagoriaARM照準ポッドを装備しているため、SAMレーダーを捕捉して対処できる。",
+    ["DictKey_ActionText_23"] = "",
+    ["DictKey_descriptionText_1"] = "警報！我が基地が攻撃を受けている。直ちに離陸し、ロタ島南部に展開する敵ミサイル発射機を撃破せよ。飛行ルートおよび目標地域の偵察写真はニーボードを参照せよ。",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_21"] = "飛行場が攻撃を受けている。",
+    ["DictKey_ActionText_8"] = "",
+    ["DictKey_ActionText_9"] = "",
+    ["DictKey_ActionText_12"] = "SAM発射機を全て撃破！\
+Mission completed.",
+} -- end of dictionary
