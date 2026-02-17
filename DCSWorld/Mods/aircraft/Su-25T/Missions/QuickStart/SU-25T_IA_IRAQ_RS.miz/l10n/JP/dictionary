@@ -1,0 +1,11 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "北イラク: 滑走路スタート",
+	["DictKey_descriptionText_1"] = "イラク2011へようこそ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたはアルジェリア空軍Su-25Tの2機編成のフライト・リードである。バシュール飛行場の滑走路上から開始する。フライトプランに従ってもよいし、自由に行動してもよい。",
+	["DictKey_ActionText_6"] = "離陸して飛行せよ。\
+\
+フライトプランに従ってもよいし、自由に飛行してもよい。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

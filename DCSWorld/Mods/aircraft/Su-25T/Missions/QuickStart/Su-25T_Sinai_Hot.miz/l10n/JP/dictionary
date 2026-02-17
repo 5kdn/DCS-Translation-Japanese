@@ -1,0 +1,9 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Su-25T 滑走路スタート",
+    ["DictKey_descriptionText_1"] = "航空戦力および防空部隊はすべて活動停止中だ。(レーダーは稼働している場合がある。)",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_7"] = "ルートに従って飛行してもよいし、自由に探索しても構わない。推奨フライトプランの完了には約55分を要する。",
+    ["DictKey_descriptionRedTask_2"] = "ルートに従って飛行してもよいし、自由に探索しても構わない。推奨フライトプランの完了には約55分を要する。",
+} -- end of dictionary

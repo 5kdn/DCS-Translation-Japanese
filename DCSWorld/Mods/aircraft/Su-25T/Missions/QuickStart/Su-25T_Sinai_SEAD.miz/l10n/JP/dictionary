@@ -1,0 +1,12 @@
+dictionary = 
+{
+    ["DictKey_ActionText_7"] = "航路に従ってもよいし、自分の判断で自由に飛行してもよい。提案されているフライトプランは、完了まで約55分を要する。",
+    ["DictKey_descriptionText_1"] = "敵SAMに対するSEAD攻撃を実施せよ。",
+    ["DictKey_ActionText_9"] = "南側HAWK追尾レーダー破壊",
+    ["DictKey_ActionText_13"] = "HAWK SAM砲隊を無力化！",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Su-25T SEAD",
+    ["DictKey_ActionText_11"] = "北側HAWK追尾レーダー破壊",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_descriptionRedTask_2"] = "敵はオブダ空軍基地の防衛のため、HAWK SAM砲隊を展開している。ARMで2基のHAWK追尾レーダーを撃破せよ。追尾レーダーを破壊すれば、HAWKは無力化される。前進して残存戦力を掃討せよ。基地周辺では重機関銃による対空射撃が予想される。",
+} -- end of dictionary

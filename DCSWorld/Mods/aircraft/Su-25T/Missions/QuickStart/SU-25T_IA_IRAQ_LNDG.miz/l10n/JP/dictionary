@@ -1,0 +1,14 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "北部イラク: VFR着陸",
+	["DictKey_descriptionText_1"] = "イラク2011へようこそ。",
+	["DictKey_descriptionBlueTask_3"] = "現在、バシュール空港へ着陸進入中です。",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_6"] = "バシュール空港の滑走路31進入端まで10kmです。現在アクティブポーズ中です。\
+\
+進入・着陸に備えて機体を設定してください。\
+\
+飛行を再開する準備ができたら、SPACEBARを押してください。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

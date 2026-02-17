@@ -1,0 +1,13 @@
+dictionary = 
+{
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "北イラク: 兵装訓練",
+	["DictKey_descriptionText_1"] = "イラク2011へようこそ。脅威はない。",
+	["DictKey_descriptionBlueTask_3"] = "対地実弾射撃レンジへ向かっている。Su-25Tを対地攻撃に設定し、IOポッドを起動、兵装を選択せよ。\
+\
+15km以内に入ると射場管制がレンジをコールし、レッドスモークで射場位置を示す。",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_6"] = "対地実弾射撃レンジへ向かっている。対地攻撃に設定し、IOポッドを起動、兵装を選択せよ。",
+	["DictKey_subtitle_9"] = "レンジはHOTだ！",
+} -- end of dictionary

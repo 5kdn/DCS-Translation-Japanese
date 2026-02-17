@@ -1,0 +1,40 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_34"] = "",
+	["DictKey_ActionText_18"] = "",
+	["DictKey_ActionText_25"] = "友軍第2戦車小隊が全滅した！",
+	["DictKey_ActionText_33"] = "",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_14"] = "",
+	["DictKey_ActionText_38"] = "",
+	["DictKey_ActionText_31"] = "",
+	["DictKey_ActionText_11"] = "",
+	["DictKey_ActionText_15"] = "",
+	["DictKey_ActionText_6"] = "",
+	["DictKey_ActionText_7"] = "",
+	["DictKey_ActionText_24"] = "",
+	["DictKey_ActionText_35"] = "ミッション失敗。友軍戦車小隊が全滅した。",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_ActionText_28"] = "Mission Success！ 友軍が目標を確保した。",
+	["DictKey_sortie_5"] = "近接航空支援",
+	["DictKey_ActionText_37"] = "",
+	["DictKey_ActionText_21"] = "",
+	["DictKey_ActionText_22"] = "友軍第1戦車小隊が全滅した！",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_20"] = "",
+	["DictKey_ActionText_17"] = "これはフリーフライトミッションである。基本操縦の習熟や周辺の探索に使用できる。脅威は存在しない。",
+	["DictKey_ActionText_9"] = "",
+	["DictKey_descriptionText_1"] = "敵部隊がカンソル市を占拠しており、友軍装甲部隊が奪還に向けて前進している。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_32"] = "",
+	["DictKey_descriptionRedTask_2"] = "友軍戦車2個小隊がカンソル市へ進撃するのを近接航空支援せよ。敵装甲はT-55戦車で、市の北側進入路を援護している。\
+\
+目標はウェイポイント1周辺に存在する。\
+\
+友軍Su-25も支援に入る。",
+	["DictKey_ActionText_27"] = "",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_30"] = "",
+	["DictKey_ActionText_12"] = "",
+} -- end of dictionary

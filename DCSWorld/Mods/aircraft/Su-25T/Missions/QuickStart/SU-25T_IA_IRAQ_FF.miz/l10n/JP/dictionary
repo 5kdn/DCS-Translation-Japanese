@@ -1,0 +1,9 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "イラク北部: フリーフライト",
+	["DictKey_descriptionText_1"] = "2011年のイラクへようこそ。脅威はありません。",
+	["DictKey_descriptionBlueTask_3"] = "現在、イラク北部上空を飛行中です。フライトプランに従うか、自由に飛行してください。",
+	["DictKey_ActionText_6"] = "現在、イラク北部上空です。脅威はありません。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

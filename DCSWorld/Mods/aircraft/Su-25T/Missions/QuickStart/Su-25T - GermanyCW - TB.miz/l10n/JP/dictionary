@@ -1,0 +1,26 @@
+dictionary = 
+{
+	["DictKey_ActionText_6"] = "任務はマクデブルク射爆場の模擬敵装備を破壊することだ。準備が整い次第、離陸せよ。",
+	["DictKey_ActionText_7"] = "目標を破壊した。マールヴィンケル飛行場へ進入し、着陸せよ。",
+	["DictKey_descriptionText_1"] = "自由落下爆弾の投下訓練ミッション\
+目標はブルースモークでマーキングされている。\
+\
+GROUNDモード: 7\
+武装選択: D\
+爆弾投下: Space\
+\
+",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_17"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "爆弾投下訓練",
+	["DictKey_ActionText_16"] = "割り当てられた任務を完了できなかった。失敗だ！",
+	["DictKey_ActionText_18"] = "割り当てられた任務はすべて完了した。見事だ、パイロット！",
+	["DictKey_ActionText_8"] = "準備しろ。目標は建物の間にある。急降下攻撃を推奨する。",
+	["DictKey_ActionText_9"] = "",
+	["DictKey_descriptionRedTask_2"] = "-シュテンダール飛行場から離陸する。\
+\
+-爆撃を実施する。\
+\
+-マールヴィンケル飛行場に着陸する。",
+} -- end of dictionary
