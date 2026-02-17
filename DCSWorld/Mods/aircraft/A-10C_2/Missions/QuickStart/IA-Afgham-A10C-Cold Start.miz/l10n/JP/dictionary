@@ -1,0 +1,8 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "アフガニスタン: コールドスタート",
+    ["DictKey_descriptionText_1"] = "あなたはカンダハル飛行場のランプで、コールド＆ダーク状態のA-10Cを駐機している。\"Warthog\"を始動し、離陸、航路に沿って飛行し、着陸せよ。健闘を祈る。",
+    ["DictKey_descriptionBlueTask_3"] = "始動、離陸、航法、着陸を実施せよ。",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

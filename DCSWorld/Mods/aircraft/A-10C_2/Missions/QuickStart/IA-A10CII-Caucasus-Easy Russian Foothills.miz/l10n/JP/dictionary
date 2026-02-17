@@ -1,0 +1,138 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_UnitName_173"] = "",
+    ["DictKey_UnitName_164"] = "Vody Static #026",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_UnitName_152"] = "Vody Static #016",
+    ["DictKey_ActionText_198"] = "",
+    ["DictKey_GroupName_47"] = "Min Vody AFB Support",
+    ["DictKey_UnitName_167"] = "Vody Static #013",
+    ["DictKey_UnitName_128"] = "Vody Static #020",
+    ["DictKey_ActionText_85"] = "",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_10"] = "橋を破壊したら、TANKSとラベルされたウェイポイント5へ南東進せよ。\
+\
+そこでは、道路交差点に3両の戦車からなるグループが確認できる。\
+\
+目標はホワイトスモークでマーキングされている。\
+\
+注意せよ。AAAおよびIR SAMの両方で防護されている。\
+",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_ActionText_89"] = "",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_UnitName_131"] = "Vody Static #021",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_194"] = "Smoke #001",
+    ["DictKey_UnitName_122"] = "Vody Static #011",
+    ["DictKey_ActionText_83"] = "",
+    ["DictKey_12"] = "MISSION SUCCESS\
+----------------------\
+\
+見事な戦果だ！\
+\
+RTBしてもよいし、任務を継続してもよい。\
+",
+    ["DictKey_UnitName_155"] = "Vody Static #017",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_UnitName_101"] = "Vody Static #004",
+    ["DictKey_UnitName_125"] = "Vody Static #012",
+    ["DictKey_UnitName_182"] = "Smoke #001",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_UnitName_104"] = "Vody Static #005",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_UnitName_49"] = "Unit #002",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_UnitName_134"] = "Vody Static #022",
+    ["DictKey_ActionText_87"] = "",
+    ["DictKey_UnitName_92"] = "Vody Static #001",
+    ["DictKey_UnitName_48"] = "Unit #003",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_UnitName_116"] = "Vody Static #009",
+    ["DictKey_descriptionText_51"] = "地上目標のグループが、計画されたルート沿いに配置されている。",
+    ["DictKey_UnitName_158"] = "Vody Static #018",
+    ["DictKey_UnitName_113"] = "Vody Static #008",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_9"] = "哨戒任務、よくやった。\
+\
+次は橋の破壊に取り掛かろう。\
+\
+BRIDGEとラベルされたウェイポイント4の橋を破壊せよ。\
+\
+数個のAAAユニットが防御についている。\
+",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_7"] = "補給トラック2両が前方にいる。町の左手、川の分岐点付近で、距離は9km先だ。\
+\
+目標グループは緑煙でマーキングされている。\
+\
+SUPPLYとラベルされたウェイポイント2が目標位置である。\
+",
+    ["DictKey_UnitName_170"] = "Vody Static #027",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_UnitName_137"] = "Vody Static #023",
+    ["DictKey_UnitName_119"] = "Vody Static #010",
+    ["DictKey_descriptionRedTask_52"] = "",
+    ["DictKey_descriptionBlueTask_53"] = "僚機と連携し、可能な限り多くのユニットを撃破せよ。\
+\
+無線使用について:\
+\
+Easy Communicationsを使用している場合、デフォルトキー\\で通信メニューからすべての友軍と連絡できる。\
+\
+Realistic Communicationsを使用している場合、友軍アセットは以下の周波数を使用する:\
+僚機: UHF 251.000、HOTAS Mic Switch Down、デフォルト: LAlt + Num-\
+JTAC Playboy(有効化時): VHF AM 131.000、HOTAS Mic Switch Forward、デフォルト: LAlt + Num+",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_UnitName_107"] = "Vody Static #006",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_UnitName_191"] = "Smoke #001",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_UnitName_149"] = "Vody Static #015",
+    ["DictKey_UnitName_98"] = "Vody Static #003",
+    ["DictKey_UnitName_176"] = "Smoke #001",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_UnitName_161"] = "Vody Static #019",
+    ["DictKey_UnitName_110"] = "Vody Static #007",
+    ["DictKey_8"] = "トラックの撃破、見事だ！\
+\
+次の目標は、PATROLとラベルされたウェイポイント3にいる、トラック2両と歩兵からなる反乱軍の哨戒部隊だ。\
+\
+目標はレッドスモークでマーキングされている。\
+\
+これを排除せよ。\
+",
+    ["DictKey_UnitName_140"] = "Vody Static #024",
+    ["DictKey_UnitName_146"] = "Vody Static #014",
+    ["DictKey_UnitName_185"] = "Smoke #001",
+    ["DictKey_UnitName_179"] = "Smoke #001",
+    ["DictKey_UnitName_95"] = "Vody Static #002",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_sortie_54"] = "Easy - ロシア山麓 - 秋",
+    ["DictKey_UnitName_188"] = "Smoke #001",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_UnitName_50"] = "Unit #001",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_11"] = "戦車はすべて撃破したようだ。\
+\
+最終目標は、COLUMNとラベルされたウェイポイント6周辺で、南北方向に道路を移動中の装甲縦隊である。\
+\
+任務指示については、VHF AM 131.00でJTAC Playboyに連絡できる。\
+",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_UnitName_143"] = "Vody Static #025",
+    ["DictKey_WptName_99"] = "",
+} -- end of dictionary

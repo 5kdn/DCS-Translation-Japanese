@@ -1,0 +1,25 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "コラ半島: ランディング",
+    ["DictKey_descriptionText_1"] = "ボードー飛行場に東側から着陸せよ。",
+    ["DictKey_descriptionBlueTask_3"] = "あなたはA-10C TUSK 6-1だ。開始位置はボードーの東約15NM、高度3,500ft MSL、対気速度250kt、クリーン構成である。現在はアクティブポーズ中だ。\
+\
+ボードー東方の地形が高いため、滑走路25への進入はヘディング262、すなわち滑走路方位から約10度オフとなる。thresholdから約1.0NMの地点で、短く右へシフトして滑走路センターラインに合わせ、その後左へ戻して滑走路方位に合わせる必要がある。これはVFR進入だが、本着陸では補助としてILSの使用を推奨する。\
+\
+周辺空域では、米海軍の空母および強襲揚陸艦が飛行運用を実施中である。いずれの艦艇への着艦も許可されていない。\
+\
+Communications:\
+Tactical - COMM 1 CH 1 (305.00MHz)\
+\
+Bodø Tower     - COMM 2 CH 1 (118.30 MHz)\
+Banak AB Tower - COMM 2 CH 3 (118.050MHz)\
+USN Ships      - COMM 2 CH 4 (129.25 MHz)",
+    ["DictKey_ActionText_8"] = " ",
+    ["DictKey_ActionText_6"] = "ボードー空軍基地へようこそ。現在はアクティブポーズ中だ。\
+\
+ボードーILS RWY 25は108.7MHz、HDG 262である。\
+\
+進入を開始する準備ができたら、SPACEBARを押して続行せよ。",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

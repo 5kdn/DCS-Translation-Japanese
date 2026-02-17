@@ -1,0 +1,317 @@
+dictionary = 
+{
+	["DictKey_80"] = "Uzi 2-1、Hawg 2-1、Affirm。RTBを許可する。",
+	["DictKey_37"] = "[Wizard, Hawg 2-1]:\
+\
+送れ。通信状態はファイブ・バイ・ファイブだ。\
+\
+Over.\
+",
+	["DictKey_WptName_401"] = "",
+	["DictKey_40"] = "Wizard、Hawg 2-1、了解。",
+	["DictKey_WptName_333"] = "",
+	["DictKey_WptName_550"] = "",
+	["DictKey_WptName_364"] = "",
+	["DictKey_58"] = "[Enfield 2-1]:\
+\
+目標地域南東で待機中。チャーリー機、8×HARM、India Bravo mikes、オンステーション。\
+\
+Over.\
+",
+	["DictKey_WptName_341"] = "",
+	["DictKey_67"] = "[Uzi 2-1]:\
+\
+了解。\
+\
+目標地域へ進出中。\
+\
+ETA 10分。\
+",
+	["DictKey_69"] = "Uzi 2-1、Hawg 2-1、Affirm。RTBを許可する。",
+	["DictKey_72"] = "Uzi 2-1、Hawg 2-1、Affirm。RTBを許可する。",
+	["DictKey_36"] = "(AWACS) Wizard、Hawg 2-1、どうぞ。",
+	["DictKey_WptName_570"] = "",
+	["DictKey_WptName_365"] = "",
+	["DictKey_76"] = "(偵察ヘリ) Uzi 2-1、Hawg 2-1、どうぞ。",
+	["DictKey_78"] = "Uzi 2-1、Hawg 2-1、了解。SEADを要請せよ。",
+	["DictKey_50"] = "[Uzi 2-1]:\
+\
+確認した。\
+\
+- Zeus 1基\
+- SAM 1基\
+- APC 4両\
+- LAV 4両を目標地域内に確認。\
+",
+	["DictKey_descriptionText_323"] = "連合軍は、ジョージア領内の谷間にロシアおよび南オセチア国境に近接した小規模なテロリスト拠点を発見した。\
+\
+ジョージアとロシア間の緊張が高まっているため、この隠れ家の無力化は極めて慎重を要する作戦となる。\
+\
+米国およびNATO部隊は、現地軍の支援を受けて特殊部隊を投入し、このキャンプを制圧するとともに、当該テロ組織がロシア起源であることを示す有効な証拠を確保する。\
+\
+部隊を搭載したUH-60ブラックホーク2機と、偵察ヘリOH-58D 1機はすでに作戦地域へ向かっている。\
+\
+ドイツ空軍のTornadoがSEAD支援を担当し、あなたの編隊はその他の脅威を排除する。\
+\
+強い抵抗は想定されていないが、MANPADSを含む軽防空火器を保有している可能性がある。\
+",
+	["DictKey_WptName_571"] = "",
+	["DictKey_47"] = "Uzi 2-1、Hawg 2-1、了解。目標状況を報告せよ。",
+	["DictKey_sortie_326"] = "隠れ家",
+	["DictKey_64"] = "Uzi 2-1、Hawg 2-1、Affirm。進入を許可する。",
+	["DictKey_WptName_541"] = "",
+	["DictKey_51"] = "[Uzi 2-1]:\
+\
+- 南東に固定式AAA 1基および要塞化陣地に歩兵を確認。\
+",
+	["DictKey_52"] = "[Uzi 2-1]:\
+\
+SAM無力化後、速やかにこの陣地を攻撃することを推奨する。\
+\
+Over.\
+",
+	["DictKey_WptName_565"] = "",
+	["DictKey_46"] = "[Hawg 2-1, Uzi 2-1]:\
+\
+目視した。\
+",
+	["DictKey_UnitName_243"] = "Georgian UH-1H #2",
+	["DictKey_35"] = "(AWACS) Wizard、Hawg 2-1、送れ。",
+	["DictKey_UnitName_207"] = "Hideout FARP Power Gen",
+	["DictKey_WptName_459"] = "",
+	["DictKey_45"] = "[Uzi 2-1, Hawg 2-1]:\
+\
+どうぞ。\
+\
+Over.\
+",
+	["DictKey_43"] = "(偵察ヘリ) Uzi 2-1、Hawg 2-1、どうぞ。",
+	["DictKey_WptName_476"] = "",
+	["DictKey_UnitName_241"] = "Georgian Su-25 #2",
+	["DictKey_WptName_568"] = "",
+	["DictKey_UnitName_193"] = "Hideout Rep #001",
+	["DictKey_WptName_475"] = "",
+	["DictKey_WptName_334"] = "",
+	["DictKey_WptName_346"] = "",
+	["DictKey_WptName_478"] = "",
+	["DictKey_descriptionBlueTask_325"] = "あなたはA-10の2機編隊、コールサイン(Hawg 2)を率いる。\
+\
+偵察ヘリコプター(OH-58、コールサイン(Uzi 2-1))に搭乗するジョージア空軍士官が、他のヘリ部隊を統制し、リアルタイムの目標情報および通信支援を提供する。\
+\
+Tornado編隊は攻撃開始のクリアランス待ちとなる。\
+\
+重要！！\
+ - 他フライトとの通信にはF10(\"10. Other\")無線メニューを使用せよ。\
+\
+1) 現地時刻1800以降に離陸\
+2) ランデブーポイントでUzi 2-1と合流\
+3) Uzi 2-1から最新の目標情報を取得\
+4) RP南東でオービット待機\
+5) 目標地域内のSAMを排除するためSEADフライトに攻撃を許可し、Tornadoの攻撃を待て\
+7) ヘリコプターに目標地域進入と部隊降下を許可\
+8) 部隊が地上展開後、ヘリコプターにRTBを許可\
+9) RTB\
+\
+\
+ROE:\
+- 目標地域内の軍用車両はすべて敵性とみなす。\
+- 進入/離脱高度は18,000ftを維持。ハードデッキは4,500ft AGL(目標地域周辺で約10,500ft ASL)。\
+- 目標地域内のバンカーを破壊してはならない。\
+- いかなる状況でもロシアまたは南オセチアの国境を越えてはならない。\
+- 懸吊爆弾、機関砲ジャム、その他緊急事態発生時は都市を回避する\"緊急ルート\"を使用せよ。\
+\
+ミッションは2000までに完了すること。\
+\
+\
+無線:\
+---------\
+ - 編隊: 251.0 UHF AM\
+ - AOEメインおよびAWACS: 124.0 VHF AM\
+ - タンカー: 150.0 VHF AM\
+\
+\
+友軍フライト:\
+-----------------\
+ - Wizard: E-3A AWACS\
+ - Texaco: KC-135 Tanker\
+ - Uzi 2-1: OH-58D 偵察\
+ - Dodge 1: UH-60A×2 特殊作戦\
+ - Hawg 2: A-10C×2 AFAC(プレイヤー)\
+ - Colt 2: F-15C×2 CAP\
+ - Enfield 2: Tornado IDS×4 SEAD\
+\
+\
+ブルズアイ:\
+-------------\
+ヴァジアニ空軍基地\
+41°37'41\"N 45°01'40\"E\
+",
+	["DictKey_WptName_338"] = "",
+	["DictKey_48"] = "Uzi 2-1、Hawg 2-1、了解。目標状況を報告せよ。",
+	["DictKey_WptName_567"] = "",
+	["DictKey_WptName_494"] = "",
+	["DictKey_UnitName_205"] = "Hideout Transmitter",
+	["DictKey_33"] = "[Hawg 2-1, Wizard]:\
+\
+飛行禁止空域に進入した。直ちに離脱せよ！！\
+",
+	["DictKey_WptName_342"] = "",
+	["DictKey_68"] = "[Hawg 2-1, Uzi 2-1]:\
+\
+任務は完了した。\
+\
+RTB可能だ。\
+",
+	["DictKey_65"] = "Uzi 2-1、Hawg 2-1、Affirm。進入を許可する。",
+	["DictKey_39"] = "Wizard、Hawg 2-1、了解。",
+	["DictKey_41"] = "[Wizard, Hawg 2-1]:\
+\
+了解。\
+\
+Over.\
+",
+	["DictKey_62"] = "[Hawg 2-1, Uzi 2-1]:\
+\
+SAMは排除した。次はそちらだ。\
+\
+Out.\
+",
+	["DictKey_UnitName_195"] = "Hideout Rep #002",
+	["DictKey_56"] = "[Hawg 2-1, Uzi 2-1]:\
+\
+了解。SEADを要請する。\
+\
+Out.\
+",
+	["DictKey_WptName_403"] = "",
+	["DictKey_WptName_563"] = "",
+	["DictKey_60"] = "[Uzi 2-1, Enfield 2-1]:\
+\
+了解。\
+",
+	["DictKey_81"] = "MISSION COMPLETED.\
+-------------------------\
+\
+任務完了！！！！\
+\
+無事の帰還を確認した。\
+\
+Out.\
+",
+	["DictKey_UnitName_197"] = "Hideout Fuel Tank #002",
+	["DictKey_61"] = "[Enfield 2-1, Uzi 2-1]:\
+\
+グッドヒット、グッドヒット。目標を破壊した。\
+",
+	["DictKey_UnitName_179"] = "Hideout FARP Fuel Storage",
+	["DictKey_UnitName_213"] = "Hideout SB A",
+	["DictKey_WptName_328"] = "",
+	["DictKey_44"] = "(偵察ヘリ) Uzi 2-1、Hawg 2-1、どうぞ。",
+	["DictKey_UnitName_203"] = "Hideout Storage #004",
+	["DictKey_UnitName_183"] = "Hideout FARP Weapon Storage",
+	["DictKey_WptName_344"] = "",
+	["DictKey_WptName_353"] = "",
+	["DictKey_WptName_327"] = "",
+	["DictKey_UnitName_239"] = "Georgian Su-25 #1",
+	["DictKey_UnitName_187"] = "Hideout Tent #001",
+	["DictKey_WptName_545"] = "",
+	["DictKey_UnitName_211"] = "Hideout Container",
+	["DictKey_71"] = "[Uzi 2-1, Hawg 2-1]:\
+\
+離脱を許可する。\
+\
+RTB。\
+\
+Out.\
+",
+	["DictKey_WptName_544"] = "",
+	["DictKey_UnitName_181"] = "Hideout FARP",
+	["DictKey_UnitName_322"] = "US Static Predator",
+	["DictKey_UnitName_199"] = "Hideout Storage #006",
+	["DictKey_UnitName_245"] = "Georgia Su-25 #3",
+	["DictKey_74"] = "[Hawg 2-1, Wizard]:\
+\
+ミッション中止。侵入部隊は全滅した。\
+\
+RTB。\
+\
+Out.\
+",
+	["DictKey_34"] = "[Hawg 2-1, こちらWizard]:\
+\
+応答せよ。\
+\
+Over.\
+",
+	["DictKey_UnitName_209"] = "Hideout Fort",
+	["DictKey_descriptionRedTask_324"] = "",
+	["DictKey_70"] = "Uzi 2-1、Hawg 2-1、Affirm。RTBを許可する。",
+	["DictKey_42"] = "[Hawg 2-1, こちらUzi 2-1]:\
+\
+応答せよ。\
+\
+Over.\
+",
+	["DictKey_73"] = "[Hawg 2-1, Uzi 2-1]:\
+\
+了解。\
+\
+RTB。\
+",
+	["DictKey_UnitName_189"] = "Hideout HQ",
+	["DictKey_UnitName_175"] = "Hideout Storage #001",
+	["DictKey_WptName_572"] = "",
+	["DictKey_WptName_569"] = "",
+	["DictKey_WptName_543"] = "",
+	["DictKey_63"] = "[Hawg 2-1, Uzi 2-1]:\
+\
+全目標を撃破した。\
+",
+	["DictKey_UnitName_191"] = "Hideout Storage #002",
+	["DictKey_UnitName_177"] = "Hideout Fuel Tank #001",
+	["DictKey_53"] = "Uzi 2-1、Hawg 2-1、了解。SEADを要請せよ。",
+	["DictKey_WptName_340"] = "",
+	["DictKey_WptName_559"] = "",
+	["DictKey_75"] = "",
+	["DictKey_55"] = "[Uzi 2-1, Hawg 2-1]:\
+\
+SEADを要請せよ。\
+\
+Over.\
+",
+	["DictKey_49"] = "[Uzi 2-1, Hawg 2-1]:\
+\
+目標状況を確認せよ。\
+\
+Over.\
+",
+	["DictKey_77"] = "Uzi 2-1、Hawg 2-1、了解。目標状況を報告せよ。",
+	["DictKey_66"] = "[Uzi 2-1, Hawg 2-1]:\
+\
+進入を許可する。\
+\
+Over.\
+",
+	["DictKey_59"] = "[Enfield 2-1, Uzi 2-1]:\
+\
+目標地域内のSAM排除を許可する。\
+",
+	["DictKey_UnitName_185"] = "Hideout Tent #002",
+	["DictKey_79"] = "Uzi 2-1、Hawg 2-1、Affirm。実行を許可する。",
+	["DictKey_57"] = "[Enfield 2-1, Uzi 2-1]:\
+\
+状況を報告せよ。\
+",
+	["DictKey_WptName_357"] = "",
+	["DictKey_54"] = "Uzi 2-1、Hawg 2-1、了解。SEADを要請せよ。",
+	["DictKey_38"] = "[Hawg 2-1, Wizard]:\
+\
+DodgeおよびUziは、計画どおりランデブーポイントで待機中。\
+\
+把握したか？\
+\
+Out.\
+",
+	["DictKey_UnitName_201"] = "Hideout Storage #005",
+	["DictKey_WptName_435"] = "",
+} -- end of dictionary

@@ -1,0 +1,13 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "アフガニスタン: 滑走路スタート",
+    ["DictKey_descriptionText_1"] = "ヘラート飛行場へようこそ。",
+    ["DictKey_descriptionBlueTask_3"] = "あなたはミシガン州空軍州兵、第172戦闘飛行隊所属A-10Cの2機編隊のフライトリードHAWG 3-1である。本日早く、飛行場慣熟のためヘラートに到着した。これよりカンダハールへ帰投する。フライトプランでは、カンダハールへ向かう途中で他の重要施設上空を通過する。フライトプランに従ってもよいし、自由に探索してもよい。\
+\
+通信:\
+ヘラート・タワー - COMM 2 CH 1(123.35MHz)\
+カンダハール・タワー - COMM 2 CH 1(125.50MHz)",
+    ["DictKey_ActionText_6"] = "ヘラート飛行場へようこそ。離陸は自由だ。",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

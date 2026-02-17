@@ -1,0 +1,85 @@
+dictionary = 
+{
+	["DictKey_UnitName_80"] = "US C-130",
+	["DictKey_WptName_143"] = "",
+	["DictKey_14"] = "[Tusk 3-1、こちらChaos]:\
+\
+当該ユニットの撃破を確認した。\
+\
+Out.\
+\
+",
+	["DictKey_9"] = "[Tusk 3-1、こちらChaos]:\
+\
+Smerchランチャーを以下地点で確認:\
+ - MGRS 38T\
+ - MN 41135 80457\
+\
+当該ユニットは橋の下に潜伏し、発射準備のために姿を現すとみられている。\
+\
+Out.\
+",
+	["DictKey_descriptionText_81"] = "本ミッションは、デザート・ストーム作戦におけるスカッド狩りにならい、4基のSmerch多連装ロケットランチャーを捜索・破壊する任務である。\
+\
+以下の各種支援が提供される:\
+\
+統合航空作戦センター(CHAOS)\
+\
+自編隊: UHF 251.00\
+\
+JTAC(Warrior): VHF FM 30.000\
+JTAC AFAC Predator(Uzi 1): VHF AM 135.000\
+\
+これら支援アセットから提供される情報を活用し、Smerchユニットを特定のうえ撃破せよ。\
+",
+	["DictKey_descriptionBlueTask_83"] = "Smerchユニット4基すべてを破壊せよ。\
+",
+	["DictKey_descriptionRedTask_82"] = "",
+	["DictKey_15"] = "[Tusk 3-1、こちらChaos]:\
+\
+全目標の撃破を確認した。\
+\
+RTBを許可する。\
+\
+任務完了だ。\
+\
+Out.\
+",
+	["DictKey_12"] = "[Tusk 3-1、こちらChaos]:\
+\
+当該ユニットの撃破を確認した。\
+\
+タスキングについてAFAC Uziへコンタクトせよ。\
+ - VHF AM 135.00\
+\
+Out.\
+",
+	["DictKey_11"] = "[Tusk 3-1、こちらChaos]:\
+\
+当該ユニットの撃破を確認した。\
+\
+特別情報により、チコラ北西にSmerchユニットが存在する可能性が示されている:\
+ - N43 12.282\
+ - E043 55.080\
+\
+捜索し、交戦せよ。\
+\
+Out.\
+",
+	["DictKey_10"] = "[Tusk 3-1、こちらChaos]:\
+\
+当該ユニットの撃破を確認した。\
+\
+タスキングについてJTAC(Warrior)へコンタクトせよ。\
+ - VHF FM 30.000MHz\
+\
+Out.\
+",
+	["DictKey_13"] = "[Tusk 3-1、こちらChaos]:\
+\
+当該ユニットは発射準備中と推定される。\
+\
+Out.\
+",
+	["DictKey_sortie_84"] = "Smerch狩り",
+} -- end of dictionary

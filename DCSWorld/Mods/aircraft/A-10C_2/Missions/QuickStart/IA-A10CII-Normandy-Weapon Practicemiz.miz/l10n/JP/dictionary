@@ -1,0 +1,9 @@
+dictionary = 
+{
+    ["DictKey_descriptionBlueTask_3"] = "本ミッションでは、さまざまな種類の目標に対する各種兵装の運用を訓練せよ。\
+\
+目標アレイはレッドスモークでマーキングされている。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_descriptionText_1"] = "ウェイポイント1における兵装訓練用目標アレイに接近中だ。",
+    ["DictKey_sortie_4"] = "A-10C - ノルマンディー - 兵装訓練",
+} -- end of dictionary

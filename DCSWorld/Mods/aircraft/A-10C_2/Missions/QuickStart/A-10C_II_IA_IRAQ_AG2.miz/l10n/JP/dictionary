@@ -1,0 +1,36 @@
+dictionary = 
+{
+	["DictKey_ActionText_6"] = "アル・アサド空軍基地へようこそ。天候は晴朗、微風だ。脅威は存在しない。ウェイポイント2および3付近の固定演習目標を攻撃してよい。\
+\
+エンジン始動を許可する。",
+	["DictKey_descriptionText_1"] = "2012年頃のイラクへようこそ。\
+\
+シリアからイラクへ侵入しようとしている反乱分子部隊を迎撃せよ。",
+	["DictKey_ActionText_9"] = "",
+	["DictKey_subtitle_12"] = "HAWG 7; SPRINGFIELD Control: 反乱分子の車列を国境通過点2へ追跡中 ― 西側通過点だ。",
+	["DictKey_subtitle_14"] = "HAWG 7; SPRINGFIELD Control: 反乱分子の車列がイラクへ侵入中だ。ROE WEAPONS FREE。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "北イラク: 空対地",
+	["DictKey_subtitle_10"] = "HAWG 7; SPRINGFIELD Control: 反乱分子の車列を国境通過点1へ追跡中 ― 主国境ゲートだ。",
+	["DictKey_subtitle_16"] = "HAWG 7、SPRINGFIELD Controlより。車列は無力化された。繰り返す、車列は撃破された。RTBを許可する。",
+	["DictKey_descriptionBlueTask_3"] = "シリアで訓練・装備された反乱分子の自動車化部隊が、シリアのN4ハイウェイを南下し、ユーフラテス川のアル・カイム国境通過点へ向かっていることが確認された。最初の目標は、おそらくイラク軍国境警備所(軽装甲およびヘリコプター)だ。\
+\
+あなたはHAWG 7-1。バグダッド近郊での他任務から転用され、高速で国境地帯へ向かっている。兵装は2 × pods (14 rockets) M151 HE APKWS、4 × CBU-87 (burst altitude 1200 ft)、およびCM弾を搭載している。\
+\
+MQ-1A プレデターが当該空域に展開中だ。SPRINGFIELD 4-1(UAV管制)が装甲車列を捜索し、位置情報を提供する。反乱分子は主国境ポストを通過する可能性が高いが、西へ迂回して代替通過点を使用する可能性もある。更新はSPRINGFIELD 4-1が通報する。\
+\
+戦術データ:\
+主国境通過ポスト - ウェイポイント52/BDR 1\
+西側通過点 - ウェイポイントC51/BDR 2\
+\
+Bullseye - イラク軍国境警備所(N 34 22 45 / E 040 50 05)\
+\
+通信:\
+225.00MHz - プレデターUAV管制(SPRINGFIELD 3-1)\
+305.00MHz - タンカー(ARCO 4-1)\
+   TACAN 12Y TKR\
+\
+ATC:\
+アル・アサド・タワー - 118.20MHz",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

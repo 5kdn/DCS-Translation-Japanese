@@ -1,0 +1,11 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "コールドスタート",
+    ["DictKey_descriptionText_1"] = "コールド＆ダーク状態からの始動練習ミッションへようこそ。本ミッションを使用して、本機の始動手順を練習せよ。",
+    ["DictKey_descriptionBlueTask_3"] = "楽しんでくれ！ 始動完了後は、ルートに従って飛行し、紅海沿岸のエイラートを訪問せよ。",
+    ["DictKey_ActionText_6"] = "コールド＆ダーク状態からの始動練習ミッションへようこそ。本ミッションを使用して、本機の始動手順を練習せよ。\
+\
+始動完了後は、ルートに従って飛行し、紅海沿岸のエイラートを訪問せよ。",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

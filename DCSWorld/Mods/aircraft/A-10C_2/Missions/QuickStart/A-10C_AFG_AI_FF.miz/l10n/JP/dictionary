@@ -1,0 +1,12 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "アフガニスタン: フリーフライト",
+	["DictKey_descriptionText_1"] = "アフガニスタンへようこそ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたはミシガン州空軍州兵、第172戦闘飛行隊所属のA-10C HAWG 2-1である。空対地兵装を混載している。本日の任務は、アフガニスタン南東部の地域慣熟フライトだ。フライトプランに従ってもよいし、自由に探索してもよい。\
+\
+通信:\
+カンダハール・タワー - COMM 2 CH 1(125.50MHz)",
+	["DictKey_ActionText_6"] = "アフガニスタンへようこそ。脅威は存在しない。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

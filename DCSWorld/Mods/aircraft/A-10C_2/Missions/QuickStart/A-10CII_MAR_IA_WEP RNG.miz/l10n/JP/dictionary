@@ -1,0 +1,23 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionComment_11"] = "",
+    ["DictKey_descriptionText_1"] = "マリアナ諸島へようこそ。本日はファラロン・デ・メディニリャ島の兵器射爆場を使用する予定である。天候は良好で、射爆場はオープンしている。\
+",
+    ["DictKey_descriptionBlueTask_3"] = "あなたはA-10C HAWG 3-1だ。兵装は2×AGM-65D、2×AGM-65H、2×Mk-82、2×CBU-87、APKWSを搭載している。離陸後、マリアナ諸島兵器射爆場で技能訓練を実施せよ。再装填および給油のため、サイパンへ帰投してもよい。\
+\
+Communications:\
+Range Control   - 251.00MHz (UHF)\
+Saipan Intl ATC - 256.900MHz (UHF)\
+Tinian Intl ATC - 250.05MHz (UHF)\
+Andersen AFB    - 250.10MHz (UHF)\
+\
+ファラロン・デ・メディニリャ島の兵器射爆場は4つのエリアで構成されており、南から北へAREA 1、AREA 2、AREA 3、AREA 4と番号付けされている。各エリアの中心には白色のCONEXコンテナが設置されている。各エリア中心の目標座標は、SP 51から54としてあなたのナビゲーションシステムにロードされている。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "兵器射爆場",
+    ["DictKey_ActionText_16"] = "HAWG 3-1; Range Control: 射爆場へのHOTクリアランスを付与する。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_19"] = "Hawg 3-1; Marianas Range Control: レーダーコンタクト、12NM。射爆場へのHOTクリアランスを付与する。健闘を祈る。",
+    ["DictKey_ActionText_8"] = "マリアナ諸島へようこそ。天候は良好で、兵器射爆場はオープンしている。エンジンを始動し、射爆場へ向かえ。",
+    ["DictKey_ActionText_12"] = " ",
+} -- end of dictionary

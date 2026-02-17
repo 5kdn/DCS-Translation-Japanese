@@ -1,0 +1,162 @@
+dictionary = 
+{
+    ["DictKey_WptName_159"] = "",
+    ["DictKey_WptName_201"] = "",
+    ["DictKey_UnitName_212"] = "Smoke #001",
+    ["DictKey_WptName_135"] = "",
+    ["DictKey_WptName_138"] = "",
+    ["DictKey_WptName_168"] = "",
+    ["DictKey_UnitName_173"] = "Tbilisi Static #008",
+    ["DictKey_UnitName_164"] = "Tbilisi Static #005",
+    ["DictKey_WptName_76"] = "",
+    ["DictKey_UnitName_146"] = "Vaziani Static #020",
+    ["DictKey_WptName_198"] = "",
+    ["DictKey_GroupName_47"] = "VAZIANI AFB SUPPORT",
+    ["DictKey_UnitName_167"] = "Tbilisi Static #006",
+    ["DictKey_UnitName_128"] = "Vaziani Static #014",
+    ["DictKey_WptName_207"] = "",
+    ["DictKey_WptName_114"] = "",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_10"] = "橋を破壊したら、TANKSとラベルされたウェイポイント5へ南東進せよ。\
+\
+そこでは、道路交差点に3両の戦車からなるグループが確認できる。\
+\
+目標は白煙でマーキングされている。\
+\
+注意せよ。AAAおよびIR SAMの両方で防護されている。\
+",
+    ["DictKey_UnitName_197"] = "Tbilisi Static #014",
+    ["DictKey_WptName_183"] = "",
+    ["DictKey_UnitName_218"] = "Smoke #001",
+    ["DictKey_WptName_123"] = "",
+    ["DictKey_ActionText_231"] = "",
+    ["DictKey_UnitName_158"] = "Tbilisi Static #003",
+    ["DictKey_11"] = "戦車はすべて撃破したようだ。\
+\
+最終目標は、COLUMNとラベルされたウェイポイント6周辺で、南北方向に道路を移動中の装甲縦隊である。\
+\
+任務指示については、VHF AM 131.00でJTAC Playboyに連絡できる。\
+",
+    ["DictKey_WptName_126"] = "",
+    ["DictKey_WptName_219"] = "",
+    ["DictKey_UnitName_92"] = "Vaziani Static #002",
+    ["DictKey_UnitName_224"] = "Smoke #006",
+    ["DictKey_UnitName_221"] = "Smoke #006",
+    ["DictKey_WptName_180"] = "",
+    ["DictKey_UnitName_185"] = "Tbilisi Static #010",
+    ["DictKey_ActionText_82"] = "",
+    ["DictKey_UnitName_49"] = "Unit #002",
+    ["DictKey_UnitName_206"] = "Smoke #001",
+    ["DictKey_WptName_189"] = "",
+    ["DictKey_WptName_225"] = "",
+    ["DictKey_UnitName_131"] = "Vaziani Static #015",
+    ["DictKey_UnitName_152"] = "Tbilisi Static #001",
+    ["DictKey_ActionText_84"] = "",
+    ["DictKey_descriptionText_51"] = "地上目標のグループが、計画されたルート沿いに配置されている。",
+    ["DictKey_WptName_147"] = "",
+    ["DictKey_UnitName_194"] = "Tbilisi Static #013",
+    ["DictKey_ActionText_86"] = "",
+    ["DictKey_UnitName_134"] = "Vaziani Static #016",
+    ["DictKey_UnitName_215"] = "Smoke #001",
+    ["DictKey_12"] = "MISSION SUCCESS\
+-----------------------\
+\
+見事な戦果だ！\
+\
+RTBしてもよいし、任務を継続してもよい。\
+",
+    ["DictKey_UnitName_155"] = "Tbilisi Static #002",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_UnitName_179"] = "Tbilisi Static #017",
+    ["DictKey_UnitName_101"] = "Vaziani Static #005",
+    ["DictKey_UnitName_125"] = "Vaziani Static #013",
+    ["DictKey_UnitName_182"] = "Tbilisi Static #009",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_UnitName_104"] = "Vaziani Static #006",
+    ["DictKey_UnitName_161"] = "Tbilisi Static #004",
+    ["DictKey_WptName_153"] = "",
+    ["DictKey_WptName_213"] = "",
+    ["DictKey_WptName_186"] = "",
+    ["DictKey_UnitName_116"] = "Vaziani Static #007",
+    ["DictKey_UnitName_188"] = "Tbilisi Static #011",
+    ["DictKey_8"] = "トラックの撃破、見事だ！\
+\
+次の目標は、PATROLとラベルされたウェイポイント3にいる、トラック2両と歩兵からなる反乱軍の哨戒部隊だ。\
+\
+目標はレッドスモークでマーキングされている。\
+\
+これを排除せよ。\
+",
+    ["DictKey_UnitName_110"] = "Vaziani Static #009",
+    ["DictKey_UnitName_48"] = "Unit #003",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_WptName_210"] = "",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_UnitName_203"] = "",
+    ["DictKey_WptName_129"] = "",
+    ["DictKey_UnitName_113"] = "Vaziani Static #010",
+    ["DictKey_UnitName_200"] = "Tbilisi Static #015",
+    ["DictKey_9"] = "その哨戒目標の撃破、よくやった。\
+\
+次は橋の破壊に取り掛かろう。\
+\
+BRIDGEとラベルされたウェイポイント4の橋を破壊せよ。\
+\
+数個のAAAユニットが防御についている。\
+",
+    ["DictKey_ActionText_80"] = "",
+    ["DictKey_7"] = "補給トラック2両が前方にいる。町の左手、川の分岐点付近で、距離は9km先だ。\
+\
+目標グループは緑煙でマーキングされている。\
+\
+SUPPLYとラベルされたウェイポイント2が目標位置である。\
+",
+    ["DictKey_UnitName_170"] = "Tbilisi Static #007",
+    ["DictKey_WptName_222"] = "",
+    ["DictKey_WptName_177"] = "",
+    ["DictKey_UnitName_119"] = "Vaziani Static #011",
+    ["DictKey_descriptionRedTask_52"] = "",
+    ["DictKey_descriptionBlueTask_53"] = "僚機と連携し、可能な限り多くのユニットを撃破せよ。\
+\
+無線使用について:\
+\
+Easy Communicationsを使用している場合、デフォルトキー\\で通信メニューからすべての友軍と連絡できる。\
+\
+Realistic Communicationsを使用している場合、友軍アセットは以下の周波数を使用する:\
+僚機: UHF 251.000、HOTAS Mic Switch Down、デフォルト: LAlt + Num-\
+JTAC Playboy(有効化時): VHF AM 131.000、HOTAS Mic Switch Forward、デフォルト: LAlt + Num+",
+    ["DictKey_UnitName_227"] = "Smoke #006",
+    ["DictKey_WptName_216"] = "",
+    ["DictKey_UnitName_107"] = "Vaziani Static #008",
+    ["DictKey_WptName_165"] = "",
+    ["DictKey_UnitName_209"] = "Smoke #001",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_WptName_150"] = "",
+    ["DictKey_UnitName_149"] = "Vaziani Static #021",
+    ["DictKey_UnitName_98"] = "Vaziani Static #004",
+    ["DictKey_UnitName_176"] = "Tbilisi Static #016",
+    ["DictKey_WptName_162"] = "",
+    ["DictKey_WptName_156"] = "",
+    ["DictKey_UnitName_191"] = "Tbilisi Static #012",
+    ["DictKey_WptName_228"] = "",
+    ["DictKey_WptName_93"] = "",
+    ["DictKey_UnitName_140"] = "Vaziani Static #018",
+    ["DictKey_WptName_171"] = "",
+    ["DictKey_WptName_192"] = "",
+    ["DictKey_UnitName_89"] = "Vaziani Static #001",
+    ["DictKey_UnitName_95"] = "Vaziani Static #003",
+    ["DictKey_WptName_174"] = "",
+    ["DictKey_UnitName_137"] = "Vaziani Static #017",
+    ["DictKey_sortie_54"] = "Easy - 東ジョージア - 春",
+    ["DictKey_WptName_195"] = "",
+    ["DictKey_WptName_117"] = "",
+    ["DictKey_WptName_102"] = "",
+    ["DictKey_UnitName_143"] = "Vaziani Static #019",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_WptName_204"] = "",
+    ["DictKey_WptName_141"] = "",
+    ["DictKey_WptName_132"] = "",
+    ["DictKey_UnitName_50"] = "Unit #001",
+    ["DictKey_UnitName_122"] = "Vaziani Static #012",
+} -- end of dictionary

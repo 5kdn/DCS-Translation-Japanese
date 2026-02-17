@@ -1,0 +1,57 @@
+dictionary = 
+{
+    ["DictKey_descriptionRedTask_75"] = "",
+    ["DictKey_25"] = "Hawg 2-1、オンステーション。指示待ち。",
+    ["DictKey_17"] = "2S1自走砲部隊を撃破した。",
+    ["DictKey_23"] = "Hawg 2-1、オンステーション。指示待ち。",
+    ["DictKey_13"] = "以下のJTACへコンタクトせよ:\
+\
+Deathstar - 30.000 VHF FM\
+\
+Colt AFAC - 40.000 VHF FM",
+    ["DictKey_sortie_77"] = "シューティング・ギャラリー",
+    ["DictKey_19"] = "Ural 375トラック部隊を撃破した。",
+    ["DictKey_14"] = "T-55戦車部隊を撃破した。",
+    ["DictKey_16"] = "BTR-80装甲兵員輸送車部隊を撃破した。",
+    ["DictKey_26"] = "MISSION SUCCESS\
+----------------------\
+\
+全目標を撃破した。任務完了だ。\
+\
+RTBを許可する。\
+\
+Out.\
+",
+    ["DictKey_20"] = "",
+    ["DictKey_24"] = "[Hawg 1-1-, Hawg 2-1]:\
+\
+IPへ進入中。\
+\
+Out.\
+",
+    ["DictKey_15"] = "BMP-1歩兵戦闘車部隊を撃破した。",
+    ["DictKey_21"] = "Mi-8MTヘリコプターを撃破した。",
+    ["DictKey_18"] = "GAZ-66トラック部隊を撃破した。",
+    ["DictKey_descriptionBlueTask_76"] = "本ミッションは、JTACおよび他フライト支援と連携した各種兵装の使用を訓練することを目的とする。",
+    ["DictKey_descriptionText_74"] = "本ミッションは、JTACおよび他フライトの支援と連携し、各種兵装の使用を訓練するためのものである。\
+\
+地上および航空JTACは以下の周波数で利用可能:\
+\
+JTAC(Deathstar 1)     - 30.000 VHF FM\
+AFAC Predator(Colt 1) - 40.000 VHF FM\
+\
+KC-135空中給油支援は150.00 VHF FM、TCN 46X。\
+\
+別のA-10C編隊がタスキング可能だ。\
+\
+Hawg 2がオンステーションに入ったとのメッセージ受信後、メイン無線メニューからF10 Otherや、F1コマンドを使用して、ホールドポイント離脱および目標部隊への攻撃を命令せよ。\
+",
+    ["DictKey_22"] = "[Hawg 1-1, Hawg 2-1]:\
+\
+タスキング待機中。\
+\
+無線メニューF-10 Other、F-1でタスクを指示せよ。\
+\
+Out.\
+",
+} -- end of dictionary

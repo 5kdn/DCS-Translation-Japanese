@@ -1,0 +1,23 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "アフガニスタン: VFR着陸",
+    ["DictKey_descriptionText_1"] = "キャンプ・バスティオン飛行場に着陸せよ。",
+    ["DictKey_descriptionBlueTask_3"] = "あなたはHAWG 4-1。ミシガン州空軍州兵、第172戦闘飛行隊所属のA-10Cである。本日はキャンプ・バスティオン飛行場への着陸が予定されている。開始位置はキャンプ・バスティオンの南約8NM、5,000ft MSL(2,500ft AGL)、240kt、クリーン・コンフィグレーションだ。現在、Active Pause中である。\
+\
+コックピット/アビオニクス設定を任意に行え。\
+\
+通信:\
+キャンプ・バスティオン・タワー - COMM 2 CH 1(123.30MHz)\
+\
+航法:\
+バスティオンTACAN - Chan 98X(BAS)",
+    ["DictKey_ActionText_8"] = "",
+    ["DictKey_ActionText_6"] = "アフガニスタンへようこそ。現在、Active Pause中だ。\
+\
+航法:\
+バスティオンTACAN - Chan 98X(BAS)\
+\
+進入を開始する準備ができたら、SPACEBARを押して続行せよ。",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

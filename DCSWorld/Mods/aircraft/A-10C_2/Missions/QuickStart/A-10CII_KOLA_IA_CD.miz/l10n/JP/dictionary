@@ -1,0 +1,15 @@
+dictionary = 
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "コラ半島: コールド＆ダーク",
+    ["DictKey_descriptionText_1"] = "ボードー空軍基地へようこそ。",
+    ["DictKey_descriptionBlueTask_3"] = "あなたはボードー空軍基地に展開する第81戦闘飛行隊所属のA-10C TUSK 1-1であり、同飛行隊のA-10C 2機編隊を率いるフライトリードだ。あなたの飛行隊の一部はノルウェーのボードー空軍基地に展開している。本日の任務は慣熟飛行の実施である。フライトプランに従ってもよいし、自由に探索してもよい。フライトプランには、ウェイポイント2から10までの低空ルート(500ft AGL)が含まれている。周辺空域では、米海軍の空母打撃群および強襲揚陸群が飛行運用を実施中である。\
+\
+Communications:\
+Tactical - 305.00MHz (CH 1)\
+Bodø Tower - 118.30MHz (CH 2)\
+USN Ships - 129.25MHz (CH 3)",
+    ["DictKey_ActionText_8"] = " ",
+    ["DictKey_ActionText_7"] = "ボードー空軍基地へようこそ。天候は晴朗、風は弱い。",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

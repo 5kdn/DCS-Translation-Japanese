@@ -1,0 +1,9 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "北イラク: フリーフライト",
+	["DictKey_descriptionText_1"] = "2012年頃のイラクへようこそ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたはHAWG 2-1。USAF第357戦闘飛行隊所属のA-10Cである。兵装は2 × AGM-65、4 × GBU-38、2 × AIM-9Mを搭載している。\"Hawgs\"はイラクへ展開したばかりだ。本日の任務は、イラク北部地域の慣熟飛行を実施することだ。フライトプランに従ってもよいし、自由に探索してもよい。",
+	["DictKey_ActionText_7"] = "イラクへようこそ。脅威は存在しない。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

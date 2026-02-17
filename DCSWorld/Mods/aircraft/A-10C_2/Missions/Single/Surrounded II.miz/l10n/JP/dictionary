@@ -1,0 +1,87 @@
+dictionary = 
+{
+    ["DictKey_UnitName_72"] = "US Civilians #001",
+    ["DictKey_17"] = "MISSION FAILED\
+--------------------\
+\
+防衛を命じられていた町の中心部に、敵部隊が到達した。\
+\
+住民は処刑された。\
+\
+RTBせよ。\
+\
+Out.\
+",
+    ["DictKey_13"] = "[Hawg 1-1、こちらFinger]:\
+\
+BMP-2小隊が東方から舗装路を通ってこちらへ接近中。\
+\
+Out.\
+",
+    ["DictKey_GroupName_56"] = "US AFAC Reaper (Enfield 1-1)",
+    ["DictKey_WptName_106"] = "",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_WptName_107"] = "AFAC Reaper (Enfield 1)",
+    ["DictKey_descriptionText_75"] = "M1A2戦車小隊と付属JTAC(Finger)が、40-30-22N / 39-21-12Eに位置する小さな町を防衛している。\
+\
+敵部隊は彼らを包囲しており、陣地への進攻準備を進めている。\
+\
+",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_UnitName_57"] = "AFAC Reaper (Enfield 1)",
+    ["DictKey_16"] = "[Hawg 1-1、こちらFinger]:\
+\
+T-80戦車小隊が東方から舗装路を通ってこちらへ接近中。\
+\
+Out.\
+",
+    ["DictKey_descriptionRedTask_76"] = "",
+    ["DictKey_14"] = "[Hawg 1-1、こちらFinger]:\
+\
+T-72戦車小隊が北方から舗装路を通ってこちらへ接近中。\
+\
+Out.\
+",
+    ["DictKey_10"] = "[Hawg 1-1、こちらFinger]:\
+\
+BTR小隊が西方から舗装路を通ってこちらへ接近中。\
+\
+Out.\
+",
+    ["DictKey_11"] = "[Hawg 1-1、こちらFinger]:\
+\
+BMP-1小隊が東方から舗装路を通ってこちらへ接近中。\
+\
+Out.\
+",
+    ["DictKey_15"] = "[Hawg 1-1、こちらFinger]:\
+\
+BMP-3小隊が西方から舗装路を通ってこちらへ接近中。\
+\
+Out.\
+",
+    ["DictKey_UnitName_74"] = "US Civilians #002",
+    ["DictKey_18"] = "MISSION SUCCESS\
+-----------------------\
+\
+Hawg 1-1、こちらFinger。\
+\
+これで最後だ。\
+\
+支援に感謝する。\
+\
+Out.\
+",
+    ["DictKey_12"] = "[Hawg 1-1、こちらFinger]:\
+\
+T-55戦車小隊が西方から舗装路を通ってこちらへ接近中。\
+\
+Out.\
+",
+    ["DictKey_sortie_78"] = "包囲下 ― CAS",
+    ["DictKey_WptName_105"] = "",
+    ["DictKey_descriptionBlueTask_77"] = "任務目標は、Fingerの陣地を防衛し、敵部隊が町の中心部へ進入するのを阻止することだ。\
+ - 40-30-22N / 39-21-12E\
+\
+JTAC(Finger 1-1)、VHF FM 30.000。",
+} -- end of dictionary
