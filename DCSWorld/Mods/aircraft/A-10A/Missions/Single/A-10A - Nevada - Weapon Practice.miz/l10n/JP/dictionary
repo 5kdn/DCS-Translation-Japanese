@@ -73,14 +73,14 @@ dictionary =
     ["DictKey_UnitName_44"] = "",
     ["DictKey_WptName_180"] = "",
     ["DictKey_UnitName_83"] = "",
-    ["DictKey_descriptionText_1"] = "ウェイポイント1前方にザ・ホエールと呼ばれる小山がある。すぐ西に小さな丘がある。ザ・ホエールと丘の間に目標車両3グループがいる。APCは緑煙、戦車は赤煙、自走砲は青煙で標示される。\
+    ["DictKey_descriptionText_1"] = "ウェイポイント1前方に\"ザ・ホエール\"と呼ばれる小山がある。すぐ西に小さな丘がある。ザ・ホエールと丘の間に目標車両3グループがいる。APCはグリーンスモーク、戦車はレッドスモーク、自走砲はブルースモークでマーキングされる。\
 \
 このミッションで多様な目標への兵装使用を練習せよ。\
 ",
     ["DictKey_UnitName_71"] = "",
     ["DictKey_WptName_54"] = "",
     ["DictKey_UnitName_134"] = "",
-    ["DictKey_ActionText_193"] = "ウェイポイント1前方にザ・ホエールと呼ばれる小山がある。すぐ西に小さな丘がある。ザ・ホエールと丘の間に目標車両3グループがいる。APCは緑煙、戦車は赤煙、自走砲は青煙で標示される。\
+    ["DictKey_ActionText_193"] = "ウェイポイント1前方に\"ザ・ホエール\"と呼ばれる小山がある。すぐ西に小さな丘がある。ザ・ホエールと丘の間に目標車両3グループがいる。APCはグリーンスモーク、戦車はレッドスモーク、自走砲はブルースモークでマーキングされる。\
 \
 このミッションで各種目標への兵装使用を練習せよ。\
 ",
@@ -122,13 +122,13 @@ dictionary =
     ["DictKey_WptName_81"] = "",
     ["DictKey_WptName_93"] = "",
     ["DictKey_WptName_69"] = "",
-    ["DictKey_ActionText_194"] = "目標グループを煙で標示した。",
+    ["DictKey_ActionText_194"] = "目標グループをスモークでマーキングした。",
     ["DictKey_UnitName_107"] = "",
     ["DictKey_UnitName_17"] = "",
     ["DictKey_WptName_84"] = "",
     ["DictKey_UnitName_77"] = "",
     ["DictKey_UnitName_65"] = "",
-    ["DictKey_descriptionBlueTask_3"] = "煙で標示された全目標を撃破せよ。",
+    ["DictKey_descriptionBlueTask_3"] = "スモークでマーキングされた全目標を撃破せよ。",
     ["DictKey_WptName_33"] = "",
     ["DictKey_WptName_117"] = "",
     ["DictKey_WptName_102"] = "",

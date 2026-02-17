@@ -73,7 +73,7 @@ dictionary =
 	["DictKey_UnitName_59"] = "",
 	["DictKey_ActionText_228"] = "T-55戦車とBMP-1 IFVの混成中隊が、トレーラーパス峠を通る道路を西から東へ移動中だ。中隊にはZSU-23-4とSA-9が随伴している。\
 \
-中隊は赤煙で標示されている。\
+中隊はレッドスモークでマーキングされている。\
 \
 峠を抜ける前に中隊を撃破せよ。\
 ",
@@ -136,7 +136,7 @@ dictionary =
 	["DictKey_UnitName_134"] = "",
 	["DictKey_GroupName_190"] = "Target-3-3",
 	["DictKey_WptName_165"] = "",
-	["DictKey_ActionText_193"] = "ウェイポイント1前方にザ・ホエールと呼ばれる小山がある。すぐ西に小さな丘がある。ザ・ホエールと丘の間に目標車両3グループがいる。APCは緑煙、戦車は赤煙、自走砲は青煙で標示される。\
+	["DictKey_ActionText_193"] = "ウェイポイント1前方にザ・ホエールと呼ばれる小山がある。すぐ西に小さな丘がある。ザ・ホエールと丘の間に目標車両3グループがいる。APCはグリーンスモーク、戦車はレッドスモーク、自走砲はブルースモークでマーキングされる。\
 \
 このミッションで多様な目標への兵装使用を訓練せよ。\
 ",
@@ -188,7 +188,7 @@ dictionary =
 	["DictKey_WptName_27"] = "",
 	["DictKey_WptName_93"] = "",
 	["DictKey_ActionText_196"] = "T-55戦車グループを破壊した。",
-	["DictKey_ActionText_194"] = "目標グループを煙でマークした。",
+	["DictKey_ActionText_194"] = "目標グループをスモークでマークした。",
 	["DictKey_UnitName_238"] = "Pilot #002",
 	["DictKey_UnitName_17"] = "",
 	["DictKey_UnitName_158"] = "",

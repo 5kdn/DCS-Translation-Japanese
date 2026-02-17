@@ -39,7 +39,7 @@ dictionary =
     ["DictKey_UnitName_333"] = "Smoke #001",
     ["DictKey_UnitName_315"] = "Kutaisi FOB Static #009",
     ["DictKey_UnitName_43"] = "Unit #21",
-    ["DictKey_6"] = "Hawg 1、こちらRodeo。位置を緑煙で標示した。ここは射撃禁止区域だ。敵は全て南西にいる。Out.",
+    ["DictKey_6"] = "Hawg 1、こちらRodeo。位置をグリーンスモークでマーキングした。ここは射撃禁止区域だ。敵は全て南西にいる。Out.",
     ["DictKey_WptName_178"] = "",
     ["DictKey_GroupName_30"] = "RU IFV W1",
     ["DictKey_WptName_153"] = "",
@@ -129,7 +129,7 @@ dictionary =
     ["DictKey_GroupName_34"] = "RU IFV E2",
     ["DictKey_8"] = "Hawg 1、こちらRodeo。戦車撃破は見事だった。だが、BMPがこちらに向かっているようだ。\
 \
-前進軸は白煙で標示した。さらに南西からHind接近の報告もある。Out.",
+前進軸はホワイトスモークでマーキングした。さらに南西からHind接近の報告もある。Out.",
     ["DictKey_WptName_280"] = "",
     ["DictKey_UnitName_264"] = "Kutaisi Static #025",
     ["DictKey_UnitName_306"] = "Kutaisi FOB Static #006",
@@ -207,7 +207,7 @@ dictionary =
     ["DictKey_UnitName_31"] = "Unit #14",
     ["DictKey_UnitName_35"] = "Unit #17",
     ["DictKey_WptName_349"] = "",
-    ["DictKey_7"] = "Hawg 1、こちらRodeo。前進中の敵装甲の中央を赤煙で標示した。攻撃許可。Out.",
+    ["DictKey_7"] = "Hawg 1、こちらRodeo。前進中の敵装甲の中央をレッドスモークでマーキングした。攻撃許可。Out.",
     ["DictKey_GroupName_359"] = "Smoke #012",
     ["DictKey_WptName_250"] = "",
     ["DictKey_WptName_104"] = "",
@@ -321,7 +321,7 @@ dictionary =
 \
 実施:   タスクフォースRODEOは、ホビ市付近の南西から接近するロシア軍攻撃を鈍化させるためCASを要請している。Rodeoが任務指示を行い、必要に応じて目標をマーキングする。\
 \
-追加のCASフライトHawg 1とHawg 2が任務対応可能。ステーション到着のコール後、通信F10 Otherメニューで交戦許可を与えよ。\
+追加のCASフライトHawg 1とHawg 2が任務対応可能。ステーション到着のコール後、通信F10 \"Other\"メニューで交戦許可を与えよ。\
 \
 ROE: 任務を脅かすbanditsとの交戦を許可する。\
 ",

@@ -18,7 +18,7 @@ dictionary =
 \
 周辺のAAAおよびSAM活動は非常に重い。\
 \
-目標地域のイエロースモーク標識を待機せよ。Out.",
+目標地域のイエロースモークのマーキングまで待機せよ。Out.",
 	["DictKey_UnitName_100"] = "New Static Object",
 	["DictKey_WptName_198"] = "",
 	["DictKey_sortie_137"] = "CAS",
