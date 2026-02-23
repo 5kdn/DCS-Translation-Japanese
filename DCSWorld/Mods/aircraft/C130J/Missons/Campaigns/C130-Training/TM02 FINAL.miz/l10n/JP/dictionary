@@ -1,0 +1,196 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "PLAYER: UTILは問題なし。",
+    ["DictKey_ActionText_123"] = "PLAYER: ラジャー。APUスタート。",
+    ["DictKey_ActionText_93"] = "INSTRUCTOR: まずバッテリーのテストだ。テストスイッチをAV（Avionics）とUTIL（Utility）に切り替えて、両方とも24ボルト以上を確認しろ。",
+    ["DictKey_ActionText_165"] = "INSTRUCTOR: よし、次はBLEED AIRパネルだ。APUブリードエアバルブを開け。",
+    ["DictKey_ActionText_103"] = "INSTRUCTOR: Master Cautionをリセットしろ。",
+    ["DictKey_ActionText_74"] = "INSTRUCTOR: どちらかのモーターが故障しても、もう片方で照明できるよう独立している。それにライトはかなり熱を持つから、片側が翼の中に収納されたままだと熱トラブルになることがある。IR機能もあるから、NVG着陸では明るすぎる場合、片側だけで十分なこともある。",
+    ["DictKey_ActionText_245"] = "PLAYER: 選択しました。",
+    ["DictKey_ActionText_261"] = "[今聞こえているビープ音はICS（インターコム）システムの起動音だ]",
+    ["DictKey_ActionText_121"] = "LOADIE: 問題なし、オープン、ニュートラル。",
+    ["DictKey_ActionText_95"] = "PLAYER: AVで24ボルト確認…",
+    ["DictKey_ActionText_66"] = "INSTRUCTOR: ワイパーはOFF、空調は設定済み、中央のGEARレバーはDOWNだ。",
+    ["DictKey_ActionText_214"] = "INSTRUCTOR: そのとおり。これはプロペラの補助ポンプと、エンジンファイアハンドルおよびオイルシャットオフ用だ。これらをリセットする必要がある。CNBPでもCNIでもできる。各ECBには固有の3桁の識別コードがある。",
+    ["DictKey_ActionText_50"] = "INSTRUCTOR: そんな機能はない。気にするな。次はFADECとプロペラ制御に行くぞ。",
+    ["DictKey_ActionText_14"] = "PLAYER: 完了。",
+    ["DictKey_ActionText_38"] = "INSTRUCTOR: この中央にデジタル表示が並んでいる大きなパネルがFUEL MANAGEMENT PANELだ。\
+\
+ここで各エンジンへの燃料供給を制御したり、すべてのタンクの燃料量を確認できる。今は左と右のFUEL DUMPスイッチ、つまりガード付きのスイッチがOFFになっているかを確認するだけでいい。右側のFUEL DUMPスイッチはOFFだ。",
+    ["DictKey_ActionText_129"] = "INSTRUCTOR: ブーストポンプON。",
+    ["DictKey_ActionText_155"] = "INSTRUCTOR: 今回は煙探知器と火災探知のテストは省略する。副操縦士側の照明と表示のテストを行う。まずランプテストだ。\
+\
+[注：IPがボタンを押すので、すべての灯火が点灯するか確認するだけでいい。]",
+    ["DictKey_ActionText_198"] = "INSTRUCTOR: よし！コックピットセットアップに進むぞ！",
+    ["DictKey_ActionText_101"] = "INSTRUCTOR: まずバッテリーをテストする。テストスイッチをAV（Avionics）とUTIL（Utility）に切り替えて、両方とも24ボルト以上出ていることを確認しろ。",
+    ["DictKey_ActionText_160"] = "INSTRUCTOR: ディスプレイ…",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_30"] = "INSTRUCTOR: 次は右のBLEED AIRパネルだ。すべてのスイッチが中央のAUTO位置になっているはずだ。",
+    ["DictKey_ActionText_113"] = "INSTRUCTOR: よし。ではロードに確認して、APUがクリアかどうかチェックしろ。",
+    ["DictKey_ActionText_68"] = "PLAYER: チェック。",
+    ["DictKey_ActionText_158"] = "PLAYER: すべて問題なさそうです。",
+    ["DictKey_ActionText_243"] = "INSTRUCTOR: MASTER AVを選択しろ。\
+\
+[注：MASTER AVは、PFDにピッチラダーが表示されてから有効にすること]",
+    ["DictKey_ActionText_60"] = "PLAYER: 確認できてます、サー。",
+    ["DictKey_ActionText_127"] = "PLAYER: 入れた。",
+    ["DictKey_ActionText_88"] = "INSTRUCTOR: よし！ 始動準備完了。他にあるか？",
+    ["DictKey_ActionText_241"] = "PLAYER: OK。",
+    ["DictKey_ActionText_172"] = "PLAYER: 確認、45以上です。",
+    ["DictKey_ActionText_107"] = "PLAYER: こちら問題なし。",
+    ["DictKey_ActionText_234"] = "INSTRUCTOR: 一覧を見るには、SYS / BUS / OPENの横にある左のボタンを押してリストを切り替えろ。NEXT PGとPREV PGでページを切り替えられる。",
+    ["DictKey_ActionText_141"] = "PLAYER: RPM100％。",
+    ["DictKey_ActionText_222"] = "INSTRUCTOR: ああ。ECBは、すべての番号をまとめて入力すれば一括でリセットすることもできる。今それをやってみろ。",
+    ["DictKey_ActionText_24"] = "PLAYER: OK、完了。",
+    ["DictKey_ActionText_224"] = "PLAYER: よし…全部入力する。\
+\
+[注：残っているすべてのECBのコードを、まとめて1つの数字列として入力してからRESETを押せ]",
+    ["DictKey_ActionText_64"] = "PLAYER: 言う通りにしてるよ。",
+    ["DictKey_ActionText_228"] = "PLAYER: システムがリセットの確認を求めてきます。",
+    ["DictKey_ActionText_28"] = "PLAYER: イエッサー。",
+    ["DictKey_ActionText_36"] = "PLAYER: AUTOに設定しました。",
+    ["DictKey_sortie_5"] = "C-130J Training Mission 02: Startup",
+    ["DictKey_ActionComment_7"] = "",
+    ["DictKey_ActionText_92"] = "よくできました！",
+    ["DictKey_descriptionText_1"] = "Airplane Simulation Company製 C-130J へようこそ！\
+\
+この一連のトレーニングミッションでは、大型輸送機Herculesの基本的な操縦と運用を学んでもらう。\
+\
+これらは実際の出撃を模した1本の長いフライトとして構成され、学習しやすく、かつ楽しめるよう11パートに分割されている。復習したいパートややり直したい内容にも、すぐに戻れるようになっている。\
+\
+開始前に、SETTINGSメニューのCONTROLSで「DIALOG RESPONSES（Response: Negative / Neutral / Positive）」をHOTASの3ポジションスイッチに割り当てることを強く推奨する。これにより、SPACEBARやF10ラジオメニューを使わずにミッションを進行できる。\
+\
+君は、リトルロック所属・第19航空団のC-130J左席に搭乗し、リフレッシャー出撃に参加する。\
+\
+Kutaisi Air Baseを離陸し、訓練エリアへ向かって低空で補給物資を投下、その後Batumi空港へ着陸する。\
+\
+各フェーズでは、IPが随時指示を出す。\
+\
+この最初のパートでは、始動前のコックピットチェックと準備に焦点を当て、所要時間は約10分だ。\
+\
+注意事項：\
+\
+1) ミッションは、SPACEBARまたはHOTASに割り当てたDIALOG RESPONSESの入力待ちになる場面が多い。焦る必要はない。現在の作業に集中したり、各オプションに慣れてから先へ進んでよい。ポップアップは画面左側に表示される。\
+\
+2) コックピット内にはハイライトが表示されるが、パネル全体の説明時は通常、そのパネル内の1つのスイッチのみがハイライトされる。個別の操作が必要な場合は、対象のスイッチがハイライトされる。\
+\
+下の「Objective」欄にある追加メモとブリーフィングも必ず確認すること！",
+    ["DictKey_ActionText_247"] = "INSTRUCTOR: エレベータータブスイッチを前に倒してNORM位置にしろ。これを忘れるとオートパイロットが動かない。",
+    ["DictKey_ActionText_210"] = "INSTRUCTOR: では、ECBページをHDDのどれかに表示する必要がある。今はHDDの横に反転表示でOFFと出ているのが見えるな。\
+\
+HDD 2に表示しよう。スクラッチパッドで「2」を押してから、1行目の横にある矢印を押せ。",
+    ["DictKey_ActionText_187"] = "INSTRUCTOR: HUDを下ろせ。",
+    ["DictKey_ActionText_119"] = "PLAYER: Loadies、APU側のランプとドアの状態は？",
+    ["DictKey_ActionText_84"] = "INSTRUCTOR: AIR DELIVERYパネルのAIR DEFLECTORスイッチがCLOSED、つまり後方位置になっているか確認しろ。",
+    ["DictKey_ActionText_22"] = "INSTRUCTOR: では、頭上のICE PROTECTIONパネルだ。\
+\
+PROPELLERSスイッチは正しくOFFになっている。だがENGINE ICE PROTECTIONスイッチはAUTOにしておけ。",
+    ["DictKey_ActionText_226"] = "INSTRUCTOR: すべて入力したら、もう一度RESETを押せ。",
+    ["DictKey_ActionText_20"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_183"] = "INSTRUCTOR: よし。AUTO NAVを選択しろ。",
+    ["DictKey_ActionText_109"] = "INSTRUCTOR: スイッチをExternal Powerにセットしろ。",
+    ["DictKey_ActionText_105"] = "PLAYER: ギアライト良好、両方のHDDオン、CNIオン。バッテリーテストをもう一度やる。\
+\
+[注：AVとUTILの両方をチェック]",
+    ["DictKey_ActionText_139"] = "PLAYER: APU回転上昇中…",
+    ["DictKey_ActionText_99"] = "",
+    ["DictKey_ActionText_204"] = "PLAYER: ああ。あれはCNBPにありますよね？",
+    ["DictKey_ActionText_167"] = "PLAYER: 開いています。",
+    ["DictKey_ActionText_193"] = "PLAYER: 準備OK。",
+    ["DictKey_ActionText_82"] = "PLAYER: OK。",
+    ["DictKey_ActionText_12"] = "INSTRUCTOR: よし。ではバッテリースイッチをONにしろ。",
+    ["DictKey_ActionText_191"] = "INSTRUCTOR: 明るさノブを引き出して、オートモードを有効にしろ。\
+\
+[注：ノブを左クリック]",
+    ["DictKey_ActionText_34"] = "INSTRUCTOR: プレッシャライゼーションパネルはこっち側にある。EMERGENCY DEPRESSURIZEはNORMのままだが、MODE SELECTノブをAUTOにしろ。",
+    ["DictKey_ActionText_40"] = "INSTRUCTOR: よし。次はお前側のEXTERIOR LIGHTING PANELだ。すべてのライトはOFFにしておけ。",
+    ["DictKey_ActionText_70"] = "INSTRUCTOR: さらに右がLANDING LIGHTSパネルだ。LEFTとRIGHT MOTORライトはHOLD、左右のLANDING LIGHT、TAXIライト、WINGTIP TAXI LIGHTはいずれもOFFで正しい。",
+    ["DictKey_ActionText_143"] = "INSTRUCTOR: よし。電源パネルで、電源ソースをAPUに切り替えろ。",
+    ["DictKey_ActionText_18"] = "テスト",
+    ["DictKey_ActionText_176"] = "PLAYER: ラジャー。",
+    ["DictKey_ActionText_32"] = "PLAYER: その通りです。",
+    ["DictKey_ActionText_76"] = "INSTRUCTOR: よし、次だ。さらに右にHYDRAULIC CONTROL PANELがある。AUXILIARY PUMPはOFFのままでいいが、ANTI-SKIDをONにしろ。",
+    ["DictKey_ActionText_185"] = "PLAYER: 完了。",
+    ["DictKey_ActionText_115"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_16"] = "INSTRUCTOR: 次へ進むぞ。External Power／APUスイッチはOFF、バッテリースイッチもOFFにしておけ。",
+    ["DictKey_ActionText_58"] = "INSTRUCTOR: 下のPROPELLER CONTROLスイッチも同様だ。最後に、PROP SYNCスイッチとガード付きのATCSは両方ともONにしておけ。",
+    ["DictKey_ActionText_153"] = "PLAYER: イエッサー。",
+    ["DictKey_ActionText_200"] = "PLAYER: ロシア機みたいに、山ほど押し込まないと始動できないやつですか？",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_145"] = "PLAYER: セット。",
+    ["DictKey_ActionText_232"] = "PLAYER: 開いているECBはもうありません。",
+    ["DictKey_ActionText_151"] = "INSTRUCTOR: FUEL MANAGEMENT PANELの確認だ。\
+ダンプスイッチはクローズ\
+燃料レベルコントロールバルブのテストはOFF\
+クロスシップスイッチはクローズ\
+8つ全てのトランスファースイッチはクローズ\
+クロスフィードスイッチはクローズ\
+シングルポイント給油バルブはクローズ\
+ドレンはOFF\
+タンクセレクトはOFF",
+    ["DictKey_ActionText_52"] = "PLAYER: OK.",
+    ["DictKey_ActionText_137"] = "INSTRUCTOR: よし！始動しろ。ノブをSTARTに回して、グリーンライトを待て。\
+\
+[注：キーボードの「2」を押すと一時的に右席に移動できる。「1」を押せば自席に戻れる。]",
+    ["DictKey_ActionText_44"] = "PLAYER: 全ライトOFF確認。そちら側のライトは操作できるのか？",
+    ["DictKey_ActionText_125"] = "INSTRUCTOR: 補助油圧ポンプONだ。これからはAUXポンプって呼ぶぞ。",
+    ["DictKey_ActionText_62"] = "INSTRUCTOR: よし。右側にFIRE／ENGINE START PANELがある。4つのハンドルは押し込み状態、そして俺側にあるAPU CONTROLスイッチはOFFだ。",
+    ["DictKey_ActionText_135"] = "PLAYER: ストロボライト、赤に設定。",
+    ["DictKey_ActionText_195"] = "INSTRUCTOR: よし、もう一つ、始動時に本当に重要なものがある。電子サーキットブレーカー、つまりECBだ。",
+    ["DictKey_ActionText_212"] = "PLAYER: OK、引き抜かれたECBが黄色表示で見える。",
+    ["DictKey_ActionText_80"] = "INSTRUCTOR: 本来はPILOT LIGHTINGパネルで照明を調整するが、今回は不要だ。",
+    ["DictKey_ActionText_46"] = "INSTRUCTOR: できない。でも空調は俺の担当だ。変なことしたら凍死させるぞ。",
+    ["DictKey_ActionText_72"] = "PLAYER: チェック。左右のランディングライトを個別に操作できるの、面白いですね。片側だけ使う場面ってあるんですか？",
+    ["DictKey_ActionText_230"] = "INSTRUCTOR: そうだ、もう一度RESETを押せ。",
+    ["DictKey_ActionText_253"] = "",
+    ["DictKey_ActionText_97"] = "INSTRUCTOR: よし。3つの緑と3つの表示が出るのを待とう。1分もかからないはずだ。",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_48"] = "PLAYER: まさかのデュアルゾーン空調？ すげぇ！",
+    ["DictKey_ActionText_163"] = "PLAYER: チェック。",
+    ["DictKey_ActionText_169"] = "INSTRUCTOR: ブリードエア圧を確認しろ。\
+\
+[注：45以上になるまで待て]",
+    ["DictKey_ActionText_178"] = "INSTRUCTOR: 完了。CNIの日付を確認して、ニーボードと位置を照合しろ。",
+    ["DictKey_ActionText_86"] = "PLAYER: CLOSEDです。",
+    ["DictKey_ActionText_111"] = "PLAYER: セット。",
+    ["DictKey_ActionText_26"] = "INSTRUCTOR: よし。WING／EMPANNAGE ICE PROTECTIONはすでにAUTO、DE-ICEも設定済みだ。PITOTとNESAはOFFになっている。",
+    ["DictKey_ActionText_42"] = "PLAYER: 左のFUEL DUMPスイッチはOFFだ。",
+    ["DictKey_ActionText_54"] = "INSTRUCTOR: FADEC――Full Authority Digital Engine Controlの略だ――は、エンジン性能のすべてを管理する。ガード付きの4つのスイッチ（ガードが上がった状態）は、中央のNORMAL位置にしておく。",
+    ["DictKey_ActionText_8"] = "INSTRUCTOR: よし、始動だ。上を見て、オーバーヘッドパネルの後方側から作業する。CONTROL BOOSTスイッチはすでにON、オイルクーラーフラップもONだ。",
+    ["DictKey_ActionText_208"] = "PLAYER: はい。",
+    ["DictKey_ActionText_216"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_78"] = "PLAYER: 設定完了。",
+    ["DictKey_ActionText_202"] = "INSTRUCTOR: いや、そこまではいかない。ほとんどは最初から問題ないが、シャットダウン時に引かれるものがいくつかあって、それを戻し忘れるとエンジンファイアを起こす。\
+\
+だから、あれだけは――絶対に、絶対に、絶対に忘れるな。",
+    ["DictKey_ActionText_218"] = "INSTRUCTOR: ECBをリセットするには、そのIDコードをスクラッチパッドに手入力する。まず、1番プロペラの補助ポンプからやろう。481と入力してRESETを押せ。",
+    ["DictKey_ActionText_149"] = "PLAYER: OFFです。",
+    ["DictKey_ActionText_181"] = "PLAYER: 日付よし、位置はGPSと照合してOKです。",
+    ["DictKey_ActionText_249"] = "PLAYER: スイッチ設定完了。",
+    ["DictKey_descriptionBlueTask_3"] = "本日のブリーフィングだ。今日は2018年5月18日、Lt. Zilchとの訓練飛行を実施する。使用機はC-130J、テールナンバー006。コールサインはHeavy 1-1。駐機位置はジョージアのKobuleti Air Base、スポット15。エンジン始動、タキシー、離陸の厳密な時刻は設定していない。地上で手順確認や各種ドリルを行うためだ。\
+\
+任務内容。今回の訓練は全11パートで構成される。コックピット概要、電源投入、コックピット設定、エンジン始動、タキシーと離陸、オートパイロットの基礎、航法計器、航法の基礎、CARP、アプローチと着陸、シャットダウンだ。行動空域はジョージアおよびトルコ領空だ。\
+\
+カーゴ。G-12Dシュート付きのクレート4個を搭載する。各882ポンドだ。Kobuleti空港の南西にある訓練用滑走路に、一回のパスで4個すべてを投下する。オートパイロットとオートスロットルを使用し、高度1500フィートの低空投下を行う。CARPのフル設定は目標エリア到達後に空中で実施する。\
+\
+通信。Kutaisi GroundはVictorの121.9、Kutaisi TowerはUniformの263.0を使用する。Kutaisi空域を離脱してBatumi到着まで管制機関は存在しない。Batumi到着後は、Victorの124.250でBatumiアプローチ、118.6でBatumiタワーに切り替える。機内の内部通信はICSを使用する。質問はあるか？ よし、行こう。\
+\
+Kutaisiの天候は良好。地上気温20℃、雲は8000フィートにブロークン、21000フィートにスキャッタード／ブロークン。風は040度から8ノット、高度計設定29.90。Batumiでもほぼ同様の見込みだが、着陸前にアプローチで確認する。\
+\
+航法およびフライトプラン。離陸はランウェイ07を使用する。高度2000フィートまでは滑走路ヘディングを維持し、その後KutaisiのTACANから3マイル地点でヘディング064に旋回し、Exit Eastへ向かう。そこからウェイポイント2へ南東に進みながら上昇し、巡航高度は16000フィートとする。本日のトランジション高度は7000フィートだ。その後、投下エリアへ向かいながら各種計器のドリルを実施する。訓練空域内ではフライトプランの変更が発生する可能性があり、ウェイポイントの追加・削除を行う。投下エリア手前で旋回してCARPを設定し、エアドロップでカーゴを投下する。\
+\
+リカバリー。BatumiにはNEDEC 2 Bravoアプローチで進入する。ATISがないため、天候はタワーから取得する。TACANとILSをセットし、オートパイロットのILS／アプローチモードで着陸する。着陸後はシャットダウン手順を実施し、評判のいい美しいジョージアの海岸都市で一泊だ。\
+\
+緊急時。ダイバート先はBatumiの北東22マイルにあるKobuletiだ。すぐ近いので燃料の心配はない。あとは標準どおり、何かあればSOPに従う。",
+    ["DictKey_ActionText_131"] = "PLAYER: ブーストポンプ設定完了。",
+    ["DictKey_subtitle_262"] = "",
+    ["DictKey_ActionText_90"] = "PLAYER: 行きましょう！",
+    ["DictKey_subtitle_264"] = "",
+    ["DictKey_ActionText_189"] = "PLAYER: OK。",
+    ["DictKey_ActionText_133"] = "INSTRUCTOR: ストロボライトを赤にセット。",
+    ["DictKey_ActionText_220"] = "PLAYER: OK、表示が消えました。",
+    ["DictKey_ActionText_56"] = "PLAYER: アファーム。",
+    ["DictKey_ActionText_206"] = "INSTRUCTOR: そう、正解だ。CNBPは中央にあるから、二人ともすぐ操作できる。見ての通り、もうECBページは表示されている。",
+    ["DictKey_ActionText_174"] = "INSTRUCTOR: では、こちら側で空調のスイッチを手早く設定する。",
+    ["DictKey_ActionText_147"] = "INSTRUCTOR: レーダーのマスタースイッチがOFFになっているか確認しろ。",
+} -- end of dictionary

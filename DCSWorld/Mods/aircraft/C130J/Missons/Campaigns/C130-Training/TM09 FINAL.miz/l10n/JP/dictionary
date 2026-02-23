@@ -1,0 +1,588 @@
+dictionary = 
+{
+    ["DictKey_ActionText_170"] = "",
+    ["DictKey_subtitle_900"] = "",
+    ["DictKey_ActionText_491"] = "PLAYER: いいね！",
+    ["DictKey_ActionText_237"] = "INSTRUCTOR: OK、A/T をもう一度オンにしろ。",
+    ["DictKey_ActionText_618"] = "INSTRUCTOR: その通りだ。まずはドロップゾーンの長さだ。単位はヤードで入力する。情報はすべてニーボードにある。ここに 1095 と入力して、LENGTH LE-TE の横の LSK 3 で確定しろ。",
+    ["DictKey_ActionText_43"] = "PLAYER: Angels 18、設定。",
+    ["DictKey_ActionText_261"] = "INSTRUCTOR: 同時に表示される情報が多くて、少し分かりにくいかもしれない。そこで Lockheed Martin の優秀な連中は、3つのデータレイヤーと2段階のデクラッターを備えた、2種類の表示モードを用意してくれた。",
+    ["DictKey_ActionText_234"] = "",
+    ["DictKey_ActionText_774"] = "PLAYER: 最高だな。DCS は何百時間もやってる。Baltic Dragon のキャンペーンが一番だ。",
+    ["DictKey_ActionText_458"] = "INSTRUCTOR: いいだろう。ではレーダー表示そのものについて話そう。左上にはナビ情報がある。現在のウェイポイントへの方位と距離、到着予定時刻、残り時間、目標対地速度、そして現在の対地速度だ。",
+    ["DictKey_ActionText_68"] = "",
+    ["DictKey_ActionText_155"] = "INSTRUCTOR: CNIのメッセージはCLRボタンで消せ。",
+    ["DictKey_ActionText_680"] = "PLAYER: ああ、そうか。じゃあ今、地上の気温が 20 度なら、1,500 フィートでは 17 を入力するんだな？",
+    ["DictKey_ActionText_604"] = "PLAYER: 今、MISSIONS ページにいる。",
+    ["DictKey_ActionText_160"] = "",
+    ["DictKey_ActionText_818"] = "INSTRUCTOR: CNI のメッセージは俺が消しておく。",
+    ["DictKey_ActionText_742"] = "LOADMASTER (INTERCOM): 了解。",
+    ["DictKey_ActionText_113"] = "PLAYER: 090セット。",
+    ["DictKey_ActionText_85"] = "INSTRUCTOR: ピッチダウン角がちょうどいいところまでホイールを回して、VS ボタンを押してキャプチャしろ。",
+    ["DictKey_ActionText_579"] = "PLAYER: 戻った。",
+    ["DictKey_ActionText_638"] = "INSTRUCTOR: よし、NEXT PAGE を押せ。",
+    ["DictKey_ActionText_271"] = "PLAYER: 左側のナビゲーションデータブロックと横方向偏差インジケーター、それに他の情報も消えたな。",
+    ["DictKey_ActionText_656"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_222"] = "INSTRUCTOR: 次にA/Tを解除してIASを有効にしろ。",
+    ["DictKey_ActionText_364"] = "PLAYER: そのズレ具合はドットで測れるわけか？",
+    ["DictKey_ActionText_35"] = "INSTRUCTOR: 次はALT SELだ。これはとても単純で、上昇または降下中に事前に選択した高度に近づくと、自動的にALT HOLDモードへ切り替わる。",
+    ["DictKey_ActionText_211"] = "INSTRUCTOR: その通りだ。さらに、REF / MODE パネルを使えば、機体に維持させたい速度を指定できる。見ての通り、今は 219 IAS に設定されている。これまでずっと A/T が有効だったから、フライト中はこの速度を維持してきた。",
+    ["DictKey_ActionText_415"] = "PLAYER: OK、分かりやすい。ファンクションキーは？",
+    ["DictKey_ActionText_573"] = "INSTRUCTOR: いいぞ。OPER WT、オペレーティング重量メニューに入れ。",
+    ["DictKey_ActionText_736"] = "INSTRUCTOR: 通常なら投下の 20 分前にブリーフィングを行い、CARP データや位置、ドロップポイントのマーキングなどを再確認するが、さっき一通りやったばかりだから、もう一度やる必要はない。\
+\
+高度を 5,000 フィートにセットして、5 度の降下に入れ。",
+    ["DictKey_ActionText_304"] = "PLAYER: ああ！",
+    ["DictKey_ActionText_726"] = "INSTRUCTOR: よくできた！ ホールドパターンを抜けて、IP に向かうフライトパスをインターセプトしろ。HUD では緑の四角で表示されているはずだ。それから NAV モードを有効にしろ。",
+    ["DictKey_ActionText_389"] = "PLAYER: ああ、確かにそうだ。",
+    ["DictKey_ActionText_822"] = "INSTRUCTOR: フラップを 10 パーセントにセットしろ。",
+    ["DictKey_ActionText_183"] = "",
+    ["DictKey_ActionText_842"] = "INSTRUCTOR: グリーンライト！",
+    ["DictKey_ActionText_551"] = "PLAYER: よし、準備できた！",
+    ["DictKey_ActionText_344"] = "INSTRUCTOR: 上部の緑色表示で、オートパイロットのアドバイザリーが確認できる……。さて、ここで一つ面白いものを見せよう。加速ケアレットだ。ノブを使って、目標速度を 260 ノットに上げてみろ。",
+    ["DictKey_ActionText_289"] = "INSTRUCTOR: その通りだ！ だから次に進む前に、オートパイロットのホイールを使って、ここで左回りのきれいなオービットを作ろう。さっきも触れたな。HUD は好きな設定にして、準備ができたら知らせてくれ。",
+    ["DictKey_ActionText_456"] = "PLAYER: OK、次のパートに行ける。",
+    ["DictKey_ActionText_626"] = "INSTRUCTOR: 次だ。左側にあるのがスローダウン距離だ。これは減速を開始する地点を示す。通常は 6 マイルを使うから、6 と入力して LSK で確定しろ。",
+    ["DictKey_ActionText_354"] = "PLAYER: FPM の下に行ったな。",
+    ["DictKey_ActionText_255"] = "PLAYER: 完了！",
+    ["DictKey_ActionText_281"] = "INSTRUCTOR: そうだ。押し続けろ。俺の HUD の状態が表示される。よく見れば、お前のとは違う高度が表示されているはずだ。",
+    ["DictKey_ActionText_33"] = "PLAYER: 了解。次は何だ？",
+    ["DictKey_ActionText_899"] = "",
+    ["DictKey_ActionText_153"] = "PLAYER: OK……旋回に入った。",
+    ["DictKey_ActionText_596"] = "PLAYER: ペイロード、追加完了！",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_875"] = "PLAYER: 楽勝だ。",
+    ["DictKey_ActionText_732"] = "INSTRUCTOR: よし。OK、通常なら投下はマニュアルモードで行う。いつ投下するかを自分でコントロールしたいからな。\
+\
+だが今回は初めてだから、最後までオートパイロットを使う。慣れてきたら、マニュアル投下も練習できる。いいな？",
+    ["DictKey_ActionText_366"] = "INSTRUCTOR: その通りだ。ナビソースによって意味が変わる。ウェイポイントまでの距離が 50 マイルを超えていれば、1 ドットは 1.5 マイルを示す。50 マイル以内なら 600 ヤードだ。VOR、TACAN、ILS の場合は偏差角を示すが、それは Batumi に着陸するときに説明しよう。",
+    ["DictKey_ActionText_69"] = "PLAYER: OK、18,000フィートだ。",
+    ["DictKey_ActionText_417"] = "INSTRUCTOR: OFS はオフセット表示とセンター表示を切り替える。FRZ は現在進行中のスキャンバーを完了させた後、すべての送信を停止して表示をフリーズする。PEN はペンシルビームとファンビームを切り替える。通常は後者を使う。SECTOR セレクトスイッチに進む前に、この3つを確認しておけ。",
+    ["DictKey_ActionText_410"] = "PLAYER: よし、行けるぞ！",
+    ["DictKey_ActionText_476"] = "PLAYER: 了解。それで、左側のレーダーモードの上にある変な矢印は何だ？",
+    ["DictKey_ActionText_716"] = "PLAYER: OK、障害物高度のボックスが消えて、投下高度が 568 フィートに変わった。",
+    ["DictKey_ActionText_616"] = "PLAYER: CNI ではよくあるやつだな。",
+    ["DictKey_ActionText_830"] = "INSTRUCTOR: CAUTION ボタンを押せ。AUTO モードでカーゴを投下するには有効になっている必要がある。",
+    ["DictKey_ActionText_884"] = "INSTRUCTOR: 次はドロップの確定だ。CNI で MSN を押して、右の LSK 2 で CARP 1 を選択しろ。",
+    ["DictKey_ActionText_377"] = "INSTRUCTOR: そうだ。設定を調整できる場所は2か所ある。AMU とレーダーコントロールパネルだ。まずは後者から行こう。説明している間、実際の動作を自由に確認してくれていい。",
+    ["DictKey_ActionText_47"] = "PLAYER: 了解、どうやる？",
+    ["DictKey_ActionText_54"] = "INSTRUCTOR: オートパイロットを解除しなくてもできるが、まずは手動でやってみよう。ヨークのディスエンゲージボタンを2回押してオートパイロットを切れ。2回目は警告音を止めるためだ。それから 5 度上昇姿勢を取って、そこで VS を押して上昇パスをキャプチャしろ。やってみろ。",
+    ["DictKey_ActionText_840"] = "INSTRUCTOR: 5 秒。",
+    ["DictKey_ActionText_218"] = "",
+    ["DictKey_ActionText_816"] = "LOADMASTER (INTERCOM): 1 分前、了解。",
+    ["DictKey_ActionText_326"] = "PLAYER: 確かにな。じゃなきゃ、俺も急いで 2 番を選ぶ羽目になる……。",
+    ["DictKey_ActionText_263"] = "PLAYERS: それって、余計にややこしくしただけに聞こえるな。",
+    ["DictKey_ActionText_279"] = "PLAYER: モメンタリースイッチみたいだな。",
+    ["DictKey_ActionText_433"] = "PLAYER: ……それから NAV-RADAR……",
+    ["DictKey_ActionText_863"] = "INSTRUCTOR: AUX PUMP オフ。",
+    ["DictKey_ActionText_242"] = "INSTRUCTOR: Altitude Select が ON になっていることを確認して、ピッチホイールで高度 16,000 まで降ろしてくれ。",
+    ["DictKey_ActionText_708"] = "PLAYER: OK。",
+    ["DictKey_ActionText_702"] = "INSTRUCTOR: いいぞ。EXECUTE を押して、NEXT PAGE だ。",
+    ["DictKey_ActionText_748"] = "INSTRUCTOR: コンピュータードロップスイッチがマニュアルになっていることを確認しろ。",
+    ["DictKey_ActionText_300"] = "PLAYER: OK、その位置だ。",
+    ["DictKey_ActionText_451"] = "PLAYER: 入った。",
+    ["DictKey_ActionText_342"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_466"] = "INSTRUCTOR: それなら別の機体に乗るべきだな……。ともかく、右側には XTK レジェンドが見える。これは選択されたグラウンドトラックからの偏差だ。偏差の方向は緑色で R（右）か L（左）で示され、その後に距離がマイルで表示される。",
+    ["DictKey_ActionText_346"] = "PLAYER: 速度上昇中。",
+    ["DictKey_ActionText_306"] = "INSTRUCTOR: よし、それじゃ PFD に進もう。",
+    ["DictKey_ActionText_92"] = "INSTRUCTOR: 完璧だ。最後にひとつだけ言っておく。ALT SEL ボタンを押せば、現在の高度をそのまま選択高度にリセットできる。では次はヘディングに進もう。",
+    ["DictKey_ActionText_542"] = "よし！ CTRL + C を押してメニューを閉じ、キーボードの「1」を押してコックピットに戻ろう。フライトに戻るぞ！",
+    ["DictKey_ActionText_66"] = "INSTRUCTOR: 機体は、設定した高度に到達する 1,000 フィート手前で警告を出す。\
+\
+［注記：ミッションが進行しない場合は、SPACE BAR を押せ］",
+    ["DictKey_ActionText_632"] = "INSTRUCTOR: OK、最後がランインコースだ。真方位で入力する。ニーボードでは 162 true になっているから、「1 6 2 T」と入力して確定しろ。",
+    ["DictKey_ActionText_14"] = "INSTRUCTOR: そうだろ？ まずは PFD、つまり Primary Flight Display を HDD 1 に設定しろ。やり方は覚えているか？",
+    ["DictKey_ActionText_269"] = "INSTRUCTOR: その通りだ。視認性は上がるが、その分データは減る。次に NAV データを無効にしてくれ。",
+    ["DictKey_ActionText_310"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_408"] = "INSTRUCTOR: その通りだ。少し触ってみて、次に進めそうになったら知らせてくれ。",
+    ["DictKey_ActionText_88"] = "PLAYER: 完了。",
+    ["DictKey_ActionText_90"] = "PLAYER: それで 16,000 フィートに戻った。",
+    ["DictKey_ActionText_403"] = "INSTRUCTOR: 下のノブは Intensity Target Select Switch だ。回すことで、どの表示要素の輝度を変更するかを選ぶ。RM はレンジとレンジリング、CUR はカーソル、SYM は Skin Paint とビーコン目標、VID は気象とウィンドシアだ。",
+    ["DictKey_ActionText_877"] = "",
+    ["DictKey_ActionText_322"] = "PLAYER: つまり、これらのシステムは全部二重化されているってことか？",
+    ["DictKey_ActionText_137"] = "INSTRUCTOR: その通りだ。機体を自動で旋回させてフライトパスに戻すことはしない。そこは自分でやる必要がある。左側のアナンシエーターパネルを見れば、「NAV ARM」という表示が出ているはずだ。これは HUD にも表示されている。",
+    ["DictKey_ActionText_275"] = "PLAYER: OK。U-N-C-G でフライトパスマーカーをアンケージするのか？",
+    ["DictKey_ActionText_96"] = "INSTRUCTOR: ヘディングモードもかなり単純だ。AFCS パネル上のノブで選択したヘディングを、機体が飛行して維持するようにする。",
+    ["DictKey_ActionText_881"] = "PLAYER: いいね！ CTRL + Z も欲しいところだな。まあいい、完了。",
+    ["DictKey_ActionText_360"] = "PLAYER: かなり標準的だな。",
+    ["DictKey_ActionText_778"] = "PLAYER: 楽勝だ。",
+    ["DictKey_ActionText_334"] = "PLAYER: それは分かるけど、俺、色覚異常なんだ。念のためな。",
+    ["DictKey_ActionText_139"] = "PLAYER: アファーム！",
+    ["DictKey_ActionText_110"] = "INSTRUCTOR: そう！そういう仕組みだ。OK、もう一度090にセットしよう。",
+    ["DictKey_ActionText_141"] = "INSTRUCTOR: NAV ARM というのは、システムが待機状態にあり、ルートに復帰するための条件内に戻るまで作動しないという意味だ。それを AFCS ホイールを使ってやる。",
+    ["DictKey_ActionText_859"] = "INSTRUCTOR: COMPUTER DROP スイッチをマニュアルに戻せ。",
+    ["DictKey_ActionText_447"] = "PLAYER: よし、次に進める。",
+    ["DictKey_ActionText_71"] = "INSTRUCTOR: いいな。見ての通り、今の変更はあまりスムーズじゃなかった。実は、オートパイロットを解除せずに、もっといいやり方がある。では目標高度を 16,000 フィートに戻せ。",
+    ["DictKey_descriptionText_1"] = "Airplane Simulation Company製 C-130J へようこそ！\
+\
+このトレーニングミッション一式では、強力なハーキュリーズを操縦するための基本を身につけてもらいます。\
+\
+これらは実際のソーティを模した長時間フライトの一部として設計されており、学習しやすく、かつ楽しく進められるよう全11パートに分割されています。やり直したい部分や復習したい区間にすぐ戻れる構成です。\
+\
+開始する前に、SETTINGS メニューの CONTROLS から、DIALOG RESPONSES（Response: Negative、Response: Neutral、Response: Positive）を HOTAS の3ポジションスイッチに割り当てることを強く推奨します。これにより、SPACE BAR を押したり F10 の無線メニューを使わずにミッションを進行できます。\
+\
+あなたは Little Rock 所属、第19航空団の C-130J 左席に座り、リフレッシャー・ソーティに参加します。\
+\
+Kutaisi Air Base から離陸し、訓練空域へ向かい、低高度での補給物資投下を実施した後、Batumi airport に着陸します。\
+\
+フライトの各フェーズで、IP が指示を出します。\
+\
+注意事項：\
+\
+1) ミッションは進行のために、SPACE BAR を押すか、DIALOG RESPONSES の HOTAS 割り当て操作を求める場面が頻繁にあります。次に進む前に、現在の作業に集中したり、各種オプションを確認したりする時間を十分に取って構いません。ポップアップは画面左側に表示されます。\
+\
+2) コックピット内ではハイライト表示が有効になりますが、IP がパネル全体について説明している場合、通常はそのパネル内の1つのスイッチのみがハイライトされます。個別のスイッチ操作が必要な場合は、それぞれにハイライトが表示されます。\
+\
+3) 注意：カーゴメニューは、クレート配置時に問題が起きることがあります。ミリ単位で正確に揃えられなくても、気にする必要はありません。\
+\
+4) 注意：現時点では、ミッションはカーゴが投下されたかどうかを判定できません。そのため、結果に関わらず同じ進行になります（つまり、投下したものとして扱われます）。この点は後のアップデートで改善される予定です。\
+\
+5) 最終パートでは、素早い操作が求められます。対応が遅いと投下に失敗するため、成功するまで何度かプレイすることになっても心配はいりません！",
+    ["DictKey_ActionText_903"] = "INSTRUCTOR: ターンポイントに接近中だ。",
+    ["DictKey_ActionText_130"] = "PLAYER: 便利そうですね。",
+    ["DictKey_ActionText_561"] = "INSTRUCTOR: ここでは燃料、ペイロード、クルー、バッグ、その他装備の重量を入力・変更できる。離陸時と着陸時の重量も確認できる。着陸時の重量には、空中投下したカーゴや消費した燃料は含まれない。",
+    ["DictKey_ActionText_431"] = "PLAYER: 了解。MAIN MENU に戻る……",
+    ["DictKey_ActionText_606"] = "INSTRUCTOR: CARP 1 INIT> を選択しろ。",
+    ["DictKey_ActionText_375"] = "PLAYER: いいな、かなり使えそうだ！",
+    ["DictKey_ActionText_869"] = "PLAYER: プレッシャー設定完了。",
+    ["DictKey_ActionText_600"] = "PLAYER: LEGS を選択した。",
+    ["DictKey_ActionText_259"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_318"] = "PLAYER: 理解した。",
+    ["DictKey_ActionText_788"] = "PLAYER: ラジャー。",
+    ["DictKey_ActionText_760"] = "INSTRUCTOR: 10 分前チェック完了。",
+    ["DictKey_ActionText_485"] = "INSTRUCTOR: デジタルマップは、状況認識を助ける非常に便利なツールだ。",
+    ["DictKey_ActionText_316"] = "INSTRUCTOR: MAG/TRUE/GRID は、HSI と HUD のコンパス表示で使われる基準を決める。今話している設定はすべて、1行目で選択されているパイロットにのみ影響し、PFD はそれぞれ全く違う設定にできる。",
+    ["DictKey_ActionText_764"] = "",
+    ["DictKey_ActionText_720"] = "PLAYER: 1,500 フィートにセットした。",
+    ["DictKey_ActionText_340"] = "INSTRUCTOR: 次はシアン表示のデータだ。その大半は Reference Set Panel で設定できる。左上から順に、選択された Indicated Air Speed、選択された高度、最低気圧高度、高度計設定値、AGL 下に表示される最低レーダー高度、そして選択されたヘディングだ。",
+    ["DictKey_ActionText_174"] = "INSTRUCTOR: NAV モードを有効にしろ。ホイールで機体を操舵したときに自動でオフになっている。",
+    ["DictKey_ActionText_718"] = "INSTRUCTOR: その通りだ。投下高度は、左側にある必要クリアランス高度を、DZ もしくは障害物高度に加算して計算される。\
+\
+ただし、もっと余裕のある値を使って手動設定することもできる。1500 フィートに設定して、右の LSK 1 で確定しろ。",
+    ["DictKey_ActionText_913"] = "PLAYER: CAUTION ボタン、OFF。",
+    ["DictKey_ActionText_83"] = "PLAYER: OK。",
+    ["DictKey_ActionText_393"] = "PLAYER: なかなか便利だな。",
+    ["DictKey_ActionText_8"] = "このミッションは、まず“キャラ外”で、ちょっと変わった形から始めるぞ。楽しいパートに入る前に、カーゴメニューについて数分だけ説明しておく必要がある。\
+\
+デフォルトのキー操作は 左Ctrl＋C だ。さあ、表示させてみてくれ。",
+    ["DictKey_ActionText_734"] = "PLAYER: もちろん！",
+    ["DictKey_ActionText_794"] = "INSTRUCTOR: Aerial Delivery パネルの RAMP スイッチを OPEN にセットしろ。\
+\
+［注記：RAMP/DOOR コントロールスイッチを OPEN 位置で押し続ける］",
+    ["DictKey_ActionText_191"] = "PLAYER: CAPSモードって何ですか？",
+    ["DictKey_ActionText_565"] = "INSTRUCTOR: ああ、もちろんだ！ ……冗談はさておき、ARM というのは、荷物が仮想の基準点からどれだけ離れているかをインチで表したものだ。その基準点は、機首の 30 インチ前にある。理由は聞くな、そう決まってる。",
+    ["DictKey_ActionText_273"] = "INSTRUCTOR: さらにスッキリするが、目に直接入るデータは減る。無効化できる別のレイヤーに TACT があるが、これは現在の G とチャフ、フレアの残数を表示する。",
+    ["DictKey_ActionText_530"] = "次に 2 つ目のクレートを追加し、機体後方へ移動させて、位置 945 付近で先ほど積み込んだカーゴの下端に接するよう配置し、CARP ナンバー 1 を割り当てろ。",
+    ["DictKey_ActionText_134"] = "",
+    ["DictKey_ActionText_712"] = "PLAYER: ずいぶん背の高い木だな。",
+    ["DictKey_ActionText_25"] = "PLAYER: OK。今、機体をレベルに保つって言ったよな？",
+    ["DictKey_ActionText_412"] = "INSTRUCTOR: 左側のロッカースイッチも重要だ。これは表示上のレーダーリターンの明るさを変える。MAP モードで INCREASE を何回か押してみろ。リターンが明るいほど、前方地形の標高が高いということだ。",
+    ["DictKey_ActionText_521"] = "青いアウトラインが自動的にカーゴスペースへ移動し、右側に青い 01 CRATE が表示されたはずだ。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_722"] = "INSTRUCTOR: よし！ ではデジタルマップを見ろ。シアン色のフライトプランに、ターンポイント、スローダウンポイント、ドロップゾーンが表示されているはずだ。EXECUTE を押して承認しろ。",
+    ["DictKey_ActionText_406"] = "PLAYER: ラジャー。それで、横のロッカースイッチで輝度を変えるんだな？",
+    ["DictKey_ActionText_117"] = "",
+    ["DictKey_ActionText_287"] = "PLAYER: 助かった！ もし全部説明されたら、終わる前にルーマニアの空域に突っ込んでたぞ。",
+    ["DictKey_ActionText_148"] = "PLAYER: 完了。",
+    ["DictKey_ActionText_397"] = "PLAYER: OK。",
+    ["DictKey_ActionText_487"] = "PLAYER: 確かに、自分がどこにいるか分かるのは大事だ。",
+    ["DictKey_ActionText_232"] = "INSTRUCTOR: では高度保持を有効にしろ。",
+    ["DictKey_ActionText_81"] = "INSTRUCTOR: ああ、その通りだ！ だが、それを触ることはない。使うと NAV モードの正常な動作を妨げる可能性がある。",
+    ["DictKey_ActionText_493"] = "INSTRUCTOR: これまでと同じように、まず AMU、次にカーソルコントロールパネル、そしてマップ本体を見ていこう。",
+    ["DictKey_ActionText_51"] = "",
+    ["DictKey_ActionText_145"] = "INSTRUCTOR: まずALT HOLDがONになっていることを確認し、ヘディングモードを解除しろ。",
+    ["DictKey_ActionText_352"] = "INSTRUCTOR: そうだ。では今度は速度を 240 に戻せ。",
+    ["DictKey_ActionText_6"] = "INSTRUCTOR: OK、君がカーゴデータを確認している間に、CNI 側でちょっと細工をしておいた。だからエアドロップの設定に入る前に、重量とステーションを手入力する必要がある。",
+    ["DictKey_ActionText_135"] = "PLAYER: OK……CNIの警告メッセージが出ました……「not on intercept heading」と表示されています。",
+    ["DictKey_ActionText_195"] = "PLAYER: なるほど。",
+    ["DictKey_ActionText_857"] = "PLAYER: フラップアップ完了。",
+    ["DictKey_ActionText_152"] = "",
+    ["DictKey_ActionText_684"] = "PLAYER: 入力した。",
+    ["DictKey_ActionText_796"] = "PLAYER: スイッチ設定完了。",
+    ["DictKey_ActionText_235"] = "PLAYER: ALT HOLD有効。",
+    ["DictKey_ActionText_159"] = "",
+    ["DictKey_ActionText_518"] = "では、このミッション用のカーゴを積み込もう。下部の CDS CRATE を選択してクリックしろ。",
+    ["DictKey_ActionText_549"] = "INSTRUCTOR: ネガティブだ。PPOS HOLD を使え。\
+\
+［リマインド：CNI → MSN → PPOS HOLD → EXEC］",
+    ["DictKey_ActionText_227"] = "INSTRUCTOR: 速度を230に下げろ。",
+    ["DictKey_ActionText_328"] = "INSTRUCTOR: はは。よし、では PFD 自体を見て、基本をさっと確認しよう。",
+    ["DictKey_ActionText_79"] = "PLAYER: その2つは、縦と横の軸でホイールの機能を無効にするのか？",
+    ["DictKey_ActionText_850"] = "PLAYER: RAMP閉鎖中。\
+\
+［注記：RAMPが完全に閉じるまで約 17 秒かかる］",
+    ["DictKey_ActionText_429"] = "INSTRUCTOR: レーダーの AMU 側オプションを見ていこう。NAV RADAR メニューに入れ。",
+    ["DictKey_ActionText_292"] = "PLAYER: 準備完了だ。",
+    ["DictKey_ActionText_294"] = "INSTRUCTOR: これはかなり簡単だ。Mode Select Panel で ALT HOLD と A/T が有効になっていることを確認してから、コントロールホイールを左に回して 15 度のターンにインターセプトしろ。",
+    ["DictKey_ActionText_746"] = "PLAYER: AUX PUMP、ON。",
+    ["DictKey_ActionText_770"] = "PLAYER: 1,500 フィートへ降下、速度 180、浅いダイブに入った。",
+    ["DictKey_ActionText_902"] = "INSTRUCTOR: よくできた！ ホールドパターンを抜けて、IP に向かうフライトパスをインターセプトしろ。HUD では緑の四角で表示されているはずだ。それから NAV モードを有効にしろ。\
+\
+［注記：DIRECT TO オプションを使って、目的地に IP を選択することを推奨する］",
+    ["DictKey_ActionText_696"] = "PLAYER: 完了。BAL Wind Speed って何だ？",
+    ["DictKey_ActionText_63"] = "",
+    ["DictKey_ActionText_790"] = "INSTRUCTOR: ランプは？",
+    ["DictKey_ActionText_855"] = "INSTRUCTOR: フラップを上げろ。",
+    ["DictKey_ActionText_471"] = "INSTRUCTOR: 表示の最下段、左から順に、現在のレーダーモードである DBS または MGM、その次が選択中のレンジ、そして FAN か PEN でビーム幅だ。次がカーソル情報――これはすぐ後で戻る――その次が AGL 高度、最後が TACAN 情報だ。",
+    ["DictKey_ActionText_478"] = "INSTRUCTOR: これは風向インジケーターだ。矢印は機体に対する風向を示し、上の数字はデジタル風速だ。表示が三角形に見える場合、縦辺が向かい風／追い風成分、横辺が横風成分を表す。分かるか？",
+    ["DictKey_ActionText_383"] = "PLAYER: ラジャー。",
+    ["DictKey_ActionText_249"] = "INSTRUCTOR: よし、いい感じだ。次はナビゲーションのパートに進もう。",
+    ["DictKey_ActionText_589"] = "INSTRUCTOR: まず最初だ。8 8 2 / / 1 0 0 5 と入力して、LSK 1 で確定しろ。",
+    ["DictKey_ActionText_45"] = "INSTRUCTOR: ただしこのモードは自動ではない。ノブを回しただけで勝手に上がったり下がったりはしない。新しい高度を捕まえるには、自分でピッチを上下させる必要がある。",
+    ["DictKey_ActionText_177"] = "PLAYER: NAV armed.",
+    ["DictKey_ActionText_481"] = "PLAYER: ああ、なかなかいいな。あとの表示はだいたい標準的だし、先に進めそうだ。",
+    ["DictKey_ActionText_320"] = "INSTRUCTOR: 次に、FD、INU、CADC、RAD ALT は、それぞれフライトディレクター、ピッチ・フライトパス・ロールを担当する INU、中央空気データ計算機、レーダー高度計の情報ソースを選択する。通常はパイロットが 1 番、コパイロットが 2 番を使う。",
+    ["DictKey_ActionText_312"] = "INSTRUCTOR: pilot / copilot メニューは、変更内容がどちらの表示に反映されるかを選ぶ。BARO は高度計をミリバール表示にするか、水銀柱インチ表示にするかを選択する。アメリカでは後者をよく使う。",
+    ["DictKey_ActionText_634"] = "PLAYER: 了解！",
+    ["DictKey_ActionText_150"] = "INSTRUCTOR: 次にAFCSホイールを使って、右へ穏やかな10度の旋回を入れる。HUD下部の三角マークが、右側最初の目盛りで止まるようにする。",
+    ["DictKey_ActionText_330"] = "PLAYER: じっくり見てるところだ。",
+    ["DictKey_ActionText_401"] = "PLAYER: 了解。下にあるコントロールは？",
+    ["DictKey_ActionText_391"] = "INSTRUCTOR: SP、つまり Skin Paint は、最大 20 マイルまでの空中目標を探知・表示する。こちらに接近しているか、離れているかも分かる。",
+    ["DictKey_ActionText_828"] = "PLAYER: スイッチ AUTO。",
+    ["DictKey_ActionText_10"] = "INSTRUCTOR: その通り。それに、あいつらはここみたいに電子レンジもない。",
+    ["DictKey_ActionText_820"] = "PLAYER: サンキュー。",
+    ["DictKey_ActionText_587"] = "PLAYER: 簡単そうだな。",
+    ["DictKey_ActionText_419"] = "PLAYER: OK。",
+    ["DictKey_ActionText_308"] = "INSTRUCTOR: OK、PFD は最も重要な飛行計器をすべて1つの表示に統合している。AMU にはまだ PFD メニューが開いているはずだから、各オプションを手短に説明しよう。",
+    ["DictKey_ActionText_29"] = "PLAYER: いつかガンシップも飛ばしてみたいな……。",
+    ["DictKey_ActionText_162"] = "PLAYER: メッセージ消去。",
+    ["DictKey_ActionText_187"] = "INSTRUCTOR: そうだ。これからオートパイロットが計画ルートに正確に乗せようとして、左右に修正しながら安定させる。",
+    ["DictKey_ActionText_58"] = "",
+    ["DictKey_ActionText_381"] = "INSTRUCTOR: マスタースイッチの隣に、レーダーの6つの基本モードを選択するためのボタンが6つある。MAP と MGM、つまり Monopulse Ground Map は排他的だ。どちらも前方の地形を描画するが、MGM は 40 マイル以上でより効果的に機能し、それ以下のスケールでは MAP を選択する。",
+    ["DictKey_ActionText_324"] = "INSTRUCTOR: そうだ。冗長性のためだ。システム切り替えは緊急手順の一部だが、今日のフライトでは関係ない。少なくとも、そうであってほしいがな……。",
+    ["DictKey_ActionText_533"] = "3 つ目のクレートを追加する。それを先ほどのものの上に配置し、位置 885 付近でラインが接するようにしろ。これも CARP ナンバー 1 に割り当てる。",
+    ["DictKey_ActionText_179"] = "INSTRUCTOR: 元のコースラインに近づくと、NAV モードが引き継いで機体をコースに戻そうとする。ただし角度が大きすぎると作動しない可能性がある。45度以内に抑えるようにしろ。理屈上は90度まで可能だが、復帰は滑らかなほどいい。",
+    ["DictKey_ActionText_756"] = "INSTRUCTOR: キャビンを減圧しろ。ノブを NO PRESS にセットする。\
+\
+［注記：ノブを右クリックで1回操作する］",
+    ["DictKey_ActionText_642"] = "INSTRUCTOR: まずはペイロードの種類からだ。選べるのは次のいずれかになる：\
+- personnel（人員）\
+- CDS、これは Container Delivery System の略だ\
+- HE、heavy equipment\
+- bundle other（その他バンドル）\
+\
+ここではデフォルトで CDS が選択されているはずだ。",
+    ["DictKey_ActionText_469"] = "PLAYER: OK。",
+    ["DictKey_ActionText_834"] = "INSTRUCTOR: ドロップゾーンに入れば、カーゴは自動でリリースされる。JUMP ボタンを押して手動投下することもできるが、今日は触らない。",
+    ["DictKey_ActionText_23"] = "INSTRUCTOR: 次は ALT HOLD からだ。名前の通り、ボタンを押した時の高度で機体を水平に保つ。",
+    ["DictKey_ActionText_577"] = "INSTRUCTOR: ここでは 1000 未満にはできない。それに後ろに 2～3 人乗れば、簡単にその数字になる。デフォルトではクルー 1 人あたり 200 ポンドで計算しているが、全体から見れば大した差じゃない。よし、メインページに戻れ。",
+    ["DictKey_ActionText_49"] = "INSTRUCTOR: 方法はいくつかあるが、一番簡単なのは VS という別モードを使うことだ。これはフライトディレクターの垂直速度ホールドを作動させる。これを使って、設定した高度まで上昇しよう。準備はいいか？",
+    ["DictKey_sortie_5"] = "C-130J Training Mission 09: CARP",
+    ["DictKey_ActionText_132"] = "INSTRUCTOR: そうだが、これにもやはり制限がある。今、NAV モードをもう一度有効にしてみろ。",
+    ["DictKey_ActionText_18"] = "INSTRUCTOR: 人生って予想外の連続だろ？ じゃあ次のサプライズだ。これから説明するモードはすべて、中央コンソールにあるオートパイロットスイッチ（操縦席ごとに1つ）を有効にしないと動作しない。",
+    ["DictKey_ActionText_277"] = "INSTRUCTOR: その通りだ。そして上にある O/S と表示されたものが面白い。押してみろ。",
+    ["DictKey_ActionText_865"] = "PLAYER: PUMP、OFF。",
+    ["DictKey_ActionText_422"] = "PLAYER: つまり SECTOR はスキャン範囲を決めるんだな？",
+    ["DictKey_ActionText_128"] = "INSTRUCTOR: よし、それじゃ次は NAV モードについて少し話そう。このモードは基本的に選択したルートのコースラインに従う。つまり、最後のウェイポイントまで、すべてのウェイポイントに沿ってきれいに飛ばしてくれる。",
+    ["DictKey_ActionText_449"] = "INSTRUCTOR: OVERLAYS サブメニューに入れ。",
+    ["DictKey_ActionText_909"] = "",
+    ["DictKey_ActionText_676"] = "PLAYER: OK。どうやって調べる？",
+    ["DictKey_ActionText_730"] = "PLAYER: NAV モードに戻った。",
+    ["DictKey_ActionText_373"] = "INSTRUCTOR: 低出力カラーレーダーは、地表マッピングや気象探知を強化してくれる。Skin Paint モードでは他機の探知もでき、高精度な位置更新にも使える。",
+    ["DictKey_ActionText_107"] = "",
+    ["DictKey_ActionText_358"] = "",
+    ["DictKey_ActionText_427"] = "PLAYER: 了解、次は？",
+    ["DictKey_ActionText_506"] = "これを開くと、フライトの各段階に対応した詳細なチェックリストが表示される。\
+\
+ここがかなり面白いところで、忠実度を4段階から選べる。まるで機体を盗んできて、とにかく急いで離陸したいとき用の簡易的なものから、実際にパイロットが使用するプロフェッショナルなチェックリストまで用意されている。\
+\
+ただし、このミッションで重要なのは、上部にある CARGO タブだ。押してみろ。",
+    ["DictKey_ActionText_852"] = "LOADMASTER (INTERCOM): RAMP閉鎖・ロック完了。",
+    ["DictKey_ActionText_209"] = "PLAYER: なるほど。じゃあ IAS を有効にしてスロットルを上げると、機体は機速を保つためにノーズダウンするってことか？",
+    ["DictKey_ActionText_758"] = "PLAYER: キャビン減圧完了。",
+    ["DictKey_ActionText_575"] = "PLAYER: オペレーティング重量にいる。クルー重量が 1200？ おい、太りすぎだろ！",
+    ["DictKey_ActionText_824"] = "PLAYER: フラップ設定。",
+    ["DictKey_ActionText_768"] = "INSTRUCTOR: 高度を 1,500 フィートにセットして、速度を 180 ノットまで落とせ。\
+\
+旋回後もオートスロットルと NAV を ON にしたままにして、ピッチシンクを使って浅い降下に入れ。",
+    ["DictKey_ActionText_64"] = "PLAYER: 有効化しました。",
+    ["DictKey_ActionText_762"] = "INSTRUCTOR: 高度 5,000 フィートだ。",
+    ["DictKey_ActionText_424"] = "INSTRUCTOR: アファーム。15、30、60、135 度を切り替える。すべてのモードで全設定が使えるわけではないが、ここで深掘りする必要はない。動作を確認したら先に進もう。それと、PSEL スイッチは今は気にしなくていい。",
+    ["DictKey_ActionText_867"] = "INSTRUCTOR: OK、キャビンプレッシャーを設定しろ。ノブを AUTO に回す。\
+\
+［注記：ノブを左クリックで1回操作する］",
+    ["DictKey_ActionText_247"] = "PLAYER: そして高度16,000フィートに戻りました。",
+    ["DictKey_ActionText_690"] = "INSTRUCTOR: 左側に戻る。次は地上風だ。これは 0 6 1 / 0 2 になる。入力しろ。",
+    ["DictKey_ActionText_193"] = "INSTRUCTOR: これは無線ベースのシステムで、編隊飛行に使われる。別の航空機との距離、高度、角度を一定に保つようオートパイロットに指示する。複数人で飛ぶときに便利だ。",
+    ["DictKey_ActionText_56"] = "PLAYER: アファーム！",
+    ["DictKey_ActionText_692"] = "PLAYER: OK。右側には地上気温の 摂氏20度だな？",
+    ["DictKey_ActionText_100"] = "INSTRUCTOR: では、NAV RADAR上のヘディングバグを090に合わせてくれ。",
+    ["DictKey_ActionText_399"] = "INSTRUCTOR: 最後に PRCN、Precision Measurement モードだ。マップ上の特定の誤差を補正するために使う。これも専用のトレーニングソーティで扱う内容だから、今は置いておこう。",
+    ["DictKey_ActionText_27"] = "INSTRUCTOR: そうだ。これは機体をウィングレベルに戻そうとするから、特定の地点の上を旋回し続けるような使い方はできない。ただし俺たちはガンシップじゃないから、特に問題はない。",
+    ["DictKey_ActionText_298"] = "INSTRUCTOR: バンク角スケールは HUD の下にある。インジケーターを最初と次の目盛りのちょうど中間で止めるんだ。1目盛りが 10 度を示している。",
+    ["DictKey_ActionText_888"] = "INSTRUCTOR: 右の LSK 6 の横にある CARP PROG を選んで、それから NEXT PAGE だ。",
+    ["DictKey_ActionText_660"] = "PLAYER: OK、完了。",
+    ["DictKey_ActionText_894"] = "PLAYER: ドロップ確定。",
+    ["DictKey_ActionText_547"] = "PLAYER: ホイールを使うのか？",
+    ["DictKey_ActionText_181"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_940"] = "",
+    ["DictKey_ActionText_379"] = "PLAYER: 了解！",
+    ["DictKey_ActionText_672"] = "PLAYER: ページ3だ！",
+    ["DictKey_ActionText_754"] = "LOADMASTER (INTERCOM): レッドライト ON。",
+    ["DictKey_ActionText_217"] = "",
+    ["DictKey_ActionText_752"] = "INSTRUCTOR: レッドライト。",
+    ["DictKey_ActionText_168"] = "INSTRUCTOR: レベリングはスムーズに、丁寧にな。",
+    ["DictKey_ActionText_157"] = "",
+    ["DictKey_ActionText_40"] = "INSTRUCTOR: アファーム。右に回して 18,000 フィートを選択しろ。目標高度は HUD 上で現在の高度のすぐ上に表示されている。",
+    ["DictKey_ActionText_710"] = "INSTRUCTOR: PI ELEVATION は正しいから、そのままにしておく。\
+\
+障害物高度（OBSTR ELEV）は、最低クリアランスを確保しなければならない障害物の、平均海面高度だ。\
+\
+ドロップゾーン高度（DZ ELEV）は、丘などを含めたドロップゾーン内で最も高い地点の高度をフィートで表したものだ。\
+\
+通常は、この2つのうち高い方を入力する。今回の場合、ニーボードを見れば分かる通り、ランウェイ脇の樹木がそれに当たるから、68 フィートを入力する。",
+    ["DictKey_ActionText_225"] = "PLAYER: IAS有効。",
+    ["DictKey_ActionText_846"] = "INSTRUCTOR: レッドライト！",
+    ["DictKey_ActionText_76"] = "INSTRUCTOR: 今回は Autoflight System Control Wheel を使ってピッチダウンを指示し、今設定した高度まで降下する。パネルを見れば、両パイロット用のエンゲージスイッチと、PITCH と LATERAL のスイッチがあるのも分かるはずだ。",
+    ["DictKey_ActionText_185"] = "PLAYER: 入ったと思う！",
+    ["DictKey_ActionText_115"] = "INSTRUCTOR: よし。ではHDGボタンを押せ。",
+    ["DictKey_ActionText_16"] = "PLAYER: ……それで、2つ目のディスプレイで HDD 1 を選択する。",
+    ["DictKey_ActionText_501"] = "PLAYER: 入った。",
+    ["DictKey_ActionText_668"] = "PLAYER: 了解。130 にセット。",
+    ["DictKey_ActionText_464"] = "PLAYER: ちぇっ、移動目標に MOAB を落とす展開を期待してたのに。",
+    ["DictKey_ActionText_220"] = "PLAYER: 235ノットです。",
+    ["DictKey_ActionText_362"] = "INSTRUCTOR: そうだ。左右のドットはコース偏差表示の一部だ。短い線、いわゆる CDI ヘッド／テールニードルが、コースに乗っているかどうかを示す。長い白い矢印、つまりコースラインと一致していれば問題ない。左右にずれていれば、コースから外れているということだ。",
+    ["DictKey_ActionText_368"] = "PLAYER: 了解。次は何だ？",
+    ["DictKey_ActionText_571"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_563"] = "PLAYER: いいな！ LSK 6 の横で、銃やお前のママの体重も入力できるのか？",
+    ["DictKey_ActionText_766"] = "PLAYER: ラジャー。",
+    ["DictKey_ActionText_614"] = "INSTRUCTOR: ああ、できる。ただしウェイポイント名は変わるし、PI 位置の表示は引き続き LAT / LONG になる。横には TOT、タイム・オン・ターゲットがある。下を見ると、いくつかの項目がボックス表示になっているだろう。これはまだ入力されていないという意味だ。",
+    ["DictKey_ActionText_630"] = "INSTRUCTOR: 次はターンポイント距離だ。これはインパクトポイントからどれだけ離れた位置で進入旋回を開始するかを示す。通常は 10 マイルを使う。10 と入力して確定しろ。",
+    ["DictKey_ActionText_622"] = "INSTRUCTOR: その隣は、ドロップゾーンの先端から測ったインパクトポイントだ。最初のクレートを先端近くに落としたいから、ここには 100 と入力して、右側の LSK で確定しろ。",
+    ["DictKey_ActionText_620"] = "PLAYER: 完了。",
+    ["DictKey_ActionText_772"] = "INSTRUCTOR: HUD 上のキューは、例えば DCS の CCRP 爆撃で見慣れているものと似ている。",
+    ["DictKey_ActionText_646"] = "INSTRUCTOR: OK、次にその右側にあるのがフューゼラージ・ステーションだ。これは、機首から最初に投下されるカーゴの“先端”までの距離（インチ） を示している。\
+\
+この情報は、カーゴが機体から完全に出るまでにどれくらい時間がかかるかをシステムが計算するために必要だ。\
+\
+今回の場合、カーゴは機体の一番後ろにあり、その数値は 1005 になる。",
+    ["DictKey_ActionText_444"] = "INSTRUCTOR: そうだ。括弧内の数字は、表示上の各レンジリング間の距離を示している。320 を有効にするには、横のボタンを2回押す必要がある。少し触ってから Overlays に進もう。",
+    ["DictKey_ActionText_861"] = "PLAYER: 完了。",
+    ["DictKey_ActionText_296"] = "PLAYER: 了解、旋回開始。",
+    ["DictKey_ActionText_503"] = "PLAYER: いいね。CNI をポチポチ操作するのは大好きだ。",
+    ["DictKey_ActionText_253"] = "PLAYER: 了解。メインメニューから PFD をクリックすればいいんだな……",
+    ["DictKey_ActionText_336"] = "INSTRUCTOR: （ため息）。白は高度偏差、加速キュー、デジタル表示だ。シアンはパイロットが設定した出力リファレンス、つまり変更や入力が可能なデータを示す。注意表示は黄色、重大な警告は赤だ。",
+    ["DictKey_ActionText_937"] = "",
+    ["DictKey_ActionText_499"] = "PLAYER: 了解……。",
+    ["DictKey_ActionText_314"] = "PLAYER: OK。",
+    ["DictKey_ActionText_515"] = "左側に表示されている 345 から 1005 までの数字は、基準点からそのラインまでの距離をインチで示している。",
+    ["DictKey_ActionText_581"] = "INSTRUCTOR: ではペイロードを入力しよう。LSK 4 を押せ。",
+    ["DictKey_ActionText_784"] = "PLAYER: ラジャー、1,000。",
+    ["DictKey_ActionText_682"] = "INSTRUCTOR: その通りだ。じゃあ進めよう。まずは高度での風だ。幸い、これはブリーフに入っていた。0 3 8 / 0 4 と入力して、左の LSK 1 で確定しろ。",
+    ["DictKey_ActionText_700"] = "PLAYER: OK、気圧をセットした。",
+    ["DictKey_ActionText_644"] = "PLAYER: その通りだ。",
+    ["DictKey_ActionText_435"] = "INSTRUCTOR: ここのオプションは、ほとんどが見れば分かる。CENTER/OFFSET は表示形式を切り替える。MAG/TRUE/GRID は方位基準を変更する。Heading Up / Ground Track Up / North Up は表示の向きを変える。HDD の位置については説明不要だ。",
+    ["DictKey_ActionText_462"] = "INSTRUCTOR: ネガティブだ。目標対地速度というのは、指定された時刻に現在のウェイポイントへ到達するために維持すべき速度のことだ。",
+    ["DictKey_ActionText_583"] = "PLAYER: 準備万端。",
+    ["DictKey_ActionText_453"] = "INSTRUCTOR: ここも大半は見れば分かる。だが2点だけ言っておく。Tactical Overlay は脅威識別と脅威エンベロープを表示に追加する。RWR はレーダー警報受信機で、RWR を ON にすると Skin Paint モードは使えなくなる。何がどう変わるか確認しておけ。",
+    ["DictKey_ActionText_356"] = "INSTRUCTOR: その通りだ。よし、次の重要ポイントは HSI、つまり Horizontal Situation Indicator だ。HSI のコンパスは常に機体のヘディングに合わせて向いていて、現在のヘディングはその上の白いボックスに表示されている。",
+    ["DictKey_ActionText_871"] = "INSTRUCTOR: OK、ドロップチェック完了だ。反転してクレートがどこに落ちたか確認しろ。うまく PI（指定着地点） に入っているといいが、その後は着陸のセットアップに入る。",
+    ["DictKey_ActionText_786"] = "INSTRUCTOR: ターンポイント接近中。",
+    ["DictKey_ActionText_907"] = "",
+    ["DictKey_ActionText_678"] = "INSTRUCTOR: ミッションプランニングで予定されていない場合、最も簡単なのは平均気温減率を使う方法だ。地上の気温を基準にする。\
+\
+目安として、高度が 1,000 フィート上がるごとに気温は 2 度下がる。",
+    ["DictKey_ActionText_207"] = "INSTRUCTOR: IAS はピッチを上げ下げして速度を維持する。A/T はスロットルと出力を使う。",
+    ["DictKey_ActionText_21"] = "PLAYER: 理解できました。",
+    ["DictKey_ActionText_724"] = "PLAYER: 完了！",
+    ["DictKey_ActionText_591"] = "PLAYER: 追加した。スラッシュが反転表示になってる。",
+    ["DictKey_ActionText_688"] = "PLAYER: 1,500 フィートでの気温をセットした。",
+    ["DictKey_ActionText_706"] = "INSTRUCTOR: ここでは高度と標高のデータを入力する。インパクトポイントの MSL 高度や、周辺で一番高い障害物などだ。",
+    ["DictKey_ActionText_205"] = "PLAYER: どう違うんですか？",
+    ["DictKey_ActionText_555"] = "PLAYER: そこだ。",
+    ["DictKey_ActionText_569"] = "INSTRUCTOR: この情報を使って、機体は重心、つまり MAC を計算する。表示の右下に出ているはずだ。MOM ― M・O・M ― は同じものを示す古い計算方法だから、ARM だけ見ておけばいい。よし、次に進もう。",
+    ["DictKey_ActionText_814"] = "INSTRUCTOR: クルー、1 分前！",
+    ["DictKey_ActionText_244"] = "",
+    ["DictKey_ActionText_122"] = "PLAYER: OK、ヘディング090だ。",
+    ["DictKey_ActionText_199"] = "INSTRUCTOR: 残りは3つだ。APP、つまり APPROACH は、着陸直前のパートで扱う。",
+    ["DictKey_ActionText_666"] = "INSTRUCTOR: その通りだ！ 次に左側の CAS だが、これは投下時の較正対気速度で、デフォルトは 140 になっている。\
+\
+ただしマニュアルでは、スリック、つまり総重量が 120,000 未満の場合は 130 ノットで投下することになっている。今回はそれを使う。",
+    ["DictKey_ActionText_98"] = "PLAYER: 見えてます。",
+    ["DictKey_ActionText_239"] = "",
+    ["DictKey_ActionText_38"] = "PLAYER: その高度はREF/MODEパネルのALT SELノブで選ぶんですね？",
+    ["DictKey_ActionText_536"] = "最後に 4 つ目のクレートを配置し、CARP を 1 に設定しろ。",
+    ["DictKey_ActionText_103"] = "PLAYER: OK、バグ090セット。",
+    ["DictKey_ActionText_662"] = "INSTRUCTOR: 次はエレメントの重量と数量だ。1つのクレートの重量である 882 を入力し、スラッシュ（/）、それから投下するクレートの数である 4 を入力して確定しろ。\
+\
+［注記：LSK を押す前に、CNI のメッセージが表示されていたらすべて消しておけ］",
+    ["DictKey_ActionText_245"] = "PLAYER: よし、降下する。\
+\
+［注記：ミッションが進行しない場合は、SPACE BAR を押せ］",
+    ["DictKey_ActionText_215"] = "INSTRUCTOR: では、ノブを使って速度を 235 に上げろ。",
+    ["DictKey_ActionText_915"] = "",
+    ["DictKey_ActionText_527"] = "カーゴを機体後方へ移動させ、下側が中央に来て、位置 1005 に揃うように配置しろ。マウスでドラッグする必要があるので、少し時間がかかるかもしれない。\
+\
+あわせて、右側のメニューを使って CARP ナンバー 1 を割り当てろ。完了したら SPACE BAR を押せ。\
+\
+［注記：指定された位置に正確に置けなくても問題ない。できるだけ近い位置に配置すればいい］",
+    ["DictKey_ActionText_105"] = "INSTRUCTOR: 次にヘディングノブを押せ。",
+    ["DictKey_ActionText_120"] = "INSTRUCTOR: その通りだ。そのまま新しいコースにインターセプトさせろ、次に進む。\
+\
+［注記：機体が091で落ち着いた場合は、ノブをわずかに回して090になるよう強制しろ］",
+    ["DictKey_ActionText_489"] = "INSTRUCTOR: まあ、*正確に* というわけでもないがな。ホールディングパターンや CARP のレーストラックは正確に表示されないことがある。そういう場合は NAV RADAR を主計器として使うべきだ。とはいえ、マップ上で自分の位置を示してくれるし、新しいウェイポイントの作成にも使える。これは後で扱う。",
+    ["DictKey_ActionText_780"] = "",
+    ["DictKey_ActionText_203"] = "INSTRUCTOR: 次は IAS、つまり Indicated Air Speed モードと、A/T（Auto Throttle）だ。基本的な目的は同じで、現在の機速を維持する。ただし、その方法が違う。",
+    ["DictKey_ActionText_826"] = "INSTRUCTOR: COMPUTER DROP スイッチを AUTO にしろ。",
+    ["DictKey_ActionText_792"] = "PLAYER: オープン許可。",
+    ["DictKey_ActionText_283"] = "PLAYER: ああ……気圧高度の設定を変えてないからだな。",
+    ["DictKey_ActionText_240"] = "PLAYER: Done.",
+    ["DictKey_ActionText_332"] = "INSTRUCTOR: 表示の色は、異なる情報ソースを区別するために使われている。緑は可動スケールの数値や目盛りだ……",
+    ["DictKey_ActionText_810"] = "INSTRUCTOR: スローダウンチェック完了だ。HUD のプロンプトを監視して、パラメーター内に収まっていることを確認しろ。\
+\
+HUD に CARP VERT が点滅して表示されたら、パラメーター外という意味だ。その状態では投下されない。\
+\
+対気速度、高度、アライメント（進路の一致）を維持しろ。",
+    ["DictKey_ActionText_31"] = "INSTRUCTOR: 今日は目の前のことに集中しろ。ただし付け加えると、オートパイロットを使って空中で旋回する方法もあるが、それは後でやる。",
+    ["DictKey_ActionText_74"] = "PLAYER: Angels 16 セット。",
+    ["DictKey_ActionText_598"] = "INSTRUCTOR: よし。次は CARP メニューを使って投下準備をする。これは LEGS ページから行うから、まずはそこからだ。",
+    ["DictKey_ActionText_608"] = "PLAYER: そこだ。",
+    ["DictKey_ActionText_302"] = "INSTRUCTOR: NAV モードが無効になっているのが分かるはずだ。",
+    ["DictKey_ActionText_886"] = "PLAYER: そこだ。",
+    ["DictKey_ActionText_553"] = "INSTRUCTOR: いいぞ。MC INDX ボタンを押せ。",
+    ["DictKey_ActionText_61"] = "INSTRUCTOR: オートパイロットを有効にしろ。",
+    ["DictKey_ActionText_698"] = "INSTRUCTOR: これは高高度からの 2 段階投下用に計算される値だ。今は気にしなくていい。ただし QNH は設定する必要がある。地上で 29.88 だから、それを入力して LSK 5 で確定しろ。",
+    ["DictKey_ActionText_172"] = "PLAYER: ヘディング180、安定しました。",
+    ["DictKey_ActionText_189"] = "PLAYER: ルートに戻りました。",
+    ["DictKey_ActionText_854"] = "",
+    ["DictKey_ActionText_911"] = "INSTRUCTOR: CAUTION ボタンを押せ。",
+    ["DictKey_ActionText_166"] = "PLAYER: 了解、180。",
+    ["DictKey_ActionText_602"] = "INSTRUCTOR: では投下ポイントだ。名前は……そうだな、DROP だ。右側の LSK を押してデータページに入り、右下の MFP を押せ。",
+    ["DictKey_ActionText_224"] = "",
+    ["DictKey_ActionText_658"] = "INSTRUCTOR: 次はパラシュートの種類と数だ。右側の CHUTE LIST に入って、左の LSK1 を押してパラシュートの種類をスクラッチパッドにコピーしろ。それから前のメニューに戻って、左の LSK 3 を使って入力する。",
+    ["DictKey_ActionText_164"] = "INSTRUCTOR: ホイールを使って、ヘディング180で機体を水平にしろ。\
+\
+［注記：AFCS Wheel - Center Lat / Pitch にキーやボタンを割り当てておけば、即座にリセットできる］",
+    ["DictKey_ActionText_229"] = "",
+    ["DictKey_ActionText_624"] = "PLAYER: OK。",
+    ["DictKey_ActionText_782"] = "INSTRUCTOR: OK、高度 1,000 フィートだ。",
+    ["DictKey_ActionText_348"] = "INSTRUCTOR: ADI のフライトパスマーカー横にある白いケアレットが上に動いたはずだ。これは機体が加速しているのか減速しているのかを示している。",
+    ["DictKey_ActionText_395"] = "INSTRUCTOR: 残りの2つは、そこまで気にしなくていい。WS は Windshear、BCN は Beacon で、地上および空中ビーコンを問い合せて応答を表示する機能だ。",
+    ["DictKey_ActionText_559"] = "PLAYER: OK。",
+    ["DictKey_ActionText_636"] = "PLAYER: OK、磁方位も自動で追加されたな。",
+    ["DictKey_ActionText_438"] = "PLAYER: すべて理解できる。",
+    ["DictKey_ActionText_848"] = "INSTRUCTOR: RAMPを閉じろ。",
+    ["DictKey_ActionText_648"] = "PLAYER: ラジャー、確認した。",
+    ["DictKey_ActionText_686"] = "INSTRUCTOR: 次はさっき話した気温だ。1 7 と入力して、右の LSK 1 で確定しろ。",
+    ["DictKey_ActionText_806"] = "INSTRUCTOR: よし、次はフラップを10％ に設定しろ。これで投下時に必要な デッキ角度7度 を作れる。",
+    ["DictKey_ActionText_143"] = "PLAYER: 了解、聞いてます。",
+    ["DictKey_ActionText_838"] = "INSTRUCTOR: 10 秒。",
+    ["DictKey_ActionText_108"] = "PLAYER: えっ……バグが現在のヘディングに戻りました。",
+    ["DictKey_ActionText_939"] = "",
+    ["DictKey_ActionText_704"] = "PLAYER: よし、ページ 4 に来た。",
+    ["DictKey_ActionText_567"] = "PLAYER: なるほどな。",
+    ["DictKey_ActionText_59"] = "PLAYER: 入った！",
+    ["DictKey_ActionText_545"] = "INSTRUCTOR: ああ、その通りだ。かなり操作することになる。だがまずは、ここでオービットに入ってくれ。",
+    ["DictKey_ActionText_694"] = "INSTRUCTOR: その通りだ！",
+    ["DictKey_ActionText_798"] = "LOADMASTER (INTERCOM): RAMP開放中。",
+    ["DictKey_ActionText_800"] = "INSTRUCTOR: フラップを 50 パーセントに設定して、対気速度を 130 ノットまで落とせ。",
+    ["DictKey_ActionText_12"] = "PLAYER: それにベッドもないしね。",
+    ["DictKey_ActionText_267"] = "PLAYER: 有効になった……テープや円、スケール、ラダーが消えた。",
+    ["DictKey_ActionText_213"] = "PLAYER: なるほど。じゃあ IAS を有効にしてスロットルを上げると、機体は機速を保つためにノーズダウンするってことか？",
+    ["DictKey_ActionText_896"] = "INSTRUCTOR: ドロップなし！ パラメーター外だったようで、投下は実行されなかった。心配するな。ほぼ完璧に揃えないといけない要素がたくさんあるんだ。感覚でできるようになるまで、繰り返し訓練しよう！",
+    ["DictKey_ActionText_654"] = "INSTRUCTOR: Release system は、Extraction Chute（TOW）、Cargo Release System（CRS）、または personnel（人員） 用の NA から選べる。これも今の設定、CRS のままでいい。",
+    ["DictKey_ActionText_750"] = "PLAYER: MAN になっている。",
+    ["DictKey_ActionText_495"] = "PLAYER: OK。",
+    ["DictKey_ActionText_832"] = "PLAYER: CAUTION ボタン ON。",
+    ["DictKey_ActionText_808"] = "PLAYER: FPA 7 度。",
+    ["DictKey_ActionText_585"] = "INSTRUCTOR: ここはとても簡単だ。各アイテムの重量をポンドで入力し、通常カーゴならスラッシュ 1 つ（/）、空中投下カーゴならスラッシュ 2 つ（//）を入れる。その後に ARM の値を入力する。",
+    ["DictKey_ActionText_804"] = "PLAYER: フラップ設定、減速中。",
+    ["DictKey_ActionText_905"] = "PLAYER: ラジャー。",
+    ["DictKey_ActionText_176"] = "",
+    ["DictKey_ActionText_892"] = "INSTRUCTOR: 右の LSK 5 でドロップを確定しろ。",
+    ["DictKey_ActionText_265"] = "INSTRUCTOR: いや、真逆だ。まずは表示モードから行こう。ベーシックとビジュアルだ。HUD パネルで VIS を有効にしてくれ。",
+    ["DictKey_ActionText_640"] = "PLAYER: ページ 2 が開いた。",
+    ["DictKey_ActionText_652"] = "PLAYER: OK。",
+    ["DictKey_ActionText_509"] = "他の操作に入る前に、ロードマスター視点に切り替える。キーボードの 3 を押せ。",
+    ["DictKey_ActionText_197"] = "INSTRUCTOR: ターンが終わるのを待ってから続けよう。",
+    ["DictKey_ActionText_873"] = "INSTRUCTOR: OK、次に何をするか簡単におさらいするぞ：\
+- IP でターンした後、高度を 1,500 フィートにセットする。\
+- 対気速度を 180 に設定する。\
+- そのまま降下に入る。\
+\
+ターンポイントには、その高度と速度で到達する必要がある。\
+\
+スローダウンポイントでは次を行う：\
+- フラップを 50 パーセントに設定する。\
+- 130 ノットまで減速を開始する。\
+\
+いいか？",
+    ["DictKey_ActionText_87"] = "",
+    ["DictKey_ActionText_474"] = "",
+    ["DictKey_ActionText_879"] = "INSTRUCTOR: DZ ESC はドロップゾーンからの離脱距離だ。デフォルト設定の 0.5 マイルのままにしておこう。\
+\
+各ページを編集した後は、EXECUTE ボタンを押すのが良い習慣だ。これはデータの保存のようなもので、誤って ERASE を押してしまっても、EXECUTE した内容はシステムに残る。今すぐ実行しろ。",
+    ["DictKey_ActionText_802"] = "PLAYER: ラジャー。",
+    ["DictKey_ActionText_201"] = "PLAYER: 了解です。",
+    ["DictKey_subtitle_932"] = "",
+    ["DictKey_ActionText_738"] = "PLAYER: 降下中。",
+    ["DictKey_ActionText_497"] = "INSTRUCTOR: メインメニューに戻って、AMU で DIG MAP に入れ。",
+    ["DictKey_ActionText_890"] = "PLAYER: OK、ドロップ結果ページにいる。",
+    ["DictKey_ActionText_350"] = "PLAYER: いいな。",
+    ["DictKey_ActionText_483"] = "INSTRUCTOR: いいだろ！ 最後に簡単に触れるのが Digital Map Display だ。",
+    ["DictKey_ActionText_230"] = "PLAYER: 機首が上がって減速しています。",
+    ["DictKey_ActionText_930"] = "INSTRUCTOR: OK、君がカーゴデータを確認している間に、CNI 側で少し細工をしておいた。だからエアドロップの設定を始める前に、重量とステーションを手入力する必要がある。",
+    ["DictKey_ActionText_628"] = "PLAYER: スローダウン距離、入力した。",
+    ["DictKey_ActionText_744"] = "INSTRUCTOR: AUX PUMP を ON にしろ。ランプを開くのに必要だ。",
+    ["DictKey_ActionText_338"] = "PLAYER: 完璧に理解できたよ。",
+    ["DictKey_ActionText_650"] = "INSTRUCTOR: 左側に戻ろう。Number of stages は、1段の低高度投下にするか、2段階の高高度投下にするかを決める。今回は低高度からの投下だから、1 のままにしておく。",
+    ["DictKey_ActionText_512"] = "カーゴメニューでは、機体の模式図を見ることができる。ローラーを ON / OFF したり、カーゴコンパートメント内の照明を設定したりできる。\
+\
+黄色のアイコンはロードマスターの位置を示している。A-S-W-D キーで移動し、Q と E で向きを変えることができ、アイコンがその動きに追従するのが分かるはずだ。",
+    ["DictKey_ActionText_844"] = "LOADMASTER (INTERCOM): ロードクリア！",
+    ["DictKey_ActionText_593"] = "INSTRUCTOR: ああ、それは空中投下されるカーゴだという意味だ。同じバンドルを追加しろ。重量はそれぞれ 882 ポンドで、ARM の値はニーボードに載っている。\
+\
+［注記：値はカーゴメニューでも確認できる。重量と位置の間には必ずスラッシュを2つ入れること。例：\
+\
+882//945\
+\
+表示される注意喚起があれば、CLR ボタンで消しておけ］",
+    ["DictKey_ActionText_285"] = "INSTRUCTOR: よくできた！ 最後に CAT 2 だが、これは非常に限定的なサブモードで、今回は気にしなくていい。それと、HUD に表示されているすべてを説明するつもりはない。もう知っているか、後で調べればいい。",
+    ["DictKey_ActionText_610"] = "INSTRUCTOR: ここからが本番だ。PI POSITION は、最初のコンテナを地面に接地させたい位置だ。今回は DROP ウェイポイントの位置と一致しているから正確だ。その地点にはエメラルド色のスモークが焚かれる。",
+    ["DictKey_ActionText_94"] = "PLAYER: 行きましょう！",
+    ["DictKey_ActionText_442"] = "PLAYER: 1.5 マイルから 320 まで、かなり選択肢があるな。",
+    ["DictKey_ActionText_524"] = "ここではパラシュートの種類を選択し、特定の CARP プログラムに割り当てたり、投下後にパラシュートが開くまでのタイマーを調整できる。これは通常、高高度投下で降下中のドリフトを最小限に抑えるために使われる。",
+    ["DictKey_ActionText_740"] = "INSTRUCTOR: クルー、10 分前だ。",
+    ["DictKey_ActionText_387"] = "",
+    ["DictKey_ActionText_460"] = "PLAYER: 目標対地速度？ 移動目標用みたいな？",
+    ["DictKey_ActionText_147"] = "",
+    ["DictKey_ActionText_370"] = "INSTRUCTOR: NAV レーダーに移ろう。",
+    ["DictKey_ActionText_385"] = "INSTRUCTOR: WX は気象用だ。最大 80 マイル先までの降雨や乱気流を表示するはずだが、ここコーカサスの天候はかなり固定的で、どこも同じに見えるな。",
+    ["DictKey_ActionText_674"] = "INSTRUCTOR: このページでは、投下高度での風と気温、そしてドロップゾーンの風を入力する。\
+\
+まずは気温からだ。投下高度は 1,500 フィートだから、その高度での気温を使う。",
+    ["DictKey_ActionText_812"] = "PLAYER: ラジャー。",
+    ["DictKey_descriptionBlueTask_3"] = "本日のブリーフィングだ。今日は2018年5月18日、Lt. Zilchとともに訓練フライトを行う。我々が搭乗するのはC-130J、テールナンバー006だ。コールサインはHeavy 1-1、GeorgiaのKobuleti Airbase、スポット15に駐機している。エンジン始動、タクシー、離陸の厳密な時刻は設定されていない。地上で手順や各種ドリルを確認しながら進めるためだ。\
+\
+ミッション。本任務は全11パートで構成される訓練ミッションだ：コックピット概要、電源投入、コックピット設定、エンジン始動、タクシーと離陸、オートパイロットの基礎、航法計器、航法の基礎、CARP、進入と着陸、シャットダウン。行動空域はジョージアおよびトルコの空域となる。\
+\
+カーゴ。G-12Dパラシュートを装備した木箱4個を搭載する。各重量は882ポンドだ。任務は、Kobuleti空港の南西にある訓練用滑走路に、4個すべてを1回の進入で投下すること。オートパイロットとオートスロットル機能を使用し、高度1,500フィートからの低高度投下を行う。CARPの完全な設定は、目標エリア到達後、空中で実施する。\
+\
+通信。Kutaisi GroundとはVictorで121.9、TowerとはUniformで263.0を使用する。Kutaisi空域を離脱後、Batumi到着までは管制機関は存在しない。Batumi到着時は、Batumi Approachを124.250、Batumi Towerを118.6、いずれもVictorで設定する。機内通信はICSを使用する。質問はあるか？よし、では行こう。\
+\
+天候。Kutaisiは良好で、地上気温は摂氏20度。雲量は8,000フィートにブロークン、21,000フィートにスキャッタード／ブロークン。風は040度から8ノット、気圧高度計は29.90。Batumi到着時も同様の条件が予想されるが、着陸前にApproachから詳細を確認する。\
+\
+航法およびフライトプラン。離陸はランウェイ07を使用する。2,000フィートまではランウェイヘディングを維持し、その後Kutaisi TACAN局から3海里でヘディング064に旋回、Exit Eastへ向かう。そこから南東へ進路を変え、Waypoint 2に向かって上昇し、本日の巡航高度である16,000フィートまで上がる。トランジション高度は7,000フィートだ。その後は投下ゾーンへ向かい、各種飛行計器のドリルを行う。訓練空域内ではフライトプランのウェイポイントを追加・削除する変更が入る可能性がある。投下ゾーン手前でオービットし、CARPプログラムを設定、その後エアドロップでカーゴを投下する。\
+\
+リカバリー。BatumiではNEDEC 2 Bravoアプローチを使用する。ATISがないため、天候情報はタワーから取得する。TACANとILSを設定し、オートパイロットのILS／APPROACHモードを使用して着陸する。着陸後はシャットダウン手順を実施し、私が良い話しか聞いたことのない、美しいジョージアの海沿いの街で一夜を過ごす予定だ。\
+\
+緊急時。ダイバート先はBatumiの北東22海里にあるKobuletiだ。非常に短い距離なので、燃料について心配する必要はない。それ以外は標準的な内容だ。何か起きた場合はSOPに従って対処する。",
+    ["DictKey_ActionText_440"] = "INSTRUCTOR: よし、MAP モードのままになっていることを確認して、Range をクリックしろ。",
+    ["DictKey_ActionText_557"] = "INSTRUCTOR: 重量・重心（WT & BAL）メニューに入れ。",
+    ["DictKey_ActionText_670"] = "INSTRUCTOR: OK、最後がRacetrack（レーストラック）のオプションだ。\
+\
+- ESC は投下後にフライトプランへ戻る。戦闘空中投下では通常これを使う。\
+- L または R は、複数回投下用の左／右のレーストラックを設定する。例えば、訓練でバンドルを1つずつ投下する場合に便利だ。\
+\
+EXECUTE で保存して、次のページに進もう。",
+    ["DictKey_ActionText_776"] = "INSTRUCTOR: ああ、俺も一度や二度どころじゃなく試してる。要するに、これは CCRP で爆弾を投下するのと同じだ。\
+\
+コース、対気速度、高度をきちんと維持していれば、問題なく進む。クロストラック（XTK）に注意しろ。これは、目標コースから左右にどれだけズレているかを示している。",
+    ["DictKey_ActionText_257"] = "INSTRUCTOR: いいぞ。HUD に表示されている多くの情報が、PFD にも重複して表示されているのが分かるはずだ。だがまずは HUD から始めよう。",
+    ["DictKey_ActionText_118"] = "PLAYER: NAVモードが解除されて、機体が旋回し始めました。",
+    ["DictKey_ActionText_539"] = "配置に問題なければ、右上の青い区画にある「LOAD ALL」アイコンをクリックしろ。",
+    ["DictKey_ActionText_714"] = "INSTRUCTOR: MSL を使っていることを忘れるな。AGL じゃない。だから PI ELEVATION に木の高さを足す必要がある。それで 68 になる。入力して、右の LSK 4 で確定しろ。",
+    ["DictKey_ActionText_836"] = "PLAYER: OK。",
+    ["DictKey_ActionText_664"] = "PLAYER: 合計が 3,528 ポンドに変わった。",
+    ["DictKey_ActionText_612"] = "PLAYER: ラジャー。座標を入力して LSK を押せば変更できるのか？ MGRS も使える？",
+} -- end of dictionary

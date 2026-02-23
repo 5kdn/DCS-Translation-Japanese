@@ -1,0 +1,338 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "PLAYER: 準備完了。ボタン押すの好きなんですよ。将来、民間機に行くときにも役に立ちそうだ。",
+    ["DictKey_ActionText_325"] = "",
+    ["DictKey_subtitle_457"] = "",
+    ["DictKey_ActionText_308"] = "INSTRUCTOR: よし。右下に表示されているDRAG INDXをメモしておけ。それからスクラッチパッドのNEXT PAGEを押してPERF INIT CRUISE 1ページに進む。",
+    ["DictKey_ActionText_237"] = "INSTRUCTOR: ここは個人の好みや戦術的な判断に合わせて設定する。\
+\
+航法援助（ナブエイド）を表示したり、空港情報や戦術情報、フライトプランやウェイポイントIDを画面に出すことができる。",
+    ["DictKey_ActionText_423"] = "INSTRUCTOR: よくやった。かなり勉強してきたな！ 次はエンジン始動だ！",
+    ["DictKey_ActionText_381"] = "PLAYER: 気温、設定しました。",
+    ["DictKey_ActionText_223"] = "INSTRUCTOR: まだ電源が入っていないからだ。これは後でやる。今は、ここでどんなオプションがあるかを見ておいてほしいだけだ。",
+    ["DictKey_ActionText_276"] = "",
+    ["DictKey_ActionText_241"] = "INSTRUCTOR: RWRのシンボル表示や、脅威の位置も表示できる。",
+    ["DictKey_ActionText_26"] = "INSTRUCTOR: WING／EMPANNAGE ICE PROTECTIONはすでにAUTO、DE-ICEもセット済みだ。PITOTとNESAはOFFになっている。",
+    ["DictKey_ActionText_68"] = "PLAYER: チェック。",
+    ["DictKey_ActionText_101"] = "INSTRUCTOR: まずバッテリーのテストだ。テストスイッチをAV（Avionics）とUTIL（Utility）に切り替えて、両方とも24ボルト以上出ているか確認しろ。",
+    ["DictKey_ActionText_416"] = "PLAYER: 完了。ノブで4750まで上げればいいですか？",
+    ["DictKey_ActionText_132"] = "",
+    ["DictKey_ActionText_30"] = "INSTRUCTOR: では右側のBLEED AIRパネルに移る。すべてのスイッチは中央のAUTO位置になっているはずだ。",
+    ["DictKey_ActionText_113"] = "INSTRUCTOR: よし。次にロードに確認して、APUがクリアかどうかチェックしろ。",
+    ["DictKey_ActionText_271"] = "",
+    ["DictKey_ActionText_107"] = "PLAYER: 問題なし。",
+    ["DictKey_ActionText_358"] = "PLAYER: OK、設定しました。次は勾配ですか？",
+    ["DictKey_ActionText_124"] = "INSTRUCTOR: OK、次は酸素だ。100％のままにして、供給をONにしろ。",
+    ["DictKey_ActionText_228"] = "INSTRUCTOR: よし。NAV RADARメニューでは、航法レーダー表示の各種オプションを設定できる。\
+\
+FULL / PARTは、どちらがフルオーバーレイを使うか、どちらが部分表示を使うかを決める。\
+\
+RANGEは見たとおりだ。ナビレーダーのスケールや、リング間の距離を設定できる。",
+    ["DictKey_ActionText_28"] = "PLAYER: イエッサー。",
+    ["DictKey_ActionText_415"] = "",
+    ["DictKey_sortie_5"] = "C-130J Training Mission 03: Cockpit Preparation",
+    ["DictKey_ActionText_330"] = "PLAYER: なんで自動でここに取り込めないんです？ ……えっと、どこでしたっけ……PERF INITページから。",
+    ["DictKey_ActionText_187"] = "",
+    ["DictKey_ActionText_84"] = "INSTRUCTOR: AIR DELIVERYパネルのAIR DEFLECTORスイッチがCLOSED、つまり後方位置になっているか確認しろ。",
+    ["DictKey_ActionText_183"] = "PLAYER: はい、設定されています。",
+    ["DictKey_ActionText_173"] = "PLAYER: 了解。次は何ですか？",
+    ["DictKey_ActionText_371"] = "",
+    ["DictKey_ActionText_99"] = "",
+    ["DictKey_ActionText_344"] = "",
+    ["DictKey_ActionText_205"] = "PLAYER: NAV RADARメニュー、開きました。",
+    ["DictKey_ActionText_180"] = "INSTRUCTOR: よし。まずソースがPILOTに選択されていること、それから姿勢基準INU、CADC、レーダー高度のすべてで「1」がボックス表示されていることを確認しろ。",
+    ["DictKey_ActionText_367"] = "PLAYER: OK.",
+    ["DictKey_ActionText_217"] = "PLAYER: OK.",
+    ["DictKey_ActionText_34"] = "INSTRUCTOR: プレッシャライゼーションパネルはこっち側にある。ガード付きのEMERGENCY DEPRESSURIZEはNORMのままでいいが、MODE SELECTノブをAUTOに切り替える。",
+    ["DictKey_ActionText_282"] = "PLAYER: ルート有効化。",
+    ["DictKey_ActionText_126"] = "INSTRUCTOR: よし！コックピットと各システムのセットアップに入るぞ。\
+\
+通信・航法・識別管理ユニット、CNI。\
+アビオニクス管理ユニット、AMU。\
+それから通信／航法／ブレーカーパネル、CNBPだ。\
+\
+ルート設定も行うし、全体的にボタン操作が多くなる。\
+\
+準備いいか？",
+    ["DictKey_ActionText_323"] = "INSTRUCTOR: よし。R6を押してTOLD INDEXページに入れ。",
+    ["DictKey_ActionText_70"] = "INSTRUCTOR: さらに右がLANDING LIGHTSパネルだ。LEFT／RIGHT MOTORライトはHOLD、左右のLANDING LIGHT、TAXIライト、WINGTIP TAXI LIGHTはいずれもOFFで正しい。",
+    ["DictKey_ActionText_357"] = "",
+    ["DictKey_ActionText_168"] = "PLAYER: OK。",
+    ["DictKey_ActionText_76"] = "INSTRUCTOR: よし、次だ。さらに右にHYDRAULIC CONTROL PANELがある。AUXILIARY PUMPはOFFのままでいいが、ANTI-SKIDをONにしろ。",
+    ["DictKey_ActionText_161"] = "INSTRUCTOR: そうだ。対地高度で、警告を出し始める高度を設定できる。500フィートにセットして、次に進もう。\
+\
+[注：マウスホイールを使うか、ノブを右クリックして押したまま右にドラッグして調整できる]",
+    ["DictKey_ActionText_225"] = "",
+    ["DictKey_ActionText_16"] = "INSTRUCTOR: 次へ進むぞ。External Power／APUスイッチはOFF、バッテリースイッチもOFFにしておけ。",
+    ["DictKey_ActionText_353"] = "PLAYER: OK……Kutaisiについての情報がいろいろ表示されてますね。",
+    ["DictKey_ActionText_32"] = "PLAYER: 確認しました、そのとおりです。",
+    ["DictKey_ActionText_143"] = "INSTRUCTOR: そうだな……。HDD 2を見ると、青い値で4.0 HPと表示されているはずだ。つまり4000ホースパワーだ。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_372"] = "PLAYER: 完了。",
+    ["DictKey_ActionText_150"] = "",
+    ["DictKey_ActionText_115"] = "PLAYER: OK。",
+    ["DictKey_ActionText_212"] = "INSTRUCTOR: よし、次に進む。\
+\
+CENTER / OFFSETは、機体シンボルを画面中央に表示するか、下側にオフセットするかを切り替える。\
+\
+MAG / TRUE / GRIDはコンパスの基準を変更する。通常は磁気方位を使用する。\
+\
+左下の項目は画面の向きを設定する。ヘディングアップ、トラックアップ、ノースアップだ。",
+    ["DictKey_ActionText_255"] = "INSTRUCTOR: ここでは、左側に表示されている各重量を確認する。\
+・基本運用重量\
+・燃料重量\
+・ゼロペイロード重量\
+・現在搭載しているペイロードの重量\
+そして最後に、\
+・グロス重量。これは基本重量、燃料重量、ペイロード重量を合計したものだ。\
+\
+左側の個別ページに入れば、さらに細かい確認もできるが、今はそこまでやる必要はない。",
+    ["DictKey_ActionText_44"] = "PLAYER: 全ライトOFF確認。そっち側のライトは操作できる？",
+    ["DictKey_ActionText_40"] = "INSTRUCTOR: よし。次はお前側のEXTERIOR LIGHTING PANELだ。すべてのライトはOFFにしておけ。",
+    ["DictKey_ActionText_62"] = "INSTRUCTOR: よし。右側にFIRE／ENGINE START PANELがある。4つのハンドルは押し込み状態、俺側のAPU CONTROLスイッチはOFFだ。",
+    ["DictKey_ActionText_60"] = "PLAYER: 確認できてます、サー。",
+    ["DictKey_ActionText_137"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_154"] = "PLAYER: アファーム。で、なんでわざわざ制限するんです？",
+    ["DictKey_ActionText_42"] = "PLAYER: 左のFUEL DUMPスイッチはOFF。",
+    ["DictKey_ActionText_46"] = "INSTRUCTOR: できない。でも空調は俺の担当だ。変なことしたら凍えさせるぞ。",
+    ["DictKey_ActionText_259"] = "INSTRUCTOR: ではルート設定に入る。INDXを押してからROUTE 1だ。",
+    ["DictKey_ActionText_296"] = "",
+    ["DictKey_ActionText_253"] = "PLAYER: OK、表示されました。",
+    ["DictKey_ActionText_64"] = "PLAYER: 言う通りにしてます。",
+    ["DictKey_ActionText_175"] = "INSTRUCTOR: 次はAMU、つまりAvionics Management Unitに移る。メインメニューでPFD（Primary Flight Display）を選択しろ。",
+    ["DictKey_ActionText_72"] = "PLAYER: チェック。左右のランディングライトを個別に操作できるの、面白いですね。片側だけ使う場面ってあります？",
+    ["DictKey_ActionText_284"] = "INSTRUCTOR: スクラッチパッドのEXECボタンが緑に点灯しているはずだ。それを押して実行しろ。",
+    ["DictKey_ActionText_54"] = "INSTRUCTOR: FADEC――Full Authority Digital Engine Controlの略だ――は、エンジン性能のすべてを管理する。ガード付きの4つのスイッチ（ガードが上がった状態）は、中央のNORMAL位置にしておく。",
+    ["DictKey_ActionText_202"] = "INSTRUCTOR: そしてNAV RADARを選択しろ。",
+    ["DictKey_ActionText_369"] = "INSTRUCTOR: よし、次は地上風だ。次を入力しろ：\
+038/08\
+入力したらR1で確定だ。",
+    ["DictKey_ActionText_166"] = "INSTRUCTOR: IASはIndicated Airspeed（指示対気速度）、FPAはフライトパスアングルだ。どちらも後でオートパイロット用に設定するから、今はそのままにしておけ。",
+    ["DictKey_ActionText_95"] = "PLAYER: AVで24ボルト以上…",
+    ["DictKey_ActionText_374"] = "INSTRUCTOR: 外気温は15℃だ。これも手入力しろ。",
+    ["DictKey_ActionText_430"] = "",
+    ["DictKey_ActionText_391"] = "PLAYER: OK、出力、リジェクトスピード、ローテーションスピード、障害物クリアランス……それに他にもいろいろ表示されてますね。",
+    ["DictKey_ActionText_133"] = "PLAYER: セット。",
+    ["DictKey_ActionText_386"] = "PLAYER: 完了。",
+    ["DictKey_ActionText_398"] = "INSTRUCTOR: じゃあ入力しよう。スクラッチパッドのMC INDXボタンを押せ。",
+    ["DictKey_ActionText_192"] = "INSTRUCTOR: ここでは、CDIがNAV 1に設定されていることを確認する。これはHDD上の航法情報のソースだ。それから、TACAN 1をPointer 1、TACAN 2をPointer 2に設定しろ。",
+    ["DictKey_ActionComment_7"] = "",
+    ["DictKey_ActionText_36"] = "PLAYER: AUTOでセットされてます。",
+    ["DictKey_subtitle_455"] = "",
+    ["DictKey_ActionText_326"] = "PLAYER: 了解、入りました。",
+    ["DictKey_ActionText_78"] = "PLAYER: 設定完了。",
+    ["DictKey_ActionText_230"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_178"] = "PLAYER: 完了。",
+    ["DictKey_ActionText_279"] = "INSTRUCTOR: ではR6を押してルートをアクティブにする。",
+    ["DictKey_ActionText_66"] = "INSTRUCTOR: ワイパーはOFF、空調は設定済み、中央のGEARレバーはDOWNだ。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_50"] = "INSTRUCTOR: そんな機能はない。気にするな。次はFADECとプロペラ制御に行くぞ。",
+    ["DictKey_ActionText_188"] = "",
+    ["DictKey_ActionText_207"] = "INSTRUCTOR: HDD POS画面を使えば、どのHDDにもナビレーダーを表示できる。HDD 1に表示してみろ。",
+    ["DictKey_ActionText_48"] = "PLAYER: まさかのデュアルゾーン空調？ すげぇ！",
+    ["DictKey_ActionText_170"] = "INSTRUCTOR: 最後にMINSだ。これはフィート単位の最低降下高度リファレンスだ。ベゼルを回すと、PFD上のシアン色のライン位置が変わる。触ってみてもいいが、最終的にはゼロに戻しておけ。",
+    ["DictKey_ActionText_199"] = "",
+    ["DictKey_ActionText_234"] = "",
+    ["DictKey_ActionText_159"] = "PLAYER: 完了。これはレーダー高度計ですか？",
+    ["DictKey_ActionText_235"] = "PLAYER: オーバーレイメニュー、表示されました。",
+    ["DictKey_ActionText_299"] = "INSTRUCTOR: このページの目的は、上昇速度や高度など、クライム関連のパラメータを確認・入力することだ。今はKutaisiのトランジション高度を設定する。ニーボードに載っているが、時間短縮のため教える。7000フィートだ。",
+    ["DictKey_ActionText_97"] = "INSTRUCTOR: よし。3つのグリーンと3つの表示が出るのを待とう。1分もかからないはずだ。",
+    ["DictKey_ActionText_103"] = "INSTRUCTOR: Master Cautionをクリアしろ。",
+    ["DictKey_ActionText_306"] = "PLAYER: トランジション高度、設定完了。",
+    ["DictKey_ActionText_92"] = "よくできました！",
+    ["DictKey_ActionText_215"] = "INSTRUCTOR: HDD POS画面を使えば、ナビレーダーはどのHDDにも表示できる。HDD 1に表示してみろ。",
+    ["DictKey_ActionText_363"] = "PLAYER: 勾配設定完了。標高はこのままで問題ないですか？",
+    ["DictKey_ActionText_252"] = "",
+    ["DictKey_ActionText_297"] = "PLAYER: OK、完了。",
+    ["DictKey_ActionText_120"] = "INSTRUCTOR: もうそんな先のこと考えてるのか？ 今日は目の前のミッションに集中しろ。",
+    ["DictKey_ActionText_261"] = "",
+    ["DictKey_ActionText_14"] = "PLAYER: 完了。",
+    ["DictKey_ActionText_243"] = "PLAYER: いいですね！",
+    ["DictKey_ActionText_310"] = "",
+    ["DictKey_ActionText_408"] = "INSTRUCTOR: ここからは手取り足取りはしない。L1、L2、L3を使ってV1、VR、V2を入力しろ。終わったら教えてくれ。",
+    ["DictKey_ActionText_105"] = "PLAYER: 完了。ギアライト点灯、HDDは両方オン、CNIもオン。もう一度バッテリーをテストする。",
+    ["DictKey_ActionText_90"] = "PLAYER: 行きましょう！",
+    ["DictKey_ActionText_332"] = "INSTRUCTOR: それを自動化したら、お前はいらなくなって、俺一人で飛ばせるだろ？ さあ、\
+10\
+と入力して、L5で確定しろ。",
+    ["DictKey_ActionText_158"] = "",
+    ["DictKey_ActionText_403"] = "INSTRUCTOR: それからL4でV SPEEDSを選択。",
+    ["DictKey_ActionText_74"] = "INSTRUCTOR: どちらかのモーターに不具合が出ても、もう片方で照明できるよう独立している。それにランディングライトはかなり熱を持つから、片側が翼の中に引っ込んだままだと熱トラブルになることもある。IR機能もあるから、NVG着陸では明るすぎる場合、片側だけで十分なこともある。",
+    ["DictKey_ActionText_355"] = "INSTRUCTOR: そのとおりだ。ここには滑走路の長さ、方位、勾配、標高が表示されている。\
+\
+まずは滑走路の磁気方位を設定する。067度だ。スクラッチパッドに入力して、L2で確定しろ。",
+    ["DictKey_ActionText_413"] = "INSTRUCTOR: 次は馬力リミットに戻る。REF / MODE PANELでノブをHPに合わせろ。",
+    ["DictKey_ActionText_195"] = "PLAYER: なるほど。TACANを2系統使えるんですね？",
+    ["DictKey_ActionText_411"] = "PLAYER: 完了。",
+    ["DictKey_ActionText_365"] = "INSTRUCTOR: そのとおりだ。ただし、これはタッチダウン地点の標高だということを覚えておけ。\
+\
+この横には気圧高度を手動入力することもできるが、今はその情報がないし、下に表示されている滑走路コンディションについても、これ以上の詳細は分かっていない。",
+    ["DictKey_ActionText_272"] = "PLAYER: 完了。",
+    ["DictKey_ActionText_122"] = "PLAYER: 了解、行きましょう。",
+    ["DictKey_ActionText_334"] = "",
+    ["DictKey_ActionText_145"] = "PLAYER: 見えてます。",
+    ["DictKey_ActionText_277"] = "PLAYER: 確認できます。",
+    ["DictKey_ActionText_141"] = "PLAYER: これは簡単だ。ヒットポイントだろ？",
+    ["DictKey_ActionText_24"] = "PLAYER: OK、完了。",
+    ["DictKey_ActionText_190"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_303"] = "INSTRUCTOR: そのとおりだ。スクラッチパッドに7000と入力して、R2でシステムに反映させろ。",
+    ["DictKey_ActionText_232"] = "INSTRUCTOR: 最後にやるのはオーバーレイの設定だ。今それを選択しろ。",
+    ["DictKey_ActionText_337"] = "INSTRUCTOR: 次は、出発空港の天候とコンディションをコンピューターに入力する必要がある。\
+\
+通常ならATISを聞いて最新の情報を取得するが、KutaisiにはATISがない。だから今回は、出撃前のミッションブリーフで得た情報を使うことになる。",
+    ["DictKey_ActionText_281"] = "",
+    ["DictKey_ActionText_301"] = "PLAYER: つまり、ここで標準気圧に切り替える高度ってことですよね？",
+    ["DictKey_ActionText_22"] = "INSTRUCTOR: では、頭上にあるICE PROTECTIONパネルだ。\
+\
+PROPELLERSスイッチは正しくOFFになっている。だが、ENGINE ICE PROTECTIONスイッチはAUTOにしておけ。",
+    ["DictKey_ActionText_348"] = "INSTRUCTOR: よし。ではL1を押してTOLD INITページに入れ。",
+    ["DictKey_ActionText_250"] = "INSTRUCTOR: 覚えるのが早いな。キーパッドのINDXボタンを押してからL2を押し、重量・バランスページ［PERF WGT］に入れ。",
+    ["DictKey_ActionText_291"] = "",
+    ["DictKey_ActionText_58"] = "INSTRUCTOR: 下のPROPELLER CONTROLスイッチも同様だ。最後に、PROP SYNCスイッチとガード付きのATCSは両方ともONにしておけ。",
+    ["DictKey_ActionText_438"] = "",
+    ["DictKey_ActionText_318"] = "INSTRUCTOR: 次は上空の風だ。その高度での風は、ニーボードによれば012度・12ノットだ。\
+次を入力しろ：\
+012/12\
+入力したらL2で確定する。",
+    ["DictKey_ActionText_405"] = "",
+    ["DictKey_ActionText_221"] = "PLAYER: OK、次に進みましょう。",
+    ["DictKey_ActionText_257"] = "PLAYER: いいですね。",
+    ["DictKey_ActionText_316"] = "PLAYER:セット。",
+    ["DictKey_ActionText_20"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_8"] = "INSTRUCTOR: よし、始動だ。上を見て、オーバーヘッドコンソールの後方側から作業する。CONTROL BOOSTスイッチはすでにON、オイルクーラーフラップもONだ。",
+    ["DictKey_ActionText_109"] = "INSTRUCTOR: スイッチをExternal Powerにセット。",
+    ["DictKey_ActionText_305"] = "",
+    ["DictKey_ActionText_139"] = "INSTRUCTOR: そのパネルはHDD 1の左上にあって、HPなど、いくつかのシステムを設定できる。HPっていうのは……",
+    ["DictKey_ActionText_209"] = "PLAYER: はい。…結構、ガタガタしてますね。",
+    ["DictKey_ActionText_204"] = "",
+    ["DictKey_ActionText_335"] = "PLAYER: OK、完了。次は何ですか？",
+    ["DictKey_ActionText_156"] = "INSTRUCTOR: 例えば横風成分が強い場合、対地速度35ノットに達するまでは出力が2500HPに制限される。\
+\
+それと、エンジンの実際の馬力がCNIの指示どおりか確認するためでもある。両者の差が200HP以上あれば、機体はCNIどおりの性能を発揮しないから離陸は中止だ。\
+\
+今は4000に戻して、ノブをRAD ALTに回せ。",
+    ["DictKey_ActionText_82"] = "PLAYER: OK。",
+    ["DictKey_ActionText_12"] = "INSTRUCTOR: よし。ではバッテリースイッチをONにしろ。",
+    ["DictKey_ActionText_267"] = "PLAYER: OK。",
+    ["DictKey_ActionText_248"] = "PLAYER: OK、準備できました。",
+    ["DictKey_ActionText_341"] = "INSTRUCTOR: よし。まずKutaisiのICAOコードとランウェイ番号を入力する。\
+次のとおりだ：\
+UGKO/07\
+入力したらR1で確定しろ。",
+    ["DictKey_ActionText_311"] = "PLAYER: ドラッグインデックス確認…入りました。",
+    ["DictKey_ActionText_289"] = "INSTRUCTOR: 見てのとおり、ルート名がACT RTE 1、つまりアクティブルートに変わった。次にR6を押してPERF INITページに入れ。",
+    ["DictKey_ActionText_18"] = "Test",
+    ["DictKey_ActionText_360"] = "INSTRUCTOR: そうだ。次を入力しろ：\
+0.3\
+入力したらL3で確定だ。",
+    ["DictKey_ActionText_380"] = "",
+    ["DictKey_ActionText_400"] = "",
+    ["DictKey_descriptionText_1"] = "Airplane Simulation Company製 C-130J へようこそ！\
+\
+この一連のトレーニングミッションでは、大型輸送機Herculesの基本的な操縦と運用を学んでもらう。\
+\
+これらは実際の出撃を模した1本の長いフライトとして構成され、学習しやすく、かつ楽しめるよう11パートに分割されている。復習したいパートややり直したい内容にも、すぐに戻れるようになっている。\
+\
+開始前に、SETTINGSメニューのCONTROLSで「DIALOG RESPONSES（Response: Negative / Neutral / Positive）」をHOTASの3ポジションスイッチに割り当てることを強く推奨する。これにより、SPACEBARやF10ラジオメニューを使わずにミッションを進行できる。\
+\
+君は、リトルロック所属・第19航空団のC-130J左席に搭乗し、リフレッシャー出撃に参加する。\
+\
+Kutaisi Air Baseを離陸し、訓練エリアへ向かって低空で補給物資を投下、その後Batumi空港へ着陸する。\
+\
+各フェーズでは、IPが随時指示を出す。\
+\
+この最初のパートでは、始動前のコックピットチェックと準備に焦点を当て、所要時間は約10分だ。\
+\
+注意事項：\
+\
+1) ミッションは、SPACEBARまたはHOTASに割り当てたDIALOG RESPONSESの入力待ちになる場面が多い。焦る必要はない。現在の作業に集中したり、各オプションに慣れてから先へ進んでよい。ポップアップは画面左側に表示される。\
+\
+2) コックピット内にはハイライトが表示されるが、パネル全体の説明時は通常、そのパネル内の1つのスイッチのみがハイライトされる。個別の操作が必要な場合は、対象のスイッチがハイライトされる。\
+\
+下の「Objective」欄にある追加メモとブリーフィングも必ず確認すること！",
+    ["DictKey_ActionText_226"] = "PLAYER: なるほど。",
+    ["DictKey_ActionText_406"] = "PLAYER: メニュー表示されました。",
+    ["DictKey_ActionText_86"] = "PLAYER: CLOSEDです。",
+    ["DictKey_ActionText_287"] = "PLAYER: 押しました。",
+    ["DictKey_ActionText_292"] = "PLAYER: PERF INIT選択。",
+    ["DictKey_ActionText_164"] = "PLAYER: 500フィートにセットしました。",
+    ["DictKey_ActionText_262"] = "PLAYER: 入りました。",
+    ["DictKey_ActionText_197"] = "INSTRUCTOR: いいね！ちゃんと勉強してるな。そうだ、別々に設定できる。でも今はNAV RADARに集中しよう。MAIN MENUに戻れ。",
+    ["DictKey_ActionText_401"] = "PLAYER: OK。",
+    ["DictKey_ActionText_52"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_343"] = "",
+    ["DictKey_ActionText_200"] = "PLAYER: OK。",
+    ["DictKey_ActionText_286"] = "",
+    ["DictKey_ActionText_421"] = "PLAYER: 準備OK！ 次は？",
+    ["DictKey_ActionText_135"] = "INSTRUCTOR: OK、チェックリストから少し外れる。まずREF / MODE PANELとAMUから始めて、そのあとCNIに移る。",
+    ["DictKey_ActionText_425"] = "PLAYER: いいですね！",
+    ["DictKey_ActionText_418"] = "INSTRUCTOR: そのとおり。今設定しろ。",
+    ["DictKey_ActionText_245"] = "INSTRUCTOR: 好みに合わせて設定してくれ。離陸ではNAV RADARは不要だから、HDD POSでHDD 1のチェックを外して、CNIに進もう。\
+\
+[注：右LSK 3でHDD POSを押し、HDD 1の横にある左LSK 1を押してチェックを外す]",
+    ["DictKey_ActionText_350"] = "",
+    ["DictKey_ActionText_80"] = "INSTRUCTOR: 本来はPILOT LIGHTINGパネルで照明を設定するが、今回は不要だ。",
+    ["DictKey_ActionText_396"] = "PLAYER: 了解。出力、リジェクトスピード、ローテーションスピード、障害物クリアランス……全部メモしました。",
+    ["DictKey_ActionText_339"] = "PLAYER: じゃあやりましょう。",
+    ["DictKey_ActionText_388"] = "INSTRUCTOR: よし、いいぞ。ではL6を押してT/O DATAページに入れ。",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_151"] = "INSTRUCTOR: ほら、デジタル表示が4000になっている。これがHPのリミットで、最大は5000だ。REF SETベゼルを回して数値を下げると、HDD 2のデジタルダイヤル上にある青いキャレットも一緒に動くのが分かるはずだ。",
+    ["DictKey_ActionText_328"] = "INSTRUCTOR: いいね。ここでは、離着陸用に最大6つまで空港／滑走路の組み合わせを設定できる。右側の点線枠に入力する。\
+\
+ただしその前に、さっきメモしたドラッグインデックス（抗力係数）を機体に入力する必要がある。",
+    ["DictKey_ActionText_38"] = "INSTRUCTOR: この中央にデジタル表示が並んでいる大きなパネルがFUEL MANAGEMENT PANELだ。\
+\
+ここで各エンジンへの燃料流量を制御したり、すべてのタンクの燃料量を確認できる。今は、左と右のFUEL DUMPスイッチ、ガード付きのやつがOFFになっているかを確認するだけでいい。右側のFUEL DUMPスイッチはOFFだ。",
+    ["DictKey_ActionText_313"] = "INSTRUCTOR: ここでは巡航高度と上空の風を入力する。まずは高度からだ。\
+次のとおり設定しろ：\
+16000\
+フィート。入力したらL1で確定する。\
+\
+[注：先ほど設定したトランジション高度を超えているため、「FL160（フライトレベル160）」と表示される]",
+    ["DictKey_ActionText_88"] = "INSTRUCTOR: よし！ 始動準備完了。他にあるか？",
+    ["DictKey_ActionText_111"] = "PLAYER: セット。",
+    ["DictKey_ActionText_378"] = "INSTRUCTOR: だから言っただろ、パイロットが2人いる理由がちゃんとあるんだ。スクラッチパッドに\
+15\
+と入力して、R2で確定しろ。",
+    ["DictKey_ActionText_269"] = "INSTRUCTOR: 次にDESTと表示されたR1を押してコードを入力する。",
+    ["DictKey_ActionText_264"] = "INSTRUCTOR: まず目的地空港を設定する。BatumiのICAOコードを入力しろ。UGSBだ。",
+    ["DictKey_ActionText_239"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_393"] = "INSTRUCTOR: 今言った項目は必ずメモしておけ。あとでミッションコンピューターに入力するからな。\
+\
+それ以外にも、地上での最小操縦速度、3発または2発時の空中での最小操縦速度、そして推奨される最大横風成分が表示されている。",
+    ["DictKey_ActionText_376"] = "PLAYER: 機体なら、さすがにそれくらいは自動で分かりそうな気もしますけどね……。",
+    ["DictKey_ActionText_56"] = "PLAYER: アファーム。",
+    ["DictKey_ActionText_346"] = "PLAYER: Kutaisi、追加しました。",
+    ["DictKey_ActionText_390"] = "",
+    ["DictKey_ActionText_385"] = "",
+    ["DictKey_ActionText_383"] = "INSTRUCTOR: 最後に高度計設定だ。今日は\
+29.90\
+だ。数字の間の小数点を忘れずに入力して、R3で確定しろ。",
+    ["DictKey_ActionText_321"] = "PLAYER: 設定完了。",
+    ["DictKey_descriptionBlueTask_3"] = "本日のブリーフィングだ。今日は2018年5月18日、Lt. Zilchとの訓練飛行を実施する。使用機はC-130J、テールナンバー006。コールサインはHeavy 1-1。駐機位置はジョージアのKobuleti Air Base、スポット15。エンジン始動、タキシー、離陸の厳密な時刻は設定していない。地上で手順確認や各種ドリルを行うためだ。\
+\
+任務内容。今回の訓練は全11パートで構成される。コックピット概要、電源投入、コックピット設定、エンジン始動、タキシーと離陸、オートパイロットの基礎、航法計器、航法の基礎、CARP、アプローチと着陸、シャットダウンだ。行動空域はジョージアおよびトルコ領空だ。\
+\
+カーゴ。G-12Dシュート付きのクレート4個を搭載する。各882ポンドだ。Kobuleti空港の南西にある訓練用滑走路に、一回のパスで4個すべてを投下する。オートパイロットとオートスロットルを使用し、高度1500フィートの低空投下を行う。CARPのフル設定は目標エリア到達後に空中で実施する。\
+\
+通信。Kutaisi GroundはVictorの121.9、Kutaisi TowerはUniformの263.0を使用する。Kutaisi空域を離脱してBatumi到着まで管制機関は存在しない。Batumi到着後は、Victorの124.250でBatumiアプローチ、118.6でBatumiタワーに切り替える。機内の内部通信はICSを使用する。質問はあるか？ よし、行こう。\
+\
+Kutaisiの天候は良好。地上気温20℃、雲は8000フィートにブロークン、21000フィートにスキャッタード／ブロークン。風は040度から8ノット、高度計設定29.90。Batumiでもほぼ同様の見込みだが、着陸前にアプローチで確認する。\
+\
+航法およびフライトプラン。離陸はランウェイ07を使用する。高度2000フィートまでは滑走路ヘディングを維持し、その後KutaisiのTACANから3マイル地点でヘディング064に旋回し、Exit Eastへ向かう。そこからウェイポイント2へ南東に進みながら上昇し、巡航高度は16000フィートとする。本日のトランジション高度は7000フィートだ。その後、投下エリアへ向かいながら各種計器のドリルを実施する。訓練空域内ではフライトプランの変更が発生する可能性があり、ウェイポイントの追加・削除を行う。投下エリア手前で旋回してCARPを設定し、エアドロップでカーゴを投下する。\
+\
+リカバリー。BatumiにはNEDEC 2 Bravoアプローチで進入する。ATISがないため、天候はタワーから取得する。TACANとILSをセットし、オートパイロットのILS／アプローチモードで着陸する。着陸後はシャットダウン手順を実施し、評判のいい美しいジョージアの海岸都市で一泊だ。\
+\
+緊急時。ダイバート先はBatumiの北東22マイルにあるKobuletiだ。すぐ近いので燃料の心配はない。あとは標準どおり、何かあればSOPに従う。",
+    ["DictKey_ActionText_351"] = "",
+    ["DictKey_ActionText_177"] = "",
+    ["DictKey_ActionText_274"] = "INSTRUCTOR: NEXT PAGEを押して、すべてのウェイポイントを表示しろ。いくつか設定されているはずだ。",
+    ["DictKey_ActionText_320"] = "",
+    ["DictKey_ActionText_185"] = "INSTRUCTOR: MAIN MENUに戻って、NAV SELECTに入れ。",
+    ["DictKey_ActionText_118"] = "",
+    ["DictKey_ActionText_362"] = "",
+    ["DictKey_ActionText_315"] = "",
+    ["DictKey_ActionText_294"] = "INSTRUCTOR: ここでは機体重量、ペイロード、燃料、グロス重量を確認・設定できる。だが今は航法に集中する。キーパッドでNEXT PAGEを押せ。",
+    ["DictKey_ActionText_93"] = "INSTRUCTOR: まずバッテリーのテストだ。テストスイッチをAV（Avionics）とUTIL（Utility）に切り替えて、両方とも24ボルト以上を確認しろ。",
+    ["DictKey_ActionText_147"] = "INSTRUCTOR: ノブをHPに回せ。",
+} -- end of dictionary

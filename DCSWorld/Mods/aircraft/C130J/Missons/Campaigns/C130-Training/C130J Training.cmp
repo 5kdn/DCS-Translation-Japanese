@@ -1,0 +1,298 @@
+campaign = 
+{
+	["picture_EN"] = "Cover Small.jpeg",
+	["startStage"] = 1,
+	["picture"] = "Cover Small.jpeg",
+	["description_EN"] = "Baltic Dragon による公式 C-130 トレーニングキャンペーンへようこそ！\
+\
+これは、同一フライトの一部として順番にプレイされる 11 のインタラクティブなトレーニングミッションのセットです。\
+\
+最初のミッションは sortie（出撃）の完全音声付きブリーフィングで、その後以下のパートへ進みます：\
+\
+1. コックピット概要\
+2. 電源投入\
+3. コックピットセットアップ\
+4. エンジン始動\
+5. タキシーと離陸\
+6. オートパイロット基礎\
+7. 航法計器\
+8. 航法基礎\
+9. CARP（貨物投下）\
+10. 進入と着陸\
+11. シャットダウン\
+\
+あなたは Little Rock の 19th Air Wing 所属 C-130J の左席で再訓練 sortie に参加します。\
+\
+Kutaisi空軍基地 から離陸し、訓練空域へ進入して低高度で物資投下を行い、その後 Batumi空港 へ着陸します。\
+\
+フライト各フェーズにおいて、あなたの IP（インストラクター・パイロット）が指示を与えます。\
+\
+楽しんでください！",
+	["pictureSuccess_EN"] = "OOC 01 Training 512.png",
+	["necessaryUnits"] = 
+	{
+		["C-130J-30"] = "C-130J-30",
+	}, -- end of ["necessaryUnits"]
+	["pictureFailed"] = "OOC 01 Training 512.png",
+	["name"] = "C-130J Official Campaign by Baltic Dragon",
+	["stages"] = 
+	{
+		[1] = 
+		{
+			["name"] = "Stage 1",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "TM00 Briefing.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "G:\\My Drive\\Campaigns IN DEVELOPMENT\\C-130 Training\\TM00 Briefing\\TM00 Briefing.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [1]
+		[2] = 
+		{
+			["name"] = "Stage 2",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "TM01 FINAL.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "G:\\My Drive\\Campaigns IN DEVELOPMENT\\C-130 Training\\TM01 Pre-start\\TM01 FINAL.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [2]
+		[3] = 
+		{
+			["name"] = "Stage 3",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "TM02 FINAL.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "G:\\My Drive\\Campaigns IN DEVELOPMENT\\C-130 Training\\TM02 Battery\\TM02 FINAL.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [3]
+		[4] = 
+		{
+			["name"] = "Stage 4",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "TM03 FINAL.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "G:\\My Drive\\Campaigns IN DEVELOPMENT\\C-130 Training\\TM03 Cockpit Prep\\TM03 FINAL.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [4]
+		[5] = 
+		{
+			["name"] = "Stage 5",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "TM04 FINAL.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "G:\\My Drive\\Campaigns IN DEVELOPMENT\\C-130 Training\\TM04 Engines and Before Taxi\\TM04 FINAL.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [5]
+		[6] = 
+		{
+			["name"] = "Stage 6",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "TM05 FINAL.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "G:\\My Drive\\Campaigns IN DEVELOPMENT\\C-130 Training\\TM05 Radios Taxi Takeoff\\TM05 FINAL.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [6]
+		[7] = 
+		{
+			["name"] = "Stage 7",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "TM06 FINAL.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "G:\\My Drive\\Campaigns IN DEVELOPMENT\\C-130 Training\\TM06 Autopilot\\TM06 FINAL.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [7]
+		[8] = 
+		{
+			["name"] = "Stage 8",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "TM07 FINAL.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "G:\\My Drive\\Campaigns IN DEVELOPMENT\\C-130 Training\\TM07 Navigation basics\\TM07 FINAL.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [8]
+		[9] = 
+		{
+			["name"] = "Stage 9",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "TM08 FINAL.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "G:\\My Drive\\Campaigns IN DEVELOPMENT\\C-130 Training\\TM08 Navigation waypoints\\TM08 FINAL.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [9]
+		[10] = 
+		{
+			["name"] = "Stage 10",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "TM09 FINAL.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "G:\\My Drive\\Campaigns IN DEVELOPMENT\\C-130 Training\\TM09 CARP setup and drop\\TM09 FINAL.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [10]
+		[11] = 
+		{
+			["name"] = "Stage 11",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "TM10 FINAL.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "G:\\My Drive\\Campaigns IN DEVELOPMENT\\C-130 Training\\TM10 Approach and Landing\\TM10 FINAL.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [11]
+		[12] = 
+		{
+			["name"] = "Stage 12",
+			["missions"] = 
+			{
+				[1] = 
+				{
+					["description"] = "",
+					["interval"] = 
+					{
+						[1] = 0,
+						[2] = 100,
+					}, -- end of ["interval"]
+					["file"] = "TM11 FINAL.miz",
+					["skipScore"] = 100,
+					["fullpath"] = "G:\\My Drive\\Campaigns IN DEVELOPMENT\\C-130 Training\\TM11 Shutdown\\TM11 FINAL.miz",
+				}, -- end of [1]
+			}, -- end of ["missions"]
+		}, -- end of [12]
+	}, -- end of ["stages"]
+	["version"] = 1,
+	["name_EN"] = "C-130J Official Campaign by Baltic Dragon",
+	["pictureFailed_EN"] = "OOC 01 Training 512.png",
+	["description"] = "Welcome to the official C-130 Training Campaign by Baltic Dragon!\
+\
+This is a set of 11 interactive training missions that will be played in sequence as part of the same flight. \
+\
+The first mission is a fully voiced briefing for the sortie, after which you will progress through the following parts:\
+\
+1. Cockpit Overview\
+2. Power Up\
+3. Cockpit Setup\
+4. Starting Engines\
+5. Taxi and Takeoff\
+6. Autopilot Basics\
+7. Navigation Instruments\
+8. Navigation Basics\
+9. CARP (cargo drop)\
+10. Approach and Landing\
+11. Shutdown\
+\
+You will take part in a refresher sortie in the left seat of the C-130J of the 19th Air Wing from Little Rock.\
+\
+You will take off from Kutaisi Air Base, make your way to the training area and perform a low-level drop of supplies, after which you will land at Batumi airport.\
+\
+Your IP will give you instructions during each phase of the flight.\
+\
+Enjoy!",
+	["pictureSuccess"] = "OOC 01 Training 512.png",
+} -- end of campaign

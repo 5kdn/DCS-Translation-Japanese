@@ -1,0 +1,201 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "INSTRUCTOR: その通り。それに、あいつらはここみたいに電子レンジもない。",
+    ["DictKey_ActionText_170"] = "",
+    ["DictKey_ActionRadioText_292"] = "ミッションを続行",
+    ["DictKey_ActionText_237"] = "INSTRUCTOR: よし。次にA/Tを再びオンにする。A/Tって言い方は少し変だけど、どのボタンを押すか分かってほしいからな。",
+    ["DictKey_ActionText_162"] = "PLAYER: メッセージ消去。",
+    ["DictKey_ActionText_43"] = "PLAYER: Angels 18、設定。",
+    ["DictKey_ActionText_234"] = "",
+    ["DictKey_ActionText_68"] = "",
+    ["DictKey_ActionText_155"] = "INSTRUCTOR: CNIのメッセージはCLRボタンで消せ。",
+    ["DictKey_ActionText_49"] = "INSTRUCTOR: 方法はいくつかあるが、一番簡単なのはVSモードだ。これはフライトディレクターの垂直速度保持モードだ。これを使って、今設定した高度まで上昇しよう。準備いいか？",
+    ["DictKey_ActionText_160"] = "",
+    ["DictKey_ActionText_132"] = "INSTRUCTOR: そうだ、便利だ。ただし限界もある。今、NAVモードをもう一度有効にしてみてくれ。",
+    ["DictKey_ActionText_113"] = "PLAYER: 090セット。",
+    ["DictKey_ActionText_85"] = "INSTRUCTOR: なかなかいいだろ？ じゃあVSボタンを押せ。",
+    ["DictKey_ActionText_128"] = "INSTRUCTOR: よし。ではNAVモードについて少し話そう。このモードは、選択したルートのコースラインに従って飛行する。つまり、最後のウェイポイントまできれいに導いてくれる。",
+    ["DictKey_ActionText_107"] = "",
+    ["DictKey_ActionText_222"] = "INSTRUCTOR: 次にA/Tを解除してIASを有効にしろ。",
+    ["DictKey_ActionText_117"] = "",
+    ["DictKey_ActionText_35"] = "INSTRUCTOR: 次はALT SELだ。これはとても単純で、上昇または降下中に事前に選択した高度に近づくと、自動的にALT HOLDモードへ切り替わる。",
+    ["DictKey_ActionText_211"] = "INSTRUCTOR: その通り。さらにREF/MODEパネルで目標速度を指定できる。今は219 IASにセットされているが、これまでずっとA/Tを使っていたから、その速度を維持していた。",
+    ["DictKey_ActionText_64"] = "PLAYER: 有効化しました。",
+    ["DictKey_ActionText_247"] = "PLAYER: そして高度16,000フィートに戻りました。",
+    ["DictKey_ActionText_288"] = "PLAYER: なるほど。",
+    ["DictKey_ActionText_56"] = "PLAYER: アファーム！",
+    ["DictKey_ActionText_260"] = "",
+    ["DictKey_ActionText_187"] = "INSTRUCTOR: そうだ。オートパイロットは計画ルートに正確に戻そうとして、左右に微調整を繰り返す。これを「ハンチング」と呼ぶ。",
+    ["DictKey_ActionText_27"] = "INSTRUCTOR: そうだ。翼を水平にしようとするから、特定の地点の上を旋回し続ける用途には使えない。だが我々はガンシップじゃないから、その必要もない。",
+    ["DictKey_ActionText_183"] = "",
+    ["DictKey_ActionText_181"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_286"] = "INSTRUCTOR: 元のコースラインに近づくとNAVモードが引き継ぎ、機体はコースに戻ろうとする。ただし進入角が大きすぎると作動しない可能性がある。45度以内に抑えるのが理想だ。理論上は90度まで可能だが、戻りはスムーズなほどいい。",
+    ["DictKey_ActionText_217"] = "",
+    ["DictKey_ActionText_157"] = "",
+    ["DictKey_ActionText_40"] = "INSTRUCTOR: アファーム。ノブを右に回して18,000にセットしろ。HUD上で現在高度のすぐ上に目標高度が表示される。",
+    ["DictKey_ActionText_45"] = "INSTRUCTOR: ただしこのモードは自動ではない。ノブを回しただけで勝手に上がったり下がったりはしない。新しい高度を捕まえるには、自分でピッチを上下させる必要がある。",
+    ["DictKey_ActionText_255"] = "PLAYER: OK。",
+    ["DictKey_ActionText_168"] = "INSTRUCTOR: よし、レベルオフはスムーズかつ穏やかにな。",
+    ["DictKey_ActionText_76"] = "INSTRUCTOR: オートフライト・コントロール・ホイールか、ヨークのPitch Syncを使って機首を下げ、今設定した高度まで降下できる。後者が一番簡単で、いちばんよく使う方法だ。",
+    ["DictKey_ActionText_185"] = "PLAYER: 入ったと思います！",
+    ["DictKey_ActionText_225"] = "PLAYER: IAS有効。",
+    ["DictKey_ActionText_87"] = "",
+    ["DictKey_ActionText_153"] = "PLAYER: OK……旋回に入った。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_69"] = "PLAYER: OK、18,000フィートだ。",
+    ["DictKey_ActionText_253"] = "",
+    ["DictKey_ActionText_152"] = "",
+    ["DictKey_ActionText_166"] = "PLAYER: 了解、180。",
+    ["DictKey_ActionText_47"] = "PLAYER: 了解、どうやる？",
+    ["DictKey_ActionText_54"] = "INSTRUCTOR: オートパイロットを切らずにやることもできるが、まずは手動のやり方を試す。ヨークのディスエンゲージボタンを2回押してオートパイロットを解除し、2回目で警告を消す。その後、5度の上昇姿勢を取って、そこでVSを押して上昇経路を捕捉する。やってみろ。",
+    ["DictKey_ActionText_218"] = "",
+    ["DictKey_ActionText_51"] = "",
+    ["DictKey_ActionText_21"] = "PLAYER: 理解できました。",
+    ["DictKey_ActionText_189"] = "PLAYER: ルートに戻りました。",
+    ["DictKey_ActionText_242"] = "INSTRUCTOR:\
+- ALTITUDE SEL が ON になっていることを確認しろ\
+- Pitch Sync を使って 16,000 フィートまで降下し\
+- その後 VS モードを使う",
+    ["DictKey_ActionText_207"] = "INSTRUCTOR: IASはピッチを上下させて速度を維持する。A/Tはスロットル、つまり出力で調整する。",
+    ["DictKey_ActionText_199"] = "INSTRUCTOR: まだ3つモードが残っている。APP、つまりアプローチは着陸直前のパートで扱う。",
+    ["DictKey_ActionText_98"] = "PLAYER: 見えてます。",
+    ["DictKey_ActionText_201"] = "PLAYER: 了解です。",
+    ["DictKey_ActionText_103"] = "PLAYER: OK、バグ090セット。",
+    ["DictKey_ActionText_285"] = "[NOTE: NAVモードが有効になっていることを確認してください！]",
+    ["DictKey_ActionText_245"] = "PLAYER: 了解、降下開始。\
+\
+[NOTE: 16,000フィートに達してもミッションが進行しない場合は、SPACE BARを押して続行してください]",
+    ["DictKey_ActionText_215"] = "INSTRUCTOR: じゃあノブで速度を235に上げてみろ。",
+    ["DictKey_ActionText_66"] = "INSTRUCTOR: 選択した高度に到達する1,000フィート前で、機体が警告を出す。\
+[注記: 18,000フィートを通過してもミッションが進行しない場合は、SPACE BARを押せ]",
+    ["DictKey_ActionText_120"] = "INSTRUCTOR: その通り。まるで魔法みたいだろ？新しいコースにインターセプトさせたら、次に進もう。\
+[NOTE: 機体が091で落ち着いた場合は、ノブをわずかに回して090になるよう修正すること]",
+    ["DictKey_ActionText_14"] = "INSTRUCTOR: よし。オートパイロットのメインパネルは、マスター警報灯の横、正面にある。上昇後、ALT HOLD、NAV、オートスロットルを有効にしたな。緑のON表示がそれだ。",
+    ["DictKey_ActionText_38"] = "PLAYER: その高度はREF/MODEパネルのALT SELノブで選ぶんですね？",
+    ["DictKey_subtitle_268"] = "",
+    ["DictKey_ActionText_240"] = "PLAYER: Done.",
+    ["DictKey_ActionText_31"] = "INSTRUCTOR: 今日は目の前のことに集中しろ。ただし付け加えると、オートパイロットを使って空中で旋回する方法もあるが、それは後でやる。",
+    ["DictKey_ActionText_74"] = "PLAYER: エンジェル17、セット。",
+    ["DictKey_ActionText_61"] = "INSTRUCTOR: オートパイロットを有効にしろ。",
+    ["DictKey_ActionText_172"] = "PLAYER: ヘディング180、安定しました。",
+    ["DictKey_ActionText_110"] = "INSTRUCTOR: そう！そういう仕組みだ。OK、もう一度090にセットしよう。",
+    ["DictKey_ActionText_141"] = "INSTRUCTOR: NAV ARMは、システムが待機状態にあるという意味だ。ルートに復帰できる条件を満たすまで作動しない。これをAFCSホイールでやる。",
+    ["DictKey_ActionText_224"] = "",
+    ["DictKey_ActionText_164"] = "INSTRUCTOR: よし、準備ができたらホイールを使って機体を水平に戻し、ヘディング180に合わせろ。\
+\
+［NOTE: AFCS Wheel - Center Lat / Pitch をキーやHOTASボタンに割り当てておくと便利だ］",
+    ["DictKey_ActionText_130"] = "PLAYER: 便利そうですね。",
+    ["DictKey_descriptionText_1"] = "Airplane Simulation CompanyによるC-130Jへようこそ！\
+\
+この一連のトレーニングミッションでは、強力なハーキュリーズを飛ばすための基本を学んでいく。\
+\
+これらのミッションは、実際のソーティを模した長めのフライトの一部として設計されており、学習しやすく、かつ楽しめるよう全11パートに分けられている。復習や再練習したいパートにすぐ戻れる構成だ。\
+\
+始める前に、SETTINGSメニューのCONTROLSからDIALOG RESPONSES（Response: Negative、Response: Neutral、Response: Positive）をHOTASの3ポジションスイッチに割り当てることを強く推奨する。これにより、スペースバーやF10無線メニューを使わずにミッションを進行できる。\
+\
+君はリトルロック所属、第19航空団のC-130Jの左席に座り、リフレッシャーソーティに参加する。\
+\
+Kutaisi Air Baseを離陸し、訓練エリアへ向かって低高度で物資投下を行い、その後Batumi空港へ着陸する。\
+\
+各フライトフェーズにおいて、IPが指示を出す。\
+\
+注意事項：\
+\
+1) ミッションは、進行のためにSPACE BARまたはDIALOG RESPONSESのHOTAS割り当て入力を待つ場面が頻繁にある。急ぐ必要はないので、現在の作業に集中したり、各種操作を確認してから進めてほしい。ポップアップは画面左側に表示される。\
+\
+2) コックピット内ではハイライト表示が行われるが、IPがパネル全体について説明している場合は、分かりやすさのため通常はそのパネル内の1つのスイッチのみがハイライトされる。個別操作が必要な場合は、それぞれにハイライトが表示される。\
+\
+3) ミッション中、AFCSホイールを使ってヘディング180に旋回するパートがあるが、その際はホイール操作を非常に慎重に行うか、Center Lat / PitchボタンをHOTASに割り当てておくとよい。コースに乗った後は水平を維持し、ホイールに触れないことが重要だ。\
+\
+4) NAVパート（ヘディング090に旋回後）で手間取ると、180に戻る際にウェイポイント3を通過し損ねる可能性がある。その場合、自動的にフライトプランへ復帰しないが、F-10無線メニューの選択肢を使えばミッションは継続可能だ。\
+\
+下の「Objective」セクションにある追加ノートとブリーフィングも必ず読んでおいてくれ！",
+    ["DictKey_ActionText_108"] = "PLAYER: えっ……バグが現在のヘディングに戻りました。",
+    ["DictKey_ActionText_139"] = "PLAYER: アファーム！",
+    ["DictKey_ActionText_59"] = "PLAYER: 入った！",
+    ["DictKey_ActionText_83"] = "PLAYER: OK。",
+    ["DictKey_ActionText_8"] = "PLAYER: まあ、パイロットは怠け者だからね。特に尖ったノーズのジェットじゃ。",
+    ["DictKey_ActionText_12"] = "PLAYER: それにベッドもないしね。",
+    ["DictKey_ActionText_191"] = "PLAYER: CAPSモードって何ですか？",
+    ["DictKey_ActionText_213"] = "PLAYER: 確かに。",
+    ["DictKey_ActionText_134"] = "",
+    ["DictKey_ActionText_18"] = "INSTRUCTOR: 人生って予想外の連続だろ？ じゃあ次のサプライズだ。これから説明するモードはすべて、中央コンソールにあるオートパイロットスイッチ（操縦席ごとに1つ）を有効にしないと動作しない。",
+    ["DictKey_ActionText_25"] = "PLAYER: OK。今の話だと、機体を水平に保つって言いましたよね？",
+    ["DictKey_ActionText_90"] = "PLAYER: 17,000フィート到達。",
+    ["DictKey_subtitle_266"] = "",
+    ["DictKey_ActionText_105"] = "INSTRUCTOR: 次にヘディングノブを押せ。",
+    ["DictKey_ActionText_176"] = "",
+    ["DictKey_ActionText_58"] = "",
+    ["DictKey_ActionText_265"] = "",
+    ["DictKey_ActionText_148"] = "PLAYER: 完了。",
+    ["DictKey_ActionText_115"] = "INSTRUCTOR: よし。ではHDGボタンを押せ。",
+    ["DictKey_ActionText_262"] = "",
+    ["DictKey_ActionText_232"] = "INSTRUCTOR: では高度保持を有効にしろ。",
+    ["DictKey_ActionRadioText_291"] = "ミッションを続行",
+    ["DictKey_ActionText_33"] = "PLAYER: 了解。次は何だ？",
+    ["DictKey_ActionText_150"] = "INSTRUCTOR: 次にAFCSホイールを使って、右へ穏やかな10度の旋回を入れる。HUD下部の三角マークが、右側最初の目盛りで止まるようにする。",
+    ["DictKey_ActionText_145"] = "INSTRUCTOR: まずALT HOLDがONになっていることを確認し、ヘディングモードを解除しろ。",
+    ["DictKey_ActionText_143"] = "PLAYER: 了解、聞いてます。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_135"] = "PLAYER: OK……CNIの警告メッセージが出ました……「not on intercept heading」と表示されています。",
+    ["DictKey_ActionText_195"] = "PLAYER: なるほど。",
+    ["DictKey_ActionText_230"] = "PLAYER: 機首が上がって減速しています。",
+    ["DictKey_ActionText_229"] = "",
+    ["DictKey_ActionText_100"] = "INSTRUCTOR: では、NAV RADAR上のヘディングバグを090に合わせてくれ。",
+    ["DictKey_ActionText_79"] = "PLAYER: ラジャー！やってみる！",
+    ["DictKey_ActionText_235"] = "PLAYER: ALT HOLD有効。",
+    ["DictKey_ActionText_159"] = "",
+    ["DictKey_ActionText_244"] = "",
+    ["DictKey_ActionText_6"] = "INSTRUCTOR: よし。ここからはオートパイロットの仕組みに集中しよう。今後のミッションでは頻繁に使うし、実際ほとんどの飛行時間で頼ることになる。",
+    ["DictKey_ActionText_227"] = "INSTRUCTOR: 速度を230に下げろ。",
+    ["DictKey_ActionText_259"] = "",
+    ["DictKey_ActionText_205"] = "PLAYER: どう違うんですか？",
+    ["DictKey_ActionText_179"] = "INSTRUCTOR: 機体は常にきちんとトリムを取ることが重要だ。まっすぐ飛ぶようにトリムを調整しろ。\
+\
+[NOTE: この段階で機体が左に曲がり始めることがあるので、コースラインをインターセプトするまでは水平をしっかり保つこと]",
+    ["DictKey_ActionText_92"] = "INSTRUCTOR: 完璧だ。最後に一つだけ言っておくと、ALT SELボタンを押せば、現在の高度をそのまま選択高度にリセットできる。じゃあ、次はヘディングに進もうか。",
+    ["DictKey_ActionText_88"] = "PLAYER: 完了。\
+\
+[NOTE: 17,000フィートに到達してもミッションが進行しない場合は、SPACE BARを押して続行]",
+    ["DictKey_ActionText_81"] = "INSTRUCTOR: Pitch Syncボタンを押したまま、機首を5度下げろ。角度がよければ、そのままボタンを離す。それだけだ。やってみろ。",
+    ["DictKey_ActionText_94"] = "PLAYER: 行きましょう！",
+    ["DictKey_ActionText_290"] = "[NOTE: WP3に到達する前にフライトパスへ復帰できずミッションが進行しない場合は、F10無線メニューからミッションを継続してください]",
+    ["DictKey_ActionText_239"] = "",
+    ["DictKey_ActionText_174"] = "INSTRUCTOR: NAVモードを有効にしろ。AFCSホイールで操縦したときに自動でオフになっている。\
+\
+[NOTE: NAVモードが入らない場合は、機体が完全にウイングレベルになっているか確認すること]",
+    ["DictKey_ActionText_63"] = "",
+    ["DictKey_ActionText_203"] = "INSTRUCTOR: 次はIAS（指示対気速度）モードとA/T（オートスロットル）だ。基本的な目的は同じで、機体の現在速度を維持する。ただし、方法が違う。",
+    ["DictKey_ActionText_23"] = "INSTRUCTOR: ではALT HOLDからいこう。文字通り、ボタンを押した高度を維持する。",
+    ["DictKey_ActionText_122"] = "PLAYER: OK、ヘディング090に乗った。\
+[NOTE: 後で180へのターンが来るまで、指示はテンポよく進めること。WP3手前でフライトプランにインターセプトできるようにする]",
+    ["DictKey_ActionText_209"] = "PLAYER: なるほど。じゃあIASを有効にしてスロットルを絞ると、速度維持のために機首を下げるわけですね？",
+    ["DictKey_sortie_5"] = "C-130J Training Mission 06:  Autopilot",
+    ["DictKey_ActionText_249"] = "INSTRUCTOR: よしいいぞ。では航法のパートに進もう。",
+    ["DictKey_descriptionBlueTask_3"] = "本日のブリーフィングだ。今日は2018年5月18日、Lt. Zilchとの訓練飛行を実施する。使用機はC-130J、テールナンバー006。コールサインはHeavy 1-1。駐機位置はジョージアのKobuleti Air Base、スポット15。エンジン始動、タキシー、離陸の厳密な時刻は設定していない。地上で手順確認や各種ドリルを行うためだ。\
+\
+任務内容。今回の訓練は全11パートで構成される。コックピット概要、電源投入、コックピット設定、エンジン始動、タキシーと離陸、オートパイロットの基礎、航法計器、航法の基礎、CARP、アプローチと着陸、シャットダウンだ。行動空域はジョージアおよびトルコ領空だ。\
+\
+カーゴ。G-12Dシュート付きのクレート4個を搭載する。各882ポンドだ。Kobuleti空港の南西にある訓練用滑走路に、一回のパスで4個すべてを投下する。オートパイロットとオートスロットルを使用し、高度1500フィートの低空投下を行う。CARPのフル設定は目標エリア到達後に空中で実施する。\
+\
+通信。Kutaisi GroundはVictorの121.9、Kutaisi TowerはUniformの263.0を使用する。Kutaisi空域を離脱してBatumi到着まで管制機関は存在しない。Batumi到着後は、Victorの124.250でBatumiアプローチ、118.6でBatumiタワーに切り替える。機内の内部通信はICSを使用する。質問はあるか？ よし、行こう。\
+\
+Kutaisiの天候は良好。地上気温20℃、雲は8000フィートにブロークン、21000フィートにスキャッタード／ブロークン。風は040度から8ノット、高度計設定29.90。Batumiでもほぼ同様の見込みだが、着陸前にアプローチで確認する。\
+\
+航法およびフライトプラン。離陸はランウェイ07を使用する。高度2000フィートまでは滑走路ヘディングを維持し、その後KutaisiのTACANから3マイル地点でヘディング064に旋回し、Exit Eastへ向かう。そこからウェイポイント2へ南東に進みながら上昇し、巡航高度は16000フィートとする。本日のトランジション高度は7000フィートだ。その後、投下エリアへ向かいながら各種計器のドリルを実施する。訓練空域内ではフライトプランの変更が発生する可能性があり、ウェイポイントの追加・削除を行う。投下エリア手前で旋回してCARPを設定し、エアドロップでカーゴを投下する。\
+\
+リカバリー。BatumiにはNEDEC 2 Bravoアプローチで進入する。ATISがないため、天候はタワーから取得する。TACANとILSをセットし、オートパイロットのILS／アプローチモードで着陸する。着陸後はシャットダウン手順を実施し、評判のいい美しいジョージアの海岸都市で一泊だ。\
+\
+緊急時。ダイバート先はBatumiの北東22マイルにあるKobuletiだ。すぐ近いので燃料の心配はない。あとは標準どおり、何かあればSOPに従う。",
+    ["DictKey_ActionText_29"] = "PLAYER: いつかガンシップも飛ばしてみたいな……。",
+    ["DictKey_ActionText_177"] = "PLAYER: NAV armed.",
+    ["DictKey_ActionText_137"] = "INSTRUCTOR: その通りだ。これは機体を自動で旋回させてフライトパスに戻してはくれない。そこは自分でやる必要がある。左側のアナンシエータパネルを見ると「NAV ARM」と表示されているはずだ。HUDにも同じ表示が出ている。",
+    ["DictKey_ActionText_71"] = "INSTRUCTOR: よし。見ての通り、さっきの上昇はあまりスムーズじゃなかったな。オートパイロットを切らずに、もっといいやり方がある。では目標高度を17,000フィートにセットしろ。",
+    ["DictKey_ActionText_193"] = "INSTRUCTOR: 編隊飛行用の無線ベースのシステムだ。別の機体に対して、距離・高度・角度を一定に保つようオートパイロットに指示する。特に天候が悪くて僚機が見えないときに便利だ。",
+    ["DictKey_ActionText_118"] = "PLAYER: NAVモードが解除されて、機体が旋回し始めました。",
+    ["DictKey_ActionText_220"] = "PLAYER: 235ノットです。",
+    ["DictKey_ActionText_96"] = "INSTRUCTOR: ヘディングモードもかなりシンプルだ。AFCSパネル上のノブで選択したヘディングを、機体が維持しようとする。",
+    ["DictKey_ActionText_16"] = "PLAYER: まさかそれで消すとは思いませんでした！",
+    ["DictKey_ActionText_197"] = "INSTRUCTOR: ターンが終わるのを待ってから続けよう。",
+    ["DictKey_ActionText_147"] = "",
+} -- end of dictionary

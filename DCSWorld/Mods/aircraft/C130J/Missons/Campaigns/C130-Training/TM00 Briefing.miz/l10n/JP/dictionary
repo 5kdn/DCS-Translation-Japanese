@@ -1,0 +1,76 @@
+dictionary = 
+{
+    ["DictKey_ActionText_98"] = "",
+    ["DictKey_ActionText_18"] = "",
+    ["DictKey_ActionText_25"] = "INSTRUCTOR: カーゴ。我々はG-12Dシュート付きのクレート4個を搭載する。1個あたり882ポンドだ。\
+\
+任務は、Kobuleti空港の南西にある訓練用滑走路に、これら4個を一回のパスで投下すること。オートパイロットとオートスロットルを使用し、高度1500フィートの低空投下を実施する。\
+\
+CARPのフルプログラムは、目標エリア到達後に空中で行う。",
+    ["DictKey_ActionText_43"] = "INSTRUCTOR: Kutaisiの天候は良好だ。外気温は15℃、雲は8000フィートにブロークン、21000フィートにスキャッタード／ブロークンがある。風は040度から8ノット、高度計設定は29.90だ。\
+\
+Batumiでもほぼ同じコンディションの見込みだが、着陸前にアプローチで詳細を確認する。",
+    ["DictKey_ActionText_76"] = "INSTRUCTOR: 緊急時。ダイバート先はBatumiの北東22マイルにあるKobuletiだ。すぐ近いから、今日は燃料の心配はしなくていい。あとは標準どおり、何かあればSOPに従う。",
+    ["DictKey_ActionText_121"] = "",
+    ["DictKey_ActionText_33"] = "",
+    ["DictKey_ActionText_55"] = "",
+    ["DictKey_ActionText_86"] = "",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_68"] = "",
+    ["DictKey_ActionText_122"] = "",
+    ["DictKey_ActionText_91"] = "",
+    ["DictKey_ActionText_31"] = "",
+    ["DictKey_ActionText_62"] = "",
+    ["DictKey_ActionText_69"] = "LOADMASTER 1: いいですね、待ちきれません！",
+    ["DictKey_ActionText_72"] = "INSTRUCTOR: お楽しみを用意してきた。着いたらみんなに見せるよ。",
+    ["DictKey_ActionText_15"] = "INSTRUCTOR: ミッション。本任務は訓練ミッションで、全11パートで構成される。コックピット概要、電源投入、コックピット設定、エンジン始動、タキシーと離陸、オートパイロットの基礎、航法計器、航法の基礎、CARP、着陸、シャットダウンだ。\
+\
+行動空域はジョージアおよびトルコの領空で、進入許可は取得済みだ。",
+    ["DictKey_ActionText_75"] = "",
+    ["DictKey_subtitle_11"] = "",
+    ["DictKey_ActionText_48"] = "INSTRUCTOR: 航法およびフライトプラン。離陸はランウェイ07を使用する。高度2000フィートまでは滑走路ヘディングを維持し、その後KutaisiのTACANから3マイル地点でヘディング064に旋回し、Exit Eastへ向かう。\
+\
+その後、ウェイポイント2へ南東に向かって上昇し、巡航高度は16,000フィートとする。本日のトランジション高度は7,000だ。\
+\
+以降は投下エリアへ進みつつ、各種計器の訓練を実施する。訓練空域内ではフライトプランの変更が発生する可能性があり、ウェイポイントの追加・削除を行う。投下エリア手前で旋回しCARPプログラムを設定、その後エアドロップでカーゴを投下する。",
+    ["DictKey_ActionText_114"] = "最後に、重要な情報のほとんどはDCSのニーボードに載っているから、遠慮せずにどんどん活用してくれ。訓練を楽しめ！",
+    ["DictKey_ActionText_81"] = "",
+    ["DictKey_ActionText_88"] = "YOU: ブリーフィングを見ているということは、キャンペーン形式の訓練を選んだってことだ。このモードなら、ミッションからミッションへ自動で進んでいく。\
+\
+ただし、各ミッションはトレーニングメニューから個別にも選べる。復習したいところや、もっと練習したいパートがあれば、そこから繰り返し飛んでくれ。",
+    ["DictKey_ActionText_113"] = "",
+    ["DictKey_ActionText_94"] = "YOU: では、このキャンペーンをできるだけ快適に体験するためのポイントをいくつか伝えておく。まず、音声が聞き取りにくいと感じたら、OPTIONS / AUDIOメニューでGUI、World、In-Cockpitの音量を下げて調整してくれ。  \
+注意：AUDIOの「Hear like in Helmet」にも必ずチェックを入れておくこと。",
+    ["DictKey_sortie_5"] = "",
+    ["DictKey_ActionText_63"] = "INSTRUCTOR: リカバリー。BatumiにはNEDEC 2 Bravoアプローチで進入する。\
+\
+ATISがないため、天候はタワーから取得する。TACANとILSをセットして、オートパイロットのILS／アプローチモードを使って着陸する。着陸後はシャットダウン手順を実施し、その後は評判のいいと聞いている美しいジョージアの海岸都市で一泊だ！",
+    ["DictKey_ActionText_59"] = "INSTRUCTOR: そうだな、通常なら地上で設定しておく。だが今回は、準備と投下をひとまとめの「パッケージ」として体験してもらいたい。だから今回は空中で設定する。ほかに質問がなければ、次に進もう。",
+    ["DictKey_ActionText_123"] = "",
+    ["DictKey_descriptionText_1"] = "",
+    ["DictKey_ActionText_99"] = "YOU: 二つ目。操作が必要なボタンは基本的にすべてハイライト表示される。ただし、周波数などの数値入力は例外だ。その場合は、入力を確定するためのボタンがハイライトされる。もし間違えたら、いったんクリアして正しい数値を入れ直し、確定してから先に進め。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_56"] = "YOU: 質問です。CARPのデータは地上にいるうちに設定しておくべきじゃないですか？",
+    ["DictKey_descriptionBlueTask_3"] = "",
+    ["DictKey_ActionText_51"] = "",
+    ["DictKey_ActionText_21"] = "",
+    ["DictKey_ActionText_103"] = "",
+    ["DictKey_ActionText_108"] = "",
+    ["DictKey_ActionText_109"] = "YOU: もう一つ。SPACEBARを押さなくて済むように、C-130には「CONTROLS → DIALOG RESPONSES」の特別オプションがある。Negative / Neutral / Positiveが用意されているから、少なくともPositiveとNegativeはHOTASに割り当てておくといい。そうすればキーボードに手を伸ばさずにミッションを進められる。設定が終わったら忘れずにやっておけ。",
+    ["DictKey_ActionText_104"] = "YOU: 三つ目、何か操作する前にハイライトが出るのを待て。できればIPの指示が終わるまで待つんだ。",
+    ["DictKey_ActionText_93"] = "",
+    ["DictKey_ActionText_118"] = "",
+    ["DictKey_ActionText_7"] = "INSTRUCTOR: では注意して聞け。今日は2018年5月18日、Zilchとの訓練飛行を実施する。\
+\
+使用機はC-130J、テールナンバー006。コールサインはHeavy 1-1だ。駐機位置はジョージアのKutaisi Air Base、スポット15。エンジン始動、タキシー、離陸の厳密な時刻は設定していない。地上で手順確認や各種ドリルに時間を使うからだ。",
+    ["DictKey_ActionText_37"] = "INSTRUCTOR: 通信。Kutaisi GroundはVictorの121.9、Kutaisi TowerはUniformの263.0を使用する。\
+\
+Kutaisi空域を離脱してBatumiに到着するまで、管制機関は存在しない。Batumi到着後は、Victorの124.25でBatumiアプローチ、118.6でBatumiタワーに切り替える。\
+\
+機内の内部通信はICSを使用する。質問はあるか？ よし、行こう。",
+    ["DictKey_ActionText_36"] = "",
+    ["DictKey_ActionText_82"] = "YOU: C-130の公式トレーニングへようこそ。全11ミッションを通して、この素晴らしい機体の基本機能を学んでもらう。\
+\
+これらのミッションはHerculesの能力のほんの一部しか触れていないが、今後さらに習熟していくための確かな土台になるはずだ。",
+    ["DictKey_ActionText_42"] = "",
+} -- end of dictionary
