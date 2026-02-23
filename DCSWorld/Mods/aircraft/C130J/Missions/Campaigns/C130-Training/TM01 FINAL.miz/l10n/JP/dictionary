@@ -1,0 +1,104 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "PLAYER: ああ。",
+    ["DictKey_ActionText_34"] = "INSTRUCTOR: 与圧パネルはこっち側にある。ガード付きのEMERGENCY DEPRESSURIZEスイッチはNORMのままでいいが、MODE SELECTノブはAUTOに切り替える。\
+\
+[注：キーボードの「2」を押すと一時的に反対側の席に移動できる。「1」を押せば自席に戻れる。]",
+    ["DictKey_ActionText_40"] = "INSTRUCTOR: よし。次はお前側のEXTERIOR LIGHTING PANELだ。すべてのライトはOFFにしておけ。",
+    ["DictKey_ActionText_18"] = "Test",
+    ["DictKey_ActionText_92"] = "よくできました！",
+    ["DictKey_ActionText_76"] = "INSTRUCTOR: よし、次だ。さらに右にHYDRAULIC CONTROL PANELがある。AUX PUMPスイッチはOFFのままでいいが、ANTI-SKIDスイッチをONにしろ。",
+    ["DictKey_ActionText_36"] = "PLAYER: AUTOセット。",
+    ["DictKey_ActionText_66"] = "INSTRUCTOR: ワイパーはOFF、空調は設定済み、中央のGEARレバーはDOWNだ。",
+    ["DictKey_ActionText_120"] = "INSTRUCTOR: よし、始動しよう。上を見て、オーバーヘッドパネルの後方側から操作していくぞ。\
+\
+ガード付きのコントロールブースト・スイッチはすでにONだが、オイルクーラーフラップのスイッチはAUTOにしておけ。",
+    ["DictKey_ActionText_32"] = "PLAYER: その通り、すべてAUTOだ。",
+    ["DictKey_ActionText_14"] = "PLAYER: ジェネレータースイッチ、設定完了。",
+    ["DictKey_ActionText_38"] = "INSTRUCTOR: この中央にデジタル表示が並んでいる大きなパネルがFUEL MANAGEMENT PANELだ。\
+\
+ここで各エンジンへの燃料供給を制御したり、すべてのタンクの燃料量を確認できる。今は左と右のFUEL DUMPスイッチ―ガード付きのやつがOFFになっているかを確認するだけでいい。\
+\
+右側のFUEL DUMPスイッチはOFFだ。",
+    ["DictKey_ActionText_68"] = "PLAYER: チェック。",
+    ["DictKey_ActionText_122"] = "",
+    ["DictKey_ActionText_90"] = "PLAYER: いきましょう！",
+    ["DictKey_ActionText_44"] = "PLAYER: 全ライトOFF確認。そっち側のライトは操作できる？",
+    ["DictKey_ActionText_30"] = "INSTRUCTOR: 次に、右側のBLEED AIRパネルへ行く。すべてのスイッチが中央のAUTO位置になっているはずだ。",
+    ["DictKey_ActionText_74"] = "INSTRUCTOR: 片方のモーターに不具合が出ても、もう一方で照明できるように独立している。それに、ランディングライトはかなり熱を持つから、片側が翼の中に引っ込んだままだと熱トラブルになることもある。あとIR機能もあるから、NVG着陸のときは明るすぎる場合、片側だけで十分なこともある。",
+    ["DictKey_ActionText_12"] = "INSTRUCTOR: では電源パネルのジェネレーター・スイッチを見てくれ。4つすべてONにする。",
+    ["DictKey_ActionText_46"] = "INSTRUCTOR: できない。でも空調は俺の担当だ。変なことしたら凍えさせるぞ。",
+    ["DictKey_subtitle_148"] = "",
+    ["DictKey_ActionText_72"] = "PLAYER: チェック。左右のランディングライトを個別に操作できるの、面白いですね。片側だけ使う場面ってあるんですか？",
+    ["DictKey_ActionText_62"] = "INSTRUCTOR: よし。右側にFIRE／ENGINE START PANELがある。4つのハンドルは押し込み状態、そして俺側にあるAPU CONTROLスイッチはOFFだ。",
+    ["DictKey_ActionText_58"] = "INSTRUCTOR: 下にあるPROPELLER CONTROLスイッチも同様だ。最後に、PROP SYNCスイッチとガード付きのATCSは両方ともONにしておけ。",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_48"] = "PLAYER: まさかのデュアルゾーン空調？ すげぇ！",
+    ["DictKey_ActionText_88"] = "INSTRUCTOR: よし！ 始動の準備は整った。他に確認はあるか？",
+    ["DictKey_ActionText_24"] = "PLAYER: OK。",
+    ["DictKey_ActionText_117"] = "",
+    ["DictKey_ActionText_16"] = "INSTRUCTOR: パネルを前方へ進め。External Power／APUスイッチはOFF、バッテリースイッチもOFFにしておけ。",
+    ["DictKey_ActionText_70"] = "INSTRUCTOR: さらに右側がLANDING LIGHTSパネルだ。LEFT／RIGHT MOTORライトはHOLD、左右のLANDING LIGHT、TAXIライト、WINGTIP TAXI LIGHTはいずれもOFFで正しい。",
+    ["DictKey_ActionText_28"] = "PLAYER: イエッサー。",
+    ["DictKey_ActionText_54"] = "INSTRUCTOR: FADEC――Full Authority Digital Engine Controlの略だ――は、エンジン性能のすべてを管理する。ガード付きの4つのスイッチ（ガードを上げた状態）は、中央のNORMAL位置にしておく。",
+    ["DictKey_ActionText_64"] = "PLAYER: 言う通りにしてるよ。",
+    ["DictKey_ActionText_86"] = "PLAYER: CLOSEDです。",
+    ["DictKey_ActionText_26"] = "INSTRUCTOR: よし。WING／EMPANNAGE ICE PROTECTIONはすでにAUTO、DE-ICEも設定済みだ。PITOTとNESAスイッチはOFFになっている。",
+    ["DictKey_ActionText_20"] = "PLAYER: その通り。",
+    ["DictKey_ActionText_78"] = "PLAYER: 設定完了。",
+    ["DictKey_ActionText_22"] = "INSTRUCTOR: OK、次は頭上のICE PROTECTIONパネルだ。PROPELLERSスイッチは正しくOFFに設定されている。ENGINE ICE PROTECTIONスイッチはAUTOにしておけ。",
+    ["DictKey_ActionComment_7"] = "",
+    ["DictKey_ActionText_56"] = "PLAYER: アファーム。",
+    ["DictKey_ActionText_80"] = "INSTRUCTOR: 本来はPILOT LIGHTINGパネルで照明を調整するが、今回は不要だ。",
+    ["DictKey_descriptionText_1"] = "Airplane Simulation Company製 C-130J トレーニングへようこそ！\
+\
+この一連の訓練ミッションでは、強力なHerculesの基本的な操縦を身につけてもらう。\
+\
+これらのミッションは、実際の出撃を模した1本の長いフライトとして設計されており、学習しやすく、かつ楽しく進められるよう11パートに分けられている。やり直したいパートや復習したい部分に、すぐ戻れる構成だ。\
+\
+開始前に、SETTINGSメニューのCONTROLSで「DIALOG RESPONSES（Response: Negative / Neutral / Positive）」をHOTASの3ポジションスイッチに割り当てることを強く推奨する。これにより、SPACEBARやF10ラジオメニューを使わずにミッションを進められる。\
+\
+君は、リトルロック所属 第19航空団のC-130Jの左席に搭乗し、リフレッシャーフライトに参加する。\
+\
+Kutaisi Air Baseを離陸し、訓練空域へ向かって低空で補給物資の投下を行い、その後Batumi空港へ着陸する。\
+\
+各フェーズでは、IPが随時指示を出す。\
+\
+本パートでは、始動前のコックピットチェックと準備に焦点を当て、所要時間は約10分だ。\
+\
+注意事項：\
+\
+1) ミッションは、SPACEBARまたはHOTASに割り当てたDIALOG RESPONSESの入力を待つ場面が頻繁にある。急ぐ必要はない。現在の作業に集中したり、各種オプションに慣れてから先へ進んで構わない。ポップアップは画面左側に表示される。\
+\
+2) コックピット内にはハイライトが表示されるが、パネル全体の説明時は、通常そのパネル内の1つのスイッチのみがハイライトされる。個別操作が必要な場合は、対象のスイッチにハイライトが出る。\
+\
+下の「Objective」欄にある追加メモとブリーフィングも必ず確認すること！",
+    ["DictKey_descriptionBlueTask_3"] = "本日のブリーフィングだ。今日は2018年5月18日、Lt. Zilchとの訓練飛行を実施する。使用機はC-130J、テールナンバー006。コールサインはHeavy 1-1。駐機位置はジョージアのKobuleti Air Base、スポット15。エンジン始動、タキシー、離陸の厳密な時刻は設定していない。地上で手順確認や各種ドリルを行うためだ。\
+\
+任務内容。今回の訓練は全11パートで構成される。コックピット概要、電源投入、コックピット設定、エンジン始動、タキシーと離陸、オートパイロットの基礎、航法計器、航法の基礎、CARP、アプローチと着陸、シャットダウンだ。行動空域はジョージアおよびトルコ領空だ。\
+\
+カーゴ。G-12Dシュート付きのクレート4個を搭載する。各882ポンドだ。Kobuleti空港の南西にある訓練用滑走路に、一回のパスで4個すべてを投下する。オートパイロットとオートスロットルを使用し、高度1500フィートの低空投下を行う。CARPのフル設定は目標エリア到達後に空中で実施する。\
+\
+通信。Kutaisi GroundはVictorの121.9、Kutaisi TowerはUniformの263.0を使用する。Kutaisi空域を離脱してBatumi到着まで管制機関は存在しない。Batumi到着後は、Victorの124.250でBatumiアプローチ、118.6でBatumiタワーに切り替える。機内の内部通信はICSを使用する。質問はあるか？ よし、行こう。\
+\
+Kutaisiの天候は良好。地上気温20℃、雲は8000フィートにブロークン、21000フィートにスキャッタード／ブロークン。風は040度から8ノット、高度計設定29.90。Batumiでもほぼ同様の見込みだが、着陸前にアプローチで確認する。\
+\
+航法およびフライトプラン。離陸はランウェイ07を使用する。高度2000フィートまでは滑走路ヘディングを維持し、その後KutaisiのTACANから3マイル地点でヘディング064に旋回し、Exit Eastへ向かう。そこからウェイポイント2へ南東に進みながら上昇し、巡航高度は16000フィートとする。本日のトランジション高度は7000フィートだ。その後、投下エリアへ向かいながら各種計器のドリルを実施する。訓練空域内ではフライトプランの変更が発生する可能性があり、ウェイポイントの追加・削除を行う。投下エリア手前で旋回してCARPを設定し、エアドロップでカーゴを投下する。\
+\
+リカバリー。BatumiにはNEDEC 2 Bravoアプローチで進入する。ATISがないため、天候はタワーから取得する。TACANとILSをセットし、オートパイロットのILS／アプローチモードで着陸する。着陸後はシャットダウン手順を実施し、評判のいい美しいジョージアの海岸都市で一泊だ。\
+\
+緊急時。ダイバート先はBatumiの北東22マイルにあるKobuletiだ。すぐ近いので燃料の心配はない。あとは標準どおり、何かあればSOPに従う。",
+    ["DictKey_ActionText_84"] = "INSTRUCTOR: AERIAL DELIVERYパネルのAIR DEFLECTORスイッチがCLOSED、つまり後方位置になっているか確認しろ。",
+    ["DictKey_ActionText_60"] = "PLAYER: 確認できてます、サー。",
+    ["DictKey_subtitle_150"] = "",
+    ["DictKey_sortie_5"] = "C-130J Training Mission 01: Cockpit Checks",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_50"] = "INSTRUCTOR: そんな機能はない。気にするな。次はFADECとプロペラ制御に行くぞ。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_52"] = "PLAYER: 了解。",
+    ["DictKey_ActionText_8"] = "INSTRUCTOR: いいぞ。じゃあ始動しよう。上を見て、オーバーヘッドパネルの後方側から作業する。\
+\
+ガード付きのCONTROL BOOSTスイッチはすでにONだ。だが、OIL COOLER FLAPスイッチはAUTOにしておけ。",
+    ["DictKey_ActionText_82"] = "PLAYER: OK。",
+    ["DictKey_ActionText_42"] = "PLAYER: 左のFUEL DUMPスイッチはOFFだ。",
+} -- end of dictionary
