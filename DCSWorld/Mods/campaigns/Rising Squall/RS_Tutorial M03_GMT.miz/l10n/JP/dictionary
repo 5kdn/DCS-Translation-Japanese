@@ -1,0 +1,179 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_112"] = "",
+	["DictKey_ActionText_29"] = "HUD を確認しろ。中央にダイヤマークが表示される。その位置が地上目標の位置だ。その方向へ飛行すれば目標を発見できる。ダイヤマークが HUD の表示範囲外に出ると、目標の方向を示す矢印が表示される。\
+\
+[SPACEBAR] を押せ。ポーズを解除する。その後、機体を操作して目標へ向かい、上空を通過しろ。",
+	["DictKey_ActionText_43"] = "",
+	["DictKey_ActionText_53"] = "",
+	["DictKey_ActionText_36"] = "",
+	["DictKey_ActionText_55"] = "",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_26"] = "ターゲットポイントが確立された後は、ターゲティングポッドや他のセンサーを使って目標を観測できる。今回はそのような複雑な操作は扱わない。今はそのポイントの正確な位置を把握すればよい。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_68"] = "",
+	["DictKey_ActionText_23"] = "ここで、再び [Sensor Control Switch] を右に押し込め。するとレーダーはターゲットポイントに最も近い地上目標を自動的に捕捉し、追尾する。捕捉後、レーダーエコーには目標の移動方向と速度が表示される。\
+\
+目標を捕捉し、その後 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_101"] = "",
+	["DictKey_ActionText_116"] = "",
+	["DictKey_ActionText_113"] = "",
+	["DictKey_ActionText_85"] = "",
+	["DictKey_ActionText_128"] = "",
+	["DictKey_ActionText_11"] = "A/G モードに入ると、右ディスプレイは自動的にレーダーの地形マッピングモード(MAP)に切り替わる。このモードでは超音波画像のような地形情報が表示される。任務は移動中の車列を捜索することだ。画面左上のモードファンクションボタンをクリックして、レーダーを MAP モードから GMT モード、すなわち地上移動目標捕捉モードに切り替えろ。\
+\
+GMT 捕捉モードに入り、その後 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_107"] = "",
+	["DictKey_ActionText_124"] = "",
+	["DictKey_ActionText_117"] = "",
+	["DictKey_ActionText_35"] = "",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_ActionText_28"] = "",
+	["DictKey_ActionText_64"] = "",
+	["DictKey_ActionText_146"] = "",
+	["DictKey_ActionText_142"] = "",
+	["DictKey_ActionText_56"] = "",
+	["DictKey_ActionText_100"] = "",
+	["DictKey_ActionText_84"] = "",
+	["DictKey_ActionText_42"] = "",
+	["DictKey_ActionText_34"] = "",
+	["DictKey_ActionText_126"] = "",
+	["DictKey_ActionText_40"] = "",
+	["DictKey_ActionText_67"] = "",
+	["DictKey_ActionText_144"] = "",
+	["DictKey_ActionText_168"] = "ホットキー（初期設定）\
+Sensor Controller Switch - Right: [RAlt + /]",
+	["DictKey_ActionText_76"] = "",
+	["DictKey_ActionText_115"] = "",
+	["DictKey_ActionText_87"] = "",
+	["DictKey_ActionText_70"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_44"] = "",
+	["DictKey_ActionText_125"] = "",
+	["DictKey_ActionText_62"] = "",
+	["DictKey_ActionText_137"] = "",
+	["DictKey_ActionText_154"] = "",
+	["DictKey_ActionText_46"] = "",
+	["DictKey_ActionText_37"] = "",
+	["DictKey_ActionText_152"] = "",
+	["DictKey_ActionText_114"] = "",
+	["DictKey_ActionText_47"] = "",
+	["DictKey_ActionText_54"] = "",
+	["DictKey_ActionText_123"] = "",
+	["DictKey_ActionText_149"] = "",
+	["DictKey_ActionText_51"] = "",
+	["DictKey_ActionText_131"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_50"] = "",
+	["DictKey_ActionText_98"] = "",
+	["DictKey_ActionText_103"] = "",
+	["DictKey_ActionText_92"] = "",
+	["DictKey_ActionText_73"] = "",
+	["DictKey_ActionText_66"] = "",
+	["DictKey_ActionText_95"] = "",
+	["DictKey_ActionText_14"] = "現在 GMT 捕捉モードに入っている。このモードではレーダーが地上目標の移動速度を検出して表示し、静止物体は除外される。そのため、まだ移動目標を検出していない場合、レーダー画面には何も表示されない。\
+\
+画面右上の数値はレーダーの探知距離を示している。このモードでは最大 40 NM まで探知可能だ。右上のハイライト表示された距離ボタンをクリックすると、この距離表示を順に切り替えることができる。\
+\
+レーダーの探知距離を 40 NM に設定し、その後 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_38"] = "",
+	["DictKey_ActionText_129"] = "",
+	["DictKey_ActionText_105"] = "",
+	["DictKey_ActionText_90"] = "",
+	["DictKey_ActionText_31"] = "",
+	["DictKey_ActionText_78"] = "",
+	["DictKey_ActionText_158"] = "you have control。先ほど設定したターゲットポイントへ向かい、目標の車列上空を通過しろ。",
+	["DictKey_ActionText_127"] = "",
+	["DictKey_ActionText_61"] = "",
+	["DictKey_ActionText_75"] = "",
+	["DictKey_ActionText_136"] = "",
+	["DictKey_ActionText_141"] = "",
+	["DictKey_ActionText_140"] = "",
+	["DictKey_ActionText_164"] = "フリーフライトだ。A-Gレーダーを操作して地上目標の位置を特定してみろ。",
+	["DictKey_ActionText_130"] = "",
+	["DictKey_ActionText_22"] = "",
+	["DictKey_ActionText_20"] = "[Sensor Control Switch] を右に押し込め。画面右側のコントローラーを選択して有効化しろ。その後、スロットルレバーの [TDC controller] を操作してカーソルを動かせ。空対空レーダーと同じ操作だ。\
+\
+カーソルを動かして目標エコーに近づけろ。次に TDC controller を押して、この目標付近にターゲットポイントを作成しろ。\
+\
+その後、 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_108"] = "",
+	["DictKey_ActionText_106"] = "",
+	["DictKey_ActionText_139"] = "",
+	["DictKey_ActionText_83"] = "",
+	["DictKey_ActionText_8"] = "まず、ハイライト表示されたプライマリ・モード・ボタンをクリックして空対地モードに切り替えろ。",
+	["DictKey_ActionText_82"] = "",
+	["DictKey_ActionRadioText_166"] = "跳过介绍",
+	["DictKey_ActionText_25"] = "",
+	["DictKey_ActionText_169"] = "ホットキー（初期設定）\
+Undesignate: [S]",
+	["DictKey_ActionText_41"] = "",
+	["DictKey_ActionText_86"] = "",
+	["DictKey_ActionText_32"] = "よくやった。目標上空を通過した。地上の車列は信号フレアとスモークで位置を示している。これが装甲車両の車列であると識別しろ。なお、レーダーは自機に対して相対速度がない目標や、地形に遮られた目標は探知できない点に注意しろ。\
+\
+フリーフライトに移行する。別の車両車列を捜索してもよいし、[ESC] を押して訓練を終了してもよい。",
+	["DictKey_ActionText_65"] = "",
+	["DictKey_ActionText_153"] = "",
+	["DictKey_ActionText_133"] = "",
+	["DictKey_ActionText_143"] = "",
+	["DictKey_ActionText_157"] = "",
+	["DictKey_ActionText_52"] = "",
+	["DictKey_ActionText_16"] = "",
+	["DictKey_ActionText_145"] = "",
+	["DictKey_ActionText_71"] = "",
+	["DictKey_ActionText_45"] = "",
+	["DictKey_ActionText_135"] = "",
+	["DictKey_ActionText_102"] = "",
+	["DictKey_ActionText_91"] = "",
+	["DictKey_ActionText_17"] = "前方にいくつかの車両を出現させた。高速で移動しているため、レーダー画面上に四角いエコーとして表示されるはずだ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_74"] = "",
+	["DictKey_ActionText_72"] = "",
+	["DictKey_ActionText_120"] = "",
+	["DictKey_ActionText_155"] = "ターゲットポイントを設定または指示した後は、スティック下部の [Undesignate / nosewheel steering button] を使ってターゲットポイントを解除し、再設定できる。\
+\
+現在のターゲットを解除して再度指定しろ。その後 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_48"] = "",
+	["DictKey_ActionText_6"] = "航空機から地上目標を探すのは非常に難しいと感じたかもしれない。では、この現代戦闘機の強力な能力を試してみろ。本日はレーダーを操作して地上移動目標を発見する方法を学ぶ。\
+\
+準備を整え、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_151"] = "",
+	["DictKey_ActionText_122"] = "",
+	["DictKey_ActionText_88"] = "",
+	["DictKey_ActionText_81"] = "",
+	["DictKey_ActionText_121"] = "",
+	["DictKey_ActionText_111"] = "",
+	["DictKey_ActionText_39"] = "",
+	["DictKey_ActionText_94"] = "",
+	["DictKey_ActionText_110"] = "",
+	["DictKey_ActionText_132"] = "",
+	["DictKey_ActionText_57"] = "",
+	["DictKey_ActionText_63"] = "",
+	["DictKey_ActionText_167"] = "ホットキー（初期設定）\
+Sensor Controller Switch - Right: [RAlt + /]\
+TDC controller - Up: [;]\
+TDC controller - Down: [.]\
+TDC controller - Left: [,]\
+TDC controller - Right: [/]\
+TDC controller - Press: [ENTER]",
+	["DictKey_ActionText_134"] = "",
+	["DictKey_sortie_5"] = "Rising Squall Tutorial: M03 A-G レーダー GMT",
+	["DictKey_ActionText_148"] = "",
+	["DictKey_ActionText_58"] = "",
+	["DictKey_ActionText_104"] = "",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_descriptionText_1"] = "このレッスンでは、F/A-18Cのレーダーを操作して地上移動目標を探知し、追尾する方法を学ぶ。",
+	["DictKey_ActionText_60"] = "",
+	["DictKey_ActionText_97"] = "",
+	["DictKey_ActionText_77"] = "",
+	["DictKey_ActionText_93"] = "",
+	["DictKey_ActionText_118"] = "",
+	["DictKey_ActionText_150"] = "",
+	["DictKey_ActionText_96"] = "",
+	["DictKey_ActionText_138"] = "",
+	["DictKey_ActionText_80"] = "",
+	["DictKey_ActionText_147"] = "",
+} -- end of dictionary

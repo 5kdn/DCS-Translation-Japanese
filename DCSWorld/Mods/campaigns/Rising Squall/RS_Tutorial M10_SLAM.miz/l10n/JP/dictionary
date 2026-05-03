@@ -1,0 +1,200 @@
+dictionary = 
+{
+	["DictKey_ActionText_98"] = "",
+	["DictKey_ActionText_170"] = "",
+	["DictKey_ActionText_103"] = "",
+	["DictKey_ActionText_43"] = "よくやった。これで Waypoint 2 が目標点(TGT)として設定され、ミサイルは発射準備完了だ。\
+\
+発射前に、ミサイルの各種パラメータが正しく設定されているかを確認しろ。特に、[Master Arm Switch] がONになっていることを忘れるな。\
+\
+[Master Arm Switch] がONであることを確認したら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_169"] = "",
+	["DictKey_ActionText_120"] = "",
+	["DictKey_ActionText_19"] = "空対地モードを有効化すると、左右の DDI はそれぞれデフォルトの機能ページに入る。左 DDI は兵装(STORES)ページであり、現在の兵装搭載状況を確認できる。右 DDI はレーダーの地表面モードが表示される。両ディスプレイの機能は同一で相互に切り替え可能だが、本レッスンでは主に左ディスプレイを使用する。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_68"] = "",
+	["DictKey_ActionText_23"] = "兵装ページで、現在自機には左右主翼下のステーションに AGM-84E ミサイルが 4 発搭載されているのが確認できる。これらは SLAM と表示されている。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_122"] = "[Main Menu] ボタンをもう一度クリックし、SPUT ページに入れ。",
+	["DictKey_ActionText_49"] = "Missile launch!\
+\
+現在、ミサイルは計画どおり目標へ向かって飛行している。左 DDI を確認しろ。ハイライトされた SLAM と DL13 の両方が選択状態になっている。\
+\
+[SLAM] ボタンをクリックして選択を解除しろ。[DL13] のみが選択された状態になると、データリンク映像ページに切り替わる。",
+	["DictKey_ActionText_132"] = "",
+	["DictKey_ActionText_31"] = "画面右側中央の [STEP] 機能で使用する兵装ステーションを切り替える。現在、SLAM は計 4 発、左からステーション 2、3、7、8 に搭載されている。ここでは最右のステーション 8 の SLAM を選択しろ。ミサイルの較正が完了し発射可能になると、該当ステーションの下に RDY 表示が出る。\
+\
+[STEP] を繰り返し操作して右側のミサイルを選択し、確認後 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_74"] = "点击 WPN 功能，左侧功能项从上至下依次会显示 2、4、7、8 挂架上的 SLAM 导弹，已经发射的的标记将会消失。我们刚才发射的是 8 号挂架的导弹，框选 UFC 功能项后，在前上方控制面板的数字输入区输入数字 8，然后点选 ENT 输入。完成后，图像页面的右下角将会显示 CH008，表示我们当前查看的是 8 号导弹的信息。\
+\
+在收到导弹图像后，按【空格键】继续。",
+	["DictKey_ActionText_127"] = "在 SPUT 页面的左下角的高亮位置，找到 HSI 功能项，如果没有，请继续循环刚才的主菜单功能项，直至出现 HSI 功能项。\
+\
+当你找到 HSI 功能项后，按【空格键】继续。",
+	["DictKey_ActionText_61"] = "",
+	["DictKey_ActionText_172"] = "",
+	["DictKey_ActionText_136"] = "2 つの矢印ボタンの間に表示されている数値が、現在選択されているウェイポイント番号だ。\
+\
+目標は Waypoint 2 に位置している。\
+\
+[↑] または [↓] ボタンで Waypoint 2 を選択し、その後 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_141"] = "",
+	["DictKey_ActionText_117"] = "",
+	["DictKey_ActionText_140"] = "",
+	["DictKey_ActionText_196"] = "ホットキー（初期設定）\
+Weapon Release Button: [LAlt + SPACEBAR]",
+	["DictKey_ActionText_130"] = "",
+	["DictKey_ActionText_89"] = "",
+	["DictKey_ActionText_163"] = "これでミサイルをリアルタイムに操作できる。スティックの [Sensor Controller Switch] を左に押し、左 DDI を有効化しろ。右上のダイヤ形マークで操作状態を確認しろ。\
+\
+[TDC controller] を押しながら操作すると、ミサイルの照準位置を変更できる。操作を離すと、その位置へ向けてミサイルが進路を変更する。\
+\
+港内の空母を捜索し、照準を合わせて命中させろ。",
+	["DictKey_ActionText_57"] = "よくやった。港内の空母に命中した。次にアクティブポーズを解除する。以降は機体の完全な操縦権を引き継ぎ、自由に操作して繰り返し訓練できる。あるいは [ESC] を押してミッションを終了してもよい。\
+\
+[SPACEBAR] を押すとアクティブポーズが解除される。",
+	["DictKey_ActionText_146"] = "ハイライトされた [WPN] ボタンをクリックして兵装選択サブメニューに入れ。",
+	["DictKey_ActionText_142"] = "",
+	["DictKey_ActionComment_87"] = "DictKey_ActionComment_87",
+	["DictKey_sortie_5"] = "Rising Squall Tutorial: M10 AGM-84E SLAM \"MITL\"",
+	["DictKey_ActionText_138"] = "Waypoint 2 を選択した後、右下のハイライトされた [WPDSG] ボタンをクリックして、そのウェイポイントを目標点(TGT)として設定しろ。",
+	["DictKey_ActionText_119"] = "",
+	["DictKey_ActionText_211"] = "",
+	["DictKey_descriptionText_1"] = "\"Man in the loop\" (MITL) 兵器は、パイロットがミサイルからの映像信号を受信し、リアルタイムでミサイルを操作できる兵装だ。F/A-18C Hornetでは、AGM-84E SLAM がこの種の特殊な空対地ミサイルに該当する。本課では、この種の兵装の基本的な運用方法を学習する。",
+	["DictKey_ActionText_100"] = "",
+	["DictKey_ActionText_27"] = "ミサイルを選択するには該当するデジタルディスプレイ上段の機能選択ボタンを押し、SLAM ミサイルを選択しろ。再度押すと選択は解除される。\
+\
+左ディスプレイの SLAM 機能項目ボックスをクリックして SLAM ミサイルを選択しろ。完了したら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_108"] = "",
+	["DictKey_ActionText_109"] = "",
+	["DictKey_ActionText_173"] = "SPUT ページ左下のハイライト位置で [HSI] ボタンを探せ。見つからない場合は、[Main Menu] ボタンを数回クリックして [HSI] ボタンが表示されるまで切り替えろ。\
+\
+[HSI] ボタンを確認したら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_139"] = "これは MITL 映像ページだ。映像がぼやけて何も映っていないように見えるはずだが、それは先ほど発射したミサイルがまだ飛翔中のためだ。設定どおり、ミサイルの誘導システムは目標から約 10 NM で作動を開始する。\
+\
+ここで、このページの各機能を確認する。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_59"] = "",
+	["DictKey_ActionRadioText_203"] = "",
+	["DictKey_ActionText_110"] = "",
+	["DictKey_ActionText_50"] = "",
+	["DictKey_ActionText_82"] = "",
+	["DictKey_ActionText_45"] = "兵装が使用可能になると、HSI ページに大きな円が表示される。これは兵装のダイナミック発射可能範囲(DLZ)を示している。いわゆる射程であり、この範囲内に入って初めてミサイルは目標まで到達する十分なエネルギーを持つ。射程は高度や速度などの条件によって計算されるため、固定ではなく動的に変化する。現在、機体は射程内にある。\
+\
+このとき、HUD 右側には INRNG(射程内)の表示が出る。射程外の場合は、到達までの時間を示すカウントダウン(TMR)が表示される。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_113"] = "",
+	["DictKey_ActionComment_104"] = "DictKey_ActionComment_104",
+	["DictKey_ActionText_65"] = "",
+	["DictKey_ActionText_126"] = "",
+	["DictKey_ActionText_143"] = "",
+	["DictKey_ActionText_17"] = "既に学習したとおり、AGM-84E は対地・対艦攻撃用の兵装だ。まず最初に、主モードを空対地(A-G)モードへ切り替えろ。\
+\
+光っている A-G ボタンをクリックして、空対地モードを有効化しろ。",
+	["DictKey_ActionText_25"] = "兵装ページ中央に表示されている DL13 はデータリンクポッドだ。この装置を介して、ミサイルの映像が機体へ送信される。\"Man in the loop\" 兵器を使用する場合、少なくとも 1 つのステーションにこのデータリンクポッドを搭載している必要がある。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_168"] = "",
+	["DictKey_ActionText_76"] = "",
+	["DictKey_ActionText_161"] = "",
+	["DictKey_ActionText_33"] = "画面左上の [MODE] 機能は、選択中の兵装ステーションの運用モードを設定する。[MODE] を繰り返し押して PP から TOO モードへ切り替えろ。各ステーションのミサイルは、選択後それぞれモード変更が必要だ。\
+\
+[MODE] を操作して該当ミサイルを TOO モードに変更したら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_41"] = "ハイライトされた [↑] ボタンでウェイポイント番号を小さい順に選択しろ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_86"] = "",
+	["DictKey_ActionText_153"] = "我们探测到你的导弹飞向了错误的方向，你在发射导弹时错误的选择了 PP 发射模式或没有正确选择攻击导航点。回忆一下之前的操作步骤是否准确，请管理员重启任务以便重新开始。",
+	["DictKey_ActionText_148"] = "兵装選択サブメニューでは、左側の 4 つのボタンに SLAM が表示されており、上から順にステーション 2、3、7、8 を示している。ハイライトされたボタンをクリックしろ。[SLAM] 表示が消えていることを確認できるはずだ。これは該当ステーションのミサイルが既に発射されていることを示している。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_29"] = "SLAM ミサイルを選択すると、表示は SLAM の設定ページに切り替わる。\
+\
+初めてこのページに入ると、左上にカウントダウンが表示される。これは兵装システムが較正中であることを示す。較正が完了すると表示は消え、ミサイルが正常に使用可能となる。\
+\
+SLAM ページには多くのオプションがあるが、現時点ではいくつかの重要なパラメータのみ把握すればよい。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_197"] = "ホットキー（初期設定）\
+Sensor Controller Switch - Left: [RAlt + ,]\
+TDC controller - Up: [;]\
+TDC controller - Down: [.]\
+TDC controller - Left: [,]\
+TDC controller - Right: [/]\
+TDC controller - Press: [ENTER]",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_52"] = "画面左側のハイライトされた [A ATN] ボタンはアンテナ方向の選択に使用する。選択すると前方アンテナが有効化され、解除すると後方アンテナが有効化される。ミサイル映像が不鮮明な場合に調整として使用できる。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_35"] = "左側の [EFUZ] ボタンは兵装の信管設定だ。SLAM ミサイルには瞬発信管だけがある。このボタンで信管を有効化でき、設定はミサイルデータ欄に表示される。\
+\
+[EFUZ] ボタンをクリックし、信管を [INST] に設定しろ。",
+	["DictKey_ActionText_145"] = "次に、目標点をミサイルへ送信する必要がある。\
+\
+右側 DDI へ移れ。下段中央のハイライトされた [Main Menu] ボタンをクリックし、TAC ページに入れ。",
+	["DictKey_ActionText_125"] = "[HSI] ボタンをクリックし、HSI ページに入れ。",
+	["DictKey_ActionText_129"] = "",
+	["DictKey_ActionText_157"] = "我们探测到你的导弹飞向了错误的方向，你在发射导弹时选择了错误的攻击目标导航点。回忆一下之前的操作步骤是否准确，请管理员重启任务以便重新开始。",
+	["DictKey_ActionText_70"] = "",
+	["DictKey_ActionText_105"] = "画面左側に 4 つの SLAM ボタンが表示されている。これは搭載している 4 発のミサイルを示している。\
+\
+いずれかの SLAM ボタンをクリックして、ミサイルをポッドに接続しろ。",
+	["DictKey_ActionText_167"] = "外したか……。ミサイルは目標を外したか、誤目標を照準している。先ほどの手順に従って再度発射するか、ミッションを再開しろ。",
+	["DictKey_ActionText_63"] = "在发射 SLAM 导弹之前，我们需要将导弹接入到数据链吊舱中，这样我们才能看到导弹回传的图像信息并控制导弹。我们首先要再度框选 DL13 功能选项，激活数据链吊舱，在此之后，左下角的 WEP 功能项将被激活，选中后，左侧功能项将会显示出所有挂架上的 SLAM 导弹，选中任意一个将导弹信息接入至数据链吊舱。\
+\
+点选 DL13 功能项后，点选 WEP 功能项，然后选择任意一枚 SLAM 导弹，完成后按【空格键】继续。",
+	["DictKey_ActionText_80"] = "",
+	["DictKey_ActionText_37"] = "次に、ミサイルをデータリンクポッドに接続する必要がある。\
+\
+DL13 ボタンをクリックして、データリンク機能をオンにしろ。",
+	["DictKey_ActionText_159"] = "",
+	["DictKey_ActionText_58"] = "",
+	["DictKey_ActionText_112"] = "",
+	["DictKey_ActionText_151"] = "左 DDI 右下を確認しろ。CH008 と表示されており、これは現在の映像がステーション 8 のミサイルから送信されていることを示す。\
+\
+現時点では、ミサイルが目標まで約 10 NM に接近するのを待つ必要がある。右上には \"TTS\" 表示があり、シーカー起動までのカウントダウンを示している。",
+	["DictKey_ActionText_15"] = "今日は興味深い兵装、AGM-84E SLAM ミサイルの運用を学習する。このミサイルは対艦ミサイル \"Harpoon\" を改修したもので、最大の特徴はミサイルのシーカーが捉えた視野と映像を機上で確認できる点にある。これらのリアルタイム映像に基づき、飛翔中に進路を介入・修正し、目標の捜索および照準を行うことが可能だ。一般的には \"TVミサイル\" と呼ばれることもあるが、本課ではより正確に \"Man in the loop\" と呼称する。\
+\
+学習を容易にするため、現在自機はアクティブポーズ状態にある。各計器の操作は可能だが、機体は実際には前進しない。\
+\
+準備ができたら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_114"] = "",
+	["DictKey_ActionText_81"] = "",
+	["DictKey_ActionText_94"] = "",
+	["DictKey_ActionText_79"] = "",
+	["DictKey_ActionText_39"] = "DL13 ボタンの下に SLAM 表示が現れるのが確認できる。これはミサイルがデータリンクポッドに接続されたことを示している。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_47"] = "誘導兵器であっても、発射時には機体をおおむね目標方向へ向けておく必要がある。これにより、進路修正に消費されるエネルギーを抑えることができる。また、兵装自体の推力は十分ではないため、投下時はより高高度かつ高速であることが望ましい。特に事前に設定した巡航高度が高い場合は重要だ。\
+\
+準備が整ったら、スティックの [Weapon Release Button] を押してミサイルを発射しろ。",
+	["DictKey_ActionText_54"] = "ミサイル映像を受信した。ハイライトされた [A ATN] ボタンをクリックし、適切な映像を選択しろ。",
+	["DictKey_ActionText_72"] = "",
+	["DictKey_ActionText_123"] = "",
+	["DictKey_ActionText_174"] = "",
+	["DictKey_ActionText_101"] = "この時点で、WEP ボタンが有効化されている。\
+\
+WEP ボタンをクリックし、兵装選択サブメニューに入れ。",
+	["DictKey_ActionText_88"] = "动态暂停 关闭",
+	["DictKey_ActionText_66"] = "",
+	["DictKey_ActionText_149"] = "",
+	["DictKey_ActionText_55"] = "",
+	["DictKey_ActionText_134"] = "ハイライトされた [↓] ボタンでウェイポイント番号を大きい順に選択しろ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_21"] = "",
+	["DictKey_ActionText_131"] = "",
+	["DictKey_ActionText_115"] = "",
+	["DictKey_ActionText_155"] = "",
+	["DictKey_ActionText_77"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_118"] = "",
+	["DictKey_ActionText_67"] = "",
+	["DictKey_ActionText_96"] = "",
+	["DictKey_ActionText_165"] = "你的导弹已经越过了目标，你没有及时回应刚才的操作请求，已经错过了导弹瞄准的窗口。注意及时回应操作要求，请联系管理员重启任务并再来一次。",
+	["DictKey_ActionText_84"] = "",
+	["DictKey_ActionText_171"] = "",
+} -- end of dictionary

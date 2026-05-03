@@ -1,0 +1,95 @@
+dictionary =
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_43"] = "",
+	["DictKey_ActionText_53"] = "",
+	["DictKey_ActionText_73"] = "You have control。 Waypoint 14 の目標位置を特定し、グリーンスモークでマーキングしてある目標を破壊しろ。",
+	["DictKey_ActionText_55"] = "",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_68"] = "",
+	["DictKey_ActionText_49"] = "Bomb's way! 機体を今すぐ引き上げろ！！！",
+	["DictKey_ActionText_31"] = "",
+	["DictKey_ActionText_74"] = "",
+	["DictKey_ActionText_85"] = "",
+	["DictKey_ActionText_61"] = "",
+	["DictKey_ActionRadioText_84"] = "烟雾标记",
+	["DictKey_ActionText_24"] = "左側の [MFUZ] を押して機械信管選択ページに入れ。",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_ActionText_28"] = "",
+	["DictKey_ActionText_89"] = "",
+	["DictKey_ActionText_64"] = "",
+	["DictKey_ActionText_104"] = "",
+	["DictKey_descriptionText_1"] = "F/A-18C 戦闘機には 2 つの基本的な対地攻撃モードがあり、その1つが継続計算着弾点、すなわち CCIP だ。戦闘機は爆撃や攻撃時に降下する必要があるため、CCIP はダイブ・ボミングとも呼ばれる。このレッスンでは、CCIP を使用した無誘導爆弾(UGB)およびロケット弾の投下方法を学ぶ。",
+	["DictKey_ActionText_100"] = "",
+	["DictKey_ActionText_27"] = "[VT] を選択してVariable Time 信管を有効化しろ。",
+	["DictKey_ActionRadioText_81"] = "跳过介绍",
+	["DictKey_ActionText_83"] = "フリーフライトだ。Waypoint 14 を目標に攻撃を試みろ。",
+	["DictKey_ActionText_12"] = "Air-to-Ground モードボタン [A/G] を押せ。",
+	["DictKey_ActionText_34"] = "",
+	["DictKey_ActionText_40"] = "",
+	["DictKey_ActionText_45"] = "目標に接近中だ。照準の×字が表示されたら目標に合わせ、[Weapon Release Button] を押せ。",
+	["DictKey_ActionText_25"] = "",
+	["DictKey_ActionText_33"] = "前方の HUD を確認しろ。縦の緑色のラインが表示されている。降下すると、そのラインの先端に小さな × マークが表示され、これが照準となる。× マークを目標に合わせ、レバー上部の [Weapon Release Button] を押して爆弾を投下しろ。\
+\
+現在は水平飛行中のため、まだ照準は表示されない。[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_16"] = "",
+	["DictKey_ActionText_58"] = "",
+	["DictKey_ActionText_70"] = "HUDを確認しろ。中央のリングはロケット弾の照準リングだ。射程内に入ると、リング上部に IN RNG が表示され、射程内であることを示す。この状態で発射できるようになる。\
+\
+先ほどの目標位置は覚えているか？目標はグリーンスモークでマーキングしてある。[SPACEBAR] を押すとアクティブポーズを解除する。目標へ向けて旋回し、発見してロケット弾で破壊しろ。",
+	["DictKey_ActionText_65"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_102"] = "この時点で前方の HUD を確認しろ。HUD 内に垂直の緑色ラインが表示される。機首を下げて降下すると、このラインの先端に小さな × 字マークが表示される。これが投弾照準点だ。小さな × 字を目標に合わせた後、操縦桿上部の赤い [Weapon Release Button] を押せば投弾できる。\
+\
+現在は水平飛行中のため、この照準点はまだ表示されない。[Spacebar] を押して続行しろ。",
+	["DictKey_ActionText_46"] = "",
+	["DictKey_ActionText_37"] = "",
+	["DictKey_ActionText_7"] = "B&P コースへようこそ。爆弾やロケット弾の配達方法について話します。\
+\
+準備ができたら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_22"] = "",
+	["DictKey_ActionText_67"] = "左側の [SGL] は単発発射、[SAL] は斉射を示す。[SGL] を選択すると 1 回の発射で 1 発のみ、[SAL] を選択すると1回で複数のロケット弾を発射する。\
+\
+[SAL] を押して斉射を選択しろ。その後、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_39"] = "目標はトラックの端、北東角にあり、ブルースモークで示されている。\
+\
+[SPACEBAR] を押すとアクティブポーズを解除する。ナビゲーションフレームに従って飛行し、降下を開始しろ。同時に CCIP 照準を目標に合わせ、爆弾を投下して破壊しろ。",
+	["DictKey_ActionText_94"] = "ホットキー（初期設定）\
+Weapon Release Button: [LAlt + SPACEBAR]",
+	["DictKey_ActionText_54"] = "",
+	["DictKey_ActionText_18"] = "爆弾の照準モードを選択する必要がある。[MODE] を押して投下モード選択ページに入れ。",
+	["DictKey_ActionText_36"] = "兵装設定は完了だ。次に正面の地上を確認しろ。複数のレッドスモークを展開してある。レッドスモークの中央にある交差したトラックが Waypoint 14 の目標位置だ。\
+\
+目標を視認したら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_63"] = "ページに入ると、ロケット弾はデフォルトで CCIP モードが選択されていることが分かるだろう。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_47"] = "",
+	["DictKey_ActionText_75"] = "",
+	["DictKey_ActionText_42"] = "You have control。ナビゲーションフレームに従って飛行し、目標に向けて降下しろ。適切なタイミングで照準を合わせ、爆弾を投下しろ。",
+	["DictKey_ActionText_30"] = "よし。[HT] を繰り返し押してクラスター爆弾の投下高度を選択しろ。現在のパラメータは下部ディスプレイに表示される。ボタンを押して 1,500 に設定しろ。\
+\
+完了したら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_57"] = "目標撃破！よくやった。安全高度まで上昇し、水平飛行に移行しろ。その後、[SPACEBAR] を押して次のセクションを開始しろ。",
+	["DictKey_ActionText_51"] = "Abort! Abort! Pull up! Pull up! 降下高度が低すぎる。このままでは安全高度を下回る可能性がある。\
+\
+再進入してもう一度実施しろ。",
+	["DictKey_ActionText_9"] = "まず、[Master Arm Switch] をARMにしろ。この手順はすべての兵装を使用する際の最初のステップだから覚えておけ。\
+\
+ハイライト表示された [Master Arm Switch] をARMにしたことを確認し、その後 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_71"] = "",
+	["DictKey_ActionText_60"] = "これからロケット弾の操作方法を学ぶ。\
+\
+左ディスプレイのハイライトされた [68S] を押してロケット弾を選択しろ。",
+	["DictKey_ActionText_15"] = "これで Air-to-Ground Mode に入った。\
+\
+対地モードに入ると、左ディスプレイには自動的に兵装ページが表示され、画面上部に2種類の兵装が表示される。68S は MK151 無誘導ロケット弾、RE は MK-20 クラスター爆弾を示している。兵装はラベル上のボタンを押すことで選択できる。では、[RE] を押して MK-20 クラスター爆弾を選択しろ。",
+	["DictKey_ActionText_77"] = "Target hit! よくやった！これですべての訓練を完了した。次は自由訓練だ。レンジに新たな目標群が設定される。任意の兵装で攻撃するか、[ESC] を押して終了しろ。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_50"] = "",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_sortie_5"] = "Rising Squall Tutorial: M02 CCIP 爆撃",
+	["DictKey_ActionText_99"] = "",
+	["DictKey_ActionText_21"] = "[CCIP] を枠選択してCCIPモードを有効化しろ。",
+	["DictKey_ActionText_87"] = "Smoke on deck.",
+} -- end of dictionary

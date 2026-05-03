@@ -1,0 +1,246 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_112"] = "光っている [MODE] ボタンをクリックして、爆弾投下モード選択に入れ。",
+	["DictKey_ActionText_170"] = "",
+	["DictKey_ActionText_29"] = "",
+	["DictKey_ActionText_162"] = "Target hit! よくやった！",
+	["DictKey_ActionText_43"] = "",
+	["DictKey_ActionText_53"] = "",
+	["DictKey_ActionText_55"] = "",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_68"] = "你注意到当目标设置后，HUD 上出现了一条垂直的竖线，这是投放基准线，在稍后我将解除暂停，由你控制飞机，你需要做的是，将飞机的速度矢量标志，与投放基准线重合，然后保持平飞飞向目标。\
+\
+按【空格键】继续。",
+	["DictKey_ActionText_23"] = "",
+	["DictKey_ActionText_49"] = "",
+	["DictKey_ActionText_160"] = "Pickle! 爆弾が投下されました。\
+\
+ターゲティングポッドを搭載していないため、爆弾は偵察ドローンのレーザー照射を直接追尾する。",
+	["DictKey_ActionText_116"] = "",
+	["DictKey_ActionText_85"] = "",
+	["DictKey_ActionText_128"] = "",
+	["DictKey_ActionText_11"] = "今天我们的飞机搭载了 8 枚高阻力无制导炸弹，而在你的前方的靶场，两根跑道的交叉点上有一些步兵标靶，我已经用黄色烟雾标记了靶场区域。你可以看到。\
+\
+按【空格键】继续。",
+	["DictKey_ActionText_117"] = "ここには 4 つのモードがある。自動(AUTO)、ダイレクト制御(FD)、CCIP、マニュアル(MAN)だ。\
+光っている [AUTO] ボタンをクリックし、自動投下モードを選択して CCRP 投下プログラムを有効化しろ。",
+	["DictKey_ActionText_35"] = "左侧高亮的【MFUZ】功能项用来选择炸弹的机械引信，在其子菜单中选择【NOSE】选项可以激活炸弹的头部引信。切记保证你的炸弹打开了引信，否则你的炸弹就会变成铁疙瘩。\
+\
+设置完成后按【空格键】继续。",
+	["DictKey_ActionText_196"] = "",
+	["DictKey_ActionText_28"] = "",
+	["DictKey_sortie_5"] = "Rising Squall Tutorial: M08 レーザー誘導爆弾",
+	["DictKey_ActionText_119"] = "",
+	["DictKey_ActionText_100"] = "本日の課程では、レーザー誘導爆弾の使用方法と、連続計算投下点(CCRP)により目標へ正確に投下する方法を学習する。\
+\
+見ての通り、今回は夜間だ。空中から目標を明瞭に視認することは難しい。そのため本日は、偵察ドローンが目標をマーキングする。現在、機体はアクティブポーズ状態にある。指示に従い、一つずつ手順を進めれば、すぐに習得できるだろう。\
+\
+準備ができたら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_27"] = "",
+	["DictKey_ActionText_183"] = "",
+	["DictKey_ActionText_173"] = "",
+	["DictKey_ActionText_181"] = "TGT-2 をアクティベートした。",
+	["DictKey_ActionText_42"] = "",
+	["DictKey_ActionText_34"] = "",
+	["DictKey_ActionText_126"] = "設定完了後、兵装ページ左下の情報ウィンドウに、該当する爆弾の設定パラメータが表示される。\
+\
+以下の項目を確認しろ:\
+モードが AUTO に設定されていること;\
+電子信管が INST に設定されていること;\
+\
+確認後、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_40"] = "",
+	["DictKey_ActionText_67"] = "",
+	["DictKey_ActionText_168"] = "",
+	["DictKey_ActionText_76"] = "",
+	["DictKey_ActionText_185"] = "",
+	["DictKey_ActionText_33"] = "",
+	["DictKey_ActionText_87"] = "",
+	["DictKey_ActionText_70"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_44"] = "接下去【EFUZ】功能项是炸弹的电子引信，这个引信只用来设置那些制导炸弹，我们现在使用的无制导炸弹只需要设置机械引信，保持电子引信为关闭状态，不要去设置它。\
+\
+按【空格键】继续。",
+	["DictKey_ActionText_125"] = "",
+	["DictKey_ActionText_62"] = "做的不错，你可以看到，刚才准心对准的位置上，出现了一个菱形标记。就是说你在刚才瞄准的位置上设置了一个目标点（TGT）。这个点就是你投弹的瞄准点。\
+\
+按【空格键】继续。",
+	["DictKey_ActionText_137"] = "",
+	["DictKey_ActionText_154"] = "目標へ徐々に接近し、投下カウントダウンが 3～5 秒に近づいたら、機体を水平に保ち安定して飛行しろ。その状態でジョイスティックの [Weapon Release] ボタンを押し続けろ。投下点に到達しカウントダウンが 0 になると、爆弾は自動的に投下される。",
+	["DictKey_ActionText_46"] = "",
+	["DictKey_ActionText_37"] = "",
+	["DictKey_ActionText_152"] = "これで目標は指定された。照準が多少ずれていても問題ない。レーザー誘導爆弾はレーザー信号を追尾して最終段階で誤差を修正する。\
+\
+HUD 上に長い縦線が表示されているはずだ。これは爆弾投下の基準線であり、方位ステアリングライン(ASL)と呼ばれる。以後の自由飛行では、機体を旋回させて速度ベクトルをこのラインに一致させ、そのまま飛行しろ。\
+\
+HUD 右下に表示されている REL の数値は、フライトコンピュータによる投下カウントダウンを示す。目標に接近するにつれて減少し、最終的にゼロになる。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_114"] = "",
+	["DictKey_ActionText_47"] = "最后【DRAG】功能项是专门用于高阻炸弹的设置，在其子菜单中选择【RET】功能项可以激活炸弹的减速装置，这可以使炸弹的下落速度减缓，以避免炸弹击中目标时爆炸波及到你自己的飞机。\
+\
+请打开【DRAG】功能项并激活【RET】选项，完成后按【空格键】继续。",
+	["DictKey_ActionText_54"] = "",
+	["DictKey_ActionText_123"] = "[INST] ボタンをクリックして、瞬発信管を選択しろ。",
+	["DictKey_ActionText_202"] = "",
+	["DictKey_ActionText_51"] = "",
+	["DictKey_ActionText_21"] = "在左侧显示器的挂载页面中，点选高亮的【82YT】对应的功能按钮，这是 Mk-82 高阻炸弹。选择后将进入炸弹的参数设置页面。",
+	["DictKey_ActionText_131"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_50"] = "",
+	["DictKey_ActionText_165"] = "外したか？ 機体を安定させて目標に正対し、速度ベクトルマークを方位ステアリングラインに一致させ、一定の高度で水平飛行を維持しろ。誤差が大きいと投下不能や目標ロストにつながる。\
+\
+一定距離を離脱してから反転し、再度進入しろ。弾数制限はない。",
+	["DictKey_ActionText_199"] = "",
+	["DictKey_ActionText_98"] = "不错嘛！你击中了目标！CCRP 投弹模式投放无制导炸弹本身并非很准确，没几个人能够完美的击中目标。所以 CCRP 投弹模式更多的是用于投放带引导装置的精确制导炸弹，这你会在以后的学习中接触到。\
+\
+你可以尝试略微调整目标点的位置，使目标点提前或落后于实际目标的位置，来修正你的投弹点。我又激活了一批新的目标，你可以多次尝试，也可以按【ESC】键来离开这个任务。",
+	["DictKey_ActionText_103"] = "まず、光っている [Master Arm Switch] が上方の ARM 位置に設定されていることを確認しろ。これは兵装を使用するための必須条件だ。\
+\
+完了したら、[SPACEBAR] を押して続行しろ",
+	["DictKey_ActionText_92"] = "",
+	["DictKey_ActionText_73"] = "",
+	["DictKey_ActionText_95"] = "看起来你的炸弹没有击中目标，没关系，你可以返回一号导航点然后再试一次。CCRP 投弹模式投放无制导炸弹本身并非很准确，没几个人能够完美的击中目标。所以 CCRP 投弹模式更多的是用于投放带引导装置的精确制导炸弹，这你会在以后的学习中接触到。\
+\
+你可以尝试略微调整目标点的位置，使目标点提前或落后于实际目标的位置，来修正你的投弹点。还可以尝试降低飞行高度以减少炸弹误差。你可以多次尝试，也可以按【ESC】键来离开这个任务。",
+	["DictKey_ActionText_14"] = "老规则，检查你的主武器保险，确认它已经向上打开至 ARM 位置。\
+\
+完成后按【空格键】继续。",
+	["DictKey_ActionText_38"] = "",
+	["DictKey_ActionText_129"] = "",
+	["DictKey_ActionText_105"] = "",
+	["DictKey_ActionText_90"] = "",
+	["DictKey_ActionText_31"] = "",
+	["DictKey_ActionText_74"] = "保持你的速度和油门处于恒定位置，在你接近距投弹点 3-5 秒时，按住操纵杆上的【武器投放按钮】不放，保持飞机平飞，在倒计时归零时，炸弹将会被自动投出。\
+\
+按【空格键】后，我将解除暂停由你控制飞机。",
+	["DictKey_ActionText_158"] = "目標に接近中だ。水平を維持しろ。投下の 3～5 秒前から [Weapon Release Button] を押し続けろ。",
+	["DictKey_ActionText_61"] = "",
+	["DictKey_ActionText_172"] = "",
+	["DictKey_ActionText_141"] = "兵装ページ上で爆弾のレーザーコードが変更されていることを確認できる。光っている [STEP] ボタンをクリックし、残りのステーションに搭載されている爆弾のコードも 1688 に変更しろ。\
+\
+完了したら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_24"] = "",
+	["DictKey_ActionText_140"] = "",
+	["DictKey_ActionText_164"] = "",
+	["DictKey_ActionText_89"] = "",
+	["DictKey_descriptionText_1"] = "レーザー誘導爆弾は一般的に使用される精密空対地攻撃兵器だ。本レッスンでは、偵察ユニットが指示する地上目標に対し、GBU-12 Paveway II レーザー誘導爆弾の設定および投下方法を学習する。ターゲティングポッド(TGP)による目標捜索およびレーザー照射の方法については、TGP チュートリアルを参照しろ。",
+	["DictKey_ActionText_20"] = "",
+	["DictKey_ActionText_108"] = "",
+	["DictKey_ActionText_171"] = "",
+	["DictKey_ActionText_106"] = "光っている [A/G] ボタンをクリックして、空対地モードに切り替えろ。",
+	["DictKey_ActionText_59"] = "你可以注意到，当你处于 AUTO / CCRP 模式下，你的 HUD 的下方多出了一个圆形准星。\
+\
+按下油门杆上的【TDC 控制器】，完成后按【空格键】继续。",
+	["DictKey_ActionText_83"] = "炸弹投出，很好！你注意到了，HUD 将会闪烁一次以提示你武器已经投放。现在就看看你的运气如何了。",
+	["DictKey_ActionText_8"] = "当你到了战场上，有时候你会发现由于种种原因你没办法利用原先 CCIP 的投弹方式来向目标俯冲炸弹，就如今天的训练场，风雨交加，云层高度非常低，我们没办法飞到高处，此时必须在较低的高度以水平飞行的方式飞到目标上方投掷炸弹。\
+\
+按【空格键】继续。",
+	["DictKey_ActionText_82"] = "",
+	["DictKey_ActionText_191"] = "TGT-3 をアクティベートした。",
+	["DictKey_ActionText_134"] = "",
+	["DictKey_ActionText_25"] = "点击屏幕左上角高亮的【MODE】功能项进入投弹模式调整子菜单。在子菜单中选择【AUTO】功能项打开自动投弹模式，这就是 F/A-18 战斗机上的 CCRP 投弹模式。\
+\
+设置完成后按【空格键】继续。",
+	["DictKey_ActionText_189"] = "",
+	["DictKey_ActionText_58"] = "",
+	["DictKey_ActionText_41"] = "",
+	["DictKey_ActionText_86"] = "",
+	["DictKey_ActionText_80"] = "在你接近到目标一定距离后，在投放基线上会出现一条横线并从上落下。切记提前 3-5 秒按住【武器投放按钮】直至炸弹投出。如果你的偏差太大，炸弹将不会投出，飞过目标后转回一号导航点，你可以多次尝试。",
+	["DictKey_ActionText_65"] = "滑动油门杆上的【TDC 控制器】，你可以注意到目标点也跟着移动，通过这种方法，你可以在大致设置目标后，移动目标点来精确设置你要攻击的目标，或者更改新的目标位置。\
+\
+我已经激活了前方靶场的目标所在位置的红色烟雾，就在跑道交叉点附近，你可以看到，请将目标点移动并对准红色烟雾所在的位置。\
+\
+完成后按【空格键】继续。",
+	["DictKey_ActionText_148"] = "HUD 上に円形の照準リングが表示される。\
+\
+スロットル下部の [TDC controller] を押し込み、リングで合わせた位置にダイヤ形の目標ポイントを設定しろ。スティックの [Un-Lock] ボタンで目標ポイントを解除し、再設定もできる。\
+\
+目標ポイントを設定し、完了したら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_16"] = "",
+	["DictKey_ActionText_197"] = "TGT-4 をアクティベートした。",
+	["DictKey_ActionText_193"] = "",
+	["DictKey_ActionText_52"] = "",
+	["DictKey_ActionText_200"] = "TGT-5 アクティベートした。これは大きくて難しい目標だ。 GBU-10 の効果をぜひお試しください。",
+	["DictKey_ActionText_145"] = "スティックの [Sensor Controller Switch] を上に押して HUD の操作を有効化しろ。有効化後、速度ベクトルマーク中央に小さな点が表示され、HUD 操作が有効であることを示す。\
+\
+完了したら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_77"] = "现在由你控制，沿着引导框直线飞行，操纵飞机让你的速度矢量标志与投放基准线重合，保持平飞接近目标。随着你与目标越来越近，你可以看清楚目标并继续用【TDC 控制器】来修正目标点的位置。",
+	["DictKey_ActionText_32"] = "",
+	["DictKey_ActionText_135"] = "Upfront Controller(UFC) のディスプレイパネルで、CODE 入力オプションが有効になっているのが確認できる。\
+\
+前方の上部コントローラーにある、光っている [CODE] ボタンをクリックしてコードを入力しろ。",
+	["DictKey_ActionText_102"] = "",
+	["DictKey_ActionText_93"] = "",
+	["DictKey_ActionText_17"] = "在主模式开关中按下高亮的【A/G】按钮，进入空对地模式。",
+	["DictKey_ActionText_206"] = "ホットキー（初期設定）\
+Weapon Release Button: [LAlt + SPACEBAR]",
+	["DictKey_ActionText_97"] = "",
+	["DictKey_ActionText_167"] = "",
+	["DictKey_ActionText_115"] = "",
+	["DictKey_ActionText_64"] = "",
+	["DictKey_ActionText_6"] = "晚上好，今天的课程将会让你了解如何使用激光制导炸弹并通过连续计算投放点（CCRP）的方式将炸弹精确的扔到目标的头上。\
+\
+正如所见，这次我们来到了夜间，你很难在空中看清楚目标，因此今天将会由一架侦察机为你提供目标标记。此刻我们的飞机处于动态暂停的状态。跟着我的指示，一步接一步的操作，你会很快很快掌握它。\
+\
+准备好后按【空格键】继续。",
+	["DictKey_ActionText_122"] = "",
+	["DictKey_ActionText_188"] = "",
+	["DictKey_ActionText_179"] = "高度に注意しろ。低すぎる高度で飛行するな。",
+	["DictKey_ActionText_178"] = "",
+	["DictKey_ActionText_120"] = "[EFUZ] ボタンをクリックして、信管設定メニューに入れ。",
+	["DictKey_ActionText_111"] = "",
+	["DictKey_ActionText_39"] = "",
+	["DictKey_ActionText_94"] = "",
+	["DictKey_ActionText_186"] = "",
+	["DictKey_ActionText_88"] = "",
+	["DictKey_ActionText_132"] = "レーザー誘導爆弾が目標を正しく捕捉できるよう、レーザーコードが正確に設定されていることを確認する必要がある。\
+\
+光っている [CODE] ボタンをクリックしろ。",
+	["DictKey_ActionText_174"] = "目標の撃破に成功した。次は自由飛行に移行し、残存目標への攻撃を継続して訓練しろ。",
+	["DictKey_ActionText_194"] = "",
+	["DictKey_ActionText_203"] = "ホットキー（初期設定）\
+Night Vision On/Off: [RShift + H]\
+Night Vision Gain Increase: [RCtrl + RShift + H]\
+Night Vision Gain Reduction: [RAlt + RShift + H]",
+	["DictKey_ActionText_205"] = "ホットキー（初期設定）\
+Sensor Controller Switch - Up: [RAlt + ;]",
+	["DictKey_ActionText_176"] = "全目標を撃破した。よくやった！これでミッションを終了してもよい。",
+	["DictKey_ActionText_190"] = "",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_156"] = "You have control。照準を合わせ、接近しろ。\
+\
+速度ベクトルマークを方位ステアリングラインに一致させ、ガイダンスフレームに従って目標へ向かうことができる。あるいは任意の進入経路を選択してもよいが、高度と速度を一定に保つことを意識しろ。",
+	["DictKey_ActionText_56"] = "目前我们已经完成了炸弹基础设置，CCRP 投弹首先需要确定一个投弹点或者叫目标点，这样飞机才能够计算何时投弹能够命中这个位置，向上按下摇杆上的【传感器控制开关】，激活抬头显示器的控制权。完成后你可以看到在 HUD 中心的速度矢量标志的中心圆圈中会多出一个“点”，提示你当前已经激活了 HUD。\
+\
+完成后按【空格键】继续。",
+	["DictKey_ActionText_79"] = "",
+	["DictKey_ActionText_71"] = "先不要着急，注意你的抬头显示器（HUD）的右下方，你可以看到 数字 和 TGT 的提示，这表示了你与目标点当前距离。\
+\
+另外，你还能注意到右侧还有 REL 的提示，前面的数字则是计算投弹倒计时，随着你不断靠近目标，你与目标的距离会减小，当你抵达合适的投弹点时，倒计时将归零。\
+\
+按【空格键】继续。",
+	["DictKey_ActionText_109"] = "A/G モードでは、左モニターにデフォルトで兵装搭載ページが表示される。現在、機体には GBU-12 が 4 発、GBU-10 が 2 発搭載されており、それぞれ [82LG] と [84LG] として表示されている。威力の違いを除けば、これらのレーザー誘導爆弾の運用方法はほぼ同一だ。本レッスンでは GBU-12 を例に説明する。後で別の爆弾も自由に試せ。\
+\
+光っている兵装ページの [82LG] ボタンをクリックして、対応する爆弾を選択し、有効化しろ。",
+	["DictKey_ActionText_204"] = "",
+	["DictKey_ActionText_150"] = "スロットルの [TDC controller] を上下に操作し、HUD 表示範囲内で目標ポイントを移動させ、IR マーカーの目標位置に合わせろ。\
+\
+完了したら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_143"] = "準備は完了だ。Laser ON。\
+\
+ナイトビジョンをオンにしろ。ナイトビジョン越しに、上空から地上へ伸びる強い光線が確認できる。これは夜間に目標を示すため、偵察機が使用している赤外線(IR)マーカーだ。レーザー照射は可視ではないため、本レッスンでは偵察機がIRマーカーとレーザー照射を同時に行い、目標位置を示している。\
+\
+赤外線が地面に到達している地点に注目しろ。そこが目標だ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_138"] = "オプションを有効化すると、その項目の前に \":\"(ダミー番号表示)が現れる。これはコード入力状態に入ったことを示す。\
+\
+UFC のデジタル入力キーボードで、今日使用するレーザーコード 1688 を入力しろ。入力後、[ENT] ボタンを押して確定しろ。誤入力した場合は [CLR] ボタンで消去して再入力しろ。\
+\
+完了したら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_91"] = "",
+	["DictKey_ActionText_147"] = "",
+} -- end of dictionary

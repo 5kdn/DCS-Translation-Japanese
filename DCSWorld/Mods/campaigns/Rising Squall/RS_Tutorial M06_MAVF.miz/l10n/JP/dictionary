@@ -1,0 +1,128 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_98"] = "",
+	["DictKey_ActionText_29"] = "このページには、ミサイル自身の誘導装置が見ている画像が表示される。\
+左側の 3 つの点灯ボタンはミサイルの信管種別に対応している。[INST] は瞬発信管、[DLL1] と [DLL2] は 2 種類の遅延信管を示す。\
+\
+選択は [INST] のまま維持し、[SPACEBAR] で続行しろ。",
+	["DictKey_ActionText_92"] = "",
+	["DictKey_ActionText_53"] = "",
+	["DictKey_ActionText_36"] = "右下の [FOV] ボタンで画像の表示倍率を切り替えられる。画面がアクティブな場合は、スロットルの [RAID/FLIR FOV] ボタンでも切り替え可能である。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_66"] = "",
+	["DictKey_ActionText_95"] = "",
+	["DictKey_ActionText_19"] = "Maverickミサイルをコールドスタート状態から起動した場合、約 3 分の較正時間が必要となる。ただし、現在のミサイルはすべて使用可能な状態にある。\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_26"] = "点灯している [MAVF] ボタンをもう一度クリックすると、ミサイル映像ページに入る。",
+	["DictKey_ActionText_38"] = "",
+	["DictKey_ActionText_68"] = "",
+	["DictKey_ActionText_23"] = "点灯している [STEP] ボタンをクリックしろ。これにより、異なるハードポイントの待機中ミサイルを順次切り替えられる。\
+HUD 中央の ▽ マークに注目しろ。これが現在そのミサイルが指向している位置である。[SPACEBAR] を押して続行しろ。\"",
+	["DictKey_ActionText_105"] = "ホットキー（初期設定）\
+Sensor Controller Switch - Left: [RAlt + ,]",
+	["DictKey_ActionText_101"] = "",
+	["DictKey_ActionText_31"] = "",
+	["DictKey_ActionText_78"] = "",
+	["DictKey_ActionText_85"] = "",
+	["DictKey_ActionText_11"] = "点灯している [A/G] ボタンをクリックして対地モードを有効化しろ。",
+	["DictKey_ActionText_61"] = "",
+	["DictKey_ActionText_75"] = "",
+	["DictKey_ActionText_107"] = "ホットキー（初期設定）\
+Cage/Uncage: [C]",
+	["DictKey_ActionText_35"] = "",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_ActionText_28"] = "",
+	["DictKey_ActionText_89"] = "",
+	["DictKey_sortie_5"] = "Rising Squall Tutorial: M06 AGM-65F Maverick IR AGM",
+	["DictKey_ActionText_56"] = "",
+	["DictKey_ActionText_22"] = "",
+	["DictKey_ActionText_84"] = "",
+	["DictKey_ActionText_108"] = "ホットキー（初期設定）\
+Weapon Release Button: [LAlt + SPACEBAR]",
+	["DictKey_ActionText_109"] = "",
+	["DictKey_ActionText_106"] = "ホットキー（初期設定）\
+TDC controller - Up: [;]\
+TDC controller - Down: [.]\
+TDC controller - Left: [,]\
+TDC controller - Right: [/]\
+TDC controller - Press: [ENTER]",
+	["DictKey_ActionText_59"] = "",
+	["DictKey_ActionText_8"] = "いつもの手順だ。まず、点灯している [Master Arm Switch] が ARM 位置に上がっているか確認しろ。\
+完了したら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_82"] = "Shack one! Good shooting!\
+\
+感触はどうだ。難しくはないだろう。君なら問題ないはずだ。現在、機体の弾薬は無制限としてある。引き続きミサイルを発射して練習してもよいし、[SPACEBAR] を押してもよい。停止を解除するから、その後は自由飛行に移り、飛行中の目標へのミサイル発射を試せ。",
+	["DictKey_ActionText_42"] = "スロットルの [TDC controller] を押し込みながら上下に動かすことで、ミサイルの目標を指定できる。画像中央の大きな照準十字を目標に合わせ、[TDC controller] を離すと、ミサイルは目標の識別とロックを試みる。HUD中央の ▽ も同時に動き、ミサイルの現在位置と指向方向を示す。\
+\
+ミサイル照準を小さく動かして動作を確認してから、[SPACEBAR] を押して続行しろ。\"",
+	["DictKey_ActionText_45"] = "スロットルの [CAGE/UNCAGE] ボタンを押して、ミサイル照準を再センタリングしろ。\
+\
+照準を中央へ戻し、完了したら[SPACEBAR]で続行しろ。",
+	["DictKey_ActionText_25"] = "",
+	["DictKey_ActionText_76"] = "",
+	["DictKey_ActionText_33"] = "大型の艦艇を攻撃する場合は、左下の [SHIP] ボタンを選択できる。それ以外ではこの機能を選択しないこと。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_87"] = "You have control!\
+\
+飛行中にミサイル照準を確立するのは容易ではない。慌てないためにも、できるだけ早く機体を目標方位へ安定させることに注意しろ。",
+	["DictKey_ActionText_86"] = "",
+	["DictKey_ActionText_70"] = "",
+	["DictKey_ActionText_65"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_44"] = "",
+	["DictKey_ActionText_62"] = "",
+	["DictKey_descriptionText_1"] = "このレッスンでは、IR画像誘導下で AGM-65F 空対地ミサイルを用いた地上目標攻撃を学び、実施する。",
+	["DictKey_ActionText_69"] = "",
+	["DictKey_ActionText_17"] = "",
+	["DictKey_ActionText_64"] = "",
+	["DictKey_ActionText_74"] = "",
+	["DictKey_ActionText_72"] = "",
+	["DictKey_ActionText_15"] = "現在、機体にはMaverickミサイルを合計 4 発搭載している。対地モードを有効化すると、左側ディスプレイはデフォルトで兵装ページを表示する。表示中のページで対応する [MAVF] ボタンをクリックし、Maverick ミサイルを選択しろ。",
+	["DictKey_ActionText_80"] = "",
+	["DictKey_ActionText_18"] = "",
+	["DictKey_ActionText_6"] = "このレッスンでは AGM-65F Maverick ミサイルの使用方法を学ぶ。\
+AGM-65F は AGM-65E の赤外線誘導型である。ミサイルは赤外線誘導装置で目標を追尾するため、目標へのレーザーマークは不要であり、\"Fire And Forget\" 能力を有する。非常に有効な空対地兵器であり、地上の装甲目標、建造物、海上の艦艇攻撃に使用される。現在、機体は一時停止状態にある。準備ができたら[SPACEBAR]を押して開始しろ。\"",
+	["DictKey_ActionText_48"] = "Smoke on the deck, target in sight!\
+\
+前方射撃場にいくつかの戦車目標を配置してある。現在、スモークでそれらの所在エリアをマーキングしている。これらの戦車は画像上でより明るいポイントとして見えるはずだ。今学んだ手順どおり、ミサイル照準を目標へ向け、その中から戦車を見つけてロックしろ。目標を捕捉すると照準十字の開きが閉じ、ミサイルが目標を識別したことを示す。目標をロックし、完了したら [SPACEBAR] を押して続行しろ。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_71"] = "",
+	["DictKey_ActionText_81"] = "",
+	["DictKey_ActionText_14"] = "",
+	["DictKey_ActionText_47"] = "",
+	["DictKey_ActionText_39"] = "次に、スティックの [Sensor Controller Switch] (左) を使用して左画面の操作をアクティブにしろ。\
+その後、画面右上に ◇ が表示される。完了したら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_94"] = "",
+	["DictKey_ActionText_54"] = "Rifle!\
+\
+ミサイルを発射したら、先に発射したミサイルは無視してよい。ミサイル照準ページの画像は次のミサイルへ切り替わり、新たな目標への照準を継続できる。\
+\
+そのまま他の目標にも照準を試み、攻撃を続けてよい。操作を習得するため、十分に反復練習しろ。この後の自由飛行では、機動しながらミサイル照準を確立する必要があり、そこが次の課題となる。",
+	["DictKey_ActionText_79"] = "",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_63"] = "",
+	["DictKey_ActionText_97"] = "",
+	["DictKey_ActionText_73"] = "",
+	["DictKey_ActionText_67"] = "",
+	["DictKey_ActionText_32"] = "",
+	["DictKey_ActionText_57"] = "",
+	["DictKey_ActionText_51"] = "ミサイルが目標を捕捉すると、左上のミサイル情報の下に RDY が表示され、発射可能であることを示す。\
+\
+ジョイスティックの [Weapon Release Button] を押してミサイルを発射しろ。",
+	["DictKey_ActionText_21"] = "",
+	["DictKey_ActionText_58"] = "",
+	["DictKey_ActionText_60"] = "",
+	["DictKey_ActionText_41"] = "",
+	["DictKey_ActionText_77"] = "",
+	["DictKey_ActionText_93"] = "",
+	["DictKey_ActionText_50"] = "",
+	["DictKey_ActionText_90"] = "よくやった。Shack another target。問題ない。",
+	["DictKey_ActionText_96"] = "",
+	["DictKey_ActionText_99"] = "非常によい。目標の大半を排除した。タスク完了だ。good job!",
+	["DictKey_ActionText_102"] = "",
+	["DictKey_ActionText_104"] = "ホットキー（初期設定）\
+RIAD/FLIR: [I]",
+} -- end of dictionary

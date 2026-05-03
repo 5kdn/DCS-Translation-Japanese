@@ -1,0 +1,108 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_29"] = "",
+	["DictKey_ActionText_73"] = "ホットキー（初期設定）\
+Undesignate: [S]",
+	["DictKey_ActionText_33"] = "TWS モードでは追尾が不安定になることがある。目標の追尾を失った場合は再度追尾を確立する必要がある。ハイライト表示されたモード切替ボタンをクリックして、TWS を AUTO モードに切り替えろ。AUTO モードでは、手動操作によるロストを防ぐため、レーダーがプライマリターゲットを自動的に追尾する。\
+\
+通常は MAN モードでレーダーを操作して敵を捜索し、目標を捕捉した後に AUTO モードへ切り替えて追尾を維持する。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_66"] = "",
+	["DictKey_ActionText_58"] = "",
+	["DictKey_ActionText_70"] = "ホットキー（初期設定）\
+Weapon Selection Switch - Right: [LShift + D]",
+	["DictKey_ActionText_65"] = "",
+	["DictKey_ActionText_38"] = "",
+	["DictKey_ActionText_23"] = "",
+	["DictKey_ActionText_62"] = "",
+	["DictKey_ActionText_49"] = "",
+	["DictKey_ActionText_57"] = "",
+	["DictKey_ActionText_44"] = "",
+	["DictKey_ActionText_30"] = "TWS 模式下我们可以跟踪两个距离较近的不同的目标，按照上述方法，将游标移动到第二个目标上，然后再次按下【TDC 游标】，建立对第二个目标的跟踪，该目标会被标记为 ◇，称为次要目标。\
+\
+完成后按【空格键】继续。",
+	["DictKey_ActionText_74"] = "ホットキー（初期設定）\
+Undesignate: [S]",
+	["DictKey_ActionText_18"] = "F/A-18C の TWS レーダーモードでは、AIM-120 ミサイルを使用して 2 つの目標を同時に捕捉し、攻撃することができる。\
+\
+まず、レーダーを TWS モードに切り替える必要がある。レーダーページ左上のモード選択ボタンをクリックし、[TWS] モードに切り替えろ。",
+	["DictKey_ActionText_46"] = "Splash One!",
+	["DictKey_ActionText_61"] = "",
+	["DictKey_ActionText_50"] = "",
+	["DictKey_ActionText_11"] = "スティックの [Weapon Selection Switch] を右に倒し、AIM-120 ミサイルを選択しろ。このミサイルを選択すると、機体は自動的に空対空モードに入る。ハイライト表示されたプライマリ・モード・ボタンの A/A インジケーターが点灯し、同時に右ディスプレイは自動的にレーダーの BVR ページに切り替わる。\
+\
+AIM-120ミサイルを選択し、その後 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_72"] = "ホットキー（初期設定）\
+TDC controller - Up: [;]\
+TDC controller - Down: [.]\
+TDC controller - Left: [,]\
+TDC controller - Right: [/]\
+TDC controller - Press: [ENTER]",
+	["DictKey_ActionText_15"] = "HUD 下部に AC の表示があるはずだ。これは現在 AIM-120C ミサイルが選択されていることを示している。AC の後ろの数字はミサイル搭載数の残数を示しており、本機には 6 発搭載されている。\
+\
+次に [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_75"] = "ホットキー（初期設定）\
+Antenna Elevation Control - Up: [=]\
+Antenna Elevation Control - Down: [-]",
+	["DictKey_ActionText_67"] = "You have control。 AWACS のブリーフに従って残存目標を発見し、撃墜しろ。",
+	["DictKey_ActionText_6"] = "B&P 飛行課程へようこそ。このレッスンでは、レーダーの TWS モードを操作して複数の目標を同時に攻撃する方法を学ぶ。\
+\
+準備ができたら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_48"] = "",
+	["DictKey_ActionText_45"] = "",
+	["DictKey_ActionText_24"] = "画面右側の MAN モードが枠選択されている点に注意しろ。これは手動追尾だ。このモードでは、敵機への追尾を維持するためにレーダーの各種パラメータを手動で調整する必要がある。スロットルレバーの [TDC controller] を操作して金色のレーダーカーソルを動かし、目標に合わせろ。その後 [TDC controller] を押してこの目標を追尾状態にしろ。目標は \"★\" でマークされ、プライマリターゲットであることを示している。\
+\
+次に [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_17"] = "",
+	["DictKey_ActionText_35"] = "",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_ActionText_39"] = "敵機 2 機を捕捉していることを確認しろ。ミサイルが約 25 NM の射程に入ったら、スティックの [Trigger] を引いて 1 発発射しろ。発射後、プライマリターゲットを切り替え、再度 [Trigger] を引いてもう 1 発を 2 つ目の目標へ発射しろ。",
+	["DictKey_sortie_5"] = "Rising Squall Tutorial: M04 BVR - スキャン中の追跡",
+	["DictKey_ActionText_54"] = "",
+	["DictKey_ActionText_27"] = "TWS モードでは、2 つの異なる目標を同時に追尾できる。前述の手順に従い、カーソルを 2 つ目の目標に合わせて再度 [TDC controller] を押し、追尾状態にしろ。この目標はセカンダリターゲットと呼ばれる。\
+\
+次に [SPACEBAR] を押して続行しろ。",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_63"] = "ナイスショット！さらに2つの目標を撃破した。\
+\
+[ESC] を押してミッションを終了するか、[SPACEBAR] を押してポーズを解除し、飛行中に他の目標を捜索して撃墜しろ。目標の位置についてはAWACSが代わりに指示する。",
+	["DictKey_ActionText_51"] = "",
+	["DictKey_ActionText_36"] = "スロットルレバーの [Undesignate / nosewheel steering button] を押すことでプライマリターゲットを切り替えられる。\"★\" 表示は 2 つの目標間で順に切り替わる。プライマリターゲットまでの距離は HUD 右下に表示され、プライマリターゲットはターゲットフレーム内に表示され、セカンダリターゲットは \"×\" で示される。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_26"] = "",
+	["DictKey_ActionText_56"] = "",
+	["DictKey_ActionText_55"] = "",
+	["DictKey_descriptionText_1"] = "このレッスンでは、レーダーの Track While Scan(TWS) モードを操作し、目視外空対空戦闘において異なる2つの目標を同時に攻撃する方法を学ぶ。この操作は複数の目標を迎撃する際に非常に有効だ。",
+	["DictKey_ActionText_21"] = "レーダーは TWS モードに入っており、右ディスプレイがデフォルトで有効になっている。右ディスプレイ上部に ◇ マークが表示されているはずだ。スティックの [Sensor Controller Switch] を右に押し、右画面を選択して有効化しろ。\
+\
+前方に 2 つの目標を出現させた。AWACS のデータリンクからそれらを確認できるはずだ。\
+\
+次に [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_20"] = "",
+	["DictKey_ActionText_41"] = "",
+	["DictKey_ActionText_14"] = "",
+	["DictKey_ActionText_71"] = "ホットキー（初期設定）\
+TDC controller - Up: [;]\
+TDC controller - Down: [.]\
+TDC controller - Left: [,]\
+TDC controller - Right: [/]\
+TDC controller - Press: [ENTER]",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_59"] = "新たに 2 つの目標を出現させた。ただし高度が自機とは異なるため、捕捉するにはレーダーのピッチ角を調整する必要がある。調整方法は覚えているか？ MAN モードに戻し、スロットルレバー後部の [Antenna Elevation Control] を操作して調整しろ。カーソルを目標付近に合わせ、その上下に表示される高度範囲で、上側が目標高度より大きく、下側が目標高度より小さくなるように調整しろ。例えば目標高度が 39,000 ft の場合、カーソル上の数値を 39 より大きく、下の数値を 39 より小さく設定する。\
+\
+目標を捕捉し、ミサイルを発射して撃墜しろ。",
+	["DictKey_ActionText_32"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_8"] = "いつも通り、まず [Master Arm Switch] がオンであることを確認しろ。\
+\
+その後、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_52"] = "よくやった。2 つの目標を撃破した。\
+\
+TWS モードで複数目標を攻撃する方法を習得したな。レッスンを終了する場合は [ESC] を押せ。さらに挑戦する場合は [SPACEBAR] を押せ。",
+	["DictKey_ActionText_42"] = "FOX-3!\
+\
+[Undesignate / nosewheel steering button] ボタンを押してプライマリターゲットを切り替え、もう 1 発ミサイルを発射しろ。",
+} -- end of dictionary

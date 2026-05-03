@@ -1,0 +1,124 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "電子戦(EW)システムは、レーダー警戒受信機(RWR)とデコイ散布装置の 2 つの主要装備で構成される。\
+\
+まず、レーダー警戒受信機について説明する。\
+\
+センタースクリーン下部に表示されているハイライトされたボタンはRWRの機能ボタンだ。すべてオンになっていることを確認せよ。オフの場合は、右端の電源スイッチをクリックしてオンにする。その後、[SPACEBAR]を押して続行せよ。",
+	["DictKey_ActionText_112"] = "",
+	["DictKey_ActionText_103"] = "ホットキー（初期設定）\
+Dispense Switch - Forward: [E]",
+	["DictKey_ActionText_43"] = "ミサイルが発射された！警報が断続音から連続音へ変化したことに気付いたはずだ。さらに EW ページでは、SAM-2 地対空ミサイルを示す \"2\" のマークが中心により近づき、長いラインがミサイルを指しているのが確認できる。これはミサイルが発射され、誘導状態に入っていることを示している。\
+\
+[SPACEBAR] を押して次のセクションに入ります。",
+	["DictKey_ActionText_36"] = "",
+	["DictKey_ActionText_55"] = "",
+	["DictKey_ActionText_19"] = "EW インターフェースは複数の円形スケールで構成されている。中心は自機であり、RWR が探知したすべてのレーダー信号が表示される。右側のハイライトされたボタンをクリックし、HUD を枠選択して、すべての情報を HUD に投影し視認せよ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_68"] = "",
+	["DictKey_ActionText_90"] = "よくやった。すべてのミサイルを回避し、Waypoint 1に到達した。見事だ！\
+\
+[ESC] を押してこの訓練を終了しろ。",
+	["DictKey_ActionText_31"] = "12 時方向、すなわち右前方に表示されている \"S\" は地上レーダー信号だ。これは捜索レーダーであり、そのシンボルは家型の枠で囲まれている。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_74"] = "",
+	["DictKey_ActionText_85"] = "",
+	["DictKey_ActionText_75"] = "",
+	["DictKey_ActionText_24"] = "",
+	["DictKey_ActionText_13"] = "TAC ページで右側にあるハイライトされた EW ボタンをクリックして EW インターフェースに入れ。",
+	["DictKey_ActionText_28"] = "",
+	["DictKey_ActionText_89"] = "",
+	["DictKey_sortie_5"] = "Rising Squall Tutorial: M04 カウンター レーダー誘導ミサイル",
+	["DictKey_ActionText_56"] = "チャフを投下してレーダー上に偽の反射信号を形成し、ミサイルを欺いて偽目標を追尾させろ。スロットルの [Dispense Switch] レバーを前方に引くことで、チャフを1セット投下できる。これはレーダー誘導兵器に対して有効な対抗手段だ。通常、機体にはチャフ 60 発と赤外線フレア 60 発が搭載されており、1 回で 2 セットが投下される。\
+\
+ここではチャフは投下せず、[SPACEBAR] を押してレッスンを続行しろ。\
+",
+	["DictKey_ActionText_22"] = "いくつかのレーダー装置を起動した。ヘッドホンから警告音が聞こえるはずだ。これは RWR が新たなレーダー信号を探知し、警戒を促していることを示す。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_100"] = "",
+	["DictKey_ActionText_27"] = "",
+	["DictKey_ActionText_59"] = "",
+	["DictKey_ActionText_83"] = "また被弾したな。脅威警報を RWR の左右いずれか真横に配置することを意識しろ。EW ページの左右には太い水平ラインが2本ある。その2本の間に脅威警報を入れるように機動しろ。",
+	["DictKey_ActionText_8"] = "新人パイロット諸君、本日はレーダー誘導ミサイルに対抗するため、機上電子戦システムの運用方法を学習する。\
+\
+準備を整え、[SPACEBAR]を押して続行しろ。",
+	["DictKey_ActionText_82"] = "",
+	["DictKey_ActionText_12"] = "",
+	["DictKey_ActionText_34"] = "3 時方向に表示されている \"15\" は F-15 \"Eagle\" 戦闘機のレーダー信号だ。航空機搭載レーダーにはすべて上部に \"∧\" マークが付く。\
+\
+レーダーの種類によって表示されるマークは異なる。詳細については、完全な脅威警報対照表を確認しろ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_40"] = "何か聞こえるか？断続的な警報は、レーダーが自機の位置を照射し、目標を捕捉していることを示している。実戦では誤警報が発生することもあるが、現在のこの警報は明確な脅威だ。\
+\
+EWページまたはRWRディスプレイを確認しろ。\"2\" の信号が内側の円へ接近しているのが分かるはずだ。これは SAM-2 地対空ミサイルの射撃管制レーダーであり、すでに目標を捕捉し、発射準備が整っていることを示している。",
+	["DictKey_ActionText_18"] = "",
+	["DictKey_ActionText_25"] = "これらのシンボルについて説明する。レーダー信号は航空機搭載レーダー、地上レーダー、そして艦艇レーダーの 3 種類に分類される。\
+\
+自機の左約 8 時方向に表示されている \"T2\" は、艦艇のレーダー信号を示している。この T2 の下に艦船マークが表示されており、これは艦艇を表している。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_76"] = "レーダー警報が消えた場合、敵ミサイルが追尾を失ったことを意味する。再度旋回して目標(Waypoint 1)への接近を試みろ。反復して習得しろ。",
+	["DictKey_ActionText_33"] = "",
+	["DictKey_ActionText_87"] = "また被弾だ……。目標を左右いずれかに正確に配置するほど欺瞞の成功率は高くなる。この点を常に意識しろ。",
+	["DictKey_ActionText_58"] = "",
+	["DictKey_ActionText_65"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_52"] = "デコイ散布装置を使用する際は、[Master Arm Switch] をARMにしろ。\
+\
+[Weapon Selection Switch] が [ARM] になっていることを確認し、その後 [SPACEBAR] を押して続行しろ。\
+",
+	["DictKey_ActionText_62"] = "",
+	["DictKey_ActionText_69"] = "SAM launch! SAM launch! ミサイル信号を右か左に置くように右か左へブレイクしろ。高度を下げてチャフを投下しろ！今だ！",
+	["DictKey_ActionText_46"] = "",
+	["DictKey_ActionText_79"] = "被弾したな。問題ない。これは訓練であり、墜落はしない。引き続き訓練を続けろ。",
+	["DictKey_ActionText_37"] = "レーダー警戒受信機は、警報の種類に応じて脅威レベルを判定する。\
+\
+EW ページ上の 3 つの同心円は脅威レベルを示している。警報が外側の円に近いほど脅威レベルは低く、内側に近いほど脅威レベルは高い。現在、3 つのレーダー警報はいずれも最外周にあるため、脅威はない。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_6"] = "",
+	["DictKey_ActionText_48"] = "",
+	["DictKey_ActionText_81"] = "",
+	["DictKey_descriptionText_1"] = "レーダー誘導ミサイルの攻撃を識別する方法と、チャフの投下およびノッチターンの実施によるミサイル防御を習得せよ。",
+	["DictKey_ActionText_111"] = "",
+	["DictKey_ActionText_39"] = "",
+	["DictKey_ActionText_15"] = "",
+	["DictKey_ActionText_54"] = "",
+	["DictKey_ActionText_45"] = "",
+	["DictKey_ActionText_92"] = "",
+	["DictKey_ActionText_63"] = "",
+	["DictKey_ActionText_66"] = "You have control。Waypoint 1へ向かえ。RWR/EW の警報に注意しろ。",
+	["DictKey_ActionText_86"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_30"] = "",
+	["DictKey_ActionText_49"] = "次に、デコイ散布装置の操作要領を学習する。まず、機上デコイ散布装置の電源を投入しろ。\
+\
+ハイライトされたスイッチをクリックし、デコイ散布装置を [DISPENSER] モードから最上段の [BYPASS] モードへ切り替えろ。\
+",
+	["DictKey_ActionText_51"] = "",
+	["DictKey_ActionText_21"] = "",
+	["DictKey_ActionRadioText_96"] = "跳过介绍",
+	["DictKey_ActionText_60"] = "レーダーは視線方向の速度差によって実目標と偽目標を識別するため、攻撃を受けた場合は通常、左右いずれかに急旋回し、脅威を自機の3時または9時方向、すなわち 90° 位置に置く必要がある。同時に高度を下げ、チャフを投下しろ。これによりレーダーを欺き、誤った目標を追尾させることができる。この機動を3/9ノッチターンと呼ぶ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_71"] = "",
+	["DictKey_ActionText_93"] = "",
+	["DictKey_ActionText_78"] = "",
+	["DictKey_ActionText_98"] = "You have control。Waypoint 1 へ進路を取って飛行し、防空陣地に接近して回避を練習しろ。",
+	["DictKey_ActionText_72"] = "次に、アクティブポーズを解除し、防空ミサイルの攻撃を再開する。Waypoint 1 へ向かえ。ミサイル警報を受信したら、直ちに北へ HDG 005、または南へ 175 に旋回し、高度を下げてノッチターンを実施しろ。旋回完了後は水平飛行に移行しろ。その後、EW または RWR ページで攻撃警報が左右どちらにあるか確認しろ。次に、[Reserve Switch] を数回前方に操作してチャフをペアで投下し、レーダー誘導防空ミサイルの攻撃を回避しろ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_16"] = "電源投入後、レーダー警報ページに入り状況を確認せよ。コックピット右下の円形パネルは RWR ディスプレイだ。また、いずれのスクリーンからでも EW ページに入ることができ、より高解像度で詳細な RWR 表示として利用できる。\
+\
+右側ディスプレイを例とする。画面下中央のハイライトされた [Main Menu] ボタンを繰り返しクリックし、TAC(戦術)ページに入れ。\
+\
+次に [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_102"] = "ホットキー（初期設定）\
+Dispense Switch - Forward: [E]",
+	["DictKey_ActionText_42"] = "",
+} -- end of dictionary

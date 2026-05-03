@@ -1,0 +1,133 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_29"] = "現在、レーダーの表示距離は 80 NM となり、複数の機影がスキャンされている。次に、目標の指示方法を学ぶ。\
+\
+適切なレーダー画面が選択されていれば、画面右上に ◇ の表示があるはずだ。表示されていない場合は、スティック中央のセンサーコントローラースイッチを右に操作して右画面を有効化しろ。\
+\
+レーダー画面がアクティブになっていることを確認し、その後、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_43"] = "",
+	["DictKey_ActionText_53"] = "FOX 3!\
+\
+AIM-120 は攻撃終末段階(またはミサイルが目標から 10 NM 以内に入った時)になって初めて自律捜索を行う点に注意しろ。それまではレーダーで目標の捕捉を維持する必要がある。\
+\
+ミサイルの状態は HUD 右側で確認できる。数値と ACT は AIM-120 が「アクティブモード」へ移行するまでのカウントダウンを示している。 ACT が TTG に変わると、AIM-120 はすでに「アクティブモード」に入っており、機上レーダーによる誘導は不要となっていることを示している。\
+\
+ミサイルが目標に命中するまで待機しろ。",
+	["DictKey_ActionText_55"] = "",
+	["DictKey_ActionText_95"] = "ホットキー（初期設定）\
+TDC controller - Press: [ENTER]\
+Undesignate: [S]",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_26"] = "",
+	["DictKey_ActionText_38"] = "しばらくすると、レーダーが前方約 25 NM に新たな目標を探知する。EAW はすでにこれを敵機と識別しており、目標表示は黄色から赤に変わっている。カーソルを目標に合わせ、スロットル前方右端の円形の [TDC Controller] を2回押し込め。レーダーのピッチ角が目標の高度を正しくカバーしていれば、レーダーは自動的にSTT単一目標追尾モードに移行し、捕捉を完了する。\
+\
+ターゲットを解除したい場合は、スティック左下の赤い [Undesignate / nosewheel steering button] を押して終了しろ。\
+\
+新しい目標を捕捉し、その後 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_68"] = "Splash one! よくやった。新たな目標をいくつか出現させた。AWACSの指示に従ってそれらを発見し、撃墜しろ。\
+\
+[SPACEBAR] を押してポーズを解除し、フリーフライトを開始しろ。または [ESC] を押して終了し、本日の訓練を終えてもよい。",
+	["DictKey_ActionText_23"] = "レーダーに新たな機影が表示されているはずだ。次に、レーダーの表示距離を変更してより遠距離の目標を表示する方法を学ぶ。\
+\
+右側の [↑] または [↓] ボタンを押してレーダーの表示距離を変更しろ。現在の距離は 40 NM だ。[↑] を押して表示距離を 80 NM に設定しろ。",
+	["DictKey_ActionText_91"] = "フリーフライトだ。このミッション内の目標を捜索し、撃墜しろ。",
+	["DictKey_ActionText_31"] = "",
+	["DictKey_ActionText_74"] = "",
+	["DictKey_ActionText_85"] = "",
+	["DictKey_ActionText_11"] = "スティックの [Weapon Selection Switch] を前方または右方向に押して、AIM-120 中距離空対空ミサイルまたは AIM-7 を選択しろ。選択すると、自動的にA/Aモードに入る。\
+\
+A/A インジケーターが点灯していることを確認しろ。その後、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_61"] = "",
+	["DictKey_ActionText_75"] = "",
+	["DictKey_ActionText_35"] = "目標を発見するには、まずカーソルで敵機のおおよその距離を指定する必要がある。現在、自機から 20 NM、高度 35(35,000 ft)に機体がいる。カーソルを 20 NM に移動しろ。その後、スロットル前方の [Radar Elevation Control] を上下に操作し、カーソル上側の数値が 35 より大きく、下側の数値が 35 より小さくなるようにしろ。カーソルが目標上にあると、その目標には黄色の星印が付く。これは未識別かつ非協調目標であることを示す。しばらくするとAWACSが敵機として識別し、星印は赤色に変わる。\
+\
+その後、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_ActionText_28"] = "",
+	["DictKey_ActionText_64"] = "",
+	["DictKey_ActionText_56"] = "",
+	["DictKey_descriptionText_1"] = "F/A-18C は AN/APG-73 レーダーと中距離空対空ミサイル(MR-AAM)を装備しており、目視外射程(BVR)での攻撃が可能だ。このレッスンでは、レーダーを操作して遠距離目標を指示し、AIM-120 アクティブレーダー誘導空対空ミサイルで撃墜する方法を学ぶ。",
+	["DictKey_ActionText_20"] = "現在、レーダーの走査範囲は前方 40°、すなわち左右それぞれ 20° だ。走査線の範囲が狭くなり、レーダー画面の両端にあった目標は表示されなくなる一方、中央の目標は更新頻度が高くなる。走査角を狭めることでレーダーの更新速度は向上するが、捜索範囲は縮小する。\
+\
+ハイライトされたボタンを押してレーダーの水平走査角を 140° に戻しろ。その後、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_59"] = "",
+	["DictKey_ActionText_83"] = "",
+	["DictKey_ActionText_8"] = "次に、レーダーを操作して遠距離目標を攻撃する方法を学ぶ。まず [Master Arm Switch] がARMであることを確認しろ。\
+\
+準備ができたら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_82"] = "",
+	["DictKey_ActionText_34"] = "",
+	["DictKey_ActionText_40"] = "",
+	["DictKey_ActionText_67"] = "",
+	["DictKey_ActionText_25"] = "",
+	["DictKey_ActionText_76"] = "You have control. AWACSは目標の位置を方位、距離、高度の順で報告する。習得した内容を活用して他の機体を発見し、撃墜しろ。",
+	["DictKey_ActionText_16"] = "",
+	["DictKey_ActionText_86"] = "",
+	["DictKey_ActionText_70"] = "",
+	["DictKey_ActionText_65"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_52"] = "",
+	["DictKey_ActionText_44"] = "AIM-120 はアクティブ・レーダー誘導空対空ミサイルであり、終末段階では機上レーダーによる継続的な照射なしに自律的に目標を捜索できる。このため \"Fire And Forget\" とも呼ばれる。\
+\
+AIM-120 ミサイルは AIM-9/AIM-7 と基本的に同じ発射インターフェースを持つ(基本事項は忘れていないはずだ)。目標を捕捉すると、HUD 上にミサイルの射程リングが表示される。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_62"] = "目標を外したようだ。目標に接近し、もう一発ミサイルを発射しろ。",
+	["DictKey_ActionText_46"] = "",
+	["DictKey_ActionText_72"] = "",
+	["DictKey_ActionText_37"] = "",
+	["DictKey_ActionText_7"] = "本日は空戦の高度な技術と知識について説明する。開始前に、基本的な空戦の学習と訓練を完了していることを確認する。\
+\
+準備ができたら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_81"] = "",
+	["DictKey_ActionText_22"] = "",
+	["DictKey_ActionText_94"] = "ホットキー（初期設定）\
+TDC controller - Up: [;]\
+TDC controller - Down: [.]\
+TDC controller - Left: [,]\
+TDC controller - Right: [/]",
+	["DictKey_sortie_5"] = "Rising Squall Tutorial: M03 BVR の基礎",
+	["DictKey_ActionText_79"] = "よくやった。さらに1機撃墜だ。",
+	["DictKey_ActionText_41"] = "このモードでは、いったん目標をロックすると、レーダーは他の目標の捜索を停止し、指定した目標への追尾に専念する。レーダーの走査線は走査せず、目標に張り付くように表示される。AIM-120 ミサイルを使用して遠距離から目標を攻撃しろ。\
+\
+スティックの [Weapon Select Switch] を右に倒し、AIM-120 ミサイルを選択しろ(選択後、HUD下部にABまたはACが表示される)。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_66"] = "",
+	["DictKey_ActionText_50"] = "目標が射程内に入ったら、スティックの [Trigger] を引いてミサイルを発射しろ。\
+\
+ミサイルを操作して目標を撃墜しろ。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_58"] = "",
+	["DictKey_ActionText_14"] = "A/A モードに入ると、右ディスプレイはデフォルトでレーダー画面に切り替わる。\
+\
+ディスプレイ下部中央に自機が表示されている。表示される範囲は機体前方をカバーしている。目標が接近すると、その表示はディスプレイ下方へ移動する。また、目標が機体の左右にある場合は、ディスプレイ中央線の左右に緑色の四角として表示される。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_49"] = "",
+	["DictKey_ActionText_78"] = "",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_57"] = "",
+	["DictKey_ActionText_60"] = "",
+	["DictKey_ActionText_32"] = "まず、目標の探し方を学ぶ必要がある。スロットル前方右側の [TDC Controller] を操作して「TDCカーソル」を動かせ。カーソルは2本の金色の縦線で表示され、その上下に表示される数値は、現在の距離における走査範囲の上限および下限を示しており、単位は ft だ。例えば「34」は高度 34,000 ft を示している。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_71"] = "",
+	["DictKey_ActionText_93"] = "ホットキー（初期設定）\
+Weapon Selection Switch - Right: [LShift + D]\
+Weapon Selection Switch - Up: [LShift + W]",
+	["DictKey_ActionRadioText_90"] = "跳过介绍",
+	["DictKey_ActionText_87"] = "よし、さらに1機撃墜した。才能があるな。では、[ESC] を押して終了してよい。",
+	["DictKey_ActionText_96"] = "ホットキー（初期設定）\
+Trigger: [SPACEBAR]",
+	["DictKey_ActionText_47"] = "射程表示リング下部の三角形は兵装の理論上の最大射程を示す。そこから反時計回り方向に見て次の三角形はノー・エスケープ・ゾーンを示す。射程リング内側には小さな針状のインジケーターがあり、自機と目標との距離に応じて変化する。時計回りに動く場合は目標が離脱中、反時計回りに動く場合は目標が接近中である。針が最大射程内に入れば発射可能だ。もちろん、目標が近いほど命中確率は高くなる。\
+\
+また、目標距離はHUD右下にも表示されている。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_84"] = "",
+	["DictKey_ActionText_17"] = "ディスプレイ中央で左右に動いている「縦線」はレーダーの走査線を示し、レーダーがスキャン中であることを表す。目視外射程モードでは、レーダーはデフォルトで RWS モードになる。ディスプレイ左下のハイライトされたファンクションボタンは、レーダーの水平走査角を切り替えるもので、現在は 140° に設定されている。このボタンを繰り返し押すことで角度を順に切り替えられる。走査角が広いほど広範囲をカバーできるが、スキャン完了までに時間がかかり、その間に目標を見失う可能性がある。\
+\
+ハイライトされたボタンを押してレーダーの水平走査角を 40° に変更しろ。その後、[SPACEBAR] を押して続行しろ。",
+} -- end of dictionary

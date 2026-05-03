@@ -1,0 +1,79 @@
+dictionary =
+{
+	["DictKey_ActionText_10"] = "まず、デコイ・ディスペンサーをオンにしろ。\
+\
+スティック後ろのパネルの、[DISPENSER] を [BYPASS] モードに設定しろ。",
+	["DictKey_ActionText_34"] = "",
+	["DictKey_ActionText_40"] = "前方レンジでは、いくつかの赤外線ミサイルがレッドスモークでマーキングしてある。腕を見せてみろ。\
+\
+[SPACEBAR] を押すとアクティブポーズを解除する。ルートガイダンスに従って飛行し、レンジを監視し続けろ。ミサイルを発見したらフレアを投下し、回避行動を取れ。\
+\
+[ESC] を押して終了することもできる。",
+	["DictKey_ActionText_17"] = "赤外線誘導ミサイルは主に熱源を追尾して目標を捕捉する。そのためレーダー警報装置は機能しない。発射に気づけなければ撃墜される可能性が高い。\
+\
+FIM-92、9K38、9M31、そして自機の AIM-9 短距離空対空ミサイルなど、多くのミサイルが赤外線誘導だ。ただし大半は短距離だ。MANPADS であれば高度 12,000 ft 以上を維持すれば、これらの脅威は大きく低減される。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_25"] = "",
+	["DictKey_ActionText_43"] = "これで操縦を引き継いだ。ガイディングフレームに従って飛行し、レンジ・エリアを監視し続けろ。",
+	["DictKey_ActionText_36"] = "",
+	["DictKey_ActionText_33"] = "",
+	["DictKey_ActionText_66"] = "",
+	["DictKey_ActionText_32"] = "",
+	["DictKey_ActionRadioText_54"] = "跳过介绍",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_68"] = "",
+	["DictKey_ActionText_23"] = "",
+	["DictKey_ActionText_49"] = "",
+	["DictKey_ActionText_31"] = "",
+	["DictKey_ActionText_62"] = "",
+	["DictKey_ActionText_69"] = "",
+	["DictKey_ActionText_46"] = "Missiles! Missile! Missile!",
+	["DictKey_ActionText_61"] = "",
+	["DictKey_ActionText_15"] = "",
+	["DictKey_ActionText_6"] = "hhhhhhhhhhhh",
+	["DictKey_ActionText_7"] = "新人パイロット、このレッスンでは赤外線誘導ミサイルの回避方法を学ぶ。準備はいいか？\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_12"] = "",
+	["DictKey_ActionText_30"] = "",
+	["DictKey_ActionText_35"] = "",
+	["DictKey_ActionText_13"] = "[Master Arm Switch] が [ARM] になっていることを確認しろ。その後、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_39"] = "",
+	["DictKey_ActionText_37"] = "赤外線誘導ミサイルが自機に向かってくるのを確認したら、スロットルの [Dispense Switch] を後方に引いてフレアを投下しろ。フレアは一定の確率でミサイルを欺瞞できる。同時にスロットルを絞り、被探知の可能性を低減しろ。\
+\
+前方のヘリコプターが赤外線フレアを投下しているのが見えるはずだ。フレアによって多くの赤外線誘導ミサイルの命中精度を低下させる。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_sortie_5"] = "Rising Squall Tutorial: M02 IRミサイル対抗措置",
+	["DictKey_ActionText_55"] = "フリーフライトだ。フレームで示されたエリアへ向かい、赤外線誘導ミサイルの回避を訓練しろ。",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_63"] = "ホットキー（初期設定）\
+Dispense Switch: [D]",
+	["DictKey_ActionText_67"] = "",
+	["DictKey_ActionText_48"] = "",
+	["DictKey_ActionText_45"] = "",
+	["DictKey_ActionText_28"] = "備えろ。右前方を監視しろ。",
+	["DictKey_ActionText_51"] = "被弾した！やられたな。[Shift + R] を押してミッションを再開しろ。もう一度やるぞ。\
+\
+[ESC] を押して終了することもできる。",
+	["DictKey_ActionText_22"] = "",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_20"] = "戦場では、どのミサイルが自機を狙ってくるのか、どれがそうでないのかを識別する必要がある。次のようなものだ……\
+\
+[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_9"] = "",
+	["DictKey_descriptionText_1"] = "このコースでは、赤外線誘導ミサイルによる攻撃への対処方法と、フレア投下によるIRミサイル対抗措置について学ぶ。",
+	["DictKey_ActionText_71"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_50"] = "",
+	["DictKey_ActionText_16"] = "",
+	["DictKey_ActionText_26"] = "右側に注意しろ！ミサイル 2 発を確認。\
+\
+心配するな。現時点では被弾しない。ミサイル・スモークの軌跡から進行方向を判断できる。軌跡が徐々に自機へ向かい、直線的に接近してくる場合、そのミサイルは自機を攻撃してくる可能性が高い。一方、左側のように軌跡が自機を向いていないミサイルは脅威ではない。\
+\
+[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_70"] = "",
+	["DictKey_ActionText_57"] = "",
+	["DictKey_ActionText_42"] = "",
+} -- end of dictionary
