@@ -1,0 +1,98 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "[A/G] メインモードボタンを押して空対地モードに切り替えろ。",
+	["DictKey_ActionText_34"] = "[TOO] モードでは、目標座標は戦闘機のセンサー、例えばレーダーやターゲティングポッドなどで照準された地上位置、または地上に設定されたウェイポイントになる。他の講義でレーダーやポッドの使い方は学べる。ここでは、ウェイポイントへの攻撃方法だけ理解しておけ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_40"] = "HSI 画面の右下を見ろ。光っている [WPDSG] (weapon designation)ボタンをクリックして、現在選択している Waypoint 2 を兵器の目標点(TGT) として指定しろ。解除したい場合は、スティックの [Undesignate / nosewheel steering] ボタンを押せ。\
+\
+Waypoint 2 が目標として設定されていることを確認しろ。完了したら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_67"] = "",
+	["DictKey_ActionText_76"] = "Tip: [F6] キーでミサイル視点を表示し、[F1] キーで機体視点へ戻ることができる。",
+	["DictKey_ActionText_36"] = "視線を隣の画面に移せ。カラー多機能ディスプレイだ。現在は HSI、つまり水平状況表示になっている。ここで目標を選択する。\
+\
+HSI 画面左側の光っている [MODE] ボタンを何度かクリックして、HSI の地図背景表示をオン/オフしろ。見やすい状態に調整しろ。\
+完了後に続行するには、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_66"] = "",
+	["DictKey_ActionText_58"] = "Bomb's Pickle!\
+\
+この後、機体は目標上空に留まる必要はない。慣性誘導爆弾は継続的な誘導や操作を必要とせず、自動で目標に向かって飛行する。\
+\
+離脱してもいいし、他の兵装に切り替えて別の目標を攻撃してもいい。やってみろ。",
+	["DictKey_ActionText_70"] = "",
+	["DictKey_ActionText_65"] = "",
+	["DictKey_ActionText_38"] = "HSI の右側と上部の矢印で \"前\" または \"次\" のウェイポイントを選択できる。これは \"ナビゲーション\" コースで学んでいるはずだ。\
+\
+現在、射撃場の前方に 4 つの目標が設定されており、それぞれ Waypoint 2、3、4、5 に対応している。\
+\
+Waypoint 2 を選択した後、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_68"] = "",
+	["DictKey_ActionText_52"] = "急ぎすぎだ。まだ爆弾の較正が終わっていない。少しの間、辛抱して待て。",
+	["DictKey_ActionText_44"] = "HUDに戻れ。\"◇\" のマークが表示されているのが分かるはずだ。これは目標点の位置、つまりこの場合は Waypoint 2 の位置だ。兵器を投下する際は、この位置に機体を合わせるのが基本だ。爆弾の補正角を小さくできる。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_31"] = "",
+	["DictKey_ActionText_74"] = "",
+	["DictKey_ActionText_69"] = "",
+	["DictKey_ActionText_46"] = "HUD の右下を見ると、TGT と表示された数値があるはずだ。これは現在の機体と目標との距離を示している。機体が射程内に入ると、その上に \"IN RNG\" という表示が出る。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_15"] = "",
+	["DictKey_ActionText_75"] = "Weapon Release Button: [LAlt + SPACEBAR]",
+	["DictKey_ActionText_6"] = "よく戻ってきたな新入り。訓練の続きだ。今日は慣性誘導爆弾の配達について教える。\
+\
+我々の F/A-18 Hornet 戦闘機には、主に 2 種類の慣性誘導爆弾がある。一つは長距離を滑空できるタイプで、JSOW (Joint Standoff Weapon) と呼ばれ、 AGM-154A と AGM-154C という2種類の戦闘部門を持っている。もう1つは通常爆弾を改造したもので、JDAM (Joint Direct Attack Munition)と呼ばれ、対応するサイズはGBU-38、GBU-31、GBU-32などのモデルがある。これらの慣性誘導兵器は発射後の操作に関係なく、固定目標を正確に攻撃する特性を持っている。これはお前がよく使用する装備のひとつになる。\
+\
+準備ができたら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_48"] = "現時点では、まだ目標まで距離がある。[SPACEBAR] を押して機体の操作を引き継ぎ、目標に向かって飛行を続けろ。",
+	["DictKey_ActionText_24"] = "光っている [EFUZ] ボタンをクリックして電子信管メニューを開け。",
+	["DictKey_ActionText_13"] = "今日は JSOW と JDAM の 2 種類の通常兵器を搭載している。基本的な運用方法はほぼ同じだ。\
+\
+アップロードしたページの武器選択ボタンに注目しろ。JSC (AGM-154 JSOW-C)と。J-82 (Mk-82 爆弾を改修した GBU-38 JDAM)を搭載した例を示す。理解は難しくないはずだ。他のモデルも同様だ。\
+では JSOW を例にして説明する。[JSC] をクリックして選択しろ。",
+	["DictKey_ActionText_28"] = "",
+	["DictKey_ActionText_54"] = "",
+	["DictKey_ActionText_12"] = "[A/G] メインモードボタンを押して空対地モードに切り替えろ。",
+	["DictKey_ActionText_29"] = "先ほどの手順に従って各パイロンの他の爆弾も設定する必要がある。光っている [STEP] ボタンをクリックすれば、他の同種兵装に切り替えられる。\
+\
+さっき説明した通りに、他の爆弾のモードと信管も設定しろ。完了したら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_63"] = "",
+	["DictKey_ActionText_26"] = "電子信管メニューで、光っている [INST] オプションを選択してクリックしろ。信管を即発に設定し、爆弾を有効化しろ。デジタル表示の左下で爆弾のパラメータが変化するのが確認できるはずだ。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_sortie_5"] = "Rising Squall Tutorial: M00 INS誘導爆弾",
+	["DictKey_ActionText_56"] = "よし、爆弾の較正は完了した。続けるぞ。",
+	["DictKey_ActionText_22"] = "",
+	["DictKey_descriptionText_1"] = "このコースでは、GBU-31、GBU-38 JDAM、AGM-154 JSOW などの INS 誘導爆弾 (TOO + Waypoint モード) の基本的な発射方法を学びます。これらの兵器は、固定目標への攻撃に非常に効果的です。",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_20"] = "慣性誘導兵器を選択すると画面左上に較正時間のカウントダウンが表示されるのが分かるはずだ。カウントダウンが完了するまで待て。\
+\
+この間に、爆弾の基本パラメータを設定する。\
+\
+左上の [MODE] ボタンを繰り返し押して、PP と TOO の 2 つの攻撃モードを切り替えろ。モードを [TOO]、つまり機体目標モードに変更し、完了したら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_60"] = "目標命中、よくやった！\
+\
+どうやらこの操作は習得したようだな。残りの兵装を自由に選び、残りの目標（残りのウェイポイント）をすべて破壊しろ。",
+	["DictKey_ActionText_18"] = "",
+	["DictKey_ActionText_71"] = "全目標撃破、よくやった！\
+\
+休憩に入れ！",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_50"] = "You have control!\
+\
+JSOW を正しく選択していれば、JDAM ではなく、数秒で目標は射程内に入る。その時点でスティックの [Weapon Release Button] を押せば、AGM-154C を投下できる。もちろん、JDAM を選んでいる場合は、もっと目標に接近する必要がある。",
+	["DictKey_ActionText_64"] = "",
+	["DictKey_ActionText_32"] = "簡単だろう。設定は全部終わったな？\
+\
+では次に、これらの爆弾に目標を割り当てる。慣性誘導爆弾の攻撃目標は通常、座標情報に変換する必要がある。つまり固定目標にしか使えないということだ。PP モードでは、この目標を攻撃する前に対応する座標情報を飛行制御コンピュータに入力しておく必要がある。これは少し面倒だ。\
+だから今日は、より簡単な [TOO] モードを使う。\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_8"] = "お前はもうこれに慣れているはずだ。明るく表示されている [Master Arm Switch] がARM位置に設定されていることを確認しろ。\
+\
+準備ができたら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_62"] = "",
+	["DictKey_ActionText_42"] = "HSI 画面で、Waypoint 2 の位置に円形の範囲が表示されているのに気づいたはずだ。これは現在の目標情報に基づいて計算された兵器投下可能範囲、つまり選択した爆弾の射程だ。この範囲内に機体が入って投下すれば、目標に命中させることができる。\
+\
+飛行高度や速度が高いほど、この範囲も広がる。\
+\
+[SPACEBAR] を押して続行しろ。",
+} -- end of dictionary

@@ -1,0 +1,235 @@
+dictionary = 
+{
+	["DictKey_WptName_80"] = "",
+	["DictKey_UnitName_89"] = "",
+	["DictKey_UnitName_52"] = "单位 #031",
+	["DictKey_ActionText_208"] = "",
+	["DictKey_ActionText_162"] = "",
+	["DictKey_ActionText_121"] = "",
+	["DictKey_ActionText_223"] = "",
+	["DictKey_GroupName_17"] = "新车辆群组",
+	["DictKey_UnitName_26"] = "单位 #009",
+	["DictKey_UnitName_62"] = "单位 #040",
+	["DictKey_ActionText_155"] = "他の空対地兵装と同じく、まず SMS ページで兵器を選ぶ必要がある。左 DDI 左上の HARM ボタンを押して AGM-88 を選択しろ。必要ならもう一度押して選択を解除できるが、今はそのままでいい。\
+\
+左 DDI の [HARM] を押してミサイルを有効化しろ。",
+	["DictKey_ActionText_132"] = "機体には現在 AGM-88 HARM が 4 発搭載されている。今日は訓練だから弾数制限はない。好きなだけ撃て。空中で再装填できるのは極めて科学的だから安心しろ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_UnitName_39"] = "单位 #020",
+	["DictKey_UnitName_7"] = "EWR",
+	["DictKey_ActionText_128"] = "",
+	["DictKey_UnitName_25"] = "单位 #008",
+	["DictKey_ActionText_182"] = "Missile hit、よくやった！",
+	["DictKey_UnitName_20"] = "单位 #003",
+	["DictKey_WptName_43"] = "",
+	["DictKey_ActionText_117"] = "AGM-88 HARM は、SEAD または DEAD 任務向けの長距離超音速空対地ミサイルである。対空ユニットはレーダーを失えば、目隠しされた鉄くず同然だ。\
+\
+HARM を使うには、まず空対地モードに入る必要がある。\
+\
+ハイライトされた [A-G] ボタンを押して、空対地モードを有効化しろ。",
+	["DictKey_ActionText_228"] = "残念だ、ミサイルが外れた！今教えた手順を繰り返して、もう 1 発撃ってみろ。",
+	["DictKey_ActionText_211"] = "",
+	["DictKey_UnitName_87"] = "",
+	["DictKey_sortie_5"] = "Rising Squall Tutorial: M00 AGM-88 HARM TOOモード",
+	["DictKey_GroupName_44"] = "新车辆群组 #002",
+	["DictKey_ActionText_146"] = "",
+	["DictKey_ActionText_142"] = "",
+	["DictKey_GroupName_6"] = "新车辆群组",
+	["DictKey_UnitName_36"] = "单位 #017",
+	["DictKey_ActionText_187"] = "残念だ、ミサイルが外れた！今教えた手順を繰り返して、もう 1 発撃ってみろ。",
+	["DictKey_ActionText_173"] = "TOO モードでは、機首前方にある目標にしかロックオンできない。目標を探知したら、機体をその方向へ向けろ。後で自分で飛ばす時、この私的な助言がかなり役立つはずだ。\
+\
+SA-8 レーダーをロックしたら、[Weapon Release] を押してミサイルを発射しろ。",
+	["DictKey_UnitName_74"] = "飞行员 #002",
+	["DictKey_ActionText_181"] = "ミサイルが目標へ接近中だ！キーボードの [F6] を押せば飛翔経路を確認できる。まあ……それは Uriel-Tartous Republic の機密技術だ……詳しいことは聞くな。",
+	["DictKey_UnitName_61"] = "单位 #039",
+	["DictKey_ActionText_126"] = "",
+	["DictKey_GroupName_30"] = "新车辆群组 #001",
+	["DictKey_ActionText_144"] = "画面に何も出ていないと思うかもしれないが、それで正常だ。ミサイルは攻撃前に電波放射を検出する必要がある。つまり、敵対空ユニットのレーダーが作動している時しか見えない。中央の十字は HARM の基準照準点だ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_UnitName_49"] = "单位 #028",
+	["DictKey_WptName_66"] = "",
+	["DictKey_ActionText_225"] = "",
+	["DictKey_WptName_8"] = "",
+	["DictKey_UnitName_48"] = "单位 #027",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_UnitName_38"] = "单位 #019",
+	["DictKey_UnitName_57"] = "单位 #035",
+	["DictKey_UnitName_31"] = "单位 #012",
+	["DictKey_ActionText_125"] = "",
+	["DictKey_ActionText_137"] = "",
+	["DictKey_ActionText_212"] = "",
+	["DictKey_WptName_75"] = "",
+	["DictKey_UnitName_27"] = "单位 #010",
+	["DictKey_ActionText_152"] = "",
+	["DictKey_UnitName_23"] = "单位 #006",
+	["DictKey_UnitName_46"] = "单位 #025",
+	["DictKey_UnitName_93"] = "",
+	["DictKey_ActionText_210"] = "違う目標だ……。難しく考えるな。落ち着いて正しい目標を選び、もう一度撃て。",
+	["DictKey_ActionText_192"] = "",
+	["DictKey_ActionText_218"] = "",
+	["DictKey_UnitName_95"] = "",
+	["DictKey_UnitName_50"] = "单位 #029",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_133"] = "",
+	["DictKey_ActionText_207"] = "",
+	["DictKey_ActionText_165"] = "",
+	["DictKey_ActionText_199"] = "",
+	["DictKey_UnitName_59"] = "单位 #037",
+	["DictKey_UnitName_60"] = "单位 #038",
+	["DictKey_UnitName_19"] = "单位 #002",
+	["DictKey_ActionText_215"] = "",
+	["DictKey_ActionText_252"] = "Tip: [F6] キーでミサイル視点を表示し、[F1] キーで機体視点へ戻ることができる。",
+	["DictKey_ActionText_214"] = "",
+	["DictKey_ActionText_203"] = "",
+	["DictKey_ActionText_129"] = "",
+	["DictKey_ActionText_122"] = "",
+	["DictKey_UnitName_94"] = "",
+	["DictKey_WptName_81"] = "",
+	["DictKey_ActionText_158"] = "レーダーを 1 基作動させた。左 DDI のハイライト位置に \"S\" が見えるはずだ。\"S\" は search radar を示す記号で、これはまだ積極的な脅威ではないため目標ではない。\
+\
+この記号には四角い選択枠も見えるはずだ。これは HARM が現在その目標を選択していることを意味する。HUD にも四角いマークが表示され、おおよその位置が示される。これで HUD を見ればレーダー位置を簡単に把握できる。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_115"] = "よく聞け、新人。私は Chris Noa、コールサイン Bishop、B&P 社の作戦指揮官だ。今日は F/A-18C Hornet の対レーダーミサイルの使い方を教える。\
+\
+準備ができたら [SPACEBAR] を押して続行しろ。",
+	["DictKey_UnitName_15"] = "",
+	["DictKey_ActionText_202"] = "Magnum! ミサイルは目標へ向かっている！",
+	["DictKey_UnitName_11"] = "TGT3",
+	["DictKey_ActionText_184"] = "",
+	["DictKey_UnitName_51"] = "单位 #030",
+	["DictKey_UnitName_35"] = "单位 #016",
+	["DictKey_UnitName_45"] = "单位 #024",
+	["DictKey_ActionText_141"] = "",
+	["DictKey_ActionText_206"] = "",
+	["DictKey_UnitName_9"] = "TGT1",
+	["DictKey_ActionText_224"] = "",
+	["DictKey_UnitName_58"] = "单位 #036",
+	["DictKey_ActionText_164"] = "HARM 表示上で、まず \"8\" を目標として選ぶ必要がある。最初に左 DDI へ HOTAS 操作権を渡す。[Sensor Control Switch - Left] を押して、左 DDI を HOTAS 操作画面に設定しろ。\
+操作権が正常に渡ると、左 DDI 右上に小さなダイヤが表示される。\
+\
+ダイヤが見えたら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_229"] = "Your have control!",
+	["DictKey_UnitName_92"] = "",
+	["DictKey_UnitName_28"] = "单位 #011",
+	["DictKey_WptName_98"] = "",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_UnitName_83"] = "单位 #004",
+	["DictKey_UnitName_63"] = "单位 #041",
+	["DictKey_UnitName_65"] = "",
+	["DictKey_UnitName_54"] = "单位 #033",
+	["DictKey_ActionText_231"] = "よくやった！敵防空を制圧した。ミッション成功だ！",
+	["DictKey_ActionText_222"] = "",
+	["DictKey_descriptionText_1"] = "AGM-88 HARM (High-speed Anti-Radiation Missile) は、F/A-18C Hornet が SAM システムやレーダー装置を攻撃、または制圧するために使用する兵器である。このコースでは、HARM TOO モード (Target Of Opportunity) を使い、敵防空装置を捜索して破壊する手順を学ぶ。",
+	["DictKey_UnitName_88"] = "",
+	["DictKey_UnitName_42"] = "单位 #023",
+	["DictKey_ActionText_124"] = "",
+	["DictKey_WptName_79"] = "",
+	["DictKey_ActionText_140"] = "再次点击【TOO】功能项设置武器的投放模式。",
+	["DictKey_GroupName_82"] = "新舰船群组",
+	["DictKey_ActionText_226"] = "",
+	["DictKey_ActionText_204"] = "",
+	["DictKey_ActionText_221"] = "",
+	["DictKey_ActionText_156"] = "",
+	["DictKey_ActionText_174"] = "",
+	["DictKey_ActionText_233"] = "機体が故障しているようだ……もう一度やり直してみろ。\
+\
+キーボードの [Shift+R] でミッションを再開できる。",
+	["DictKey_ActionText_191"] = "おい、それは違う目標だ。弾をガラクタに無駄撃ちするな。覚えておけ、SA-8 は右側だ。",
+	["DictKey_ActionText_248"] = "ホットキー（初期設定）\
+Sensor Controller Switch - Left: [RAlt + ,]",
+	["DictKey_UnitName_33"] = "单位 #014",
+	["DictKey_UnitName_32"] = "单位 #013",
+	["DictKey_ActionText_167"] = "スロットルの [RAID/FLIR] を押すと、2 つの目標を切り替えられる。\
+\
+SA-8 レーダーを目標として選択し、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_168"] = "",
+	["DictKey_UnitName_55"] = "单位 #034",
+	["DictKey_GroupName_73"] = "新飞机群组 #001",
+	["DictKey_WptName_70"] = "",
+	["DictKey_WptName_78"] = "",
+	["DictKey_WptName_77"] = "",
+	["DictKey_ActionText_176"] = "Magnum! ミサイルは目標へ向かっている！\
+\
+HUD に測距情報や \"INRNG\"、\"IN ZONE\" の表示がないことに気づいたかもしれない。AGM-88 HARM は目標までの距離を測定できないためだ。だが心配はいらない。射程は非常に長く、場合によっては 70NM 以上先の目標にも届く。速度が速く、高度が高いほど射程は伸びる。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_251"] = "ホットキー（初期設定）\
+Weapon Release Button: [LAlt + SPACEBAR]",
+	["DictKey_ActionText_250"] = "ホットキー（初期設定）\
+Cage/Uncage: [C]",
+	["DictKey_ActionText_148"] = "左 DDI 左上の \"STA\" 表示は、現在どのステーションが選択されているかを示す。デフォルトでは最も右の Station 8 が選択されている。ハイライトされた [STEP] ボタンで各ステーションを切り替えられる。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_UnitName_21"] = "单位 #004",
+	["DictKey_UnitName_41"] = "单位 #022",
+	["DictKey_ActionText_197"] = "新しい目標を起動した！学んだことを見せてみろ！",
+	["DictKey_UnitName_90"] = "",
+	["DictKey_ActionText_145"] = "",
+	["DictKey_ActionText_151"] = "",
+	["DictKey_ActionText_200"] = "",
+	["DictKey_ActionText_161"] = "先ほどの \"S\" 記号の左側で、別のレーダーが作動した。ハイライト位置に \"8\" の記号が見えるはずだ。これは SA-8 SAM ランチャーを示し、短距離防空システムだ。これが今回の目標だが、まだ選択されていない。\
+\
+RWR (Radar Warning Receiver) はレーダー種別を識別できる。機体に対する本当の脅威を見分けるのに役立つ。詳しくはこの訓練の後で Matt に聞け。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_UnitName_24"] = "单位 #007",
+	["DictKey_ActionText_134"] = "",
+	["DictKey_ActionText_195"] = "",
+	["DictKey_UnitName_53"] = "单位 #032",
+	["DictKey_GroupName_86"] = "",
+	["DictKey_ActionText_136"] = "よくやった！左 DDI が AGM-88 HARM の照準画面になったはずだ。左上の 2 つのボタンで HARM の攻撃モードを切り替えられる。SP は self-protection 用で、今日は TOO (target of opportunity) モードを使う。こちらの方が既知の脅威に対してより正確な攻撃解を与えられる。\
+\
+[TOO] の横にあるハイライトされたボタンを押せ。",
+	["DictKey_ActionText_170"] = "目標を選択したら、スロットルの [CAGE/UNCAGE] を押してロックオンしろ。ロックされると、目標の選択枠の下に \"H-OFF\" が表示される。間違った目標をロックした場合は、[CAGE/UNCAGE] を押して解除し、正しい目標へ切り替えろ。\
+\
+SA-8 レーダーをロックし、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_235"] = "注意しろ、目標に近づきすぎている。地対空ミサイルの射程に入るな。HARM の長射程を活かせ。",
+	["DictKey_ActionText_159"] = "",
+	["DictKey_UnitName_91"] = "",
+	["DictKey_WptName_84"] = "",
+	["DictKey_UnitName_18"] = "单位 #001",
+	["DictKey_ActionText_188"] = "",
+	["DictKey_UnitName_22"] = "单位 #005",
+	["DictKey_ActionText_179"] = "",
+	["DictKey_GroupName_64"] = "",
+	["DictKey_UnitName_34"] = "单位 #015",
+	["DictKey_ActionText_120"] = "空対地モードを有効にすると、左画面 (左DDI) は兵装表示ページ SMS に入り、右画面は A/G レーダーページに入る。左右の画面は同じ機能を持つため、いつでも表示ページを切り替えられる。\
+\
+今日は主に左画面 (左DDI) を使う。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_WptName_76"] = "",
+	["DictKey_WptName_29"] = "",
+	["DictKey_ActionText_130"] = "",
+	["DictKey_ActionText_213"] = "",
+	["DictKey_ActionText_216"] = "",
+	["DictKey_ActionText_194"] = "よくやった、新人。最初の目標は片付いた。準備ができたら、もう 1 基の SA-8 を起動する。捜索レーダーの左側に配置してある。\
+\
+準備ができたら [SPACEBAR] を押せ。",
+	["DictKey_UnitName_37"] = "单位 #018",
+	["DictKey_ActionText_171"] = "",
+	["DictKey_UnitName_47"] = "单位 #026",
+	["DictKey_UnitName_97"] = "",
+	["DictKey_ActionText_249"] = "ホットキー（初期設定）\
+RAID/FLIR: [I]",
+	["DictKey_UnitName_10"] = "TGT2",
+	["DictKey_ActionText_185"] = "",
+	["DictKey_ActionText_177"] = "",
+	["DictKey_ActionText_153"] = "",
+	["DictKey_UnitName_96"] = "",
+	["DictKey_UnitName_40"] = "单位 #021",
+	["DictKey_ActionText_118"] = "",
+	["DictKey_ActionText_220"] = "素晴らしい！ 2 基とも仕留めたな。正直、感心した！\
+\
+ここからは自由練習だ。Waypoint 2 周辺に対空システム一式を配置してある。行って片付けてこい！\
+\
+出発準備ができたら [SPACEBAR] を押せ。その後、お前に機体の操縦を渡す。",
+	["DictKey_WptName_56"] = "",
+	["DictKey_ActionText_138"] = "",
+	["DictKey_ActionText_149"] = "",
+	["DictKey_ActionText_189"] = "",
+} -- end of dictionary

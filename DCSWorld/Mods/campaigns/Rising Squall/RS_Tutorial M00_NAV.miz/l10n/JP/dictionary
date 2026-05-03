@@ -1,0 +1,130 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_112"] = "",
+	["DictKey_ActionText_103"] = "機首方位を西 270 度へ向け、5秒以上直進を維持しろ。",
+	["DictKey_ActionText_121"] = "Waypoint 5 を通過。",
+	["DictKey_ActionText_55"] = "操縦を引き継げ。機首を Waypoint へ向け、水平を保って直進しろ。",
+	["DictKey_ActionText_120"] = "",
+	["DictKey_ActionText_26"] = "",
+	["DictKey_ActionText_38"] = "",
+	["DictKey_ActionText_68"] = "",
+	["DictKey_ActionText_105"] = "",
+	["DictKey_ActionText_91"] = "降下しすぎだ。高度に注意し、15,000 ft を維持しろ。",
+	["DictKey_ActionText_132"] = "",
+	["DictKey_ActionText_31"] = "よし。では HSI ページ下部の操作を続ける。ハイライトされた [SEQ1] ボタンを繰り返し押し、HSI 上にルート情報を表示しろ。\
+\
+[SEQ1] をボックス選択し、ルートが表示されたことを確認したら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_57"] = "",
+	["DictKey_ActionText_85"] = "You have control.",
+	["DictKey_ActionRadioText_15"] = "",
+	["DictKey_ActionText_61"] = "上がりすぎだ。高度に注意し、15,000 ft を維持しろ。",
+	["DictKey_ActionText_107"] = "",
+	["DictKey_ActionText_136"] = "",
+	["DictKey_ActionText_24"] = "右側の画面に中央ディスプレイと同じ情報が表示されていることに気付いたはずだ。3 枚の表示装置はほぼ同じ機能を持ち、ほとんどの情報はどの画面でも操作できる。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_117"] = "Waypoint 4 を通過。",
+	["DictKey_ActionText_140"] = "",
+	["DictKey_ActionText_130"] = "",
+	["DictKey_ActionRadioText_14"] = "",
+	["DictKey_ActionRadioText_129"] = "跳过介绍",
+	["DictKey_ActionComment_11"] = "DictKey_ActionComment_11",
+	["DictKey_descriptionText_1"] = "どんな飛行でも進路を見失ってはならない。この講義では、F/A-18C の HSI を使って自機の進行方向と目標、Waypoint の位置を把握する方法を学ぶ。",
+	["DictKey_ActionText_100"] = "",
+	["DictKey_ActionText_27"] = "では前方を見ろ。HUD 上部にも方位目盛りが表示されている。逆三角形の矢印 (∧) は機首方位を示している。現在の機首方位は 080 度だ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_109"] = "Waypoint 1 を通過。",
+	["DictKey_ActionText_106"] = "",
+	["DictKey_ActionText_8"] = "戦うには方位と目標把握が必要だ。自分の位置も目標も分からないなら、さっさと離脱しろ。ここに遊兵の居場所はない。まずは HSI ページを使った航法だ。今から手順を指示する。\
+\
+準備ができたら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_82"] = "今度は機首方位 270 度、つまり真西へ向けろ。\
+\
+準備ができたら [SPACEBAR] を押して操縦を引き継げ。",
+	["DictKey_ActionText_12"] = "",
+	["DictKey_ActionText_20"] = "いいぞ。HSI ページに入った。だが操作のために表示を変更する。下を見ろ。派手で見づらい地図が見えるな。あれも HSI ページだ。左側のハイライトされたボタンを押せ。",
+	["DictKey_sortie_5"] = "Rising Squall Tutorial: M00 ナビゲーション",
+	["DictKey_ActionText_126"] = "では右または下画面の HSI ページを見ろ。中央には大きな円があり、360 度の円形方位盤として表示されている。右上の目盛りが現在の飛行方位で、見慣れたコンパスと同じだ。N は北、E は東、S は南、W は西を示す。コンパスの方位数字は 10 度単位だ。たとえば 12 は 120 度を意味する。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_134"] = "",
+	["DictKey_ActionText_45"] = "よし。次は右上のハイライトされた [WYPT] ボタンを押して、選択中の Waypoint を表示対象として指定しろ。\
+\
+WYPT が選択されたことを確認したら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_22"] = "よし。もう一度ハイライトされたボタンを押し、どう変わるか確認しろ。",
+	["DictKey_ActionText_64"] = "速度が遅すぎる。旋回中は抵抗増加を補うため推力を足せ。速度は 250 kt (IAS) 以上を維持しろ。",
+	["DictKey_ActionText_76"] = "",
+	["DictKey_ActionText_42"] = "",
+	["DictKey_ActionText_115"] = "",
+	["DictKey_ActionText_16"] = "右側のディスプレイを見ろ。画面下中央のボタンが [Main menu] だ。押すたびに別ページへ切り替わる。ボタン上部に SUPT が表示されるまで押し続けろ。\
+\
+完了したら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_58"] = "降下しすぎだ。高度に注意し、15,000 ft を維持しろ。",
+	["DictKey_ActionText_50"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_71"] = "",
+	["DictKey_ActionText_41"] = "",
+	["DictKey_ActionText_18"] = "SUPT ページ左下に HSI の 3 文字が見えるはずだ。対応するボタンを押してそのページへ入れ。",
+	["DictKey_ActionText_52"] = "次に一時停止を解除する。機体を右へ旋回させ、Waypoint 2 へ向けろ。\
+\
+準備ができたら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_87"] = "",
+	["DictKey_ActionText_44"] = "",
+	["DictKey_ActionText_116"] = "",
+	["DictKey_ActionText_69"] = "機体を Waypoint 2 へ向けろ。",
+	["DictKey_ActionText_135"] = "",
+	["DictKey_ActionText_137"] = "自由飛行を開始する。",
+	["DictKey_ActionText_90"] = "",
+	["DictKey_ActionText_29"] = "HSI ページへ戻り、12 時方向が 080 度になっているか確認しろ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_88"] = "機首方位が 270 度、つまり真西になるまで旋回を続けろ。その後、機体を水平に戻し、5秒間直進しろ。",
+	["DictKey_ActionText_72"] = "悪くない。Waypoint 2 に到達した。ここで再び一時停止する。次は Waypoint 番号ではなく方位を指示する。今学んだ内容で対処してみろ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_37"] = "",
+	["DictKey_ActionText_66"] = "",
+	["DictKey_ActionText_101"] = "よし。これでナビゲーション課程は完了だ。判断が速いのは良い資質だ。生き残る者は頭の回転が速い。ここからは自由練習とする。他の航法点へ向かってもいいし、ミッションを終了してもいい。選ぶのは君だ。",
+	["DictKey_ActionText_6"] = "B&P フライトスクールへようこそ、新人。歓迎する。私が教官だ。これから君に、B&P のパイロットになるための手順を体系的に教える。まずはナビゲーションだ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_48"] = "Waypoint を指定すると、HSI 上では円でマークされ、機体の右およそ 45 度方向に見えるはずだ。HUD を見ると右下に「W2」が表示される。これは Waypoint 2 を示し、左の数字はそこまでの距離だ。さらに方位目盛りの下には、航法点の方向を示す太い縦線も表示される。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_123"] = "",
+	["DictKey_ActionText_78"] = "",
+	["DictKey_ActionText_81"] = "",
+	["DictKey_ActionText_67"] = "",
+	["DictKey_ActionText_111"] = "",
+	["DictKey_ActionText_39"] = "その調子だ。これでルート情報が見えたはずだ。上部中央の [SCL/40] に注目しろ。これは機体を中心とした半径 40NM の表示範囲を示している。繰り返し押すことで表示範囲を変更できる。\
+\
+何度か押して確認し、最後に 40NM へ戻したら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_47"] = "",
+	["DictKey_ActionText_54"] = "",
+	["DictKey_ActionText_94"] = "上がりすぎだ。高度に注意し、15,000 ft を維持しろ。",
+	["DictKey_ActionText_98"] = "速度が遅すぎる。旋回中は抵抗増加を補うため推力を足せ。速度は 250 kt (IAS) 以上を維持しろ。",
+	["DictKey_ActionText_63"] = "",
+	["DictKey_ActionText_74"] = "",
+	["DictKey_ActionText_36"] = "",
+	["DictKey_ActionText_97"] = "",
+	["DictKey_ActionText_80"] = "",
+	["DictKey_ActionText_33"] = "次は具体的な Waypoint を選ぶ。ハイライトされた 2 つのボタンが「前」と「次」を選ぶ機能だ。押して目的の Waypoint を順に切り替えろ。上下矢印の間の数字が現在選択中の航法点を示している。Waypoint 2 を選べ。\
+\
+Waypoint 2 を選んだら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_51"] = "",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_113"] = "Waypoint 3 を通過。",
+	["DictKey_ActionText_60"] = "",
+	["DictKey_ActionText_124"] = "",
+	["DictKey_ActionText_77"] = "",
+	["DictKey_ActionText_93"] = "",
+	["DictKey_ActionText_133"] = "",
+	["DictKey_ActionText_35"] = "",
+	["DictKey_ActionText_96"] = "",
+	["DictKey_ActionText_119"] = "",
+	["DictKey_ActionText_84"] = "",
+	["DictKey_ActionRadioText_13"] = "",
+} -- end of dictionary

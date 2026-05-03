@@ -1,0 +1,214 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "首先，你需要开启你的【武器保险】。将你左前方的高亮开关向上打开至【ARM】的位置。打开保险是你战斗的第一步。\
+\
+确认你的保险已经向上打开并按【空格键】继续。",
+	["DictKey_ActionText_29"] = "注意看，在当前的 SA 界面中包含了许多目标，绿色的圆形目标就是友军，红色的菱形目标就是敌军。而黄色的方形目标则是尚未识别的目标。\
+\
+按【空格键】继续。",
+	["DictKey_ActionText_186"] = "ホットキー（初期設定）\
+Weapon Selection Switch - Press: [LShift + S]",
+	["DictKey_ActionText_121"] = "",
+	["DictKey_ActionText_19"] = "现在，你可以看到游标左右两侧出现了一组数字。左侧的数字 0.2 代表该目标当前是 0.2 马赫的速度，右侧的数字 15 代表该目标的高度为 15 千英尺，也就是 15000 英尺。每个图标都有一个小箭头，表示了这个目标当前的飞行方向。\
+\
+按【空格键】继续。",
+	["DictKey_ActionText_155"] = "",
+	["DictKey_ActionText_101"] = "FOX2!",
+	["DictKey_ActionText_160"] = "",
+	["DictKey_ActionText_116"] = "",
+	["DictKey_ActionComment_65"] = "DictKey_ActionComment_65",
+	["DictKey_ActionText_57"] = "观察【摇杆】面向机头的一侧，那里有一个红色的扳机。\
+\
+确认你已经选择了一枚导弹，现在，扣动【扳机】发射导弹。",
+	["DictKey_ActionText_85"] = "次に、ハイライトされたモード選択ボタン [A/A] をクリックし、空対空メインモードに入れ。",
+	["DictKey_ActionText_128"] = "",
+	["DictKey_ActionText_11"] = "接着，点击主保险上面高亮的【A/A】，你就能进入空对空模式。如果你想和别的战机激情交火，就必须使用【A/A】。",
+	["DictKey_ActionText_182"] = "ホットキー（初期設定）\
+Sensor Controller Switch - Up: [RAlt + ;]",
+	["DictKey_ActionText_124"] = "",
+	["DictKey_ActionText_117"] = "",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_sortie_5"] = "Rising Squall Tutorial: M01 ドッグファイト - HMD",
+	["DictKey_ActionText_146"] = "",
+	["DictKey_ActionText_142"] = "",
+	["DictKey_ActionText_104"] = "",
+	["DictKey_ActionText_187"] = "ホットキー（初期設定）\
+Trigger: [SPACEBAR]",
+	["DictKey_ActionText_27"] = "现在，你可以看到游标左右两侧出现了一组数字。左侧的数字 0.2 代表该目标当前是 0.2 马赫的速度，右侧的数字 15 代表该目标的高度为 15 千英尺，也就是 15000 英尺。每个图标都有一个小箭头，表示了这个目标当前的飞行方向。\
+\
+按【空格键】继续。",
+	["DictKey_ActionText_183"] = "ホットキー（初期設定）\
+Sensor Controller Switch - Up: [RAlt + ;]",
+	["DictKey_ActionText_99"] = "ミサイルが目標を認識すると、ヘッドホンからより高いピッチのブザー音が聞こえるはずだ。これはミサイルのシーカーが目標を捕捉したことを示している。ヘルメット装着リング下部に表示される 9X は、HUDと同様に選択中の兵装の種類と数量を示している。\
+\
+[Trigger] を引いてミサイルを発射しろ。",
+	["DictKey_ActionText_181"] = "ホットキー（初期設定）\
+Turn your head Down: [Num2]\
+Turn your head Left: [Num4]\
+Turn your head Right: [Num6]\
+Turn your head Up: [Num8]",
+	["DictKey_ActionComment_15"] = "DictKey_ActionComment_15",
+	["DictKey_ActionText_157"] = "",
+	["DictKey_ActionText_143"] = "",
+	["DictKey_ActionText_67"] = "这一次我们来试试响尾蛇导弹。按下【摇杆】左侧的【对空武器选择开关】来选择 AIM-9X 响尾蛇导弹。\
+\
+选择响尾蛇导弹后，按【空格键】继续。",
+	["DictKey_ActionText_144"] = "",
+	["DictKey_ActionText_168"] = "",
+	["DictKey_ActionComment_18"] = "DictKey_ActionComment_18",
+	["DictKey_ActionText_161"] = "",
+	["DictKey_ActionText_115"] = "",
+	["DictKey_ActionText_16"] = "",
+	["DictKey_ActionText_70"] = "你现在能听到嗡嗡的蜂鸣器声音，这是响尾蛇导弹引导头的工作提示音。当你锁定目标并且引导头识别了目标之后，这个蜂鸣器声的音调将会突然提高。此时你就可以发射导弹了。\
+\
+按【空格键】继续。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionComment_180"] = "",
+	["DictKey_ActionText_125"] = "",
+	["DictKey_ActionComment_24"] = "DictKey_ActionComment_24",
+	["DictKey_ActionText_137"] = "",
+	["DictKey_ActionText_154"] = "",
+	["DictKey_ActionRadioText_170"] = "跳过介绍",
+	["DictKey_ActionComment_61"] = "DictKey_ActionComment_61",
+	["DictKey_ActionText_152"] = "",
+	["DictKey_ActionComment_58"] = "DictKey_ActionComment_58",
+	["DictKey_ActionText_166"] = "",
+	["DictKey_ActionText_54"] = "敌机已经被锁定，你可以在 HUD 的右下角查看到目标的距离。当你飞机对准目标时，目标标记框上方会出现 SHOOT 文字闪烁，同时，在你座舱舱盖右上方也会有发射提示灯亮起，这代表着目标进入了你的射程，且有较高的命中率。\
+\
+按【空格键】继续。",
+	["DictKey_ActionText_123"] = "",
+	["DictKey_ActionText_149"] = "",
+	["DictKey_ActionText_51"] = "很好，接下来你需要瞄准你的敌人。向上拨动中间的大按钮【传感器控制开关】，你会发现在抬头显示器（HUD）中心出现了一个绿色虚线表示的圆圈，这是雷达孔径模式。当一个目标进入这个圈中，且距离你在 5 海里以内时，雷达就会自动锁定这个目标。当目标被锁定后，目标将会被用方框或菱形框标记出。\
+\
+确认正前方的目标已经被锁定后，按【空格键】继续。",
+	["DictKey_ActionComment_20"] = "DictKey_ActionComment_20",
+	["DictKey_ActionText_131"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_133"] = "",
+	["DictKey_ActionText_165"] = "",
+	["DictKey_ActionText_103"] = "",
+	["DictKey_ActionText_73"] = "当你准备好后，按下【空格键】，我将解除飞机的动态暂停，由你控制飞机。在你的前方，还有一架新的敌机出现。利用之前我教你的方法，找到目标并击落它。",
+	["DictKey_ActionComment_12"] = "DictKey_ActionComment_12",
+	["DictKey_ActionText_120"] = "",
+	["DictKey_ActionComment_71"] = "DictKey_ActionComment_71",
+	["DictKey_ActionText_129"] = "",
+	["DictKey_ActionComment_28"] = "DictKey_ActionComment_28",
+	["DictKey_ActionText_105"] = "",
+	["DictKey_ActionText_91"] = "頭を動かして目標に照準を合わせ、レーダーが敵機を照準するようにしろ。ヘルメット捕捉 (HACQ) には2つの状態があり、1つは近距離戦闘用、もう1つは遠距離戦闘用だ。ヘッドサイト起動後、スティック上部中央の [Sensor Controller] スイッチを上に押して、近距離ヘルメット捕捉モードをオンにしろ。すると、ヘルメット装着ディスプレイ中央にボアサイトリングが表示される。右下には HACQ ボアサイトモードに類似した表示が確認できる。このモードでは、レーダーは自機から 5 NM以内のすべての目標を捕捉する。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_31"] = "现在在你的前方不远处，应该有两架敌机标靶和一架友机标靶。\
+\
+准备好后按【空格键】继续，我们将会学习如何使用武器去摧毁目标。",
+	["DictKey_ActionText_158"] = "",
+	["DictKey_ActionText_127"] = "",
+	["DictKey_ActionText_184"] = "ホットキー（初期設定）\
+Undesignate: [S]",
+	["DictKey_ActionText_172"] = "フリーフライトだ。正面の指定目標を撃墜しろ。",
+	["DictKey_ActionText_136"] = "",
+	["DictKey_ActionText_141"] = "",
+	["DictKey_ActionText_140"] = "",
+	["DictKey_ActionText_164"] = "ヒント: ターゲットは残り 1 機です。",
+	["DictKey_ActionText_130"] = "",
+	["DictKey_ActionComment_55"] = "DictKey_ActionComment_55",
+	["DictKey_ActionText_163"] = "",
+	["DictKey_ActionComment_81"] = "DictKey_ActionComment_81",
+	["DictKey_descriptionText_1"] = "Joint Helmet Mounted Cueing System (JHMCS)、または Helmet Mounted Display (HMD)は、F/A-18C 戦闘機に搭載された最新の装備です。パイロットの視線方向にある位置へ火器管制レーダーやミサイルのシーカーを向けることで、「視線 = 目標 (Eyes on Target)」を実現します。これにより、空中戦での反応速度と状況認識が大きく向上します。この講義では、ヘルメット照準システムの基本操作と要領を学びます。",
+	["DictKey_ActionText_108"] = "You have control.\
+\
+目標の探し方は覚えているか？目標の発見を支援するため、SA (状況認識)ページを表示するのを忘れるな。",
+	["DictKey_ActionText_106"] = "Splash Target!\
+\
+よくやった。あの Ming よりもずっと早く操作を習得したな。いい出来だ。これから操縦を引き継ぐ。学んだ技術を使って、残りの 3 機の目標機を攻撃しろ。他の兵装も試していい。なお、ボアサイトや垂直スキャンを使用する場合は、ヘルメット装着リングのノブをOFFに戻すのを忘れるな。これで自由に目標機を攻撃していい。2 機撃墜すれば合格とする！\
+\
+[SPACEBAR] を押してアクティブポーズを終了しろ。",
+	["DictKey_ActionText_139"] = "",
+	["DictKey_ActionText_83"] = "現在、機体はアクティブポーズ中だ。安心してパネル操作を行え。まず、 [Master Arm Switch] が上方向のARM位置に設定されていることを確認しろ。\
+\
+操作が完了たら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionComment_74"] = "DictKey_ActionComment_74",
+	["DictKey_ActionText_156"] = "",
+	["DictKey_ActionComment_32"] = "DictKey_ActionComment_32",
+	["DictKey_ActionComment_77"] = "DictKey_ActionComment_77",
+	["DictKey_ActionText_167"] = "",
+	["DictKey_ActionText_25"] = "下一步，你需要使用【油门】。【油门】的右侧有四个键，前侧有三个键。请尝试拨动前侧最靠右的圆形按钮，并观察下方显示器的屏幕。伴随着你的拨动，将会有一个金色游标不断移动。尝试将金色游标移动到一个红色的目标上。\
+\
+完成后按【空格键】继续。",
+	["DictKey_ActionText_148"] = "",
+	["DictKey_ActionComment_68"] = "DictKey_ActionComment_68",
+	["DictKey_ActionComment_52"] = "DictKey_ActionComment_52",
+	["DictKey_ActionComment_9"] = "DictKey_ActionComment_9",
+	["DictKey_ActionText_145"] = "ヒント: ターゲットは残り 2 機です。",
+	["DictKey_ActionText_93"] = "[Sensor control switch] を上に2秒以上長押ししろ。すると、照準リング右下の表示が LACQ に変わる。これは遠距離ヘルメット捕捉モードで、近距離ヘルメット捕捉モードと同様の機能を持つが、捕捉範囲は約 20 NMまで拡大される。\
+いずれかのヘルメット捕捉モードに入り、その後 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_21"] = "你一定已经注意到了在屏幕中已经有不少信息了，按照我说的做，我将教会你如何读取这些数据。\
+\
+按【空格键】继续。",
+	["DictKey_ActionText_135"] = "",
+	["DictKey_ActionComment_46"] = "DictKey_ActionComment_46",
+	["DictKey_ActionText_185"] = "ホットキー（初期設定）\
+Sensor Controller Switch - Up: [RAlt + ;]",
+	["DictKey_ActionComment_49"] = "DictKey_ActionComment_49",
+	["DictKey_ActionText_97"] = "敵を捕捉した。敵機はボックスで表示される。スティック中央の [Air-to-Air Weapon Selection] スイッチを押して AIM-9X Sidewinder 誘導ミサイルを選択し、発射準備を整えろ。\
+\
+AIM-9X Sidewinder 誘導ミサイルを有効化し、その後 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_80"] = "现在由你控制飞机，在 SA 页面中找到正前方出现的新的目标，然后击落它。",
+	["DictKey_ActionText_151"] = "",
+	["DictKey_ActionText_159"] = "",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_6"] = "空中戦スキル講座 2 へようこそ。この講義では、敵機に照準を合わせる別の方法を説明する。その前に、前回の講義で学んだ内容を実施してみろ。\
+\
+準備が完了したら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_48"] = "我们的飞机目前携带了 AIM-7 和 AIM-9 两种导弹，你可以随意地切换两种武器。选好后，你的抬头显示器下（HUD）方会出现对应的 7M 或者 9X。至于跟在 7M 或者 9X 后面的数字，就是该导弹的数量。\
+\
+现在，请选择 AIM-7M 麻雀导弹后，按【空格键】继续。",
+	["DictKey_ActionComment_26"] = "DictKey_ActionComment_26",
+	["DictKey_ActionText_119"] = "",
+	["DictKey_ActionText_179"] = "",
+	["DictKey_ActionText_17"] = "现在，你已经进入了 TAC 界面。在 TAC 界面的右侧有一个按钮旁写着【SA】，它会帮你分辨敌人和队友。\
+\
+现在，点击高亮的【SA】功能对应按钮。",
+	["DictKey_ActionText_87"] = "今回は高性能な HMD 照準システムを使用して目標の捕捉および攻撃を行う。コックピット右側を確認しろ。ハイライト表示された [HMD Control] ノブを BRT 位置まで回し、電源を入れろ。続いてノブ上部の [IR Cool Switch] が NORM 位置にあることを確認しろ。",
+	["DictKey_ActionText_162"] = "",
+	["DictKey_ActionText_45"] = "首先，你需要选择一种武器。观察摇杆，左侧中间的位置上有一个黑色开关。这就是你的对空武器选择开关。它是一个多向开关，向前推就是选择 AIM-7M 麻雀，向右推可以选择 AIM-120 阿姆拉姆导弹，向后拨可以选择机炮，而按下按键就是选择 AIM-9X 响尾蛇导弹。\
+\
+按【空格键】继续。",
+	["DictKey_ActionText_110"] = "MISSION COMPLETED. 優秀だ。\
+\
+[ESC] を押してミッションを終了しろ。",
+	["DictKey_ActionText_95"] = "よくやった。現在ヘルメット捕捉状態だ。視界内に表示される緑色の点線で構成された円形の照準リングを動かし、周囲の敵機に合わせろ。敵機が照準リング内に入ると自動的にターゲットされる。誤った目標をターゲットした場合は、スティック下部の [Undesignate / nosewheel steering] ボタンを押してターゲットを解除しろ。\
+\
+目標を捕捉し、その後 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_14"] = "接下来，你需要知道敌人在哪里。低头观看中下方的屏幕。看到那个高亮按钮了吗，这是【模式切换按钮】，点击它可以切换这个屏幕进入不同的功能页面。实际上飞机上的三块屏幕的操作都是一样的。现在，请你循环点击该按钮直至按钮上方出现 TAC 的字样。",
+	["DictKey_ActionText_63"] = "",
+	["DictKey_ActionText_23"] = "要让目标的具体信息显示在屏幕中。仔细观察你的【操纵杆】，上方一共有左、中、右三个大按钮。其中，中间的大按钮叫做【传感器控制开关】，用拇指向下拨动该按钮，即可激活下方的屏幕的控制。激活后，该屏幕的右上角会出现一个绿色棱形。\
+\
+使用【传感器控制开关 - 向下】，激活下方屏幕的控制，完成后按【空格键】继续。",
+	["DictKey_ActionText_122"] = "",
+	["DictKey_ActionText_132"] = "",
+	["DictKey_ActionText_113"] = "目標が探知範囲外へ移動することがある。その場合レーダーは目標をロストし、ヘルメット装着ディスプレイ内の HACQ または LACQ 表示は消灯して自動的にオフになる。その場合は [Sensor control switch] を上に押してヘルメット捕捉モードを再起動しろ。\
+\
+周囲の目標を捕捉し、その後 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_89"] = "これでヘルメット装着照準システムの電源を入れた。頭を動かすと、視界の中央に緑色の映像とデータが表示される。\
+\
+頭を動かし、その後 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_64"] = "很好，你已经击毁了一个目标。让我们再换一个锁定模式。\
+\
+当你现在处于孔径模式状态下，再一次向下按下【传感器控制开关】，你会在 HUD 发现两根竖直的虚线出现在视野中，这是雷达的垂直扫描模式。使潜在的敌机进入这两根虚线之间，雷达也一样能目标。操作方法与刚才完全相同。\
+\
+进入垂扫模式后【空格键】继续。",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionComment_30"] = "DictKey_ActionComment_30",
+	["DictKey_ActionText_60"] = "导弹发射！请保持对目标的锁定和追踪，直至导弹命中目标。",
+	["DictKey_ActionComment_22"] = "DictKey_ActionComment_22",
+	["DictKey_ActionText_126"] = "",
+	["DictKey_ActionText_76"] = "干得好！你击落了所有目标，做的很棒！\
+\
+接下去我激活了一些新的靶机，你可以继续飞行，按照之前所学到的知识自行寻找并击落这些目标，也可以按【ESC 键】退出任务。",
+	["DictKey_ActionText_118"] = "",
+	["DictKey_ActionText_150"] = "",
+	["DictKey_ActionText_153"] = "",
+	["DictKey_ActionText_138"] = "",
+	["DictKey_ActionText_134"] = "",
+	["DictKey_ActionText_147"] = "",
+} -- end of dictionary

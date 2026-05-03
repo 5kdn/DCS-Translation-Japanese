@@ -1,0 +1,122 @@
+dictionary = 
+{
+	["DictKey_ActionComment_9"] = "DictKey_ActionComment_9",
+	["DictKey_ActionText_103"] = "ホットキー（初期設定）\
+TDC controller - Up: [;]\
+TDC controller - Down: [.]\
+TDC controller - Left: [,]\
+TDC controller - Right: [/]",
+	["DictKey_ActionText_92"] = "",
+	["DictKey_ActionText_73"] = "準備ができたら、[SPACEBAR] を押せ。これから機体のアクティブポーズを解除する。操縦はお前が引き継げ。前方にもう1機、敵機が出現する。今教えた手順を使って発見し、撃墜しろ。",
+	["DictKey_ActionComment_12"] = "DictKey_ActionComment_12",
+	["DictKey_ActionText_19"] = "これでSAページ、つまり \"Situational Awareness\" に入った。ディスプレイ中央の十字マークは現在の自機の位置と進行方向を示している。上中央のノブ下にある [SCL/40] は、自機を中心とした半径 40 NMの円形範囲を表す。このノブを繰り返しクリックすると、表示する空域のスケールを変更できる。\
+ハイライトされたボタンを何度かクリックして、距離を 20 NMに変更しろ。完了したら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_14"] = "次に敵の位置を把握する必要がある。ディスプレイの下中央を見ろ。ハイライトされたボタンがあるな？それが [Main menu] ボタンだ。これをクリックしてページを切り替え、各種機能ページに入る。\
+\
+指示を完了し、 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionComment_28"] = "DictKey_ActionComment_28",
+	["DictKey_ActionText_105"] = "ホットキー（初期設定）\
+Trigger: [SPACEBAR]",
+	["DictKey_ActionText_31"] = "前方には味方機が2機と未識別目標が1機いるはずだ。\
+\
+準備が完了したら [SPACEBAR] を押して続行しろ。次は兵器を使って目標を撃破する方法を学ぶ。",
+	["DictKey_ActionText_57"] = "スティックの背面を見ろ。赤いトリガーがあるはずだ。それを引いて、ミサイルを発射しろ。",
+	["DictKey_ActionComment_46"] = "DictKey_ActionComment_46",
+	["DictKey_ActionText_107"] = "ホットキー（初期設定）\
+Sensor Controller Switch - Down:  [RAlt + .]",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_ActionComment_55"] = "DictKey_ActionComment_55",
+	["DictKey_ActionText_64"] = "よし。1目標撃破だ。次は別の指示モードに切り替える。\
+\
+現在はボアサイトトラックモードだ。 [Sensor Controller Switch] をもう一度下に押せ。すると HUD に縦に並んだ 2 つの点が表示される。これはレーダーが垂直スキャンモードに入ったことを示している。敵機をこの2つの点の間に入れれば、同様に目標を指定できる。操作はさっきと同じだ。\
+\
+垂直スキャン モードに入り、 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionComment_26"] = "DictKey_ActionComment_26",
+	["DictKey_ActionComment_81"] = "DictKey_ActionComment_81",
+	["DictKey_ActionText_104"] = "ホットキー（初期設定）\
+Sensor Controller Switch - Up:  [RAlt + ;]",
+	["DictKey_descriptionText_1"] = "武器を発射して敵機を攻撃するには、まずレーダーで敵機を「ロックオン」する必要があります。このレッスンでは、空中戦で敵機を即座に指定し、空対空ミサイルを発射してACM (air combat maneuver) モードで撃墜する方法を学びます。",
+	["DictKey_ActionText_27"] = "カーソルの左右に数値が表示されているのが見えるはずだ。左側の 0.2 は目標の速度で、マッハ 0.2 を示す。右側の 15 は高度で、15,000 ftを表している。各カーソルには矢印が付いており、その向きが目標の現在の飛行方向を示している。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_108"] = "ホットキー（初期設定）\
+Weapon Selection Switch - Press: [LShift + S]",
+	["DictKey_ActionText_106"] = "ホットキー（初期設定）\
+Sensor Controller Switch - Up:  [RAlt + ;]",
+	["DictKey_ActionComment_88"] = "DictKey_ActionComment_88",
+	["DictKey_ActionComment_74"] = "DictKey_ActionComment_74",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionComment_32"] = "DictKey_ActionComment_32",
+	["DictKey_ActionComment_77"] = "DictKey_ActionComment_77",
+	["DictKey_ActionComment_52"] = "DictKey_ActionComment_52",
+	["DictKey_ActionComment_49"] = "DictKey_ActionComment_49",
+	["DictKey_ActionText_25"] = "次にスロットルを操作する。スロットル後端の右側にある丸いノブ、いわゆる [Throttle designator controller] または [TDC controller] を操作してみろ。下側ディスプレイを見れば、ノブを動かすのに合わせて金色のカーソルが動くはずだ。カーソルを最も近い目標の位置まで移動させろ。\
+\
+完了したら、 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_76"] = "いい攻撃だ！全目標を撃墜した！上出来だ。\
+\
+次は新たな目標機をいくつか投入する。このまま飛行を続けろ。これまでに学んだ手順に従って、自分で捜索して撃墜しろ。終了しても構わない。",
+	["DictKey_ActionText_16"] = "",
+	["DictKey_ActionText_70"] = "今、ブザー音が聞こえるはずだ。これは Sidewinder ミサイルのシーカーが作動している合図だ。目標を指定し、シーカーがそれを捉えると、ブザーの音程が急に高くなる。そのタイミングで発射しろ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionComment_68"] = "DictKey_ActionComment_68",
+	["DictKey_ActionComment_24"] = "DictKey_ActionComment_24",
+	["DictKey_ActionText_102"] = "ホットキー（初期設定）\
+Sensor Controller Switch - Down:  [RAlt + .]",
+	["DictKey_ActionText_80"] = "今から操縦はお前が引き継ぐ。SA ページで前方に出現した新たな目標を見つけて撃墜しろ。",
+	["DictKey_ActionComment_61"] = "DictKey_ActionComment_61",
+	["DictKey_ActionText_6"] = "B&P飛行スキル講座へようこそ、戻ってきたな。これから空中戦の基本技術を引き続き説明する。\
+\
+現在、機体は空中で安定している。準備しろ、 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_48"] = "現在、機体には AIM-7 と AIM-9 の 2 種類のミサイルが搭載されている。必要に応じて切り替えて使用できる。いずれかを選択すると、 HUD 下部に 7M または9X の表示が出る。その後ろの数字は、その種類のミサイルの残弾数を示している。\
+\
+ここで、AIM-7 Spallow ミサイルを選択し、 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionComment_58"] = "DictKey_ActionComment_58",
+	["DictKey_ActionRadioText_86"] = "跳过介绍",
+	["DictKey_sortie_5"] = "Rising Squall Tutorial: M01 ドッグファイト - 空戦機動レーダー",
+	["DictKey_ActionComment_15"] = "DictKey_ActionComment_15",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_54"] = "敵機はロックされている。HUD右下で目標との距離を確認できる。機体が目標を照準していると、目標ボックスの上に \"SHOOT\" の表示が点滅する。同時に、キャノピー右上の投影インジケーターが点灯し、目標が射程内に入ったことを示す。この状態で発射すれば、高い確率で命中が見込めるだろう。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_10"] = "まず、[Master Arm Switch] をオンにする必要がある。左前方のハイライトされたスイッチをARM位置に切り替えろ。セーフティを解除するのが空中戦の第一歩だ。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionComment_30"] = "DictKey_ActionComment_30",
+	["DictKey_ActionText_63"] = "",
+	["DictKey_ActionText_21"] = "表示上に多数の情報が表示されているのに気づいたはずだ。指示に従え。これらの情報の読み取り方を教える。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_29"] = "画面を見ろ。SAページには多数の目標が表示されている。緑の円は味方機、赤いダイヤは敵機、黄色の四角は未識別目標を示している。\
+\
+[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionComment_18"] = "DictKey_ActionComment_18",
+	["DictKey_ActionText_87"] = "ここからはフリーフライトだ。ルート表示ボックス内で目標を捜索し、撃墜してみろ。",
+	["DictKey_ActionText_67"] = "では Sidewinder ミサイルを試す。ジョイスティック左側の [Weapon Selection Switch] を操作して、AIM-9X Sidewinder ミサイルを選択しろ。\
+\
+Sidewinder ミサイルを選択し、 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_51"] = "よし。次は敵に照準を合わせる。中央の [Sensor Controller Switch] を上に引け。するとHUDに緑の点線リングが表示される。これはレーダーのボアサイトモードだ。目標がこのリング内に入り、かつ距離が 5 NM以内になると自動で指定される。指定されると、目標は四角またはダイヤ形のボックスで表示される。\
+\
+前方のターゲットが指定されていることを確認し、 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionComment_20"] = "DictKey_ActionComment_20",
+	["DictKey_ActionComment_71"] = "DictKey_ActionComment_71",
+	["DictKey_ActionText_60"] = "FOX-1!\
+\
+ミサイルが命中するまで、目標の指定と追尾を維持しろ。",
+	["DictKey_ActionComment_22"] = "DictKey_ActionComment_22",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_23"] = "目標の詳細情報がディスプレイに表示されていることを確認しろ。スティックをよく見ろ。上部に左・中央・右の3つの大きなスイッチがある。中央のスイッチが [Sensor's Controller Switch] だ。これを下に押すと、下側ディスプレイの操作が有効になる。有効化されると、ディスプレイ右上に緑のダイヤマークが表示される。\
+\
+[Sensor's Controller Switch] を下に押して下側ディスプレイの操作を有効にしろ。完了したら [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_11"] = "次に、マスターアームのハイライトされた [A/A] ボタンをクリックしろ。これで対空モードに入る。空中戦を行うなら、この [A/A] を有効化しておく必要がある。",
+	["DictKey_ActionRadioText_99"] = "",
+	["DictKey_ActionComment_65"] = "DictKey_ActionComment_65",
+	["DictKey_ActionText_45"] = "まず兵器を選択する必要がある。スティックを見ろ。左中ほどに黒いスイッチがあるはずだ。これが [Weapon Selection Switch] だ。多方向に操作できる。前に倒すとAIM-7 Spallow ミサイル、右に倒すとAIM-120 AMRAAM ミサイル、後ろに倒すと機関砲、押し込むとAIM-9X Sidewinderミサイルを選択できる。\
+\
+AIM-7 Spallow ミサイルを選択し、 [SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_17"] = "よし、今はTACページに入っているな。このページの右側に [SA] と表示されたボタンがある。SAページに入れば、敵機と味方機の識別に役立つだろう。\
+\
+ハイライトされている [SA] ノブをクリックしろ。",
+} -- end of dictionary

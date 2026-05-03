@@ -1,0 +1,336 @@
+campaign =
+{
+    ["description"] = "The campaign is a special tutorial missions under the F/A-18C Rising Squall Campaign DLC. It will take you from shallow to deep to be familiar with many basic functions and methods of using F/A-18C Hornet. The tutorial is based on the INVERTED world under Rising Squall and some contents have been modified and simplified relative to the ED official tutorials for beginners.  Therefore, this tutorial is not equivalent to the ED official tutorial, instead it focuses more on functions and application. In case of contradictions in some descriptions involved, the ED official tutorial shall prevail.",
+    ["name_EN"] = "Rising Squall Tutorial (Cothesis)",
+    ["pictureFailed_CN"] = "COVER-CN.png",
+    ["necessaryUnits"] =
+    {
+        ["FA-18C_hornet"] = "FA-18C_hornet",
+    }, -- end of ["necessaryUnits"]
+    ["stages"] =
+    {
+        [11] =
+        {
+            ["name"] = "阶段 11",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "RS_Tutorial M04_CMS_CF.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\RS_Tutorial M04_CMS_CF.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [13] =
+        {
+            ["name"] = "阶段 13",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "RS_Tutorial M06_CCRP.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\RS_Tutorial M06_CCRP.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] =
+        {
+            ["name"] = "阶段 7",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "RS_Tutorial M02_CMS_IR.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\RS_Tutorial M02_CMS_IR.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] =
+        {
+            ["name"] = "阶段 1",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "RS_Tutorial M00_NAV.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\RS_Tutorial M00_NAV.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] =
+        {
+            ["name"] = "阶段 2",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "RS_Tutorial M00_HARM.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\RS_Tutorial M00_HARM.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [15] =
+        {
+            ["name"] = "阶段 15",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "RS_Tutorial M08_LGB.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\RS_Tutorial M08_LGB.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+        [8] =
+        {
+            ["name"] = "阶段 8",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "RS_Tutorial M03_BVR1.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\RS_Tutorial M03_BVR1.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [16] =
+        {
+            ["name"] = "阶段 16",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "RS_Tutorial M10_SLAM.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\RS_Tutorial M10_SLAM.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [16]
+        [9] =
+        {
+            ["name"] = "阶段 9",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "RS_Tutorial M03_GMT.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\RS_Tutorial M03_GMT.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] =
+        {
+            ["name"] = "阶段 5",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "RS_Tutorial M01_HMD.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\RS_Tutorial M01_HMD.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] =
+        {
+            ["name"] = "阶段 10",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "RS_Tutorial M04_BVR2.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\RS_Tutorial M04_BVR2.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [14] =
+        {
+            ["name"] = "阶段 14",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "RS_Tutorial M06_MAVF.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\RS_Tutorial M06_MAVF.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+        [3] =
+        {
+            ["name"] = "阶段 3",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "RS_Tutorial M00_JSOW.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\RS_Tutorial M00_JSOW.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] =
+        {
+            ["name"] = "阶段 6",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "RS_Tutorial M02_CCIP.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\RS_Tutorial M02_CCIP.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] =
+        {
+            ["name"] = "阶段 12",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "RS_Tutorial M05_MAVE.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\RS_Tutorial M05_MAVE.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [4] =
+        {
+            ["name"] = "阶段 4",
+            ["missions"] =
+            {
+                [1] =
+                {
+                    ["description"] = "",
+                    ["interval"] =
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "RS_Tutorial M01_ACM.miz",
+                    ["skipScore"] = 100,
+                    ["fullpath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\RS_Tutorial M01_ACM.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+    }, -- end of ["stages"]
+    ["name_CN"] = "风起翼下（战役教程：漫画纸）",
+    ["fullPath"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\Rising Squall Tutorial.cmp",
+    ["picture_EN"] = "Titel_Cothesis_EN.png",
+    ["directory"] = "E:\\DCS World OpenBeta\\Mods\\aircraft\\FA-18C\\Missions\\FA-18C Rising Squall (Edit Ver)\\Campaigns\\",
+    ["startStage"] = 1,
+    ["picture"] = "Titel_Cothesis_EN.png",
+    ["description_EN"] = "The campaign is a special tutorial missions under the F/A-18C Rising Squall Campaign DLC. It will take you from shallow to deep to be familiar with many basic functions and methods of using F/A-18C Hornet. The tutorial is based on the INVERTED world under Rising Squall and some contents have been modified and simplified relative to the ED official tutorials for beginners.  Therefore, this tutorial is not equivalent to the ED official tutorial, instead it focuses more on functions and application. In case of contradictions in some descriptions involved, the ED official tutorial shall prevail.",
+    ["pictureSuccess_CN"] = "COVER-CN.png",
+    ["description_CN"] = "该战役是隶属于风起翼下的专用教学任务，它将带你由浅至深的了解和学习使用 F/A-18C 大黄蜂的许多基本功能和使用方法。此教学基于风起翼下的世界观，相对于官方教程，部分内容进行了修改和简化，以更好的适用于初学者。因此，该教程并不是官方教程的翻版，其中涉及的一些描述产生矛盾之处，请以官方教程为准。",
+    ["pictureFailed"] = "COVER-EN.png",
+    ["name"] = "Rising Squall Tutorial (Cothesis)",
+    ["pictureSuccess_EN"] = "COVER-EN.png",
+    ["picture_CN"] = "Titel_Cothesis_CN.png",
+    ["pictureFailed_EN"] = "COVER-EN.png",
+    ["version"] = 1,
+    ["pictureSuccess"] = "COVER-EN.png",
+
+    ["description_JP"] = "F/A-18C Rising Squall Campaign DLC に収録されている特殊チュートリアルミッションです。本チュートリアルでは、F/A-18C Hornet の多くの基本機能と使用方法を浅い内容から深い内容へ段階的に習熟していきます。INVERTED の Rising Squall の世界を基準としており、一部内容は初心者向けにED公式チュートリアルから変更・簡略化されています。そのため、本チュートリアルは ED 公式チュートリアルと同等ではなく、機能と応用により重点を置いています。記述内容に矛盾がある場合は、ED 公式チュートリアルを優先してください。",
+    ["name_JP"] = "Rising Squall チュートリアル (Cothesis)",
+} -- end of campaign

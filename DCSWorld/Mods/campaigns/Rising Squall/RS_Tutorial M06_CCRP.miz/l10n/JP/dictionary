@@ -1,0 +1,133 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionText_98"] = "よくやった！目標に命中した。CCRP は無誘導爆弾では常に有効とは限らない。常に完璧である必要はない。このため、CCRPは誘導装置を備えた精密誘導爆弾により適している。詳細は今後の課程で学習する。\
+\
+目標マークを実際の目標位置より手前または奥にわずかにずらすことで、投下点を調整できる。新たな目標を再出現させた。必要に応じて繰り返し訓練するか、[ESC] を押してミッションを終了しろ。",
+	["DictKey_ActionText_29"] = "",
+	["DictKey_ActionText_92"] = "",
+	["DictKey_ActionText_53"] = "",
+	["DictKey_ActionText_73"] = "",
+	["DictKey_ActionText_55"] = "",
+	["DictKey_ActionText_95"] = "どうやら目標を外したようだ。問題ない。Waypoint 1 へ戻って再度試せ。CCRP は無誘導爆弾では常に有効とは限らない。常に完璧である必要はない。このため、CCRP は誘導装置を備えた精密誘導爆弾により適している。詳細は次の課程で学習する。\
+\
+目標マークを実際の目標位置より手前または奥にわずかにずらすことで、投下点を調整できる。新たな目標を再出現させた。必要に応じて繰り返し訓練するか、[ESC] を押してミッションを終了しろ。",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_14"] = "通常どおり、[Master Arm Switch] を確認し、上方にセットされ ARM になっていることを確認しろ。\
+\
+手順が完了したら、[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_38"] = "",
+	["DictKey_ActionText_68"] = "目標を設定すると、HUD に垂直のラインが表示されるのが確認できる。これは方位ステアリングライン(ASL)だ。これから一時停止を解除し、操縦を引き継がせる。速度ベクトルマークを ASL に一致させ、そのまま水平飛行で目標へ向かえ。\
+\
+[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_23"] = "",
+	["DictKey_ActionText_88"] = "",
+	["DictKey_ActionText_90"] = "",
+	["DictKey_ActionText_31"] = "",
+	["DictKey_ActionText_74"] = "速度を維持し、スロットルを一定に保て。投下点の 3～5 秒手前で、スティックの [Weapon Release Button] を押し続け、そのまま水平飛行を維持しろ。カウントダウンがゼロになると、爆弾は自動的に投下される。\
+\
+[SPACEBAR] を押すと一時停止が解除され、機体がコントロールできるようになります。",
+	["DictKey_ActionText_85"] = "",
+	["DictKey_ActionText_11"] = "現在、機体には高抗力無誘導爆弾が 8 発搭載されている。前方のターゲットレンジには、2 本の滑走路の交点に複数の歩兵目標が配置されている。確認できる通り、目標エリアはイエロースモークでマーキングされている。\
+\
+[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_61"] = "",
+	["DictKey_ActionText_24"] = "",
+	["DictKey_ActionText_35"] = "左側のハイライトされた [MFUZ] は爆弾の機械信管を選択するためのものだ。サブメニューで [NOSE] を選択して機首信管を有効化しろ。信管を設定しなければ爆弾はただの鉄塊になる。これを忘れるな。\
+\
+設定が完了したら、[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_ActionText_28"] = "",
+	["DictKey_ActionText_89"] = "",
+	["DictKey_sortie_5"] = "Rising Squall Tutorial: M06 CCRP 爆撃",
+	["DictKey_ActionText_56"] = "これで爆弾の基本設定は完了だ。CCRP 爆撃ではまず投下点、すなわち目標を指定する必要がある。これにより、自機が最適な投下タイミングを算出する。スロットルレバーの [Sensor Control Switch] を上に倒して HUD の操作を有効化しろ。HUD 中央の速度ベクトルマークの円内にドットが表示されれば、HUD が有効化されたことを示している。\
+\
+手順が完了したら、[SPACEBAR] を押して続行してください。",
+	["DictKey_descriptionText_1"] = "F/A-18C Hornet の対地攻撃には主に 2 つの方式があり、その 1 つが連続計算投下点、すなわちCCRPと呼ばれます。通常はレベル・ボミングと呼ばれ、水平爆撃とも表現されます。本課では、CCRP を用いた無誘導爆弾(UGB)の投下方法を学習します。実戦では、CCRP はレーザー誘導爆弾やJDAMの投下にも広く用いられます。",
+	["DictKey_ActionText_27"] = "",
+	["DictKey_ActionText_59"] = "AUTO/CCRPモードでは、HUD下部に追加の円形サイトが表示されるのが確認できるはずだ。\
+\
+スロットルレバーの [TDC controller] を押し込み、その後 [SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_83"] = "Bomb's way! よし。HUD が一度フラッシュして兵装投下を通知したのが確認できるはずだ。次は命中結果を確認しろ。",
+	["DictKey_ActionText_8"] = "戦場では、さまざまな要因により CCIP 投下で目標へ降下できない場合がある。例えば本日のように、訓練空域は雨風が強く、雲底も低い。高高度へ上がれない状況だ。このため、目標上空を比較的水平に飛行しながら爆弾を投下する必要がある。\
+\
+[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_82"] = "",
+	["DictKey_ActionText_42"] = "",
+	["DictKey_ActionText_34"] = "",
+	["DictKey_ActionText_40"] = "",
+	["DictKey_ActionText_17"] = "[Master Mode Buttons] のハイライトされた [A/G] ボタンを押し、空対地モードに入れ。",
+	["DictKey_ActionText_25"] = "ディスプレイ左上のハイライトされた [MODE] をクリックして爆撃モードに入り、サブメニューを調整しろ。サブメニューで [AUTO] を選択すると自動爆撃になる。これが F/A-18 Hornet で使用可能な CCRP 爆撃モードだ。\
+\
+設定が完了したら、[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_76"] = "",
+	["DictKey_ActionText_33"] = "",
+	["DictKey_ActionText_16"] = "",
+	["DictKey_ActionText_58"] = "",
+	["DictKey_ActionText_70"] = "",
+	["DictKey_ActionText_65"] = "スロットルの [TDC controller] を操作すると、目標マークがそれに連動して移動する。これにより、照準を微調整したり、設定後に新たな目標点へ修正することができる。\
+\
+前方ターゲットレンジの目標位置にはレッドスモークを展開している。滑走路の交点付近に視認できるはずだ。目標マークを移動させ、レッドスモークの位置に合わせろ。\
+\
+手順が完了したら、[SPACEBAR] を押して続行してください。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_52"] = "",
+	["DictKey_ActionText_44"] = "次に、[EFUZ] は電子信管を意味し、これは誘導爆弾の設定にのみ使用する。現在使用しているのは無誘導爆弾であり、必要なのは機械信管のみだ。したがって電子信管はオフのままにし、設定するな。\
+\
+[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_62"] = "よくやった。円形サイトの照準位置にダイヤ形のマークが表示されるはずだ。これは照準位置に目標マークを設定したこと、すなわち爆撃の照準点を指定したことを示している。\
+\
+[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_102"] = "ホットキー（初期設定）\
+TDC controller - Up: [;]\
+TDC controller - Down: [.]\
+TDC controller - Left: [,]\
+TDC controller - Right: [/]\
+TDC controller - Press: [ENTER]",
+	["DictKey_ActionText_46"] = "",
+	["DictKey_ActionText_80"] = "目標に一定距離まで接近すると、方位ステアリングライン上に水平ラインが現れ、上からマーカーが降下してくる。爆弾投下の 3～5 秒前には [Weapon Release Button] を押し続けろ。大きく逸脱すると投下は行われない。その場合は目標上空を通過し、Waypoint 1 へ戻れ。何度でも再試行できる。",
+	["DictKey_ActionText_37"] = "",
+	["DictKey_ActionText_6"] = "諸君、今日は戦闘機による別の爆弾投下方法を学ぶ。水平爆撃、すなわち CCRP 投下モードだ。\
+\
+準備ができたら、[SPACEBAR] を押して続行しろ。",
+	["DictKey_ActionText_20"] = "",
+	["DictKey_ActionText_64"] = "",
+	["DictKey_ActionText_32"] = "",
+	["DictKey_ActionText_43"] = "",
+	["DictKey_ActionText_39"] = "",
+	["DictKey_ActionText_94"] = "",
+	["DictKey_ActionText_54"] = "",
+	["DictKey_ActionText_86"] = "",
+	["DictKey_ActionText_103"] = "ホットキー（初期設定）\
+Weapon Release Button: [LAlt + SPACEBAR]",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_77"] = "You have control。ガイディングボックスに沿って直進しろ。速度ベクトルマークを ASL に一致させ、水平飛行を維持して目標へ接近しろ。接近に伴い目標が明瞭になる。[TDC controller] を使って目標マークの位置を継続して修正しろ。",
+	["DictKey_ActionText_41"] = "",
+	["DictKey_ActionText_67"] = "",
+	["DictKey_ActionText_79"] = "",
+	["DictKey_ActionText_21"] = "左DDIの兵装マウントページで、ハイライトされた [82YT] を選択し、その機能ボタンを押せ。これは Mk-82 高抗力爆弾用だ。選択後、爆弾パラメータ設定ページに入れ。",
+	["DictKey_ActionText_51"] = "",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_49"] = "",
+	["DictKey_ActionText_87"] = "",
+	["DictKey_ActionText_91"] = "",
+	["DictKey_ActionText_71"] = "落ち着いて操作しろ。HUD 右下に注意しろ。数値と TGT 表示があり、これは現在の自機と目標マークとの距離を示している。\
+\
+また、その右側には REL の数値が表示される。この数値は投下までのカウントダウンだ。目標に接近するにつれて距離は減少し、最適投下点に到達するとカウントはゼロになる。\
+\
+[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_93"] = "",
+	["DictKey_ActionText_50"] = "",
+	["DictKey_ActionText_105"] = "",
+	["DictKey_ActionText_101"] = "ホットキー（初期設定）\
+Sensor Controller Switch - Right: [RAlt + /]\
+Sensor Controller Switch - Left: [RAlt + ,]\
+Sensor Controller Switch - Up: [RAlt + ;]\
+Sensor Controller Switch - Down: [RAlt + .]",
+	["DictKey_ActionText_47"] = "最後に、[DRAG] は高抗力爆弾の設定に使用する。[RET] をサブメニューで選択すると減速装置が作動し、爆弾の落下速度を低下させる。これにより、着弾時の爆風が自機に及ぶのを防ぐことができる。\
+\
+[DRAG] を開き、[RET] を有効化しろ。完了したら、[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_97"] = "",
+	["DictKey_ActionText_104"] = "ホットキー（初期設定）\
+Weapon Release Button: [LAlt + SPACEBAR]",
+} -- end of dictionary
