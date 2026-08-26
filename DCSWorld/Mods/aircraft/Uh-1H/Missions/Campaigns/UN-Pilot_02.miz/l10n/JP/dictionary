@@ -21,10 +21,10 @@ dictionary =
     ["DictKey_UnitName_121"] = "HP_Madrid GSM Ukr",
     ["DictKey_GroupName_298"] = "BP_Dalyn_Dym",
     ["DictKey_GroupName_212"] = "HP_Madrid Vyshka #006",
-    ["DictKey_25"] = "PEDRO: - Checkpoint-8, こちら　Springfield-2. 聞こえるか？\
-CHECKPOINT 8: - Springfield, Checkpoint-8. はっきり聞こえます。　待っていました。\
-PEDRO: - 了解。 ランディングゾーン（LZ）を示してくれ。　２分で到着する。　out\
-CHECKPOINT 8: - 了解　赤いスモークを焚く！",
+    ["DictKey_25"] = "PEDRO: - Checkpoint-8、こちらSpringfield-2。聞こえるか？\
+CHECKPOINT 8: - Springfield、こちらCheckpoint-8。はっきり聞こえる。待っていたぞ。\
+PEDRO: - 了解。着陸地点（LZ）を示してくれ。到着まで2分。\
+CHECKPOINT 8: - 了解、Springfield！　赤いスモークを焚く！",
     ["DictKey_GroupName_200"] = "HP_Madrid Vyshka #003",
     ["DictKey_WptName_373"] = "",
     ["DictKey_GroupName_244"] = "HP_Madrid Of mod #027",
@@ -34,13 +34,13 @@ CHECKPOINT 8: - 了解　赤いスモークを焚く！",
     ["DictKey_GroupName_94"] = "Наземная группа #004",
     ["DictKey_UnitName_163"] = "HP_Madrid Palat #10",
     ["DictKey_UnitName_157"] = "HP_Madrid Palat #7",
-    ["DictKey_30"] = "CHECKPOINT 8: - アダプターはどこだ？　アダプタは特に頼んでいただろ！\
-PEDRO: - ないか？\
-CHECKPOINT 8: - もちろんないよ。なんてこった！\
-PEDRO: - まあ、忘れたか、入れる暇がなかったんだろう。次もってくるよ。\
-CHECKPOINT 8: - 次か… 、いつになったらプレステで遊べるんだ。軍曹には念入りに「アダプター」ってお願いしてたのに。\
-まあ、それは別として、他のものは全部ありそうだな。　行ってもらって結構だよ。\
-PEDRO: - それじゃあ、また！　　ようし新人、離陸しろ。　忘れるなよ、こいつは半トンは軽くなってるからな。　では気をつけて同じ道を帰ろうか\
+    ["DictKey_30"] = "CHECKPOINT 8: - アダプターはどこだ？　アダプターは特に頼んでおいたはずだ！\
+PEDRO: - 入ってないのか？\
+CHECKPOINT 8: - ああ、もちろんない！　まったく！\
+PEDRO: - 忘れたか、梱包する時間がなかったんだろう。次に持ってくるよ。\
+CHECKPOINT 8: - 次か……。これじゃどうやってPlayStationで遊べばいいんだ？　軍曹にはアダプターを忘れるなと念を押したのに！\
+まあいい、ほかの物は全部そろってるようだ。もう行っていいぞ。\
+PEDRO: - 幸運を祈る！　よし新人、離陸しろ。今は半トン軽くなっているから、慎重にな。同じ経路で基地へ戻るぞ。\
 ",
     ["DictKey_UnitName_69"] = "Юнит #17",
     ["DictKey_WptName_397"] = "",
@@ -50,9 +50,9 @@ PEDRO: - それじゃあ、また！　　ようし新人、離陸しろ。　�
     ["DictKey_UnitName_249"] = "HP_Madrid Of mod #29",
     ["DictKey_UnitName_171"] = "HP_Madrid Palat #3",
     ["DictKey_GroupName_146"] = "HP_Madrid Of mod #004",
-    ["DictKey_29"] = "CHECKPOINT 8: - よう！　全部持ってきたかい？\
-PEDRO: -頼まれたものは全部あるぜ\
-CHECKPOINT 8: - ようし、乗り込め。　急いで降ろすんだ。\
+    ["DictKey_29"] = "CHECKPOINT 8: - よう！　全部持ってきたか？\
+PEDRO: - 頼まれたものは全部あるぞ。\
+CHECKPOINT 8: - よし、ちょっと待ってろ。すぐに荷下ろしする。\
 ",
     ["DictKey_UnitName_79"] = "Band_01",
     ["DictKey_UnitName_183"] = "HP_Madrid Palat #19",
@@ -75,11 +75,11 @@ CHECKPOINT 8: - ようし、乗り込め。　急いで降ろすんだ。\
     ["DictKey_UnitName_301"] = "Gruzchik3",
     ["DictKey_UnitName_263"] = "HP_Madrid Of mod #39",
     ["DictKey_GroupName_112"] = "HP_Madrid BP",
-    ["DictKey_31"] = "PEDRO: - 目え見開いて周りをよく見とけよ、ナゲット。　ここは、こないだキャノピーを撃たれた場所だ。.\
-MIGUEL: - ここで撃たれたのですか？\
-PEDRO: - そうだ。　なに怯えてんだ？　 お前、降りて歩いてみるか？　大丈夫だって\
-MIGUEL: - もちろん恐れてなんかいません。\
-PEDRO: - そうか？　ふーん　俺にはそうは見えんが.\
+    ["DictKey_31"] = "PEDRO: - 周囲をよく警戒しろよ、ナゲット。前にキャノピーを撃ち抜かれたのはこの辺りだ。\
+MIGUEL: - ここで銃撃を受けたんですか？\
+PEDRO: - そうだ。何だ、怖いのか？　ここで降りて、あとは歩いてもいいぞ。その方が安全かもしれないからな。\
+MIGUEL: - もちろん怖くなんかありません。\
+PEDRO: - そうか？　俺には怖がってるように見えたがな。\
 ",
     ["DictKey_GroupName_194"] = "HP_Madrid Palat KP #001",
     ["DictKey_UnitName_201"] = "HP_Madrid Vyshka #3",
@@ -93,19 +93,19 @@ PEDRO: - そうか？　ふーん　俺にはそうは見えんが.\
     ["DictKey_WptName_399"] = "",
     ["DictKey_WptName_332"] = "",
     ["DictKey_WptName_407"] = "",
-    ["DictKey_36"] = "PEDRO: - ここを北だ。左カーブに沿っていけ",
+    ["DictKey_36"] = "PEDRO: - ここから左岸に沿って北へ進め。",
     ["DictKey_GroupName_148"] = "HP_Madrid Of mod #007",
     ["DictKey_UnitName_267"] = "HP_Madrid Palat #31",
     ["DictKey_UnitName_259"] = "HP_Madrid Of mod #37",
     ["DictKey_GroupName_196"] = "HP_Madrid Vyshka #001",
     ["DictKey_WptName_369"] = "",
-    ["DictKey_42"] = "PEDRO: - 注意して着陸しろ。　 反乱軍にはやられなかったのに、お前に殺されるのは不運だ",
+    ["DictKey_42"] = "PEDRO: - 着陸は慎重にな。反乱軍に殺されずに済んだと思ったら、今度はお前に殺されるなんてごめんだぞ。",
     ["DictKey_WptName_326"] = "",
     ["DictKey_GroupName_441"] = "Стат. объект #001",
     ["DictKey_UnitName_58"] = "Юнит #13",
     ["DictKey_UnitName_308"] = "Юнит #38",
     ["DictKey_UnitName_213"] = "HP_Madrid Vyshka #5",
-    ["DictKey_35"] = "PEDRO: - 川があったぞ。　これを北に追え、寄り道しようなんて考えるなよ",
+    ["DictKey_35"] = "PEDRO: - 川が見えたぞ。川に沿って北へ進み、進路を外れるな。",
     ["DictKey_UnitName_75"] = "Юнит #26",
     ["DictKey_UnitName_54"] = "Band_04",
     ["DictKey_GroupName_158"] = "HP_Madrid Palat #008",
@@ -113,11 +113,11 @@ PEDRO: - そうか？　ふーん　俺にはそうは見えんが.\
     ["DictKey_GroupName_122"] = "HP_Madrid GSM 2",
     ["DictKey_UnitName_55"] = "Юнит #1",
     ["DictKey_WptName_334"] = "",
-    ["DictKey_38"] = "PEDRO: - くそ、よく見とけっって言っただろ。　右側から撃たれた！　高度を落として低空飛行をしろ！\
-…\
-PEDRO: - Madrid, Springfield-2. 銃撃を受けている。 グリッド（grid） Lima-Mike-1-9　（LM19)　 over!\
-MADRID: - Springfield-2, Madrid. 了解！ そこから脱出し、帰投せよ。　パトロール隊を出して掃討する。\
-PEDRO: - Springfield, copy, over.\
+    ["DictKey_38"] = "PEDRO: - くそっ、周囲を警戒しろと言っただろ！　攻撃を受けてる！　右側だ！　地面すれすれまで高度を下げろ！　回避しろ！\
+……\
+PEDRO: - Madrid、こちらSpringfield-2。グリッドLima-Mike-1-9（LM19）で攻撃を受けている。どうぞ！\
+MADRID: - Springfield-2、こちらMadrid。了解！　その地域から離脱して基地へ帰投せよ。哨戒隊を送り込んで掃討する。\
+PEDRO: - Springfield、了解。どうぞ。\
 ",
     ["DictKey_GroupName_136"] = "HP_Madrid Tent 3",
     ["DictKey_GroupName_258"] = "HP_Madrid Of mod #038",
@@ -149,14 +149,14 @@ PEDRO: - Springfield, copy, over.\
     ["DictKey_UnitName_147"] = "HP_Madrid Of mod #3",
     ["DictKey_UnitName_305"] = "Юнит #41",
     ["DictKey_UnitName_139"] = "HP_Madrid Tent 4",
-    ["DictKey_26"] = "PEDRO: - Checkpoint-8, Springfield-2. 赤いスモークを確認した\
-CHECKPOINT 8: - 了解　 Springfield.まっすぐ侵入してくれ、ここら辺はすべて フラットだ。\
-PEDRO: - 了解。　　おい新人　　赤いスモークが見えるか？　あそこに着陸してくれ。　慎重にな！",
+    ["DictKey_26"] = "PEDRO: - Checkpoint-8、Springfield-2。赤いスモークを視認した。\
+CHECKPOINT 8: - 了解、Springfield。マーカーへ真っすぐ進入してくれ。周囲は平坦だ。\
+PEDRO: - 了解。おい新人、赤いスモークが見えるか？　その場所に慎重に着陸しろ！",
     ["DictKey_GroupName_266"] = "HP_Madrid Palat #032",
     ["DictKey_GroupName_92"] = "BP_Dalyn",
     ["DictKey_WptName_328"] = "",
-    ["DictKey_33"] = "PEDRO: - よく聞け新人！　この場所を覚えておけ。常にこの場所に着陸しろ。他の場所に着陸したらグランドクルーに噛みつかれるぞ\
-何見つめてるんだよ？　離陸しろ！",
+    ["DictKey_33"] = "PEDRO: - よく聞け、新人！　この場所を覚えておけ。着陸するときは必ずこのパッドを使え。他人のパッドを使ったら、地上整備員にこっぴどく叱られるぞ。\
+何をぼさっと見てる？　さっさと離陸しろ！",
     ["DictKey_GroupName_256"] = "HP_Madrid Of mod #037",
     ["DictKey_UnitName_119"] = "HP_Madrid Tent Ukr",
     ["DictKey_WptName_354"] = "",
@@ -191,14 +191,14 @@ PEDRO: - 了解。　　おい新人　　赤いスモークが見えるか？�
     ["DictKey_WptName_382"] = "",
     ["DictKey_UnitName_51"] = "Юнит #5",
     ["DictKey_WptName_390"] = "",
-    ["DictKey_34"] = "PEDRO: - 町の北へむかえ、そこに川があり、そいつをたどれば直に北の目的地につく。",
+    ["DictKey_34"] = "PEDRO: - 町の北側へ向かえ。そこにある川に沿えば、そのまま真北へ進める。",
     ["DictKey_GroupName_172"] = "HP_Madrid Palat #006",
     ["DictKey_WptName_348"] = "",
     ["DictKey_WptName_436"] = "",
     ["DictKey_GroupName_138"] = "HP_Madrid Tent 4",
-    ["DictKey_27"] = "PEDRO: - Checkpoint-8, Springfield　今すぐ荷物を降ろしてくれ\
-CHECKPOINT 8: - は？　! 私達を殺す気ですか！\
-PEDRO: - ははは！　冗談、冗談。　まあ、落ち着け！ 今着陸する",
+    ["DictKey_27"] = "PEDRO: - Checkpoint-8、Springfield。現在、貨物を投下中だ。注意されたし。\
+CHECKPOINT 8: - 何だって？！　荷物が全部壊れるぞ、Springfield！\
+PEDRO: - ははは！　冗談だ、落ち着け！　今から着陸する。",
     ["DictKey_UnitName_193"] = "HP_Madrid Palat KP",
     ["DictKey_GroupName_276"] = "HP_Madrid Palat KP #003",
     ["DictKey_UnitName_181"] = "HP_Madrid Palat #17",
@@ -234,7 +234,7 @@ PEDRO: - ははは！　冗談、冗談。　まあ、落ち着け！ 今着陸�
     ["DictKey_GroupName_216"] = "HP_Madrid Vyshka #008",
     ["DictKey_UnitName_175"] = "HP_Madrid Palat #14",
     ["DictKey_UnitName_102"] = "Юнит #32",
-    ["DictKey_28"] = "PEDRO: - いいか新人、この場所でおとなしくしておけ。奴らが荷物を降ろしに来る。俺が良いと言うか、お前がローターブレードで誰かを殺すまでは動くなよ。",
+    ["DictKey_28"] = "PEDRO: - いいか新人、その位置で機体を安定させろ。連中が荷物を降ろす。俺がいいと言うまで動くなよ。ローターブレードで誰かを殺すことになるぞ！",
     ["DictKey_WptName_378"] = "",
     ["DictKey_UnitName_115"] = "HP_Madrid Tent",
     ["DictKey_UnitName_235"] = "HP_Madrid Of mod #20",
@@ -264,13 +264,13 @@ PEDRO: - ははは！　冗談、冗談。　まあ、落ち着け！ 今着陸�
     ["DictKey_UnitName_211"] = "HP_Madrid Vyshka #4",
     ["DictKey_WptName_396"] = "",
     ["DictKey_UnitName_125"] = "HP_Madrid GSM 3",
-    ["DictKey_39"] = "PEDRO: - くそ、よく見とけっって言っただろ。　左側から撃たれた！　高度を落として低空飛行をしろ！\
-…\
-PEDRO: - Madrid, Springfield-2. 銃撃を受けている。 グリッド（grid） Lima-Mike-1-9　（LM19)　 over!\
-MADRID: - Springfield-2, Madrid. 了解！ そこから脱出し、帰投せよ。　パトロール隊を出して掃討する。\
-PEDRO: - Springfield, copy, over.\
+    ["DictKey_39"] = "PEDRO: - くそっ、周囲を警戒しろと言っただろ！　攻撃を受けてる！　左側だ！　地面すれすれまで高度を下げろ！　回避しろ！\
+……\
+PEDRO: - Madrid、こちらSpringfield-2。グリッドLima-Mike-1-9（LM19）で攻撃を受けている。どうぞ！\
+MADRID: - Springfield-2、こちらMadrid。了解！　その地域から離脱して基地へ帰投せよ。哨戒隊を送り込んで掃討する。\
+PEDRO: - Springfield、了解。どうぞ。\
 ",
-    ["DictKey_41"] = "PEDRO: - 俺が言ったことは正しかっただろ？！　奴ら撃ってきやがったぜ！　ふーん　こいつ使えるかも。　おい、よくやったな新人。 おもらしはしてないよな。",
+    ["DictKey_41"] = "PEDRO: - 俺の言った通りだろ？　奴ら、撃ってきやがった！　楽しいだろ？　俺はこういうのが……大好きでね。おい、よくやったな新人。少なくともズボンは汚してないようだな。そう願うぜ。",
     ["DictKey_UnitName_104"] = "Юнит #30",
     ["DictKey_WptName_416"] = "",
     ["DictKey_WptName_331"] = "",
@@ -281,7 +281,7 @@ PEDRO: - Springfield, copy, over.\
     ["DictKey_UnitName_117"] = "HP_Madrid BP Ukr",
     ["DictKey_WptName_428"] = "",
     ["DictKey_WptName_443"] = "",
-    ["DictKey_sortie_312"] = " Hauling Trash",
+    ["DictKey_sortie_312"] = "ガラクタ運び",
     ["DictKey_WptName_433"] = "",
     ["DictKey_WptName_317"] = "",
     ["DictKey_GroupName_260"] = "HP_Madrid Of mod #039",
@@ -313,11 +313,11 @@ PEDRO: - Springfield, copy, over.\
     ["DictKey_WptName_381"] = "",
     ["DictKey_GroupName_116"] = "HP_Madrid BP Ukr",
     ["DictKey_WptName_431"] = "",
-    ["DictKey_37"] = "PEDRO: - くそ、よく見とけっって言っただろ。　右側から撃たれた！　高度を落として低空飛行をしろ！\
-…\
-PEDRO: - Madrid, Springfield-2. 銃撃を受けている。 グリッド（grid） Lima-Mike-1-9　（LM19)　 over!\
-MADRID: - Springfield-2, Madrid. 了解！ そこから脱出し、帰投せよ。　パトロール隊を出して掃討する。\
-PEDRO: - Springfield, copy, over.\
+    ["DictKey_37"] = "PEDRO: - くそっ、周囲を警戒しろと言っただろ！　攻撃を受けてる！　右側だ！　地面すれすれまで高度を下げろ！　回避しろ！\
+……\
+PEDRO: - Madrid、こちらSpringfield-2。グリッドLima-Mike-1-9（LM19）で攻撃を受けている。どうぞ！\
+MADRID: - Springfield-2、こちらMadrid。了解！　その地域から離脱して基地へ帰投せよ。哨戒隊を送り込んで掃討する。\
+PEDRO: - Springfield、了解。どうぞ。\
 ",
     ["DictKey_WptName_425"] = "",
     ["DictKey_WptName_340"] = "",
@@ -348,16 +348,16 @@ PEDRO: - Springfield, copy, over.\
     ["DictKey_WptName_372"] = "",
     ["DictKey_WptName_322"] = "",
     ["DictKey_WptName_400"] = "",
-    ["DictKey_descriptionText_309"] = "Benito大尉は私を士官用クラブ（the officer’s club）に連れて行った。そこには指揮官（CO)Marcos Alonso少佐が居た。\
-- 「Gonzales少尉です。　任務について報告します。」\
-- 「よく来たな少尉、まあ座れ」 Alonso 少佐は　自分の横の椅子を指して言った。　「旅はどうだった？　快適だったか？」\
-- 「お気遣いありがとうございます。　すべて快適でした。」\
-- 「Benito大尉は小言の言い過ぎでぐったりしてなかったかい？　まあ、心配するな。　私のパートナーとして飛ぶ時でさえ同じようなものだから。」　少佐は笑って、彼の方を顎でしゃくった。当の本人はそれに気づかず、入れたてのビールを,すすっていた。「君を暇にはさせないよ。ここでは、やることは多いが経験豊富なパイロットが少ないんだ。君は必ず役に立つはずだ。学校ではみんな優秀だったそうだね」\
-Alonso少佐は、Benito大尉とは間逆な人物であるようだ。\
-- 「ここではたくさん飛ぶのですか？」\
-- 「ああ、毎日仕事があるぞ。 パトロール、前哨基地への補給物資の輸送、たまに病人やけが人の搬送。　ここじゃ絶対に退屈しないぞ。ゆっくり慣れてる暇もない、最初の任務は明日だ。 Benito大尉と一緒に飛んでくれ、この一帯は彼が一番くわしいのだ。」　ショックな知らせだった。　二度と彼には横に座ってほしくないと思っていたからだ。「君にとっては、我々のエースと一緒に飛べることは良いことだよ。 ここでは彼にまさる指導官はいないよ。　そうだろうPedro?」\
-Pedro は酔って盛り上がっていた。\
-- 「もちろん！」　彼は笑って言った。　「心配すんな　新人！　俺がほんもんのパイロットにしてやるって。」　二人の士官は共に大笑いしていた。\
+    ["DictKey_descriptionText_309"] = "Benito大尉は私を士官クラブへ連れていった。そこで指揮官（CO）のMarcos Alonso少佐を見つけた。\
+- 「González少尉、着任の報告に参りました！」\
+- 「よく来たな、少尉。座りたまえ。」Alonso少佐は隣の空いている椅子を指した。「道中はどうだった？　フライトは問題なかったか？」\
+- 「ありがとうございます。すべて順調です。」\
+- 「Benito大尉の小言には、うんざりさせられなかったか？　心配するな。私も彼と一緒に飛ぶたびに同じ目に遭っている。」少佐は笑いながら、副隊長の方へ顎をしゃくった。当のBenitoは気づく様子もなく、注ぎたてのビールをすすっていた。「ここでは君のような人手がぜひとも必要だ。仕事は山ほどあるのに、経験豊富なパイロットが足りない。君ならきっとうまくやれるだろう。飛行学校の教育はしっかりしているからな。私がよく知っている。」\
+Alonso少佐は、性格の面ではBenito大尉と正反対に見えた。\
+- 「ここでは飛行任務が多いのですか？」\
+- 「ああ、毎日仕事がある。哨戒、前哨基地への物資輸送、ときには病人や負傷者の後送もある。ここで退屈することはない。慣れるための時間もないぞ。最初の任務は明日だ。Benito大尉と一緒に飛んでもらう。この地域を彼以上に知る者はいない。」嫌な知らせだった。もう二度とPedroの隣でヘリに乗らずに済めばと思っていたのに。「だが、我々のエースと飛ぶのは君のためになる。この辺りで彼以上の教官はいない。そうだろう、Pedro？」\
+Pedroは急に活気づいた。\
+- 「もちろん！」彼はにやりと笑った。「心配するな、新人！　俺が本物のパイロットにしてやる！」二人の士官はそろって笑った。\
 ",
     ["DictKey_UnitName_137"] = "HP_Madrid Tent 3",
     ["DictKey_46"] = "MISSION FAILED!",
@@ -393,16 +393,16 @@ Pedro は酔って盛り上がっていた。\
     ["DictKey_UnitName_277"] = "HP_Madrid Palat KP #2",
     ["DictKey_UnitName_83"] = "UH_Springfield-11",
     ["DictKey_UnitName_237"] = "HP_Madrid Of mod #21",
-    ["DictKey_40"] = "PEDRO: - くそ、よく見とけっってて言っただろ。　左側から撃たれた！　高度を落として低空飛行をしろ！\
-…\
-PEDRO: - Madrid, Springfield-2. 銃撃を受けている。 グリッド（grid） Lima-Mike-1-9　（LM19)　 over!\
-MADRID: - Springfield-2, Madrid. 了解！ そこから脱出し、帰投せよ。　パトロール隊を出して掃討する。\
-PEDRO: - Springfield, copy, over.\
+    ["DictKey_40"] = "PEDRO: - くそっ、周囲を警戒しろと言っただろ！　攻撃を受けてる！　左側だ！　地面すれすれまで高度を下げろ！　回避しろ！\
+……\
+PEDRO: - Madrid、こちらSpringfield-2。グリッドLima-Mike-1-9（LM19）で攻撃を受けている。どうぞ！\
+MADRID: - Springfield-2、こちらMadrid。了解！　その地域から離脱して基地へ帰投せよ。哨戒隊を送り込んで掃討する。\
+PEDRO: - Springfield、了解。どうぞ。\
 ",
     ["DictKey_GroupName_188"] = "HP_Madrid GKP",
-    ["DictKey_descriptionBlueTask_311"] = "-「おはようございます。」　私は、朝食を終え、司令部のテントで同乗者のBenito大尉と会った。\
--「よう、新人。地図に飛行ルートはもう書いてあるよな？ ほれ、見せてみろ… ふーむ、いいだろう。\
-チェックポイント８（checkpoint 8）に飛んで補給物資を降ろす。簡単なお仕事だ、問題ない。　E3じゃあ、チョッパーに行こうか」　\
+    ["DictKey_descriptionBlueTask_311"] = "- 「おはようございます、大尉！」朝食後、司令部のテントで相棒のBenito大尉と顔を合わせた。\
+- 「よう、新人。飛行経路はもう地図に書き込んだか？　見せてみろ……ふむ、これでいい。\
+チェックポイント8へ物資を届けに行く。簡単な仕事だ、問題ない。さあ、ヘリへ向かうぞ」\
 \
 Kutaisi NDB 477 ID TIG.\
 ",
@@ -427,7 +427,7 @@ Kutaisi NDB 477 ID TIG.\
     ["DictKey_GroupName_166"] = "HP_Madrid Palat #013",
     ["DictKey_UnitName_145"] = "HP_Madrid Palat",
     ["DictKey_UnitName_273"] = "HP_Madrid Palat #39",
-    ["DictKey_32"] = "- Так, салага, запомни это место! Приземляться всегда здесь будешь, на эту площадку. Займёшь чужую, техники тебя отблагодарят. Гаечным ключом промеж глаз. Ну что уставился? Взлетай уже!",
+    ["DictKey_32"] = "PEDRO: - よし、新入り、この場所を覚えておけ！　着陸するときは必ずこのパッドを使え。他人のパッドを使ったら、整備員が礼をしてくれるぞ。両目の間にレンチを一発、とな。何をぼさっと見てる？　さっさと離陸しろ！",
     ["DictKey_UnitName_275"] = "HP_Madrid Palat KP #1",
     ["DictKey_GroupName_242"] = "HP_Madrid Of mod #026",
     ["DictKey_GroupName_90"] = "UH-1_Colt2",
@@ -456,7 +456,7 @@ Kutaisi NDB 477 ID TIG.\
     ["DictKey_WptName_419"] = "",
     ["DictKey_UnitName_209"] = "HP_Madrid GKP #1",
     ["DictKey_GroupName_240"] = "HP_Madrid Of mod #024",
-    ["DictKey_43"] = "PEDRO: - エンジンを切って、指揮官のところにデブリーフィングに行こう。　今日はよくやった。\
+    ["DictKey_43"] = "PEDRO: - エンジンを停止して、COのところへ任務報告に行ってこい。今日はよくやった。\
 \
 ",
     ["DictKey_WptName_376"] = "",

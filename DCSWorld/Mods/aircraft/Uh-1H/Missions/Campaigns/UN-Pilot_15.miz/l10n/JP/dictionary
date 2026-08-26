@@ -27,8 +27,8 @@ dictionary =
     ["DictKey_WptName_573"] = "",
     ["DictKey_WptName_533"] = "",
     ["DictKey_WptName_534"] = "",
-    ["DictKey_75"] = "半年後コーカサスでの国連の任務は終結を向かえました。\
-この任務に参加した人たちは、次にこの美しい国に来る時は観光ツアーで来れることを切に願うのでした。",
+    ["DictKey_75"] = "半年後、コーカサスでの国連の任務は終結を迎えた。\
+この任務の参加者たちは、次にこの美しい国を訪れる時には、観光客として来られることを心から願っている。",
     ["DictKey_UnitName_428"] = "Юнит #70",
     ["DictKey_GroupName_216"] = "HP_Madrid GSM Tualet",
     ["DictKey_GroupName_260"] = "HP_Madrid GSM Tualet #001",
@@ -49,7 +49,7 @@ dictionary =
     ["DictKey_GroupName_386"] = "Наземная группа #002",
     ["DictKey_UnitName_175"] = "BP_Dalyn #3",
     ["DictKey_GroupName_170"] = "BP_Dalyn #001",
-    ["DictKey_68"] = "任務が完了したことを報告せよ",
+    ["DictKey_68"] = "任務完了を報告する",
     ["DictKey_UnitName_95"] = "Юнит #26",
     ["DictKey_UnitName_644"] = "Стат. объект #001",
     ["DictKey_GroupName_296"] = "HP_Madrid Vyshka #010",
@@ -65,11 +65,11 @@ dictionary =
     ["DictKey_GroupName_328"] = "HP_Madrid Of mod #034",
     ["DictKey_UnitName_309"] = "HP_Madrid Of mod #20",
     ["DictKey_WptName_595"] = "",
-    ["DictKey_58"] = "UZI: - Uzi 　兵士を展開します！",
-    ["DictKey_67"] = "MIGUEL: - Madrid, Springfield-2.応答せよ\
-MADRID: - どうぞ Springfield-2.\
-MIGUEL: - ターゲット破壊　動くものは認められない。\
-MADRID: - 了解、道路のパトロールを続けてくれ",
+    ["DictKey_58"] = "UZI: - Uzi、兵員降下完了！",
+    ["DictKey_67"] = "MIGUEL: - Madrid、こちらSpringfield-2。応答せよ。\
+MADRID: - Springfield-2、どうぞ。\
+MIGUEL: - 目標を破壊。ほかに動くものは見当たらない。\
+MADRID: - 了解、道路のパトロールを続けてくれ。",
     ["DictKey_WptName_604"] = "",
     ["DictKey_WptName_570"] = "",
     ["DictKey_UnitName_267"] = "HP_Madrid Palat KP",
@@ -134,9 +134,9 @@ MADRID: - 了解、道路のパトロールを続けてくれ",
     ["DictKey_UnitName_313"] = "HP_Madrid Of mod #22",
     ["DictKey_UnitName_193"] = "HP_Madrid Tent Ukr",
     ["DictKey_WptName_475"] = "",
-    ["DictKey_59"] = "UZI: - Madrid, Uzi. I 東の道路に車両発見。中に武装した男が乗っています。東へ向かっています。\
-MADRID: - Uzi, Madrid. 攻撃を許可する。\
-UZI: - Madrid, Uzi. 了解、攻撃します。",
+    ["DictKey_59"] = "UZI: - Madrid、こちらUzi。東側の道路で、武装した男たちを乗せて東へ向かう車両を視認。\
+MADRID: - Uzi、こちらMadrid。攻撃を許可する。\
+UZI: - Madrid、こちらUzi。了解、攻撃します。",
     ["DictKey_GroupName_230"] = "HP_Madrid Palat #001",
     ["DictKey_GroupName_338"] = "HP_Madrid Palat #026",
     ["DictKey_WptName_495"] = "",
@@ -154,7 +154,7 @@ UZI: - Madrid, Uzi. 了解、攻撃します。",
     ["DictKey_UnitName_168"] = "Юнит #22",
     ["DictKey_GroupName_180"] = "HP_Madrid 4",
     ["DictKey_GroupName_155"] = "UH-1_Uzi",
-    ["DictKey_39"] = "MARCOS: - Springfield-2, Springfield-1. 君の任務を完了できなかった！今から私達は人質を迎えに行くので、デブリーフィングのあと始末書を提出しろ！",
+    ["DictKey_39"] = "MARCOS: - Springfield-2、こちらSpringfield-1。任務に失敗したな！ このままでは人質を取られる。任務後のデブリーフィングで私に報告しろ！",
     ["DictKey_41"] = "ヘリコプターは破壊された",
     ["DictKey_GroupName_280"] = "HP_Madrid Vyshka #004",
     ["DictKey_WptName_625"] = "",
@@ -189,14 +189,14 @@ UZI: - Madrid, Uzi. 了解、攻撃します。",
     ["DictKey_UnitName_293"] = "HP_Madrid Vyshka #8",
     ["DictKey_WptName_537"] = "",
     ["DictKey_UnitName_265"] = "HP_Madrid GKP #001",
-    ["DictKey_40"] = "MARCOS: - Springfield-2, Springfield-1. なぜ作戦域から離脱した？デブリーフィングの後で始末書を提出しろ",
+    ["DictKey_40"] = "MARCOS: - Springfield-2、こちらSpringfield-1。なぜ作戦域から離脱した？　任務後のデブリーフィングで私に報告しろ！",
     ["DictKey_WptName_550"] = "",
     ["DictKey_GroupName_429"] = "MS des Uzi",
     ["DictKey_WptName_455"] = "",
     ["DictKey_GroupName_312"] = "HP_Madrid Of mod #023",
     ["DictKey_GroupName_336"] = "HP_Madrid Of mod #040",
-    ["DictKey_72"] = "まもなく、この仕事はAlonso少佐から新しい司令官に引き継がれる。\
-少佐はこの任務を完了し、スペインに帰国する。帰国後は学校の教員となるそうだ。",
+    ["DictKey_72"] = "まもなく、この仕事はAlonso少佐の後任として着任した新しい司令官に引き継がれた。\
+少佐は任期を終え、士官学校の教官になるためスペインへ帰国した。",
     ["DictKey_UnitName_279"] = "HP_Madrid BlokP #001",
     ["DictKey_GroupName_114"] = "Skl4",
     ["DictKey_WptName_540"] = "",
@@ -205,7 +205,7 @@ UZI: - Madrid, Uzi. 了解、攻撃します。",
     ["DictKey_UnitName_369"] = "BP_Dalyn2 #3",
     ["DictKey_UnitName_154"] = "Colt 1",
     ["DictKey_UnitName_347"] = "HP_Madrid Palat #39",
-    ["DictKey_46"] = "MARCOS: - Springfield飛行隊, Springfield-1. 目的地に近づいた、武器の用意をしろ！",
+    ["DictKey_46"] = "MARCOS: - Springfield各機、こちらSpringfield-1。目標に接近中、兵装使用開始！",
     ["DictKey_UnitName_243"] = "HP_Madrid Palat #1",
     ["DictKey_UnitName_221"] = "HP_Madrid Of mod #3",
     ["DictKey_GroupName_188"] = "HP_Madrid Tent",
@@ -225,7 +225,7 @@ UZI: - Madrid, Uzi. 了解、攻撃します。",
     ["DictKey_UnitName_339"] = "HP_Madrid Palat #25",
     ["DictKey_UnitName_391"] = "Пилот #5",
     ["DictKey_GroupName_318"] = "HP_Madrid Of mod #027",
-    ["DictKey_44"] = "MADRID: - Springfield, Madrid. 離陸を許可します。みなさん幸運を！　敵さんにもよろしく言っといてくれ！",
+    ["DictKey_44"] = "MADRID: - Springfield各機、こちらMadrid。離陸を許可する。みんな、幸運を！　敵さんにもよろしく言っといてくれ！",
     ["DictKey_WptName_603"] = "",
     ["DictKey_GroupName_300"] = "HP_Madrid 2",
     ["DictKey_UnitName_82"] = "Юнит #48",
@@ -233,14 +233,14 @@ UZI: - Madrid, Uzi. 了解、攻撃します。",
     ["DictKey_WptName_612"] = "",
     ["DictKey_UnitName_442"] = "Юнит #89",
     ["DictKey_UnitName_181"] = "HP_Madrid 4",
-    ["DictKey_descriptionText_447"] = "太陽はすでに水平線に向かって沈み始めており、暖かく美しい夜が待っていた。Kutaisiの反乱軍はほぼ壊滅したことを知り、皆の気持ちは軽くなった。地上軍はホットナイフでバターを切るように町を制圧していった。反乱軍は戦車と戦うつもりはなかったが、いきなりその砲火が近づいてくる事態に直面した。いきなり強力な相手に出会った彼らは、急いで撤退することになる。ちりじりになった部隊は、再集結してはいるが、もはや戦闘員とは言えず、ただの武装した男たちの寄せ集めでしかなかった。\
-Bolzén大将は状況をまとめた：\
-「残りの反乱軍は北へ逃走している。山へ入るつもりだ。山に入られると、やつらは一息つくだろうし、探し出して捕まえる事が難しくなる。この作戦のゴールは、最終的には山に到達するのを防ぎ、武器を捨てさせ降伏させることにある。ここからは、司令官のAlonso少佐が説明する。」\
-「大規模な反乱軍が町の北側の川の流域に集結している」司令官は椅子から立ち上がると言い始めた。「やつらは北へ向かっている。我軍はそれを南側から押している。作戦は突入部隊をランディングゾーン（METAXA)へ投入し、北への逃走経路を遮断する。飛行隊　Ford,Colt、Uziは兵士を運んでくれ。Springfieldと147は敵への攻撃とランディングゾーンの援護を任せる。他の脱出経路を抑える必要があるので、 私と僚機は川を監視しして、渡って逃げられないようにする。Gonzálezとその僚機はランディングゾーンから西への道をパトロールして、車両で逃げ出そうとする奴らを止めてくれ。\
-フォーメーションは次のとおりだ：飛行隊１４７が先頭、Springfieldはそれに続け。その５００ｍ後ろにFord,Uzi,Colt飛行隊。突入部隊はヘリコプターの側で待機。５分後に離陸する。行動開始！」\
+    ["DictKey_descriptionText_447"] = "太陽はすでに水平線に向かって沈み始めており、暖かく美しい夜が待っていた。Kutaisiの反乱軍はほぼ壊滅したことを知り、皆の気持ちは軽くなった。地上軍はホットナイフでバターを切るように町を制圧していった。反乱軍は戦車と戦うつもりはなかったが、いきなりその砲火が近づいてくる事態に直面した。強力な相手に出会った彼らは、急いで撤退することになった。ちりじりになった部隊は再集結していたが、もはや戦闘部隊とは言えず、ただの武装した男たちの寄せ集めでしかなかった。\
+Bolzén大将は状況を総括した。\
+「残りの反乱軍は北へ逃走している。山へ入るつもりだ。山に入られると、やつらは一息つくだろうし、探し出して捕まえることが難しくなる。この作戦の目的は、山への到達を防ぎ、武器を捨てさせ、降伏させることにある。ここからは、司令官のAlonso少佐が説明する。」\
+「大規模な反乱軍が町の北側の川の流域に集結している。」司令官は椅子から立ち上がって説明を始めた。「やつらは北へ向かっている。我が軍はそれを南側から押している。作戦は突入部隊をランディングゾーン（METAXA）へ投入し、北への逃走経路を遮断する。Ford、Colt、Uziの各飛行隊は兵士を運んでくれ。Springfieldと147は敵への攻撃とランディングゾーンの援護を任せる。他の脱出経路を抑える必要があるので、私と僚機は川を監視して、渡って逃げられないようにする。Gonzálezとその僚機はランディングゾーンから西への道をパトロールして、車両で逃げ出そうとする奴らを止めてくれ。\
+フォーメーションは次のとおりだ。147飛行隊が先頭、Springfieldはそれに続け。その500m後方にFord、Uzi、Coltの各飛行隊。突入部隊はヘリコプターのそばで待機。5分後に離陸する。行動開始！」\
 ",
     ["DictKey_61"] = "車両を発見したことを報告せよ\
-(ラジオメニューでF10）",
+（ラジオメニューでF10）",
     ["DictKey_GroupName_252"] = "HP_Madrid Palat #016",
     ["DictKey_UnitName_317"] = "HP_Madrid Of mod #25",
     ["DictKey_GroupName_324"] = "HP_Madrid Of mod #031",
@@ -252,15 +252,15 @@ Bolzén大将は状況をまとめた：\
     ["DictKey_GroupName_182"] = "HP_Madrid KP",
     ["DictKey_UnitName_253"] = "HP_Madrid Palat #16",
     ["DictKey_GroupName_423"] = "MS des Ford",
-    ["DictKey_54"] = "MARCOS: - Madrid, Springfield-1. 目標Metaxaに接近中！　LZは安全です！\
+    ["DictKey_54"] = "MARCOS: - Madrid、こちらSpringfield-1。目標Metaxaに接近中！　LZは安全だ！\
 …\
-- ２番機,LZ上空で周回し援護しろ",
-    ["DictKey_38"] = "MARCOS: - Springfield-2, Springfield-1. 見えなくなったぞ。どこにいる？",
+- 2番機、LZ上空を周回して援護しろ。",
+    ["DictKey_38"] = "MARCOS: - Springfield-2、こちらSpringfield-1。見えなくなったぞ。どこにいる？",
     ["DictKey_WptName_552"] = "",
     ["DictKey_UnitName_363"] = "Berlin",
     ["DictKey_UnitName_89"] = "Юнит #41",
     ["DictKey_WptName_600"] = "",
-    ["DictKey_53"] = "MARCOS: - Springfield, ロケット発射！　目標Metaxaへ向かえ！",
+    ["DictKey_53"] = "MARCOS: - Springfield各機、ロケット発射！　目標Metaxaへ向かう！",
     ["DictKey_UnitName_297"] = "HP_Madrid Vyshka #9",
     ["DictKey_GroupName_330"] = "HP_Madrid Of mod #037",
     ["DictKey_GroupName_226"] = "HP_Madrid Of mod #014",
@@ -319,22 +319,22 @@ Bolzén大将は状況をまとめた：\
     ["DictKey_GroupName_395"] = "UH-60_Ford",
     ["DictKey_UnitName_430"] = "Юнит #79",
     ["DictKey_UnitName_80"] = "Юнит #50",
-    ["DictKey_69"] = "METAXA: - Madrid, こちら Metaxa！\
-MADRID: - どうぞ, Metaxa.\
+    ["DictKey_69"] = "METAXA: - Madrid、こちらMetaxa！\
+MADRID: - Metaxa、どうぞ。\
 METAXA: - 敵を無力化した。残った兵士は降伏した。目標は確保している。\
-MADRID: - 了解、計画通り進めてくれ",
+MADRID: - 了解、計画どおり進めてくれ。",
     ["DictKey_UnitName_373"] = "BP_Dalyn2 #5",
     ["DictKey_UnitName_287"] = "HP_Madrid Vyshka #5",
     ["DictKey_36"] = "MISSION SUCCESS!\
 \
 キャンペーンを完了しました！",
-    ["DictKey_50"] = "COLT: - Coltは目標Metaxaに接近中!",
+    ["DictKey_50"] = "COLT: - こちらColt。目標Metaxaに接近中！",
     ["DictKey_UnitName_446"] = "Юнит #85",
     ["DictKey_WptName_529"] = "",
     ["DictKey_UnitName_259"] = "HP_Madrid Palat #021",
     ["DictKey_UnitName_148"] = "Пилот #3",
     ["DictKey_42"] = "MISSION FAILED!",
-    ["DictKey_51"] = "FORD: - Fordは目標Metaxaに接近中!",
+    ["DictKey_51"] = "FORD: - こちらFord。目標Metaxaに接近中！",
     ["DictKey_WptName_531"] = "",
     ["DictKey_UnitName_371"] = "BP_Dalyn2 #4",
     ["DictKey_UnitName_393"] = "Mi-148",
@@ -352,7 +352,7 @@ MADRID: - 了解、計画通り進めてくれ",
     ["DictKey_WptName_585"] = "",
     ["DictKey_WptName_526"] = "",
     ["DictKey_GroupName_208"] = "HP_Madrid Tent 2",
-    ["DictKey_56"] = "FORD: - Ford 　兵士を展開します！",
+    ["DictKey_56"] = "FORD: - Ford、兵員降下完了！",
     ["DictKey_GroupName_178"] = "Наземная группа #006",
     ["DictKey_GroupName_234"] = "HP_Madrid Palat #009",
     ["DictKey_UnitName_161"] = "Springfield 1",
@@ -362,9 +362,9 @@ MADRID: - 了解、計画通り進めてくれ",
     ["DictKey_GroupName_122"] = "Стат. объект #006",
     ["DictKey_UnitName_319"] = "HP_Madrid Of mod #26",
     ["DictKey_WptName_580"] = "",
-    ["DictKey_74"] = "もちろんGonzález少尉はヘリコプターなしでは許されないでしょう。\
-司令官は彼のスキルと経験が十分あることに満足し、彼にUzi飛行隊の指揮を任せました。Uziの指揮官であったDaniel Garcíaは任務を終えてスペインに帰国しまし。\
-その後すぐ、Miguelは中尉に昇進しますが、これもPedroがパーティーを開く格好の材料になりました。",
+    ["DictKey_74"] = "もちろんGonzález少尉がヘリコプターなしでいられるはずもなかった。\
+新任司令官はMiguelの技量と経験を高く評価し、Uzi飛行隊の指揮を任せた。Uziの指揮官だったDaniel Garcíaは任務を終え、スペインへ帰国した。\
+その後まもなくMiguelは中尉に昇進したが、これもPedroがパーティーを開く格好の材料になった。",
     ["DictKey_WptName_616"] = "",
     ["DictKey_GroupName_374"] = "BP_Dalyn2 #007",
     ["DictKey_GroupName_407"] = "BP_5 boec",
@@ -411,11 +411,11 @@ MADRID: - 了解、計画通り進めてくれ",
     ["DictKey_WptName_592"] = "",
     ["DictKey_UnitName_96"] = "Юнит #23",
     ["DictKey_UnitName_295"] = "HP_Madrid Vyshka #10",
-    ["DictKey_47"] = "MARCOS: - Springfield, Springfield-1. 突入する！　方位０６５ 敵と特定しだいロケットで攻撃しろ！",
+    ["DictKey_47"] = "MARCOS: - Springfield各機、こちらSpringfield-1。突入する！　方位065、目標を確認したら直ちにロケットで攻撃しろ！",
     ["DictKey_WptName_513"] = "",
     ["DictKey_UnitName_269"] = "HP_Madrid Palat KP #001",
-    ["DictKey_55"] = "MARCOS: - ２番機, LZ西の道路をチェックしろ。逃げようとする反乱軍を攻撃しろ！\
-MIGUEL: - Springfield-2, わかりました。",
+    ["DictKey_55"] = "MARCOS: - 2番機、LZ西側の道路を確認しろ。逃走する反乱軍を攻撃しろ！\
+MIGUEL: - Springfield-2、了解。",
     ["DictKey_UnitName_152"] = "Colt 3",
     ["DictKey_UnitName_291"] = "HP_Madrid Vyshka #7",
     ["DictKey_UnitName_115"] = "Skl4",
@@ -426,7 +426,7 @@ MIGUEL: - Springfield-2, わかりました。",
     ["DictKey_UnitName_385"] = "Юнит #1",
     ["DictKey_UnitName_207"] = "HP_Madrid BP 4",
     ["DictKey_WptName_459"] = "",
-    ["DictKey_45"] = "MARCOS: - Springfield飛行隊, こちらSpringfield-1. フォーメーションを組め。　方位０６０　９０Knots",
+    ["DictKey_45"] = "MARCOS: - Springfield各機、こちらSpringfield-1。編隊を組め。方位060、速度90ノット。",
     ["DictKey_UnitName_123"] = "Стат. объект #2",
     ["DictKey_UnitName_335"] = "HP_Madrid Of mod #38",
     ["DictKey_GroupName_274"] = "HP_Madrid Vyshka #003",
@@ -453,9 +453,9 @@ MIGUEL: - Springfield-2, わかりました。",
     ["DictKey_WptName_622"] = "",
     ["DictKey_UnitName_311"] = "HP_Madrid Of mod #21",
     ["DictKey_UnitName_225"] = "HP_Madrid Of mod #11",
-    ["DictKey_60"] = "COLT: - Madrid, Colt. 東の道路に車両に乗った兵士を発見。.逃げようとしています。\
-MADRID: - Colt, Madrid. 攻撃を許可する\
-COLT: - Madrid, Colt. 了解、攻撃します。",
+    ["DictKey_60"] = "COLT: - Madrid、こちらColt。東の道路上に、車両で移動する敵兵を発見。逃走しようとしています。\
+MADRID: - Colt、こちらMadrid。攻撃を許可する。\
+COLT: - Madrid、こちらColt。了解、攻撃します。",
     ["DictKey_GroupName_282"] = "HP_Madrid GKP #002",
     ["DictKey_UnitName_235"] = "HP_Madrid Palat #9",
     ["DictKey_UnitName_247"] = "HP_Madrid Palat #5",
@@ -479,16 +479,16 @@ COLT: - Madrid, Colt. 了解、攻撃します。",
     ["DictKey_UnitName_199"] = "HP_Madrid GSM 3",
     ["DictKey_WptName_572"] = "",
     ["DictKey_GroupName_112"] = "Skl1",
-    ["DictKey_descriptionBlueTask_449"] = "コールサインと周波数の書かれたミッションカードをBenito大尉から受け取り、ヘリコプターへ走っていった。ヘリコプターは大きな夕日の光で少しピンクがかって見えた。Pedroは少し悲しそうな目をしていた。きっと一緒に行きたかったに違いない。私はすこしかわいそうに思えた。彼はビールと女性と同じくらい飛ぶことが好きだった。ひょっとすると人生で一番劇的な瞬間かになるかもしれないこの時に、今の彼は、そのどれも持っていなかった。あまり認めたくはないが、Pedroが私の隣、左座席に座っていた時が本当に懐かしい。\
-こんな事を考えていた時、無線から彼の声が聞こえてきた。\
-「Springfield, こちらMadrid　離陸を許可します。みなさん幸運を！　敵さんにもよろしく言っといてくれ！」\
+    ["DictKey_descriptionBlueTask_449"] = "コールサインと周波数の書かれたミッションカードをBenito大尉から受け取り、ヘリコプターへ走っていった。ヘリコプターは大きな夕日の光で少しピンクがかって見えた。Pedroは少し悲しそうな目をしていた。きっと一緒に行きたかったに違いない。私は少しかわいそうに思えた。彼はビールや女性と同じくらい飛ぶことが好きだった。軍歴の中でも、とりわけ重要な局面になるかもしれないというのに、今の彼にはそのどれも許されていなかった。あまり認めたくはないが、Pedroが私の隣、左座席に座っていた頃が本当に懐かしい。\
+こんなことを考えていた時、無線から彼の声が聞こえてきた。\
+「Springfield各機、こちらMadrid。離陸を許可します。みなさん、幸運を！　敵さんにもよろしく言っといてくれ！」\
 \
-Takeoff: FARP MADRID\
-Springfield-1について行け。ウェッジフォーメーション　左後ろ　１００ｍ以内\
-METAXA ランディングゾーン（LZ）に近づいたら武器を用意し、反乱軍を攻撃せよ。\
-突入部隊を援護し、LZ近辺の脅威を取り除け\
+離陸：FARP MADRID\
+Springfield-1に続け。リーダーの左後方100m以内でウェッジ隊形を維持せよ。\
+METAXAランディングゾーン（LZ）に近づいたら武器を用意し、反乱軍を攻撃せよ。\
+突入部隊を援護し、LZ近辺の脅威を取り除け。\
 突入部隊の展開が完了したら、LZ西の道路をパトロールせよ。車両で北に向けて逃走する反乱軍を阻止せよ。\
-Landing: FARP MADRID",
+着陸：FARP MADRID",
     ["DictKey_WptName_512"] = "",
     ["DictKey_WptName_627"] = "",
     ["DictKey_WptName_562"] = "",
@@ -515,13 +515,13 @@ Landing: FARP MADRID",
     ["DictKey_GroupName_147"] = "Player",
     ["DictKey_GroupName_370"] = "BP_Dalyn2 #005",
     ["DictKey_GroupName_352"] = "HP_Madrid Of mod #041",
-    ["DictKey_57"] = "COLT: - Colt 　兵士を展開します！",
+    ["DictKey_57"] = "COLT: - Colt、兵員降下完了！",
     ["DictKey_WptName_501"] = "",
     ["DictKey_WptName_511"] = "",
     ["DictKey_WptName_456"] = "",
     ["DictKey_WptName_593"] = "",
     ["DictKey_WptName_568"] = "",
-    ["DictKey_37"] = "MARCOS: - Springfield-2, Springfield-1. 付いてこい！　距離を詰めろ！",
+    ["DictKey_37"] = "MARCOS: - Springfield-2、こちらSpringfield-1。ついてこい！　距離を詰めろ！",
     ["DictKey_WptName_477"] = "",
     ["DictKey_GroupName_264"] = "HP_Madrid GKP #001",
     ["DictKey_GroupName_372"] = "BP_Dalyn2 #006",
@@ -551,7 +551,7 @@ Landing: FARP MADRID",
     ["DictKey_WptName_493"] = "",
     ["DictKey_UnitName_647"] = "Стат. объект #001",
     ["DictKey_WptName_577"] = "",
-    ["DictKey_66"] = "任務が完了したことを報告せよ",
+    ["DictKey_66"] = "任務完了を報告する",
     ["DictKey_GroupName_194"] = "HP_Madrid GSM Ukr",
     ["DictKey_WptName_633"] = "",
     ["DictKey_WptName_463"] = "",
@@ -589,17 +589,17 @@ Landing: FARP MADRID",
     ["DictKey_WptName_543"] = "",
     ["DictKey_WptName_545"] = "",
     ["DictKey_GroupName_348"] = "HP_Madrid Palat KP #002",
-    ["DictKey_49"] = "UZI: - Uzi は目標Metaxaに接近中!",
-    ["DictKey_65"] = "任務が完了したことを報告せよ\
-(ラジオメニューでF10）",
+    ["DictKey_49"] = "UZI: - こちらUzi。目標Metaxaに接近中！",
+    ["DictKey_65"] = "任務完了を報告する\
+（ラジオメニューでF10）",
     ["DictKey_UnitName_349"] = "HP_Madrid Palat KP #1",
     ["DictKey_WptName_509"] = "",
     ["DictKey_WptName_538"] = "",
     ["DictKey_WptName_473"] = "",
     ["DictKey_WptName_560"] = "",
     ["DictKey_GroupName_294"] = "HP_Madrid Vyshka #011",
-    ["DictKey_70"] = "MADRID: - こちらMadrid. 全員聞いてくれ！　作戦は成功した！　全員帰還してくれ。　みんな、よくやってくれた！",
-    ["DictKey_52"] = "147: - 147, ターゲットヒット　離脱する！",
+    ["DictKey_70"] = "MADRID: - こちらMadrid。全員聞いてくれ！　作戦は成功した！　全員帰還してくれ。みんな、よくやってくれた！",
+    ["DictKey_52"] = "147: - 目標に命中。離脱する！",
     ["DictKey_WptName_551"] = "",
     ["DictKey_WptName_614"] = "",
     ["DictKey_GroupName_272"] = "HP_Madrid Vyshka #002",
@@ -607,8 +607,8 @@ Landing: FARP MADRID",
     ["DictKey_WptName_451"] = "",
     ["DictKey_GroupName_288"] = "HP_Madrid Vyshka #007",
     ["DictKey_GroupName_210"] = "HP_Madrid Tent 3",
-    ["DictKey_71"] = "この戦闘が、この平和維持活動における国連ヘリコプター隊の最後の戦いではなかったですが、一つの作戦に全部隊を投入するような事はこれが最後であった。\
-衝突は緩やかになり、より管理しやすい状況に移行した。しかし、パトロールや車両検査での突発的戦闘は、まだ時々起こっている。いつものことだが、平和を維持するためにはたゆまぬ努力と危険、犠牲がつきものである。",
+    ["DictKey_71"] = "この戦闘は、この平和維持活動における国連ヘリコプター隊の最後の戦いではなかったが、一つの作戦に全部隊の戦力を投入したのはこれが最後であった。\
+紛争は徐々に沈静化し、より対処しやすい状態へ移行した。しかし、散発的な銃撃や哨戒、車両検査はしばらく続いた。いつものことだが、平和を維持するには努力と危険、犠牲が伴う。",
     ["DictKey_WptName_555"] = "",
     ["DictKey_UnitName_353"] = "HP_Madrid Of mod #40",
     ["DictKey_WptName_460"] = "",
@@ -620,22 +620,22 @@ Landing: FARP MADRID",
     ["DictKey_UnitName_321"] = "HP_Madrid Of mod #28",
     ["DictKey_WptName_609"] = "",
     ["DictKey_WptName_608"] = "",
-    ["DictKey_48"] = "147: - 147, 突入する！",
+    ["DictKey_48"] = "147: - 突入する！",
     ["DictKey_UnitName_444"] = "Юнит #87",
     ["DictKey_descriptionRedTask_448"] = "",
-    ["DictKey_73"] = "Benito大尉は回復するのにそれほど時間はかかりませんでした。医者の検査にパスした彼は、飛行任務に復帰しました。医者からの許可がは、かっこうの飲む口実でした。その夜にPedroは士官クラブでパーティーを開きました。その時までに飛行隊には多くの祝い事ができていましたので盛大なパーティーとなりました。次の日、Pedroは彼のSpringfield-2 の機体をMiguelから取り戻しました。",
+    ["DictKey_73"] = "Benito大尉の回復には、それほど時間はかからなかった。医師の検査に合格した彼は、飛行任務への復帰を許可された。飲酒制限も解かれ、格好の乾杯の口実ができた。その夜、Pedroは士官クラブでパーティーを開いた。その時までに飛行隊には祝うべき出来事がいくつもあり、盛大なパーティーとなった。翌日、PedroはMiguelからSpringfield-2の機体を取り戻した。",
     ["DictKey_UnitName_396"] = "Ford 4",
     ["DictKey_UnitName_432"] = "Юнит #77",
     ["DictKey_UnitName_285"] = "HP_Madrid Vyshka #4",
     ["DictKey_WptName_607"] = "",
     ["DictKey_WptName_502"] = "",
     ["DictKey_UnitName_443"] = "Юнит #88",
-    ["DictKey_63"] = "MIGUEL: - Madrid, こちらSpringfield-2, 応答せよ！\
-MADRID: - Springfield-2.　どうぞ\
-MIGUEL: - 目標Metaxaの西に車両グループを発見。北方向へ移動中。武装している。\
-MADRID: - 了解、攻撃して、車両グループを排除してくれ。町に入れさせてはならない。人質を取られてします。 \
-MIGUEL: - Springfield-2, 了解 、車両グループを攻撃する\
-MADRID: - 地獄に落としてやれ, Miguel！",
+    ["DictKey_63"] = "MIGUEL: - Madrid、こちらSpringfield-2。応答せよ！\
+MADRID: - Springfield-2、どうぞ。\
+MIGUEL: - 目標Metaxaの西に車列を発見。北へ移動中。武装しているようだ。\
+MADRID: - 了解。攻撃して車列を排除してくれ。町に入れさせてはならない。人質を取るかもしれない。\
+MIGUEL: - Springfield-2、了解。車列を攻撃する。\
+MADRID: - 思い知らせてやれ、Miguel！",
     ["DictKey_UnitName_325"] = "HP_Madrid Of mod #30",
     ["DictKey_64"] = "車両を発見したことを報告せよ",
     ["DictKey_WptName_565"] = "",
@@ -643,7 +643,7 @@ MADRID: - 地獄に落としてやれ, Miguel！",
     ["DictKey_UnitName_437"] = "Юнит #83",
     ["DictKey_UnitName_421"] = "Юнит #69",
     ["DictKey_WptName_469"] = "",
-    ["DictKey_sortie_450"] = "Good Evening",
+    ["DictKey_sortie_450"] = "こんばんは",
     ["DictKey_WptName_524"] = "",
     ["DictKey_GroupName_322"] = "HP_Madrid Of mod #030",
     ["DictKey_UnitName_185"] = "HP_Madrid GSM",

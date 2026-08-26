@@ -63,11 +63,13 @@ dictionary =
     ["DictKey_GroupName_321"] = "An-26_traf",
     ["DictKey_UnitName_356"] = "Юнит #4",
     ["DictKey_WptName_392"] = "",
-    ["DictKey_58"] = "MIGUEL: - 司令、ここも先ほどのように着陸しますか？\
-BOLZÉN: - いや、ここは大体わかっている。上から見て、何か問題がないかだけ確認する。川に沿ってKutaisiに向かってくれ",
-    ["DictKey_67"] = "MIGUEL: - Kampari, Springfield-2.　応答せよ\
-KAMPARI: - Springfield-2, Kampari. どうぞ\
-MIGUEL: - 着陸を要請する。マークしてくれKAMPARI: - 着陸を許可します。　着陸ポイントにオレンジスモークを焚きます。",
+    ["DictKey_58"] = "MIGUEL: - 大将、ここも先ほどのように着陸しますか？\
+BOLZÉN: - いや、ここは大体わかっている。上から見て、何か問題がないかだけ確認する。川に沿ってKutaisiに向かってくれ。",
+    ["DictKey_67"] = "MIGUEL: - Kampari、こちらSpringfield-2。\
+KAMPARI: - Springfield-2、こちらKampari。どうぞ。\
+MIGUEL: - 着陸許可と地点標示を要請する。\
+KAMPARI: - 着陸を許可する。着陸地点をオレンジ色のスモークで示す。\
+",
     ["DictKey_WptName_407"] = "",
     ["DictKey_UnitName_128"] = "HP_Madrid BP Ukr",
     ["DictKey_UnitName_106"] = "Юнит #29",
@@ -80,7 +82,7 @@ MIGUEL: - 着陸を要請する。マークしてくれKAMPARI: - 着陸を許�
     ["DictKey_UnitName_224"] = "HP_Madrid Vyshka #5",
     ["DictKey_WptName_480"] = "",
     ["DictKey_UnitName_365"] = "Юнит #10",
-    ["DictKey_43"] = "Запрос посадки на фрегат",
+    ["DictKey_43"] = "フリゲート艦への着艦を要請",
     ["DictKey_GroupName_309"] = "UH_Prop",
     ["DictKey_GroupName_187"] = "HP_Madrid Palat #015",
     ["DictKey_UnitName_294"] = "BP_Dalyn2",
@@ -100,7 +102,7 @@ MIGUEL: - 着陸を要請する。マークしてくれKAMPARI: - 着陸を許�
     ["DictKey_UnitName_86"] = "Uzi 4",
     ["DictKey_GroupName_303"] = "BP_Dalyn2 #003",
     ["DictKey_UnitName_350"] = "GFOR HMMW",
-    ["DictKey_66"] = "Запрос посадки на фрегат",
+    ["DictKey_66"] = "フリゲート艦への着艦を要請",
     ["DictKey_UnitName_228"] = "HP_Madrid Vyshka #7",
     ["DictKey_WptName_452"] = "",
     ["DictKey_UnitName_142"] = "HP_Madrid BP 3",
@@ -142,8 +144,8 @@ MIGUEL: - 着陸を要請する。マークしてくれKAMPARI: - 着陸を許�
     ["DictKey_UnitName_288"] = "HP_Madrid Palat KP #2",
     ["DictKey_GroupName_155"] = "HP_Madrid Palat",
     ["DictKey_UnitName_314"] = "BP_Dalyn2 #6",
-    ["DictKey_39"] = "Запрос посадки на фрегат",
-    ["DictKey_41"] = "Запрос посадки на фрегат",
+    ["DictKey_39"] = "フリゲート艦への着艦を要請",
+    ["DictKey_41"] = "フリゲート艦への着艦を要請",
     ["DictKey_WptName_547"] = "",
     ["DictKey_GroupName_243"] = "HP_Madrid Ukr",
     ["DictKey_WptName_465"] = "",
@@ -169,9 +171,9 @@ MIGUEL: - 着陸を要請する。マークしてくれKAMPARI: - 着陸を許�
     ["DictKey_GroupName_267"] = "HP_Madrid Of mod #037",
     ["DictKey_UnitName_254"] = "HP_Madrid Of mod #25",
     ["DictKey_WptName_537"] = "",
-    ["DictKey_40"] = "BOLZÉN: - 指揮官、ここはリポーターと一緒の時に撃たれた場所か？\
+    ["DictKey_40"] = "BOLZÉN: - 機長、ここはリポーターと一緒の時に撃たれた場所か？\
 MIGUEL: - はい、そうです！\
-BOLZÉN: - 彼らいい記事を書いてくれそうだな。ところで、犯人は捕まえたのか？\
+BOLZÉN: - 彼らはいい記事を書いてくれそうだな。ところで、犯人は捕まえたのか？\
 MIGUEL: - 駄目でした。パトロール隊を出したのですが、キャンプはすでにカラでした。",
     ["DictKey_GroupName_161"] = "HP_Madrid Of mod #012",
     ["DictKey_WptName_550"] = "",
@@ -202,9 +204,9 @@ MIGUEL: - 駄目でした。パトロール隊を出したのですが、キャ�
     ["DictKey_GroupName_133"] = "HP_Madrid GSM 2",
     ["DictKey_UnitName_112"] = "BP_Dalyn #3",
     ["DictKey_WptName_414"] = "",
-    ["DictKey_44"] = "BOLZÉN: - 山の位置から判断して、チェックポイント５に向かっているのかな？\
-MIGUEL: - その通りです。司令\
-BOLZÉN: - そこの指揮官と話をしたい。チェックポイント５で少しの間降ろしてくれ。\
+    ["DictKey_44"] = "BOLZÉN: - 山の位置から判断して、チェックポイント5に向かっているのかな？\
+MIGUEL: - そのとおりです、大将。\
+BOLZÉN: - そこの指揮官と話をしたい。チェックポイント5で少しの間降ろしてくれ。\
 MIGUEL: - わかりました！",
     ["DictKey_GroupName_207"] = "HP_Madrid Vyshka #001",
     ["DictKey_UnitName_200"] = "HP_Madrid GKP",
@@ -213,7 +215,7 @@ MIGUEL: - わかりました！",
     ["DictKey_GroupName_121"] = "HP_Madrid GSM",
     ["DictKey_GroupName_287"] = "HP_Madrid Palat KP #003",
     ["DictKey_34"] = "船への着陸を要請する",
-    ["DictKey_61"] = "Запрос посадки на фрегат",
+    ["DictKey_61"] = "フリゲート艦への着艦を要請",
     ["DictKey_GroupName_195"] = "HP_Madrid Palat #021",
     ["DictKey_WptName_492"] = "",
     ["DictKey_GroupName_271"] = "HP_Madrid Of mod #039",
@@ -223,14 +225,14 @@ MIGUEL: - わかりました！",
     ["DictKey_GroupName_159"] = "HP_Madrid Of mod #007",
     ["DictKey_WptName_553"] = "",
     ["DictKey_UnitName_266"] = "HP_Madrid Of mod #33",
-    ["DictKey_54"] = "BOLZÉN: - 指揮官、 ここもさっきと同じように着陸してくれ。ここでも話を聞きたい。",
-    ["DictKey_38"] = "BOLZÉN: - 指揮官、飛行計画はあるか？\
-MIGUEL: - はい、ございます。!\
-BOLZÉN: - そうか、ではまず、Zugdidiに行こう",
+    ["DictKey_54"] = "BOLZÉN: - 機長、ここもさっきと同じように着陸してくれ。ここでも話を聞きたい。",
+    ["DictKey_38"] = "BOLZÉN: - 機長、飛行計画はあるか？\
+MIGUEL: - はい、あります！\
+BOLZÉN: - そうか、ではまず、Zugdidiに行こう。",
     ["DictKey_UnitName_363"] = "GFOR",
     ["DictKey_UnitName_326"] = "Юнит #1",
     ["DictKey_WptName_401"] = "",
-    ["DictKey_53"] = "Запрос посадки на фрегат",
+    ["DictKey_53"] = "フリゲート艦への着艦を要請",
     ["DictKey_UnitName_310"] = "UH_Prop",
     ["DictKey_WptName_467"] = "",
     ["DictKey_UnitName_360"] = "Юнит #24",
@@ -264,10 +266,10 @@ BOLZÉN: - そうか、ではまず、Zugdidiに行こう",
     ["DictKey_UnitName_262"] = "HP_Madrid Of mod #30",
     ["DictKey_UnitName_170"] = "HP_Madrid Palat #8",
     ["DictKey_UnitName_216"] = "HP_Madrid BlokP #001",
-    ["DictKey_descriptionBlueTask_380"] = "Takeoff: SENAKI-KOLKHI 空港\
-飛行計画にしたがい、Potiまで飛行してください。フリゲート艦Giresunを見つけ着陸してください。\
-Bolzén大将をヘリコプターに乗せて、飛行計画、および、大将の指示に従って下さい。\
-Landing: FARP MADRID\
+    ["DictKey_descriptionBlueTask_380"] = "離陸：SENAKI-KOLKHI空港\
+飛行計画に従ってPotiまで飛行し、フリゲート艦Giresunを発見して着艦せよ。\
+Bolzén大将を搭乗させ、飛行計画および大将の指示に従え。\
+着陸：FARP MADRID\
 ",
     ["DictKey_GroupName_241"] = "HP_Madrid 3",
     ["DictKey_UnitName_105"] = "Юнит #30",
@@ -280,24 +282,25 @@ Landing: FARP MADRID\
     ["DictKey_WptName_418"] = "",
     ["DictKey_UnitName_377"] = "Юнит #18",
     ["DictKey_WptName_429"] = "",
-    ["DictKey_57"] = "Запрос посадки на фрегат",
+    ["DictKey_57"] = "フリゲート艦への着艦を要請",
     ["DictKey_UnitName_208"] = "HP_Madrid Vyshka #1",
     ["DictKey_GroupName_367"] = "GFOR HQ #001",
     ["DictKey_WptName_384"] = "",
     ["DictKey_WptName_556"] = "",
     ["DictKey_GroupName_281"] = "HP_Madrid Palat #039",
     ["DictKey_WptName_399"] = "",
-    ["DictKey_69"] = "BOLZÉN: - 指揮官、 乗せてくれてありがとう。ここで降りる。君は基地に帰ってくれて構わない。\
+    ["DictKey_69"] = "BOLZÉN: - 機長、乗せてくれてありがとう。ここで降りる。君は基地に帰ってくれて構わない。\
 MIGUEL: - わかりました。",
     ["DictKey_UnitName_373"] = "GFOR Gen",
-    ["DictKey_36"] = "GIRESUN: - Springfield-2, ようこそ。大将はすぐに出てきます",
+    ["DictKey_36"] = "GIRESUN: - Springfield-2、ようこそ。大将はすぐに出てきます。",
     ["DictKey_GroupName_173"] = "HP_Madrid Palat #010",
     ["DictKey_WptName_529"] = "",
     ["DictKey_UnitName_148"] = "HP_Madrid Tent 3",
-    ["DictKey_42"] = "BOLZÉN: - この地域にはいくつかチェックポイントがあるのは知っているが、ここで攻撃を受けたという報告は上がっていなかった。パイロット達は何か言っているか？\
-MIGUEL: - いいえ、すべて順調です。 Zugdidi上空では何も問題は起こっていません。\
-BOLZÉN: - そうか、なら良い。川に沿って町を抜けてから次の地点に向かうと思っていたのだが、違うのかな？",
-    ["DictKey_51"] = "Запрос посадки на фрегат",
+    ["DictKey_42"] = "BOLZÉN: - この地域にはチェックポイントがいくつかあると聞いている。ここで攻撃があったとの報告は受けていないが、パイロットたちは何と言っている？\
+MIGUEL: - はい、すべて順調です。Zugdidi上空を飛行して問題が起きたことはありません。\
+BOLZÉN: - よし。ここは川に沿って市街地を抜け、それから次の地点へ向かおう。\
+",
+    ["DictKey_51"] = "フリゲート艦への着艦を要請",
     ["DictKey_WptName_531"] = "",
     ["DictKey_UnitName_371"] = "Юнит #17",
     ["DictKey_UnitName_248"] = "HP_Madrid Of mod #21",
@@ -313,7 +316,7 @@ BOLZÉN: - そうか、なら良い。川に沿って町を抜けてから次の
     ["DictKey_GroupName_169"] = "HP_Madrid Palat #008",
     ["DictKey_WptName_526"] = "",
     ["DictKey_UnitName_160"] = "HP_Madrid Of mod #6",
-    ["DictKey_56"] = "BOLZÉN: - 終わったよ。チェックポイント８へ向かおう",
+    ["DictKey_56"] = "BOLZÉN: - 終わったよ。チェックポイント8へ向かおう。",
     ["DictKey_GroupName_74"] = "Стат. объект #002",
     ["DictKey_GroupName_325"] = "BP_Dalyn #003",
     ["DictKey_WptName_390"] = "",
@@ -335,7 +338,7 @@ BOLZÉN: - そうか、なら良い。川に沿って町を抜けてから次の
     ["DictKey_GroupName_249"] = "HP_Madrid Of mod #023",
     ["DictKey_UnitName_77"] = "Giresun",
     ["DictKey_UnitName_96"] = "Юнит #9",
-    ["DictKey_sortie_381"] = "VIP Passenger",
+    ["DictKey_sortie_381"] = "VIP乗客",
     ["DictKey_WptName_400"] = "",
     ["DictKey_WptName_461"] = "",
     ["DictKey_UnitName_118"] = "HP_Madrid 4",
@@ -351,7 +354,7 @@ BOLZÉN: - そうか、なら良い。川に沿って町を抜けてから次の
     ["DictKey_GroupName_185"] = "HP_Madrid Palat #014",
     ["DictKey_UnitName_232"] = "HP_Madrid Vyshka #10",
     ["DictKey_WptName_499"] = "",
-    ["DictKey_47"] = "Запрос посадки на фрегат",
+    ["DictKey_47"] = "フリゲート艦への着艦を要請",
     ["DictKey_WptName_513"] = "",
     ["DictKey_UnitName_102"] = "Юнит #33",
     ["DictKey_WptName_523"] = "",
@@ -360,7 +363,7 @@ BOLZÉN: - そうか、なら良い。川に沿って町を抜けてから次の
     ["DictKey_WptName_406"] = "",
     ["DictKey_WptName_459"] = "",
     ["DictKey_45"] = "BOLZÉN: - ありがとう。指揮官と話をするので、少し待っていてくれ。\
-MIGUEL: - Yes, sir.",
+MIGUEL: - はい、大将。",
     ["DictKey_GroupName_227"] = "HP_Madrid Vyshka #008",
     ["DictKey_UnitName_190"] = "HP_Madrid Palat #16",
     ["DictKey_UnitName_138"] = "HP_Madrid GSM 4",
@@ -370,10 +373,11 @@ MIGUEL: - Yes, sir.",
     ["DictKey_GroupName_115"] = "Наземная группа #006",
     ["DictKey_UnitName_206"] = "HP_Madrid Palat KP #001",
     ["DictKey_UnitName_104"] = "Юнит #31",
-    ["DictKey_60"] = "MIGUEL: - このエリアは私が最初に撃たれた場所です。\
-BOLZÉN: - 本当かい？。怖かったかい？\
-MIGUEL: - 覚えていません… が、多分なかったと思います。それよりも、副司令官を怒らせるほうがもっと怖かったように思います。\
-BOLZÉN: - そうだな、私たちの時代のように怒鳴られることに慣れていないからな。確かに、恐ろしいな。",
+    ["DictKey_60"] = "MIGUEL: - この辺りは、私が初めて銃撃を受けた場所です。\
+BOLZÉN: - そうなのか？ 怖かったか？\
+MIGUEL: - 覚えていません……たぶん。それより、自分の飛び方で副操縦士を怒らせるほうが怖かったと思います！\
+BOLZÉN: - 確かに、君の機体には私が慣れているような装甲はないからな。さぞ怖いだろう！\
+",
     ["DictKey_UnitName_172"] = "HP_Madrid Palat #9",
     ["DictKey_WptName_419"] = "",
     ["DictKey_UnitName_280"] = "HP_Madrid Palat #37",
@@ -430,9 +434,9 @@ BOLZÉN: - そうだな、私たちの時代のように怒鳴られることに
     ["DictKey_UnitName_110"] = "BP_Dalyn #2",
     ["DictKey_37"] = "BOLZÉN: - やあ、いい天気だな諸君！\
 MIGUEL: - よろしくお願いします。\
-BOLZÉN: - 準備はできているかい？　では、出発しよう。指揮官、離陸してくれ\
-MIGUEL: - 大将、ハーネスを締めていただけますか？途中揺れるかもしれません。\
-BOLZÉN: -わかった。言うとおりに締めておこう",
+BOLZÉN: - 準備はできているかい？　では、出発しよう。機長、離陸してくれ。\
+MIGUEL: - 大将、ハーネスを締めていただけますか？　途中揺れるかもしれません。\
+BOLZÉN: - わかった。言うとおりに締めておこう。",
     ["DictKey_WptName_474"] = "",
     ["DictKey_30"] = "MISSION FAILED!",
     ["DictKey_GroupName_135"] = "HP_Madrid GSM 3",
@@ -442,8 +446,8 @@ BOLZÉN: -わかった。言うとおりに締めておこう",
     ["DictKey_UnitName_184"] = "HP_Madrid Palat #5",
     ["DictKey_WptName_548"] = "",
     ["DictKey_UnitName_250"] = "HP_Madrid Of mod #22",
-    ["DictKey_50"] = "BOLZÉN: - それほど、損傷を受けていないよう見見えるが、回収することはできないのか？\
-MIGUEL: - 残念ながら、飛べる状態ではありません。修理が必要です。大型ヘリでなら釣り上げることはできますが、ここには配備されていません。\
+    ["DictKey_50"] = "BOLZÉN: - それほど損傷を受けていないように見えるが、回収することはできないのか？\
+MIGUEL: - 残念ながら、飛べる状態ではありません。修理が必要です。大型ヘリでなら吊り上げることはできますが、ここには配備されていません。\
 BOLZÉN: - わかった。この件については何とかしよう。",
     ["DictKey_UnitName_164"] = "HP_Madrid Of mod #13",
     ["DictKey_UnitName_353"] = "Blok-Boec",
@@ -455,16 +459,16 @@ BOLZÉN: - わかった。この件については何とかしよう。",
     ["DictKey_UnitName_304"] = "BP_Dalyn2 #2",
     ["DictKey_WptName_405"] = "",
     ["DictKey_GroupName_119"] = "HP_Madrid KP",
-    ["DictKey_62"] = "BOLZÉN: - 指揮官、君は平和維持軍の司令部の場所を知っていますか？\
-MIGUEL: - 知りません\
-BOLZÉN: - 町の西側、２つの閉鎖された滑走路の間だ。そこに飛行基地がある。着陸要請をしてくれ。周波数は２４０．０だ　ランディングポイントにスモークが上がるから、そこに着陸してくれ",
+    ["DictKey_62"] = "BOLZÉN: - 機長、君は平和維持軍司令部の場所を知っているか？\
+MIGUEL: - 知りません。\
+BOLZÉN: - 市の西側、2本の放棄された滑走路の間だ。そこに航空基地が見える。周波数240.0で着陸を要請しろ。着陸地点を示してくれる。私はそこで降りる。",
     ["DictKey_UnitName_182"] = "HP_Madrid Palat #3",
     ["DictKey_31"] = "MISSION FAILED!",
     ["DictKey_UnitName_302"] = "BP_Dalyn2 #1",
     ["DictKey_WptName_463"] = "",
     ["DictKey_WptName_520"] = "",
-    ["DictKey_55"] = "BOLZÉN: - ２，３分待っていてくれ\
-MIGUEL: - かしこまりました。大将",
+    ["DictKey_55"] = "BOLZÉN: - 2、3分待っていてくれ。\
+MIGUEL: - かしこまりました、大将。",
     ["DictKey_UnitName_103"] = "Юнит #32",
     ["DictKey_WptName_428"] = "",
     ["DictKey_GroupName_219"] = "HP_Madrid GKP #002",
@@ -481,7 +485,7 @@ MIGUEL: - かしこまりました。大将",
     ["DictKey_WptName_530"] = "",
     ["DictKey_GroupName_374"] = "GFOR BP",
     ["DictKey_UnitName_83"] = "Colt 2",
-    ["DictKey_65"] = "BOLZÉN: - 指揮官、どうした？　Kutaisi司令部のそばに下りると思ったのだが？",
+    ["DictKey_65"] = "BOLZÉN: - 機長、どうした？　Kutaisi司令部のそばに下りると思ったのだが？",
     ["DictKey_GroupName_257"] = "HP_Madrid Of mod #029",
     ["DictKey_GroupName_275"] = "HP_Madrid Palat #026",
     ["DictKey_UnitName_220"] = "HP_Madrid GKP #1",
@@ -501,8 +505,8 @@ MIGUEL: - かしこまりました。大将",
     ["DictKey_GroupName_346"] = "GFOR HQ #002",
     ["DictKey_UnitName_124"] = "HP_Madrid BP",
     ["DictKey_UnitName_75"] = "Стат. объект #1",
-    ["DictKey_35"] = "MIGUEL: - Giresun, Springfield-2.\
-GIRESUN: - Springfield-2, Giresun. 着陸を許可する",
+    ["DictKey_35"] = "MIGUEL: - Giresun、こちらSpringfield-2。\
+GIRESUN: - Springfield-2、こちらGiresun。着陸を許可する。",
     ["DictKey_WptName_532"] = "",
     ["DictKey_GroupName_317"] = "BP_Dalyn52",
     ["DictKey_WptName_398"] = "",
@@ -535,12 +539,12 @@ GIRESUN: - Springfield-2, Giresun. 着陸を許可する",
     ["DictKey_UnitName_552"] = "Стат. объект #001",
     ["DictKey_WptName_501"] = "",
     ["DictKey_GroupName_285"] = "HP_Madrid Palat KP #002",
-    ["DictKey_59"] = "Запрос посадки на фрегат",
-    ["DictKey_64"] = "Запрос посадки на фрегат",
-    ["DictKey_48"] = "BOLZÉN: - ここですか？?\
-MIGUEL: - その通りです司令！\
-BOLZÉN: - あの、下に見えるのが例のヘリコプターですか？\
-MIGUEL: - そうです\
+    ["DictKey_59"] = "フリゲート艦への着艦を要請",
+    ["DictKey_64"] = "フリゲート艦への着艦を要請",
+    ["DictKey_48"] = "BOLZÉN: - ここか？\
+MIGUEL: - そのとおりです、大将！\
+BOLZÉN: - あの下に見えるのが、例のヘリコプターか？\
+MIGUEL: - そうです。\
 BOLZÉN: - もう少し近づいてくれ。もっとよく見たい。",
     ["DictKey_28"] = "MISSION SUCCESS!\
 \
@@ -564,22 +568,22 @@ BOLZÉN: - それでいい。",
     ["DictKey_GroupName_327"] = "Наземная группа #002",
     ["DictKey_GroupName_233"] = "HP_Madrid Vyshka #010",
     ["DictKey_WptName_420"] = "",
-    ["DictKey_49"] = "Запрос посадки на фрегат",
+    ["DictKey_49"] = "フリゲート艦への着艦を要請",
     ["DictKey_GroupName_109"] = "BP_Dalyn #002",
-    ["DictKey_descriptionText_378"] = "この国の飛行隊に所属して２ヶ月がたった。私は、ここではもはや新人ではなかった。この呼び名は今はPablo Toledoに与えられている。私達は一緒に卒業したが、彼は今まで配属されていなかった。同じ階級でも私のほうが経験豊富なパイロットとなった。\
-一方、Benito大尉は不幸な出来事に見舞われていた。彼は…、不快感を感じていた。医者によると、おそらく頻繁に現地の女性に手を出していたのが原因だそうた。抗生物質のお世話になるのは初めてでは無いが、彼には早く良くなってほしい。彼を本当に悩ませたのはアルコール制限だった。さらに悪いことに、医者は治療の間、彼を地上勤務にさせた。変化に富んだ任務から退屈なデスクワークに変えさせられたのだ。彼は任務の立案と航空管制とで忙殺されている。当然のことなのだが、我々のコールサインや着陸ゾーンは多種多様だが、MADRIDのランディングパッドに無線から聞こえてくる声は、Pedro彼自身の声であった。\
+    ["DictKey_descriptionText_378"] = "この国の飛行隊に所属して2か月がたった。私は、ここではもはや新人ではなかった。この呼び名は今はPablo Toledoに与えられている。私たちは一緒に卒業したが、彼は今まで配属されていなかった。そのため、飛行隊では私のほうが経験豊富なパイロットとなった。\
+一方、Benito大尉は不幸な出来事に見舞われていた。彼は……不快感を覚えていた。医者によると、おそらく頻繁に現地の女性に手を出していたのが原因だそうだ。抗生物質のお世話になるのは初めてではなく、今回も回復する見込みだった。彼を本当に悩ませたのはアルコール制限だった。さらに悪いことに、医者は治療の間、彼を地上勤務にさせた。変化に富んだ任務から退屈なデスクワークに変えさせられたのだ。彼は任務の立案と航空管制とで忙殺されている。案の定、我々のコールサインや着陸ゾーンの名称には妙な趣向が凝らされ、MADRIDのランディングパッドから無線で聞こえてくる声もPedro自身のものになった。\
 Alonso少佐は私にそのまま同じヘリコプター「Springfield-2」を任せてくれた。\
-Pedroが私を初めて名前「Miguel」と呼んでくれた時、それが彼が私をパイロットとして認めてくれた瞬間であり、秘密の合図でした。Alonso少佐はこの事を信頼する副隊長より聞き出し、私をそのまま、コクピット右の指揮官席に残しました。左の副操縦士席は、病気以前はPedroの指定席でしたが、今はPablo Toldoに奪われてしまった。\
-この地域はまだ緊張した雰囲気だった。反乱軍はしばらく静かにしていたのですが、また、攻撃を開始しました。我々のチェックポイントや小さな町を攻撃し、店の強奪や車の盗難をを行いました。Bolzén大将、平和維持軍司令官は今の戦術があまり効果的でなく、いくつかの変更を実施するをこと計画しています。彼は新しい作戦を最終決定する前に、全ての重要な場所を個人的に視察しています。すでに、南部は視察しました。今はPotiに停泊しているフリゲート艦のGiresunに船を視察するために訪れています。我々の飛行隊は大将を船から平和維持活動軍の北部地点まで連れて行くように任命されました。Pedroは「良い機会かもしれない」と言って、私をこの任務に当てた。\
-その日の早朝に補給任務があったので、私はすでにSenaki-Kolkhi 飛行基地にいた。ここはPotiに近かった。良いことに、ここならもしコンパスがトラブっても、船を見つけることがそれほど難しくはない。幅広なRioni川 にそって行けばいいからだ。\
-この川は、基地の南から海岸線まで続いており、ちょうどPotiの北にでる。\
+Pedroが私を初めて名前の「Miguel」で呼んだ時、それは彼が私の操縦技量を認めた密かな合図だった。Alonso少佐も信頼する副官の評価を受け入れ、私をそのままコックピット右側の機長席に置いた。左の副操縦士席は、病気になる前までPedroの指定席だったが、今はPablo Toledoが座っている。\
+この地域にはまだ緊張した雰囲気が漂っていた。反乱軍はしばらく鳴りを潜めては、我々のチェックポイントや小さな町を立て続けに襲い、店舗を略奪し、車両を強奪していた。平和維持軍司令官のBolzén大将は、現在の戦術があまり効果的でないと考え、いくつかの変更を実施することを計画している。新しい作戦を最終決定する前に、すべての重要拠点を自ら視察しているのだ。南部の視察はすでに終え、現在はPotiに停泊しているフリゲート艦Giresunを視察している。我々の飛行隊は、大将を艦から迎え、平和維持軍の北部各拠点へ案内する任務を命じられた。Pedroは「良い機会かもしれない」と言って、私をこの任務に当てた。\
+この日はすでに補給任務を飛んでおり、私はSenaki-Kolkhi飛行基地にいた。ここはPotiに近かった。幸い、コンパス航法に手間取っても、艦を見つけるのはそれほど難しくない。幅の広いRioni川に沿って行けばいいからだ。\
+この川は基地の南側を通り、Potiのすぐ北にある海岸線まで真っすぐ流れている。\
 ",
     ["DictKey_UnitName_300"] = "Berlin",
     ["DictKey_WptName_517"] = "",
     ["DictKey_UnitName_260"] = "HP_Madrid Of mod #29",
-    ["DictKey_46"] = "BOLZÉN: - ありがとう。ここでの仕事は終わったよ。次はヘリコプターが墜落した現場を見たい。ここからそれほど遠くないですよね？\
-MIGUEL: - はい、その通りです。川に沿って渓谷に入って８キロほど進んでから川の分岐を右に行ったところです。\
-BOLZÉN: - そこへ行こう",
+    ["DictKey_46"] = "BOLZÉN: - ありがとう。ここでの仕事は終わったよ。次はヘリコプターが墜落した現場を見たい。ここからそれほど遠くではないよな？\
+MIGUEL: - はい、その通りです。川に沿って渓谷に入って8キロほど進んでから川の分岐を右に行ったところです。\
+BOLZÉN: - そこへ行こう。",
     ["DictKey_GroupName_149"] = "HP_Madrid Tent 4",
     ["DictKey_GroupName_323"] = "Самолетная группа",
     ["DictKey_GroupName_554"] = "Стат. объект #001",
