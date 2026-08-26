@@ -1,31 +1,62 @@
 name: tree-metadata を APIサーバーに送信する
 
 on:
-  pull_request:
+  pull_request_target:
     branches: [ master ]
     types: [ closed ]
     paths:
       - "DCSWorld/**/*"
       - "UserMissions/**/*"
 
-permissions:
-  contents: read
-  pull-requests: read
-  id-token: write
-
 jobs:
   gate:
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: read
     outputs:
       merged: ${{ steps.out.outputs.merged }}
+      safe: ${{ steps.out.outputs.safe }}
+
     steps:
       - id: out
         shell: bash
-        run: echo "merged=${{ github.event.pull_request.merged }}" >> "$GITHUB_OUTPUT"
+        run: |
+          set -euo pipefail
+
+          echo "merged=${{ github.event.pull_request.merged }}" >> "$GITHUB_OUTPUT"
+
+          page=1
+          safe=true
+          while :; do
+            page_json=$(curl --fail-with-body -sSL \
+              -H "Authorization: Bearer ${{ github.token }}" \
+              -H "Accept: application/vnd.github+json" \
+              "${{ github.api_url }}/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files?per_page=100&page=${page}")
+
+            count=$(echo "$page_json" | jq 'length')
+            if [ "$count" -eq 0 ]; then
+              break
+            fi
+
+            if echo "$page_json" | jq -e \
+              '.[] | select(.filename | startswith(".github/"))' >/dev/null; then
+              safe=false
+              break
+            fi
+
+            page=$((page + 1))
+          done
+
+          echo "safe=$safe" >> "$GITHUB_OUTPUT"
 
   send-message:
     needs: gate
-    if: needs.gate.outputs.merged == 'true'
+    if: |
+      needs.gate.outputs.merged == 'true' &&
+      needs.gate.outputs.safe == 'true'
+    permissions:
+      pull-requests: read
+      id-token: write
     runs-on: ubuntu-latest
     steps:
       - name: generate payload
@@ -43,7 +74,7 @@ jobs:
           files_json='[]'
           page=1
           while :; do
-            page_json=$(curl -sSL \
+            page_json=$(curl --fail-with-body -sSL \
               -H "Authorization: Bearer ${{ github.token }}" \
               -H "Accept: application/vnd.github+json" \
               "${{ github.api_url }}/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files?per_page=100&page=${page}")
@@ -55,8 +86,11 @@ jobs:
             page=$((page + 1))
           done
 
-          payload=$(echo "$files_json" | jq -c --argjson ts "$updated_at_ms" --arg pattern "$path_pattern" \
+          payload=$(echo "$files_json" | jq -c \
+            --argjson ts "$updated_at_ms" \
+            --arg pattern "$path_pattern" \
             '[.[] | select(.filename | test($pattern)) | {path: .filename, updatedAt: $ts}]')
+
           echo "payload=$payload" >> "$GITHUB_OUTPUT"
 
       - name: payload を summary に表示
@@ -65,6 +99,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+
           {
             echo "## tree-metadata payload"
             echo ""
@@ -76,25 +111,28 @@ jobs:
       - name: get auth token
         id: token
         env:
-          OIDC_AUD: "tree-metadata"
+          OIDC_AUD: tree-metadata
         shell: bash
         run: |
           set -euo pipefail
 
-          request_url="$ACTIONS_ID_TOKEN_REQUEST_URL"
-          if [ -n "${OIDC_AUD:-}" ]; then
-            request_url="${request_url}&audience=${OIDC_AUD}"
-          fi
+          : "${ACTIONS_ID_TOKEN_REQUEST_URL:?OIDC request URL is unavailable}"
+          : "${ACTIONS_ID_TOKEN_REQUEST_TOKEN:?OIDC request token is unavailable}"
 
-          response=$(curl -sSL \
+          request_url="${ACTIONS_ID_TOKEN_REQUEST_URL}&audience=${OIDC_AUD}"
+
+          response=$(curl --fail-with-body -sSL \
             -H "Authorization: Bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" \
             "$request_url")
+
           token=$(echo "$response" | jq -r '.value')
+
           if [ -z "$token" ] || [ "$token" = "null" ]; then
             echo "OIDC token is missing" >&2
             echo "$response" >&2
             exit 1
           fi
+
           echo "oidc_token=$token" >> "$GITHUB_OUTPUT"
 
       - name: post data
@@ -107,6 +145,9 @@ jobs:
         run: |
           set -euo pipefail
 
+          : "${ENDPOINT:?TREE_METADATA_UPSERT_ENDPOINT is not configured}"
+          : "${TOKEN:?OIDC token is missing}"
+
           body_file="$(mktemp)"
           status="$(curl -sSL -o "$body_file" -w '%{http_code}' \
             -X POST "$ENDPOINT" \
@@ -117,6 +158,7 @@ jobs:
           rm -f "$body_file"
 
           echo "status=$status" >> "$GITHUB_OUTPUT"
+
           delimiter="EOF_$(date +%s%N)"
           {
             echo "body<<${delimiter}"
@@ -130,8 +172,11 @@ jobs:
           POST_BODY: ${{ steps.post.outputs.body }}
         shell: bash
         run: |
+          set -euo pipefail
+
           result="fail"
           success_value=""
+
           if echo "$POST_BODY" | jq -e . >/dev/null 2>&1; then
             success_value="$(echo "$POST_BODY" | jq -r '.success // empty')"
           fi
@@ -158,10 +203,12 @@ jobs:
             echo "Post failed: HTTP $POST_STATUS" >&2
             exit 1
           fi
+
           if [ "$success_value" = "false" ]; then
             echo "Post failed: success=false" >&2
             exit 1
           fi
+
           if [ "$success_value" != "true" ]; then
             echo "Post failed: success is missing" >&2
             exit 1
