@@ -11,7 +11,7 @@ dictionary =
     ["DictKey_UnitName_226"] = "HP_Madrid BP 3",
     ["DictKey_GroupName_295"] = "HP_Madrid Vyshka #003",
     ["DictKey_UnitName_398"] = "BP_Dalyn Vyshka",
-    ["DictKey_78"] = "MARTELL: - やつら気が狂ったか？　交差点のおかしな奴らをみてくれ、俺らの大砲と勝負する気らしい。",
+    ["DictKey_78"] = "MARTELL: - やつらは気でも狂ったのか？　交差点にいる奴らを見てくれ。俺たちの大砲と勝負する気らしい。",
     ["DictKey_UnitName_469"] = "Юнит #65",
     ["DictKey_WptName_488"] = "",
     ["DictKey_UnitName_192"] = "BP_Dalyn #1",
@@ -33,12 +33,12 @@ dictionary =
     ["DictKey_GroupName_329"] = "HP_Madrid Of mod #021",
     ["DictKey_WptName_536"] = "",
     ["DictKey_83"] = "任務完了をMadridに報告せよ\
-(ラジオメニューでF10）",
+（ラジオメニューでF10）",
     ["DictKey_WptName_573"] = "",
     ["DictKey_WptName_533"] = "",
     ["DictKey_WptName_534"] = "",
-    ["DictKey_75"] = "MIGUEL: - 147, Springfield-2. レッドスモークがターゲットだ\
-147: - 147 了解。侵入する。　武器を発射する、全員退避してくれ！",
+    ["DictKey_75"] = "MIGUEL: - 147、こちらSpringfield-2。目標位置に赤いスモークを確認。\
+147: - 147、了解。攻撃に入る。兵装使用、全員退避してくれ！",
     ["DictKey_GroupName_265"] = "HP_Madrid Palat #004",
     ["DictKey_GroupName_351"] = "HP_Madrid Of mod #037",
     ["DictKey_WptName_635"] = "",
@@ -54,8 +54,8 @@ dictionary =
     ["DictKey_WptName_566"] = "",
     ["DictKey_WptName_500"] = "",
     ["DictKey_GroupName_95"] = "Band zas lev",
-    ["DictKey_79"] = "WALKER: - Springfield, Walker. 橋に近づいてきました。そこでピックアップしてください。Martellは目標に到達しました。\
-MIGUEL: - 了解　迎えに行く",
+    ["DictKey_79"] = "WALKER: - Springfield、こちらWalker。橋に近づいている。そこで回収してくれ。Martellは目標に到達した。\
+MIGUEL: - 了解。迎えに行く。",
     ["DictKey_UnitName_175"] = "Colt 1",
     ["DictKey_GroupName_383"] = "Berlin",
     ["DictKey_WptName_543"] = "",
@@ -67,9 +67,9 @@ MIGUEL: - 了解　迎えに行く",
     ["DictKey_UnitName_186"] = "Юнит #9",
     ["DictKey_WptName_628"] = "",
     ["DictKey_GroupName_219"] = "HP_Madrid GSM 3",
-    ["DictKey_80"] = "MIGUEL: - Walker, 乗ってくれ！\
+    ["DictKey_80"] = "MIGUEL: - Walker、乗ってくれ！\
 …\
-WALKER: - Miguel, 全員乗りましt！\
+WALKER: - Miguel、全員乗った！\
 MIGUEL: - 了解、離陸する！",
     ["DictKey_GroupName_452"] = "BP_5 boec",
     ["DictKey_UnitName_169"] = "Пилот #3",
@@ -78,10 +78,12 @@ MIGUEL: - 了解、離陸する！",
     ["DictKey_UnitName_356"] = "HP_Madrid Of mod #38",
     ["DictKey_WptName_595"] = "",
     ["DictKey_UnitName_476"] = "Юнит #67",
-    ["DictKey_58"] = "MARTELL: - Springfield-2, Martell. 右の高いビルをチェックしてくれ。屋根の上だ！MIGUEL: - 了解、調べにいく！",
-    ["DictKey_67"] = "WALKER: - Springfield, Walker. 今、１階にいる。 反乱軍数名と遭遇したが、逃げ出したので倒した。\
-MIGUEL: - 了解、どこでピックアップすればいい？\
-WALKER: - 少し待ってください。 屋根の上から気になるものを見つけました。それを確認しに行きます。",
+    ["DictKey_58"] = "MARTELL: - Springfield-2、こちらMartell。右手の高い建物、その屋上を確認してくれ！\
+MIGUEL: - 了解！ 排除する！\
+",
+    ["DictKey_67"] = "WALKER: - Springfield、こちらWalker。今、1階にいる。反乱軍数名と遭遇したが、逃げようとしたので始末した。\
+MIGUEL: - 了解、どこで回収すればいい？\
+WALKER: - 少し待ってくれ。屋根の上から気になるものを見つけた。確認しに行く。",
     ["DictKey_WptName_604"] = "",
     ["DictKey_UnitName_362"] = "HP_Madrid Palat #31",
     ["DictKey_UnitName_472"] = "Юнит #62",
@@ -110,10 +112,10 @@ WALKER: - 少し待ってください。 屋根の上から気になるものを
     ["DictKey_UnitName_244"] = "HP_Madrid Of mod #6",
     ["DictKey_UnitName_202"] = "HP_Madrid 4",
     ["DictKey_UnitName_286"] = "HP_Madrid GKP #001",
-    ["DictKey_71"] = "147: - Springfield-2, こちら147！\
-MIGUEL: - 147,Springfield-2. どうぞ\
-147: - 只今接近中　目標をマークできますか？\
-MIGUEL: - Walkerにできるか聞いてみます。",
+    ["DictKey_71"] = "147: - Springfield-2、こちら147！\
+MIGUEL: - 147、こちらSpringfield-2。どうぞ。\
+147: - 接近中だ。目標をマークできるか？\
+MIGUEL: - Walkerにマークを頼む。",
     ["DictKey_GroupName_134"] = "Стат. объект #005",
     ["DictKey_WptName_664"] = "",
     ["DictKey_GroupName_291"] = "HP_Madrid Vyshka #001",
@@ -123,8 +125,8 @@ MIGUEL: - Walkerにできるか聞いてみます。",
     ["DictKey_GroupName_92"] = "Band Krysha",
     ["DictKey_WptName_618"] = "",
     ["DictKey_66"] = "MARTELL: - 状況はどうだ？\
-MIGUEL: - Martell, Walkerがビルを探索している。誰もいなければスモークで知らせる。\
-MARTELL: - 了解、待機している",
+MIGUEL: - Martell、Walkerがビルを探索している。誰もいなければスモークで知らせる。\
+MARTELL: - 了解、待機している。",
     ["DictKey_UnitName_228"] = "HP_Madrid BP 4",
     ["DictKey_UnitName_119"] = "Юнит #74",
     ["DictKey_UnitName_91"] = "Юнит #8",
@@ -156,7 +158,7 @@ MARTELL: - 了解、待機している",
     ["DictKey_UnitName_152"] = "Юнит #54",
     ["DictKey_WptName_657"] = "",
     ["DictKey_GroupName_436"] = "Martell LAV",
-    ["DictKey_63"] = "WALKER: - Miguel, 高いビルの右側、あそこの死体の隣に降ろしてくれ。",
+    ["DictKey_63"] = "WALKER: - Miguel、この高層ビルの屋上、向こうの死体のそばに降ろしてくれ。",
     ["DictKey_WptName_495"] = "",
     ["DictKey_UnitName_400"] = "BP_Dalyn52",
     ["DictKey_WptName_541"] = "",
@@ -176,7 +178,7 @@ MARTELL: - 了解、待機している",
     ["DictKey_UnitName_288"] = "HP_Madrid Palat KP",
     ["DictKey_GroupName_155"] = "Band Jeep #001",
     ["DictKey_UnitName_314"] = "HP_Madrid Vyshka #8",
-    ["DictKey_39"] = "MADRID: - Springfield-2, Madrid. すぐに、燃料と弾薬の補充をしてください。司令部より次の任務がだされます。",
+    ["DictKey_39"] = "MADRID: - Springfield-2、こちらMadrid。直ちに燃料と弾薬を補給せよ。司令部で次の任務が伝えられる。",
     ["DictKey_41"] = "ヘリコプターは破壊された",
     ["DictKey_WptName_658"] = "",
     ["DictKey_WptName_547"] = "",
@@ -216,9 +218,9 @@ MARTELL: - 了解、待機している",
     ["DictKey_WptName_550"] = "",
     ["DictKey_WptName_661"] = "",
     ["DictKey_UnitName_376"] = "HP_Madrid Palat #4",
-    ["DictKey_72"] = "MIGUEL: - Walker, Springfield-2. 目標をマークできるか？\
-WALKER: - レッドスモークを打ち込みます！\
-MIGUEL: -了解、すぐに戻ってくれ。147が目標を攻撃する。",
+    ["DictKey_72"] = "MIGUEL: - Walker、こちらSpringfield-2。目標をマークできるか？\
+WALKER: - 赤いスモークを焚く！\
+MIGUEL: - 了解、すぐに戻ってくれ。147が目標を攻撃する。",
     ["DictKey_UnitName_198"] = "BP_Dalyn 5",
     ["DictKey_UnitName_167"] = "Юнит #44",
     ["DictKey_GroupName_114"] = "Band ZU-23 #002",
@@ -248,10 +250,10 @@ MIGUEL: -了解、すぐに戻ってくれ。147が目標を攻撃する。",
     ["DictKey_GroupName_231"] = "HP_Madrid Tent 3",
     ["DictKey_WptName_688"] = "",
     ["DictKey_UnitName_475"] = "Юнит #68",
-    ["DictKey_81"] = "MARTELL: - Springfield-2, Martell.応答せよ\
-MIGUEL: - どうぞ Martell.\
-MARTELL: - 目標地点に到達。橋は制圧した。援護をありがとう\
-MIGUEL: - Martell, Springfield-2. どういたしまして。私は帰還します。幸運を！",
+    ["DictKey_81"] = "MARTELL: - Springfield-2、こちらMartell。応答せよ。\
+MIGUEL: - Martell、どうぞ。\
+MARTELL: - 目標地点に到達。橋は制圧した。援護をありがとう。\
+MIGUEL: - Martell、こちらSpringfield-2。どういたしまして。こちらは帰還する。幸運を！",
     ["DictKey_WptName_551"] = "",
     ["DictKey_UnitName_184"] = "BP_Dalyn",
     ["DictKey_WptName_603"] = "",
@@ -263,10 +265,10 @@ MIGUEL: - Martell, Springfield-2. どういたしまして。私は帰還しま�
     ["DictKey_GroupName_287"] = "HP_Madrid Palat KP",
     ["DictKey_UnitName_695"] = "Стат. объект #001",
     ["DictKey_WptName_652"] = "",
-    ["DictKey_61"] = "MIGUEL: - Martell, Springfield-2. 二人のRPG兵がいたが、両方排除した。\
-MARTELL: - Springfield-2, 奴ら急いで隠れたかもしれない。さっき、窓に誰かが居たように見えた。確認してもらえるか？\
-MIGUEL: - 屋根に兵士（WALKER)を降ろして、ビル内を探索させる。\
-MARTELL: - それはいい！ 　援護がいるかも知れないから下で待機している。",
+    ["DictKey_61"] = "MIGUEL: - Martell、こちらSpringfield-2。RPG射手が2人いたが、両方排除した。\
+MARTELL: - Springfield-2、連中は素早く戦術を変えているらしい。窓に誰かいるように見える。確認できるか？\
+MIGUEL: - 屋根に兵士（WALKER）を降ろして、ビル内を捜索させる。\
+MARTELL: - それはいい！　援護が必要になるかもしれないから、下で待機している。",
     ["DictKey_GroupName_353"] = "HP_Madrid Of mod #038",
     ["DictKey_GroupName_195"] = "BP_Dalyn #005",
     ["DictKey_WptName_492"] = "",
@@ -276,20 +278,20 @@ MARTELL: - それはいい！ 　援護がいるかも知れないから下で�
     ["DictKey_GroupName_357"] = "HP_Madrid Of mod #040",
     ["DictKey_GroupName_413"] = "Самолетная группа",
     ["DictKey_WptName_524"] = "",
-    ["DictKey_77"] = "MIGUEL: - ワオー！　ナイスラン１４７！\
-147: - 身に余る光栄です！\
-MIGUEL: - Martell, Springfield-2. 道は掃除した\
-MARTELL: - 了解。Martell隊　進軍！",
+    ["DictKey_77"] = "MIGUEL: - ワオー！　ナイスラン、147！\
+147: - どういたしまして！\
+MIGUEL: - Martell、こちらSpringfield-2。道路上の敵を排除した。\
+MARTELL: - 了解。Martell隊、進軍！",
     ["DictKey_GroupName_159"] = "Band Jeep #003",
     ["DictKey_WptName_553"] = "",
     ["DictKey_UnitName_266"] = "HP_Madrid Palat #3",
     ["DictKey_GroupName_423"] = "Il-76_traf",
-    ["DictKey_54"] = "完了したことを報告せよ\
-(ラジオメニューのF10）",
+    ["DictKey_54"] = "任務完了を報告する\
+（ラジオメニューでF10）",
     ["DictKey_GroupName_363"] = "HP_Madrid Palat #038",
     ["DictKey_UnitName_89"] = "Юнит #11",
     ["DictKey_WptName_600"] = "",
-    ["DictKey_53"] = "完了したことを報告する",
+    ["DictKey_53"] = "任務完了を報告する",
     ["DictKey_WptName_653"] = "",
     ["DictKey_UnitName_135"] = "Стат. объект #1",
     ["DictKey_UnitName_310"] = "HP_Madrid Vyshka #6",
@@ -340,7 +342,7 @@ MARTELL: - 了解。Martell隊　進軍！",
     ["DictKey_GroupName_409"] = "Yak-40",
     ["DictKey_UnitName_408"] = "Стат. объект",
     ["DictKey_WptName_581"] = "",
-    ["DictKey_57"] = "MARTELL: - こちらMartell. 脅威は取り除いた。進軍可能だ",
+    ["DictKey_57"] = "MARTELL: - こちらMartell。脅威は取り除いた。進軍可能だ。",
     ["DictKey_GroupName_112"] = "Band ZU-23 #001",
     ["DictKey_WptName_634"] = "",
     ["DictKey_WptName_666"] = "",
@@ -354,13 +356,13 @@ MARTELL: - 了解。Martell隊　進軍！",
     ["DictKey_GroupName_395"] = "BP_Dalyn2 #007",
     ["DictKey_GroupName_281"] = "HP_Madrid GSM Tualet #001",
     ["DictKey_UnitName_430"] = "Ford 3",
-    ["DictKey_69"] = "Madridに状況報告をしろ。周波数251.0 (UHF)",
+    ["DictKey_69"] = "Madridに状況を報告せよ。周波数251.0 MHz（UHF）",
     ["DictKey_UnitName_698"] = "Стат. объект #001",
     ["DictKey_GroupName_379"] = "BP_Dalyn2 #001",
     ["DictKey_UnitName_416"] = "Юнит #1",
-    ["DictKey_50"] = "PABLO: - Miguel, 待ち伏せがいます！　道の両サイド、建物の後ろです。\
-MIGUEL: - Martell, Springfield-2. 君の感が正しかったよ。待ち伏せがいた。今から掃除する！\
-MARTELL: - 了解 。終わったら教えてくれ！",
+    ["DictKey_50"] = "PABLO: - Miguel、伏兵がいます！　道の両側、建物の後ろです。\
+MIGUEL: - Martell、こちらSpringfield-2。そちらの勘が当たった。待ち伏せだ。今から掃討する！\
+MARTELL: - 了解。排除したら知らせてくれ！",
     ["DictKey_UnitName_446"] = "Martell LAV 2 #2",
     ["DictKey_WptName_529"] = "",
     ["DictKey_WptName_659"] = "",
@@ -372,14 +374,14 @@ MARTELL: - 了解 。終わったら教えてくれ！",
     ["DictKey_UnitName_246"] = "HP_Madrid Of mod #11",
     ["DictKey_GroupName_162"] = "Band Jeep #004",
     ["DictKey_GroupName_399"] = "BP_Dalyn52",
-    ["DictKey_descriptionText_478"] = "反乱軍は町の殆どを支配してしまった。我軍の人員は退避できたが、政府軍と警察はどうなったか不明である。彼らは留まって戦うことは可能性ですが、反乱軍を押し戻すだけの力は無いので、状況を打開することは不可能です。\
-司令官から、次なる作戦「Aurora（オーロラ）」を実施する状況であると説明を受けた。\
-昨日一日をかけて、我軍を集結させました。全地域のチェックポイントより装甲車を集め。Tblisiより数台のBMPを空輸しました。偵察任務も取りやめ、ヘリコプターを今日の作戦に向けて準備、整備しました。\
-Asonso少佐は続けました「現在、オーロラ作戦実行のために準備をしています。作戦は３０分後に開始します。この時間で計画の最終確認をしてください。使用する無線周波数とコールサインを記録してください。第一目標は装甲部隊が主要ポイント（橋、主要な交差点、広く開けた場所）を確保することです。装甲部隊に歩兵トラックが続きます。彼らには、地点確保後に周囲の掃討をしてもらいます。\
-大火力と空からの援護で反乱軍を北へ追いやる計画です。\
-私は１４７飛行隊と一緒に町の東側、川向うの軍団を援護します。\
-Springfield-2は南の軍団を護衛してください。UziとColtはそれぞれ南西地区と西地区を担当してください。地上軍はすでに展開して準備ができています。詳細はBenito大尉に聞いて飛行準備をしてください。\
-以上です皆さん。",
+    ["DictKey_descriptionText_478"] = "反乱軍は町のほとんどを支配してしまった。我が軍の人員は退避できたが、政府軍と警察がどうなったかは不明である。彼らはとどまって戦っている可能性があるが、反乱軍を押し戻すだけの戦力はないため、状況の打開は望めない。\
+これは、司令官が次の「Aurora（オーロラ）」作戦を説明する際に示した状況だった。\
+昨日一日をかけて我が軍を集結させた。全地域のチェックポイントから装甲車を集め、Tbilisiから数台のBMPを空輸した。偵察飛行を除いてヘリコプターは地上に留め、今日の作戦に向けて準備と整備を行った。\
+Alonso少佐は続けた。「Aurora作戦の準備は整った。作戦開始は30分後だ。この時間で計画を最終確認し、使用する無線周波数とコールサインを記録しておけ。第一目標は、装甲部隊が市内の要所――橋、主要な交差点、広く開けた場所――を確保できるようにすることだ。装甲部隊には歩兵を乗せたトラックが続き、確保後の目標地点を掃討する。\
+大火力と空からの援護で反乱軍を北へ追いやる計画だ。\
+私は147飛行隊とともに、町の東側、川向こうの部隊を援護する。\
+Springfield-2は南の部隊を護衛せよ。UziとColtはそれぞれ南西地区と西地区を担当せよ。地上軍はすでに展開し、準備ができている。詳細はBenito大尉に確認し、飛行準備を整えよ。\
+以上だ、諸君」",
     ["DictKey_GroupName_279"] = "HP_Madrid Palat #021",
     ["DictKey_GroupName_221"] = "HP_Madrid GSM 4",
     ["DictKey_GroupName_107"] = "Band gran",
@@ -393,15 +395,15 @@ Springfield-2は南の軍団を護衛してください。UziとColtはそれぞ
     ["DictKey_WptName_585"] = "",
     ["DictKey_WptName_526"] = "",
     ["DictKey_82"] = "任務完了を報告する",
-    ["DictKey_56"] = "MIGUEL: - Martell, Springfield-2. RPG兵は排除した\
-MARTELL: - 了解、進軍する",
+    ["DictKey_56"] = "MIGUEL: - Martell、こちらSpringfield-2。RPG兵は排除した。\
+MARTELL: - 了解、進軍する。",
     ["DictKey_GroupName_325"] = "HP_Madrid 3",
     ["DictKey_UnitName_161"] = "Юнит #40",
-    ["DictKey_70"] = "MIGUEL: - Madrid, Springfeld-2　応答せよ！\
-MADRID: - Springfield, Madrid. どうぞ\
-MIGUEL: - 大量の武器庫を発見した。兵士達によってガードされている。\
-MADRID: - 了解。待機して手を出すな。１４７を援護で送る\
-MIGUEL: - Springfield-2, 了解！",
+    ["DictKey_70"] = "MIGUEL: - Madrid、こちらSpringfield-2。応答せよ！\
+MADRID: - Springfield、こちらMadrid。どうぞ。\
+MIGUEL: - 大規模な武器庫を発見した。兵士たちが警備している。\
+MADRID: - 了解。待機して手を出すな。147を援護に送る。\
+MIGUEL: - Springfield-2、了解！",
     ["DictKey_WptName_493"] = "",
     ["DictKey_GroupName_323"] = "HP_Madrid ",
     ["DictKey_GroupName_273"] = "HP_Madrid Palat #016",
@@ -416,10 +418,10 @@ MIGUEL: - Springfield-2, 了解！",
     ["DictKey_GroupName_118"] = "Band ZU-23 #004",
     ["DictKey_UnitName_322"] = "HP_Madrid 2",
     ["DictKey_UnitName_300"] = "HP_Madrid BlokP #001",
-    ["DictKey_46"] = "MIGUEL: - Martell, こちらSpringfield-2. 応答せよ\
-MARTELL: - Springfield-2, Martell. こちらからは見えている。進軍を開始する。援護してくれ\
-MIGUEL: - 了解 Martell, 援護する",
-    ["DictKey_74"] = "１４７にマーキングを知らせる",
+    ["DictKey_46"] = "MIGUEL: - Martell、こちらSpringfield-2。応答せよ。\
+MARTELL: - Springfield-2、Martellだ。こちらからは見えている。進軍を開始する。援護してくれ。\
+MIGUEL: - 了解、Martell。援護する。",
+    ["DictKey_74"] = "147のために目標をマークする",
     ["DictKey_GroupName_245"] = "HP_Madrid Of mod #012",
     ["DictKey_GroupName_275"] = "HP_Madrid Palat #017",
     ["DictKey_GroupName_377"] = "BP_Dalyn2",
@@ -434,8 +436,8 @@ MIGUEL: - 了解 Martell, 援護する",
     ["DictKey_UnitName_422"] = "Юнит #34",
     ["DictKey_UnitName_332"] = "HP_Madrid Of mod #21",
     ["DictKey_GroupName_197"] = "BP_Dalyn 5",
-    ["DictKey_59"] = "完了したことを報告せよ\
-(ラジオメニューのF10）",
+    ["DictKey_59"] = "任務完了を報告する\
+（ラジオメニューでF10）",
     ["DictKey_GroupName_249"] = "HP_Madrid Of mod #015",
     ["DictKey_WptName_583"] = "",
     ["DictKey_GroupName_405"] = "BlokP 2 tent",
@@ -447,10 +449,10 @@ MIGUEL: - 了解 Martell, 援護する",
     ["DictKey_GroupName_164"] = "Band Jeep #005",
     ["DictKey_GroupName_193"] = "BP_Dalyn #002",
     ["DictKey_WptName_632"] = "",
-    ["DictKey_85"] = "MIGUEL: - Madrid, Springfield-2.応答せよ\
-MADRID: - どうぞ\
+    ["DictKey_85"] = "MIGUEL: - Madrid、こちらSpringfield-2。応答せよ。\
+MADRID: - どうぞ。\
 MIGUEL: - 交差点と橋は両方とも確保した。\
-MADRID: - よくたっや！　基地に帰還してくれ。",
+MADRID: - よくやった！ 基地へ帰還せよ。",
     ["DictKey_UnitName_306"] = "HP_Madrid Vyshka #4",
     ["DictKey_GroupName_361"] = "HP_Madrid Palat #032",
     ["DictKey_GroupName_166"] = "Band Jeep #006",
@@ -472,7 +474,7 @@ MADRID: - よくたっや！　基地に帰還してくれ。",
     ["DictKey_GroupName_293"] = "HP_Madrid Vyshka #002",
     ["DictKey_UnitName_298"] = "HP_Madrid BlokP #002",
     ["DictKey_GroupName_253"] = "HP_Madrid Palat #008",
-    ["DictKey_51"] = "Доложить о выполнении задачи",
+    ["DictKey_51"] = "任務完了を報告する",
     ["DictKey_WptName_570"] = "",
     ["DictKey_GroupName_301"] = "HP_Madrid Vyshka #004",
     ["DictKey_UnitName_471"] = "Юнит #63",
@@ -487,8 +489,8 @@ MADRID: - よくたっや！　基地に帰還してくれ。",
     ["DictKey_GroupName_235"] = "HP_Madrid Stolovka",
     ["DictKey_WptName_674"] = "",
     ["DictKey_UnitName_264"] = "HP_Madrid Palat #1",
-    ["DictKey_47"] = "MARTELL: - 発見した！　大きなドラム缶を過ぎたあたりだ。道路の右と、左の屋根の上だ　RPG所持。排除してくれ\
-MIGUEL: - Springfield-2. 了解",
+    ["DictKey_47"] = "MARTELL: - いたぞ！　Springfield-2、大型貯蔵タンクのすぐ先を見ろ。道路の右側と、左手の屋根の上だ。RPG兵がいる。排除してくれ。\
+MIGUEL: - Springfield-2、了解。",
     ["DictKey_WptName_513"] = "",
     ["DictKey_GroupName_473"] = "woker  2",
     ["DictKey_UnitName_102"] = "Band zas prav3",
@@ -517,7 +519,7 @@ MIGUEL: - Springfield-2. 了解",
     ["DictKey_WptName_546"] = "",
     ["DictKey_UnitName_182"] = "Springfield 1",
     ["DictKey_GroupName_462"] = "woker dom1",
-    ["DictKey_60"] = "完了したことを報告せよ",
+    ["DictKey_60"] = "任務完了を報告する",
     ["DictKey_UnitName_438"] = "Martell LAV 2",
     ["DictKey_GroupName_440"] = "Martell LAV #001",
     ["DictKey_UnitName_172"] = "Colt 4",
@@ -532,11 +534,11 @@ MIGUEL: - Springfield-2. 了解",
     ["DictKey_GroupName_327"] = "HP_Madrid Ukr",
     ["DictKey_WptName_676"] = "",
     ["DictKey_WptName_485"] = "",
-    ["DictKey_52"] = "PABLO: - Miguel, 対空砲が下に！　学校の横！　退避しろ！\
-MIGUEL: - Martell, Springfield-2.　応答せよ！\
+    ["DictKey_52"] = "PABLO: - Miguel、対空砲が下に！　学校の横！　退避しろ！\
+MIGUEL: - Martell、こちらSpringfield-2。応答せよ！\
 MARTELL: - どうした？\
-MIGUEL: - 対空砲搭載の戦車を発見。学校のそばだ。処理してもらえるか？\
-MARTELL: - お安い御用だが、左の屋根の上のRPG兵を排除してもらえるか？でないと通れない。",
+MIGUEL: - 車載対空砲を発見。学校のそばだ。処理してもらえるか？\
+MARTELL: - お安い御用だが、左の屋根の上のRPG兵を排除してもらえるか？　でないと通れない。",
     ["DictKey_UnitName_179"] = "Uzi 1",
     ["DictKey_UnitName_280"] = "HP_Madrid Palat #021",
     ["DictKey_WptName_507"] = "",
@@ -576,17 +578,17 @@ MARTELL: - お安い御用だが、左の屋根の上のRPG兵を排除しても
     ["DictKey_GroupName_468"] = "woker ",
     ["DictKey_UnitName_173"] = "Colt 3",
     ["DictKey_WptName_489"] = "",
-    ["DictKey_49"] = "MARTELL: - Springfield-2, Martell. 前方の建物をチェックしてくれ。嫌な予感がする。 \
-MIGUEL: - Springfield-2. 了解\
+    ["DictKey_49"] = "MARTELL: - Springfield-2、こちらMartell。前方の建物をチェックしてくれ。嫌な予感がする。\
+MIGUEL: - Springfield-2、了解。\
 ",
     ["DictKey_GroupName_337"] = "HP_Madrid Of mod #026",
     ["DictKey_WptName_532"] = "",
     ["DictKey_GroupName_128"] = "Skl4",
-    ["DictKey_descriptionBlueTask_480"] = "Takeoff: FARP MADRID\
-町の南にある交差点までいき、南の軍団（コールサイン：MARTEL）と合流せよ。\
-MARTELとの連絡には周波数235.00 MHzを使用する。\
-町に侵入し、町の南側の交差点と橋がある目標地点まで、軍団を援護しつつ敵対勢力を制圧せよ。\
-Landing: FARP MADRID",
+    ["DictKey_descriptionBlueTask_480"] = "離陸：FARP MADRID\
+町の南にある交差点まで進み、南側の部隊（コールサイン：MARTELL）と合流せよ。\
+MARTELLとの交信には周波数235.00 MHzを使用する。\
+町に侵入し、南側の交差点と橋がある目標地点まで、部隊を援護しつつ敵対勢力を制圧せよ。\
+着陸：FARP MADRID",
     ["DictKey_UnitName_418"] = "Юнит #23",
     ["DictKey_WptName_691"] = "",
     ["DictKey_UnitName_160"] = "Юнит #41",
@@ -614,7 +616,7 @@ Landing: FARP MADRID",
     ["DictKey_WptName_491"] = "",
     ["DictKey_UnitName_459"] = "Юнит #20",
     ["DictKey_UnitName_94"] = "Band Krysha1",
-    ["DictKey_62"] = "完了したことを報告する",
+    ["DictKey_62"] = "任務完了を報告する",
     ["DictKey_GroupName_157"] = "Band Jeep #002",
     ["DictKey_WptName_625"] = "",
     ["DictKey_UnitName_141"] = "Юнит #17",
@@ -623,7 +625,7 @@ Landing: FARP MADRID",
     ["DictKey_UnitName_302"] = "HP_Madrid Vyshka #2",
     ["DictKey_WptName_633"] = "",
     ["DictKey_GroupName_223"] = "HP_Madrid BP 2",
-    ["DictKey_44"] = "MADRID: - Springfield-2, Madrid. 離陸を許可します。交差点へ飛んでください。Martellが待っています。",
+    ["DictKey_44"] = "MADRID: - Springfield-2、こちらMadrid。離陸を許可する。交差点へ向かえ。Martellが待っている。",
     ["DictKey_GroupName_375"] = "HP_Madrid Palat #005",
     ["DictKey_GroupName_259"] = "HP_Madrid Palat #012",
     ["DictKey_UnitName_97"] = "Band zas lev4",
@@ -631,7 +633,7 @@ Landing: FARP MADRID",
     ["DictKey_UnitName_390"] = "BP_Dalyn2 #3",
     ["DictKey_WptName_646"] = "",
     ["DictKey_GroupName_313"] = "HP_Madrid Vyshka #009",
-    ["DictKey_sortie_481"] = "Aurora",
+    ["DictKey_sortie_481"] = "オーロラ",
     ["DictKey_WptName_640"] = "",
     ["DictKey_WptName_545"] = "",
     ["DictKey_43"] = "MISSION FAILED!",
@@ -652,13 +654,13 @@ Landing: FARP MADRID",
     ["DictKey_WptName_677"] = "",
     ["DictKey_UnitName_109"] = "Юнит #51",
     ["DictKey_WptName_589"] = "",
-    ["DictKey_64"] = "MIGUEL: - Walker ゴー！",
+    ["DictKey_64"] = "MIGUEL: - Walker班、降下完了！",
     ["DictKey_WptName_689"] = "",
     ["DictKey_WptName_494"] = "",
     ["DictKey_WptName_642"] = "",
     ["DictKey_UnitName_272"] = "HP_Madrid Palat #15",
     ["DictKey_WptName_582"] = "",
-    ["DictKey_55"] = "完了したことを報告する",
+    ["DictKey_55"] = "任務完了を報告する",
     ["DictKey_WptName_693"] = "",
     ["DictKey_UnitName_230"] = "HP_Madrid Tent 2",
     ["DictKey_GroupName_387"] = "BP_Dalyn2 #003",
@@ -676,8 +678,8 @@ Landing: FARP MADRID",
     ["DictKey_UnitName_276"] = "HP_Madrid Palat #17",
     ["DictKey_UnitName_270"] = "HP_Madrid Palat #14",
     ["DictKey_WptName_614"] = "",
-    ["DictKey_68"] = "WALKER: - Springfield, Walker! 　危険です！　ここには武器と兵士が山程います。\
-今から戻ります！",
+    ["DictKey_68"] = "WALKER: - Springfield、こちらWalker！　くそっ！　ここは武器と兵士だらけのアジトだ。\
+今から戻る！",
     ["DictKey_WptName_636"] = "",
     ["DictKey_WptName_630"] = "",
     ["DictKey_WptName_656"] = "",
@@ -694,17 +696,17 @@ Landing: FARP MADRID",
     ["DictKey_GroupName_285"] = "HP_Madrid GKP #001",
     ["DictKey_WptName_648"] = "",
     ["DictKey_WptName_680"] = "",
-    ["DictKey_48"] = "MARTELL: - 目標撃破　動くものはもう見当たらない。進軍せよ",
-    ["DictKey_45"] = "Martellと通信せよ。周波数235.0 (UHF)",
+    ["DictKey_48"] = "MARTELL: - 目標を無力化した。ほかに動きは見えない。前進する。",
+    ["DictKey_45"] = "Martellと交信せよ。周波数235.0 MHz（UHF）",
     ["DictKey_WptName_675"] = "",
-    ["DictKey_73"] = "１４７にマーキングを知らせろ\
+    ["DictKey_73"] = "147のために目標をマークせよ\
 （ラジオメニューでF10）",
     ["DictKey_UnitName_330"] = "HP_Madrid Of mod #20",
     ["DictKey_WptName_673"] = "",
     ["DictKey_UnitName_96"] = "Band zas lev5",
     ["DictKey_WptName_607"] = "",
     ["DictKey_WptName_502"] = "",
-    ["DictKey_76"] = "１４７にマーキングを知らせる",
+    ["DictKey_76"] = "147のために目標をマークする",
     ["DictKey_GroupName_381"] = "HP_Madrid Palat #003",
     ["DictKey_GroupName_415"] = "BP_Dalyn #003",
     ["DictKey_GroupName_168"] = "Player",
