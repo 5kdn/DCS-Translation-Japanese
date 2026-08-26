@@ -159,7 +159,7 @@ MISSION FAILED!\
     ["DictKey_GroupName_206"] = "HP_Madrid Of mod #002",
     ["DictKey_GroupName_172"] = "HP_Madrid Palat #018",
     ["DictKey_WptName_366"] = "",
-    ["DictKey_43"] = "PEDRO: - もうすぐ着くぞ。クタイシ（Kutaisi）は進路の右手だ。空港はまっすぐ前で、俺らの基地はそこのちょうど右側にある。そのまま進め、ストレートインだ。",
+    ["DictKey_43"] = "PEDRO: - もうすぐ着くぞ。Kutaisiは進路の右手だ。空港はまっすぐ前で、俺らの基地はそこのちょうど右側にある。そのまま進め、ストレートインだ。",
     ["DictKey_GroupName_138"] = "HP_Madrid Palat #001",
     ["DictKey_UnitName_229"] = "HP_Madrid Palat KP #001",
     ["DictKey_GroupName_186"] = "HP_Madrid Of mod #005",
@@ -232,7 +232,7 @@ PEDRO: - ウクライナ派遣隊だ。俺たちの飛行隊の一部だ。で�
     ["DictKey_UnitName_163"] = "HP_Madrid Palat #6",
     ["DictKey_WptName_396"] = "",
     ["DictKey_UnitName_125"] = "HP_Madrid BP 4",
-    ["DictKey_39"] = "PEDRO: - ADFを477にセットしろ。クタイシ（Kutaisi）のビーコンだ。ADFの使い方は教えてもらってるよな？",
+    ["DictKey_39"] = "PEDRO: - ADFを477にセットしろ。Kutaisiのビーコンだ。ADFの使い方は教えてもらってるよな？",
     ["DictKey_41"] = "PEDRO: - 見ろ！　注意しながら距離を取って、慎重に離れろ。\
 DANIEL: - 誰かと思ったら、Pedroかい？\
 PEDRO: - やあ、Daniel。ちょうど修理が終わったところだ。新人を連れて基地に帰るところだ。\
