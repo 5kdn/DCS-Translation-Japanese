@@ -28,7 +28,7 @@ dictionary =
     ["DictKey_WptName_456"] = "",
     ["DictKey_UnitName_336"] = "Blok-Boec",
     ["DictKey_UnitName_348"] = "Юнит #12",
-    ["DictKey_30"] = "PEDRO: - よく聞け！ フライトリーダーが前にいる。離陸して、そのやや左後方につけ。",
+    ["DictKey_30"] = "PEDRO: - よく聞け! フライトリーダーが前にいる。離陸して、そのやや左後方につけ。",
     ["DictKey_UnitName_69"] = "Colt 3",
     ["DictKey_WptName_536"] = "",
     ["DictKey_WptName_573"] = "",
@@ -69,8 +69,8 @@ dictionary =
     ["DictKey_UnitName_356"] = "Юнит #28",
     ["DictKey_WptName_392"] = "",
     ["DictKey_WptName_595"] = "",
-    ["DictKey_58"] = "MARCOS: - 機体はかなりひしゃげているが、ChinookかMi-26なら吊り上げて回収できるだろう。どう思う？\
-PEDRO: - 私は、さっさとここから退散すべきだと思います！\
+    ["DictKey_58"] = "MARCOS: - 機体はかなりひしゃげているが、ChinookかMi-26なら吊り上げて回収できるだろう。どう思う?\
+PEDRO: - 私は、さっさとここから退散すべきだと思います!\
 MARCOS: - 何もかもうまくいくさ。私はそう思う。帰還しよう。\
 ",
     ["DictKey_WptName_604"] = "",
@@ -161,7 +161,7 @@ MARCOS: - 何もかもうまくいくさ。私はそう思う。帰還しよう�
     ["DictKey_UnitName_155"] = "HP_Madrid Palat #9",
     ["DictKey_WptName_396"] = "",
     ["DictKey_39"] = "MARCOS: - Springfield各機、こちらSpringfield-1。右旋回、方位060、速度100。渓谷に入る。",
-    ["DictKey_41"] = "MARCOS: - 目標Golfに接近中。降下する。援護してくれ！\
+    ["DictKey_41"] = "MARCOS: - 目標Golfに接近中。降下する。援護してくれ!\
 PEDRO: - González、リーダーの近くにいろ。着陸地点に架かる橋の周囲を旋回しろ。\
 ",
     ["DictKey_GroupName_280"] = "HP_Madrid Palat #003",
@@ -214,7 +214,7 @@ PEDRO: - Springfield-2、了解。González、俺たちの着陸地点へ降ろ�
     ["DictKey_GroupName_144"] = "HP_Madrid Of mod #012",
     ["DictKey_WptName_391"] = "",
     ["DictKey_UnitName_347"] = "Юнит #13",
-    ["DictKey_46"] = "MARCOS: - 目的地Foxtrotに接近中！　3番機と4番機は兵士を展開しろ。Springfield-2は援護しろ。",
+    ["DictKey_46"] = "MARCOS: - 目的地Foxtrotに接近中! 3番機と4番機は兵士を展開しろ。Springfield-2は援護しろ。",
     ["DictKey_UnitName_243"] = "HP_Madrid Of mod #29",
     ["DictKey_UnitName_221"] = "HP_Madrid 2",
     ["DictKey_UnitName_338"] = "Berlin_Dym",
@@ -254,7 +254,7 @@ PEDRO: - Springfield-2、了解。González、俺たちの着陸地点へ降ろ�
     ["DictKey_GroupName_182"] = "HP_Madrid GKP",
     ["DictKey_UnitName_253"] = "HP_Madrid Of mod #37",
     ["DictKey_WptName_594"] = "",
-    ["DictKey_54"] = "PEDRO: - Springfield-1、こちら2番機。司令、あそこですでに1機失っています。なぜ、また行くのですか？\
+    ["DictKey_54"] = "PEDRO: - Springfield-1、こちら2番機。司令、あそこですでに1機失っています。なぜ、また行くのですか?\
 MARCOS: - ヘリの状態を確認する必要がある。どうするかは見てから決める。",
     ["DictKey_38"] = "MARCOS: - Springfield各機、こちらSpringfield-1。右旋回、方位010、速度100ノット。",
     ["DictKey_WptName_552"] = "",
@@ -330,7 +330,7 @@ MARCOS: - ヘリの状態を確認する必要がある。どうするかは見�
     ["DictKey_36"] = "MARCOS: - Springfield各機、こちらSpringfield-1。私について来い。ウェッジ隊形、速度100ノット。",
     ["DictKey_GroupName_148"] = "HP_Madrid Of mod #015",
     ["DictKey_WptName_660"] = "",
-    ["DictKey_50"] = "MARCOS: - Springfield-3、4、兵士を降ろせ！ 2番機と私で援護する！",
+    ["DictKey_50"] = "MARCOS: - Springfield-3、4、兵士を降ろせ! 2番機と私で援護する!",
     ["DictKey_WptName_529"] = "",
     ["DictKey_UnitName_259"] = "HP_Madrid Palat #25",
     ["DictKey_WptName_641"] = "",
@@ -366,23 +366,23 @@ MARCOS: - ヘリの状態を確認する必要がある。どうするかは見�
     ["DictKey_GroupName_122"] = "HP_Madrid BP 2",
     ["DictKey_WptName_580"] = "",
     ["DictKey_WptName_417"] = "",
-    ["DictKey_descriptionBlueTask_369"] = "「任務は何ですか？」私はBenito大尉に確認した。\
+    ["DictKey_descriptionBlueTask_369"] = "「任務は何ですか?」私はBenito大尉に確認した。\
 「至って単純だ。反乱集団が使いそうな逃走経路に徒歩哨戒隊を降ろす。反乱兵を発見したら、丁重に降伏を求める。だが、その次に何が起こるかは想像がつくだろう……」\
-「何が起こるのですか？」\
-「今度は兵員と武器を満載して乗り込み、力ずくで武装解除させる。だが、まずは哨戒隊の配置だ。各編隊にはそれぞれ飛行計画がある。俺たちの編隊は司令官が率い、エシュロン隊形で飛ぶ。俺たちは左側、2番機と3番機は右側だ。わかったか？」\
+「何が起こるのですか?」\
+「今度は兵員と武器を満載して乗り込み、力ずくで武装解除させる。だが、まずは哨戒隊の配置だ。各編隊にはそれぞれ飛行計画がある。俺たちの編隊は司令官が率い、エシュロン隊形で飛ぶ。俺たちは左側、2番機と3番機は右側だ。わかったか?」\
 「わかりました。」\
-「編隊から遅れるな！ フライトリーダーを見失えば、厄介なことになる。いいな？」\
+「編隊から遅れるな! フライトリーダーを見失えば、厄介なことになる。いいな?」\
 「はい、大尉。」\
 「よし。今日は機体が重くなる。離着陸時には次の手順を踏め。\
 ガバナーをManualにする。\
 タービンRPMを上げる。\
 祈りを捧げながらゆっくり浮上し、転移揚力が得られる速度まで加速する。\
-飛行状態に入ったら、ガバナーをAutoへ戻せ！ 着陸時にも一連の操作を繰り返すのを忘れるな！」",
+飛行状態に入ったら、ガバナーをAutoへ戻せ! 着陸時にも一連の操作を繰り返すのを忘れるな!」",
     ["DictKey_WptName_412"] = "",
     ["DictKey_WptName_616"] = "",
     ["DictKey_UnitName_70"] = "Colt 2",
     ["DictKey_WptName_510"] = "",
-    ["DictKey_61"] = "PEDRO: - ついて行けと言っただろ！　新人、頭をどつくぞ！\
+    ["DictKey_61"] = "PEDRO: - ついて行けと言っただろ! 新人、頭をどつくぞ!\
 \
 リーダーを見失った。基地へ帰還せよ。",
     ["DictKey_GroupName_282"] = "Berlin",
@@ -442,16 +442,16 @@ MARCOS: - ヘリの状態を確認する必要がある。どうするかは見�
     ["DictKey_WptName_553"] = "",
     ["DictKey_WptName_674"] = "",
     ["DictKey_UnitName_295"] = "BP_Dalyn2 #5",
-    ["DictKey_47"] = "MARCOS: - Springfield-3、4、兵士を降ろせ！ 2番機と私で援護する！",
+    ["DictKey_47"] = "MARCOS: - Springfield-3、4、兵士を降ろせ! 2番機と私で援護する!",
     ["DictKey_WptName_513"] = "",
     ["DictKey_UnitName_324"] = "Mi-24 151",
-    ["DictKey_55"] = "MARCOS: - Springfield-2、Pedro。以前ここへ来たことはあるか？\
-PEDRO: - いいえ。ただ、地図によれば、大きな渓谷の上を南へ10キロ飛んでから左に曲がります。墜落現場はその辺りのはずです。\
+    ["DictKey_55"] = "MARCOS: - Springfield-2、Pedro。以前ここへ来たことはあるか?\
+PEDRO: - いいえ。ただ、地図によれば、大きな渓谷の上を南へ10km飛んでから左に曲がります。墜落現場はその辺りのはずです。\
 ",
-    ["DictKey_45"] = "PEDRO: - 急げ、急げ、急げ！\
+    ["DictKey_45"] = "PEDRO: - 急げ、急げ、急げ!\
 …\
-PEDRO: - Springfield-1、兵士を展開した！\
-MARCOS: - 2番機了解した！　離陸！",
+PEDRO: - Springfield-1、兵士を展開した!\
+MARCOS: - 2番機了解した! 離陸!",
     ["DictKey_WptName_378"] = "",
     ["DictKey_UnitName_115"] = "HP_Madrid GSM Ukr",
     ["DictKey_WptName_523"] = "",
@@ -470,9 +470,9 @@ MARCOS: - 2番機了解した！　離陸！",
     ["DictKey_UnitName_66"] = "Springfield-3",
     ["DictKey_GroupName_264"] = "HP_Madrid Palat #039",
     ["DictKey_UnitName_217"] = "HP_Madrid Vyshka #9",
-    ["DictKey_51"] = "PEDRO: - Marcos、なにかたくらんでるな？\
+    ["DictKey_51"] = "PEDRO: - Marcos、なにかたくらんでるな?\
 MARCOS: - 例の場所を見てみたい。\
-PEDRO: - 例の場所？\
+PEDRO: - 例の場所?\
 MARCOS: - Diegoが撃ち落とされた場所だ。",
     ["DictKey_WptName_659"] = "",
     ["DictKey_UnitName_287"] = "BP_Dalyn2 #2",
@@ -491,7 +491,7 @@ MARCOS: - Diegoが撃ち落とされた場所だ。",
     ["DictKey_WptName_622"] = "",
     ["DictKey_UnitName_311"] = "Юнит #37",
     ["DictKey_UnitName_352"] = "Юнит #20",
-    ["DictKey_60"] = "PEDRO: - ついて行けと言っただろ！　新人、頭をどつくぞ！　操縦を代われ！",
+    ["DictKey_60"] = "PEDRO: - ついて行けと言っただろ! 新人、頭をどつくぞ! 操縦を代われ!",
     ["DictKey_GroupName_343"] = "Patrul 1",
     ["DictKey_UnitName_318"] = "Ukr_Mi-24_51",
     ["DictKey_UnitName_312"] = "Юнит #36",
@@ -530,7 +530,7 @@ MARCOS: - Diegoが撃ち落とされた場所だ。",
     ["DictKey_WptName_627"] = "",
     ["DictKey_WptName_484"] = "",
     ["DictKey_WptName_425"] = "",
-    ["DictKey_42"] = "MARCOS: - 歩兵を展開し、離陸する！\
+    ["DictKey_42"] = "MARCOS: - 歩兵を展開し、離陸する!\
 \
 (リーダーに付いていけ。)",
     ["DictKey_WptName_490"] = "",
@@ -544,8 +544,8 @@ MARCOS: - Springfield-3、4、こちらSpringfield-1。君たちは帰還して�
     ["DictKey_WptName_481"] = "",
     ["DictKey_WptName_466"] = "",
     ["DictKey_WptName_615"] = "",
-    ["DictKey_53"] = "PEDRO: - なんてこった！\
-あいつは余計な騒ぎを起こさずに任務を飛べないのか？　González、リーダーを追え。やつの動きについて行くんだ。",
+    ["DictKey_53"] = "PEDRO: - なんてこった!\
+あいつは余計な騒ぎを起こさずに任務を飛べないのか? González、リーダーを追え。やつの動きについて行くんだ。",
     ["DictKey_WptName_388"] = "",
     ["DictKey_WptName_619"] = "",
     ["DictKey_UnitName_239"] = "HP_Madrid Of mod #26",
@@ -564,7 +564,7 @@ MARCOS: - Springfield-3、4、こちらSpringfield-1。君たちは帰還して�
     ["DictKey_WptName_441"] = "",
     ["DictKey_WptName_486"] = "",
     ["DictKey_GroupName_112"] = "HP_Madrid Tent Ukr",
-    ["DictKey_57"] = "MARCOS: - これか？　待ち伏せには最適だな。どう思う？\
+    ["DictKey_57"] = "MARCOS: - これか? 待ち伏せには最適だな。どう思う?\
 PEDRO: - 私たちもここから離脱すべきだと思います。\
 MARCOS: - 降下する。もっとよく見たい。\
 PEDRO: - 了解。González、ついて行け。",
@@ -620,7 +620,7 @@ PEDRO: - 了解。González、ついて行け。",
 「すでに承知と思うが、本日、我々のヘリコプターが1機撃墜された。」\
 皆の目がDiegoに集中した。彼の副操縦士はこの会合には参加していなかった。負傷のため、医務室に留まる必要があった。\
 「これまでは主に日常的な整備と、時折の被弾に対処する程度だった。しかし今や、ヘリコプター1機を失い、2人の負傷者を出している。承知のとおり、停戦協定が求めているのは戦闘の停止だけではなく、非正規武装集団の武装解除でもある。それこそが我々の任務だ。反乱軍に停戦協定を守る意思がないことは明らかである。したがって、我々の交戦規定も変わる。司令部から、こちらが攻撃を受けた場合、または武装集団に武装解除と武器の引き渡しを命じても従わない場合には、搭載兵器の使用を許可する命令が出た。我々には任務上、これを合法的に命じる権限がある。」\
-この時、Kovalskiy少佐（Mi-24パイロット）がにやっと笑った。\
+この時、Kovalskiy少佐(Mi-24パイロット)がにやっと笑った。\
 「ヒューイに7.62ミリ・ミニガンを搭載するよう命じた。地上部隊への航空支援が必要になるかもしれない。ここで悪い知らせだ……Uzi-13は携帯式ミサイルによって撃ち落とされた。」\
 テントは、静かなざわめに包まれた。\
 「だから、我々は十分に警戒しなければならない。当面の最優先任務は、我々のヘリを撃墜した反乱集団を発見し、壊滅させることだ。これは通常の発砲事件ではない。この地域における全飛行活動への脅威であり、放置するわけにはいかない。各飛行クルーのリーダーは全員、明朝0600のブリーフィングに集合せよ。諸君、以上だ。」",
@@ -660,12 +660,12 @@ PEDRO: - 了解。González、ついて行け。",
     ["DictKey_GroupName_202"] = "HP_Madrid GKP #002",
     ["DictKey_UnitName_161"] = "HP_Madrid Palat #13",
     ["DictKey_UnitName_203"] = "HP_Madrid GKP #1",
-    ["DictKey_48"] = "MARCOS: - Springfield-3、4、兵士を降ろせ！ 2番機と私で援護する！",
+    ["DictKey_48"] = "MARCOS: - Springfield-3、4、兵士を降ろせ! 2番機と私で援護する!",
     ["DictKey_UnitName_119"] = "HP_Madrid GSM 3",
     ["DictKey_WptName_376"] = "",
     ["DictKey_WptName_421"] = "",
     ["DictKey_WptName_655"] = "",
-    ["DictKey_52"] = "MARCOS: - Springfield-3、4、兵士を降ろせ！ 2番機と私で援護する！",
+    ["DictKey_52"] = "MARCOS: - Springfield-3、4、兵士を降ろせ! 2番機と私で援護する!",
     ["DictKey_UnitName_285"] = "BP_Dalyn2 #1",
     ["DictKey_WptName_607"] = "",
     ["DictKey_WptName_502"] = "",

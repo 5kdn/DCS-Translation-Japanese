@@ -61,22 +61,22 @@ dictionary =
     ["DictKey_WptName_439"] = "",
     ["DictKey_WptName_429"] = "",
     ["DictKey_UnitName_301"] = "Юнит #35",
-    ["DictKey_57"] = "PEDRO: - ビーコンの約3キロ南にチェックポイントがある。探してくれ。",
+    ["DictKey_57"] = "PEDRO: - ビーコンの約3km南にチェックポイントがある。探してくれ。",
     ["DictKey_GroupName_112"] = "HP_Madrid GSM Ukr",
     ["DictKey_GroupName_194"] = "HP_Madrid BlokP #002",
     ["DictKey_UnitName_201"] = "HP_Madrid GKP #1",
     ["DictKey_GroupName_246"] = "HP_Madrid Of mod #034",
     ["DictKey_WptName_426"] = "",
     ["DictKey_WptName_392"] = "",
-    ["DictKey_35"] = "PEDRO: - 速度を上げろ、新人。時間がない。方位110へ向かえ。30キロ先に大きな村がある。そこから真南へ進むぞ。",
+    ["DictKey_35"] = "PEDRO: - 速度を上げろ、新人。時間がない。方位110へ向かえ。30km先に大きな村がある。そこから真南へ進むぞ。",
     ["DictKey_UnitName_173"] = "HP_Madrid Palat #17",
     ["DictKey_GroupName_152"] = "HP_Madrid Palat #009",
     ["DictKey_54"] = "PEDRO: - よし、操縦を返す。急いで向かえ。",
     ["DictKey_58"] = "PEDRO: - Checkpoint-14、こちらSpringfield-2。応答せよ。\
 CKP 14: - Springfield-2、聞こえています。どうぞ。\
-PEDRO: - LZをマークしてくれ！\
-CKP 14: - LZをマークしました。レッドスモークです！\
-PEDRO: - 了解、レッドスモーク。医療機はもう着いたか？\
+PEDRO: - LZをマークしてくれ!\
+CKP 14: - LZをマークしました。レッドスモークです!\
+PEDRO: - 了解、レッドスモーク。医療機はもう着いたか?\
 CKP 14: - たった今、着陸要請があった所です。ドンピシャでの到着です。\
 \
 ",
@@ -86,7 +86,7 @@ CKP 14: - たった今、着陸要請があった所です。ドンピシャで�
     ["DictKey_GroupName_136"] = "HP_Madrid Palat",
     ["DictKey_WptName_332"] = "",
     ["DictKey_WptName_407"] = "",
-    ["DictKey_36"] = "PEDRO: - ドクター、必要なものは全部持ちましたか？\
+    ["DictKey_36"] = "PEDRO: - ドクター、必要なものは全部持ちましたか?\
 DOC: - 全部持ったよ、大尉。急いでくれ。\
 ",
     ["DictKey_WptName_389"] = "",
@@ -141,8 +141,8 @@ MADRID: - 了解、Springfield。何とかならないか調べる。その間�
     ["DictKey_GroupName_206"] = "HP_Madrid Vyshka #007",
     ["DictKey_WptName_384"] = "",
     ["DictKey_WptName_413"] = "",
-    ["DictKey_56"] = "DOC: - 大尉、もっと急げるか？　彼はかろうじて持ちこたえている状態だ。\
-PEDRO: - 新人、急いでくれ！\
+    ["DictKey_56"] = "DOC: - 大尉、もっと急げるか? 彼はかろうじて持ちこたえている状態だ。\
+PEDRO: - 新人、急いでくれ!\
 \
 ",
     ["DictKey_GroupName_74"] = "UH-1_Uzi1",
@@ -163,7 +163,7 @@ PEDRO: - 新人、急いでくれ！\
     ["DictKey_GroupName_266"] = "HP_Madrid Palat KP #002",
     ["DictKey_GroupName_252"] = "HP_Madrid Of mod #039",
     ["DictKey_UnitName_97"] = "BP_Dalyn #2",
-    ["DictKey_66"] = "PEDRO: - お前らが飛行学校と呼んでる、あの保養所じゃ地図の読み方すら教えんのか？　コースから外れてる！　右に修正しろ！",
+    ["DictKey_66"] = "PEDRO: - お前らが飛行学校と呼んでる、あの保養所じゃ地図の読み方すら教えんのか? コースから外れてる! 右に修正しろ!",
     ["DictKey_GroupName_85"] = "Наземная группа #005",
     ["DictKey_WptName_417"] = "",
     ["DictKey_GroupName_248"] = "HP_Madrid Of mod #037",
@@ -203,7 +203,7 @@ PEDRO: - 新人、急いでくれ！\
     ["DictKey_WptName_437"] = "",
     ["DictKey_WptName_356"] = "",
     ["DictKey_GroupName_138"] = "HP_Madrid Of mod #004",
-    ["DictKey_59"] = "PEDRO: - スモークマーカーは見えるか、ナゲット？　医療機を先に着陸させろ。その右横にできるだけ寄せて降ろせ。",
+    ["DictKey_59"] = "PEDRO: - スモークマーカーは見えるか、ナゲット? 医療機を先に着陸させろ。その右横にできるだけ寄せて降ろせ。",
     ["DictKey_WptName_445"] = "",
     ["DictKey_GroupName_276"] = "BP_Dalyn2 #001",
     ["DictKey_44"] = "PEDRO: - Checkpoint-3、こちらSpringfield-2。応答せよ。\
@@ -233,21 +233,21 @@ PEDRO: - 了解、Checkpoint-3。以上。\
     ["DictKey_GroupName_204"] = "HP_Madrid Vyshka #006",
     ["DictKey_WptName_402"] = "",
     ["DictKey_WptName_387"] = "",
-    ["DictKey_63"] = "PEDRO: - お前らが飛行学校と呼んでる、あの保養所じゃ地図の読み方すら教えんのか？　コースから外れてる！　左に修正しろ！",
+    ["DictKey_63"] = "PEDRO: - お前らが飛行学校と呼んでる、あの保養所じゃ地図の読み方すら教えんのか? コースから外れてる! 左に修正しろ!",
     ["DictKey_GroupName_230"] = "HP_Madrid Of mod #023",
     ["DictKey_GroupName_102"] = "HP_Madrid GSM",
     ["DictKey_WptName_466"] = "",
     ["DictKey_GroupName_88"] = "Наземная группа #001",
     ["DictKey_UnitName_197"] = "HP_Madrid BlokP #001",
-    ["DictKey_47"] = "PEDRO: - そっちはどうだ？\
-CKP 3: - 間に合ったよ。まだ生きている！\
-PEDRO: - 急いで乗せてくれ。ドクター、あなたの出番です！\
+    ["DictKey_47"] = "PEDRO: - そっちはどうだ?\
+CKP 3: - 間に合ったよ。まだ生きている!\
+PEDRO: - 急いで乗せてくれ。ドクター、あなたの出番です!\
 ",
     ["DictKey_GroupName_76"] = "UH-1_Uzi",
-    ["DictKey_64"] = "PEDRO: - お前らが飛行学校と呼んでる、あの保養所じゃ地図の読み方すら教えんのか？　コースから外れてる！　左に修正しろ！",
-    ["DictKey_55"] = "PEDRO: - ドクター、その後どうですか？\
-DOC: - 良くない。ひとまず出血は止めた。しかし、すでにかなりの血を失っている。長くは持たないかもしれない！\
-PEDRO: - 聞こえたか、新人？\
+    ["DictKey_64"] = "PEDRO: - お前らが飛行学校と呼んでる、あの保養所じゃ地図の読み方すら教えんのか? コースから外れてる! 左に修正しろ!",
+    ["DictKey_55"] = "PEDRO: - ドクター、その後どうですか?\
+DOC: - 良くない。ひとまず出血は止めた。しかし、すでにかなりの血を失っている。長くは持たないかもしれない!\
+PEDRO: - 聞こえたか、新人?\
 ",
     ["DictKey_GroupName_284"] = "BP_Dalyn2 #003",
     ["DictKey_52"] = "PEDRO: - 新人、操縦を代われ。ADFを353.0に合わせろ。渓谷を抜けたら、その方位へ直行する。患者を引き渡すチェックポイントはビーコンの近くだ。",
@@ -267,7 +267,7 @@ PEDRO: - 聞こえたか、新人？\
     ["DictKey_UnitName_123"] = "HP_Madrid BP 3",
     ["DictKey_descriptionRedTask_323"] = "",
     ["DictKey_WptName_416"] = "",
-    ["DictKey_60"] = "PEDRO: - ドクター、行け！　患者を移すぞ！\
+    ["DictKey_60"] = "PEDRO: - ドクター、行け! 患者を移すぞ!\
 DOC: - ありがとう。助かることを祈ろう。\
 ",
     ["DictKey_UnitName_131"] = "HP_Madrid Tent 4",
@@ -282,11 +282,11 @@ DOC: - ありがとう。助かることを祈ろう。\
     ["DictKey_GroupName_180"] = "HP_Madrid GKP",
     ["DictKey_descriptionText_322"] = "「ここに居たか。」\
 Benito大尉のしかめっ面がドアから覗いた。\
-「またサボってるのか、新人？　探したぞ！　記者を乗せた後、言いつけどおり機内を磨いたか？」\
+「またサボってるのか、新人? 探したぞ! 記者を乗せた後、言いつけどおり機内を磨いたか?」\
 大尉はいやみったらしく言った。\
-「俺はきれい好きなんだ。ちゃんと終わってるよな？」\
-「アイ・サー！　ヘリは磨き終わって準備できています。時間があったので武器も取り外しています。」\
-「上出来だ！　これで速度を少し稼げる。今日はそれが必要になるぞ。特別任務だ。負傷兵を搬送する。命を救えるかもしれん！　何を待ってる、特別な招待状か？　行くぞ！　負傷者は待ってくれない！」大尉はそう言い放つと、ドアの向こうへ消えた。\
+「俺はきれい好きなんだ。ちゃんと終わってるよな?」\
+「アイ・サー! ヘリは磨き終わって準備できています。時間があったので武器も取り外しています。」\
+「上出来だ! これで速度を少し稼げる。今日はそれが必要になるぞ。特別任務だ。負傷兵を搬送する。命を救えるかもしれん! 何を待ってる、特別な招待状か? 行くぞ! 負傷者は待ってくれない!」大尉はそう言い放つと、ドアの向こうへ消えた。\
 ",
     ["DictKey_UnitName_155"] = "HP_Madrid Palat #10",
     ["DictKey_WptName_428"] = "",
@@ -339,8 +339,8 @@ Benito大尉のしかめっ面がドアから覗いた。\
     ["DictKey_UnitName_81"] = "BP_Dalyn",
     ["DictKey_WptName_425"] = "",
     ["DictKey_WptName_340"] = "",
-    ["DictKey_49"] = "PEDRO: - ドクター、彼の容体は？\
-DOC: - 良くない！　基地へ連れ帰るわけにはいかない。手術が必要だが、基地では対応できない。\
+    ["DictKey_49"] = "PEDRO: - ドクター、彼の容体は?\
+DOC: - 良くない! 基地へ連れ帰るわけにはいかない。手術が必要だが、基地では対応できない。\
 PEDRO: - 分かった。Madridに連絡する。\
 新人、離陸しろ。ひとまず基地の方角へ向かえ。\
 ",
@@ -349,8 +349,8 @@ PEDRO: - 分かった。Madridに連絡する。\
     ["DictKey_WptName_420"] = "",
     ["DictKey_WptName_459"] = "",
     ["DictKey_descriptionBlueTask_324"] = "急いでフライトギアを装着し、ヘリへ駆けていった。私が座席に滑り込んだときには、Benito大尉はすでにヘリをスタートさせていた。軽やかな微風が、秋の雲を吹き流していた。隣接するヘリパッドではグランドクルーたちがヘリの周りで忙しそうに整備をしていた。\
-「ようやくお出ましか！」インターコムがつながるなり声が聞こえた。\
-「仕事の時間だ。誰かの命が危ない。ほかの機体はすべて任務中か修理中だから、出られるのは俺たちだけだ。分かったか？」\
+「ようやくお出ましか!」インターコムがつながるなり声が聞こえた。\
+「仕事の時間だ。誰かの命が危ない。ほかの機体はすべて任務中か修理中だから、出られるのは俺たちだけだ。分かったか?」\
 私は理解したことを示すためにうなずき、次の指示を待った。\
 \
 Kutaisi NDB 477 ID TIG.",
@@ -386,7 +386,7 @@ Kutaisi NDB 477 ID TIG.",
     ["DictKey_WptName_353"] = "",
     ["DictKey_UnitName_279"] = "HP_Madrid Palat #2",
     ["DictKey_UnitName_167"] = "HP_Madrid Palat #14",
-["DictKey_62"] = "PEDRO: - よくやった、González。たぶん助かったと思うぞ。あとは医者に任せよう。基地に帰るぞ。ADFは477.0だ、覚えてるな？",
+["DictKey_62"] = "PEDRO: - よくやった、González。たぶん助かったと思うぞ。あとは医者に任せよう。基地に帰るぞ。ADFは477.0だ、覚えてるな?",
     ["DictKey_WptName_337"] = "",
     ["DictKey_GroupName_160"] = "HP_Madrid Palat #002",
     ["DictKey_GroupName_106"] = "HP_Madrid Tent",
@@ -434,7 +434,7 @@ Kutaisi NDB 477 ID TIG.",
     ["DictKey_GroupName_166"] = "HP_Madrid Palat #014",
     ["DictKey_WptName_430"] = "",
     ["DictKey_UnitName_273"] = "HP_Madrid Palat #4",
-    ["DictKey_65"] = "PEDRO: - お前らが飛行学校と呼んでる、あの保養所じゃ地図の読み方すら教えんのか？　コースから外れてる！　右に修正しろ！",
+    ["DictKey_65"] = "PEDRO: - お前らが飛行学校と呼んでる、あの保養所じゃ地図の読み方すら教えんのか? コースから外れてる! 右に修正しろ!",
     ["DictKey_WptName_347"] = "",
     ["DictKey_WptName_454"] = "",
     ["DictKey_UnitName_145"] = "HP_Madrid Of mod #13",
@@ -457,12 +457,12 @@ Kutaisi NDB 477 ID TIG.",
     ["DictKey_WptName_351"] = "",
     ["DictKey_UnitName_181"] = "HP_Madrid GKP",
     ["DictKey_WptName_333"] = "",
-    ["DictKey_67"] = "PEDRO: - お前らが飛行学校と呼んでる、あの保養所じゃ地図の読み方すら教えんのか？　コースから外れてる！　右に修正しろ！",
+    ["DictKey_67"] = "PEDRO: - お前らが飛行学校と呼んでる、あの保養所じゃ地図の読み方すら教えんのか? コースから外れてる! 右に修正しろ!",
     ["DictKey_UnitName_287"] = "BP_Dalyn2 #3",
     ["DictKey_WptName_375"] = "",
     ["DictKey_WptName_419"] = "",
     ["DictKey_UnitName_209"] = "HP_Madrid Vyshka #7",
-    ["DictKey_48"] = "PEDRO: - そっちはどうだ？\
+    ["DictKey_48"] = "PEDRO: - そっちはどうだ?\
 CKP 3: - 遅かったよ。亡くなってしまった。\
 ",
     ["DictKey_42"] = "PEDRO: - 村の南端から川をたどって渓谷に入れ。",
