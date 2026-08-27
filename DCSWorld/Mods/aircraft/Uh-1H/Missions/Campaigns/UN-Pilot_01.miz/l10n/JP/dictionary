@@ -355,7 +355,7 @@ DANIEL: - そちらさんもな。新人さんもよろしく！\
 \
 離陸：Tbilisi-Vaziani（トビリシ・バジアニ）、周波数140.00 MHz\
 着陸：国連平和維持軍基地（コールサインMADRID）、周波数251.00 MHz\
-Kutaisi NDB 477、識別符号TIG。",
+Kutaisi NDB 477 ID TIG.",
     ["DictKey_GroupName_87"] = "Наземная группа #005",
     ["DictKey_WptName_290"] = "",
     ["DictKey_WptName_283"] = "",
