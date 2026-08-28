@@ -12,33 +12,34 @@ dictionary =
     ["DictKey_UnitName_73"] = "Unit #17",
     ["DictKey_WptName_198"] = "",
     ["DictKey_WptName_161"] = "",
-    ["DictKey_59"] = "コパイロット: \
+    ["DictKey_59"] = "COPILOT:\
 \
-全員乗ったかい？\
+全員乗ったか?\
 \
-レッツゴー\
+出発しよう。\
 ",
     ["DictKey_WptName_145"] = "",
     ["DictKey_UnitName_121"] = "Unit #1",
-    ["DictKey_47"] = "コパイロット: スカラ, フォード.\
+    ["DictKey_47"] = "COPILOT: Skala、Ford。\
 \
-今から戻ります。\
+今から帰還する。\
 ",
     ["DictKey_WptName_205"] = "",
-    ["DictKey_55"] = "コパイロット:\
+    ["DictKey_55"] = "COPILOT:\
 \
-助かると良いのですが。\
+助かるといいんだが。\
 \
-再出発の前に給油が必要です。\
-\
-\
+もう一度上がる前に給油が必要だ。\
 \
 \
-ヒント\
 \
-「RSHIFT + SPACE」 を押すと　グランドクルーと交信できます。\
-通常の[\\、＼」ではうまくいきませんので必ず「RSHIFT + SPACE」 を使用してください。",
-    ["DictKey_52"] = "コパイロット: じゃまな電線だ！",
+\
+HINT\
+\
+\
+インターフォンでグランドクルーと交信するには、|RSHIFT + SPACE|を押してください。\
+",
+    ["DictKey_52"] = "COPILOT: くそっ、電線だ!",
     ["DictKey_UnitName_108"] = "New Static Object #017",
     ["DictKey_UnitName_90"] = "New Static Object #005",
     ["DictKey_GroupName_97"] = "RU FARP (Skala) Vehicles #002",
@@ -46,44 +47,47 @@ dictionary =
     ["DictKey_WptName_199"] = "",
     ["DictKey_UnitName_123"] = "New Static Object #004",
     ["DictKey_WptName_181"] = "",
-    ["DictKey_sortie_144"] = "エルブルス　レスキュー",
+    ["DictKey_sortie_144"] = "Elbrus Rescue",
     ["DictKey_UnitName_131"] = "New Static Object #021",
     ["DictKey_WptName_166"] = "",
     ["DictKey_WptName_147"] = "",
     ["DictKey_WptName_169"] = "",
-    ["DictKey_GroupName_115"] = "フォード-1 (hot start)",
+    ["DictKey_GroupName_115"] = "Ford-1 (hot start)",
     ["DictKey_UnitName_125"] = "New Static Object #015",
-    ["DictKey_39"] = "スカラ: フォード, こちら スカラ.\
+    ["DictKey_39"] = "SKALA: Ford、こちらSkala。\
 \
-レスキューオペレーションを許可します。\
+救助作戦を許可する。\
 \
- 風向 331 風速 3ｍ/ｓ 雲が厚く基地高度での視界は不良。 ですが4000ｍ以上では快晴です。\
+風向331、風速3m/s。\
 \
- 安全に気をつけてください\
+厚い雲により基地の標高では視界不良だが、4,000m以上では視界良好だ。\
+\
+安全な飛行を祈る。\
 ",
-    ["DictKey_41"] = "コパイロット:\
+    ["DictKey_41"] = "COPILOT:\
 \
-上空ではこのモヤも晴れているそうです。正しいことを祈りましょう。\
+上では、このひどい雲より天候がいいという話が本当だといいな。\
 ",
     ["DictKey_UnitName_104"] = "New Static Object #011",
     ["DictKey_WptName_153"] = "",
-    ["DictKey_60"] = "コパイロット: \
+    ["DictKey_60"] = "COPILOT:\
 \
-この重量のため、上昇力が十分ありません。\
+この高度と重量では、十分な揚力が得られない。\
 \
-北からの風を利用しましょう。\
+北からの弱い向かい風がある。\
 ",
     ["DictKey_WptName_172"] = "",
     ["DictKey_GroupName_119"] = "US",
-    ["DictKey_descriptionBlueTask_143"] = "兵士たちを救出し、エルブルス村のキャンプに戻してください。治療を行います。\
+    ["DictKey_descriptionBlueTask_143"] = "要員を救出し、治療を受けさせるためElbrus村の集合キャンプへ搬送せよ。\
 \
-救急要員は、現在こちらに向かっています。\
+救急要員はすでに現地へ向かっている。\
 \
-安全と効率を考えて上昇と下降の計画を慎重に立ててください。\
+安全かつ迅速に作戦を遂行できるよう、上昇と降下の計画を慎重に立てよ。\
 \
-ヘリコプターは最大能力を発揮できるように積荷も燃料も最小にしてあります。\
+ヘリコプターは性能を最大限に発揮できるよう、搭載物を減らし、燃料も必要最小限にしてある。\
 \
-兵士達の重量が増えますので、高高度では難しい飛行条件になると思われます。",
+要員の搭乗によって重量が増加するため、高高度では飛行条件が厳しくなると予想される。\
+",
     ["DictKey_WptName_151"] = "",
     ["DictKey_UnitName_79"] = "Unit #6",
     ["DictKey_GroupName_91"] = "RU FARP (Skala) Support #004",
@@ -99,89 +103,98 @@ dictionary =
     ["DictKey_WptName_148"] = "",
     ["DictKey_WptName_162"] = "",
     ["DictKey_GroupName_81"] = "RUS",
-    ["DictKey_68"] = "コパイロット:\
+    ["DictKey_68"] = "COPILOT:\
 \
-確認してください。燃料残量は20分の警告がでました。",
-    ["DictKey_GroupName_117"] = "フォード-1 (cold start)",
+注意、燃料残量20分の警告だ。\
+",
+    ["DictKey_GroupName_117"] = "Ford-1 (cold start)",
     ["DictKey_UnitName_127"] = "New Static Object #019",
-    ["DictKey_49"] = "コパイロット: ガバナー　オートにセット",
+    ["DictKey_49"] = "COPILOT: GovernorをAUTOにセット。",
     ["DictKey_UnitName_114"] = "DeadHip",
     ["DictKey_WptName_167"] = "",
     ["DictKey_WptName_155"] = "",
-    ["DictKey_57"] = "サミット: フォード, サミット.\
+    ["DictKey_57"] = "SUMMIT: Ford、Summit。\
 \
-残りのグループは西の山頂にいます。\
+残りのグループは西峰にいる。\
 \
-着陸スペースは十分ありますが、斜面が北から南にやや傾斜しているので注意して下さい。\
+着陸に十分な空間はあるが、斜面が北から南へわずかに下っているので注意してくれ。\
 \
-今、私達の位置をマーキングします。\
+今、こちらの位置を示す。\
 \
-Over.",
+オーバー。\
+",
     ["DictKey_GroupName_93"] = "RU FARP (Skala) Vehicles #001",
     ["DictKey_GroupName_89"] = "RU FARP (Skala) Support #005",
     ["DictKey_WptName_154"] = "",
     ["DictKey_WptName_152"] = "",
-    ["DictKey_37"] = "コパイロット:\
+    ["DictKey_37"] = "COPILOT:\
 \
-ストロボ　オン、　ナビライト　点灯、　VHFを 116にセット\
+ストロボをオン。ナビライトはステディ。VHFは116にセットする。\
 ",
     ["DictKey_WptName_206"] = "",
-    ["DictKey_40"] = "コパイロット: \
+    ["DictKey_40"] = "COPILOT:\
 \
-行きは地獄のような登りで、帰りはもやか",
+こいつは、とんでもない上昇になりそうだな。\
+\
+帰りは燃料がほとんど残らないぞ。\
+",
     ["DictKey_WptName_175"] = "",
     ["DictKey_WptName_168"] = "",
     ["DictKey_subtitle_191"] = "",
-    ["DictKey_58"] = "サミット:\
+    ["DictKey_58"] = "SUMMIT:\
 \
-フォード, ようこそヨーロッパ最高峰へ！\
+Ford、ヨーロッパの最高峰へようこそ!\
 \
-乗り込め\
+今、搭乗中だ。\
 ",
     ["DictKey_UnitName_80"] = "Unit #5",
     ["DictKey_67"] = "MISSION SUCCESS !!!\
 \
-よくやりました。厳しい気象条件の中、素晴らしい飛行でした。",
+よくやった。厳しい気象条件の中、見事な飛行だった。\
+",
     ["DictKey_GroupName_111"] = "RU FARP (Skala) Vehicles #006",
     ["DictKey_UnitName_94"] = "New Static Object #007",
-    ["DictKey_62"] = "コパイロット: \
+    ["DictKey_62"] = "COPILOT:\
 \
-ガバナーをオートにセット\
+GovernorをAUTOにセット。\
 ",
     ["DictKey_UnitName_106"] = "New Static Object #016",
     ["DictKey_GroupName_105"] = "RU FARP (Skala) Support #013",
     ["DictKey_WptName_183"] = "",
-    ["DictKey_42"] = "サミット: フォード, サミット. \
+    ["DictKey_42"] = "SUMMIT: Ford、Summit。\
 \
-報告します。クルーチーフの意識が弱っています。　\
+注意してくれ、クルーチーフの意識が薄れ始めている。\
 \
-温めて意識の確保とショックを防いでいますが、できることに限界があります。\
+身体を温め、意識を保たせながらショック状態に対処しているが、ここでできることには限界がある。\
 \
-できるだけ早く下山させなくてはなりません。",
-    ["DictKey_51"] = "キャビンの兵士たち: \
+至急、山を下りなければならない。\
+",
+    ["DictKey_51"] = "TROOPS IN CABIN:\
 \
-けが人の脈が無くなったぞ！  -  CPR開始！\
+負傷者の脈がなくなった。CPRを開始する!\
 \
-おい！ 頭を持ってくれ、頭だ！\
+しっかりしろ! 頭を支えろ、頭だ!\
 \
-医者が必要だ。今すぐに！",
+救急要員が必要だ、今すぐ!\
+",
     ["DictKey_GroupName_87"] = "RU FARP (Skala) Support #011",
     ["DictKey_WptName_160"] = "",
-    ["DictKey_46"] = "コパイロット: 重いです！\
+    ["DictKey_46"] = "COPILOT: 機体が重い!\
 \
-エマージェンシーガバナーをつけますか？",
+Emergency governorを使うか?",
     ["DictKey_WptName_163"] = "",
     ["DictKey_descriptionRedTask_142"] = "",
     ["DictKey_UnitName_83"] = "Unit #10",
-    ["DictKey_43"] = "サミット: フォード, サミット.\
+    ["DictKey_43"] = "SUMMIT: Ford、Summit。\
 \
-音が聞こえてきました。\
+君たちの接近音が聞こえる。\
 \
-信号弾を打ち上げて、鞍部にオレンジのスモークを炊きます。\
+鞍部で信号弾を上げ、オレンジ色のスモークを焚く。\
 \
-着陸スペースは十分にありますが、両サイドに向けて斜面になっていますので気を付けてください。 \
+ここには着陸に十分な空間があるが、両側の斜面に注意してくれ。\
 \
-何があったかわかりませんが、ロシアのヘリが西の斜面でひっくり返った状態で墜落しています。",
+何があったか分からないが、あのロシア軍ヘリはここへ上がる途中で西側の斜面に墜落した。\
+",
     ["DictKey_UnitName_133"] = "New Static Object #022",
     ["DictKey_UnitName_88"] = "New Static Object #003",
     ["DictKey_WptName_178"] = "",
@@ -199,21 +212,22 @@ Over.",
     ["DictKey_UnitName_96"] = "New Static Object #008",
     ["DictKey_UnitName_137"] = "New Static Object #012",
     ["DictKey_GroupName_109"] = "RU FARP (Skala) Vehicles #005",
-    ["DictKey_45"] = "コパイロット:\
+    ["DictKey_45"] = "COPILOT:\
 \
-出発可能です。\
+準備できた。いつでもいいぞ。\
 ",
     ["DictKey_UnitName_112"] = "New Static Object #018",
-    ["DictKey_56"] = "スカラ: フォード, こちら スカラ.\
+    ["DictKey_56"] = "SKALA: Ford、こちらSkala。\
 \
-貴方に報告です。負傷者はたった今、安定、彼を病院に搬送中です。\
+負傷者の容体は現在安定しており、病院へ搬送中だ。\
 \
-あなたの働きに感謝します。\
+君たちの働きに心から感謝する。\
 \
-他の兵士たちは全員OKです。",
-    ["DictKey_65"] = "コパイロット: \
+ほかの全員も大丈夫だ。\
+",
+    ["DictKey_65"] = "COPILOT:\
 \
-みんな、流すぞ\
+その調子だ、兄弟。\
 ",
     ["DictKey_WptName_186"] = "",
     ["DictKey_GroupName_134"] = "RU FARP (Skala) Support #012",
@@ -222,9 +236,9 @@ Over.",
     ["DictKey_UnitName_110"] = "New Static Object #013",
     ["DictKey_WptName_197"] = "",
     ["DictKey_WptName_204"] = "",
-    ["DictKey_44"] = "サミット: \
+    ["DictKey_44"] = "SUMMIT:\
 \
-ようこそ フォード.\
+会えてよかったよ、Ford。\
 ",
     ["DictKey_WptName_193"] = "",
     ["DictKey_UnitName_203"] = "",
@@ -234,36 +248,38 @@ Over.",
     ["DictKey_UnitName_82"] = "Unit #11",
     ["DictKey_UnitName_86"] = "New Static Object #002",
     ["DictKey_GroupName_113"] = "DeadHip",
-    ["DictKey_50"] = "キャビンの兵士たち:\
+    ["DictKey_50"] = "TROOPS IN CABIN:\
 \
-意識が無くなった！\
+意識を失いそうだ!\
 \
-バイタルをチェックしろ！\
+バイタルを確認!\
 \
-応急処置キットはどこだ？！\
+救急キットはどこだ?!\
 \
-...\
+……\
 \
-まだ、息がある！\
+まだ呼吸している!\
 \
-脈は弱ってます。\
+脈が弱い。\
 \
-今、気道の確保を行っている。",
-    ["DictKey_ActionText_195"] = "まず最初の飛行で、負傷者と３名を運んでください。残りはその後でお願いします。　\
+気道を確保する。\
+",
+    ["DictKey_ActionText_195"] = "最初の飛行で負傷者とほかの3名を搬送し、その後戻って残りを回収することを提案する。\
 \
-負傷者は救護のしやすい山頂間の鞍部に降ろします。\
+負傷者をより安全に保護するため、山頂間の鞍部へ移動させた。\
 \
-残りは西の山頂にいます。　40.5 FMで救難無線（ELT）を発信しています。　必要であれば追跡してください。\
+残りの要員は西峰にいる。ホーミングが必要なら、ELTをFM 40.5で作動させている。\
 \
-ヘリの音が聞こえたら信号弾を打ち上げ、スモークを焚きます\
+君たちの接近音が聞こえたら、信号弾を上げてスモークを焚く。\
 \
-航行の無事を祈ります",
+安全な飛行を祈る。\
+",
     ["DictKey_GroupName_85"] = "RU FARP (Skala)",
-    ["DictKey_63"] = "コパイロット: スカラ, フォード. \
+    ["DictKey_63"] = "COPILOT: Skala、Ford。\
 \
-残りのグループの乗せました。\
+残りのグループも搭乗した。\
 \
-今から帰還します。\
+今から帰還する。\
 ",
     ["DictKey_WptName_170"] = "",
     ["DictKey_UnitName_84"] = "Unit #9",
@@ -271,101 +287,97 @@ Over.",
     ["DictKey_69"] = "MISSION FAILED !!!",
     ["DictKey_GroupName_70"] = "ER",
     ["DictKey_WptName_165"] = "",
-    ["DictKey_61"] = "キャビンの兵士たち\
+    ["DictKey_61"] = "TROOPS IN CABIN:\
 \
-オーヤー！\
+イェーイ!\
 \
-世界の頂点だぜ！\
+世界の頂上だぜ!\
 \
-スピーカーにいいもん入れだぞ！",
-    ["DictKey_48"] = "スカラ: フォード, スカラ.\
+スピーカーを持ってきて正解だったな!\
+",
+    ["DictKey_48"] = "SKALA: Ford、Skala。\
 \
-了解\
+了解。\
 \
-医者はもうすぐ着きます。\
+救急要員はもうすぐ到着する。\
 ",
     ["DictKey_GroupName_99"] = "RU FARP (Skala) Vehicles #004",
     ["DictKey_WptName_159"] = "",
     ["DictKey_UnitName_98"] = "New Static Object #009",
     ["DictKey_53"] = "MISSION FAILED !!!\
 \
-負傷者の救出が間に合いませんでした",
+負傷者の救出が間に合わなかった。",
     ["DictKey_WptName_150"] = "",
     ["DictKey_UnitName_116"] = "Player (hot start)",
     ["DictKey_WptName_156"] = "",
     ["DictKey_UnitName_120"] = "Unit #2",
     ["DictKey_UnitName_72"] = "Unit #18",
     ["DictKey_WptName_171"] = "",
-    ["DictKey_66"] = "スカラ: \
+    ["DictKey_66"] = "SKALA:\
 \
-みんな、よくやった！\
+よくやった、みんな!\
 \
-おかえりなさい！",
-    ["DictKey_descriptionText_141"] = "今週結成されたアメリカ軍レンジャー部隊とロシア軍山岳部隊の小規模チームの合同訓練が、本日早朝エルブルス山に登頂しました。\
-この山は、コーカサス山脈での最高峰で標高5,642 メーター（18,500フィート）あります。\
-登頂成功後、チームの半分は無事撤収しキャンプに戻りましたが、２度目の輸送時にロシアの軍用ヘリMi-8（通称「Hip」）が西の山頂すぐそばの斜面に墜落しました。\
+おかえり!\
+",
+    ["DictKey_descriptionText_141"] = "米陸軍Rangerの小規模チームとロシア軍山岳旅団兵によって今週実施された合同訓練は、本日行われた地域最高峰、標高5,642m(18,500ft)のElbrus山への登頂をもって最終段階を迎えた。\
 \
-ヘリコプターの３名のクルーは何とか脱出しましたが、負傷しています。\
-クルーチーフは重度熱傷とショック状態で危機的な状態です。\
-ロシアのほかのヘリは演習中であり、日暮れも迫っている上に天候も悪化し始めています。\
-一緒に参加していたアメリカ軍のHueyをこの救助に向かわせることが決まりました。\
+チームの半数を無事に回収して集合キャンプへ帰還させた後、2回目の回収中にロシア軍のMi-8 \"Hip\"がElbrus山西峰直下の斜面へ墜落した。\
 \
-８名のアメリカ兵とロシア兵、そして３名の負傷したMi-8のクルーが山頂に取り残されています。\
+Mi-8の乗員3名はいずれも生存したが、負傷している。クルーチーフは重度の火傷とショックにより危篤状態にある。この演習にはほかのロシア軍ヘリが割り当てられておらず、日没が迫るなか天候も悪化していたため、演習に参加していた唯一の米軍Hueyで要員を回収することが決定された。\
 \
-彼らは救難無線（ELT）を FM 40.50で発信し、その位置を追跡しやすくしています。\
+米露軍人8名に加え、負傷したMi-8の乗員3名が山頂に取り残されている。\
 \
-３名の負傷したクルーと３名のロシア兵は、負傷者への負担が少ない２つの山頂間の鞍部に移動させています。\
+要員は現在地へのホーミングを容易にするため、FM 40.50MHzでELT信号を送信している。\
 \
-残りの５名の兵士は西の山頂にいます。\
+負傷した乗員3名と、さらにロシア軍兵士3名は、負傷者をより安全に保護するため両峰間の鞍部へ移動している。\
 \
-キャンプはエルブルス山の南東のふもとの村に設置されています。\
-標高１８００メートル（５９００フィート）の高さにあります。\
-基地高度での視界は雲が厚く不良、風は軽微、\
-山頂高度での視界は良好、風は軽微\
+残る兵士5名はElbrus山西峰にいる。\
 \
-兵員を救助し、救急処置を施すために作戦基地まで帰還せよ。負傷者は鞍部へただいま搬送中。\
-安全に航行できるように計画を立てよ。\
-ヘリコプターはパフォーマンスを上げるために軽くして、燃料も最小限にしてある\
-高高度では兵員分の重量も加わるので難しいフライトとなることが予想される",
+集合キャンプはElbrus山南東側の山麓にあるElbrus村に設置されており、標高は1,800m(5,900ft)である。\
+\
+基地の高度では厚い雲により視界不良だが、山頂では良好。風はいずれの高度でも弱い。\
+",
     ["DictKey_GroupName_122"] = "RU FARP (Skala) Support #010",
     ["DictKey_GroupName_136"] = "RU FARP (Skala) Support #007",
     ["DictKey_UnitName_77"] = "Unit #8",
     ["DictKey_UnitName_129"] = "New Static Object #020",
     ["DictKey_WptName_174"] = "",
     ["DictKey_GroupName_128"] = "RU FARP (Skala) Vehicles #008",
-    ["DictKey_64"] = "スカラ: 了解r, フォード.\
+    ["DictKey_64"] = "SKALA: 了解、Ford。\
 \
-また後で会いましょう。",
+数分後に会おう。\
+",
     ["DictKey_UnitName_102"] = "New Static Object #001",
     ["DictKey_WptName_188"] = "",
     ["DictKey_WptName_180"] = "",
     ["DictKey_GroupName_74"] = "Injured",
     ["DictKey_WptName_192"] = "",
-    ["DictKey_54"] = "キャビンの兵士たち:\
+    ["DictKey_54"] = "TROOPS IN CABIN:\
 \
-- 医者をここへ！\
+- 救急要員をここへ!\
 \
-酸素をもってこい、酸素だ！\
+酸素を持ってこい、酸素だ!\
 \
-心臓マッサージを代わってくれ！\
+胸骨圧迫を引き継げ!\
 \
-速く！速く！!\
+急げ! 急げ!\
 \
-呼吸を確保しろ！\
+呼吸しろ! 呼吸しろ!\
 \
-大丈夫か？！\
+支えたか?!\
 \
-彼をあの救急車まで運んでくれ！\
+救急車へ運べ!\
 \
-- ようし、ようし、いい感じだ　うまくいった\
+- よし、よし、引き受けた! こっちは大丈夫だ!\
 ",
-    ["DictKey_38"] = "サミット: フォード, こちら サミット.\
+    ["DictKey_38"] = "SUMMIT: Ford、こちらSummit。\
 \
-8名の兵士と墜落したMi-8の３名の負傷者がいます。\
+こちらには兵士8名と、墜落したMi-8の負傷者3名がいる。\
 \
-MI-8のクルーの一人が重症です。重度の火傷とショックを起こしています。\
+Mi-8乗員の1名は、重度の火傷とショックにより危篤状態だ。\
 \
-寒くて、酸素の薄いあの場所でどれくらい持つか不明です。 ",
+この寒さと低酸素の中で、あとどれだけ持ちこたえられるか分からない。\
+",
     ["DictKey_WptName_179"] = "",
     ["DictKey_UnitName_118"] = "Player (cold start)",
 } -- end of dictionary

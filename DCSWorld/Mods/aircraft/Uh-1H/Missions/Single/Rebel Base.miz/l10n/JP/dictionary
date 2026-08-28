@@ -15,7 +15,7 @@ dictionary =
     ["DictKey_UnitName_192"] = "New Static Object #010",
     ["DictKey_UnitName_218"] = "New Static Object #064",
     ["DictKey_GroupName_215"] = "New Static Object #063",
-    ["DictKey_25"] = "COPILOT: エンジン　出火！",
+    ["DictKey_25"] = "COPILOT: エンジン火災!",
     ["DictKey_WptName_287"] = "",
     ["DictKey_GroupName_153"] = "Ford-11 (hot start)",
     ["DictKey_GroupName_44"] = "New Vehicle Group #006",
@@ -24,21 +24,27 @@ dictionary =
     ["DictKey_WptName_240"] = "",
     ["DictKey_WptName_336"] = "",
     ["DictKey_UnitName_157"] = "Ford-12 (cold)",
-    ["DictKey_descriptionBlueTask_227"] = "",
-    ["DictKey_30"] = "COPILOT: やつらをあぶり出せ！",
+    ["DictKey_descriptionBlueTask_227"] = "ジョージア空軍のMi-24 Hind 2機で編成されたUzi隊に追従し、反乱軍野営地の破壊を支援せよ。\
+\
+飛行経路は\"Dallas\" FARPを出発し、鉄道沿いにSachkhereへ向かう。\
+\
+Sachkhere駅から野営地へ進入せよ。\
+\
+すべての敵地上戦力を攻撃し、基地を徹底的に破壊せよ。敵に戦闘手段を一切残すな。\
+",
+    ["DictKey_30"] = "COPILOT: やつらを撃ちまくれ!",
     ["DictKey_UnitName_194"] = "New Static Object #011",
     ["DictKey_GroupName_84"] = "base-003",
     ["DictKey_UnitName_43"] = "base-023",
     ["DictKey_WptName_293"] = "",
     ["DictKey_WptName_289"] = "",
-    ["DictKey_descriptionText_225"] = "偵察隊がSachkhereの北5キロの地点に反乱軍の大きな野営地を発見しました。　司令部はその破壊作戦を 決定しました。\
+    ["DictKey_descriptionText_225"] = "偵察により、Sachkhereの北西わずか5kmに反乱軍の大規模な野営地が発見された。\
 \
-公式にはジョージア軍の作戦としつつも、我々の軍が直接的に航空支援を行います。\
-ジョージア空軍のMi-24ハインド、Uzi 飛行隊と共に行き、反乱軍の野営地を破壊してください。\
+司令部は、この基地を破壊する戦闘任務を下した。\
 \
-飛行計画は前線基地（FARP)  \"Dallas\"から指示される。\
-野営地への侵攻はSachkhere駅からとなります",
-    ["DictKey_29"] = "COPILOT:いくつか　やったぞ！",
+公式にはジョージア軍の作戦だが、我が軍も直接航空支援を提供する。\
+",
+    ["DictKey_29"] = "COPILOT: 食らいやがれ!",
     ["DictKey_UnitName_48"] = "base-008",
     ["DictKey_UnitName_99"] = "base-028",
     ["DictKey_UnitName_38"] = "base-021",
@@ -55,7 +61,7 @@ dictionary =
     ["DictKey_UnitName_105"] = "base-014",
     ["DictKey_WptName_315"] = "",
     ["DictKey_GroupName_165"] = "New Static Object #021",
-    ["DictKey_23"] = "COPILOT: 殲滅したぞ",
+    ["DictKey_23"] = "COPILOT: 野営地を完全に壊滅させたぞ!",
     ["DictKey_GroupName_179"] = "New Static Object #004",
     ["DictKey_UnitName_93"] = "base-052",
     ["DictKey_GroupName_191"] = "New Static Object #010",
@@ -65,7 +71,7 @@ dictionary =
     ["DictKey_WptName_244"] = "",
     ["DictKey_UnitName_186"] = "New Static Object #007",
     ["DictKey_GroupName_112"] = "base-029",
-    ["DictKey_31"] = "COPILOT: いいバーべべキュー日和だな！",
+    ["DictKey_31"] = "COPILOT: 絶好のバーベキュー日和だな!",
     ["DictKey_GroupName_219"] = "New Static Object #065",
     ["DictKey_UnitName_208"] = "New Static Object #059",
     ["DictKey_WptName_263"] = "",
@@ -76,10 +82,15 @@ dictionary =
     ["DictKey_WptName_332"] = "",
     ["DictKey_WptName_243"] = "",
     ["DictKey_WptName_251"] = "",
-    ["DictKey_21"] = "COPILOT: よくやった、もうほとんど残ってなさそうだな。",
+    ["DictKey_21"] = "COPILOT: よくやった、もうあそこにはほとんど何も残ってなさそうだな。",
     ["DictKey_GroupName_173"] = "New Static Object",
     ["DictKey_UnitName_148"] = "New Static Object #073",
-    ["DictKey_27"] = "COPILOT: Ford-12　が落ちた！　２が墜落！",
+    ["DictKey_27"] = "COPILOT:\
+\
+Ford-12が墜落した!\
+\
+2番機が墜落した!\
+",
     ["DictKey_WptName_326"] = "",
     ["DictKey_WptName_237"] = "",
     ["DictKey_GroupName_62"] = "base-016",
@@ -105,7 +116,7 @@ dictionary =
     ["DictKey_GroupName_64"] = "base-017",
     ["DictKey_WptName_328"] = "",
     ["DictKey_UnitName_139"] = "Pilot #1",
-    ["DictKey_26"] = "COPILOT: 被弾！　被弾した！",
+    ["DictKey_26"] = "COPILOT: 被弾した、被弾した!",
     ["DictKey_GroupName_92"] = "base-052",
     ["DictKey_WptName_234"] = "",
     ["DictKey_GroupName_211"] = "New Static Object #061",
@@ -139,12 +150,19 @@ dictionary =
     ["DictKey_GroupName_88"] = "base-053",
     ["DictKey_WptName_241"] = "",
     ["DictKey_GroupName_76"] = "base-035",
-    ["DictKey_28"] = "COPILOT: ヒャッハー！",
+    ["DictKey_28"] = "COPILOT: ヒャッハー!",
     ["DictKey_UnitName_115"] = "base-049",
     ["DictKey_UnitName_87"] = "base-001",
-    ["DictKey_32"] = "COPILOT: あのハインドを見ろよ...　いつも思うが、ありゃ怖いね。恐ろしい野郎だぜ。",
+    ["DictKey_32"] = "COPILOT:\
+\
+あのHindを見ろよ……\
+\
+前から、ドラゴンみたいだと思っていたんだ。\
+\
+恐ろしい奴らだぜ。\
+",
     ["DictKey_WptName_298"] = "",
-    ["DictKey_19"] = "COPILOT: イニシャルポイントのSachhere駅まで10キロ",
+    ["DictKey_19"] = "COPILOT: IPのSachkhere駅まで10km。",
     ["DictKey_UnitName_123"] = "base-006",
     ["DictKey_UnitName_131"] = "base-044",
     ["DictKey_UnitName_190"] = "New Static Object #009",
@@ -195,7 +213,7 @@ dictionary =
     ["DictKey_GroupName_193"] = "New Static Object #011",
     ["DictKey_GroupName_147"] = "New Static Object #073",
     ["DictKey_UnitName_210"] = "New Static Object #060",
-    ["DictKey_24"] = "COPILOT: 油圧が下がってきている！",
+    ["DictKey_24"] = "COPILOT: 油圧が低下している!",
     ["DictKey_WptName_278"] = "",
     ["DictKey_WptName_325"] = "",
     ["DictKey_WptName_261"] = "",
@@ -278,7 +296,7 @@ dictionary =
     ["DictKey_WptName_257"] = "",
     ["DictKey_WptName_230"] = "",
     ["DictKey_WptName_260"] = "",
-    ["DictKey_20"] = "COPILOT: イニシャルポイントまで5キロ",
+    ["DictKey_20"] = "COPILOT: IPまで5km。",
     ["DictKey_WptName_297"] = "",
     ["DictKey_WptName_245"] = "",
     ["DictKey_WptName_249"] = "",
