@@ -5,7 +5,7 @@ dictionary =
     ["DictKey_GroupName_124"] = "HP_Madrid BP 2",
     ["DictKey_WptName_361"] = "",
     ["DictKey_WptName_401"] = "",
-    ["DictKey_53"] = "PEDRO: - 悪くなかったぞ、新人。お前にもまだ見込みがありそうだ。何だ、この臭いは？　魚でも持ち込んだのか？　何だ……うわ、勘弁してくれ！　後ろで誰かが吐きやがった！　今夜、機内を洗うのはお前だな。操縦には繊細さが必要だって教訓にしろ。くそっ、窓か何かを開けろ。目に染みる！",
+    ["DictKey_53"] = "PEDRO: - 悪くなかったぞ、新人。お前にもまだ見込みがありそうだ。何だ、この臭いは? 魚でも持ち込んだのか? 何だ……うわ、勘弁してくれ! 後ろで誰かが吐きやがった! 今夜、機内を洗うのはお前だな。操縦には繊細さが必要だって教訓にしろ。くそっ、窓か何かを開けろ。目に染みる!",
     ["DictKey_UnitName_297"] = "Ukr_Mi-24_48",
     ["DictKey_GroupName_226"] = "HP_Madrid 3",
     ["DictKey_GroupName_198"] = "HP_Madrid BlokP #002",
@@ -27,15 +27,15 @@ dictionary =
     ["DictKey_WptName_387"] = "",
     ["DictKey_WptName_438"] = "",
     ["DictKey_WptName_408"] = "",
-    ["DictKey_descriptionBlueTask_306"] = "離陸：FARP MADRID（前線基地マドリッド）\
-先導する2機のMi-24「ハインド」（コールサイン「147」）を追従し、計画経路に沿ってZUGDIDIまで飛行せよ。\
+    ["DictKey_descriptionBlueTask_306"] = "離陸：FARP MADRID(前線基地マドリッド)\
+先導する2機のMi-24「ハインド」(コールサイン「147」)を追従し、計画経路に沿ってZUGDIDIまで飛行せよ。\
 ZUGDIDIで先導編隊と分かれ、計画経路に沿ってSENAKIへ向かえ。\
 SENAKI-KOLKHI航空基地に着陸し、報道班を降ろせ。\
 FARP MADRIDへ帰投せよ。\
 \
 無線周波数：\
-MADRID – 251.00 MHz\
-SENAKI-KOLKHI – 132.00 MHz\
+MADRID – 251.00MHz\
+SENAKI-KOLKHI – 132.00MHz\
 Kutaisi NDB 477 ID TIG.",
     ["DictKey_UnitName_163"] = "HP_Madrid Palat #13",
     ["DictKey_UnitName_157"] = "HP_Madrid Palat #9",
@@ -75,27 +75,27 @@ Kutaisi NDB 477 ID TIG.",
     ["DictKey_WptName_392"] = "",
     ["DictKey_UnitName_173"] = "HP_Madrid Palat #15",
     ["DictKey_WptName_348"] = "",
-    ["DictKey_58"] = "PEDRO: - よし、ナゲット。シャットダウンしろ。あと、キャビンを洗っておくのも忘れるなよ！",
+    ["DictKey_58"] = "PEDRO: - よし、ナゲット。シャットダウンしろ。あと、キャビンを洗っておくのも忘れるなよ!",
     ["DictKey_WptName_399"] = "",
     ["DictKey_WptName_332"] = "",
     ["DictKey_WptName_407"] = "",
-    ["DictKey_36"] = "PEDRO: - 147、こちらSpringfield-2！　張り切って飛ばしすぎるな。こっちは大切な乗客を乗せてるうえ、操縦してるのは新人だ。\
-147: - Springfield、Pedroか？　ちょうどNikolayに、今回の任務は何か怪しいと言ってたところだ。そのオンボロで慎重に飛べよ。近づきすぎたら、ばらばらになるかもしれんぞ。\
+    ["DictKey_36"] = "PEDRO: - 147、こちらSpringfield-2! 張り切って飛ばしすぎるな。こっちは大切な乗客を乗せてるうえ、操縦してるのは新人だ。\
+147: - Springfield、Pedroか? ちょうどNikolayに、今回の任務は何か怪しいと言ってたところだ。そのオンボロで慎重に飛べよ。近づきすぎたら、ばらばらになるかもしれんぞ。\
 PEDRO: - はいはい、聞こえてるぞ、Kovalskiy。\
-嫌な奴だ！　新人、もっと近づけ！\
+嫌な奴だ! 新人、もっと近づけ!\
 ",
     ["DictKey_GroupName_148"] = "HP_Madrid Of mod #014",
     ["DictKey_UnitName_267"] = "HP_Madrid Palat #38",
-    ["DictKey_50"] = "リポーター: - ここら辺はとても綺麗ですね。下に見えるのは何ですか？　溶接でもしているのですか？　何か建設中ですか？\
-PEDRO: - なんだって？！　溶接？　そんなんじゃない！　撃たれてるぞ！　González、すぐに降下して右にブレイクだ！　Madrid、こちらSpringfield-2、応答せよ！",
+    ["DictKey_50"] = "リポーター: - ここら辺はとても綺麗ですね。下に見えるのは何ですか? 溶接でもしているのですか? 何か建設中ですか?\
+PEDRO: - なんだって?! 溶接? そんなんじゃない! 撃たれてるぞ! González、すぐに降下して右にブレイクだ! Madrid、こちらSpringfield-2、応答せよ!",
     ["DictKey_UnitName_259"] = "HP_Madrid Of mod #39",
     ["DictKey_GroupName_196"] = "HP_Madrid Vyshka #003",
     ["DictKey_WptName_369"] = "",
-    ["DictKey_42"] = "リポーター: - もう少し近づけますか？　攻撃ヘリコプターをもっとクローズアップで撮りたいのですが。\
-PEDRO: - お安い御用です。新人！　タイトフォーメーションだ、近づけ！\
+    ["DictKey_42"] = "リポーター: - もう少し近づけますか? 攻撃ヘリコプターをもっとクローズアップで撮りたいのですが。\
+PEDRO: - お安い御用です。新人! タイトフォーメーションだ、近づけ!\
 ",
     ["DictKey_51"] = "MADRID: - Springfield-2、こちらMadrid。どうぞ。\
-PEDRO: - セクターGolf-Golf-39（GG39）で攻撃を受けている！\
+PEDRO: - セクターGolf-Golf-39(GG39)で攻撃を受けている!\
 MADRID: - 了解、Springfield。任務を続行せよ。最寄りのチェックポイントへ連絡する。\
 ",
     ["DictKey_GroupName_441"] = "Стат. объект #001",
@@ -124,9 +124,9 @@ PEDRO: - 新人、よく覚えておけ。このフライトが終わる頃に�
     ["DictKey_GroupName_206"] = "HP_Madrid Vyshka #005",
     ["DictKey_GroupName_182"] = "HP_Madrid GSM Tualet #001",
     ["DictKey_WptName_413"] = "",
-    ["DictKey_56"] = "PEDRO: - レディース＆ジェントルマン、これで旅は終わりです！　またのご搭乗をお待ちしています。私たち一同、帰りも良いフライトとなることをお祈りしています。飛行機はすでに待機しております。新人、手を振れ！\
-MIGUEL: - バイ！\
-リポーター: - ありがとうございました。あなた方も、お気をつけて！\
+    ["DictKey_56"] = "PEDRO: - レディース＆ジェントルマン、これで旅は終わりです! またのご搭乗をお待ちしています。私たち一同、帰りも良いフライトとなることをお祈りしています。飛行機はすでに待機しております。新人、手を振れ!\
+MIGUEL: - バイ!\
+リポーター: - ありがとうございました。あなた方も、お気をつけて!\
 ",
     ["DictKey_UnitName_215"] = "HP_Madrid Vyshka #8",
     ["DictKey_WptName_426"] = "",
@@ -176,7 +176,7 @@ MIGUEL: - バイ！\
     ["DictKey_GroupName_248"] = "HP_Madrid Of mod #032",
     ["DictKey_GroupName_162"] = "HP_Madrid Palat #013",
     ["DictKey_UnitName_209"] = "HP_Madrid Vyshka #5",
-    ["DictKey_34"] = "PEDRO: - 2機のハインドが離陸した。続いて離陸し、後を追え。1キロ以上離されたら二度と追いつけんぞ。そうなれば明日のニュースに映るのはお前の顔だ。分かったか？",
+    ["DictKey_34"] = "PEDRO: - 2機のハインドが離陸した。続いて離陸し、後を追え。1km以上離されたら二度と追いつけんぞ。そうなれば明日のニュースに映るのはお前の顔だ。分かったか?",
     ["DictKey_GroupName_164"] = "HP_Madrid Palat #002",
     ["DictKey_WptName_382"] = "",
     ["DictKey_GroupName_78"] = "UH_Springfield",
@@ -205,7 +205,7 @@ MIGUEL: - バイ！\
     ["DictKey_WptName_385"] = "",
     ["DictKey_UnitName_295"] = "Il-76_traf",
     ["DictKey_GroupName_301"] = "Zhurn",
-    ["DictKey_52"] = "PEDRO: - 実践飛行をお見せしましたが、楽しんでいただけましたか？",
+    ["DictKey_52"] = "PEDRO: - 実践飛行をお見せしましたが、楽しんでいただけましたか?",
     ["DictKey_UnitName_263"] = "HP_Madrid Palat #31",
     ["DictKey_WptName_335"] = "",
     ["DictKey_GroupName_166"] = "HP_Madrid Palat #004",
@@ -218,7 +218,7 @@ MIGUEL: - バイ！\
     ["DictKey_WptName_424"] = "",
     ["DictKey_GroupName_88"] = "BP_Dalyn",
     ["DictKey_UnitName_197"] = "HP_Madrid Vyshka #3",
-    ["DictKey_47"] = "PEDRO: - 何もできないやつだな！　へぼ！　ヘリコプターに近づくのが怖いのか？　リポーターの前で俺に恥をかかせるな！",
+    ["DictKey_47"] = "PEDRO: - 何もできないやつだな! へぼ! ヘリコプターに近づくのが怖いのか? リポーターの前で俺に恥をかかせるな!",
     ["DictKey_GroupName_76"] = "UH-1_Player",
     ["DictKey_64"] = "MISSION FAILED!",
     ["DictKey_55"] = "PEDRO: - 近くに寄って着陸してくれ。",
@@ -232,8 +232,8 @@ MIGUEL: - バイ！\
     ["DictKey_WptName_406"] = "",
     ["DictKey_GroupName_176"] = "HP_Madrid Palat #017",
     ["DictKey_WptName_339"] = "",
-    ["DictKey_45"] = "147: - おい、自爆野郎、何やってんだよ！もっと距離取れよ、飛べないだろう。\
-PEDRO: - Kovalskiy、びびってんのか？\
+    ["DictKey_45"] = "147: - おい、自爆野郎、何やってんだよ!もっと距離取れよ、飛べないだろう。\
+PEDRO: - Kovalskiy、びびってんのか?\
 147: - 当たり前だろ、めちゃうるさかったから、ローターブレードが持っていかれるかと思ったよ。\
 ",
     ["DictKey_UnitName_123"] = "HP_Madrid GSM 4",
@@ -255,11 +255,11 @@ PEDRO: - Kovalskiy、びびってんのか？\
     ["DictKey_WptName_411"] = "",
     ["DictKey_WptName_396"] = "",
     ["DictKey_UnitName_125"] = "HP_Madrid BP 2",
-    ["DictKey_39"] = "PEDRO: - よし、町を2つに分けているこの川に沿って飛んでくれ。方位215だ。最初に見える線路橋で南に旋回し、線路に沿って飛んでくれ。ちょっと休憩したい。あの赤毛も悪くないな、お前もそう思うだろ？",
-    ["DictKey_41"] = "リポーター: - すみません、誰のことですか？　Crocodile？\
-PEDRO: - ええ、先ほど一緒に飛んでいたウクライナ軍のMi-24攻撃ヘリです。あの機体は『Crocodile』と呼ばれているんですよ。ご存じありませんでしたか？\
-リポーター: - ええ。なぜそう呼ぶんです？　Crocodileには見えませんが。\
-PEDRO: - さあ。ウクライナ人はCrocodileが好きなんでしょう！\
+    ["DictKey_39"] = "PEDRO: - よし、町を2つに分けているこの川に沿って飛んでくれ。方位215だ。最初に見える線路橋で南に旋回し、線路に沿って飛んでくれ。ちょっと休憩したい。あの赤毛も悪くないな、お前もそう思うだろ?",
+    ["DictKey_41"] = "リポーター: - すみません、誰のことですか? Crocodile?\
+PEDRO: - ええ、先ほど一緒に飛んでいたウクライナ軍のMi-24攻撃ヘリです。あの機体は『Crocodile』と呼ばれているんですよ。ご存じありませんでしたか?\
+リポーター: - ええ。なぜそう呼ぶんです? Crocodileには見えませんが。\
+PEDRO: - さあ。ウクライナ人はCrocodileが好きなんでしょう!\
 ",
     ["DictKey_GroupName_280"] = "BP_Dalyn2 #001",
     ["DictKey_WptName_400"] = "",
@@ -309,14 +309,14 @@ PEDRO: - さあ。ウクライナ人はCrocodileが好きなんでしょう！\
     ["DictKey_GroupName_284"] = "Yak-40",
     ["DictKey_UnitName_127"] = "HP_Madrid BP 3",
     ["DictKey_WptName_309"] = "",
-    ["DictKey_49"] = "リポーター: - ここら辺はとても綺麗ですね。下に見えるのは何ですか？　溶接でもしているのですか？　何か建設中ですか？\
-PEDRO: - なんだって？！　溶接？　そんなんじゃない！　撃たれてるぞ！　González、すぐに降下して右にブレイクだ！　Madrid、こちらSpringfield-2、応答せよ！",
+    ["DictKey_49"] = "リポーター: - ここら辺はとても綺麗ですね。下に見えるのは何ですか? 溶接でもしているのですか? 何か建設中ですか?\
+PEDRO: - なんだって?! 溶接? そんなんじゃない! 撃たれてるぞ! González、すぐに降下して右にブレイクだ! Madrid、こちらSpringfield-2、応答せよ!",
     ["DictKey_GroupName_142"] = "HP_Madrid Of mod #004",
     ["DictKey_UnitName_255"] = "HP_Madrid Of mod #37",
     ["DictKey_GroupName_150"] = "HP_Madrid Of mod #015",
     ["DictKey_GroupName_250"] = "HP_Madrid Of mod #034",
     ["DictKey_GroupName_174"] = "HP_Madrid Palat #016",
-    ["DictKey_37"] = "PEDRO: - 近づけって言っただろう、新人！",
+    ["DictKey_37"] = "PEDRO: - 近づけって言っただろう、新人!",
     ["DictKey_WptName_357"] = "",
     ["DictKey_WptName_394"] = "",
     ["DictKey_UnitName_141"] = "HP_Madrid Palat",
@@ -353,21 +353,21 @@ PEDRO: - なんだって？！　溶接？　そんなんじゃない！　撃�
     ["DictKey_GroupName_160"] = "HP_Madrid Palat #012",
     ["DictKey_WptName_371"] = "",
     ["DictKey_WptName_434"] = "",
-    ["DictKey_descriptionText_304"] = "「おいナゲット、報道記者についてどう思う？」\
+    ["DictKey_descriptionText_304"] = "「おいナゲット、報道記者についてどう思う?」\
 夕方、士官クラブに入った私をBenito大尉はそう迎えた。\
 「さあ。悪くない人たちだと思いますが。」\
-「俺はそうは思わん。まあ……女性記者なら好きだぞ。特に若いのはな！」Pedroは得意げに言った。「明日は記者連中のツアーガイドをやるぞ。」\
-「ツアーガイドですか？」私は驚いて聞き返した。\
+「俺はそうは思わん。まあ……女性記者なら好きだぞ。特に若いのはな!」Pedroは得意げに言った。「明日は記者連中のツアーガイドをやるぞ。」\
+「ツアーガイドですか?」私は驚いて聞き返した。\
 「そうだ。Euronewsの撮影班が飛行隊の取材に来ている。今夜は駐機場を嗅ぎ回り、明日の体験飛行まで取り付けやがった。司令官が承認して、お前が幸運な切符を引き当てたってわけだ。」\
-「私一人で、ですか？」\
+「私一人で、ですか?」\
 Pedroは皮肉っぽく笑った。\
-「冗談だろ？　飛行隊の青二才に、数少ない貴重な機体を誰が任せるんだ？　俺も隣にいるぞ、エース。ただし、あまり俺が操縦するとは思うなよ。特に女性記者がかわいかったらな。」\
-「了解しました。それで、計画は？」\
+「冗談だろ? 飛行隊の青二才に、数少ない貴重な機体を誰が任せるんだ? 俺も隣にいるぞ、エース。ただし、あまり俺が操縦するとは思うなよ。特に女性記者がかわいかったらな。」\
+「了解しました。それで、計画は?」\
 「至って単純だ。2機のハインドがいつもの経路を飛ぶから、俺たちは後について周辺の景色を見せるだけだ。」\
 「ですが……ハインドは速いですよね。」\
-「信じろ、新人！　手は打ってある。時速200キロ以下に抑えることで話がついてる。」\
+「信じろ、新人! 手は打ってある。時速200キロ以下に抑えることで話がついてる。」\
 「分かりました。それなら大丈夫です。」\
-「いいか。記者たちは、この任務がどれほど過酷かを撮りに来ている。『ママが恋しい』なんて馬鹿なことを言って台無しにするなよ。分かったな？」\
+「いいか。記者たちは、この任務がどれほど過酷かを撮りに来ている。『ママが恋しい』なんて馬鹿なことを言って台無しにするなよ。分かったな?」\
 Benito大尉は期待を裏切らなかった。\
 ",
     ["DictKey_GroupName_208"] = "HP_Madrid Vyshka #006",
@@ -385,7 +385,7 @@ Benito大尉は期待を裏切らなかった。\
     ["DictKey_UnitName_221"] = "HP_Madrid Vyshka #11",
     ["DictKey_UnitName_277"] = "HP_Madrid Palat #4",
     ["DictKey_UnitName_83"] = "UH-1_Uzi1",
-    ["DictKey_40"] = "PEDRO: - 皆さま！　本日の任務は、経路上の主要な町を巡回し、不審な動きがないか確認することです。3つの村と、その先にある大きな町の上空を飛びます。最初の村はちょうど眼下です。悪党どもが発砲したり騒ぎを起こしたりした場合、航空哨戒隊は直ちに司令部へ報告し、特別な場合に限って武器を使用できます。それが本日の『Crocodile』の任務です。",
+    ["DictKey_40"] = "PEDRO: - 皆さま! 本日の任務は、経路上の主要な町を巡回し、不審な動きがないか確認することです。3つの村と、その先にある大きな町の上空を飛びます。最初の村はちょうど眼下です。悪党どもが発砲したり騒ぎを起こしたりした場合、航空哨戒隊は直ちに司令部へ報告し、特別な場合に限って武器を使用できます。それが本日の『Crocodile』の任務です。",
     ["DictKey_UnitName_175"] = "HP_Madrid Palat #16",
     ["DictKey_GroupName_188"] = "HP_Madrid Palat KP",
     ["DictKey_WptName_314"] = "",
@@ -419,7 +419,7 @@ Benito大尉は期待を裏切らなかった。\
     ["DictKey_GroupName_294"] = "Il-76_traf",
     ["DictKey_WptName_414"] = "",
     ["DictKey_UnitName_235"] = "HP_Madrid Of mod #22",
-    ["DictKey_44"] = "リポーター: - すばらしい、これで十分です！\
+    ["DictKey_44"] = "リポーター: - すばらしい、これで十分です!\
 PEDRO: - よし、González。もう少し距離を取れ。でも離れすぎるな。\
 ",
     ["DictKey_WptName_323"] = "",
@@ -439,11 +439,11 @@ PEDRO: - よし、González。もう少し距離を取れ。でも離れすぎ�
     ["DictKey_UnitName_287"] = "An-26_traf",
     ["DictKey_63"] = "MISSION FAILED!",
     ["DictKey_WptName_419"] = "",
-    ["DictKey_61"] = "PEDRO: - 新人！　ついて行けと言っただろ！　もうこれじゃあ追いつけないぞ！",
-    ["DictKey_48"] = "PEDRO: - よし、新人。やったな！　あとは線路に沿って南へ進め。Senakiに立ち寄って乗客を降ろす。あの娘ともお別れなのは残念だがな。",
+    ["DictKey_61"] = "PEDRO: - 新人! ついて行けと言っただろ! もうこれじゃあ追いつけないぞ!",
+    ["DictKey_48"] = "PEDRO: - よし、新人。やったな! あとは線路に沿って南へ進め。Senakiに立ち寄って乗客を降ろす。あの娘ともお別れなのは残念だがな。",
     ["DictKey_WptName_398"] = "",
     ["DictKey_WptName_376"] = "",
-    ["DictKey_43"] = "PEDRO: - 近づけ！　タイトフォーメーションって言っただろ！",
+    ["DictKey_43"] = "PEDRO: - 近づけ! タイトフォーメーションって言っただろ!",
     ["DictKey_WptName_423"] = "",
     ["DictKey_WptName_359"] = "",
     ["DictKey_WptName_368"] = "",
