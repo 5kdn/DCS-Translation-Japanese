@@ -24,8 +24,18 @@ dictionary =
     ["DictKey_GroupName_129"] = "FARP London",
     ["DictKey_UnitName_194"] = "New Static Object #23",
     ["DictKey_UnitName_74"] = "Colt-12",
-    ["DictKey_12"] = "STRAY EAGLE: Chevy, こちら　Stray Eagle. \
-私の位置より10マイル南にいます。　ELTを40.5で発信し、 オレンジのスモークも今、炊きまし。　道をたどれば私の位置たどり着けます。　茂みの中に隠れています。飛来する音も聞こえています。　オーバー！",
+    ["DictKey_12"] = "STRAY EAGLE: Chevy、こちらStray Eagle。\
+\
+君たちは私の位置から南へ約10NMの地点にいる。ELTは40.5で作動中だ。\
+\
+今、オレンジ色のスモークを焚く!\
+\
+道路をたどれば、私の位置までまっすぐ来られるはずだ。今はここの茂みで身を潜めている。\
+\
+敵が近くにいるようだ。奴らにも君たちの接近音が聞こえている!\
+\
+オーバー!\
+",
     ["DictKey_UnitName_130"] = "FARP London",
     ["DictKey_WptName_218"] = "",
     ["DictKey_WptName_293"] = "",
@@ -71,49 +81,40 @@ dictionary =
     ["DictKey_GroupName_71"] = "FARP-SAM 2",
     ["DictKey_UnitName_148"] = "New Static Object #7",
     ["DictKey_UnitName_58"] = "Route-Insurgents-3-2 #1",
-    ["DictKey_descriptionText_207"] = "SITREP（状況報告）\
+    ["DictKey_descriptionText_207"] = "状況報告\
 \
-Tskhinvali.の西10マイルの地点でA-10が墜落しました。僚機の報告によると、墜落の映像はありませんが、無事脱出した模様です。撃墜されたのか、それとも天候不順で墜落したのかわかっていません。このエリアは反乱軍が活発なのが知られており、パイロットを急いで救出しなければ、彼らは必ず見つけ出すでしょう。\
+Tskhinvaliの西約10NMでA-10が墜落した。僚機はパラシュートが正常に開くのを確認したが、墜落現場に留まることはできなかった。撃墜されたのか、曇天による事故なのかは不明である。この地域では反乱勢力が活発に活動しており、こちらが迅速に救出しなければ、敵はあらゆる手段を使ってパイロットを捕らえようとするだろう。\
 \
-パイロット（コードネーム：STRAY EAGLE）はELT（救難無線）を持っており、40.50Mhzで発信しています。FMラジオを緊急周波数に合わせてください。\
+「STRAY EAGLE」のコードネームが与えられているパイロットは、自身の現在地へ誘導するため、救難無線機のELTを40.50MHzで作動させているはずだ。FM無線機をこの緊急周波数に合わせること。\
 \
+2機のAH-1 Cobraで編成されたCOLT隊が作戦を先導し、回収地点までの経路を掃討する。\
 \
-COLT飛行隊　（２機のAH-1 Cobras）　 が　救出場所までの誘導を安全確保をします。\
+あなたはCHEVY隊の隊長で、僚機1機が随伴する。\
 \
-貴方はChevy 飛行隊 です。　僚機が１機つきます\
+墜落現場付近の舗装道路が、回収地点へ向かう際の目印となる。\
 \
-墜落ポイント付近の舗装道路が救出地点の目印になります。\
+COLT隊に続いてパイロットを収容し、状態確認のため基地へ連れ帰れ。\
 \
-Colt 飛行隊について行き, パイロットを救出して帰還してください。彼から、何があったか聞かなくてはなりません。\
+戦力\
 \
-MISSION PLAN\
+帰投基地: FARP DALLAS, 116.000MHz\
 \
-イニシャルポイントまでCOLT飛行隊について行け。  基地から北東へ約25Km 、 救出ポイントより　10 Km南の位置だ\
+COLT-1: 116.000MHz\
 \
-救出ポイントへの侵入は舗装道路をたどれ。 \
+STRAY EAGLE: 40.50MHz\
 \
-STRAY EAGLE を救出し基地に帰還せよ\
+脅威\
 \
-ASSETS:\
+回収地点周辺には、小火器で武装した反乱勢力と対空砲陣地が存在する可能性がある。\
 \
-基地: FARP DALLAS, 116.000 MHz\
+武装\
 \
-COLT-1: 116.000 MHz\
+M60Dドアガン\
+僚機: ロケット弾およびミニガン\
 \
-STRAY EAGLE: 40.50 kHz\
+その他\
 \
-脅威（THREATS）:\
-\
-救出位置付近に対空機関砲と小火器をもった反乱軍がいることが予想される\
-\
-武器（ARMAMENT）:\
-\
-M60D door guns\
-僚機　rockets ＆　miniguns.\
-\
-その他（MISC）:\
-\
-NDB ラジオ（353 kHz）が基地の北東　14 kmの位置にある、必要なら利用せよ",
+帰投基地の北東14kmには、353kHzで送信しているNDB航法援助施設がある。必要に応じて航法に使用せよ。",
     ["DictKey_UnitName_97"] = "Unit #2",
     ["DictKey_WptName_288"] = "",
     ["DictKey_WptName_246"] = "",
@@ -124,7 +125,7 @@ NDB ラジオ（353 kHz）が基地の北東　14 kmの位置にある、必要�
     ["DictKey_GroupName_107"] = "New Vehicle Group #002",
     ["DictKey_WptName_258"] = "",
     ["DictKey_UnitName_64"] = "Unit #27",
-    ["DictKey_15"] = "CREW: 彼を確保しました。脱出しましょう！",
+    ["DictKey_15"] = "CREW: 彼を収容した。ここを離脱しよう!",
     ["DictKey_UnitName_134"] = "New Static Object",
     ["DictKey_GroupName_169"] = "New Static Object #019",
     ["DictKey_UnitName_101"] = "Unit #5",
@@ -152,7 +153,7 @@ NDB ラジオ（353 kHz）が基地の北東　14 kmの位置にある、必要�
     ["DictKey_UnitName_196"] = "New Static Object #24",
     ["DictKey_WptName_307"] = "",
     ["DictKey_UnitName_77"] = "Wingman (hot start)",
-    ["DictKey_16"] = "CREW: 彼を確保しました。脱出しましょう！",
+    ["DictKey_16"] = "CREW: 彼を収容した。ここを離脱しよう!",
     ["DictKey_UnitName_96"] = "Unit #23",
     ["DictKey_UnitName_51"] = "Route-Insurgents-7-1",
     ["DictKey_UnitName_118"] = "Unit #20",
@@ -200,13 +201,13 @@ NDB ラジオ（353 kHz）が基地の北東　14 kmの位置にある、必要�
     ["DictKey_WptName_216"] = "",
     ["DictKey_UnitName_23"] = "Insurgent-4",
     ["DictKey_UnitName_176"] = "New Static Object #13",
-    ["DictKey_13"] = "STRAY EAGLE: 走っていく、カバーしてくれ！",
+    ["DictKey_13"] = "STRAY EAGLE: 今からそっちへ向かう! 援護してくれ!",
     ["DictKey_WptName_252"] = "",
     ["DictKey_WptName_223"] = "",
     ["DictKey_UnitName_180"] = "New Static Object #15",
     ["DictKey_GroupName_36"] = "Route-Insurgents-8",
     ["DictKey_UnitName_81"] = "Player (cold start)",
-    ["DictKey_14"] = "STRAY EAGLE:走っていく、カバーしてくれ！",
+    ["DictKey_14"] = "STRAY EAGLE: 今からそっちへ向かう! 援護してくれ!",
     ["DictKey_GroupName_203"] = "New Static Object #040",
     ["DictKey_GroupName_181"] = "New Static Object #025",
     ["DictKey_GroupName_193"] = "New Static Object #035",
@@ -241,7 +242,14 @@ NDB ラジオ（353 kHz）が基地の北東　14 kmの位置にある、必要�
     ["DictKey_GroupName_60"] = "Route-Insurgents-9",
     ["DictKey_UnitName_117"] = "Unit #21",
     ["DictKey_WptName_267"] = "",
-    ["DictKey_descriptionBlueTask_209"] = "",
+    ["DictKey_descriptionBlueTask_209"] = "作戦計画\
+\
+COLT隊に続いてIPへ向かえ。IPは帰投基地の北東約25km、回収地点の南10kmに位置する。\
+\
+STRAY EAGLEの指示に従い、舗装道路沿いに回収地点へ進入せよ。\
+\
+STRAY EAGLEを収容し、帰投基地へ帰還せよ。\
+",
     ["DictKey_WptName_303"] = "",
     ["DictKey_WptName_257"] = "",
     ["DictKey_UnitName_45"] = "Route-Insurgents-5-1",
