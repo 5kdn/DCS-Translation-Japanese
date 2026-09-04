@@ -13,8 +13,8 @@ dictionary =
     ["DictKey_GroupName_20"] = "New Static Object #004",
     ["DictKey_UnitName_5"] = "Pilot #3",
     ["DictKey_UnitName_7"] = "New Static Object #005",
-    ["DictKey_descriptionText_24"] = "フリーフライトミッションです。\
-ジョージア（Georgia）のトビリシ（Tbilisi）郊外に位置するトビリシ国際空港（Tbilisi-Lochini international airport）から出発します。",
+    ["DictKey_descriptionText_24"] = "これはフリーフライトミッションだ。\
+GeorgiaのTbilisi郊外に位置するTbilisi-Lochini国際空港から出発する。",
     ["DictKey_GroupName_12"] = "New Helicopter Group",
     ["DictKey_UnitName_3"] = "Pilot #2",
     ["DictKey_WptName_39"] = "",

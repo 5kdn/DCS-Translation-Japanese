@@ -80,8 +80,8 @@ dictionary =
     ["DictKey_WptName_98"] = "",
     ["DictKey_WptName_64"] = "",
     ["DictKey_WptName_106"] = "",
-    ["DictKey_descriptionText_1"] = "フジャイラ（Fujairah）の沿岸都市周辺の早朝フリーフライトです。\
-今日は、出発、到着と忙しい朝です。",
+    ["DictKey_descriptionText_1"] = "早朝、沿岸都市Fujairahの周辺をフリーフライトする。\
+今日は慌ただしい朝で、複数の航空機が離着陸している。",
     ["DictKey_UnitName_88"] = "Cargo 4",
     ["DictKey_WptName_79"] = "",
     ["DictKey_UnitName_13"] = "Unit #002",

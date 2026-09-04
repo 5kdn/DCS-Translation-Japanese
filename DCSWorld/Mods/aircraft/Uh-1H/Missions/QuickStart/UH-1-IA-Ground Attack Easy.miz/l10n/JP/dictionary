@@ -13,19 +13,19 @@ dictionary =
     ["DictKey_descriptionBlueTask_32"] = "",
     ["DictKey_UnitName_16"] = "Unit #1",
     ["DictKey_UnitName_12"] = "Unit #5",
-    ["DictKey_descriptionText_30"] = "あなたのちょうど前方に小さな村に向かって道路を下る車両グループがいます。別に村の反対側位にオレンジスモークでマーキングした静止グループがいます。\
+    ["DictKey_descriptionText_30"] = "前方の道路を、車両の一団が小さな村に向かって移動している。もう一つの部隊は村のすぐ反対側に展開しており、オレンジ色の煙で位置が示されている。\
 \
-Engage at will　（自由に攻撃して下さい。）",
+任意に攻撃せよ。",
     ["DictKey_UnitName_24"] = "Unit #16",
     ["DictKey_UnitName_27"] = "Unit #13",
     ["DictKey_UnitName_20"] = "Unit #20",
     ["DictKey_UnitName_9"] = "Unit #8",
-    ["DictKey_3"] = "あなたのちょうど前方に小さな村に向かって道路を下る車両グループがいます。別に村の反対側位にオレンジスモークでマーキングした静止グループがいます。\
+    ["DictKey_3"] = "前方の道路を、車両の一団が小さな村に向かって移動している。もう一つの部隊は村のすぐ反対側に展開しており、オレンジ色の煙で位置が示されている。\
 \
-Engage at will　（自由に攻撃して下さい。）",
+任意に攻撃せよ。",
     ["DictKey_UnitName_15"] = "Unit #2",
     ["DictKey_WptName_37"] = "",
-    ["DictKey_sortie_33"] = "グラウンドアタック Easy",
+    ["DictKey_sortie_33"] = "対地攻撃 Easy",
     ["DictKey_UnitName_10"] = "Unit #7",
     ["DictKey_UnitName_25"] = "Unit #15",
     ["DictKey_WptName_35"] = "",

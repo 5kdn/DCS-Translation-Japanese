@@ -15,7 +15,7 @@ dictionary =
     ["DictKey_WptName_18"] = "",
     ["DictKey_UnitName_7"] = "Player",
     ["DictKey_WptName_12"] = "",
-    ["DictKey_ActionText_46"] = "これらの医療用品をオリバーペリーに届けてください。海が荒れているために、船はドッキングできません。そのため医療品を空から届ける以外に方法がありません。方位０８０にまっすぐ飛んで下さい。彼らは海岸からわずか１マイルの地点にいます。ただし、着陸のために接近中の航空機がいますので、ランウェイ２６の北に留まって下さい。",
+    ["DictKey_ActionText_46"] = "Oliver Perryへこの医療物資を届けてくれ。海が荒れていて接岸できないので、物資を空輸するしかない。方位080へ直進しろ。Oliver Perryは海岸からわずか1mi沖にいる。ただし、滑走路26への着陸進入機がいるため、必ず滑走路の北側を飛行してくれ。",
     ["DictKey_WptName_14"] = "",
     ["DictKey_UnitName_24"] = "Parked F-18 2",
     ["DictKey_UnitName_27"] = "Parked Huey",
@@ -24,7 +24,7 @@ dictionary =
     ["DictKey_GroupName_9"] = "Sailing Ship",
     ["DictKey_WptName_41"] = "",
     ["DictKey_WptName_40"] = "",
-    ["DictKey_sortie_5"] = "艦船着陸　Hard",
+    ["DictKey_sortie_5"] = "艦船着陸 Hard",
     ["DictKey_WptName_45"] = "",
     ["DictKey_WptName_37"] = "",
     ["DictKey_WptName_25"] = "",
@@ -33,7 +33,7 @@ dictionary =
     ["DictKey_GroupName_6"] = "Player",
     ["DictKey_UnitName_36"] = "Driving Truck",
     ["DictKey_GroupName_16"] = "Landing F-18",
-    ["DictKey_descriptionText_1"] = "出発してまっすぐ西に向かって下さい。オリバーペリー（Oliver Perry）に医療品を運んでください。接近する航空機がありますのでランウェイ２６の北を維持して下さい。",
+    ["DictKey_descriptionText_1"] = "東へ向けてそのまま出発し、Oliver Perryに医療物資を届けよ。滑走路26への進入機があるため、北側を飛行せよ。",
     ["DictKey_UnitName_10"] = "Sailing Ship",
     ["DictKey_GroupName_35"] = "Driving Truck",
     ["DictKey_GroupName_21"] = "Parked F-18's",
@@ -45,7 +45,7 @@ dictionary =
     ["DictKey_UnitName_17"] = "Landing F-18",
     ["DictKey_WptName_15"] = "",
     ["DictKey_WptName_42"] = "",
-    ["DictKey_ActionText_48"] = "本当にやって来るとは信じられません！\
-おかげで医療品が手に入りました。\
-感謝します！",
+    ["DictKey_ActionText_48"] = "よくここまで来られたな!\
+これで医療物資を受け取れた。\
+感謝する!",
 } -- end of dictionary

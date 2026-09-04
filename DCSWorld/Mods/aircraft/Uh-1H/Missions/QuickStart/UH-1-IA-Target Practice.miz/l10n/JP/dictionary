@@ -20,7 +20,7 @@ dictionary =
     ["DictKey_GroupName_113"] = "New Static Object #010",
     ["DictKey_WptName_205"] = "",
     ["DictKey_UnitName_20"] = "Unit #11",
-    ["DictKey_3"] = "ターゲット群は真正面 2キロメートル先にいます。自由時攻撃して下さい。",
+    ["DictKey_3"] = "正面2km先に標的群が設置されている。任意に攻撃せよ。",
     ["DictKey_UnitName_108"] = "New Static Object #007",
     ["DictKey_UnitName_87"] = "Unit #81",
     ["DictKey_GroupName_97"] = "New Static Object #002",
@@ -71,14 +71,14 @@ dictionary =
     ["DictKey_UnitName_46"] = "Unit #35",
     ["DictKey_UnitName_50"] = "Unit #31",
     ["DictKey_GroupName_147"] = "New Helicopter Group #001",
-    ["DictKey_sortie_156"] = "ターゲット訓練",
+    ["DictKey_sortie_156"] = "射撃訓練",
     ["DictKey_UnitName_11"] = "Unit #20",
     ["DictKey_GroupName_93"] = "New Static Object",
     ["DictKey_WptName_190"] = "",
     ["DictKey_GroupName_117"] = "New Static Object #012",
-    ["DictKey_descriptionText_153"] = "これはターゲット訓練ミッションです。ターゲットは静止しており、反撃してきません。\
+    ["DictKey_descriptionText_153"] = "これは射撃訓練だ。標的は全て静止しており、反撃することはない。\
 \
-ターゲット群は真正面 2キロメートル先におり、様々なターゲットがいます。",
+標的群は正面2km先にあり、さまざまな種類の標的が配置されている。",
     ["DictKey_UnitName_22"] = "Unit #9",
     ["DictKey_UnitName_60"] = "Unit #72",
     ["DictKey_UnitName_96"] = "New Static Object #001",

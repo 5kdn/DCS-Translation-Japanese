@@ -1,8 +1,9 @@
 dictionary = 
 {
-    ["DictKey_descriptionText_38"] = "夜間飛行ミッションです。ジョージアのバトゥミの南に位置するバトゥミ空港から出発します。良ければ、前方のヒューイについていって下さい。彼は北のコブレチ（Kobuleti）空軍基地に向かいます。\
+    ["DictKey_descriptionText_38"] = "これは、GeorgiaのBatumi市街のすぐ南に位置するBatumi空港を出発する、夜間のフリーフライトミッションだ。必要であれば、前方のヒューイについて行き、北にあるKobuleti空軍基地まで飛行することができる。\
 \
- [RSHIFT + H] でナイトビジョンゴーグルをON/OFFできます。",
+[RSHIFT + H]を押すと、NVGをONにできる。\
+輝度を調整するには、[RALT + RSHIFT + H]と[RCTRL + RSHIFT + H]を使用する。",
     ["DictKey_WptName_62"] = "",
     ["DictKey_WptName_67"] = "",
     ["DictKey_WptName_52"] = "",
@@ -20,8 +21,8 @@ dictionary =
     ["DictKey_WptName_46"] = "",
     ["DictKey_WptName_43"] = "",
     ["DictKey_UnitName_9"] = "Pilot #3",
-    ["DictKey_3"] = "RSHIFT + Hを押すとNVGをONにできます。\
-良ければ、コブレチ空軍基地に向かう前方のヒューイについていって下さい。",
+    ["DictKey_3"] = "RSHIFT + Hを押してNVGをONにする。\
+必要であれば、前方のヒューイについて行き、Kobuleti空軍基地まで飛行することができる。",
     ["DictKey_WptName_64"] = "",
     ["DictKey_GroupName_10"] = "New Static Object",
     ["DictKey_GroupName_6"] = "New Helicopter Group #001",
@@ -44,7 +45,7 @@ dictionary =
     ["DictKey_UnitName_23"] = "New Static Object #006",
     ["DictKey_GroupName_18"] = "New Static Object #004",
     ["DictKey_WptName_47"] = "",
-    ["DictKey_sortie_41"] = "ナイトフライト",
+    ["DictKey_sortie_41"] = "夜間飛行",
     ["DictKey_GroupName_34"] = "New Static Object #012",
     ["DictKey_WptName_58"] = "",
     ["DictKey_UnitName_15"] = "New Static Object #002",

@@ -18,13 +18,13 @@ dictionary =
     ["DictKey_UnitName_25"] = "Tent",
     ["DictKey_UnitName_121"] = "secondary tires 2",
     ["DictKey_GroupName_51"] = "Wind Sock",
-    ["DictKey_ActionText_222"] = "私達の部隊を巻き込む交通事故が起こりました。ハイウェイに沿って北東に飛んで事故現場を探してください。\
-負傷した兵士を乗せて、ここに戻ってきてください。彼を野戦病院に連れていきます。",
+    ["DictKey_ActionText_222"] = "我が部隊の車両が事故を起こした。ハイウェイを北東へ進んで事故現場を捜索せよ。\
+負傷兵を収容したら、ここの野戦病院まで搬送せよ。",
     ["DictKey_WptName_59"] = "",
     ["DictKey_UnitName_115"] = "secondary tires 2",
-    ["DictKey_ActionText_228"] = "負傷兵を乗せました。前哨基地の病院に連れて帰ってください。",
+    ["DictKey_ActionText_228"] = "負傷兵を収容した。前哨基地の病院へ戻ってくれ!",
     ["DictKey_WptName_212"] = "",
-    ["DictKey_sortie_5"] = "空中救急搬送　Easy",
+    ["DictKey_sortie_5"] = "空中救急搬送 Easy",
     ["DictKey_UnitName_76"] = "Perimeter Tire 2 #004",
     ["DictKey_WptName_137"] = "",
     ["DictKey_WptName_134"] = "",
@@ -138,7 +138,7 @@ dictionary =
     ["DictKey_UnitName_148"] = "Unit #012",
     ["DictKey_GroupName_123"] = "secondary tires 2 #006",
     ["DictKey_WptName_89"] = "",
-    ["DictKey_ActionText_224"] = "そちらを確認しました。赤いフレアを打ち上げます。できるだけ近くに着陸してください。負傷者をこれ以上は動かしたくは有りません。",
+    ["DictKey_ActionText_224"] = "そちらを視認したので赤いフレアを打ち上げる。できるだけ近くに着陸してくれ。負傷者を必要以上に動かしたくない。",
     ["DictKey_GroupName_87"] = "secondary tires #002",
     ["DictKey_UnitName_97"] = "secondary tires",
     ["DictKey_WptName_128"] = "",
@@ -147,17 +147,17 @@ dictionary =
     ["DictKey_WptName_98"] = "",
     ["DictKey_UnitName_140"] = "Unit #004",
     ["DictKey_UnitName_88"] = "secondary tires",
-    ["DictKey_descriptionText_1"] = "交通事故が発生しました。我軍の兵士が一名負傷しました。\
-ハイウェイに沿って北東に飛び、事故現場に向かってください。\
-彼を乗せて、この基地に連れてきてください。医療処置を施します。\
+    ["DictKey_descriptionText_1"] = "車両事故が発生し、我が軍の兵士が一名負傷した。\
+ハイウェイを北東へ進んで事故現場に向かい、負傷者を収容せよ。\
+その後、医療処置を受けさせるため、ここの基地まで搬送せよ。\
 \
-完了までの所要時間　15-20分",
+完了までの推定所要時間: 15-20分。",
     ["DictKey_UnitName_220"] = "Survivors #001",
     ["DictKey_UnitName_13"] = "Unit #002",
     ["DictKey_UnitName_139"] = "Unit #003",
     ["DictKey_WptName_191"] = "",
     ["DictKey_UnitName_34"] = "Tent",
-    ["DictKey_ActionText_226"] = "Rescue 1, we've got you in sight.  We're firing off a red flare.  We're waiting for you here next to the accident.",
+    ["DictKey_ActionText_226"] = "Rescue 1、そちらを視認したので赤いフレアを打ち上げる。事故現場のそばで待機している。",
     ["DictKey_UnitName_64"] = "Perimeter Tire 1",
     ["DictKey_UnitName_178"] = "Unit #025",
     ["DictKey_UnitName_147"] = "Unit #011",
@@ -186,8 +186,8 @@ dictionary =
     ["DictKey_UnitName_202"] = "Crash Vehicle #003",
     ["DictKey_UnitName_161"] = "Unit #023",
     ["DictKey_WptName_197"] = "",
-    ["DictKey_ActionText_232"] = "今から兵士を降ろして、至急病院へ搬送します。\
-助けてくれてありがとうございます。",
+    ["DictKey_ActionText_232"] = "負傷兵を降ろしているところだ。直ちに病院へ搬送される。\
+支援に感謝する、Rescue 1。",
     ["DictKey_WptName_68"] = "",
     ["DictKey_GroupName_207"] = "Survivors #001",
     ["DictKey_UnitName_217"] = "Survivors #001",
@@ -200,7 +200,7 @@ dictionary =
     ["DictKey_WptName_131"] = "",
     ["DictKey_UnitName_16"] = "",
     ["DictKey_GroupName_54"] = "Perimeter Tire 1",
-    ["DictKey_ActionText_230"] = "オーライ！　負傷した兵士を乗せます。　しばらく待ってください…",
+    ["DictKey_ActionText_230"] = "よし、負傷兵を収容する。そのまま待機してくれ……。",
     ["DictKey_GroupName_63"] = "Perimeter Tire 1 #003",
     ["DictKey_UnitName_91"] = "secondary tires",
     ["DictKey_GroupName_60"] = "Perimeter Tire 1 #002",
