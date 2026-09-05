@@ -29,7 +29,7 @@ dictionary =
     ["DictKey_UnitName_75"] = "Biz jet",
     ["DictKey_GroupName_6"] = "DictKey_GroupName_6",
     ["DictKey_UnitName_36"] = "Truck",
-    ["DictKey_descriptionText_1"] = "街の簡易ツアーを行ってください。お客を連れての夕方最後のフライトになります。",
+    ["DictKey_descriptionText_1"] = "市内を短時間遊覧飛行せよ。これが、本日の乗客を乗せる最後のフライトとなる。",
     ["DictKey_UnitName_66"] = "F-shape barrier",
     ["DictKey_GroupName_32"] = "Windsock",
     ["DictKey_WptName_16"] = "",
@@ -82,5 +82,5 @@ dictionary =
     ["DictKey_WptName_77"] = "",
     ["DictKey_WptName_79"] = "",
     ["DictKey_WptName_34"] = "",
-    ["DictKey_ActionText_83"] = "今日最後のツアーフライトです。乗客たちに街の素晴らしい景色を見せてあげてください。日没前には帰って来てください。",
+    ["DictKey_ActionText_83"] = "君たちが今日最後のツアーフライトだ。この人たちに街の見どころをいくつか見せてやってくれ。ただし、日没前には必ず戻ってくるように!",
 } -- end of dictionary
