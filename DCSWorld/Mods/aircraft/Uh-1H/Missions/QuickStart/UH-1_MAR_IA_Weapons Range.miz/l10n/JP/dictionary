@@ -1,0 +1,17 @@
+dictionary =
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Mariana諸島: 射撃場",
+    ["DictKey_descriptionText_1"] = "Farallon de Medinilla島のMariana諸島射撃場へようこそ。空は一面の雲に覆われ、雨が降っているが、射撃場は使用可能だ。",
+    ["DictKey_descriptionBlueTask_3"] = "搭乗機はUSS TARAWA (LHA-1)に搭載されている米海兵隊のUH-1で、コールサインはFORD 2-1だ。単機で任務に当たる。M60を操作するドアガンナー2名が搭乗しており、M-143ミニガン2挺と2.75インチHydraロケット弾14発を装備している。離陸し、Mariana諸島射撃場で腕を磨け。弾薬補給や給油のために艦へ戻っても構わない。\
+\
+通信:\
+射撃場管制およびLHA-1管制塔: 251.00MHz (UHF)。",
+    ["DictKey_ActionText_8"] = "Marianaの射撃場へようこそ。\
+\
+準備ができたら離陸し、北西に向かえ。射撃場まで1NMの地点で射撃場管制から進入許可が下りる。射撃場の位置は赤色のスモークで示される。\
+\
+幸運を祈る。",
+    ["DictKey_ActionText_7"] = "FORD 2-1、こちら射撃場管制。射撃場への進入および実弾射撃を許可する。健闘を祈る。",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

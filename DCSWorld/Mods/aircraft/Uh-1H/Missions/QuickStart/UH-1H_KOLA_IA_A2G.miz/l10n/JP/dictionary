@@ -1,0 +1,15 @@
+dictionary =
+{
+    ["DictKey_subtitle_6"] = "COLT 2-1、こちら射撃場管制。距離7kmでレーダーに捕捉した。射撃場への進入を許可する。射撃場は実弾射撃可能。幸運を祈る。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "対地攻撃",
+    ["DictKey_descriptionText_1"] = "ノルウェー軍の射撃場で対地実弾射撃訓練を行う予定だ。",
+    ["DictKey_descriptionBlueTask_3"] = "搭乗機はUSS TARAWA (LHA-1)に搭載されている米海兵隊のUH-1Hで、コールサインはCOLT 2-1だ。TARAWAはノルウェー軍との共同演習を実施している。本日の任務は、Bodø市の西にあるノルウェー軍の射撃場で対地実弾射撃訓練を行うことだ。\
+\
+搭乗するUH-1Hには、Hydra 70 M151ロケット弾ポッド2基(ロケット弾38発)とM134ミニガン2挺が装備されている。\
+\
+離陸し、針路045度で飛行せよ。射撃場までの距離が7km(約4NM)になると、ノルウェー側から進入許可が出る。赤色のスモークが\"射撃場は実弾射撃可能\"の合図だ。\
+",
+    ["DictKey_ActionText_9"] = "演習へようこそ。天候は晴れ、風は弱い。離陸を許可する。",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

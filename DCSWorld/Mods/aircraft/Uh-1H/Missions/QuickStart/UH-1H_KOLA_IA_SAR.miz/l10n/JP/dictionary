@@ -1,0 +1,68 @@
+dictionary =
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionText_35"] = "消防隊をタンカーに送り届けました。\
+\
+負傷者2名を機内に収容し、安全ベルトで固定しました。\
+\
+離陸準備が整いました。",
+    ["DictKey_ActionText_39"] = " ",
+    ["DictKey_sortie_5"] = "緊急出動",
+    ["DictKey_subtitle_20"] = "COLT 2-1、こちらNordland病院。負傷者の受け入れに備えて待機中。屋上ヘリパッドの準備は整っています。",
+    ["DictKey_ActionText_14"] = "負傷者を機外に搬出しました。RTBの準備が整いました。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_subtitle_18"] = " ",
+    ["DictKey_subtitle_22"] = "COLT 2-1、こちらBodø管制塔。風は125度から2m/s。滑走路7の進入端からの初期針路は220度。離陸を許可する。幸運を祈る。\
+",
+    ["DictKey_ActionText_12"] = "負傷者を機外に搬出しています。",
+    ["DictKey_descriptionText_1"] = "商用の超大型タンカーMV Seawise Giantが緊急事態を宣言した。Marnesの町(Bodø市の西南西15km)を通過中、機関室で大規模な火災が発生し、推進力を失った。\
+\
+地元のタグボートの支援により座礁は免れたが、火災は乗組員だけでは消火できない規模となっている。さらに、少なくとも乗組員1名が重傷を負っており、直ちに病院での治療を必要としている。ノルウェー沿岸警備隊(Norge Kystvakt)が対応に当たっている。\
+",
+    ["DictKey_descriptionBlueTask_3"] = "搭乗機はBodø空港に配備されているノルウェー沿岸警備隊(Norge Kystvakt)のUH-1Hで、コールサインはCOLT 2-1だ。海上消防の専門部隊がすでに搭乗している。任務は、この部隊をMV Seawise Giantに送り届けることだ。その後、同船の負傷者をBodø市のNordland病院へ搬送せよ。\
+\
+\
+通信:\
+Bodø管制塔: 250.45MHz UHF\
+MV Seawise Giant: GUARD 243.00MHz UHF\
+(UHFのモードをTR + Gに設定)\
+Nordland病院: 128.55MHz VHF\
+\
+航法:\
+MV Seawise Giantのホーミングビーコン: 32.000MHz FM\
+(AN/ARC-131 FM無線機の周波数を合わせ、HOMEに設定する。コース偏差指示器を確認する)\
+Bodø VORTAC 117.55MHz FM\
+(AN/ARN-82 VHF NAV-COMM無線機の周波数を合わせる)\
+",
+    ["DictKey_ActionText_27"] = "DEBUG RTB",
+    ["DictKey_ActionText_31"] = "",
+    ["DictKey_ActionRadioText_26"] = "HOMER",
+    ["DictKey_subtitle_6"] = "Ford 3 1、こちら射撃場管制。距離7kmでレーダーに捕捉した。射撃場への進入を許可する。射撃場は実弾射撃可能。幸運を祈る。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_subtitle_15"] = "救難ヘリ、こちらSeawise Giant。そちらを視認している。ヘリパッドに障害物はない。",
+    ["DictKey_ActionComment_11"] = "",
+    ["DictKey_ActionText_33"] = "Mission Complete",
+    ["DictKey_ActionText_8"] = "タンカーに着艦しました。",
+    ["DictKey_ActionText_37"] = "チェックリストの各項目を実施してください:\
+    - 通信用無線機を設定\
+      UHF AN/ARC-51BX\
+        ○ Bodø管制塔の周波数を確認 - 250.45\
+        ○ TR + Gに設定(GUARDを常時受信)\
+      VHF AN/ARC-134\
+        ○ Nordland病院の周波数に設定 - 128.55\
+\
+    - 航法用無線機を設定\
+      AN/ARC-131 FM\
+        ○ 32.000MHzに合わせ、ビーコンを受信していることを確認\
+        ○ モードをHOMEに設定\
+        ○ 音量を下げる\
+        ○ CDIを確認\
+      AN/ARN-82 NAV-COMM\
+        ○ 117.55MHzに合わせる\
+        ○ 無線コンパス指示器を確認\
+    - ワイパー - 低速\
+    - ドア - 閉まっていることを確認\
+\
+完了したらSPACEBARを押してください。",
+    ["DictKey_subtitle_29"] = "COLT 2-1、こちらBodø管制塔。風は125度から2m/s。沿岸警備隊の駐機場への着陸を許可する。おかえり。",
+} -- end of dictionary
