@@ -1,0 +1,12 @@
+dictionary =
+{
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "フリーフライト",
+    ["DictKey_descriptionText_1"] = "Bodø市へようこそ。天候は良好で、この地域に敵部隊はいない。",
+    ["DictKey_descriptionBlueTask_3"] = "搭乗機はBodø空港に配備されているノルウェー沿岸警備隊(Norge Kystvakt)のUH-1Hで、コールサインはCOLT 2-1だ。\
+\
+飛行計画に沿って飛ぶことも、自由に周辺を見て回ることもできる。ウェイポイント3はNordland病院の屋上にあるヘリパッドだ。",
+    ["DictKey_ActionText_7"] = "ノルウェーのBodø市へようこそ。天候は晴れで、風は穏やかだ。脅威はない。\
+",
+    ["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

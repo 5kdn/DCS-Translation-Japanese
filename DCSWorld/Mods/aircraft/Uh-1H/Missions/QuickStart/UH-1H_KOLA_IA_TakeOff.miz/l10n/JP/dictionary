@@ -1,0 +1,29 @@
+dictionary =
+{
+    ["DictKey_ActionText_7"] = "小型旅客フェリーを発見しました。",
+    ["DictKey_ActionText_17"] = "英国海軍のフリゲートを発見しました。\
+F 57. HMS ANDROMEDA",
+    ["DictKey_ActionText_25"] = "旅客フェリーを発見しました。",
+    ["DictKey_ActionText_13"] = "旅客フェリーを発見しました。",
+    ["DictKey_sortie_5"] = "離陸",
+    ["DictKey_ActionText_19"] = "米海軍の巡洋艦を発見しました。\
+CG-68. USS ANZIO.",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_23"] = "沿岸航行する在来貨物船を発見しました。",
+    ["DictKey_descriptionText_1"] = "Hammerfest沖のノルウェー海へようこそ。エンジンは始動済みだ。ノルウェー沿岸警備隊(Norge Kystvakt)の小型船から離陸せよ。",
+    ["DictKey_ActionText_9"] = "沿岸航行する貨物船を発見しました。",
+    ["DictKey_ActionText_27"] = "警告: 前方に電線があります！",
+    ["DictKey_ActionText_30"] = "ノルウェーのHammerfest市へようこそ。天候は晴れで、風は穏やかだ。脅威はない。哨戒の成功を祈る。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_11"] = "大型ばら積み貨物船を発見しました。",
+    ["DictKey_ActionText_21"] = "ロシア海軍の戦闘艦艇を発見しました。\
+フリゲート712とコルベット143です。\
+\
+これらの艦艇はノルウェー領海外にいます。",
+    ["DictKey_ActionText_15"] = "沿岸航行するタンカーを発見しました。",
+    ["DictKey_descriptionBlueTask_3"] = "搭乗機はノルウェー沿岸警備隊(Norge Kystvakt)の小型船に搭載されている同隊のUH-1Hで、コールサインはCOLT 2-1だ。同船は北西部沿岸のフィヨルドを哨戒している。\
+\
+離陸し、周辺海域を哨戒せよ。発見した船舶を識別せよ。\
+\
+天候は良好で、この地域に敵部隊はいない。飛行計画に沿って飛ぶことも、自由に周辺を見て回ることもできる。同船に帰投して着艦することも、Hammerfest空港に着陸することもできる。",
+} -- end of dictionary
