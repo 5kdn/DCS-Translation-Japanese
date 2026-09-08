@@ -1,0 +1,17 @@
+dictionary =
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionComment_11"] = "",
+    ["DictKey_descriptionText_1"] = "Mariana諸島へようこそ。天候は良好だ。防空システムは稼働していない。一部のレーダーは作動している。",
+    ["DictKey_descriptionBlueTask_3"] = "Guam海軍基地から飛行を開始する。飛行計画に沿って飛ぶことも、好きな場所へ自由に飛ぶこともできる。飛行計画に沿って飛ぶと所要時間は約20-30分で、途中には景色のよい場所がいくつかある。\
+\
+航法援助施設:\
+Guam島 VORTAC 115.80MHz (UNZ)",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "米海兵隊 フリーフライト",
+    ["DictKey_ActionText_8"] = "Mariana諸島へようこそ。天候は良好です。飛行計画に従っても、お好きな場所へ飛んでも構いません。飛行計画に沿って飛ぶと所要時間は約20-30分で、途中には景色のよい場所がいくつかあります。\
+\
+幸運を祈ります！",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_12"] = " ",
+} -- end of dictionary

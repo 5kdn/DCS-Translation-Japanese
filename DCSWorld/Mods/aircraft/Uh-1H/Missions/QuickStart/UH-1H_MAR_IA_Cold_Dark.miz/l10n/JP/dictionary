@@ -1,0 +1,19 @@
+dictionary =
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionComment_11"] = "",
+    ["DictKey_descriptionText_1"] = "Mariana諸島へようこそ。天候は良好だ。防空システムは稼働していない。",
+    ["DictKey_descriptionBlueTask_3"] = "飛行計画に沿って飛ぶことも、好きな場所へ自由に飛ぶこともできる。飛行計画に沿って飛ぶと所要時間は約20-30分で、途中には景色のよい場所がいくつかある。\
+\
+今日の予定は、Tinian島とSaipan島のリゾート間での宿泊客の送迎だ。\
+\
+航法援助施設:\
+Saipan NDB 312kHz (SN)",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "島のリゾート間送迎",
+    ["DictKey_ActionText_8"] = "Mariana諸島へようこそ。天候は良好です。飛行計画に従っても、お好きな場所へ飛んでも構いません。飛行計画に沿って飛ぶと所要時間は約20-30分で、途中には景色のよい場所がいくつかあります。\
+\
+幸運を祈ります。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_12"] = " ",
+} -- end of dictionary
