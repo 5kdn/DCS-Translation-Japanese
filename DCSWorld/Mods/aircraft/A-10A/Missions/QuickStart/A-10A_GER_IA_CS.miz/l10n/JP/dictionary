@@ -1,0 +1,35 @@
+dictionary = 
+{
+	["DictKey_ActionText_6"] = "東西ドイツ国境侵犯 - 航空機",
+	["DictKey_descriptionText_1"] = "西ドイツ、ハーン空軍基地へようこそ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたはA-10 2機編隊のフライトリード、HAWG 3-1です。両機はAGM-65G (Large WH / IIR) 2発、Mk-82 LD 6発、M156スモークロケット7発、AIM-9L 2発を搭載しています。あなたの飛行隊は、英国のRAFアルコンベリーから西ドイツのNATO空軍基地へ展開しています。あなたはドイツ空軍ハーン空軍基地にいます。\
+\
+ヘッセン川上空で、武装した低空(LL)訓練飛行を行う予定です。\
+\
+LLルートの終点では、バウムホルダー射場（西ドイツにおける米陸軍の主要訓練地域、エリアEDR 01）で実弾射撃訓練を実施できます。EDR 01射場は、A-10Cの航法システムにミッションポイント51/EDR01として登録されています。\
+\
+ハーン空軍基地へ帰投するか、センバッハまたはラムシュタイン空軍基地へダイバートしてください。自由に飛行してもかまいません。",
+	["DictKey_ActionText_18"] = "",
+	["DictKey_subtitle_16"] = "進入中。Range Control: 射場での実弾射撃を許可する。目標はレッドスモークでマーキングされている。",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "A-10A 冷戦期ドイツ：コールドスタート",
+	["DictKey_subtitle_10"] = "進入中。Range Control: 射場での実弾射撃を許可する。目標はレッドスモークでマーキングされている。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_19"] = "低空ルート完了：\
+バウムホルダー射場へ向かうには、フライトプラン（ウェイポイント10および11）に従ってください。ハーン空軍基地へ帰投するには、ウェイポイント12へ進んでください。",
+	["DictKey_ActionText_8"] = "東西ドイツ国境侵犯 - ヘリコプター",
+	["DictKey_ActionText_12"] = "西ドイツへようこそ。始動、離陸してフライトプランに従うか、自由に飛行してください。\
+\
+A-10A 離陸チェックリスト：\
+-電源 ON (RShift L)\
+-キャノピーを閉じる (LCtrl + C)\
+-左エンジン始動 (RAlt + Home)\
+-右エンジン始動 (RCtrl + Home)\
+-航法灯 ON (RCtrl + L)\
+-タキシーライト ON (RAlt + L)\
+-EAC ON (LAlt + 4)\
+-モードをNAVに設定 (1)\
+\
+SPACEBARを押して始動チェックリストをクリアしてください。",
+} -- end of dictionary

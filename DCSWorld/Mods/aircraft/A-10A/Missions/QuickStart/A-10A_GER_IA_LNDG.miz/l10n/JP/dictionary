@@ -1,0 +1,18 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "リューベックへようこそ。アクティブポーズ中で、滑走路07のスレッショルドから約10 NMです。着陸への設定を開始し、その後SPACEBARを押して飛行を開始してください。",
+	["DictKey_ActionText_6"] = "東西ドイツ国境侵犯 - 航空機",
+	["DictKey_subtitle_13"] = "",
+	["DictKey_descriptionText_1"] = "リューベック空軍基地に着陸せよ。\
+",
+	["DictKey_descriptionBlueTask_3"] = "あなたはHAWG 4-1、西ドイツ北部のリューベック空軍基地へ展開中のA-10です。AGM-65D 2発、Mk-20 CBU 2発、M156スモークロケット14発、AIM-9L 2発を搭載し、燃料は51%です。開始時、リューベックの東約10 NM、高度4,000ft MSL、220 kt、クリーン形態でアクティブポーズ中です。\
+\
+注意: リューベックは東西ドイツ国境に近いRAF施設です。西ドイツ領空内に留まってください。現在のフライトプランには、着陸地点に加え、東ドイツ領空を回避できるように設定されたGo Aroundステアポイントが2つ含まれています。\
+",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "A-10A 冷戦期ドイツ: VFR着陸",
+	["DictKey_ActionText_16"] = "[警告! 警告! 未確認航空機に告げる。ドイツ民主共和国領空を侵犯しています。]",
+	["DictKey_ActionText_8"] = "東西ドイツ国境侵犯 - ヘリコプター",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_12"] = "",
+} -- end of dictionary
