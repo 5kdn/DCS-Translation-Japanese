@@ -1,0 +1,16 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "西ドイツへようこそ。\\n脅威はありません。フライトプランを使用するか、自由に飛行してください。\\n\\nSPACEBARを押して飛行を開始してください。",
+	["DictKey_ActionText_6"] = "東西ドイツ国境侵犯 - 航空機",
+	["DictKey_descriptionText_1"] = "西ドイツへようこそ。地域慣熟飛行を実施してください。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは、東西ドイツ国境付近で慣熟飛行を行うA-10 2機編隊のフライトリード、HAWG 3-1です。両機はAGM-65D 2発、Mk-82 LD 4発、M151 HEロケット14発、AIM-9L 2発を搭載しています。\
+\
+天候は穏やかです。ROEはWEAPONS HOLDです。\
+\
+フライトプランを使用するか、自由に飛行できます。この地域では複数のNATO航空機が活動しており、西ドイツおよび東ドイツ上空のairspace pictureを提供するNATO E-3A AWACS (MAGIC 9-1)も含まれます。ファスベルク空軍基地または西ドイツの他の飛行場に着陸できます。",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "A-10A 冷戦期ドイツ: フリーフライト",
+	["DictKey_ActionText_8"] = "東西ドイツ国境侵犯 - ヘリコプター",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary
