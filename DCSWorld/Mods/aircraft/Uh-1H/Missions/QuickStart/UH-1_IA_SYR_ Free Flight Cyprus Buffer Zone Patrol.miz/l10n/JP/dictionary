@@ -1,0 +1,113 @@
+dictionary = 
+{
+    ["DictKey_ActionText_10"] = "使用されなくなったNicosia国際空港。\
+(UNFICYPヘリポート)",
+    ["DictKey_ActionText_98"] = "国連ヘリパッド",
+    ["DictKey_ActionText_92"] = "国連ヘリパッド",
+    ["DictKey_subtitle_121"] = "Camp Blue BeretのUNFICYP司令部上空だ。",
+    ["DictKey_ActionText_36"] = "Lymbiaの町のそばを通過している。",
+    ["DictKey_ActionText_66"] = "Paphos考古学公園と港の城の上空を通過している。遺跡区域には古代ギリシャとローマの遺跡がある。この城は、もともとビザンツ帝国の砦だった。",
+    ["DictKey_subtitle_115"] = "UN 079、離陸を許可する。西へ出発せよ。",
+    ["DictKey_ActionComment_93"] = "",
+    ["DictKey_ActionText_38"] = "Athienou上空を通過している。全域が国連緩衝地帯内にある町の中では最大だ。",
+    ["DictKey_ActionText_68"] = "キプロス最大のダム、Kourisダムの上空だ。",
+    ["DictKey_ActionText_88"] = "国連ヘリパッド",
+    ["DictKey_ActionText_90"] = "国連ヘリパッド",
+    ["DictKey_ActionText_30"] = "13世紀のゴシック様式のカトリック大聖堂を転用したモスク、Selimiye Camiiのそばを通過している。",
+    ["DictKey_ActionText_78"] = "",
+    ["DictKey_ActionText_110"] = "国連臨時ヘリパッド(東)\
+- 給油\
+- 再武装",
+    ["DictKey_ActionText_24"] = "Kokkina飛び地の国連司令部上空だ。",
+    ["DictKey_ActionText_28"] = "キプロス財務省の上空を通過している。",
+    ["DictKey_sortie_5"] = "キプロス: UNFICYP哨戒",
+    ["DictKey_ActionComment_81"] = "",
+    ["DictKey_ActionText_56"] = "Kyrenia城のそばを通過している。かつての十字軍の砦の上に16世紀に築かれた城だ。",
+    ["DictKey_descriptionText_1"] = "2021年3月: 国連事務総長は、ノルウェー陸軍少将のIngrid Gjerdeを国連キプロス平和維持軍(UNFICYP)の新司令官に任命すると発表した。\
+\
+少将のGjerdeが着任後最初に行う任務の一つは、島内のギリシャ系住民の居住地域とトルコ系住民の居住地域を隔てるUNFICYP緩衝地帯の上空視察だ。少将は、定例の国連緩衝地帯航空哨戒に\"便乗\"して視察を行う。東側または西側の視察飛行を選択せよ。",
+    ["DictKey_ActionText_100"] = "国連ヘリパッド",
+    ["DictKey_ActionText_20"] = "国連第4地区司令部(ハンガリー軍)の上空だ。",
+    ["DictKey_ActionText_108"] = "",
+    ["DictKey_ActionText_106"] = "国連臨時ヘリパッド(西)\
+- 給油\
+- 再武装",
+    ["DictKey_ActionComment_85"] = "",
+    ["DictKey_ActionText_82"] = "国連ヘリパッド",
+    ["DictKey_ActionText_12"] = "国連緩衝地帯西側の視察飛行を開始する。",
+    ["DictKey_ActionText_34"] = "キプロス大統領宮殿のそばを通過している。",
+    ["DictKey_subtitle_127"] = "国連第4地区司令部(スロバキア軍)の上空だ。",
+    ["DictKey_ActionText_40"] = "Kingsfield航空基地(イギリス軍)のそばを通過している。",
+    ["DictKey_ActionText_18"] = "",
+    ["DictKey_ActionComment_89"] = "",
+    ["DictKey_ActionText_76"] = "国連緩衝地帯東側の視察飛行を開始する。",
+    ["DictKey_ActionComment_103"] = "",
+    ["DictKey_subtitle_125"] = "国連第2地区司令部(イギリス軍)の上空だ。",
+    ["DictKey_ActionText_16"] = "Camp Blue BeretのUNFICYP司令部上空だ。",
+    ["DictKey_ActionText_86"] = "国連ヘリパッド",
+    ["DictKey_ActionText_32"] = "Saint Polydoros教会のそばを通過している。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_52"] = "Olympus山頂にあるキプロス軍のS-300 SAM陣地の上空だ。",
+    ["DictKey_ActionText_44"] = "Achna貯水池のそばを通過している。",
+    ["DictKey_subtitle_131"] = "Kokkina飛び地の国連司令部上空だ。",
+    ["DictKey_ActionText_62"] = "トルコ系キプロス人の飛び地、Kikkinaだ。陸側を国連緩衝地帯に囲まれている。",
+    ["DictKey_ActionText_42"] = "国連兵站施設の上空だ。",
+    ["DictKey_ActionText_102"] = "国連ヘリパッド",
+    ["DictKey_ActionText_64"] = "Kikkinaヘリポートの上空だ。この半ば孤立した町の交通拠点となっている。",
+    ["DictKey_ActionComment_99"] = "",
+    ["DictKey_ActionText_46"] = "Famagustaの防御施設の上空を通過している。Famagusta旧市街を囲む一連の城壁と稜堡で、最初に築かれたのは14世紀だ。",
+    ["DictKey_ActionText_80"] = "国連ヘリパッド",
+    ["DictKey_subtitle_119"] = "UN 079、国連緩衝地帯西側の視察飛行を開始する。",
+    ["DictKey_ActionText_84"] = "国連ヘリパッド",
+    ["DictKey_ActionText_50"] = "Olympus山の指揮統制施設のそばを通過している。",
+    ["DictKey_ActionText_6"] = "UN 79、離陸を許可する。東へ出発せよ。",
+    ["DictKey_ActionText_48"] = "Olympus山の指揮統制施設のそばを通過している。",
+    ["DictKey_ActionText_74"] = "イギリス軍のAyios Nikoloas電子情報収集(ELINT)施設のそばを通過している。",
+    ["DictKey_ActionText_7"] = "UN 79、離陸を許可する。西へ出発せよ。",
+    ["DictKey_ActionComment_87"] = "",
+    ["DictKey_subtitle_117"] = "UN 079、国連緩衝地帯東側の視察飛行を開始する。\
+",
+    ["DictKey_subtitle_129"] = "国連兵站施設の上空だ。",
+    ["DictKey_ActionComment_83"] = "",
+    ["DictKey_ActionText_94"] = "国連ヘリパッド",
+    ["DictKey_ActionText_54"] = "Kibtek太陽光発電所の上空を通過している。キプロスに電力を供給する太陽光発電施設の一つだ。",
+    ["DictKey_ActionComment_95"] = "",
+    ["DictKey_ActionComment_97"] = "",
+    ["DictKey_ActionComment_111"] = "",
+    ["DictKey_ActionText_72"] = "イギリス主権基地領域の西地区 / イギリス空軍Akrotiri基地に入る。",
+    ["DictKey_ActionText_70"] = "イギリス主権基地領域の東地区に入る。",
+    ["DictKey_ActionText_58"] = "国連緩衝地帯の南にあるPeristeronaの町のそばを通過している。",
+    ["DictKey_ActionComment_101"] = "",
+    ["DictKey_ActionText_14"] = "国連第2地区司令部(イギリス軍)の上空だ。",
+    ["DictKey_ActionComment_105"] = "",
+    ["DictKey_descriptionBlueTask_3"] = "Camp Blue BeretのUNFICYP司令部に隣接する、使用されなくなったNicosia空港の国連ヘリパッドから出発する。飛行計画は以下のとおり。\
+\
+東側哨戒・視察飛行 - 第2・第4地区: 北東へ飛び、その後東へ向かってNicosiaの中心街と旧市街へ進み、そこから南のLymbiaへ向かう。次におおむね東北東へ進み、蛇行する緩衝地帯を横切ってAthienou(全域が国連緩衝地帯内にある町の中では最大)の南にある丘陵地帯へ向かう。その後、東南東のKingsfield航空基地へ飛行する。この地点でイギリス主権基地領域(SBA)に入る。SBAを横断し、Famagustaの南で国連緩衝地帯に再び合流する。\
+\
+西側哨戒・視察飛行 - 第1地区: Nicosia空港の滑走路32に沿って北西へ飛び、滑走路14の進入端まで進む。そこから西北西へ旋回して西側の国連緩衝地帯に入る。起伏のある丘陵を縫う緩衝地帯に沿って、西北西、西、西南西へと進む。(この区間ではフェンスを視認し続けると航法の助けになる。)国連第1地区司令部を通過したら、険しい地形を通る緩衝地帯に沿って進み、最後に北へ向かって海岸に出る。次に海上を西へ飛び、Kikkina飛び地の国連緩衝地帯に合流する。\
+\
+各視察飛行の所要時間は約30分。ただし、UNFICYPのヘリコプターはキプロス全域を飛行する権限を持つため、好きな場所へ飛んでもよい。\
+\
+通信: すべての通信にUHF 251.00MHzを使用する。\
+\
+ミッションに関する注意事項:\
+1 - 国連緩衝地帯には常設の国連ヘリパッドが12か所あり、東側のSBAにも1か所ある。位置はF10マップのマーカーで示されている。これらのヘリパッドでは地上支援を受けられない。\
+2 - Nicosia空港の国連司令部ヘリポートでは、給油、武装、修理のすべての地上支援を受けられる。\
+3 - このミッションでは、一部の地上支援を提供する臨時ヘリコプター着陸地点を2か所設けている。一つは東海岸のFamagusta南方の国連緩衝地帯内、もう一つは北海岸のKikkina飛び地を囲む国連緩衝地帯の東端にある。(どちらもF10マップに表示されている。)\
+4 - F10マップの表示:\
+- UNFICYP司令部と国連各地区司令部は青い旗で示されている。\
+- 国連監視所(OP)、現地拠点、緩衝地帯の通過地点は青い三角形で示されている。\
+- イギリス主権基地領域の監視所と警戒所は白い三角形で示されている。\
+- 旗や三角形を見やすくするには、\"Show Labels\"をオフにする。",
+    ["DictKey_subtitle_112"] = "UN 079、離陸を許可する。東へ出発せよ。",
+    ["DictKey_ActionText_60"] = "Agios Ioannisの廃村の上空だ。1974年から無人となり、その後荒廃した。",
+    ["DictKey_ActionText_26"] = "旧市街の城壁にあるPaphos門の上空を通過している。グリーンライン上に位置する門だ。",
+    ["DictKey_ActionComment_109"] = "",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionComment_107"] = "",
+    ["DictKey_ActionText_104"] = "国連ヘリパッド",
+    ["DictKey_ActionText_96"] = "国連ヘリパッド",
+    ["DictKey_subtitle_123"] = "国連第1地区司令部(アルゼンチン軍)の上空だ。",
+    ["DictKey_ActionText_22"] = "国連第1地区司令部(アルゼンチン軍)の上空だ。",
+    ["DictKey_ActionComment_91"] = "",
+} -- end of dictionary
