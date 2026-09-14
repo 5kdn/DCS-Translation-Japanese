@@ -34,10 +34,23 @@ jobs:
           echo "${CHANGED_FILES}"
           echo ""
 
-          # lua-like ファイルだけを抽出
-          TARGET_FILES="$(printf '%s\n' "${CHANGED_FILES}" | grep -E '\.lua$|\.cmp$|(^|/)dictionary$' || true)"
+          # lua-like ファイルを抽出し、PR の checkout 後にも存在するものだけを残す
+          CANDIDATE_FILES="$(printf '%s\n' "${CHANGED_FILES}" | grep -E '\.lua$|\.cmp$|(^|/)dictionary$' || true)"
+          TARGET_FILES=""
+          while IFS= read -r file; do
+            [ -z "${file}" ] && continue
+            if [ ! -f "${file}" ]; then
+              echo "Skipping file absent from the PR checkout: ${file}"
+              continue
+            fi
+            if [ -z "${TARGET_FILES}" ]; then
+              TARGET_FILES="${file}"
+            else
+              TARGET_FILES="${TARGET_FILES}"$'\n'"${file}"
+            fi
+          done <<< "${CANDIDATE_FILES}"
           if [ -z "${TARGET_FILES}" ]; then
-            echo "No lua-like files changed."
+            echo "No existing lua-like files changed."
             echo "has_files=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
