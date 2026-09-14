@@ -9,12 +9,14 @@ campaign =
 Месяц назад эта \"новая\" Республика Грузия объявила о своей независимости от Советского Союза. В ответ сухопутные и воздушные силы красных накапливаются на северном берегу реки Ингури, готовясь к масштабным военным действиям. Осознавая безнадёжность своего положения, грузины обратились с настоятельными просьбами о помощи к Западу.\
 \
 Оперативная группа сил \"Челленджер\" при поддержке авианосца USS John C. Stennis вошла в Чёрное море для оказания помощи. Им приказано участвовать только в оборонительных операциях, но в случае атаки - проводить наступательные операции в поддержку грузинских сил.",
-	["name_EN"] = "1989 - Task Force Challenger",
-	["name_JP"] = "1989 - タスクフォース・チャレンジャー",
-	["pictureFailed_CN"] = "Fail_CN.jpg",
+	["name_EN"] = "1989 - Task Force Challenger - Supercarrier",
+	["name_JP"] = "1989 - タスクフォース・チャレンジャー - Supercarrier",
+	["name_RU"] = "1989 - Операция \"Челленджер\" для Supercarrier",
 	["pictureSuccess_RU"] = "Success.jpg",
-	["pictureSuccess_EN"] = "Success.jpg",
-	["pictureSuccess_JP"] = "Success.jpg",
+	["necessaryUnits"] = 
+	{
+		["FA-18C_hornet"] = "FA-18C_hornet",
+	}, -- end of ["necessaryUnits"]
 	["stages"] = 
 	{
 		[2] = 
@@ -30,9 +32,9 @@ campaign =
 						[1] = 0,
 						[2] = 100,
 					}, -- end of ["interval"]
-					["file"] = "1989-CAS.miz",
+					["file"] = "1989-CAS-SC.miz",
+					["fullpath"] = "F:\\DCS_TRUNK\\LockOnExe\\Mods\\aircraft\\FA-18C\\Missions\\Campaigns\\1989-CAS-SC.miz",
 					["skipScore"] = 100,
-					["fullpath"] = "F:\\DCS_TRUNK\\LockOnExe\\Mods\\aircraft\\FA-18C\\Missions\\Campaigns\\1989-CAS.miz",
 				}, -- end of [1]
 			}, -- end of ["missions"]
 		}, -- end of [2]
@@ -49,9 +51,9 @@ campaign =
 						[1] = 0,
 						[2] = 100,
 					}, -- end of ["interval"]
-					["file"] = "1989-Interdiction.miz",
+					["file"] = "1989-Interdiction-SC.miz",
+					["fullpath"] = "F:\\DCS_TRUNK\\LockOnExe\\Mods\\aircraft\\FA-18C\\Missions\\Campaigns\\1989-Interdiction-SC.miz",
 					["skipScore"] = 100,
-					["fullpath"] = "F:\\DCS_TRUNK\\LockOnExe\\Mods\\aircraft\\FA-18C\\Missions\\Campaigns\\1989-Interdiction.miz",
 				}, -- end of [1]
 			}, -- end of ["missions"]
 		}, -- end of [3]
@@ -68,9 +70,9 @@ campaign =
 						[1] = 0,
 						[2] = 100,
 					}, -- end of ["interval"]
-					["file"] = "1989-Alert 5.miz",
+					["file"] = "1989-Alert 5-SC.miz",
+					["fullpath"] = "F:\\DCS_TRUNK\\LockOnExe\\Mods\\aircraft\\FA-18C\\Missions\\Campaigns\\1989-Alert 5-SC.miz",
 					["skipScore"] = 100,
-					["fullpath"] = "F:\\DCS_TRUNK\\LockOnExe\\Mods\\aircraft\\FA-18C\\Missions\\Campaigns\\1989-Alert 5.miz",
 				}, -- end of [1]
 			}, -- end of ["missions"]
 		}, -- end of [1]
@@ -87,9 +89,9 @@ campaign =
 						[1] = 0,
 						[2] = 100,
 					}, -- end of ["interval"]
-					["file"] = "1989-Fighter Sweep.miz",
+					["file"] = "1989-Fighter Sweep-SC.miz",
+					["fullpath"] = "F:\\DCS_TRUNK\\LockOnExe\\Mods\\aircraft\\FA-18C\\Missions\\Campaigns\\1989-Fighter Sweep-SC.miz",
 					["skipScore"] = 100,
-					["fullpath"] = "F:\\DCS_TRUNK\\LockOnExe\\Mods\\aircraft\\FA-18C\\Missions\\Campaigns\\1989-Fighter Sweep.miz",
 				}, -- end of [1]
 			}, -- end of ["missions"]
 		}, -- end of [4]
@@ -106,35 +108,30 @@ campaign =
 						[1] = 0,
 						[2] = 100,
 					}, -- end of ["interval"]
-					["file"] = "1989-OCA.miz",
+					["file"] = "1989-OCA-SC.miz",
+					["fullpath"] = "F:\\DCS_TRUNK\\LockOnExe\\Mods\\aircraft\\FA-18C\\Missions\\Campaigns\\1989-OCA-SC.miz",
 					["skipScore"] = 100,
-					["fullpath"] = "F:\\DCS_TRUNK\\LockOnExe\\Mods\\aircraft\\FA-18C\\Missions\\Campaigns\\1989-OCA.miz",
 				}, -- end of [1]
 			}, -- end of ["missions"]
 		}, -- end of [5]
 	}, -- end of ["stages"]
-	["name_CN"] = "大黄蜂 1989 - 特遣舰队",
-	["fullPath"] = "F:\\DCS_TRUNK\\LockOnExe\\Mods\\aircraft\\FA-18C\\Missions\\Campaigns\\Challenger.cmp",
-	["picture_RU"] = "Banner.jpg",
+	["fullPath"] = "F:\\DCS_TRUNK\\LockOnExe\\Mods\\aircraft\\FA-18C\\Missions\\Campaigns\\Challenger-SC.cmp",
 	["picture_EN"] = "Banner.jpg",
 	["picture_JP"] = "Banner.jpg",
 	["directory"] = "F:\\DCS_TRUNK\\LockOnExe\\Mods\\aircraft\\FA-18C\\Missions\\Campaigns\\",
 	["startStage"] = 1,
 	["picture"] = "Banner.jpg",
-	["necessaryUnits"] = 
-	{
-		["FA-18C_hornet"] = "FA-18C_hornet",
-	}, -- end of ["necessaryUnits"]
-	["description_EN"] = "10 December 1989\
+	["description_EN"] = "*DCS: Supercarrier required in order to play.*\
+\
+10 December 1989\
 The Black Sea\
 Fictional\
 \
-Tensions are high in the Caucasus region, as local government and military leaders contemplate their future under continued Soviet control.  It is the belief of Georgian leadership in Tbilisi that sufficient economic and military autonomy exists to allow self-rule as an independent republic.  \
+Tensions are high in the Caucasus region, as local government and military leaders contemplate their future under continued Soviet control.  It is the belief of Georgian leadership in Tbilisi that sufficient economic and military autonomy exists to allow self-rule as an independent republic.\
 \
-One month ago, this new Republic of Georgia declared independence from the Soviet Union.  In response, Red ground and air forces have been amassing on the north side of the Inguri river in preparation for a large-scale crackdown.  Recognizing the hopelessness of their situation, the Georgians have made urgent pleas to the West for aid.  \
+One month ago, this new Republic of Georgia declared independence from the Soviet Union.  In response, Red ground and air forces have been amassing on the north side of the Inguri river in preparation for a large-scale crackdown.  Recognizing the hopelessness of their situation, the Georgians have made urgent pleas to the West for aid.\
 \
-Task Force Challenger, centered around the aircraft carrier USS John C. Stennis, has entered the Black Sea as a show of support.  They are under orders to engage in defensive operations only, but if attacked, to carry out offensive operations in support of Georgian forces.\
-",
+Task Force Challenger, centered around the aircraft carrier USS Abraham Lincoln, has entered the Black Sea as a show of support.  They are under orders to engage in defensive operations only, but if attacked, to carry out offensive operations in support of Georgian forces.",
 	["description_JP"] = "*プレイするにはDCS: Supercarrierが必要です。*\
 \
 1989年12月10日\
@@ -146,22 +143,13 @@ Task Force Challenger, centered around the aircraft carrier USS John C. Stennis,
 1か月前、この新生ジョージア共和国はソビエト連邦からの独立を宣言した。これに対し、敵側地上・航空戦力は大規模な弾圧に備えてイングリ川の北岸に集結を続けている。自らの窮地を悟ったジョージア側は、西側に対して緊急の支援要請を行った。\
 \
 USS Abraham Lincolnを中核とするTask Force Challengerは、支持を示すため黒海に入った。同部隊は防御作戦にのみ従事するよう命じられているが、攻撃を受けた場合はジョージア軍を支援する攻勢作戦を実施する。",
-	["name_RU"] = "1989 - Операция \"Челленджер\"",
-	["pictureSuccess_CN"] = "Success_CN.jpg",
-	["description_CN"] = "1989年12月10日\
-黑海\
-虚构情节\
-\
-随着当地地方政府和军方领导人在苏联的控制下考虑其地区的未来时，高加索的局势日益紧张。我们目前认为在第比利斯的格鲁吉亚领导层拥有足够的经济和军事自治权使格鲁吉亚自治并成为一个独立的共和国。\
-\
-一个月之前，新成立的格鲁吉亚共和国宣布从苏联中独立。作为回应，红军的地面和空中力量在因古里河北岸集结并准备随时进行大规模的镇压行动。认识到了艰难的处境，格鲁吉亚政府向西方请求紧急援助。 \
-\
-以约翰斯坦尼斯号航母为核心的挑战者特遣舰队已经进入黑海以表明对格鲁吉亚的支持。他们被下令仅执行防御任务，但是如果被攻击时，可执行进攻任务以支援格鲁吉亚部队。\
-",
-	["pictureSuccess"] = "Success.jpg",
-	["version"] = 1,
-	["name"] = "1989 - Операция \"Челленджер\"",
+	["pictureSuccess_EN"] = "Success.jpg",
+	["pictureSuccess_JP"] = "Success.jpg",
 	["pictureFailed"] = "Fail.jpg",
+	["picture_RU"] = "Banner.jpg",
+	["version"] = 1,
+	["name"] = "1989 - Операция \"Челленджер\" для Supercarrier",
+	["pictureSuccess"] = "Success.jpg",
 	["pictureFailed_EN"] = "Fail.jpg",
 	["pictureFailed_JP"] = "Fail.jpg",
 	["pictureFailed_RU"] = "Fail.jpg",
