@@ -29,10 +29,9 @@ dictionary =
 	["DictKey_UnitName_130"] = "Maykop Static #029",
 	["DictKey_WptName_533"] = "",
 	["DictKey_UnitName_1066"] = "Gudauta Static #018",
-	["DictKey_ActionText_1188"] = "次に、計器パネルの予備ADI（SAI)をアンケージします。\
-左クリックで一度引っ張ってから、航空機シンボルが水平線に並ぶまでノブを回してください。\
+	["DictKey_ActionText_1188"] = "次に、計器盤のStandby ADI(SAI)をアンケージしろ。航空機シンボルが水平線と一致するまでノブを回せばよい。\
 \
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_GroupName_265"] = "Gudauta Static #018",
 	["DictKey_UnitName_79"] = "Maykop Static #008",
 	["DictKey_UnitName_1039"] = "Gudauta Static #002",
@@ -51,15 +50,13 @@ dictionary =
 	["DictKey_WptName_173"] = "",
 	["DictKey_UnitName_175"] = "Maykop Static #014",
 	["DictKey_UnitName_961"] = "Kobuleti Static #009",
-	["DictKey_ActionText_1194"] = "次は、航空機が動かないようにホイールブレーキ [W] を押し続けます。\
+	["DictKey_ActionText_1194"] = "次の手順では機体が動かないよう、ホイールブレーキ [W] を踏み続けろ。\
 \
-スロットルをMILまで上げてます。\
-RPMが85％に達したらアイドルに戻します。\
-正常値範囲であることと、スムーズに動作することを確認して下さい。\
+スロットルを素早くMILまで進め、エンジンRPMが85%に達したらIDLEへ戻せ。各表示が正常で、作動が滑らかなことを確認しろ。SEC選択後30秒以内にノズル位置が5%以下になるはずだ。\
 \
-ノズルポジションはSECを選択してから30秒以内に5％以下なる必要があります。\
+SEC選択後30秒以内にノズル位置が5%以下になるはずだ。\
 \
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_WptName_92"] = "",
 	["DictKey_UnitName_40"] = "Maykop Static #002",
 	["DictKey_WptName_881"] = "",
@@ -101,9 +98,7 @@ RPMが85％に達したらアイドルに戻します。\
 	["DictKey_WptName_956"] = "",
 	["DictKey_GroupName_707"] = "Soganlug #002",
 	["DictKey_WptName_830"] = "",
-	["DictKey_descriptionText_1"] = "Viperのスタートアップのトレーンングレッスンにようこそ。ミッションによっては、Viperがコールド＆ダーク状態で、あなたが機体に命を吹き込まなくてはならない場合もあるでしょう。\
-これはマニュアルに記載されているように長い手順がかかりますので、オートスタート機能で始動することも可能です。\
-しかし、このレッスンでは、完全な始動手順を紹介します。",
+	["DictKey_descriptionText_1"] = "F-16C Viperの始動訓練へようこそ。一部のミッションでは、コールド＆ダーク状態のViperを自ら始動する必要がある。マニュアルに記載されているとおり、この手順はかなり長いが、オートスタート機能を使用することもできる。ただし、この訓練では完全な始動手順を確認する。",
 	["DictKey_UnitName_178"] = "Maykop Static #042",
 	["DictKey_UnitName_278"] = "Gudauta Static #023",
 	["DictKey_WptName_911"] = "",
@@ -134,17 +129,15 @@ RPMが85％に達したらアイドルに戻します。\
 	["DictKey_WptName_415"] = "",
 	["DictKey_WptName_863"] = "",
 	["DictKey_WptName_872"] = "",
-	["DictKey_ActionText_1147"] = "では、FLCS PWR TESTスイッチをTEST位置にしてください。（スイッチ上で右マウスボタンを押したままにする）\
+	["DictKey_ActionText_1147"] = "次に、FLCS PWR TESTスイッチをTEST位置にし、右マウスボタンでその位置を保持しろ。\
 \
-スイッチの横にある４つのFLCS PWR ライトが点灯します。\
+スイッチ横の4つのFLCS PWRライトが点灯するはずだ。\
 \
-ELECパネルに戻ると、FLCS RLYライトがOFFになり、 TO FLCS と FLCS PMG ライトがONになりました。\
+ELECパネルに戻り、先ほど確認したFLCS RLYライトが消灯し、TO FLCSおよびFLCS PMGライトが点灯していることを確認しろ。\
 \
-このテストでは機体のバッテリーを使って、フライトコントロールコンピューターの動作を確認します。\
+このテストでは、機体バッテリーを電源としてFlight Control Computerが作動することを確認する。\
 \
-スイッチから手を離してください。\
-\
-スペースバーを押すと次に進みます",
+スイッチを離し、[SPACEBAR]を押して続行しろ。",
 	["DictKey_UnitName_281"] = "Gudauta Static #031",
 	["DictKey_GroupName_78"] = "Maykop Static #008",
 	["DictKey_UnitName_928"] = "Soganlug Static #008",
@@ -168,11 +161,11 @@ ELECパネルに戻ると、FLCS RLYライトがOFFになり、 TO FLCS と FLCS
 	["DictKey_UnitName_487"] = "Tbilisi Static #004",
 	["DictKey_GroupName_102"] = "Maykop Static #051",
 	["DictKey_WptName_899"] = "",
-	["DictKey_ActionText_1149"] = "次にMAIN PWRスイッチをMAIN PWRの位置にします。\
+	["DictKey_ActionText_1149"] = "次に、MAIN PWRスイッチをMAIN PWRにセットしろ。\
 \
-これで、エンジン搭載発電機を使用する準備が整いました。ただし、エンジンが稼働するまで、電力は使用できません。そのため、右アイブロウのENGINE と HYD/OIL PRESS　ウォーニングライトが点灯し、コーションライトパネルのELEC SYS と SECコーションライトが点灯しています。 \
+これにより機体はエンジン駆動ジェネレーターから給電できる状態になるが、エンジンが始動するまでは電力を利用できない。そのため、右側アイブロウのENGINEおよびHYD/OIL PRESS警告灯と、Caution LightパネルのELEC SYSおよびSEC注意灯が点灯しているはずだ。\
 \
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_GroupName_924"] = "Soganlug Static #007",
 	["DictKey_ActionText_1242"] = "",
 	["DictKey_GroupName_277"] = "Gudauta Static #023",
@@ -210,10 +203,9 @@ ELECパネルに戻ると、FLCS RLYライトがOFFになり、 TO FLCS と FLCS
 	["DictKey_UnitName_133"] = "Maykop Static #027",
 	["DictKey_UnitName_934"] = "Soganlug Static #010",
 	["DictKey_WptName_119"] = "",
-	["DictKey_ActionText_1168"] = "エンジンを起動させる時が来ました。ここは素早く進みますので、もっと詳しく見たい場合はポーズをかけながらすすめるか、何度でもミッションをリスタートして下さい。\
+	["DictKey_ActionText_1168"] = "次はエンジン始動だ。この手順は短時間で進むため、確認したい箇所があればいつでもミッションを再開始して構わない。\
 \
-最初に、JFSスイッチを左クリックしてSTART 2位置にしてください。\
-（＊左クリックです　間違えてSTART１にしてしまったら修正しましょう＊）",
+まず、JFSスイッチを左クリックしてSTART 2にセットしろ。",
 	["DictKey_GroupName_36"] = "Maykop Static #005",
 	["DictKey_WptName_950"] = "",
 	["DictKey_ActionText_1232"] = "",
@@ -235,15 +227,15 @@ ELECパネルに戻ると、FLCS RLYライトがOFFになり、 TO FLCS と FLCS
 	["DictKey_UnitName_1091"] = "Unit #005",
 	["DictKey_WptName_854"] = "",
 	["DictKey_GroupName_57"] = "Maykop Static #016",
-	["DictKey_ActionText_1198"] = "次に、FLCSのチェックを行います。操縦桿を全周回すことから始めます。操縦桿を最大まで動かすことで、油圧液が温まり気泡が除去されます。これによってテストの失敗が減ります。\
+	["DictKey_ActionText_1198"] = "次に、FLCSのチェックを行う。まず、すべての操縦装置をフルストロークで動かせ。最大舵角まで入力することで作動油が温まり、気泡が除去され、テスト失敗の可能性が低下する。\
 \
-では、FLCS BITす地位をBITの位置にしてください。\
+その後、FLCS BITスイッチをBITにセットしろ。\
 \
-フライトコントロールパネルのRUNライトが点灯します。約45秒後にBITが正常に終了すると、RUNライトが消灯し、BITスイッチがOFFに戻ります。FAIL ライトと FLCS ウォーニングライトは消灯したままです。BIT passメッセージがFLCS MFD ページに表示されます。\
+Flight Control PanelのRUNライトが点灯する。BITが正常に完了すると、約45秒後にRUNライトが消灯し、BITスイッチがOFFへ戻り、FAILライトとFLCS警告灯は消灯したままとなる。FLCS MFDページにはBIT合格メッセージが表示される。\
 \
-他のタスクはFLCS BITを実行している間に完了しているでしょう。\
+FLCS BITの実行中は他の作業を進めてもよい。\
 \
-スペースバーを押すと次に進みます。",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_GroupName_1097"] = "Airpower Demo Target #002",
 	["DictKey_WptName_110"] = "",
 	["DictKey_UnitName_1042"] = "Gudauta Static #003",
@@ -256,42 +248,16 @@ ELECパネルに戻ると、FLCS RLYライトがOFFになり、 TO FLCS と FLCS
 	["DictKey_ActionText_1244"] = "",
 	["DictKey_WptName_458"] = "",
 	["DictKey_WptName_479"] = "",
-	["DictKey_ActionText_1174"] = "コーションライトパネルの PROBE HEAT コーションライトが消えているか確認してください。点灯している場合は１つ以上のプローブヒーターが作動していないか監視システムが故障しています。\
+	["DictKey_ActionText_1174"] = "Caution LightパネルのPROBE HEAT注意灯が消灯していることを確認しろ。点灯している場合は、1つ以上のプローブヒーターが作動していないか、監視システムに故障が発生している。\
 \
-次に、 PROBE HEATスイッチをTEST位置にしてください。",
+次に、PROBE HEATスイッチをTESTにセットしろ。",
 	["DictKey_WptName_143"] = "",
 	["DictKey_WptName_149"] = "",
 	["DictKey_GroupName_126"] = "Maykop Static #038",
 	["DictKey_ActionText_1222"] = "",
-	["DictKey_ActionText_1254"] = "これは、両方の JFS(Jet Fuel Starter：ジェット燃料スターター）蓄電ボトルを使用して、JFSを回転させます。これによりFLCSリレーも閉じ、FLCSに電力が供給されます。\
+	["DictKey_ActionText_1254"] = "これによりJet Fuel Starter(JFS)のアキュムレーター・ボトル2本を使い、JFSの回転が始まった。同時にFLCSリレーが閉じ、FLCSへ電力が供給された。\
 \
-JFS Runライトは速度が上がりエンジンRPMが増え始めると点灯します。\
-\
-では、エンジン計器を監視しましょう。（右MFDの右側にあります）\
-\
-20％RPMでスロットルをアイドル（IDLE）位置に進めます。 [RShift + Home]\
-\
-これにより、エンジン点火装置に電力が供給されて、燃料が流れ始めます。RPMの増加に合わせて機体の振動とファンタービンインレット温度（FTIT:Fan Turbine Inlet Temperature）が上昇します。エンジン始動サイクルが続く間、計器パネルの右側にあるこの計器を監視します。\
-\
-20％RPMで SEC コーションライトが消えます。JFSは55％RPMで自動的にシャットオフします。JFSライトが消えて、JFSスイッチは自動的にOFFにしての位置に戻ります。\
-\
-60％RPMで予備発電機（standby generator）がオンラインになり、エンジンウォーニングライトが消えます。\
-数秒後、メイン発電機（ main generator ）がオンラインになり、予備発電機がオフラインになります。\
-これで機体のシステムは全て発電機からの電力で動作しており、出力を上げることができます。\
-\
-エンジン始動後の通常値：\
-\
-- HYD/OIL PRESS（油圧） ウォーニングライト – Off\
-- 燃料流量（FUEL FLOW） – 700-1700 pph　（右MFD上）\
-- 油圧（OIL pressure） – 15 psi (最低)　\
-- ノズル位置（NOZ POS） – 94％以上\
-- RPM – 62-80 ％\
-- FTIT – 650⁰ C 以下\
-- HYD PRESS A & B – 2850-3250 psi　（コーションパネル右上）\
-\
-計器パネルでこれらを確認して下さい。\
-\
-スペースバーを押すと次に進みます",
+JFSが規定回転数に達するとJFS Runライトが点灯し、エンジンRPMが上昇し始めるはずだ。",
 	["DictKey_UnitName_466"] = "Batumi Static #004",
 	["DictKey_UnitName_1075"] = "Gudauta Static #022",
 	["DictKey_WptName_818"] = "",
@@ -323,57 +289,54 @@ JFS Runライトは速度が上がりエンジンRPMが増え始めると点灯�
 	["DictKey_UnitName_442"] = "Sukhumi Static #003",
 	["DictKey_GroupName_725"] = "Aerobatics #001",
 	["DictKey_UnitName_457"] = "Batumi Static #001",
-	["DictKey_ActionText_1250"] = "EPU/GEN TEST スイッチを OFF の位置に戻します。\
+	["DictKey_ActionText_1250"] = "EPU/GEN TESTスイッチをOFF位置へ戻せ。\
 \
-スロットルをアイドルに戻します。\
-OXYGENをNORMALに戻します。\
+スロットルをIDLEへ戻し、OXYGENをNORMALへ戻せ。\
 \
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_WptName_131"] = "",
 	["DictKey_WptName_170"] = "",
 	["DictKey_WptName_29"] = "",
-	["DictKey_ActionText_1176"] = "次に、FIRE & OHEAT DETECTボタンを押します。\
+	["DictKey_ActionText_1176"] = "次に、FIRE & OHEAT DETECTボタンを押せ。\
 \
-ボタンを押したら、ENG FIREウォーニングライトとOVERHEAT コーションライトが点灯します。\
-火災とオーバーヒートの検出の流れの連続性がチェックされます。\
+ボタンを押している間、ENG FIRE警告灯とOVERHEAT注意灯が点灯することを確認しろ。これは火災および過熱検知ループの導通を確認するチェックだ。\
 \
-スペースバーを押すと次に進みます",
-	["DictKey_ActionText_1143"] = "進行にあたり、通常右クリックはスイチをアップし、左クリックはスイッチをダウンすることを覚えておいてください。\
+[SPACEBAR]を押して続行しろ。",
+	["DictKey_ActionText_1143"] = "手順を進めるにあたり、一般に右クリックでスイッチを上側へ、左クリックで下側へ動かすことを覚えておけ。\
 \
-最初に、MAIN PWRスイッチをマウスで右クリックしてBATT の位置にしてください。\
+まず、MAIN PWRスイッチを右クリックしてBATTにセットしろ。\
 \
-これにより、機体のバッテリーが重要なシステムに接続され、エンジン点火に必要な電力が供給されます。",
+これにより機体バッテリーが主要系統へ接続され、エンジン点火に必要な電力が供給される。",
 	["DictKey_UnitName_16"] = "Maykop Static #018",
-	["DictKey_ActionText_1269"] = "RPMが20%に達したら、スロットルをIDLEポジションへ進めてください([RShift + Home])。\
+	["DictKey_ActionText_1269"] = "次に、エンジン計器を監視する。\
 \
-これにより、エンジン点火装置に電力が供給され、燃料の供給が開始されます。\
-RPMの上昇に伴い、機体の振動とファンタービン入口温度(FTIT)の上昇が確認できるはずです。\
-エンジン始動サイクルが進行する間、計器盤右側にあるこれらの計器を監視してください。\
+RPMが20%に達したら、スロットルをIDLE位置 [RShift + Home] まで進めろ。\
 \
-RPMが20%に達するとSECコーションライトが消灯し、55%でJFSが自動的に停止します。\
-JFSライトが消灯し、JFSスイッチが自動的にOFFポジションへ戻るはずです。\
+これによりエンジンイグナイターへ電力が供給され、燃料流量が発生する。RPMが上昇するにつれて、機体の振動とFan Turbine Inlet Temperature(FTIT)の上昇を確認できるはずだ。エンジン始動シーケンスが継続する間、計器盤右側でこれらを監視しろ。\
 \
-RPMが60%に達するとスタンバイジェネレーターがオンラインになり、ENGINEワーニングライトが消灯します。\
-数秒後、メインジェネレーターがオンラインになり、スタンバイジェネレーターがオフラインになります。\
-これで機体の全システムがジェネレーターからの電力で稼働し、電源を投入する準備が整いました。\
+RPM20%でSEC注意灯が消灯し、55%でJFSが自動停止する。JFSライトが消灯し、JFSスイッチが自動的にOFF位置へ戻ることを確認しろ。\
 \
-エンジン始動後の正常な指示値は以下の通りです。\
-- HYD/OIL PRESS warning light - 消灯\
-- FUEL FLOW - 700-1700pph\
-- OIL pressure - 15psi(最小)\
-- NOZ POS - 94%以上\
-- RPM - 62-80%\
-- FTIT - 650°C以下\
-- HYD PRESS A & B - 2850-3250psi\
-- 計器盤でこれらを確認し、[SPACEBAR]を押して続行してください。",
+RPM60%でスタンバイ・ジェネレーターがオンラインになり、ENGINE警告灯が消灯する。数秒後、メイン・ジェネレーターがオンラインになり、スタンバイ・ジェネレーターはオフラインになる。これで機体全システムはジェネレーターから給電され、電源投入可能な状態になる。\
+\
+エンジン始動後の正常値は以下のとおりだ。\
+\
+- HYD/OIL PRESS警告灯 – 消灯\
+- FUEL FLOW – 700～1,700pph\
+- OIL圧 – 15psi以上\
+- NOZ POS – 94%以上\
+- RPM – 62～80%\
+- FTIT – 650°C以下\
+- HYD PRESS A & B – 2,850～3,250psi\
+\
+計器盤でこれらを確認し、[SPACEBAR]を押して続行しろ。",
 	["DictKey_UnitName_34"] = "Maykop Static #006",
 	["DictKey_WptName_20"] = "",
 	["DictKey_UnitName_317"] = "Sukhumi Static #003",
 	["DictKey_GroupName_262"] = "Gudauta Static #017",
 	["DictKey_GroupName_168"] = "Maykop Static #060",
-	["DictKey_ActionText_1145"] = "同じパネルのスイッチのすぐ下にある黄色いFLCS RLY ライトが点灯していることを確認してください。これはFlight Control Computer’s fault monitoring system（フライトコントロール障害監視システム）が作動していることを示します。\
+	["DictKey_ActionText_1145"] = "同じパネルのスイッチ直下にあるアンバーのFLCS RLYライトが点灯していることを確認しろ。これはFlight Control Computerの故障監視システムが作動していることを確認するチェックだ。\
 \
-スペースバーを押すと次に進みます。",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_GroupName_271"] = "Gudauta Static #021",
 	["DictKey_GroupName_1090"] = "Airpower Demo Target #001",
 	["DictKey_UnitName_526"] = "Kutaisi Static #007",
@@ -381,17 +344,15 @@ RPMが60%に達するとスタンバイジェネレーターがオンライン�
 	["DictKey_UnitName_733"] = "Pilot #057",
 	["DictKey_UnitName_754"] = "- Player",
 	["DictKey_GroupName_156"] = "Maykop Static #056",
-	["DictKey_ActionText_1210"] = "最後は、緊急電源ユニットのチェックです。\
-このチェックは緊急時にEPU電源が利用可能かを確認します。このテストは必要に応じて離陸直前まで遅らせてもかまいません。\
+	["DictKey_ActionText_1210"] = "最後にEmergency Power Unitをチェックする。このチェックでは、緊急時にEPUの電力を使用できることを確認する。必要なら離陸直前まで遅らせてもよい。\
 \
-まず、EPU燃料計の値が95-102％の範囲であることを確認します。\
-（コーションパネル右下）\
+まず、EPU Fuel量が95～102%を示していることを確認しろ。\
 \
-次に、OXYGENを100％に設定します。\
+次に、OXYGENを100%にセットしろ。\
 \
-そして、ブレーキ [W]を押したまま、エンジンRPMを通常アイドル時よりも10％上げます。\
+その後、ブレーキ [W] を踏み続けたまま、エンジンRPMを通常アイドルより10%高くしろ。\
 \
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_WptName_44"] = "",
 	["DictKey_WptName_524"] = "",
 	["DictKey_WptName_1119"] = "",
@@ -413,17 +374,13 @@ RPMが60%に達するとスタンバイジェネレーターがオンライン�
 	["DictKey_GroupName_453"] = "Sukhumi Static #025",
 	["DictKey_GroupName_15"] = "Maykop Static #018",
 	["DictKey_WptName_56"] = "",
-	["DictKey_ActionText_1204"] = "次に、トリムシステムが正常に機能しているかを確認します。\
-TRIM/AP DISC スイッチを DISC位置にしてください。\
+	["DictKey_ActionText_1204"] = "次に、トリムシステムが正常に機能することを確認する。\
 \
-操縦桿のトリムハットで、ピッチとロールのトリム操作を行ってください。\
-動翼は動かず、トリムホイールもインジケーターも動かないはずです。\
-左トリム 　[RCtrl+,]\
-機首下げトリム　[RCtrl+;]\
-機首揚げトリム　[RCtrl+.,]\
-右トリム　[RCtrl+/]\
+TRIM/AP DISCスイッチをDISCにセットしろ。\
 \
-スペースバーを押すと次に進みます",
+操縦桿のトリムハットを使い、ピッチとロールの両方をトリムしろ。このとき操縦翼面は動かず、TRIMホイールやインジケーターにも動きがないはずだ。\
+\
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_WptName_878"] = "",
 	["DictKey_WptName_113"] = "",
 	["DictKey_UnitName_653"] = "Pilot #070",
@@ -486,13 +443,13 @@ TRIM/AP DISC スイッチを DISC位置にしてください。\
 	["DictKey_UnitName_290"] = "Sukhumi Static #003",
 	["DictKey_GroupName_30"] = "Maykop Static #014",
 	["DictKey_WptName_656"] = "",
-	["DictKey_ActionText_1178"] = "それでは、MAL & IND LTS ボタンを押してください。\
+	["DictKey_ActionText_1178"] = "次に、MAL & IND LTSボタンを押せ。\
 \
-ボタンを押すと、コクピットの全てのウォーニング、コーション、インジケーターライトが点灯します。\
+ボタンを押している間、コックピット内のすべての警告灯、注意灯、表示灯が点灯するはずだ。\
 \
-音声メッセージシステム（VMS)の音声警告は優先順位の高いものから再生されます。（例：PULLUP, ALTITUDE, WARNINGなど）短いLG警告音がウォーニングやコーションの文言の前に鳴ります。\
+Voice Message System(VMS)の音声警報が優先順位順(PULLUP, ALTITUDE, WARNINGなど)に再生されるはずだ。WARNINGおよびCAUTIONの音声より前に、短いLG警報ホーンが鳴る。\
 \
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_UnitName_269"] = "Gudauta Static #019",
 	["DictKey_GroupName_404"] = "Aerobatics #002",
 	["DictKey_UnitName_547"] = "Kutaisi Static #014",
@@ -523,11 +480,11 @@ TRIM/AP DISC スイッチを DISC位置にしてください。\
 	["DictKey_WptName_494"] = "",
 	["DictKey_WptName_848"] = "",
 	["DictKey_UnitName_1015"] = "Kutaisi FOB Static #008",
-	["DictKey_ActionText_1226"] = "PROBE HEATコーションライトが１秒間に3-5回点滅します。これが起こらない場合はプローブヒーター監視システムが作動していません。\
+	["DictKey_ActionText_1226"] = "PROBE HEAT注意灯が1秒間に3～5回点滅するはずだ。点滅しない場合、プローブヒート監視システムは正常に作動していない。\
 \
-PROBE HEATスイッチをOFFに戻して下さい。\
+PROBE HEATスイッチをOFF位置に戻せ。\
 \
-スペースバーを押すと次に進みます。",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_WptName_47"] = "",
 	["DictKey_WptName_962"] = "",
 	["DictKey_ActionText_1240"] = "",
@@ -541,16 +498,15 @@ PROBE HEATスイッチをOFFに戻して下さい。\
 	["DictKey_UnitName_904"] = "Vaziani Static #010",
 	["DictKey_GroupName_223"] = "Gudauta Static #007",
 	["DictKey_UnitName_835"] = "Tbilisi Static #014",
-	["DictKey_ActionText_1208"] = "次は、マニュアル ピッチ オーバーライドシステムが正常に動作してるかをチェックします。\
+	["DictKey_ActionText_1208"] = "次に、Manual Pitch Overrideシステムが正常に作動することを確認する。\
 \
-操縦桿を完全に前に倒して、その位置で保持することから始めます。水平尾翼が下に傾くはずです。\
+まず操縦桿をいっぱいまで前に倒し、その位置で保持しろ。水平尾翼が下方へ偏向するはずだ。\
 \
-次に、MPOスイッチをOVRD位置にして保持します。\
-水平尾翼のトレイリングエッジがさらに下に下がるのを確認してください。\
+次に、MPOスイッチをOVRDにセットして保持しろ。水平尾翼後縁がさらに下方へ動くことを確認しろ。\
 \
-操縦桿とMPOスイッチを開放し、水平尾翼が元の位置に戻るのを確認します。\
+操縦桿とMPOスイッチを離し、水平尾翼が元の位置へ戻ることを確認しろ。\
 \
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_WptName_563"] = "",
 	["DictKey_WptName_977"] = "",
 	["DictKey_WptName_9"] = "",
@@ -574,29 +530,26 @@ PROBE HEATスイッチをOFFに戻して下さい。\
 	["DictKey_UnitName_445"] = "Sukhumi Static #004",
 	["DictKey_WptName_279"] = "",
 	["DictKey_UnitName_1098"] = "Unit #015",
-	["DictKey_ActionText_1206"] = "では、TRIM/AP DISCスイッチをNORM位置にしてください。\
+	["DictKey_ActionText_1206"] = "TRIM/AP DISCスイッチをNORM位置へ戻せ。\
 \
-再び操縦桿のトリムハットでピッチとロールのトリム操作を行ってください。\
-動翼とトリムインジケーターが動くはずです。\
+再び操縦桿のトリムハットを使い、ピッチとロールの両方をトリムしろ。今度は操縦翼面とトリムインジケーターが動くはずだ。\
 \
-ピッチとロールのトリムを中央に戻し、ヨートリム ノブでヨーのトリムを中央にしてください。\
+ピッチとロールのトリムを中央に戻し、YAW TRIMノブを使ってヨーのトリムも確認して中央へ戻せ。\
 \
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_WptName_437"] = "",
 	["DictKey_WptName_530"] = "",
 	["DictKey_WptName_758"] = "",
 	["DictKey_WptName_947"] = "",
 	["DictKey_UnitName_1107"] = "Unit #018",
 	["DictKey_WptName_806"] = "",
-	["DictKey_ActionText_1164"] = " MAIN PWRスイッチのすぐ外側にEPUパネルがあります。\
-ELECパネルのCAUTION RESTボタンの右側にある EPU GEN と EPU PMGライトが消灯していることを確認してください。\
+	["DictKey_ActionText_1164"] = "MAIN PWRスイッチ外側のEPUパネルで、EPU GENおよびEPU PMGライトが消灯していることを確認しろ。\
 \
-どちらかのライトが点灯している場合、EPU起動の条件が整っている事を示します。地上員によってEPU安全ピンが外されると、EPUが起動して危険な状態になる可能性があります。\
+いずれかが点灯している場合、EPU作動条件を満たしていることを示す。地上員がEPUセーフティピンを外している場合、EPUが作動して危険な状態になる可能性がある。\
 \
-もしライトが点灯している場合、MAIN PWRスイッチをOFFにして、機体を停止させてください。（ミッションをリスタートして下さい。）\
-ただし、この状態は、始動手順の途中で迷ってよっぽどのことをしていない無い限り起こらないでしょう。\
+ライトが点灯している場合はMAIN PWRスイッチをOFFにし、機体を使用中止としてミッションを再開始しろ。ただし、ここまでの手順を大きく誤っていない限り、その可能性は極めて低い。\
 \
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_UnitName_287"] = "Sukhumi Static #002",
 	["DictKey_UnitName_841"] = "Senaki Static #001",
 	["DictKey_WptName_243"] = "",
@@ -622,17 +575,17 @@ ELECパネルのCAUTION RESTボタンの右側にある EPU GEN と EPU PMGラ�
 	["DictKey_WptName_712"] = "",
 	["DictKey_GroupName_48"] = "Maykop Static #019",
 	["DictKey_GroupName_153"] = "Maykop Static #054",
-	["DictKey_ActionText_1202"] = "次に、デジタルバックアップソフトウェアのチェックを行いましょう。これは本来のFLCSソフトウェアに不具合が発生した場合に使用されます。\
+	["DictKey_ActionText_1202"] = "次に、デジタル・バックアップ・ソフトウェアの作動を確認する。これはプライマリFLCSソフトウェアに問題が生じた場合に使用する。\
 \
-まず、DIGITAL BACKUPスイッチをBACKUP位置にします。\
+まず、DIGITAL BACKUPスイッチをBACKUPにセットしろ。\
 \
-DBU ONウォーニングライトが点灯し、コントローラー操作を請け負います。全ての動翼が正常に応答するはずです。\
+DBU ON警告灯が点灯することを確認し、操縦装置を操作しろ。すべての操縦翼面が正常に応答するはずだ。\
 \
-それでは、DIGITAL BACKUPスイッチをOFFに戻してください。\
+次に、DIGITAL BACKUPスイッチをOFFに戻せ。\
 \
-DBU ONウォーニングライトが消灯したことを確認してください。\
+DBU ON警告灯が消灯することを確認しろ。\
 \
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_UnitName_1069"] = "Gudauta Static #019",
 	["DictKey_GroupName_310"] = "Sukhumi Static #010",
 	["DictKey_GroupName_60"] = "Maykop Static #024",
@@ -718,17 +671,17 @@ DBU ONウォーニングライトが消灯したことを確認してくださ�
 	["DictKey_GroupName_138"] = "Maykop Static #035",
 	["DictKey_UnitName_299"] = "Sukhumi Static #006",
 	["DictKey_WptName_757"] = "",
-	["DictKey_ActionText_1166"] = "次に、エンジン始動に備えてキャノピーを閉めましょう。これはタキシングまで遅らせても構いません。今回は騒音を減らすために閉じてください。\
+	["DictKey_ActionText_1166"] = "次に、エンジン始動に備えてキャノピーを閉じる。必要ならタキシングまで遅らせてもよいが、ここでは騒音を抑えるため今閉じる。\
 \
- [LCTRL + C] でキャノピーが閉じます。完全に閉じたら、左AUXコンソールの横にある黄色いキャノピーハンドルをクリックしてロックしてください。\
+キーボードコマンド [LCtrl + C] でキャノピーを閉じろ。完全に閉じたら、黄色のCanopy Handleをクリックしてロックしろ。\
 \
-アイブロウにあるキャノピー ウォーニングライトが消えていることを確認してください。\
+右側アイブロウのCANOPY警告灯が消灯したことを確認しろ。\
 \
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_WptName_551"] = "",
 	["DictKey_WptName_1019"] = "",
 	["DictKey_GroupName_229"] = "Gudauta Static #010",
-	["DictKey_sortie_5"] = "Aircraft Startup",
+	["DictKey_sortie_5"] = "機体始動",
 	["DictKey_ActionText_1216"] = "",
 	["DictKey_GroupName_96"] = "Maykop Static #032",
 	["DictKey_UnitName_717"] = "Pilot #083",
@@ -746,9 +699,9 @@ DBU ONウォーニングライトが消灯したことを確認してくださ�
 	["DictKey_WptName_1028"] = "",
 	["DictKey_WptName_731"] = "",
 	["DictKey_WptName_845"] = "",
-	["DictKey_ActionText_1172"] = "発電機から電力が供給されるようになったので、マスターテストパネルで簡単なテストを３つ行います。\
+	["DictKey_ActionText_1172"] = "ジェネレーターから給電されるようになったので、Master Test Panelで3つの簡単なテストを行う。\
 \
-PROBE HEATスイッチをPROBE HEATの位置にします。",
+PROBE HEATスイッチをPROBE HEATにセットしろ。",
 	["DictKey_UnitName_734"] = "Airpower Demo #004",
 	["DictKey_UnitName_973"] = "Kobuleti FOB Static #003",
 	["DictKey_WptName_321"] = "",
@@ -826,16 +779,16 @@ PROBE HEATスイッチをPROBE HEATの位置にします。",
 	["DictKey_UnitName_1108"] = "Unit #017",
 	["DictKey_GroupName_319"] = "Sukhumi Static #013",
 	["DictKey_GroupName_108"] = "Maykop Static #048",
-	["DictKey_ActionText_1212"] = " EPU/GEN TEST スイッチを EPU/GEN の位置にして保持します。\
+	["DictKey_ActionText_1212"] = "EPU/GEN TESTスイッチをEPU/GENにセットし、その位置で保持しろ。\
 \
-次のライト類をチェックします。\
+以下のライトを確認しろ。\
 \
-EPU AIR ライト – ON\
-EPU GEN と EPU PMG ライト - OFF (これはテスト開始時に一瞬だけONになります。）\
-FLCS PWR ライト - ON\
-EPU run ライト - ON （最低5秒間）\
+EPU AIRライト – 点灯\
+EPU GENおよびEPU PMGライト – 消灯(テスト開始時に一瞬点灯する場合がある)\
+FLCS PWRライト – 点灯\
+EPU runライト – 最低5秒間点灯\
 \
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_ActionText_1151"] = "",
 	["DictKey_GroupName_18"] = "Maykop Static #017",
 	["DictKey_UnitName_151"] = "Maykop Static #053",
@@ -861,11 +814,11 @@ EPU run ライト - ON （最低5秒間）\
 	["DictKey_UnitName_239"] = "Gudauta Static #002",
 	["DictKey_UnitName_538"] = "Kutaisi Static #011",
 	["DictKey_ActionText_1228"] = "",
-	["DictKey_ActionText_1196"] = "では、ENG CONTスイッチをPRIに戻してカバーを下げて下さい。\
+	["DictKey_ActionText_1196"] = "次に、ENG CONTスイッチをPRIへ戻し、スイッチガードを下ろせ。\
 \
-SECコーションライトが消灯し、ノズルポジションが94％以上に戻ることを確認してください。\
+SEC注意灯が消灯し、ノズル位置が94%以上へ戻ることを確認しろ。\
 \
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_WptName_327"] = "",
 	["DictKey_WptName_401"] = "",
 	["DictKey_WptName_1055"] = "",
@@ -882,71 +835,68 @@ SECコーションライトが消灯し、ノズルポジションが94％以上
 	["DictKey_WptName_285"] = "",
 	["DictKey_UnitName_1021"] = "Kutaisi FOB Static #010",
 	["DictKey_WptName_491"] = "",
-	["DictKey_ActionText_1141"] = "Viperのスタートアップトレーニングレッスンへようこそ\
+	["DictKey_ActionText_1141"] = "F-16C Viperの始動訓練へようこそ。\
 \
-ミッションによっては、Viperがコールド＆ダーク状態で、あなたが機体に命を吹き込まなくてはならない場合もあるでしょう。\
-これはマニュアルに記載されているように長い手順がかかりますので、オートスタート機能 [LWin + Home]で始動することも可能です。\
+一部のミッションでは、コールド＆ダーク状態のViperを自ら始動する必要がある。マニュアルに記載されているとおり、この手順はかなり長いが、オートスタート機能 [LWin + Home] を使用することもできる。\
 \
-しかし、このレッスンでは、完全な始動手順を紹介します。\
+ただし、この訓練では完全な始動手順を確認する。\
 \
-開始する準備ができたらスペースバーを押して下さい。\
-",
+準備ができたら[SPACEBAR]を押して開始しろ。",
 	["DictKey_UnitName_94"] = "Maykop Static #045",
 	["DictKey_UnitName_994"] = "Kutaisi FOB Static #001",
 	["DictKey_WptName_756"] = "",
 	["DictKey_UnitName_25"] = "Maykop Static #011",
-	["DictKey_ActionText_1170"] = "At 20 percent RPM, advance the throttle to the IDLE position [RShift + Home].\
+	["DictKey_ActionText_1170"] = "RPMが20%に達したら、スロットルをIDLE位置 [RShift + Home] まで進めろ。\
 \
-This provides power to the engine ignitors and starts fuel flow.  You should note airframe vibration and an increased Fan Turbine Inlet Temperature (FTIT) as the RPM increases.  Monitor those on the right side of the instrument panel as the engine start cycle continues.\
+これによりエンジンイグナイターへ電力が供給され、燃料流量が発生する。RPMが上昇するにつれて、機体の振動とFan Turbine Inlet Temperature(FTIT)の上昇を確認できるはずだ。エンジン始動シーケンスが継続する間、計器盤右側でこれらを監視しろ。\
 \
-The SEC caution light goes out at 20 percent RPM and the JFS automatically shuts off at 55 percent.  The JFS light should go out and the JFS switch should return to the OFF position automatically.\
+RPM20%でSEC注意灯が消灯し、55%でJFSが自動停止する。JFSライトが消灯し、JFSスイッチが自動的にOFF位置へ戻ることを確認しろ。\
 \
-At 60 percent RPM, the standby generator comes online and the ENGINE warning light goes out.  A few seconds later, the main generator comes online, and the standby generator goes offline. All aircraft systems are now running off electricity from the generator and are ready to be powered up.\
+RPM60%でスタンバイ・ジェネレーターがオンラインになり、ENGINE警告灯が消灯する。数秒後、メイン・ジェネレーターがオンラインになり、スタンバイ・ジェネレーターはオフラインになる。これで機体全システムはジェネレーターから給電され、電源投入可能な状態になる。\
 \
-Normal indications after engine start are:\
+エンジン始動後の正常値は以下のとおりだ。\
 \
-- HYD/OIL PRESS warning light – Off\
-- FUEL FLOW – 700-1700 pph\
-- OIL pressure – 15 psi (minimum)\
-- NOZ POS – Greater than 94 percent\
-- RPM – 62-80 percent\
-- FTIT – 650⁰ C or less\
-- HYD PRESS A & B – 2850-3250 psi\
+- HYD/OIL PRESS警告灯 – 消灯\
+- FUEL FLOW – 700～1,700pph\
+- OIL圧 – 15psi以上\
+- NOZ POS – 94%以上\
+- RPM – 62～80%\
+- FTIT – 650°C以下\
+- HYD PRESS A & B – 2,850～3,250psi\
 \
-Verify those on the instrument panel and press [SPACEBAR] to continue.",
+計器盤でこれらを確認し、[SPACEBAR]を押して続行しろ。",
 	["DictKey_WptName_941"] = "",
 	["DictKey_UnitName_716"] = "Pilot #084",
 	["DictKey_UnitName_302"] = "Sukhumi Static #007",
 	["DictKey_UnitName_257"] = "Gudauta Static #015",
 	["DictKey_UnitName_1036"] = "Gudauta Static #001",
 	["DictKey_UnitName_163"] = "Maykop Static #058",
-	["DictKey_ActionText_1182"] = "次に、 EGI/INSノブを トALIGN NORM 位置にします。\
+	["DictKey_ActionText_1182"] = "次に、EGI/INSノブをALIGNにセットしろ。\
 \
-これにより、  EGI/INS リングレーザージャイロナビゲーションシステムのアライメントを開始します。\
-ノーマルアライメントには、機体が静止した状態で約4分間かかります。\
+これによりEGI/INSリングレーザー・ジャイロ航法システムのアライメントが開始される。機体を静止させたままなら、通常のアライメントには約4分かかる。\
 \
-タキシング前にはこのノブをNAV位置にしておく必要があります。\
+タキシング前にノブをNAVへセットしろ。\
 \
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_ActionText_1234"] = "",
 	["DictKey_GroupName_906"] = "Soganlug Static #001",
-	["DictKey_ActionText_1214"] = "これで終わりです！　INSのアライメントが完了し、EGI/INS ノブをNAV位置にすれば、タキシングを開始できます。\
+	["DictKey_ActionText_1214"] = "以上だ！ INSアライメントが完了し、EGI/INSノブをNAVにセットすればタキシングを開始できる。\
 \
-地上での時間を利用して、アビオニクスシステムをアサイメントされたミッションに合わせてセットアップします。考慮すべき事項としては、SMSページとプロファイル、無線チャンネルと周波数、ナビゲーションデータ、ビンゴフューエル設定、ALOW設定や、その他ミッションに利用可能なシステムなどです。\
+地上での待機時間を使い、割り当てられたミッションに合わせてアビオニクスを設定しろ。SMSページとプロファイル、無線チャンネルと周波数、航法データ、Bingo燃料設定、ALOW設定、その他ミッションに必要なシステムを確認しろ。\
 \
-この事項に関しては次のタキシングと離陸のレッスンでも扱います。\
+次の訓練では、ここからタキシングと離陸を扱う。\
 \
-ESCキーを押してミッションを終了するか、自由に航空機を探索してください。",
+ここでESCキーを押してミッションを終了するか、そのまま機体を自由に確認してもよい。",
 	["DictKey_GroupName_54"] = "Maykop Static #004",
 	["DictKey_UnitName_1124"] = "Sochi Static #005",
 	["DictKey_GroupName_313"] = "Sukhumi Static #011",
 	["DictKey_GroupName_1083"] = "Airpower Demo Target #004",
 	["DictKey_GroupName_87"] = "Maykop Static #036",
-	["DictKey_ActionText_1186"] = "３つのホイールダウンライトがグリーンに点灯しているか確認してください。これで着陸装置が下りていてロックされている事と、位置検出センサーが適切に機能していることを確認できます。\
+	["DictKey_ActionText_1186"] = "3つすべてのWheels Downライトが緑色に点灯していることを確認しろ。これによりギアがダウンロックされ、位置検出用マイクロスイッチが正常に作動していることを確認できる。\
 \
-ここにいる間に、スロットルにあるスイッチでスピードブレーキを開 [LShift + B]、閉[LCtrl +B]して、目視と、スピードブレーキインジケーター（左AUXパネル）で正しく動くか確認してください。\
+その位置で、スロットルのスイッチを使ってスピードブレーキを開 [LShift + B]、その後閉 [LCtrl + B] へ動かせ。目視で確認し、スピードブレーキ・インジケーターも監視しろ。\
 \
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_WptName_128"] = "",
 	["DictKey_GroupName_447"] = "Sukhumi Static #023",
 	["DictKey_WptName_566"] = "",
@@ -975,24 +925,20 @@ ESCキーを押してミッションを終了するか、自由に航空機を�
 	["DictKey_WptName_470"] = "",
 	["DictKey_ActionText_1246"] = "",
 	["DictKey_UnitName_308"] = "Sukhumi Static #009",
-	["DictKey_ActionText_1180"] = "今から、システムを立ち上げて INSのアライメントを行います。これは実際にやってみると簡単です。\
+	["DictKey_ActionText_1180"] = "次に各システムを起動し、INSアライメントを開始する。見た目ほど難しくはない。\
 \
-最初に、アビオニクス電源（Avionics power）パネルのスイッチを全てONにします。\
+まず、Avionics Powerパネルの全スイッチをONにしろ。各スイッチは順に以下へ電力を供給する。\
 \
-各スイッチの電力供給先：\
+モジュラー・ミッション・コンピューター(MMC)。\
+兵装ステーション(ST STA)。\
+2基のMFD。\
+Upfront Controls(UFC)。\
+GPSレシーバー。\
+データリンク(DL)。\
 \
-MMC.：modular mission computerへの電力供給\
-ST STA.：store stationsへの電力供給\
-MFD. :MFDへの電力供給\
-UFC.：upfront controlsへの電力供給\
-GPS. :GPS受信機への電力供給\
-DL.：data linkへの電力供給\
+Map Powerスイッチもあるが、Block 50 Viperでは使用しない。\
 \
-MAP電源スイッチもありますが、Block50Viperでは使用されません\
-\
-もし、HUDの表示が見えない場合は、HUDのすぐ下のUFCの左にあるICPパネルのSYMダイアルを回して文字の明るさを調節してください。\
-\
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_GroupName_259"] = "Gudauta Static #016",
 	["DictKey_ActionText_1252"] = "",
 	["DictKey_WptName_518"] = "",
@@ -1024,30 +970,29 @@ MAP電源スイッチもありますが、Block50Viperでは使用されませ�
 	["DictKey_UnitName_1105"] = "Unit #020",
 	["DictKey_WptName_761"] = "",
 	["DictKey_WptName_409"] = "",
-	["DictKey_ActionText_1184"] = "INSがアライメントで忙しい間に、コクピットの残りの設定とチェックを済ませましょう。\
+	["DictKey_ActionText_1184"] = "INSのアライメント中に、残りのコックピット設定とチェックを完了する。\
 \
-最初に、C&I ノブを UFC 位置にします。\
-これによって、主な通信、ナビゲーション、識別機能の管理、設定がUFC（アップフロントコントローラー）から行えるようになります。",
-	["DictKey_ActionText_1200"] = "次に、燃料計システムのテストを行います。これはFUEL QUANTITYノブの位置を変えて、各タンクの燃料残量をみることで確認できます。\
+まず、C&IノブをUFC位置にセットしろ。これにより、主要な通信、航法、識別機能をUpfront Controlsから操作できるようになる。",
+	["DictKey_ActionText_1200"] = "次に、燃料量表示システムをテストする。FUEL QUANTITYノブを各位置に切り替え、燃料量計の表示状態を確認する。\
 \
-最初にFUEL QUANTITYノブの位置をTESTに保持します。\
-燃料計で、FR, ALの針は2000（+-100）ポンドを指し、TOTALは6000（+-100）ポンドとなり、FWD と AFT FUEL LOWコーションが点灯するはずです。\
+まず、FUEL QUANTITYノブをTESTにセットしろ。\
 \
-FUEL QTYノブを各位置に動かしてください。全ての位置で、燃料残量は実際の搭載量と一致するはずです。\
-チェックが完了したら、FUEL QTYをNORMの位置に戻してください。\
+燃料量計では、FRおよびAL指針が2,000(±100)lbsを示し、トータライザーが6,000(±100)lbsを示すはずだ。FWDおよびAFT FUEL LOW注意灯も点灯する。\
 \
-スペースバーを押すと次に進みます",
+その他すべての位置での表示値は、機体の実際の燃料搭載量と一致するはずだ。チェック完了後、FUEL QTYノブをNORMへ戻せ。\
+\
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_UnitName_314"] = "Sukhumi Static #002",
 	["DictKey_UnitName_478"] = "Tbilisi Static #001",
-	["DictKey_ActionText_1190"] = "センサー電源パネルにある３つのスイッチをONにします。\
+	["DictKey_ActionText_1190"] = "Sensor Powerパネルで以下の3つのスイッチをONにしろ。\
 \
-RIGHT HDPT スイッチ – ターゲティングポッドを搭載している場合はON\
-FCR スイッチ – FCR\
-RDR Alt スイッチ – RDR ALT\
+RIGHT HDPTスイッチ – ターゲティングポッド搭載時はON\
+FCRスイッチ – FCR\
+RDR Altスイッチ – RDR ALT\
 \
-レーダーとレーダ高度計のレーダー発信は航空機が空中に上がるまで禁止されていますので、これらのシステムの起動は離陸直前まで遅らせるべきでしょう。\
+レーダーおよびレーダー高度計の送信は離陸するまで抑止されるが、これらのシステムの起動は離陸直前まで遅らせてもよい。\
 \
-スペースバーを押すと次に進みます",
+[SPACEBAR]を押して続行しろ。",
 	["DictKey_UnitName_511"] = "Kutaisi Static #002",
 	["DictKey_UnitName_448"] = "Sukhumi Static #005",
 	["DictKey_UnitName_209"] = "Gudauta Static #028",
@@ -1070,13 +1015,11 @@ RDR Alt スイッチ – RDR ALT\
 	["DictKey_ActionText_1224"] = "",
 	["DictKey_UnitName_922"] = "Soganlug Static #006",
 	["DictKey_WptName_557"] = "",
-	["DictKey_ActionText_1192"] = "今から、航空機のシステムが正しく動作しているかを確認するための一連のチェックを行います。\
-セカンダリエンジンコントロール（SEC)モードでエンジン動作のチェックから始めます。このモードはエンジンに搭載されている燃料流量をコントロールするためのデジタルコンピューターが故障した場合に使用します。\
+	["DictKey_ActionText_1192"] = "ここからは、機体システムが正常に作動していることを確認する一連のチェックを行う。まず、Secondary Engine Control(SEC)モードでのエンジン作動を確認する。このモードは、エンジン燃料流量スケジュールを制御するエンジン搭載デジタルコンピューターが故障した場合に使用する。\
 \
-ます、ENG CONTのスイッチカバーを上げてから、 SEC.\
-の位置にします。\
+まず、スイッチガードを上げ、ENG CONTスイッチをSECにセットしろ。\
 \
-SECコーションライトが点灯し、エンジンRPMが安定していることを確認します。RPMは安定するまでに最大10％ほど低下するかもしれません。安定時のSECアイドルRPMはRPIよりも最大5％ほど低くなるかもしれません。\
+SEC注意灯が点灯し、エンジンRPMが安定することを確認しろ。安定するまでPRI時の値から最大10%低下する場合がある。SECで安定したアイドルRPMはPRI時より最大5%低くなる場合がある。\
 \
-スペースバーを押すと次に進みます。",
+[SPACEBAR]を押して続行しろ。",
 } -- end of dictionary
