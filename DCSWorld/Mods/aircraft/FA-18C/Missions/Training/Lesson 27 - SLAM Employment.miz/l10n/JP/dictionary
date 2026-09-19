@@ -1,0 +1,303 @@
+dictionary = 
+{
+	["DictKey_ActionText_98"] = "PB 14 TGT UFC を押してから…\
+\
+…PB 13 STEP を押し、STA2 のミッション表示を出してください。",
+	["DictKey_ActionText_29"] = "目標を外しました\
+\
+3 番目の目標へ向かってください。",
+	["DictKey_ActionText_43"] = "TGT 3撃破\
+\
+",
+	["DictKey_ActionText_53"] = "TGT Run 1 Done",
+	["DictKey_ActionText_66"] = "少なくとも 1 機の Backfire に命中しませんでした",
+	["DictKey_ActionText_120"] = "右 DDI で、まず PB 18 MENU を押してデータリンク表示を開き…\
+\
+次に PB 8 DL13 DSPL を押してください。",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_26"] = "失敗:",
+	["DictKey_ActionText_38"] = "JDAM発射 - F6",
+	["DictKey_ActionText_68"] = "Target Run 3 Info",
+	["DictKey_ActionText_23"] = "部分成功: 3 目標中 2 目標に命中しました。",
+	["DictKey_ActionText_122"] = "データリンクでは、チャンネル 002 がアクティブと表示されているはずです(PB 14の横)。",
+	["DictKey_ActionText_90"] = "次に、目標1(レーダーサイト)の目標座標を入力します。\
+\
+PB 12 SLAM DSPLY を押してから…\
+\
+…PB 4 MSN を押してください",
+	["DictKey_ActionText_116"] = "次に、データリンク用の兵器を選択するため、PB 1 WEP を押してから…\
+\
+…PB 5 を押してください。",
+	["DictKey_ActionText_30"] = "",
+	["DictKey_ActionText_78"] = "SLAM のデフォルト飛行プロファイルは MED(巡航高度 15,000 ft)です。\
+\
+PB 4 FLT を押して、飛行プロファイルを HIGH(35,000 ft)に設定してください",
+	["DictKey_ActionText_128"] = "STA 2 の SLAM が艦船目標に接近中。",
+	["DictKey_ActionText_11"] = "Bomb Away",
+	["DictKey_ActionText_110"] = "目標が射程内に入ったら、HSI で SLAM 目標(小さな三角形)と、射程内発射可能範囲(大きな円)を確認してください。\
+\
+TMR(HUD または SMS)がカウントダウンするのを確認してください。最大射程内に入ると、表示が IN RNG に変わります。\
+\
+ウエポンリリースボタンを押して SLAM を発射してください。",
+	["DictKey_ActionText_141"] = "残り 2 発の SLAM は同じ設定を行います。\
+\
+左 DDI で、STA 7 の SLAM が強調表示され、設定可能な状態になっているはずです。\
+\
+PB 12 で SLAM DSPLY を選択してください。",
+	["DictKey_ActionText_24"] = "目標に命中しませんでした。\
+",
+	["DictKey_ActionText_13"] = "Bomb Away",
+	["DictKey_ActionText_130"] = "SLAM がレーダーサイト目標に接近中。",
+	["DictKey_ActionText_64"] = "両方の Backfire を撃破",
+	["DictKey_ActionComment_31"] = "DictKey_ActionComment_31",
+	["DictKey_ActionText_104"] = "PB 19 RETURN を押してSMS表示へ戻り…\
+\
+…PB 13 STEP を 3 回切り替えてSTA 8(最も右のステーション)を表示してください。",
+	["DictKey_ActionText_22"] = "成功: 両方の訓練目標を攻撃しました。\
+\
+[ESC] キーを押して訓練を終了してください。",
+	["DictKey_ActionText_100"] = "目標2の設定および座標は以下のとおりです(強調表示およびナレーションはありません):\
+\
+HDG UNDFを選択(PB2)\
+\
+TGT UFCを選択(PB14)\
+\
+POSN\
+LAT\
+N 44°34'25.94\"\
+\
+LON\
+E 38°01'39.18\"\
+\
+ELEV\
+FEET\
+7\
+\
+完了したら [SPACEBAR] を押して続けてください。",
+	["DictKey_ActionText_20"] = "Radar not Hit",
+	["DictKey_ActionText_108"] = "SLAM の手順に集中するため、2 発の SLAM 発射は航空機を AP で飛行させて行います。\
+\
+中央 DDI の HSI で、WPT(PB 11)および AUTO(PB 16)を設定してください。\
+\
+UFC で AP、CPL、BALT を設定してください。(強調表示されません)\
+\
+完了し、飛行を開始する準備ができたら [SPACEBAR] を押してください。",
+	["DictKey_ActionText_106"] = "左 DDI で SLAM のアラインメント状態を確認してください。ALN QUAL 01 GOOD と表示されるはずです。そうでない場合は、少なくとも 02 GOOD になるまで待ってください。\
+\
+準備ができたら [SPACEBAR] を押してください。",
+	["DictKey_ActionText_139"] = "HSI で、PB 15 を押して SEQ をオフにしてください。\
+\
+PB 10 で DATA へ移動してください。\
+\
+PB 6 で A/C を選択し、次に PB 10 で DMS 形式を選択してください。\
+\
+PB 8 で WYP へ戻ってください。\
+\
+PB19 で Precise Data を設定してください。\
+\
+完了したら [SPACEBAR] を押してください。",
+	["DictKey_ActionText_180"] = "部分成功: 外した目標を確認して、もう一度試してください。\
+\
+\
+[ESC] キーを押して訓練を終了してください。",
+	["DictKey_ActionText_181"] = "",
+	["DictKey_ActionText_56"] = "ミサイル艇に着弾しました。",
+	["DictKey_ActionText_183"] = "ミサイル発射！",
+	["DictKey_ActionText_82"] = "STA 2 が選択されていること(左翼最外側パイロンが強調表示)を確認してから、PB 4 FLT を 2 回(x2)押し、飛行プロファイルを LOW(巡航高度 5,000 ft)に切り替えてください。",
+	["DictKey_ActionText_42"] = "TGT 2 撃破\
+\
+目標 3 への攻撃に備えてください",
+	["DictKey_ActionText_175"] = " ",
+	["DictKey_ActionText_34"] = "ロシアの OL-76 が損傷 - 攻撃規則違反なし。",
+	["DictKey_ActionText_45"] = "TGT 2 LP",
+	["DictKey_ActionText_157"] = "STA 3 に対して手順を繰り返してください(強調表示されません):\
+\
+- PB 5 MODE を押して TOO を選択します。\
+\
+- HOTAS の TDC ディプレスを再度使用して、目標位置をマークします。\
+\
+- 目標座標が左 DDI に表示されるはずです。\
+\
+完了したら、PB 19 RETURN を押して SMS 表示へ戻ってください。",
+	["DictKey_ActionText_143"] = "PB 7 を押して DL13 をオフにしてください",
+	["DictKey_ActionText_17"] = "Bomb Away",
+	["DictKey_ActionText_50"] = "DEBUG AAA Stop",
+	["DictKey_ActionText_86"] = "",
+	["DictKey_ActionText_76"] = "",
+	["DictKey_ActionText_161"] = "PB 1 WEP を押してから…\
+\
+…PB 3 を押して STA 7 の SLAM を選択してください。\
+",
+	["DictKey_ActionText_153"] = "PB 5 MODE を押して、ミッションモードを Pre-Planned(PP)から Target of Opportunity(TOO)へ変更してください。",
+	["DictKey_ActionText_176"] = " ",
+	["DictKey_ActionText_58"] = "ミサイル艇に着弾しませんでした。",
+	["DictKey_ActionText_32"] = "SLAM 残弾なし",
+	["DictKey_ActionText_167"] = "ウエポンリリースボタンでSTA 3のSLAMを発射してください。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_60"] = "Target run 3",
+	["DictKey_ActionComment_46"] = "",
+	["DictKey_ActionText_21"] = "目標を外しました\
+\
+",
+	["DictKey_ActionText_9"] = "Bomb Away",
+	["DictKey_ActionText_155"] = "HOTAS の TDC ディプレスを使用して、目標位置をマークしてください。\
+\
+TOO 目標座標が左 DDI に表示されるはずです。\
+\
+次に PB 13 STEP を押して STA 3 へ移ってください。",
+	["DictKey_ActionText_145"] = "UFC コントロールで DIST を選択し、1 5 ENT を入力してください(強調表示されません)。\
+\
+完了したら [SPACEBAR] を押してください。",
+	["DictKey_ActionText_102"] = "PB 19 RETURN を押してSMS表示へ戻り…\
+\
+…PB 13 STEP を切り替えてSTA 8(最も右のステーション)を表示してください。",
+	["DictKey_ActionText_62"] = "",
+	["DictKey_ActionText_135"] = "\
+\
+ノヴォロシースク海軍航空基地のエプロンにいる爆撃機を攻撃する命令を受けました。これはターゲット・オブ・オポチュニティ(TOO)です。通報された座標にマークポイントを設定し、TOO 目標として指定します。\
+\
+ATFLIR ポッドで結果を確認できる距離にいます。\
+\
+右 DDI で PB 18 MENU を押してから…\
+\
+…PB 6 FLIR を押してください。",
+	["DictKey_ActionText_137"] = "TOO モードを使用します。AP CPL は使用できません。\
+\
+UFC で AP を HSEL、BALT に設定してください。\
+\
+次に HDG バグを現在の機首方位へ設定してください。\
+\
+[SPACEBAR] を押して続けてください。",
+	["DictKey_ActionText_80"] = "表示左下付近で、FLT が HIGH、EFUZ が INST に設定されていることを確認してください。\
+\
+PB 13 STEP を押して次のステーション(STA 2)へ移ってください",
+	["DictKey_ActionComment_48"] = "",
+	["DictKey_subtitle_178"] = "STINGER 304、DARKSTAR: 新しい目標。ノヴォロシースク海軍航空基地の南西エプロンに、ミサイルを搭載中のTu-22M Backfireが2機いる。SLAMで攻撃せよ。",
+	["DictKey_ActionText_72"] = "左 DDI の PB 6 SLAM を押して電源を入れ、AGM-84E のアラインメントを開始してください。",
+	["DictKey_ActionText_37"] = "JDAM発射 - F6",
+	["DictKey_ActionText_159"] = "PB 13 STEP を押して STA 7 へ戻ってください。",
+	["DictKey_ActionText_70"] = "FA-18Cスタンドオフ対地攻撃ミサイル(SLAM)訓練へようこそ。\
+\
+あなたはウェイポイント 1 へ向けて、16,000 ft MSL を飛行中です。アクティブ・ポーズ中です。Master Arm は ON で、A/G モードが設定されています。\
+\
+特に指定がない限り、ほとんどの強調表示されたボタン操作および [SPACEBAR] 操作は、直ちにレッスンを次の手順へ進めます。初回は、レッスンを進める操作を行う前に、各指示を最後まで聞くことを推奨します。\
+\
+最初に、両方の兵器の初期設定と目標座標を設定します。\
+\
+続ける準備ができたら、[SPACEBAR] を押してください。",
+	["DictKey_ActionText_6"] = "このレッスンは海上で行われるため、HSI の MAP はオフになっています。また、状況認識を支援するため SEQ1 が有効になっています。\
+\
+HSI レンジスケールを 80 NM に設定してください - 強調表示されません。\
+\
+最後に、SLAM 運用を要する航空機のスタンドオフ距離を模擬するため、この図のとおり SA-2 SAM サイトが有効になっています。ただし、あなたを攻撃することはありません。(ミッション後半では、誤って SA-2 MEZ へ進入していないか SA 表示で確認できます。)\
+\
+続ける準備ができたら、[SPACEBAR] を押してください。",
+	["DictKey_ActionText_151"] = "PB 4 MSN を押してください。",
+	["DictKey_ActionText_74"] = "左 DDI の兵装搭載図は、ステーション 8(STA 8、右翼最外側パイロン)が選択されていることを示しています。表示中央のアラインメント状態を確認してください。\
+\
+PB 3 を押して EFUZ を INST に設定してください",
+	["DictKey_ActionText_114"] = "STA 8 の SLAM を発射した後、STA 2の SLAM は準備完了状態になっているはずです。\
+\
+これは IR/DL 射撃です。PB 7 DL 13 を押してください。",
+	["DictKey_subtitle_131"] = "",
+	["DictKey_ActionText_124"] = "現在 2 発の SLAM が飛行中で、それぞれの目標へ向かっています。STA 8 の SLAM は\"撃ち放し\"です。STA 2 の SLAM には終末誘導が必要です。\
+\
+HOTAS の SCS Right を使用して、右 DDI を SOI にしてください。\
+\
+IR 終末シーカーが有効になると(目標から 10 NM)、最終誘導にデータリンク映像表示を使用します。このミサイルが 10 NM の距離に達するまで数分かかります。\
+\
+DL 表示右上の Time To Signal(TTS)が、DL が有効になるまで秒単位でカウントダウンするのを確認してください。\
+",
+	["DictKey_sortie_5"] = "レッスン26 - SLAM運用",
+	["DictKey_ActionText_39"] = "",
+	["DictKey_ActionText_47"] = "TGT 1 LP",
+	["DictKey_ActionText_94"] = "PB 14 TGT UFCを押して、目標座標の入力を開始してください。",
+	["DictKey_subtitle_133"] = "STINGER 304、DARKSTAR: 新しい目標。ノヴォロシースク海軍航空基地の南西エプロンに、ミサイルを搭載中のTu-22M Backfireが2機いる。SLAMで攻撃せよ。",
+	["DictKey_ActionText_126"] = "IN RNGです。\
+\
+ウエポンリリースボタンを押して SLAM を発射してください。",
+	["DictKey_ActionText_84"] = "PB 13 STEP を押して STA 8 へ戻ってください。",
+	["DictKey_ActionText_40"] = "レーダーサイトに命中",
+	["DictKey_ActionText_192"] = "DL映像が有効になったら:\
+\
+必要に応じて視野を調整してください(RMFD PB 15 FOV を押して拡大/縮小)。\
+\
+TDC で終末照準を微調整してください。\
+\
+TDC をディプレス - 照準を目標上へ移動 - TDC をリリース。",
+	["DictKey_ActionText_92"] = "PB 2 HDG UNDF を押して、終末段階の機首方位を undefined に設定してください。(兵器は目標へ直線的に飛行します。)",
+	["DictKey_ActionText_149"] = "UFC で同じ操作を繰り返してください: DIST、1 5、ENT。(強調表示されません。)\
+\
+完了したら、PB 13 STEP をもう一度押して STA 7 へ戻ってください。",
+	["DictKey_ActionText_185"] = "(WPT 2 へ自動旋回中)",
+	["DictKey_ActionText_88"] = "次に、目標1(レーダーサイト)の目標座標を入力します。\
+\
+PB 12 SLAM DSPLY を押してから…\
+\
+…PB 4 MSN を押してください",
+	["DictKey_descriptionBlueTask_3"] = "AGM-84H SLAM は、地上目標および港内の艦船に対する精密攻撃用に設計された AGM-84 ミサイルの派生型です。慣性航法と GPS 航法を使用し、終末段階では IR 誘導を使用できます。目標への貫通力を高めるため、トマホーク・ミサイルの 211 kg 弾頭を使用します。IR終末シーカー使用時は、発射母機とのデータリンクを用いるため、ミサイル飛翔中にパイロットが着弾点を再指定できます。\
+\
+この訓練飛行では、AGM-84E を 2 発使用します。\
+\
+最初の目標は、精密な目標座標が用意されたレーダーサイトです。これは「撃ち放し」攻撃であり、ミサイルは発射後に目標へ向かいます。\
+\
+2 番目の目標は、ゲレンジーク港の岸壁に停泊している小型戦闘艦です。岸壁中央の精密座標が分かっており、ミサイルの初期目標点として使用します。ミサイルが目標に接近したら、IR シーカーとデータリンクを使用して着弾点を微調整します。\
+\
+この訓練を開始する前に、FA-18C の HOTAS 機能を把握しておく必要があります。\
+\
+DCS: FA-18C ガイドの SLAM の項も確認してください。FA-18C の GPS 誘導兵器プログラミング・レッスンは、この訓練飛行の前提条件です。\
+\
+基本的な HSI およびオートパイロット機能も把握しておく必要があります。指示では HSI による調整および各種オートパイロット設定を案内しますが、簡潔にするため強調表示はされません。\
+\
+この訓練は脅威の少ない環境で実施します。\
+\
+注: この訓練はあなたのペースで進められるよう設定されています。ほとんどの強調表示されたボタン操作および [SPACEBAR] 操作は、直ちにレッスンを次の手順へ進めます。初回は、レッスンを進める操作を行う前に、各指示を最後まで聞くことを推奨します。以降この訓練ミッションを使用する際は、強調表示されたボタンが現れ次第押すか、[SPACEBAR] が使用可能になり次第押すことで、慣れた部分を速やかに進めることができます。",
+	["DictKey_ActionText_49"] = "DEBUG AAA Start",
+	["DictKey_ActionText_177"] = "",
+	["DictKey_ActionText_163"] = "右 DDI で、先ほどと同様に DL 13 表示を開いてください。(強調表示されません: PB 18 MENU、次に PB 8 DL13 DSPL を押します)\
+\
+PB14 の横に 007 が表示されるはずです。(表示されない場合は、右 DDI の PB 14 を押し、UFC で CHNL、0 0 7、ENT を押してください。)\
+\
+これで以下の手順で爆撃機を攻撃する準備ができました:\
+- STA 7 の SLAM を発射します。\
+- 30 秒待機します。\
+- STA 2 を発射します。\
+\
+STA 7 の SLAM のシーカーが有効になったら、TDC を使用して TDC ディプレスを行い、目標を見つけて中央に合わせてください。\
+\
+最初の SLAM が爆発した後、右 DDI の PB 14 を押し、UFC で CHNL、0 0 3、ENT を押して STA 3 の SLAM の DL を有効にしてください。\
+\
+シーカーが有効になったら、TDC を使用して TDC ディプレスを行い、照準点を 2 機目の爆撃機へ調整してください。\
+\
+これらの手順を確認してください。飛行を続けて爆撃機を攻撃する準備ができたら、[SPACEBAR] を押してください。",
+	["DictKey_ActionText_182"] = "訓練失敗: ミスを確認して、もう一度試してください。\
+\
+\
+[ESC] キーを押して訓練を終了してください。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_118"] = "表示は SMS ページへ戻ります。\
+\
+この射撃にステアポイント(STP)を追加するには、PB 11 STP を押してください。(ウェイポイント 1 が SLAM のステアポイントとして追加されます)",
+	["DictKey_descriptionText_1"] = "このレッスンでは、スタンドオフ対地攻撃ミサイル(AGM-84E SLAM)の運用を学びます。\
+\
+この訓練ミッションを開始するには、F/A-18C - GPS兵器データ入力の訓練レッスンを完了している必要があります。",
+	["DictKey_ActionText_96"] = "目標1の座標は以下のとおりです(強調表示およびナレーションはありません):\
+\
+POSN\
+LAT\
+N 44°35'23.89\"\
+\
+LON\
+E 37°59'35.04\"\
+\
+ELEV\
+FEET\
+420\
+\
+完了したら [SPACEBAR] を押して続けてください。",
+	["DictKey_ActionText_165"] = "ウエポンリリースボタンで STA 7 の SLAM を発射してください。\
+\
+(その後、30 秒待機してください。)",
+	["DictKey_ActionText_173"] = "アクティブ・ポーズ中です",
+	["DictKey_ActionText_147"] = "STEP PB 13 で STA 3 へ移ってください。",
+} -- end of dictionary
