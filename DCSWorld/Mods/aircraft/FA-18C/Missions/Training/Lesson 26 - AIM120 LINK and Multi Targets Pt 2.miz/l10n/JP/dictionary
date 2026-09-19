@@ -1,0 +1,103 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "RAID 2 is down...etc",
+	["DictKey_ActionText_6"] = "お帰りなさい。現在はアクティブ・ポーズ中です。 A/P は ATTH に設定されています。\
+\
+レッスンのこのパートでは、先ほど学んだ複数ミサイル交戦の技術を使用します。あなたと僚機はともに AIM-120 を 6 発、AIM-9M を 2 発、AIM-7M を 2 発搭載しています。\
+\
+レーダーを 80 NM レンジへ戻してください……\
+\
+……次にノブを時計回りに回して HMD を有効にします。",
+	["DictKey_ActionText_24"] = "この要撃ではあなたがフライトリードです。任務は敵編隊の良好なレーダー像を得て、bogeyの一部を僚機に割り当て、残りと自ら交戦することです。あなたと僚機が同じ目標と交戦し、他の目標を未交戦のままにしないよう、要撃を管理します。以下のように実施します。\
+\
+続行するには [SPACEBAR] を押してください。",
+	["DictKey_ActionText_13"] = "Wingman Go",
+	["DictKey_ActionText_28"] = "80 NM 以内\
+\
+左 DDI の AZ/EL - EL SCALE (PB 5) を使用して、高度の異なる編隊を分離して表示します。\
+\
+右 DDI の TWS - RAID を使用して、編隊内の横方向の間隔を分離して表示します。\
+\
+僚機にボギーとの交戦を指示します。(HOTAS COMM 1; F1 - F1 - F3.)\
+\
+SA を確認して、僚機の目標を確認します。",
+	["DictKey_subtitle_8"] = "RAGIN 31 WIZARD: Missiles in the Air!",
+	["DictKey_sortie_5"] = "F/A-18C AIM-120複数目標攻撃とLINK-16の使用 (Pt.2)",
+	["DictKey_ActionText_16"] = "現在、僚機は LINK 16 経由で目標情報を提供していません。\
+\
+僚機を Link MEMBER に割り当てます。SA ディスプレイで僚機のシンボルに TDC を重ね、PB2 の MEMB3 を選択します。\
+\
+SA ディスプレイはこの図に似た表示になるはずです。\
+\
+完了したら、続行するため [SPACEBAR] を押してください。",
+	["DictKey_ActionText_19"] = "この要撃では、F/A-18 レーダーの Azimuth and Elevationモード(AZ/EL)を使用します。\
+\
+このモードを表示するには、左DDIで PB 18 を押して TAC ページオプションを表示し……\
+\
+……次に PB 20 AZ/EL を押します。",
+	["DictKey_ActionText_14"] = "HOTAS SCS AFT で SA (AMPCD)をアクティブディスプレイにし、E-2D および僚機の F/A-18C の味方シンボルが見えるまで PB8 でズームアウト/インします。これらのシンボルに TDC を重ね、ディスプレイ右下に表示される情報を確認します。\
+\
+続行の準備ができたら、[SPACEBAR] を押してください。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_22"] = "AZ/EL ディスプレイを確認してください。これは基本的に、機首から前方を見たボアサイトビューです。\
+\
+レーダーの視野(FOV)を示すボックスに注意してください。\
+\
+AZ/ELで目標を分離する際は、主に Elevation Scale (EL SCALE; PB 11)と Expand (EXP; PB 20)を使用します。\
+\
+EL SCALE は、水平方向のビュー(方位角)を維持したまま、垂直方向のビュー(仰角を段階表示)を広げます。\
+\
+EXPは通常のレーダーRAID機能と同様に作動し、L&S 目標を中心にします。\
+\
+このディスプレイを確認したら、[SPACEBAR] を押してください。",
+	["DictKey_descriptionBlueTask_3"] = "F/A-18C のレーダーと LINK-16 を使用して接近中の bogey を識別し、僚機に目標との交戦を割り当て、残る目標と自ら交戦します。",
+	["DictKey_ActionText_44"] = "80 NM 以遠 - SA / LINK を重点的に確認してください。\
+迎撃を開始します。SA には Link-16 のトラックが表示されます。WIZARD が BRA コールを開始します。必要に応じて針路を調整してください。\
+\
+80 NM 以内 - TWS RAID、AZ/EL、SA を重点的に確認。\
+この訓練では、それぞれ 2 機の BACKFIRE で構成される 2 個の敵編隊が分離して現れます。トラックがレーダーの探知範囲 (80 NM) に入ったら、ボギーの選別を開始してください。TWS には LEAD 編隊と TRAIL 編隊が表示されます。AZ/EL 表示には LOW 編隊と HIGH 編隊が表示されます。\
+\
+RIGHT 側の編隊が LEAD かつ LOW 編隊、LEFT 側の編隊が TRAIL かつ HIGH 編隊であることに注意してください。\
+\
+[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_30"] = "40 NM 以内へ接近中\
+\
+L&S トラックは、攻撃対象としている敵編隊内にあるはずです(そうでない場合は、UNDESIGを使用してその目標まで切り替えます)。\
+\
+その編隊内の 2 番目のトラックに TDC を重ね、(HOTAS TDC Enter) で DT2 トラックに設定します。\
+\
+(RAIDを終了することを忘れないでください)\
+\
+LAR 内に入ったら - 目標と交戦します。",
+	["DictKey_descriptionText_1"] = "パート2: Tu-22M Backfire 4機を相手に、FA-18Cを艦隊防空任務で運用します。",
+	["DictKey_ActionText_26"] = "OUTSIDE 80 NM\
+\
+Focus on SA Link tracks.\
+\
+Follow WIZARD BRA calls.",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_32"] = "MERGED:\
+\
+ACM へ切り替えてください。\
+\
+HMD でスキャン / SAで目標を確認。",
+	["DictKey_ActionText_34"] = "訓練を無事に完了し、空母への脅威を排除しました。\
+\
+まだ自機と僚機にミサイルが残っている場合は、この空域にいる他の敵目標と交戦するか、RTB してください。",
+	["DictKey_ActionText_11"] = "SB to Send Wingman",
+	["DictKey_ActionText_39"] = "",
+	["DictKey_ActionText_49"] = "40 NM 以内へ接近中 - TWS と HUD を重点的に確認\
+機動して AIM-120 で目標と交戦します。L&S と DT2 を切り替えて、2 つの目標と同時に交戦します。\
+\
+MERGED - ACM に切り替え、HUD と HMD を重点的に確認\
+WIZARD から merged のコールがあったら、主センサーは ACM モードのレーダーになります。LINK-16 のトラックも HMD 上に投影されます。視界を走査して敵対トラックを探し、交戦してください。\
+\
+上記の手順を見直し、迎撃の「流れ」を十分に理解してください。開始する準備ができたら、[SPACEBAR] を押してください。",
+	["DictKey_ActionText_54"] = "80 NM 以内 続き - ボギーの選別と目標の割り当てを重点的に行います。\
+\
+僚機に bandit との交戦を指示します (COMMSメニュー: F1 Flight…; F1 Engage…; F3 Bandits…)。僚機が目標をロックすると、その情報が LINK-16 経由で共有されます。SA には、僚機からロックした目標へ伸びる破線が表示されます。これでボギーの選別は完了です。自機はもう一方の編隊と交戦します。\
+\
+右 DDI / TWS 表示で、「自機が担当する」2機のボギーを L&S / DT2 としてロックします (前の訓練セクションで学んだとおりです)。\
+\
+[SPACEBAR] を押して続行してください。",
+} -- end of dictionary
