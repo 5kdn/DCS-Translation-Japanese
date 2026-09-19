@@ -87,9 +87,9 @@ dictionary =
     ["DictKey_GroupName_87"] = "Static Bulk carrier Handy Wind-1",
     ["DictKey_ActionText_164"] = "イギリス上空でのフリーフライト。\
 \
-脅威はありません。\
+脅威はない。\
 \
-自由に飛行することも、飛行計画に沿って飛行することもできます(所要時間約15分)。",
+自由に飛行することも、飛行計画に沿って飛行することもできる(所要時間約15分)。",
     ["DictKey_UnitName_28"] = "Static Mark Flag Red-6-1",
     ["DictKey_WptName_75"] = "",
     ["DictKey_WptName_71"] = "",

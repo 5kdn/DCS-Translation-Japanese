@@ -172,9 +172,9 @@ dictionary =
     ["DictKey_GroupName_87"] = "Static Bulk carrier Handy Wind-1",
     ["DictKey_ActionText_164"] = "フランス上空でのフリーフライト。\
 \
-脅威はありません。\
+脅威はない。\
 \
-自由に飛行することも、飛行計画に沿って飛行することもできます(所要時間約25分)。",
+自由に飛行することも、飛行計画に沿って飛行することもできる(所要時間約25分)。",
     ["DictKey_UnitName_215"] = "",
     ["DictKey_UnitName_243"] = "",
     ["DictKey_GroupName_63"] = "FR Helipad-4",
