@@ -1,0 +1,21 @@
+dictionary =
+{
+    ["DictKey_ActionText_10"] = "",
+    ["DictKey_ActionText_6"] = "",
+    ["DictKey_ActionText_7"] = "",
+    ["DictKey_descriptionText_1"] = "このミッションでは、西ドイツ軍の基地から出発する。その後はルートに沿って名所を巡ることも、自由に飛行することもできる。",
+    ["DictKey_ActionText_9"] = "Teufelsbergのレーダー施設",
+    ["DictKey_ActionText_18"] = "このミッションでは、西ドイツ軍の基地から出発する。その後はルートに沿って名所を巡ることも、自由に飛行することもできる。",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_ActionText_13"] = "以降は自由に飛行してください。",
+    ["DictKey_ActionText_14"] = "Charlotenberg宮殿。",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_sortie_5"] = "Berlinでホットスタート",
+    ["DictKey_descriptionBlueTask_3"] = "-離陸\
+-ルートに沿った飛行\
+-フリーフライト",
+    ["DictKey_ActionText_11"] = "",
+    ["DictKey_ActionText_8"] = "",
+    ["DictKey_ActionText_15"] = "Berlinオリンピックスタジアム。",
+    ["DictKey_ActionText_12"] = "",
+} -- end of dictionary
