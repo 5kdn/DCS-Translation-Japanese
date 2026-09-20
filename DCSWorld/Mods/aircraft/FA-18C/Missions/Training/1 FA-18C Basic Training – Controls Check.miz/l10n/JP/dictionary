@@ -1,4 +1,4 @@
-dictionary = 
+dictionary =
 {
 	["DictKey_ActionText_112"] = "\
 HUDが再び変化したことに注目してください。\
@@ -400,7 +400,7 @@ Training Sectionには、より詳細な空対空射撃の段階的チュート�
 	["DictKey_ActionText_352"] = "\
 次の指示をスキップするには [SPACEBAR] を押してください。\
 \
-前の指示に戻るには [ [BACKSPACE] ] を押してください。\
+前の指示に戻るには [BACKSPACE] を押してください。\
 ",
 	["DictKey_ActionText_593"] = "",
 	["DictKey_ActionText_10"] = "\
