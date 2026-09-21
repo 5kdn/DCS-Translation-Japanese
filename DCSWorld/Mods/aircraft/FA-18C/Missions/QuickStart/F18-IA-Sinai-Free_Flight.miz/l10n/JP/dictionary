@@ -1,0 +1,13 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "フリーフライト",
+	["DictKey_descriptionText_1"] = "これは致命的な脅威のないフリーフライトミッションだ。\
+\
+STPT 3 および STPT 4 には敵 SAM サイトがあり、STPT 5 には敵航空基地がある。飛行計画の経路上には複数の無人機が飛行している。",
+	["DictKey_descriptionBlueTask_3"] = "自由に飛行しろ！",
+	["DictKey_ActionText_6"] = "これは致命的な脅威のないフリーフライトミッションだ。\
+\
+STPT 3 および STPT 4 には敵 SAM サイトがあり、STPT 5 には敵航空基地がある。飛行計画の経路上には複数の無人機が飛行している。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

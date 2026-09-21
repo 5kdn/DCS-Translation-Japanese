@@ -1,0 +1,20 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "",
+	["DictKey_ActionComment_11"] = "",
+	["DictKey_descriptionText_1"] = "マリアナ諸島へようこそ。天候は良好である。",
+	["DictKey_descriptionBlueTask_3"] = "Andersen AFB への着陸進入中である。RWY 06R への標準的なキャリアブレーク進入、またはストレートイン進入を実施できる。\
+\
+キャリアブレーク進入では、 350 KIAS 、 1,300 ft MSL を設定する。RWY 06R に沿って飛行し、風上側の滑走路番号標識でブレークせよ。\
+\
+通信:\
+ARC-210\
+CH 1 - 250.10 MHz - Andersen Tower\
+CH 2 - 118.10 MHz - Guam Int'l Tower\
+CH 3 - 127.50 MHz - CVN-74 CSG ATC",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "マリアナ諸島: VFR 着陸",
+	["DictKey_ActionText_8"] = "左旋回パターンで RWY 06L または RWY 06R へ進入せよ。ARC-210 CH 1 で Andersen Tower と交信せよ。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_12"] = " ",
+} -- end of dictionary

@@ -1,0 +1,83 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "TSD入力:\
+\
+FARP: TYPE CM, IDENT FC, FREE DAL, MGRS CS 5310 6760, ALT 98\
+PLAN揚陸艦: TYPE TG, IDENT NV, FREE LPD, MGRS 6130 8338, ALT 0\
+\
+(完了後、[SPACEBAR] を押してください)",
+	["DictKey_ActionComment_27"] = "",
+	["DictKey_ActionText_45"] = "不明機が GUAM ADIZ に侵入中",
+	["DictKey_ActionText_43"] = "",
+	["DictKey_ActionComment_44"] = "",
+	["DictKey_ActionText_36"] = "安全に RTB せよ。",
+	["DictKey_ActionText_41"] = "DEBUG - SA-10 WEP FREE",
+	["DictKey_subtitle_20"] = "CHAOS 4 1; LONGHORN: 全航空輸送機は退避済み。FARP DALLAS への転進を許可する。",
+	["DictKey_ActionText_26"] = "",
+	["DictKey_ActionText_38"] = "local _group = Group.getByName('PLA_EW');\
+if not (_group and _group:isExist()) then return false; end\
+local _controller = _group:getController();\
+local _targets = _controller:getDetectedTargets(4);\
+for _index, _target in ipairs(_targets) do\
+if _target.visible then return true; end \
+end\
+return false; ",
+	["DictKey_subtitle_22"] = "CHAOS 4 1; LONGHORN: 迫撃砲中隊が飛行場を砲撃中。",
+	["DictKey_ActionText_49"] = "敵襲撃隊第 2 編隊を撃破。",
+	["DictKey_ActionText_30"] = " ",
+	["DictKey_subtitle_55"] = "VAMPIRE, VAMPIRE. 対艦ミサイルが飛翔中！",
+	["DictKey_ActionText_7"] = "",
+	["DictKey_subtitle_51"] = "STING Flights; DARKSTAR: 両群を撃破、picture は clear。RTB を許可する。",
+	["DictKey_ActionText_24"] = "MGRS CS 6219 7812",
+	["DictKey_subtitle_16"] = "COLT 4 1; PIRATE 75: PLA 砲兵中隊が射撃位置へ移動中。\
+\
+MGRS CS 6804 7591 ELEVATION 78.\
+\
+優先目標！直ちに攻撃せよ。",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_ActionText_39"] = "SA-10 Big Bird SR に探知された - SAM サイトが稼働開始",
+	["DictKey_ActionText_47"] = "敵第 1 編隊を撃破。",
+	["DictKey_sortie_5"] = "サイパンの戦い: 艦隊防空",
+	["DictKey_subtitle_18"] = "CHAOS 4 1; LONGHORN: Predatorが敵 Mi-8 の位置、CS 6219 7812 から展開中の迫撃砲隊を探知した。可能なら攻撃しろ。",
+	["DictKey_descriptionText_1"] = "もう一つの2016年:\
+\
+長らく恐れられていた米国と中国の戦争が勃発した。\
+\
+PLAN 艦隊が米国領マリアナ諸島を侵攻するため接近中との報告がある。\
+\
+USS HARRY S TRUMAN (CVN-75)は諸島の長距離防衛のため地域へ展開した。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは STING 304。ウイングマン(STING 309)とともに、CVN-75 の北西 50 NM にある CAP ステーション ALPHA へ割り当てられている。\
+\
+PLANAF H-6J 爆撃機の 1 個編隊が地域へ接近中であることを探知した。これはおそらく Truman Carrier Strike Group に対する対艦攻撃である。\
+\
+接近中の攻撃機を迎撃せよ。\
+\
+STING 308 および STING 312 は ALERT 5 で待機しており、CAP 支援のため発艦準備を整えている。\
+\
+COMMS:\
+COMM1 CH 1 (251.00 MHz) - Air Warfare Tactical (AW; CAP、E-2D、ALERT-5)\
+COMM1 CH 2 (129.50 MHz) - HST ATC\
+COMM2 CH 1 (126.20 MHz) - Andersen AFB Tower\
+\
+注: 地域内には民間船舶が存在する。",
+	["DictKey_subtitle_53"] = "全航空機; Battle AX: 空母が被弾した。Foul deck。Foul deck。転進先は Andersen AFB。",
+	["DictKey_ActionText_31"] = "目標へ接近中。SAM レーダーが稼働中。SAM 発射機は 5 分未満で稼働すると想定せよ。",
+	["DictKey_subtitle_57"] = "不明機が GUAM ADIZ へ侵入した。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_29"] = "*** TSD ポイント入力 ***\
+\
+TYPE TG\
+IDENT GU\
+FREE ATY\
+MGRS CS 6804 7591\
+ELEC 78\
+\
+(メッセージを消去するには [SPACEBAR] を押してください)",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_subtitle_14"] = "CHAOS; HOUSTAN: 巡航ミサイル接近中。着弾まで 2 分。\
+\
+ここから離脱しろ！",
+	["DictKey_ActionText_8"] = "巡航ミサイル接近中",
+	["DictKey_ActionText_28"] = "",
+	["DictKey_ActionText_12"] = " ",
+} -- end of dictionary

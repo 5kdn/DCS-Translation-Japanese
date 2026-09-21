@@ -1,0 +1,31 @@
+dictionary = 
+{
+	["DictKey_ActionText_6"] = "VFR着陸: RWY 11 の滑走路端から7 NM 手前、2,500 ft AGL、250 kt にいる。現在はアクティブポーズ中だ。\
+\
+ストレートインまたはキャリアブレーク・アプローチを実施できる。\
+\
+進入に備えて機体を設定しろ:\
+\
+設定:\
+MASTER ARM - SAFE\
+RADAR - STBY\
+LNDG/TAXI LIGHT - ON\
+DISPENSER - OFF\
+\
+確認:\
+HOOK BYPASS - FIELD\
+\
+準備が整ったら [SPACEBAR] を押して飛行を開始しろ。",
+	["DictKey_descriptionText_1"] = "東アフガニスタンへようこそ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは北アラビア海で作戦中の USS STENNIS (CVN-74)に展開する VFA-113 所属 F/A-18C STING 5-1 だ。本日はオンコール CAS 任務を完了した後、空母へ帰投する前に給油のためカブール飛行場へ着陸する予定だ。\
+\
+RWY 11 から約 7 NM 手前、2,500 ft AGL で開始する。ストレートインまたはキャリアブレーク・アプローチを実施できる。トラフィックパターン内に他の航空機はいない。\
+\
+注: CAS 作戦中、STA 8 から AGM-65E を発射している。機体はわずかに左右非対称の状態だ。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "東アフガニスタン: VFR着陸",
+	["DictKey_ActionText_11"] = "",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_9"] = "右側の最初の駐機位置までタキシングしろ。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

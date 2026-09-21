@@ -1,0 +1,9 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "イラク北部: フリーフライト",
+	["DictKey_descriptionText_1"] = "2012年頃のイラクへようこそ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは VMFA-213 所属 F/A-18C 2 機編隊を率いる RATTLER 2-1 だ。兵装は 2 x AIM-9M, 4 x GBU-38, 4 x GBU-12 だ。\"Rattlers\" はイラクに展開したばかりだ。本日の任務は、バグダッド周辺の地域慣熟飛行を実施することだ。飛行計画に従うか、自由に飛行しろ。",
+	["DictKey_ActionText_6"] = "イラクへようこそ。脅威はない。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

@@ -1,0 +1,22 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "リューベックへようこそ。RWY 07 の閾値から 10 NM、現在 Active Pause 中です。\
+\
+進入・着陸の準備ができたら、[SPACEBAR] を押してください。",
+	["DictKey_ActionText_6"] = "ドイツ国内国境侵犯 - 航空機",
+	["DictKey_subtitle_13"] = "",
+	["DictKey_descriptionText_1"] = "リューベック空軍基地に着陸せよ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは RAM 3-1、USS THEODORE ROOSEVELT (CVN-71)に配備されたVFA-83 F/A-18C である。西ドイツ北部のリューベック空軍基地へ展開中である。 2 x AIM-9M、4 x Mk-20 Rockeye、燃料 51 % を搭載している。リューベックの東約 10 NM、4,000 ft MSL、高度 300 kt、クリーン形態で開始する。現在 Active Pause中です。\
+\
+注意: リューベックはドイツ国内国境に近い RAF 施設である。西ドイツ領空内に留まること。現在の飛行計画には着陸地点に加えて、東ドイツ領空を避けられるはずの Go Around ステアポイント 2 か所が含まれる。\
+\
+CVN-71 TACAN 71X (TR)\
+    ICLS CHAN 4\
+    Link 4 336.0",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "F/A-18 冷戦期ドイツ: VFR着陸",
+	["DictKey_ActionText_16"] = "[警告！警告！未確認航空機。あなたはドイツ民主共和国領空を侵犯している。]",
+	["DictKey_ActionText_8"] = "ドイツ国内国境侵犯 - ヘリコプター",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_12"] = "",
+} -- end of dictionary

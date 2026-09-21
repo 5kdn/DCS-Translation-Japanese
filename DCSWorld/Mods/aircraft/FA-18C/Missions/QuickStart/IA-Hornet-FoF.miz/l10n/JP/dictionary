@@ -1,0 +1,12 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "戦場",
+	["DictKey_descriptionText_1"] = "15 NM 前方で、敵地上軍の大隊が陣地化した友軍部隊と交戦しています。双方が固定翼機および回転翼機を出撃させています。旧世代の敵部隊は尾根線の北側を前進しており、より高性能なシステムを装備した部隊は南側を前進しています。",
+	["DictKey_descriptionBlueTask_3"] = "この戦場シナリオを使用して、F/A-18C の各種戦闘任務を訓練してください。",
+	["DictKey_ActionText_6"] = "15 NM 前方で、敵地上軍の大隊が陣地化した友軍部隊と交戦しています。双方が航空機を出撃させ、支援する砲兵部隊と防空部隊も展開しています。旧世代の敵部隊は尾根線の北側を前進しており、より高性能なシステムを装備した部隊は南側を前進しています。\
+\
+この戦場で F/A-18C の多様な任務を訓練してください。\
+",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

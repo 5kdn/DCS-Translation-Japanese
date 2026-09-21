@@ -1,0 +1,21 @@
+dictionary = 
+{
+	["DictKey_ActionText_6"] = "目標へ進入中だ。\
+\
+攻撃に備えて機体および兵装システムを設定しろ。",
+	["DictKey_descriptionText_1"] = "東アフガニスタンへようこそ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは空母USS STENNIS (CVN-74)に展開する米海軍F/A-18C STINGER 6-1だ。本日の任務は、Nurgal 北西で最近確認された武装勢力の拠点を攻撃することだ。特に、カモフラージュネットで隠された即席の移動式ロケットランチャーに注意しろ。\
+\
+KC-135 TEXACO 1-1 がパキスタン北東部上空で待機している。\
+\
+(COMM 2 CH 1 (251MHz) TACAN 21 Y)\
+\
+空母へ帰投する前に空中給油ができる。",
+	["DictKey_ActionText_13"] = "CVN-74 へ安全に帰投した。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "東アフガニスタン: 対地攻撃",
+	["DictKey_ActionText_11"] = "",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_9"] = "右側の最初の駐機位置までタキシングしろ。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

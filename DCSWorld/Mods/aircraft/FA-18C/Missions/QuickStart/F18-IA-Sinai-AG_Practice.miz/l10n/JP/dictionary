@@ -1,0 +1,12 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "空対地兵装訓練",
+	["DictKey_descriptionText_1"] = "前方のWP1, WP2, WP3には、それぞれトラック、歩兵戦闘車、戦車が配置されている。このミッションで対地攻撃技能を訓練しろ。",
+	["DictKey_descriptionBlueTask_3"] = "トラックはグリーンスモーク、歩兵戦闘車はオレンジスモーク、戦車はレッドスモークでマーキングされている。",
+	["DictKey_ActionText_6"] = "前方のWP1, WP2, WP3には、兵装投下訓練用の標的群が配置されている。\
+\
+トラックはグリーンスモーク、歩兵戦闘車はオレンジスモーク、戦車はレッドスモークでマーキングされている。\
+",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

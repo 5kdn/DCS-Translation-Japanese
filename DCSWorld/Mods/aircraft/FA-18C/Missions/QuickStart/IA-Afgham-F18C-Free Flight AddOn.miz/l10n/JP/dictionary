@@ -1,0 +1,40 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "目標地域:\
+緯度経度 (Standard):\
+N 31° 31' 01\"   E 66° 37' 18\"\
+標高: 4,344 ft\
+",
+	["DictKey_ActionComment_11"] = "",
+	["DictKey_ActionText_7"] = "アフガニスタンへようこそ。\
+\
+交戦可能な敵性 Il-76 が複数いる。ウェイポイント 2 付近に、スモークでマーキングされた 2 つの区域の目標も攻撃できる。(F10 マップの標示を参照。)このシナリオでは、敵軍は交戦してこない。兵器システムおよび航法を設定する間、アクティブ・ポーズ中である。\
+\
+飛行準備ができたら、[SPACEBAR] を押してください。",
+	["DictKey_descriptionText_1"] = "アフガニスタンへようこそ。これは任意の空中・地上目標を備えた地域慣熟用フリーフライトである。\
+",
+	["DictKey_descriptionBlueTask_3"] = "あなたは HORNET 5-1、USMC VMFA-232 所属の F/A-18C である。兵装は 2 x AIM-120C、2 x AIM-9X、2 x AGM-65E (Laser Maverick)、および 4 x Mk-83 爆弾である。本日の任務は地域慣熟飛行である。フライトプランに従うか、任意に飛行できる。この地域では米軍機および同盟軍機が活動している。\
+\
+本日、AWACS (OVERLORD 1-1) がアフガニスタン上空の航空管制を実施している。敵性機との交戦を許可する。\
+\
+Kandahar 南方では KC-135 (TEXACO 1-1) が空中給油を実施している。\
+\
+WPT 2 付近に地上目標がある。\
+\
+目標地域:\
+橋で小川を横断する付近に、反乱軍車両、バンカー、建物がある。\
+道路をさらに進むと反乱軍キャンプがある。武装・装甲車両、トラック、テント、補給品が存在する。\
+緯度経度 (Standard):\
+N 31° 31' 01\"   E 66° 37' 18\"\
+標高: 4,344 ft\
+\
+敵航空機が飛行中の可能性がある。\
+\
+通信:\
+Kandahar Tower - COMM 2 CH 1 (125.5 MHz)\
+TEXACO 1-1 - COMM 1 CH 2 (275.00 MHz) TACAN 13 Y TKR",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "アフガニスタン: フリーフライト",
+	["DictKey_ActionText_9"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

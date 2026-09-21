@@ -1,0 +1,80 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "TSD入力:\
+\
+FARP: TYPE CM, IDENT FC, FREE DAL, MGRS CS 5310 6760, ALT 98\
+PLAN揚陸艦: TYPE TG, IDENT NV, FREE LPD, MGRS 6130 8338, ALT 0\
+\
+(完了後、[SPACEBAR] を押してください)",
+	["DictKey_ActionComment_27"] = "",
+	["DictKey_ActionText_7"] = "",
+	["DictKey_ActionText_24"] = "MGRS CS 6219 7812",
+	["DictKey_ActionText_29"] = "*** TSDポイント入力 ***\
+\
+TYPE TG\
+IDENT GU\
+FREE ATY\
+MGRS CS 6804 7591\
+ELEC 78\
+\
+(メッセージを消去するには [SPACEBAR] を押してください)",
+	["DictKey_subtitle_16"] = "COLT 4 1; PIRATE 75: PLA砲兵中隊が射撃位置へ移動中。\
+\
+MGRS CS 6804 7591 ELEVATION 78.\
+\
+優先目標！直ちに攻撃せよ。",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_ActionText_28"] = "",
+	["DictKey_ActionText_36"] = "安全に RTB せよ。",
+	["DictKey_sortie_5"] = "サイパンの戦い: SEAD",
+	["DictKey_ActionText_41"] = "DEBUG - SA-10 WEP FREE",
+	["DictKey_subtitle_20"] = "CHAOS 4 1; LONGHORN: 全航空輸送機は退避済み。FARP DALLAS への転進を許可する。",
+	["DictKey_ActionText_26"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_subtitle_18"] = "CHAOS 4 1; LONGHORN: Predator が敵 Mi-8 の位置、CS 6219 7812 から展開中の迫撃砲中隊を探知。可能なら攻撃せよ。",
+	["DictKey_subtitle_22"] = "CHAOS 4 1; LONGHORN: 迫撃砲中隊が飛行場を砲撃中。",
+	["DictKey_descriptionText_1"] = "もう一つの2016年:\
+\
+長らく恐れられていた米国と中国の戦争が勃発した。\
+\
+PLAN 艦隊がサイパン島へ侵攻し、防衛を構築している。空港付近には SA-10 砲台が展開している。\
+\
+USS HARRY S TRUMAN (CVN-75)は諸島防衛のため地域へ展開した。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは STING 302。新たに展開した SA-10 砲台への SEAD 攻撃を任務とする。2 x AGM-88C HARM および 4 x Mk-20 ROCKEYE を搭載している。主要目標は FLAP LID FCRである。FLAP LID を破壊すれば、交換されるまでサイトは運用不能となる。副次目標は残りの SA-10 装備である。SA-10 サイトを多く破壊するほど、サイトの停止期間は長くなる。\
+\
+HARM PBコード:\
+FLAP LID FCR - 110 (主要目標)\
+CLAM SHELL - 103 Low Alt Search\
+BIG BIRD - 104 Search\
+\
+ウェイポイント 3 は SA-10 サイト中心のおおよその位置である。\
+\
+戦術: 低空飛行し、島々で地形マスクを利用せよ。飛行計画により、SAM サイトとの間に島の地形を維持する。\
+\
+COMMS:\
+COMM1 CH 1 (251.00 MHz) - Tactical / E-2D\
+COMM1 CH 2 (129.50 MHz) - HST ATC\
+COMM1 CH 3 (126.20 MHz) - Andersen AFB\
+\
+COMM2 CH 1 (123.60 MHz) - Rota Afld\
+COMM2 CH 2 (123.65 MHz) - Tinian Int'l",
+	["DictKey_subtitle_14"] = "CHAOS; HOUSTAN: 巡航ミサイル接近中。着弾まで 2 分。\
+\
+ここから離脱しろ！",
+	["DictKey_subtitle_45"] = "STING 302; DARKSTAR: ELINT は FLAP LID の破壊を示す。繰り返す、射撃管制レーダーを破壊した。",
+	["DictKey_ActionText_30"] = " ",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_39"] = "SA-10 Big Bird SR に探知された - SAM サイトが稼働開始",
+	["DictKey_ActionText_31"] = "目標へ接近中。SAM レーダーが稼働中。低く、速く、地形マスクを利用せよ。",
+	["DictKey_ActionText_38"] = "local _group = Group.getByName('PLA_EW');\
+if not (_group and _group:isExist()) then return false; end\
+local _controller = _group:getController();\
+local _targets = _controller:getDetectedTargets(4);\
+for _index, _target in ipairs(_targets) do\
+if _target.visible then return true; end \
+end\
+return false; ",
+	["DictKey_ActionText_8"] = "巡航ミサイル接近中",
+	["DictKey_subtitle_43"] = "STING 302; DARKSTAR: 探知された。SA-10 が稼働開始する。",
+	["DictKey_ActionText_12"] = " ",
+} -- end of dictionary

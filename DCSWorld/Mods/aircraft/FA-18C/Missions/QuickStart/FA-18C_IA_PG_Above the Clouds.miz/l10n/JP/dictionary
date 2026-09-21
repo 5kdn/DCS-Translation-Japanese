@@ -1,0 +1,373 @@
+dictionary = 
+{
+	["DictKey_UnitName_89"] = "Havadarya SA-11 Site-1",
+	["DictKey_ActionText_336"] = "DEBUG - 222222222222",
+	["DictKey_UnitName_67"] = "Aba Musa AAA-4",
+	["DictKey_WptName_401"] = "",
+	["DictKey_UnitName_283"] = "",
+	["DictKey_UnitName_233"] = "Bandar Abbas NB IRIN Ship Inport #006",
+	["DictKey_UnitName_26"] = "Sir Abu Nuayr Defenses-6",
+	["DictKey_UnitName_226"] = "Jask Mtn  EW Site-5",
+	["DictKey_UnitName_73"] = "Qeshm HAWK Site-10",
+	["DictKey_UnitName_397"] = "",
+	["DictKey_UnitName_39"] = "Al Dhafra AB Patriot-4",
+	["DictKey_UnitName_433"] = "RoDAF-1",
+	["DictKey_WptName_422"] = "",
+	["DictKey_WptName_410"] = "",
+	["DictKey_UnitName_25"] = "Sir Abu Nuayr Defenses-7",
+	["DictKey_UnitName_192"] = "Abu Musa SA-6 Site -2",
+	["DictKey_UnitName_218"] = "Bandar Abbas Mtn  EW Site -1",
+	["DictKey_UnitName_388"] = "",
+	["DictKey_GroupName_255"] = "Qeshm SA-6  Site",
+	["DictKey_WptName_59"] = "",
+	["DictKey_WptName_416"] = "",
+	["DictKey_GroupName_244"] = "Target Ship-4",
+	["DictKey_GroupName_44"] = "Al Minhad AB Patriot Site",
+	["DictKey_UnitName_76"] = "Qeshm HAWK Site-7",
+	["DictKey_GroupName_302"] = "",
+	["DictKey_UnitName_258"] = "",
+	["DictKey_UnitName_36"] = "Al Dhafra AB Patriot-7",
+	["DictKey_UnitName_348"] = "",
+	["DictKey_UnitName_69"] = "Aba Musa AAA-2",
+	["DictKey_UnitName_74"] = "Qeshm HAWK Site-9",
+	["DictKey_GroupName_84"] = "Havadarya SA-11 Site",
+	["DictKey_UnitName_130"] = "Lar AB Rapier SAM-1",
+	["DictKey_UnitName_48"] = "Al Minhad AB Patriot Site-8",
+	["DictKey_UnitName_79"] = "Qeshm HAWK Site-4",
+	["DictKey_GroupName_390"] = "TGT Helo 1-1",
+	["DictKey_GroupName_33"] = "Al Dhafra AB Patriot",
+	["DictKey_UnitName_262"] = "Qeshm SA-6  Site-7",
+	["DictKey_GroupName_220"] = "Jask Mtn  EW Site",
+	["DictKey_ActionText_254"] = "主要目標を外したが、沿岸貨物船に命中した。",
+	["DictKey_WptName_304"] = "",
+	["DictKey_GroupName_241"] = "",
+	["DictKey_UnitName_78"] = "Qeshm HAWK Site-5",
+	["DictKey_UnitName_105"] = "Strait of Hormuz CDCM Site-7",
+	["DictKey_WptName_200"] = "",
+	["DictKey_UnitName_270"] = "Havadarya Rapier SAM-1",
+	["DictKey_WptName_103"] = "",
+	["DictKey_WptName_437"] = "",
+	["DictKey_UnitName_46"] = "Al Minhad AB Patriot Site-10",
+	["DictKey_GroupName_201"] = "Jask NB IRIN Sub Inport #003",
+	["DictKey_UnitName_40"] = "Al Dhafra AB Patriot-3",
+	["DictKey_UnitName_377"] = "",
+	["DictKey_UnitName_186"] = "Abu Musa SA-6 Site -8",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_UnitName_263"] = "Qeshm SA-6  Site-8",
+	["DictKey_WptName_62"] = "",
+	["DictKey_WptName_265"] = "",
+	["DictKey_UnitName_356"] = "",
+	["DictKey_WptName_392"] = "",
+	["DictKey_ActionText_442"] = "  ",
+	["DictKey_UnitName_430"] = "FAF Static-3",
+	["DictKey_UnitName_80"] = "Qeshm HAWK Site-3",
+	["DictKey_UnitName_373"] = "",
+	["DictKey_WptName_407"] = "",
+	["DictKey_WptName_243"] = "",
+	["DictKey_UnitName_128"] = "Lar AB Rapier SAM-3",
+	["DictKey_UnitName_267"] = "Qeshm SA-6  Site-4",
+	["DictKey_UnitName_106"] = "Strait of Hormuz CDCM Site-6",
+	["DictKey_UnitName_259"] = "",
+	["DictKey_GroupName_342"] = "",
+	["DictKey_WptName_369"] = "",
+	["DictKey_WptName_404"] = "",
+	["DictKey_WptName_237"] = "",
+	["DictKey_UnitName_248"] = "Target Ship-4-1",
+	["DictKey_UnitName_224"] = "Jask Mtn  EW Site-7",
+	["DictKey_WptName_246"] = "",
+	["DictKey_UnitName_75"] = "Qeshm HAWK Site-8",
+	["DictKey_UnitName_54"] = "Al Minhad AB Patriot Site-2",
+	["DictKey_UnitName_436"] = "RoDAF-1",
+	["DictKey_descriptionText_1"] = "国連の武器禁輸を実施するため、ペルシャ湾南部では厳格な「国際航空警備(IAP)」 が行われている。しかしイランは禁輸を回避することに成功している。夜闇と荒天に紛れ、北朝鮮の武器運搬船がホルムズ海峡を通過した。現在、ラジャーイー商業港で長距離弾道ミサイルを陸揚げしているとみられる。北朝鮮船は港内に停泊し、イラン海軍の新型ドック型揚陸艦 (LPD) へミサイルを移載する準備中との報告がある。イラン海軍の LPD に搭載されれば、ミサイルはイラン沿岸のどこへでも配備することができ、事実上「姿を消す」ことになる。\
+\
+この作戦を阻止できる時間は短い。次の 1 時間以内に、武器運搬船および/またはイラン海軍 LPD を攻撃しなければならない。残念ながら、北朝鮮船のペルシャ湾侵入を許した悪天候は、容易な空爆の実施も妨げている。ラジャーイー港内における武器運搬船の正確な位置は不明である。雨と厚い雲により、目視、光学または FLIR による目標捕捉は不可能だ。雲の下へ降下すれば、航空機は港を取り巻く複数の AAA システムの射程内に入る。唯一の選択肢は、困難を極めるレーダー誘導型の JDAM 攻撃である。",
+	["DictKey_UnitName_55"] = "Al Minhad AB Patriot Site-1",
+	["DictKey_ActionText_340"] = "DEBUG Gp 2",
+	["DictKey_UnitName_64"] = "Bandar Abbas NB IRIN Ship Inport #003",
+	["DictKey_UnitName_343"] = "",
+	["DictKey_ActionText_439"] = "IP まで約 40 NM です。\
+\
+AP を気圧高度保持 (BALT) に設定してください。方位を 021 に設定し、方位選択 (HSEL) を開始してください。\
+ニーボード [RShift] + [K] のチェックリストを使用して、航空機と兵装を設定してください。",
+	["DictKey_UnitName_383"] = "",
+	["DictKey_GroupName_362"] = "",
+	["DictKey_GroupName_104"] = "Strait of Hormuz CDCM Site",
+	["DictKey_UnitName_101"] = "Jask NB AIRDEF-2",
+	["DictKey_UnitName_202"] = "Jask NB IRIN Sub Inport #003",
+	["DictKey_WptName_386"] = "",
+	["DictKey_WptName_413"] = "",
+	["DictKey_GroupName_24"] = "Sir Abu Nuayr Defenses",
+	["DictKey_UnitName_225"] = "Jask Mtn  EW Site-6",
+	["DictKey_UnitName_68"] = "Aba Musa AAA-3",
+	["DictKey_GroupName_178"] = "Siri Air Def",
+	["DictKey_WptName_328"] = "",
+	["DictKey_WptName_197"] = "",
+	["DictKey_GroupName_122"] = "Lar AB Rapier SAM",
+	["DictKey_UnitName_86"] = "Havadarya SA-11 Site-4",
+	["DictKey_UnitName_350"] = "",
+	["DictKey_UnitName_228"] = "Jask Mtn  EW Site-3",
+	["DictKey_UnitName_119"] = "Qeshm Island CDCM Site-2",
+	["DictKey_ActionText_339"] = "DEBUG Gp 1",
+	["DictKey_UnitName_303"] = "",
+	["DictKey_WptName_90"] = "",
+	["DictKey_GroupName_99"] = "Jask NB AIRDEF",
+	["DictKey_UnitName_107"] = "Strait of Hormuz CDCM Site-5",
+	["DictKey_UnitName_367"] = "",
+	["DictKey_UnitName_120"] = "Qeshm Island CDCM Site-1",
+	["DictKey_UnitName_264"] = "Qeshm SA-6  Site-9",
+	["DictKey_UnitName_196"] = "Bandar Abbas NB IRIN Sub Inport #001",
+	["DictKey_UnitName_77"] = "Qeshm HAWK Site-6",
+	["DictKey_UnitName_129"] = "Lar AB Rapier SAM-2",
+	["DictKey_UnitName_409"] = "FAF ACFT-1",
+	["DictKey_UnitName_51"] = "Al Minhad AB Patriot Site-5",
+	["DictKey_ActionText_440"] = "航法:\
+HSI - 中央 MFCDD\
+    - SEQ を設定する (OSB 15)\
+    - WPT を設定する (OSB 11)\
+    - WP 1 へ進める (PB 12)\
+    - WP 1 から 26 NM の地点で WP 2 へ進める (PB 12)\
+    - WP 2 を TGT として指定する (WPDSG、OSB 14)\
+\
+完了したら、[SPACEBAR] を押して続行してください。",
+	["DictKey_UnitName_85"] = "Havadarya SA-11 Site-5",
+	["DictKey_GroupName_393"] = "TGT Helo 1-2",
+	["DictKey_UnitName_415"] = "FAF Static-1",
+	["DictKey_WptName_364"] = "",
+	["DictKey_UnitName_298"] = "Qeshm SA-6  Site-10",
+	["DictKey_GroupName_184"] = "Abu Musa SA-6 Site ",
+	["DictKey_UnitName_193"] = "Abu Musa SA-6 Site -1",
+	["DictKey_WptName_112"] = "",
+	["DictKey_WptName_83"] = "",
+	["DictKey_UnitName_421"] = "FAF Static-3",
+	["DictKey_UnitName_102"] = "Jask NB AIRDEF-1",
+	["DictKey_WptName_378"] = "",
+	["DictKey_UnitName_115"] = "Qeshm Island CDCM Site-6",
+	["DictKey_UnitName_108"] = "Strait of Hormuz CDCM Site-4",
+	["DictKey_UnitName_87"] = "Havadarya SA-11 Site-3",
+	["DictKey_sortie_5"] = "F/A-18C アバブ・ザ・クラウド",
+	["DictKey_UnitName_385"] = "",
+	["DictKey_UnitName_418"] = "FAF Static-1",
+	["DictKey_UnitName_123"] = "Lar AB Rapier SAM-8",
+	["DictKey_UnitName_190"] = "Abu Musa SA-6 Site -4",
+	["DictKey_WptName_203"] = "",
+	["DictKey_UnitName_125"] = "Lar AB Rapier SAM-6",
+	["DictKey_UnitName_182"] = "Siri Air Def-1",
+	["DictKey_WptName_284"] = "",
+	["DictKey_WptName_331"] = "",
+	["DictKey_UnitName_49"] = "Al Minhad AB Patriot Site-7",
+	["DictKey_UnitName_223"] = "Jask Mtn  EW Site-8",
+	["DictKey_WptName_428"] = "",
+	["DictKey_UnitName_179"] = "Siri Air Def-4",
+	["DictKey_UnitName_280"] = "Havadarya Rapier SAM-11",
+	["DictKey_WptName_71"] = "",
+	["DictKey_UnitName_31"] = "Sir Abu Nuayr Defenses-1",
+	["DictKey_UnitName_111"] = "Strait of Hormuz CDCM Site-1",
+	["DictKey_UnitName_346"] = "",
+	["DictKey_UnitName_230"] = "Jask Mtn  EW Site-1",
+	["DictKey_WptName_395"] = "",
+	["DictKey_UnitName_188"] = "Abu Musa SA-6 Site -6",
+	["DictKey_ActionText_444"] = "失敗:\
+目標を外した。",
+	["DictKey_WptName_330"] = "",
+	["DictKey_UnitName_199"] = "Bandar Abbas NB IRIN Sub Inport #002",
+	["DictKey_GroupName_12"] = "",
+	["DictKey_UnitName_27"] = "Sir Abu Nuayr Defenses-5",
+	["DictKey_UnitName_189"] = "Abu Musa SA-6 Site -5",
+	["DictKey_UnitName_180"] = "Siri Air Def-3",
+	["DictKey_WptName_431"] = "",
+	["DictKey_UnitName_394"] = "TGT Helo 1",
+	["DictKey_WptName_425"] = "",
+	["DictKey_UnitName_81"] = "Qeshm HAWK Site-2",
+	["DictKey_UnitName_127"] = "Lar AB Rapier SAM-4",
+	["DictKey_GroupName_72"] = "Qeshm HAWK Site",
+	["DictKey_GroupName_66"] = "Aba Musa AAA",
+	["DictKey_UnitName_185"] = "Abu Musa SA-6 Site -9",
+	["DictKey_UnitName_30"] = "Sir Abu Nuayr Defenses-2",
+	["DictKey_UnitName_424"] = "FAF Static-3",
+	["DictKey_WptName_327"] = "",
+	["DictKey_WptName_65"] = "",
+	["DictKey_UnitName_427"] = "FAF Static-3",
+	["DictKey_UnitName_94"] = "Bandar Lengeh AIRDEF-4",
+	["DictKey_WptName_32"] = "",
+	["DictKey_UnitName_279"] = "Havadarya Rapier SAM-10",
+	["DictKey_WptName_365"] = "",
+	["DictKey_UnitName_257"] = "Qeshm SA-6  Site-2",
+	["DictKey_UnitName_70"] = "Aba Musa AAA-1",
+	["DictKey_UnitName_58"] = "Bandar Abbas NB IRIN Ship Inport #001",
+	["DictKey_UnitName_42"] = "Al Dhafra AB Patriot-1",
+	["DictKey_WptName_56"] = "",
+	["DictKey_WptName_183"] = "",
+	["DictKey_UnitName_45"] = "Al Minhad AB Patriot Site-11",
+	["DictKey_WptName_234"] = "",
+	["DictKey_UnitName_34"] = "Al Dhafra AB Patriot-9",
+	["DictKey_UnitName_126"] = "Lar AB Rapier SAM-5",
+	["DictKey_UnitName_242"] = "",
+	["DictKey_ActionText_441"] = "目標指定:\
+RDR MAP - 右 MFD\
+    - SOI にする\
+    - EXP 1 と EXP 2 を使用して目標地域を拡大する (TCD を押し込み、港湾地域が中心に来るようにする)\
+    - EXP 3 を使用して大型船のレーダーリターン中心を目標指定する。\
+\
+TOO 目標を確認する:\
+    - Mission を選択する (MSN、PB 4)\
+    - 目標座標が表示されていることを確認する (緯度/経度/標高=0)\
+    - 戻る (RTN PB 19)\
+\
+攻撃ラン:\
+    - 目標方位から 10-20 度以内に旋回する (目標へ直接向けない)\
+    - HUD の TTMR とレーダー表示 (右 MFD) を監視し、目標指定を確認する。\
+    - 射程内に入ったら、Weapon Release を押し続ける\
+\
+準備ができたら、[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_337"] = "DEBUG - 33333333333333",
+	["DictKey_UnitName_347"] = "",
+	["DictKey_UnitName_400"] = "Static Mark Flag Red-1",
+	["DictKey_UnitName_28"] = "Sir Abu Nuayr Defenses-4",
+	["DictKey_UnitName_221"] = "Jask Mtn  EW Site-10",
+	["DictKey_UnitName_277"] = "",
+	["DictKey_GroupName_384"] = "",
+	["DictKey_ActionText_253"] = "成功:\
+北朝鮮の貨物船とイラン海軍 LPD に大きな損害を与えた。ミサイルは破壊され、武器の引き渡しは阻止された。",
+	["DictKey_ActionText_438"] = "SMS - 左 MFD\
+(JDAM はウォームアップ中である)\
+    - EFUZ を瞬発に設定する (PB 3、続いて PB 3 INT)\
+    - JDAM ページを設定する (PB 11)\
+    - 投下方式 (REL TYPE、PB 3) を MAN (PB 4) に設定する\
+    - 全兵装を Target Of Opportunity モードに設定する\
+        ○ STA 8 から開始する\
+        ○ PB 5 MODE TOO、続いて STEP (PB 13)\
+        ○ STA 2、STA 7、STA 3 で繰り返す。\
+    - QTY を 4 に設定する (QTY PB 15)\
+    - 次に STA 2 (PB 11)、STA 3 (PB 12)、STA 7 (PB 13)、STA 8 (PB 14)\
+    - 戻る (RTN、PB 15)\
+\
+完了したら、[SPACEBAR] を押して続行してください。",
+	["DictKey_WptName_329"] = "",
+	["DictKey_WptName_389"] = "",
+	["DictKey_UnitName_239"] = "",
+	["DictKey_UnitName_191"] = "Abu Musa SA-6 Site -3",
+	["DictKey_UnitName_88"] = "Havadarya SA-11 Site-2",
+	["DictKey_GroupName_366"] = "",
+	["DictKey_UnitName_256"] = "Qeshm SA-6  Site-1",
+	["DictKey_WptName_281"] = "",
+	["DictKey_UnitName_109"] = "Strait of Hormuz CDCM Site-3",
+	["DictKey_WptName_398"] = "",
+	["DictKey_UnitName_117"] = "Qeshm Island CDCM Site-4",
+	["DictKey_UnitName_35"] = "Al Dhafra AB Patriot-8",
+	["DictKey_UnitName_100"] = "Jask NB AIRDEF-3",
+	["DictKey_UnitName_52"] = "Al Minhad AB Patriot Site-4",
+	["DictKey_UnitName_272"] = "",
+	["DictKey_UnitName_38"] = "Al Dhafra AB Patriot-5",
+	["DictKey_GroupName_376"] = "",
+	["DictKey_WptName_434"] = "",
+	["DictKey_ActionText_341"] = "DEBUG Gp 3",
+	["DictKey_UnitName_61"] = "Bandar Abbas NB IRIN Ship Inport #002",
+	["DictKey_GroupName_247"] = "Target Ship-4",
+	["DictKey_WptName_194"] = "",
+	["DictKey_UnitName_273"] = "Havadarya Rapier SAM-4",
+	["DictKey_UnitName_41"] = "Al Dhafra AB Patriot-2",
+	["DictKey_UnitName_349"] = "",
+	["DictKey_WptName_43"] = "",
+	["DictKey_UnitName_406"] = "FAF ACFT-1",
+	["DictKey_UnitName_245"] = "Target Ship-4-1",
+	["DictKey_UnitName_110"] = "Strait of Hormuz CDCM Site-2",
+	["DictKey_UnitName_391"] = "TGT Helo 1",
+	["DictKey_UnitName_276"] = "",
+	["DictKey_GroupName_113"] = "Qeshm Island CDCM Site",
+	["DictKey_UnitName_116"] = "Qeshm Island CDCM Site-5",
+	["DictKey_WptName_249"] = "",
+	["DictKey_UnitName_53"] = "Al Minhad AB Patriot Site-3",
+	["DictKey_ActionText_338"] = "DEBUG - 4444444444",
+	["DictKey_UnitName_274"] = "Havadarya Rapier SAM-5",
+	["DictKey_UnitName_82"] = "Qeshm HAWK Site-1",
+	["DictKey_UnitName_345"] = "",
+	["DictKey_UnitName_181"] = "Siri Air Def-2",
+	["DictKey_UnitName_47"] = "Al Minhad AB Patriot Site-9",
+	["DictKey_WptName_240"] = "",
+	["DictKey_UnitName_124"] = "Lar AB Rapier SAM-7",
+	["DictKey_WptName_351"] = "",
+	["DictKey_UnitName_412"] = "FAF ACFT-1",
+	["DictKey_UnitName_275"] = "Havadarya Rapier SAM-6",
+	["DictKey_WptName_131"] = "",
+	["DictKey_UnitName_13"] = "",
+	["DictKey_WptName_231"] = "",
+	["DictKey_WptName_419"] = "",
+	["DictKey_UnitName_209"] = "Bandar-1-1",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_UnitName_236"] = "Bandar Abbas NB IRIN Ship Inport #005",
+	["DictKey_GroupName_269"] = "Havadarya Rapier SAM",
+	["DictKey_WptName_14"] = "",
+	["DictKey_UnitName_118"] = "Qeshm Island CDCM Site-3",
+	["DictKey_UnitName_227"] = "Jask Mtn  EW Site-4",
+	["DictKey_WptName_368"] = "",
+	["DictKey_UnitName_344"] = "",
+	["DictKey_ActionText_335"] = "DEBUG - 11111111111111",
+	["DictKey_WptName_121"] = "",
+	["DictKey_UnitName_268"] = "Qeshm SA-6  Site-6",
+	["DictKey_UnitName_114"] = "Qeshm Island CDCM Site-7",
+	["DictKey_UnitName_37"] = "Al Dhafra AB Patriot-6",
+	["DictKey_UnitName_50"] = "Al Minhad AB Patriot Site-6",
+	["DictKey_UnitName_29"] = "Sir Abu Nuayr Defenses-3",
+	["DictKey_UnitName_271"] = "Havadarya Rapier SAM-2",
+	["DictKey_UnitName_222"] = "Jask Mtn  EW Site-9",
+	["DictKey_descriptionBlueTask_3"] = "あなたは IAP 任務の一環としてラス・アル＝ハイマを拠点とするフィンランド空軍の F/A-18C、DODGE 4-1 である。兵装は 4 x GBU-31(V)2/B を搭載している。イランの SAM 脅威を可能な限り回避しつつ、目標地域に対する F/A-18 の多用途 AN/APG-73 レーダーの運用を最適化する、事前計画済みの飛行経路を飛行せよ。\
+\
+情報:\
+イランの防空部隊の大半は何らかの段階で警戒中だが、バンダレ・アッバースの S-300 (SA-10) は定期整備のため停止している。稼働中の SAM はアブー・ムーサの HAWK、ケシュム島の SA-11、ハヴァダリヤ飛行場の SA-15 のみである。バンダレ・レンゲには MiG-21 2 機が滑走路待機している。MiG-21 は全天候戦闘機ではないが、雲上では交戦可能である。\
+\
+交戦規定 (ROE):\
+北朝鮮の武器運搬船およびその付近で探知した他の船舶に対して、WEAPONS FREE である。\
+敵対行動 (あなたへの発砲) または敵対意図 (レーダーロック) を示したイラン戦闘機に対して、WEAPONS FREE である。\
+\
+この攻撃は概念上は単純だが、実行はやや複雑である。対地レーダーを MAP モードで使用し、武器運搬船と LPD を発見して目標指定せよ。目標データは JDAM 兵装に転送される。その後、JDAM の LAR 内へ航空機を進入させる飛行プロファイルを飛び、爆弾を投下する。これを行うには、以下のチェックリストを実施する必要がある (このミッションのニーボードでも確認可能)。\
+\
+兵装設定:\
+SMS - 左 MFD\
+(JDAM はウォームアップ中である)\
+    - EFUZ を瞬発に設定する (PB 3、続いて PB 3 INT)。\
+    - JDAM ページを設定する (PB 11)。\
+    - 投下方式 (REL TYPE、PB 3) を MAN (PB 4) に設定する。\
+    - 全兵装を Target Of Opportunity モードに設定する:\
+        ○ STA 8 から開始する。\
+        ○ PB 5 MODE TOO、続いて STEP (PB 13)。\
+        ○ STA 2、STA 7、STA 3 で繰り返す。\
+    - QTY を 4 に設定する (QTY PB 15)。\
+    - 次に STA 2 (PB 11)、STA 3 (PB 12)、STA 7 (PB 13)、STA 8 (PB 14)。\
+    - 戻る (RTN、PB 15)。\
+\
+航法:\
+HSI - 中央 MFCDD\
+    - SEQ を設定する (PB 15)。\
+    - WPT を設定する (PB 11)。\
+    - WP 1 へ進める (PB 12)。\
+    - WP 1 から 26 NM の地点で WP 2 へ進める (PB 12)。\
+    - WP 2 を TGT として指定する (WPDSG、PB 14)。\
+\
+目標指定:\
+RDR MAP - 右 MFD\
+    - SOI にする。\
+    - EXP 1 と EXP 2 を使用して目標地域を拡大する (TCD を押し込み、港湾地域が中心に来るよう移動する)。\
+    - EXP 3 を使用して大型船のレーダーリターン中心を目標指定する。\
+\
+SMS - 左 MFD\
+    - Mission を選択する (MSN、PB 4)。\
+    - 全 4 ステーションへ進める (STEP PB 13)。\
+    - 目標座標が表示されていることを確認する (緯度/経度/標高=0)。\
+    - 戻る (RTN PB 19)。\
+\
+攻撃ラン - HUD:\
+    - 目標方位から 10-20 度以内に旋回する (目標へ直接向けない)。\
+    - HUD の TTMR とレーダー表示 (右 MFD) を監視し、目標指定を確認する。\
+    - 射程内に入ったら、Weapon Release を押し続ける。",
+	["DictKey_UnitName_261"] = "",
+	["DictKey_GroupName_387"] = "TGT Helo 1",
+	["DictKey_UnitName_260"] = "Qeshm SA-6  Site-5",
+	["DictKey_GroupName_282"] = "",
+	["DictKey_UnitName_266"] = "Qeshm SA-6  Site-3",
+	["DictKey_UnitName_187"] = "Abu Musa SA-6 Site -7",
+	["DictKey_UnitName_403"] = "",
+	["DictKey_UnitName_229"] = "Jask Mtn  EW Site-2",
+	["DictKey_GroupName_238"] = "",
+	["DictKey_UnitName_278"] = "",
+	["DictKey_UnitName_363"] = "",
+} -- end of dictionary

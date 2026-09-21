@@ -1,0 +1,8 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "アフガニスタン: 基本戦闘機動",
+	["DictKey_descriptionText_1"] = "前方 10 NM に敵性航空機がいる。撃墜すると新たな敵性航空機が出現する。",
+	["DictKey_descriptionBlueTask_3"] = "航空機を 3 機撃墜せよ。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

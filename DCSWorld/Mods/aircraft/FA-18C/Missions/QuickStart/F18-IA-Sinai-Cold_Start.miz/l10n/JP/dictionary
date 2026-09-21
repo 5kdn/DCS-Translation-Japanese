@@ -1,0 +1,9 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "コールドスタート",
+	["DictKey_descriptionText_1"] = "コールド&ダーク状態からの始動訓練ミッションへようこそ。このミッションで機体の始動手順を訓練しろ。",
+	["DictKey_descriptionBlueTask_3"] = "存分に訓練しろ！",
+	["DictKey_ActionText_6"] = "コールド&ダーク状態からの始動訓練ミッションへようこそ。このミッションで機体の始動手順を訓練しろ。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

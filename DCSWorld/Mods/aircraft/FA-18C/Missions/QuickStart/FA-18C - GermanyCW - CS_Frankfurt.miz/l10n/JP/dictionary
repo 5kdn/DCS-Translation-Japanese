@@ -1,0 +1,8 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "コールドスタート（フランクフルト）",
+	["DictKey_descriptionText_1"] = "これは訓練飛行だ。本任務では、F/A-18Cのコールドスタート手順を自由に訓練しろ。",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

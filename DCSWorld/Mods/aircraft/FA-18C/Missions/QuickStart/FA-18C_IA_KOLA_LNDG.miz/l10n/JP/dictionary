@@ -1,0 +1,17 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "コラ半島: 着陸",
+	["DictKey_descriptionText_1"] = "フィンランド中部へようこそ。Bas 100 高速道路滑走路への着陸を練習する。",
+	["DictKey_descriptionBlueTask_3"] = "あなたはフィンランド空軍 F/A-18C、HORNET 4-1 である。任務は高速道路滑走路への着陸を練習することだ。戦争時、フィンランド空軍は戦術航空機を高速道路滑走路飛行場へ分散させる。これら補助滑走路には、完全な戦闘作戦を支える燃料および弾薬が備えられている。\
+\
+空対空および空対地兵装を混載している (2 x AIM-9M、 1 x AIM-7M、 2 x AGM-65E)。\
+\
+高速道路滑走路から 10 NM、 240 KIAS の地点でアクティブ・ポーズ中から開始する。着陸用に機体を設定してから、[SPACEBAR] を押して飛行を開始せよ。",
+	["DictKey_ActionText_8"] = " ",
+	["DictKey_ActionText_6"] = "アクティブ・ポーズ中。\
+フィンランド北部へようこそ。Bas 100 高速道路滑走路から 10 NM の地点を着陸進入中である。\
+\
+着陸の予備設定を行え。[SPACEBAR] を押して続行してください。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

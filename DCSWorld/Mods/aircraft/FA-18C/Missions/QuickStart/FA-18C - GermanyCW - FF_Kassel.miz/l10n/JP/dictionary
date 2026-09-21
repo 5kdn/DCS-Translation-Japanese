@@ -1,0 +1,8 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "フリーフライト（カッセル）",
+	["DictKey_descriptionText_1"] = "これはフリーフライトだ。ここでは操縦方法を習得したり、周辺を自由に探索したりできる。",
+	["DictKey_descriptionBlueTask_3"] = "フリーフライト",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

@@ -1,0 +1,50 @@
+dictionary = 
+{
+	["DictKey_ActionText_34"] = "Checkpoint-4",
+	["DictKey_ActionRadioText_24"] = "MiG-29 ミッションを開始する",
+	["DictKey_ActionText_40"] = "Checkpoint-10",
+	["DictKey_ActionText_45"] = "残念ながら、チェックポイントを一つ通過し損ねた。ミッションを再開して再挑戦せよ。",
+	["DictKey_ActionText_43"] = "Checkpoint-13",
+	["DictKey_ActionText_36"] = "チェックポイント 6\
+\
+そのまま進め！",
+	["DictKey_ActionText_33"] = "チェックポイント 3\
+\
+次の谷へ降下する準備をせよ！",
+	["DictKey_ActionText_41"] = "チェックポイント 11\
+あと少しだ！",
+	["DictKey_ActionText_32"] = "Checkpoint-2",
+	["DictKey_ActionRadioText_30"] = "AI ヘルパー",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_44"] = "",
+	["DictKey_ActionText_31"] = "Checkpoint-1",
+	["DictKey_ActionText_46"] = "",
+	["DictKey_ActionText_15"] = "ミッションの準備ができた",
+	["DictKey_ActionText_7"] = "ミッションの準備ができた",
+	["DictKey_ActionText_35"] = "Checkpoint-5",
+	["DictKey_ActionText_13"] = "計時を開始した。幸運を祈る！",
+	["DictKey_ActionText_39"] = "Checkpoint-9",
+	["DictKey_ActionText_47"] = "よくやった！\
+Bodø 飛行場へ着陸できる。",
+	["DictKey_sortie_5"] = "飛行訓練",
+	["DictKey_ActionRadioText_23"] = "A-10 ミッションを開始する",
+	["DictKey_descriptionText_1"] = "飛行訓練、兵装なし。\
+Bodø 南西で空母から発艦後、市街地へ向かう時間計測付きの\"フィヨルド・ラン\"を実施する。",
+	["DictKey_descriptionBlueTask_3"] = "AWACS が離陸するまで待機せよ。\
+マーシャラーが両手を左右に振ったら、スロットルを前進させ、無線メニューで salute を選択する (または [LCtrl] + [LShift] + [S])。\
+発艦後は 5 度上昇を維持せよ。航路は緑色のゲートで示される。\
+グリーンスモークがあるゲートで計時を開始・停止する。\
+必要に応じて Bodø に着陸せよ。",
+	["DictKey_ActionText_12"] = "",
+	["DictKey_ActionText_9"] = "",
+	["DictKey_ActionText_29"] = "ギアを下げている",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionRadioText_22"] = "ミッションを再開する",
+	["DictKey_ActionText_28"] = "ギアを上げている",
+	["DictKey_ActionText_14"] = "",
+	["DictKey_ActionText_38"] = "Checkpoint-8",
+	["DictKey_ActionText_37"] = "チェックポイント 7\
+\
+半分まで来た！",
+	["DictKey_ActionText_42"] = "Checkpoint-12",
+} -- end of dictionary

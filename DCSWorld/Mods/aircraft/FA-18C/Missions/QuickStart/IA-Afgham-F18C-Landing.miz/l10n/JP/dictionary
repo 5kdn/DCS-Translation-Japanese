@@ -1,0 +1,23 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "アフガニスタン: 着陸",
+	["DictKey_descriptionText_1"] = "Kandahar 飛行場から 10 NM 、有視界飛行方式 (VFR) 着陸の進入中である。ストレートイン進入またはオーバーヘッドブレークを実施して飛行場に着陸せよ。",
+	["DictKey_descriptionBlueTask_3"] = "Kandahar 飛行場に着陸せよ。\
+\
+Tower:\
+COMM 1 CH 1 (260.20 MHz)\
+COMM 2 CH 1 (125.50 MHz)",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_6"] = "アフガニスタンへようこそ。アクティブ・ポーズ中である。\
+\
+飛行場着陸用に機体の設定を開始せよ。\
+\
+Radar - STBY\
+左 MFD - HUD\
+右 MFD - CHKLST\
+LDG/TAXI LIGHT - ON\
+\
+進入開始の準備ができたら、[SPACEBAR] を押してください。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

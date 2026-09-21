@@ -1,0 +1,17 @@
+dictionary = 
+{
+	["DictKey_ActionText_6"] = "離陸を許可する。フライトプランに従って飛行しても、自由に探索してもよい。脅威はない。",
+	["DictKey_descriptionText_1"] = "アフガニスタン東部へようこそ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは空母 USS STENNIS 所属の米海軍 F/A-18C 2 機編隊のリーダー、STINGER 4-1 です。あなたのフライトは給油のためカブール飛行場に着陸した。今、空母へ帰投する時だ。滑走路上で離陸準備は整っている。\
+\
+東部アフガニスタン上空で、KC-135 の TEXACO 1-1 が待機している。\
+(COMM 2 CH 1 (251 MHz) TACAN 21Y)。\
+",
+	["DictKey_ActionText_13"] = "CVN-74へ無事帰還した",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "アフガニスタン東部: 滑走路開始",
+	["DictKey_ActionText_11"] = "",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_9"] = "右側の最初の駐機スポットまでタキシングせよ。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary
