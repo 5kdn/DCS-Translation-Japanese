@@ -1,0 +1,516 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "\
+現在一時停止していますが、すぐにアクションを開始できます。\
+\
+ここまでで、F/A-18C の操縦にある程度慣れてきたはずです。このミッションでは、一時停止していない間にコックピットのスイッチを押してセットアップを調整する必要があります。\
+\
+これが難しいと感じても心配しないでください。現実世界の F/A-18C をマスターするには何年もかかります。何度でも再飛行できます。\
+\
+最初は簡単ですが、目標は徐々に難しくなります。\
+\
+準備ができたら、[SPACEBAR] を押して一時停止を解除します。\
+",
+	["DictKey_ActionText_112"] = "",
+	["DictKey_ActionText_29"] = "",
+	["DictKey_ActionText_121"] = "\
+現在、3 つの新しいターゲットがエリア内にいます。すべてを撃墜する必要はありません。これは単なる追加の練習であり、ちょっとした遊びです。\
+\
+残弾がなくなった場合に備えて、Sidewinder ミサイルも搭載されています。必要に応じて使用してください。\
+\
+[LShift] + [X] でガンを選択します。\
+\
+[LShift] + [S] でSidewinderを選択します。\
+",
+	["DictKey_ActionText_223"] = "\
+敵機撃墜！いい腕前です。\
+",
+	["DictKey_ActionText_234"] = "\
+敵機撃墜！いい腕前です。\
+",
+	["DictKey_ActionText_19"] = "\
+加速してターゲットを追いかけてください - スロットルを前に押す (またはキーボード [NUM+])。\
+",
+	["DictKey_ActionText_26"] = "",
+	["DictKey_ActionText_68"] = "\
+** 現在速度が制限されています **\
+",
+	["DictKey_ActionText_155"] = "",
+	["DictKey_ActionText_101"] = "",
+	["DictKey_ActionText_132"] = "READS 000",
+	["DictKey_ActionText_30"] = "",
+	["DictKey_ActionText_85"] = "",
+	["DictKey_ActionText_128"] = "",
+	["DictKey_ActionText_107"] = "",
+	["DictKey_ActionText_124"] = "",
+	["DictKey_ActionText_117"] = "",
+	["DictKey_ActionText_35"] = "",
+	["DictKey_ActionText_13"] = "\
+大型爆撃機が約 12 NM 先を右から左に横切って飛行しています。追撃してください！\
+\
+一時停止を解除します。3…… 2…… 1……\
+",
+	["DictKey_ActionText_28"] = "",
+	["DictKey_sortie_5"] = "F/A-18C 基本A2A訓練 - 20mm機関砲",
+	["DictKey_ActionText_146"] = "9 M AT 0",
+	["DictKey_ActionText_142"] = "9 X",
+	["DictKey_ActionText_56"] = "\
+レティクルの外側 4 時の位置に固定線があります。これは RMax で、目標まで 4000 ft をマークします。これは、F/A-18C 20mm 機関砲の最大射程です。\
+\
+RTT マーカーが円上の RMax を通過すると、4000 ft 以内に到達し、発砲することができます。\
+\
+[SPACEBAR] を押します。\
+",
+	["DictKey_ActionText_100"] = "\
+針路を約 290 に向けて、次の目標を発見しましょう。\
+",
+	["DictKey_ActionText_238"] = "\
+敵機撃墜！いい腕前です。\
+",
+	["DictKey_ActionText_183"] = "",
+	["DictKey_ActionText_173"] = "",
+	["DictKey_ActionText_175"] = "",
+	["DictKey_ActionText_99"] = "\
+次の敵はこの先にいます。\
+\
+スロットルで接近速度を管理することを忘れないでください。\
+",
+	["DictKey_ActionText_181"] = "",
+	["DictKey_ActionText_42"] = "",
+	["DictKey_ActionText_217"] = "",
+	["DictKey_ActionText_34"] = "\
+WACQモードでは、レーダーは 10 NM 以内で最初に発見した目標を自動的にロックします。\
+",
+	["DictKey_ActionText_126"] = "",
+	["DictKey_ActionText_143"] = "",
+	["DictKey_ActionText_17"] = "\
+F/A-18C へようこそ！\
+\
+このミッションでは、F/A-18C の 20mm 機関砲で敵航空機と交戦します。\
+\
+他の基本訓練ミッションをまだ飛行していない場合は、機関砲でヒットを記録するにはある程度のテクニックが必要となるため、このミッションに挑戦する前に他の基本訓練ミッションを完了することをお勧めします。\
+\
+以前と同様に、重要なコントロールのリマインダーが左上に表示されます。\
+\
+[SPACEBAR] を押して開始します。\
+",
+	["DictKey_ActionText_144"] = "\
+残念ですが弾薬が完全になくなってしまいました、しかし空中にはまだ敵がいます。\
+\
+しかし、主要なターゲットを排除することに成功しました。\
+\
+もう一度試すには、[LShift] + [R] を押してミッションを再開することができます。\
+\
+[ESC] メニューから 「終了」 を押してミッションを終了できます。\
+\
+デブリーフィング画面の 「Watch Track」 オプションを使用して、アクションのリプレイを視聴します。\
+\
+[SPACEBAR] または [BACKSPACE] を使用してメッセージをスキップして、基本トレーニングミッションを何度でもリプレイできることを覚えておいてください。\
+\
+追加のより詳細なチュートリアルについては、トレーニング エリアの他のミッションを参照してください。\
+",
+	["DictKey_ActionText_76"] = "",
+	["DictKey_ActionText_161"] = "",
+	["DictKey_ActionText_115"] = "\
+素晴らしい腕前です！すべての敵を撃破しました。見事なまでの手際の良さですね！\
+\
+戦闘後のブリーフィング画面にある「Watch Track」オプションから、今のアクションのリプレイをご覧いただけます。\
+\
+[ESC] から「終了」を選択してミッションを終了してください。\
+\
+[SPACEBAR] または [BACKSPACE] でメッセージをスキップして、基本トレーニングミッションを何度でもリプレイできることを覚えておいてください。\
+\
+さらに詳細なチュートリアルについては、トレーニングエリアの他のミッションを参照してください。\
+\
+楽しい狩猟を！\
+",
+	["DictKey_ActionText_87"] = "\
+ダメージを受けていますが、まだ倒れていません！\
+\
+撃墜することができるでしょうか？必要な場合は、繰り返し試してください。\
+",
+	["DictKey_ActionText_153"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_125"] = "",
+	["DictKey_ActionText_62"] = "\
+F/A-18C へようこそ！\
+\
+このミッションでは、F/A-18C の 20mm 機関砲で敵航空機と交戦します。\
+\
+他の基本訓練ミッションをまだ飛行していない場合は、機関砲で撃墜するにはある程度のテクニックが必要となるため、このミッションに挑戦する前に他の基本訓練ミッションを完了することをお勧めします。\
+\
+以前と同様に、重要なコントロールのリマインダーが左上に表示されます。\
+\
+[SPACEBAR] を押して開始します。\
+",
+	["DictKey_ActionText_69"] = "\
+SET -0.3",
+	["DictKey_ActionText_46"] = "\
+ターゲットを囲む緑色のボックスとキャノピーアーチのライトが見えます。ロックオンされています！\
+\
+機関砲を使用する場合、ミサイルの場合のように音声合図やロック音が鳴らないことに注意してください。\
+\
+将来の参考のために、コックピットの左太腿の左側に武器やその他のシステム トーンの音量スイッチがあります。\
+\
+** これをキーまたはボタンにバインドするには、[ESC] メニューから「コントロール調節」で「WPN 音量コントロールノブ」を見つけます **\
+",
+	["DictKey_ActionText_37"] = "",
+	["DictKey_ActionText_114"] = "",
+	["DictKey_ActionText_54"] = "\
+右側には、目標までの距離 (RTT) が NM で表示されます。\
+\
+レティクルの内側に小さな線が表示されます。これは RTT マーカーであり、レティクル上のターゲットまでの距離を視覚的にプロットします。 \
+\
+現時点では、RTT マーカーは上部にあり、ターゲットに近づくにつれて、RTT マーカーは反時計回りに移動します。\
+\
+[SPACEBAR] を押します。\
+",
+	["DictKey_ActionText_123"] = "\
+残念ですが機関砲の弾がなくなったようです。でも気にしないでください、このミッションは難しいものです！\
+\
+[LShift] + [R] を押してミッションを再開できます。\
+",
+	["DictKey_ActionText_149"] = "",
+	["DictKey_ActionText_51"] = "",
+	["DictKey_ActionText_21"] = "\
+現在速度が制限されており、この説明中も制限されたままになります。\
+\
+VsubC（目標への接近速度）に注意してください。\
+\
+このターゲットはあなたよりもはるかに遅いので、接近しすぎたり、通り過ぎたりしないよう注意してください！\
+\
+距離が縮まったら、照準を合わせて撃つための時間を確保するために、スロットルを絞る必要があるかもしれません。\
+",
+	["DictKey_ActionText_131"] = "READS 0",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_133"] = "READS XXX",
+	["DictKey_ActionText_207"] = "",
+	["DictKey_ActionText_165"] = "",
+	["DictKey_ActionText_199"] = "",
+	["DictKey_ActionText_98"] = "",
+	["DictKey_ActionText_201"] = "",
+	["DictKey_ActionText_103"] = "\
+素晴らしい射撃です。撃墜しました！\
+",
+	["DictKey_ActionText_92"] = "\
+射程内にいます。射撃を開始してください！\
+\
+弾薬には限りがあるので、バーストファイアを使用することを忘れないでください。\
+\
+",
+	["DictKey_ActionText_215"] = "",
+	["DictKey_ActionText_73"] = "\
+SET -0.2",
+	["DictKey_ActionText_169"] = "",
+	["DictKey_ActionText_120"] = "\
+現在、3 つの新しいターゲットがエリア内にいます。すべてを撃墜する必要はありません。これは単なる追加の練習であり、ちょっとした遊びです。\
+\
+残弾がなくなった場合に備えて、Sidewinder ミサイルも搭載されています。必要に応じて使用してください。\
+\
+[LShift] + [X] でガンを選択します。\
+\
+[LShift] + [S] でSidewinderを選択します。\
+\
+新しいターゲットをまだ見つけていない場合は 360 度回転して地平線から目を離さないようにしてください。\
+",
+	["DictKey_ActionText_14"] = "",
+	["DictKey_ActionText_203"] = "",
+	["DictKey_ActionText_129"] = "\
+弾薬がなくなったようですが、敵を倒すために使用できる弾薬はまだあります。覚えておいてください:\
+\
+[LShift] + [S] でSidewinderを選択します。\
+\
+[LShift] + [X] で機関砲を選択します。\
+",
+	["DictKey_ActionText_122"] = "",
+	["DictKey_ActionText_90"] = "\
+まもなく別の目標を追いますが、今度の目標はより小さく、命中させるのが難しくなります！\
+\
+方位約250に旋回してください。次の目標を設定します。\
+\
+現在、対気速度の制限は解除され、スロットルは全開に設定されています。\
+",
+	["DictKey_ActionText_31"] = "\
+機関砲を選択すると、HUD の下部に弾薬が表示されます。\
+\
+Sidewinder ミッションで行ったのと同じように、WACQ (Wide Acquisition) ACM モードを使用して、レーダーが武器の照準を支援できるようにします。\
+",
+	["DictKey_ActionText_74"] = "\
+SET -0.3",
+	["DictKey_ActionText_240"] = "\
+お見事。非常に効率的な射撃でした。\
+\
+デブリーフィング画面の「Watch Track」オプションを使用するとリプレイを見ることができます。\
+\
+[ESC] メニューから 「終了」を選択してミッションを終了できます。\
+\
+[SPACEBAR] または [BACKSPACE] を使用してメッセージをスキップして、基本トレーニングミッションを何度でもリプレイできることを覚えておいてください。\
+\
+さらに詳細なチュートリアルについては、トレーニング エリアの他のミッションを参照してください。\
+\
+楽しい狩猟を！\
+",
+	["DictKey_ActionText_93"] = "",
+	["DictKey_ActionText_50"] = "\
+** リマインダー: いつでも [BACKSPACE] を押して説明を省略させます **\
+",
+	["DictKey_ActionText_127"] = "",
+	["DictKey_ActionText_61"] = "\
+**このミッションを再飛行する場合は、[BACKSPACE] を押して導入テキストをスキップしてください**\
+",
+	["DictKey_ActionText_189"] = "",
+	["DictKey_ActionText_75"] = "\
+** 対気速度は無制限。スロットルをフルに設定 **\
+",
+	["DictKey_ActionText_137"] = "GUN_AA_Round_Data",
+	["DictKey_ActionText_110"] = "\
+現在、3 つの新しいターゲットがエリア内にいます。すべてを撃墜する必要はありません。これは単なる追加の練習であり、ちょっとした遊びです。\
+\
+残弾がなくなった場合に備えて、Sidewinder ミサイルも搭載されています。必要に応じて使用してください。\
+\
+新しいターゲットをまだ見つけていない場合は、360 度回転して地平線から目を離さないようにしてください。\
+",
+	["DictKey_ActionText_141"] = "9X",
+	["DictKey_ActionText_15"] = "\
+大型爆撃機が約 12 NM 先を右から左に横切って飛行しています。追撃してください！\
+",
+	["DictKey_ActionText_24"] = "",
+	["DictKey_ActionText_224"] = "\
+1 機撃墜、残り 2 機！\
+",
+	["DictKey_ActionText_140"] = "HUD_AA_Show_X",
+	["DictKey_ActionText_105"] = "\
+被弾していますが、まだ撃墜していません！\
+\
+撃墜してみてください！\
+",
+	["DictKey_ActionText_130"] = "\
+残念ですが弾薬が完全になくなってしまいました、しかし空中にはまだ敵がいます。\
+\
+しかし、主要なターゲットを排除することに成功しました。\
+\
+もう一度試すには、[LShift] + [R] を押してミッションを再開することができます。\
+\
+[ESC] メニューから 「終了」 を押してミッションを終了できます。\
+\
+デブリーフィング画面の「Watch Track」オプションを使用して、アクションのリプレイを視聴します。\
+\
+[SPACEBAR] または [BACKSPACE] を使用してメッセージをスキップして、基本トレーニングミッションを何度でもリプレイできることを覚えておいてください。\
+\
+追加のより詳細なチュートリアルについては、トレーニング エリアの他のミッションを参照してください。\
+",
+	["DictKey_ActionText_89"] = "",
+	["DictKey_ActionText_163"] = "",
+	["DictKey_ActionText_71"] = "\
+SET 0",
+	["DictKey_ActionText_157"] = "",
+	["DictKey_ActionText_60"] = "\
+ターゲットを機関砲のレティクル内に入れるように飛行します。円の中心にあるピッパーで狙いを定めてください。\
+\
+敵を追い続けます。\
+",
+	["DictKey_ActionText_185"] = "",
+	["DictKey_ActionText_33"] = "\
+WACQ モードを選択するには、Sensor Control Switch を左に押します。\
+\
+キーボード [RAlt] + [,] を押して、WACQ レーダーモードに入ります。\
+",
+	["DictKey_ActionText_66"] = "\
+SET 0.1",
+	["DictKey_ActionText_231"] = "",
+	["DictKey_ActionText_171"] = "",
+	["DictKey_ActionText_22"] = "",
+	["DictKey_ActionText_226"] = "\
+2 機撃墜！残り 1 機...\
+",
+	["DictKey_ActionText_20"] = "",
+	["DictKey_ActionText_108"] = "\
+レーダーが新たな敵を捉えました。\
+\
+今度のターゲットは命中させるのがより難しくなるので、対気速度を慎重に管理し、引き金を引くときは焦らず冷静にタイミングを待ちましょう。\
+\
+残弾数は HUD の下部に表示されています。\
+\
+グッドラック！\
+",
+	["DictKey_ActionText_109"] = "\
+おめでとうございます。メインミッションは完了しました！\
+\
+追加の練習 (そしてちょっとした楽しみ！) のために、追加のターゲットをいくつかアクティブにして、追いかけることができます。\
+\
+[SPACEBAR] を押して新しいターゲットをアクティブにするか、[BACKSPACE] を押してミッションを今すぐ終了してください。\
+",
+	["DictKey_ActionText_106"] = "\
+撃墜！空対空射撃は本当に難しい。お見事です。\
+",
+	["DictKey_ActionText_139"] = "HUD_AA_GunDataRound",
+	["DictKey_ActionText_191"] = "",
+	["DictKey_ActionText_83"] = "",
+	["DictKey_ActionText_221"] = "",
+	["DictKey_ActionText_193"] = "",
+	["DictKey_ActionText_82"] = "",
+	["DictKey_ActionText_12"] = "\
+** 前置きは省略 - 幸運を祈ります! **\
+",
+	["DictKey_ActionText_209"] = "",
+	["DictKey_ActionText_213"] = "",
+	["DictKey_ActionText_95"] = "",
+	["DictKey_descriptionText_1"] = "このミッションでは:\
+\
+- 20mm機関砲の照準を支援するための HUD キューの読み取り方を学びます。\
+- バーストファイアテクニックを使用して射撃を練習します。\
+- 射撃をリードする練習をします。\
+- 領空を守るために学んだすべてを統合しましょう！\
+\
+グッドラック！\
+",
+	["DictKey_ActionText_167"] = "",
+	["DictKey_ActionText_18"] = "",
+	["DictKey_ActionText_25"] = "\
+** 機関砲の説明を消したい場合は、[BACKSPACE] をもう一度押してください **\
+",
+	["DictKey_ActionText_23"] = "",
+	["DictKey_ActionText_86"] = "",
+	["DictKey_ActionText_219"] = "",
+	["DictKey_ActionText_148"] = "9X AT 0",
+	["DictKey_ActionText_41"] = "\
+** 説明は省略されました **\
+",
+	["DictKey_ActionText_58"] = "\
+ターゲットを機関砲のレティクル内に入れるように飛行します。円の中心にあるピッパーで狙いを定めてください。\
+",
+	["DictKey_ActionText_250"] = "",
+	["DictKey_ActionText_65"] = "\
+SET 0.3",
+	["DictKey_ActionText_88"] = "\
+撃墜！素晴らしい射撃です。\
+",
+	["DictKey_ActionText_32"] = "\
+ターゲットを囲む緑のボックス、キャノピーアーチのライト、そして音声合図でお分かりでしょう。ロックオン完了です！\
+\
+今回も、耳を守るためにロック音の音量を下げています。今後の参考までに、コクピット内の左太ももの左側には、武器の音に関する音量スイッチがあります。\
+\
+** これをキーまたはボタンにバインドするには、[ESC] メニューから「コントロール調節」で「WPN 音量コントロールノブ」を見つけます **\
+",
+	["DictKey_ActionText_197"] = "",
+	["DictKey_ActionText_187"] = "",
+	["DictKey_ActionText_52"] = "",
+	["DictKey_ActionText_49"] = "\
+HUD の中央にある円はガン レティクルなので、レティクルの中心にあるドット (ピッパー) で照準を合わせる必要があります。\
+\
+以前と同様に、外側の円もロックされたターゲットまでの距離と武器の射撃範囲を視覚化します。\
+\
+左の画像の上部にマークされた距離 0 を探し、円の周囲を時計回りに見るにつれてターゲットまでの距離が増加することを想像してください。\
+\
+[SPACEBAR] を押して続行します。\
+",
+	["DictKey_ActionText_145"] = "9 X AT 0",
+	["DictKey_ActionText_134"] = "READS xxx",
+	["DictKey_ActionText_104"] = "",
+	["DictKey_ActionText_135"] = "READS nil",
+	["DictKey_ActionText_102"] = "",
+	["DictKey_ActionText_179"] = "",
+	["DictKey_ActionText_116"] = "\
+もう 1 つ役立つ追加のヒント: ターゲットがロックされている場合、「Undesignate」ボタン(デフォルトでは [S]) を押すと、ロックを解除して新しいターゲットを取得できます。\
+\
+これは、敵をロックオンしてもう交戦したくない場合、またはターゲットを切り替えたい場合に便利です。\
+\
+ここで「Undesignate」([S])を押して、何が起こるか見てみましょう。\
+",
+	["DictKey_ActionText_97"] = "\
+これは次の敵を倒すために非常に重要です。敵はより小さなターゲットであり、真っ直ぐに飛んでくるわけではありません。\
+\
+狙いを定めたピッパーがターゲットの上にある限り(射程内にいる限り)、引き金を引くと命中するはずです。\
+\
+[SPACEBAR] を押して新しいターゲットを攻撃します。\
+",
+	["DictKey_ActionText_79"] = "\
+敵の赤いテキストラベルは、学習の際に役立ちます。\
+\
+[LShift] + [F10] を押してラベル タイプを順番に押してみてください。好みのラベルタイプが見つかるかもしれません。\
+",
+	["DictKey_ActionText_7"] = "",
+	["DictKey_ActionText_159"] = "",
+	["DictKey_ActionText_72"] = "\
+SET -0.1",
+	["DictKey_ActionText_6"] = "\
+SET -0.1",
+	["DictKey_ActionText_151"] = "",
+	["DictKey_ActionText_91"] = "\
+よし、当面は針路 250 で飛行を続けてください。\
+\
+最後の機体と交戦している際、レティクルやピッパーが HUD 上でフラフラと動いていたことに気づいたかもしれません。\
+\
+この偏差は、あなたとターゲットの間の距離と速度の変化をレーダーが補正するものです。多くの場合、偏差射撃する必要があります。\
+",
+	["DictKey_ActionText_64"] = "\
+SET 0.2",
+	["DictKey_ActionText_81"] = "\
+もうすぐ射程内に入ります！\
+\
+接近速度を覚えておいてください。ターゲットを狙って撃ち落とすまでの時間を増やすために、スロットルを戻す必要がある場合があります。\
+\
+RTT マーカーが RMax を超えると、発砲できるほど近づいたことになります。\
+\
+バースト射撃、またはトリガーまたは [SPACEBAR] を短く押してみてください。\
+",
+	["DictKey_ActionText_195"] = "",
+	["DictKey_ActionText_111"] = "\
+敵機撃墜！ナイスショット。\
+",
+	["DictKey_ActionText_39"] = "\
+敵を追いかけている間、HUD をよく見てください。\
+\
+20mm 機関砲使用時の HUD シンボルの多くは、Sidewinder および BVR ミッションのシンボルと似ています。\
+\
+核となる概念についてはすぐに説明しますが、すでに知っている部分は [SPACEBAR] を押して飛ばしてください。\
+",
+	["DictKey_ActionText_94"] = "\
+** 速度は無制限。スロットルをフルに設定 **\
+",
+	["DictKey_ActionText_232"] = "",
+	["DictKey_ActionText_211"] = "",
+	["DictKey_ActionText_228"] = "",
+	["DictKey_ActionText_243"] = "",
+	["DictKey_ActionText_268"] = "",
+	["DictKey_ActionText_136"] = "AA_Gun_Root",
+	["DictKey_ActionText_236"] = "",
+	["DictKey_ActionText_119"] = "\
+運が悪かった！気にしないでください、これは難しい課題です。\
+\
+[LShift] + [R] を押してミッションを再開します。\
+",
+	["DictKey_ActionText_27"] = "\
+[LShift] + [X] を押すか、バインドされたジョイスティック ボタンを押して 20mm 機関砲を選択します。\
+",
+	["DictKey_ActionText_67"] = "\
+SET 0",
+	["DictKey_descriptionBlueTask_3"] = "20mm機関砲で複数の敵と交戦 – 全機撃墜できるか試してみましょう！",
+	["DictKey_ActionText_16"] = "",
+	["DictKey_ActionText_177"] = "",
+	["DictKey_ActionText_70"] = "",
+	["DictKey_ActionText_77"] = "",
+	["DictKey_ActionText_272"] = "\
+新しい敵をまだ見つけていない場合は、おそらく左側のどこかにいるでしょう。\
+\
+左旋回して方位 160 に進み、高度約 6000 ft を維持して、目を離さないようにしてください。\
+\
+WACQ レーダーモードは 10 NM の範囲内の敵のみを捕捉することに注意してください。\
+",
+	["DictKey_ActionText_118"] = "\
+運が悪かった！気にしないでください、これは難しい課題です。\
+\
+[LShift] + [R] を押してミッションを再開します。\
+",
+	["DictKey_ActionText_229"] = "\
+Sidewinder を選択した場合、レーダーを Boresight または WACQ ACM モードにリセットする必要がある場合があります。\
+\
+[RAlt] + [;] を押して Boresight ACMモードを設定します。\
+\
+[RAlt] + [,] で WACQ ACM モードを選択します。\
+",
+	["DictKey_ActionText_96"] = "",
+	["DictKey_ActionText_138"] = "AA_Gun_X",
+	["DictKey_ActionText_205"] = "",
+	["DictKey_ActionText_147"] = "9M AT 0",
+} -- end of dictionary

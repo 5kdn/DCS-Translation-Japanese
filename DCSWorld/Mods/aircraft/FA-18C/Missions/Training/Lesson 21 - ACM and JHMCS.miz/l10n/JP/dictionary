@@ -1,0 +1,289 @@
+dictionary = 
+{
+    ["DictKey_ActionText_170"] = "最後に、SMS ページ (左 DDI) でウイングステーションに切り替えて AIM-9X を選択してください。(HOTAS、WSS、Sidewinder Select を押します)\
+\
+続行して飛行を開始する準備ができたら、[SPACEBAR] を押してください。",
+    ["DictKey_UnitName_85"] = "",
+    ["DictKey_ActionText_29"] = "Winchester AIM-9M",
+    ["DictKey_WptName_86"] = "",
+    ["DictKey_ActionText_53"] = "おめでとうございます: すべての目標との交戦に成功し、F/A-18C でのこの訓練を完了しました。今すぐトレーニングを終了することも、飛行を続けることもできます。他のいくつかの敵航空機がこのエリアに出現します。(F10マップを確認してください)",
+    ["DictKey_WptName_113"] = "",
+    ["DictKey_GroupName_56"] = "",
+    ["DictKey_ActionText_26"] = "Intro\
+\
+PSBC",
+    ["DictKey_WptName_41"] = "",
+    ["DictKey_ActionText_68"] = "2 番目の目標の撃墜に失敗し、ミサイルがなくなりました。\
+\
+最初からやり直すことも、飛行を続けることもできます。",
+    ["DictKey_ActionText_155"] = "(TMS Up で BORE に設定することもできます)",
+    ["DictKey_ActionText_198"] = "すべての目標と交戦する前にミサイルを使い切ってしまいました。飛行を続けることはできますが、新たな目標は出現しません。",
+    ["DictKey_ActionText_49"] = "第二波では撃墜できませんでした - もっと練習しましょう",
+    ["DictKey_ActionText_160"] = "FOX-2",
+    ["DictKey_ActionText_132"] = "",
+    ["DictKey_ActionText_30"] = "ターゲットを撃墜！",
+    ["DictKey_WptName_100"] = "",
+    ["DictKey_WptName_112"] = "",
+    ["DictKey_WptName_145"] = "",
+    ["DictKey_UnitName_121"] = "Ground TGTs-2",
+    ["DictKey_GroupName_76"] = "",
+    ["DictKey_WptName_46"] = "",
+    ["DictKey_UnitName_20"] = "TGT MiG21-2",
+    ["DictKey_WptName_13"] = "",
+    ["DictKey_ActionText_196"] = "DEBUG reset 1",
+    ["DictKey_ActionText_28"] = "",
+    ["DictKey_sortie_5"] = "F/A-18C - ACM および JHMCS トレーニング",
+    ["DictKey_GroupName_10"] = "Naval-1",
+    ["DictKey_UnitName_123"] = "Ground TGTs-4",
+    ["DictKey_WptName_109"] = "",
+    ["DictKey_GroupName_32"] = "TGT Su17-A",
+    ["DictKey_ActionText_183"] = "SMSページ (右 MFD) で AIM-9X が選択されていることを確認し、OSB 19 でミサイルをボアサイト (BORE) に設定します。\
+\
+続行する準備ができたら、[SPACEBAR] を押してください。",
+    ["DictKey_WptName_101"] = "",
+    ["DictKey_UnitName_122"] = "Ground TGTs-3",
+    ["DictKey_GroupName_84"] = "",
+    ["DictKey_WptName_99"] = "",
+    ["DictKey_WptName_15"] = "",
+    ["DictKey_ActionText_236"] = "... 2回 ...",
+    ["DictKey_UnitName_125"] = "Ground TGTs-6",
+    ["DictKey_WptName_144"] = "",
+    ["DictKey_WptName_40"] = "",
+    ["DictKey_ActionText_67"] = "3 番目の目標の撃墜に失敗し、ミサイルがなくなりました。\
+\
+最初からやり直すことも、飛行を続けることもできます。",
+    ["DictKey_ActionText_255"] = "",
+    ["DictKey_ActionText_168"] = "少し時間を取って、頭 (ヘッドビュー）を左右に動かしてみてください。HMD の表示だけでなく、レーダーの中心線 (ボアサイトの照準位置) も頭の動きに合わせて移動することに注目してください。\
+\
+次の訓練では、目標機を目視で発見し、追跡するだけで構いません。目標がレーダーのジンバル限界内にあり、距離が 10 NM 未満になると、目標は自動的にロックされます。\
+\
+その時点で、通常どおり交戦を続けてください。\
+\
+内容を理解し、準備ができたら、[SPACEBAR] を押してください。",
+    ["DictKey_ActionText_225"] = "グッドキル！",
+    ["DictKey_ActionText_153"] = "そうすると、レーダーが作動を停止し、HUDにNO RADと表示されることに気づくでしょう。\
+\
+次の手順では、OSB2 を 3 回押してレーダーをBoresight Mode (BORE) に設定します。\
+\
+(なお、TMS UpでもBOREを選択できます)",
+    ["DictKey_descriptionRedTask_2"] = "",
+    ["DictKey_WptName_142"] = "",
+    ["DictKey_UnitName_38"] = "TGT Su17-B",
+    ["DictKey_UnitName_57"] = "",
+    ["DictKey_UnitName_35"] = "TGT 2 -1-2",
+    ["DictKey_ActionText_62"] = "",
+    ["DictKey_ActionText_69"] = "",
+    ["DictKey_ActionComment_51"] = "DictKey_ActionComment_51",
+    ["DictKey_WptName_14"] = "",
+    ["DictKey_UnitName_105"] = "Mi-24 TGT-2-2",
+    ["DictKey_ActionText_152"] = "レーダーは現在ACM BOREモードになっています。HUD は図のように表示されているはずです。選択されている兵器と残弾数 - AIM-9M (9M 2) - が表示されていることに注目してください。HUD 中央には破線の円、レーダー自動捕捉捜索ゾーンが表示されます。この円を目標に向け、目標が 10 NM 以内に入ると、レーダーと兵器システムが自動追尾に移行します。AIM-9 の交戦情報が HUD に表示されます。\
+\
+準備ができたら、[SPACEBAR] を押してください。",
+    ["DictKey_WptName_148"] = "",
+    ["DictKey_ActionText_47"] = "よくやった。\
+\
+AMPCD の PB 12 を使用して Waypoint 2 に切り替え、次の航過の準備を始めます。",
+    ["DictKey_ActionText_54"] = "FOX-2",
+    ["DictKey_WptName_45"] = "",
+    ["DictKey_ActionText_192"] = "DEBUG Missile Check",
+    ["DictKey_ActionText_149"] = "左側の MFD で、最初に OSB1 を押して、レーダー モードを CRM から ACM に変更してください……",
+    ["DictKey_GroupName_16"] = "TGT MiG25",
+    ["DictKey_ActionText_131"] = "これを行うと、左側の DDI にStores Management System(SMS) が表示され、AIM-9X が選択されていることを確認してください。\
+\
+武器選択スイッチを使用して、センタープッシュ(HOTAS、スティック、WSS、サイドワインダー選択、キーボードの [LShift] + [S]) を使用して、AIM-9X ステーションを経由して AIM-9M に移動します。\
+\
+準備ができたら、[SPACEBAR] を押してください。",
+    ["DictKey_WptName_9"] = "",
+    ["DictKey_UnitName_11"] = "Naval-1-1",
+    ["DictKey_descriptionNeutralsTask_4"] = "",
+    ["DictKey_ActionText_50"] = "",
+    ["DictKey_ActionText_165"] = "目標がフレアによる対抗措置を使ってくることを言い忘れていましたか？",
+    ["DictKey_WptName_95"] = "",
+    ["DictKey_UnitName_60"] = "TGT MiG21",
+    ["DictKey_WptName_58"] = "",
+    ["DictKey_ActionText_245"] = "DELETE.",
+    ["DictKey_ActionText_66"] = "最初の目標の撃墜に失敗し、ミサイルがなくなりました。\
+\
+最初からやり直すことも、飛行を続けることもできます。",
+    ["DictKey_WptName_36"] = "",
+    ["DictKey_ActionText_243"] = "目標の MiG-19 は、東の丘陵地帯から現れます。\
+\
+WP 2へ向かう間、機首の右側を警戒してください。\
+\
+目標を視認したら、ロックするまで目標を視野の中央に捉え続けてください。\
+\
+健闘を祈る！",
+    ["DictKey_ActionText_240"] = "",
+    ["DictKey_WptName_19"] = "",
+    ["DictKey_ActionText_31"] = "お疲れ様でした - FWD QTR アスペクトショット\
+\
+1 - レーダー範囲を 40 NM にセット\
+2 - 空中ターゲットの検索/ロック\
+3 - 加速し、そこに向かって飛行する\
+3 - AIM-9 シーカーをアンケージ\
+5 - レーダー範囲を監視\
+6 - シュート \
+\
+WRプッシュスペース",
+    ["DictKey_WptName_110"] = "",
+    ["DictKey_ActionText_172"] = "WP 3へ向かう途中、前方に MiG-29 が現れます。MiG-29 は一連の激しい回避機動を行います。\
+\
+先ほど学んだ技術を使用して、MiGを捕捉、ロックし、交戦してください。",
+    ["DictKey_ActionText_136"] = "",
+    ["DictKey_ActionText_141"] = "あなたは MiG-29 を撃破できませんでしたが、この訓練は完了しました。",
+    ["DictKey_ActionText_190"] = "ターゲットを撃墜！",
+    ["DictKey_ActionText_140"] = "STYX Missed",
+    ["DictKey_ActionText_164"] = "Winchester; AIM-9 Sidewinders",
+    ["DictKey_ActionText_130"] = "F/A-18C ACMおよび JHMCS 訓練へようこそ。あなたは丘陵地帯上空の 2,500 ft MSL、グダウタ空軍基地から 11 NM 地点にいます。\
+\
+1 時方向、10 km 先の尾根のすぐ向こうに、1 機の Su-25 Frogfoot がグダウタを攻撃しようとしています。これを撃墜しましょう。\
+\
+最初のステップは、航空機を空中戦闘機動(ACM)用にセットアップすることです。\
+ \
+準備ができたら、[SPACEBAR] を押してください。",
+    ["DictKey_WptName_98"] = "",
+    ["DictKey_UnitName_39"] = "TGT 2 -2-2",
+    ["DictKey_ActionText_231"] = "ターゲット撃墜！",
+    ["DictKey_GroupName_87"] = "",
+    ["DictKey_ActionText_22"] = "Intro",
+    ["DictKey_UnitName_88"] = "",
+    ["DictKey_GroupName_42"] = "TGT Su17-C",
+    ["DictKey_ActionText_27"] = "",
+    ["DictKey_WptName_79"] = "",
+    ["DictKey_ActionText_193"] = "",
+    ["DictKey_ActionText_139"] = "STYX Launch",
+    ["DictKey_GroupName_37"] = "TGT Su17-B",
+    ["DictKey_WptName_61"] = "",
+    ["DictKey_WptName_55"] = "",
+    ["DictKey_ActionText_156"] = "展開は速いですが、全体の手順は比較的単純です:\
+\
+1 - 目標を視認する。\
+2 - 機動して目標を自動捕捉サークルの中央に入れる。\
+      - - 目標ロック - -\
+3 - 機動して目標の後方半球から交戦する。\
+4 - LAR内に入ったら - ミサイルを発射する。\
+\
+準備ができたら、[SPACEBAR] を押してください。",
+    ["DictKey_UnitName_43"] = "TGT Su17-C",
+    ["DictKey_ActionComment_194"] = "DictKey_ActionComment_194",
+    ["DictKey_UnitName_124"] = "Ground TGTs-5",
+    ["DictKey_ActionText_248"] = "HMDについて説明します。\
+\
+飛行を再開する準備ができたら、[SPACEBAR] を押してください。",
+    ["DictKey_UnitName_33"] = "TGT Su17-A",
+    ["DictKey_ActionText_157"] = "",
+    ["DictKey_ActionText_134"] = "",
+    ["DictKey_ActionText_64"] = "",
+    ["DictKey_ActionText_25"] = "",
+    ["DictKey_ActionText_228"] = "FOX 2!",
+    ["DictKey_ActionText_233"] = " ",
+    ["DictKey_WptName_78"] = "",
+    ["DictKey_WptName_89"] = "",
+    ["DictKey_ActionText_133"] = "Good Kill!",
+    ["DictKey_WptName_116"] = "",
+    ["DictKey_ActionText_23"] = "ACM 用に F/A-18C をセットアップするには、まずマスターアームがオンになっていることを確認します(すでに正しい位置にあるはずです)。\
+次に、マスターアームの上にある A/A ボタンを押して、F/A-18C を空対空モードにします。",
+    ["DictKey_WptName_108"] = "",
+    ["DictKey_UnitName_44"] = "TGT 2 -3-2",
+    ["DictKey_WptName_107"] = "",
+    ["DictKey_ActionText_197"] = "DEBUG reset 2",
+    ["DictKey_WptName_18"] = "",
+    ["DictKey_ActionText_52"] = "グッドキル",
+    ["DictKey_WptName_96"] = "",
+    ["DictKey_ActionText_24"] = "準備をしましょう:\
+\
+1 - 航空目標の検索/ロック\
+2 - 加速し、そこに向かって飛行する\
+3 - AIM-9 シーカーをアンケージ\
+4 - レーダー範囲を監視\
+5 - シュート\
+\
+WR プッシュスペース",
+    ["DictKey_UnitName_126"] = "Ground TGTs-7",
+    ["DictKey_UnitName_115"] = "",
+    ["DictKey_ActionText_135"] = "Good Kill!",
+    ["DictKey_ActionText_195"] = "DEBUG timer ",
+    ["DictKey_WptName_12"] = "",
+    ["DictKey_UnitName_119"] = "Ground TGTs-1",
+    ["DictKey_ActionText_171"] = "SP 3に切り替え、谷に沿って北へ向かってください。Mi-8は谷を下ってこちらへ向かってきます。\
+",
+    ["DictKey_ActionText_162"] = "FOX-3",
+    ["DictKey_ActionText_235"] = "一回押すと…",
+    ["DictKey_ActionText_167"] = "次に、HOTAS の SCS Forward でレーダーを ACM BORE に戻してください。\
+\
+準備ができたら、[SPACEBAR] を押してください。",
+    ["DictKey_ActionText_48"] = "Good Kill - ただし、3 つ以上のミサイルを使用するにはさらに練習が必要です",
+    ["DictKey_WptName_90"] = "",
+    ["DictKey_ActionText_151"] = "左 MFD で、最初に OSB1 を押して、レーダー モードを CRM から ACM に変更してください……",
+    ["DictKey_ActionText_188"] = "",
+    ["DictKey_ActionText_189"] = "Styx Splash",
+    ["DictKey_ActionText_229"] = "グッドキル！",
+    ["DictKey_WptName_21"] = "",
+    ["DictKey_ActionText_237"] = "...3回。",
+    ["DictKey_ActionText_169"] = "",
+    ["DictKey_WptName_120"] = "",
+    ["DictKey_WptName_143"] = "",
+    ["DictKey_ActionText_70"] = "ターゲット撃墜！",
+    ["DictKey_ActionText_166"] = "次の交戦では、JHMCS - HMD - を使用して目標を目視で捕捉・ロックし、AIM-9X の発射態勢を整えます。\
+\
+HMD のノブを時計回りに回して、HMD をオンにしてください。",
+    ["DictKey_ActionText_63"] = "ナイスジョブ。空対空戦闘で ACM BORE モードと HMD を使用するための基本を学習しました。これで、このレッスンのトレーニング部分は終了です。\
+\
+次に、これらのテクニックを使用してファイターと 1 対 1 の戦いを行います。\
+\
+AMPCD PB12 で Waypoint 3 に移動し…\
+\
+...その後、HOTAS SCS Forward を押してレーダーを ACM BORE にリセットします。\
+\
+準備ができたら、[SPACEBAR] を押してください。",
+    ["DictKey_ActionText_154"] = "左 MFD で、まず OSB1 を押して、レーダーモードを CRM から ACM に切り替えてください……",
+    ["DictKey_ActionText_65"] = "",
+    ["DictKey_UnitName_17"] = "TGT MiG25",
+    ["DictKey_descriptionText_1"] = "このミッションでは、F/A-18C のレーダーの空中戦闘モード(ACM)とそのJoint Helmet Mounted Cueing System(JHMCS)を使用して目標を撃墜する方法を学びます。\
+\
+このトレーニングでは、次の 3 つの戦術的な状況が提示されます。\
+\
+1 - 低速の高速 Su-25 との交戦。\
+\
+2 - MiG-19 中高度での交戦と操縦。\
+\
+3 - 積極的に操縦する MiG-29 との交戦。\
+\
+このミッションを開始するには、DCS: F/A-18C ガイドで概説されているように、F/A-18C の ACM モードの基本を理解しておく必要があります。\
+\
+また、JHMCS の操作、特にヘルメット マウント ディスプレイ (HMD) の操作と命名法にも精通している必要があります。\
+\
+この訓練中に学んだ基本的なシステム スキルは、古典的な空中戦で F/A-18C の武器とセンサーを使用するための足がかりとなります。",
+    ["DictKey_UnitName_77"] = "",
+    ["DictKey_ActionText_249"] = "DELETE",
+    ["DictKey_descriptionBlueTask_3"] = "あなたは Springfield 5-1 です。AIM-9X (翼パイロン) 4 基と AIM-9M (翼端) 2 基を搭載しています。",
+    ["DictKey_ActionText_246"] = "SP2へ向かってください。\
+\
+- ミサイルをアンケージしてください(ミサイルのダイヤモンドが目標に追従するはずです)。\
+- シーカー・ロック (甲高い音)。\
+- 発射\
+\
+健闘を祈る！",
+    ["DictKey_ActionText_219"] = "Ship hit by STYX missile.",
+    ["DictKey_GroupName_59"] = "TGT MiG21",
+    ["DictKey_ActionText_71"] = "local AAM_Shot = {}\
+function AAM_Shot:onEvent(event)\
+    if event.id == world.event.S_EVENT_SHOT then\
+        local AAMmis = event.weapon\
+        local AAMtype = event.weapon:getTypeName()\
+        if AAMtype == \"weapons.missiles.AIM_9\" then\
+            return true\
+        end\
+    end\
+end\
+world.addEventHandler(AAM_Shot)",
+    ["DictKey_GroupName_118"] = "Ground TGTs",
+    ["DictKey_WptName_111"] = "",
+    ["DictKey_ActionText_150"] = "右 DDI で、Sensor Control Switch(HOTAS、スティック、SCS 前方)を使用して、空中戦闘機動(ACM)ボアサイト(BORE)に変更してください。\
+\
+準備ができたら、[SPACEBAR] を押してください。",
+    ["DictKey_ActionText_137"] = "Splash Target!",
+    ["DictKey_ActionText_138"] = "",
+    ["DictKey_WptName_34"] = "",
+    ["DictKey_ActionText_242"] = "ターゲットを撃墜！",
+} -- end of dictionary

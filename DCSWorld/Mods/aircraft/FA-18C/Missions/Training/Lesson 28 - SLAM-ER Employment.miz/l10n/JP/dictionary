@@ -1,0 +1,309 @@
+dictionary =
+{
+	["DictKey_ActionText_10"] = "第1SLAM-ER、目標へ飛行中",
+	["DictKey_ActionText_112"] = "すべてを正しく実施し、ミサイルが正しく作動していれば、両方の目標を破壊し、SLAM-ER がまだ 1 発残っているはずです。\
+\
+[ESC] を押してレッスンを終了するか、飛行を続行できます。飛行を続行する場合は、F10 マップで追加の目標を確認してください。\
+\
+幸運を祈ります。",
+	["DictKey_ActionText_103"] = "2 発目の SLAM-ER の発射を開始する準備ができました。\
+\
+すべての表示を確認し、ミサイルが発射準備完了かつ IN RNG であれば、ウエポンリリースボタンを押してください。",
+	["DictKey_ActionText_36"] = "",
+	["DictKey_ActionText_95"] = "以下に示す目標座標を入力してください(ナレーションはありません)。完了したら [SPACEBAR] を押してください。\
+\
+(この手順は Hornet GPS Weapons Program Training で説明されています)\
+\
+POSN\
+LAT N2, 44 05 28 ENT, 66 ENT\
+LON E6 39 04 50 ENT, 12 ENT\
+\
+ELEV \
+FEET\
+65 ENT.\
+\
+(続行するには [SPACEBAR] を押してください)",
+	["DictKey_ActionComment_117"] = "",
+	["DictKey_ActionText_14"] = "第1SLAM-ER、目標へ飛行中",
+	["DictKey_ActionText_38"] = "",
+	["DictKey_ActionText_122"] = "以下のデータを使用して、目標終末パラメータ(TERM)の位置座標(POSN)および高度(ELEV)を入力してください(ハイライトおよびナレーションはありません):\
+\
+TERM\
+ANG 35\
+VEL 200\
+\
+POSN\
+LAT N 44 43 23.82\
+LON E 37 47 02.17\
+\
+ELEV\
+FEET 10\
+\
+(注: レッスン「FA-18C GPS Weapons Data Entry」では、これらの手順を説明しています)\
+\
+完了したら [SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_91"] = "UFC キーパッドで 15 NM に相当する 1 5 を入力し、ENT を押してください。",
+	["DictKey_ActionText_132"] = "RETURN(PB 19)を押し…\
+\
+…次に PB13 STEP を 2 回(x2)押して STA 8 へ戻ってください。",
+	["DictKey_ActionText_30"] = "",
+	["DictKey_ActionText_85"] = "この STP は POSN、LAT および LON として設定します。データ入力を容易にするため、緯度と経度は簡単な値にします。\
+\
+STP1(UFC PB)を押し、以下の手順を実行してください(ハイライトされません):\
+\
+POSN\
+LAT\
+N 44 00 00.00 \
+\
+POSN\
+LON\
+E 38 30 00.00 \
+ \
+完了したら、[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_128"] = "STEP(PB 13)を押して STA 7 の SLAM-ER へ進めてください。",
+	["DictKey_ActionText_75"] = "左 DDI で STA 7 の SLAM-ER がハイライトされ、設定済みであることを確認してください。\
+\
+FLT が MED、EFUZ が INST に設定されていることを確認してください。\
+\
+続行するには [SPACEBAR] を押してください。",
+	["DictKey_ActionText_107"] = "400 KIAS 未満まで減速してください(DL13 が前方アンテナを使用し続けます)。\
+\
+DL13 表示(右 DDI)を SOI に設定してください(HOTAS DMS Short Right)。\
+\
+距離のカウントダウンを確認してください。14.9 に達すると、IR 表示が有効になります。",
+	["DictKey_ActionText_136"] = "上矢印(PB 12)で WYPT 4 へ進めてください。",
+	["DictKey_ActionText_24"] = "第 1 目標は WYPT 4 に位置しています。\
+\
+中央 DDI/AMPCD の HSI で WYPT を 4 へ進め、WPDSG で目標として指定してください。\
+\
+(注: このレッスンは水上で実施されるため、MAP を OFF にできます。また、SEQ1 を設定すると状況認識に役立ちます。)",
+	["DictKey_ActionText_28"] = "",
+	["DictKey_ActionText_89"] = "終末 IR シーカーを運用する時間を少し長く取るため、まず UFC(PB 14)を押し…\
+\
+次に UFC の DIST PB を押してください。",
+	["DictKey_ActionText_64"] = "機体が安定したら、ウエポンリリースボタンを長押しして STA 8 の SLAM-ER を発射してください。",
+	["DictKey_ActionText_56"] = "左 DDI の STEP(PB 13)を押して STA 2 へ進めてください。",
+	["DictKey_descriptionText_1"] = "このレッスンでは、スタンドオフ対地攻撃ミサイル・拡張応答型(Standoff Land Attack Missile - Extended Response: SLAM-ER)の運用を学びます。 \
+\
+このトレーニングミッションの前提条件は、トレーニングレッスン「F/A-18C - GPS兵装データ入力」です。",
+	["DictKey_ActionText_20"] = "FA-18C スタンドオフ対地攻撃ミサイル・拡張応答型(SLAM-ER)トレーニングへようこそ。\
+\
+あなたは WYPT 1 へ向けて 6,000 ft MSL で飛行しています。現在はアクティブポーズ中です。Master Arm は ON、WYPT 1 が設定されています。\
+\
+特に指示がない限り、ほとんどのハイライトされたボタン操作および [SPACEBAR] 操作は、ただちにレッスンを次の段階へ進めます。初回は、レッスンを進める操作を行う前に、各一連の指示を最後まで聞くことを推奨します。\
+\
+準備ができたら、[SPACEBAR] を押してください。",
+	["DictKey_ActionText_109"] = "",
+	["DictKey_ActionText_99"] = "発射前の最後の手順は、AWW-13 表示を開くことです。\
+\
+右 DDI で PB 18 を押し、次に DL13(PB 8)を押してください。",
+	["DictKey_ActionText_83"] = "次に PB 11 を押して STP を設定してください。",
+	["DictKey_ActionText_8"] = "目標2 - 潜水艦に命中、損傷。",
+	["DictKey_ActionText_12"] = "",
+	["DictKey_ActionText_34"] = "",
+	["DictKey_ActionText_126"] = "STA 2 について、この手順を繰り返してください。\
+\
+HDG UNDF(PB 2)\
+\
+TGT UFC(PB 14)を選択してください。\
+\
+TERM\
+ANG 35\
+VEL 200\
+\
+POSN\
+LAT N 44 43 23.82\
+LON E 37 47 02.17\
+\
+ELEV\
+FEET 10\
+\
+完了したら [SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_40"] = "",
+	["DictKey_ActionText_18"] = "左 DDI の SLMR(PB 6)を押して電源を投入し、AGM-84H のアラインメントを開始してください。",
+	["DictKey_ActionText_16"] = "FA-18C スタンドオフ対地攻撃ミサイル・拡張応答型(SLAM-ER)トレーニングへようこそ。\
+ \
+あなたはWYPT 1へ向けて 8,000 ft MSL で飛行しています。現在はアクティブポーズ中です。Master Arm は ON、A/G モードが設定されています。\
+\
+特に指示がない限り、ほとんどのハイライトされたボタン操作および [SPACEBAR] 操作は、ただちにレッスンを次の段階へ進めます。初回は、レッスンを進める操作を行う前に、各一連の指示を最後まで聞くことを推奨します。\
+ \
+準備ができたら、[SPACEBAR] を押してください。",
+	["DictKey_ActionText_58"] = "STA 2 について、FLT プロファイル、EFUZ および STP の設定を繰り返してください(ハイライトされません)。\
+\
+FLT(PB 4) - LOW まで切り替え\
+EFUZ(PB 5) - INST に設定されていることを確認\
+\
+STP(PB 11)\
+STP 1 を WYPT 1 ENT に設定\
+STP 2 を WYPT 2 ENT に設定\
+STP 3 を WYPT 3 ENT に設定\
+\
+PB 11 で STP を OFF にしてください。\
+\
+完了したら、 [SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_32"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_52"] = "次に UFC の WYPT PB を押し…\
+\
+キーパッドで 1 を押し…\
+\
+…続けて ENT を押してください。",
+	["DictKey_ActionText_44"] = "飛行プロファイルを LOW に設定してください。FLT(PB 4)を切り替えます。(FLT 値 HIGH、MED、LOW は表示下部に表示されます。)",
+	["DictKey_ActionText_62"] = "SLAM-ER 表示(左DDI)、HUD および AMPCD を確認してください。すべてに IN RNG と表示されます。\
+\
+AGM-84H の ALN QUAL が 01 GOOD になるまで待ち(左 DDI 左上の TIMER 7:29)、SLMR の X 印が消えたことを確認してください(左 DDI および HUD)。\
+\
+攻撃を開始する準備ができたら、[SPACEBAR] を押してください。",
+	["DictKey_ActionText_69"] = "最初の 2 発の SLAM-ER は目標へ向かっています。 \
+\
+(飛行中のミサイルを見るには F6 を使用します。)\
+\
+その間に、3 発目の SLAM-ER 攻撃の準備をしてください。\
+\
+続行するには [SPACEBAR] を押してください。",
+	["DictKey_ActionText_46"] = "EFUZ(PB 3)を押して電子信管を瞬発(INST)に設定してください。(EFUZ 値 OFF、INST は表示下部に表示されます)",
+	["DictKey_ActionText_97"] = "STA 7 は発射準備完了です。\
+\
+PB 19 RETURN を押してください。",
+	["DictKey_ActionText_22"] = "",
+	["DictKey_ActionText_6"] = "目標1 - 司令部建物を破壊",
+	["DictKey_ActionText_48"] = "次に、最初の 2 発の兵装にステアポイントを割り当てます。最初の 2 発の SLAM-ER は、FA-18 の最初の 3 つのウェイポイント(WYPT 1、WYPT 2、WYPT 3)で割り当てた STP を使用します。\
+\
+STA 8 の SLAM-ER は、WYPT 1 および 3 の 2 つの STP を使用します。 \
+\
+STA 2 の SLAM-ER は、WYPT 1、2 および 3 の 3 つすべての STP を使用します。 \
+\
+これにより、兵器の目標到達時刻を約 1 分分離できます。\
+\
+STA 8 から開始し、STP(PB 11)を押してミサイルの飛行ステアポイント機能を有効にしてください。",
+	["DictKey_ActionText_67"] = "兵器システムは自動的に STA 2 へ切り替わります。再度ウエポンリリースボタンを長押しして、2 発目の SLAM-ER を発射してください。",
+	["DictKey_ActionComment_119"] = "",
+	["DictKey_ActionText_81"] = "PB 3 でデータリンクを STA 7 に設定してください。",
+	["DictKey_ActionText_130"] = "STA 7 の SLAM-ER に以下のデータを入力してください。\
+\
+HDG UNDF(PB 2)\
+\
+TGT UFC(PB 14)を選択してください。\
+\
+TERM\
+ANG 45\
+VEL 200\
+\
+POSN\
+N 44 05 36.68\
+E 39 03 27.11\
+\
+ELEV\
+FEET 10\
+\
+完了したら [SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_111"] = "照準表示が有効になります: \
+\
+FOV(PB 14)を使用して拡大/縮小してください。\
+\
+TDC で照準線(斜めの破線)を目標潜水艦の中央へ移動してください。\
+\
+Target Designate を押して照準点(細い実線の垂直線および水平線)を再指定してください。",
+	["DictKey_ActionText_42"] = "STA 8 が選択されていることを確認してください。(SMS 図の最も外側、右主翼ステーションです。)\
+\
+次に HDG UNDF(PB 2)および TGT UFC(PB 14)を押してください。",
+	["DictKey_ActionText_73"] = "STA 8 は発射準備完了です。\
+\
+PB 11 で STP を OFF にしてください。",
+	["DictKey_ActionText_54"] = "STP 2 についても、この手順を繰り返してください(ハイライトされません):\
+-STP 2(UFC PB)\
+-WYPT(UFC PB)、 \
+-キーパッド 3 \
+-ENT\
+\
+完了したら、[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_50"] = "UFC で STP1 PB を押してください。",
+	["DictKey_ActionText_93"] = "次の手順は、目標座標(LAT、LON および ELEV)の入力です。\
+MSN(PB 4)を押し…\
+\
+次に UFC TGT(PB 14)を押してください。",
+	["DictKey_ActionText_71"] = "AMPCD の HSI で WYPT 5 へ進め、現在の WYPT に設定してください。\
+\
+A/P を CPL および BALT に設定してください。\
+\
+完了したら [SPACEBAR] を押してください。",
+	["DictKey_ActionText_26"] = "最初に 2 つの目標の目標座標を入力します。 \
+\
+第 1 目標である大きな建物(ノヴォロシースク海軍基地司令部)は、完全な破壊を確実にするため SLAM-ER を 2 発必要とします。STA8 および STA2 の SLAM-ER には、同じ目標座標をプログラムします。 \
+\
+第 2 目標の港内にいる潜水艦には、SLAM-ER を 1 発使用します。\
+\
+まず SLMR DSPLY(PB 12)を表示し…\
+\
+…次に MS(PB 4)を押してください。",
+	["DictKey_ActionText_101"] = "",
+	["DictKey_ActionText_105"] = "発射後、右 DDI の DL13 表示には、\"CENT\" という語に続いて距離のカウントダウンが NM で表示されます。MFD 右上には、Time To Sensor(TTS)の秒単位カウントダウンが表示されます。\
+\
+400 KIAS 未満まで減速してください(DL13 が前方アンテナを使用し続けます)。\
+\
+DL13 表示(右 DDI)を SOI に設定してください(HOTAS DMS Short Right)。\
+\
+距離のカウントダウンと TTS を確認してください。\
+\
+距離が 9.9、TTS が 0 に達すると、照準表示が有効になります。待機してください。",
+	["DictKey_ActionText_134"] = "これらの攻撃航程は、A/P を BALT CPL モードにして飛行します。(この A/P モードに直ちに設定しましょう。)\
+\
+中央 AMPCD の HSI で WPT(PB 11)を押し…\
+\
+…次に AUTO(PB 16)を押してください。",
+	["DictKey_ActionText_87"] = "PB 11 で STP を OFF にしてください。",
+	["DictKey_ActionText_116"] = "TALL RACK EW レーダーサイト\
+\
+N 44 44 23.26\
+E 38 09 49.84\
+\
+1547 ft",
+	["DictKey_descriptionBlueTask_3"] = "AGM-84H SLAM-ER は、AGM-84 ミサイルファミリーの最新型です。主な用途は、長距離(最大151 NM/280 km)から固定目標を攻撃することです。360 kg 弾頭は建物などのインフラ、軽掩体、駐機中の航空機、軽装甲車両および非装甲車両に有効です。\
+\
+飛行航法および終末攻撃には GPS 誘導を使用します。ただし、飛行中に発射機パイロットが着弾地点を再指定して終末飛行段階を調整するため、IR シーカーおよびデータリンクも使用できます。\
+\
+AGM-84H は、目標までの経路に最大 5 個の中間ステアポイントを設定できます。これらは、防空脅威ゾーンの回避、地形マスキングまたは地形追随の利用、単一の発射プラットフォームからの多軸攻撃、Time on Target(TOT)の分離、照準を支援する特定の攻撃方位の設定など、さまざまな理由で設定できます。\
+\
+このトレーニング飛行では、2 つの目標に対して AGM-84H を 3 発使用します。\
+\
+第 1 目標はノヴォロシースク港の建物(黒海艦隊司令部)です。情報によれば、この建物の破壊には AGM-84H が少なくとも 2 発必要です。建物は大きいため、GPS 終末誘導だけで十分な命中が期待できます。SLAM-ER は、あなたの Hornet と目標の間にある海岸丘陵の向こう側、沖合から発射します。ミサイルは最初に南東へ飛行し、折り返してノヴォロシースク湾の河口から進入し、目標建物に着弾します。SLAM-ER の飛行中ステアポイント(STP)は、ミサイルが水上を極低高度で目標まで飛行できるように設定されています。また、TOT の分離にも使用されます。\
+\
+第 2 目標は、トゥアプセ港に停泊中の敵原子力高速攻撃潜水艦です。この目標を撃破するには終末段階の調整が必要です。ミサイルの WPT は、終末段階においてミサイルのIRシーカーが良好な目標画像(HDG および ALT)を得られるように設定します。\
+\
+このトレーニングを開始する前に、FA-18C の HOTAS 機能に習熟しておく必要があります。\
+\
+また、DCS FA-18 ガイドの SLAM-ER セクションを確認してください。FA-18 レッスン「GPS誘導兵装のプログラミング」は、このトレーニング飛行の前提条件です。\
+\
+基本的な HSI およびオートパイロット機能も理解しておく必要があります。HSI による調整および各種オートパイロット設定は指示で案内されますが、簡潔にするためハイライトされません。\
+\
+このトレーニングは脅威の少ない環境で実施します。\
+\
+注: このトレーニングは自分のペースで進められるように設定されています。ほとんどのハイライトされたボタン操作および [SPACEBAR] 操作は、ただちにレッスンを次の段階へ進めます。初回は、レッスンを進める操作を行う前に、各一連の指示を最後まで聞くことを推奨します。このトレーニングミッションを再度使用する場合は、ハイライトされたボタンが表示されたらすぐに押すか、[SPACEBAR] が使用可能になったらすぐに押すことで、慣れたセクションを素早く進められます。",
+	["DictKey_ActionText_120"] = "SLAM-ER の主な機能は、飛行経路に複数(最大 5 個)のウェイポイントをプログラムできることです。これにより、ミサイルを地形の周囲に迂回させたり、敵防空網を回避したりできます。このトレーニングでは複数のウェイポイントを使用し、兵器を山や丘の周囲へ飛行させて目標を攻撃します。兵器同士の干渉を避けるため、着弾時刻が約 1 分間隔となるように設定します。\
+\
+準備ができたら、[SPACEBAR] を押して続行してください。",
+	["DictKey_ActionText_60"] = "アクティブ兵装を STA 8 に設定してください。STEP(PB 13)を 3 回(x3)押して選択を STA8 へ切り替えます。",
+	["DictKey_ActionComment_115"] = "",
+	["DictKey_ActionText_77"] = "この射撃では終末段階の IR シーカーおよびデータリンクを使用します。\
+\
+DL13(PB 7)を押して AWW-13 データリンクを有効にしてください。(枠でハイライトされます)",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_118"] = "Tu-160 BLACKJACK 爆撃機\
+\
+N 44 34 32.69\
+E 38 00 43.74\
+\
+72 ft",
+	["DictKey_ActionText_79"] = "リンクするミサイルを選択するには、WPN(PB 1)を押してください。",
+	["DictKey_ActionText_124"] = "STEP(PB 13)を押して STA 2 の SLAM-ER へ進めてください。",
+	["DictKey_ActionText_138"] = "UFC で A/P を CPL および BALT に設定してください。(ハイライトされません) \
+\
+続行するには [SPACEBAR] を押してください。",
+	["DictKey_sortie_5"] = "FA-18C SLAM-ER 運用",
+	["DictKey_ActionText_114"] = "CLAM SHELL RADAR\
+\
+N 44 40 25.76\
+E 37 46 46.08\
+\
+131 ft",
+} -- end of dictionary
