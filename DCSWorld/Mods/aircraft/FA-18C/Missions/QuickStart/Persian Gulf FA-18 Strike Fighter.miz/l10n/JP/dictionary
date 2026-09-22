@@ -1,4 +1,4 @@
-dictionary = 
+dictionary =
 {
 	["DictKey_WptName_80"] = "MANNY",
 	["DictKey_UnitName_89"] = "Unit #017",
@@ -79,7 +79,7 @@ dictionary =
 \
 https://www.fighterpilotpodcast.com/podcast/017-desert-storm-mig-kill/\
 \
-前方のウェイポイント 1 の先にシーラーズ空軍基地があり、セクター作戦司令部(SOC)が主要目標となる。ブルズアイの MANNY は、北西 20 NM のウェイポイント 4 に位置している。2 番目の目標には POL（燃料・潤滑油）施設が割り当てられる。目標まで戦い抜いて進み、Mk-84 爆弾で破壊して任務を遂行しろ。最後尾には、エリア内の SA-6 地対空ミサイルを制圧するため、AGM-88 HARM を搭載した F/A-18C の編隊が続く。\
+前方のウェイポイント 1 の先にシーラーズ空軍基地があり、セクター作戦司令部(SOC)が主要目標となる。ブルズアイの MANNY は、北西 20 NM のウェイポイント 4 に位置している。第2編隊は POL（燃料・潤滑油）施設が割り当てられる。目標まで戦い抜いて進み、Mk-84 爆弾で破壊して任務を遂行しろ。最後尾には、エリア内の SA-6 地対空ミサイルを制圧するため、AGM-88 HARM を搭載した F/A-18C の編隊が続く。\
 \
 Carrier TCN 74X on ICLS 11 BRC 304",
 	["DictKey_UnitName_88"] = "Unit #016",
