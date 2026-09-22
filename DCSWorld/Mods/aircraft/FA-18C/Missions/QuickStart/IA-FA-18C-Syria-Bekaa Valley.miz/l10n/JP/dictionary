@@ -1,4 +1,4 @@
-dictionary = 
+dictionary =
 {
 	["DictKey_WptName_377"] = "",
 	["DictKey_WptName_314"] = "",
@@ -233,7 +233,7 @@ dictionary =
 	["DictKey_descriptionNeutralsTask_4"] = "",
 	["DictKey_WptName_275"] = "",
 	["DictKey_UnitName_129"] = "Naval-1-1",
-	["DictKey_descriptionBlueTask_3"] = "VFA-37 は訓練キャンプを攻撃する。パッケージは 3 個エレメントに分かれる:\
+	["DictKey_descriptionBlueTask_3"] = "VFA-37 は訓練キャンプを攻撃する。パッケージは 3 つの編隊に分かれる:\
 \
 COLT はウェイポイント 2 の訓練キャンプに対する GBU 攻撃を担当:\
 N 33-48-59.57\
