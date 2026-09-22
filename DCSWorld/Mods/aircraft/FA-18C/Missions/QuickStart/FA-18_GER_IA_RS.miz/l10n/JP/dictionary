@@ -1,10 +1,10 @@
-dictionary = 
+dictionary =
 {
 	["DictKey_ActionText_10"] = "ハンブルク・フィンケンヴェルダー空軍基地へようこそ。離陸を許可する。離陸後、AGM-65F ミサイルをオンにし、FLIR を STBY へ設定せよ。",
 	["DictKey_descriptionNeutralsTask_4"] = "",
 	["DictKey_sortie_5"] = "F/A-18 冷戦期ドイツ: 滑走路開始",
 	["DictKey_descriptionText_1"] = "西ドイツへようこそ。",
-	["DictKey_descriptionBlueTask_3"] = "あなたは RAM 3-1、USS THEODORE ROOSEVELT (CVN-71)に配備されたVFA-83 Cである。西ドイツ北部上空の飛行後、給油のためハンブルク南西のハンブルク・フィンケンヴェルダー空軍基地に立ち寄った。\
+	["DictKey_descriptionBlueTask_3"] = "あなたは USS THEODORE ROOSEVELT (CVN-71)に配備された VFA-83 F/A-18C の RAM 3-1 である。西ドイツ北部上空の飛行後、給油のためハンブルク南西のハンブルク・フィンケンヴェルダー空軍基地に立ち寄った。\
 \
 ハンブルク・フィンケンヴェルダーから離陸し、空母へ帰投する前にハンブルク地域上空を飛行せよ。飛行計画に従うか、自由に探索してもよい。\
 \
