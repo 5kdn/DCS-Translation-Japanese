@@ -1,0 +1,11 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "北イラク: ランウェイスタート",
+	["DictKey_descriptionText_1"] = "2012年頃のイラクへようこそ。\
+",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_6"] = "離陸を許可する。\
+",
+	["DictKey_descriptionRedTask_2"] = "あなたは VMFA-213 所属 F/A-18C 2 機編隊のフライトリード、RATTLER 4-1 である。本日の任務は、Q-West 西方の砂漠地帯における \"Dawn Patrol\" で、同地域で活動する複数の友軍部隊とチェックインすることだ。兵装は 2 x AIM-9M、4 x GBU-38、2 x GBU-16。脅威はない。",
+} -- end of dictionary

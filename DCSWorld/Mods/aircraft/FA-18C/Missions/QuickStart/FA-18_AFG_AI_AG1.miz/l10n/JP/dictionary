@@ -1,0 +1,53 @@
+dictionary = 
+{
+	["DictKey_ActionText_6"] = "イントロ\
+\
+[SPACEBAR] を押してください……",
+	["DictKey_ActionText_7"] = "",
+	["DictKey_descriptionText_1"] = "山地にある反乱軍の兵器集積所を攻撃せよ。",
+	["DictKey_descriptionBlueTask_3"] = "情報機関はヘラート北東の山地に反乱軍の兵器・弾薬集積所を発見した(ブリーフィング図 2 参照) 。配備兵器は BM-21 MRL および BMP-1 IFV である。\
+\
+あなたは SNAKE 3-1、GBU-38 (500 lb JDAM 爆弾) 8 発を搭載した F/A-18C である。この集積所に可能な限り破壊、または損害を与えよ。\
+\
+攻撃可能な目標:\
+    - BM-21 MRL\
+    - BMP-1\
+    - 露出したトラック\
+    - 警備された橋\
+    - 弾薬保管建物\
+    - HQ 建物\
+\
+通信:\
+戦術 - COMM 1CH 1 (305.00 MHz)\
+    - SNAKE 3-1\
+タンカー - COMM 1 CH 2 (275.00 MHz)\
+    - TEXACO 3-1 - KC-135\
+\
+ヘラート・タワー - COMM 2 CH 1 (123.35 MHz)\
+シンダンド・タワー - COMM 2 CH 1 (125.50 MHz)",
+	["DictKey_ActionText_18"] = "アフガニスタンへようこそ。現在 Active Pause 中です。航空機を対地攻撃用に設定してください。\
+\
+オートパイロット:\
+\
+    - HSD で WYPT 1 を選択し、ヘディング・バグを針路へ設定\
+    - UFC で A/P を HSEL および BALT へ設定\
+Stores:\
+    - A/G へ設定\
+    - J-82 を選択\
+    - EFUZ を INST へ設定\
+    - 全ステーションを TOO へ設定\
+\
+センサー:\
+    - R MFD で FLIR を選択\
+    - HSD で WYPT 2 を選択し、WPDSG を選択\
+\
+飛行準備完了後、[SPACEBAR] を押してください。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_subtitle_8"] = "HAWG 6-1; AXMAN 1: 捜索セクター内の敵車列を確認。BM-21 MRL を確認。位置は STRPT 3 付近。攻撃を許可する。",
+	["DictKey_sortie_5"] = "アフガニスタン: 対地攻撃",
+	["DictKey_subtitle_10"] = "HAWG 6-1; AXMAN 1: BM-21 MRL 3 両すべての破壊を確認。反乱軍車両への攻撃を継続してもよい。RTB を許可する。",
+	["DictKey_ActionText_16"] = "HQ 建物に命中、炎上中。",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_14"] = "警備された橋を破壊しろ。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

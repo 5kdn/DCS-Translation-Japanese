@@ -1,0 +1,58 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "AWACS MAGIC 9 へ切り替え、COMM 1 CH 2 (301 MHz)",
+	["DictKey_ActionText_6"] = "ドイツ国内国境侵犯 - 航空機",
+	["DictKey_descriptionText_1"] = "バルト海へようこそ。Theodore Roosevelt 空母戦闘群(CVBG)は NATO 部隊とともに作戦行動中である。始動し、離陸せよ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは VFA-83 F/A-18C 2 機編隊 RAM 4-1 の編隊長である。両機は軽い空対空兵装(2 x AIM-9M および 2 x AIM-7M)を搭載している。\
+\
+始動し、離陸せよ。飛行計画は西ドイツ北部、ドイツ国内国境沿いを通り、ハノーファー地域へ向かう。そこでは Wunstorf Luftwaffe 空軍基地に着陸できる。同基地は多国籍航空ショーを開催中である。航空ショーの地上展示機としてランプに駐機してもよい。飛行計画に従うか、自由に探索してもよい。\
+\
+東ドイツ上空では複数のソ連機が飛行中だが、国境東側に留まるはずである。ベルリン発着の航空回廊では西側の航空機が数機通過中である。NATO は AWACS、CAP、輸送、訓練飛行を含む通常作戦を実施する。\
+\
+開始時は E-2 の管制下にある。北緯 53 度 30 分以南を通過後、NATO E-3A 管制へ切り替える。始動中に F/A-18 のデータリンク(D/L)を有効化し、飛行中は SA 表示で航空状況を確認せよ。\
+\
+通信:\
+北ドイツ戦術 - COMM 1 CH 1 - 251 MHz\
+E-2 - FOCUS 6\
+S-3B - TEXACO 4\
+F-14 CAP - SPRINGFIELD 2-1\
+  訓練飛行\
+ドイツ海軍Tornado - ENDFIELD 6\
+  ヘリコプター飛行\
+UK RAF CH-47 - PONTIAC 9\
+\
+南ドイツ戦術 - COMM 1 CH 2 - 305 MHz\
+NATO E-3A - MAGIC 9\
+USAFE F-15 CAP - DODGE 5\
+  訓練飛行\
+USAFE F-16 Flight 1 - CHEVY 3\
+USAFE F-16 Flight 2 - CHEVY 4\
+LUFTWAFFE F-4E Flight - ENDFIELD 2\
+  ヘリコプター飛行\
+USA AH-64D - GATLING 2\
+USA UH-60 - FORD 1\
+Luftwaffe UH-1 - ENDFIELD 4\
+\
+航空交通管制 - COMM 2\
+CVN-71 ATC - CH1 (128.50 MHz)\
+ハンブルク・タワー - CH 2 (126.85 MHz)\
+ブラウンシュヴァイク・タワー - CH 3 (120.05 MHz)\
+ハノーファー・タワー - CH 4 (120.20 MHz)\
+ヴンストルフ・タワー - CH 5 (121.10 MHz)\
+フランクフルト・タワー - CH 6 (127.30 MHz)\
+ビューヘル・タワー - CH 7 (122.10 MHz)\
+\
+注: すべての貨物飛行は COLT または CARGO コールサインを使用する。\
+\
+航法:\
+CVN-71 TACAN 71X (TR)\
+    ICLS CHAN 4\
+    Link 4 336.0\
+\
+S-3Bタンカー TACAN 12Y (S3B)",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "F/A-18 冷戦期ドイツ: コールドスタート",
+	["DictKey_ActionText_8"] = "ドイツ国内国境侵犯 - ヘリコプター",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_12"] = "北海へようこそ。Theodore Roosevelt CVBG は地域内で NATO 部隊とともに作戦行動中である。始動、離陸し、飛行計画に従うか自由に探索せよ。西ドイツ領空に留まれ。注意: Data Link を有効化せよ。",
+} -- end of dictionary

@@ -1,0 +1,13 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "北イラク: VFR 着陸",
+	["DictKey_descriptionText_1"] = "2012年頃のイラク、アル・サフラ空軍基地に着陸せよ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは VMFA-213 所属の F/A-18C、RATTLER 5-1 である。本日はアル・サフラ空軍基地への着陸が予定されている。RWY 29 L の西約 10 NM 、高度 3000 ft MSL、 250 kt 、クリーン形態から開始する。アクティブ・ポーズ中である。\
+\
+必要に応じてコックピット/アビオニクスの設定を行え。",
+	["DictKey_ActionText_6"] = "イラクへようこそ。現在アクティブ・ポーズ中です。\
+\
+進入を開始する準備ができたら、[SPACEBAR] を押して続行してください。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

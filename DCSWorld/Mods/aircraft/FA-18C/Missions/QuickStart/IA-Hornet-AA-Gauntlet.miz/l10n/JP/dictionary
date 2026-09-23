@@ -1,0 +1,19 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "より高性能な第 4 世代戦闘機、MiG-29 Fulcrum の出番だ。",
+	["DictKey_ActionText_6"] = "F/A-18C による空対空ガントレットミッションへようこそ。前方に MiG-15 がいる。撃墜せよ。勝利するたびに、新たな、より手強い敵が出現する。幸運を祈る。",
+	["DictKey_ActionText_7"] = "よくやった。次は MiG-19 だ。",
+	["DictKey_descriptionText_1"] = "F/A-18C による空対空ガントレットミッションへようこそ。前方に MiG-15 がいる。撃墜せよ。勝利するたびに、新たな、より手強い敵が出現する。幸運を祈る。",
+	["DictKey_descriptionBlueTask_3"] = "連続して出現する各波の敵機を撃墜せよ。",
+	["DictKey_ActionText_17"] = "ミッション成功。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_13"] = "やったな！ガントレットを制覇した。見事だ。",
+	["DictKey_ActionText_9"] = "よくやった。高高度を高速で接近してくるのは MiG-25 Foxbat だ。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "空対空ガントレット",
+	["DictKey_ActionText_16"] = "",
+	["DictKey_ActionText_11"] = "ファルクラムの兄貴分である Su-27 Flanker の登場だ。",
+	["DictKey_ActionText_8"] = "MiG-19 をよく撃墜した。より長射程のミサイルを持つ MiG-23 を相手に、どれだけやれるか見せてもらおう。",
+	["DictKey_ActionText_15"] = "やったな！ガントレットを制覇した。見事だ。",
+	["DictKey_ActionText_12"] = "自分はかなりやれると思っているはずだ。最終試験だ。致命的な MiG-31 が来る。",
+} -- end of dictionary

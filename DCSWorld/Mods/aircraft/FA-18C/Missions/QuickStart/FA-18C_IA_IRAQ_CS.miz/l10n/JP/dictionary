@@ -1,0 +1,9 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "イラク北部: コールド&ダーク",
+	["DictKey_descriptionText_1"] = "2012年頃のイラク、バラド空軍基地へようこそ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは VMFA-213 所属 F/A-18C 2 機編隊を率いる RATTLER 3-1 だ。本日の任務は、夕刻にファルージャ市およびラマディ市上空でオンコール CAS を実施することだ。敵の脅威は予想されていない。飛行計画に従うか、自由に飛行しろ。",
+	["DictKey_ActionText_6"] = "バラド空軍基地へようこそ。天候は快晴、風は弱い。脅威はない。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

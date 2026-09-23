@@ -1,0 +1,69 @@
+dictionary = 
+{
+	["DictKey_ActionText_6"] = "アフガニスタンへようこそ。\
+\
+交戦可能な敵性 Il-76 が数機いる。また、WP 1、3、4 またはその付近にある、スモークでマーキングされた目標とも交戦できる。WP 3 および 4 の目標については、GPS 兵器用の精密座標を利用できる(F10 マップ上のマークを確認)。敵部隊から攻撃を受けることはない。\
+\
+現在はアクティブポーズ中だ。この間に兵装システムと航法システムを設定しろ。飛行準備が整ったら [SPACEBAR] を押せ。",
+	["DictKey_ActionText_18"] = "武装勢力の倉庫:\
+精密緯度経度:\
+ N 34°29'28.86\" E 70°17'47.71\"\
+標高:\
+ 2,013 ft",
+	["DictKey_ActionText_13"] = "空母へ安全に帰投した。",
+	["DictKey_sortie_5"] = "東アフガニスタン: フリーフライト",
+	["DictKey_ActionText_16"] = "武装勢力の弾薬集積所:\
+精密緯度経度:\
+ N 34°54' 34.75\" E 69°28' 41.22\"\
+標高:\
+ 5,405 ft",
+	["DictKey_ActionText_14"] = "武装勢力のロケット陣地:\
+標準緯度経度:\
+ N 33°23' 04\" E 69°44' 13\"\
+標高:\
+ 4,938 ft",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionComment_19"] = "",
+	["DictKey_descriptionText_1"] = "東アフガニスタンへようこそ。交戦可能な敵性 Il-76 が数機いる。WP 付近には 2 組の目標があり(2 本のスモークマーカーを確認)、これらも攻撃できる。敵部隊から攻撃を受けることはない。",
+	["DictKey_ActionText_21"] = "",
+	["DictKey_ActionComment_17"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionComment_15"] = "",
+	["DictKey_ActionText_11"] = "",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_ActionText_9"] = "右側最初の駐機位置までタキシングしろ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは VFA-113 所属で USS JOHN C STENNIS (CVN-74)に展開する米海軍 F/A-18C STING 3-1 だ。1 x AIM-120C、2 x AIM-9M、4 x GBU-12 (GPS誘導500 lbs 爆弾)、4 x CBU-99 (1,500 ft で炸裂するよう信管設定された HEAT 子弾)を搭載している。USS JOHN C STENNIS (CVN-74)は最近この沖合に到着した。本日の任務は、地域慣熟飛行を実施することだ。フライトプランに従っても、自由に飛行してもよい。この地域では米軍および同盟軍の航空機が活動している。\
+\
+本日は AWACS (OVERLORD 1-1)がアフガニスタン上空の空域を管制している。敵性機との交戦を許可する。\
+\
+KC-135 (TEXACO 1-1)がカンダハール市南方を飛行し、空中給油を実施している。\
+\
+WP1、3、4 付近に交戦可能な地上目標がある。\
+\
+WP1 - 武装勢力のロケットランチャー\
+標準緯度経度:\
+ N 33°23' 04\" E 69°44' 13\"\
+標高:\
+ 4,938 ft\
+\
+WP3 - 武装勢力の弾薬集積所\
+精密緯度経度:\
+ N 34°54' 34.75\" E 69°28' 41.22\"\
+標高:\
+ 5,405 ft\
+\
+WP4 - 武装勢力の倉庫\
+精密緯度経度:\
+ N 34°29' 28.86\" E 70°17' 47.71\"\
+標高:\
+ 2,013 ft\
+\
+敵性脅威はない。\
+\
+通信:\
+バグラム飛行場タワー - COMM 2 CH 1 (120.10MHz)\
+OVERLORD 1-1 - COMM 1 CH 1 (305.00MHz)\
+TEXACO 1-1 - COMM 1 CH 2 (275.00MHz) TACAN 13 Y TKR\
+\
+注: Blue Bullseyeはカブール飛行場のTACAN 65に設定されている。",
+} -- end of dictionary

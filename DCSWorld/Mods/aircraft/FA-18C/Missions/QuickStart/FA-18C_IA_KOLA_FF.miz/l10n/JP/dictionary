@@ -1,0 +1,30 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "コラ半島: フリーフライト",
+	["DictKey_descriptionText_1"] = "ノールカップへようこそ。僚機とともに地域内の航空機または水上目標を調査せよ。Banak RNoAF 空軍基地への着陸が予定されている。\
+",
+	["DictKey_descriptionBlueTask_3"] = "あなたは USMC 所属 F/A-18C、SNAKE 5-1 である。ノルウェーの Banak 空軍基地に展開した小規模な USMC 派遣部隊の一員だ。本日、あなたと僚機はノールカップ上空で地域慣熟飛行を実施する。両機とも軽い空対空および空対地兵装を混載している。\
+\
+天候は穏やかである。ROE は WEAPONS HOLD。\
+\
+飛行計画に従っても、自ら探索してもよい。任務は地域内の航空機および海上目標を探知、識別することだ。Banak 空軍基地へ帰投するか、ノルウェー沿岸の南西で行動中の USS THEODORE ROOSEVELT (CVN-71) へ着艦してよい。\
+\
+通信:\
+AEW Tactical - COMM 1 CH 1 - Magic 9 (305.00 MHz)\
+CVN-71 ATC - COMM 1 CH 2 - Rough Rider (124.10 MHz)\
+\
+RNoAF Tactical - COMM 2 CH 1 - (250.00 MHz)\
+  F-16MLUs - COLT 2-1\
+  C-130 - CARGO 1-1\
+Banak AB Tower - COMM 2 CH 2 - (118.050 MHz)\
+\
+航法:\
+CVN-71 TACAN 71X (TR)\
+    ICLS CHAN 20\
+    Link 4 336.0\
+Banak TACAN 47X (BNK)",
+	["DictKey_ActionText_8"] = "ノールカップへようこそ。地域内の航空機および海上目標を調査せよ。",
+	["DictKey_ActionText_6"] = "test",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

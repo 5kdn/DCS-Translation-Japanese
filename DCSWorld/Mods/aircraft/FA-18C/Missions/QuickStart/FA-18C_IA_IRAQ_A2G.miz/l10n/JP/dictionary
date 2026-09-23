@@ -1,0 +1,95 @@
+dictionary = 
+{
+	["DictKey_subtitle_11"] = "PANTHER; FOB RAMADI: 反政府武装勢力のロケット弾発射機を発見した。\
+位置: N 33°25.984'  E 43°17.274'\
+高度: 145 ft\
+",
+	["DictKey_ActionText_6"] = "GBU-38 による CAS の設定 - 指示を確認し終えたら、[SPACEBAR] を押して続行してください。\
+\
+オートパイロット:\
+    - WP1 を設定。\
+    - SEQ と AUTO を設定。\
+    - CPL と BALT を設定。\
+    \
+兵装:\
+    - A/G に設定。\
+    - J-82 を選択。\
+    - FUZ をINSTに設定。\
+    - JDAM DSPLY - MSN を選択。\
+STA 8では。\
+    - MODE を PP から TOO に変更\
+        ○ TOO1 を選択。\
+    - HDG を UNDF に設定。\
+    - TOO UFC を選択。\
+        ○ UFC で ANG を 85 に設定。\
+STA 2へSTEP。\
+    - MODE を PP から TOO に変更。\
+        ○ TOO2 を選択。\
+    - HDG を UNDF に設定。\
+    - TOO UFC を選択。\
+        ○ UFC で ANG を 85 に設定。\
+STA 8 へ STEP で戻る。\
+\
+右 MFD を FLIR に設定。\
+\
+CAS手順:\
+    - TGT WP へ旋回した後\
+        ○ AP HSEL を設定。\
+        ○ WPDSG を選択。\
+ \
+    - FLIR を使用して個別の目標を捜索し、指定。\
+    - IN LAR になる前に、STA 8 と STA 2 にそれぞれ目標を指定。\
+    - 最初の 2 目標を攻撃した後、残りの目標を 1 つずつ捜索、指定、攻撃する。",
+	["DictKey_subtitle_13"] = "PANTHER; FOB RAMADI: 反政府武装勢力のロケット弾発射機を発見した。\
+位置: N 33°26.486'  E 43°17.029'\
+高度: 151 ft (46 m)",
+	["DictKey_ActionText_18"] = "座標:\
+ N 33°25.984'   E 43°17.274'\
+\
+高度:\
+ 145 ft\
+\
+[SPACEBAR] を押して表示を消去し、続行してください。",
+	["DictKey_subtitle_9"] = "PANTHER; FOB ラマディ: 反政府武装勢力のロケット弾発射機を発見した。\
+位置: N 33°25.513'  E 43°17.274'\
+高度: 164 ft",
+	["DictKey_subtitle_15"] = "PANTER lt; FOB Ramada: 命中良好。反政府武装勢力のロケット弾発射機を破壊した。ステーション離脱を許可する。",
+	["DictKey_subtitle_21"] = "SNAKE 8-1; TF DEVLIN: 前進を開始する。ETE 4 分。",
+	["DictKey_sortie_5"] = "イラク北部: 空対地",
+	["DictKey_subtitle_27"] = "SNAKE 8-1; TF DEVLIN: 目標を確保した！",
+	["DictKey_ActionText_19"] = "座標:\
+ N 33°26.486'  E 43°17.029'\
+\
+高度:\
+ 151 ft\
+\
+[SPACEBAR] を押して表示を消去し、続行してください。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_subtitle_25"] = "TF Devlin; ファルージャOPS: 迫撃砲弾が飛来している。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは4 x GBU-38を搭載した VMFA-213 所属 F/A-18C SNAKE 8-1 だ。本日は Task Force Devlin を支援する CAS を割り当てられており、特に反政府武装勢力の防御拠点(重火器)に対する精密攻撃を実施する。市街地であるため、低威力の精密誘導兵器のみ使用を許可する。また、高い着弾角(85°)を使用することで付随被害の可能性を低減できる。\
+\
+情報:\
+拠点は、重機関銃を搭載した\"テクニカル\"、建物屋上に配置された ZU-23、小火器と RPG を装備した戦闘員によって防御されている。さらに、反政府武装勢力は南方約 1.5 km に位置する USMC ファルージャ OPS 基地を散発的に砲撃している。\
+\
+通信:\
+戦術 - COMM 1 CH 1 (305.00MHz)\
+     - SNAKE 8-1\
+     - TF Devlin\
+ATC - COMM 2 CH 1 (118.20MHz)\
+     - Al-Asad Tower",
+	["DictKey_ActionText_20"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_17"] = "座標:\
+ N 33°25.513'  E 43°17.274'\
+\
+高度:\
+ 164 ft\
+\
+[SPACEBAR] を押して表示を消去し、続行してください。",
+	["DictKey_subtitle_23"] = "SNAKE 8-1; TF DEVLIN: 拠点の敵と交戦中。",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_descriptionText_1"] = "ファルージャ市上空でオンコール CAS を実施する。\
+\
+ファルージャの戦いは続いている。USMC 地上部隊はイラクの反政府武装勢力と激しい戦闘を繰り広げている。海兵隊 Devlin 任務部隊は、ファルージャ中心部の支配において重要な反政府武装勢力の拠点を強襲するため前進している。",
+	["DictKey_ActionText_29"] = "",
+} -- end of dictionary

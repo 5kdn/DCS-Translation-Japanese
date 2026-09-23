@@ -1,0 +1,24 @@
+dictionary = 
+{
+	["DictKey_ActionText_6"] = "前方のウェイポイント 1 に、グリーンスモークでマーキングされた前線作戦基地、すなわち FOB Dog がある。北方からレッドスモークでマーキングされた敵車両の一団が接近中だ。発見して撃破せよ。他の敵部隊も Dog に集結しつつあるため、続く任務に備えよ。\
+\
+Maverick を 2 発、クラスター爆弾を 4 発、機関砲は満載している。\
+",
+	["DictKey_ActionText_7"] = "トラックをよく撃破した。東方から硬質道路沿いに Dog へ接近しているのは BMP の小隊だ。青色の発煙でマーキングされている。Dog の兵器射程内に入る前に無力化せよ。",
+	["DictKey_descriptionText_1"] = "前方のウェイポイント 1 に、グリーンスモークでマーキングされた前線作戦基地 Dog がある。北方から敵車両の一団が接近中だ。発見して撃破せよ。他の敵部隊も Dog に集結しつつあるため、続く任務に備えよ。レッドスモークが脅威のおおよその位置を示す。\
+\
+Maverick を 2 発、クラスター爆弾を 4 発、機関砲は満載している。\
+",
+	["DictKey_descriptionBlueTask_3"] = "FOB DOG に対する連続する地上攻撃をすべて撃破せよ。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_ActionText_14"] = "",
+	["DictKey_ActionText_13"] = "ミッション失敗",
+	["DictKey_ActionText_9"] = "ミッション成功。Dog は支援に感謝している。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "空対地ガントレット",
+	["DictKey_ActionText_16"] = "ミッション成功。",
+	["DictKey_ActionText_11"] = "ミッション失敗。敵部隊が FOB Dog を制圧した。",
+	["DictKey_ActionText_8"] = "休む暇はない。Dog の南方、白色の発煙の近くで T-72 を 2 両発見した。Maverick がまだ残っていることを願う。",
+	["DictKey_ActionText_15"] = "ミッション成功。すべての敵部隊を撃破し、FOB Dog の制圧を阻止した。",
+	["DictKey_ActionText_12"] = "",
+} -- end of dictionary

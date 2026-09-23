@@ -1,0 +1,34 @@
+dictionary =
+{
+	["DictKey_ActionText_10"] = "ハンブルク・フィンケンヴェルダー空軍基地へようこそ。離陸を許可する。離陸後、AGM-65F ミサイルをオンにし、FLIR を STBY へ設定せよ。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "F/A-18 冷戦期ドイツ: 滑走路開始",
+	["DictKey_descriptionText_1"] = "西ドイツへようこそ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは USS THEODORE ROOSEVELT (CVN-71)に配備された VFA-83 F/A-18C の RAM 3-1 である。西ドイツ北部上空の飛行後、給油のためハンブルク南西のハンブルク・フィンケンヴェルダー空軍基地に立ち寄った。\
+\
+ハンブルク・フィンケンヴェルダーから離陸し、空母へ帰投する前にハンブルク地域上空を飛行せよ。飛行計画に従うか、自由に探索してもよい。\
+\
+実弾訓練を実施してよい。作戦地域 EDR 57(ウェイポイント 6)の係留された廃船目標を攻撃せよ。2 x AGM-65F(対艦 Maverick)および 4 x Hydra 70 ロケットポッド(76 x M151 ロケット弾)を搭載している。\
+\
+射場で兵器を使用する場合は、離陸後に Maverick ミサイルをオンにせよ。\
+\
+離陸前に FLIR を STBY へ設定し、データリンクを有効化して CVN-71 TACAN と ICLS Channel を入力せよ。\
+\
+空母へ着艦するか、西ドイツの任意の飛行場に着陸してよい。\
+\
+通信:\
+\
+Radio COMM 1\
+NATO Tactical - CH 1 - 251.00 MHz\
+\
+Radio COMM 2\
+Hamburg Finkenwerder ATC - CH 1 - 118.45 MHz\
+CVN-71 ATC - CH 2 - 128.50 MHz\
+\
+CVN-71 TACAN 71X (TR)\
+ICLS CH 4\
+LINK 4 336.00 MHz",
+	["DictKey_ActionText_8"] = "ドイツ国内国境侵犯 - ヘリコプター",
+	["DictKey_ActionText_6"] = "ドイツ国内国境侵犯 - 航空機",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

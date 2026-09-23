@@ -1,0 +1,9 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "高アスペクトBFM",
+	["DictKey_descriptionText_1"] = "機首正面 10 NM に敵性 MiG-29 がいる。交戦を許可する。",
+	["DictKey_descriptionBlueTask_3"] = "MiG-29 および出現する他の敵戦闘機をすべて撃墜しろ。",
+	["DictKey_ActionText_6"] = "機首正面 10 NM に敵性 MiG-29 がいる。交戦を許可する。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

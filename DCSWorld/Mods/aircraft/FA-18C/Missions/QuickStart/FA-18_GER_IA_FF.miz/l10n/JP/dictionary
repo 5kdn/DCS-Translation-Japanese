@@ -1,0 +1,19 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "西ドイツへようこそ。脅威はない。飛行計画に従うか、自由に探索してよい。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "F/A-18 冷戦期ドイツ: フリーフライト",
+	["DictKey_descriptionText_1"] = "西ドイツへようこそ。あなたは現在、ドイツおよびデンマーク沖の北海南西部で行動中の USS THEODORE ROOSEVELT (CVN-71)に配備されている。",
+	["DictKey_descriptionBlueTask_3"] = "あなたはドイツ国内国境付近で慣熟飛行を行う VFA-83 F/A-18C 2 機編隊の編隊長 RAM 3-1 である。両機は 4 x AIM-9M および 2 x AIM-7M を搭載している。\
+\
+天候は穏やかである。ROE は WEAPONS HOLD。\
+\
+飛行計画に従うか、自由に探索してもよい。西・東ドイツ上空の航空状況を提供する NATO E-3A AWACS (MAGIC 9-1)を含め、複数の NATO 航空機が地域で行動中である。Celle 空軍基地または西ドイツの任意の飛行場に着陸できる。\
+\
+CVN-71 TACAN 71X (TR)\
+    ICLS CHAN 4\
+    Link 4 336.0",
+	["DictKey_ActionText_8"] = "ドイツ国内国境侵犯 - ヘリコプター",
+	["DictKey_ActionText_6"] = "ドイツ国内国境侵犯 - 航空機",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

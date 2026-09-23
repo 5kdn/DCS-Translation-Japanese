@@ -1,0 +1,36 @@
+dictionary = 
+{
+	["DictKey_ActionText_6"] = "フィンランド北部へようこそ。",
+	["DictKey_descriptionText_1"] = "NATO とロシアの戦争が始まった…\
+\
+ロシア領内への攻撃任務である。\
+\
+現在 NATO 加盟国であるフィンランドは、ロシアとの長い国境を防衛している。情報によれば、カンダラクシャ近郊のロシア戦域弾道ミサイル (TBM) 駐屯地が TBM 攻撃の準備を進めている。",
+	["DictKey_descriptionBlueTask_3"] = "あなたはフィンランド国内の目標へ発射準備中のロシア TBM を撃破する任務を負った、フィンランド空軍 F/A-18C 2 機編隊の隊長、HORNET 1-1 である。各戦闘機は 8 x Mk-83 1000 lbs 爆弾を搭載している。\
+\
+飛行経路は、オレニヤ南 SA-10 サイトを除くロシア防空網を迂回する。攻撃の最終段階で、HORNET 編隊は SA-10 のミサイル交戦ゾーン (MEZ) に入る。\
+\
+IP へは 1000 ft AGL で進入する。IP 通過後 2.5 NM で約 2000 ～ 3000 ft MSL へポップアップし、最終攻撃進入を開始せよ。目標は発射サイト南側の TBM TEL 3 両である。僚機は TBM 発射地域北側の TBM TEL 3 両を攻撃する。攻撃後は南へ離脱し、その後西へ向かえ。Rovaniemi 空軍基地に着陸せよ。\
+\
+推奨兵装設定:\
+    - MODE - AUTO または CCIP\
+    - MFUZE - Nose\
+    - EFUSE - INST\
+    - Quantity - 8\
+    - Multiple - 2\
+    - Interval - 75 ft\
+\
+推奨 EW 設定: ALE-47 - AUTO 1。ASPJ - XMIT。\
+\
+通信:\
+Tactical - COMM 1 CH 1 (265.00 MHz)\
+Rovaniemi AB Tower - COMM 2 CH 1 (118.70 MHz)\
+\
+戦術メモ: 僚機へ目標攻撃を指示することを忘れるな。",
+	["DictKey_ActionText_13"] = "MISSION SUCCESS: ロシア TBM サイトは無力化した！",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "コラ半島: 空対地",
+	["DictKey_ActionText_11"] = "戦場へようこそ。航法、EW、兵装を設定せよ。",
+	["DictKey_ActionText_8"] = " ",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

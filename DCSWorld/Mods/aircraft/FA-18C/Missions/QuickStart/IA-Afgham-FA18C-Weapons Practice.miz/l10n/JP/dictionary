@@ -1,0 +1,8 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "アフガニスタン: 兵器使用訓練",
+	["DictKey_descriptionText_1"] = "航法ポイント 2 、 3 、 4 には、兵器使用訓練用の静的目標群がある。ポイント 2 (グリーンスモーク)にはトラック数両、ポイント 3 (オレンジスモーク)には自走砲部隊、3 番目のポイント (レッドスモーク)には戦車数両がある。",
+	["DictKey_descriptionBlueTask_3"] = "機関砲、ロケット、ミサイルによる地上部隊への攻撃を訓練せよ。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

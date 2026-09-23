@@ -1,0 +1,44 @@
+dictionary = 
+{
+	["DictKey_subtitle_22"] = "MAGIC 9、CHARLIE BRAVO: 了解。AEGIS は速射で Vampire と交戦。",
+	["DictKey_descriptionText_1"] = "NATO とロシアの戦争が始まった…\
+\
+これは大規模な海上戦である。ロシア海軍北方艦隊との戦いだ。\
+\
+USS Theodore Roosevelt (CVN-71) とその護衛艦は、ロフォーテン諸島による地形遮蔽を利用できるヴェストフィヨルドで行動している。空母を攻撃するには、ロシア北方艦隊の Tu-22M Backfire がノルウェー海上を大きく迂回し、北西から目標へ接近しなければならない。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは CAP ステーション A (CAP A、図 2 を参照) に割り当てられた F/A-18C 2 機編隊の隊長、RAM 3-1 である。兵装は重い空対空装備で、 2 x AIM-9X、 4 x AIM-120B を搭載している。CAP B を埋めるため、別の F/A-18 2 機編隊がまもなく発艦する。E-2D (MAGIC 9) は警戒任務中で、レーダー覆域と Data Link を提供している。S-3B はタンカー周回空域へ向かっている。\
+\
+情報: 少なくとも 4 機の Tu-22M からなる 2 波が、2 時間強前にコラ半島の基地から発進したことを確認した。推定発射地点までの飛行距離と帰投距離から、各 Backfire は AS-4 対艦ミサイルを 1 発のみ搭載していると見積もられる。Tu-142 Bear F も北西で行動中で、Tu-22M へ目標情報を提供する任務に就いている。\
+\
+通信:\
+Strike Group Tactical - COMM 1 CH 1 (305.00 MHz)\
+- CAP A RAM 3-1 F/A-18C\
+- CAP B PONTIAC 4-1 F/A-18C\
+- AEW MAGIC 9-1 E-2D\
+- ALERT 5 RAM 5-1 F/A-18C\
+\
+CVN-71 ATC - COMM 1 CH 2 - Rough Rider (124.10 MHz)\
+S-3 Tanker - COMM 2 CH 1 - Texaco (251.00 MHz)\
+Bodø Tower - COMM 2 CH 2 - Bodø (118.30 MHz)\
+\
+航法:\
+\
+BULLSEYE - Center CVOA (N 67-40-00 / E 013-20-00)\
+\
+CVN-71\
+    TACAN 71X (TR)\
+    ICLS CHAN 20\
+    Link 4 336.0\
+Texaco TACAN 22Y (TKR)\
+Bodø TACAN 45X (BOO)",
+	["DictKey_subtitle_12"] = "RAM 3-1、CHARLIE WHISKEY: Strike 1 と交戦せよ。以上。PONTIAC 4-1 は CAP B へ向かえ。",
+	["DictKey_subtitle_14"] = "PONTIAC 4-1、CHARLIE WHISKEY: Strike 2 と交戦せよ。BREAK。Rough Rider: Alert 5 を発艦させ、CAP A へ向かわせよ。",
+	["DictKey_subtitle_6"] = "CHARLIE BRAVO、MAGIC: Strike 1 が進入に転じ、超音速へ移行中。以上、CHARLIE WHISKEY。",
+	["DictKey_subtitle_8"] = "RAM、MAGIC 9: Alert 5 編隊が発艦し、CAP A へ向かう。",
+	["DictKey_sortie_5"] = "コラ半島: 空対空",
+	["DictKey_subtitle_10"] = "警報！ミサイル発射！繰り返す、ミサイル発射！",
+	["DictKey_subtitle_20"] = "MAGIC 9、CHARLIE BRAVO: 了解。全攻撃部隊は WEAPONS RED かつ FREE。",
+	["DictKey_subtitle_16"] = "RAM、PONTIAC、MAGIC 9: 空母が被弾した。飛行甲板は使用不能。Bodø へダイバートせよ。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

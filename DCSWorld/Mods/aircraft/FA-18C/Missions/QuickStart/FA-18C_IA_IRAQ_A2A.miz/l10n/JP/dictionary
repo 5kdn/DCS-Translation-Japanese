@@ -1,0 +1,24 @@
+dictionary = 
+{
+	["DictKey_ActionText_6"] = "航空迎撃任務が割り当てられた。無人地域上空で爆弾を投棄しろ。",
+	["DictKey_descriptionText_1"] = "イラン軍の航空攻撃に対処する。\
+\
+警報！重武装したイラン軍 Su-25 2 機編隊がイラク国境へ向かっている。目標は不明だ。情報によれば、新たなイラン・イラク戦争を引き起こそうとしている IRIAF の独断行動中の大佐が、この攻撃を指揮している。",
+	["DictKey_descriptionBlueTask_3"] = "\
+あなたは VMFA-213 所属 F/A-18C 2 機編隊を率いる RATTLER 6-1 だ。現在の任務はオンコール CAS だ。各機の兵装は 2 x AIM-9M, 1 x AIM-120B, 6 x Mk-82 だ。爆弾を投棄し、迎撃を急げ。COMM 2 CH 2に切り替え、Bogey Dope を得るため AWACS OVERLOARD 9-1 にチェックインしろ。\
+\
+通信:\
+戦術通信\
+    - COMM 1 CH 1 (250.00MHz)\
+        PANTHER編隊(F-16C)\
+    - COMM 2 CH 1 (305.00MHz)\
+        OVERLORD 9-1 AWACS\
+\
+Al TaquddmTower - COMM 2 CH 2 (135.70MHz)",
+	["DictKey_subtitle_12"] = "SNAKE 7; OVERLORD: 全 Bogey を撃墜した。RTB を許可する。",
+	["DictKey_subtitle_8"] = "SNAKE 7; OVERLORD: Bogey がイラク領空へ侵入した。Hostile 指定。ROE WEAPONS FREE",
+	["DictKey_sortie_5"] = "イラク北部: 空対空",
+	["DictKey_subtitle_10"] = "SNAKE 7; OVERLORD: Fence Warning - 追跡を中止しろ。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

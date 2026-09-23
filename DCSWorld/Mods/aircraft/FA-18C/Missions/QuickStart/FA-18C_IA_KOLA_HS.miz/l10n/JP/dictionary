@@ -1,0 +1,19 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "コラ半島: 滑走路スタート",
+	["DictKey_descriptionText_1"] = "フィンランド北部の Bas 100 高速道路滑走路へようこそ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたはフィンランド空軍 F/A-18C 2 機編隊の隊長、HORNET 2-1 である。本日の任務は離陸し、フィンランド・ロシア国境付近で戦闘哨戒を実施することだ。飛行計画に従っても、自ら探索してもよい。空対空および空対地兵装を混載している。\
+\
+年次訓練の一環として、フィンランドの戦時用高速道路滑走路分散サイトの一つから運用する必要がある。哨戒飛行後、Rovaniemi 空軍基地に着陸するか、Bas 100 へ帰投してよい。\
+\
+通信:\
+Tactical - COMM 1 CH 1 (265 MHz)\
+Bas 100 ATC - COMM 2 CH 1 (118.25 MHz)\
+Rovaniemi Tower - COMM 2 CH 2 (118.70 MHz)",
+	["DictKey_ActionText_8"] = " ",
+	["DictKey_ActionText_6"] = "フィンランド北部の Bas 100 高速道路滑走路へようこそ。\
+\
+離陸許可のグリーンフレアを確認せよ。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

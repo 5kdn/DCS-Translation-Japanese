@@ -1,0 +1,30 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "コラ半島: コールドスタート",
+	["DictKey_descriptionText_1"] = "ヴェストフィヨルドへようこそ。Theodore Roosevelt 空母打撃群はノルウェー海軍および空軍と共同で作戦行動中である。始動、離陸し、地域慣熟飛行を実施せよ。",
+	["DictKey_descriptionBlueTask_3"] = "あなたは VFA-83 所属 F/A-18C、軽い空対空兵装 (2 x AIM-9M および 2 x AIM-120B) を搭載した RAM 3-1 である。\
+\
+天候は良好で、地域に敵部隊はいない。飛行計画に従っても、自ら探索してもよい。CVN-71 への着艦、または Bodø 飛行場への着陸が可能である。\
+\
+通信:\
+AEW Tactical - COMM 1 CH 1 - Magic 9 (305 MHz)\
+CVN-71 ATC - COMM 1 CH 2 - Rough Rider (124.10 MHz)\
+RNoAF F-16 Flight - COMM 1 CH 3 - Colt 2-1 (250.00 MHz)\
+\
+Airborne Tanker - COMM 2 CH 1 - Texaco 7-1 (265.00 MHz)\
+Bodø Tower - COMM 2 CH 2 - Bodø (118.30 MHz)\
+Norwegian Navy AO - COMM 2 CH 3 (128.75)\
+\
+航法:\
+CVN-71 TACAN 71X (TR)\
+    ICLS CHAN 20\
+    Link 4 336.0\
+\
+Bodø TACAN 45X (BOO)\
+\
+S-3B Tanker TACAN 12Y (S3B)",
+	["DictKey_ActionText_8"] = "ヴェストフィヨルドへようこそ。Theodore Roosevelt 空母打撃群はノルウェー海軍および空軍と共同で作戦行動中である。始動、離陸し、地域慣熟飛行を実施せよ。",
+	["DictKey_ActionText_6"] = "test",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary

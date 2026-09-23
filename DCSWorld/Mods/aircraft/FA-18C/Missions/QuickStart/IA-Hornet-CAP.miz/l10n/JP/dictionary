@@ -1,0 +1,27 @@
+dictionary = 
+{
+	["DictKey_ActionText_10"] = "さらに北東では、Su-27 Flanker の護衛を伴う Su-30 2 機編隊を探知した。",
+	["DictKey_ActionText_6"] = "敵航空部隊がイングリ川を越えて南方へ侵入し、ポティおよびセナキ空軍基地付近の目標を偵察・攻撃しようとしている。各侵入を、目標に到達する前に迎撃せよ。一部の編隊には戦闘機の護衛がいる。兵装と僚機を有効に使え。\
+\
+高高度を高速で飛行する偵察機 MiG-25RBT が接近中だ。撃墜せよ。\
+",
+	["DictKey_ActionText_7"] = "Foxbat をよく撃墜した。敵は現在、Su-24MR 偵察機を忍び込ませようとしている。発見して撃墜せよ。",
+	["DictKey_ActionText_18"] = "",
+	["DictKey_sortie_5"] = "F/A-18C CAP",
+	["DictKey_ActionText_16"] = "",
+	["DictKey_ActionText_19"] = "",
+	["DictKey_ActionText_14"] = "ミッション失敗。敵編隊が目標に到達した。",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_descriptionText_1"] = "敵航空部隊がイングリ川を越えて南方へ侵入し、ポティおよびセナキ空軍基地付近の目標を偵察・攻撃しようとしている。各侵入を、目標に到達する前に迎撃せよ。一部の編隊には戦闘機の護衛がいる。兵装と僚機を有効に使え。\
+\
+高高度を高速で飛行する偵察機 MiG-25RBT が接近中だ。撃墜せよ。\
+",
+	["DictKey_ActionText_9"] = "敵は再び侵入を試みている。今回は Su-34 Fullback と MiG-29S の護衛だ。セナキ飛行場へ向かっているようだ。",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_17"] = "",
+	["DictKey_descriptionBlueTask_3"] = "国境を越える各敵編隊を、目標に到達する前に撃墜せよ。",
+	["DictKey_ActionText_11"] = "敵の最後の攻撃は、致命的な MiG-31 Foxhound の支援を受けた Tu-22M3 Backfire だ。",
+	["DictKey_ActionText_8"] = "戦闘機の護衛を伴う Su-24 Fencer 2 機がポティへ接近中だ。注意せよ。この編隊は手強い。",
+	["DictKey_ActionText_15"] = "見事だ！すべてのウェーブが目標に到達する前に撃破した。よくやった。",
+	["DictKey_ActionText_12"] = "見事だ！すべてのウェーブが目標に到達する前に撃破した。よくやった。",
+} -- end of dictionary

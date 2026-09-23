@@ -1,0 +1,48 @@
+dictionary = 
+{
+	["DictKey_UnitName_22"] = "Static F/A-18C Lot 20-1",
+	["DictKey_WptName_11"] = "",
+	["DictKey_WptName_39"] = "",
+	["DictKey_UnitName_19"] = "Static F/A-18C Lot 20-1",
+	["DictKey_GroupName_24"] = "Static F/A-18C Lot 20-5",
+	["DictKey_ActionText_53"] = "よくやった。F/A-18C の離陸に成功した。[ESC] を押してミッションを終了するか、周辺を探索せよ。",
+	["DictKey_WptName_23"] = "",
+	["DictKey_WptName_36"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+	["DictKey_UnitName_38"] = "",
+	["DictKey_GroupName_21"] = "Static F/A-18C Lot 20-4",
+	["DictKey_ActionText_52"] = "あなたはレネ・ムアワド空軍基地のランプに、コールド & ダーク状態の Hornet で駐機している。始動し、離陸のため RWY 24 へタキシングせよ。",
+	["DictKey_WptName_10"] = "",
+	["DictKey_UnitName_35"] = "Static F/A-18C Lot 20-2",
+	["DictKey_WptName_17"] = "",
+	["DictKey_WptName_33"] = "",
+	["DictKey_WptName_26"] = "",
+	["DictKey_UnitName_16"] = "Static F/A-18C Lot 20-1",
+	["DictKey_WptName_14"] = "",
+	["DictKey_GroupName_12"] = "Static F/A-18C Lot 20-1",
+	["DictKey_UnitName_41"] = "Static UH-60A-1",
+	["DictKey_WptName_20"] = "",
+	["DictKey_UnitName_44"] = "Static UH-60A-1",
+	["DictKey_GroupName_34"] = "Static F/A-18C Lot 20-2",
+	["DictKey_WptName_29"] = "",
+	["DictKey_WptName_45"] = "",
+	["DictKey_UnitName_47"] = "Static UH-60A-1",
+	["DictKey_descriptionText_1"] = "あなたはレバノンのレネ・ムアワド空軍基地のランプにいる。\
+\
+このミッションに脅威はない。\
+",
+	["DictKey_descriptionBlueTask_3"] = "F/A-18C を始動し、離陸のため RWY 24 へタキシングせよ。\
+\
+離陸後は、レバノン沿岸部と内陸部を自由に探索し、着陸訓練を行え。\
+",
+	["DictKey_UnitName_25"] = "Static F/A-18C Lot 20-1",
+	["DictKey_GroupName_27"] = "Static F/A-18C Lot 20-6",
+	["DictKey_UnitName_13"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_UnitName_28"] = "Static F/A-18C Lot 20-1",
+	["DictKey_sortie_5"] = "F/A-18C コールド & ダーク",
+	["DictKey_GroupName_18"] = "Static F/A-18C Lot 20-3",
+	["DictKey_UnitName_32"] = "Static F/A-18C Lot 20-2",
+	["DictKey_WptName_42"] = "",
+	["DictKey_WptName_48"] = "",
+} -- end of dictionary
