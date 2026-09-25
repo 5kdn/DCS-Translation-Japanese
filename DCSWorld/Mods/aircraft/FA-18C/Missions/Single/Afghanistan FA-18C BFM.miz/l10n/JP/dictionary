@@ -1,0 +1,13 @@
+dictionary = 
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "F/A-18C インスタントアクション - タリンコート上空 BFM",
+	["DictKey_descriptionText_1"] = "ランダムな敵機が同高度 15 NM で機首方位に出現する。\
+\
+BVR 射撃を実施するか、そのままマージへ進入できる。\
+\
+Cleared hot。幸運を祈る。",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_ActionText_8"] = "",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary
