@@ -1,0 +1,21 @@
+dictionary =
+{
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "",
+	["DictKey_descriptionText_1"] = "GUAMとSAIPANの間に設定されたCAPステーションで哨戒中、USAF E-3が、マリアナ諸島へ接近する中国の最新鋭戦闘機による編隊を探知しました。敵編隊は、現在位置からおよそ200NM北西に位置しています。\
+\
+任務は、このJ-11編隊を迎撃し、撃破することです。迎撃に成功し、かつ燃料に十分な余裕がある場合は、さらに北東に位置する敵のタンカーも撃破してください。これにより、敵が近い将来再びこの海域まで進出してくることを阻止できます。ただし、タンカー周辺には中国海軍の駆逐艦およびフリゲート艦が護衛についている可能性が高いため、十分に警戒してください。\
+\
+\
+幸運を祈ります！",
+	["DictKey_descriptionBlueTask_3"] = "USS Truman, Tacan 75X, 225 AM\
+\
+AWACS 225 AM\
+\
+S3 Tanker, 33Y, 225 AM\
+\
+Ownship: 225 AM\
+\
+Threat: 中国軍のJF-17戦闘機 2 機以上 + IL-76 輸送機",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary
