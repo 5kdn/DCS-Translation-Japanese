@@ -1,4 +1,4 @@
-dictionary = 
+dictionary =
 {
     ["DictKey_WptName_80"] = "",
     ["DictKey_WptName_152"] = "",
@@ -42,7 +42,7 @@ dictionary =
     ["DictKey_UnitName_258"] = "",
     ["DictKey_WptName_35"] = "",
     ["DictKey_UnitName_255"] = "",
-    ["DictKey_descriptionText_1"] = "正面 12 NM に NTTR 内の実弾爆撃場の一つがある。2 群の軟目標にはレッドスモークでマークされている。",
+    ["DictKey_descriptionText_1"] = "正面 12 NM に NTTR 内の実弾爆撃場の一つがある。2 群の軟目標はレッドスモークでマークされている。",
     ["DictKey_UnitName_55"] = "New Static Object",
     ["DictKey_WptName_259"] = "",
     ["DictKey_WptName_143"] = "",
@@ -64,7 +64,7 @@ dictionary =
     ["DictKey_WptName_29"] = "",
     ["DictKey_UnitName_49"] = "New Static Object",
     ["DictKey_UnitName_88"] = "New Static Object #023",
-    ["DictKey_ActionText_161"] = "正面 12 NM に NTTR 内の実弾爆撃場の一つがある。2 つの軟目標にはレッドスモークでマークされている。\
+    ["DictKey_ActionText_161"] = "正面 12 NM に NTTR 内の実弾爆撃場の一つがある。2 つの軟目標はレッドスモークでマークされている。\
 \
 このミッションで A/G 機関砲とロケット弾の使用を訓練せよ。\
 ",
