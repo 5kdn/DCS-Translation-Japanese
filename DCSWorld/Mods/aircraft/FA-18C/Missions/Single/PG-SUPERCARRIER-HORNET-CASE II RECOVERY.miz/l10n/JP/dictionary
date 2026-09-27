@@ -1,4 +1,4 @@
-dictionary = 
+dictionary =
 {
     ["DictKey_GroupName_138"] = "New Static Object #036",
     ["DictKey_UnitName_52"] = "New Static Object #005",
@@ -197,7 +197,7 @@ dictionary =
     ["DictKey_UnitName_160"] = "",
     ["DictKey_UnitName_273"] = "Pilot #004",
     ["DictKey_GroupName_24"] = "",
-    ["DictKey_descriptionText_1"] = "あなたは空母の東南東 50 NM、高度 10,000 ft におり、マーシャルスタックへアプローチ中です。CASE II Recovery の指示について、COMM 1 / PRESET 1 (127.50) で Monther Marshal にコンタクトしてください。\
+    ["DictKey_descriptionText_1"] = "あなたは空母の東南東 50 NM、高度 10,000 ft におり、マーシャルスタックへアプローチ中です。CASE II Recovery の指示について、COMM 1 / PRESET 1 (127.50) で Mother Marshal にコンタクトしてください。\
 \
 空母:\
 BRC: 310°\
