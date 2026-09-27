@@ -1,4 +1,4 @@
-dictionary = 
+dictionary =
 {
     ["DictKey_GroupName_647"] = "Nellis Static #039",
     ["DictKey_UnitName_52"] = "63-12 SFW Target #008",
@@ -4209,7 +4209,7 @@ dictionary =
     ["DictKey_WptName_2018"] = "",
     ["DictKey_WptName_4350"] = "",
     ["DictKey_GroupName_689"] = "Nellis Static #053",
-    ["DictKey_ActionText_1311"] = "正面に爆撃・機銃射撃場がある。搭載兵装に最適な標的にはレッドスモークでマークされている。\
+    ["DictKey_ActionText_1311"] = "正面に爆撃・機銃射撃場がある。搭載兵装に最適な標的はレッドスモークでマークされている。\
 \
 通信メニューの F10 Other から SAM および AAA 脅威サイトを起動することもできる。",
     ["DictKey_UnitName_1134"] = "65-02 Convoy #004",
