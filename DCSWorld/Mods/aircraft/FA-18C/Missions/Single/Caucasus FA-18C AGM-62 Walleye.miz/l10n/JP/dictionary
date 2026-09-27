@@ -1127,7 +1127,7 @@ Parking Brake が解除され、ANTI-SKID Switch が ANTI-SKID に設定され�
 	["DictKey_UnitName_46"] = "Maykop Static #020",
 	["DictKey_WptName_300"] = "",
 	["DictKey_UnitName_931"] = "Soganlug Static #009",
-	["DictKey_ActionText_2136"] = "CCIP ピッパーは Bomb Fall Line を上って標的へ向かうはずだ。無理に操作せず、そのまま進ましろ。標的上に来たら pickle しろ。",
+	["DictKey_ActionText_2136"] = "CCIP ピッパーは Bomb Fall Line を上って標的へ向かうはずだ。無理に操作せず、そのままにしておけ。標的上に来たら pickle しろ。",
 	["DictKey_WptName_467"] = "",
 	["DictKey_UnitName_175"] = "Maykop Static #014",
 	["DictKey_UnitName_230"] = "Gudauta Static #010",
