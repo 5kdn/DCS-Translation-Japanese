@@ -1,4 +1,4 @@
-dictionary = 
+dictionary =
 {
     ["DictKey_UnitName_59"] = "Unit #004",
     ["DictKey_UnitName_52"] = "",
@@ -20,7 +20,7 @@ dictionary =
     ["DictKey_UnitName_76"] = "3",
     ["DictKey_UnitName_47"] = "",
     ["DictKey_ActionText_104"] = "警告: SA-10 MEZ に進入中。",
-    ["DictKey_descriptionText_1"] = "これは、スタンドオフ INS/GPS 誘導対地攻撃兵器である AGM-154A および AGM-54C JSPOW の使用を練習するミッションである。AGM-154A には子弾が、AGM-154C には強化目標を貫通する弾頭が搭載されている。\
+    ["DictKey_descriptionText_1"] = "これは、スタンドオフ INS/GPS 誘導対地攻撃兵器である AGM-154A および AGM-154C JSPOW の使用を練習するミッションである。AGM-154A には子弾が、AGM-154C には強化目標を貫通する弾頭が搭載されている。\
 \
 セナキ飛行場には 4 個の標的がある:\
 \
