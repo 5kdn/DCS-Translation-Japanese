@@ -1,4 +1,4 @@
-dictionary = 
+dictionary =
 {
 	["DictKey_WptName_714"] = "",
 	["DictKey_UnitName_1364"] = "Unit #176",
@@ -823,7 +823,7 @@ RP 横の OSB を押し、希望するリリースパルス数 6 の横にある
 	["DictKey_WptName_2002"] = "",
 	["DictKey_WptName_1122"] = "",
 	["DictKey_UnitName_2046"] = "Akhaltsikhe Static #014",
-	["DictKey_ActionText_2175"] = "よし、Bomb Fall Line を標的と整列さしろ。可能な限り滑らかな操作入力を使え。Flight Path Marker が Pull Up Anticipation Cue より上に保たれていることを確認しろ。これは樹木の高さで行う必要はない。",
+	["DictKey_ActionText_2175"] = "よし、Bomb Fall Line を標的に重ねろ。可能な限り滑らかな操作入力を使え。Flight Path Marker が Pull Up Anticipation Cue より上に保たれていることを確認しろ。これは樹木の高さで行う必要はない。",
 	["DictKey_UnitName_1698"] = "Akhaltsikhe Building Static #117",
 	["DictKey_GroupName_120"] = "Maykop Static #031",
 	["DictKey_UnitName_1363"] = "Unit #177",
