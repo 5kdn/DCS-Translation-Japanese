@@ -1,4 +1,4 @@
-dictionary = 
+dictionary =
 {
 	["DictKey_UnitName_59"] = "",
 	["DictKey_UnitName_89"] = "New Static Object #005",
@@ -21,7 +21,7 @@ dictionary =
 	["DictKey_UnitName_83"] = "New Static Object #005",
 	["DictKey_WptName_81"] = "",
 	["DictKey_GroupName_94"] = "New Static Object #016",
-	["DictKey_descriptionText_1"] = "母艦後方 12 NM\
+	["DictKey_descriptionText_1"] = "母艦後方、360 度ラジアル上の 12 NM 地点。\
 \
 BRC: 360°\
 着艦方位: 351°\
