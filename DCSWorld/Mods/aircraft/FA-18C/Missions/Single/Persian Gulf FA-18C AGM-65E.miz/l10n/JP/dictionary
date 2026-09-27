@@ -1,6 +1,6 @@
-dictionary = 
+dictionary =
 {
-    ["DictKey_ActionText_40"] = "Spash bandit！",
+    ["DictKey_ActionText_40"] = "Splash bandit!",
     ["DictKey_ActionText_53"] = "目標を破壊した！",
     ["DictKey_WptName_23"] = "",
     ["DictKey_ActionText_55"] = "",
