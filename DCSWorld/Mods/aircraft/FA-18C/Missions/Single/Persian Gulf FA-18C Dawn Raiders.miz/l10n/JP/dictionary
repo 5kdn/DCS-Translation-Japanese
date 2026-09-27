@@ -402,7 +402,7 @@ RTB を要請する。",
 	["DictKey_WptName_1606"] = "",
 	["DictKey_WptName_1040"] = "",
 	["DictKey_UnitName_370"] = "Minhad Static #008",
-	["DictKey_ActionText_1941"] = "Uzi 1、Magic、レーダーコンタクト。管制はチャンネル 2 を監視せよ。\
+	["DictKey_ActionText_1941"] = "Uzi 1、Magic、レーダーコンタクト。管制のため、チャンネル2をモニターせよ。\
 \
 西方マーシャルスタックへの針路を維持せよ。必要に応じて、コールサイン Shell の KC-135 は UHF チャンネル 4、TACAN 1X で利用可能。",
 	["DictKey_UnitName_514"] = "Al Dhafra #055",
@@ -798,7 +798,7 @@ RTB を要請する。",
 	["DictKey_UnitName_225"] = "Al Dhafra #032",
 	["DictKey_UnitName_933"] = "Iran Static #019",
 	["DictKey_GroupName_1131"] = "SSM Site 1 Static #032",
-	["DictKey_ActionText_2029"] = "全フライト、Magic。パッケージの全フライトが Push した。管制は引き続きチャンネル 2 を監視せよ。",
+	["DictKey_ActionText_2029"] = "全フライト、Magic。パッケージの全フライトが Push した。引き続き、管制のためチャンネル2をモニターせよ。",
 	["DictKey_UnitName_42"] = "Unit #020",
 	["DictKey_GroupName_707"] = "^USMC UH-1Y #001",
 	["DictKey_UnitName_870"] = "Iran Static #002",
