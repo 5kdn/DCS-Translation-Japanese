@@ -1,7 +1,7 @@
-dictionary = 
+dictionary =
 {
     ["DictKey_descriptionNeutralsTask_4"] = "",
-    ["DictKey_sortie_5"] = "FA-A8C AGM-65F Maverick 訓練",
+    ["DictKey_sortie_5"] = "FA-18C AGM-65F Maverick 訓練",
     ["DictKey_descriptionText_1"] = "ウェイポイント 1 にありレッドスモークでマークされている 3 グループの標的車両を用いて、AGM-65F の運用を練習しろ。",
     ["DictKey_descriptionBlueTask_3"] = "Maverick で標的車両を 4 両破壊しろ。",
     ["DictKey_WptName_11"] = "",
