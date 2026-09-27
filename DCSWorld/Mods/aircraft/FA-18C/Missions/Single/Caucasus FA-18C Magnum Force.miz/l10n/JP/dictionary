@@ -1,4 +1,4 @@
-dictionary = 
+dictionary =
 {
     ["DictKey_GroupName_647"] = "Kutaisi Static #002",
     ["DictKey_GroupName_124"] = "Gudauta Static #015",
@@ -36,7 +36,7 @@ dictionary =
     ["DictKey_UnitName_663"] = "Kutaisi Static #007",
     ["DictKey_WptName_177"] = "",
     ["DictKey_UnitName_355"] = "",
-    ["DictKey_ActionText_1171"] = "Tusk 1、Focus。SA-8 は撃破されたと報告あり。進行を許可する。 Tusk 1、Focus。クリムスクおよびクラスノダールから航空活動を探知している。ジョージア領空へ戻り、待機することを推奨する。\
+    ["DictKey_ActionText_1171"] = "Tusk 1、Focus。クリムスクおよびクラスノダールから航空活動を探知している。ジョージア領空へ戻り、待機することを推奨する。\
 \
 この周波数で位置情報の更新を監視しろ。",
     ["DictKey_GroupName_1804"] = "New Static Object #045",
