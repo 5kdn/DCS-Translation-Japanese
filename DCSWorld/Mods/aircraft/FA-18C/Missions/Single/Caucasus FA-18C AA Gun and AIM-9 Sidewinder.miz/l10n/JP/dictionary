@@ -1,4 +1,4 @@
-dictionary = 
+dictionary =
 {
     ["DictKey_WptName_159"] = "",
     ["DictKey_UnitName_72"] = "New Static Object #016",
@@ -88,7 +88,7 @@ dictionary =
     ["DictKey_UnitName_75"] = "New Static Object #016",
     ["DictKey_UnitName_54"] = "",
     ["DictKey_WptName_191"] = "",
-    ["DictKey_descriptionText_1"] = "ソチ・アドレル付近を北西へ向けて 15,000 ft を飛行中。前方に Su-25 が 3 機いる。機関砲弾は満載で、主翼下には AIM-9L と AIM-9M を搭載している。",
+    ["DictKey_descriptionText_1"] = "ソチ・アドレル付近を北西へ向けて 15,000 ft を飛行中。前方に Su-25 が 3 機いる。自機の機関砲弾は満載で、AIM-9 Sidewinder を 6 発搭載している。",
     ["DictKey_GroupName_107"] = "New Static Object #030",
     ["DictKey_WptName_79"] = "",
     ["DictKey_GroupName_163"] = "Target 2",
