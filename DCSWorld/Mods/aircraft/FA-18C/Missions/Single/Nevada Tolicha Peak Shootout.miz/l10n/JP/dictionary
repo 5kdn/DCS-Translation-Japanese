@@ -31,7 +31,7 @@ dictionary =
     ["DictKey_UnitName_348"] = "Player",
     ["DictKey_UnitName_590"] = "New Static Object #012",
     ["DictKey_WptName_536"] = "SA8",
-    ["DictKey_ActionText_631"] = "ナイスジョブ！　全てのSAM驚異を破壊しました。",
+    ["DictKey_ActionText_631"] = "よくやった。すべての SAM 脅威を無力化した。",
     ["DictKey_UnitName_333"] = "Unit #051",
     ["DictKey_UnitName_130"] = "",
     ["DictKey_WptName_533"] = "SA2",
@@ -69,7 +69,7 @@ dictionary =
     ["DictKey_WptName_263"] = "",
     ["DictKey_UnitName_509"] = "Unit #024",
     ["DictKey_UnitName_356"] = "",
-    ["DictKey_ActionText_632"] = "ナイスジョブ！　全てのSAM驚異を破壊しました。",
+    ["DictKey_ActionText_632"] = "よくやった。すべての SAM 脅威を無力化した。",
     ["DictKey_UnitName_507"] = "Unit #022",
     ["DictKey_UnitName_495"] = "Unit #012",
     ["DictKey_UnitName_362"] = "New Static Object #053",
@@ -78,7 +78,7 @@ dictionary =
     ["DictKey_GroupName_527"] = "SA-8-1",
     ["DictKey_GroupName_306"] = "New Static Object #056",
     ["DictKey_UnitName_106"] = "Unit #002",
-    ["DictKey_ActionText_630"] = "ナイスジョブ！　全てのSAM驚異を破壊しました。",
+    ["DictKey_ActionText_630"] = "よくやった。すべての SAM 脅威を無力化した。",
     ["DictKey_WptName_470"] = "",
     ["DictKey_UnitName_58"] = "New Static Object",
     ["DictKey_GroupName_240"] = "New Static Object #034",
@@ -113,7 +113,7 @@ dictionary =
     ["DictKey_GroupName_571"] = "New Static Object #008",
     ["DictKey_GroupName_99"] = "New Static Object #031",
     ["DictKey_UnitName_328"] = "New Static Object #033",
-    ["DictKey_ActionText_477"] = "ターゲットの戦車を破壊しました。",
+    ["DictKey_ActionText_477"] = "目標の戦車を撃破した。",
     ["DictKey_GroupName_225"] = "New Vehicle Group #040",
     ["DictKey_UnitName_392"] = "New Static Object #053",
     ["DictKey_UnitName_196"] = "Unit #031",
@@ -197,7 +197,7 @@ dictionary =
     ["DictKey_GroupName_144"] = "New Vehicle Group #013",
     ["DictKey_UnitName_425"] = "New Static Object #053",
     ["DictKey_WptName_50"] = "",
-    ["DictKey_ActionText_538"] = "SA-2 SAMs を破壊しました。, SA-6 SAMsが起動しました。",
+    ["DictKey_ActionText_538"] = "SA-2 SAM を無力化しました。SA-6 SAM を有効化しました。",
     ["DictKey_UnitName_154"] = "Unit #017",
     ["DictKey_GroupName_565"] = "New Static Object #006",
     ["DictKey_WptName_609"] = "",
@@ -228,7 +228,7 @@ dictionary =
     ["DictKey_GroupName_300"] = "New Static Object #054",
     ["DictKey_GroupName_207"] = "New Vehicle Group #034",
     ["DictKey_UnitName_551"] = "New Static Object #001",
-    ["DictKey_ActionText_478"] = "ターゲットの戦車を破壊しました。",
+    ["DictKey_ActionText_478"] = "目標の戦車を撃破した。",
     ["DictKey_GroupName_583"] = "New Static Object #012",
     ["DictKey_GroupName_39"] = "New Static Object #011",
     ["DictKey_WptName_612"] = "",
@@ -249,7 +249,7 @@ dictionary =
     ["DictKey_GroupName_282"] = "New Static Object #048",
     ["DictKey_UnitName_253"] = "New Static Object #033",
     ["DictKey_WptName_594"] = "",
-    ["DictKey_ActionText_539"] = "SA-6 SAM を破壊しました。, SA-3 SAM を起動しました。",
+    ["DictKey_ActionText_539"] = "SA-6 SAM を無力化しました。SA-3 SAM を有効化しました。",
     ["DictKey_WptName_56"] = "",
     ["DictKey_WptName_552"] = "",
     ["DictKey_UnitName_67"] = "New Static Object",
@@ -257,7 +257,7 @@ dictionary =
     ["DictKey_GroupName_330"] = "Target-1",
     ["DictKey_WptName_113"] = "",
     ["DictKey_WptName_182"] = "",
-    ["DictKey_ActionText_480"] = "ターゲットの戦車を破壊しました。",
+    ["DictKey_ActionText_480"] = "目標の戦車を撃破した。",
     ["DictKey_WptName_467"] = "",
     ["DictKey_GroupName_500"] = "SA-3-TGT",
     ["DictKey_WptName_606"] = "",
@@ -369,19 +369,19 @@ dictionary =
     ["DictKey_UnitName_515"] = "SA-6-TGT",
     ["DictKey_GroupName_249"] = "New Static Object #037",
     ["DictKey_GroupName_9"] = "New Static Object #001",
-    ["DictKey_descriptionBlueTask_3"] = "離陸して、ウェイポイント１のトリチャピークに飛んでください。そこに驚異SAMシステムが配置されています。\
+    ["DictKey_descriptionBlueTask_3"] = "離陸後、ウェイポイント 1 の Tolicha Peak へ飛行してください。そこには複数の脅威 SAM システムが展開されている。\
 \
-Waypoint 1: SA-2\
-Waypoint 2: SA-6\
-Waypoint 3: SA-3\
-Waypoint 4: SA-8 \
+ウェイポイント 1: SA-2\
+ウェイポイント 2: SA-6\
+ウェイポイント 3: SA-3\
+ウェイポイント 4: SA-8\
 \
-４つのSAMサイトの交戦レーダー（engagement radar ）を破壊してください。",
+4つの SAM サイトの交戦レーダーを破壊しろ。",
     ["DictKey_UnitName_334"] = "Unit #052",
     ["DictKey_UnitName_344"] = "Unit #006",
-    ["DictKey_ActionText_537"] = "SA-3 SAM を破壊しました。, SA-8 SAMを起動させます。",
+    ["DictKey_ActionText_537"] = "SA-3 SAM を無力化しました。SA-8 SAM を有効化しました。",
     ["DictKey_WptName_532"] = "",
-    ["DictKey_ActionText_481"] = "ターゲットの戦車を破壊しました。",
+    ["DictKey_ActionText_481"] = "目標の戦車を撃破した。",
     ["DictKey_UnitName_443"] = "New Static Object #053",
     ["DictKey_UnitName_413"] = "New Static Object #053",
     ["DictKey_GroupName_553"] = "New Static Object #003",
@@ -391,8 +391,7 @@ Waypoint 4: SA-8 \
     ["DictKey_UnitName_7"] = "",
     ["DictKey_UnitName_118"] = "Unit #006",
     ["DictKey_GroupName_138"] = "New Vehicle Group #011",
-    ["DictKey_ActionText_639"] = "Mission succes! \
-基地に帰還してください。",
+    ["DictKey_ActionText_639"] = "ミッション成功！基地へ帰還し、任務完了を祝おう。",
     ["DictKey_UnitName_498"] = "56767",
     ["DictKey_UnitName_85"] = "New Static Object",
     ["DictKey_GroupName_90"] = "New Static Object #028",
@@ -431,20 +430,20 @@ Waypoint 4: SA-8 \
     ["DictKey_WptName_378"] = "",
     ["DictKey_UnitName_115"] = "Unit #005",
     ["DictKey_WptName_369"] = "",
-    ["DictKey_descriptionText_1"] = "ネバダ テスト訓練場（NTTR:Nevada Test and Training Range）内の、グルームレイクとトノパーテストレンジの間にトリチャピーク電子戦レンジ（Tolicha Peak Electronic Combat Range：TPECR ）があります。第554レンジグループが管理してます。Pahute Mesaにあり、人里離れたところにあります。TPECR は大規模アレイ防空レーダーや地対空ミサイル（SAM)システムを運用しています。この施設では、これらのシステムを管理して、これら驚異に対しての訓練を提供しています。空軍がレッドイーグルをソビエト航空機としてトノパーを飛行させているのと同じで、TPECRはソビエトのSAMです。\
+    ["DictKey_descriptionText_1"] = "Nevada Test and Training Range (NTTR) の一部として、Groom Lake と Tonopah Test Range (TTR) の間で運用されているのが Tolicha Peak Electronic Combat Range (TPECR) である。554th Range Group が運用しており、Pahute Mesa の僻地に位置する。TPECR は多数の脅威対空防衛レーダーと、それに関連する地対空ミサイル (SAM) システムを運用していると報告されている。この施設は、これらのシステムを評価し、搭乗員が対抗訓練を行うために使用される。空軍が Tonopah からソ連機を運用する Red Eagles を擁するのと同様に、TPECR はソ連 SAM に相当する。\
 \
+このミッションでは Tonopah Air Force Base から離陸し、南の TPECR へ飛行して、作動する SAM 脅威と交戦する。1つを撃破すると、別のものが作動する。AGM-88C HARM を 4基搭載しており、十分な腕があれば、4基すべてで脅威を撃破できる。失敗した場合は Tonopah で再武装できる。\
 \
-このミッションでは、トノパー空軍基地から離陸し、TPCERに向かって南に飛行し、SAMの驚異が出現したら、それを攻撃します。あるグループを破壊すると別のグループが稼働します。機体には4発のGM-88C HARMが搭載されています。うまくやれば、4発で４基を破壊できます。うまく行かなかった場合は、トノパーで再武装が可能です。\
-\
-グッドラック！",
+幸運を祈る！\
+",
     ["DictKey_WptName_245"] = "",
-    ["DictKey_sortie_5"] = "トリチャ・ピーク シュートアウト（Tolicha Peak Shootout）",
+    ["DictKey_sortie_5"] = "Tolicha Peak シュートアウト",
     ["DictKey_UnitName_410"] = "New Static Object #053",
     ["DictKey_WptName_155"] = "",
     ["DictKey_UnitName_280"] = "New Static Object #033",
     ["DictKey_UnitName_452"] = "Unit #002",
     ["DictKey_WptName_89"] = "",
-    ["DictKey_ActionText_482"] = "ターゲットの戦車を破壊しました。",
+    ["DictKey_ActionText_482"] = "目標の戦車を撃破した。",
     ["DictKey_WptName_360"] = "",
     ["DictKey_UnitName_511"] = "Unit #026",
     ["DictKey_WptName_323"] = "",
@@ -479,7 +478,7 @@ Waypoint 4: SA-8 \
     ["DictKey_WptName_320"] = "",
     ["DictKey_WptName_71"] = "",
     ["DictKey_GroupName_370"] = "New Static Object #037",
-    ["DictKey_ActionText_479"] = "ターゲットの戦車を破壊しました。",
+    ["DictKey_ActionText_479"] = "目標の戦車を撃破した。",
     ["DictKey_GroupName_189"] = "New Vehicle Group #028",
     ["DictKey_UnitName_256"] = "New Static Object #033",
     ["DictKey_GroupName_574"] = "New Static Object #009",
@@ -501,7 +500,7 @@ Waypoint 4: SA-8 \
     ["DictKey_GroupName_18"] = "New Static Object #004",
     ["DictKey_UnitName_611"] = "Unit #015",
     ["DictKey_WptName_128"] = "",
-    ["DictKey_ActionText_540"] = "ナイスジョブ！　全てのSAM驚異を破壊しました。",
+    ["DictKey_ActionText_540"] = "よくやった。すべての SAM 脅威を無力化した。",
     ["DictKey_UnitName_151"] = "Unit #016",
     ["DictKey_WptName_381"] = "",
     ["DictKey_WptName_164"] = "",
@@ -651,12 +650,12 @@ Waypoint 4: SA-8 \
     ["DictKey_UnitName_229"] = "Unit #043",
     ["DictKey_WptName_209"] = "",
     ["DictKey_GroupName_621"] = "SA-6-4 #003",
-    ["DictKey_ActionText_640"] = "離陸して、ウェイポイント１のトリチャピークに飛んでください。そこに驚異SAMシステムが配置されています。\
+    ["DictKey_ActionText_640"] = "離陸後、ウェイポイント 1 の Tolicha Peak へ飛行してください。そこには複数の脅威 SAM システムが展開されています。\
 \
-Waypoint 1: SA-2\
-Waypoint 2: SA-6\
-Waypoint 3: SA-3\
-Waypoint 4: SA-8 \
+ウェイポイント 1: SA-2\
+ウェイポイント 2: SA-6\
+ウェイポイント 3: SA-3\
+ウェイポイント 4: SA-8\
 \
-４つのSAMサイトの交戦レーダー（engagement radar ）を破壊してください。",
+4つの SAM サイトの交戦レーダーを破壊してください。",
 } -- end of dictionary
