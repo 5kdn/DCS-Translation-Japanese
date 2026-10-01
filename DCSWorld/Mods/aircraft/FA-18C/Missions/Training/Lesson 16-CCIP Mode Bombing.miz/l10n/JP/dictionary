@@ -58,7 +58,7 @@ INTのオプションを選択してください。",
     ["DictKey_WptName_109"] = "",
     ["DictKey_GroupName_45"] = "New Static Object #012",
     ["DictKey_WptName_77"] = "",
-    ["DictKey_ActionText_84"] = "今日は、いくつかの鉄塊を落としましょう。私達のジェットににはMk-83 1000 lbsとMk-84 2000 lbs　高爆発、無誘導爆弾を搭載しています。これらはマニュアル、CCIP（連続着弾点透過点：Continuously Computed Impact Point）、自動（AUTO)などの投下モードで投下できます。これらの投下モードは他の爆弾、キャニスター爆弾やハイドラッグボンビングモードでも適応できるでしょう。\
+    ["DictKey_ActionText_84"] = "今日は、いくつかの鉄塊を落としましょう。私達のジェットにはMk-83 1000 lbsとMk-84 2000 lbs　高爆発、無誘導爆弾を搭載しています。これらはマニュアル、CCIP（連続着弾点透過点：Continuously Computed Impact Point）、自動（AUTO)などの投下モードで投下できます。これらの投下モードは他の爆弾、キャニスター爆弾やハイドラッグボンビングモードでも適応できるでしょう。\
 このレッスンでは自由落下爆弾（無誘導爆弾）でCCIPモードでの投下について学習します。\
 \
 最初に、「２」を押してA/Gマスターモードにします。",
@@ -217,7 +217,7 @@ While maintaining on-speed AoA, use your throttle to control your glidepath and 
     ["DictKey_UnitName_177"] = "Unit #014",
     ["DictKey_UnitName_174"] = "Unit #011",
     ["DictKey_UnitName_163"] = "Unit #003",
-    ["DictKey_descriptionText_1"] = "今日は、いくつかの鉄塊を落としましょう。私達のジェットににはMk-83 1000 lbsとMk-84 2000 lbs　高爆発、無誘導爆弾を搭載しています。これらはマニュアル、CCIP（連続着弾点透過点：Continuously Computed Impact Point）、自動（AUTO)などの投下モードで投下できます。これらの投下モードは他の爆弾、キャニスター爆弾やハイドラッグボンビングモードでも適応できるでしょう。\
+    ["DictKey_descriptionText_1"] = "今日は、いくつかの鉄塊を落としましょう。私達のジェットにはMk-83 1000 lbsとMk-84 2000 lbs　高爆発、無誘導爆弾を搭載しています。これらはマニュアル、CCIP（連続着弾点透過点：Continuously Computed Impact Point）、自動（AUTO)などの投下モードで投下できます。これらの投下モードは他の爆弾、キャニスター爆弾やハイドラッグボンビングモードでも適応できるでしょう。\
 このレッスンでは自由落下爆弾（無誘導爆弾）でCCIPモードでの投下について学習します。このレッスンではCCIP投下モードで急降下爆撃を行う予定です。",
     ["DictKey_UnitName_34"] = "New Static Object #001",
     ["DictKey_GroupName_187"] = "Target #004",
@@ -368,7 +368,7 @@ DILに新しく水平バーが有ることに気がついたでしょう。こ�
 \
 Press the [SPACEBAR] to continue.\
 ",
-    ["DictKey_ActionText_205"] = "CCIP爆撃照準がDILの底に現れたら、ターゲットに重ねて、兵器発射ボタン「RALT+Spece」を押したままにします。\
+    ["DictKey_ActionText_205"] = "CCIP爆撃照準がDILの底に現れたら、ターゲットに重ねて、兵器発射ボタン「RALT+Space」を押したままにします。\
 \
 爆弾が投下されたら、地面に激突しないように３０度まで引き起こします。\
 \
