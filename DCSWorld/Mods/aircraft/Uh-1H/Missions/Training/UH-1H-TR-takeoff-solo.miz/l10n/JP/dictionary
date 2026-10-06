@@ -3,7 +3,7 @@ dictionary =
     ["DictKey_UnitName_14"] = "static #005",
     ["DictKey_descriptionRedTask_22"] = "",
     ["DictKey_WptName_28"] = "",
-    ["DictKey_sortie_25"] = "UH-1H Training: Takeoff Solo",
+    ["DictKey_sortie_25"] = "単独離陸訓練",
     ["DictKey_descriptionNeutralsTask_24"] = "",
     ["DictKey_WptName_32"] = "",
     ["DictKey_WptName_31"] = "",
@@ -16,19 +16,19 @@ dictionary =
     ["DictKey_WptName_29"] = "",
     ["DictKey_descriptionText_21"] = "DCS: UH-1H Huey\
 \
-Training lesson: 単独離陸練習\
+訓練内容: 単独離陸訓練\
 \
 ピックアップから離陸までの単独飛行練習です\
 \
-NOTES:\
+注意事項:\
 \
 - 一時停止: [PAUSE]\
-- Active Pause: [LSHIFT + LWIN + PAUSE]\
-- 視点移動: キーボード　テンキー / ジョイスティック　ハットスイッチ/ マウス　 [LALT + C]でマウスルックモードへ\
-- View zoom: テンキー　[/] 、 [*]\
-- ミッション中断、終了: [ESC]\
-- オートパイロット、武器状態表示: [LCTRL + LSHIFT + H] 　（オートパイロットはメニューのスペシャルオプションで 表示をONにしている場合のみ）\
-- コントローラー　状態表示: [RCTRL + ENTER]",
+- アクティブポーズ: [LSHIFT + LWIN + PAUSE]\
+- 視点移動: テンキー / ジョイスティックのハットスイッチ / マウスルック [LALT + C]\
+- ズーム: [Num/] / [Num*]\
+- ミッション終了: [ESC]\
+- オートパイロット・兵装状態表示の切り替え: [LCTRL + LSHIFT + H] (UH-1HのSPECIALオプションで\"Autopilot Availability\"をONにしている場合)\
+- コントロールインジケーターの表示切り替え: [RCTRL + ENTER]",
     ["DictKey_WptName_38"] = "",
     ["DictKey_UnitName_10"] = "static #002",
     ["DictKey_descriptionBlueTask_23"] = "",
