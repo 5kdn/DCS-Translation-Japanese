@@ -2,36 +2,36 @@ dictionary =
 {
     ["DictKey_WptName_80"] = "",
     ["DictKey_UnitName_72"] = "static #004",
-    ["DictKey_39"] = "次に、無線機の電源を入れましょう。\
+    ["DictKey_39"] = "次に、無線機の電源を入れろ。\
 \
-MASTERスイッチを1回右クリックして、AN/APX-72トランスポンダーをSTBYにセットしてください。",
+MASTERスイッチを1回右クリックして、AN/APX-72トランスポンダーをSTBYにセットしろ。",
     ["DictKey_UnitName_60"] = "static #001",
     ["DictKey_WptName_85"] = "",
     ["DictKey_WptName_94"] = "",
     ["DictKey_descriptionNeutralsTask_76"] = "",
     ["DictKey_UnitName_68"] = "static #006",
-    ["DictKey_29"] = "次に、DC Power ControlパネルのMain GeneratorスイッチをONに、DC VoltmeterセレクターをESS BUSにセットしてください。",
-    ["DictKey_33"] = "次に、Engine ControlパネルのMain FuelスイッチをONに、GovernorスイッチをAUTOにセットしてください。\
-他の燃料スイッチはすべてOFFにしてください。",
+    ["DictKey_29"] = "次に、DC Power ControlパネルのMain GeneratorスイッチをONに、DC VoltmeterセレクターをESS BUSに合わせろ。",
+    ["DictKey_33"] = "次に、Engine ControlパネルのMain FuelスイッチをONに、GovernorスイッチをAUTOにしろ。\
+他の燃料スイッチはすべてOFFにしておけ。",
     ["DictKey_UnitName_62"] = "static #002",
-    ["DictKey_44"] = "ModeスイッチをT/Rにセットして、AN/ARC-131 VHF FM無線機の電源を入れてください。",
-    ["DictKey_36"] = "エンジンを始動するには、HOMEキーを押し続けて、Engine Startトリガーを引きます。トリガーはコレクティブのスイッチボックスの下にあります。\
-エンジン回転数が上がる間は、エンジン計器と時計を監視してください。\
-Gas Producer計の回転数が40%に達するか、40秒が経過するか、どちらか早い方までEngine Startボタンを押し続けてください。Gas Producer計の回転数が約15%になると、ローターも回り始めるはずです。回り始めなければ、始動を中止してください。\
+    ["DictKey_44"] = "ModeスイッチをT/Rにセットして、AN/ARC-131 VHF FM無線機の電源を入れろ。",
+    ["DictKey_36"] = "エンジンを始動するには、HOMEキーを押し続けて、Engine Startトリガーを引く。トリガーはコレクティブのスイッチボックスの下にある。\
+エンジン回転数が上がる間は、エンジン計器と時計を監視しろ。\
+Gas Producer計の回転数が40%に達するか、40秒が経過するか、どちらか早い方までEngine Startボタンを押し続けろ。Gas Producer計の回転数が約15%になると、ローターも回り始めるはずだ。回り始めなければ、始動を中止しろ。\
 \
-準備ができたら、HOMEキーを押し続けて始動してください。\
-開始時刻を確認し、Gas Producer計を監視するのを忘れないでください。",
-    ["DictKey_50"] = "私のヘリコプターを壊しているぞ！\
+準備ができたら、HOMEキーを押し続けて始動しろ。\
+開始時刻を確認し、Gas Producer計を監視するのを忘れるな。",
+    ["DictKey_50"] = "俺のヘリを壊す気か！\
 \
 \
 [ミッションを終了して、もう一度挑戦してください]",
     ["DictKey_WptName_83"] = "",
-    ["DictKey_47"] = "それでは、エンジン出力を通常の運転出力まで上げましょう。\
-|PAGE UP|キーを繰り返し押し、出力を上げながらEngine and Rotor RPM計を確認してください。\
-コレクティブのスロットルグリップが左いっぱいになるまで、徐々に出力を上げてください。\
-エンジン回転数が6600RPM、ローター回転数が324RPMで安定することを確認してください。",
+    ["DictKey_47"] = "それでは、エンジン出力を通常の運転出力まで上げよう。\
+|PAGE UP|キーを繰り返し押し、出力を上げながらEngine and Rotor RPM計を確認しろ。\
+コレクティブのスロットルグリップが左いっぱいになるまで、徐々に出力を上げろ。\
+エンジン回転数が6600RPM、ローター回転数が324RPMで安定するか確認しろ。",
     ["DictKey_descriptionBlueTask_75"] = "",
-    ["DictKey_48"] = "Master CautionパネルのTESTスイッチを右クリックして、前面の計器盤にあるMaster Cautionライトをリセットしてください。",
+    ["DictKey_48"] = "Master CautionパネルのTESTスイッチを右クリックして、前面の計器盤にあるMaster Cautionライトをリセットしろ。",
     ["DictKey_UnitName_70"] = "static #007",
     ["DictKey_descriptionText_73"] = "DCS: UH-1H Huey\
 \
@@ -51,53 +51,53 @@ Gas Producer計の回転数が40%に達するか、40秒が経過するか、ど
 - コントロールインジケーターの表示切り替え: [RCTRL + ENTER]",
     ["DictKey_UnitName_58"] = "static",
     ["DictKey_descriptionRedTask_74"] = "",
-    ["DictKey_40"] = "Powerスイッチを1回右クリックして、AN/ARN-82 VHF NAV COMM無線機の電源を入れてください。",
-    ["DictKey_46"] = "アビオニクスの設定を仕上げましょう。オーバーヘッドコンソールのStarter GeneratorスイッチをSTBYにセットしてください。",
-    ["DictKey_35"] = "エンジンを始動する前に、スロットルがアイドル位置にあることを確認します。\
-スロットルは、パイロットの左脚の横にあるコレクティブのグリップ部にあります。|PAGE UP|キーで左に回すと出力が上がり、|PAGE DOWN|キーで右に回すと出力が下がります。\
+    ["DictKey_40"] = "Powerスイッチを1回右クリックして、AN/ARN-82 VHF NAV COMM無線機の電源を入れろ。",
+    ["DictKey_46"] = "アビオニクスの設定を仕上げよう。オーバーヘッドコンソールのStarter GeneratorスイッチをSTBYに切り替えろ。",
+    ["DictKey_35"] = "エンジンを始動する前に、スロットルがアイドル位置にあるか確認しろ。\
+スロットルは、パイロットの左脚の横にあるコレクティブのグリップ部にある。|PAGE UP|キーで左に回すと出力が上がり、|PAGE DOWN|キーで右に回すと出力が下がる。\
 \
-|PAGE DOWN|キーを数秒間押し続け、スロットルグリップがアイドルストップ位置にあることを確認してください。\
+|PAGE DOWN|キーを数秒間押し続け、スロットルグリップがアイドルストップ位置にあるか確認しろ。\
 \
-サイクリックスティックとペダルが中立位置にあり、コレクティブが完全に下がっていることも確認してください。\
-|RCTRL + ENTER|を押すと、コントロールインジケーターで操縦装置の位置を確認できます。",
-    ["DictKey_32"] = "Caution Lightsパネルもテストして、すべてのライトが正常に点灯するか確認しましょう。\
-TESTスイッチを下に倒したまま保持し、すべてのコーションライトが点灯することを確認してください。",
-    ["DictKey_28"] = "まず、機体に電力を供給します。地上クルーの支援を受けることもできますが、今回は機上電源を使います。\
+サイクリックスティックとペダルが中立位置にあり、コレクティブが完全に下がっていることも確認しろ。\
+|RCTRL + ENTER|を押すと、コントロールインジケーターで操縦装置の位置を確認できる。",
+    ["DictKey_32"] = "Caution Lightsパネルもテストして、すべてのライトが正常に点灯するか確認しよう。\
+TESTスイッチを下に倒したまま保持し、すべてのコーションライトが点灯するか確かめろ。",
+    ["DictKey_28"] = "まず、機体に電力を供給しよう。地上クルーの支援を受けることもできるが、今回は機上電源を使う。\
 \
-オーバーヘッドコンソールを見てください。\
-AC Power ControlパネルのAC Phase VoltmeterセレクターをACに、InverterスイッチをOFFにセットしてください。",
+オーバーヘッドコンソールを見てみよう。\
+AC Power ControlパネルのAC Phase VoltmeterセレクターをACに、InverterスイッチをOFFに合わせろ。",
     ["DictKey_sortie_77"] = "UH-1H 訓練: コールドスタート",
-    ["DictKey_45"] = "ModeスイッチをADFにセットして、AN/ARN-83 ADF受信機の電源を入れてください。",
-    ["DictKey_43"] = "Interphone Selectorスイッチを3にセットして、VHF COMM無線機を送信に使用します。これでATCと交信できます。\
-僚機との交信には通常UHF無線機を使用するので、選択スイッチを2にセットしてください。",
+    ["DictKey_45"] = "ModeスイッチをADFにセットして、AN/ARN-83 ADF受信機の電源を入れろ。",
+    ["DictKey_43"] = "Interphone Selectorスイッチを3にセットして、VHF COMM無線機を送信に使用する。これでATCと交信できる。\
+僚機との交信には通常UHF無線機を使用するので、選択スイッチを2に切り替えろ。",
     ["DictKey_WptName_81"] = "",
-    ["DictKey_34"] = "Miscellaneous Controlパネルで、Hydraulic ControlスイッチとForce TrimスイッチをONにしてください。\
-Chip DetectorシステムがBOTHになっていることも確認してください。",
+    ["DictKey_34"] = "Miscellaneous Controlパネルで、Hydraulic ControlスイッチとForce TrimスイッチをONにしろ。\
+Chip DetectorシステムがBOTHになっていることも確認しろ。",
     ["DictKey_WptName_79"] = "",
-    ["DictKey_27"] = "始める前に、|RCTRL + C|を押してコックピットのドアを閉めてください。",
+    ["DictKey_27"] = "始める前に、|RCTRL + C|を押してコックピットのドアを閉めろ。",
     ["DictKey_UnitName_66"] = "static #005",
-    ["DictKey_49"] = "エンジン回転数が6600RPMからずれている場合は、コレクティブのGovernor RPMスイッチで必要に応じて調整できます。このスイッチは\"beep\"スイッチとも呼ばれています。\
+    ["DictKey_49"] = "エンジン回転数が6600RPMからずれている場合は、コレクティブのGovernor RPMスイッチで必要に応じて調整できる。このスイッチは\"beep\"スイッチとも呼ばれている。\
 \
-これで離陸準備が整いました。\
-コールドスタートのレッスンは終了です。\
+これで離陸準備が整った。\
+コールドスタートのレッスンは終了だ。\
 \
-よくできました！",
+よくやった！",
     ["DictKey_WptName_84"] = "",
-    ["DictKey_30"] = "次に、Starter GeneratorスイッチをSTARTにセットし、バッテリーをONにしてください。",
+    ["DictKey_30"] = "次に、Starter GeneratorスイッチをSTARTにセットし、バッテリーをONにしろ。",
     ["DictKey_UnitName_64"] = "static #003",
-    ["DictKey_37"] = "ローターの回転数が上がる間は、機体がかなり揺れます。\
-吐き気がして袋が必要になったら、言ってください。",
+    ["DictKey_37"] = "ローターの回転数が上がる間は、機体がかなり揺れる。\
+吐き気がして袋が必要になったら、言ってくれ。",
     ["DictKey_WptName_82"] = "",
-    ["DictKey_42"] = "FunctionスイッチをT/Rにセットして、AN/ARC-51BX UHF無線機の電源を入れてください。",
-    ["DictKey_31"] = "心配ありません。今は回転数が低いため、低RPM警報が鳴っています。この段階では正常です。\
-Low RPM Audioスイッチを押して警報音を止めてください。",
-    ["DictKey_38"] = "よし、エンジンは正常にアイドリングしています。\
-アビオニクスを設定しましょう。\
+    ["DictKey_42"] = "FunctionスイッチをT/Rにセットして、AN/ARC-51BX UHF無線機の電源を入れろ。",
+    ["DictKey_31"] = "心配ない。今は回転数が低いため、低RPM警報が鳴っている。この段階では正常だ。\
+Low RPM Audioスイッチを押して警報音を止めよう。",
+    ["DictKey_38"] = "よし、エンジンは正常にアイドリングしている。\
+アビオニクスを設定しよう。\
 \
-オーバーヘッドコンソールに戻り、InverterスイッチをMAIN ONにセットして電源を入れてください。",
+オーバーヘッドコンソールに戻り、InverterスイッチをMAIN ONにセットして電源を入れろ。",
     ["DictKey_26"] = "コールドスタートのレッスンへようこそ、訓練生！\
-今日はHueyのエンジン始動から、飛行準備までの手順を練習します。\
+今日はHueyのエンジン始動から、飛行準備までの手順を練習する。\
 \
-準備ができたら、|SPACE BAR|キーを押してください。",
-    ["DictKey_41"] = "Powerスイッチを1回右クリックして、AN/ARC-134 VHF COMM無線機の電源を入れてください。",
+準備ができたら、|SPACE BAR|キーを押せ。",
+    ["DictKey_41"] = "Powerスイッチを1回右クリックして、AN/ARC-134 VHF COMM無線機の電源を入れろ。",
 } -- end of dictionary
