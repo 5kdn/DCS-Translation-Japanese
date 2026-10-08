@@ -1,19 +1,12 @@
 dictionary = 
 {
     ["DictKey_UnitName_14"] = "static #005",
-    ["DictKey_descriptionRedTask_22"] = "",
-    ["DictKey_WptName_28"] = "",
-    ["DictKey_sortie_25"] = "単独離陸訓練",
-    ["DictKey_descriptionNeutralsTask_24"] = "",
-    ["DictKey_WptName_32"] = "",
-    ["DictKey_WptName_31"] = "",
-    ["DictKey_WptName_33"] = "",
-    ["DictKey_UnitName_16"] = "static #006",
-    ["DictKey_UnitName_12"] = "static #003",
     ["DictKey_UnitName_18"] = "static #007",
     ["DictKey_UnitName_20"] = "static #004",
     ["DictKey_WptName_30"] = "",
+    ["DictKey_WptName_28"] = "",
     ["DictKey_WptName_29"] = "",
+    ["DictKey_sortie_25"] = "単独離陸訓練",
     ["DictKey_descriptionText_21"] = "DCS: UH-1H Huey\
 \
 訓練内容: 単独離陸訓練\
@@ -29,10 +22,17 @@ dictionary =
 - ミッション終了: [ESC]\
 - オートパイロット・兵装状態表示の切り替え: [LCTRL + LSHIFT + H] (UH-1HのSPECIALオプションで\"Autopilot Availability\"をONにしている場合)\
 - コントロールインジケーターの表示切り替え: [RCTRL + ENTER]",
-    ["DictKey_WptName_38"] = "",
-    ["DictKey_UnitName_10"] = "static #002",
+    ["DictKey_descriptionNeutralsTask_24"] = "",
     ["DictKey_descriptionBlueTask_23"] = "",
-    ["DictKey_WptName_27"] = "",
-    ["DictKey_UnitName_6"] = "static",
+    ["DictKey_WptName_32"] = "",
+    ["DictKey_WptName_31"] = "",
     ["DictKey_UnitName_8"] = "static #001",
+    ["DictKey_WptName_38"] = "",
+    ["DictKey_WptName_33"] = "",
+    ["DictKey_descriptionRedTask_22"] = "",
+    ["DictKey_UnitName_10"] = "static #002",
+    ["DictKey_UnitName_16"] = "static #006",
+    ["DictKey_UnitName_6"] = "static",
+    ["DictKey_UnitName_12"] = "static #003",
+    ["DictKey_WptName_27"] = "",
 } -- end of dictionary
