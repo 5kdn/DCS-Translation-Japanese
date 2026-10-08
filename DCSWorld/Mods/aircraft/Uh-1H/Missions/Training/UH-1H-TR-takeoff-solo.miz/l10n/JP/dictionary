@@ -6,7 +6,7 @@ dictionary =
     ["DictKey_WptName_30"] = "",
     ["DictKey_WptName_28"] = "",
     ["DictKey_WptName_29"] = "",
-    ["DictKey_sortie_25"] = "単独離陸訓練",
+    ["DictKey_sortie_25"] = "UH-1H 訓練: 単独離陸",
     ["DictKey_descriptionText_21"] = "DCS: UH-1H Huey\
 \
 訓練内容: 単独離陸訓練\

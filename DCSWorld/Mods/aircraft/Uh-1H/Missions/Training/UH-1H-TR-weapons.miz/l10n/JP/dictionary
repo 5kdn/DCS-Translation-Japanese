@@ -75,7 +75,7 @@ M23システムは、左右のドアガンナーが操作する2挺の7.62mm M60
     ["DictKey_UnitName_157"] = "New Static Object #027",
     ["DictKey_30"] = "|M|キーを押して、照準器をONにしてください。",
     ["DictKey_UnitName_109"] = "New Static Object #001",
-    ["DictKey_sortie_170"] = "射撃訓練",
+    ["DictKey_sortie_170"] = "UH-1H 訓練: 射撃訓練",
     ["DictKey_UnitName_165"] = "New Static Object #028",
     ["DictKey_UnitName_155"] = "New Static Object #026",
     ["DictKey_WptName_218"] = "",
