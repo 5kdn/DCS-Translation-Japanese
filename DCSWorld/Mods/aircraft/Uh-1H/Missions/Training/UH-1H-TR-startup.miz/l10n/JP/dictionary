@@ -43,7 +43,7 @@ Gas Producer計の回転数が40%に達するか、40秒が経過するか、ど
 \
 - 一時停止: [PAUSE]\
 - アクティブポーズ: [LSHIFT + LWIN + PAUSE]\
-- 視点移動: テンキー / ジョイスティックのハットスイッチ / マウスルック [LALT + C]\
+- 視点移動: テンキー / ジョイスティックのハットスイッチ / マウスルックモード [LALT + C]\
 - ズーム: [Num/] / [Num*]\
 - ミッション終了: [ESC]\
 - 音量調節: MAIN MENU/OPTIONS/AUDIOのWORLDおよびIN-COCKPIT\

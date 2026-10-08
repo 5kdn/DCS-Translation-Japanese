@@ -23,7 +23,7 @@ dictionary =
 \
 - 一時停止: [PAUSE]\
 - アクティブポーズ: [LSHIFT + LWIN + PAUSE]\
-- 視点移動: テンキー / ジョイスティックのハットスイッチ / マウスルック [LALT + C]\
+- 視点移動: テンキー / ジョイスティックのハットスイッチ / マウスルックモード [LALT + C]\
 - ズーム: [Num/] / [Num*]\
 - ミッション終了: [ESC]\
 - オートパイロット・兵装状態表示の切り替え: [LCTRL + LSHIFT + H] (UH-1HのSPECIALオプションで\"Autopilot Availability\"をONにしている場合)\
