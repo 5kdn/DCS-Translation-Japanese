@@ -14,7 +14,7 @@ MASTERスイッチを1回右クリックして、AN/APX-72トランスポンダ�
     ["DictKey_33"] = "次に、Engine ControlパネルのMain FuelスイッチをONに、GovernorスイッチをAUTOにしろ。\
 他の燃料スイッチはすべてOFFにしておけ。",
     ["DictKey_UnitName_62"] = "static #002",
-    ["DictKey_44"] = "ModeスイッチをT/Rにセットして、AN/ARC-131 VHF FM無線機の電源を入れろ。",
+    ["DictKey_44"] = "AN/ARC-131 VHF FM無線機のModeスイッチをT/Rにセットして電源を入れろ。",
     ["DictKey_36"] = "エンジンを始動するには、HOMEキーを押し続けて、Engine Startトリガーを引く。トリガーはコレクティブのスイッチボックスの下にある。\
 エンジン回転数が上がる間は、エンジン計器と時計を監視しろ。\
 Gas Producer計の回転数が40%に達するか、40秒が経過するか、どちらか早い方までEngine Startボタンを押し続けろ。Gas Producer計の回転数が約15%になると、ローターも回り始めるはずだ。回り始めなければ、始動を中止しろ。\
