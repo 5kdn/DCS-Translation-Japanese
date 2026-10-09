@@ -17,9 +17,9 @@ dictionary =
 	["DictKey_WptName_499"] = "",
 	["DictKey_WptName_410"] = "",
 	["DictKey_UnitName_192"] = "HP_Madrid GSM Tualet #1",
-	["DictKey_47"] = "PEDRO: - Carlos、具合はどうだ?\
+	["DictKey_47"] = "PEDRO: - Carlos、具合はどうだ？\
 CARLOS: - 大丈夫だ。傷の治りは早いんだ。猫に引っかかれたことだってあるが、平気だった。\
-PEDRO: - それで、下で何があったんだ?\
+PEDRO: - それで、下で何があったんだ？\
 CARLOS: - 最初はただの地元民だと思った。車でやって来て、司令官と話したいと言ったんだ。かなり長く話していて、司令官が腹を立て始めた。すると、連中はそのまま立ち去った。\
 ",
 	["DictKey_UnitName_218"] = "HP_Madrid Vyshka #5",
@@ -54,7 +54,7 @@ CARLOS: - 最初はただの地元民だと思った。車でやって来て、�
 	["DictKey_WptName_396"] = "",
 	["DictKey_WptName_420"] = "",
 	["DictKey_UnitName_182"] = "HP_Madrid Palat #15",
-	["DictKey_41"] = "CKP 5: - Springfield、こちらCheckpoint-5。まずい! 奴らはいずれ戻ってくる。増援を連れてくるかもしれない。",
+	["DictKey_41"] = "CKP 5: - Springfield、こちらCheckpoint-5。まずい！ 奴らはいずれ戻ってくる。増援を連れてくるかもしれない。",
 	["DictKey_UnitName_290"] = "BP_Dalyn2 #001",
 	["DictKey_UnitName_138"] = "HP_Madrid BP 4",
 	["DictKey_WptName_385"] = "",
@@ -79,27 +79,27 @@ CARLOS: - 最初はただの地元民だと思った。車でやって来て、�
 	["DictKey_UnitName_170"] = "HP_Madrid Palat #12",
 	["DictKey_UnitName_216"] = "HP_Madrid Vyshka #4",
 	["DictKey_UnitName_304"] = "UH_Prop",
-	["DictKey_descriptionText_343"] = "「González、おめでとう!」\
+	["DictKey_descriptionText_343"] = "「González、おめでとう！」\
 ヘリコプターから降りるやいなや、Pedroは私の手を握り、うれしそうに言った。\
-「ありがとうございます。しかしどうして?」私は純粋に驚いて聞いた。\
-「どうして? 1つ目は今日、君がうまくやったことだ。2つ目は今日、初めて実戦を経験したことだ。君にとって初の実戦任務だったってことだ!」\
-「ありがとうございます、大尉!」\
-「悪いが、礼だけでは足りないな。今夜の士官クラブは君のおごりだぞ! ここでの昔からの伝統なんだ。」Pedroは歯を見せて笑いながら教えてくれた。\
+「ありがとうございます。しかしどうして？」私は純粋に驚いて聞いた。\
+「どうして？ 1つ目は今日、君がうまくやったことだ。2つ目は今日、初めて実戦を経験したことだ。君にとって初の実戦任務だったってことだ！」\
+「ありがとうございます、大尉！」\
+「悪いが、礼だけでは足りないな。今夜の士官クラブは君のおごりだぞ！ ここでの昔からの伝統なんだ。」Pedroは歯を見せて笑いながら教えてくれた。\
 「いいですよ。伝統なら喜んで。」\
 実際のところ、今日の戦闘は、この部隊の全員にとって初めての実戦だったのではないかと思う。もしかするとBenito大尉自身もそうだったのかもしれない。しかし、Pedroが他人の金で酒を飲むチャンスを逃すはずがないことも知っていた。\
-「では、10時に士官クラブでどうですか?」\
-「もちろんだ。また後でな!」Pedroは満足そうに向きを変え、自分のテントの方へ歩いていった。\
+「では、10時に士官クラブでどうですか？」\
+「もちろんだ。また後でな！」Pedroは満足そうに向きを変え、自分のテントの方へ歩いていった。\
 2時間後、基地はまた空になった。UziとColtはパトロール隊の回収に出発し、Alonso少佐は町の近くで戦闘があったとの報告を受け、チェックポイント6へ視察に向かった。\
 Pedroと二人きりで飲みたいわけではなかったが、約束した以上、予定どおり22時に士官クラブへ向かった。Pedroはまだ来ていなかった。明日の編成と飛行計画を練るのに忙しいようだ。Alonso少佐は不在時、いつもPedroに指揮を任せていた。結局Pedroがバーに現れたのは、それから約1時間後だった。彼は士官用の安楽椅子へ、その重い体を沈めた。\
-「お祝いの時間だ!」彼は私にうなずき、注文した。\
+「お祝いの時間だ！」彼は私にうなずき、注文した。\
 飲み物を注文したばかりのその時、司令部士官のÁlvaro Santanaがクラブに駆け込んできた。\
-「Benito大尉、ここにいましたか。緊急の用件です!」\
-「急ぎ? 何が急ぎだ?」\
+「Benito大尉、ここにいましたか。緊急の用件です！」\
+「急ぎ？ 何が急ぎだ？」\
 Pedroは聞き返した。\
-「飲んでいる場合ではありません! チェックポイント5が攻撃を受けています。たった今、連絡がありました。直ちに援護を要請しています!」\
+「飲んでいる場合ではありません！ チェックポイント5が攻撃を受けています。たった今、連絡がありました。直ちに援護を要請しています！」\
 その瞬間、Pedroのくつろいだ様子は消え、彼は出口へ駆けだした。\
-「González、ナイトビジョンゴーグルを用意しろ! Santana、ドアガンナーたちをヘリへ向かわせろ!」\
-「ただちに!」Santanaは大尉の後を追った。\
+「González、ナイトビジョンゴーグルを用意しろ！ Santana、ドアガンナーたちをヘリへ向かわせろ！」\
+「ただちに！」Santanaは大尉の後を追った。\
 ",
 	["DictKey_WptName_427"] = "",
 	["DictKey_WptName_362"] = "",
@@ -121,8 +121,8 @@ Pedroは聞き返した。\
 	["DictKey_WptName_431"] = "",
 	["DictKey_34"] = "PEDRO: - Checkpoint-5、こちらSpringfield-2。応答せよ。\
 CKP 5: - Springfield-2、こちらCheckpoint-5。どうぞ。\
-PEDRO: - 状況は?\
-CKP 5: - 包囲されている! 橋の向こう、我々の陣地の反対側に反乱兵の大集団がいる。後方にも数名と車両1台がいる。ここに釘付けにされている!\
+PEDRO: - 状況は？\
+CKP 5: - 包囲されている！ 橋の向こう、我々の陣地の反対側に反乱兵の大集団がいる。後方にも数名と車両1台がいる。ここに釘付けにされている！\
 PEDRO: - 了解、Checkpoint-5。あと2分で到着する。目標を指示できるよう準備せよ。\
 CKP 5: - 了解、待機する。以上。\
 ",
@@ -131,9 +131,9 @@ CKP 5: - 了解、待機する。以上。\
 	["DictKey_UnitName_146"] = "HP_Madrid Stolovka",
 	["DictKey_UnitName_268"] = "HP_Madrid Of mod #39",
 	["DictKey_WptName_418"] = "",
-	["DictKey_49"] = "PEDRO: - それで、どうなった?\
+	["DictKey_49"] = "PEDRO: - それで、どうなった？\
 CARLOS: - 30分後に戻ってきた。前2台、後ろ1台の計3台で取り囲まれて、逃げ出せなくなったんだ。やつら、30分で決断しないと撃つって脅してきたよ。\
-PEDRO: - で、どうしたんだ?\
+PEDRO: - で、どうしたんだ？\
 CARLOS: - マシンガンを用意して君を呼んだってわけさ。あとは知ってるだろ。\
 PEDRO: - まあな。まあ、いい結果に終わって良かった。猟師か……。",
 	["DictKey_UnitName_114"] = "HP_Madrid KP",
@@ -143,16 +143,16 @@ PEDRO: - まあな。まあ、いい結果に終わって良かった。猟師�
 	["DictKey_WptName_375"] = "",
 	["DictKey_WptName_457"] = "",
 	["DictKey_WptName_357"] = "",
-	["DictKey_31"] = "CKP 5: - Springfield、こちらCheckpoint-5。まずい! 奴らを逃がしてしまった! 補給を受けて態勢を整え、さらに激しく攻め返してくるだろう。こちらが持ちこたえられるかわからない。",
-	["DictKey_36"] = "PEDRO: - いい腕だ! よし、González。旋回離脱して次に向かうぞ。",
+	["DictKey_31"] = "CKP 5: - Springfield、こちらCheckpoint-5。まずい！ 奴らを逃がしてしまった！ 補給を受けて態勢を整え、さらに激しく攻め返してくるだろう。こちらが持ちこたえられるかわからない。",
+	["DictKey_36"] = "PEDRO: - いい腕だ！ よし、González。旋回離脱して次に向かうぞ。",
 	["DictKey_UnitName_204"] = "HP_Madrid Vyshka #002",
 	["DictKey_WptName_407"] = "",
 	["DictKey_WptName_367"] = "",
 	["DictKey_UnitName_128"] = "HP_Madrid GSM 2",
-	["DictKey_37"] = "CKP 5: - Springfield、こちらCheckpoint-5! 車両を撃破してくれ。さもないと連中が町へ散開し、見失ってしまう!",
-	["DictKey_51"] = "PEDRO: - 方位340、兵装使用開始!",
+	["DictKey_37"] = "CKP 5: - Springfield、こちらCheckpoint-5！ 車両を撃破してくれ。さもないと連中が町へ散開し、見失ってしまう！",
+	["DictKey_51"] = "PEDRO: - 方位340、兵装使用開始！",
 	["DictKey_UnitName_208"] = "HP_Madrid BlokP #002",
-	["DictKey_40"] = "CKP 5: - Springfield、こちらCheckpoint-5。素晴らしい働きだ! 残りは北の森に向かっている。森に隠れる前に排除してくれ。",
+	["DictKey_40"] = "CKP 5: - Springfield、こちらCheckpoint-5。素晴らしい働きだ！ 残りは北の森に向かっている。森に隠れる前に排除してくれ。",
 	["DictKey_UnitName_282"] = "HP_Madrid Palat KP #2",
 	["DictKey_UnitName_492"] = "Стат. объект #001",
 	["DictKey_WptName_471"] = "",
@@ -188,16 +188,16 @@ PEDRO: - まあな。まあ、いい結果に終わって良かった。猟師�
 	["DictKey_UnitName_224"] = "HP_Madrid Vyshka #8",
 	["DictKey_UnitName_248"] = "HP_Madrid Of mod #25",
 	["DictKey_UnitName_308"] = "BP_Dalyn2 #6",
-	["DictKey_46"] = "PEDRO: - よし、Carlosは乗ったか? 準備はいいか? ではGonzález、基地に向かってくれ。",
+	["DictKey_46"] = "PEDRO: - よし、Carlosは乗ったか？ 準備はいいか？ ではGonzález、基地に向かってくれ。",
 	["DictKey_35"] = "PEDRO: - Checkpoint-5、こちらSpringfield-2。現在位置を示せ。\
-CKP 5: - 了解、緑色の照明弾を発射する! 最初の攻撃では、橋の向こうにいる大集団を狙ってくれ。照明弾の左側だ。\
+CKP 5: - 了解、緑色の照明弾を発射する！ 最初の攻撃では、橋の向こうにいる大集団を狙ってくれ。照明弾の左側だ。\
 PEDRO: - González、ロケットで攻撃しろ。橋の左側を狙え。\
 ",
 	["DictKey_WptName_395"] = "",
 	["DictKey_WptName_428"] = "",
 	["DictKey_WptName_413"] = "",
 	["DictKey_WptName_469"] = "",
-	["DictKey_43"] = "PEDRO: - Checkpoint-5、こちらSpringfield。車両は丸焼けだ! あれではもう一マイルも走れないだろう。",
+	["DictKey_43"] = "PEDRO: - Checkpoint-5、こちらSpringfield。車両は丸焼けだ！ あれではもう一マイルも走れないだろう。",
 	["DictKey_UnitName_220"] = "HP_Madrid Vyshka #6",
 	["DictKey_WptName_370"] = "",
 	["DictKey_UnitName_272"] = "HP_Madrid Palat #31",
@@ -230,9 +230,9 @@ PEDRO: - González、ロケットで攻撃しろ。橋の左側を狙え。\
 	["DictKey_UnitName_236"] = "HP_Madrid 3",
 	["DictKey_WptName_354"] = "",
 	["DictKey_45"] = "CKP 5: - Springfield、こちらCheckpoint-5。目標撃破。\
-PEDRO: - お助けできて光栄だ。援護が必要ならいつでも呼んでくれ!\
-CKP 5: - Springfield、恩にきるよ。Carlosが撃たれた。彼を基地に連れ帰って医者に見せてもらえないか?\
-PEDRO: - お安い御用だ! 着陸ポイントを指定してくれ。González、チェックポイントに行ってくれ。\
+PEDRO: - お助けできて光栄だ。援護が必要ならいつでも呼んでくれ！\
+CKP 5: - Springfield、恩にきるよ。Carlosが撃たれた。彼を基地に連れ帰って医者に見せてもらえないか？\
+PEDRO: - お安い御用だ！ 着陸ポイントを指定してくれ。González、チェックポイントに行ってくれ。\
 ",
 	["DictKey_UnitName_246"] = "HP_Madrid Of mod #23",
 	["DictKey_UnitName_112"] = "HP_Madrid 4",
@@ -258,17 +258,17 @@ PEDRO: - お安い御用だ! 着陸ポイントを指定してくれ。González
 	["DictKey_WptName_412"] = "",
 	["DictKey_WptName_419"] = "",
 	["DictKey_WptName_473"] = "",
-	["DictKey_48"] = "PEDRO: - 連中は何を要求したんだ?\
-CARLOS: - 驚くなよ。俺たちから弾薬を買おうとしたんだ!\
-PEDRO: - はぁ?!\
-CARLOS: - ああ! どうやら、最近ここへ弾薬や物資が補給されたと知っていたらしい。それで、俺たちから少し買えると思ったんだ。大きな札束の入った袋を見せてきた。自分たちは猟師で、狩りに必要なんだとさ。\
+	["DictKey_48"] = "PEDRO: - 連中は何を要求したんだ？\
+CARLOS: - 驚くなよ。俺たちから弾薬を買おうとしたんだ！\
+PEDRO: - はぁ？！\
+CARLOS: - ああ！ どうやら、最近ここへ弾薬や物資が補給されたと知っていたらしい。それで、俺たちから少し買えると思ったんだ。大きな札束の入った袋を見せてきた。自分たちは猟師で、狩りに必要なんだとさ。\
 PEDRO: - なるほど、猟師か……もちろんそうだろうな。\
 CARLOS: - まったくだ。連中が猟師なら、俺はモナコ王女だ。\
 ",
 	["DictKey_UnitName_222"] = "HP_Madrid Vyshka #7",
 	["DictKey_WptName_376"] = "",
-	["DictKey_27"] = "PEDRO: - González、帰ってきたぞ。10分後に士官クラブだ、いいな?",
-	["DictKey_42"] = "CKP 5: - Springfield、こちらCheckpoint-5。よくやった!",
+	["DictKey_27"] = "PEDRO: - González、帰ってきたぞ。10分後に士官クラブだ、いいな？",
+	["DictKey_42"] = "CKP 5: - Springfield、こちらCheckpoint-5。よくやった！",
 	["DictKey_WptName_415"] = "",
 	["DictKey_WptName_368"] = "",
 	["DictKey_UnitName_162"] = "HP_Madrid Palat #7",
@@ -278,7 +278,7 @@ CARLOS: - まったくだ。連中が猟師なら、俺はモナコ王女だ。\
 	["DictKey_UnitName_264"] = "HP_Madrid Of mod #37",
 	["DictKey_UnitName_306"] = "BP_Dalyn2 #5",
 	["DictKey_UnitName_196"] = "HP_Madrid GKP #001",
-	["DictKey_39"] = "CKP 5: - 逃げられた! まずいぞ。しばらく身を潜めた後、また戻ってくるだろう。",
+	["DictKey_39"] = "CKP 5: - 逃げられた！ まずいぞ。しばらく身を潜めた後、また戻ってくるだろう。",
 	["DictKey_WptName_382"] = "",
 	["DictKey_UnitName_144"] = "HP_Madrid Tent 4",
 	["DictKey_UnitName_186"] = "HP_Madrid Palat #17",

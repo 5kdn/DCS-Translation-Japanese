@@ -19,7 +19,7 @@ dictionary =
     ["DictKey_UnitName_192"] = "New Static Object #010",
     ["DictKey_UnitName_218"] = "New Static Object #064",
     ["DictKey_GroupName_215"] = "New Static Object #063",
-    ["DictKey_25"] = "COPILOT: エンジン火災!",
+    ["DictKey_25"] = "COPILOT: エンジン火災！",
     ["DictKey_WptName_287"] = "",
     ["DictKey_GroupName_499"] = "base-043",
     ["DictKey_WptName_438"] = "",
@@ -36,7 +36,7 @@ Sachkhere駅から野営地へ進入せよ。\
 \
 すべての敵地上戦力を攻撃し、基地を徹底的に破壊せよ。敵に戦闘手段を一切残すな。\
 ",
-    ["DictKey_30"] = "COPILOT: やつらを撃ちまくれ!",
+    ["DictKey_30"] = "COPILOT: やつらを撃ちまくれ！",
     ["DictKey_UnitName_194"] = "New Static Object #011",
     ["DictKey_WptName_536"] = "",
     ["DictKey_GroupName_84"] = "base-003",
@@ -49,7 +49,7 @@ Sachkhere駅から野営地へ進入せよ。\
 \
 公式にはジョージア軍の作戦だが、我が軍も直接航空支援を提供する。\
 ",
-    ["DictKey_29"] = "COPILOT: 食らいやがれ!",
+    ["DictKey_29"] = "COPILOT: 食らいやがれ！",
     ["DictKey_UnitName_48"] = "base-008",
     ["DictKey_UnitName_583"] = "base-037",
     ["DictKey_UnitName_79"] = "base-036",
@@ -82,7 +82,7 @@ Sachkhere駅から野営地へ進入せよ。\
     ["DictKey_WptName_429"] = "",
     ["DictKey_WptName_581"] = "",
     ["DictKey_GroupName_112"] = "base-029",
-    ["DictKey_31"] = "COPILOT: 絶好のバーベキュー日和だな!",
+    ["DictKey_31"] = "COPILOT: 絶好のバーベキュー日和だな！",
     ["DictKey_GroupName_219"] = "New Static Object #065",
     ["DictKey_UnitName_208"] = "New Static Object #059",
     ["DictKey_WptName_272"] = "",
@@ -115,9 +115,9 @@ Sachkhere駅から野営地へ進入せよ。\
     ["DictKey_WptName_369"] = "",
     ["DictKey_27"] = "COPILOT:\
 \
-Ford-12が墜落した!\
+Ford-12が墜落した！\
 \
-2番機が墜落した!\
+2番機が墜落した！\
 ",
     ["DictKey_WptName_326"] = "",
     ["DictKey_UnitName_148"] = "New Static Object #073",
@@ -168,7 +168,7 @@ Ford-12が墜落した!\
     ["DictKey_UnitName_186"] = "New Static Object #007",
     ["DictKey_GroupName_512"] = "base-033",
     ["DictKey_WptName_290"] = "",
-    ["DictKey_26"] = "COPILOT: 被弾した、被弾した!",
+    ["DictKey_26"] = "COPILOT: 被弾した、被弾した！",
     ["DictKey_UnitName_447"] = "base-005",
     ["DictKey_GroupName_92"] = "base-052",
     ["DictKey_UnitName_350"] = "New Static Object #016",
@@ -247,7 +247,7 @@ Ford-12が墜落した!\
     ["DictKey_GroupName_76"] = "base-035",
     ["DictKey_WptName_549"] = "",
     ["DictKey_WptName_561"] = "",
-    ["DictKey_28"] = "COPILOT: ヒャッハー!",
+    ["DictKey_28"] = "COPILOT: ヒャッハー！",
     ["DictKey_WptName_378"] = "",
     ["DictKey_UnitName_115"] = "base-049",
     ["DictKey_WptName_523"] = "",
@@ -324,7 +324,7 @@ Ford-12が墜落した!\
     ["DictKey_UnitName_176"] = "New Static Object #001",
     ["DictKey_WptName_309"] = "",
     ["DictKey_WptName_252"] = "",
-    ["DictKey_24"] = "COPILOT: 油圧が低下している!",
+    ["DictKey_24"] = "COPILOT: 油圧が低下している！",
     ["DictKey_WptName_324"] = "",
     ["DictKey_GroupName_116"] = "base-050",
     ["DictKey_UnitName_117"] = "base-050",
@@ -433,7 +433,7 @@ Ford-12が墜落した!\
     ["DictKey_UnitName_200"] = "New Static Object #014",
     ["DictKey_WptName_270"] = "",
     ["DictKey_GroupName_98"] = "base-028",
-    ["DictKey_23"] = "COPILOT: 野営地を完全に壊滅させたぞ!",
+    ["DictKey_23"] = "COPILOT: 野営地を完全に壊滅させたぞ！",
     ["DictKey_WptName_555"] = "",
     ["DictKey_GroupName_80"] = "base-004",
     ["DictKey_UnitName_386"] = "New Static Object #061",

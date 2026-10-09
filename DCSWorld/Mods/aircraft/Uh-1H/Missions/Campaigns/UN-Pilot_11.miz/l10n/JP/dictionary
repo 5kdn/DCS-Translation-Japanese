@@ -27,7 +27,7 @@ dictionary =
 	["DictKey_WptName_430"] = "",
 	["DictKey_WptName_476"] = "",
 	["DictKey_WptName_495"] = "",
-	["DictKey_47"] = "Teacher’sより警告! 全員、区域から退避しろ! 爆破する!",
+	["DictKey_47"] = "Teacher’sより警告！ 全員、区域から退避しろ！ 爆破する！",
 	["DictKey_WptName_456"] = "",
 	["DictKey_UnitName_76"] = "Стат. объект #2",
 	["DictKey_WptName_541"] = "",
@@ -38,10 +38,10 @@ dictionary =
 	["DictKey_UnitName_179"] = "HP_Madrid Palat",
 	["DictKey_WptName_438"] = "",
 	["DictKey_WptName_497"] = "",
-	["DictKey_32"] = "MARCOS: - Springfield各機、こちらSpringfield-1。川のある渓谷に入る! 私に続け!",
+	["DictKey_32"] = "MARCOS: - Springfield各機、こちらSpringfield-1。川のある渓谷に入る！ 私に続け！",
 	["DictKey_UnitName_207"] = "HP_Madrid Palat #5",
 	["DictKey_WptName_459"] = "",
-	["DictKey_45"] = "Teacher’sより警告! 全員、区域から退避しろ! 爆破する!",
+	["DictKey_45"] = "Teacher’sより警告！ 全員、区域から退避しろ！ 爆破する！",
 	["DictKey_UnitName_275"] = "HP_Madrid Of mod #23",
 	["DictKey_UnitName_617"] = "Стат. объект #001",
 	["DictKey_WptName_613"] = "",
@@ -50,7 +50,7 @@ dictionary =
 	["DictKey_UnitName_157"] = "HP_Madrid GSM 2",
 	["DictKey_UnitName_235"] = "HP_Madrid Vyshka #3",
 	["DictKey_UnitName_325"] = "BP_Dalyn2 #1",
-	["DictKey_30"] = "MARCOS: - Springfield各機、こちらSpringfield-1。離陸しろ!\
+	["DictKey_30"] = "MARCOS: - Springfield各機、こちらSpringfield-1。離陸しろ！\
 ウェッジフォーメーションを組め。2番機と3番機は左、4番機は右につけ。",
 	["DictKey_WptName_469"] = "",
 	["DictKey_WptName_536"] = "",
@@ -63,14 +63,14 @@ dictionary =
 	["DictKey_UnitName_227"] = "HP_Madrid Palat KP",
 	["DictKey_WptName_468"] = "",
 	["DictKey_39"] = "MIGUEL: - Springfield-1、こちらSpringfield-2。敵集団を無力化した。\
-MARCOS: - 了解、2番機!\
+MARCOS: - 了解、2番機！\
 ",
 	["DictKey_41"] = "TEACHER’S: - Ford、こちらTeacher’s。応答せよ。\
 FORD: - こちらFord。どうぞ。\
 TEACHER’S: - 脱出ポイントに近づいている。こちらは回収準備完了。\
 FORD: - 了解。迎えに行く。",
 	["DictKey_WptName_492"] = "",
-	["DictKey_25"] = "MARCOS: - 諸君、よくやった。ありがとう!",
+	["DictKey_25"] = "MARCOS: - 諸君、よくやった。ありがとう！",
 	["DictKey_UnitName_249"] = "HP_Madrid Vyshka #6",
 	["DictKey_UnitName_311"] = "HP_Madrid Palat KP #2",
 	["DictKey_UnitName_171"] = "HP_Madrid Tent 3",
@@ -120,7 +120,7 @@ FORD: - 了解。迎えに行く。",
 	["DictKey_WptName_435"] = "",
 	["DictKey_UnitName_169"] = "HP_Madrid Tent 2",
 	["DictKey_40"] = "TEACHER’S: - Springfield各機、こちらTeacher’s。ここに4つの建物があります。おそらく武器庫だと思われます。\
-MARCOS: - 了解、どうしてほしい?\
+MARCOS: - 了解、どうしてほしい？\
 TEACHER’S: - いくつか証拠品を押収し、残りは吹き飛ばします。\
 MARCOS: - 了解。準備ができたら知らせてくれ。",
 	["DictKey_WptName_418"] = "",
@@ -138,7 +138,7 @@ MARCOS: - 了解。準備ができたら知らせてくれ。",
 	["DictKey_UnitName_217"] = "HP_Madrid Palat #19",
 	["DictKey_UnitName_173"] = "HP_Madrid Tent 4",
 	["DictKey_UnitName_293"] = "HP_Madrid Of mod #37",
-	["DictKey_37"] = "FORD: - Springfield、こちらFord。部隊の展開完了!",
+	["DictKey_37"] = "FORD: - Springfield、こちらFord。部隊の展開完了！",
 	["DictKey_WptName_537"] = "",
 	["DictKey_UnitName_265"] = "HP_Madrid 3",
 	["DictKey_WptName_624"] = "",
@@ -152,41 +152,41 @@ MARCOS: - 了解。準備ができたら知らせてくれ。",
 	["DictKey_WptName_501"] = "",
 	["DictKey_UnitName_161"] = "HP_Madrid GSM 4",
 	["DictKey_UnitName_279"] = "HP_Madrid Of mod #26",
-	["DictKey_33"] = "MARCOS: - こちらSpringfield-1。目標まで3分、方位020、速度100kt。兵装使用開始!",
+	["DictKey_33"] = "MARCOS: - こちらSpringfield-1。目標まで3分、方位020、速度100kt。兵装使用開始！",
 	["DictKey_WptName_474"] = "",
 	["DictKey_UnitName_167"] = "HP_Madrid BP 4",
 	["DictKey_WptName_465"] = "",
 	["DictKey_UnitName_287"] = "HP_Madrid Of mod #31",
-	["DictKey_36"] = "FORD: - Springfield、こちらFord。了解、着陸します!\
-MARCOS: - Ford、こちらSpringfield-1。了解。2番機、着陸ゾーンを援護しろ。周回し、動くものは撃て!\
+	["DictKey_36"] = "FORD: - Springfield、こちらFord。了解、着陸します！\
+MARCOS: - Ford、こちらSpringfield-1。了解。2番機、着陸ゾーンを援護しろ。周回し、動くものは撃て！\
 \
-飛行隊から離れて、友軍部隊の進行を援護せよ",
+編隊を離れ、前進する友軍部隊を火力で援護せよ",
 	["DictKey_descriptionRedTask_408"] = "",
 	["DictKey_UnitName_141"] = "HP_Madrid 4",
 	["DictKey_WptName_538"] = "",
 	["DictKey_UnitName_267"] = "HP_Madrid Ukr",
 	["DictKey_WptName_473"] = "",
 	["DictKey_UnitName_257"] = "HP_Madrid Vyshka #9",
-	["DictKey_50"] = "MARCOS: - 2番機、こちらSpringfield-1。もっと近づけ!",
+	["DictKey_50"] = "MARCOS: - 2番機、こちらSpringfield-1。もっと近づけ！",
 	["DictKey_WptName_540"] = "",
-	["DictKey_42"] = "FORD: - Teacher’s、こちらFord。乗り込んでくれ!",
+	["DictKey_42"] = "FORD: - Teacher’s、こちらFord。乗り込んでくれ！",
 	["DictKey_UnitName_259"] = "HP_Madrid Vyshka #11",
 	["DictKey_WptName_463"] = "",
 	["DictKey_WptName_487"] = "",
 	["DictKey_WptName_441"] = "",
 	["DictKey_WptName_470"] = "",
-	["DictKey_51"] = "MARCOS: - 2番機、こちらSpringfield-1。どこに行った? 見えないぞ。編隊に合流せよ!",
+	["DictKey_51"] = "MARCOS: - 2番機、こちらSpringfield-1。どこに行った？ 見えないぞ。編隊に合流せよ！",
 	["DictKey_UnitName_159"] = "HP_Madrid GSM 3",
 	["DictKey_WptName_506"] = "",
 	["DictKey_UnitName_213"] = "HP_Madrid Palat #16",
 	["DictKey_WptName_448"] = "",
-	["DictKey_46"] = "Teacher’sより警告! 全員、区域から退避しろ! 爆破する!",
-	["DictKey_35"] = "MARCOS: - Ford、着陸ゾーンはクリアだ。着陸して兵士を展開しろ!",
+	["DictKey_46"] = "Teacher’sより警告！ 全員、区域から退避しろ！ 爆破する！",
+	["DictKey_35"] = "MARCOS: - Ford、着陸ゾーンはクリアだ。着陸して兵士を展開しろ！",
 	["DictKey_WptName_480"] = "",
 	["DictKey_UnitName_277"] = "HP_Madrid Of mod #25",
 	["DictKey_29"] = "MISSION FAILED!",
 	["DictKey_UnitName_313"] = "HP_Madrid Of mod #40",
-	["DictKey_43"] = "FORD: - Springfield、こちらFord。兵士を乗せた。離陸する!\
+	["DictKey_43"] = "FORD: - Springfield、こちらFord。兵士を乗せた。離陸する！\
 MARCOS: - 了解、Ford。基地へ帰還せよ。Springfield-2、私の左側に合流せよ。",
 	["DictKey_WptName_574"] = "",
 	["DictKey_sortie_410"] = "ティーチャーズ",
@@ -220,7 +220,7 @@ MARCOS: - 了解、Ford。基地へ帰還せよ。Springfield-2、私の左側�
 	["DictKey_WptName_440"] = "",
 	["DictKey_WptName_414"] = "",
 	["DictKey_UnitName_269"] = "HP_Madrid Of mod #20",
-	["DictKey_44"] = "TEACHER’S: - こちらTeacher’s。警告! ゾーンから離れてください! 爆薬をセットしました。爆破します!",
+	["DictKey_44"] = "TEACHER’S: - こちらTeacher’s。警告！ ゾーンから離れてください！ 爆薬をセットしました。爆破します！",
 	["DictKey_WptName_493"] = "",
 	["DictKey_UnitName_147"] = "HP_Madrid BP",
 	["DictKey_UnitName_305"] = "HP_Madrid Palat #38",
@@ -239,7 +239,7 @@ MARCOS: - 了解、Ford。基地へ帰還せよ。Springfield-2、私の左側�
 	["DictKey_UnitName_303"] = "HP_Madrid Palat #37",
 	["DictKey_34"] = "MARCOS: - こちらSpringfield-1。宿営地と、空き地の反対側にいる武装集団を視認。2番機と3番機は、炎の左にあるテントを攻撃しろ。4番機は私とともに、炎の近くの集団を攻撃する。",
 	["DictKey_UnitName_209"] = "HP_Madrid Palat #14",
-	["DictKey_48"] = "Teacher’sより警告! 全員、区域から退避しろ! 爆破する!",
+	["DictKey_48"] = "Teacher’sより警告！ 全員、区域から退避しろ！ 爆破する！",
 	["DictKey_UnitName_70"] = "Skl3",
 	["DictKey_UnitName_295"] = "HP_Madrid Of mod #38",
 	["DictKey_UnitName_185"] = "HP_Madrid Of mod #11",
@@ -270,8 +270,8 @@ Springfield-1の指示に従え。\
 	["DictKey_UnitName_307"] = "HP_Madrid Palat #39",
 	["DictKey_UnitName_241"] = "HP_Madrid Vyshka #2",
 	["DictKey_WptName_461"] = "",
-	["DictKey_38"] = "TEACHER’S: - Springfield、こちらTeacher’s! 後方に敵集団がいる。あちらには味方が誰もいない! 空き地の反対側から、こちらへ向かっている!\
-MARCOS: - 了解、Teacher’s。2番機、後方の集団を排除しろ!\
+	["DictKey_38"] = "TEACHER’S: - Springfield、こちらTeacher’s！ 後方に敵集団がいる。あちらには味方が誰もいない！ 空き地の反対側から、こちらへ向かっている！\
+MARCOS: - 了解、Teacher’s。2番機、後方の集団を排除しろ！\
 ",
 	["DictKey_WptName_429"] = "",
 	["DictKey_WptName_545"] = "",

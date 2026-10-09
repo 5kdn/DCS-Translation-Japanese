@@ -236,7 +236,7 @@ dictionary =
 	["DictKey_UnitName_73"] = "Player",
 	["DictKey_WptName_239"] = "",
 	["DictKey_UnitName_302"] = "Unit #010",
-	["DictKey_ActionText_338"] = "よくやった! いま負傷者を降ろしている。今夜は助かった。\
+	["DictKey_ActionText_338"] = "よくやった！ いま負傷者を降ろしている。今夜は助かった。\
 町に残っていた人々も避難したようだ。",
 	["DictKey_GroupName_105"] = "",
 	["DictKey_WptName_255"] = "",

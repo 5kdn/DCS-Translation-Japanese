@@ -16,7 +16,7 @@ dictionary =
     ["DictKey_UnitName_135"] = "New Static Object #023",
     ["DictKey_58"] = "SUMMIT:\
 \
-Ford、ヨーロッパの最高峰へようこそ!\
+Ford、ヨーロッパの最高峰へようこそ！\
 \
 今、搭乗中だ。\
 ",
@@ -33,22 +33,22 @@ GovernorをAUTOにセット。\
 ",
     ["DictKey_59"] = "COPILOT:\
 \
-全員乗ったか?\
+全員乗ったか？\
 \
 出発しよう。\
 ",
     ["DictKey_UnitName_106"] = "New Static Object #016",
     ["DictKey_50"] = "TROOPS IN CABIN:\
 \
-意識を失いそうだ!\
+意識を失いそうだ！\
 \
-バイタルを確認!\
+バイタルを確認！\
 \
-救急キットはどこだ?!\
+救急キットはどこだ？！\
 \
 ……\
 \
-まだ呼吸している!\
+まだ呼吸している！\
 \
 脈が弱い。\
 \
@@ -70,17 +70,17 @@ GovernorをAUTOにセット。\
 ",
     ["DictKey_51"] = "TROOPS IN CABIN:\
 \
-負傷者の脈がなくなった。CPRを開始する!\
+負傷者の脈がなくなった。CPRを開始する！\
 \
-しっかりしろ! 頭を支えろ、頭だ!\
+しっかりしろ！ 頭を支えろ、頭だ！\
 \
-救急要員が必要だ、今すぐ!\
+救急要員が必要だ、今すぐ！\
 ",
-    ["DictKey_52"] = "COPILOT: くそっ、電線だ!",
+    ["DictKey_52"] = "COPILOT: くそっ、電線だ！",
     ["DictKey_UnitName_108"] = "New Static Object #017",
-    ["DictKey_46"] = "COPILOT: 機体が重い!\
+    ["DictKey_46"] = "COPILOT: 機体が重い！\
 \
-Emergency governorを使うか?",
+Emergency governorを使うか？",
     ["DictKey_WptName_163"] = "",
     ["DictKey_descriptionRedTask_142"] = "",
     ["DictKey_WptName_199"] = "",
@@ -105,7 +105,7 @@ Emergency governorを使うか?",
 ",
     ["DictKey_41"] = "COPILOT:\
 \
-上では、このひどい雲より天候がいいという話が本当だといいな。\
+この雲の中より、上空の天候はましだという話が本当だといいな。\
 ",
     ["DictKey_UnitName_104"] = "New Static Object #011",
     ["DictKey_WptName_153"] = "",
@@ -145,9 +145,9 @@ Emergency governorを使うか?",
     ["DictKey_UnitName_90"] = "New Static Object #005",
     ["DictKey_66"] = "SKALA:\
 \
-よくやった、みんな!\
+よくやった、みんな！\
 \
-おかえり!\
+おかえり！\
 ",
     ["DictKey_UnitName_137"] = "New Static Object #012",
     ["DictKey_55"] = "COPILOT:\
@@ -172,11 +172,11 @@ HINT\
     ["DictKey_WptName_165"] = "",
     ["DictKey_61"] = "TROOPS IN CABIN:\
 \
-イェーイ!\
+イェーイ！\
 \
-世界の頂上だぜ!\
+世界の頂上だぜ！\
 \
-スピーカーを持ってきて正解だったな!\
+スピーカーを持ってきて正解だったな！\
 ",
     ["DictKey_48"] = "SKALA: Ford、Skala。\
 \
@@ -280,21 +280,21 @@ Mi-8の乗員3名はいずれも生存したが、負傷している。クルー
 ",
     ["DictKey_54"] = "TROOPS IN CABIN:\
 \
-- 救急要員をここへ!\
+- 救急要員をここへ！\
 \
-酸素を持ってこい、酸素だ!\
+酸素を持ってこい、酸素だ！\
 \
-胸骨圧迫を引き継げ!\
+胸骨圧迫を引き継げ！\
 \
-急げ! 急げ!\
+急げ！ 急げ！\
 \
-呼吸しろ! 呼吸しろ!\
+呼吸しろ！ 呼吸しろ！\
 \
-支えたか?!\
+支えたか？！\
 \
-救急車へ運べ!\
+救急車へ運べ！\
 \
-- よし、よし、引き受けた! こっちは大丈夫だ!\
+- よし、よし、引き受けた！ こっちは大丈夫だ！\
 ",
     ["DictKey_38"] = "SUMMIT: Ford、こちらSummit。\
 \
