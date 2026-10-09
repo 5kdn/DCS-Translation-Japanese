@@ -73,20 +73,20 @@ M60Dドアガン\
     ["DictKey_WptName_258"] = "",
     ["DictKey_WptName_248"] = "",
     ["DictKey_UnitName_194"] = "New Static Object #23",
-    ["DictKey_15"] = "CREW: 彼を収容した。ここを離脱しよう!",
+    ["DictKey_15"] = "CREW: 彼を収容した。ここを離脱しよう！",
     ["DictKey_UnitName_134"] = "New Static Object",
     ["DictKey_UnitName_166"] = "New Static Object #017",
     ["DictKey_12"] = "STRAY EAGLE: Chevy、こちらStray Eagle。\
 \
 君たちは私の位置から南へ約10NMの地点にいる。ELTは40.5で作動中だ。\
 \
-今、オレンジ色のスモークを焚く!\
+今、オレンジ色のスモークを焚く！\
 \
 道路をたどれば、私の位置までまっすぐ来られるはずだ。今はここの茂みで身を潜めている。\
 \
-敵が近くにいるようだ。奴らにも君たちの接近音が聞こえている!\
+敵が近くにいるようだ。奴らにも君たちの接近音が聞こえている！\
 \
-オーバー!\
+オーバー！\
 ",
     ["DictKey_UnitName_130"] = "FARP London",
     ["DictKey_UnitName_124"] = "FARP Dallas",
@@ -126,7 +126,7 @@ M60Dドアガン\
     ["DictKey_WptName_259"] = "",
     ["DictKey_WptName_272"] = "",
     ["DictKey_UnitName_176"] = "New Static Object #13",
-    ["DictKey_13"] = "STRAY EAGLE: 今からそっちへ向かう! 援護してくれ!",
+    ["DictKey_13"] = "STRAY EAGLE: 今からそっちへ向かう！ 援護してくれ！",
     ["DictKey_WptName_252"] = "",
     ["DictKey_WptName_247"] = "",
     ["DictKey_WptName_281"] = "",
@@ -136,8 +136,8 @@ M60Dドアガン\
     ["DictKey_UnitName_178"] = "New Static Object #14",
     ["DictKey_UnitName_196"] = "New Static Object #24",
     ["DictKey_UnitName_182"] = "New Static Object #16",
-    ["DictKey_14"] = "STRAY EAGLE: 今からそっちへ向かう! 援護してくれ!",
-    ["DictKey_16"] = "CREW: 彼を収容した。ここを離脱しよう!",
+    ["DictKey_14"] = "STRAY EAGLE: 今からそっちへ向かう！ 援護してくれ！",
+    ["DictKey_16"] = "CREW: 彼を収容した。ここを離脱しよう！",
     ["DictKey_UnitName_202"] = "New Static Object #27",
     ["DictKey_UnitName_154"] = "New Static Object #013",
     ["DictKey_WptName_263"] = "",

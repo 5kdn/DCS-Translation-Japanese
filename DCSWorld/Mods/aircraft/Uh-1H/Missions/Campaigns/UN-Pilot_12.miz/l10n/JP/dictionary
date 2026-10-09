@@ -1,8 +1,8 @@
 dictionary = 
 {
 	["DictKey_WptName_577"] = "",
-	["DictKey_90"] = "MIGUEL: - Madrid、こちらSpringfield-2。応答せよ!\
-MADRID: - Springfield-2、こちらMadrid。何があった?\
+	["DictKey_90"] = "MIGUEL: - Madrid、こちらSpringfield-2。応答せよ！\
+MADRID: - Springfield-2、こちらMadrid。何があった？\
 MIGUEL: - 検査のため不審車両を停止させようとしたところ、相手が発砲してきた。こちらも応戦し、車両と人員を排除した。\
 MADRID: - 了解、Springfield-2。捜索隊を送り、車両が何を運んでいたか調べさせる。\
 MIGUEL: - 了解。だが、もうほとんど残っていない……車には町を破壊できるほど大量の爆薬が積まれていたようだ。\
@@ -19,9 +19,9 @@ MADRID: - 了解。では基地へ帰還せよ。あとは警察に任せる。"
 	["DictKey_UnitName_329"] = "HP_Madrid Palat #37",
 	["DictKey_WptName_578"] = "",
 	["DictKey_WptName_488"] = "",
-	["DictKey_93"] = "WALKER: - Springfield、こちらWalker! 銃撃を受けている! 連中はよほど検査されたくないらしい!\
-MIGUEL: - 了解、Walker! 頭を下げていろ! 機銃掃射に入る!\
-WALKER: - 車両を攻撃しろ。逃がすな!\
+	["DictKey_93"] = "WALKER: - Springfield、こちらWalker！ 銃撃を受けている！ 連中はよほど検査されたくないらしい！\
+MIGUEL: - 了解、Walker！ 頭を下げていろ！ 機銃掃射に入る！\
+WALKER: - 車両を攻撃しろ。逃がすな！\
 ",
 	["DictKey_100"] = "調査結果を報告する",
 	["DictKey_UnitName_345"] = "BP_Dalyn2 #001",
@@ -52,14 +52,14 @@ MIGUEL: - 了解、Walker。離陸する。",
 	["DictKey_UnitName_227"] = "HP_Madrid Palat #13",
 	["DictKey_WptName_500"] = "",
 	["DictKey_WptName_462"] = "",
-	["DictKey_79"] = "WALKER: - そこの車両! こちら国連平和維持軍である。車両を停止せよ。繰り返す。車両を停止せよ。さもなくば発砲する!",
+	["DictKey_79"] = "WALKER: - そこの車両！ こちら国連平和維持軍である。車両を停止せよ。繰り返す。車両を停止せよ。さもなくば発砲する！",
 	["DictKey_WptName_437"] = "",
 	["DictKey_68"] = "MIGUEL: - Madrid、こちらSpringfield-2。応答せよ。\
 MADRID: - Springfield-2、どうぞ。\
 MIGUEL: - 調査完了。不審なものは見つからなかった。パトロールを続ける。\
 MADRID: - 了解、Springfield-2。パトロールを続けろ。",
 	["DictKey_95"] = "MIGUEL: - Walker、Madridが車両の調査を要求している。\
-WALKER: - どこを調べるんだ? まあ、命令は命令だ。調べてくる。",
+WALKER: - どこを調べるんだ？ まあ、命令は命令だ。調べてくる。",
 	["DictKey_WptName_515"] = "",
 	["DictKey_WptName_439"] = "",
 	["DictKey_WptName_521"] = "",
@@ -70,11 +70,11 @@ WALKER: - どこを調べるんだ? まあ、命令は命令だ。調べてく�
 	["DictKey_UnitName_351"] = "BP_Dalyn2 #1",
 	["DictKey_sortie_435"] = "車列",
 	["DictKey_UnitName_201"] = "HP_Madrid Stolovka",
-	["DictKey_80"] = "WALKER: - くそっ! 奴ら、止まらないぞ!\
-MIGUEL: - Madrid、こちらSpringfield-2。応答せよ!\
-MADRID: - Springfield-2、こちらMadrid。どうぞ!\
-MIGUEL: - 車両が停止命令を無視している!\
-MADRID: - 警告射撃で停止させろ。ただし、車両には当てるな!",
+	["DictKey_80"] = "WALKER: - くそっ！ 奴ら、止まらないぞ！\
+MIGUEL: - Madrid、こちらSpringfield-2。応答せよ！\
+MADRID: - Springfield-2、こちらMadrid。どうぞ！\
+MIGUEL: - 車両が停止命令を無視している！\
+MADRID: - 警告射撃で停止させろ。ただし、車両には当てるな！",
 	["DictKey_UnitName_323"] = "HP_Madrid Of mod #39",
 	["DictKey_descriptionBlueTask_434"] = "離陸：FARP MADRID\
 飛行計画に沿ってパトロールを行え。\
@@ -96,16 +96,16 @@ Rioni川を渡った地点から、線路に沿って東へパトロールせよ
 	["DictKey_WptName_487"] = "",
 	["DictKey_WptName_522"] = "",
 	["DictKey_WptName_470"] = "",
-	["DictKey_51"] = "MIGUEL: - なあ、Walker。連中はあれほど大量の爆薬で、何を企んでいたんだろうな?\
+	["DictKey_51"] = "MIGUEL: - なあ、Walker。連中はあれほど大量の爆薬で、何を企んでいたんだろうな？\
 WALKER: - わからない。祝日の花火かもしれないな。\
 MIGUEL: - それなら、その花火を先に打ち上げてしまったな。\
 WALKER: - そうだな。",
 	["DictKey_WptName_506"] = "",
 	["DictKey_UnitName_213"] = "HP_Madrid Of mod #13",
-	["DictKey_70"] = "MIGUEL: - Walker、それで本当にワインだったのか?\
+	["DictKey_70"] = "MIGUEL: - Walker、それで本当にワインだったのか？\
 WALKER: - ああ、瓶のケースと樽が2つ。地元産だ。\
-MIGUEL: - 手をつけなかっただろうな?\
-WALKER: - どうやって断れっていうんだ? 少し味見するまで帰してくれなかったんだ!\
+MIGUEL: - 手をつけなかっただろうな？\
+WALKER: - どうやって断れっていうんだ？ 少し味見するまで帰してくれなかったんだ！\
 ",
 	["DictKey_WptName_480"] = "",
 	["DictKey_UnitName_365"] = "BP_Dalyn52",
@@ -140,7 +140,7 @@ MADRID: - 了解。そのまま車両を停止させる試みを続けてくれ�
 	["DictKey_UnitName_281"] = "HP_Madrid Vyshka #10",
 	["DictKey_WptName_461"] = "",
 	["DictKey_WptName_445"] = "",
-	["DictKey_84"] = "WALKER: - Miguel、あの橋だ。その横のパトカーと踏切が見えるか? そこへ降ろしてくれ。",
+	["DictKey_84"] = "WALKER: - Miguel、あの橋だ。その横のパトカーと踏切が見えるか？ そこへ降ろしてくれ。",
 	["DictKey_WptName_436"] = "",
 	["DictKey_UnitName_291"] = "HP_Madrid 3",
 	["DictKey_UnitName_193"] = "HP_Madrid BP 4",
@@ -151,13 +151,13 @@ MIGUEL: - 了解、Madrid。",
 	["DictKey_WptName_499"] = "",
 	["DictKey_86"] = "PABLO: - 全員倒したようです。",
 	["DictKey_UnitName_295"] = "HP_Madrid Of mod #20",
-	["DictKey_47"] = "発砲は許可されていない!",
+	["DictKey_47"] = "発砲は許可されていない！",
 	["DictKey_WptName_513"] = "",
 	["DictKey_101"] = "MIGUEL: - Madrid、こちらSpringfield-2。応答せよ。\
 MADRID: - Springfield-2、どうぞ。\
 MIGUEL: - 調べたが、破片以外は何も残っていなかった。\
 MADRID: - 了解。基地へ帰還せよ。あとは警察に任せる。",
-	["DictKey_55"] = "MIGUEL: - Madrid、こちらSpringfield-2。聞こえますか?\
+	["DictKey_55"] = "MIGUEL: - Madrid、こちらSpringfield-2。聞こえますか？\
 MADRID: - Springfield-2、こちらMadrid。感度良好。\
 MIGUEL: - 今、川を越えている。パトロールを開始する。視界良好、今のところ問題ない。\
 MADRID: - Springfield-2、こちらMadrid。了解。",
@@ -176,8 +176,8 @@ MADRID: - Springfield-2、こちらMadrid。了解。",
 	["DictKey_descriptionText_432"] = "私たちは森に宿営地があることは知っていたが、そこが武器庫だったことには驚かされた。この作戦の後、エンジニアたちはRPGや爆弾を含む大量の軍需品の備蓄が見つかったと報告してきた。\
 当然ながら、この作戦の成功もPedroにとっては酒宴を企てる口実になった。薬の服用が終わってからの話だが。\
 一方、司令部はこの知らせを重大な危機として受け止めた。\
-なぜ反乱軍はこれほどまでの火力を必要としたのか? 何を計画していたのか?\
-それをどこから、どうやって手に入れたのか?\
+なぜ反乱軍はこれほどまでの火力を必要としたのか？ 何を計画していたのか？\
+それをどこから、どうやって手に入れたのか？\
 はっきりしていることは、チェックポイントシステムは反乱軍への武器の流れを止めるのには効果的でないということだ。もっとしっかりしたシステムが必要だ。\
 このことから、ヘリコプターによるパトロールが強化され、不審な車両を停止させて捜索するようになった。集団で移動している車両には特に注意を払った。\
 ",
@@ -213,11 +213,11 @@ WALKER: - 了解。",
 	["DictKey_UnitName_203"] = "HP_Madrid GSM Tualet",
 	["DictKey_UnitName_307"] = "HP_Madrid Of mod #28",
 	["DictKey_UnitName_265"] = "HP_Madrid BlokP #001",
-	["DictKey_71"] = "MIGUEL: - 飲んだのか?\
-WALKER: - まさか、任務中だぞ! だが、持ち帰り用に何本かいただいてきた。\
+	["DictKey_71"] = "MIGUEL: - 飲んだのか？\
+WALKER: - まさか、任務中だぞ！ だが、持ち帰り用に何本かいただいてきた。\
 MIGUEL: - それは、規則違反だぞ。\
 WALKER: - 見逃してくれよ、君の分も2、3本もらってきたから。\
-MIGUEL: - そうなのか? 先に言ってくれよ!",
+MIGUEL: - そうなのか？ 先に言ってくれよ！",
 	["DictKey_UnitName_359"] = "BP_Dalyn2 #5",
 	["DictKey_UnitName_237"] = "HP_Madrid Palat #15",
 	["DictKey_WptName_471"] = "",
@@ -237,11 +237,11 @@ MIGUEL: - そうなのか? 先に言ってくれよ!",
 ",
 	["DictKey_UnitName_279"] = "HP_Madrid Vyshka #8",
 	["DictKey_UnitName_167"] = "HP_Madrid 4",
-	["DictKey_62"] = "MIGUEL: - Walker、行け!",
+	["DictKey_62"] = "MIGUEL: - Walker、行け！",
 	["DictKey_WptName_447"] = "",
 	["DictKey_UnitName_313"] = "HP_Madrid Of mod #31",
-	["DictKey_87"] = "MIGUEL: - Madrid、こちらSpringfield-2。応答せよ!\
-MADRID: - Springfield-2、こちらMadrid。何があった?\
+	["DictKey_87"] = "MIGUEL: - Madrid、こちらSpringfield-2。応答せよ！\
+MADRID: - Springfield-2、こちらMadrid。何があった？\
 MIGUEL: - 検査のため不審車両を停止させようとしたところ、相手が発砲してきた。こちらも応戦し、車両と人員を排除した。\
 MADRID: - 了解、Springfield-2。捜索隊を送り、車両が何を運んでいたか調べさせる。\
 MIGUEL: - 了解。だが、もうほとんど残っていない……車には町を破壊できるほど大量の爆薬が積まれていたようだ。",
@@ -299,16 +299,16 @@ MIGUEL: - Springfield-2、離陸してパトロールを続ける。",
 	["DictKey_UnitName_349"] = "Berlin",
 	["DictKey_WptName_509"] = "",
 	["DictKey_81"] = "WALKER: - Miguel、俺らの指示を無視するみたいだぞ。何事もなかったように走行を続けている。\
-MIGUEL: - Madrid、こちらSpringfield-2。応答せよ!\
+MIGUEL: - Madrid、こちらSpringfield-2。応答せよ！\
 MADRID: - Springfield-2、こちらMadrid。どうぞ。\
-MIGUEL: - 不審な一団が停車命令を無視している!\
-MADRID: - 停止させるため警告射撃を行え。当てるなよ!",
+MIGUEL: - 不審な一団が停車命令を無視している！\
+MADRID: - 停止させるため警告射撃を行え。当てるなよ！",
 	["DictKey_WptName_453"] = "",
 	["DictKey_52"] = "パトロール開始を報告する",
 	["DictKey_WptName_551"] = "",
 	["DictKey_WptName_555"] = "",
 	["DictKey_UnitName_327"] = "HP_Madrid Palat #31",
-	["DictKey_44"] = "MIGUEL: - やっと着いたぞ。Walker、俺のワインは!",
+	["DictKey_44"] = "MIGUEL: - やっと着いたぞ。Walker、俺のワインは！",
 	["DictKey_UnitName_217"] = "HP_Madrid Palat #7",
 	["DictKey_UnitName_339"] = "HP_Madrid Of mod #40",
 	["DictKey_WptName_501"] = "",
@@ -335,8 +335,8 @@ WALKER: - 了解。",
 MIGUEL: - 見えた。司令部へ報告する。\
 ",
 	["DictKey_UnitName_317"] = "HP_Madrid Of mod #36",
-	["DictKey_85"] = "PABLO: - 奴らはどうしました? 停車しましたか?\
-MIGUEL: - やつらは警察を攻撃しているようだ! こちらSpringfield-2、武装集団を攻撃する! 3番機、援護してくれ!\
+	["DictKey_85"] = "PABLO: - 奴らはどうしました？ 停車しましたか？\
+MIGUEL: - やつらは警察を攻撃しているようだ！ こちらSpringfield-2、武装集団を攻撃する！ 3番機、援護してくれ！\
 PABLO: - まず車両を狙ってください。",
 	["DictKey_UnitName_285"] = "HP_Madrid Vyshka #11",
 	["DictKey_WptName_492"] = "",
@@ -346,7 +346,7 @@ PABLO: - まず車両を狙ってください。",
 	["DictKey_UnitName_177"] = "HP_Madrid BP Ukr",
 	["DictKey_WptName_463"] = "",
 	["DictKey_UnitName_263"] = "HP_Madrid BlokP #002",
-	["DictKey_94"] = "WALKER: - うぉ! こいつはすごい! 花火みたいだ! 奴ら爆薬を積んでいたんだな!",
+	["DictKey_94"] = "WALKER: - うぉ！ こいつはすごい！ 花火みたいだ！ 奴ら爆薬を積んでいたんだな！",
 	["DictKey_WptName_493"] = "",
 	["DictKey_WptName_604"] = "",
 	["DictKey_UnitName_231"] = "HP_Madrid Palat #3",
