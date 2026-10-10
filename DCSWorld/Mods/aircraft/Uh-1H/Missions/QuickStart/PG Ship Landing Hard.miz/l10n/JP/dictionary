@@ -1,13 +1,13 @@
 dictionary = 
 {
-    ["DictKey_descriptionRedTask_2"] = "",
-    ["DictKey_ActionText_46"] = "Oliver Perryへこの医療物資を届けてくれ。海が荒れていて接岸できないので、物資を空輸するしかない。方位080へ直進しろ。Oliver Perryは海岸からわずか1mi沖にいる。ただし、滑走路26への着陸進入機がいるため、必ず滑走路の北側を飛行してくれ。",
-    ["DictKey_sortie_5"] = "艦船着陸 Hard",
-    ["DictKey_WptName_25"] = "",
-    ["DictKey_descriptionBlueTask_3"] = "",
-    ["DictKey_descriptionText_1"] = "東へ向けてそのまま出発し、Oliver Perryに医療物資を届けよ。滑走路26への進入機があるため、北側を飛行せよ。",
-    ["DictKey_descriptionNeutralsTask_4"] = "",
-    ["DictKey_ActionText_48"] = "よくここまで来られたな!\
+	["DictKey_WptName_25"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_ActionText_48"] = "よくここまで来られたな！\
 これで医療物資を受け取れた。\
-感謝する!",
+感謝する！",
+	["DictKey_descriptionText_1"] = "東へ向けてそのまま出発し、Oliver Perryに医療物資を届けよ。滑走路26への進入機があるため、北側を飛行せよ。",
+	["DictKey_ActionText_46"] = "Oliver Perryへこの医療物資を届けてくれ。海が荒れていて接岸できないので、物資を空輸するしかない。方位080へ直進しろ。Oliver Perryは海岸からわずか1mi沖にいる。ただし、滑走路26への着陸進入機がいるため、必ず滑走路の北側を飛行してくれ。",
+	["DictKey_descriptionBlueTask_3"] = "",
+	["DictKey_sortie_5"] = "艦船着陸 Hard",
+	["DictKey_descriptionRedTask_2"] = "",
 } -- end of dictionary

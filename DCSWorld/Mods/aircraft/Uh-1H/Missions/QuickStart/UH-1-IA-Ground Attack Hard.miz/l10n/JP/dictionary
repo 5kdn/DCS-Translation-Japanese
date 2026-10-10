@@ -5,12 +5,12 @@ dictionary =
 このフライトでは僚機が1機ついている。\
 \
 任意に攻撃せよ。",
+    ["DictKey_sortie_34"] = "対地攻撃 Hard",
+    ["DictKey_descriptionRedTask_32"] = "",
+    ["DictKey_descriptionBlueTask_33"] = "",
     ["DictKey_3"] = "左手の道路を車両の一団が移動している。もう一つの部隊は1時方向にある道路の突き当りに展開しており、オレンジ色の煙で位置が示されている。\
 \
 このフライトでは僚機が1機ついている。\
 \
 任意に攻撃せよ。",
-    ["DictKey_sortie_34"] = "対地攻撃 Hard",
-    ["DictKey_descriptionRedTask_32"] = "",
-    ["DictKey_descriptionBlueTask_33"] = "",
 } -- end of dictionary
