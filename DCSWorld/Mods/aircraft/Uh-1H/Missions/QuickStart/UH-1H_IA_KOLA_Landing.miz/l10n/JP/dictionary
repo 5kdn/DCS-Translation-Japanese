@@ -1,0 +1,14 @@
+dictionary =
+{
+	["DictKey_ActionText_7"] = "着陸に向けて機体を準備してください。無線機はADXの管制周波数に設定されています。管制に進入を報告してください。準備ができたらSPACEBARを押して続行してください。",
+	["DictKey_descriptionText_1"] = "Andoyaへようこそ。",
+	["DictKey_ActionText_9"] = "任務成功: ADXに着陸しました。",
+	["DictKey_ActionText_13"] = "",
+	["DictKey_descriptionNeutralsTask_4"] = "",
+	["DictKey_sortie_5"] = "VFR着陸",
+	["DictKey_ActionText_11"] = "ヘリパッドの位置は白煙で示されています。",
+	["DictKey_descriptionBlueTask_3"] = "搭乗機はノルウェー沿岸警備隊(Norge Kystvakt)のUH-1Hで、コールサインはCOLT 2-1だ。\
+\
+Andoya空軍基地/空港へ向かっている。ヘリパッドに着陸せよ。AndoyaではNATOの演習が行われているため、飛行場やその周辺で他国の航空機を見かけることがある。",
+	["DictKey_descriptionRedTask_2"] = "",
+} -- end of dictionary
