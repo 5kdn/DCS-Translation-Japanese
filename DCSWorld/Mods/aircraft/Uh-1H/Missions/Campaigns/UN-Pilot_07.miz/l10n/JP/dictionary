@@ -43,7 +43,7 @@ dictionary =
 	["DictKey_UnitName_270"] = "HP_Madrid Ukr",
 	["DictKey_WptName_590"] = "",
 	["DictKey_WptName_437"] = "",
-	["DictKey_68"] = "PEDRO: - González、ミニガンをたっぷり浴びせてやれ。その後は旋回して、地上の状況を確認するぞ。",
+	["DictKey_68"] = "PEDRO: - González、ミニガンの弾をたっぷり浴びせてやれ。その後は旋回して、地上の状況を確認するぞ。",
 	["DictKey_UnitName_332"] = "BP_Dalyn2 #3",
 	["DictKey_WptName_435"] = "",
 	["DictKey_WptName_418"] = "",
@@ -54,9 +54,10 @@ dictionary =
 	["DictKey_WptName_423"] = "",
 	["DictKey_WptName_556"] = "",
 	["DictKey_UnitName_595"] = "",
-	["DictKey_58"] = "MARCOS: - Springfield各機、目標は村の東にある森の中だ。全機同時に攻撃へ進入する。4,000フィートから、4発ずつ2回に分けてロケットを発射しろ。\
+	["DictKey_58"] = "MARCOS: - Springfield各機、目標は村の東にある森の中だ。編隊による一斉攻撃を行う。全機同時に進入する。4,000ftから、4発ずつ2回に分けてロケットを発射しろ。\
 \
-攻撃に向かう！",
+攻撃に向かう！\
+",
 	["DictKey_67"] = "MARCOS: - Springfield-2、林縁の西側へ制圧射撃を加え、敵に頭を上げさせるな！ 3番機、4番機は私に続き、退路を断て。",
 	["DictKey_69"] = "編隊を離れ、前進する友軍部隊に火力支援を行え。",
 	["DictKey_UnitName_340"] = "BP_Dalyn2 #6",
@@ -68,11 +69,12 @@ dictionary =
 	["DictKey_UnitName_248"] = "HP_Madrid Vyshka #4",
 	["DictKey_UnitName_308"] = "HP_Madrid Palat #38",
 	["DictKey_UnitName_246"] = "HP_Madrid GKP #1",
-	["DictKey_70"] = "TANGO: - Springfield-2、こちらTango！ 敵が村の方へ逃げています。家に隠れる前に阻止してください！\
-PEDRO: - 了解！ González、ミニガンを用意しろ！ やつらは村に向かって逃げているぞ！\
+	["DictKey_70"] = "TANGO: - Springfield-2、こちらTango！ 敵が村の方へ逃げている！ 家に隠れる前に阻止してくれ！\
+PEDRO: - 了解！ González、ミニガンで撃て！ やつらは村に向かって逃げているぞ！\
+\
 ",
 	["DictKey_WptName_480"] = "",
-	["DictKey_43"] = "PEDRO: - González！ 何をしている。戦場から逃げる気か？ 操縦を代われ！",
+	["DictKey_43"] = "PEDRO: - González！ 何をしている。戦場から逃げる気か？ 俺に操縦をよこせ！",
 	["DictKey_WptName_450"] = "",
 	["DictKey_UnitName_294"] = "HP_Madrid Of mod #36",
 	["DictKey_UnitName_178"] = "HP_Madrid Stolovka",
@@ -85,13 +87,13 @@ PEDRO: - 了解！ González、ミニガンを用意しろ！ やつらは村に
 	["DictKey_UnitName_286"] = "HP_Madrid Of mod #29",
 	["DictKey_WptName_413"] = "",
 	["DictKey_56"] = "MARCOS: - Tango、こちらSpringfield。応答せよ！\
-TANGO: - Springfield、こちらTango。聞こえています。\
+TANGO: - Springfield、こちらTango。聞こえる。\
 MARCOS: - 目標の状況は？\
-TANGO: - 静かです。何も警戒している様子はありません。私の前方、渓谷内の木々に潜んでいます。\
+TANGO: - 静かだ。何も警戒している様子はない。こちらの前方、渓谷内の木々に潜んでいる。\
 MARCOS: - あと2分で到着する。現在位置を示せ。\
-TANGO: - 了解。赤色の照明弾を発射する！\
+TANGO: - 了解。レッドフレアを発射する！\
 ",
-	["DictKey_71"] = "TANGO: - Springfield-2、こちらTango。上出来です！ 目標を撃破しました！",
+	["DictKey_71"] = "TANGO: - Springfield-2、こちらTango。見事だ！ 目標を撃破した！",
 	["DictKey_WptName_449"] = "",
 	["DictKey_WptName_440"] = "",
 	["DictKey_66"] = "",
@@ -121,33 +123,34 @@ TANGO: - 了解。赤色の照明弾を発射する！\
 	["DictKey_UnitName_298"] = "HP_Madrid Of mod #38",
 	["DictKey_UnitName_152"] = "HP_Madrid Tent",
 	["DictKey_WptName_475"] = "",
-	["DictKey_76"] = "PEDRO: - 注意しろ！ Ford編隊が正面から来る！ 慎重に編隊を離れろ。\
+	["DictKey_76"] = "PEDRO: - 注意しろ！ Ford編隊が正面から来る！ 注意して間隔を取れ。\
 MIGUEL: - 彼らはここで何をするのですか？\
 PEDRO: - 味方の隊員と装備、それに反乱兵の生き残りを回収するんだ。\
 ",
 	["DictKey_UnitName_232"] = "HP_Madrid Palat KP #001",
 	["DictKey_59"] = "編隊を維持し、リーダーに続いて攻撃せよ",
-	["DictKey_47"] = "PEDRO: - González、リーダーに近づけ。100メートル以内だ。",
+	["DictKey_47"] = "PEDRO: - González、リーダーに近づけ。100m以内だ。",
 	["DictKey_64"] = "PEDRO: - González、リーダーの横に降りろ。すぐ近くだぞ！\
 \
 (兵士を展開するため、リーダーの近くに着陸せよ。)",
-	["DictKey_55"] = "MARCOS: - 右旋回、方位040、速度100kt！ 目標地点Tangoに接近中！\
-兵装使用開始！ 突入する！",
+	["DictKey_55"] = "MARCOS: - 右旋回、方位040、速度100kt！ 目標Tangoに接近中！\
+兵装の使用を許可する！ 攻撃に入る！",
 	["DictKey_52"] = "MARCOS: - 方位140、速度100kt。",
 	["DictKey_WptName_485"] = "",
 	["DictKey_WptName_459"] = "",
 	["DictKey_45"] = "MISSION FAILED!",
 	["DictKey_WptName_424"] = "",
 	["DictKey_descriptionText_405"] = "「見たか？ やっぱりうまくいったぞ！」左の座席に飛び込んでくるやいなやPedroは叫んだ。彼はいつも副操縦士席に座りたがり、めったにヘリを操縦しない。彼いわく、私にはもっと練習が必要だそうだ。\
-「何がですか？」私はフル装備の兵士がヘリに乗り込んで来て武器を置いたり、足を踏み鳴らす音に負けないように声を張り上げた。\
-「何を言っとるんだ？ 俺らの作戦に決まってるだろ。タンゴゾーンのパトロールで20人もの反乱軍グループを見つけたぞ。奴らは村の近くの森で野営している。Diegoを撃ち落としたグループかもしれない。」\
+「何がですか？」私は完全武装の兵士たちがヘリに乗り込む際の物音や軍靴の足音に負けないように声を張り上げた。\
+「何を言っとるんだ？ 俺らの作戦に決まってるだろ。Tangoのパトロール隊が、最大20人ほどの武装集団を発見した。奴らは村の近くの森で野営している。Diegoを撃ち落としたグループかもしれない。」\
 Pedroは話しながらスイッチやボタンを操作し、ヘリをスタートさせていった。\
 彼とAlonso少佐は一緒に司令部テントを出てきたところだ。司令官のヘリコプターではすでにローターが回り始めており、他のヘリもそれに続いている。3、4番機にはミニガンとロケットがすでに積み込まれており、狩人のような殺気を放っていた。\
 「それで、パトロール隊はもう降伏を呼びかけたのですか？」私は口にしてから、自分の質問があまりに世間知らずだったと気づいた。\
-「あいつらに死ぬ気があると思うか？ 降伏を呼びかけるのは俺たちの仕事だ……俺たちが一番よく知っているやり方でな。」\
-ヘリコプターの中の足音が落ち着いてきた。3、4番機から離陸準備ができたと無線連絡が入る。\
+「あいつらが死にたがっているとでも思ってるのか？ 降伏を呼びかけるのは俺たちの仕事だ……俺たちが一番よく知っているやり方でな。」\
+兵士たちはヘリコプターの中で落ち着いた。3、4番機から離陸準備ができたと無線連絡が入る。\
 「では諸君、ひと踊りするとしようか。離陸！」\
-フライトリーダーの命令が下ると、間もなくそのヘリコプターは金属製の着陸パッドから浮かび上がった。",
+フライトリーダーの命令が下ると、間もなくそのヘリコプターは金属製の着陸パッドから浮かび上がった。\
+",
 	["DictKey_UnitName_190"] = "HP_Madrid Of mod #13",
 	["DictKey_WptName_469"] = "",
 	["DictKey_WptName_454"] = "",
@@ -158,7 +161,7 @@ Pedroは話しながらスイッチやボタンを操作し、ヘリをスター
 	["DictKey_41"] = "MISSION SUCCESS!\
 \
 ",
-	["DictKey_60"] = "TANGO: - Springfield、こちらTango。命中！ 集団の一部を無力化しました。",
+	["DictKey_60"] = "TANGO: - Springfield、こちらTango。命中！ 集団の一部を無力化した。",
 	["DictKey_UnitName_172"] = "HP_Madrid Tent 2",
 	["DictKey_WptName_465"] = "",
 	["DictKey_WptName_443"] = "",
@@ -194,7 +197,7 @@ Pedroは話しながらスイッチやボタンを操作し、ヘリをスター
 	["DictKey_UnitName_164"] = "HP_Madrid GSM 4",
 	["DictKey_UnitName_242"] = "HP_Madrid BlokP #001",
 	["DictKey_WptName_474"] = "",
-	["DictKey_72"] = "PEDRO: - González、眼鏡が必要か？ 外したぞ！ これで連中を一軒ずつ家から引きずり出さなきゃならん。",
+	["DictKey_72"] = "PEDRO: - González、眼鏡が必要か？ 外したぞ！ これで味方が一軒ずつ家を回って連中を捜す羽目になった。",
 	["DictKey_UnitName_198"] = "HP_Madrid Palat #9",
 	["DictKey_62"] = "MARCOS: - Springfield各機、離脱するぞ。左旋回しろ！",
 	["DictKey_UnitName_302"] = "HP_Madrid Palat #25",
@@ -219,7 +222,7 @@ Pedroは話しながらスイッチやボタンを操作し、ヘリをスター
 	["DictKey_UnitName_318"] = "HP_Madrid Palat #4",
 	["DictKey_UnitName_166"] = "HP_Madrid BP 2",
 	["DictKey_WptName_483"] = "",
-	["DictKey_63"] = "MARCOS: - Springfield各機、着陸地点へ左旋回。兵員降下に備えろ！",
+	["DictKey_63"] = "MARCOS: - Springfield各機、着陸地点へ左旋回。部隊の展開に備えろ！",
 	["DictKey_UnitName_250"] = "HP_Madrid Vyshka #5",
 	["DictKey_49"] = "PEDRO: - ついて行けと言っただろ！ 新人、頭をどつくぞ！\
 \
@@ -233,10 +236,11 @@ Pedroは話しながらスイッチやボタンを操作し、ヘリをスター
 	["DictKey_WptName_593"] = "",
 	["DictKey_65"] = "PEDRO: - 急げ、急げ、急げ！\
 ...\
-PEDRO: - 2番機、兵員降下完了！\
-3: - 3番機、兵員降下完了！\
+PEDRO: - 2番機、部隊は地上に降りた！\
+3: - 3番機、部隊の展開完了！\
 4: - 4番機、準備完了！\
-MARCOS: - 了解！ 全機離陸！",
+MARCOS: - 了解！ 全機離陸！\
+",
 	["DictKey_descriptionBlueTask_407"] = "「González、ヘリコプターは武器を満載している。だから兵士は8人しか乗せられない。この状態での離陸方法はもう分かってるよな？\
 前回と同じフォーメーション、ウェッジだ。離陸したら左後方に位置取りしろ」\
 \
@@ -271,17 +275,22 @@ MARCOS: - 了解！ 全機離陸！",
 	["DictKey_WptName_444"] = "",
 	["DictKey_WptName_417"] = "",
 	["DictKey_WptName_419"] = "",
-	["DictKey_61"] = "TANGO: - Springfield、こちらTango。目標を外しました。少なくとも、連中を震え上がらせることはできたはずです。",
-	["DictKey_48"] = "PEDRO: - ついて行けと言っただろ！ 新人、頭をどつくぞ！ 操縦を代われ！",
+	["DictKey_61"] = "TANGO: - Springfield、こちらTango。目標を外したな。少なくとも、連中を思い切りびびらせることはできた。",
+	["DictKey_48"] = "PEDRO: - ついて行けと言っただろ！ 新人、頭をどつくぞ！ 俺に操縦をよこせ！",
 	["DictKey_UnitName_220"] = "HP_Madrid Palat #19",
 	["DictKey_WptName_563"] = "",
-	["DictKey_73"] = "TANGO: - Springfield、こちらTango。このエリアを確保しました。支援ありがとうございます。以上。\
+	["DictKey_73"] = "TANGO: - Springfield、こちらTango。このエリアを確保した。支援に感謝する。どうぞ。\
 MARCOS: - Tango、こちらSpringfield-1。了解。基地に帰還する。\
-MARCOS: - Springfield各機、渓谷の出口で編隊を組み直せ。",
+\
+MARCOS: - Springfield各機、渓谷の入口で編隊を組み直せ。\
+\
+\
+",
 	["DictKey_UnitName_330"] = "BP_Dalyn2 #2",
 	["DictKey_57"] = "MARCOS: - Tango、発射したロケットを視認した。\
-TANGO: - Springfield、目標集団は私の位置の北、林縁にいます。道路の右側、ちょうど村の向かいです。確認できましたか？\
-MARCOS: - 了解、以上。\
+TANGO: - よし、Springfield、目標集団はこちらの位置の北、林縁にいる。道路の右側、ちょうど村の向かいだ。了解か？\
+MARCOS: - 了解だ、どうぞ。\
+\
 ",
 	["DictKey_44"] = "MISSION FAILED!",
 	["DictKey_WptName_492"] = "",
@@ -301,7 +310,7 @@ MARCOS: - 了解、以上。\
 	["DictKey_UnitName_224"] = "HP_Madrid GSM Tualet #1",
 	["DictKey_UnitName_266"] = "HP_Madrid ",
 	["DictKey_WptName_448"] = "",
-	["DictKey_46"] = "PEDRO: - González、リーダーに近づけ。100メートル以内だ。",
+	["DictKey_46"] = "PEDRO: - González、リーダーに近づけ。100m以内だ。",
 	["DictKey_54"] = "MARCOS: - 右側の各機、方位330へ旋回、速度100kt！",
 	["DictKey_UnitName_296"] = "HP_Madrid Of mod #37",
 	["DictKey_WptName_585"] = "",
