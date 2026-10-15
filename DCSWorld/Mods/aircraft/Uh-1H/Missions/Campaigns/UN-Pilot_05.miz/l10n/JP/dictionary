@@ -4,11 +4,11 @@ dictionary =
 	["DictKey_UnitName_212"] = "HP_Madrid Vyshka #10",
 	["DictKey_WptName_361"] = "",
 	["DictKey_WptName_401"] = "",
-	["DictKey_53"] = "CKP 5: - よう、こちらCheckpoint-5。何か忘れてないか？ 食料を持ってきてくれるはずだったよな？\
-PEDRO: - Checkpoint-5、こちらSpringfield-2。すまん、忘れてるわけじゃない。もうちょっと待ってくれ。反乱軍にプレゼントしちまった。\
-CKP 5: - 冗談だろ！ ただでさえ遅れてるのに！\
-PEDRO: - Checkpoint-5、冗談じゃない。Diegoが運んでいたんだが、撃ち落とされた。待たせて申し訳ないが、次の便を待ってくれ。それと気をつけろよ。盗人どもの居場所はここからそう遠くない。まあ、今ごろは宴会を開いているだろうけどな。\
-CKP 5: - そ、そうなのか……気をつけるよ。以上。\
+	["DictKey_53"] = "CKP 5: - よう、輸送ヘリさん。こちらCheckpoint-5。何か忘れてないか？ 俺たちのMREを積んでるはずだよな？\
+PEDRO: - Checkpoint-5、こちらSpringfield-2。いや、忘れてるわけじゃない。もう少し待ってもらうことになる。お前たちのMREは反乱軍が楽しんでるところだ。\
+CKP 5: - 笑えないぞ！ ただでさえ遅れてるのに！\
+PEDRO: - Checkpoint-5、冗談じゃない。Diegoが物資を運んでいたんだが、撃墜された。悪いが次の便を待ってくれ。それと気をつけろよ。武装集団はここからそう遠くない。今ごろ宴会でも開いているだろうがな。\
+CKP 5: - そいつは結構だな……知らせてくれてありがとよ。以上。\
 \
 ",
 	["DictKey_UnitName_156"] = "HP_Madrid Palat #12",
@@ -23,10 +23,10 @@ CKP 5: - そ、そうなのか……気をつけるよ。以上。\
 	["DictKey_WptName_356"] = "",
 	["DictKey_WptName_410"] = "",
 	["DictKey_UnitName_192"] = "HP_Madrid Vyshka #3",
-	["DictKey_47"] = "PEDRO: - González、見ろ！ あれだ！ 見つけたぞ。ここで何があったんだ？ あれの横に降ろしてくれ。\
+	["DictKey_47"] = "PEDRO: - González、見ろ！ あれだ！ 見つけたぞ。こんな所で何をやってるんだ？ あれの横に降ろしてくれ。\
 …\
 PEDRO: - Madrid、こちらSpringfield-2。Uzi-3を発見した。セクターGolf-Hotel-8-2、調査のため着陸する。\
-MADRID: - Springfield-2、こちらMadrid。了解、以上。\
+MADRID: - Springfield-2、こちらMadrid。了解、どうぞ。\
 ",
 	["DictKey_UnitName_218"] = "HP_Madrid 2",
 	["DictKey_UnitName_102"] = "HP_Madrid GSM",
@@ -91,7 +91,8 @@ DIEGO: - ああ、そうだ。たどり着けなかったけどな。\
 	["DictKey_UnitName_162"] = "HP_Madrid Palat #3",
 	["DictKey_51"] = "PEDRO: - Diego、新しい友達はお前を帰したくないようだぞ！ どうやって撃墜されたんだ？\
 DIEGO: - 信じられないだろうが、Pedro。SAMだ。おそらくIglaだと思う。\
-PEDRO: - 何だって？！ González、急げ！ 今すぐここから脱出するんだ！",
+PEDRO: - 何だって？！ González、急げ！ 今すぐここから脱出するんだ！\
+",
 	["DictKey_40"] = "PEDRO: - 司令官、今日、輸送ヘリがここを通りませんでしたか？\
 CKP 4: - ああ、3時間前に通った。\
 PEDRO: - 乗員に異常はありませんでしたか？\
@@ -132,7 +133,8 @@ PEDRO: - González、ここから脱出しろ！ 南西へ向かって渓谷を�
 	["DictKey_UnitName_154"] = "HP_Madrid Palat #10",
 	["DictKey_UnitName_186"] = "HP_Madrid Palat KP #001",
 	["DictKey_WptName_384"] = "",
-	["DictKey_32"] = "ヘリコプターは破壊された",
+	["DictKey_32"] = "ヘリコプターは破壊された\
+",
 	["DictKey_WptName_357"] = "",
 	["DictKey_31"] = "MISSION SUCCESS!\
 \
@@ -151,7 +153,8 @@ González？ 珍しい。「新人」ではないのか？ 私は耳を疑った
 「せっかくの休日だ。ようやく十分な休息が取れると思った矢先にこれだ。」Pedroは続けた。「司令部から警報が入った。輸送ヘリが1機、消息を絶った。それも操縦していたのは新人ではなく、腕のいいパイロットで俺の親友でもあるDiegoだ。」\
 「待ち伏せでしょうか？」私は心配になって尋ねた。\
 「じきにわかる。装備を持ってヘリで落ち合え。今日は操縦桿を丁寧に扱えよ。俺はまだ寝足りないんだ。」\
-「了解しました。」",
+「了解しました。」\
+",
 	["DictKey_UnitName_282"] = "BP_Dalyn2 #1",
 	["DictKey_45"] = "PEDRO: - よし、González。今から川に沿って飛べ。周囲をよく探せ。\
 \
@@ -160,7 +163,7 @@ González？ 珍しい。「新人」ではないのか？ 私は耳を疑った
 	["DictKey_WptName_372"] = "",
 	["DictKey_WptName_392"] = "",
 	["DictKey_WptName_473"] = "",
-	["DictKey_44"] = "PEDRO: - ここで左旋回。西に向かえ。峠を越えて反対側の渓谷に入る。そこに目指すチェックポイントがある。いつものDiegoのルートだ。何か痕跡が見つかるはずだ。",
+	["DictKey_44"] = "PEDRO: - ここで左旋回。西に向かえ。峠を越えて反対側の渓谷に入る。そこに目指すチェックポイントがある。Diegoがいつも使う経路だ。これであいつと同じ経路をたどれるはずだ。",
 	["DictKey_UnitName_164"] = "HP_Madrid Palat #5",
 	["DictKey_WptName_411"] = "",
 	["DictKey_WptName_350"] = "",
@@ -219,7 +222,7 @@ González？ 珍しい。「新人」ではないのか？ 私は耳を疑った
 	["DictKey_UnitName_244"] = "HP_Madrid Of mod #31",
 	["DictKey_UnitName_160"] = "HP_Madrid Palat #1",
 	["DictKey_56"] = "PEDRO: - おいおい、嘘をつくな。町へ行った理由はわかってるぞ。女を物色してたんだろ？ それで地元民に捕まったに違いない。\
-DIEGO: - ばれたか！ お前だって同じことをしただろうさ。ただし、お前ならワインも探しただろうけどな！\
+DIEGO: - ばれたか！ お前だって同じことをしただろうさ。ただし、お前が探すのはワインだろうけどな！\
 ",
 	["DictKey_UnitName_214"] = "HP_Madrid Vyshka #9",
 	["DictKey_UnitName_294"] = "BP_Dalyn2 #6",
@@ -267,7 +270,8 @@ DIEGO: - Pedro、撃ち落とされたんだ！\
 PEDRO: - みんなは？\
 DIEGO: - 大丈夫だ。ただ、2人が軽いけがをした。\
 PEDRO: - みんなを乗せてくれ、ここから脱出しよう！\
-DIEGO: - 1分くれ。負傷者を乗せる。",
+DIEGO: - 1分くれ。負傷者を乗せる。\
+",
 	["DictKey_UnitName_284"] = "BP_Dalyn2 #2",
 	["DictKey_WptName_376"] = "",
 	["DictKey_UnitName_98"] = "HP_Madrid 4",
@@ -275,14 +279,16 @@ DIEGO: - 1分くれ。負傷者を乗せる。",
 	["DictKey_WptName_415"] = "",
 	["DictKey_WptName_368"] = "",
 	["DictKey_55"] = "PEDRO: - Diego、どうしてあそこで待っていたんだ？ MREを置いていくのが惜しかったのか？\
-DIEGO: - できることはほとんどなかったんだ。被弾した後、オートローテーションでどうにか着陸させた。無線は壊れて連絡できず、負傷者がいたから遠くへも行けなかった。町へ行って電話を使おうとはしたが、誰も電話を持っていなかったんだ！ まったく、文明の果てだよ。",
+DIEGO: - できることはほとんどなかったんだ。被弾した後、オートローテーションでどうにか着陸させた。無線は壊れて連絡できず、負傷者がいたから遠くへも行けなかった。町へ行って電話を使おうとはしたが、誰も電話を持っていなかったんだ！ まったく、文明の果てだよ。\
+\
+",
 	["DictKey_UnitName_120"] = "HP_Madrid BP 2",
 	["DictKey_UnitName_116"] = "HP_Madrid GSM 3",
 	["DictKey_UnitName_174"] = "HP_Madrid Palat #19",
 	["DictKey_UnitName_144"] = "HP_Madrid Of mod #13",
 	["DictKey_UnitName_258"] = "HP_Madrid Palat #31",
 	["DictKey_UnitName_196"] = "HP_Madrid BlokP #001",
-	["DictKey_30"] = "PEDRO: - 帰ってきましたよ。Diego、司令官に会いに行こう。González、シャットダウンしておいてくれ。",
+	["DictKey_30"] = "PEDRO: - 帰ってきたぞ。Diego、司令官に会いに行こう。González、シャットダウンしておいてくれ。",
 	["DictKey_WptName_388"] = "",
 	["DictKey_UnitName_206"] = "HP_Madrid Vyshka #6",
 	["DictKey_WptName_481"] = "",
