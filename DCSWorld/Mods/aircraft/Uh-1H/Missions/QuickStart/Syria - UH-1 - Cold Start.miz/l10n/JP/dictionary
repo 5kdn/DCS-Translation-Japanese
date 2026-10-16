@@ -1415,7 +1415,7 @@ Gazelle軽攻撃ヘリコプターを運用する2個飛行隊を支援してい
 	["DictKey_UnitName_1397"] = "TUR Armor Plt-2",
 	["DictKey_GroupName_1706"] = "Static Mark Tyre with Red Flag-9",
 	["DictKey_ActionText_333"] = "Latakia海軍基地:\
-シリア海軍の副拠点で、ミサイル艇部隊と軽フリゲートの母港。",
+シリア海軍の第2の拠点で、ミサイル艇隊と小型フリゲート艦の母港。",
 	["DictKey_WptName_919"] = "",
 	["DictKey_UnitName_299"] = "Static Tanker Elnya 160-1",
 	["DictKey_WptName_1618"] = "",
@@ -1734,7 +1734,7 @@ Baniyas製油所に電力を供給する、発電出力43MWeの石油火力発�
 	["DictKey_GroupName_824"] = "Static WingLoong-I-1",
 	["DictKey_WptName_1065"] = "",
 	["DictKey_ActionText_1265"] = "ロシア軍S-300 / S-400配備拠点:\
-イスラエル空軍の空爆に対応して展開し、シリアとロシア双方の施設や戦力を防護するよう配置されている。同じ地域にはBM-27長射程多連装ロケット砲中隊も配備されている。\
+イスラエル空軍の空爆に対応して配備され、シリアとロシア双方の施設や戦力を防護できる位置に配置されている。同じ地域にはBM-27長射程多連装ロケット砲中隊も配備されている。\
 ",
 	["DictKey_UnitName_539"] = "AlDumayr SA-2-11",
 	["DictKey_UnitName_1608"] = "Targets -1",
