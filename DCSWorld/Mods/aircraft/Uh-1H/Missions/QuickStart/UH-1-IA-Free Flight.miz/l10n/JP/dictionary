@@ -19,6 +19,6 @@ dictionary =
 	["DictKey_UnitName_9"] = "New Static Object #008",
 	["DictKey_descriptionRedTask_25"] = "",
 	["DictKey_descriptionText_24"] = "これはフリーフライトミッションだ。\
-GeorgiaのTbilisi郊外に位置するTbilisi-Lochini国際空港から出発する。",
+ジョージアのTbilisi郊外に位置するTbilisi-Lochini国際空港から出発する。",
 	["DictKey_WptName_45"] = "",
 } -- end of dictionary
