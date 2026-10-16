@@ -6,7 +6,7 @@ dictionary =
 	["DictKey_ActionText_13"] = "",
 	["DictKey_descriptionNeutralsTask_4"] = "",
 	["DictKey_sortie_5"] = "VFR着陸",
-	["DictKey_ActionText_11"] = "ヘリパッドの位置は白煙で示されています。",
+	["DictKey_ActionText_11"] = "ヘリパッドの位置はホワイトスモークで示されています。",
 	["DictKey_descriptionBlueTask_3"] = "搭乗機はノルウェー沿岸警備隊(Norge Kystvakt)のUH-1Hで、コールサインはCOLT 2-1だ。\
 \
 Andoya空軍基地/空港へ向かっている。ヘリパッドに着陸せよ。AndoyaではNATOの演習が行われているため、飛行場やその周辺で他国の航空機を見かけることがある。",

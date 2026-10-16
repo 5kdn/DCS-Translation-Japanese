@@ -48,7 +48,8 @@ Gas Producer計の回転数が40%に達するか、40秒が経過するか、ど
 - ミッション終了: [ESC]\
 - 音量調節: MAIN MENU/OPTIONS/AUDIOのWORLDおよびIN-COCKPIT\
 - オートパイロット・兵装状態表示の切り替え: [LCTRL + LSHIFT + H] (UH-1HのSPECIALオプションで\"Autopilot Availability\"をONにしている場合)\
-- コントロールインジケーターの表示切り替え: [RCTRL + ENTER]",
+- コントロールインジケーターの表示切り替え: [RCTRL + ENTER]\
+",
     ["DictKey_UnitName_58"] = "static",
     ["DictKey_descriptionRedTask_74"] = "",
     ["DictKey_40"] = "Powerスイッチを1回右クリックして、AN/ARN-82 VHF NAV COMM無線機の電源を入れろ。",
@@ -68,8 +69,8 @@ TESTスイッチを下に倒したまま保持し、すべてのコーション�
 AC Power ControlパネルのAC Phase VoltmeterセレクターをACに、InverterスイッチをOFFに合わせろ。",
     ["DictKey_sortie_77"] = "UH-1H 訓練: コールドスタート",
     ["DictKey_45"] = "ModeスイッチをADFにセットして、AN/ARN-83 ADF受信機の電源を入れろ。",
-    ["DictKey_43"] = "Interphone Selectorスイッチを3にセットして、VHF COMM無線機を送信に使用する。これでATCと交信できる。\
-僚機との交信には通常UHF無線機を使用するので、選択スイッチを2に切り替えろ。",
+    ["DictKey_43"] = "Interphone Selectorスイッチを3にセットして、送信に使う無線機をVHF COMMにする。これでATCと交信できる。\
+僚機との交信には通常UHF無線機を使う。その場合のスイッチ位置は2だ。",
     ["DictKey_WptName_81"] = "",
     ["DictKey_34"] = "Miscellaneous Controlパネルで、Hydraulic ControlスイッチとForce TrimスイッチをONにしろ。\
 Chip DetectorシステムがBOTHになっていることも確認しろ。",

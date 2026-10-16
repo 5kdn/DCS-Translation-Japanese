@@ -2,7 +2,7 @@ dictionary =
 {
     ["DictKey_ActionText_10"] = "",
     ["DictKey_ActionComment_11"] = "",
-    ["DictKey_descriptionText_1"] = "Mariana諸島へようこそ。天候は良好だ。防空システムは稼働していない。",
+    ["DictKey_descriptionText_1"] = "Mariana諸島へようこそ。天候は良好だ。宿泊客の送迎には好都合な天候だ。",
     ["DictKey_descriptionBlueTask_3"] = "飛行計画に沿って飛ぶことも、好きな場所へ自由に飛ぶこともできる。飛行計画に沿って飛ぶと所要時間は約20-30分で、途中には景色のよい場所がいくつかある。\
 \
 今日の予定は、Tinian島とSaipan島のリゾート間での宿泊客の送迎だ。\

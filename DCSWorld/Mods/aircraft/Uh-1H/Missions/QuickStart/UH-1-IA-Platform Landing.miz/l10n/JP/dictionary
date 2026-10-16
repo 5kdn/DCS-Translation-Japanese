@@ -1,9 +1,9 @@
 dictionary = 
 {
-    ["DictKey_UnitName_9"] = "New Static Object",
-    ["DictKey_descriptionBlueTask_12"] = "",
-    ["DictKey_descriptionText_10"] = "正面の沖合4kmにある石油プラットフォームに着陸して、着陸技術を試してみよう。",
-    ["DictKey_WptName_17"] = "",
-    ["DictKey_sortie_13"] = "プラットフォーム着陸",
-    ["DictKey_descriptionRedTask_11"] = "",
+	["DictKey_WptName_17"] = "",
+	["DictKey_sortie_13"] = "プラットフォーム着陸",
+	["DictKey_descriptionBlueTask_12"] = "",
+	["DictKey_UnitName_9"] = "New Static Object",
+	["DictKey_descriptionRedTask_11"] = "",
+	["DictKey_descriptionText_10"] = "正面の沖合4kmにある石油プラットフォームに着陸して、着陸技術を試してみよう。",
 } -- end of dictionary
