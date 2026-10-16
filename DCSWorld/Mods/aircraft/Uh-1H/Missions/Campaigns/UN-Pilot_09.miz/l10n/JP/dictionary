@@ -4,8 +4,10 @@ dictionary =
 	["DictKey_WptName_445"] = "",
 	["DictKey_WptName_464"] = "",
 	["DictKey_WptName_401"] = "",
-	["DictKey_53"] = "WHISKEY: - 乗り込みました！\
-PEDRO: - González、行くぞ！",
+	["DictKey_53"] = "WHISKEY: - Whiskeyは乗ったぞ！\
+PEDRO: - González、行くぞ！\
+\
+",
 	["DictKey_UnitName_297"] = "BP_Dalyn2",
 	["DictKey_UnitName_283"] = "HP_Madrid Palat #37",
 	["DictKey_UnitName_135"] = "HP_Madrid GSM Ukr",
@@ -19,11 +21,13 @@ PEDRO: - González、行くぞ！",
 	["DictKey_WptName_422"] = "",
 	["DictKey_WptName_430"] = "",
 	["DictKey_UnitName_295"] = "HP_Madrid Palat #4",
-	["DictKey_47"] = "WHISKEY: - ありがとう、Springfield！ これを待ってたんだ！ 武器を再装填するので、あの林縁を攻撃してくれ。やつらはそこからロケットを撃ってくる。こっちの準備ができるまで、やつらの頭を押さえておいてくれ。\
-PEDRO: - González、あの茂みにロケットをお見舞いしろ。",
-	["DictKey_55"] = "PEDRO: - もういいだろう。やつらは今夜、負傷者の手当てで大忙しだな。Miguel、基地に帰ろう。",
+	["DictKey_47"] = "WHISKEY: - ありがとう、Springfield！ これを待ってたんだ！ 武器を再装填するので、あの林縁を攻撃してくれ。やつらはそこからロケットを撃ってくる。こっちの準備ができるまで、やつらに頭を上げさせるな。\
+PEDRO: - González、あの茂みにロケットをお見舞いしろ。\
+\
+",
+	["DictKey_55"] = "PEDRO: - よし、今夜は連中もたらふくご馳走になっただろう。Miguel、基地へ帰ろう。",
 	["DictKey_WptName_453"] = "",
-	["DictKey_52"] = "PEDRO: - 急いで飛び込め！",
+	["DictKey_52"] = "PEDRO: - 急いで乗れ！",
 	["DictKey_WptName_416"] = "",
 	["DictKey_WptName_387"] = "",
 	["DictKey_UnitName_526"] = "Стат. объект #001",
@@ -32,7 +36,8 @@ PEDRO: - González、あの茂みにロケットをお見舞いしろ。",
 	["DictKey_32"] = "ヘリコプターは破壊された",
 	["DictKey_UnitName_207"] = "HP_Madrid Palat KP",
 	["DictKey_45"] = "WHISKEY: - オーライ、オーライ！ そこで落としてくれ！\
-PEDRO: - González、この位置でとどまれ！ 後ろで荷物を落としている。",
+PEDRO: - González、機体を安定させろ！ 後ろのやつ、荷物を落としてくれ！\
+",
 	["DictKey_UnitName_123"] = "HP_Madrid KP",
 	["DictKey_WptName_408"] = "",
 	["DictKey_WptName_508"] = "",
@@ -52,7 +57,7 @@ PEDRO: - González、この位置でとどまれ！ 後ろで荷物を落とし�
 	["DictKey_UnitName_315"] = "BP_Dalyn2 #5",
 	["DictKey_WptName_396"] = "",
 	["DictKey_UnitName_125"] = "HP_Madrid GSM",
-	["DictKey_39"] = "PEDRO: - ここで左旋回。左側の川を最後までさかのぼれ。",
+	["DictKey_39"] = "PEDRO: - ここで左に入り、そのまま突き当たりまで進め。",
 	["DictKey_41"] = "WHISKEY: - Springfield、急いでくれ！ 弾薬がほとんどない！",
 	["DictKey_WptName_382"] = "",
 	["DictKey_29"] = "PEDRO: - 離陸しろ。方位335、Honiへ向かえ。",
@@ -103,7 +108,9 @@ PEDRO: - González、この位置でとどまれ！ 後ろで荷物を落とし�
 	["DictKey_UnitName_127"] = "HP_Madrid BP",
 	["DictKey_WptName_418"] = "",
 	["DictKey_49"] = "WHISKEY: - Springfield、移動を開始する。北東へ向かう。川沿いに適した着陸地点があるので、そこで回収してくれ。援護を頼む。敵が森から顔を出したら、ありったけの火力を浴びせてくれ！\
-PEDRO: - 了解した！ González、回収地域をミニガンで援護できる位置を探せ。",
+PEDRO: - 了解した！ González、目標地域をミニガンで援護できる位置を探せ。\
+\
+",
 	["DictKey_WptName_439"] = "",
 	["DictKey_UnitName_309"] = "BP_Dalyn2 #3",
 	["DictKey_UnitName_227"] = "HP_Madrid Vyshka #5",
@@ -125,7 +132,8 @@ PEDRO: - 了解した！ González、回収地域をミニガンで援護でき�
 	["DictKey_40"] = "WHISKEY: - Springfield、もう一度スモークを焚く……。\
 …\
 WHISKEY: - ホワイトスモーク！\
-PEDRO: - ホワイトスモークを確認！ González、スモークマーカーに向かえ。",
+PEDRO: - ホワイトスモークを確認！ González、スモークマーカーに向かえ。\
+",
 	["DictKey_WptName_419"] = "",
 	["DictKey_UnitName_237"] = "HP_Madrid Vyshka #9",
 	["DictKey_WptName_389"] = "",
@@ -133,10 +141,10 @@ PEDRO: - ホワイトスモークを確認！ González、スモークマーカ�
 	["DictKey_WptName_392"] = "",
 	["DictKey_WptName_447"] = "",
 	["DictKey_UnitName_173"] = "HP_Madrid Palat #8",
-	["DictKey_36"] = "PEDRO: - González、俺、昨日そんなに飲まなかったよな？ なんで照明弾が3つも見えるんだ？\
+	["DictKey_36"] = "PEDRO: - González、俺は昨日そんなに飲まなかったよな？ なんでフレアが3つも見えるんだ？\
 MIGUEL: - 見間違いではありません。確かに3つあります！\
-PEDRO: - Whiskey、なんで照明弾が3つもあるんだ？\
-WHISKEY: - ちくしょう！ やつらに盗聴されている。待機してくれ！\
+PEDRO: - Whiskey、なんでフレアが3つもあるんだ？\
+WHISKEY: - ちくしょう！ やつらに盗聴されてる。待機してくれ！\
 ",
 	["DictKey_UnitName_141"] = "HP_Madrid GSM 4",
 	["DictKey_sortie_373"] = "ウイスキー",
@@ -152,7 +160,7 @@ WHISKEY: - ちくしょう！ やつらに盗聴されている。待機して�
 	["DictKey_UnitName_267"] = "HP_Madrid Of mod #31",
 	["DictKey_UnitName_217"] = "HP_Madrid BlokP #002",
 	["DictKey_UnitName_257"] = "HP_Madrid Of mod #25",
-	["DictKey_50"] = "WHISKEY: - 脱出ポイントに近づいている！ 小川を視認した。スモークマーカーを焚く。",
+	["DictKey_50"] = "WHISKEY: - 回収地点に近づいている！ 小川を視認した。スモークマーカーを焚く。",
 	["DictKey_WptName_441"] = "",
 	["DictKey_WptName_420"] = "",
 	["DictKey_UnitName_259"] = "HP_Madrid Of mod #26",
@@ -160,9 +168,9 @@ WHISKEY: - ちくしょう！ やつらに盗聴されている。待機して�
 	["DictKey_WptName_391"] = "",
 	["DictKey_UnitName_139"] = "HP_Madrid GSM 3",
 	["DictKey_42"] = "PEDRO: - もっと近くに寄れ！ スモークの真上に落とせ。じゃないと下の誰かを押しつぶしかねないぞ。",
-	["DictKey_51"] = "WHISKEY: - Springfield、準備できた！ グリーンスモークに着陸してくれ！ やつらが迫っている！",
+	["DictKey_51"] = "WHISKEY: - Springfield、準備できた！ 進入してくれ！ 地上にグリーンスモークを焚いている。やつらが迫っている！",
 	["DictKey_descriptionText_370"] = "私たちは真夜中を過ぎて帰還した。\
-「González、ついてるな！ 初めての日に2回も戦闘任務をこなす奴なんていないぞ。2倍おごってもらわんといかんな。」\
+「González、ついてるな！ 初陣の日に2回も戦闘任務を飛べるなんて、誰にでもあることじゃないぞ。2倍おごってもらわんといかんな。」\
 Pedroには疲れの色が見えたが、そんなことであきらめてくれる人ではなかった。\
 「それに、明日は午後まで休みだ。10分後に士官クラブで落ち合うぞ。いいな？」\
 「もちろん。おごらせてもらいますよ。」\
@@ -170,19 +178,20 @@ Pedroには疲れの色が見えたが、そんなことであきらめてくれ
 翌日、私はほとんど正午まで寝ていた。Pedroが私たちを午後の待機要員に割り当てていたので、昼食までは自由だった。前夜の酒で少し頭痛がしたものの、それ以外は問題なかった。しかし、基地には張り詰めた空気が流れていた。反乱軍との衝突や、彼らの攻撃による被害、特に自衛手段を持たない市民への被害の報告が数多く上がっていた。我々のヘリコプターは各地で起こる問題に対処するため、常に出動している状態だった。幸い、敵は平和維持軍のヘリコプターを見ると恐れをなし、そそくさと逃げ去っていった。\
 夕暮れが迫ったころ、私たちの出動になった。呼び出されて司令部テントへ行くと、Alonso少佐はすでにPedroへの任務説明を始めていた。\
 「少尉、ちょうどいいところに来た。一昨日、ここにWhiskey哨戒隊を降ろし、この地域を捜索させた……」少佐は鉛筆で地図上の狭い一角を囲んだ。「何も発見できず、回収地点へ向かっていたところ、反乱兵の一団と鉢合わせした。攻撃を受け、今は銃撃戦で身動きが取れない。弾薬も尽きかけている。できるだけ早く救出しなければならない。\
-砲火の中で救出するのは危険すぎるので、まず彼らのところに弾薬を落とし、脱出ポイントまで移動できるよう援護射撃をしてくれ。わかったか？」\
+砲火の中で救出するのは危険すぎるので、まず彼らのところに弾薬を落とし、回収地点まで移動できるよう援護射撃をしてくれ。わかったか？」\
 「わかったよ、Marcos。González、俺について来い。」Benitoは私の代わりに答えた。\
 私たちはヘリコプターへ急いだ。ドアガンナーたちはすでに大きな弾薬箱を機内へ積み込んでいた。\
 「箱の中身はなんだ？」Pedroは聞いた。\
 「ロケット推進擲弾です。Whiskeyからの要請です。」\
 「わかった。Luis、ヘリの準備はできてるか？」\
 「できています、大尉。」\
-「González、飛行前点検を急げ。すぐに行くぞ！」",
+「González、プリフライトを急げ。すぐに行くぞ！」\
+",
 	["DictKey_WptName_506"] = "",
 	["DictKey_35"] = "PEDRO: - Whiskey、こちらSpringfield-2。応答せよ！\
 WHISKEY: - Springfield、こちらWhiskey。どうぞ。\
-PEDRO: - 銃撃戦を視認した。現在位置は？ 位置を示せ、以上！\
-WHISKEY: - 了解！ 現在位置から赤色の照明弾を発射する！\
+PEDRO: - 銃撃戦を視認した。現在位置は？ 位置を示せ、どうぞ！\
+WHISKEY: - 了解！ 現在位置からレッドフレアを発射する！\
 ",
 	["DictKey_UnitName_221"] = "HP_Madrid Vyshka #2",
 	["DictKey_46"] = "PEDRO: - Whiskey、荷物を落としたぞ！ González、ここから少し距離を取れ。ただし、あんまり離れるなよ。",
@@ -243,10 +252,10 @@ WHISKEY: - 了解！ 現在位置から赤色の照明弾を発射する！\
 	["DictKey_UnitName_303"] = "Berlin",
 	["DictKey_UnitName_321"] = "BP_Dalyn52",
 	["DictKey_UnitName_209"] = "HP_Madrid Palat KP #001",
-	["DictKey_48"] = "WHISKEY: - おお、よくやった！ やつらが燃えているぞ！",
+	["DictKey_48"] = "WHISKEY: - おお、いいぞ！ これで連中も温まっただろう！",
 	["DictKey_descriptionBlueTask_372"] = "離陸：FARP MADRID\
 飛行計画に沿ってWhiskeyの戦場まで飛び、Whiskeyと交信せよ。\
-補給弾薬を落とし、援護射撃をして彼らが脱出ポイントへ退却するのを助けよ。\
+補給弾薬を投下し、彼らが回収地点へ退却するまで援護射撃を行え。\
 兵士を収容して基地に帰還せよ。\
 着陸：FARP MADRID\
 Kutaisi NDB 477 ID TIG.",
