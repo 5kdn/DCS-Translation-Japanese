@@ -25,8 +25,9 @@ dictionary =
 	["DictKey_WptName_456"] = "",
 	["DictKey_UnitName_157"] = "HP_Madrid GSM",
 	["DictKey_30"] = "MIGUEL: - Kampari、こちらSpringfield-2。\
-KAMPARI: - こちらKampari。司令部は攻撃を受け続けている！ 今すぐ避難する必要がある。\
-MIGUEL: - Kampari、こちらSpringfield-2。了解。持ちこたえてください。5分で到着します。",
+KAMPARI: - こちらKampari。司令部は攻撃を受け続けている！ 今すぐ避難する必要がある。どうぞ。\
+MIGUEL: - Kampari、こちらSpringfield-2。了解。持ちこたえてくれ。あと5分で到着する。\
+",
 	["DictKey_WptName_536"] = "",
 	["DictKey_WptName_527"] = "",
 	["DictKey_UnitName_333"] = "HP_Madrid Palat #2",
@@ -70,7 +71,8 @@ KAMPARI: - チェックポイント2が直ちに援護を必要としている�
 	["DictKey_WptName_529"] = "",
 	["DictKey_UnitName_259"] = "HP_Madrid Vyshka #5",
 	["DictKey_WptName_487"] = "",
-	["DictKey_42"] = "MIGUEL: - Kampari、搭乗してくれ！",
+	["DictKey_42"] = "MIGUEL: - Kampari、搭乗準備完了だ！\
+",
 	["DictKey_WptName_560"] = "",
 	["DictKey_WptName_531"] = "",
 	["DictKey_WptName_506"] = "",
@@ -83,11 +85,13 @@ MIGUEL: - 了解！\
 Kutaisiの司令部まで最短ルートをとれ。コールサインはKAMPARIだ。\
 司令部との交信には240.00MHzを使用せよ。\
 残っている人員を収容し、退避させよ。\
-敵勢力との交戦に備えよ。\
+必要に応じて敵勢力と交戦できるよう備えよ。\
 着陸：FARP MADRID\
+\
 ",
-	["DictKey_43"] = "PABLO: - Miguel、全部で8人乗っています！\
-MIGUEL: - 了解。離陸する！",
+	["DictKey_43"] = "PABLO: - Miguel、乗ってるのは全部で8人だ！\
+MIGUEL: - 了解。離陸する！\
+",
 	["DictKey_WptName_532"] = "",
 	["DictKey_WptName_478"] = "",
 	["DictKey_UnitName_343"] = "BP_Dalyn2 #4",
@@ -98,7 +102,8 @@ MIGUEL: - 了解。離陸する！",
 	["DictKey_UnitName_215"] = "HP_Madrid Palat #1",
 	["DictKey_UnitName_225"] = "HP_Madrid Palat #16",
 	["DictKey_33"] = "MIGUEL: - Checkpoint-2、こちらSpringfield-2。応答せよ。\
-CKP 2: - Springfield、こちらCheckpoint-2。ここで足止めされ、身動きが取れない。西側の敵集団を攻撃してくれ。やつらはRPGを持っている。こちらから射撃するので、それで敵の位置を確認してくれ。",
+CKP 2: - Springfield、こちらCheckpoint-2。ここで足止めされ、身動きが取れない。西側の敵集団を攻撃してくれ。やつらはRPGを持っている。こちらの曳光弾を目印に、敵の位置を確認してくれ。\
+",
 	["DictKey_UnitName_269"] = "HP_Madrid Vyshka #9",
 	["DictKey_UnitName_203"] = "HP_Madrid Palat #7",
 	["DictKey_UnitName_305"] = "HP_Madrid Of mod #37",
@@ -124,10 +129,12 @@ CKP 2: - Springfield、こちらCheckpoint-2。ここで足止めされ、身動
 	["DictKey_WptName_475"] = "",
 	["DictKey_WptName_499"] = "",
 	["DictKey_UnitName_295"] = "HP_Madrid Of mod #29",
-	["DictKey_47"] = "MIGUEL: - Madrid、こちらSpringfield-2。司令部要員を収容した。全員搭乗済み！\
+	["DictKey_47"] = "MIGUEL: - Madrid、こちらSpringfield-2。司令部要員を収容した。全員搭乗済み！ どうぞ！\
 MADRID: - Springfield-2、こちらMadrid。了解。Fordが助けを求めている。Saperaviの滑走路に着陸して救助を行ったが、屋根の上から射撃を受けて飛び立てない状態だ。今離陸すれば撃墜されかねない。\
-援護に行って屋根の上の敵を排除してくれ。147の方へも援護を要請する。\
-MIGUEL: - Springfield-2、了解した！",
+援護に行って屋根の上の敵を排除してくれ。147にも援護を頼んでみる。\
+MIGUEL: - Springfield-2、了解した！\
+\
+",
 	["DictKey_WptName_549"] = "",
 	["DictKey_28"] = "MISSION FAILED!",
 	["DictKey_WptName_466"] = "",
@@ -165,7 +172,7 @@ MIGUEL: - Springfield-2、了解した！",
 	["DictKey_UnitName_81"] = "Skl1",
 	["DictKey_WptName_559"] = "",
 	["DictKey_UnitName_357"] = "BlokP 2 tent",
-	["DictKey_49"] = "任務完了を報告する\
+	["DictKey_49"] = "任務完了を報告してください。\
 (ラジオメニューでF10)\
 ",
 	["DictKey_WptName_481"] = "",
@@ -174,12 +181,15 @@ MIGUEL: - Springfield-2、了解した！",
 	["DictKey_37"] = "MIGUEL: - Kampari、こちらSpringfield-2。チェックポイント2の要員は、もうすぐ司令部へ到着する。そちらの状況は？\
 KAMPARI: - Springfield、こちらKampari。司令部北側、線路の向こうに機銃搭載車両と兵士の集団がいる。ここに着陸する前に排除してくれ。\
 MIGUEL: - 了解、実行する！\
-KAMPARI: - 煙突の近くだ。",
+KAMPARI: - 煙突の近くだ。\
+",
 	["DictKey_WptName_537"] = "",
 	["DictKey_UnitName_265"] = "HP_Madrid Vyshka #8",
-	["DictKey_40"] = "MIGUEL: - Kampari、こちらSpringfield-2。敵グループを排除した。\
+	["DictKey_40"] = "MIGUEL: - Kampari、こちらSpringfield-2。敵グループを排除した。どうぞ。\
 KAMPARI: - Springfield-2、了解！ こちらは回収準備完了。ここの庭に着陸してくれ。着陸エリアにオレンジスモークを焚く！\
-MIGUEL: - 了解、今から向かう！",
+MIGUEL: - 了解、進入する！\
+\
+",
 	["DictKey_UnitName_237"] = "HP_Madrid GKP #001",
 	["DictKey_WptName_471"] = "",
 	["DictKey_WptName_550"] = "",
@@ -239,8 +249,10 @@ MIGUEL: - 了解、今から向かう！",
 	["DictKey_41"] = "任務完了を報告する",
 	["DictKey_WptName_551"] = "",
 	["DictKey_WptName_547"] = "",
-	["DictKey_51"] = "MIGUEL: - Madrid、こちらSpringfield-2。敵勢力を排除した。\
-MADRID: - Springfield-2、了解。基地へ帰還せよ。",
+	["DictKey_51"] = "MIGUEL: - Madrid、こちらSpringfield-2。敵勢力を排除した。どうぞ。\
+MADRID: - Springfield-2、了解。基地へ帰還せよ。\
+\
+",
 	["DictKey_44"] = "Madridと交信する",
 	["DictKey_UnitName_275"] = "HP_Madrid ",
 	["DictKey_WptName_443"] = "",
@@ -259,11 +271,14 @@ MADRID: - Springfield-2、了解。基地へ帰還せよ。",
 	["DictKey_UnitName_341"] = "BP_Dalyn2 #3",
 	["DictKey_WptName_437"] = "",
 	["DictKey_34"] = "MIGUEL: - Checkpoint-2、こちらSpringfield-2。西側の集団は制圧した！\
-CKP 2: - Springfield、敵が右側から回り込んできた。こちらの北側だ。曳光弾を目印にしてくれ！",
+CKP 2: - Springfield、敵が右側から回り込んできた。こちらの北側だ。曳光弾を目印にしてくれ！\
+\
+",
 	["DictKey_UnitName_209"] = "HP_Madrid Palat #10",
 	["DictKey_48"] = "147: - Springfield-2、こちら147。援護が必要か？\
 MIGUEL: - 大丈夫だ、Kovalskiy。\
 147: - どのみち、もう現場にいる！ Miguel、そこを空けてくれ！\
+\
 ",
 	["DictKey_WptName_425"] = "",
 	["DictKey_UnitName_597"] = "Стат. объект #001",
@@ -279,7 +294,7 @@ MIGUEL: - 大丈夫だ、Kovalskiy。\
 今回は全機出動する。町の西側にある、閉鎖された2つの滑走路を目印とせよ。\
 一つは北、ID：SAPERAVI……」司令官はそう言いながら、Benito大尉に非難めいた視線を向けた。\
 大尉は意に介さず、地図上に鉛筆を走らせていた。「そしてもう一つは、少し南、ID：RKATSITELI。我が軍の兵士と民間人は北のSaperaviへ移動している。かなりの人数なので、Ford編隊に救出を任せる。」\
-Ford飛行隊のリーダー、Rabinovich大尉は素早くうなずいた。\
+Ford編隊のリーダー、Rabinovich大尉は素早くうなずいた。\
 「北のチェックポイントの兵士は同じ方向へ撤退している。147編隊がすでに援護に向かっている。」司令官は続けた。「Colt編隊は東のチェックポイント、Uzi編隊は南のチェックポイントを担当せよ。市内の司令部には、各部隊を統制している司令部要員がまだ残っているが、そこに留まるのは危険になりすぎた。彼らも救出する時だ。González、これは貴官の任務だ。2機編隊を率いて救出せよ。Benito大尉がKutaisi司令部との交信周波数を持っている。状況に応じて着陸地点を決定せよ。一部の機体は、今すぐ取り外す時間がないためロケットランチャーを搭載したままだ。重量超過になるかもしれないが、貴官なら対処できる範囲だ。了解したか？」\
 「イエッサー！」\
 「よし、総員、出動せよ！」\
@@ -301,7 +316,7 @@ Ford飛行隊のリーダー、Rabinovich大尉は素早くうなずいた。\
 	["DictKey_UnitName_307"] = "HP_Madrid Of mod #38",
 	["DictKey_UnitName_241"] = "HP_Madrid Palat KP #001",
 	["DictKey_UnitName_229"] = "HP_Madrid Palat #19",
-	["DictKey_38"] = "任務完了を報告する\
+	["DictKey_38"] = "任務完了を報告してください。\
 (ラジオメニューでF10)\
 ",
 	["DictKey_WptName_557"] = "",
